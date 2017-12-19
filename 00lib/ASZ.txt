@@ -1,0 +1,36 @@
+Forms of AŠ and DIŠ and their values
+
+1. DIŠ
+MZL748
+
+VAT 9541 col. iii:
+u₂-ki-it value otherwise assigned to upsloping AŠ
+
+1a. DIŠ@k
+doubtful. Used to describe a DIŠ leaning to the right in VAT 9541 (MA Ea)
+
+
+2. GE₂₂
+MLZ647 and see MSL 14 p.XVI
+This form is not in unicode yet
+AŠ with an upward slope
+Ea 2 208-212 and 216-217
+ša₂-an-tak (also in P-Ea 102a)
+u₂-za-lag
+u₂-bu-ru
+u₂-ta-ag
+u₂₋kit
+u₂-bu-ru
+u₂-lil
+Same set of values in Aa commentary BM 68583
+
+
+3. AŠ@z = DIŠ@t = AŠ@t
+MLZ575 = GE₂₃
+Described as DIŠ@t in MLZ; as AŠ@t in MSL 14; AŠ@z in OGSL.
+AŠ sloping down to the right
+
+4. AŠ@k
+AŠ with head to the right, sloping upwards to the left.
+unicode x1203A; not in MZL
+Only in VAT 9541 (MA Ea), where it assumes the values usually assigned to MZL647

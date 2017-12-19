@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="ogsl">
+  <name>Oracc Global Sign List</name>
+  <abbrev>OGSL</abbrev>
+  <logo type="text">OGSL</logo>
+  <type>signlist</type>
+  <public>yes</public>
+  <blurb>Provides a global registry of sign names, variants and readings for use by Oracc.<br/>
+Managed by Niek Veldhuis at UC Berkeley.</blurb>
+  <image>LAK25-ogsl.png</image>
+  <image-alt>LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen.</image-alt>
+</project>

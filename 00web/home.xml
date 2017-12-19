@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0"><esp:name>Home</esp:name><esp:title>Oracc Global Sign List</esp:title><html><head/><body><esp:image file="LAK25-ogsl.png" description="LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen."/><p>Provides a global registry of sign names, variants and readings for use by Oracc.</p>
+<p>Managed by Niek Veldhuis at UC Berkeley.</p><p>You can view the project's content <esp:link url="/ogsl/signlist">here</esp:link>.</p></body></html></esp:page>

@@ -1,0 +1,6 @@
+&X000301 = test file for new sign values
+#project: dcclt
+#atf: use unicode
+@obverse
+@column 1
+1. a₂⁻
