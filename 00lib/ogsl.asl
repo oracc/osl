@@ -8404,6 +8404,7 @@
 @v	kun₃
 @v	nag₄
 @inote CDLI
+@v      naŋ₄
 @v	naga₄
 @v	naŋa₄
 @v	nuŋa [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 23]
@@ -8435,6 +8436,8 @@
 @v	kazba [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 27]
 @inote	salgues
 @v	kumₓ
+@v	nag₃
+@v	naŋ₃
 @v	naga₃
 @v	naŋa₃
 @end sign
@@ -14133,6 +14136,9 @@
 @pname	|ZUM×TUG₂|
 @uphase	0
 @v	garig₂
+@form ~a |ZUM.SI|
+@v      garig₃
+@note form attested in Ur III.
 @end sign
 
 @sign	LAK539
