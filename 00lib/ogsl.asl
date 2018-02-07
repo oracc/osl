@@ -2417,9 +2417,9 @@
 @sign	BALAG
 @list HZL225
 @list LAK041
+@list MZL565
 @list OBZL195
 @list KWU320
-@list KWU720
 @uphase	1
 @uname	CUNEIFORM SIGN BALAG
 @ucode	x12046
@@ -3957,6 +3957,7 @@
 @end sign
 
 @sign	DUB₂
+@list KWU 720
 @list LAK632
 @list MZL565
 @list OBZL082
