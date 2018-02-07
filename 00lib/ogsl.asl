@@ -25574,7 +25574,7 @@
 @v	sulumhi₃
 @v	šubₓ
 @v	/šumun/
-@v	zukum
+@v	zukum₂
 @v	zuluhu₃
 @v	zulumhi₃
 @form ~a	|ZI&ZI|
@@ -25624,8 +25624,8 @@
 @v-	šub₅
 @note	value šub₅ has been re-assigned to |ZI&ZI.EŠ₂|; merges with |ZI&ZI.LAGAB| in OB
 @v	/šumun/
-@v-	zukum
-@note value zukum has been re-assigned to |ZI&ZI.A|; merges with |ZI&ZI.LAGAB| in OB
+@v	zukum
+@note value zukum has been assigned to |ZI&ZI.A| as zukum₂; merges with |ZI&ZI.LAGAB| in OB
 @v-	zuluhu₃
 @note value zuluhu₃ has been re-assigned to |ZI&ZI.A|; merges with |ZI&ZI.LAGAB| in OB
 @v-	zulumhi₃
