@@ -19582,6 +19582,7 @@
 @list KWU793
 @ucode	x122A9.x121B3
 @v	amat
+@v	amti
 @v	amtu
 @v	ge₁₂
 @v	gem₃
@@ -25280,6 +25281,7 @@
 @v	šer₄
 @v	šeru
 @v	šir₄
+@v	širi₄
 @v	širam
 @v	širim
 @v	širu
