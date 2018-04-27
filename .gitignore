@@ -3,6 +3,8 @@
 *.tar.bz
 00any
 01*
+02*
+signlist
 *.zip
 *.log
 .Xauthority
