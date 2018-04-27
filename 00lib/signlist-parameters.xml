@@ -6,7 +6,7 @@
 >
   <param:title>Oracc Global Sign List</param:title><!-- used at head of page and in citations -->
   <param:publisher>The OGSL Project</param:publisher><!-- used in citations -->
-  <param:host>http://oracc.museum.upenn.edu</param:host>
+  <param:host>http://build-oracc.museum.upenn.edu</param:host>
   <param:root>/ogsl/signlist</param:root>
   <param:common-headers>
     <meta name="DC.publisher" content="OGSL Project, Oracc"/>
