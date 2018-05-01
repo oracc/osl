@@ -23118,6 +23118,10 @@
 @v	šakkan
 @inote CDLI
 @v	šaman₂
+@form ~a	|U.GAN@s|
+@inote Nisaba 15 903 and 944.
+@v      šaman₂
+@end form
 @end sign
 
 @sign	|U.GUD|
