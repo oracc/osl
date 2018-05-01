@@ -8416,6 +8416,10 @@
 @v?	šaqu₃
 @end sign
 
+@nosign	|GUM×(GI.IDIM)|
+@note See TMH 6 p.34; to be read |UR₂×(GI.IDIM)|
+@end sign
+
 @sign	|GUM×ŠE|
 @list HZL122
 @list LAK634
@@ -24383,6 +24387,11 @@
 @note	P221788 = BiMes 3, 15 rev. 2 line 5
 @end sign
 
+@sign UR₂@g
+@list KWU737
+@note Ur III; may be a variant of |UR₂×(A.HA)| etc.
+@end sign
+
 @sign	|UR₂×A|
 @uphase	0
 @v	arinaₓ
@@ -24413,6 +24422,11 @@
 @ucode	x1232E
 @v	šuhuš₂ [VAT 9541 = dcclt/signlists:P345960 o ii 15']
 @inote	salgues
+@end sign
+
+@sign	|UR₂×(GI.IDIM)|
+@v	gidimₓ
+@note Ur III incantations HS 1474+ (P273889) and HS 1573 (P273898).
 @end sign
 
 @sign	|UR₂×HA|
