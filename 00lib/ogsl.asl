@@ -6959,6 +6959,9 @@
 @v	sig₁₆
 @end sign
 
+@sign	GAN@s
+@end sign
+
 @sign	GAN₂
 @list HZL061
 @list LAK089
