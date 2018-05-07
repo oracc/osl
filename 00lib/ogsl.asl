@@ -21895,6 +21895,7 @@
 @sign	|ŠU.PAP.PAP|
 @ucode	x122D7.x1227D.x1227D
 @v	gešbu₂
+@v	gešba₂
 @v	ŋešba₂
 @inote	Attinger
 @v	ŋešbu₂
