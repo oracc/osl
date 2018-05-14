@@ -6184,6 +6184,8 @@
 @uphase	9
 @ucode	x124C0
 @uname	CUNEIFORM SIGN GA2 TIMES HA PLUS A
+@v	edakuaₓ
+@inote epsd2
 @end sign
 
 @sign	|GA₂×(HA.LU.EŠ₂)|
@@ -7693,7 +7695,7 @@
 @v	gisal
 @v?	gišal
 @v	gizal
-@v-	ŋizzal
+# @v-	ŋizzal
 @v	ŋisal
 @v	ŋizal
 @v	mizal
@@ -11691,12 +11693,6 @@
 @v	ulutin
 @end sign
 
-@sign	|KI.KAL.BAD|
-@ucode	x121A0.x12197.x12041
-@v	garaš₂
-@v	karašₓ
-@end sign
-
 @sign	|KI.KAL.BAD.IDIM|
 @ucode	x121A0.x12197.x12041.x12142
 @v	garašₓ
@@ -11707,6 +11703,8 @@
 @ucode	x121A0.x12198
 @v	garaš₂
 @v	karaš
+@form ~a	|KI.KAL.BAD|
+@ucode	x121A0.x12197.x12041
 @end sign
 
 @sign	|KI.KI|
@@ -12941,9 +12939,6 @@
 @v	aslumₓ
 @v	ašteₓ
 @v	ayaₓ
-@v	bugin₂
-@v	buniŋ₂
-@v	bunin₂
 @v	delen₃
 @v	delena₃
 @v	dilim₅
@@ -18234,9 +18229,10 @@
 
 @sign	|PA.DU@s|
 @ucode	x1227A.x1207D
-@v	barim
+@v	barimₓ
 @v	maškim
-@v	parim
+@v	parimₓ
+@inote sjt: barimₓ and parimₓ were here as barim/parim dups of DU@s
 @end sign
 
 @sign	|PA.DUN₃|
@@ -18279,7 +18275,7 @@
 @ucode	x1227A.x12110.x1227B
 @v	addir₃
 @inote	Attinger
-@inote	addir(|A.PA.GISAl.PAD.SI.A|) corresponds to {+a}addir₃{+dir} in Attinger's system
+@inote	addir(|A.PA.GISAL.PAD.SI.A|) corresponds to {+a}addir₃{+dir} in Attinger's system
 @end sign
 
 @sign	|PA.GU₂@g|
@@ -26111,6 +26107,8 @@
 @v	burʾu@c
 @v	1(burʾu)
 @v	1(burʾu@c)
+@form ~a |U×KASKAL|
+@v    bur'uₓ
 @end sign
 
 @sign	2(BURU)
@@ -26834,4 +26832,70 @@
 
 @sign HI@g
 @inote sjt: temporary entry to get ETCSRI to compile; probably has another name
+@end sign
+
+@sign |AŠ₂.A|
+@inote epsd2
+@v     imgagaₓ
+@v     imŋaŋaₓ
+@end sign
+
+@sign |EN.DAG.NUN.X|
+@inote epsd2
+@v     enkumₓ
+@end sign
+
+@sign |ERIN₂.KAB|
+@inote epsd2
+@v     emerahₓ
+@end sign
+
+@sign |GAD+TAK₄.DUH|
+@inote epsd2
+@end sign
+
+@sign |GAR.GAR|
+@inote epsd2
+@v     arkabₓ
+@end sign
+
+@sign |GIŠ.TUG₂.ZAL|
+@inote epsd2
+@v     ŋizzalₓ
+@end sign
+
+@sign |SAL.KAB|
+@inote epsd2
+@v     emerahₓ
+@end sign
+
+@sign |SIG₄.ANŠE|
+@inote epsd2
+@v    amaraₓ
+@end sign
+
+@sign |ŠIR.LU.KUŠ&ŠIR.LU.KUŠ|
+@inote epsd2
+@v     lubširₓ
+@end sign
+
+@sign |TAB.GAR.ŠE|
+@inote epsd2
+@v     garadinₓ
+@end sign
+
+@sign |TUG₂.PI.TE.A.RA|
+@inote epsd2
+@v     azlagₓ
+@end sign
+
+@sign |U₂.A.LAGAB×HAL|
+@inote epsd2
+@v     azadₓ
+@end sign
+
+@sign |UZ₃×BALAG|
+@inote epsd2
+@v     surₓ
+@form ~a |UZ₃.BALAG|
 @end sign
