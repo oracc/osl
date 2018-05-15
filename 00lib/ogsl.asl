@@ -5238,10 +5238,17 @@
 @note	RA 87 (1993), 109-110 (Tell Haddad).
 @end form
 @form	~i |EŠ₂.SUD.NUN.TU.EŠ₂|
-@form ~x	|NUN.ŠE.LAL|
-@inote		Does this form exist?
-@ucode	x12263.x122BA.x121F2
 @v	samanₓ
+@end form
+@form ~j |EŠ₂.BU.EŠ₂.NUN.EŠ₂.TU|
+@end form
+@form ~k |EŠ₂.SUD.UD.NUN.EŠ₂.TU|
+@end form
+@form ~l |ŠU.SUD.NUN.TU.EŠ₂|
+@end form
+@form ~x	|NUN.ŠE.LAL|
+@ucode	x12263.x122BA.x121F2
+@inote		Does this form exist?
 @end form
 @end sign
 
@@ -19691,6 +19698,8 @@
 @ucode	x122A9.x12306.x1227D.x1214A.x12263.x12228.x120AC
 @v	nenkum
 @v	ninkum
+@form ~a	|SAL.TUG₂.ME.DAG.X|
+@end form
 @end sign
 
 @sign	|SAL.TUK|
@@ -19706,6 +19715,7 @@
 @sign	|SAL.UD.EDIN|
 @ucode	x122A9.x12313.x12094
 @v	muru₅
+@v	murub₅
 @v	murum₅
 @end sign
 
@@ -19760,7 +19770,6 @@
 @v	ŋitlam
 @v	mada
 @v	mudnaₓ
-@v	murub₅
 @v	nidalam
 @v	nidlam
 @v	nitadam
@@ -23527,6 +23536,8 @@
 @v	muzug₂
 @v	usug₂
 @v	uzug₂
+@form ~a |KA.U₂|
+@ucode	x12157.x12311
 @end sign
 
 @sign	|U₂.KI.SUM.GA|
