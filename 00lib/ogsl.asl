@@ -26884,6 +26884,11 @@
 @v     garadinₓ
 @end sign
 
+@sign	|TAK₄.IM|
+@inote epsd2
+@v     kidₓ
+@end sign
+
 @sign |TUG₂.PI.TE.A.RA|
 @inote epsd2
 @v     azlagₓ
@@ -26898,4 +26903,10 @@
 @inote epsd2
 @v     surₓ
 @form ~a |UZ₃.BALAG|
+@end sign
+
+@sign |ZI%ZI|
+@inote epsd2
+@v     sissigₓ  [P478860 ii 4, kug-|ZI%ZI|]
+@inote FLP Inanna Hymn, Sjoberg JCS
 @end sign
