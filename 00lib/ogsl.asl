@@ -26834,10 +26834,20 @@
 @inote sjt: temporary entry to get ETCSRI to compile; probably has another name
 @end sign
 
+@sign |AB₂×GAN₂|
+@inote sjt
+@v     lilisₓ
+@end sign
+
 @sign |AŠ₂.A|
 @inote epsd2
 @v     imgagaₓ
 @v     imŋaŋaₓ
+@end sign
+
+@sign |DIN.BI|
+@inote epsd2
+@v     kurunₓ
 @end sign
 
 @sign |EN.DAG.NUN.X|
@@ -26848,6 +26858,11 @@
 @sign |ERIN₂.KAB|
 @inote epsd2
 @v     emerahₓ
+@end sign
+
+@sign |GA₂×(A.EN)|
+@inote epsd2
+@v     menₓ
 @end sign
 
 @sign |GAD+TAK₄.DUH|
@@ -26864,6 +26879,20 @@
 @v     ŋizzalₓ
 @end sign
 
+@sign LAK093
+@inote epsd2
+@end sign
+
+@sign |NAGAR.DIŠ|
+@inote epsd2
+@v     kušaₓ
+@end sign
+
+@sign |NUNUZ.KISIM₅×AŠGAB|
+@inote epsd2; is this really NUNUZ.AB₂×X?
+@v     lahtanₓ
+@end sign
+
 @sign |SAL.KAB|
 @inote epsd2
 @v     emerahₓ
@@ -26872,6 +26901,11 @@
 @sign |SIG₄.ANŠE|
 @inote epsd2
 @v    amaraₓ
+@end sign
+
+@sign |ŠEŠ.KI.DIM×ŠE|
+@inote epsd2
+@v     munzerₓ
 @end sign
 
 @sign |ŠIR.LU.KUŠ&ŠIR.LU.KUŠ|
@@ -26907,6 +26941,6 @@
 
 @sign |ZI%ZI|
 @inote epsd2
-@v     sissigₓ  [P478860 ii 4, kug-|ZI%ZI|]
+@v     sissigₓ [P478860 ii 4, kug-|ZI%ZI|]
 @inote FLP Inanna Hymn, Sjoberg JCS
 @end sign
