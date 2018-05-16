@@ -7347,7 +7347,7 @@
 
 @sign	|GI.NA.AB.U.GUD|
 @ucode	x12100.x1223E.x1200A.x1230B.x1211E
-@note  It is not clear whether to read šutum(|E₂.GI.NA.AB.U.GUD|) or rather e₂-šutum(|GI.NA.AB.U.GUD|) and šutum₂(|E₂.GI.NA.AB.U.GUD|) or rather e₂-šutum₂(|GI.NA.AB.U.GUD|). The latter option is chosen by Borger in MZL and is considered here the preferred one, because of the writing e₂-šu-tum in Ur III. The forms with E₂ are listed below in order to allow for the alternative option.
+@note  It is not clear whether to read šutum(|E₂.GI.NA.AB.U.GUD|) or rather e₂-šutum(|GI.NA.AB.U.GUD|) and šutum₂(|E₂.GI.NA.AB.TUM|) or rather e₂-šutum₂(|GI.NA.AB.TUM|). The latter option is chosen by Borger in MZL and is considered here the preferred one, because of the writing e₂-šu-tum in Ur III. The forms with E₂ are listed below in order to allow for the alternative option.
 @v     šutum
 @form ~a	|GI.NA.AB.TUM|
 @ucode	x12100.x1223E.x1200A.x12308
@@ -9844,6 +9844,12 @@
 
 @sign	|IM.A.A|
 @ucode	x1214E.x12000.x12000
+@v	šegₓ
+@end sign
+
+@sign	|IM.A|
+@inote epsd2
+@ucode	x1214E.x12000
 @v	šegₓ
 @end sign
 
@@ -13650,7 +13656,7 @@
 @v	šumunda
 @form   ~a |LAGAR@g&LAGAR@g|
 @form	~b |ŠE+SAR.ZU&ZU|
-@form   ~a |LAGAR@g&LAGAR@g.SAR|
+@form   ~c |LAGAR@g&LAGAR@g.SAR|
 @lit	M. Civil JCS 65, 46
 @end form
 @end sign
@@ -20248,7 +20254,10 @@
 @v	sagi [CUSAS 12, 2.1.3 = dcclt:P252036 o ii 19]
 @v	šagia
 @end form
-@form	~c |SILA₃.ŠU.GABA.A|
+@form	~c |SILA₃.GABA.A|
+@v	šagia
+@end form
+@form	~d |SILA₃.ŠU.GABA.A|
 @v	šagia
 @end form
 @end sign
@@ -21744,6 +21753,9 @@
 @v	suhub₄
 @v	šahab₂
 @v	šuhub₄
+@form ~a |ŠU.U.U.U.DI|
+@v	suhubₓ
+@end form
 @end sign
 
 @sign	|ŠU.DIM₂|
@@ -24895,6 +24907,8 @@
 @uphase	0
 @v	šakirₓ
 @v	šakiraₓ
+@form ~a |URU×(MIN.NI)|
+@end form
 @end sign
 
 @sign	|URU×PA|
@@ -26892,13 +26906,33 @@
 @v     arkabₓ
 @end sign
 
+@sign |GIŠ.MUŠ₃.SIK₂.LAM|
+@inote epsd2
+@v     šušuₓ
+@end sign
+
 @sign |GIŠ.TUG₂.ZAL|
 @inote epsd2
 @v     ŋizzalₓ
 @end sign
 
+@sign |KA×GA₂|
+@inote epsd2
+@v     šeg₁₈
+@end sign
+
+@sign |LAGAB×ŠE|
+@inote epsd2
+@v     surₓ
+@end sign
+
 @sign LAK093
 @inote epsd2
+@end sign
+
+@sign |MA₂.SAL.DIŠ|
+@inote epsd2
+@v     šilamₓ
 @end sign
 
 @sign |NAGAR.DIŠ|
@@ -26949,6 +26983,11 @@
 @sign |U₂.A.LAGAB×HAL|
 @inote epsd2
 @v     azadₓ
+@end sign
+
+@sign |URU×(MIN.GA)|
+@inote epsd2
+@v     šakirₓ
 @end sign
 
 @sign |UZ₃×BALAG|
