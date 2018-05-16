@@ -15360,6 +15360,8 @@
 @form	~a |PAP.PAP.LU₃|
 @form 	~b |BARA₂.PAP.ŠE.PAP|
 @ucode	x12048.x1227D.x122BA.x1227D
+@form 	~c |BARA₂.PAP.PAP|
+@ucode	x12048.x1227D.x1227D
 @v	bara₂-munu₅
 @v	titab
 @end	form
