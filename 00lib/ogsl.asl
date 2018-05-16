@@ -13650,6 +13650,7 @@
 @v	šumunda
 @form   ~a |LAGAR@g&LAGAR@g|
 @form	~b |ŠE+SAR.ZU&ZU|
+@form   ~a |LAGAR@g&LAGAR@g.SAR|
 @lit	M. Civil JCS 65, 46
 @end form
 @end sign
@@ -20241,9 +20242,15 @@
 @form	~a |SILA₃.GABA|
 @ucode	x122E1.x120EE
 @v	sagiₓ
+@v	šagia
 @end form
 @form	~b |ŠU.SILA₃.GABA|
 @v	sagi [CUSAS 12, 2.1.3 = dcclt:P252036 o ii 19]
+@v	šagia
+@end form
+@form	~c |SILA₃.ŠU.GABA.A|
+@v	šagia
+@end form
 @end sign
 
 @sign	SU
