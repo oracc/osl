@@ -2871,6 +2871,8 @@
 @v	bu₈
 @v	bul₂
 @v	bulug₂
+@v	buluŋ₂
+@inote	Attinger
 @v	bur₂
 @v	buru₂
 @v	du₉
@@ -4286,6 +4288,8 @@
 @v	su₁₇
 @v	sul
 @v	šah₂
+@v	šaha₂
+@v	Attinger
 @v	šahan₃
 @v	šul
 @v	tun₄
@@ -4590,6 +4594,8 @@
 @sign	|E₂.SIG₄|
 @ucode	x1208D.x122DE
 @v	egar
+@v	eŋar
+@inote	Attinger
 @v	igar
 @v	ingar
 @end sign
@@ -9493,6 +9499,8 @@
 @v	kurum₇
 @v	sa₁₃
 @v	sag₁₀
+@v	saga₁₀
+@inote	Attinger
 @v	saga
 @note	The value saga is a coinage created for the CDLI Ur III corpus.
 @v	seg₅
@@ -12226,6 +12234,8 @@
 @ucode	x121AA.x121AA.x121AA
 @v	ehₓ
 @v	ehehhe
+@v	eheh
+@inote	Attinger
 @end sign
 
 @sign	|KU.NU|
@@ -16761,6 +16771,8 @@
 @v?	lamga
 @v	nagar
 @v	nagara
+@v	naŋar
+@inote	Attinger
 @v?	niminₓ
 @end sign
 
@@ -20082,6 +20094,8 @@
 @v	gar₈
 @v	gara₈
 @v	ŋar₈
+@v	ŋurgu
+@inote	Attinger
 @v	kulla
 @v	kulluₓ
 @v	murgu
@@ -22909,6 +22923,8 @@
 @v	ban₃
 @v	banda₃
 @v	damu
+@v	de₁₀
+@inote	Attinger
 @v	di₄
 @v	du₁₃
 @v	dumₓ
