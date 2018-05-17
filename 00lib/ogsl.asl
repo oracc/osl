@@ -1478,6 +1478,9 @@
 @form	~a |AŠ.AN.AŠ|
 @v	tillaₓ [CUSAS 2.1.1 = dcclt:P251684 o i 13', kan₄ tillaₓ(AŠ.AN.AŠ)]
 @end form
+@form	~b |AŠ.A.AN|
+@v	tillaₓ
+@end form
 @end sign
 
 @sign	|AN.AŠ@z.AN|
@@ -4915,6 +4918,9 @@
 @sign	|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|
 @ucode	x12097.x122A9.x12228.x1226D.x12363.x1202D.x122C0.x121A0
 @v	zirruₓ
+@form ~a |SAL.NUNUZ.ZI.AN.ŠEŠ.KI|
+@v	zirruₓ
+@end form
 @end sign
 
 @sign	|EN.ŠEŠ|
@@ -6853,6 +6859,10 @@
 @ucode	x120F2.x122DA
 @v	ukra
 @v	ukur₂
+@form ~a	|GAL.DUN|
+@v	ukur₂
+@inote epsd2; check
+@end form
 @end sign
 
 @sign	|GAL.TE|
@@ -6883,7 +6893,7 @@
 @inote	Attinger
 @end sign
 
-@sign	|GAL.ZADIM|
+@sign	|GAL.MUG@g|
 @v	zadimgalₓ
 @end sign
 
@@ -17604,6 +17614,7 @@
 @v	bur₄
 @v	buru₄
 @v	gasₓ
+@v	lagašₓ
 @v	ugaₓ
 @end sign
 
@@ -23596,6 +23607,9 @@
 @ucode	x12311.x12240
 @v	ugaₓ
 @end form
+@form	~b |U₂.NAGA.A|
+@v	ugaₓ
+@end form
 @end sign
 
 @sign	|U₂.NAGA.AN.AŠ.ŠIR|
@@ -26879,6 +26893,16 @@
 @v     imŋaŋaₓ
 @end sign
 
+@sign |BIL₄.MES₃.GA|
+@inote epsd2
+@v     gilgamešₓ
+@end sign
+
+@sign |DAG.KISIM₅×U|
+@inote epsd2
+@v     uburₓ
+@end sign
+
 @sign |DIN.BI|
 @inote epsd2
 @v     kurunₓ
@@ -26899,8 +26923,18 @@
 @v     menₓ
 @end sign
 
+@sign |GAD+DIŠ×A|
+@inote epsd2
+@v     šuaₓ
+@end sign
+
 @sign |GAD+TAK₄.DUH|
 @inote epsd2
+@end sign
+
+@sign |GAD.KID₂.SI.A|
+@inote epsd2
+@v akkilₓ
 @end sign
 
 @sign |GAR.GAR|
@@ -26918,9 +26952,29 @@
 @v     ŋizzalₓ
 @end sign
 
+@sign |GIŠ.UR₃|
+@inote epsd2
+@v     ŋušurₓ
+@end sign
+
+@sign	|IGI.MAR|
+@inote epsd2
+@v	ubriₓ
+@end sign
+
 @sign |KA×GA₂|
 @inote epsd2
 @v     šeg₁₈
+@end sign
+
+@sign |KIB.NUN|
+@inote epsd2
+@v     buranunₓ
+@end sign
+
+@sign |KUR.ZA.KUR.ZI|
+@inote epsd2
+@v     ganzerₓ
 @end sign
 
 @sign |LAGAB×ŠE|
@@ -26930,6 +26984,16 @@
 
 @sign LAK093
 @inote epsd2
+@end sign
+
+@sign |LAM.HI×DIŠ|
+@inote epsd2
+@v     arattaₓ
+@end sign
+
+@sign |LAM×KUR.RU.DA|
+@inote epsd2
+@v     arattaₓ
 @end sign
 
 @sign |MA₂.SAL.DIŠ|
@@ -26942,9 +27006,19 @@
 @v     kušaₓ
 @end sign
 
+@sign |NE@s.GI|
+@inote epsd2
+@v     gibilₓ
+@end sign
+
 @sign |NUNUZ.KISIM₅×AŠGAB|
 @inote epsd2; is this really NUNUZ.AB₂×X?
 @v     lahtanₓ
+@end sign
+
+@sign |PAP.NUN.ME.EZEN|
+@inote epsd2
+@v     isimudₓ
 @end sign
 
 @sign |SAL.KAB|
@@ -26955,6 +27029,11 @@
 @sign |SIG₄.ANŠE|
 @inote epsd2
 @v    amaraₓ
+@end sign
+
+@sign	|ŠE.KAL|
+@inote epsd2
+@v	tirₓ
 @end sign
 
 @sign |ŠEŠ.KI.DIM×ŠE|
@@ -26985,6 +27064,15 @@
 @sign |U₂.A.LAGAB×HAL|
 @inote epsd2
 @v     azadₓ
+@end sign
+
+@sign |UR₂×GAN₂@t|
+@inote epsd2
+@v     ušbarₓ
+@end sign
+
+@sign |UR₂×KAL|
+@inote epsd2
 @end sign
 
 @sign |URU×(MIN.GA)|
