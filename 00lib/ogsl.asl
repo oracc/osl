@@ -18474,7 +18474,7 @@
 @v	rigₓ
 @end sign
 
-@sign	|PA.LAGAB×(GUD.GUD)|
+@sign	|PA.LAGAB×(GUD&GUD)|
 @pname	|PA.LAGAB×GUD+GUD|
 @v	muatiₓ
 @inote check
@@ -25544,7 +25544,7 @@
 @v	za₇
 @end sign
 
-@sign	|ZAX|
+@sign	ZAX
 @uphase	0
 @v	zaₓ
 @end sign
@@ -26900,9 +26900,18 @@
 @inote sjt: temporary entry to get ETCSRI to compile; probably has another name
 @end sign
 
+@sign |AB₂.TUG₂|
+@inote epsd2
+@v     sumunₓ
+@end sign
+
 @sign |AB₂×GAN₂|
-@inote sjt
+@inote epsd2
 @v     lilisₓ
+@end sign
+
+@sign |AN.UD.AN.UD|
+@inote epsd2
 @end sign
 
 @sign |AŠ₂.A|
@@ -26934,6 +26943,15 @@
 @sign |ERIN₂.KAB|
 @inote epsd2
 @v     emerahₓ
+@end sign
+
+@sign |ERIN₂.NUN.NA|
+@inote epsd2
+@v     surungalₓ
+@end sign
+
+@sign |ERIN₂.UD|
+@inote epsd2
 @end sign
 
 @sign |GA₂×(A.EN)|
@@ -27039,6 +27057,15 @@
 @v     gibilₓ
 @end sign
 
+@sign |SAL.TUG₂.IN.DUB|
+@inote epsd2
+@end sign
+
+@sign |SAL.TUG₂.KU₃.SIG₁₇|
+@inote epsd2
+@v     šalaš
+@end sign
+
 @sign |NUNUZ.KISIM₅×AŠGAB|
 @inote epsd2; is this really NUNUZ.AB₂×X?
 @v     lahtanₓ
@@ -27097,6 +27124,10 @@
 @sign |U₂.A.LAGAB×HAL|
 @inote epsd2
 @v     azadₓ
+@end sign
+
+@sign	|UD.MA₂.AB×(U.U.U).ŠIR|
+@v	siraraₓ
 @end sign
 
 @sign |UR₂×GAN₂@t|
