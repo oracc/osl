@@ -1461,7 +1461,7 @@
 @v	namₓ
 @end sign
 
-@sign	|AN.3xAN|
+@sign	|AN.3×AN|
 @ucode	x1202D.x1202F
 @v	šuhubₓ
 @end sign
@@ -5035,6 +5035,7 @@
 @v	dalhamun₃
 @v	nimgigri₂
 @v	nimgirgirri₂
+@v	nimŋirŋirri₂
 @end sign
 
 @sign	|EN@EN|
@@ -18473,9 +18474,10 @@
 @v	rigₓ
 @end sign
 
-@sign	|PA.LAGABx(GUD.GUD)|
-@pname	|PA.LAGABxGUD+GUD|
-@v?	muiatiₓ
+@sign	|PA.LAGAB×(GUD.GUD)|
+@pname	|PA.LAGAB×GUD+GUD|
+@v	muatiₓ
+@inote check
 @end sign
 
 @sign	|PA.SUD.EL|
@@ -25542,7 +25544,7 @@
 @v	za₇
 @end sign
 
-@sign	|ZAx|
+@sign	|ZAX|
 @uphase	0
 @v	zaₓ
 @end sign
@@ -26909,7 +26911,7 @@
 @v     imŋaŋaₓ
 @end sign
 
-@sign |BIL₄.MES₃.GA|
+@sign |BIL₄.MES.GA|
 @inote epsd2
 @v     gilgamešₓ
 @end sign
@@ -26978,6 +26980,11 @@
 @v	ubriₓ
 @end sign
 
+@sign	|IGI@g.IGI@g|
+@inote epsd2
+@v	ubriₓ
+@end sign
+
 @sign |KA×GA₂|
 @inote epsd2
 @v     šeg₁₈
@@ -26986,6 +26993,11 @@
 @sign |KIB.NUN|
 @inote epsd2
 @v     buranunₓ
+@end sign
+
+@sign |KU.AN.RA|
+@inote epsd2
+@v     metuₓ
 @end sign
 
 @sign |KUR.ZA.KUR.ZI|
@@ -27035,6 +27047,11 @@
 @sign |PAP.NUN.ME.EZEN|
 @inote epsd2
 @v     isimudₓ
+@end sign
+
+@sign |PIRIG.AB×GAL|
+@inote epsd2
+@v     nergalₓ
 @end sign
 
 @sign |SAL.KAB|
