@@ -9515,8 +9515,8 @@
 @v	sag₁₀
 @v	saga₁₀
 @inote	Attinger
-@v	saga
-@note	The value saga is a coinage created for the CDLI Ur III corpus.
+@v-	saga
+@note	The value saga was a coinage created for the CDLI Ur III corpus; now sag₁₀
 @v	seg₅
 @v	sig₅
 @v?	ša₁₅
