@@ -25496,6 +25496,7 @@
 @v	halbi₃
 @v	halbu₃
 @v	suba
+@v	subi
 @v	šub₇
 @v	šuba
 @v	zannaru
