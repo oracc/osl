@@ -471,7 +471,7 @@
 @v	uguₓ
 @end sign
 
-@sign	|A.ZA.AN.MUŠ₃|
+@sign	|A₂.ZA.AN.MUŠ₃|
 @ucode	x12000.x1235D.x1202D.x12239
 @v	aškudₓ
 @end sign
@@ -2589,6 +2589,9 @@
 @v	kaš-bir₈
 @v	kašbir
 @v	ulušinₓ
+@form ~a |BI.SUD.A|
+@v    	 kašbirₓ
+@end form
 @end sign
 
 @sign	|BI.ZIZ₂|
@@ -23595,9 +23598,6 @@
 @v	gud₃
 @end sign
 
-@sign	|U₂.KUR|
-@end sign
-
 @sign	|U₂.KUR.NI.TUK.KI|
 @ucode	x12311.x121B3.x1224C.x12307.x121A0
 @v	musug₄
@@ -23610,6 +23610,7 @@
 @ucode	x12311.x121B3.x1228F
 @v	šembirida
 @v	šimbirida
+@form ~a |U₂.KUR|
 @end sign
 
 @sign	|U₂.KUR.ZA.MUŠ₃@g.KI|
@@ -27154,4 +27155,14 @@
 @inote epsd2
 @v     sissigₓ [P478860 ii 4, kug-|ZI%ZI|]
 @inote FLP Inanna Hymn, Sjoberg JCS
+@end sign
+
+@sign |EN.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
+@inote dcclt
+@v     enkumₓ
+@end sign
+
+@sign |U.U.HUB₂|
+@inote dcclt
+@v     emerahₓ
 @end sign
