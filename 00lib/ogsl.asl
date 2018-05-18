@@ -13681,6 +13681,7 @@
 @form   ~a |LAGAR@g&LAGAR@g|
 @form	~b |ŠE+SAR.ZU&ZU|
 @form   ~c |LAGAR@g&LAGAR@g.SAR|
+@form   ~d |LAGAR@g&LAGAR@g.LAGAR@g&LAGAR@g.LAGAR@g&LAGAR@g|
 @lit	M. Civil JCS 65, 46
 @end form
 @end sign
@@ -17471,6 +17472,11 @@
 @pname	|NINDA₂×ŠE+A+AN|
 @uphase	0
 @end form
+@form	~g |NINDA₂×(ŠE.AN)|
+@ucode	x1225A.x1202D
+@end form
+@form	~h |NINDA₂×(DIŠ.ŠE.A.AN)|
+@end form
 @end sign
 
 @nosign	|NINDA₂×(ŠE.A)|
@@ -20292,6 +20298,9 @@
 @form	~d |SILA₃.ŠU.GABA.A|
 @v	šagia
 @end form
+@form	~d |ŠU.GABA.A|
+@v	šagiaₓ
+@end form
 @end sign
 
 @sign	SU
@@ -20790,6 +20799,7 @@
 @sign	|ŠA₆.TUR|
 @ucode	x122B7.x12309
 @v	suhušₓ
+@form ~a	|TUR.ŠA₆|
 @end sign
 
 @sign	ŠA₆@t
@@ -25468,6 +25478,9 @@
 @v	šubuₓ
 @v	zanaru₂
 @v	zannaru₂
+@form ~a |ZA.AN.MUŠ₃|
+@v	zanaruₓ
+@end form
 @end sign
 
 @sign	|ZA.MUŠ₃.AB@g|
@@ -25914,6 +25927,7 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN FOUR ASH
 @ucode	x12402
+@v	limmuₓ
 @v	4(aš)
 @v	4(aš@c)
 @v	4(iku)
@@ -27160,6 +27174,26 @@
 @sign |EN.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
 @inote dcclt
 @v     enkumₓ
+@end sign
+
+@sign |IGI.DUN|
+@inote dcclt
+@v     sigₓ
+@end sign
+
+@sign |IŠ.UD.KA.BAR|
+@inote dcclt
+@v     šenₓ
+@end sign
+
+@sign |MUNUS.U₈|
+@inote dcclt
+@v     kirₓ
+@end sign
+
+@sign |SAL.TUG₂.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
+@inote dcclt
+@v     ninkumₓ
 @end sign
 
 @sign |U.U.HUB₂|
