@@ -9515,7 +9515,6 @@
 @v	sag₁₀
 @v	saga₁₀
 @inote	Attinger
-@v-	saga
 @note	The value saga was a coinage created for the CDLI Ur III corpus; now sag₁₀
 @v	seg₅
 @v	sig₅
@@ -19192,8 +19191,7 @@
 @v	riš
 @v	sa₁₂
 @v	sag
-@v-	saga
-@note	The value saga is now assigned to |IGI.ERIN₂| for compatibility with CDLI.
+@note	The value saga was now assigned to |IGI.ERIN₂| for compatibility with CDLI; CDLI saga is now sag₁₀. Value saga deleted.
 @v	saggar
 @v	saŋŋar
 @v	saŋ
