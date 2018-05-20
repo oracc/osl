@@ -11447,6 +11447,7 @@
 @v	kas
 @v	kasa
 @v	kaskal
+@v	kaṣ
 @v	kaš₂
 @v	kaz₀
 @v	ras
@@ -16250,6 +16251,7 @@
 @v	imdudu
 @v	irhan
 @v	mus
+@v	muṣ
 @v	muš
 @v	muz
 @v	nerah
