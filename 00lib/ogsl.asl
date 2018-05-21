@@ -27201,3 +27201,28 @@
 @inote dcclt
 @v     emerahₓ
 @end sign
+
+@sign |GAR.SAG.LAL.SAL|
+@inote u3adm
+@v     ballaₓ
+@end sign
+
+@sign |GAR.LAL.SAG.SAL|
+@inote u3adm
+@v     ballaₓ
+@end sign
+
+@sign |GAR.SAL.SAG.LAL|
+@inote u3adm
+@v     ballaₓ
+@end sign
+
+@sign |GAR.SAL.LAL.SAG|
+@inote u3adm
+@v     ballaₓ
+@end sign
+
+@sign KWU896
+@inote u3adm
+@v     erenₓ
+@end sign
