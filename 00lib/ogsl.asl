@@ -27202,12 +27202,16 @@
 @v     emerahₓ
 @end sign
 
+@sign |EN×U|
+@inote u3adm
+@end sign
+
 @sign |GAR.SAG.LAL.SAL|
 @inote u3adm
 @v     ballaₓ
 @end sign
 
-@sign |GAR.LAL.SAG.SAL|
+@sign |GAR.SAG.SAL.LAL|
 @inote u3adm
 @v     ballaₓ
 @end sign
@@ -27226,3 +27230,12 @@
 @inote u3adm
 @v     erenₓ
 @end sign
+
+@sign |LUL×ŠE|
+@inote u3adm
+@end sign
+
+@sign |U.EN|
+@inote u3adm
+@end sign
+
