@@ -1013,6 +1013,13 @@
 @v	ubₓ
 @end sign
 
+@sign	|AB₂.ŠA₃.GI|
+@lit	2015 T.E. Balke, StMes 2 1-16.
+@v	zeₓ
+@inote	Presargonic
+@end sign
+
+
 @sign	|AB₂×BALAG|
 @list MZL676
 @list SLLHA422
