@@ -16219,6 +16219,8 @@
 @v?	egir₆
 @v?	eŋir₆
 @v	lumₓ
+@v	ŋurgu₂
+@inote	Attinger
 @v	mur₇
 @v	mur₈
 @v	murgu₂
