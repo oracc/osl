@@ -25497,6 +25497,7 @@
 @v	sugal₂
 @v	zabala₂
 @v	zabalam₂
+@form ~a |ZA.MUŠ₃@g.AB×(U.U.U)|
 @end sign
 
 @sign	|ZA.MUŠ₃@g|
