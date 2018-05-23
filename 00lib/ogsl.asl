@@ -13396,6 +13396,9 @@
 @v	sagdudu [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 4']
 @inote salgues
 @end form
+@form	~c |LAGAB×(ŠITA.GIŠ)|
+@v	saŋduduₓ
+@end form
 @end sign
 
 @sign	|LAGAB×ŠU₂|
@@ -18934,18 +18937,6 @@
 @v	nerigal
 @end sign
 
-@sign	|PIRIG.PIRIG|
-@ucode	x1228A.x1228A
-@v	didanu
-@v	didanum
-@v	didnu
-@v	didnum
-@v	tidanu
-@v	tidanum
-@v	tidnim
-@v	tidnu
-@end sign
-
 @sign	|PIRIG.TUR|
 @ucode	x1228A.x12309
 @v	nemur₂
@@ -19024,6 +19015,16 @@
 @form	~a |PIRIG.KIŠ|
 @v	tidnum [ED Cities = dcclt:Q000035 35]
 @end form
+@form	~b |PIRIG.PIRIG|
+@ucode	x1228A.x1228A
+@v	didanu
+@v	didanum
+@v	didnu
+@v	didnum
+@v	tidanu
+@v	tidanum
+@v	tidnim
+@v	tidnu
 @end sign
 
 @sign	RA
@@ -27289,3 +27290,7 @@
 @inote dcclt/signlists
 @end sign
 
+@sign |IGI.NAGAR.ŠIR|
+@inote dcclt/nineveh
+@v     dulumaₓ
+@end sign
