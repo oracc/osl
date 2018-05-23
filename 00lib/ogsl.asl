@@ -17122,6 +17122,7 @@
 @v	i₄
 @v	ia₄
 @v	na₄
+@v	par₇
 @v	tak₃
 @v	taq₃
 @v	ya₄
