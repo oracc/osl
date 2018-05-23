@@ -24068,7 +24068,7 @@
 @pname	|UD×U+U+U.DU|
 @end sign
 
-@sign	|UD×(U.U.U@g)|
+@sign	|UD×(U.U.U)@g|
 @list HZL110
 @list MZL545
 @list OBZL207a/207b
@@ -25569,7 +25569,7 @@
 @v	za₇
 @end sign
 
-@sign	ZAX
+@sign	ZAₓ
 @uphase	0
 @v	zaₓ
 @end sign
