@@ -7263,7 +7263,7 @@
 @note	This is sign is sometimes (incorrectly) described as AŠ@k
 @v	ge₂₂
 @v	saŋtak₂
-@v	santa₂
+@v	san₂a₂
 @v	santag₂
 @v	santak₂
 @v	ubura
@@ -25569,7 +25569,7 @@
 @v	za₇
 @end sign
 
-@sign	ZAₓ
+@sign	ZAX
 @uphase	0
 @v	zaₓ
 @end sign
@@ -27247,5 +27247,45 @@
 
 @sign |U.EN|
 @inote u3adm
+@end sign
+
+@sign |GA.HI×AŠ₂.BUR|
+@inote dcclt/signlists
+@end sign
+
+@sign |GA.PAP.U@g.DIŠ|
+@inote dcclt/signlists
+@end sign
+
+@sign |LAGAB×AŠ|
+@inote dcclt/signlists
+@end sign
+
+@sign |SIK₂.HI×NUN.AŠ.U|
+@inote dcclt/signlists
+@end sign
+
+@sign |N₁₁.GIŠ|
+@inote dcclt/signlists
+@end sign
+
+@sign |AK×ŠITA₂|
+@inote dcclt/signlists
+@end sign
+
+@sign |IL₂.KID.DUB₂|
+@inote dcclt/signlists
+@end sign
+
+@sign |DUB×LAGAB|
+@inote dcclt/signlists
+@end sign
+
+@sign |LAGAB×LAGAR|
+@inote dcclt/signlists
+@end sign
+
+@sign |GA₂.SILA₃|
+@inote dcclt/signlists
 @end sign
 
