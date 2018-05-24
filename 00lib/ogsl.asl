@@ -25369,6 +25369,7 @@
 @uname	CUNEIFORM SIGN UZ3 TIMES KASKAL
 @ucode	x1235B
 @v	%akk qablu
+@v	gablumₓ
 @v	meₓ
 @end sign
 
