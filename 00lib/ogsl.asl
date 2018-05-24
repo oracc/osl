@@ -27267,10 +27267,6 @@
 @inote dcclt/signlists
 @end sign
 
-@sign |N₁₁.GIŠ|
-@inote dcclt/signlists
-@end sign
-
 @sign |AK×ŠITA₂|
 @inote dcclt/signlists
 @end sign
