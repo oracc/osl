@@ -25404,7 +25404,6 @@
 @list KWU290
 @list KWU306
 @list KWU504
-@list KWU543
 @list KWU672
 @list KWU798
 @ucode	X
@@ -27237,6 +27236,13 @@
 @sign |GAR.SAL.LAL.SAG|
 @inote u3adm
 @v     ballaₓ
+@end sign
+
+@sign KWU543
+@list KWU543
+@lit  2005 M. Molina Nisaba 9 95.
+@inote u3adm
+@v     amašₓ
 @end sign
 
 @sign KWU896
