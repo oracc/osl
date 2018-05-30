@@ -23443,6 +23443,7 @@
 @list KWU511
 @ucode	x1230B.x12313
 @v	nigin₄
+@v	niŋin₄
 @v?	nim₃
 @v	ningin₄
 @v	šu₁₆
