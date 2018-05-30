@@ -21160,6 +21160,7 @@
 @v	šeg₉
 @v	šega₉
 @v	šeŋ₉
+@v?	šeŋbar
 @v	šenₓ
 @v?	šenbar
 @v	šegga
