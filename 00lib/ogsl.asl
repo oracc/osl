@@ -13021,7 +13021,7 @@
 @v	šurum₃
 @v	šurun₃
 @v	uʾ₃
-@v	ua
+@v	uaₓ
 @v	waₓ
 @end sign
 
