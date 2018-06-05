@@ -13022,7 +13022,7 @@
 @v	šurum₃
 @v	šurun₃
 @v	uʾ₃
-@v	ua
+@v	uaₓ
 @v	waₓ
 @end sign
 
@@ -21161,6 +21161,7 @@
 @v	šeg₉
 @v	šega₉
 @v	šeŋ₉
+@v?	šeŋbar
 @v	šenₓ
 @v?	šenbar
 @v	šegga
@@ -23443,6 +23444,7 @@
 @list KWU511
 @ucode	x1230B.x12313
 @v	nigin₄
+@v	niŋin₄
 @v?	nim₃
 @v	ningin₄
 @v	šu₁₆
@@ -25405,7 +25407,6 @@
 @list KWU290
 @list KWU306
 @list KWU504
-@list KWU543
 @list KWU672
 @list KWU798
 @ucode	X
@@ -27238,6 +27239,13 @@
 @sign |GAR.SAL.LAL.SAG|
 @inote u3adm
 @v     ballaₓ
+@end sign
+
+@sign KWU543
+@list KWU543
+@lit  2005 M. Molina Nisaba 9 95.
+@inote u3adm
+@v     amašₓ
 @end sign
 
 @sign KWU896
