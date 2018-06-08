@@ -8414,6 +8414,7 @@
 
 @sign	GUL
 @list HZL271
+@list KWU546
 @list LAK389
 @list MZL682
 @list OBZL343
@@ -9941,6 +9942,11 @@
 @ucode	x1214E.x12191
 @v	tuk₈ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 52']
 @inote	salgues
+@end sign
+
+@sign	|IM.NI.UD|
+@ucode	x1214E.x1224C.x12313
+@v	enaqa
 @end sign
 
 @sign	|IM.SI.A|
@@ -17151,11 +17157,6 @@
 @sign	|NI.UD.EN|
 @ucode	x1224C.x12313.x12097
 @v	enna
-@end sign
-
-@sign	|NI.UD.IM|
-@ucode	x1224C.x12313.x1214E
-@v	enaqa
 @end sign
 
 @sign	|NI.UD.KI|
