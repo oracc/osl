@@ -1868,6 +1868,8 @@
 @v	ana₃
 @v	as₃
 @v	aš
+@v	aš@c@90
+@v	aš@v
 @v	aša
 @v	ašša
 @v	aṣ₃
@@ -4456,6 +4458,12 @@
 @v	ṭur₂
 @end sign
 
+@sign	|DUR₂.DUR₂|
+@ucode	x12089.x12089
+@v	durunₓ
+@inote Fara form of KU.KU in admin/ed3a
+@end sign
+
 @sign	E
 @list HZL187
 @list LAK177?
@@ -5314,6 +5322,8 @@
 @v-	kiriₓ
 @note	value moved to EŠ₂@g
 @v	zi₃
+@v	zi₃@t
+@inote ed3a CDLI corpus distinguishes zi₃ as upright, zi3@t as slanted
 @v	zid₂
 @v	zuₓ
 @end sign
@@ -7130,6 +7140,10 @@
 @v	ša₂
 @v	šikin
 @v?	šu₇
+@end sign
+
+@sign	GAR@g
+@inote ed3a P010561
 @end sign
 
 @sign	|GAR.GA₂×(A.IGI)|
@@ -11136,6 +11150,10 @@
 @v	kapa
 @v	qab₂
 @v	qap₂
+@form ~a KAB@s
+@v	gab₂
+@inote ed3a
+@end form
 @end sign
 
 @sign	|KAB.BU|
@@ -12249,6 +12267,7 @@
 @v	durunₓ
 @v	durunaₓ
 @v	eh₃
+@inote really DUR₂.DUR₂ 
 @end sign
 
 @sign	|KU.KU.KU|
@@ -17259,6 +17278,8 @@
 @v	2(bariga@c)
 @v	#old nimin₃
 @end sign
+
+
 
 @sign	NINDA₂
 @list HZL119
@@ -23417,6 +23438,7 @@
 @v	eš
 @v	eša₂
 @v	eše
+@v	eše@c
 @v	is₅
 @v	iš₃
 @v	nan₃
@@ -25398,6 +25420,9 @@
 @v	usu₃
 @inote	Attinger
 @v	uzu
+@form ~a UZU@90 [OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7]
+@v	uzu@90
+@end form
 @end sign
 
 @sign	X
@@ -25997,6 +26022,7 @@
 @ucode	x12407
 @v	9(aš)
 @v	9(aš@c)
+@v	9(aš@c@90)
 @end sign
 
 @sign	3(AŠ~a)
@@ -26330,6 +26356,7 @@
 @v	1(šaru@c)
 @v	1(šarʾu)
 @v	1(šarʾu@c)
+@v	šarʾu@c
 @end sign
 
 @sign	2(ŠARU)
@@ -26666,6 +26693,7 @@
 @v	1(gešʾu)
 @v	1(gešʾu@c)
 @v	gešʾu
+@v	gešʾu@c
 @v	ŋešʾu
 @v	ŋešʾu@c
 @end sign
@@ -27299,4 +27327,9 @@
 @sign |IGI.NAGAR.ŠIR|
 @inote dcclt/nineveh
 @v     dulumaₓ
+@end sign
+
+@sign |AŠ&AŠ@180|
+@inote ed3a number
+@v gešmin@c
 @end sign
