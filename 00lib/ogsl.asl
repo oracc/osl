@@ -1869,6 +1869,7 @@
 @v	as₃
 @v	aš
 @v	aš@c@90
+@v	aš@c@v
 @v	aš@v
 @v	aša
 @v	ašša
@@ -1914,9 +1915,7 @@
 @v	zuₓ
 @v	1(aš)
 @v	1(aš@c)
-@v	1(iku)
 @v	aš@c
-@v	iku@c
 @end sign
 
 @sign	|AŠ.AŠ|
@@ -4829,6 +4828,9 @@
 @v	ru₁₂
 @v	uru₁₆
 @v	urunₓ
+@form ~a LAK530
+@inote see http://cdli.ucla.edu/P250427 ii 2 with lit
+@end form
 @end sign
 
 @sign	|EN.DIM₂.GIG|
@@ -7030,6 +7032,9 @@
 @v?	ŋa₃
 @v	girriₓ
 @v	iku
+@v	iku@c
+@v	iku@cv
+@v	iku@t
 @v	išhuru₃
 @v	išhurum₃
 @v	kalaₓ
@@ -14451,15 +14456,20 @@
 @end sign
 
 @sign	|LAK589.A.SI|
+@inote should redo this addirₓ entries as @forms
+@v addirₓ
 @end sign
 
 @sign	|LAK589.PAD.SI|
+@v addirₓ
 @end sign
 
 @sign	|LAK589.SI|
+@v addirₓ
 @end sign
 
 @sign	|LAK589.SI.A|
+@v addirₓ
 @end sign
 
 @sign	|LAK590.SI|
@@ -23116,6 +23126,8 @@
 @v	1(bur₃)
 @v	1(bur₃@c)
 @v	u@c
+@v	u@f
+@inote "flat" u, mostly Archaic Ur but also at Fara P011104
 @end sign
 
 @sign	|U.AD|
@@ -26618,7 +26630,10 @@
 @v	1(geš₂)
 @v	1(geš₂@c)
 @v	geš₂@c
+@v	geš₂@c@v
+@v	geš₂@t
 @v	ŋeš₂@c
+@v	ŋeš₂@c@v
 @end sign
 
 @sign	2(GEŠ₂)
@@ -27333,4 +27348,44 @@
 @sign |AŠ&AŠ@180|
 @inote ed3a number
 @v gešmin@c
+@end sign
+
+@sign |(AŠ&AŠ@180)×U|
+@inote ed3a number
+@v gešminʾu@c
+@end sign
+
+@sign |A.GISAL.GAD.GAR.A.SI|
+@inote CDLI ed3b
+@v	addirₓ
+@end sign
+
+@sign |A.GISAL.PAD.SI.A|
+@inote CDLI ed3b
+@v	addirₓ
+@end sign
+
+@sign |GISAL.GAD.GAR.A.SI.A|
+@inote CDLI ed3b
+@v	addirₓ
+@end sign
+
+@sign |PA.GISAL.SI.KAL.RU|
+@inote CDLI ed3b
+@v	addirₓ
+@end sign
+
+@sign |UŠ.ANŠE|
+@inote CDLI ed3b
+@v	durₓ
+@end sign
+
+@sign |TA×GAR|
+@inote CDLI ed3b
+@v	lungaₓ
+@end sign
+
+@sign |GAR.TUG₂|
+@inote CDLI ed3b
+@v	šudulₓ
 @end sign
