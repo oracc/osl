@@ -26391,6 +26391,8 @@
 @v	1(šarʾu)
 @v	1(šarʾu@c)
 @v	šarʾu@c
+@v	šarʾu@v
+@inote cdli lagash2
 @end sign
 
 @sign	2(ŠARU)
