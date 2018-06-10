@@ -26654,6 +26654,7 @@
 @v	1(geš₂@c)
 @v	geš₂@c
 @v	geš₂@c@v
+@v	geš₂@c@90
 @v	geš₂@t
 @v	ŋeš₂@c
 @v	ŋeš₂@c@v
@@ -26733,6 +26734,7 @@
 @v	1(gešʾu@c)
 @v	gešʾu
 @v	gešʾu@c
+@v	gešʾu@v
 @v	ŋešʾu
 @v	ŋešʾu@c
 @end sign
@@ -27467,4 +27469,21 @@
 
 @sign URI@n
 @inote CDLI ed3b
+@end sign
+
+@sign |(EZEN×BAD)@s|
+@inote CDLI oakk
+@end sign
+
+@sign KA@r
+@inote CDLI oakk
+@end sign
+
+@sign REC169
+@inote CDLI oakk referencing CUSAS 27
+@v     uštil
+@end sign
+
+@sign UD@g@v
+@inote CDLI oakk
 @end sign
