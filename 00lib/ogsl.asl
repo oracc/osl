@@ -5160,6 +5160,10 @@
 @v	egi
 @v	egir₂
 @v	eš₂
+@v	eš₂@t
+@inote ed3b
+@v	eš₂@90
+@inote ed3b
 @v	eše₂
 @v	ge₇
 @v	ger₁₅
@@ -5179,6 +5183,8 @@
 @note	See under saman~h
 @v	ša₁₆
 @v	še₃
+@v	še₃@90
+@inote ed3b
 @v	ši₄
 @v	šu₃
 @v	ṣi₉
@@ -7033,7 +7039,7 @@
 @v	girriₓ
 @v	iku
 @v	iku@c
-@v	iku@cv
+@v	iku@c@v
 @v	iku@t
 @v	išhuru₃
 @v	išhurum₃
@@ -9239,6 +9245,8 @@
 @uname	CUNEIFORM SIGN I
 @ucode	x1213F
 @v	i
+@v	i@t
+@inote ed3b
 @v	nat₂
 @end sign
 
@@ -11386,6 +11394,7 @@
 @v	seg₁₅
 @v	si₂₁
 @v	sig₁₅
+@v	sig₁₅@v
 @v	silim₂
 @v	silima₂
 @v	subₓ
@@ -15805,6 +15814,8 @@
 @ucode	x12224
 @v	al₆
 @v	mah
+@v	mah@v
+@inote ed3b
 @v	maha
 @v	meh
 @v	mih
@@ -19206,6 +19217,8 @@
 @ucode	x12293
 @v?	gid₃
 @v	sa
+@v	sa@v
+@inote ed3b
 @v	śa
 @v	ša₁₀
 @end sign
@@ -19979,6 +19992,8 @@
 @v	sahar₂
 @v	sakar
 @v	sar
+@v	sar@90
+@inote ed3b
 @v	sara
 @v	sariₓ
 @v	se₁₅
@@ -22332,6 +22347,8 @@
 @v	dapa₂
 @v	min₆
 @v	tab
+@v	tab@t
+@inote ed3b
 @v	taba
 @v	tap
 @v	tapa
@@ -23099,6 +23116,8 @@
 @v	bu₁₂
 @v	bur₃
 @v	bur₃@c
+@v	bur₃@v
+@inote ed3b
 @v	buru₃
 @v	burudₓ
 @v	buzur
@@ -24506,6 +24525,8 @@
 @uname	CUNEIFORM SIGN UR2
 @ucode	x1232B
 @v	ur₂
+@v	ur₂@g
+@inote ed3b
 @v	uru₈
 @end sign
 
@@ -27388,4 +27409,60 @@
 @sign |GAR.TUG₂|
 @inote CDLI ed3b
 @v	šudulₓ
+@end sign
+
+@sign BAD₃@90
+@inote CDLI ed3b
+@end sign
+
+@sign BIL₂@g
+@inote CDLI ed3b
+@end sign
+
+@sign GAB@90
+@inote CDLI ed3b
+@end sign
+
+@sign GABA@t
+@inote CDLI ed3b
+@end sign
+
+@sign ITI@s
+@inote CDLI ed3b
+@end sign
+
+@sign KAŠ@g
+@inote CDLI ed3b
+@end sign
+
+@sign KIŠ@s
+@inote CDLI ed3b
+@end sign
+
+@sign MAH@g
+@inote CDLI ed3b
+@end sign
+
+@sign MUŠ@90
+@inote CDLI ed3b
+@end sign
+
+@sign MUŠ@t
+@inote CDLI ed3b
+@end sign
+
+@sign SUD@90
+@inote CDLI ed3b
+@end sign
+
+@sign TAR@v
+@inote CDLI ed3b
+@end sign
+
+@sign TE@s
+@inote CDLI ed3b
+@end sign
+
+@sign URI@n
+@inote CDLI ed3b
 @end sign
