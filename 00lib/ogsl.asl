@@ -3614,6 +3614,7 @@
 @v	daš₂
 @v	deš
 @v	diš
+@v	diš@f
 @v	diša
 @v	duš₂
 @v	gala₁₀
@@ -27475,6 +27476,27 @@
 @inote CDLI oakk
 @end sign
 
+@sign AN@180
+@inote CDLI oakk
+@end sign
+
+@sign |DA×GEŠ@t|
+@inote CDLI oakk
+@end sign
+
+@sign GEŠ@t
+@inote CDLI oakk
+@end sign
+
+@sign GUD@s
+@inote CDLI oakk
+@end sign
+
+@sign IL₂@n
+@inote CDLI oakk
+@v     dupsikₓ
+@end sign
+
 @sign KA@r
 @inote CDLI oakk
 @end sign
@@ -27482,6 +27504,10 @@
 @sign REC169
 @inote CDLI oakk referencing CUSAS 27
 @v     uštil
+@end sign
+
+@sign SUMAŠ@g
+@inote CDLI oakk
 @end sign
 
 @sign UD@g@v
