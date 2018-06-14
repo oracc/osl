@@ -27300,6 +27300,11 @@
 @v     ballaₓ
 @end sign
 
+@sign |SAG.LAL.SAL|
+@inote u3adm
+@v     ballaₓ
+@end sign
+
 @sign |GAR.SAL.SAG.LAL|
 @inote u3adm
 @v     ballaₓ
