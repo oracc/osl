@@ -23943,6 +23943,7 @@
 @form	~a |UD.(GIŠ%GIŠ)@g.AN|
 @v	zimbir [ED Word List F = dcclt:Q000268 55]
 @end form
+@form	~b |GIŠ%GIŠ.NUN|
 @end sign
 
 @sign	|UD.KID|
