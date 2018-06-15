@@ -4903,6 +4903,7 @@
 @ucode	x12097.x12228.x121F7
 @v	ensi
 @v	šešlam₂
+@form ~a  |EN×ME.LI|
 @end sign
 
 @sign	|EN.ME.MU|
@@ -27527,6 +27528,11 @@
 @sign |LU₂×BAD.BAD|
 @inote epsd2/royal
 @v	addaₓ
+@end sign
+
+@sign |DUMU.NE|
+@inote epsd2/royal
+@v     ibilaₓ
 @end sign
 
 @sign |EN.SAL.NUNUZ.ZI.AN.ŠEŠ.KI|
