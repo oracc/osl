@@ -21108,6 +21108,7 @@
 @ucode	x12303.x121B8.x121B8
 @v	garadin₄
 @v	karadin₄
+@form	~a (|(ŠE.NUN&NUN.LAGAB)&(ŠE.NUN&NUN.LAGAB)|)
 @end sign
 
 @sign	|ŠE.PAP.PAP|
