@@ -19670,6 +19670,9 @@
 @list OBZL463
 @list SLLHA391
 @form	~b |UD.HUB₂|
+@v 	tunₓ
+@inote epsd2/royal; needs checking
+@end form
 @end sign
 
 @sign	|SAL.KU|
@@ -27520,3 +27523,59 @@
 @sign UD@g@v
 @inote CDLI oakk
 @end sign
+
+@sign |LU₂×BAD.BAD|
+@inote epsd2/royal
+@v	addaₓ
+@end sign
+
+@sign |EN.SAL.NUNUZ.ZI.AN.ŠEŠ.KI|
+@inote epsd2/royal
+@v	zirruₓ
+@end sign
+
+@sign |EZEN×ŠID|
+@inote epsd2/royal
+@v	asilalₓ
+@end sign
+
+@sign |GI₄.NA.AB.TUM|
+@inote epsd2/royal
+@v     šutumₓ
+@end sign
+
+@sign |GIŠ.TUG₂.PI.NI|
+@inote epsd2/royal
+@v	gizzalₓ
+@end sign
+
+@sign LAK526
+@inote epsd2/royal
+@v     meₓ
+@end sign
+
+@sign |LUL.E₂.BALAG|
+@inote epsd2/royal
+@v     tigiₓ
+@end sign
+
+@sign |ME.AD.KU₃|
+@inote epsd2/royal
+@v     šennuₓ
+@end sign
+
+@sign |PAD.GISAL.SI|
+@inote epsd2/royal
+@v     addirₓ
+@end sign
+
+@sign |ŠE.UR₄|
+@inote epsd2/royal
+@v     gurₓ
+@end sign
+
+@sign |ZUM×LAGAB|
+@inote epsd2/royal
+@v     garigₓ
+@end sign
+
