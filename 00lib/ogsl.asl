@@ -8391,6 +8391,7 @@
 @uname	CUNEIFORM SIGN GUD TIMES A PLUS KUR
 @ucode	x1211F
 @v	ildag₂
+@form	~a |A.GUD×KUR|
 @end sign
 
 @sign	|GUD×KUR|
@@ -14810,6 +14811,7 @@
 @sign	LIL
 @list HZL127
 @list LAK208
+@list KWU147
 @list MZL544
 @list OBZL091
 @list SLLHA336
