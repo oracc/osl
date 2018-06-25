@@ -7536,6 +7536,8 @@
 @uname	CUNEIFORM SIGN GIG
 @ucode	x1222A.x1226D
 @v	ge₁₇
+@v	geg
+@inote	Attinger
 @v	gi₁₇
 @v	gib₃
 @v	gig
@@ -8267,7 +8269,7 @@
 @v	tur₂
 @v	ṭur
 @v	ṭuru
-@v	usanₓ
+@v	usan₆
 @end sign
 
 @sign	|GU₂×KAK.GIŠ%GIŠ|
