@@ -11837,6 +11837,10 @@
 @v	ugnimₓ
 @end sign
 
+@sign |KI.SU.LU.GAR.KI|
+@v	ugnimₓ
+@end sign
+
 @sign	|KI.LUGAL|
 @ucode	x121A0.x12217
 @v	šitenₓ
