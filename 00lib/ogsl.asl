@@ -20325,6 +20325,10 @@
 @v	hamanzirₓ
 @end sign
 
+@sign |SIK₂.SAG.PA.IB|
+@v	hamanzerₓ
+@end sign
+
 @sign	|SIK₂×NUN|
 @uphase	0
 @end sign
