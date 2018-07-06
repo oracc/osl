@@ -27597,3 +27597,17 @@
 @v     garigₓ
 @end sign
 
+@sign |A.ZI&ZI.LAGAB|
+@inote epsd2/praxis
+@v     aškiₓ
+@end sign
+
+@sign |IM.SI|
+@inote epsd2/praxis
+@v     dunguₓ
+@end sign
+
+@sign |DU.LAGAR@g|
+@inote epsd2/praxis
+@v     edₓ
+@end sign
