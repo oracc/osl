@@ -27611,3 +27611,47 @@
 @inote epsd2/praxis
 @v     edₓ
 @end sign
+
+@sign |AN.U|
+@inote epsd2/praxis
+@v     enₓ
+@end sign
+
+@sign |IGI@g.PAP|
+@inote epsd2/praxis
+@v     kumₓ?
+@end sign
+
+@sign |AN.LAK397|
+@inote epsd2/praxis
+@end sign
+
+@sign |NINDA₂×GI.IDIM|
+@inote epsd2/praxis
+@v     gidimₓ
+@end sign
+
+@sign |TUG₂.PI.PI|
+@inote epsd2/praxis
+@v     ŋeštugₓ
+@end sign
+
+@sign |AB₂.AN.ŠEŠ.KI|
+@inote epsd2/praxis
+@v     munzerₓ
+@end sign
+
+@sign |U.KIB|
+@inote epsd2/praxis
+@v     šennurₓ
+@end sign
+
+@sign	|UR₂×KID₂.SU|
+@inote epsd2/praxis
+@v     umbinₓ
+@end sign
+
+@sign LAK212
+@inote epsd2/praxis
+@v     asalₓ
+@end sign
