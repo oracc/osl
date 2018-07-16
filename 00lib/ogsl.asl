@@ -27655,3 +27655,8 @@
 @inote epsd2/praxis
 @v     asalₓ
 @end sign
+
+@sign	|NAM.EN.NA|
+@inote blms/sbh
+@v	palaₓ
+@end sign
