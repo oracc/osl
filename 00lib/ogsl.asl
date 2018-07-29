@@ -27660,3 +27660,8 @@
 @inote blms/sbh
 @v	palaₓ
 @end sign
+
+@sign	|AN.EN.NU.NUZ.NAM.AN.ŠEŠ.KI|
+@inote blms
+@v     zirruₓ
+@end sign
