@@ -12557,6 +12557,8 @@
 @v	šat
 @v	šata
 @v	šaṭ
+@v	zat
+@inote W.G. Lambert, Babylonian Oracle Questions 2007, no. 23 (P480372) obv 5 uz-zat
 @v	zizanu
 @end sign
 
