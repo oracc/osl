@@ -14185,7 +14185,7 @@
 @uphase	9
 @ucode	x124E0
 @uname	CUNEIFORM SIGN LAK449 TIMES U2 PLUS BA
-@inote NUNUZ.KISIM₅(U₂.BA)
+@inote NUNUZ.KISIM₅x(U₂.BA)
 @end	sign
 
 @sign	LAK457
