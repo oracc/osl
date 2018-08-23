@@ -20190,6 +20190,8 @@
 @v	gar₈
 @v	gara₈
 @v	ŋar₈
+@v	ŋur₂₃
+@inote	Attinger
 @v	ŋurgu
 @inote	Attinger
 @v	kulla
