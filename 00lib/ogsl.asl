@@ -5162,7 +5162,6 @@
 @v	egi
 @v	egir₂
 @v	eš₂
-@v	eš₂@t
 @inote ed3b
 @v	eš₂@90
 @inote ed3b
@@ -5198,6 +5197,8 @@
 @sign	EŠ₂@t
 @uphase	0
 @note: This is a variant of GAN₂@t listed in Ea 1, 186-188. The sign is to be distinguished from ZI₃, which is EŠ₂@t in ED writing.
+@v	eš₂@t
+@inote eš₂@t is used in the ed3b corpus in lu₂-eš₂/eš₂@t-gid₂
 @v	karaₓ
 @v	kiriₓ
 @end sign
@@ -15132,6 +15133,7 @@
 @form	~b |LU₂×ŠU|
 @form	~c |LU₂.ŠU|
 @v	eri₁₃ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 11]
+@form	~d |LU₂.EŠ₂@t|
 @inote	salgues
 @end form
 @end sign
@@ -17143,6 +17145,10 @@
 @v	para₄
 @end sign
 
+@sign	|NI.HUB₂|
+@v	emerahₓ
+@end sign
+ 
 @sign	|NI.NI|
 @ucode	x1224C.x1224C
 @v	%akk ilī
@@ -21929,6 +21935,7 @@
 @v	tukumₓ
 @end form
 @form	~c |ŠU.GAR.TUR.RU.LAL|
+@v	tukumₓ
 @end sign
 
 @sign	|ŠU.GAR.TUR.LAL.BI|
