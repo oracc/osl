@@ -69,6 +69,7 @@
 @end sign
 
 @sign |A.BI|
+@ucode	x12000.x12049
 @v maštabaₓ
 @inote An Anum 5 307
 @end sign
@@ -1014,6 +1015,7 @@
 @end sign
 
 @sign	|AB₂.ŠA₃.GI|
+@ucode	x12016.x122AE.x12100
 @lit	2015 T.E. Balke, StMes 2 1-16.
 @v	zeₓ
 @inote	Presargonic
@@ -1933,6 +1935,7 @@
 @end sign
 
 @sign	|AŠ.GAN₂|
+@ucode	x12038.x120F7
 @list MZL174
 @v	ikuₓ
 @inote	in {mul}ikuₓ(|AŠ.GAN₂|)
@@ -3400,6 +3403,7 @@
 @end sign
 
 @sign	|DI.TAR|
+@ucode	x12072.x122FB
 @v	ištaranₓ
 @inote	An = Anum 5 288
 @end sign
@@ -4566,6 +4570,7 @@
 @end sign
 
 @sign	|E₂.BAR|
+@ucode	x1208D.x12047
 @v	saŋŋaₓ
 @note	Artificial first millennium value based on the logogram E₂.BAR for Akkadian šangû.
 @end sign
@@ -6932,6 +6937,7 @@
 @end sign
 
 @sign	|GAL.MUG@g|
+@ucode	x120F2.x1222F
 @v	zadimgalₓ
 @end sign
 
@@ -7384,6 +7390,7 @@
 @end sign
 
 @sign |GI.KID.MAH|
+@ucode	x12100.x121A4.x12224
 @v    muruₓ
 @inote in {d}ama{+a-ma}-{+mu-ru}|GI.KID.MAH|; An = Anum 5
 @end sign
@@ -8967,6 +8974,7 @@
 @end sign
 
 @sign	|HI×NUN.HI×NUN|
+@ucode	x12134.x12134
 @v	uhₓ
 @end sign
 
@@ -9723,6 +9731,7 @@
 @end sign
 
 @sign |IGI.ZA.MUŠ₃@g|
+@ucode	x12146.x1235D.x1223D
 @v    ištaranₓ
 @inote	An Anum 5 289
 @end sign
@@ -10151,6 +10160,7 @@
 @end sign
 
 @sign	|IŠ.A.SUD|
+@ucode	x12156.x12000.x122E4
 @v	imₓ [Diri 6 = dcclt:Q000151 B90]
 @end sign
 
@@ -10329,6 +10339,7 @@
 @end sign
 
 @sign	|KA×A.A|
+@ucode	x12158.x12000
 @v	pišₓ [Msk 74247+ = dcclt:P271995 o v 3]
 @end sign
 
@@ -11839,6 +11850,7 @@
 @end sign
 
 @sign |KI.SU.LU.GAR.KI|
+@ucode	x121A0.x122E2.x121FB.x120FB.x121A0
 @v	ugnimₓ
 @end sign
 
@@ -12605,6 +12617,7 @@
 @end sign
 
 @sign	|KUŠU₂.AN.MUŠ₃|
+@ucode	x121B5.x1202D.x12239
 @lit	M. Civil NABU 1987/9
 @v	uruh
 @form	~a |KUŠU₂.MUŠ₃|
@@ -13662,6 +13675,7 @@
 @end sign
 
 @sign	|LAGAR.IB|
+@ucode	x121EC.x12141
 @v	arkabₓ
 @end sign
 
@@ -15010,6 +15024,7 @@
 @end sign
 
 @sign	|LU₂.KI|
+@ucode	x121FD.x121A0
 @v	gurud₂
 @inote not |LU₂×KI|
 @end sign
@@ -16345,6 +16360,7 @@
 @end sign
 
 @sign |MUŠ.DIN.ŠE.NUN&NUN.BALAG|
+@ucode	x12232.x12077.x122BA.x1226A.x12046
 @lit  1984 M. Krebernik, BFE 298-300
 @v    irhanₓ
 @form ~a |BU.DIN.BALAG.NUN|
@@ -17146,6 +17162,7 @@
 @end sign
 
 @sign	|NI.HUB₂|
+@ucode	x1224C.x12138
 @v	emerahₓ
 @end sign
  
@@ -18522,6 +18539,7 @@
 @end sign
 
 @sign	|PA.TAR|
+@ucode	x1227A.x122FB
 @v	gugₓ	[K 2039 = dcclt/nineveh:P394154 o i 19']
 @end sign
 
@@ -18561,6 +18579,7 @@
 @end sign
 
 @sign	|PA.LAGAB×(GUD&GUD)|
+@ucode	x1227A.x121C7
 @pname	|PA.LAGAB×GUD+GUD|
 @v	muatiₓ
 @inote check
@@ -20338,6 +20357,7 @@
 @end sign
 
 @sign |SIK₂.SAG.PA.IB|
+@ucode	x122E0.x12295.x1227A.x12141
 @v	hamanzerₓ
 @end sign
 
@@ -27032,6 +27052,7 @@
 @end sign
 
 @sign |AB₂.TUG₂|
+@ucode	x12016.x12306
 @inote epsd2
 @v     sumunₓ
 @end sign
@@ -27046,6 +27067,7 @@
 @end sign
 
 @sign |AŠ₂.A|
+@ucode	x1203E.x12000
 @inote epsd2
 @v     imgagaₓ
 @v     imŋaŋaₓ
@@ -27062,21 +27084,25 @@
 @end sign
 
 @sign |DIN.BI|
+@ucode	x12077.x12049
 @inote epsd2
 @v     kurunₓ
 @end sign
 
 @sign |EN.DAG.NUN.X|
+@ucode	x12097.x12056.x12263.X
 @inote epsd2
 @v     enkumₓ
 @end sign
 
 @sign |ERIN₂.KAB|
+@ucode	x1209F.x1218F
 @inote epsd2
 @v     emerahₓ
 @end sign
 
 @sign |ERIN₂.NUN.NA|
+@ucode	x1209F.x12263.x1223E
 @inote epsd2
 @v     surungalₓ
 @end sign
@@ -27105,11 +27131,13 @@
 @end sign
 
 @sign |GAR.GAR|
+@ucode	x120FB.x120FB
 @inote epsd2
 @v     arkabₓ
 @end sign
 
 @sign |GIŠ.MUŠ₃.SIK₂.LAM|
+@ucode	x12111.x12239.x122E0.x121F4
 @inote epsd2
 @v     šušuₓ
 @end sign
@@ -27125,11 +27153,13 @@
 @end sign
 
 @sign	|IGI.MAR|
+@ucode	x12146.x12225
 @inote epsd2
 @v	ubriₓ
 @end sign
 
 @sign	|IGI@g.IGI@g|
+@ucode	x1214A.x1214A
 @inote epsd2
 @v	ubriₓ
 @end sign
@@ -27145,11 +27175,13 @@
 @end sign
 
 @sign |KU.AN.RA|
+@ucode	x121AA.x1202D.x1228F
 @inote epsd2
 @v     metuₓ
 @end sign
 
 @sign |KUR.ZA.KUR.ZI|
+@ucode	x121B3.x1235D.x121B3.x12363
 @inote epsd2
 @v     ganzerₓ
 @end sign
@@ -27164,26 +27196,31 @@
 @end sign
 
 @sign |LAM.HI×DIŠ|
+@ucode	x121F4.x12131
 @inote epsd2
 @v     arattaₓ
 @end sign
 
 @sign |LAM×KUR.RU.DA|
+@ucode	x121F5.x12292.x12055
 @inote epsd2
 @v     arattaₓ
 @end sign
 
 @sign |MA₂.SAL.DIŠ|
+@ucode	x12223.x122A9.x12079
 @inote epsd2
 @v     šilamₓ
 @end sign
 
 @sign |NAGAR.DIŠ|
+@ucode	x12244.x12079
 @inote epsd2
 @v     kušaₓ
 @end sign
 
 @sign |NE@s.GI|
+@ucode	x1224B.x12100
 @inote epsd2
 @v     gibilₓ
 @end sign
@@ -27203,31 +27240,37 @@
 @end sign
 
 @sign |PAP.NUN.ME.EZEN|
+@ucode	x1227D.x12263.x12228.x120A1
 @inote epsd2
 @v     isimudₓ
 @end sign
 
 @sign |PIRIG.AB×GAL|
+@ucode	x1228A.x1200D
 @inote epsd2
 @v     nergalₓ
 @end sign
 
 @sign |SAL.KAB|
+@ucode	x122A9.x1218F
 @inote epsd2
 @v     emerahₓ
 @end sign
 
 @sign |SIG₄.ANŠE|
+@ucode	x122DE.x12032
 @inote epsd2
 @v    amaraₓ
 @end sign
 
 @sign	|ŠE.KAL|
+@ucode	x122BA.x12197
 @inote epsd2
 @v	tirₓ
 @end sign
 
 @sign |ŠEŠ.KI.DIM×ŠE|
+@ucode	x12016.x1202D.x122C0.x121A0
 @inote epsd2
 @v     munzerₓ
 @end sign
@@ -27244,16 +27287,19 @@
 @end sign
 
 @sign	|TAK₄.IM|
+@ucode	x122FA.x1214E
 @inote epsd2
 @v     kidₓ
 @end sign
 
 @sign |TUG₂.PI.TE.A.RA|
+@ucode	x12306.x1227F.x122FC.x12000.x1228F
 @inote epsd2
 @v     azlagₓ
 @end sign
 
 @sign |U₂.A.LAGAB×HAL|
+@ucode	x12311.x12000.x121C9
 @inote epsd2
 @v     azadₓ
 @end sign
@@ -27289,16 +27335,19 @@
 @end sign
 
 @sign |EN.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
+@ucode	x12097.x1227D.x1208A.x1214A.x12263.x12228.x120AC
 @inote dcclt
 @v     enkumₓ
 @end sign
 
 @sign |IGI.DUN|
+@ucode	x12146.x12084
 @inote dcclt
 @v     sigₓ
 @end sign
 
 @sign |IŠ.UD.KA.BAR|
+@ucode	x12156.x12313.x12157.x12047
 @inote dcclt
 @v     šenₓ
 @end sign
@@ -27309,11 +27358,13 @@
 @end sign
 
 @sign |SAL.TUG₂.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
+@ucode	x122A9.x12306.x1227D.x1208A.x1214A.x12263.x12228.x120AC
 @inote dcclt
 @v     ninkumₓ
 @end sign
 
 @sign |U.U.HUB₂|
+@ucode	x1230B.x1230B.x12138
 @inote dcclt
 @v     emerahₓ
 @end sign
@@ -27323,26 +27374,31 @@
 @end sign
 
 @sign |GAR.SAG.LAL.SAL|
+@ucode	x120FB.x12295.x121F2.x122A9
 @inote u3adm
 @v     ballaₓ
 @end sign
 
 @sign |GAR.SAG.SAL.LAL|
+@ucode	x120FB.x12295.x122A9.x121F2
 @inote u3adm
 @v     ballaₓ
 @end sign
 
 @sign |SAG.LAL.SAL|
+@ucode	x12295.x121F2.x122A9
 @inote u3adm
 @v     ballaₓ
 @end sign
 
 @sign |GAR.SAL.SAG.LAL|
+@ucode	x120FB.x122A9.x12295.x121F2
 @inote u3adm
 @v     ballaₓ
 @end sign
 
 @sign |GAR.SAL.LAL.SAG|
+@ucode x120FB.x122A9.x121F2.x12295
 @inote u3adm
 @v     ballaₓ
 @end sign
@@ -27404,6 +27460,7 @@
 @end sign
 
 @sign |IGI.NAGAR.ŠIR|
+@ucode	x12146.x12244.x122D3
 @inote dcclt/nineveh
 @v     dulumaₓ
 @end sign
@@ -27419,26 +27476,31 @@
 @end sign
 
 @sign |A.GISAL.GAD.GAR.A.SI|
+@ucode	x12000.x12110.x120F0.x120FB.x12000.x122DB
 @inote CDLI ed3b
 @v	addirₓ
 @end sign
 
 @sign |A.GISAL.PAD.SI.A|
+@ucode	x12000.x12110.x1227B.x122DB.x12000
 @inote CDLI ed3b
 @v	addirₓ
 @end sign
 
 @sign |GISAL.GAD.GAR.A.SI.A|
+@ucode	x12110.x120F0.x120FB.x12000.x122DB.x12000
 @inote CDLI ed3b
 @v	addirₓ
 @end sign
 
 @sign |PA.GISAL.SI.KAL.RU|
+@ucode	x1227A.x12110.x122DB.x12197.x12292
 @inote CDLI ed3b
 @v	addirₓ
 @end sign
 
 @sign |UŠ.ANŠE|
+@ucode	x12351.x12032
 @inote CDLI ed3b
 @v	durₓ
 @end sign
@@ -27449,7 +27511,9 @@
 @end sign
 
 @sign |GAR.TUG₂|
+@ucode	x120FB.x12306
 @inote CDLI ed3b
+@inote NV better read ša₂-dul₅
 @v	šudulₓ
 @end sign
 
@@ -27552,6 +27616,7 @@
 @end sign
 
 @sign |LU₂×BAD.BAD|
+@ucode	x121FF.x12041
 @inote epsd2/royal
 @v	addaₓ
 @end sign
@@ -27562,6 +27627,7 @@
 @end sign
 
 @sign |EN.SAL.NUNUZ.ZI.AN.ŠEŠ.KI|
+@ucode	x12097.x122A9.x1226D.x12363.x1202D.x122C0.x121A0
 @inote epsd2/royal
 @v	zirruₓ
 @end sign
@@ -27572,11 +27638,13 @@
 @end sign
 
 @sign |GI₄.NA.AB.TUM|
+@ucode	x12104.x1223E.x1200A.x12308
 @inote epsd2/royal
 @v     šutumₓ
 @end sign
 
 @sign |GIŠ.TUG₂.PI.NI|
+@ucode	x12111.x12306.x1227F.x1224C
 @inote epsd2/royal
 @v	gizzalₓ
 @end sign
@@ -27587,21 +27655,25 @@
 @end sign
 
 @sign |LUL.E₂.BALAG|
+@ucode	x1221C.x1208D.x12046
 @inote epsd2/royal
 @v     tigiₓ
 @end sign
 
 @sign |ME.AD.KU₃|
+@ucode	x12228.x1201C.x121AC
 @inote epsd2/royal
 @v     šennuₓ
 @end sign
 
 @sign |PAD.GISAL.SI|
+@ucode	x1227B.x12110.x122DB
 @inote epsd2/royal
 @v     addirₓ
 @end sign
 
 @sign |ŠE.UR₄|
+@ucode	x122BA.x12334
 @inote epsd2/royal
 @v     gurₓ
 @end sign
@@ -27617,21 +27689,25 @@
 @end sign
 
 @sign |IM.SI|
+@ucode	x1214E.x122DB
 @inote epsd2/praxis
 @v     dunguₓ
 @end sign
 
 @sign |DU.LAGAR@g|
+@ucode	x1207A.x121EF
 @inote epsd2/praxis
 @v     edₓ
 @end sign
 
 @sign |AN.U|
+@ucode	x1202D.x1230B
 @inote epsd2/praxis
 @v     enₓ
 @end sign
 
 @sign |IGI@g.PAP|
+@ucode	x1214A.x1227D
 @inote epsd2/praxis
 @v     kumₓ?
 @end sign
@@ -27646,11 +27722,13 @@
 @end sign
 
 @sign |TUG₂.PI.PI|
+@ucode	x12306.x1227F.x1227F
 @inote epsd2/praxis
 @v     ŋeštugₓ
 @end sign
 
 @sign |AB₂.AN.ŠEŠ.KI|
+@ucode	x12016.x1202D.x122C0.x121A0
 @inote epsd2/praxis
 @v     munzerₓ
 @end sign
@@ -27671,6 +27749,7 @@
 @end sign
 
 @sign	|NAM.EN.NA|
+@ucode	x12246.x12097.x1223E
 @inote blms/sbh
 @v	palaₓ
 @end sign
