@@ -23917,6 +23917,7 @@
 
 @sign	|UD.AB×(U.U.U)|
 @pname	|UD.AB×U+U+U|
+@ucode	x12313.x12014
 @end sign
 
 @sign	|UD.AB@g|
@@ -25611,6 +25612,7 @@
 @v	zabala₂
 @v	zabalam₂
 @form ~a |ZA.MUŠ₃@g.AB×(U.U.U)|
+@ucode	 x1235D.x1223D.x12014
 @end sign
 
 @sign	|ZA.MUŠ₃@g|
@@ -27304,6 +27306,7 @@
 @end sign
 
 @sign	|UD.MA₂.AB×(U.U.U).ŠIR|
+@ucode	x12313.x12223.x12014.x1230B.None.x122D3
 @v	siraraₓ
 @end sign
 
