@@ -21392,6 +21392,7 @@
 @sign	ŠID
 @list HZL231
 @list LAK711
+@list KWU766
 @list MZL485
 @list SLLHA314
 @uphase	1
