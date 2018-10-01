@@ -23993,6 +23993,7 @@
 @v	zimbir [ED Word List F = dcclt:Q000268 55]
 @end form
 @form	~b |GIŠ%GIŠ.NUN|
+@ucode	x12112.x12263
 @end sign
 
 @sign	|UD.KID|
@@ -27073,7 +27074,8 @@
 @v     imŋaŋaₓ
 @end sign
 
-@sign |BIL₄.MES.GA|
+@sign |GIŠ.NE.MES.GA|
+@ucode	x12111.x12248.x12229.x120B5
 @inote epsd2
 @v     gilgamešₓ
 @end sign
@@ -27125,7 +27127,8 @@
 @inote epsd2
 @end sign
 
-@sign |GAD.KID₂.SI.A|
+@sign |GAD.TAK₄.SI.A|
+@ucode	x120F0.x122FA.x122DB.x12000
 @inote epsd2
 @v akkilₓ
 @end sign
@@ -27148,7 +27151,8 @@
 @v     ŋizzalₓ
 @end sign
 
-@sign |GIŠ.UR₃|
+@sign |GIŠ.GA×NUN&NUN|
+@ucode	x12111.x120E1
 @inote epsd2
 @v     ŋušurₓ
 @end sign
@@ -27171,6 +27175,7 @@
 @end sign
 
 @sign |GIŠ%GIŠ.NUN|
+@ucode x12112.x12263
 @inote epsd2
 @v     buranunₓ
 @end sign
@@ -27231,6 +27236,7 @@
 @end sign
 
 @sign |SAL.TUG₂.KU₃.GI|
+@ucode	x122A9.x12306.x121AC.x12100
 @inote epsd2
 @v     šalaš
 @end sign
@@ -27739,6 +27745,7 @@
 @end sign
 
 @sign |U.GIŠ%GIŠ|
+@ucode	x1230B.x12263
 @inote epsd2/praxis
 @v     šennurₓ
 @end sign
