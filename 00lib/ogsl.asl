@@ -18335,6 +18335,7 @@
 
 @sign	|PA.DAG.KISIM₅×(LU.MAŠ₂)|
 @pname	|PA.DAG.KISIM₅×LU+MAŠ₂|
+@ucode	x1227A.x12066
 @v	udul₄
 @v	utul₄
 @form ~a	|PA.DAG.KISIM₅×LU|
@@ -27237,6 +27238,7 @@
 @end sign
 
 @sign |TAB.GAR.ŠE|
+@ucode	x122F0.x120FB.x122BA
 @inote epsd2
 @v     garadinₓ
 @end sign
