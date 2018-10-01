@@ -2659,7 +2659,8 @@
 @v	pihu₄
 @end sign
 
-@sign	|BI.U₂.SA.KA.DU₃|
+@sign	|BI.U₂.SA.KA.KAK|
+@ucode	x12049.x12311.x12293.x12157.x12195
 @v	pihu
 @end sign
 
@@ -2910,6 +2911,10 @@
 @sign	BURU₅
 @list LAK072
 @list MZL135
+@uphase	1
+@uname	CUNEIFORM SIGN NAM NUTILLU
+@ucode	x12245
+@note The NB source for Ea II (LKU 1) describes BURU₅ as NAM nutillû
 @lit	Cavigenaux and Al-Rawi ZA 92 (2002), 44-50
 @v	bur₅
 @v	buru₅
@@ -2917,13 +2922,6 @@
 @ucode	x12137.x122BA.x1209F
 @end form
 @form ~b |HU.ERIN₂|
-@end form
-@form ~c	NAM@n
-@uphase	1
-@uname	CUNEIFORM SIGN NAM NUTILLU
-@ucode	x12245
-@v	buru₅
-@note The NB source for Ea II (LKU 1) describes BURU₅ as NAM nutillû
 @end form
 @form ~d NAM
 @v    buru₅ [Ass 00523 = dcclt/signlists:P370411 r ii 49]
@@ -27142,7 +27140,8 @@
 @v     šušuₓ
 @end sign
 
-@sign |GIŠ.TUG₂.ZAL|
+@sign |GIŠ.TUG₂.NI|
+@ucode	x12111.x12306.x1224C
 @inote epsd2
 @v     ŋizzalₓ
 @end sign
@@ -27169,7 +27168,7 @@
 @v     šeg₁₈
 @end sign
 
-@sign |KIB.NUN|
+@sign |GIŠ%GIŠ.NUN|
 @inote epsd2
 @v     buranunₓ
 @end sign
@@ -27229,7 +27228,7 @@
 @inote epsd2
 @end sign
 
-@sign |SAL.TUG₂.KU₃.SIG₁₇|
+@sign |SAL.TUG₂.KU₃.GI|
 @inote epsd2
 @v     šalaš
 @end sign
@@ -27352,7 +27351,8 @@
 @v     šenₓ
 @end sign
 
-@sign |MUNUS.U₈|
+@sign |SAL.LAGAB×(GUD&GUD)|
+@ucode	x122A9.x121C7
 @inote dcclt
 @v     kirₓ
 @end sign
@@ -27621,7 +27621,8 @@
 @v	addaₓ
 @end sign
 
-@sign |DUMU.NE|
+@sign |TUR.NE|
+@ucode	x12309.x12248
 @inote epsd2/royal
 @v     ibilaₓ
 @end sign
@@ -27684,6 +27685,7 @@
 @end sign
 
 @sign |A.ZI&ZI.LAGAB|
+@ucide	x12000.x12364.x121B8
 @inote epsd2/praxis
 @v     aškiₓ
 @end sign
@@ -27733,7 +27735,7 @@
 @v     munzerₓ
 @end sign
 
-@sign |U.KIB|
+@sign |U.GIŠ%GIŠ|
 @inote epsd2/praxis
 @v     šennurₓ
 @end sign
@@ -27754,7 +27756,8 @@
 @v	palaₓ
 @end sign
 
-@sign	|AN.EN.NU.NUZ.NAM.AN.ŠEŠ.KI|
+@sign	|AN.EN.NU.NUNUZ.NAM.AN.ŠEŠ.KI|
+@ucode	x1202D.x12097.x12261.x1226D.x12246.x1202D.x122C0.x121A0
 @inote blms
 @v     zirruₓ
 @end sign
