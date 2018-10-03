@@ -27772,3 +27772,34 @@
 @inote blms
 @v     zirruₓ
 @end sign
+
+@sign |DAG.E₂.NUN|
+@inote epsd2 2018-10-02
+@end sign
+@sign |KA.UD|
+@inote epsd2 2018-10-02
+@end sign
+@sign |KASKAL.LAGAB×X|
+@inote epsd2 2018-10-02
+@v šubtumₓ
+@end sign
+@inote epsd2 2018-10-02
+@end sign
+@sign |KA×DU|
+@inote epsd2 2018-10-02
+@end sign
+@sign |KA×X.KA×X|
+@inote epsd2 2018-10-02
+@end sign
+@sign |PA.LU₂|
+@inote epsd2 2018-10-02
+@end sign
+@sign |U.AN|
+@inote epsd2 2018-10-02
+@end sign
+@sign |UD.KA|
+@inote epsd2 2018-10-02
+@end sign
+@sign |URU×GA.ME|
+@inote epsd2 2018-10-02
+@end sign
