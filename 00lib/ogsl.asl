@@ -10546,6 +10546,10 @@
 @ucode	x12167
 @end sign
 
+@sign	|KA×(HU.SI)|
+@v	aʾuʾaₓ
+@end sign
+
 @sign	|KA×(ME.GAR)|
 @pname	|KA×ME+GAR|
 @uphase	0
