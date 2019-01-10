@@ -27250,9 +27250,12 @@
 
 @sign |NUNUZ.KISIM₅×AŠGAB|
 @inote epsd2; is this really NUNUZ.AB₂×X?
-@v     lahtanₓ
+@v	lahtanₓ
 @end sign
-
+@sign |DAG.KISIM₅×AŠGAB|
+@inote from u3adm
+@v	lahtanₓ
+@end sign
 @sign |PAP.NUN.ME.EZEN|
 @ucode	x1227D.x12263.x12228.x120A1
 @inote epsd2
