@@ -4764,6 +4764,7 @@
 @v	eŋir
 @v	lumhaₓ
 @v	tum₁₃
+@v	zibₓ
 @form ~a |TUM.UD|
 @v    egir [VAT 9541 = dcclt/signlists:P345960 o ii 19']
 @inote	   salgues
@@ -4771,6 +4772,10 @@
 @form ~b |TUM.ŠU₂|
 @v    egir [VAT 9541 = dcclt/signlists:P345960 o ii 20']
 @inote	   salgues
+@end form
+@form ~c |KWU732|
+@v	zibₓ
+@inote in zib[bridle] also written zibₓ(EGIR) and zibₓ(TUM)
 @end form
 @end sign
 
@@ -23036,6 +23041,7 @@
 @v	tum
 @v	ṭu₄
 @v	ṭum
+@v	zibₓ
 @end sign
 
 @sign	|TUM×(DIŠ.DIŠ.DIŠ)|
@@ -27250,10 +27256,6 @@
 
 @sign |NUNUZ.KISIM₅×AŠGAB|
 @inote epsd2; is this really NUNUZ.AB₂×X?
-@v	lahtanₓ
-@end sign
-@sign |DAG.KISIM₅×AŠGAB|
-@inote from u3adm
 @v	lahtanₓ
 @end sign
 @sign |PAP.NUN.ME.EZEN|
