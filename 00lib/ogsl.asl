@@ -7093,6 +7093,11 @@
 @v	ulul₂
 @end sign
 
+@sign	GAN₂@g
+@inote from u3adm with note reading
+@inote: See W. Sallaberger, ZA 92 (2002) 301
+@end sign
+
 @sign	GAN₂@t
 @list LAK186
 @list MZL175
@@ -20770,6 +20775,11 @@
 @v	tigidla
 @end sign
 
+@sign	|ŠA₃.U.U|
+@inote OBMC
+@v	tigidlaₓ
+@end sign
+
 @sign	|ŠA₃×A|
 @list MZL608
 @list OBZL436
@@ -27679,6 +27689,11 @@
 @sign |LUL.E₂.BALAG|
 @ucode	x1221C.x1208D.x12046
 @inote epsd2/royal
+@v     tigiₓ
+@end sign
+
+@sign |LUL.DIN.LIŠ|
+@inote obmc
 @v     tigiₓ
 @end sign
 
