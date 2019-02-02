@@ -23018,6 +23018,11 @@
 @v	duttu
 @end sign
 
+@sign	|TUK×UD|
+@ucode	
+@inote u3adm
+@end sign
+
 @sign	TUM
 @list HZL125
 @list LAK494
