@@ -4501,7 +4501,7 @@
 @v	šuruₓ
 @end sign
 
-@sign	|E.TUM.GA₂×NUN&NUN|
+@sign	|E.TUM.GA₂×(NUN&NUN)|
 @ucode	x1208A.x12308.x120E1
 @v	guruₓ
 @v	kurulₓ
