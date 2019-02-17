@@ -9,7 +9,7 @@
     <head/>
     <body>
       <esp:image file="lak25.png" description=""/>
-      <p>Browsable/searchable version of OGSL: click on a letter to begin</p>
+      <p>Browsable/searchable version of OGSL: click on a letter to begin, or search for a sign or value in the form.</p>
     </body>
   </html>
 </esp:page>

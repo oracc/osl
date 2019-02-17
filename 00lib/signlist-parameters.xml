@@ -18,26 +18,6 @@
     <script type="text/javascript" src="/ogsl/signlist/js/projesp.js"> </script>
   </param:common-headers>
   <param:top-content>
-    <div class="ogsl-form" id="ogsldiv">
-      <form name="ogslform" id="ogslform" action="/ogsl/sl" method="post" target="_top" onsubmit="return validateText(this)">
-	<input type="hidden" name="project" value="ogsl"/>
-	<input type="hidden" name="caller" value="esp"/>
-	<p class="unisearch">
-	  <input type="submit" value="FIND:" name="x"/>
-	  <input type="text" size="10" name="k1" value=""/>
-	  <select name="ext"> <!--onmouseup="submit()"-->
-	    <option selected="yes" value="">SIGN</option>
-	    <option value="forms">FORMS</option>
-	    <option value="h">HOMOPHONES</option>
-	    <option value="c">COMPOUNDS</option>
-	    <option value="cinit">INITIAL</option>
-	    <option value="clast">FINAL</option>
-	    <option value="contains">TIMES</option>
-	    <option value="contained">CONTAINED</option>
-	  </select>
-	</p>
-      </form>
-    </div>
   </param:top-content>
   <param:dc-id-prefix>ogsl-signlist-oracc-museum-upenn-edu/page/</param:dc-id-prefix>
   <param:main-menu-caption>Main menu</param:main-menu-caption>

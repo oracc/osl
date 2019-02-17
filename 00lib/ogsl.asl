@@ -173,7 +173,6 @@
 @form	~d |A.HA.BU.LAGAB|
 @inote	<href="http://cdli.ucla.edu/P010106" target="_blank">OIP 99, 113<a/> column 3, 6. UD.GAL.NUN writing (LAGAB for DU).
 @end form
-@form	~d |MUŠ.A.HA.DU|
 @form	~e |MUŠ.DU.A.HA|
 @form	~f BU
 @list HZL339
@@ -206,6 +205,7 @@
 @inote	RA 8, 42 Rev. col. 1 34, 37.
 @end form
 @form	~s |A.HA.TAR.UD.DU|
+@form	~t |MUŠ.A.HA.DU|
 @end sign
 
 @sign	|A.HU.SI|
@@ -4773,7 +4773,7 @@
 @v    egir [VAT 9541 = dcclt/signlists:P345960 o ii 20']
 @inote	   salgues
 @end form
-@form ~c |KWU732|
+@form ~c KWU732
 @v	zibₓ
 @inote in zib[bridle] also written zibₓ(EGIR) and zibₓ(TUM)
 @end form
@@ -20419,7 +20419,7 @@
 @form	~d |SILA₃.ŠU.GABA.A|
 @v	šagia
 @end form
-@form	~d |ŠU.GABA.A|
+@form	~e |ŠU.GABA.A|
 @v	šagiaₓ
 @end form
 @end sign
@@ -23019,7 +23019,6 @@
 @end sign
 
 @sign	|TUK×UD|
-@ucode	
 @inote u3adm
 @end sign
 
@@ -27726,7 +27725,7 @@
 @end sign
 
 @sign |A.ZI&ZI.LAGAB|
-@ucide	x12000.x12364.x121B8
+@ucode	x12000.x12364.x121B8
 @inote epsd2/praxis
 @v     aškiₓ
 @end sign
@@ -27813,8 +27812,6 @@
 @sign |KASKAL.LAGAB×X|
 @inote epsd2 2018-10-02
 @v šubtumₓ
-@end sign
-@inote epsd2 2018-10-02
 @end sign
 @sign |KA×DU|
 @inote epsd2 2018-10-02
