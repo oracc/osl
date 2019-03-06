@@ -9047,7 +9047,7 @@
 @v	dubur
 @v	ellag₂
 @v	ellaŋ₂
-@v	ellamₓ
+@v	ellam
 @v	gereš
 @v	gireš
 @v	giriš
