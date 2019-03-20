@@ -11863,6 +11863,11 @@
 @v	ugnimₓ
 @end sign
 
+@sign	|SU.LU.ŠU.KI.GAR|
+@ucode	x122E2.x121FB.x122D7.x121A0.x120FB
+@v	ugnimₓ
+@end sign
+
 @sign |KI.SU.LU.GAR.KI|
 @ucode	x121A0.x122E2.x121FB.x120FB.x121A0
 @v	ugnimₓ
