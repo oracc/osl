@@ -1870,6 +1870,8 @@
 @v	ana₃
 @v	as₃
 @v	aš
+@v	aš@f
+@inote "flat" aš, mostly Archaic Ur but also at Fara P480579
 @v	aš@c@90
 @v	aš@c@v
 @v	aš@v
@@ -20982,6 +20984,7 @@
 @v	šargal
 @v	1(šar₂)
 @v	1(šar₂@c)
+@v	1(šar₂@c@v)
 @v	1(šargal)
 @v	1(šargal@c)
 @v	šar₂@c
@@ -27835,4 +27838,16 @@
 @end sign
 @sign |URU×GA.ME|
 @inote epsd2 2018-10-02
+@end sign
+
+@sign ŠE@t
+@inote epsd2/admin/ed12 P449017
+@end sign
+
+@sign DU@90
+@inote epsd2/admin/ed12 P322671
+@end sign
+
+@sign LUH@180
+@inote epsd2/admin/ed12 P322671
 @end sign
