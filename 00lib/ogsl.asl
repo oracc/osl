@@ -27851,3 +27851,61 @@
 @sign LUH@180
 @inote epsd2/admin/ed12 P322671
 @end sign
+
+@sign |AB×X|
+@inote For validating sign-lists
+@end sign
+@sign |EZEN×X.KI|
+@inote For validating sign-lists
+@end sign
+@sign |E₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |GUM×X|
+@inote For validating sign-lists
+@end sign
+@sign |HI×X|
+@inote For validating sign-lists
+@end sign
+@sign |KI×X|
+@inote For validating sign-lists
+@end sign
+@sign |LAGAB×X|
+@inote For validating sign-lists
+@end sign
+@sign |LAGAR×X|
+@inote For validating sign-lists
+@end sign
+@sign |LAL₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |LU₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |NINDA₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |PIRIG×X|
+@inote For validating sign-lists
+@end sign
+@sign |SAG×X|
+@inote For validating sign-lists
+@end sign
+@sign |UD×X|
+@inote For validating sign-lists
+@end sign
+@sign |URU×X|
+@inote For validating sign-lists
+@end sign
+@sign |U₂.GA₂×X.TUR|
+@inote For validating sign-lists
+@end sign
+@sign |U₂.GA₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |UŠ×X|
+@inote For validating sign-lists
+@end sign
+@sign |ŠA₃×X|
+@inote For validating sign-lists
+@end sign
