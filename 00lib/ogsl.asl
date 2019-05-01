@@ -1870,6 +1870,8 @@
 @v	ana₃
 @v	as₃
 @v	aš
+@v	aš@f
+@inote "flat" aš, mostly Archaic Ur but also at Fara P480579
 @v	aš@c@90
 @v	aš@c@v
 @v	aš@v
@@ -11864,6 +11866,11 @@
 @v	ugnimₓ
 @end sign
 
+@sign	|SU.LU.ŠU.KI.GAR|
+@ucode	x122E2.x121FB.x122D7.x121A0.x120FB
+@v	ugnimₓ
+@end sign
+
 @sign |KI.SU.LU.GAR.KI|
 @ucode	x121A0.x122E2.x121FB.x120FB.x121A0
 @v	ugnimₓ
@@ -20978,6 +20985,7 @@
 @v	šargal
 @v	1(šar₂)
 @v	1(šar₂@c)
+@v	1(šar₂@c@v)
 @v	1(šargal)
 @v	1(šargal@c)
 @v	šar₂@c
@@ -27831,4 +27839,74 @@
 @end sign
 @sign |URU×GA.ME|
 @inote epsd2 2018-10-02
+@end sign
+
+@sign ŠE@t
+@inote epsd2/admin/ed12 P449017
+@end sign
+
+@sign DU@90
+@inote epsd2/admin/ed12 P322671
+@end sign
+
+@sign LUH@180
+@inote epsd2/admin/ed12 P322671
+@end sign
+
+@sign |AB×X|
+@inote For validating sign-lists
+@end sign
+@sign |EZEN×X.KI|
+@inote For validating sign-lists
+@end sign
+@sign |E₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |GUM×X|
+@inote For validating sign-lists
+@end sign
+@sign |HI×X|
+@inote For validating sign-lists
+@end sign
+@sign |KI×X|
+@inote For validating sign-lists
+@end sign
+@sign |LAGAB×X|
+@inote For validating sign-lists
+@end sign
+@sign |LAGAR×X|
+@inote For validating sign-lists
+@end sign
+@sign |LAL₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |LU₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |NINDA₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |PIRIG×X|
+@inote For validating sign-lists
+@end sign
+@sign |SAG×X|
+@inote For validating sign-lists
+@end sign
+@sign |UD×X|
+@inote For validating sign-lists
+@end sign
+@sign |URU×X|
+@inote For validating sign-lists
+@end sign
+@sign |U₂.GA₂×X.TUR|
+@inote For validating sign-lists
+@end sign
+@sign |U₂.GA₂×X|
+@inote For validating sign-lists
+@end sign
+@sign |UŠ×X|
+@inote For validating sign-lists
+@end sign
+@sign |ŠA₃×X|
+@inote For validating sign-lists
 @end sign
