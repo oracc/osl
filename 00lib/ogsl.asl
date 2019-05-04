@@ -8790,6 +8790,10 @@
 @v      huš⁻
 @inote	Attinger
 @end form
+@form ~b GIR₃×HI
+@v	huš
+@inote Uncertain, needs collation, see P228804 vi 29
+@end form
 @end sign
 
 @sign	|HI×AŠ|
@@ -9162,6 +9166,9 @@
 @v	u₅
 @v-	ud₃
 @note	Value ud₃ is not recognized in MZL; it may derive from the gloss u₄ (ud) U₅ in P-Ea 128.
+@form ~a |KAD₂.U.SI|
+@v u₅
+@end form
 @end sign
 
 @sign	HUB₂
@@ -13589,6 +13596,10 @@
 @v	umah
 @v	umuh
 @v	umun₅
+@form ~a	|LAGAB×(A.U)|
+@v	humuh
+@end form
+@inote SJT merge with LAGAB×A and its several @forms?
 @end sign
 
 @sign	|LAGAB×(U.U.U)|
@@ -20873,6 +20884,10 @@
 @uname	CUNEIFORM SIGN SHA3 TIMES TUR
 @ucode	x122B4
 @v	peš₁₃
+@form ~a |ŠA₃.TUR|
+@v	peš₁₃
+@inote uncertain see dcclt:P227813 l.2
+@end form
 @end sign
 
 @sign	|ŠA₃×U|
@@ -21172,6 +21187,9 @@
 @form	~a |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAR|
 @v	garadin [CBS 157 = dcclt/signlists:P257722 r ii 14']
 @inote	salgues
+@end form
+@form	~b |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD|
+@v	garadin
 @end form
 @end sign
 
@@ -22230,6 +22248,9 @@
 @v	keš₃
 @v	keši₃
 @v	kiši₃
+@form ~a |ŠU₂.AN.HI×AŠ₂|
+@v	keš₃
+@end form
 @end sign
 
 @sign	|ŠU₂.AŠ₂|
@@ -22416,6 +22437,10 @@
 @v	gansis
 @v	ganzerₓ
 @v	kabta
+@form ~a |TA×IR|
+@v	gansis
+@end form
+
 @end sign
 
 @sign	TAB
@@ -25865,6 +25890,9 @@
 @v      šub₅
 @inote	Attinger
 @end form
+@form ~b |ZI&ZI.LAGAB×AŠ|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|ZI&ZI.EŠ₂.ŠE|
@@ -27930,7 +27958,16 @@
 @inote dcclt !sg
 @v kušuₓ
 @end sign
+@sign |SAL.X|
+@inote dcclt !sg
+@v emeₓ
+@end sign
 @sign |TAB&TAB|
 @inote dcclt !sg
+@v     limₓ
 @v     limmuₓ
+@end sign
+@sign	|UR×ŠU|
+@inote dcclt !sg
+@v	šuziₓ
 @end sign
