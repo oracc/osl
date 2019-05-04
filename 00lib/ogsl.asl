@@ -21879,6 +21879,11 @@
 @v	udub₂
 @v	udug₂
 @v?	utug₂
+@form ~a |SAL.GIŠ|
+@v	alₓ
+@v	rig₃
+@v	udug₂
+@end form
 @end sign
 
 @sign	ŠU
@@ -27877,7 +27882,7 @@
 @sign |LAGAR×X|
 @inote For validating sign-lists
 @end sign
-@sign |LAL₂×X|
+@sign |LAL₂.X|
 @inote For validating sign-lists
 @end sign
 @sign |LU₂×X|
@@ -27909,4 +27914,23 @@
 @end sign
 @sign |ŠA₃×X|
 @inote For validating sign-lists
+@end sign
+
+@sign |IM.NE|
+@inote dcclt !sg
+@end sign
+@sign |KI.NI|
+@inote dcclt !sg
+@end sign
+@sign |EN%EN|
+@inote dcclt !sg 
+@v mermerₓ
+@end sign
+@sign |SAL.U.DIŠ|
+@inote dcclt !sg
+@v kušuₓ
+@end sign
+@sign |TAB&TAB|
+@inote dcclt !sg
+@v     limmuₓ
 @end sign
