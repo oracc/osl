@@ -23208,6 +23208,9 @@
 @v	zezna
 @v	zizₓ
 @v	zizna
+@form ~a	|TUR.ZA|
+@v    	zizna
+@end form
 @end sign
 
 @sign	|TUR&TUR.ZA&ZA.TUR&TUR.ZA&ZA|
@@ -27970,4 +27973,7 @@
 @sign	|UR×ŠU|
 @inote dcclt !sg
 @v	šuziₓ
+@end sign
+@sign 	|DIM×KUR.SAR|
+@inote dcclt !sg
 @end sign
