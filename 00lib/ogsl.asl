@@ -5748,6 +5748,10 @@
 @v	garₓ
 @end sign
 
+@sign	|GA.KA×GU.SAR|
+@inote dcclt !sg
+@end sign
+
 @sign	|GA.KAD₃|
 @ucode	x120B5.x12191
 @v	pešₓ
@@ -8251,7 +8255,7 @@
 @ucode	x12118.x120FC
 @v	idigna
 @v	dallaₓ [TMH 5, 039 = P020453 o ii23, nin-dallaₓ(IDIGNA)]
-@note	The distinction between IDIGNA (LAK63; KWU689) and DALLA (MAŠ.IDIGNA) is consistent throughout the third millennium, with few excpetions. For Old Babylonian see Mittermayer aBZL. Exceptions include P020453 o ii23 (OAkk Nippur) P020600 o ii8 (OAkk Nippur) and P102772 o i12 (Ur III).
+@note	The distinction between IDIGNA (LAK063; KWU689) and DALLA (MAŠ.IDIGNA) is consistent throughout the third millennium, with few exceptions. For Old Babylonian see Mittermayer aBZL. Exceptions include P020453 o ii 23 (OAkk Nippur) P020600 o ii 8 (OAkk Nippur) and P102772 o i 12 (Ur III).
 @end sign
 
 @sign	|GU₂.NUNUZ|
@@ -15048,9 +15052,6 @@
 @end sign
 
 @sign	|LU₂.GAM|
-@end sign
-
-@sign	|LU₂.GAN₂@t|
 @end sign
 
 @sign	|LU₂.HI×BAD|
@@ -25273,8 +25274,6 @@
 @v	šeknu
 @v	šem₇
 @v	šen₅
-@form	~a |URUDA.IŠ|
-@form	~b |URUDA.IŠ.URUDA|
 @end sign
 
 @sign	|URUDA×U|
