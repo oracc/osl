@@ -2637,9 +2637,6 @@
 @v	kurun
 @end sign
 
-@sign	|BI.GIŠ|
-@end sign
-
 @sign	|BI.LUL|
 @ucode	x12049.x1221C
 @v	kušum
@@ -4951,6 +4948,7 @@
 @sign	|EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
 @ucode	x12097.x1227D.x1214A.x12263.x12228.x120AC
 @v	enkum
+@form ~a	|EN.PAP.IGI@g.NUN.EZEN×KASKAL|
 @end sign
 
 @sign	|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|
@@ -5307,6 +5305,7 @@
 @sign	|EŠ₂.ŠE|
 @ucode	x120A0.x122BA
 @v	dabin
+@inote properly |ZI₃.ŠE|?
 @end sign
 
 @sign	|EŠ₂.UD|
@@ -5972,6 +5971,10 @@
 @uname	CUNEIFORM SIGN GA2 TIMES ASH2 PLUS GAL
 @ucode	x120BE
 @v	gazigal
+@end sign
+
+@sign	|GA₂×AŠ₂.TUR)|
+@inote dcclt !sg
 @end sign
 
 @sign	|GA₂×BAD|
@@ -7796,6 +7799,8 @@
 @end form
 @form	~c |GUD.GIŠ×KID₂|
 @end form
+@form	~d |BI.GIŠ|
+@end form
 @end sign
 
 @sign	|GUD.GIŠ×TAK₄|
@@ -7867,6 +7872,10 @@
 @sign	|GIŠ.GAR.UMBIN|
 @ucode	x12111.x120FB.x12322
 @v	nisikiₓ
+@end sign
+
+@sign	|GIŠ.KA.KAD₃|
+@v	kaŋeškaraₓ
 @end sign
 
 @sign	|GIŠ.KA.KAD₄|
@@ -8022,7 +8031,7 @@
 
 @nosign	|GIŠ.TUG₂.PI.BU@t.NUN|
 @uphase	none
-@note	deprecated PBS 12, 13 o ii' 3 has a regular ŋizzal (collated).
+@note	Deprecated. PBS 12, 13 o ii' 3 has a regular ŋizzal (collated).
 @v-	ŋizzalₓ
 @end sign
 
@@ -8061,11 +8070,15 @@
 @v    ŋessal
 @inote	Attinger
 @inote  to be read ŋessal{+sal₄} in Attinger's system.
+@end form
+@form ~f |GIŠ.PI.TUG₂.NU₁₁@90|
+@v    ŋizzal
+@end form
 @end sign
 
 @nosign	|ŠIR@t.SILA₃|
 @ucode	x122D4.x122E1
-@note  deprecated; sign belongs to NU₁₁ family, not ŠIR
+@note  Deprecated. Sign belongs to NU₁₁ family, not ŠIR
 @v-	ŋizzal₂
 @end sign
 
@@ -19875,6 +19888,7 @@
 @v	ninkum
 @form ~a	|SAL.TUG₂.ME.DAG.X|
 @end form
+@form ~b	|SAL.TUG₂.PAP.IGI@g.NUN.EZEN×KASKAL|
 @end sign
 
 @sign	|SAL.TUK|
@@ -23813,6 +23827,9 @@
 @ucode	x12311.x121B3.x1235D.x1223D.x121A0
 @v	%akk namru
 @v	namri
+@form ~a |KUR.MUŠ₃@g.ZA|
+@inote with equivalence Uruk in OB diri
+#end form
 @end sign
 
 @sign	|U₂.NAGA.GA|
@@ -27975,4 +27992,16 @@
 @end sign
 @sign 	|DIM×KUR.SAR|
 @inote dcclt !sg
+@end sign
+@sign	|SANGA₂.MAH|
+@v dungaₓ
+@inote dcclt !sg
+@end sign
+@sign	|PA.PA|
+@v šullatₓ
+@inote dcclt !sg
+@end sign
+@sign |ZA.MUŠ₃.AB×(U.U.U)|
+@v zabalamₓ
+#inote dcclt !sg
 @end sign
