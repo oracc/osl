@@ -361,9 +361,11 @@
 @form	~i	|LAK589.PAD.A.SI|
 @end form
 @form	~j	|A.PA.NE.PAD.SI.A|
+@end form
 @form	~k	|A.PA.BI.GIŠ.PAD.SI.A.GA|
 @inote Hattuša
 @end form
+@form	~l	|A.PA.BI.GIŠ.PAD.SI.A|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -2793,6 +2795,9 @@
 @uname	CUNEIFORM SIGN BU OVER BU AB
 @ucode	x1204E
 @v	sirsir
+@form ~a |BU%BU×AB|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|BU&BU.UN|
@@ -8307,6 +8312,9 @@
 @v	ṭur
 @v	ṭuru
 @v	usan₆
+@form ~a |GU₂.KAK|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|GU₂×KAK.GIŠ%GIŠ|
@@ -8833,6 +8841,9 @@
 @form	~a |HI×MAŠ|
 @v	surₓ [Ebla Sign List = dcclt:Q000038 66, |HI×MAŠ| su-ru₁₂-um]
 @end form
+@form	~b |HI.AŠ|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|(HI×AŠ)&(HI×AŠ)|
@@ -8963,6 +8974,10 @@
 @v	sargad
 @v	šargad
 @v	šargadu
+@end sign
+
+@sign	|HI×HI|
+@inote dcclt !sg
 @end sign
 
 @sign	|HI×KIN|
@@ -14997,6 +15012,7 @@
 @form	~b |SU.SU.LU.LU.EŠ₂.EŠ₂|
 @form	~c |(SU.LU.EŠ₂.LAGAR@g)&(SU.LU.EŠ₂.LAGAR@g)|
 @form	~d |(LAGAR@g.SU.LU.EŠ₂)&(LAGAR@g.SU.LU.EŠ₂)|
+@form	~e |SU.LU.EŠ₂|
 @end sign
 
 @sign	|LU.EŠ₂.GAR.KI|
@@ -17145,6 +17161,9 @@
 @v	ne₈
 @v	pel₂
 @v	pil₂
+@form ~a |NE.PAP|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	NI
@@ -27239,12 +27258,6 @@
 @v     ŋizzalₓ
 @end sign
 
-@sign |GIŠ.GA×NUN&NUN|
-@ucode	x12111.x120E1
-@inote epsd2
-@v     ŋušurₓ
-@end sign
-
 @sign	|IGI.MAR|
 @ucode	x12146.x12225
 @inote epsd2
@@ -28005,3 +28018,22 @@
 @v zabalamₓ
 #inote dcclt !sg
 @end sign
+
+@sign |DU.KI|
+@v alikₓ
+@inote dcclt !sg
+@end sign
+
+@sign |DU@s.KI|
+@v lasimₓ
+@inote dcclt !sg
+@end sign
+
+@sign |4×(TAR.LIMMU₂)|
+@inote dcclt !sg
+@end sign
+
+@sign |4×(LUGAL.X)|
+@inote dcclt !sg
+@end sign
+
