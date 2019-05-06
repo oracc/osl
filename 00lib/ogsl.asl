@@ -2715,6 +2715,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN BU
 @ucode	x1204D
+@v	alaₓ
 @v	bu
 @v	bur₁₂
 @v	dim₁₃
@@ -2905,6 +2906,9 @@
 @v	šum₅
 @v	ušu
 @v	ušum
+@form ~a	|MUG.MUG|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|BUR₂.BUR₂|
@@ -3917,6 +3921,9 @@
 @v	subₓ
 @v	sugₓ
 @v	šuₓ
+@form ~a	|DU@s&DU@s|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	DUB
@@ -8237,6 +8244,9 @@
 @v	suh₃
 @v	zaₓ
 @v	zih
+@form ~a |GU&GU|
+@inote dcclt !sg; collate
+@end form
 @end sign
 
 @sign	|GU%GU.GU%GU|
@@ -8597,6 +8607,9 @@
 @form ~a |SIK₂.LAM.HI×NUN.ME.GAM|
 @v    guru₇ [YBC 2176 = dcclt/signlists:P467315 r i 28]
 @inote salgues
+@end form
+@form ~b |SIK₂.LAM.HI×NUN.ME.U|
+@inote dcclt !sg
 @end form
 @end sign
 
@@ -9522,6 +9535,7 @@
 @ucode	x12146.x12000
 @v?	ahhur
 @v	imhur₄
+@v	uₓ
 @v	uhhur₃
 @end sign
 
@@ -12140,6 +12154,9 @@
 @sign	|KID.ŠU₂.MA₂|
 @ucode	x121A4.x122D9.x12223
 @v	muruₓ
+@form ~a	[KID.MA₂.ŠU₂.A]|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	KIN
@@ -22295,6 +22312,9 @@
 @v	gibil₂
 @v	gibir
 @v	kibir₂
+@form ~a |ŠU₂.ZIB|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|ŠU₂.BAD|
@@ -23833,6 +23853,9 @@
 @v	muzug₄
 @v	usug₄
 @v	uzug₄
+@form ~a	|U₂.KUR.SAL.TUK|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|U₂.KUR.RA|
@@ -24843,6 +24866,7 @@
 @uname	CUNEIFORM SIGN URI
 @ucode	x12335
 @v	ari
+@v	irₓ
 @v	kinda₂
 @v	tila
 @v	tilla
@@ -25051,6 +25075,9 @@
 @v	gur₅
 @v	guru₅
 @v	šakir
+@end form
+@form ~b	|URU×(MIN.GU)|
+@inote dcclt !sg
 @end form
 @end sign
 
@@ -28034,6 +28061,14 @@
 @end sign
 
 @sign |4×(LUGAL.X)|
+@inote dcclt !sg
+@end sign
+
+@sign |KUL.ŠA₃|
+@inote dcclt !sg
+@end sign
+
+@sign |ŠU.KUL.UŠ.MAŠ|
 @inote dcclt !sg
 @end sign
 
