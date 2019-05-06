@@ -2366,6 +2366,9 @@
 @sign	|BAD.X|
 @ucode	x12041.X
 @v	agaš
+@form ~a |BAD&BAD.X|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	BAHAR₂
@@ -8353,6 +8356,9 @@
 @v	usan
 @v	usian
 @v	ušen
+@form ~a |GU₂.NUN|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|GU₂×(SAL.TUG₂)|
@@ -9066,6 +9072,9 @@
 @v	gudu₄
 @v	gudug
 @v	šutug₂
+@form ~a 	|HI+AŠ.NUN.ME|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|HI×NUN.ME.U|
@@ -10090,6 +10099,9 @@
 @v	kid₇
 @v	tug₇
 @v	tuk₇
+@form ~a |IM.TAK₄|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|IM%IM|
@@ -11872,6 +11884,9 @@
 @v	karaš
 @form ~a	|KI.KAL.BAD|
 @ucode	x121A0.x12197.x12041
+@end form
+@form ~b	|KI.KAL.IDIM|
+@end form
 @end sign
 
 @sign	|KI.KI|
@@ -20873,6 +20888,9 @@
 @v	peš₄
 @v	piš₄
 @v	sur₄
+@form ~a |ŠA₃×(U.A)|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|ŠA₃×BAD|
@@ -21952,6 +21970,9 @@
 @v	alₓ
 @v	rig₃
 @v	udug₂
+@end form
+@form ~b |NI.DIŠ.GIŠ|
+@inote dcclt !sg
 @end form
 @end sign
 
@@ -24169,6 +24190,7 @@
 @sign	|UD.MA₂.AB×HA.ŠIR|
 @ucode	x12313.x12223.x1200F.x122D3
 @v	sirara₂
+@inote sjt ŠIR or NU₁₁ here?
 @end sign
 
 @sign	|UD.MA₂.AB×HA.TAG|
@@ -24192,6 +24214,7 @@
 @end form
 @form ~b	|UD.HI.HU.HI.NUN.NA|
 @form ~c	|UD.HU.HI.HU.KI|
+@form ~d	|UD.MUD.NUN.KI|
 @end sign
 
 @sign	|UD.NI|
@@ -24274,6 +24297,9 @@
 @ucode	x12316
 @v	itima₂
 @v	utima₂
+@form ~a |UD.MI|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|UD×(U.U.U)|
@@ -28069,6 +28095,10 @@
 @end sign
 
 @sign |ŠU.KUL.UŠ.MAŠ|
+@inote dcclt !sg
+@end sign
+
+@sign |DU@g.A|
 @inote dcclt !sg
 @end sign
 
