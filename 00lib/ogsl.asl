@@ -793,6 +793,9 @@
 @ucode	x1200C
 @v	agarin
 @v	aŋarin
+@form ~a |NINDA₂×DUN₃@g|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|AB×GAL|
@@ -807,6 +810,7 @@
 @v	irigal
 @v	unugi₂
 @v	urugal
+@form ~a |NINDA₂×GAL|
 @end sign
 
 @sign	|AB×GAN₂@t|
@@ -8916,6 +8920,9 @@
 @v	ur₅
 @v	ura₅
 @v	uruₓ
+@form ~a |HI.AŠ₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|HI×AŠ₂.DU|
@@ -8966,6 +8973,9 @@
 @v	utul₂
 @form	~v KAM@v
 @ucode	xe002
+@end form
+@form ~a |HI.AŠ|
+@inote dcclt !sg
 @end form
 @end sign
 
@@ -10446,6 +10456,9 @@
 @ucode	x1215A
 @v	nagiri
 @v	nigru
+@form ~a |KA.AD.KU₃|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KA×AŠ₂|
@@ -10679,6 +10692,9 @@
 @v	irhandiₓ
 @v	nehandiₓ
 @v	tibira₂
+@form ~a |KA.GIŠ%GIŠ|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KA×(GIŠ.SAR)|
@@ -10909,6 +10925,9 @@
 @inote	salgues
 @v	murgu₃
 @v	urgu₂
+@form ~a |KA.NE|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KA×NUN|
@@ -10998,6 +11017,7 @@
 @v	gukiri
 @v	ma₈
 @v	mu₁₁
+@form ~a |KA.SAR|
 @end sign
 
 @sign	|KA×SIG|
@@ -11092,6 +11112,9 @@
 @uname	CUNEIFORM SIGN KA TIMES TAR
 @ucode	x12186
 @v	zukura
+@form ~a |KA.TAR|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KA×U|
@@ -11184,6 +11207,10 @@
 @v	hurₓ
 @v	širi
 @v	zukuraₓ
+@form ~a |KA.X|
+@v    zubₓ
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KA×ZI|
@@ -13103,6 +13130,9 @@
 @v	kala₁₀
 @v	sidug
 @v	sidugga
+@form ~a |LAGAB.DAR|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LAGAB×EN|
@@ -16026,6 +16056,9 @@
 @v-	dal₂
 @note	Reading dal₂ is based on MSL 2, iii 21 but see the new edition in MSL 14, 135.
 @v	dalla
+@form ~a |PAP.GU₂.GAR₃|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|MAŠ.KAK|
@@ -16366,7 +16399,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN MUG GUNU
 @ucode	x1222F
-@v	uttu₄
+@v	uttuₓ
+@inote sjt uttu₄ to uttuₓ because uttu₄ is already MUG
 @v	uṭu₄
 @v	zadim
 @end sign
@@ -16948,6 +16982,10 @@
 @form	~a |ŠE.NAGA@ŠE.NAGA|
 @v	dalhamun₇ [CBS 157 = dcclt/signlists:P257722 r ii 19']
 @inote	salgues
+@end form
+@form	~b |4×(AN.ŠE.NAGA)|
+@v	dalhamun₇
+@inote dcclt !sg
 @end form
 @end sign
 
@@ -18090,6 +18128,9 @@
 @ucode	x1226C
 @v	akar
 @v	ega₂
+@form ~a |(NUN.LAGAR)&(NUN.LAGAR)|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	NUN@t
@@ -24460,6 +24501,9 @@
 @v	emeda
 @v	um-me-da
 @v	ummeda
+@form ~a |DUB.ME|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|UM×LAGAB|
@@ -27611,6 +27655,9 @@
 
 @sign |DUB×LAGAB|
 @inote dcclt/signlists
+@form ~a |DUB.LAGAB|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign |LAGAB×LAGAR|
