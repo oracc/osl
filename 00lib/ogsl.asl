@@ -2806,6 +2806,9 @@
 @form ~a |BU%BU×AB|
 @inote dcclt !sg
 @end form
+@form ~b |MUŠ%MUŠ×AB|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|BU&BU.UN|
@@ -3822,6 +3825,9 @@
 @v	sub₂
 @v	sug₂
 @v?	sup₂
+@form ~a |DU%DU|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|DU&DU.DU&DU|
@@ -5490,6 +5496,9 @@
 @ucode	x120A7
 @v	dugin
 @v	dugina
+@form ~a |EZEN×GAN₂@t|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|EZEN×DUN₃@g@g|
@@ -6413,6 +6422,10 @@
 @uphase	9
 @ucode	x124C3
 @uname	CUNEIFORM SIGN GA2 TIMES LAM TIMES KUR
+@end sign
+
+@sign	|GA₂×LI|
+@inote dcclt !sg possibly gusub
 @end sign
 
 @sign	|GA₂×LUH|
@@ -9099,6 +9112,9 @@
 @form	~a |MUŠ×PA|
 @list KWU482a
 @note	Krebernik OBO 160/1, 279; signform KWU482a drawn as |MUŠ×GAD| and needs collation.
+@end form
+@form	~b |HI×NUN.ME.BAD|
+@inote dcclt !sg
 @end form
 @end sign
 
@@ -15844,6 +15860,9 @@
 @ucode	x1221E
 @v	gum₂-gum₂
 @v	gumgum
+@form ~a |LUM%LUM|
+@inote dcclt !sg collate
+@end form
 @end sign
 
 @sign	|LUM&LUM.DU@s|
@@ -17232,6 +17251,9 @@
 @v	pel₂
 @v	pil₂
 @form ~a |NE.PAP|
+@inote dcclt !sg
+@end form
+@form ~a |NE×PAP|
 @inote dcclt !sg
 @end form
 @end sign
@@ -19520,6 +19542,10 @@
 @v?	hulumₓ
 @end sign
 
+@sign	|SAG×IG|
+@inote dcclt !sg uncertain
+@end sign
+
 @sign	|SAG×KAK|
 @list LAK312
 @list MZL188
@@ -19537,11 +19563,19 @@
 @v	xₓ
 @end sign
 
+@sign	|SAG×KU|
+@inote dcclt !sg uncertain
+@end sign
+
 @sign	|SAG×KUR|
 @uphase	1
 @uname	CUNEIFORM SIGN SAG TIMES KUR
 @ucode	x1229B
 @v	...gukin
+@end sign
+
+@sign	|SAG×LAM|
+@inote dcclt !sg uncertain
 @end sign
 
 @sign	|SAG×LUM|
@@ -20393,6 +20427,9 @@
 @v	hiₓ
 @v	lahhušu
 @v	šikahara
+@form ~a |SIG₄%SIG₄.ŠU₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	SIK₂
@@ -23561,6 +23598,9 @@
 @v	šita₄
 @v	šudul₆
 @v	šutul₆
+@form ~a |U.GA₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|U.MAŠ.KAB|
@@ -24561,6 +24601,9 @@
 @ucode	x12322
 @v	sigₓ
 @v	umbin
+@form ~a |GAD.TAK₄.UR₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|UMBIN×LU|
@@ -25427,6 +25470,9 @@
 @sign	|URUDA×U.U|
 @ucode	x12350.x1230B
 @v	samagₓ
+@form ~a |URUDA×U.U.UM|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	USSU
@@ -28146,6 +28192,66 @@
 @end sign
 
 @sign |DU@g.A|
+@inote dcclt !sg
+@end sign
+
+@sign |ŠE.AB₂.TAB|
+@inote dcclt !sg
+@end sign
+
+@sign |ŠE.AB₂.GUD|
+@inote dcclt !sg
+@end sign
+
+@sign |KEŠ₂×A|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×(GAR.X)|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×MES|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×UZU|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×GIG|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×|
 @inote dcclt !sg
 @end sign
 
