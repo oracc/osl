@@ -17006,6 +17006,9 @@
 @v	dalhamun₇
 @inote dcclt !sg
 @end form
+@form	~c |U.NAGA@U.NAGA|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	NAGAR
@@ -19914,6 +19917,9 @@
 @v	gi₁₂
 @v	gim₃
 @v	gin₅
+@form ~a |SAL×KUR|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|SAL.KUŠU₂|
@@ -22050,6 +22056,9 @@
 @v	udug₂
 @end form
 @form ~b |NI.DIŠ.GIŠ|
+@inote dcclt !sg
+@end form
+@form ~b |ŠITA.GIŠ|
 @inote dcclt !sg
 @end form
 @end sign
@@ -28223,35 +28232,16 @@
 @inote dcclt !sg
 @end sign
 
-@sign |KA×|
+@sign |BAN.GAM|
+@v	zugudₓ
 @inote dcclt !sg
 @end sign
 
-@sign |KA×|
+@sign |ŠIR.UD|
 @inote dcclt !sg
 @end sign
 
-@sign |KA×|
+@sign |ŠE.DIM|
+@v	munuₓ
 @inote dcclt !sg
 @end sign
-
-@sign |KA×|
-@inote dcclt !sg
-@end sign
-
-@sign |KA×|
-@inote dcclt !sg
-@end sign
-
-@sign |KA×|
-@inote dcclt !sg
-@end sign
-
-@sign |KA×|
-@inote dcclt !sg
-@end sign
-
-@sign |KA×|
-@inote dcclt !sg
-@end sign
-
