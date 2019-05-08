@@ -12103,6 +12103,9 @@
 @sign	|KI.ŠEŠ.KAK|
 @ucode	x121A0.x122C0.x12195
 @v	kissa
+@form	~a |KI.ŠEŠ.KAK.A|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KI.UD|
@@ -18752,9 +18755,6 @@
 @sign	|PA.SUD.EL|
 @ucode	x1227A.x122E4.x12096
 @v	sugₓ
-@end sign
-
-@sign	|PA.URU|
 @end sign
 
 @sign	|PA.URU×MIN|
