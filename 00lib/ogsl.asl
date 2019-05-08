@@ -6001,7 +6001,7 @@
 @v	gazigal
 @end sign
 
-@sign	|GA₂×AŠ₂.TUR)|
+@sign	|GA₂×(AŠ₂.TUR)|
 @inote dcclt !sg
 @end sign
 
@@ -8851,7 +8851,7 @@
 @v      huš⁻
 @inote	Attinger
 @end form
-@form ~b GIR₃×HI
+@form ~b |GIR₃×HI|
 @v	huš
 @inote Uncertain, needs collation, see P228804 vi 29
 @end form
@@ -12215,7 +12215,7 @@
 @sign	|KID.ŠU₂.MA₂|
 @ucode	x121A4.x122D9.x12223
 @v	muruₓ
-@form ~a	[KID.MA₂.ŠU₂.A]|
+@form ~a	|KID.MA₂.ŠU₂.A|
 @inote dcclt !sg
 @end form
 @end sign
@@ -13694,6 +13694,7 @@
 @end sign
 
 @sign	|LAGAB×(U.A)|
+@inote SJT merge with LAGAB×A and its several @forms?
 @list MZL787
 @list OBZL412
 @list SLLHA512
@@ -13712,7 +13713,6 @@
 @form ~a	|LAGAB×(A.U)|
 @v	humuh
 @end form
-@inote SJT merge with LAGAB×A and its several @forms?
 @end sign
 
 @sign	|LAGAB×(U.U.U)|
@@ -28136,10 +28136,6 @@
 @end sign
 @sign |KI.NI|
 @inote dcclt !sg
-@end sign
-@sign |EN%EN|
-@inote dcclt !sg 
-@v mermerₓ
 @end sign
 @sign |SAL.U.DIŠ|
 @inote dcclt !sg
