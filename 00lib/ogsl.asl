@@ -17259,7 +17259,7 @@
 @form ~a |NE.PAP|
 @inote dcclt !sg
 @end form
-@form ~a |NE×PAP|
+@form ~b |NE×PAP|
 @inote dcclt !sg
 @end form
 @end sign
@@ -22058,7 +22058,7 @@
 @form ~b |NI.DIŠ.GIŠ|
 @inote dcclt !sg
 @end form
-@form ~b |ŠITA.GIŠ|
+@form ~c |ŠITA.GIŠ|
 @inote dcclt !sg
 @end form
 @end sign
