@@ -14860,6 +14860,9 @@
 @inote	salgues
 @v	halbi₅
 @v	halbu₅
+@form ~a |LAL₂.URU|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LAL₂.DU|
@@ -14938,6 +14941,9 @@
 @v	šurippak₂
 @v	šurupak₂
 @v	šuruppak₂
+@form ~a |LAM.KUR.RU|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LAM.SAG|
@@ -21965,6 +21971,9 @@
 @v	šeneg
 @inote	Attinger
 @v	šinig
+@form ~a |GAD.NAGA|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	ŠIR
@@ -27398,10 +27407,10 @@
 @v     arkabₓ
 @end sign
 
-@sign |GIŠ.MUŠ₃.SIK₂.LAM|
-@ucode	x12111.x12239.x122E0.x121F4
-@inote epsd2
-@v     šušuₓ
+@sign |MUŠ₃.SIK₂.LAM|
+@ucode	x12239.x122E0.x121F4
+@inote epsd2; dcclt !sg
+@v     	šušuₓ
 @end sign
 
 @sign |GIŠ.TUG₂.NI|
