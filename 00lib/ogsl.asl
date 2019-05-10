@@ -870,6 +870,9 @@
 @uname	CUNEIFORM SIGN AB TIMES IGI GUNU
 @ucode	x12010
 @v	unugi
+@form ~a |NINDA₂×IGI@g|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|AB×NUN|
@@ -4917,6 +4920,9 @@
 @sign	|EN.ME.AN.MUŠ₃|
 @ucode	x12097.x12228.x1202D.x12239
 @v	ukurrim
+@form ~a |EN.ME.AN×MUŠ₃|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|EN.ME.GI|
@@ -4952,6 +4958,9 @@
 @sign	|EN.NUNUZ.DIM₂|
 @ucode	x12097.x1226D.x12076
 @v	ennigi₂
+@form ~a |EN.NUNUZ.MA|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|EN.NUNUZ.ZI.AN.ŠEŠ.KI|
@@ -5942,6 +5951,9 @@
 @ucode	x120BC.x12086
 @v	agarin₃
 @v	aŋarin₃
+@form ~a |GA₂×AN.DUN₃|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|GA₂×AN.KAK.A|
@@ -8988,6 +9000,9 @@
 @ucode	xe002
 @end form
 @form ~a |HI.AŠ|
+@inote dcclt !sg
+@end form
+@form ~a |HI.BAD|
 @inote dcclt !sg
 @end form
 @end sign
@@ -19487,6 +19502,9 @@
 @sign	|SAG.EZEN|
 @ucode	x12295.x120A1
 @v	durme
+@form ~a |SAG.KEŠ₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|SAG.PA.LAGAB|
@@ -21352,16 +21370,14 @@
 @end form
 @end sign
 
-@sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB|
-@ucode	x12303.x121B8
-@v	garadin₄
-@end sign
-
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB.LAGAB|
 @ucode	x12303.x121B8.x121B8
 @v	garadin₄
 @v	karadin₄
 @form	~a (|(ŠE.NUN&NUN.LAGAB)&(ŠE.NUN&NUN.LAGAB)|)
+@end form
+@form	~b |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB|
+@end form
 @end sign
 
 @sign	|ŠE.PAP.PAP|
@@ -23939,6 +23955,9 @@
 @v	kiši₁₆
 @v	kišig
 @v	kišik
+@form ~a |U₂.GIR₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|U₂.GIŠ.MI|
@@ -28248,5 +28267,10 @@
 
 @sign |ŠE.DIM|
 @v	munuₓ
+@inote dcclt !sg
+@end sign
+
+@sign |GUD×UD|
+@v	guduₓ
 @inote dcclt !sg
 @end sign
