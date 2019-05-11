@@ -4474,6 +4474,9 @@
 @v	šutul₄
 @v	šutun₄
 @v	tul₆
+@form ~a |DUN₃@g×(MU.KAK)|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	DUR₂
@@ -9380,6 +9383,15 @@
 @note	kungal belongs to |LU.HUL₂|
 @v	kuš₈
 @v	ukuš₂
+@form ~a |ŠU.IŠ|
+@inote dcclt !sg uncertain recollate
+@end form
+@form ~b |ŠU.RA|
+@inote dcclt !sg uncertain recollate
+@end form
+@form ~c |ŠU.NESAG|
+@inote dcclt !sg uncertain recollate
+@end form
 @end sign
 
 @sign	I
@@ -12256,6 +12268,9 @@
 @form ~a	|KID.MA₂.ŠU₂.A|
 @inote dcclt !sg
 @end form
+@form ~b	|KID.MA₂.ŠU₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	KIN
@@ -13511,6 +13526,9 @@
 @v	akkan₃
 @v	elamkuš₂
 @v	ellamkuš₂
+@form ~a |LAGAB×(IM.LU)|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LAGAB×LUL|
@@ -19008,6 +19026,10 @@
 @ucode	x1227D.x1214A.x12263.x12228
 @v	isimu₄
 @v	isimud₄
+@end sign
+
+@sign	|PAP.IGI@g.NUN.ME.EZEN×KASKAL|
+@inote dcclt !sg
 @end sign
 
 @sign	|PAP.SAG|
@@ -28326,6 +28348,14 @@
 @end sign
 
 @sign |KA×(A.X)|
+@inote dcclt !sg
+@end sign
+
+@sign |U₂&U₂|
+@inote dcclt !sg
+@end sign
+
+@sign |GAR.SAG.KEŠ₂.SAL|
 @inote dcclt !sg
 @end sign
 
