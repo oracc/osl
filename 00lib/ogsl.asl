@@ -5847,6 +5847,9 @@
 @ucode	x120B6
 @v	gar₂
 @v	gara₂
+@form ~a |SA.NI|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	GA₂
@@ -10942,6 +10945,9 @@
 @inote	##CHECK MSL 14 308, 331
 @v	zuguz [BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 2']
 @inote	salgues
+@form ~a |KA.LUM|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KA×ME|
@@ -15203,6 +15209,9 @@
 @ucode	x121FC
 @v	ad₃
 @v	adda₂
+@form ~a |LU.BAD|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	LU₂
@@ -15362,6 +15371,9 @@
 @v	ešelal
 @v	...id
 @v?	irₓ
+@form ~a |LU₂.EŠ₂.LAL|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LU₂×EŠ₂@t|
@@ -28395,5 +28407,19 @@
 
 @sign |LAGAB×ŠITA|
 @inote dcclt !sg
+@end sign
+
+@sign |NINDA₂×GI|
+@v giguruₓ
+@inote dcclt !sg writing for giguru[container] = pānu[basket] ?
+@end sign
+
+@sign |KA×KU|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×SI|
+@inote dcclt !sg
+@v	kurkuₓ
 @end sign
 
