@@ -11807,7 +11807,7 @@
 @sign	|KASKAL&KASKAL.LAGAB&LAGAB|
 @v	šubtu₄
 @v	šubtum₄
-@form	|KASKAL&KASKAL.DU&DU.BAD&BAD|
+@form ~a	|KASKAL&KASKAL.DU&DU.BAD&BAD|
 @inote dcclt !sg uncertain
 @end form
 @end sign
