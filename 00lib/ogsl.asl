@@ -9029,7 +9029,7 @@
 @form ~a |HI.AŠ|
 @inote dcclt !sg
 @end form
-@form ~a |HI.BAD|
+@form ~b |HI.BAD|
 @inote dcclt !sg
 @end form
 @end sign
