@@ -568,7 +568,7 @@
 @uname	CUNEIFORM SIGN A TIMES LAGAR GUNU
 @ucode	x12006
 @v	šedu₃
-@form ~a
+@form ~a |A.LAGAR@g|
 @inote dcclt !sg
 @end form
 @end sign
@@ -5974,7 +5974,7 @@
 
 @sign	|GA₂×AN.GAN|
 @inote dcclt !sg
-@end form
+@end sign
 
 @sign	|GA₂×AN.KAK.A|
 @ucode	x120BC.x12195.x12000
