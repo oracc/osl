@@ -2852,6 +2852,8 @@
 @uname	CUNEIFORM SIGN BU CROSSING BU
 @ucode	x12050
 @v	unu₁₂
+@form ~a |BU&BU|
+@end form
 @end sign
 
 @sign	BULUG
@@ -6747,6 +6749,10 @@
 @end form
 @end sign
 
+@sign	|GA₂×(ZIZ₂.GAL)|
+@inote dcclt !sg
+@end sign
+
 @sign	|GA₂×X|
 @uphase	0
 @v	...ri
@@ -9400,13 +9406,13 @@
 @note	kungal belongs to |LU.HUL₂|
 @v	kuš₈
 @v	ukuš₂
-@form ~a |ŠU.IŠ|
+@form ~a |ŠU₂.IŠ|
 @inote dcclt !sg uncertain recollate
 @end form
-@form ~b |ŠU.RA|
+@form ~b |ŠU₂.RA|
 @inote dcclt !sg uncertain recollate
 @end form
-@form ~c |ŠU.NESAG|
+@form ~c |ŠU₂.NESAG|
 @inote dcclt !sg uncertain recollate
 @end form
 @end sign
@@ -11801,6 +11807,9 @@
 @sign	|KASKAL&KASKAL.LAGAB&LAGAB|
 @v	šubtu₄
 @v	šubtum₄
+@form	|KASKAL&KASKAL.DU&DU.BAD&BAD|
+@inote dcclt !sg uncertain
+@end form
 @end sign
 
 @sign	KEŠ₂
@@ -22534,6 +22543,9 @@
 @form ~a |ŠU₂.AN.HI×AŠ₂|
 @v	keš₃
 @end form
+@form ~b |ŠU₂.AN.HI.GAD|
+@v	keš₃
+@end form
 @end sign
 
 @sign	|ŠU₂.AŠ₂|
@@ -23977,6 +23989,7 @@
 @v	ninniₓ
 @v	ninnu
 @v	ninuₓ
+@v	5(u)
 @end sign
 
 @sign	|U&U.U@v&U@v|
@@ -24115,6 +24128,8 @@
 @v	namri
 @form ~a |KUR.MUŠ₃@g.ZA|
 @inote with equivalence Uruk in OB diri
+#end form
+@form ~b |KUR.MUŠ₃|
 #end form
 @end sign
 
@@ -24291,6 +24306,10 @@
 @sign	|UD.AB×(U.U.U)|
 @pname	|UD.AB×U+U+U|
 @ucode	x12313.x12014
+@end sign
+
+@sign	|UD.AB×(U.U.U).ŠIR.LAGAB.A|
+@inote dcclt !sg
 @end sign
 
 @sign	|UD.AB@g|
@@ -28422,3 +28441,6 @@
 @v	kurkuₓ
 @end sign
 
+@sign |LU₂&LU₂.GIŠ&GIŠ|
+@inote dcclt !sg
+@end sign
