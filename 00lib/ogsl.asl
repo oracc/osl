@@ -2812,6 +2812,9 @@
 @form ~b |MUŠ%MUŠ×AB|
 @inote dcclt !sg
 @end form
+@form ~c |MUŠ%MUŠ.AB|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|BU&BU.UN|
@@ -5956,6 +5959,10 @@
 @end form
 @end sign
 
+@sign	|GA₂×AN.GAN|
+@inote dcclt !sg
+@end form
+
 @sign	|GA₂×AN.KAK.A|
 @ucode	x120BC.x12195.x12000
 @v	usud
@@ -7449,7 +7456,7 @@
 @nosign	|GI.KAK|
 @ucode	x12100.x12195
 @note  Reading kilim₃ was based on a misreading of An = Anum V 34; see Litke, An-Anum 171 with note to line 34 and Krebernik, BFE 290-291.
-@v	kilim₃
+@v-	kilim₃
 @end sign
 
 @sign |GI.KID.MAH|
@@ -9016,7 +9023,7 @@
 @v	as₆
 @v	aš₈
 @v?	šardiš
-@v?	šargeš
+@v	šarŋeš
 @v?	umma₂
 @v	utulₓ
 @end sign
@@ -9175,6 +9182,19 @@
 @uphase	0
 @uname	CUNEIFORM SIGN HI TIMES U PLUS U
 @v	šaruminₓ
+@v	šarniš
+@end sign
+
+@sign	|HI×(U.U.U)|
+@v	šarušu
+@end sign
+
+@sign	|HI×4(U)|
+@v	šarnimin
+@end sign
+
+@sign	|HI×5(U)|
+@v	šarninnu
 @end sign
 
 @sign	HU
@@ -10622,6 +10642,9 @@
 @v	pum
 @v	puzur₅
 @v	tugure
+@form ~a |KA×GAN₂|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|KA×GAN₂@t.ŠA|
@@ -15823,6 +15846,10 @@
 @v	ka₁₀
 @end sign
 
+@sign	|LUL.AŠ|
+@inote dcclt !sg
+@end sign
+
 @sign	|LUL.BALAG|
 @ucode	x1221C.x12046
 @v	tegi₂
@@ -17030,7 +17057,7 @@
 @v	dalhamun₇
 @inote dcclt !sg
 @end form
-@form	~c |U.NAGA@U.NAGA|
+@form	~c |U₂.NAGA@U₂.NAGA|
 @inote dcclt !sg
 @end form
 @end sign
@@ -21858,6 +21885,9 @@
 @v	šemmug
 @v	šimbulug₅
 @v	šimmug
+@form ~a |ŠIM.BULUG|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|ŠIM×DIN|
@@ -21891,6 +21921,9 @@
 @v	siraš₃
 @v	siris₃
 @v	šinₓ
+@form ~a |ŠIM.GAR|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|ŠIM×IGI|
@@ -21933,6 +21966,9 @@
 @ucode	x122D0
 @v	nug
 @v?	šimbulug₂
+@form ~a |ŠIM.MUG|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|ŠIM×PI|
@@ -22834,6 +22870,9 @@
 @uname	CUNEIFORM SIGN TAG TIMES SHU
 @ucode	x122F7
 @v	tibir₂
+@form ~a |TAG.ŠU|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|TAG×TUG₂|
@@ -22859,6 +22898,9 @@
 @ucode	x122F9
 @v	silig₂
 @v	tibir₃
+@form ~a |TAG.UD|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	TAK₄
@@ -28274,3 +28316,16 @@
 @v	guduₓ
 @inote dcclt !sg
 @end sign
+
+@sign |AB₂×GUD|
+@inote dcclt !sg
+@end sign
+
+@sign |AB₂×TAB|
+@inote dcclt !sg
+@end sign
+
+@sign |KA×(A.X)|
+@inote dcclt !sg
+@end sign
+
