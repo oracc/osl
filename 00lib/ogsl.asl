@@ -569,6 +569,9 @@
 @uname	CUNEIFORM SIGN A TIMES LAGAR GUNU
 @ucode	x12006
 @v	šedu₃
+@form ~a
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|A×MUŠ|
@@ -2337,6 +2340,12 @@
 @v	dabda₂
 @end sign
 
+@sign	|BAD&BAD|
+@v	ešemen₅
+@v	ešemin₅
+@inote dcclt !sg
+@end sign
+
 @sign	|BAD.IGI.BAD|
 @ucode	x12041.x12146.x12041
 @v	burₓ
@@ -2592,8 +2601,7 @@
 @v	dugₓ
 @v	ebirₓ
 @v	epir₂
-@v	ešemen₅
-@v	ešemin₅
+@inote sjt moved ešemin₅ etc. to BAD&BAD
 @v	gaš
 @v	huburₓ
 @v?	ka₈
@@ -7928,6 +7936,10 @@
 @v	nisikiₓ
 @end sign
 
+@sign	|GIŠ&GIŠ|
+@inote dcclt !sg uncertain
+@end sign
+
 @sign	|GIŠ.KA.KAD₃|
 @v	kaŋeškaraₓ
 @end sign
@@ -8127,6 +8139,9 @@
 @end form
 @form ~f |GIŠ.PI.TUG₂.NU₁₁@90|
 @v    ŋizzal
+@end form
+@form ~g |GIŠ.TUG₂.PI.A.SILA₃|
+@inote dcclt !sg
 @end form
 @end sign
 
@@ -13661,6 +13676,9 @@
 @form	~c |LAGAB×(ŠITA.GIŠ)|
 @v	saŋduduₓ
 @end form
+@form	~d |LAGAB×(ŠITA@t.GIŠ.ERIN₂)|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LAGAB×ŠU₂|
@@ -15282,6 +15300,9 @@
 @form ~a |LU₂.LU₂.LU₂.LU₂|
 @note see MSL 15 Diri 6B 33 with notes.
 @end form
+@form ~b |3×LU₂|
+@inote dcclt !sg collate
+@end form
 @end sign
 
 @sign	|LU₂×AL|
@@ -15291,6 +15312,9 @@
 @uname	CUNEIFORM SIGN LU2 TIMES AL
 @ucode	x121FE
 @v	dubal₅
+@form ~a |LU₂.AL|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LU₂×BAD|
@@ -15487,6 +15511,9 @@
 @uname	CUNEIFORM SIGN LU2 TIMES NU
 @ucode	x1220D
 @v	...tallu
+@form ~a |LU₂.NU|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|LU₂×PAP|
@@ -21080,6 +21107,9 @@
 @v	nanam
 @v	nenim
 @v	ninim
+@form ~a |NE.NE|
+@inote dcclt !sg
+@end form
 @end sign
 
 @sign	|ŠA₃×SAL|
@@ -28356,6 +28386,14 @@
 @end sign
 
 @sign |GAR.SAG.KEŠ₂.SAL|
+@inote dcclt !sg
+@end sign
+
+@sign |LAGAB×BAR|
+@inote dcclt !sg
+@end sign
+
+@sign |LAGAB×ŠITA|
 @inote dcclt !sg
 @end sign
 
