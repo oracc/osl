@@ -28444,3 +28444,8 @@
 @sign |LU₂&LU₂.GIŠ&GIŠ|
 @inote dcclt !sg
 @end sign
+
+@sign |PA.SAL.HUB₂.DU|
+@inote u3adm
+@v	rigₓ
+@end sign
