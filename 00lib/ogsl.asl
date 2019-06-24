@@ -3020,7 +3020,9 @@
 
 @sign	|DAG.KISIM₅|
 @ucode	x12056.x121A8
-@v	šihumₓ
+@v	kišiₓ
+@v-	šihumₓ
+@inote šihum is an Akkadian equivalent
 @end sign
 
 @sign	|DAG.KISIM₅×(A.MAŠ)|
@@ -12371,7 +12373,7 @@
 @v	ŋepar
 @inote	Attinger
 @v	kisal
-@v	par4
+@v	par₄
 @v?	lel₄
 @end sign
 
@@ -16666,6 +16668,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN MUSH OVER MUSH
 @ucode	x12236
+@v arinaₓ
 @end sign
 
 @sign	|(MUŠ&MUŠ)×GA|
@@ -17934,7 +17937,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN NINDA2 TIMES USH
 @ucode	x1225F
-@v	suhuš₂
+@v	suhušₓ
 @end sign
 
 @sign	NISAG
@@ -21223,7 +21226,7 @@
 
 @sign	|ŠA₆.TUR|
 @ucode	x122B7.x12309
-@v	suhušₓ
+@v	suhuš₂
 @form ~a	|TUR.ŠA₆|
 @end sign
 
