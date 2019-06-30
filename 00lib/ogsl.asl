@@ -16244,7 +16244,7 @@
 
 @sign	|MAŠ.U.U.U|
 @ucode	x12226.x1230B.x1230B.x1230B
-@v	saŋeš?	[CUSAS 12, JON 38 = dcclt:P414356 ii 12', |MAŠ.U.U.U| = tak-su-u]
+@v?	saŋeš	[CUSAS 12, JON 38 = dcclt:P414356 ii 12', |MAŠ.U.U.U| = tak-su-u]
 @end sign
 
 @sign	|MAŠ.X|
