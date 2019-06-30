@@ -18162,6 +18162,10 @@
 @v      šilam⁻
 @inote	Attinger
 @end form
+@form ~c |DIŠ+NUN.LAGAR|
+@v      immal
+@inote SF 081 r i 10-11
+@end form
 @end sign
 
 @sign	|NUN.LAGAR×UŠ|
@@ -22028,6 +22032,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN SHIM TIMES LUL
 @ucode	x122CF
+@v	šaga₂
 @v	šaqa₂
 @v	šaqu₂
 @v	šuquₓ
@@ -24708,6 +24713,10 @@
 @form ~a |DUB.ME|
 @inote dcclt !sg
 @end form
+@form ~b |ME.UM|
+@v	emedaₓ
+@inote dcclt ed lu e
+@end form
 @end sign
 
 @sign	|UM×LAGAB|
@@ -26302,8 +26311,12 @@
 @v	ziq
 @v	ziqi
 @form ~a |TUM.KAD₃|
-@v    haš₂ [VAT 9541 = dcclt/signlists:P345960 o ii 18']
+@v	haš₂ [VAT 9541 = dcclt/signlists:P345960 o ii 18']
 @inote	   salgues
+@end form
+@form ~b |TUM×(U.U.U)|
+@v	haš₂
+@inote dcclt Q000041
 @end form
 @end sign
 
