@@ -12868,6 +12868,13 @@
 @v	hirinₓ
 @end sign
 
+@sign	KWU733
+@list KWU733
+@inote NV in TCL 5, 6036 (P131750) counted per unit, in USC 6786 by weight.
+@inote NV KWU733 is often read egir (proper egir is KWU731) or egirₓ(KWU733). 
+@inote NV Schneider suggests dalla; Yildiz/Gomi UTI 3 2224 read zubi (both seem unlikely)
+@end sign
+
 @sign	KWU822
 @uphase	0
 @v	kurušdaₓ
@@ -18161,6 +18168,7 @@
 @form ~b |NUN.LAGAR|
 @v      šilam⁻
 @inote	Attinger
+@inote sjt there is also a separate |NUN.LAGAR| sign with value šilamₓ
 @end form
 @form ~c |DIŠ+NUN.LAGAR|
 @v      immal
