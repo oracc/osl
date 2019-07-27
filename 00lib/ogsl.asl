@@ -10395,6 +10395,8 @@
 @v	šudₓ
 @v	ugu₆
 @inote	Attinger
+@v	ušₓ
+@inote sjt really defective uš₁₁/uš₇ poison; a placeholder to force collation
 @v	uzugₓ
 @v?	zib₄
 @v	zu₂
