@@ -5078,6 +5078,10 @@
 @v?	šibir₂
 @end sign
 
+@sign	|EN×MAŠ|
+@inote for u3adm
+@end sign
+
 @sign	|EN×ME|
 @list SLLHA099c
 @uphase	1
