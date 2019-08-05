@@ -27721,6 +27721,11 @@
 @v     lubširₓ
 @end sign
 
+@sign |LU.LU.EŠ₂.EŠ₂|
+@inote uet6
+@v	lubširₓ
+@end sign
+
 @sign |TAB.GAR.ŠE|
 @ucode	x122F0.x120FB.x122BA
 @inote epsd2
