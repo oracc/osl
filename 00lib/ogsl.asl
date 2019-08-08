@@ -256,6 +256,7 @@
 @v	guninₓ
 @inote	Attinger
 @v	iₓ
+@v	idₓ
 @end sign
 
 @sign	|A.LAGAB×HAL|
