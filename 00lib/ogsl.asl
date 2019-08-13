@@ -272,6 +272,7 @@
 @form ~a |A.LAGAB×A|
 @ucode	x12000.x121B9
 @v	iₓ
+@v	idₓ
 @end form
 @end sign
 
@@ -19891,6 +19892,8 @@
 @form ~a SAG
 @v      dil₂⁻
 @inote	Attinger
+@v	kuš₂⁻
+@inote following Attinger's approach
 @v	sumur⁻
 @inote	Attinger
 @v	sur₂⁻
