@@ -3787,6 +3787,7 @@
 @v	ri₆
 @v	ša₄
 @v	še₁₃
+@v	suₓ
 @v	tu₃
 @v	tum₂
 @v	tuma₂
@@ -7563,6 +7564,7 @@
 @v	esir₄
 @v	ge₁₆
 @v	gel
+@v	geleŋ
 @v?	gig₃
 @v	gi₁₆
 @v	gib
@@ -9109,6 +9111,7 @@
 @v	ih
 @v	nu₁₃
 @v	numun₃
+@v	surₓ
 @v	u₁₃
 @v?	uʾ₂
 @v	uh
@@ -17451,7 +17454,8 @@
 @sign	|NI.GIŠ|
 @list LAK513
 @ucode	x1224C.x12111
-@v	par₄
+@v-	par₄
+@inote par₄ also a value of KISAL
 @v	para₄
 @end sign
 
@@ -18159,6 +18163,7 @@
 @note	The value šallam is derived from šal(l)am₂ = |NUN.LAGAR×MAŠ|. This sign has basically the same set of readings as |NUN.LAGAR×SAL|. See also HS 1555+ (TMH 6, 06; incantation) ab₂-ša₃-lam for ab₂-šilam.
 @v	šilaₓ
 @v	šilam
+@v	turₓ	[UET 6, 126+:6-7 = epsd2/literary/P346211]
 @v	uš₅
 @form ~a	|NUN.LAGAR×MAŠ|
 @uphase	1
@@ -22569,6 +22574,9 @@
 @form ~b |ŠU₂.AN.HI.GAD|
 @v	keš₃
 @end form
+@form ~c |ŠU₂.HI.AN|
+@v	keš₃
+@end form
 @end sign
 
 @sign	|ŠU₂.AŠ₂|
@@ -25477,6 +25485,7 @@
 @v	lu₇
 @v	qal₃
 @v	suk₃
+@v	riₓ
 @v	u₁₈
 @v	ul₁₂
 @v	ulu₃
