@@ -22580,6 +22580,9 @@
 @form ~c |ŠU₂.HI.AN|
 @v	keš₃
 @end form
+@form ~d |ŠU₂.AN|
+@v	keš₃
+@end form
 @end sign
 
 @sign	|ŠU₂.AŠ₂|
