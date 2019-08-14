@@ -5354,6 +5354,9 @@
 @end form
 @form ~l |ŠU.SUD.NUN.TU.EŠ₂|
 @end form
+@form ~m |EŠ₂.SUD.EŠ₂.TU|
+@v	samanₓ
+@end form
 @form ~x	|NUN.ŠE.LAL|
 @ucode	x12263.x122BA.x121F2
 @inote		Does this form exist?
@@ -7524,6 +7527,9 @@
 @ucode	x1208D.x12100.x1223E.x1200A.x1212D
 @v	šutumₓ [OB Nippur Diri = Q000057 Seg.3, 4]
 @note	The entry is attested only in source J of OB Nippur Diri (Ni 10263) and may well be a (modern or ancient) error for |E₂.GI.NA.AB.U.GUD|.
+@end form
+@form ~e	|E₂.GI.NA.TUM|
+@v	šutumₓ
 @end form
 @end sign
 
@@ -18176,6 +18182,7 @@
 @v	šalam₂
 @v	šallam₂
 @v	šilam₂
+@v	turₓ
 @v	uš₆
 @end form
 @form ~b |NUN.LAGAR|
@@ -19892,12 +19899,13 @@
 @form ~a SAG
 @v      dil₂⁻
 @inote	Attinger
-@v	kuš₂⁻
-@inote following Attinger's approach
 @v	sumur⁻
 @inote	Attinger
 @v	sur₂⁻
 @inote	Attinger
+@v	kuš₂⁻
+@v	šur₂⁻
+@inote following Attinger's approach
 @end form
 @end sign
 
