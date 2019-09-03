@@ -28215,6 +28215,11 @@
 @v     munzerₓ
 @end sign
 
+@sign |GIŠ.ŠEŠ.KI|
+@inote epsd2/praxis/varia
+@v     munzerₓ
+@end sign
+
 @sign |U.GIŠ%GIŠ|
 @ucode	x1230B.x12263
 @inote epsd2/praxis
