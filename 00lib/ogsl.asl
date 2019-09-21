@@ -21318,6 +21318,7 @@
 @v	1(šargal)
 @v	1(šargal@c)
 @v	šar₂@c
+@v	šargal@c
 @end sign
 
 @sign	|ŠAR₂×(GAL.DIŠ)|
@@ -28032,6 +28033,10 @@
 @inote CDLI ed3b
 @end sign
 
+@sign SUD@g
+@inote CDLI ebla
+@end sign
+
 @sign SUD@90
 @inote CDLI ed3b
 @end sign
@@ -28512,4 +28517,17 @@
 @sign |PA.SAL.HUB₂.DU|
 @inote u3adm
 @v	rigₓ
+@end sign
+
+@sign X₃
+@inote CDLI Ebla
+@end sign
+@sign X₄
+@inote CDLI Ebla
+@end sign
+@sign X₅
+@inote CDLI Ebla
+@end sign
+@sign X₆
+@inote CDLI Ebla
 @end sign
