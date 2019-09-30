@@ -28531,3 +28531,8 @@
 @sign X₆
 @inote CDLI Ebla
 @end sign
+
+@sign |SI.A.GAR.X|
+@inote ed lu d; GAR could be PAD looking at CDLI photo; X maybe MA₂-gunu???
+@v addirₓ
+@end sign
