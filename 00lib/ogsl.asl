@@ -22351,6 +22351,12 @@
 @ucode	x122D7.x121F2.x12309
 @v	tukumbiₓ
 @end form
+@form	~b |ŠU.GAR.TUR|
+@v	tukumbiₓ
+@end form
+@form	~b |ŠU.GAR.TUR.LAL.EŠ₂|
+@v	tukumbiₓ
+@end form
 @end sign
 
 @sign	|ŠU.GI|
