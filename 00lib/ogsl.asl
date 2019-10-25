@@ -22354,7 +22354,7 @@
 @form	~b |ŠU.GAR.TUR|
 @v	tukumbiₓ
 @end form
-@form	~b |ŠU.GAR.TUR.LAL.EŠ₂|
+@form	~c |ŠU.GAR.TUR.LAL.EŠ₂|
 @v	tukumbiₓ
 @end form
 @end sign
