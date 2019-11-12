@@ -12070,8 +12070,23 @@
 @inote	all these ugnims are a mess and should be merged as variants of one sign
 @end sign
 
+@sign	|KI.SU.LU.EŠ₂|
+@ucode	x121A0.x122E2.x121FB.x120A0
+@v	ugnimₓ
+@end sign
+
 @sign	|KI.SU.LU.EŠ₂.GAR.KI|
 @ucode	x121A0.x122E2.x121FB.x120A0.x120FB.x121A0
+@v	ugnimₓ
+@end sign
+
+@sign	|KI.SU.LU.EŠ₂.KI.GAR|
+@ucode	x121A0.x122E2.x121FB.x120A0.x121A0.x120FB
+@v	ugnimₓ
+@end sign
+
+@sign	|SU.LU.EŠ₂.KI.GAR|
+@ucode	x122E2.x121FB.x120A0.x121A0.x120FB
 @v	ugnimₓ
 @end sign
 
