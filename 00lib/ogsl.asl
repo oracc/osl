@@ -463,6 +463,10 @@
 @form	~i |TU.NUN&NUN.LIŠ.A|
 @v	asalₓ
 @end form
+@form	~j |A.TU.NUN&NUN.LIŠ|
+@end form
+@form	~k |A.TU.NUN&NUN.GABA.LIŠ|
+@end form
 @end sign
 
 @sign	|A.TUR|
