@@ -122,6 +122,11 @@
 @v	ummuₓ
 @end form
 @form	~g	|A.EDIN.NA|
+@end form
+@form ~h	|EDIN.LAL|
+@ucode	x12094.x121F2
+@v	ummuₓ
+@end form
 @end sign
 
 @nosign	|A.GAN₂@t|
