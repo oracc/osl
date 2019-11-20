@@ -20299,6 +20299,8 @@
 @v	gaiₓ
 @inote	Attinger
 @end form
+@form 	~d |SAL.DI.UŠ|
+@end form
 @end sign
 
 @sign	SANGA₂
