@@ -27484,6 +27484,8 @@
 @uname	CUNEIFORM PUNCTUATION SIGN VERTICAL COLON
 @ucode	x12471
 @v	:
+@v	𒑱
+@inote For use in Luwian {𒑱}
 @end sign
 
 @sign	P₃
