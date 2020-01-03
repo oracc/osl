@@ -5354,7 +5354,7 @@
 @v	samanₓ
 @note	RA 87 (1993), 109-110 (Tell Haddad).
 @end form
-@form	~i |EŠ₂.SUD.NUN.TU.EŠ₂|
+@form ~i |EŠ₂.SUD.NUN.TU.EŠ₂|
 @v	samanₓ
 @end form
 @form ~j |EŠ₂.BU.EŠ₂.NUN.EŠ₂.TU|
@@ -5364,6 +5364,9 @@
 @form ~l |ŠU.SUD.NUN.TU.EŠ₂|
 @end form
 @form ~m |EŠ₂.SUD.EŠ₂.TU|
+@v	samanₓ
+@end form
+@form ~n |ŠE.NUN.EŠ₂.BU|
 @v	samanₓ
 @end form
 @form ~x	|NUN.ŠE.LAL|
@@ -12661,6 +12664,12 @@
 @ucode	x121AE
 @v	ku₄
 @v	kur₉
+@end form
+@form ~a REC56
+@inote etcsri -- check
+@end form
+@form ~b REC144
+@inote etcsri -- check
 @end form
 @end sign
 
@@ -28574,4 +28583,84 @@
 @sign |AN.GUD|
 @inote ccpo
 @v	nirahₓ
+@end sign
+
+@sign |SAL.KA×ME.HUB₂|
+@inote etcsri
+@v	lagarₓ
+@end sign
+
+@sign |SAL.HU.BA|
+@inote etcsri
+@v	lagarₓ
+@end sign
+
+@sign	|URU×A|.A
+@inote etcsri
+@inote variant of URU×A = Arawa
+@end sign
+
+@sign	|LAGAB×IGI@g.ME|
+@inote etcsri
+@v	immaₓ
+@end sign
+
+@sign	|EZEN×HAL|
+@inote etcsri
+@v	ugₓ
+@end sign
+
+@sign	|E.PAP.PAP|
+@inote etcsri
+@v	paₓ
+@end sign
+
+@sign |A.AB.BA|
+@inote etcsri
+@inote writing for Tiʾamat in Tiʾamat-bašti
+@end sign
+
+@sign	|AB.KID|
+@inote etcsri
+@v	akkilₓ
+@end sign
+
+@sign	|TAG.NUN|
+@inote etcsri
+@v	uttuₓ
+@end sign
+
+@sign |LU₂×BAD.BAD.A|
+@inote etcsri
+@inote |LU₂×BAD.BAD|-a in epsd2/royal :(
+@v	addaₓ
+@end sign
+
+@sign |EZEN×U@c|
+@inote etcsri
+@v	badₓ
+@end sign
+
+@sign |E₃.E₃|
+@inote etcsri
+@inote this is a deliberate exception to what should be |UD.DU.UD.DU|
+@end sign
+
+@sign |PA.SI.GAR|
+@inote etcsri
+@v	ensiₓ
+@end sign
+
+@sign |IL₂.IL₂|
+@inote etcsri
+@inote hapax--really necessary?
+@end sign
+
+@sign |KUD.KUD|
+@inote etcsri
+@inote hapax--really necessary?
+@end sign
+
+@sign REC558
+@inote etcsri -- check
 @end sign
