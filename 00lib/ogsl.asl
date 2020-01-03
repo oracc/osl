@@ -28585,7 +28585,7 @@
 @v	nirahₓ
 @end sign
 
-@sign |SAL.KA×ME.HUB₂|
+@sign |SAL.ME.HUB₂|
 @inote etcsri
 @v	lagarₓ
 @end sign
@@ -28595,7 +28595,7 @@
 @v	lagarₓ
 @end sign
 
-@sign	|URU×A|.A
+@sign	|URU×A.A|
 @inote etcsri
 @inote variant of URU×A = Arawa
 @end sign
@@ -28659,6 +28659,10 @@
 @sign |KUD.KUD|
 @inote etcsri
 @inote hapax--really necessary?
+@end sign
+
+@sign REC290
+@inote etcsri
 @end sign
 
 @sign REC558
