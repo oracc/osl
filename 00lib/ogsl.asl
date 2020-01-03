@@ -28570,3 +28570,8 @@
 @inote ed lu d; GAR could be PAD looking at CDLI photo; X maybe MA₂-gunu???
 @v addirₓ
 @end sign
+
+@sign |AN.GUD|
+@inote ccpo
+@v	nirahₓ
+@end sign
