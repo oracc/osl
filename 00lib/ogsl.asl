@@ -28607,6 +28607,7 @@
 
 @sign	|EZEN×HAL|
 @inote etcsri
+@inote admin/names
 @v	ugₓ
 @end sign
 
@@ -28667,10 +28668,6 @@
 
 @sign REC558
 @inote etcsri -- check
-@end sign
-
-@sign |EZEN×HAL|
-@inote admin/names
 @end sign
 
 @sign |KU×GAR|
