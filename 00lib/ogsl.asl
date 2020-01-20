@@ -28668,3 +28668,43 @@
 @sign REC558
 @inote etcsri -- check
 @end sign
+
+@sign |EZEN×HAL|
+@inote admin/names
+@end sign
+
+@sign |KU×GAR|
+@inote admin/names
+@end sign
+
+@sign |MUŠ×GAD|
+@inote admin/names
+@end sign
+
+@sign |UR₂×GAD|
+@inote admin/names
+@end sign
+
+@sign REC344
+@inote admin/names
+@end sign
+
+@sign KWU729
+@inote admin/names
+@end sign
+
+@sign LAK734
+@inote admin/names
+@end sign
+
+@sign |KAM×U|
+@inote admin/names
+@end sign
+
+@sign |URUDA×ŠU|
+@inote admin/names
+@end sign
+
+@sign |NINDA×GAR₃|
+@inote admin/names
+@end sign
