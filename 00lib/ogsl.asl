@@ -210,6 +210,9 @@
 @end form
 @form	~s |A.HA.TAR.UD.DU|
 @form	~t |MUŠ.A.HA.DU|
+@form	~u |HA.DU|
+@inote P252875 = CUSAS 35, 260 i 10
+@end form
 @end sign
 
 @sign	|A.HU.SI|
@@ -604,6 +607,11 @@
 @ucode	x12008
 @v	esag
 @v	esaŋ
+@end sign
+
+@sign	|A×SUD@90|
+@inote {d}amuszx(|AxSUD@90|) for sign and variants see CUSAS 33, 298
+@v	amušₓ
 @end sign
 
 @sign	A₂
@@ -2947,6 +2955,11 @@
 @end form
 @end sign
 
+@sign	|BUR.NU₁₁|
+@inote P252720 = CUSAS 35, 221
+@v	buruₓ
+@end sign
+
 @sign	|BUR₂.BUR₂|
 @ucode	x12054.x12054
 @v	bubbur
@@ -3151,6 +3164,7 @@
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES IR
 @ucode	x12061
 @v	ubur₃
+@v	haraₓ
 @end sign
 
 @sign	|DAG.KISIM₅×(IR.LU)|
@@ -6647,6 +6661,9 @@
 @v	sad₄
 @end sign
 
+@sign	|GA₂×(IGI@g.ME)|
+@end sign
+
 @sign	|GA₂×(SILA₃.ME)|
 @uname	CUNEIFORM SIGN GA2 TIMES SILA3 PLUS ME
 @v	silaₓ
@@ -7871,6 +7888,11 @@
 @v	anšeₓ
 @end sign
 
+@sign	|GIR₃×ŠE|
+@uphase	9
+@inote P020429 = HS 765 {d}|GIR₃×ŠE|
+@end sign
+
 @sign	GISAL
 @list LAK589
 @list MZL376
@@ -8011,6 +8033,9 @@
 @v	umma
 @v	ummenₓ
 @v	ummiₓ
+@form	~a |GIŠ.KUŠU₂×KASKAL|
+@v	ummaₓ
+@end form
 @end sign
 
 @sign	|GIŠ.LU₂|
@@ -11899,6 +11924,10 @@
 @v	piš₁₀
 @end sign
 
+@sign	|KI.AN|
+@ucode	x121A0.x1202D
+@end sign
+
 @sign	|KI.AN.IM|
 @ucode	x121A0.x1202D.x1214E
 @v	qutra
@@ -12330,6 +12359,7 @@
 @sign	|KID.BALAG|
 @ucode	x121A4.x12046
 @v	tigiₓ
+@form ~a |E₂.BALAG|
 @end sign
 
 @sign	|KID.MAH|
@@ -12419,6 +12449,10 @@
 @v	kisal
 @v	par₄
 @v?	lel₄
+@end sign
+
+@sign	|KISAL×PAP|
+@inote P270822, clear on photo
 @end sign
 
 @sign	KISIM₅
@@ -14988,7 +15022,14 @@
 @sign	|LAL₂.TUG₂|
 @ucode	x121F3.x12306
 @v	surₓ
+@v	usarₓ
 @v	ušurₓ
+@form ~a |LAL₂×TUG₂|
+@end form
+@form ~b |LAL×KU|
+@end form
+@form ~c |LAL.TUG₂|
+@end form
 @end sign
 
 @sign	|LAL₂.U|
@@ -21449,6 +21490,10 @@
 @v	sagaₓ
 @end sign
 
+@sign	|ŠE.KU|
+@inote ed3a
+@end sign
+
 @sign	|ŠE.LUGAL|
 @ucode	x122BA.x12217
 @v	šesag
@@ -25016,6 +25061,11 @@
 @v	suhušₓ
 @end sign
 
+@sign	|UR×KASKAL|
+@uphase	0
+@inote P326098 poorly written but hard to see how else to describe it
+@end sign
+
 @sign	|UR×MIN|
 @uphase	0
 @end sign
@@ -25508,6 +25558,10 @@
 @uphase	1
 @uname	CUNEIFORM SIGN URU TIMES KI
 @ucode	x12345
+@end sign
+
+@sign	|URU×KUR|
+@inote P252756 = CUSAS 35, 478
 @end sign
 
 @sign	|URU×LAK668|
@@ -28560,6 +28614,7 @@
 @sign |PA.SAL.HUB₂.DU|
 @inote u3adm
 @v	rigₓ
+@form ~a |SAL.HUB₂.DU|
 @end sign
 
 @sign X₃
@@ -28623,6 +28678,11 @@
 
 @sign	|AB.KID|
 @inote etcsri
+@v	akkilₓ
+@end sign
+
+@sign	|AB.KID.KID|
+@inote ed3b
 @v	akkilₓ
 @end sign
 
