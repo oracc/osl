@@ -14515,11 +14515,12 @@
 @uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS LU3
 @end	sign
 
-@sign	|LAK449×(PAP.PAP.LU₃)|
+@sign   |LAK449×(PAP.PAP.LU₃)|
 @list LAK453
-@uphase	9
 @ucode	x124DF
 @uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS PAP PLUS LU3
+@form ~a |NUNUZ.AB₂×LU₃|
+@form ~b |NUNUZ.AB₂×(LU₃.PAP.PAP)|
 @end	sign
 
 @sign	|LAK449×(U₂.BA)|
@@ -18547,10 +18548,6 @@
 @uname	CUNEIFORM SIGN NUNUZ AB2 TIMES IGI GUNU
 @ucode	x12272
 @v	pihu₆
-@end sign
-
-@sign	|NUNUZ.AB₂×(LU₃.PAP.PAP)|
-@uphase 0
 @end sign
 
 @sign	|NUNUZ.AB₂×SILA₃|
@@ -28763,5 +28760,14 @@
 @end sign
 
 @sign |NINDA×GAR₃|
+@inote admin/names
+@end sign
+
+@sign |LAGAB×(BAD&BAD)|
+@inote admin/names
+@v dabₓ
+@end sign
+
+@sign |KISIM₅×KAK|
 @inote admin/names
 @end sign
