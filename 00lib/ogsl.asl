@@ -3185,6 +3185,7 @@
 @v	gabar₂
 @v	kabar₂
 @v	paₓ
+@form ~a |NUNUZ.KISIM₅×KAK|
 @end sign
 
 @sign	|DAG.KISIM₅×LA|
