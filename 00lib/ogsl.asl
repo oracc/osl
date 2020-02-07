@@ -5383,7 +5383,7 @@
 @form ~n |ŠE.NUN.EŠ₂.BU|
 @v	samanₓ
 @end form
-@form ~m |ŠE.NUN|
+@form ~o |ŠE.NUN|
 @v	samanₓ
 @end form
 @form ~x	|NUN.ŠE.LAL|
