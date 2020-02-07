@@ -5383,6 +5383,9 @@
 @form ~n |ŠE.NUN.EŠ₂.BU|
 @v	samanₓ
 @end form
+@form ~m |ŠE.NUN|
+@v	samanₓ
+@end form
 @form ~x	|NUN.ŠE.LAL|
 @ucode	x12263.x122BA.x121F2
 @inote		Does this form exist?
@@ -21487,7 +21490,7 @@
 @v	sagaₓ
 @end sign
 
-@sign	|ŠE.KU|
+@sign	|ŠE+KU|
 @inote ed3a
 @end sign
 
@@ -25165,6 +25168,10 @@
 @inote	salgues
 @end sign
 
+@sign	|UR₂×AŠ₂|
+@inote hapax in Ur III Umma text in Istanbul with no photo/copy available P117909 = MVN 14, 0228 
+@end sign
+
 @sign	|UR₂×(GI.IDIM)|
 @v	gidimₓ
 @note Ur III incantations HS 1474+ (P273889) and HS 1573 (P273898).
@@ -28759,7 +28766,7 @@
 @inote admin/names
 @end sign
 
-@sign |NINDA×GAR₃|
+@sign |NINDA₂×GAR₃|
 @inote admin/names
 @end sign
 
