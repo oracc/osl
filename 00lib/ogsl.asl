@@ -8038,6 +8038,7 @@
 @v	ummenₓ
 @v	ummiₓ
 @form	~a |GIŠ.KUŠU₂×KASKAL|
+@v	ŋešaₓ
 @v	ummaₓ
 @end form
 @end sign
@@ -11611,7 +11612,8 @@
 @sign	|KAK.TAR|
 @list LAK304
 @ucode	x12195.x122FB
-@v	kušu₂
+#@v	kušu₂
+# something wrong here; kušu₂ is not KAK.TAR
 @v	kuksu₂
 @end sign
 
@@ -14153,6 +14155,7 @@
 @sign	LAK500
 @list LAK500
 @uphase	0
+@v	ilₓ
 @end sign
 
 @sign	LAK3
@@ -15035,6 +15038,8 @@
 @end form
 @form ~c |LAL.TUG₂|
 @end form
+@form ~d |LAL₂×DUR₂|
+@end form
 @end sign
 
 @sign	|LAL₂.U|
@@ -15284,6 +15289,8 @@
 @v	nu₁₂
 @v	si₆
 @v	udu
+@form ~a LAK780
+@v	dibₓ
 @end sign
 
 @sign	|(LU.EŠ₂)&(LU.EŠ₂)|
@@ -17032,6 +17039,10 @@
 @form	~a |MUŠ₃.ŠEŠ₂|
 @v	šušin [ED Cities = dcclt:Q000035 30]
 @end form
+@end sign
+
+@sign	|MUŠ₃×PA|
+@inote hapax in ed3b but impossible to collate from grainy photo of P430697
 @end sign
 
 @sign	|MUŠ₃.ZA|
@@ -22845,6 +22856,10 @@
 @v	ru₈
 @end sign
 
+@sign	|TA×IGI@g|
+@v	šembiₓ
+@end sign
+
 @sign	|TA×MI|
 @list MZL251
 @list SLLHA140
@@ -23332,6 +23347,7 @@
 @v      maru⁻
 @inote	Attinger
 @end form
+@form ~b RSP329
 @end sign
 
 @sign	|TE@g.AB@g|
@@ -23532,6 +23548,7 @@
 @v	ṭu₄
 @v	ṭum
 @v	zibₓ
+@form ~a LAK496
 @end sign
 
 @sign	|TUM×(DIŠ.DIŠ.DIŠ)|
@@ -25624,6 +25641,9 @@
 @inote	Attinger
 @v	uru₁₇⁻
 @inote	Attinger
+@form ~d |IM.LAK648|
+@v	ulu₃
+@end form
 @end sign
 
 @sign	|URU×(MIN.NI.GA)|
@@ -25785,6 +25805,10 @@
 @form ~a |URUDA×U.U.UM|
 @inote dcclt !sg
 @end form
+@end sign
+
+@sign	|URUDA×U.U.U|
+@inote admin/ur3
 @end sign
 
 @sign	USSU
@@ -27088,6 +27112,30 @@
 @uphase	3
 @v	2(diš@t)
 @v	2(diš@t@c)
+@end sign
+
+@sign	3(DIŠ@t)
+@uphase	3
+@v	3(diš@t)
+@v	3(diš@t@c)
+@end sign
+
+@sign	4(DIŠ@t)
+@uphase	3
+@v	4(diš@t)
+@v	4(diš@t@c)
+@end sign
+
+@sign	5(DIŠ@t)
+@uphase	3
+@v	5(diš@t)
+@v	5(diš@t@c)
+@end sign
+
+@sign	6(DIŠ@t)
+@uphase	3
+@v	6(diš@t)
+@v	6(diš@t@c)
 @end sign
 
 @sign	3(DIŠ)
@@ -28735,10 +28783,6 @@
 @inote etcsri -- check
 @end sign
 
-@sign |KU×GAR|
-@inote admin/names
-@end sign
-
 @sign |MUŠ×GAD|
 @inote admin/names
 @end sign
@@ -28778,4 +28822,14 @@
 
 @sign |KISIM₅×KAK|
 @inote admin/names
+@end sign
+
+@sign RSP126
+@inote admin/names
+@v	šuₓ
+@end sign
+
+@sign |ŠA×AN|
+@inote admin/names
+@v	šanₓ
 @end sign
