@@ -28833,3 +28833,223 @@
 @inote admin/names
 @v	šanₓ
 @end sign
+
+@sign	|PA.DU@s.HUB₂|
+@inote admin/ed3b
+@v	rigₓ
+@end sign
+
+@sign	|SAL.TUK.DU|
+@inote admin/ed3b
+@v	rigₓ
+@end sign
+
+@sign	|GIŠ.TUG₂.DU|
+@inote admin/ed3b
+@v	azlagₓ
+@end sign
+
+@sign	|GA₂×AN.MUŠ₃|
+@inote admin/ed3b
+@v	amaluₓ
+@end sign
+
+@sign	|AB@g.MUŠ₃|
+@inote admin/ed3b
+@v	zabalaₓ
+@end sign
+
+@sign	|IGI.GAN₂@t|
+@inote admin/ed3b
+@v	gurumₓ
+@end sign
+
+@sign	|GISAL×A.GAD.GAR.A.SI.A|
+@inote admin/ed3b
+@v	addirₓ
+@end sign
+
+@sign	|ŠE.BU.NUN.EŠ₂|
+@inote admin/ed3b
+@v	samanₓ
+@end sign
+
+@sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
+@inote admin/ed3b
+@v	ninniₓ
+@end sign
+
+@sign	|ŠE.BU.NUN.IDIM|
+@inote admin/ed3b
+@v	samanₓ
+@end sign
+
+@sign	|GAD.PAD.MUŠ₃|
+@inote admin/ed3b
+@v	nidbaₓ
+@end sign
+
+@sign	|ŠE.BU.EŠ₂.NUN|
+@inote admin/ed3b
+@v	samanₓ
+@end sign
+
+@sign	RSP468ter
+@inote admin/ed3b
+@v	narₓ
+@end sign
+
+@sign	|EDIN.A.SU.A|
+@inote admin/ed3b
+@v	ummuₓ
+@end sign
+
+@sign	|EDIN.A.SU|
+@inote admin/ed3b
+@v	ummuₓ
+@end sign
+
+@sign	|KA.KAL|
+@inote admin/ed3b
+@v	sigₓ
+@end sign
+
+@sign	|TU.GABA.LIŠ|
+@inote admin/ed3b
+@v	asalₓ
+@end sign
+
+@sign	RSP468bis
+@inote admin/ed3b
+@v	narₓ
+@end sign
+
+@sign	RSP350
+@inote admin/ed3b
+@v	usanₓ
+@end sign
+
+@sign	|LU.ANŠE×IGI|
+@inote admin/ed3b
+@v	lulimₓ
+@end sign
+
+@sign	RSP404
+@inote admin/ed3b
+@v	ilₓ
+@end sign
+
+@sign	|ŠE+KIN|
+@inote admin/ed3b
+@v	gurₓ
+@end sign
+
+@sign	|(ŠE&ŠE).KIN|
+@inote admin/ed3b
+@v	gurₓ
+@end sign
+
+@sign	|KA.UD.BAR|
+@inote admin/ed3b
+@v	zabarₓ
+@end sign
+
+@sign	RSP380bis
+@inote admin/ed3b
+@v	uriₓ
+@end sign
+
+@sign	BAU176
+@inote admin/ed3b
+@v	zaₓ
+@end sign
+
+@sign	|(ŠE%ŠE).KIN|
+@inote admin/ed3b
+@v	gurₓ
+@end sign
+
+@sign	|LU₂@s×TIL|
+@inote admin/ed3b
+@v	adₓ
+@end sign
+
+@sign	|ŠIM×KUŠU₂+KASKAL|
+@inote admin/ed3b
+@v	bulugₓ
+@end sign
+
+@sign	|A.GISAL.GADA.GAR.A.SI|
+@inote admin/ed3b
+@v	addirₓ
+@end sign
+
+@sign	|ITI@s×BAD|
+@inote admin/ed3b
+@v	itiₓ
+@end sign
+
+@sign	|LAL₂.DUR₂|
+@inote admin/ed3b
+@v	ušurₓ
+@end sign
+
+@sign	|A.BAR.BAHAR₂|
+@inote admin/ed3b
+@v	baharₓ
+@end sign
+
+@sign	|MUŠ₃.KUŠU₂|
+@inote admin/ed3b
+@v	uruhₓ
+@end sign
+
+@sign	|AN.GU×KAK|
+@inote admin/ed3b
+@v	ušanₓ
+@end sign
+
+@sign	|ZIZ₂.AN.AN|
+@inote admin/ed3b
+@v	imgagaₓ
+@end sign
+
+@sign	|KA.BAR|
+@inote admin/ed3b
+@v	zabarₓ
+@end sign
+
+@sign	|ŠE&ŠE.KIN|
+@inote admin/ed3b
+@v	gurₓ
+@end sign
+
+@sign	|TAB.PI|
+@inote admin/ed3b
+@v	geštuₓ
+@end sign
+
+@sign	|GA₂×AŠ₂|
+@inote admin/ed3b
+@v	gaziₓ
+@end sign
+
+@sign	LAK205
+@inote admin/ed3b
+@v	gamunₓ
+@end sign
+
+@sign	|UD×TIL|
+@inote admin/ed3b
+@v	itiₓ
+@end sign
+
+@sign	|ZUM×KASKAL|
+@inote admin/ed3b
+@v	garigₓ
+@end sign
+
+@sign	|DU@s.PA|
+@inote admin/ed3b
+@v	maškimₓ
+@end sign
