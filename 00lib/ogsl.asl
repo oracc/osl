@@ -449,6 +449,7 @@
 @lit  Krebernik, OBO 160/1, 283
 @end form
 @form	~b |A.TU.NUN&NUN|
+@v	asal₃
 @end form
 @form	~c |A.TU.GABA.SIG.GAR|
 @ucode	x12000.x12305.x120EE.x122DD.x120FB
@@ -1591,11 +1592,13 @@
 @sign	|AN.MUŠ₃.AB|
 @ucode	x1202D.x12239.x1200A
 @v	zabalaₓ
-@end sign
-
-@sign	|AN.MUŠ₃.AB@g|
+@form ~a |AN.MUŠ₃.AB@g|
 @ucode	x1202D.x12239.x12015
 @v	zabalaₓ
+@end form
+@form ~b |MUŠ₃.TE.AB@g|
+@v	zabalaₓ
+@end form
 @end sign
 
 @sign	|AN.NA|
@@ -1948,8 +1951,10 @@
 @v	ṭil
 @v	zuₓ
 @v	1(aš)
-@v	1(aš@c)
+@form ~c AŠ@c
 @v	aš@c
+@v	1(aš@c)
+@end form
 @end sign
 
 @sign	|AŠ.AŠ|
@@ -5252,9 +5257,6 @@
 @v	egi
 @v	egir₂
 @v	eš₂
-@inote ed3b
-@v	eš₂@90
-@inote ed3b
 @v	eše₂
 @v	ge₇
 @v	ger₁₅
@@ -5274,14 +5276,16 @@
 @note	See under saman~h
 @v	ša₁₆
 @v	še₃
-@v	še₃@90
-@inote ed3b
 @v	ši₄
 @v	šu₃
 @v	ṣi₉
 @v	ub₂
 @v	uba₂
 @v	up₂
+@form ~a EŠ₂@90
+@v	eš₂@90
+@v	še₃@90
+@end form
 @end sign
 
 @sign	EŠ₂@t
@@ -5385,6 +5389,16 @@
 @v	samanₓ
 @end form
 @form ~o |ŠE.NUN|
+@v	samanₓ
+@end form
+@form ~p |ŠE.BU.NUN|
+@v	samanₓ
+@inote CUSAS 35, 479 P253776 o i 6
+@end form
+@form ~q |NUN.EŠ₂.BU|
+@v	samanₓ
+@end form
+@form ~r |ŠE.EŠ₂.NUN.BU.LUH|
 @v	samanₓ
 @end form
 @form ~x	|NUN.ŠE.LAL|
@@ -8081,6 +8095,10 @@
 @ucode	x12111.x12248.x120B5.x12229
 @v	gilgames₃
 @v	gilgameš₃
+@form ~a |GIŠ.NE@s.GA.MES|
+@v	gilgames₄
+@v	gilgameš₄
+@end form
 @end sign
 
 @sign	|GIŠ.NE@s|
@@ -14998,6 +15016,11 @@
 @v	lalʾu₅
 @end sign
 
+@sign	|LAL₂.AŠ₂|
+@v	niginₓ
+@v	niŋinₓ
+@end sign
+
 @sign	|LAL₂.DU.DU|
 @ucode	x121F3.x1207A.x1207A
 @v	uku₅
@@ -16743,6 +16766,7 @@
 @form ~b |MUŠ.DIN.BALAG.DAR|
 @form ~c |BU.DIN.BALAG.DAR|
 @form ~d |MUŠ.DIN.BALAG|
+@form ~e |MUŠ@90.MUŠ@90|
 @end sign
 
 @sign	|MUŠ.ŠA|
@@ -17053,6 +17077,7 @@
 @v	subi₃
 @inote	Attinger
 @v	šuba₃
+@form ~a |MUŠ₃.ZA₇|
 @end sign
 
 @sign	|MUŠ₃.ZA.AB@g|
@@ -18126,6 +18151,12 @@
 @v	gasₓ
 @v	lagašₓ
 @v	ugaₓ
+@form ~a |NU₁₁.LA.HU|
+@v	lagašₓ
+@end form
+@form ~b |NU₁₁.BUR.SU.HU.LA|
+@v	lagašₓ
+@end form
 @end sign
 
 @sign	|NU₁₁.BUR.LA|
@@ -21615,6 +21646,11 @@
 @v	munuₓ
 @end sign
 
+@sign	|ŠE.SIG₂|
+@v	šitaₓ
+@inote P330957 = ZA 101, 048 6N-T0651 r ii 1
+@end sign
+
 @sign	|ŠE.SUHUR|
 @pname	|ŠE+SUHUR|
 @uphase	0
@@ -21942,6 +21978,11 @@
 @end sign
 
 @sign	|ŠID.GAR|
+@end sign
+
+@sign	|ŠID.NUN|
+@v	girₓ
+@inote P250355 = UET 2, supp 44 o i 2
 @end sign
 
 @sign	|ŠID.RU|
@@ -22735,6 +22776,11 @@
 @uphase	9
 @ucode	x1253B
 @uname	CUNEIFORM SIGN SHU2 PLUS E2 TIMES AN
+@end sign
+
+@sign	|ŠU₂.IG|
+@v	galₓ
+@v	ŋalₓ
 @end sign
 
 @sign	|ŠU₂.NAGA|
@@ -24536,6 +24582,11 @@
 @end form
 @form	~b |GIŠ%GIŠ.NUN|
 @ucode	x12112.x12263
+@form	~c |NUN.GIŠ%GIŠ|
+@form	~d |UD.NUN.GIŠ%GIŠ|
+@v	buranunₓ
+@v	zimbirₓ
+@end form
 @end sign
 
 @sign	|UD.KID|
@@ -28832,224 +28883,4 @@
 @sign |ŠA×AN|
 @inote admin/names
 @v	šanₓ
-@end sign
-
-@sign	|PA.DU@s.HUB₂|
-@inote admin/ed3b
-@v	rigₓ
-@end sign
-
-@sign	|SAL.TUK.DU|
-@inote admin/ed3b
-@v	rigₓ
-@end sign
-
-@sign	|GIŠ.TUG₂.DU|
-@inote admin/ed3b
-@v	azlagₓ
-@end sign
-
-@sign	|GA₂×AN.MUŠ₃|
-@inote admin/ed3b
-@v	amaluₓ
-@end sign
-
-@sign	|AB@g.MUŠ₃|
-@inote admin/ed3b
-@v	zabalaₓ
-@end sign
-
-@sign	|IGI.GAN₂@t|
-@inote admin/ed3b
-@v	gurumₓ
-@end sign
-
-@sign	|GISAL×A.GAD.GAR.A.SI.A|
-@inote admin/ed3b
-@v	addirₓ
-@end sign
-
-@sign	|ŠE.BU.NUN.EŠ₂|
-@inote admin/ed3b
-@v	samanₓ
-@end sign
-
-@sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
-@inote admin/ed3b
-@v	ninniₓ
-@end sign
-
-@sign	|ŠE.BU.NUN.IDIM|
-@inote admin/ed3b
-@v	samanₓ
-@end sign
-
-@sign	|GAD.PAD.MUŠ₃|
-@inote admin/ed3b
-@v	nidbaₓ
-@end sign
-
-@sign	|ŠE.BU.EŠ₂.NUN|
-@inote admin/ed3b
-@v	samanₓ
-@end sign
-
-@sign	RSP468ter
-@inote admin/ed3b
-@v	narₓ
-@end sign
-
-@sign	|EDIN.A.SU.A|
-@inote admin/ed3b
-@v	ummuₓ
-@end sign
-
-@sign	|EDIN.A.SU|
-@inote admin/ed3b
-@v	ummuₓ
-@end sign
-
-@sign	|KA.KAL|
-@inote admin/ed3b
-@v	sigₓ
-@end sign
-
-@sign	|TU.GABA.LIŠ|
-@inote admin/ed3b
-@v	asalₓ
-@end sign
-
-@sign	RSP468bis
-@inote admin/ed3b
-@v	narₓ
-@end sign
-
-@sign	RSP350
-@inote admin/ed3b
-@v	usanₓ
-@end sign
-
-@sign	|LU.ANŠE×IGI|
-@inote admin/ed3b
-@v	lulimₓ
-@end sign
-
-@sign	RSP404
-@inote admin/ed3b
-@v	ilₓ
-@end sign
-
-@sign	|ŠE+KIN|
-@inote admin/ed3b
-@v	gurₓ
-@end sign
-
-@sign	|(ŠE&ŠE).KIN|
-@inote admin/ed3b
-@v	gurₓ
-@end sign
-
-@sign	|KA.UD.BAR|
-@inote admin/ed3b
-@v	zabarₓ
-@end sign
-
-@sign	RSP380bis
-@inote admin/ed3b
-@v	uriₓ
-@end sign
-
-@sign	BAU176
-@inote admin/ed3b
-@v	zaₓ
-@end sign
-
-@sign	|(ŠE%ŠE).KIN|
-@inote admin/ed3b
-@v	gurₓ
-@end sign
-
-@sign	|LU₂@s×TIL|
-@inote admin/ed3b
-@v	adₓ
-@end sign
-
-@sign	|ŠIM×KUŠU₂+KASKAL|
-@inote admin/ed3b
-@v	bulugₓ
-@end sign
-
-@sign	|A.GISAL.GADA.GAR.A.SI|
-@inote admin/ed3b
-@v	addirₓ
-@end sign
-
-@sign	|ITI@s×BAD|
-@inote admin/ed3b
-@v	itiₓ
-@end sign
-
-@sign	|LAL₂.DUR₂|
-@inote admin/ed3b
-@v	ušurₓ
-@end sign
-
-@sign	|A.BAR.BAHAR₂|
-@inote admin/ed3b
-@v	baharₓ
-@end sign
-
-@sign	|MUŠ₃.KUŠU₂|
-@inote admin/ed3b
-@v	uruhₓ
-@end sign
-
-@sign	|AN.GU×KAK|
-@inote admin/ed3b
-@v	ušanₓ
-@end sign
-
-@sign	|ZIZ₂.AN.AN|
-@inote admin/ed3b
-@v	imgagaₓ
-@end sign
-
-@sign	|KA.BAR|
-@inote admin/ed3b
-@v	zabarₓ
-@end sign
-
-@sign	|ŠE&ŠE.KIN|
-@inote admin/ed3b
-@v	gurₓ
-@end sign
-
-@sign	|TAB.PI|
-@inote admin/ed3b
-@v	geštuₓ
-@end sign
-
-@sign	|GA₂×AŠ₂|
-@inote admin/ed3b
-@v	gaziₓ
-@end sign
-
-@sign	LAK205
-@inote admin/ed3b
-@v	gamunₓ
-@end sign
-
-@sign	|UD×TIL|
-@inote admin/ed3b
-@v	itiₓ
-@end sign
-
-@sign	|ZUM×KASKAL|
-@inote admin/ed3b
-@v	garigₓ
-@end sign
-
-@sign	|DU@s.PA|
-@inote admin/ed3b
-@v	maškimₓ
 @end sign
