@@ -213,6 +213,7 @@
 @form	~u |HA.DU|
 @inote P252875 = CUSAS 35, 260 i 10
 @end form
+@form	~v |A.BU.DU|
 @end sign
 
 @sign	|A.HU.SI|
@@ -1012,6 +1013,9 @@
 
 @sign	AB₂@t
 @uphase	0
+@end sign
+
+@sign	|AB₂×AMAR@t|
 @end sign
 
 @sign	|AB₂.KU|
@@ -3618,6 +3622,9 @@
 @v	ṭim₂
 @end sign
 
+@sign	|DIM₂×SU|
+@end sign
+
 @sign	|DIM₂×UD|
 @uphase	9
 @ucode	x1248D
@@ -5399,6 +5406,12 @@
 @v	samanₓ
 @end form
 @form ~r |ŠE.EŠ₂.NUN.BU.LUH|
+@v	samanₓ
+@end form
+@form ~s |ŠE₃.TU.BU|
+@v	samanₓ
+@end form
+@form ~t |ŠE.NUN.BU.E|
 @v	samanₓ
 @end form
 @form ~x	|NUN.ŠE.LAL|
@@ -7759,6 +7772,9 @@
 @v	ul₄
 @end sign
 
+@sign	|GIR₂×AŠGAB|
+@end sign
+
 @sign	GIR₃
 @list HZL301
 @list LAK248
@@ -8098,6 +8114,18 @@
 @form ~a |GIŠ.NE@s.GA.MES|
 @v	gilgames₄
 @v	gilgameš₄
+@end form
+@form ~b |GIŠ.NE@s.GA|
+@v	gilgamesₓ
+@v	gilgamešₓ
+@end form
+@form ~c |NE@s.GA.MES|
+@v	gilgamesₓ
+@v	gilgamešₓ
+@end form
+@form ~d |GIŠ.NE@s.MES.GA|
+@v	gilgamesₓ
+@v	gilgamešₓ
 @end form
 @end sign
 
@@ -8612,6 +8640,10 @@
 @v	ildag₃
 @v	eldig
 @inote	Attinger
+@end sign
+
+@sign	|GUD&GUD|
+@inote only in GUD&GUD.LUGAL
 @end sign
 
 @sign	|GUD&GUD.LUGAL|
@@ -12953,6 +12985,9 @@
 @v	uruh
 @form	~a |KUŠU₂.MUŠ₃|
 @form	~b |KUŠU₂.AN.MUŠ₃@g|
+@end sign
+
+@sign	|KUŠU₂×KASKAL|
 @end sign
 
 @sign	|KUŠU₂×SAL|
@@ -18391,6 +18426,9 @@
 @inote	Abbreviation for tir = |ŠE.NUN&NUN|; not found so far.
 @end sign
 
+@sign	|(NUN&NUN)&(NUN&NUN)|
+@end sign
+
 @sign	|(NUN.LAGAR×SAL)&(NUN.LAGAR×SAL)|
 @list SLLHA087c
 @uphase	1
@@ -20052,6 +20090,9 @@
 @ucode	x12531
 @uname	CUNEIFORM SIGN SAG GUNU TIMES HA
 @end	sign
+
+@sign	|SAG@g×MIN|
+@end sign
 
 @sign	SAL
 @list HZL297
@@ -25125,6 +25166,11 @@
 @v	dulₓ
 @end sign
 
+@sign	|UR×(DIŠ.DIŠ.DIŠ)|
+@uphase	0
+@v	dulₓ
+@end sign
+
 @sign	|UR×AL|
 @uphase	0
 @v	suhušₓ
@@ -25218,6 +25264,7 @@
 @uname	CUNEIFORM SIGN UR2 TIMES A PLUS HA
 @ucode	x1232C
 @v	urum₉
+@form ~a |UR₂×(HA.A)|
 @end sign
 
 @sign	|UR₂×(A.NA)|
@@ -28121,6 +28168,9 @@
 @inote dcclt/signlists
 @end sign
 
+@sign |DUB×(GA.A)|
+@end sign
+
 @sign |DUB×LAGAB|
 @inote dcclt/signlists
 @form ~a |DUB.LAGAB|
@@ -29103,4 +29153,19 @@
 @sign	|DU@s.PA|
 @inote admin/ed3b
 @v	maškimₓ
+@end sign
+
+@sign	|LAGAR×ZA|
+@end sign
+@sign	|LAGAB×PA|
+@end sign
+@sign	|EN×X|
+@end sign
+@sign	|LI&LI|
+@end sign
+@sign	|GIŠ×X|
+@end sign
+@sign	KWU715
+@end sign
+@sign	|UR×DIŠ|
 @end sign
