@@ -3572,10 +3572,12 @@
 @list MZL168
 @list OBZL015
 @list KWU086
+@list RSP426b
 @v	gakkul₂
 @lit	Civil, ZA 74, 162
 @end form
 @form ~b	DIM@g
+@list RSP426a
 @v	mun
 @lit	Civil, ZA 74, 162; Civil ARES 4, 86.
 @end form
@@ -9508,7 +9510,7 @@
 @v-	guggal
 @note	guggal belongs to |LU.HUL₂|
 @v-	gukkal
-@note	gukkalal belongs to |LU.HUL₂|
+@note	gukkal belongs to |LU.HUL₂|
 @v	hul₂
 @v	hula₂
 @v-	kungal
@@ -10298,6 +10300,7 @@
 @list MZL642
 @list SLLHA399_51
 @list KWU477
+@list LAK378
 @uphase	1
 @uname	CUNEIFORM SIGN IM TIMES TAK4
 @ucode	x1214F
@@ -10380,6 +10383,8 @@
 @v	in
 @v	ini
 @v	isin₂
+@form ~a |ŠE&ŠE.NI|
+@list RSP447
 @end sign
 
 @sign	IR
@@ -10798,6 +10803,8 @@
 @v	%akk puzru
 @v	buzur₄
 @v	puzur₄
+@form ~a |KA×(GAN₂@t.ŠA)|
+@list RSP202
 @end sign
 
 @sign	|KA×GAR|
@@ -16074,6 +16081,11 @@
 @v	zulug
 @v	zalag₃ [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 64]
 @inote	salgues
+@form ~a RSP468bis
+@list RSP468bis
+@form ~b RSP468ter
+@list LAK244
+@list RSP468ter
 @end sign
 
 @sign	|LUL.A|
@@ -18531,7 +18543,8 @@
 @list LAK451
 @list MZL619
 @list OBZL373
-@list SLLHA394c,394e
+@list SLLHA394c
+@list SLLHA394e
 @list KWU472
 @uphase	1
 @uname	CUNEIFORM SIGN NUNUZ AB2 TIMES ASHGAB
@@ -20158,7 +20171,7 @@
 @sign	|SAL.AŠ₂.GAR₃|
 @list KWU789
 @ucode	x122A9.x1203E.x120FC
-@v	aš₂-gar₃
+@v	{munus}aš₂-gar₃
 @end sign
 
 @sign	|SAL.BAR|
@@ -24165,6 +24178,8 @@
 @v	šu₁₆
 @v	ušu₂
 @v	uzu₅
+@form ~a |UD×DIŠ|
+@inote itudₓ??
 @end sign
 
 @sign	|U.UD.KID|
@@ -24659,6 +24674,8 @@
 @v	uʾ₄
 @v	uh₂
 @v	uhu₂
+@form ~a |UD×KUŠU₂|
+@list RSP321
 @end sign
 
 @sign	|UD.MA₂.AB×HA|
