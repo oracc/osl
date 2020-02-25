@@ -1,4 +1,7 @@
 &X999000 = RSP
+#project: epsd2
+#atf: use unicode
+
 1.	aš
 2.	dili(|AŠ.AŠ|)
 3.	ŋeš₂
@@ -96,7 +99,7 @@
 92.	nanna{+na}
 93*.	1(|AŠ×DIŠ@t|) 2(|AŠ×DIŠ@t|) 3(|AŠ×DIŠ@t|) 4(|AŠ×DIŠ@t|) 5(|AŠ×DIŠ@t|) 6(|AŠ×DIŠ@t|) 7(|AŠ×DIŠ@t|) 8(|AŠ×DIŠ@t|)
 94.	nun
-95.	abgalₓ(|NUN.ME.KA×GAN₂@t?|) abgalₓ(NUN.ME.KA×ME)
+95.	abgalₓ(|NUN.ME.KA×GAN₂@t|) abgalₓ(|NUN.ME.KA×ME|)
 96.	gašam
 97.	eridu{ki}-ga
 98.	inana
@@ -146,7 +149,7 @@
 142.	abzu
 143.	su
 144.	dul
-145.	DUL.DU
+145.	|DUL.DU|
 146.	su₇
 147*.	du₃
 148.	ni
@@ -155,7 +158,7 @@
 151.	ir
 152.	nig₂
 153*.	munus
-154.	SAL.ME
+154.	|SAL.ME|
 155*.	sikil
 156.	|SAL.AŠ₂.GAR₃|
 157*.	|SAL.UŠ.DI|
@@ -191,7 +194,7 @@
 186.	|NUN.LAGAR|
 187.	gud
 188.	am
-189.	|GUD×KUR₂&GUD×KUR₂|
+189.	|(GUD×KUR₂)&(GUD×KUR₂)|
 190.	|SAL.TUG₂|
 191.	dam
 192.	sag
@@ -294,7 +297,7 @@
 287.	|BAD₃.AN|
 288.	|EZEN×LA| LAK621
 289.	ma
-290.	MA₂@g
+290.	hašhur
 291.	si
 292.	|SI.A|
 293.	SI@g
@@ -316,7 +319,7 @@
 309.	dug₃
 310.	te
 311.	|TE.A|
-312.	kam(|HI×BAD|) HI×MAŠ
+312.	kam(|HI×BAD|) |HI×MAŠ|
 313.	RSP313 |HI@g×BAD|
 314.	RSP314 |HI@g×GAD|
 315.	|HI×AŠ₂|
@@ -358,8 +361,8 @@
 350.	|NUNUZ.AB₂|
 351.	|NUNUZ.AB₂×SILA₃|
 352.	usan₃
-353.	|NUNUZ.AB₂×(X.BULUG₃)| SLLHA393c'
-354.	RSP354 SLLHA394d'
+353.	|LAK449×(PAP.PAP.LU₃)|
+354.	|LAK449×(U₂.BA)|
 355.	gu₂
 356.	dur
 357.	usan
@@ -379,7 +382,7 @@
 370.	|DU.DU|
 371.	DU@s
 372.	DU@g
-373.	DU@g@s
+373.	suhuš
 374.	il
 375.	dim₂
 376.	ur₂
@@ -412,7 +415,7 @@
 402.	na₂
 403.	ib₂ egir
 404.	tum
-405.	IB₂×GAN₂@t LAK497b
+405.	|IB₂×GAN₂@t| LAK497b
 406.	mušen
 407.	mud
 408.	uz
@@ -434,7 +437,7 @@
 424.	|ŠIM×KUŠU₂|
 425.	|HUB₂×UD|
 426a.	DIM@g
-426b.	DIM×ŠE
+426b.	|DIM×ŠE|
 427.	tag
 428.	gan
 429.	LAK490
@@ -450,7 +453,7 @@
 439.	dah
 440.	še
 441.	tir
-442.	ezinu
+442.	ezinu₃
 443.	tud
 444.	tur₅
 445.	li
