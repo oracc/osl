@@ -1,0 +1,477 @@
+1	asz
+2	dili(|ASZ.ASZ|)
+3	jesz2
+4	1/4(iku)
+5	disz, 1/2(iku), 1/4(gur), WD?
+6	u, szusz
+7	1(iku)
+8	szusz
+9	szucana(|SZU2.DISZ@c.SZA|)
+10	szanabi(|SZU2.DISZ@c&DISZ@c.SZA|)
+11	esz4-tar2
+12	ul
+13	U.KA
+14	U.GA LAK412
+15	gir4
+16	cagan
+17	nigin3(|U.UD.KID2|)
+18	kesz3(SZU2.AN.HIxGAD)
+19	1/2(disz)
+19bis	1(ban2)...
+20	1/8(iku)
+21	jesz'u
+22	DISZ&DISZ
+23	DISZ&DISZ&DISZ
+24	disz@c
+25	jesz2@c
+26	1/4(iku@c)
+27	jesz'u@c
+28	u@c
+29	u@c(iku)
+30	szar2
+31	szar2(iku)
+32	szar'u
+33	1/8(iku@c)
+34	UxKASKAL
+35	1/2(iku@c)
+36	1/2(disz@c)
+37	DISZ@c&DISZ@c
+38	DISZ@c&DISZ@c&DISZ@c
+39	tab
+40	lal
+41	usar(|LAL2xLAGAB|)
+42	usar2(|LAL2xSZAR|)
+43	uku2(|LAL2xDU.DU|)
+44	bar
+45*	me
+46*	dilim2(LISZ)
+47	masz
+48	ug7("BAD")
+48bis	bad("BAD")
+49	kur2
+50	gam
+51	a
+52	er2(|A.IGI|)
+53	am3(|A.AN|)
+54	id2(|A.LABABxHAL|)
+55	asal
+56	pa
+57*	sipa(|PA.LU|)
+58*	mackim(|PA.DU@s|)
+59	ensi2(|PA.TE.SI|)
+60*	gad
+61*	akkil(|GAD.TAK4.SI|)
+62	umbin(|GAD.UR2xTAK4|)
+63	sila3
+64	tar
+65	kur
+66	igi
+67	sig7(|IGI@g|)
+68	|IGI.GAR|
+69	|IGI.LAGAB|
+70	u3(|IGI.DIB|)
+71	hul(|IGI.UR|)
+72	agrig(|IGI.DUB|)
+73	palil(|IGI.DU|)
+74	pad3(|IGI.RU|)
+75	nu
+76	hal
+77	za
+78*	gug(ZA.GUL)
+79	pi
+80	an
+81	nab(AN&AN)
+82	mul(ANx3)
+83	AN.NA
+84	tin
+85	kul
+86*	kul-aba4
+87	bal
+88	uszum
+89	til
+90	uri2
+91	szesz
+92	SZESZ.KI.NA
+93	ASZxASZ@t ...
+94	nun
+95	abgalx1(|NUN.ME.KAxGAN2@t?|), abgalx2(NUN.ME.KAxME)
+96	gaszam(|NUN.ME.TAG|)
+97	eridu{ki}-ga
+98	inana
+99	sze12
+100	MUSZ3.ERIN
+101	RSP101 LAK470
+102	nir(|NUN&NUN|)
+103	ib
+104	duh, gab
+105	ninda2
+106	|NINDA2x(KUR2.1(ASZ@c))| LAK106
+107	|NINDA2x(KUR2.2(ASZ@c))| LAK107
+108*	cam2(|NINDA2xSZE|)
+109	ag2
+110	amar
+111	KUM
+112	gaz(KUMxSZE)
+113	lumx?
+114	sig4
+115	mar
+116	kaskal
+117	|KASKAL.GA|
+118	6(ASZ@t) LAK134
+119	5(ASZ@t), i
+120	mi
+121	gig(MI.NUNUZ)
+122	hul2
+123	sahar
+124	szu
+125	tu5(SZU.NAGA)
+126	SZU&SZU@180
+127	lil
+128	asz2
+129	gal
+130	lugal
+131	sukkal, luh
+132	sa
+133	u2, kusz2
+134	dag, par2
+135	ka2(E2@s)
+136	kalam
+137	nesag LAK159
+138	lum
+139	ba
+140	lagar?
+141	zu
+142	abzu
+143	su
+144	dul
+145	DUL.DU
+146	su7(|LAGARxSZE|)
+147*	du3
+148	ni
+149*	za2(NI.UD)
+150	dilmun(NI.TUK)
+151	ir
+152	nig2
+153*	munus
+154	SAL.ME
+155*	sikil(|SAL.SI|)
+156	zeh2(|SAL.ASZ2.GAR3|)
+157*	|SAL.USZ.SA|
+158	gambi(|SAL.USZ.SA.KID|){muszen}
+159	ab2
+160	|AB2.KU|
+161	|AB2.SZA3|
+162	|AB2.SZA3.GI|
+163	|AB2.KID2|
+164	bur
+165	ki
+166	szita LAK503
+167	sza
+168	mug
+169	zadim
+170	sur
+171	pad
+172	|PAD.AN.INANA|
+173	geme2(|SAL.KUR|)
+174	uh2
+175	zum
+176	gu(NI.HAL)
+177	nagar
+178	sumasz
+178bis	suhur
+179	ubi LAK219
+180	RSP180 LAK352
+181	ha, ku6
+182	pec(|HA@g|)
+183	|HA.A|, |AxHA|
+184	lam
+185	ub
+186	|NUN.LAGAR|
+187	gud
+188	am
+189	RSP189(GUDxKUR2&GUDxKUR2)
+190	nin(SAL.TUG2)
+191	dam
+192	sag
+193	kuc2(SAG@g)
+194	RSP194
+195	RSP195 SAG@nxDU3? SAGxNI?
+196	RSP196 SAG@nxHA LAK308
+197	KA
+198	KAxME
+199	KAxA
+200	KAxGAR
+201	KAxSZU
+202	KAx(SZU.SZA)
+203	KAxIM
+204	KAxU2 LAK321
+205	KAxSZE
+206	KAxGAN2
+207	KAxSAR LAK325
+208	KAx(UD.BAR)
+209	ta
+210	lal3(TAxHI)
+211	gud5(TA?xSZE)
+212	dug
+213	kurun(TAxKUR)
+214	gesztin(|GESZ.TIN|)
+215	dub2(|GESZTIN.DUL?|)
+216	RSP216(|GESZTIN.LAK490.ZIZ2)
+217	RSP217 LAK589 gisal?
+218	bi, kasz
+219	bappir(BIxGAR)
+220	ga
+221	gara2
+222	RSP222 LAK535 kuruszda?
+223	ab
+224	unug
+225	ABxASZ2
+226	ABxHA
+227	AD
+228	AD.KID2
+229	lagab
+230	nigin(LAGAB.LAGAB)
+231	jesz
+232	jissu(|GISZ.MI|)
+233	GISZ.NE@s
+234	umma(|GISZ.UH2|)
+235	GISZ.TUG2.PI.TE.A.DU
+236	gur
+237	kalag
+238	ur
+239	urudu
+240	ga2
+241	GA2xNUN
+242	GA2xNUN&NUN
+243*	GA2xPA
+244	GA2xAN
+245*	GA2xGI
+246	GA2xEN
+247	GAN2
+248	GAN2&GAN2
+249	kisal
+250	e2
+251	E2.SIG4
+252	KID
+253	KU
+254	dur2-jar
+255	tug2
+256	sze3, ESZ2@t
+257	GUG2
+258	LAGABx(GUD&GUD)
+259	gigir(LAGABxBAD), gigirx(LAGABxU)
+260	udu
+261	gakkul(|UDU.HUL2|)
+262	dib
+263	LAGABxA
+264	LAGABxHAL
+265	LAGABxSIG7
+266	LAGABxU2
+267	barag2
+268	zar(|LAGABxSUM|)
+269	giszgal
+270	gal2
+271	en
+272	EN.LIL2.KI
+273	ak
+274	um
+275	nimgir
+276	RSP276 KWU318? LAK175
+277	mes
+278	dub
+279	gul
+280	RSP280
+281	asar(|URUDUxIGI|)
+282	banszur(|URUDUxURUDU|)
+283	URUDA?x(GA.A)
+284	ezen
+285	kesz2
+286	bad3(|EZENxBAD|)
+287	|BAD3.AN|
+288	|EZENxLA| LAK621
+289	ma
+290	MA2@g
+291	si
+292	|SI.A|
+293	SI@g
+294	ma2
+295	ra
+296	szid
+297	e
+298	|ExPAP|
+299	alal
+300	uru
+301	|URUxGAN2@t|
+302	URUxGU
+303	URUxA LAK597
+304	szesz4, erin
+305	gin2
+306	dun3
+307	apin
+308	la
+309	dug3
+310	te
+311	TE.A
+312	kam(HIxBAD), HIxMASZ
+313	RSP313 HI@gxBAD
+314	RSP314 HI@gxGAD?
+315	HIxASZ2
+316	HIxASZ2.ME
+317	sig
+318	di
+319	DI.UD
+320	szag4
+321	uhx(UDxKUSZU2)
+322	ud
+323	UD.UD
+324	UD.SZA
+325	UD.NUN
+326	UD.DU
+327	UD.MA2.ABxHA.TAG
+328	U.UD, UDxDISZ, id3
+329	RSP329
+330	gur8(TE@g)
+331	im
+332	IMxKID2 LAK378?
+333	udul5? LAK442? REC230?
+334	BU@n bulug3
+335	bu
+336	sud(BU@g)
+337	musz
+338	MUSZ%MUSZ LAK236
+339	gir2
+339bis	GIR2@g
+340	na
+341	NU11 (R=szir) LAK93
+342	lagasz(|NU11.LA.BUR.KI|)
+343	kun
+344	RSP344 LAK93
+345	sa6
+346	gar3
+347	dalla
+348	nunuz
+349	NUNUZ.DU8.A
+350	RSP350 NUNUZx.AB2
+351	RSP351 NUNUZx.AB2xSILA3 NUNUZ.AB2xSILA3
+352	RSP352 NUNUZx.AB2xASZGAB? usan3
+353	RSP353 NUNUZx.AB2x(X.BULUG3)
+354	RSP354
+355	gu2
+356	dur(GU2xKAK)
+357	usan
+358	amasz
+359	DAG.KISIM5xMASZ RSP359 LAK722 LAK228? LAK552?
+360	DAG.KISIM5xGAN2? RSP360
+361	UMUM
+361bis	UMUMxKASKAL
+362	ne
+363	NE.RU
+364	NE@s
+365	RSP365 LAK151?
+366	ban
+367	gisal
+368	mah
+369	du
+370	DU.DU
+371	DU@s
+372	DU@g
+373	DU@g@s
+374	il!?
+375	dim2
+376	ur2
+377	balag
+378	bir3
+379	urix(GAR&GAR) LAK526
+380	uri LAK176
+380bis	LAK420
+381	tur
+382	TUR.TUR
+383	me3
+384	ru
+385	kug
+386	KU3.GI
+387	tag4, kid2
+388	zag
+389	ZAG.HA
+390	nim
+391	NIMxGAN2@t
+392	TUK
+393	ur4
+394	kin
+395	aszgab
+396	lu2
+397	LU2xBAD
+398	dim3
+399	al
+400	uz3
+401	alam
+402	na2
+403	ib2, egir
+404	tum
+405	RSP404 IB2xGAN2@t LAK497
+406	muszen
+407	mud(HU.HI)
+408	uz
+409	u5(HU.SI)
+410	sa4(HU.NA2)
+411	dar(HU@g)
+412	ri
+413	nam
+414	RSP414 bur5? LAK72?
+415	usz
+416	USZxKUR
+417	USZ.KU
+418	USZxKID2
+419	da
+420	a2
+421	gub2
+422	szim
+423	SZIMxSIG7
+424	SZIMxKUCU2
+425	HUB2xUD
+426	MUN~a MUN~b
+427	tag
+428	gan
+429	RSP429 GA'AR LAK490
+430	RSP430 LAK171
+431	RSP431 LAK173
+432	il2
+433	bir4
+434	RSP434 BIR4?xAB2 LAK743
+435	edin
+436	EDIN?xAB2 LAK749
+437	gur7
+438	mu
+439	dah(|MU&MU|)
+440	sze
+441	tir(|SZE.NUN&NUN|)
+442	ezinu(|SZE.TIR|)
+443	tud
+444	tur5
+445	li
+446	sar
+447	innu(|SZE&SZE.NI|)
+448	naga
+449	szinig
+450	sum
+451	gi
+452	GI%GI
+453	gi4
+454	GI4&GI4
+455	zi
+456	ZI&ZI
+457	szul
+458	szubur
+459	dara3
+460	pirig
+460bis	pirigx LAK247
+461	az
+462	szeg9
+463	gir3
+464	GIR3xGAN2@t
+465	alim
+466	ansze
+467	husz
+468	lul
+468bis	lul?
+468ter	narx LAK244

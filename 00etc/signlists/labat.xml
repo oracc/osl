@@ -1,0 +1,4738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Labat-Unicode concordance</esp:name>
+	<esp:title>Concordance between Labat's signlist and the Unicode Cuneiform character set</esp:title>
+
+	<html><head></head><body>
+<p class="firstpara">This table correlates the signs listed in <esp:link page="furtherreading" bookmark="labat1988">Labat, <i>Manuel</i> (6th ed., 1995)</esp:link> with the Unicode Cuneiform character set. You may find it helpful to read the pages on <esp:link page="helpwithfonts">cuneiform fonts</esp:link>, <esp:link page="usingsignlists">sign lists</esp:link>, and <esp:link page="computercuneiform">computer cuneiform</esp:link> before using this table. Alternatively, you can easily generate cuneiform characters from alphabetic transliteration using the <esp:link page="cuneify"><i>Cuneify</i></esp:link> page.</p> 
+
+<p>Some points to note:</p>
+<ul>
+<li> The signs are given here in the order that they appear in Labat. The 6th edition of Labat's book did not use every number in the sequence 1-600 (which comes originally from <esp:link page="furtherreading" bookmark="deimel1925-50">Deimel's <i>Šumerisches Lexikon</i> (1925–50)</esp:link>). Conversely, additional signs were added with alphabetic, numerical or other sigla.</li> 
+<li>In some cases Labat treats as a single sign signs that are listed separately in the Unicode character set (e.g., Labat signs <esp:link bookmark="labat69">69</esp:link>, and <esp:link bookmark="536">536</esp:link>). This is usually because the signs in Labat are organised by their Neo-Assyrian forms, by which time some separate but visually similar signs had merged into one.</li>
+<li>In a few cases, Labat understands as separate signs those which the Unicode character set treats as sign variants  (e.g., Labat signs <esp:link bookmark="labat69star">69*</esp:link> and <esp:link bookmark="labat311">311</esp:link> = Unicode U+12127 GURUN).</li> 
+<li>In column 2 (Labat Value), the name given to each sign is Labat's first logographic value (shown prominently in capital letters in the book). Values in parentheses are for signs that appear only in the index. These are usually signs that were used only for Sumerian. In a few cases Labat does not give a value to compound signs (e.g., Labat sign <esp:link bookmark="labat66">66</esp:link>); here we have given the <esp:link page="computercuneiform" bookmark="atf">ATF</esp:link> name, in capital letters, for easy use of <esp:link page="cuneify"><i>Cuneify</i></esp:link>. </li>
+<li>Where column 4 (Unicode Number) is empty, that is because the sign is compound. The component Unicode characters are given in column 5.</li>
+<li>There are some 380 further Unicode Cuneiform characters that are not in Labat's signlist, which we have not listed here. For the full set, see the official <esp:link url="http://www.unicode.org/charts/PDF/U12000.pdf">Unicode Cuneiform</esp:link> [1.8 MB PDF file] and <esp:link url="http://www.unicode.org/charts/PDF/U12400.pdf">Unicode Cuneiform Numbers</esp:link> [188 KB PDF file] code charts.</li>
+<li>Labat's listing follows Neo-Assyrian sign order, but you may find it useful and interesting to <esp:link page="helpwithfonts">switch</esp:link> between OB and NA fonts while viewing this table.</li>
+</ul>
+
+
+<table class="pretty">
+
+	<tr>
+		<th>Labat Number</th>
+		<th>Labat Value</th>
+		<th>Sign</th>
+		<th>Unicode Number</th>
+		<th>Unicode Name</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>aš</td>
+		<td><span class="cuneiform">&#x12038;</span></td>
+		<td>U+12038</td>
+		<td>CUNEIFORM SIGN ASH</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>hal</td>
+		<td><span class="cuneiform">&#x1212C;</span></td>
+		<td>U+1212C</td>
+		<td>CUNEIFORM SIGN HAL</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>mug</td>
+		<td><span class="cuneiform">&#x1222E;</span></td>
+		<td>U+1222E</td>
+		<td>CUNEIFORM SIGN MUG</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>zadim</td>
+		<td><span class="cuneiform">&#x1222F;</span></td>
+		<td>U+1222F</td>
+		<td>CUNEIFORM SIGN MUG GUNU</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>ba</td>
+		<td><span class="cuneiform">&#x12040;</span></td>
+		<td>U+12040</td>
+		<td>CUNEIFORM SIGN BA</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>zu</td>
+		<td><span class="cuneiform">&#x1236A;</span></td>
+		<td>U+1236A</td>
+		<td>CUNEIFORM SIGN ZU</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>su</td>
+		<td><span class="cuneiform">&#x122E2;</span></td>
+		<td>U+122E2</td>
+		<td>CUNEIFORM SIGN SU</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>(e<sub>6</sub>)</td>
+		<td><span class="cuneiform">&#x122E3;</span></td>
+		<td>U+122E3</td>
+		<td>CUNEIFORM SIGN SU OVER SU</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>šen</td>
+		<td><span class="cuneiform">&#x122BF;</span></td>
+		<td>U+122BF</td>
+		<td>CUNEIFORM SIGN SHEN</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>bal</td>
+		<td><span class="cuneiform">&#x12044;</span></td>
+		<td>U+12044</td>
+		<td>CUNEIFORM SIGN BAL</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>gir<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12108;</span></td>
+		<td>U+12108</td>
+		<td>CUNEIFORM SIGN GIR2</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>ul<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12109;</span></td>
+		<td>U+12109</td>
+		<td>CUNEIFORM SIGN GIR2 GUNU</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>bur<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12054;</span></td>
+		<td>U+12054</td>
+		<td>CUNEIFORM SIGN BUR2</td>
+	</tr>
+	<tr>
+	  <td>12</td>
+		<td>sila</td>
+		<td><span class="cuneiform">&#x122FB;</span></td>
+		<td>U+122FB</td>
+		<td>CUNEIFORM SIGN TAR</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>dingir</td>
+		<td><span class="cuneiform">&#x1202D;</span></td>
+		<td>U+1202D</td>
+		<td>CUNEIFORM SIGN AN</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>ka</td>
+		<td><span class="cuneiform">&#x12157;</span></td>
+		<td>U+12157</td>
+		<td>CUNEIFORM SIGN KA</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>tu<sub>6</sub></td>
+		<td><span class="cuneiform">&#x12172;</span></td>
+		<td>U+12172</td>
+		<td>CUNEIFORM SIGN KA TIMES LI</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>uš<sub>12</sub></td>
+		<td><span class="cuneiform">&#x1215C;</span></td>
+		<td>U+1215C</td>
+		<td>CUNEIFORM SIGN KA TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>nundun</td>
+		<td><span class="cuneiform">&#x1217B;</span></td>
+		<td>U+1217B</td>
+		<td>CUNEIFORM SIGN KA TIMES NUN</td>
+	</tr>
+	<tr>
+		<td>18*</td>
+		<td>su<sub>6</sub></td>
+		<td><span class="cuneiform">&#x1217E;</span></td>
+		<td>U+1217E</td>
+		<td>CUNEIFORM SIGN KA TIMES SA</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>puzur<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12164;</span></td>
+		<td>U+12164</td>
+		<td>CUNEIFORM SIGN KA TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>nigru</td>
+		<td><span class="cuneiform">&#x1215A;</span></td>
+		<td>U+1215A</td>
+		<td>CUNEIFORM SIGN KA TIMES AD PLUS KU3</td>
+	</tr>
+	<tr>
+		<td>22*</td>
+		<td>murgu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1217A;</span></td>
+		<td>U+1217A</td>
+		<td>CUNEIFORM SIGN KA TIMES NE</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>ibira</td>
+		<td><span class="cuneiform">&#x1216A;</span></td>
+		<td>U+1216A</td>
+		<td>CUNEIFORM SIGN KA TIMES GISH CROSSING GISH</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>ši<sub>7</sub></td>
+		<td><span class="cuneiform">&#x12182;</span></td>
+		<td>U+12182</td>
+		<td>CUNEIFORM SIGN KA TIMES SHID</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>uš<sub>13</sub>?</td>
+		<td><span class="cuneiform">&#x1215B;</span></td>
+		<td>U+1215B</td>
+		<td>CUNEIFORM SIGN KA TIMES ASH2</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>sud<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12162;</span></td>
+		<td>U+12162</td>
+		<td>CUNEIFORM SIGN KA TIMES GA</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>sud<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12183;</span></td>
+		<td>U+12183</td>
+		<td>CUNEIFORM SIGN KA TIMES SHU</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>tukur<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12181;</span></td>
+		<td>U+12181</td>
+		<td>CUNEIFORM SIGN KA TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>immin</td>
+		<td><span class="cuneiform">&#x12189;</span></td>
+		<td>U+12189</td>
+		<td>CUNEIFORM SIGN KA TIMES UD</td>
+	</tr>
+	<tr>
+		<td>28'</td>
+		<td>uš<sub>14</sub>?</td>
+		<td><span class="cuneiform">&#x1217C;</span></td>
+		<td>U+1217C</td>
+		<td>CUNEIFORM SIGN KA TIMES PI</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>zabar</td>
+		<td><span class="cuneiform">&#x12313;&#x12157;&#x12047;</span></td>
+		<td></td>
+		<td>(U+12313 UD plus U+12157 KA plus U+12047 BAR)</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>bun<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1216E;</span></td>
+		<td>U+1216E</td>
+		<td>CUNEIFORM SIGN KA TIMES IM</td>
+	</tr>
+	<tr>
+		<td>30*</td>
+		<td>KA×U</td>
+		<td><span class="cuneiform">&#x12187;</span></td>
+		<td>U+12187</td>
+		<td>CUNEIFORM SIGN KA TIMES U</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>kan<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12178;</span></td>
+		<td>U+12178</td>
+		<td>CUNEIFORM SIGN KA TIMES MI</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>eme</td>
+		<td><span class="cuneiform">&#x12174;</span></td>
+		<td>U+12174</td>
+		<td>CUNEIFORM SIGN KA TIMES ME</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>ma<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12161;</span></td>
+		<td>U+12161</td>
+		<td>CUNEIFORM SIGN KA TIMES ESH2</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>šakir<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1216B;</span></td>
+		<td>U+1216B</td>
+		<td>CUNEIFORM SIGN KA TIMES GU</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>nag</td>
+		<td><span class="cuneiform">&#x12158;</span></td>
+		<td>U+12158</td>
+		<td>CUNEIFORM SIGN KA TIMES A</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>ku<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12165;</span></td>
+		<td>U+12165</td>
+		<td>CUNEIFORM SIGN KA TIMES GAR</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>uru</td>
+		<td><span class="cuneiform">&#x12337;</span></td>
+		<td>U+12337</td>
+		<td>CUNEIFORM SIGN URU</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>(šeg<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x1234B;</span></td>
+		<td>U+1234B</td>
+		<td>CUNEIFORM SIGN URU TIMES TU</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>ukkin</td>
+		<td><span class="cuneiform">&#x1233A;</span></td>
+		<td>U+1233A</td>
+		<td>CUNEIFORM SIGN URU TIMES BAR</td>
+	</tr>
+	<tr>
+		<td>41'</td>
+		<td>URU×ŠE</td>
+		<td><span class="cuneiform">&#x12349;</span></td>
+		<td>U+12349</td>
+		<td>CUNEIFORM SIGN URU TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>banšur</td>
+		<td><span class="cuneiform">&#x1234E;</span></td>
+		<td>U+1234E</td>
+		<td>CUNEIFORM SIGN URU TIMES URUDA</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>(šakir<sub>3</sub>?)</td>
+		<td><span class="cuneiform">&#x1233C;</span></td>
+		<td>U+1233C</td>
+		<td>CUNEIFORM SIGN URU TIMES GA</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>ru<sub>11</sub></td>
+		<td><span class="cuneiform">&#x1233E;</span></td>
+		<td>U+1233E</td>
+		<td>CUNEIFORM SIGN URU TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>uru<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1234D;</span></td>
+		<td>U+1234D</td>
+		<td>CUNEIFORM SIGN URU TIMES UD</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>šilig</td>
+		<td><span class="cuneiform">&#x12342;</span></td>
+		<td>U+12342</td>
+		<td>CUNEIFORM SIGN URU TIMES IGI</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>gur<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12340;</span></td>
+		<td>U+12340</td>
+		<td>CUNEIFORM SIGN URU TIMES GU</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>erim<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1233F;</span></td>
+		<td>U+1233F</td>
+		<td>CUNEIFORM SIGN URU TIMES GAR</td>
+	</tr>
+	<tr>
+		<td>49*</td>
+		<td>gišgal</td>
+		<td><span class="cuneiform">&#x12347;</span></td>
+		<td>U+12347</td>
+		<td>CUNEIFORM SIGN URU TIMES MIN</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>ir<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12034;</span></td>
+		<td>U+12034</td>
+		<td>CUNEIFORM SIGN ARAD</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>ir<sub>11</sub></td>
+		<td><span class="cuneiform">&#x12035;</span></td>
+		<td>U+12035</td>
+		<td>CUNEIFORM SIGN ARAD TIMES KUR</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>iti</td>
+		<td><span class="cuneiform">&#x12317;</span></td>
+		<td>U+12317</td>
+		<td>CUNEIFORM SIGN UD TIMES U PLUS U PLUS U</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>šah</td>
+		<td><span class="cuneiform">&#x122DA;</span></td>
+		<td>U+122DA</td>
+		<td>CUNEIFORM SIGN SHUBUR</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>buru<sub>15</sub></td>
+		<td><span class="cuneiform">&#x12098;</span></td>
+		<td>U+12098</td>
+		<td>CUNEIFORM SIGN EN TIMES GAN2</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>buru<sub>15</sub></td>
+		<td><span class="cuneiform">&#x12099;</span></td>
+		<td>U+12099</td>
+		<td>CUNEIFORM SIGN EN TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>la</td>
+		<td><span class="cuneiform">&#x121B7;</span></td>
+		<td>U+121B7</td>
+		<td>CUNEIFORM SIGN LA</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>apin</td>
+		<td><span class="cuneiform">&#x12033;</span></td>
+		<td>U+12033</td>
+		<td>CUNEIFORM SIGN APIN</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>mah</td>
+		<td><span class="cuneiform">&#x12224;</span></td>
+		<td>U+12224</td>
+		<td>CUNEIFORM SIGN MAH</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>ku<sub>4</sub></td>
+		<td><span class="cuneiform">&#x121AD;</span></td>
+		<td>U+121AD</td>
+		<td>CUNEIFORM SIGN KU4</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>ku<sub>4</sub></td>
+		<td><span class="cuneiform">&#x121AE;</span></td>
+		<td>U+121AE</td>
+		<td>CUNEIFORM SIGN KU4 VARIANT FORM</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>uru<sub>5</sub></td>
+		<td><span class="cuneiform">&#x122FD;</span></td>
+		<td>U+122FD</td>
+		<td>CUNEIFORM SIGN TE GUNU</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>tu</td>
+		<td><span class="cuneiform">&#x12305;</span></td>
+		<td>U+12305</td>
+		<td>CUNEIFORM SIGN TU</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>li</td>
+		<td><span class="cuneiform">&#x121F7;</span></td>
+		<td>U+121F7</td>
+		<td>CUNEIFORM SIGN LI</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>kur<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1227D;</span></td>
+		<td>U+1227D</td>
+		<td>CUNEIFORM SIGN PAP</td>
+	</tr>
+	<tr>
+		<td>60*</td>
+		<td>zubi</td>
+		<td><span class="cuneiform">&#x1219B;</span></td>
+		<td>U+1219B</td>
+		<td>CUNEIFORM SIGN KAM4</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>mu</td>
+		<td><span class="cuneiform">&#x1222C;</span></td>
+		<td>U+1222C</td>
+		<td>CUNEIFORM SIGN MU</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>sila<sub>3</sub></td>
+		<td><span class="cuneiform">&#x122E1;</span></td>
+		<td>U+122E1</td>
+		<td>CUNEIFORM SIGN SILA3</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>kad<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12190;</span></td>
+		<td>U+12190</td>
+		<td>CUNEIFORM SIGN KAD2</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>kad<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12191;</span></td>
+		<td>U+12191</td>
+		<td>CUNEIFORM SIGN KAD3</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>tag<sub>4</sub></td>
+		<td><span class="cuneiform">&#x122FA;</span></td>
+		<td>U+122FA</td>
+		<td>CUNEIFORM SIGN TAK4</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>šešlam</td>
+		<td><span class="cuneiform">&#x122C2;</span></td>
+		<td>U+122C2</td>
+		<td>CUNEIFORM SIGN SHESHLAM</td>
+	</tr>
+	<tr>
+		<td><esp:bookmark id="labat66" />66</td>
+		<td>ZI&amp;ZI</td>
+		<td><span class="cuneiform">&#x12364;</span></td>
+		<td>U+12364</td>
+		<td>CUNEIFORM SIGN ZI OVER ZI</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>gil</td>
+		<td><span class="cuneiform">&#x12103;</span></td>
+		<td>U+12103</td>
+		<td>CUNEIFORM SIGN GI CROSSING GI</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>ru</td>
+		<td><span class="cuneiform">&#x12292;</span></td>
+		<td>U+12292</td>
+		<td>CUNEIFORM SIGN RU</td>
+	</tr>
+	<tr>
+		<td><esp:bookmark id="labat69">69</esp:bookmark></td>
+		<td>be</td>
+		<td><span class="cuneiform">&#x12041;</span></td>
+		<td>U+12041</td>
+		<td>CUNEIFORM SIGN BAD</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>idim</td>
+		<td><span class="cuneiform">&#x12142;</span></td>
+		<td>U+12142</td>
+		<td>CUNEIFORM SIGN IDIM</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>til</td>
+		<td><span class="cuneiform">&#x12300;</span></td>
+		<td>U+12300</td>
+		<td>CUNEIFORM SIGN TIL</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>uš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12357;</span></td>
+		<td>U+12357</td>
+		<td>CUNEIFORM SIGN USH2</td>
+	</tr>
+	<tr>
+		<td><esp:bookmark id="labat69star">69*</esp:bookmark></td>
+		<td>gurun</td>
+		<td></td>
+		<td></td>
+		<td>(variant of <esp:link bookmark="labat311">Labat sign 311)</esp:link></td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>na</td>
+		<td><span class="cuneiform">&#x1223E;</span></td>
+		<td>U+1223E</td>
+		<td>CUNEIFORM SIGN NA</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>šir</td>
+		<td><span class="cuneiform">&#x122D3;</span></td>
+		<td>U+122D3</td>
+		<td>CUNEIFORM SIGN SHIR</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>numun</td>
+		<td><span class="cuneiform">&#x121B0;</span></td>
+		<td>U+121B0</td>
+		<td>CUNEIFORM SIGN KUL</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>ti</td>
+		<td><span class="cuneiform">&#x122FE;</span></td>
+		<td>U+122FE</td>
+		<td>CUNEIFORM SIGN TI</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>bar</td>
+		<td><span class="cuneiform">&#x12047;</span></td>
+		<td>U+12047</td>
+		<td>CUNEIFORM SIGN BAR</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>maš</td>
+		<td><span class="cuneiform">&#x12226;</span></td>
+		<td>U+12226</td>
+		<td>CUNEIFORM SIGN MASH</td>
+	</tr>
+	<tr>
+		<td>74*</td>
+		<td>idigna</td>
+		<td><span class="cuneiform">&#x12226;&#x12118;&#x120fc;</span></td>
+		<td></td>
+		<td>(U+12226 MASH plus U+12118 GU2 plus U+120FC GAR3)</td>
+	</tr>
+	<tr>
+		<td>74a</td>
+		<td>gidim<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12226;&#x1230b;</span></td>
+		<td></td>
+		<td>(U+12226 MASH plus U+1230B U)</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>ban<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1244F;</span></td>
+		<td>U+1244F</td>
+		<td>CUNEIFORM NUMERIC SIGN ONE BAN2</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>nu</td>
+		<td><span class="cuneiform">&#x12261;</span></td>
+		<td>U+12261</td>
+		<td>CUNEIFORM SIGN NU</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>maš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12227;</span></td>
+		<td>U+12227</td>
+		<td>CUNEIFORM SIGN MASH2</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>kun</td>
+		<td><span class="cuneiform">&#x121B2;</span></td>
+		<td>U+121B2</td>
+		<td>CUNEIFORM SIGN KUN</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>mušen</td>
+		<td><span class="cuneiform">&#x12137;</span></td>
+		<td>U+12137</td>
+		<td>CUNEIFORM SIGN HU</td>
+	</tr>
+	<tr>
+		<td>78*</td>
+		<td>u<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12137;&#x122db;</span></td>
+		<td></td>
+		<td>(U+12137 HU plus U+122DB SI)</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>(buru<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x12245;</span></td>
+		<td>U+12245</td>
+		<td>CUNEIFORM SIGN NAM NUTILLU</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>nam</td>
+		<td><span class="cuneiform">&#x12246;</span></td>
+		<td>U+12246</td>
+		<td>CUNEIFORM SIGN NAM</td>
+	</tr>
+	<tr>
+		<td>79*</td>
+		<td>bur<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12137;&#x122ba;&#x1209f;</span></td>
+		<td></td>
+		<td>(U+12137 HU plus U+122BA SHE plus U+1209F ERIN2)</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>ig</td>
+		<td><span class="cuneiform">&#x12145;</span></td>
+		<td>U+12145</td>
+		<td>CUNEIFORM SIGN IG</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>mud</td>
+		<td><span class="cuneiform">&#x12137;&#x1212d;</span></td>
+		<td></td>
+		<td>(U+12137 HU plus U+1212D HI)</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>sa<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12137;&#x1223f;</span></td>
+		<td></td>
+		<td>(U+12137 HU plus U+1223F NA2)</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>šita<sub>3</sub></td>
+		<td><span class="cuneiform">&#x122E5;</span></td>
+		<td>U+122E5</td>
+		<td>CUNEIFORM SIGN SUD2</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>zi</td>
+		<td><span class="cuneiform">&#x12363;</span></td>
+		<td>U+12363</td>
+		<td>CUNEIFORM SIGN ZI</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>gi</td>
+		<td><span class="cuneiform">&#x12100;</span></td>
+		<td>U+12100</td>
+		<td>CUNEIFORM SIGN GI</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>ri</td>
+		<td><span class="cuneiform">&#x12291;</span></td>
+		<td>U+12291</td>
+		<td>CUNEIFORM SIGN RI</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>nun</td>
+		<td><span class="cuneiform">&#x12263;</span></td>
+		<td>U+12263</td>
+		<td>CUNEIFORM SIGN NUN</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>(uš<sub>6</sub>)</td>
+		<td><span class="cuneiform">&#x12265;</span></td>
+		<td>U+12265</td>
+		<td>CUNEIFORM SIGN NUN LAGAR TIMES MASH</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>(agargara)</td>
+		<td><span class="cuneiform">&#x12269;</span></td>
+		<td>U+12269</td>
+		<td>CUNEIFORM SIGN NUN TENU</td>
+	</tr>
+	<tr>
+		<td>87a</td>
+		<td>tur<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12263;&#x121ec;</span></td>
+		<td></td>
+		<td>(U+12263 NUN plus U+121EC LAGAR)</td>
+	</tr>
+	<tr>
+		<td>87b</td>
+		<td>šilam</td>
+		<td><span class="cuneiform">&#x12266;</span></td>
+		<td>U+12266</td>
+		<td>CUNEIFORM SIGN NUN LAGAR TIMES SAL</td>
+	</tr>
+	<tr>
+		<td>87c</td>
+		<td>(akar)</td>
+		<td><span class="cuneiform">&#x1226C;</span></td>
+		<td>U+1226C</td>
+		<td>CUNEIFORM SIGN NUN CROSSING NUN LAGAR OVER LAGAR</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>hub<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12138;</span></td>
+		<td>U+12138</td>
+		<td>CUNEIFORM SIGN HUB2</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>gub<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1218F;</span></td>
+		<td>U+1218F</td>
+		<td>CUNEIFORM SIGN KAB</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>tun</td>
+		<td><span class="cuneiform">&#x1213D;</span></td>
+		<td>U+1213D</td>
+		<td>CUNEIFORM SIGN HUB2 TIMES UD</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>gada</td>
+		<td><span class="cuneiform">&#x120F0;</span></td>
+		<td>U+120F0</td>
+		<td>CUNEIFORM SIGN GAD</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>(kinda)</td>
+		<td><span class="cuneiform">&#x120F1;</span></td>
+		<td>U+120F1</td>
+		<td>CUNEIFORM SIGN GAD OVER GAD GAR OVER GAR</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>akkil</td>
+		<td><span class="cuneiform">&#x120f0;&#x122fa;&#x122db;</span></td>
+		<td></td>
+		<td>(U+120F0 GAD plus U+122FA TAK4 plus U+122DB SI)</td>
+	</tr>
+	<tr>
+		<td>92b</td>
+		<td>umbin</td>
+		<td><span class="cuneiform">&#x12322;</span></td>
+		<td>U+12322</td>
+		<td>CUNEIFORM SIGN UMBIN</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>šinig</td>
+		<td><span class="cuneiform">&#x122D2;</span></td>
+		<td>U+122D2</td>
+		<td>CUNEIFORM SIGN SHINIG</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>dim</td>
+		<td><span class="cuneiform">&#x12074;</span></td>
+		<td>U+12074</td>
+		<td>CUNEIFORM SIGN DIM</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>mun</td>
+		<td><span class="cuneiform">&#x12075;</span></td>
+		<td>U+12075</td>
+		<td>CUNEIFORM SIGN DIM TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>bulug</td>
+		<td><span class="cuneiform">&#x12051;</span></td>
+		<td>U+12051</td>
+		<td>CUNEIFORM SIGN BULUG</td>
+	</tr>
+	<tr>
+		<td>96a</td>
+		<td>(šembulug)</td>
+		<td><span class="cuneiform">&#x12052;</span></td>
+		<td>U+12052</td>
+		<td>CUNEIFORM SIGN BULUG OVER BULUG</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>ag</td>
+		<td><span class="cuneiform">&#x1201D;</span></td>
+		<td>U+1201D</td>
+		<td>CUNEIFORM SIGN AK</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>me<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1201E;</span></td>
+		<td>U+1201E</td>
+		<td>CUNEIFORM SIGN AK TIMES ERIN2</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>en</td>
+		<td><span class="cuneiform">&#x12097;</span></td>
+		<td>U+12097</td>
+		<td>CUNEIFORM SIGN EN</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>dara<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12070;</span></td>
+		<td>U+12070</td>
+		<td>CUNEIFORM SIGN DARA3</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>sur</td>
+		<td><span class="cuneiform">&#x122E9;</span></td>
+		<td>U+122E9</td>
+		<td>CUNEIFORM SIGN SUR</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>muš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1223D;</span></td>
+		<td>U+1223D</td>
+		<td>CUNEIFORM SIGN MUSH3 GUNU</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>innin</td>
+		<td><span class="cuneiform">&#x12239;</span></td>
+		<td>U+12239</td>
+		<td>CUNEIFORM SIGN MUSH3</td>
+	</tr>
+	<tr>
+		<td>103a</td>
+		<td>še<sub>12</sub></td>
+		<td><span class="cuneiform">&#x1223A;</span></td>
+		<td>U+1223A</td>
+		<td>CUNEIFORM SIGN MUSH3 TIMES A</td>
+	</tr>
+	<tr>
+		<td>103b</td>
+		<td>še<sub>4</sub></td>
+		<td><span class="cuneiform">&#x1223B;</span></td>
+		<td>U+1223B</td>
+		<td>CUNEIFORM SIGN MUSH3 TIMES A PLUS DI</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>ašgab</td>
+		<td><span class="cuneiform">&#x1203F;</span></td>
+		<td>U+1203F</td>
+		<td>CUNEIFORM SIGN ASHGAB</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>sa</td>
+		<td><span class="cuneiform">&#x12293;</span></td>
+		<td>U+12293</td>
+		<td>CUNEIFORM SIGN SA</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>gan<sub>2</sub></td>
+		<td><span class="cuneiform">&#x120F7;</span></td>
+		<td>U+120F7</td>
+		<td>CUNEIFORM SIGN GAN2</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>kar<sub>2</sub></td>
+		<td><span class="cuneiform">&#x120F8;</span></td>
+		<td>U+120F8</td>
+		<td>CUNEIFORM SIGN GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>gu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12118;</span></td>
+		<td>U+12118</td>
+		<td>CUNEIFORM SIGN GU2</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>usan</td>
+		<td><span class="cuneiform">&#x1211B;</span></td>
+		<td>U+1211B</td>
+		<td>CUNEIFORM SIGN GU2 TIMES NUN</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>dur</td>
+		<td><span class="cuneiform">&#x12119;</span></td>
+		<td>U+12119</td>
+		<td>CUNEIFORM SIGN GU2 TIMES KAK</td>
+	</tr>
+	<tr>
+		<td>108*</td>
+		<td>gun</td>
+		<td><span class="cuneiform">&#x12118;&#x12326;</span></td>
+		<td></td>
+		<td>(U+12118 GU2 plus U+12326 UN)</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>lal<sub>3</sub></td>
+		<td><span class="cuneiform">&#x122ED;</span></td>
+		<td>U+122ED</td>
+		<td>CUNEIFORM SIGN TA TIMES HI</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>ku<sub>7</sub></td>
+		<td><span class="cuneiform">&#x121AF;</span></td>
+		<td>U+121AF</td>
+		<td>CUNEIFORM SIGN KU7</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>gur</td>
+		<td><span class="cuneiform">&#x12125;</span></td>
+		<td>U+12125</td>
+		<td>CUNEIFORM SIGN GUR</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>si</td>
+		<td><span class="cuneiform">&#x122DB;</span></td>
+		<td>U+122DB</td>
+		<td>CUNEIFORM SIGN SI</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>si<sub>4</sub></td>
+		<td><span class="cuneiform">&#x122DC;</span></td>
+		<td>U+122DC</td>
+		<td>CUNEIFORM SIGN SI GUNU</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>dar</td>
+		<td><span class="cuneiform">&#x1206F;</span></td>
+		<td>U+1206F</td>
+		<td>CUNEIFORM SIGN DAR</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>sag</td>
+		<td><span class="cuneiform">&#x12295;</span></td>
+		<td>U+12295</td>
+		<td>CUNEIFORM SIGN SAG</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>(muh<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x1229A;</span></td>
+		<td>U+1229A</td>
+		<td>CUNEIFORM SIGN SAG TIMES KAK</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>(uru<sub>10</sub>)</td>
+		<td><span class="cuneiform">&#x12298;</span></td>
+		<td>U+12298</td>
+		<td>CUNEIFORM SIGN SAG TIMES DUB</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>dilib<sub>3</sub></td>
+		<td><span class="cuneiform">&#x122A0;</span></td>
+		<td>U+122A0</td>
+		<td>CUNEIFORM SIGN SAG TIMES SHID</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>kan<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1229D;</span></td>
+		<td>U+1229D</td>
+		<td>CUNEIFORM SIGN SAG TIMES MI</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>(eru<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x1229F;</span></td>
+		<td>U+1229F</td>
+		<td>CUNEIFORM SIGN SAG TIMES SAL</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>(gud<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122A5;</span></td>
+		<td>U+122A5</td>
+		<td>CUNEIFORM SIGN SAG TIMES UR</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>ma<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12223;</span></td>
+		<td>U+12223</td>
+		<td>CUNEIFORM SIGN MA2</td>
+	</tr>
+	<tr>
+		<td>122a</td>
+		<td>dimgul</td>
+		<td><span class="cuneiform">&#x12223;&#x1222e;</span></td>
+		<td></td>
+		<td>(U+12223 MA2 plus U+1222E MUG)</td>
+	</tr>
+	<tr>
+		<td>122b</td>
+		<td>(sur<sub>9</sub>)</td>
+		<td><span class="cuneiform">&#x122EA;</span></td>
+		<td>U+122EA</td>
+		<td>CUNEIFORM SIGN SUR9</td>
+	</tr>
+	<tr>
+		<td>122b</td>
+		<td>ud<sub>5</sub></td>
+		<td><span class="cuneiform">&#x1235A;</span></td>
+		<td>U+1235A</td>
+		<td>CUNEIFORM SIGN UZ3</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>dir</td>
+		<td><span class="cuneiform">&#x122db;&#x12000;</span></td>
+		<td></td>
+		<td>(U+122DB SI plus U+12000 A)</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>limmu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121F9;</span></td>
+		<td>U+121F9</td>
+		<td>CUNEIFORM SIGN LIMMU2</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>tab</td>
+		<td><span class="cuneiform">&#x122F0;</span></td>
+		<td>U+122F0</td>
+		<td>CUNEIFORM SIGN TAB</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>megida</td>
+		<td><span class="cuneiform">&#x122f0;&#x122fe;</span></td>
+		<td></td>
+		<td>(U+122F0 TAB plus U+122FE TI)</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>šum</td>
+		<td><span class="cuneiform">&#x122F3;</span></td>
+		<td>U+122F3</td>
+		<td>CUNEIFORM SIGN TAG</td>
+	</tr>
+	<tr>
+		<td>126a</td>
+		<td>(tibir<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x122F4;</span></td>
+		<td>U+122F4</td>
+		<td>CUNEIFORM SIGN TAG TIMES BI</td>
+	</tr>
+	<tr>
+		<td>126b</td>
+		<td>(silig<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x122F5;</span></td>
+		<td>U+122F5</td>
+		<td>CUNEIFORM SIGN TAG TIMES GUD</td>
+	</tr>
+	<tr>
+		<td>126d</td>
+		<td>(silig<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122F9;</span></td>
+		<td>U+122F9</td>
+		<td>CUNEIFORM SIGN TAG TIMES UD</td>
+	</tr>
+	<tr>
+		<td>126f</td>
+		<td>(tibir<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122F7;</span></td>
+		<td>U+122F7</td>
+		<td>CUNEIFORM SIGN TAG TIMES SHU</td>
+	</tr>
+	<tr>
+		<td>126f</td>
+		<td>(silig<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x122F8;</span></td>
+		<td>U+122F8</td>
+		<td>CUNEIFORM SIGN TAG TIMES TUG2</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>ab</td>
+		<td><span class="cuneiform">&#x1200A;</span></td>
+		<td>U+1200A</td>
+		<td>CUNEIFORM SIGN AB</td>
+	</tr>
+	<tr>
+		<td>128a</td>
+		<td>AB×AŠ<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1200B;</span></td>
+		<td>U+1200B</td>
+		<td>CUNEIFORM SIGN AB TIMES ASH2</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>nap</td>
+		<td><span class="cuneiform">&#x1202E;</span></td>
+		<td>U+1202E</td>
+		<td>CUNEIFORM SIGN AN OVER AN</td>
+	</tr>
+	<tr>
+		<td>129a</td>
+		<td>mul</td>
+		<td><span class="cuneiform">&#x1202F;</span></td>
+		<td>U+1202F</td>
+		<td>CUNEIFORM SIGN AN THREE TIMES</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>ug</td>
+		<td><span class="cuneiform">&#x1228C;</span></td>
+		<td>U+1228C</td>
+		<td>CUNEIFORM SIGN PIRIG TIMES UD</td>
+	</tr>
+	<tr>
+		<td>131a</td>
+		<td>nib2</td>
+		<td></td>
+		<td></td>
+		<td>(variant of <esp:link bookmark="labat444">Labat sign 444</esp:link>)</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>az</td>
+		<td><span class="cuneiform">&#x1228D;</span></td>
+		<td>U+1228D</td>
+		<td>CUNEIFORM SIGN PIRIG TIMES ZA</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>urudu</td>
+		<td><span class="cuneiform">&#x1234F;</span></td>
+		<td>U+1234F</td>
+		<td>CUNEIFORM SIGN URUDA</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>urudu</td>
+		<td><span class="cuneiform">&#x12350;</span></td>
+		<td>U+12350</td>
+		<td>CUNEIFORM SIGN URUDA TIMES U</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>ka<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1218D;</span></td>
+		<td>U+1218D</td>
+		<td>CUNEIFORM SIGN KA2</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>um</td>
+		<td><span class="cuneiform">&#x1231D;</span></td>
+		<td>U+1231D</td>
+		<td>CUNEIFORM SIGN UM</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>(samag<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x12320;</span></td>
+		<td>U+12320</td>
+		<td>CUNEIFORM SIGN UM TIMES SHA3</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>(samag)</td>
+		<td><span class="cuneiform">&#x1231E;</span></td>
+		<td>U+1231E</td>
+		<td>CUNEIFORM SIGN UM TIMES LAGAB</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>dub</td>
+		<td><span class="cuneiform">&#x1207E;</span></td>
+		<td>U+1207E</td>
+		<td>CUNEIFORM SIGN DUB</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>ta</td>
+		<td><span class="cuneiform">&#x122EB;</span></td>
+		<td>U+122EB</td>
+		<td>CUNEIFORM SIGN TA</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>ta</td>
+		<td><span class="cuneiform">&#x122EC;</span></td>
+		<td>U+122EC</td>
+		<td>CUNEIFORM SIGN TA ASTERISK</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>gansis</td>
+		<td><span class="cuneiform">&#x122EF;</span></td>
+		<td>U+122EF</td>
+		<td>CUNEIFORM SIGN TA GUNU</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>i</td>
+		<td><span class="cuneiform">&#x1213F;</span></td>
+		<td>U+1213F</td>
+		<td>CUNEIFORM SIGN I</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>ia</td>
+		<td><span class="cuneiform">&#x12140;</span></td>
+		<td>U+12140</td>
+		<td>CUNEIFORM SIGN I A</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>gan</td>
+		<td><span class="cuneiform">&#x120F6;</span></td>
+		<td>U+120F6</td>
+		<td>CUNEIFORM SIGN GAN</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>kam<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1219A;</span></td>
+		<td>U+1219A</td>
+		<td>CUNEIFORM SIGN KAM2</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>dumu</td>
+		<td><span class="cuneiform">&#x12309;</span></td>
+		<td>U+12309</td>
+		<td>CUNEIFORM SIGN TUR</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>ad</td>
+		<td><span class="cuneiform">&#x1201C;</span></td>
+		<td>U+1201C</td>
+		<td>CUNEIFORM SIGN AD</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>hašhur</td>
+		<td><span class="cuneiform">&#x12222;</span></td>
+		<td>U+12222</td>
+		<td>CUNEIFORM SIGN MA GUNU</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>ze<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12362;</span></td>
+		<td>U+12362</td>
+		<td>CUNEIFORM SIGN ZE2</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>in</td>
+		<td><span class="cuneiform">&#x12154;</span></td>
+		<td>U+12154</td>
+		<td>CUNEIFORM SIGN IN</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>(gug<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x12219;</span></td>
+		<td>U+12219</td>
+		<td>CUNEIFORM SIGN LUGAL OPPOSING LUGAL</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>rab</td>
+		<td><span class="cuneiform">&#x12290;</span></td>
+		<td>U+12290</td>
+		<td>CUNEIFORM SIGN RAB</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>dim<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1221A;</span></td>
+		<td>U+1221A</td>
+		<td>CUNEIFORM SIGN LUGAL SHESHIG</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>lugal</td>
+		<td><span class="cuneiform">&#x12217;</span></td>
+		<td>U+12217</td>
+		<td>CUNEIFORM SIGN LUGAL</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>(adamen<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x12218;</span></td>
+		<td>U+12218</td>
+		<td>CUNEIFORM SIGN LUGAL OVER LUGAL</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>ezen</td>
+		<td><span class="cuneiform">&#x120A1;</span></td>
+		<td>U+120A1</td>
+		<td>CUNEIFORM SIGN EZEN</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>keš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1219F;</span></td>
+		<td>U+1219F</td>
+		<td>CUNEIFORM SIGN KESH2</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>sar</td>
+		<td><span class="cuneiform">&#x122AC;</span></td>
+		<td>U+122AC</td>
+		<td>CUNEIFORM SIGN SAR</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>(gugu<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x120AD;</span></td>
+		<td>U+120AD</td>
+		<td>CUNEIFORM SIGN EZEN TIMES KASKAL SQUARED</td>
+	</tr>
+	<tr>
+		<td>152.4</td>
+		<td>ubara</td>
+		<td><span class="cuneiform">&#x120AC;</span></td>
+		<td>U+120AC</td>
+		<td>CUNEIFORM SIGN EZEN TIMES KASKAL</td>
+	</tr>
+	<tr>
+		<td>152.8</td>
+		<td>bad<sub>3</sub></td>
+		<td><span class="cuneiform">&#x120A6;</span></td>
+		<td>U+120A6</td>
+		<td>CUNEIFORM SIGN EZEN TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>(asila)</td>
+		<td><span class="cuneiform">&#x120B0;</span></td>
+		<td>U+120B0</td>
+		<td>CUNEIFORM SIGN EZEN TIMES LAL TIMES LAL</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>(lubun?)</td>
+		<td><span class="cuneiform">&#x120B2;</span></td>
+		<td>U+120B2</td>
+		<td>CUNEIFORM SIGN EZEN TIMES LU</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>(sil<sub>6</sub>)</td>
+		<td><span class="cuneiform">&#x120A2;</span></td>
+		<td>U+120A2</td>
+		<td>CUNEIFORM SIGN EZEN TIMES A</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>(sil<sub>7</sub>)</td>
+		<td><span class="cuneiform">&#x120A3;</span></td>
+		<td>U+120A3</td>
+		<td>CUNEIFORM SIGN EZEN TIMES A PLUS LAL</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>sum</td>
+		<td><span class="cuneiform">&#x122E7;</span></td>
+		<td>U+122E7</td>
+		<td>CUNEIFORM SIGN SUM</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>naga</td>
+		<td><span class="cuneiform">&#x12240;</span></td>
+		<td>U+12240</td>
+		<td>CUNEIFORM SIGN NAGA</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>kaš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1219C;</span></td>
+		<td>U+1219C</td>
+		<td>CUNEIFORM SIGN KASKAL</td>
+	</tr>
+	<tr>
+		<td>166'</td>
+		<td>KASKAL+UD@s</td>
+		<td><span class="cuneiform">&#x1219c;&#x1231a;</span></td>
+		<td></td>
+		<td>(U+1219C KASKAL plus U+1231A UD SHESHIG)</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>duh</td>
+		<td><span class="cuneiform">&#x12083;</span></td>
+		<td>U+12083</td>
+		<td>CUNEIFORM SIGN DUH</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>gaba</td>
+		<td><span class="cuneiform">&#x120EE;</span></td>
+		<td>U+120EE</td>
+		<td>CUNEIFORM SIGN GABA</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>edin</td>
+		<td><span class="cuneiform">&#x12094;</span></td>
+		<td>U+12094</td>
+		<td>CUNEIFORM SIGN EDIN</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>dah</td>
+		<td><span class="cuneiform">&#x1222D;</span></td>
+		<td>U+1222D</td>
+		<td>CUNEIFORM SIGN MU OVER MU</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>am</td>
+		<td><span class="cuneiform">&#x12120;</span></td>
+		<td>U+12120</td>
+		<td>CUNEIFORM SIGN GUD TIMES KUR</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>uzu</td>
+		<td><span class="cuneiform">&#x1235C;</span></td>
+		<td>U+1235C</td>
+		<td>CUNEIFORM SIGN UZU</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>izi</td>
+		<td><span class="cuneiform">&#x12248;</span></td>
+		<td>U+12248</td>
+		<td>CUNEIFORM SIGN NE</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>gibil</td>
+		<td><span class="cuneiform">&#x1224B;</span></td>
+		<td>U+1224B</td>
+		<td>CUNEIFORM SIGN NE SHESHIG</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>(emeš)</td>
+		<td><span class="cuneiform">&#x1224A;</span></td>
+		<td>U+1224A</td>
+		<td>CUNEIFORM SIGN NE TIMES UD</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>(enten)</td>
+		<td><span class="cuneiform">&#x12249;</span></td>
+		<td>U+12249</td>
+		<td>CUNEIFORM SIGN NE TIMES A</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>ninda<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12252;</span></td>
+		<td>U+12252</td>
+		<td>CUNEIFORM SIGN NINDA2</td>
+	</tr>
+	<tr>
+		<td>176'</td>
+		<td>šam<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12253;</span></td>
+		<td>U+12253</td>
+		<td>CUNEIFORM SIGN NINDA2 TIMES AN</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>uzu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12259;</span></td>
+		<td>U+12259</td>
+		<td>CUNEIFORM SIGN NINDA2 TIMES NUN</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>uzu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1236B;</span></td>
+		<td>U+1236B</td>
+		<td>CUNEIFORM SIGN ZU5</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>ušbar</td>
+		<td><span class="cuneiform">&#x1236C;</span></td>
+		<td>U+1236C</td>
+		<td>CUNEIFORM SIGN ZU5 TIMES A</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>ušbar</td>
+		<td><span class="cuneiform">&#x12330;</span></td>
+		<td>U+12330</td>
+		<td>CUNEIFORM SIGN UR2 TIMES NUN</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>(subar<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122E8;</span></td>
+		<td>U+122E8</td>
+		<td>CUNEIFORM SIGN SUMASH</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>ag<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12258;</span></td>
+		<td>U+12258</td>
+		<td>CUNEIFORM SIGN NINDA2 TIMES NE</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>ubudili</td>
+		<td><span class="cuneiform">&#x1225E;</span></td>
+		<td>U+1225E</td>
+		<td>CUNEIFORM SIGN NINDA2 TIMES U2 PLUS ASH</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>uru<sub>7</sub></td>
+		<td><span class="cuneiform">&#x12332;</span></td>
+		<td>U+12332</td>
+		<td>CUNEIFORM SIGN UR2 TIMES U2 PLUS ASH</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>sa<sub>10</sub></td>
+		<td><span class="cuneiform">&#x1225A;</span></td>
+		<td>U+1225A</td>
+		<td>CUNEIFORM SIGN NINDA2 TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>šam<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1225B;</span></td>
+		<td>U+1225B</td>
+		<td>CUNEIFORM SIGN NINDA2 TIMES SHE PLUS A AN</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>haš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12368;</span></td>
+		<td>U+12368</td>
+		<td>CUNEIFORM SIGN ZIG</td>
+	</tr>
+	<tr>
+		<td>190h</td>
+		<td>galam</td>
+		<td><span class="cuneiform">&#x120F4;</span></td>
+		<td>U+120F4</td>
+		<td>CUNEIFORM SIGN GALAM</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>kum</td>
+		<td><span class="cuneiform">&#x12123;</span></td>
+		<td>U+12123</td>
+		<td>CUNEIFORM SIGN GUM</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>gaz</td>
+		<td><span class="cuneiform">&#x12124;</span></td>
+		<td>U+12124</td>
+		<td>CUNEIFORM SIGN GUM TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>(ešgal)</td>
+		<td><span class="cuneiform">&#x1200D;</span></td>
+		<td>U+1200D</td>
+		<td>CUNEIFORM SIGN AB TIMES GAL</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>unu(g)</td>
+		<td><span class="cuneiform">&#x12014;</span></td>
+		<td>U+12014</td>
+		<td>CUNEIFORM SIGN AB TIMES U PLUS U PLUS U</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>unu(g)</td>
+		<td><span class="cuneiform">&#x12015;</span></td>
+		<td>U+12015</td>
+		<td>CUNEIFORM SIGN AB GUNU</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>unugi</td>
+		<td><span class="cuneiform">&#x12010;</span></td>
+		<td>U+12010</td>
+		<td>CUNEIFORM SIGN AB TIMES IGI GUNU</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>(agarin<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x1200E;</span></td>
+		<td>U+1200E</td>
+		<td>CUNEIFORM SIGN AB TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>(agarin)</td>
+		<td><span class="cuneiform">&#x1200C;</span></td>
+		<td>U+1200C</td>
+		<td>CUNEIFORM SIGN AB TIMES DUN3 GUNU</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>nina</td>
+		<td><span class="cuneiform">&#x1200F;</span></td>
+		<td>U+1200F</td>
+		<td>CUNEIFORM SIGN AB TIMES HA</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>(ešemin<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x12011;</span></td>
+		<td>U+12011</td>
+		<td>CUNEIFORM SIGN AB TIMES IMIN</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>(zi<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x12013;</span></td>
+		<td>U+12013</td>
+		<td>CUNEIFORM SIGN AB TIMES SHESH</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>suhuš</td>
+		<td><span class="cuneiform">&#x1207C;</span></td>
+		<td>U+1207C</td>
+		<td>CUNEIFORM SIGN DU GUNU</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>gir<sub>5</sub></td>
+		<td><span class="cuneiform">&#x1207D;</span></td>
+		<td>U+1207D</td>
+		<td>CUNEIFORM SIGN DU SHESHIG</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>ur<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1232B;</span></td>
+		<td>U+1232B</td>
+		<td>CUNEIFORM SIGN UR2</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>il</td>
+		<td><span class="cuneiform">&#x1214B;</span></td>
+		<td>U+1214B</td>
+		<td>CUNEIFORM SIGN IL</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>du</td>
+		<td><span class="cuneiform">&#x1207A;</span></td>
+		<td>U+1207A</td>
+		<td>CUNEIFORM SIGN DU</td>
+	</tr>
+	<tr>
+		<td>206a</td>
+		<td>lah<sub>4</sub></td>
+		<td><span class="cuneiform">&#x1207B;</span></td>
+		<td>U+1207B</td>
+		<td>CUNEIFORM SIGN DU OVER DU</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>ib<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12308;</span></td>
+		<td>U+12308</td>
+		<td>CUNEIFORM SIGN TUM</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>anše</td>
+		<td><span class="cuneiform">&#x12032;</span></td>
+		<td>U+12032</td>
+		<td>CUNEIFORM SIGN ANSHE</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>anše</td>
+		<td><span class="cuneiform">&#x1210F;</span></td>
+		<td>U+1210F</td>
+		<td>CUNEIFORM SIGN GIR3 TIMES PA</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>egir</td>
+		<td><span class="cuneiform">&#x12095;</span></td>
+		<td>U+12095</td>
+		<td>CUNEIFORM SIGN EGIR</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>geštin</td>
+		<td><span class="cuneiform">&#x120FE;</span></td>
+		<td>U+120FE</td>
+		<td>CUNEIFORM SIGN GESHTIN</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>giš<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12351;</span></td>
+		<td>U+12351</td>
+		<td>CUNEIFORM SIGN USH</td>
+	</tr>
+	<tr>
+		<td>211a</td>
+		<td>kaš<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12352;</span></td>
+		<td>U+12352</td>
+		<td>CUNEIFORM SIGN USH TIMES A</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>sahar</td>
+		<td><span class="cuneiform">&#x12156;</span></td>
+		<td>U+12156</td>
+		<td>CUNEIFORM SIGN ISH</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>kaš</td>
+		<td><span class="cuneiform">&#x12049;</span></td>
+		<td>U+12049</td>
+		<td>CUNEIFORM SIGN BI</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>2(EŠE<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x12459;</span></td>
+		<td>U+12459</td>
+		<td>CUNEIFORM NUMERIC SIGN TWO ESHE3</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>šem</td>
+		<td><span class="cuneiform">&#x122C6;</span></td>
+		<td>U+122C6</td>
+		<td>CUNEIFORM SIGN SHIM</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>(šembulug<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122D0;</span></td>
+		<td>U+122D0</td>
+		<td>CUNEIFORM SIGN SHIM TIMES MUG</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>(šembulug<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x122C8;</span></td>
+		<td>U+122C8</td>
+		<td>CUNEIFORM SIGN SHIM TIMES BAL</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>(šemkaš?)</td>
+		<td><span class="cuneiform">&#x122CD;</span></td>
+		<td>U+122CD</td>
+		<td>CUNEIFORM SIGN SHIM TIMES IGI GUNU</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>(šaqa<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122CF;</span></td>
+		<td>U+122CF</td>
+		<td>CUNEIFORM SIGN SHIM TIMES LUL</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>(šembulug<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x122CC;</span></td>
+		<td>U+122CC</td>
+		<td>CUNEIFORM SIGN SHIM TIMES IGI</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>(nug<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122CA;</span></td>
+		<td>U+122CA</td>
+		<td>CUNEIFORM SIGN SHIM TIMES DIN</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>(šemešal)</td>
+		<td><span class="cuneiform">&#x122D1;</span></td>
+		<td>U+122D1</td>
+		<td>CUNEIFORM SIGN SHIM TIMES SAL</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>dumgal</td>
+		<td><span class="cuneiform">&#x122C7;</span></td>
+		<td>U+122C7</td>
+		<td>CUNEIFORM SIGN SHIM TIMES A</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>bappir</td>
+		<td><span class="cuneiform">&#x122CB;</span></td>
+		<td>U+122CB</td>
+		<td>CUNEIFORM SIGN SHIM TIMES GAR</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>gisal</td>
+		<td><span class="cuneiform">&#x12110;</span></td>
+		<td>U+12110</td>
+		<td>CUNEIFORM SIGN GISAL</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>(banšur<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x12143;</span></td>
+		<td>U+12143</td>
+		<td>CUNEIFORM SIGN IDIM OVER IDIM BUR</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>kib</td>
+		<td><span class="cuneiform">&#x12112;</span></td>
+		<td>U+12112</td>
+		<td>CUNEIFORM SIGN GISH CROSSING GISH</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>za<sub>2</sub></td>
+		<td><span class="cuneiform">&#x120FA;</span></td>
+		<td>U+120FA</td>
+		<td>CUNEIFORM SIGN GAN2 CROSSING GAN2</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>du<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12195;</span></td>
+		<td>U+12195</td>
+		<td>CUNEIFORM SIGN KAK</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>i<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1224C;</span></td>
+		<td>U+1224C</td>
+		<td>CUNEIFORM SIGN NI</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>ir</td>
+		<td><span class="cuneiform">&#x12155;</span></td>
+		<td>U+12155</td>
+		<td>CUNEIFORM SIGN IR</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>pisan</td>
+		<td><span class="cuneiform">&#x120B7;</span></td>
+		<td>U+120B7</td>
+		<td>CUNEIFORM SIGN GA2</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>(šita)</td>
+		<td><span class="cuneiform">&#x122D6;</span></td>
+		<td>U+122D6</td>
+		<td>CUNEIFORM SIGN SHITA</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>(iku<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x120BD;</span></td>
+		<td>U+120BD</td>
+		<td>CUNEIFORM SIGN GA2 TIMES ASH</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>(gahalla)</td>
+		<td><span class="cuneiform">&#x120D3;</span></td>
+		<td>U+120D3</td>
+		<td>CUNEIFORM SIGN GA2 TIMES HAL PLUS LA</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>(gagirsu)</td>
+		<td><span class="cuneiform">&#x120D0;</span></td>
+		<td>U+120D0</td>
+		<td>CUNEIFORM SIGN GA2 TIMES GIR2 PLUS SU</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>dagal</td>
+		<td><span class="cuneiform">&#x120BC;</span></td>
+		<td>U+120BC</td>
+		<td>CUNEIFORM SIGN GA2 TIMES AN</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>(dan<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x120CA;</span></td>
+		<td>U+120CA</td>
+		<td>CUNEIFORM SIGN GA2 TIMES EN TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>(sabad<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x120BF;</span></td>
+		<td>U+120BF</td>
+		<td>CUNEIFORM SIGN GA2 TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>ganun</td>
+		<td><span class="cuneiform">&#x120E0;</span></td>
+		<td>U+120E0</td>
+		<td>CUNEIFORM SIGN GA2 TIMES NUN</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>(munu<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x120C5;</span></td>
+		<td>U+120C5</td>
+		<td>CUNEIFORM SIGN GA2 TIMES DIM TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>(garaš)</td>
+		<td><span class="cuneiform">&#x120D5;</span></td>
+		<td>U+120D5</td>
+		<td>CUNEIFORM SIGN GA2 TIMES HUB2</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>dan<sub>4</sub></td>
+		<td><span class="cuneiform">&#x120CB;</span></td>
+		<td>U+120CB</td>
+		<td>CUNEIFORM SIGN GA2 TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>kisal</td>
+		<td><span class="cuneiform">&#x121A6;</span></td>
+		<td>U+121A6</td>
+		<td>CUNEIFORM SIGN KISAL</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>(emedub)</td>
+		<td><span class="cuneiform">&#x120C6;</span></td>
+		<td>U+120C6</td>
+		<td>CUNEIFORM SIGN GA2 TIMES DUB</td>
+	</tr>
+	<tr>
+		<td>250d</td>
+		<td>(me<sub>7</sub>)</td>
+		<td><span class="cuneiform">&#x120D9;</span></td>
+		<td>U+120D9</td>
+		<td>CUNEIFORM SIGN GA2 TIMES KASKAL</td>
+	</tr>
+	<tr>
+		<td>250i</td>
+		<td>(išhuru<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x120D7;</span></td>
+		<td>U+120D7</td>
+		<td>CUNEIFORM SIGN GA2 TIMES ISH PLUS HU PLUS ASH</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>(am<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x120D8;</span></td>
+		<td>U+120D8</td>
+		<td>CUNEIFORM SIGN GA2 TIMES KAK</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>(galilla)</td>
+		<td><span class="cuneiform">&#x120DB;</span></td>
+		<td>U+120DB</td>
+		<td>CUNEIFORM SIGN GA2 TIMES KID PLUS LAL</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>sila<sub>4</sub></td>
+		<td><span class="cuneiform">&#x120E2;</span></td>
+		<td>U+120E2</td>
+		<td>CUNEIFORM SIGN GA2 TIMES PA</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>(emedub<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x120E7;</span></td>
+		<td>U+120E7</td>
+		<td>CUNEIFORM SIGN GA2 TIMES SHID</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>ur<sub>3</sub></td>
+		<td><span class="cuneiform">&#x120E1;</span></td>
+		<td>U+120E1</td>
+		<td>CUNEIFORM SIGN GA2 TIMES NUN OVER NUN</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>(dan<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x120E9;</span></td>
+		<td>U+120E9</td>
+		<td>CUNEIFORM SIGN GA2 TIMES TAK4</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>gagia</td>
+		<td><span class="cuneiform">&#x120CE;</span></td>
+		<td>U+120CE</td>
+		<td>CUNEIFORM SIGN GA2 TIMES GI4</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>(gaburra)</td>
+		<td><span class="cuneiform">&#x120C2;</span></td>
+		<td>U+120C2</td>
+		<td>CUNEIFORM SIGN GA2 TIMES BUR PLUS RA</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>(sabad<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x120D6;</span></td>
+		<td>U+120D6</td>
+		<td>CUNEIFORM SIGN GA2 TIMES IGI GUNU</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>esag<sub>2</sub></td>
+		<td><span class="cuneiform">&#x120E5;</span></td>
+		<td>U+120E5</td>
+		<td>CUNEIFORM SIGN GA2 TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>(erim<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x120EB;</span></td>
+		<td>U+120EB</td>
+		<td>CUNEIFORM SIGN GA2 TIMES UD</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>(gahili)</td>
+		<td><span class="cuneiform">&#x120D4;</span></td>
+		<td>U+120D4</td>
+		<td>CUNEIFORM SIGN GA2 TIMES HI PLUS LI</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>(sabad)</td>
+		<td><span class="cuneiform">&#x120EA;</span></td>
+		<td>U+120EA</td>
+		<td>CUNEIFORM SIGN GA2 TIMES U</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>itima</td>
+		<td><span class="cuneiform">&#x120DF;</span></td>
+		<td>U+120DF</td>
+		<td>CUNEIFORM SIGN GA2 TIMES MI</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>(gazag)</td>
+		<td><span class="cuneiform">&#x120DC;</span></td>
+		<td>U+120DC</td>
+		<td>CUNEIFORM SIGN GA2 TIMES KU3 PLUS AN</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>men</td>
+		<td><span class="cuneiform">&#x120DE;</span></td>
+		<td>U+120DE</td>
+		<td>CUNEIFORM SIGN GA2 TIMES ME PLUS EN</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>arhuš</td>
+		<td><span class="cuneiform">&#x120E3;</span></td>
+		<td>U+120E3</td>
+		<td>CUNEIFORM SIGN GA2 TIMES SAL</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>(edakua)</td>
+		<td><span class="cuneiform">&#x120B8;</span></td>
+		<td>U+120B8</td>
+		<td>CUNEIFORM SIGN GA2 TIMES A PLUS DA PLUS HA</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>(halubba)</td>
+		<td><span class="cuneiform">&#x120D1;</span></td>
+		<td>U+120D1</td>
+		<td>CUNEIFORM SIGN GA2 TIMES HA PLUS LU PLUS ESH2</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>galga</td>
+		<td><span class="cuneiform">&#x120CC;</span></td>
+		<td>U+120CC</td>
+		<td>CUNEIFORM SIGN GA2 TIMES GAR</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>dag</td>
+		<td><span class="cuneiform">&#x12056;</span></td>
+		<td>U+12056</td>
+		<td>CUNEIFORM SIGN DAG</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>utua<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12056;&#x121a8;</span></td>
+		<td></td>
+		<td>(U+12056 DAG plus U+121A8 KISIM5)</td>
+	</tr>
+	<tr>
+		<td>281a</td>
+		<td>kiši<sub>8</sub></td>
+		<td><span class="cuneiform">&#x1205E;</span></td>
+		<td>U+1205E</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES GIR2</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>zibin</td>
+		<td><span class="cuneiform">&#x1206B;</span></td>
+		<td>U+1206B</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES TAK4</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>kiši<sub>7</sub></td>
+		<td><span class="cuneiform">&#x1205D;</span></td>
+		<td>U+1205D</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES GI</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>šurun<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12068;</span></td>
+		<td>U+12068</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES NE</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>udul<sub>6</sub></td>
+		<td><span class="cuneiform">&#x1206D;</span></td>
+		<td>U+1206D</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES USH</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>utul<sub>5</sub></td>
+		<td><span class="cuneiform">&#x1205F;</span></td>
+		<td>U+1205F</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES GUD</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>kiši<sub>9</sub></td>
+		<td><span class="cuneiform">&#x1206C;</span></td>
+		<td>U+1206C</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS GIR2</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>agan<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1205B;</span></td>
+		<td>U+1205B</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES GA</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>šaran</td>
+		<td><span class="cuneiform">&#x12059;</span></td>
+		<td>U+12059</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES BALAG</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>amaš</td>
+		<td><span class="cuneiform">&#x12066;</span></td>
+		<td>U+12066</td>
+		<td>CUNEIFORM SIGN DAG KISIM5 TIMES LU PLUS MASH2</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>pa</td>
+		<td><span class="cuneiform">&#x1227A;</span></td>
+		<td>U+1227A</td>
+		<td>CUNEIFORM SIGN PA</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>banmin</td>
+		<td><span class="cuneiform">&#x12450;</span></td>
+		<td>U+12450</td>
+		<td>CUNEIFORM NUMERIC SIGN TWO BAN2</td>
+	</tr>
+	<tr>
+		<td>295a</td>
+		<td>garsu</td>
+		<td><span class="cuneiform">&#x1227a;&#x122e2;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+122E2 SU)</td>
+	</tr>
+	<tr>
+		<td>295b</td>
+		<td>garza</td>
+		<td><span class="cuneiform">&#x1227a;&#x1202d;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+1202D AN)</td>
+	</tr>
+	<tr>
+		<td>295b'</td>
+		<td>zilulu</td>
+		<td><span class="cuneiform">&#x1227a;&#x12347;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+12347 URU TIMES MIN)</td>
+	</tr>
+	<tr>
+		<td>295c</td>
+		<td>rig<sub>7</sub></td>
+		<td><span class="cuneiform">&#x1227a;&#x12138;&#x1207a;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+12138 HUB2 plus U+1207A DU)</td>
+	</tr>
+	<tr>
+		<td>295c'</td>
+		<td>garza<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1227a;&#x12217;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+12217 LUGAL)</td>
+	</tr>
+	<tr>
+		<td>295d</td>
+		<td>maškim</td>
+		<td><span class="cuneiform">&#x1227a;&#x1207d;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+1207D DU SHESHIG)</td>
+	</tr>
+	<tr>
+		<td>295e</td>
+		<td>maškim<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1227a;&#x1207c;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+1207C DU GUNU)</td>
+	</tr>
+	<tr>
+		<td>295f</td>
+		<td>šabra</td>
+		<td><span class="cuneiform">&#x1227a;&#x12020;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+12020 AL)</td>
+	</tr>
+	<tr>
+		<td>295k</td>
+		<td>šab</td>
+		<td><span class="cuneiform">&#x1227a;&#x12141;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+12141 IB)</td>
+	</tr>
+	<tr>
+		<td>295l</td>
+		<td>enšada</td>
+		<td><span class="cuneiform">&#x1227a;&#x12306;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+12306 TUG2)</td>
+	</tr>
+	<tr>
+		<td>295m</td>
+		<td>sipa</td>
+		<td><span class="cuneiform">&#x1227a;&#x121fb;</span></td>
+		<td></td>
+		<td>(U+1227A PA plus U+121FB LU)</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>giš</td>
+		<td><span class="cuneiform">&#x12111;</span></td>
+		<td>U+12111</td>
+		<td>CUNEIFORM SIGN GISH</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>(guru<sub>17</sub>)</td>
+		<td><span class="cuneiform">&#x12115;</span></td>
+		<td>U+12115</td>
+		<td>CUNEIFORM SIGN GISH TENU</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>gud</td>
+		<td><span class="cuneiform">&#x1211E;</span></td>
+		<td>U+1211E</td>
+		<td>CUNEIFORM SIGN GUD</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>al</td>
+		<td><span class="cuneiform">&#x12020;</span></td>
+		<td>U+12020</td>
+		<td>CUNEIFORM SIGN AL</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>(hibis<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x12028;</span></td>
+		<td>U+12028</td>
+		<td>CUNEIFORM SIGN AL TIMES USH</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>(gišbar)</td>
+		<td><span class="cuneiform">&#x12023;</span></td>
+		<td>U+12023</td>
+		<td>CUNEIFORM SIGN AL TIMES GISH</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>(lidim?)</td>
+		<td><span class="cuneiform">&#x12022;</span></td>
+		<td>U+12022</td>
+		<td>CUNEIFORM SIGN AL TIMES DIM2</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>(hibira)</td>
+		<td><span class="cuneiform">&#x12024;</span></td>
+		<td>U+12024</td>
+		<td>CUNEIFORM SIGN AL TIMES HA</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>ub</td>
+		<td><span class="cuneiform">&#x12312;</span></td>
+		<td>U+12312</td>
+		<td>CUNEIFORM SIGN UB</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>mar</td>
+		<td><span class="cuneiform">&#x12225;</span></td>
+		<td>U+12225</td>
+		<td>CUNEIFORM SIGN MAR</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>e</td>
+		<td><span class="cuneiform">&#x1208A;</span></td>
+		<td>U+1208A</td>
+		<td>CUNEIFORM SIGN E</td>
+	</tr>
+	<tr>
+		<td>308a</td>
+		<td>(hilibu)</td>
+		<td><span class="cuneiform">&#x1208C;</span></td>
+		<td>U+1208C</td>
+		<td>CUNEIFORM SIGN E OVER E NUN OVER NUN</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>bahar<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12043;</span></td>
+		<td>U+12043</td>
+		<td>CUNEIFORM SIGN BAHAR2</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>dug</td>
+		<td><span class="cuneiform">&#x12081;</span></td>
+		<td>U+12081</td>
+		<td>CUNEIFORM SIGN DUG</td>
+	</tr>
+	<tr>
+		<td><esp:bookmark id="labat311">311</esp:bookmark></td>
+		<td>(gurun)</td>
+		<td><span class="cuneiform">&#x12127;</span></td>
+		<td>U+12127</td>
+		<td>CUNEIFORM SIGN GURUN</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>kalam</td>
+		<td><span class="cuneiform">&#x12326;</span></td>
+		<td>U+12326</td>
+		<td>CUNEIFORM SIGN UN</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>lil<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121A4;</span></td>
+		<td>U+121A4</td>
+		<td>CUNEIFORM SIGN KID</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>mez</td>
+		<td><span class="cuneiform">&#x12229;</span></td>
+		<td>U+12229</td>
+		<td>CUNEIFORM SIGN MES</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>šita<sub>5</sub></td>
+		<td><span class="cuneiform">&#x122C3;</span></td>
+		<td>U+122C3</td>
+		<td>CUNEIFORM SIGN SHID</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>eme<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1231d;&#x12228;</span></td>
+		<td></td>
+		<td>(U+1231D UM plus U+12228 ME)</td>
+	</tr>
+	<tr>
+		<td>315*</td>
+		<td>(emeda<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x1231F;</span></td>
+		<td>U+1231F</td>
+		<td>CUNEIFORM SIGN UM TIMES ME PLUS DA</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>pisan<sub>3</sub></td>
+		<td><span class="cuneiform">&#x122C4;</span></td>
+		<td>U+122C4</td>
+		<td>CUNEIFORM SIGN SHID TIMES A</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>(uzug<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x122A2;</span></td>
+		<td>U+122A2</td>
+		<td>CUNEIFORM SIGN SAG TIMES U2</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>kuš<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12311;</span></td>
+		<td>U+12311</td>
+		<td>CUNEIFORM SIGN U2</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>ga</td>
+		<td><span class="cuneiform">&#x120B5;</span></td>
+		<td>U+120B5</td>
+		<td>CUNEIFORM SIGN GA</td>
+	</tr>
+	<tr>
+		<td>319a</td>
+		<td>ga-raš</td>
+		<td><span class="cuneiform">&#x120b5;&#x1219c;</span></td>
+		<td></td>
+		<td>(U+120B5 GA plus U+1219C KASKAL)</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>il<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1214D;</span></td>
+		<td>U+1214D</td>
+		<td>CUNEIFORM SIGN IL2</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>luh</td>
+		<td><span class="cuneiform">&#x1221B;</span></td>
+		<td>U+1221B</td>
+		<td>CUNEIFORM SIGN LUH</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>guruš</td>
+		<td><span class="cuneiform">&#x12128;</span></td>
+		<td>U+12128</td>
+		<td>CUNEIFORM SIGN GURUSH</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>kal</td>
+		<td><span class="cuneiform">&#x12197;</span></td>
+		<td>U+12197</td>
+		<td>CUNEIFORM SIGN KAL</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>alad<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12198;</span></td>
+		<td>U+12198</td>
+		<td>CUNEIFORM SIGN KAL TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>e<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1208D;</span></td>
+		<td>U+1208D</td>
+		<td>CUNEIFORM SIGN E2</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>nir</td>
+		<td><span class="cuneiform">&#x1226A;</span></td>
+		<td>U+1226A</td>
+		<td>CUNEIFORM SIGN NUN OVER NUN</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>gi<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12104;</span></td>
+		<td>U+12104</td>
+		<td>CUNEIFORM SIGN GI4</td>
+	</tr>
+	<tr>
+		<td>326a</td>
+		<td>gigi</td>
+		<td><span class="cuneiform">&#x12106;</span></td>
+		<td>U+12106</td>
+		<td>CUNEIFORM SIGN GI4 CROSSING GI4</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>(usan<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x1211D;</span></td>
+		<td>U+1211D</td>
+		<td>CUNEIFORM SIGN GU2 GUNU</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>ra</td>
+		<td><span class="cuneiform">&#x1228F;</span></td>
+		<td>U+1228F</td>
+		<td>CUNEIFORM SIGN RA</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>šur<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122A8;</span></td>
+		<td>U+122A8</td>
+		<td>CUNEIFORM SIGN SAG GUNU</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>lu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121FD;</span></td>
+		<td>U+121FD</td>
+		<td>CUNEIFORM SIGN LU2</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>(du<sub>14</sub>)</td>
+		<td><span class="cuneiform">&#x1220C;</span></td>
+		<td>U+1220C</td>
+		<td>CUNEIFORM SIGN LU2 TIMES NE</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>(adamen)</td>
+		<td><span class="cuneiform">&#x12213;</span></td>
+		<td>U+12213</td>
+		<td>CUNEIFORM SIGN LU2 OPPOSING LU2</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>šeš</td>
+		<td><span class="cuneiform">&#x122C0;</span></td>
+		<td>U+122C0</td>
+		<td>CUNEIFORM SIGN SHESH</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>uru<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12336;</span></td>
+		<td>U+12336</td>
+		<td>CUNEIFORM SIGN URI3</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>zag</td>
+		<td><span class="cuneiform">&#x12360;</span></td>
+		<td>U+12360</td>
+		<td>CUNEIFORM SIGN ZAG</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>gar<sub>3</sub></td>
+		<td><span class="cuneiform">&#x120FC;</span></td>
+		<td>U+120FC</td>
+		<td>CUNEIFORM SIGN GAR3</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>a<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12009;</span></td>
+		<td>U+12009</td>
+		<td>CUNEIFORM SIGN A2</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>da</td>
+		<td><span class="cuneiform">&#x12055;</span></td>
+		<td>U+12055</td>
+		<td>CUNEIFORM SIGN DA</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>lil</td>
+		<td><span class="cuneiform">&#x121F8;</span></td>
+		<td>U+121F8</td>
+		<td>CUNEIFORM SIGN LIL</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>nisag</td>
+		<td><span class="cuneiform">&#x12260;</span></td>
+		<td>U+12260</td>
+		<td>CUNEIFORM SIGN NISAG</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>murub<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12318;</span></td>
+		<td>U+12318</td>
+		<td>CUNEIFORM SIGN UD TIMES U PLUS U PLUS U GUNU</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>simug</td>
+		<td><span class="cuneiform">&#x12323;</span></td>
+		<td>U+12323</td>
+		<td>CUNEIFORM SIGN UMUM</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>de<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12324;</span></td>
+		<td>U+12324</td>
+		<td>CUNEIFORM SIGN UMUM TIMES KASKAL</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>aš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1203E;</span></td>
+		<td>U+1203E</td>
+		<td>CUNEIFORM SIGN ASH2</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>ziz<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12369;</span></td>
+		<td>U+12369</td>
+		<td>CUNEIFORM SIGN ZIZ2</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>baneš</td>
+		<td><span class="cuneiform">&#x12451;</span></td>
+		<td>U+12451</td>
+		<td>CUNEIFORM NUMERIC SIGN THREE BAN2</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>(banlimmu)</td>
+		<td><span class="cuneiform">&#x12452;</span></td>
+		<td>U+12452</td>
+		<td>CUNEIFORM NUMERIC SIGN FOUR BAN2</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>(bania)</td>
+		<td><span class="cuneiform">&#x12454;</span></td>
+		<td>U+12454</td>
+		<td>CUNEIFORM NUMERIC SIGN FIVE BAN2</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>ma</td>
+		<td><span class="cuneiform">&#x12220;</span></td>
+		<td>U+12220</td>
+		<td>CUNEIFORM SIGN MA</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>gal</td>
+		<td><span class="cuneiform">&#x120F2;</span></td>
+		<td>U+120F2</td>
+		<td>CUNEIFORM SIGN GAL</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>bara<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12048;</span></td>
+		<td>U+12048</td>
+		<td>CUNEIFORM SIGN BARA2</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>lu<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12216;</span></td>
+		<td>U+12216</td>
+		<td>CUNEIFORM SIGN LU3</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>peš</td>
+		<td><span class="cuneiform">&#x1212B;</span></td>
+		<td>U+1212B</td>
+		<td>CUNEIFORM SIGN HA GUNU</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>aga</td>
+		<td><span class="cuneiform">&#x12087;</span></td>
+		<td>U+12087</td>
+		<td>CUNEIFORM SIGN DUN3 GUNU GUNU</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>nigir<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12088;</span></td>
+		<td>U+12088</td>
+		<td>CUNEIFORM SIGN DUN4</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>bur</td>
+		<td><span class="cuneiform">&#x12053;</span></td>
+		<td>U+12053</td>
+		<td>CUNEIFORM SIGN BUR</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>gašan</td>
+		<td><span class="cuneiform">&#x120FD;</span></td>
+		<td>U+120FD</td>
+		<td>CUNEIFORM SIGN GASHAN</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>sig<sub>7</sub></td>
+		<td><span class="cuneiform">&#x1214A;</span></td>
+		<td>U+1214A</td>
+		<td>CUNEIFORM SIGN IGI GUNU</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>balag</td>
+		<td><span class="cuneiform">&#x12046;</span></td>
+		<td>U+12046</td>
+		<td>CUNEIFORM SIGN BALAG</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>dub<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12080;</span></td>
+		<td>U+12080</td>
+		<td>CUNEIFORM SIGN DUB2</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>ša</td>
+		<td><span class="cuneiform">&#x122AD;</span></td>
+		<td>U+122AD</td>
+		<td>CUNEIFORM SIGN SHA</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>šu</td>
+		<td><span class="cuneiform">&#x122D7;</span></td>
+		<td>U+122D7</td>
+		<td>CUNEIFORM SIGN SHU</td>
+	</tr>
+	<tr>
+		<td>354a</td>
+		<td>kad<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12192;</span></td>
+		<td>U+12192</td>
+		<td>CUNEIFORM SIGN KAD4</td>
+	</tr>
+	<tr>
+		<td>354b</td>
+		<td>kad<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12193;</span></td>
+		<td>U+12193</td>
+		<td>CUNEIFORM SIGN KAD5</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>nar</td>
+		<td><span class="cuneiform">&#x1221C;</span></td>
+		<td>U+1221C</td>
+		<td>CUNEIFORM SIGN LUL</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>gišimmar</td>
+		<td><span class="cuneiform">&#x122B7;</span></td>
+		<td>U+122B7</td>
+		<td>CUNEIFORM SIGN SHA6</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>alan</td>
+		<td><span class="cuneiform">&#x12029;</span></td>
+		<td>U+12029</td>
+		<td>CUNEIFORM SIGN ALAN</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>uri</td>
+		<td><span class="cuneiform">&#x12335;</span></td>
+		<td>U+12335</td>
+		<td>CUNEIFORM SIGN URI</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>gam</td>
+		<td><span class="cuneiform">&#x120F5;</span></td>
+		<td>U+120F5</td>
+		<td>CUNEIFORM SIGN GAM</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td> : </td>
+		<td><span class="cuneiform">&#x12472;</span></td>
+		<td>U+12472</td>
+		<td>CUNEIFORM PUNCTUATION SIGN DIAGONAL COLON</td>
+	</tr>
+	<tr>
+		<td>362'</td>
+		<td>iš<sub>8</sub></td>
+		<td><span class="cuneiform">&#x12039;</span></td>
+		<td>U+12039</td>
+		<td>CUNEIFORM SIGN ASH ZIDA TENU</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>ilimmu</td>
+		<td><span class="cuneiform">&#x12448;</span></td>
+		<td>U+12448</td>
+		<td>CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU4</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>:.</td>
+		<td><span class="cuneiform">&#x12473;</span></td>
+		<td>U+12473</td>
+		<td>CUNEIFORM PUNCTUATION SIGN DIAGONAL TRICOLON</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>(šušur)</td>
+		<td><span class="cuneiform">&#x1203C;</span></td>
+		<td>U+1203C</td>
+		<td>CUNEIFORM SIGN ASH OVER ASH OVER ASH</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>(zubur)</td>
+		<td><span class="cuneiform">&#x1236D;</span></td>
+		<td>U+1236D</td>
+		<td>CUNEIFORM SIGN ZUBUR</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>(šušur<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x1203D;</span></td>
+		<td>U+1203D</td>
+		<td>CUNEIFORM SIGN ASH OVER ASH OVER ASH CROSSING ASH OVER ASH OVER ASH</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>kur</td>
+		<td><span class="cuneiform">&#x121B3;</span></td>
+		<td>U+121B3</td>
+		<td>CUNEIFORM SIGN KUR</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>še</td>
+		<td><span class="cuneiform">&#x122BA;</span></td>
+		<td>U+122BA</td>
+		<td>CUNEIFORM SIGN SHE</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>(karadin<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x122BC;</span></td>
+		<td>U+122BC</td>
+		<td>CUNEIFORM SIGN SHE OVER SHE GAD OVER GAD GAR OVER GAR</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>(karadin<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x122BD;</span></td>
+		<td>U+122BD</td>
+		<td>CUNEIFORM SIGN SHE OVER SHE TAB OVER TAB GAR OVER GAR</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>gid<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1204D;</span></td>
+		<td>U+1204D</td>
+		<td>CUNEIFORM SIGN BU</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>uz</td>
+		<td><span class="cuneiform">&#x122BB;</span></td>
+		<td>U+122BB</td>
+		<td>CUNEIFORM SIGN SHE HU</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>sud</td>
+		<td><span class="cuneiform">&#x122E4;</span></td>
+		<td>U+122E4</td>
+		<td>CUNEIFORM SIGN SUD</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>muš</td>
+		<td><span class="cuneiform">&#x12232;</span></td>
+		<td>U+12232</td>
+		<td>CUNEIFORM SIGN MUSH</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>tir</td>
+		<td><span class="cuneiform">&#x12301;</span></td>
+		<td>U+12301</td>
+		<td>CUNEIFORM SIGN TIR</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>ninni<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12303;</span></td>
+		<td>U+12303</td>
+		<td>CUNEIFORM SIGN TIR OVER TIR</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>(karadin)</td>
+		<td><span class="cuneiform">&#x12304;</span></td>
+		<td>U+12304</td>
+		<td>CUNEIFORM SIGN TIR OVER TIR GAD OVER GAD GAR OVER GAR</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>te</td>
+		<td><span class="cuneiform">&#x122FC;</span></td>
+		<td>U+122FC</td>
+		<td>CUNEIFORM SIGN TE</td>
+	</tr>
+	<tr>
+		<td>376*</td>
+		<td>kar</td>
+		<td><span class="cuneiform">&#x122fc;&#x12000;</span></td>
+		<td></td>
+		<td>(U+122FC TE plus U+12000 A)</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>dilim<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121FA;</span></td>
+		<td>U+121FA</td>
+		<td>CUNEIFORM SIGN LISH</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>—</td>
+		<td><span class="cuneiform">&#x12471;</span></td>
+		<td>U+12471</td>
+		<td>CUNEIFORM PUNCTUATION SIGN VERTICAL COLON</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>utu</td>
+		<td><span class="cuneiform">&#x12313;</span></td>
+		<td>U+12313</td>
+		<td>CUNEIFORM SIGN UD</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>pi</td>
+		<td><span class="cuneiform">&#x1227F;</span></td>
+		<td>U+1227F</td>
+		<td>CUNEIFORM SIGN PI</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>ša<sub>3</sub></td>
+		<td><span class="cuneiform">&#x122AE;</span></td>
+		<td>U+122AE</td>
+		<td>CUNEIFORM SIGN SHA3</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>(bir<sub>6</sub>)</td>
+		<td><span class="cuneiform">&#x122B6;</span></td>
+		<td>U+122B6</td>
+		<td>CUNEIFORM SIGN SHA3 TIMES U PLUS A</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>peš<sub>4</sub></td>
+		<td><span class="cuneiform">&#x122AF;</span></td>
+		<td>U+122AF</td>
+		<td>CUNEIFORM SIGN SHA3 TIMES A</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>uh<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12314;</span></td>
+		<td>U+12314</td>
+		<td>CUNEIFORM SIGN UD KUSHU2</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>erin<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1209F;</span></td>
+		<td>U+1209F</td>
+		<td>CUNEIFORM SIGN ERIN2</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>nunuz</td>
+		<td><span class="cuneiform">&#x1226D;</span></td>
+		<td>U+1226D</td>
+		<td>CUNEIFORM SIGN NUNUZ</td>
+	</tr>
+	<tr>
+		<td>394b</td>
+		<td>(lahtan)</td>
+		<td><span class="cuneiform">&#x12274;</span></td>
+		<td>U+12274</td>
+		<td>CUNEIFORM SIGN NUNUZ AB2 TIMES LA</td>
+	</tr>
+	<tr>
+		<td>394c</td>
+		<td>usan<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1226E;</span></td>
+		<td>U+1226E</td>
+		<td>CUNEIFORM SIGN NUNUZ AB2 TIMES ASHGAB</td>
+	</tr>
+	<tr>
+		<td>394d</td>
+		<td>mud<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1226F;</span></td>
+		<td>U+1226F</td>
+		<td>CUNEIFORM SIGN NUNUZ AB2 TIMES BI</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>zib</td>
+		<td><span class="cuneiform">&#x12366;</span></td>
+		<td>U+12366</td>
+		<td>CUNEIFORM SIGN ZIB</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>dug<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1212D;</span></td>
+		<td>U+1212D</td>
+		<td>CUNEIFORM SIGN HI</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>šar<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122B9;</span></td>
+		<td>U+122B9</td>
+		<td>CUNEIFORM SIGN SHAR2</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>aʾ</td>
+		<td><span class="cuneiform">&#x1202A;</span></td>
+		<td>U+1202A</td>
+		<td>CUNEIFORM SIGN ALEPH</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>uh</td>
+		<td><span class="cuneiform">&#x12134;</span></td>
+		<td>U+12134</td>
+		<td>CUNEIFORM SIGN HI TIMES NUN</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>im</td>
+		<td><span class="cuneiform">&#x1214E;</span></td>
+		<td>U+1214E</td>
+		<td>CUNEIFORM SIGN IM</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>(kid<sub>7</sub>)</td>
+		<td><span class="cuneiform">&#x1214F;</span></td>
+		<td>U+1214F</td>
+		<td>CUNEIFORM SIGN IM TIMES TAK4</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>ni<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1224E;</span></td>
+		<td>U+1224E</td>
+		<td>CUNEIFORM SIGN NI2</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>ellag<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12135;</span></td>
+		<td>U+12135</td>
+		<td>CUNEIFORM SIGN HI TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>har</td>
+		<td><span class="cuneiform">&#x1212F;</span></td>
+		<td>U+1212F</td>
+		<td>CUNEIFORM SIGN HI TIMES ASH2</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>huš</td>
+		<td><span class="cuneiform">&#x1212d;&#x1210a;</span></td>
+		<td></td>
+		<td>(U+1212D HI plus U+1210A GIR3)</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>suhur</td>
+		<td><span class="cuneiform">&#x122E6;</span></td>
+		<td>U+122E6</td>
+		<td>CUNEIFORM SIGN SUHUR</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>(kisim<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x121A8;</span></td>
+		<td>U+121A8</td>
+		<td>CUNEIFORM SIGN KISIM5</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>sur<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1212E;</span></td>
+		<td>U+1212E</td>
+		<td>CUNEIFORM SIGN HI TIMES ASH</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>kam</td>
+		<td><span class="cuneiform">&#x12130;</span></td>
+		<td>U+12130</td>
+		<td>CUNEIFORM SIGN HI TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>u</td>
+		<td><span class="cuneiform">&#x1230B;</span></td>
+		<td>U+1230B</td>
+		<td>CUNEIFORM SIGN U</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>ugu</td>
+		<td><span class="cuneiform">&#x1230b;&#x12157;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+12157 KA)</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>udun</td>
+		<td><span class="cuneiform">&#x1230b;&#x1222c;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+1222C MU)</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>gakkul</td>
+		<td><span class="cuneiform">&#x1230b;&#x12075;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+12075 DIM TIMES SHE)</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>u-gur</td>
+		<td><span class="cuneiform">&#x1230b;&#x12125;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+12125 GUR)</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>ugun</td>
+		<td><span class="cuneiform">&#x1230b;&#x1206f;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+1206F DAR)</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>sagšu</td>
+		<td><span class="cuneiform">&#x1230b;&#x12295;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+12295 SAG)</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>ab<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12016;</span></td>
+		<td>U+12016</td>
+		<td>CUNEIFORM SIGN AB2</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>alim</td>
+		<td><span class="cuneiform">&#x1210B;</span></td>
+		<td>U+1210B</td>
+		<td>CUNEIFORM SIGN GIR3 TIMES A PLUS IGI</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>lilis</td>
+		<td><span class="cuneiform">&#x12017;</span></td>
+		<td>U+12017</td>
+		<td>CUNEIFORM SIGN AB2 TIMES BALAG</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>šem<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12018;</span></td>
+		<td>U+12018</td>
+		<td>CUNEIFORM SIGN AB2 TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>ub<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1201A;</span></td>
+		<td>U+1201A</td>
+		<td>CUNEIFORM SIGN AB2 TIMES SHA3</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>kiš</td>
+		<td><span class="cuneiform">&#x121A7;</span></td>
+		<td>U+121A7</td>
+		<td>CUNEIFORM SIGN KISH</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>(meze)</td>
+		<td><span class="cuneiform">&#x12019;</span></td>
+		<td>U+12019</td>
+		<td>CUNEIFORM SIGN AB2 TIMES ME PLUS EN</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>ge<sub>6</sub></td>
+		<td><span class="cuneiform">&#x1222A;</span></td>
+		<td>U+1222A</td>
+		<td>CUNEIFORM SIGN MI</td>
+	</tr>
+	<tr>
+		<td>428</td>
+		<td>šakan</td>
+		<td><span class="cuneiform">&#x1230b;&#x120f6;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+120F6 GAN)</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>gul</td>
+		<td><span class="cuneiform">&#x12122;</span></td>
+		<td>U+12122</td>
+		<td>CUNEIFORM SIGN GUL</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>gir<sub>4</sub></td>
+		<td><span class="cuneiform">&#x1230b;&#x1201c;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+1201C AD)</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>na<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1223F;</span></td>
+		<td>U+1223F</td>
+		<td>CUNEIFORM SIGN NA2</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>nim</td>
+		<td><span class="cuneiform">&#x1224F;</span></td>
+		<td>U+1224F</td>
+		<td>CUNEIFORM SIGN NIM</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>tum<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12250;</span></td>
+		<td>U+12250</td>
+		<td>CUNEIFORM SIGN NIM TIMES GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>434a</td>
+		<td>kir<sub>7</sub></td>
+		<td><span class="cuneiform">&#x12251;</span></td>
+		<td>U+12251</td>
+		<td>CUNEIFORM SIGN NIM TIMES GAR PLUS GAN2 TENU</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>lam</td>
+		<td><span class="cuneiform">&#x121F4;</span></td>
+		<td>U+121F4</td>
+		<td>CUNEIFORM SIGN LAM</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>iš<sub>11</sub></td>
+		<td><span class="cuneiform">&#x121F5;</span></td>
+		<td>U+121F5</td>
+		<td>CUNEIFORM SIGN LAM TIMES KUR</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>aratta<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121F6;</span></td>
+		<td>U+121F6</td>
+		<td>CUNEIFORM SIGN LAM TIMES KUR PLUS RU</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>amar</td>
+		<td><span class="cuneiform">&#x1202B;</span></td>
+		<td>U+1202B</td>
+		<td>CUNEIFORM SIGN AMAR</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>siskur</td>
+		<td><span class="cuneiform">&#x1202C;</span></td>
+		<td>U+1202C</td>
+		<td>CUNEIFORM SIGN AMAR TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>ban</td>
+		<td><span class="cuneiform">&#x1227C;</span></td>
+		<td>U+1227C</td>
+		<td>CUNEIFORM SIGN PAN</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>dim<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12076;</span></td>
+		<td>U+12076</td>
+		<td>CUNEIFORM SIGN DIM2</td>
+	</tr>
+	<tr>
+		<td>441</td>
+		<td>ul</td>
+		<td><span class="cuneiform">&#x1230C;</span></td>
+		<td>U+1230C</td>
+		<td>CUNEIFORM SIGN U GUD</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>gir<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1210A;</span></td>
+		<td>U+1210A</td>
+		<td>CUNEIFORM SIGN GIR3</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>pirig</td>
+		<td><span class="cuneiform">&#x1228A;</span></td>
+		<td>U+1228A</td>
+		<td>CUNEIFORM SIGN PIRIG</td>
+	</tr>
+	<tr>
+		<td><esp:bookmark id="labat444">444</esp:bookmark></td>
+		<td>(nib)</td>
+		<td><span class="cuneiform">&#x1228B;</span></td>
+		<td>U+1228B</td>
+		<td>CUNEIFORM SIGN PIRIG TIMES KAL</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>(tidnum)</td>
+		<td><span class="cuneiform">&#x1228E;</span></td>
+		<td>U+1228E</td>
+		<td>CUNEIFORM SIGN PIRIG OPPOSING PIRIG</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>dugud</td>
+		<td><span class="cuneiform">&#x12082;</span></td>
+		<td>U+12082</td>
+		<td>CUNEIFORM SIGN DUGUD</td>
+	</tr>
+	<tr>
+		<td>446'</td>
+		<td>gig</td>
+		<td><span class="cuneiform">&#x1222A;&#x1226D;</span></td>
+		<td></td>
+		<td>(U+1222A MI plus U+1226D NUNUZ)</td>
+	</tr>
+	<tr>
+		<td>447a</td>
+		<td>nigin<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1230b;&#x12313;&#x121a4;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+12313 UD plus U+121A4 KID)</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>igi</td>
+		<td><span class="cuneiform">&#x12146;</span></td>
+		<td>U+12146</td>
+		<td>CUNEIFORM SIGN IGI</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>pad</td>
+		<td><span class="cuneiform">&#x12146;&#x12292;</span></td>
+		<td></td>
+		<td>(U+12146 IGI plus U+12292 RU)</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>ar</td>
+		<td><span class="cuneiform">&#x12148;</span></td>
+		<td>U+12148</td>
+		<td>CUNEIFORM SIGN IGI RI</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>agrig</td>
+		<td><span class="cuneiform">&#x12146;&#x1207e;</span></td>
+		<td></td>
+		<td>(U+12146 IGI plus U+1207E DUB)</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>sig<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12146;&#x1209f;</span></td>
+		<td></td>
+		<td>(U+12146 IGI plus U+1209F ERIN2)</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>u<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12147;</span></td>
+		<td>U+12147</td>
+		<td>CUNEIFORM SIGN IGI DIB</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>hul</td>
+		<td><span class="cuneiform">&#x12146;&#x12328;</span></td>
+		<td></td>
+		<td>(U+12146 IGI plus U+12328 UR)</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>di</td>
+		<td><span class="cuneiform">&#x12072;</span></td>
+		<td>U+12072</td>
+		<td>CUNEIFORM SIGN DI</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>lagar</td>
+		<td><span class="cuneiform">&#x121EC;</span></td>
+		<td>U+121EC</td>
+		<td>CUNEIFORM SIGN LAGAR</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>du<sub>6</sub></td>
+		<td><span class="cuneiform">&#x121EF;</span></td>
+		<td>U+121EF</td>
+		<td>CUNEIFORM SIGN LAGAR GUNU</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>su<sub>7</sub></td>
+		<td><span class="cuneiform">&#x121ED;</span></td>
+		<td>U+121ED</td>
+		<td>CUNEIFORM SIGN LAGAR TIMES SHE</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>ki</td>
+		<td><span class="cuneiform">&#x121A0;</span></td>
+		<td>U+121A0</td>
+		<td>CUNEIFORM SIGN KI</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>habrud</td>
+		<td><span class="cuneiform">&#x121A2;</span></td>
+		<td>U+121A2</td>
+		<td>CUNEIFORM SIGN KI TIMES U</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>(habrud<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x121A1;</span></td>
+		<td>U+121A1</td>
+		<td>CUNEIFORM SIGN KI TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>kislah<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121A3;</span></td>
+		<td>U+121A3</td>
+		<td>CUNEIFORM SIGN KI TIMES UD</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>kimin</td>
+		<td><span class="cuneiform">&#x121a0;&#x1222b;</span></td>
+		<td></td>
+		<td>(U+121A0 KI plus U+1222B MIN)</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>tin</td>
+		<td><span class="cuneiform">&#x12077;</span></td>
+		<td>U+12077</td>
+		<td>CUNEIFORM SIGN DIN</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>(kiš<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x12294;</span></td>
+		<td>U+12294</td>
+		<td>CUNEIFORM SIGN SAG NUTILLU</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>šah<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12084;</span></td>
+		<td>U+12084</td>
+		<td>CUNEIFORM SIGN DUN</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>ku<sub>3</sub></td>
+		<td><span class="cuneiform">&#x121AC;</span></td>
+		<td>U+121AC</td>
+		<td>CUNEIFORM SIGN KU3</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>pad</td>
+		<td><span class="cuneiform">&#x1227B;</span></td>
+		<td>U+1227B</td>
+		<td>CUNEIFORM SIGN PAD</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>uia</td>
+		<td><span class="cuneiform">&#x1230b;&#x1240a;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+1240A FIVE)</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>niš</td>
+		<td><span class="cuneiform">&#x1230b;&#x1230b;</span></td>
+		<td></td>
+		<td>(U+1230B U plus U+1230B U)</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>eš</td>
+		<td><span class="cuneiform">&#x1230D;</span></td>
+		<td>U+1230D</td>
+		<td>CUNEIFORM SIGN U U U</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>nimin</td>
+		<td><span class="cuneiform">&#x1240F;</span></td>
+		<td>U+1240F</td>
+		<td>CUNEIFORM NUMERIC SIGN FOUR U</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>ninnu</td>
+		<td><span class="cuneiform">&#x12410;</span></td>
+		<td>U+12410</td>
+		<td>CUNEIFORM NUMERIC SIGN FIVE U</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>diš</td>
+		<td><span class="cuneiform">&#x12079;</span></td>
+		<td>U+12079</td>
+		<td>CUNEIFORM SIGN DISH</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>giš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12415;</span></td>
+		<td>U+12415</td>
+		<td>CUNEIFORM NUMERIC SIGN ONE GESH2</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>—</td>
+		<td><span class="cuneiform">&#x12470;</span></td>
+		<td>U+12470</td>
+		<td>CUNEIFORM PUNCTUATION SIGN OLD ASSYRIAN WORD DIVIDER</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>la<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121F2;</span></td>
+		<td>U+121F2</td>
+		<td>CUNEIFORM SIGN LAL</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>lal<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121F3;</span></td>
+		<td>U+121F3</td>
+		<td>CUNEIFORM SIGN LAL TIMES LAL</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>lugud<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121B8;</span></td>
+		<td>U+121B8</td>
+		<td>CUNEIFORM SIGN LAGAB</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>engur</td>
+		<td><span class="cuneiform">&#x121C9;</span></td>
+		<td>U+121C9</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES HAL</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>(bara<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x121C3;</span></td>
+		<td>U+121C3</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES EN</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>gigir</td>
+		<td><span class="cuneiform">&#x121C0;</span></td>
+		<td>U+121C0</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>esir<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121D2;</span></td>
+		<td>U+121D2</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES KUL</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>(sidug)</td>
+		<td><span class="cuneiform">&#x121C2;</span></td>
+		<td>U+121C2</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES DAR</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>(bara<sub>7</sub>)</td>
+		<td><span class="cuneiform">&#x121E3;</span></td>
+		<td>U+121E3</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES TAK4</td>
+	</tr>
+	<tr>
+		<td>491</td>
+		<td>zar</td>
+		<td><span class="cuneiform">&#x121E1;</span></td>
+		<td>U+121E1</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES SUM</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>(šerimsur)</td>
+		<td><span class="cuneiform">&#x121DC;</span></td>
+		<td>U+121DC</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES SHE PLUS SUM</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>ganam<sub>3</sub></td>
+		<td><span class="cuneiform">&#x121C6;</span></td>
+		<td>U+121C6</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES GUD</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>lahar</td>
+		<td><span class="cuneiform">&#x121C7;</span></td>
+		<td>U+121C7</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES GUD PLUS GUD</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>(udub)</td>
+		<td><span class="cuneiform">&#x121DB;</span></td>
+		<td>U+121DB</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES NE</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>(kunin<sub>3</sub>?)</td>
+		<td><span class="cuneiform">&#x121C1;</span></td>
+		<td>U+121C1</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES BI</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>(muššagana<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x121DE;</span></td>
+		<td>U+121DE</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES SHITA PLUS GISH TENU</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>(gala<sub>4</sub>)</td>
+		<td><span class="cuneiform">&#x121BD;</span></td>
+		<td>U+121BD</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES AL</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>(ugra)</td>
+		<td><span class="cuneiform">&#x121E8;</span></td>
+		<td>U+121E8</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES U2 PLUS ASH</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>agar<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121CB;</span></td>
+		<td>U+121CB</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES IGI GUNU</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>(bara<sub>9</sub>)</td>
+		<td><span class="cuneiform">&#x121D7;</span></td>
+		<td>U+121D7</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES LUL</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>(gigir<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x121D5;</span></td>
+		<td>U+121D5</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES LISH</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>(muššagana)</td>
+		<td><span class="cuneiform">&#x121DA;</span></td>
+		<td>U+121DA</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES MUSH</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>(šedur)</td>
+		<td><span class="cuneiform">&#x121E4;</span></td>
+		<td>U+121E4</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES TE PLUS A PLUS SU PLUS NA</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>(umun<sub>6</sub>)</td>
+		<td><span class="cuneiform">&#x121CA;</span></td>
+		<td>U+121CA</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES HI TIMES NUN</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>dilim<sub>5</sub></td>
+		<td><span class="cuneiform">&#x121CC;</span></td>
+		<td>U+121CC</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES IM</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>pu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121E5;</span></td>
+		<td>U+121E5</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES U</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>umah</td>
+		<td><span class="cuneiform">&#x121E6;</span></td>
+		<td>U+121E6</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES U PLUS A</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>garin</td>
+		<td><span class="cuneiform">&#x121D1;</span></td>
+		<td>U+121D1</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES KU3</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>(gala<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x121CF;</span></td>
+		<td>U+121CF</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES KI</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>bul</td>
+		<td><span class="cuneiform">&#x121E7;</span></td>
+		<td>U+121E7</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES U PLUS U PLUS U</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>(bugin<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x121D8;</span></td>
+		<td>U+121D8</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES ME</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>men<sub>4</sub></td>
+		<td><span class="cuneiform">&#x121D9;</span></td>
+		<td>U+121D9</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES ME PLUS EN</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>(elamkuš<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x121D6;</span></td>
+		<td>U+121D6</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES LU</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>(gukin)</td>
+		<td><span class="cuneiform">&#x121D0;</span></td>
+		<td>U+121D0</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES KIN</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>(šuš<sub>5</sub>)</td>
+		<td><span class="cuneiform">&#x121DF;</span></td>
+		<td>U+121DF</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES SHU2</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>(šuš<sub>6</sub>)</td>
+		<td><span class="cuneiform">&#x121E0;</span></td>
+		<td>U+121E0</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES SHU2 PLUS SHU2</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>ambar</td>
+		<td><span class="cuneiform">&#x121B9;</span></td>
+		<td>U+121B9</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES A</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>(edakua<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x121BA;</span></td>
+		<td>U+121BA</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES A PLUS DA PLUS HA</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>ablil</td>
+		<td><span class="cuneiform">&#x121BC;</span></td>
+		<td>U+121BC</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES A PLUS LAL</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>elamkuš</td>
+		<td><span class="cuneiform">&#x121BB;</span></td>
+		<td>U+121BB</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES A PLUS GAR</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>(elamkuš<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x121C8;</span></td>
+		<td>U+121C8</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES HA</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>nindu</td>
+		<td><span class="cuneiform">&#x121C5;</span></td>
+		<td>U+121C5</td>
+		<td>CUNEIFORM SIGN LAGAB TIMES GAR</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>nigin</td>
+		<td><span class="cuneiform">&#x121b8;&#x121b8;</span></td>
+		<td></td>
+		<td>(U+121B8 LAGAB plus U+121B8 LAGAB)</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>(dinig<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x1220B;</span></td>
+		<td>U+1220B</td>
+		<td>CUNEIFORM SIGN LU2 TIMES ME PLUS EN</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>me</td>
+		<td><span class="cuneiform">&#x12228;</span></td>
+		<td>U+12228</td>
+		<td>CUNEIFORM SIGN ME</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>meš</td>
+		<td><span class="cuneiform">&#x12228;&#x1230d;</span></td>
+		<td></td>
+		<td>(U+12228 ME plus U+1230D U U U)</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>uraš</td>
+		<td><span class="cuneiform">&#x12141;</span></td>
+		<td>U+12141</td>
+		<td>CUNEIFORM SIGN IB</td>
+	</tr>
+	<tr>
+		<td><esp:bookmark id="labat536">536</esp:bookmark></td>
+		<td>dur<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12089;</span></td>
+		<td>U+12089</td>
+		<td>CUNEIFORM SIGN DUR2</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>eš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x120A0;</span></td>
+		<td>U+120A0</td>
+		<td>CUNEIFORM SIGN ESH2</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>ku</td>
+		<td><span class="cuneiform">&#x121AA;</span></td>
+		<td>U+121AA</td>
+		<td>CUNEIFORM SIGN KU</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>nam<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12247;</span></td>
+		<td>U+12247</td>
+		<td>CUNEIFORM SIGN NAM2</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>tug<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12306;</span></td>
+		<td>U+12306</td>
+		<td>CUNEIFORM SIGN TUG2</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>zid<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12365;</span></td>
+		<td>U+12365</td>
+		<td>CUNEIFORM SIGN ZI3</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>dib</td>
+		<td><span class="cuneiform">&#x12073;</span></td>
+		<td>U+12073</td>
+		<td>CUNEIFORM SIGN DIB</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>udu</td>
+		<td><span class="cuneiform">&#x121FB;</span></td>
+		<td>U+121FB</td>
+		<td>CUNEIFORM SIGN LU</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>(ad<sub>6</sub>)</td>
+		<td><span class="cuneiform">&#x121FC;</span></td>
+		<td>U+121FC</td>
+		<td>CUNEIFORM SIGN LU TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>kin</td>
+		<td><span class="cuneiform">&#x121A5;</span></td>
+		<td>U+121A5</td>
+		<td>CUNEIFORM SIGN KIN</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>sig<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122E0;</span></td>
+		<td>U+122E0</td>
+		<td>CUNEIFORM SIGN SIK2</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>dara<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12071;</span></td>
+		<td>U+12071</td>
+		<td>CUNEIFORM SIGN DARA4</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>erin</td>
+		<td><span class="cuneiform">&#x1209E;</span></td>
+		<td>U+1209E</td>
+		<td>CUNEIFORM SIGN EREN</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>gur<sub>7</sub></td>
+		<td><span class="cuneiform">&#x12126;</span></td>
+		<td>U+12126</td>
+		<td>CUNEIFORM SIGN GUR7</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>munšub</td>
+		<td><span class="cuneiform">&#x12230;</span></td>
+		<td>U+12230</td>
+		<td>CUNEIFORM SIGN MUNSUB</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>šeš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122C1;</span></td>
+		<td>U+122C1</td>
+		<td>CUNEIFORM SIGN SHESH2</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>šu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122D9;</span></td>
+		<td>U+122D9</td>
+		<td>CUNEIFORM SIGN SHU2</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>en<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122d9;&#x1202d;</span></td>
+		<td></td>
+		<td>(U+122D9 SHU2 plus U+1202D AN)</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>keš<sub>3</sub></td>
+		<td><span class="cuneiform">&#x122d9;&#x1202d;&#x12132;</span></td>
+		<td></td>
+		<td>(U+122D9 SHU2 plus U+1202D AN plus U+12132 HI TIMES GAD)</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>šuhub</td>
+		<td><span class="cuneiform">&#x122d9;&#x1202f;</span></td>
+		<td></td>
+		<td>(U+122D9 SHU2 plus U+1202F AN THREE TIMES)</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>kibir</td>
+		<td><span class="cuneiform">&#x122d9;&#x1203e;</span></td>
+		<td></td>
+		<td>(U+122D9 SHU2 plus U+1203E ASH2)</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>šudun</td>
+		<td><span class="cuneiform">&#x122d9;&#x12088;</span></td>
+		<td></td>
+		<td>(U+122D9 SHU2 plus U+12088 DUN4)</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>hul<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1213E;</span></td>
+		<td>U+1213E</td>
+		<td>CUNEIFORM SIGN HUL2</td>
+	</tr>
+	<tr>
+		<td>551</td>
+		<td>šeg<sub>9</sub></td>
+		<td><span class="cuneiform">&#x122BE;</span></td>
+		<td>U+122BE</td>
+		<td>CUNEIFORM SIGN SHEG9</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>munus</td>
+		<td><span class="cuneiform">&#x122A9;</span></td>
+		<td>U+122A9</td>
+		<td>CUNEIFORM SIGN SAL</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>zum</td>
+		<td><span class="cuneiform">&#x1236E;</span></td>
+		<td>U+1236E</td>
+		<td>CUNEIFORM SIGN ZUM</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>nin<sub>9</sub></td>
+		<td><span class="cuneiform">&#x122a9;&#x121aa;</span></td>
+		<td></td>
+		<td>(U+122A9 SAL plus U+121AA KU)</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>nin</td>
+		<td><span class="cuneiform">&#x122a9;&#x12306;</span></td>
+		<td></td>
+		<td>(U+122A9 SAL plus U+12306 TUG2)</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>dam</td>
+		<td><span class="cuneiform">&#x1206E;</span></td>
+		<td>U+1206E</td>
+		<td>CUNEIFORM SIGN DAM</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>geme<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122a9;&#x121b3;</span></td>
+		<td></td>
+		<td>(U+122A9 SAL plus U+121B3 KUR)</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>gu</td>
+		<td><span class="cuneiform">&#x12116;</span></td>
+		<td>U+12116</td>
+		<td>CUNEIFORM SIGN GU</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>nagar</td>
+		<td><span class="cuneiform">&#x12244;</span></td>
+		<td>U+12244</td>
+		<td>CUNEIFORM SIGN NAGAR</td>
+	</tr>
+	<tr>
+		<td>561</td>
+		<td>tuhul</td>
+		<td><span class="cuneiform">&#x12244;&#x1235e;</span></td>
+		<td></td>
+		<td>(U+12244 NAGAR plus U+1235E ZA TENU)</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>kušu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x121B5;</span></td>
+		<td>U+121B5</td>
+		<td>CUNEIFORM SIGN KUSHU2</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>nig</td>
+		<td><span class="cuneiform">&#x122a9;&#x12328;</span></td>
+		<td></td>
+		<td>(U+122A9 SAL plus U+12328 UR)</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>sikil</td>
+		<td><span class="cuneiform">&#x12096;</span></td>
+		<td>U+12096</td>
+		<td>CUNEIFORM SIGN EL</td>
+	</tr>
+	<tr>
+		<td>565</td>
+		<td>hum</td>
+		<td><span class="cuneiform">&#x1221D;</span></td>
+		<td>U+1221D</td>
+		<td>CUNEIFORM SIGN LUM</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>(gumgum)</td>
+		<td><span class="cuneiform">&#x1221E;</span></td>
+		<td>U+1221E</td>
+		<td>CUNEIFORM SIGN LUM OVER LUM</td>
+	</tr>
+	<tr>
+		<td>566b</td>
+		<td>(lugud<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x1221F;</span></td>
+		<td>U+1221F</td>
+		<td>CUNEIFORM SIGN LUM OVER LUM GAR OVER GAR</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>sig<sub>4</sub></td>
+		<td><span class="cuneiform">&#x122DE;</span></td>
+		<td>U+122DE</td>
+		<td>CUNEIFORM SIGN SIG4</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>(mur<sub>7</sub>)</td>
+		<td><span class="cuneiform">&#x12231;</span></td>
+		<td>U+12231</td>
+		<td>CUNEIFORM SIGN MURGU2</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>guhšu<sub>2</sub></td>
+		<td><span class="cuneiform">&#x122DF;</span></td>
+		<td>U+122DF</td>
+		<td>CUNEIFORM SIGN SIG4 OVER SIG4 SHU2</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>suh<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12117;</span></td>
+		<td>U+12117</td>
+		<td>CUNEIFORM SIGN GU CROSSING GU</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>min</td>
+		<td><span class="cuneiform">&#x1222B;</span></td>
+		<td>U+1222B</td>
+		<td>CUNEIFORM SIGN MIN</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>—</td>
+		<td><span class="cuneiform">&#x12416;</span></td>
+		<td>U+12416</td>
+		<td>CUNEIFORM NUMERIC SIGN TWO GESH2</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>šušana</td>
+		<td><span class="cuneiform">&#x1245A;</span></td>
+		<td>U+1245A</td>
+		<td>CUNEIFORM NUMERIC SIGN ONE THIRD DISH</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>šanabi</td>
+		<td><span class="cuneiform">&#x1245B;</span></td>
+		<td>U+1245B</td>
+		<td>CUNEIFORM NUMERIC SIGN TWO THIRDS DISH</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>kingusila</td>
+		<td><span class="cuneiform">&#x1245C;</span></td>
+		<td>U+1245C</td>
+		<td>CUNEIFORM NUMERIC SIGN FIVE SIXTHS DISH</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>tug</td>
+		<td><span class="cuneiform">&#x12307;</span></td>
+		<td>U+12307</td>
+		<td>CUNEIFORM SIGN TUK</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>ur</td>
+		<td><span class="cuneiform">&#x12328;</span></td>
+		<td>U+12328</td>
+		<td>CUNEIFORM SIGN UR</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>gidim</td>
+		<td><span class="cuneiform">&#x12107;</span></td>
+		<td>U+12107</td>
+		<td>CUNEIFORM SIGN GIDIM</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>udug</td>
+		<td><span class="cuneiform">&#x1231C;</span></td>
+		<td>U+1231C</td>
+		<td>CUNEIFORM SIGN UDUG</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>—</td>
+		<td><span class="cuneiform">&#x1222b;&#x1230d;</span></td>
+		<td></td>
+		<td>(U+1222B MIN plus U+1230D U U U)</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>a</td>
+		<td><span class="cuneiform">&#x12000;</span></td>
+		<td>U+12000</td>
+		<td>CUNEIFORM SIGN A</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>e<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12000;&#x12000;</span></td>
+		<td></td>
+		<td>(U+12000 A plus U+12000 A)</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>am<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12000;&#x1202d;</span></td>
+		<td></td>
+		<td>(U+12000 A plus U+1202D AN)</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>er<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12000;&#x12146;</span></td>
+		<td></td>
+		<td>(U+12000 A plus U+12146 IGI)</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>id<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12000;&#x121c9;</span></td>
+		<td></td>
+		<td>(U+12000 A plus U+121C9 LAGAB TIMES HAL)</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>esir</td>
+		<td><span class="cuneiform">&#x12000;&#x121d2;</span></td>
+		<td></td>
+		<td>(U+12000 A plus U+121D2 LAGAB TIMES KUL)</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>(ildag<sub>2</sub>)</td>
+		<td><span class="cuneiform">&#x1211F;</span></td>
+		<td>U+1211F</td>
+		<td>CUNEIFORM SIGN GUD TIMES A PLUS KUR</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>agam</td>
+		<td><span class="cuneiform">&#x12002;</span></td>
+		<td>U+12002</td>
+		<td>CUNEIFORM SIGN A TIMES BAD</td>
+	</tr>
+	<tr>
+		<td>581</td>
+		<td>ir<sub>6</sub></td>
+		<td><span class="cuneiform">&#x12005;</span></td>
+		<td>U+12005</td>
+		<td>CUNEIFORM SIGN A TIMES IGI</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>(šedu<sub>3</sub>)</td>
+		<td><span class="cuneiform">&#x12006;</span></td>
+		<td>U+12006</td>
+		<td>CUNEIFORM SIGN A TIMES LAGAR GUNU</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>eduru</td>
+		<td><span class="cuneiform">&#x12001;</span></td>
+		<td>U+12001</td>
+		<td>CUNEIFORM SIGN A TIMES A</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>zah<sub>3</sub></td>
+		<td><span class="cuneiform">&#x12004;</span></td>
+		<td>U+12004</td>
+		<td>CUNEIFORM SIGN A TIMES HA</td>
+	</tr>
+	<tr>
+		<td>585</td>
+		<td>(esag)</td>
+		<td><span class="cuneiform">&#x12008;</span></td>
+		<td>U+12008</td>
+		<td>CUNEIFORM SIGN A TIMES SAG</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>za</td>
+		<td><span class="cuneiform">&#x1235D;</span></td>
+		<td>U+1235D</td>
+		<td>CUNEIFORM SIGN ZA</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>limmu</td>
+		<td><span class="cuneiform">&#x12409;</span></td>
+		<td>U+12409</td>
+		<td>CUNEIFORM NUMERIC SIGN FOUR DISH</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>4(GEŠ)</td>
+		<td><span class="cuneiform">&#x12418;</span></td>
+		<td>U+12418</td>
+		<td>CUNEIFORM NUMERIC SIGN FOUR GESH2</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>ku<sub>6</sub></td>
+		<td><span class="cuneiform">&#x12129;</span></td>
+		<td>U+12129</td>
+		<td>CUNEIFORM SIGN HA</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>(zubud)</td>
+		<td><span class="cuneiform">&#x1212A;</span></td>
+		<td>U+1212A</td>
+		<td>CUNEIFORM SIGN HA TENU</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>gug</td>
+		<td><span class="cuneiform">&#x1235d;&#x12122;</span></td>
+		<td></td>
+		<td>(U+1235D ZA plus U+12122 GUL)</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>sig</td>
+		<td><span class="cuneiform">&#x122DD;</span></td>
+		<td>U+122DD</td>
+		<td>CUNEIFORM SIGN SIG</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>eš<sub>5</sub></td>
+		<td><span class="cuneiform">&#x12408;</span></td>
+		<td>U+12408</td>
+		<td>CUNEIFORM NUMERIC SIGN THREE DISH</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>3(GEŠ)</td>
+		<td><span class="cuneiform">&#x12417;</span></td>
+		<td>U+12417</td>
+		<td>CUNEIFORM NUMERIC SIGN THREE GESH2</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>ur<sub>4</sub></td>
+		<td><span class="cuneiform">&#x12334;</span></td>
+		<td>U+12334</td>
+		<td>CUNEIFORM SIGN UR4</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>aga<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12085;</span></td>
+		<td>U+12085</td>
+		<td>CUNEIFORM SIGN DUN3</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>gin<sub>2</sub></td>
+		<td><span class="cuneiform">&#x12086;</span></td>
+		<td>U+12086</td>
+		<td>CUNEIFORM SIGN DUN3 GUNU</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>peš<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1227E;</span></td>
+		<td>U+1227E</td>
+		<td>CUNEIFORM SIGN PESH2</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>ninda</td>
+		<td><span class="cuneiform">&#x120FB;</span></td>
+		<td>U+120FB</td>
+		<td>CUNEIFORM SIGN GAR</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>limmu</td>
+		<td><span class="cuneiform">&#x1243C;</span></td>
+		<td>U+1243C</td>
+		<td>CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>imin</td>
+		<td><span class="cuneiform">&#x12153;</span></td>
+		<td>U+12153</td>
+		<td>CUNEIFORM SIGN IMIN</td>
+	</tr>
+	<tr>
+		<td>598a</td>
+		<td>ia<sub>2</sub></td>
+		<td><span class="cuneiform">&#x1240A;</span></td>
+		<td>U+1240A</td>
+		<td>CUNEIFORM NUMERIC SIGN FIVE DISH</td>
+	</tr>
+	<tr>
+		<td>598a</td>
+		<td>gešia</td>
+		<td><span class="cuneiform">&#x12419;</span></td>
+		<td>U+12419</td>
+		<td>CUNEIFORM NUMERIC SIGN FIVE GESH2</td>
+	</tr>
+	<tr>
+		<td>598b</td>
+		<td>aš<sub>3</sub></td>
+		<td><span class="cuneiform">&#x1240B;</span></td>
+		<td>U+1240B</td>
+		<td>CUNEIFORM NUMERIC SIGN SIX DISH</td>
+	</tr>
+	<tr>
+		<td>598b</td>
+		<td>gešaš</td>
+		<td><span class="cuneiform">&#x1241A;</span></td>
+		<td>U+1241A</td>
+		<td>CUNEIFORM NUMERIC SIGN SIX GESH2</td>
+	</tr>
+	<tr>
+		<td>598c</td>
+		<td>imin</td>
+		<td><span class="cuneiform">&#x12442;</span></td>
+		<td>U+12442</td>
+		<td>CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN A</td>
+	</tr>
+	<tr>
+		<td>598d</td>
+		<td>ussu</td>
+		<td><span class="cuneiform">&#x1240D;</span></td>
+		<td>U+1240D</td>
+		<td>CUNEIFORM NUMERIC SIGN EIGHT DISH</td>
+	</tr>
+	<tr>
+		<td>598d</td>
+		<td>gešussu</td>
+		<td><span class="cuneiform">&#x1241C;</span></td>
+		<td>U+1241C</td>
+		<td>CUNEIFORM NUMERIC SIGN EIGHT GESH2</td>
+	</tr>
+	<tr>
+		<td>598e</td>
+		<td>ilimmu</td>
+		<td><span class="cuneiform">&#x12446;</span></td>
+		<td>U+12446</td>
+		<td>CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU</td>
+	</tr>
+</table>
+<p><small>Content last modified on <esp:content-last-modified />.</small></p>
+<esp:author first-names="Eleanor" last-name="Robson"  />
+
+
+</body></html>
+
+</esp:page>
