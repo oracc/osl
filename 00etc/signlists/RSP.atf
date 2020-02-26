@@ -221,7 +221,7 @@
 213.	|GEŠTIN×KUR|
 214.	geštin
 215.	dub₂
-216.	|GEŠTIN.LAK490.ZIZ₂|
+216.	geštin LAK490 ziz₂
 217.	gisal
 218.	bi kaš
 219.	bappir
@@ -233,7 +233,7 @@
 225.	|AB×AŠ₂|
 226.	|AB×HA|
 227.	AD
-228.	|AD.TAK₄|
+228.	|AD.KID|
 229.	lagab
 230.	nigin
 231.	ŋeš
@@ -244,7 +244,7 @@
 236.	gur
 237.	kalag
 238.	ur
-239.	urudu
+239.	uruda
 240.	ga₂
 241.	|GA₂×NUN|
 242.	|GA₂×NUN&NUN|
@@ -271,7 +271,7 @@
 263.	|LAGAB×A|
 264.	|LAGAB×HAL|
 265.	|LAGAB×IGI@g|
-266.	|LAGAB×U₂|
+266.	siki
 267.	barag₂
 268.	zar
 269.	gišgal
@@ -289,12 +289,12 @@
 280.	RSP280
 281.	asar
 282.	banšur
-283.	|URUDA×(GA.A)|
+283.	|DUB×(GA.A)|
 #not DUB×GA.A as Rosengarten
 284.	ezen
 285.	keš₂
 286.	bad₃
-287.	|BAD₃.AN|
+287.	|EZEN×BAD.AN|
 288.	|EZEN×LA| LAK621
 289.	ma
 290.	hašhur
@@ -320,23 +320,23 @@
 310.	te
 311.	|TE.A|
 312.	kam(|HI×BAD|) |HI×MAŠ|
-313.	RSP313 |HI@g×BAD|
-314.	RSP314 |HI@g×GAD|
+313.	|HI×BAD|#?
+314.	|HI×BAD|!*
 315.	|HI×AŠ₂|
-316.	|HI×AŠ₂.ME|
+316.	|HI×NUN.ME|
 317.	sig
 318.	di
-319.	|DI.UD|
+319.	di-utu
 320.	šag₄
 321.	|UD×KUŠU₂|
 322.	ud
 323.	|UD.UD|
-324.	|UD.ŠA|
+324.	UD-ŠA
 325.	|UD.NUN|
 326.	|UD.DU|
 327.	|UD.MA₂.AB×HA.TAG|
 328.	|U.UD| |UD×DIŠ|
-329.	RSP329 |TE×DIŠ|
+329.	RSP329
 330.	gur₈
 331.	im
 332.	LAK378
@@ -350,25 +350,25 @@
 339bis.	GIR₂@g
 340.	na
 341.	NU₁₁
-342.	lagaš(|NU₁₁.LA.BUR.KI|)
+342.	lagaš(|NU₁₁.LA.BUR|){ki}
 343.	kun
 344.	RSP344 LAK093
 345.	sa₆
 346.	gar₃
 347.	dalla
 348.	nunuz
-349.	|NUNUZ.DU₈.A|
+349.	nunuz du₈-a
 350.	|NUNUZ.AB₂|
 351.	|NUNUZ.AB₂×SILA₃|
 352.	usan₃
-353.	|LAK449×(LU₃.PAP.PAP)|
+353.	|NUNUZ.AB₂×(LU₃.PAP.PAP)|
 354.	|LAK449×(U₂.BA)|
 355.	gu₂
 356.	dur
 357.	usan
 358.	amaš
-359.	|DAG.KISIM₅×MAŠ| RSP359 LAK722 LAK228? LAK552?
-360.	|DAG.KISIM₅×GAN₂| RSP360
+359.	hara₄!
+360.	hara₄!
 361.	UMUM
 361bis.	|UMUM×KASKAL|
 362.	ne
@@ -388,7 +388,7 @@
 376.	ur₂
 377.	balag
 378.	bir₃
-379.	|GAR&GAR| LAK526
+379.	LAK526
 380.	uri LAK176
 380bis.	LAK420
 381.	tur
@@ -415,7 +415,7 @@
 402.	na₂
 403.	ib₂ egir
 404.	tum
-405.	|IB₂×GAN₂@t| LAK497b
+405.	|TUM×GAN₂@t| LAK497b
 406.	mušen
 407.	mud
 408.	uz
