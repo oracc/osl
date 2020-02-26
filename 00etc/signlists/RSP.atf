@@ -44,9 +44,9 @@
 38.	3(bariga@c)
 39.	tab 2(diš@t) 2(diš)
 40.	lal
-41.	usar(|LAL₂×LAGAB|)
-42.	usar₂(|LAL₂×ŠAR|)
-43.	uku₂(|LAL₂×DU.DU|)
+41.	usar₄
+42.	usar
+43.	uku₅
 44.	bar
 45*.	me
 46*.	dilim₂
@@ -65,7 +65,7 @@
 58*.	maškim
 59.	ensi₂
 60*.	gad
-61*.	akkil(|GAD.TAK₄.SI|)
+61*.	akkil
 62.	umbin(|GAD.UR₂×TAK₄|)
 63.	sila₃
 64.	tar
@@ -110,8 +110,8 @@
 103.	ib
 104.	duh gab
 105.	ninda₂
-106.	|NINDA₂×(KUR₂.1(AŠ@c))| LAK106
-107.	|NINDA₂×(KUR₂.2(AŠ@c))| LAK107
+106.	1/3(diš@c)@v
+107.	2/3(diš@c)@v
 108*.	šam₂(|NINDA₂×ŠE|)
 109.	ag₂
 110.	amar
@@ -122,8 +122,8 @@
 115.	mar
 116.	kaskal
 117.	|KASKAL.GA|
-118.	6(AŠ@t) LAK134
-119.	5(AŠ@t) i
+118.	6(AŠ@t)
+119.	5(AŠ@t)
 120.	mi
 121.	gig
 122.	hul₂
@@ -149,7 +149,7 @@
 142.	abzu
 143.	su
 144.	dul
-145.	|DUL.DU|
+145.	e₁₁
 146.	su₇
 147*.	du₃
 148.	ni
@@ -167,7 +167,7 @@
 160.	|AB₂.KU|
 161.	|AB₂.ŠA₃|
 162.	|AB₂.ŠA₃.GI|
-163.	|AB₂.KID₂|
+163.	|AB₂.TAK₄|
 164.	bur
 165.	ki
 166.	šita LAK503
@@ -233,7 +233,7 @@
 225.	|AB×AŠ₂|
 226.	|AB×HA|
 227.	AD
-228.	|AD.KID₂|
+228.	|AD.TAK₄|
 229.	lagab
 230.	nigin
 231.	ŋeš
@@ -270,7 +270,7 @@
 262.	dib
 263.	|LAGAB×A|
 264.	|LAGAB×HAL|
-265.	|LAGAB×SIG₇|
+265.	|LAGAB×IGI@g|
 266.	|LAGAB×U₂|
 267.	barag₂
 268.	zar

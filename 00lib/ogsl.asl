@@ -1134,6 +1134,7 @@
 @v	šem₆
 @v	ub₅
 @v	uba₅
+@form ~a |AB₂.TAK₄|
 @end sign
 
 @sign	AD
@@ -2095,9 +2096,9 @@
 @uname	CUNEIFORM SIGN ASH ZIDA TENU
 @ucode	x12039
 @note	This sign is variously described as AŠ-tenû (MSL) or DIŠ-tenû (MZL 575) in the literature. AŠ sign with head to the left, sloping down to the right.
-@v	1(aš@t)
-@v	1(aš@t@c)
-@v	aš@t
+# Moved to AŠ@t
+# @v	1(aš@t)
+# @v	aš@t
 @v	aš₁₁
 @v	deš₅
 @v	del₄
@@ -2117,6 +2118,7 @@
 @v	upuₓ
 @v	uzaglal
 @v	1/2(iku)
+@end form
 @end sign
 
 @sign	ILIMMU3
@@ -8644,6 +8646,10 @@
 @v	ildag₃
 @v	eldig
 @inote	Attinger
+@end sign
+
+@sign	|(GUD×KUR₂)&(GUD×KUR₂)|
+@list RSP189*
 @end sign
 
 @sign	|GUD&GUD|
@@ -21471,7 +21477,6 @@
 @v	šanapi
 @v?	šudaminₓ
 @v	2/3(diš)
-@v	2/3(diš@c)
 @end sign
 
 @sign	ŠAR₂
@@ -22928,7 +22933,6 @@
 @v	šušana
 @v	šuššanₓ
 @v	1/3(diš)
-@v	1/3(diš@c)
 @end sign
 
 @sign	TA
@@ -25038,6 +25042,8 @@
 @form ~a |GAD.TAK₄.UR₂|
 @inote dcclt !sg
 @end form
+@form ~b |GAD.UR₂×TAK₄|
+@end form
 @end sign
 
 @sign	|UMBIN×LU|
@@ -26885,8 +26891,12 @@
 @v	imin₃
 @end sign
 
-@sign	1(AŠ@t)
-@uphase	0
+@sign	AŠ@t
+@v	aš@t
+@v	1(aš@t)
+@form ~a 1(AŠ@t@c)
+@v	1(aš@t@c)
+@v	1/2(iku@c)
 @end sign
 
 @sign	2(AŠ@t)
@@ -26897,6 +26907,7 @@
 @uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
 @ucode	x1244A
 @v	2(aš@t)
+@form ~a 2(AŠ@t@c)
 @v	2(aš@t@c)
 @end sign
 
@@ -26907,6 +26918,7 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE ASH TENU
 @ucode	x1244B
 @v	3(aš@t)
+@form ~a 3(AŠ@t@c)
 @v	3(aš@t@c)
 @end sign
 
@@ -26915,6 +26927,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FOUR ASH TENU
 @ucode	x1244C
 @v	4(aš@t)
+@form ~a 4(AŠ@t@c)
 @v	4(aš@t@c)
 @end sign
 
@@ -26924,6 +26937,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE ASH TENU
 @ucode	x1244D
 @v	5(aš@t)
+@form ~a 5(AŠ@t@c)
 @v	5(aš@t@c)
 @end sign
 
@@ -26932,6 +26946,7 @@
 @uname	CUNEIFORM NUMERIC SIGN SIX ASH TENU
 @ucode	x1244E
 @v	6(aš@t)
+@form ~a 6(AŠ@t@c)
 @v	6(aš@t@c)
 @end sign
 
@@ -27690,6 +27705,9 @@
 @ucode	x1245F
 @v	1/8
 @v	1/8(iku)
+@form ~a F₃@c
+@v	1/8(iku@c)
+@end form
 @end sign
 
 @sign	F₄
@@ -27698,6 +27716,8 @@
 @ucode	x12460
 @v	1/4
 @v	1/4(iku)
+@form ~a F₄@c
+@v	1/4(iku@c)
 @end sign
 
 @sign	F₅
@@ -27756,6 +27776,18 @@
 @uname	CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON
 @ucode	xE100
 @v	::
+@end sign
+
+@sign	|NINDA₂×1/3(diš@c)|
+@list	LAK106
+@list	RSP106
+@v	1/3(diš@c)@v
+@end sign
+
+@sign	|NINDA₂×1/3(diš@c)|
+@list	LAK107
+@list	RSP107
+@v	2/3(diš@c)@v
 @end sign
 
 @sign	DN
@@ -29223,4 +29255,8 @@
 @sign 8(|AŠ×DIŠ@t|)
 @end sign
 @sign 9(|AŠ×DIŠ@t|)
+@end sign
+
+@sign |IGI.LAGAB|
+@list RSP069
 @end sign
