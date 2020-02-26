@@ -3733,6 +3733,7 @@
 @form ~a DIŠ@c
 @v	1(diš@c)
 @v	diš@c
+@v	bariga@c
 @v	1(barig@c)
 @v	1(bariga@c)
 @end form
@@ -29202,4 +29203,24 @@
 @sign	KWU715
 @end sign
 @sign	|UR×DIŠ|
+@end sign
+
+@sign |AŠ×DIŠ@t|
+@v 1(|AŠ×DIŠ@t|)
+@end sign
+@sign 2(|AŠ×DIŠ@t|)
+@end sign
+@sign 3(|AŠ×DIŠ@t|)
+@end sign
+@sign 4(|AŠ×DIŠ@t|)
+@end sign
+@sign 5(|AŠ×DIŠ@t|)
+@end sign
+@sign 6(|AŠ×DIŠ@t|)
+@end sign
+@sign 7(|AŠ×DIŠ@t|)
+@end sign
+@sign 8(|AŠ×DIŠ@t|)
+@end sign
+@sign 9(|AŠ×DIŠ@t|)
 @end sign
