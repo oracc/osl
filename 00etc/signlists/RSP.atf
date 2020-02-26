@@ -3,30 +3,30 @@
 #atf: use unicode
 
 1.	aš
-2.	dili(|AŠ.AŠ|)
+2.	didli(|AŠ.AŠ|)
 3.	ŋeš₂
 4.	1/4(iku)
-5.	diš 1/2(iku) 1/4(gur) ($WD?$)
-6.	u šuš
-7.	1(iku)
+5.	diš
+6.	šuš
+7.	iku
 8.	šuš
-9.	šušana(|ŠU₂.DIŠ@c.ŠA|)
-10.	šanabi(|ŠU₂.DIŠ@c&DIŠ@c.ŠA|)
+9.	1/3(diš@c){+ša}
+10.	2/3(diš@c){+ša}
 11.	eš₄-tar₂
 12.	ul
 13.	|U.KA|
-14.	|U.GA| LAK412
+14.	|U.GA|
 15.	gir₄
 16.	šagan
-17.	nigin₃(|U.UD.KID₂|)
+17.	nigin₃(|U.UD.KID|)
 18.	keš₃(|ŠU₂.AN.HI×GAD|)
 19.	1/2(diš)
 19bis.	1(ban₂) 2(ban₂) 3(ban₂) 4(ban₂) 5(ban₂)
 20.	1/8(iku)
 21.	ŋešʾu
-22.	|DIŠ&DIŠ|
-23.	|DIŠ&DIŠ&DIŠ|
-24.	aš@c diš@c
+22.	2(bariga)
+23.	3(bariga)
+24.	aš@c
 25.	ŋeš₂@c
 26.	1/4(iku@c)
 27.	ŋešʾu@c
@@ -40,8 +40,8 @@
 35.	1/2(iku@c)
 36.	1/2(diš@c)
 36bis.	1(ban₂@c) 2(ban₂@c) 3(ban₂@c) 4(ban₂@c) 5(ban₂@c)
-37.	2(bariga) |DIŠ@c&DIŠ@c|
-38.	3(bariga) |DIŠ@c&DIŠ@c&DIŠ@c|
+37.	2(bariga@c) |DIŠ@c&DIŠ@c|
+38.	3(bariga@c) |DIŠ@c&DIŠ@c&DIŠ@c|
 39.	tab 2(diš@t) 2(diš)
 40.	lal
 41.	usar(|LAL₂×LAGAB|)

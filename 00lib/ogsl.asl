@@ -3728,13 +3728,14 @@
 @v	ṭiš
 @v	uš₉
 @v	1(diš)
+@v	1(barig)
+@v	1(bariga)
+@form ~a DIŠ@c
 @v	1(diš@c)
 @v	diš@c
-@v	barig@c
-@v	1(barig)
 @v	1(barig@c)
-@v	1(bariga)
 @v	1(bariga@c)
+@end form
 @end sign
 
 @sign	DIŠ@t
@@ -17719,9 +17720,11 @@
 @v	nigidaeš
 @v	#old nieš
 @v	3(barig)
-@v	3(barig@c)
 @v	3(bariga)
+@form ~a NIGIDAEŠ@c
+@v	3(barig@c)
 @v	3(bariga@c)
+@end form
 @end sign
 
 @sign	NIM
@@ -17798,13 +17801,13 @@
 @ucode	x12456
 @v	nigidamin₃
 @v	2(barig)
-@v	2(barig@c)
 @v	2(bariga)
-@v	2(bariga@c)
 @v	#old nimin₃
+@form ~a NIGIDAMIN@c
+@v	2(barig@c)
+@v	2(bariga@c)
+@end form
 @end sign
-
-
 
 @sign	NINDA₂
 @list HZL119
@@ -23787,9 +23790,6 @@
 @v	barₓ
 @v	bu₁₂
 @v	bur₃
-@v	bur₃@c
-@v	bur₃@v
-@inote ed3b
 @v	buru₃
 @v	burudₓ
 @v	buzur
@@ -23813,12 +23813,21 @@
 @v	utahₓ
 @v	utuₓ
 @v	1(u)
-@v	1(u@c)
 @v	1(bur₃)
+@form ~a U@c
+@v	bur₃@c
 @v	1(bur₃@c)
 @v	u@c
+@v	1(u@c)
+@end form
+@form ~b U@f
 @v	u@f
 @inote "flat" u, mostly Archaic Ur but also at Fara P011104
+@end form
+@form ~c BUR₃@v
+@v	bur₃@v
+@inote ed3b
+@end form
 @end sign
 
 @sign	|U.AD|
@@ -27018,11 +27027,18 @@
 @uphase	1
 @ucode	x12434
 @v	burʾu
-@v	burʾu@c
 @v	1(burʾu)
+@form ~a U@c@g
+@v	burʾu@c
 @v	1(burʾu@c)
-@form ~a |U×KASKAL|
+@end form
+@form ~b |U×KASKAL|
 @v    bur'uₓ
+@inote does U×KASKAL ever occur or is it always U@c×KASKAL?
+@end form
+@form ~c |U@c×KASKAL|
+@v    bur'uₓ
+@end form
 @end sign
 
 @sign	2(BURU)
@@ -27672,6 +27688,7 @@
 @uname	CUNEIFORM NUMERIC SIGN ONE EIGHTH ASH
 @ucode	x1245F
 @v	1/8
+@v	1/8(iku)
 @end sign
 
 @sign	F₄
