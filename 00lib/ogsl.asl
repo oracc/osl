@@ -14895,7 +14895,7 @@
 @end sign
 
 @sign	|LAK589.A.SI|
-@inote should redo this addirₓ entries as @forms
+@inote should redo these addirₓ entries as @forms
 @v addirₓ
 @end sign
 
@@ -18222,6 +18222,7 @@
 @v	lagasa
 @v	lagaš
 @v	lagaša
+@form ~a |NU₁₁.LA.BUR|
 @end sign
 
 @sign	|NU₁₁.GIŠ|
@@ -28236,6 +28237,7 @@
 @end sign
 
 @sign |DUB×(GA.A)|
+@inote probably better |URUDA×(GA.A)|
 @end sign
 
 @sign |DUB×LAGAB|
@@ -28449,8 +28451,11 @@
 @end sign
 
 @sign LAK526
-@inote epsd2/royal
+@list LAK526
+@list RSP379
+@inote epsd2/royal, ed3b
 @v     meₓ
+@v     uriₓ
 @end sign
 
 @sign |LUL.E₂.BALAG|
