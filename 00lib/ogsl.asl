@@ -27785,7 +27785,7 @@
 @v	1/3(diš@c)@v
 @end sign
 
-@sign	|NINDA₂×1/3(diš@c)|
+@sign	|NINDA₂×2/3(diš@c)|
 @list	LAK107
 @list	RSP107
 @v	2/3(diš@c)@v
