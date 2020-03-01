@@ -2118,7 +2118,6 @@
 @v	upuₓ
 @v	uzaglal
 @v	1/2(iku)
-@end form
 @end sign
 
 @sign	ILIMMU3
@@ -27779,13 +27778,13 @@
 @v	::
 @end sign
 
-@sign	|NINDA₂×1/3(diš@c)|
+@sign	|NINDA₂×ŠUŠANA@c|
 @list	LAK106
 @list	RSP106
 @v	1/3(diš@c)@v
 @end sign
 
-@sign	|NINDA₂×2/3(diš@c)|
+@sign	|NINDA₂×ŠANABI@c|
 @list	LAK107
 @list	RSP107
 @v	2/3(diš@c)@v
