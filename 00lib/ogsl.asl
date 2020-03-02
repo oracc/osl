@@ -9316,9 +9316,10 @@
 @uname	CUNEIFORM SIGN HI TIMES U
 @ucode	x12136
 @v	dubur₂
-@v	šaru
-@v	šarʾu
-@v	1(šarʾu)
+#Moved to 1(ŠARU)
+#@v	šaru
+#@v	šarʾu
+#@v	1(šarʾu)
 @end sign
 
 @sign	|HI×(U.U)|
@@ -27044,16 +27045,14 @@
 @ucode	x12434
 @v	burʾu
 @v	1(burʾu)
-@form ~a U@c@g
+@form ~a 1(BURU@c)
+@inote this is the new OGSL name for U@c×KASKAL
 @v	burʾu@c
 @v	1(burʾu@c)
 @end form
 @form ~b |U×KASKAL|
 @v    bur'uₓ
 @inote does U×KASKAL ever occur or is it always U@c×KASKAL?
-@end form
-@form ~c |U@c×KASKAL|
-@v    bur'uₓ
 @end form
 @end sign
 
@@ -27062,6 +27061,7 @@
 @uname	CUNEIFORM NUMERIC SIGN TWO BURU
 @ucode	x12435
 @v	2(burʾu)
+@form ~a 2(BURU@c)
 @v	2(burʾu@c)
 @end sign
 
@@ -27070,6 +27070,7 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE BURU
 @ucode	x12436
 @v	3(burʾu)
+@form ~a 3(BURU@c)
 @v	3(burʾu@c)
 @end sign
 
@@ -27078,6 +27079,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FOUR BURU
 @ucode	x12438
 @v	4(burʾu)
+@form ~a 4(BURU@c)
 @v	4(burʾu@c)
 @end sign
 
@@ -27086,6 +27088,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE BURU
 @ucode	x12439
 @v	5(burʾu)
+@form ~a 5(BURU@c)
 @v	5(burʾu@c)
 @end sign
 
@@ -27094,6 +27097,7 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE BURU VARIANT FORM
 @ucode	x12437
 @v	3(burʾu)@v
+@form ~a 3(BURU@c)@v
 @v	3(burʾu@c)@v
 @end sign
 
@@ -27176,13 +27180,21 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE SHARU
 @ucode	x1242C
+@v	šaru
+@v	šarʾu
 @v	1(šaru)
-@v	1(šaru@c)
 @v	1(šarʾu)
-@v	1(šarʾu@c)
+@form ~a 1(ŠARU@c)
+@v	šaru@c
 @v	šarʾu@c
+@v	1(šaru@c)
+@v	1(šarʾu@c)
+@end form
+@form ~b 1(ŠARU@v)
+@v	šaru@v
 @v	šarʾu@v
 @inote cdli lagash2
+@end form
 @end sign
 
 @sign	2(ŠARU)
@@ -27193,9 +27205,11 @@
 @uname	CUNEIFORM NUMERIC SIGN TWO SHARU
 @ucode	x1242D
 @v	2(šaru)
-@v	2(šaru@c)
 @v	2(šarʾu)
+@form ~a 2(ŠARU@c)
+@v	2(šaru@c)
 @v	2(šarʾu@c)
+@end form
 @end sign
 
 @sign	3(ŠARU)
@@ -27206,9 +27220,11 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE SHARU
 @ucode	x1242E
 @v	3(šaru)
-@v	3(šaru@c)
 @v	3(šarʾu)
+@form ~a 4(ŠARU@c)
+@v	3(šaru@c)
 @v	3(šarʾu@c)
+@end form
 @end sign
 
 @sign	4(ŠARU)
@@ -27218,9 +27234,11 @@
 @uname	CUNEIFORM NUMERIC SIGN FOUR SHARU
 @ucode	x12430
 @v	4(šaru)
-@v	4(šaru@c)
 @v	4(šarʾu)
+@form ~a 4(ŠARU@c)
+@v	4(šaru@c)
 @v	4(šarʾu@c)
+@end form
 @end sign
 
 @sign	5(ŠARU)
@@ -27230,9 +27248,11 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE SHARU
 @ucode	x12431
 @v	5(šaru)
-@v	5(šaru@c)
 @v	5(šarʾu)
+@form ~a 5(ŠARU@c)
+@v	5(šaru@c)
 @v	5(šarʾu@c)
+@end form
 @end sign
 
 @sign	3(ŠARU@v)
@@ -27240,9 +27260,11 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM
 @ucode	x1242F
 @v	3(šaru)@v
-@v	3(šaru@c)@v
 @v	3(šarʾu)@v
+@form ~a 3(ŠARU@c)@v
+@v	3(šaru@c)@v
 @v	3(šarʾu@c)@v
+@end form
 @end sign
 
 @sign	1(DIŠ)
