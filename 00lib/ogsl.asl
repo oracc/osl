@@ -1908,11 +1908,6 @@
 @v	ana₃
 @v	as₃
 @v	aš
-@v	aš@f
-@inote "flat" aš, mostly Archaic Ur but also at Fara P480579
-@v	aš@c@90
-@v	aš@c@v
-@v	aš@v
 @v	aša
 @v	ašša
 @v	aṣ₃
@@ -1959,6 +1954,15 @@
 @form ~c AŠ@c
 @v	aš@c
 @v	1(aš@c)
+@form ~d AŠ@c@90
+@v	aš@c@90
+@form ~e AŠ@c@v
+@v	aš@c@v
+@form ~f AŠ@f
+@v	aš@f
+@inote "flat" aš, mostly Archaic Ur but also at Fara P480579
+@form ~v AŠ@v
+@v	aš@v
 @end form
 @end sign
 
@@ -3692,7 +3696,6 @@
 @v	daš₂
 @v	deš
 @v	diš
-@v	diš@f
 @v	diša
 @v	duš₂
 @v	gala₁₀
@@ -3737,6 +3740,8 @@
 @v	bariga@c
 @v	1(barig@c)
 @v	1(bariga@c)
+@form ~f DIŠ@f
+@v	diš@f
 @end form
 @end sign
 
@@ -5465,10 +5470,12 @@
 @v-	kiriₓ
 @note	value moved to EŠ₂@g
 @v	zi₃
-@v	zi₃@t
-@inote ed3a CDLI corpus distinguishes zi₃ as upright, zi3@t as slanted
 @v	zid₂
 @v	zuₓ
+@form ~t
+@v	zi₃@t
+@inote ed3a CDLI corpus distinguishes zi₃ as upright, zi3@t as slanted
+@inote this has to be resolved in the ed3a ePSD2 corpus where we should use zi₃ as slanted
 @end sign
 
 @sign	|EŠ₂@t.GIR₂@g|
@@ -7208,9 +7215,6 @@
 @v?	ŋa₃
 @v	girriₓ
 @v	iku
-@v	iku@c
-@v	iku@c@v
-@v	iku@t
 @v	išhuru₃
 @v	išhurum₃
 @v	kalaₓ
@@ -7220,6 +7224,12 @@
 @v	mulu₄
 @v?	ul₈
 @v	ululₓ
+@form ~c IKU@c
+@v	iku@c
+@form ~d IKU@c@v
+@v	iku@c@v
+@form ~t IKU@t
+@v	iku@t
 @end sign
 
 @sign	|GAN₂.BU|
@@ -9547,9 +9557,10 @@
 @uname	CUNEIFORM SIGN I
 @ucode	x1213F
 @v	i
+@v	nat₂
+@form ~t I@t
 @v	i@t
 @inote ed3b
-@v	nat₂
 @end sign
 
 @sign	|I.A|
@@ -11739,7 +11750,6 @@
 @v	seg₁₅
 @v	si₂₁
 @v	sig₁₅
-@v	sig₁₅@v
 @v	silim₂
 @v	silima₂
 @v	subₓ
@@ -11754,6 +11764,8 @@
 @v	ursub₂
 @v?	zi₈
 @v	zurzub₂
+@form ~v KAL@v
+@v	sig₁₅@v
 @end sign
 
 @sign	|KAL.EDIN|
@@ -12848,7 +12860,6 @@
 @v	nuŋun
 @v	numu
 @v	numun
-@v	numun@d
 @v	qul
 @v	šabalbal
 @v	til₈
@@ -12857,6 +12868,8 @@
 @v	zer
 @v	zir
 @v	ziri
+@form ~d KUL@d
+@v	numun@d
 @end sign
 
 @nosign	KUL@g
@@ -16294,12 +16307,13 @@
 @ucode	x12224
 @v	al₆
 @v	mah
-@v	mah@v
-@inote ed3b
 @v	maha
 @v	meh
 @v	mih
 @v	šutur
+@form ~v MAH@v
+@v	mah@v
+@inote ed3b
 @end sign
 
 @sign	MAR
@@ -19751,10 +19765,11 @@
 @ucode	x12293
 @v?	gid₃
 @v	sa
-@v	sa@v
-@inote ed3b
 @v	śa
 @v	ša₁₀
+@form ~v SA@v
+@v	sa@v
+@inote ed3b
 @end sign
 
 @sign	|SA.HI×ŠE.KAK|
@@ -20556,8 +20571,6 @@
 @v	sahar₂
 @v	sakar
 @v	sar
-@v	sar@90
-@inote ed3b
 @v	sara
 @v	sariₓ
 @v	se₁₅
@@ -20570,6 +20583,9 @@
 @v	šara₇
 @v	šer₉
 @v	šir₉
+@form ~a SAR@90
+@v	sar@90
+@inote ed3b
 @end sign
 
 @sign	|SAR.SAR|
@@ -21496,12 +21512,16 @@
 @v	šara₆
 @v	šargal
 @v	1(šar₂)
-@v	1(šar₂@c)
-@v	1(šar₂@c@v)
 @v	1(šargal)
-@v	1(šargal@c)
+@form ~c ŠAR₂@c
 @v	šar₂@c
+@v	1(šar₂@c)
+@form ~d ŠAR₂@c@v
+@v	1(šar₂@c@v)
+@form ~g ŠARGAL@c
+@inote Is this šargal really good (curved and not)? or is this only with GAL?
 @v	šargal@c
+@v	1(šargal@c)
 @end sign
 
 @sign	|ŠAR₂×(GAL.DIŠ)|
@@ -23012,13 +23032,15 @@
 @v	dapa₂
 @v	min₆
 @v	tab
-@v	tab@t
-@inote ed3b
 @v	taba
 @v	tap
 @v	tapa
 @v	ṭab
 @v	ṭap
+@form ~a TAB@t
+@v	tab@t
+@inote ed3b
+@inote Need to resolve this vs sign TAB@t = tab₄
 @end sign
 
 @sign	TAB@t
@@ -24160,7 +24182,6 @@
 @v	eš
 @v	eša₂
 @v	eše
-@v	eše@c
 @v	is₅
 @v	iš₃
 @v	nan₃
@@ -24171,9 +24192,11 @@
 @v	uš₁₈
 @v	ušu₃
 @v	3(u)
-@v	3(u@c)
 @v	3(bur₃)
+@form ~c 3(U@c)
+@v	3(u@c)
 @v	3(bur₃@c)
+@v	eše@c
 @end sign
 
 @sign	|U.U.U.AŠ₃|
@@ -25270,8 +25293,6 @@
 @uname	CUNEIFORM SIGN UR2
 @ucode	x1232B
 @v	ur₂
-@v	ur₂@g
-@inote ed3b
 @v	uru₈
 @end sign
 
@@ -25282,6 +25303,8 @@
 
 @sign UR₂@g
 @list KWU737
+@v	ur₂@g
+@inote ed3b
 @note Ur III; may be a variant of |UR₂×(A.HA)| etc.
 @end sign
 
@@ -26963,8 +26986,10 @@
 @v	banda₂
 @v	sutu
 @v	1(ban₂)
-@v	1(ban₂@c)
+@form ~c BAN₂@c
 @v	ban₂@c
+@v	1(ban₂@c)
+@form ~v BAN₂@v
 @v	ban₂@v
 @end sign
 
@@ -27487,13 +27512,17 @@
 @v	ŋeš₂
 @v	ŋiš₂
 @v	1(geš₂)
-@v	1(geš₂@c)
+@form ~c GEŠ₂@c
 @v	geš₂@c
-@v	geš₂@c@v
-@v	geš₂@c@90
-@v	geš₂@t
 @v	ŋeš₂@c
+@v	1(geš₂@c)
+@form ~d GEŠ₂@c@v
+@v	geš₂@c@v
 @v	ŋeš₂@c@v
+@form ~e GEŠ₂@c@90
+@v	geš₂@c@90
+@form ~t GEŠ₂@t
+@v	geš₂@t
 @end sign
 
 @sign	2(GEŠ₂)
@@ -27501,6 +27530,7 @@
 @uname	CUNEIFORM NUMERIC SIGN TWO GESH2
 @ucode	x12416
 @v	2(geš₂)
+@form ~c 2(GEŠ₂@c)
 @v	2(geš₂@c)
 @end sign
 
@@ -27509,6 +27539,7 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE GESH2
 @ucode	x12417
 @v	3(geš₂)
+@form ~c 3(GEŠ₂@c)
 @v	3(geš₂@c)
 @end sign
 
@@ -27517,6 +27548,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FOUR GESH2
 @ucode	x12418
 @v	4(geš₂)
+@form ~c 4(GEŠ₂@c)
 @v	4(geš₂@c)
 @end sign
 
@@ -27525,6 +27557,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE GESH2
 @ucode	x12419
 @v	5(geš₂)
+@form ~c 5(GEŠ₂@c)
 @v	5(geš₂@c)
 @end sign
 
@@ -27533,6 +27566,7 @@
 @uname	CUNEIFORM NUMERIC SIGN SIX GESH2
 @ucode	x1241A
 @v	6(geš₂)
+@form ~c 6(GEŠ₂@c)
 @v	6(geš₂@c)
 @end sign
 
@@ -27541,6 +27575,7 @@
 @uname	CUNEIFORM NUMERIC SIGN SEVEN GESH2
 @ucode	x1241B
 @v	7(geš₂)
+@form ~c 7(GEŠ₂@c)
 @v	7(geš₂@c)
 @end sign
 
@@ -27549,6 +27584,7 @@
 @uname	CUNEIFORM NUMERIC SIGN EIGHT GESH2
 @ucode	x1241C
 @v	8(geš₂)
+@form ~c 8(GEŠ₂@c)
 @v	8(geš₂@c)
 @end sign
 
@@ -27557,6 +27593,7 @@
 @uname	CUNEIFORM NUMERIC SIGN NINE GESH2
 @ucode	x1241D
 @v	9(geš₂)
+@form ~c 9(GEŠ₂@c)
 @v	9(geš₂@c)
 @end sign
 
@@ -27565,14 +27602,16 @@
 @uname	CUNEIFORM NUMERIC SIGN ONE GESHU
 @ucode	x1241E
 @v	1(gešu)
-@v	1(gešu@c)
 @v	1(gešʾu)
-@v	1(gešʾu@c)
 @v	gešʾu
-@v	gešʾu@c
-@v	gešʾu@v
 @v	ŋešʾu
+@form ~c GEŠU@c
+@v	gešʾu@c
 @v	ŋešʾu@c
+@v	1(gešu@c)
+@v	1(gešʾu@c)
+@form ~v GEŠU@v
+@v	gešʾu@v
 @end sign
 
 @sign	2(GEŠU)
@@ -27580,8 +27619,9 @@
 @uname	CUNEIFORM NUMERIC SIGN TWO GESHU
 @ucode	x1241F
 @v	2(gešu)
-@v	2(gešu@c)
 @v	2(gešʾu)
+@form ~c 2(GEŠU@c)
+@v	2(gešu@c)
 @v	2(gešʾu@c)
 @end sign
 
@@ -27590,8 +27630,9 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE GESHU
 @ucode	x12420
 @v	3(gešu)
-@v	3(gešu@c)
 @v	3(gešʾu)
+@form ~c 3(GEŠU@c)
+@v	3(gešu@c)
 @v	3(gešʾu@c)
 @end sign
 
@@ -27600,8 +27641,9 @@
 @uname	CUNEIFORM NUMERIC SIGN FOUR GESHU
 @ucode	x12421
 @v	4(gešu)
-@v	4(gešu@c)
 @v	4(gešʾu)
+@form ~c 4(GEŠU@c)
+@v	4(gešu@c)
 @v	4(gešʾu@c)
 @end sign
 
@@ -27610,8 +27652,9 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE GESHU
 @ucode	x12422
 @v	5(gešu)
-@v	5(gešu@c)
 @v	5(gešʾu)
+@form ~c 5(GEŠU@c)
+@v	5(gešu@c)
 @v	5(gešʾu@c)
 @end sign
 
@@ -27632,8 +27675,9 @@
 @v	šanabaku₂
 @v	šanabi₂
 @v	4(u)
-@v	4(u@c)
 @v	4(bur₃)
+@form ~c 4(U@c)
+@v	4(u@c)
 @v	4(bur₃@c)
 @end sign
 
@@ -27651,8 +27695,9 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE U
 @ucode	x12410
 @v	5(u)
-@v	5(u@c)
 @v	5(bur₃)
+@form ~c 5(U@c)
+@v	5(u@c)
 @v	5(bur₃@c)
 @end sign
 
@@ -27669,8 +27714,9 @@
 @uname	CUNEIFORM NUMERIC SIGN SIX U
 @ucode	x12411
 @v	6(u)
-@v	6(u@c)
 @v	6(bur₃)
+@form ~c 6(U@c)
+@v	6(u@c)
 @end sign
 
 @sign	7(U)
@@ -27680,8 +27726,9 @@
 @uname	CUNEIFORM NUMERIC SIGN SEVEN U
 @ucode	x12412
 @v	7(u)
-@v	7(u@c)
 @v	7(bur₃)
+@form ~c 7(U@c)
+@v	7(u@c)
 @end sign
 
 @sign	8(U)
@@ -27691,8 +27738,9 @@
 @uname	CUNEIFORM NUMERIC SIGN EIGHT U
 @ucode	x12413
 @v	8(u)
-@v	8(u@c)
 @v	8(bur₃)
+@form ~c 8(U@c)
+@v	8(u@c)
 @end sign
 
 @sign	9(U)
@@ -27702,8 +27750,9 @@
 @uname	CUNEIFORM NUMERIC SIGN NINE U
 @ucode	x12414
 @v	9(u)
-@v	9(u@c)
 @v 	9(bur₃)
+@form ~c 9(U@c)
+@v	9(u@c)
 @end sign
 
 @sign	F₁
