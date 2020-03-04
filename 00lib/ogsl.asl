@@ -1952,6 +1952,7 @@
 @v	zuₓ
 @v	1(aš)
 @form ~c AŠ@c
+@ucode	xeb80
 @v	aš@c
 @v	1(aš@c)
 @form ~d AŠ@c@90
@@ -3736,6 +3737,7 @@
 @v	1(barig)
 @v	1(bariga)
 @form ~a DIŠ@c
+@ucode	xebc2
 @v	1(diš@c)
 @v	diš@c
 @v	bariga@c
@@ -5473,7 +5475,7 @@
 @v	zi₃
 @v	zid₂
 @v	zuₓ
-@form ~t
+@form ~t ZI₃@t
 @v	zi₃@t
 @inote ed3a CDLI corpus distinguishes zi₃ as upright, zi3@t as slanted
 @inote this has to be resolved in the ed3a ePSD2 corpus where we should use zi₃ as slanted
@@ -9158,7 +9160,6 @@
 @v?	udul₂
 @v	utul₂
 @form	~v KAM@v
-@ucode	xe002
 @end form
 @form ~a |HI.AŠ|
 @inote dcclt !sg
@@ -16369,6 +16370,7 @@
 @v	maš [SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t]
 @end form
 @form ~c 1/2(DIŠ@c)
+@ucode	xebca
 @v	1/2(diš@c)
 @end form
 @end sign
@@ -16639,6 +16641,7 @@
 @v	šina
 @v	2(diš)
 @form ~c 2(DIŠ@c)
+@ucode	xebc3
 @v	2(diš@c)
 @end sign
 
@@ -18085,6 +18088,7 @@
 @ucode	x1225C
 @v	saₓ
 @form ~c |NINDA₂×(ŠE.AŠ@c)|
+@ucode	xebce
 @end sign
 
 @sign	|NINDA₂×(ŠE.AŠ.AŠ)|
@@ -18096,6 +18100,7 @@
 @ucode	x1225D
 @v	saₓ
 @form ~c |NINDA₂×(ŠE.AŠ@c.AŠ@c)|
+@ucode	xebcf
 @end sign
 
 @sign	|NINDA₂×ŠID|
@@ -21521,6 +21526,7 @@
 @v	1(šar₂)
 @v	1(šargal)
 @form ~c ŠAR₂@c
+@ucode	xeba7
 @v	šar₂@c
 @v	1(šar₂@c)
 @form ~d ŠAR₂@c@v
@@ -23852,6 +23858,7 @@
 @v	1(u)
 @v	1(bur₃)
 @form ~a U@c
+@ucode	xeb8b
 @v	bur₃@c
 @v	1(bur₃@c)
 @v	u@c
@@ -24174,6 +24181,7 @@
 @v	2(u)
 @v	2(bur₃)
 @form ~c 2(U@c)
+@ucode	xeb8c
 @v	2(u@c)
 @v	2(bur₃@c)
 @end sign
@@ -24204,10 +24212,12 @@
 @v	3(u)
 @v	3(bur₃)
 @form ~c 3(U@c)
+@ucode	xeb8d
 @v	3(u@c)
 @v	3(bur₃@c)
 @v	eše@c
-@form ~c 3(U@c)@v
+@form ~d 3(U@c)@v
+@ucode	xeb8e
 @v	3(u@c)@v
 @end sign
 
@@ -26793,6 +26803,7 @@
 @v	2(aš)
 @v	2(iku)
 @form ~c 2(AŠ@c)
+@ucode	xeb81
 @v	2(aš@c)
 @v	2(iku@c)
 @end sign
@@ -26807,6 +26818,7 @@
 @v	3(aš)
 @v	3(iku)
 @form ~c 3(AŠ@c)
+@ucode	xeb82
 @v	3(aš@c)
 @v	3(iku@c)
 @end sign
@@ -26819,6 +26831,7 @@
 @v	4(aš)
 @v	4(iku)
 @form ~c 4(AŠ@c)
+@ucode	xeb84
 @v	4(aš@c)
 @v	4(iku@c)
 @end sign
@@ -26832,6 +26845,7 @@
 @v	5(aš)
 @v	5(iku)
 @form ~c 5(AŠ@c)
+@ucode	xeb86
 @v	5(aš@c)
 @v	5(iku@c)
 @end sign
@@ -26844,6 +26858,7 @@
 @ucode	x12404
 @v	6(aš)
 @form ~c 6(AŠ@c)
+@ucode	xeb87
 @v	6(aš@c)
 @end sign
 
@@ -26855,6 +26870,7 @@
 @ucode	x12405
 @v	7(aš)
 @form ~c 7(AŠ@c)
+@ucode	xeb88
 @v	7(aš@c)
 @end sign
 
@@ -26866,6 +26882,7 @@
 @ucode	x12406
 @v	8(aš)
 @form ~c 8(AŠ@c)
+@ucode	xeb89
 @v	8(aš@c)
 @end sign
 
@@ -26877,6 +26894,7 @@
 @ucode	x12407
 @v	9(aš)
 @form ~c 9(AŠ@c)
+@ucode	xeb8a
 @v	9(aš@c)
 @form ~d 9(AŠ@c@90)
 @v	9(aš@c@90)
@@ -26903,6 +26921,7 @@
 @ucode	x1243B
 @v	3(aš)@v
 @form ~c 3(AŠ@c)@v
+@ucode	xeb83
 @v	3(aš@c)@v
 @v	3(iku)@v
 @v	eš₂₁
@@ -26917,6 +26936,7 @@
 @v	4(aš@v)
 @v	limmu₄
 @form ~c 4(AŠ@c)@v
+@ucode	xeb85
 @v	4(aš@v@c)
 @end sign
 
@@ -27016,6 +27036,7 @@
 @v	sutu
 @v	1(ban₂)
 @form ~c 1(BAN₂@c)
+@ucode	xebbd
 @v	ban₂@c
 @v	1(ban₂@c)
 @form ~v BAN₂@v
@@ -27034,6 +27055,7 @@
 @v	bamin
 @v	banmin
 @form ~c 2(BAN₂@c)
+@ucode	xebbe
 @v	2(ban₂@c)
 @end sign
 
@@ -27045,6 +27067,7 @@
 @ucode	x12451
 @v	3(ban₂)
 @form ~c 3(BAN₂@c)
+@ucode	xebbf
 @v	3(ban₂@c)
 @form ~v 3(BAN₂@c)@v
 @v	3(ban₂@c)@v
@@ -27058,6 +27081,7 @@
 @ucode	x12452
 @v	4(ban₂)
 @form ~c 4(BAN₂@c)
+@ucode	xebc0
 @v	4(ban₂@c)
 @end sign
 
@@ -27069,6 +27093,7 @@
 @ucode	x12454
 @v	5(ban₂)
 @form ~c 5(BAN₂@c)
+@ucode	xebc1
 @v	5(ban₂@c)
 @end sign
 
@@ -27108,6 +27133,7 @@
 @v	burʾu
 @v	1(burʾu)
 @form ~a 1(BURU@c)
+@ucode	xebb7
 @inote this is the new OGSL name for U@c×KASKAL
 @v	burʾu@c
 @v	1(burʾu@c)
@@ -27124,6 +27150,7 @@
 @ucode	x12435
 @v	2(burʾu)
 @form ~a 2(BURU@c)
+@ucode	xebb8
 @v	2(burʾu@c)
 @end sign
 
@@ -27133,6 +27160,7 @@
 @ucode	x12436
 @v	3(burʾu)
 @form ~a 3(BURU@c)
+@ucode	xebb9
 @v	3(burʾu@c)
 @end sign
 
@@ -27142,6 +27170,7 @@
 @ucode	x12438
 @v	4(burʾu)
 @form ~a 4(BURU@c)
+@ucode	xebbb
 @v	4(burʾu@c)
 @end sign
 
@@ -27151,6 +27180,7 @@
 @ucode	x12439
 @v	5(burʾu)
 @form ~a 5(BURU@c)
+@ucode	xebbc
 @v	5(burʾu@c)
 @end sign
 
@@ -27160,6 +27190,7 @@
 @ucode	x12437
 @v	3(burʾu)@v
 @form ~a 3(BURU@c)@v
+@ucode	xebba
 @v	3(burʾu@c)@v
 @end sign
 
@@ -27169,6 +27200,7 @@
 @ucode	x12423
 @v	2(šar₂)
 @form ~c 2(ŠAR₂@c)
+@ucode	xeba8
 @v	2(šar₂@c)
 @end sign
 
@@ -27178,6 +27210,7 @@
 @ucode	x12424
 @v	3(šar₂)
 @form ~c 3(ŠAR₂@c)
+@ucode	xeba9
 @v	3(šar₂@c)
 @end sign
 
@@ -27187,6 +27220,7 @@
 @ucode	x12426
 @v	4(šar₂)
 @form ~c 4(ŠAR₂@c)
+@ucode	xebab
 @v	4(šar₂@c)
 @end sign
 
@@ -27196,6 +27230,7 @@
 @ucode	x12427
 @v	5(šar₂)
 @form ~c 5(ŠAR₂@c)
+@ucode	xebac
 @v	5(šar₂@c)
 @end sign
 
@@ -27205,6 +27240,7 @@
 @ucode	x12428
 @v	6(šar₂)
 @form ~c 6(ŠAR₂@c)
+@ucode	xebad
 @v	6(šar₂@c)
 @end sign
 
@@ -27214,6 +27250,7 @@
 @ucode	x12429
 @v	7(šar₂)
 @form ~c 7(ŠAR₂@c)
+@ucode	xebae
 @v	7(šar₂@c)
 @end sign
 
@@ -27223,6 +27260,7 @@
 @ucode	x1242A
 @v	8(šar₂)
 @form ~c 8(ŠAR₂@c)
+@ucode	xebaf
 @v	8(šar₂@c)
 @end sign
 
@@ -27232,6 +27270,7 @@
 @ucode	x1242B
 @v	9(šar₂)
 @form ~c 9(ŠAR₂@c)
+@ucode	xebb0
 @v	9(šar₂@c)
 @end sign
 
@@ -27241,6 +27280,7 @@
 @ucode	x12425
 @v	3(šar₂)@v
 @form ~c 3(ŠAR₂@c)@v
+@ucode	xebaa
 @v	3(šar₂@c)@v
 @end sign
 
@@ -27256,6 +27296,7 @@
 @v	1(šaru)
 @v	1(šarʾu)
 @form ~a 1(ŠARU@c)
+@ucode	xebb1
 @v	šaru@c
 @v	šarʾu@c
 @v	1(šaru@c)
@@ -27278,6 +27319,7 @@
 @v	2(šaru)
 @v	2(šarʾu)
 @form ~a 2(ŠARU@c)
+@ucode	xebb2
 @v	2(šaru@c)
 @v	2(šarʾu@c)
 @end form
@@ -27293,6 +27335,7 @@
 @v	3(šaru)
 @v	3(šarʾu)
 @form ~a 3(ŠARU@c)
+@ucode	xebb3
 @v	3(šaru@c)
 @v	3(šarʾu@c)
 @end form
@@ -27307,6 +27350,7 @@
 @v	4(šaru)
 @v	4(šarʾu)
 @form ~a 4(ŠARU@c)
+@ucode	xebb5
 @v	4(šaru@c)
 @v	4(šarʾu@c)
 @end form
@@ -27321,6 +27365,7 @@
 @v	5(šaru)
 @v	5(šarʾu)
 @form ~a 5(ŠARU@c)
+@ucode	xebb6
 @v	5(šaru@c)
 @v	5(šarʾu@c)
 @end form
@@ -27333,6 +27378,7 @@
 @v	3(šaru)@v
 @v	3(šarʾu)@v
 @form ~a 3(ŠARU@c)@v
+@ucode	xebb4
 @v	3(šaru@c)@v
 @v	3(šarʾu@c)@v
 @end form
@@ -27388,8 +27434,10 @@
 @ucode	x12408
 @v	3(diš)
 @form ~c 3(DIŠ@c)
+@ucode	xebc4
 @v	3(diš@c)
-@form ~c 3(DIŠ@c)@v
+@form ~d 3(DIŠ@c)@v
+@ucode	xebc5
 @v	3(diš@c)@v
 @end sign
 
@@ -27406,6 +27454,7 @@
 @v	4(bariga)
 @v	#old nilimmu
 @form ~c 4(DIŠ@c)
+@ucode	xebc6
 @v	4(barig@c)
 @v	4(bariga@c)
 @v	4(diš@c)
@@ -27549,6 +27598,7 @@
 @ucode	x12458
 @v	1(eše₃)
 @form ~c 1(EŠE₃@c)
+@ucode	xebc7
 @v	eše₃@c
 @v	1(eše₃@c)
 @end sign
@@ -27561,6 +27611,7 @@
 @ucode	x12459
 @v	2(eše₃)
 @form ~c 2(EŠE₃@c)
+@ucode	xebc8
 @v	2(eše₃@c)
 @end sign
 
@@ -27576,6 +27627,7 @@
 @v	ŋiš₂
 @v	1(geš₂)
 @form ~c GEŠ₂@c
+@ucode	xeb96
 @v	geš₂@c
 @v	ŋeš₂@c
 @v	1(geš₂@c)
@@ -27594,6 +27646,7 @@
 @ucode	x12416
 @v	2(geš₂)
 @form ~c 2(GEŠ₂@c)
+@ucode	xeb97
 @v	2(geš₂@c)
 @end sign
 
@@ -27603,8 +27656,10 @@
 @ucode	x12417
 @v	3(geš₂)
 @form ~c 3(GEŠ₂@c)
+@ucode	xeb98
 @v	3(geš₂@c)
 @form ~d 3(GEŠ₂@c)@v
+@ucode	xeb99
 @v	3(geš₂@c)@v
 @end sign
 
@@ -27614,8 +27669,10 @@
 @ucode	x12418
 @v	4(geš₂)
 @form ~c 4(GEŠ₂@c)
+@ucode	xeb9a
 @v	4(geš₂@c)
 @form ~d 4(GEŠ₂@c)@v
+@ucode	xeb9b
 @v	4(geš₂@c)@v
 @end sign
 
@@ -27625,6 +27682,7 @@
 @ucode	x12419
 @v	5(geš₂)
 @form ~c 5(GEŠ₂@c)
+@ucode	xeb9c
 @v	5(geš₂@c)
 @end sign
 
@@ -27634,6 +27692,7 @@
 @ucode	x1241A
 @v	6(geš₂)
 @form ~c 6(GEŠ₂@c)
+@ucode	xeb9d
 @v	6(geš₂@c)
 @end sign
 
@@ -27643,6 +27702,7 @@
 @ucode	x1241B
 @v	7(geš₂)
 @form ~c 7(GEŠ₂@c)
+@ucode	xeb9e
 @v	7(geš₂@c)
 @end sign
 
@@ -27652,6 +27712,7 @@
 @ucode	x1241C
 @v	8(geš₂)
 @form ~c 8(GEŠ₂@c)
+@ucode	xeb9f
 @v	8(geš₂@c)
 @end sign
 
@@ -27661,6 +27722,7 @@
 @ucode	x1241D
 @v	9(geš₂)
 @form ~c 9(GEŠ₂@c)
+@ucode	xeba0
 @v	9(geš₂@c)
 @end sign
 
@@ -27673,6 +27735,7 @@
 @v	gešʾu
 @v	ŋešʾu
 @form ~c GEŠU@c
+@ucode	xeba1
 @v	gešʾu@c
 @v	ŋešʾu@c
 @v	1(gešu@c)
@@ -27688,6 +27751,7 @@
 @v	2(gešu)
 @v	2(gešʾu)
 @form ~c 2(GEŠU@c)
+@ucode	xeba2
 @v	2(gešu@c)
 @v	2(gešʾu@c)
 @end sign
@@ -27699,9 +27763,11 @@
 @v	3(gešu)
 @v	3(gešʾu)
 @form ~c 3(GEŠU@c)
+@ucode	xeba3
 @v	3(gešu@c)
 @v	3(gešʾu@c)
 @form ~d 3(GEŠU@c)@v
+@ucode	xeba4
 @v	3(gešu@c)@v
 @v	3(gešʾu@c)@v
 @end sign
@@ -27713,6 +27779,7 @@
 @v	4(gešu)
 @v	4(gešʾu)
 @form ~c 4(GEŠU@c)
+@ucode	xeba5
 @v	4(gešu@c)
 @v	4(gešʾu@c)
 @form ~d 4(GEŠU@c)@v
@@ -27727,6 +27794,7 @@
 @v	5(gešu)
 @v	5(gešʾu)
 @form ~c 5(GEŠU@c)
+@ucode	xeba6
 @v	5(gešu@c)
 @v	5(gešʾu@c)
 @end sign
@@ -27750,9 +27818,11 @@
 @v	4(u)
 @v	4(bur₃)
 @form ~c 4(U@c)
+@ucode	xeb8f
 @v	4(u@c)
 @v	4(bur₃@c)
 @form ~d 4(U@c)@v
+@ucode	xeb90
 @v	4(u@c)@v
 @end sign
 
@@ -27772,6 +27842,7 @@
 @v	5(u)
 @v	5(bur₃)
 @form ~c 5(U@c)
+@ucode	xeb91
 @v	5(u@c)
 @v	5(bur₃@c)
 @end sign
@@ -27791,6 +27862,7 @@
 @v	6(u)
 @v	6(bur₃)
 @form ~c 6(U@c)
+@ucode	xeb92
 @v	6(u@c)
 @end sign
 
@@ -27803,6 +27875,7 @@
 @v	7(u)
 @v	7(bur₃)
 @form ~c 7(U@c)
+@ucode	xeb93
 @v	7(u@c)
 @end sign
 
@@ -27815,6 +27888,7 @@
 @v	8(u)
 @v	8(bur₃)
 @form ~c 8(U@c)
+@ucode	xeb94
 @v	8(u@c)
 @end sign
 
@@ -27827,10 +27901,12 @@
 @v	9(u)
 @v 	9(bur₃)
 @form ~c 9(U@c)
+@ucode	xeb95
 @v	9(u@c)
 @end sign
 
 @sign	F₁
+@ucode	xebc9
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE THIRD VARIANT FORM A
 @ucode	x1245D
@@ -27838,6 +27914,7 @@
 @end sign
 
 @sign	F₂
+@ucode	xebcb
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN TWO THIRDS VARIANT FORM A
 @ucode	x1245E
@@ -27845,6 +27922,7 @@
 @end sign
 
 @sign	F₃
+@ucode	xebcc
 @list SLLHA545a
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE EIGHTH ASH
@@ -27857,6 +27935,7 @@
 @end sign
 
 @sign	F₄
+@ucode	xebcd
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE QUARTER ASH
 @ucode	x12460
@@ -27925,12 +28004,14 @@
 @end sign
 
 @sign	|NINDA₂×ŠUŠANA@c|
+@ucode	xebd0
 @list	LAK106
 @list	RSP106
 @v	1/3(diš@c)@v
 @end sign
 
 @sign	|NINDA₂×ŠANABI@c|
+@ucode	xebd1
 @list	LAK107
 @list	RSP107
 @v	2/3(diš@c)@v
