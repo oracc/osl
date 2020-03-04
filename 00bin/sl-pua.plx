@@ -36,8 +36,10 @@ sub load_pua {
 	chomp;
 	++$lnum;
 	my($pua,$nam) = split(/\t/,$_);
-	$pua{$nam} = $pua;
-	$lnum{$nam} = $lnum;
+	if ($nam) {
+	    $pua{$nam} = $pua;
+	    $lnum{$nam} = $lnum;
+	}
     }
     close(P);
 }
