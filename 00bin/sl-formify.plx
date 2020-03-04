@@ -10,10 +10,13 @@ while (<>) {
 	%v = ();
     } elsif (/^\@v/) {
 	my($v) = (/\s(\S+)/);
-	if ($v =~ s/\@(.*)$//) {
+	my $orig_v = $v;
+	if ($v =~ s/\@([^)]+)//) {
 	    my $mod = $1;
 	    if ($v{$v}) {
-		print STDERR "00lib/ogsl.asl:$.: $v\@$mod should have its own \@form\n";
+		print STDERR "00lib/ogsl.asl:$.: $orig_v should have its own \@form\n";
+	    } else {
+		# warn "v = $v ; mod = $mod \n";
 	    }
 	} else {
 	    ++$v{$v};
