@@ -22407,12 +22407,12 @@
 @v	rig
 @v	rik
 @v	riq
-@v	sem
-@v	sim
 @v	siraš
 @v	siris
 @v	siriš
 @v	su₂₀
+@v	śem
+@v	śim
 @v	šem
 @v	šembi₂
 @v	šembizi
