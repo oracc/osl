@@ -24869,6 +24869,8 @@
 @v	salah
 @v	siki₂
 @v	šamaš
+@v	šara₉
+@inote	Attinger
 @v	šarag
 @v	ta₅
 @v	tam
