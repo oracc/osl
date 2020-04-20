@@ -22069,6 +22069,11 @@
 @v	karadin₃
 @end sign
 
+@sign	|ŠE.EŠ₂.PI.GAR|
+@inote epsd2/admin/ur3
+@v	garadinₓ
+@end sign
+
 @sign	ŠEG₉
 @list MZL878
 @list OBZL429
@@ -25427,13 +25432,10 @@
 @lit	Civil 2008 ARES 4, 78
 @end sign
 
-@sign	|UMUM×KASKAL|
+@sign	DE₂
 @list SLLHA338n1
 @list KWU309
 @uphase	1
-@uname	CUNEIFORM SIGN UMUM TIMES KASKAL
-@ucode	x12324
-@v	abzuₓ
 @v	da₉
 @v	de₂
 @v	di₈
@@ -25445,6 +25447,12 @@
 @v	si₇
 @v	siu
 @v	ṭe₅
+@form ~a |UMUM×KASKAL|
+@uname	CUNEIFORM SIGN UMUM TIMES KASKAL
+@ucode	x12324
+@inote (sjt) There is a problem with the Unicode implementation of DE₂ because that should probably be UMUM-sheshig, with an earlier form UMUM×KASKAL.
+@inote (sjt) The present solution of (re-)creating a DE₂ sign is not perfect but we need something like this solution for epsd2 de₂ bases
+@end form
 @end sign
 
 @sign	|UMUM×PA|
