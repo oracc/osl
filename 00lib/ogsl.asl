@@ -3788,12 +3788,14 @@
 @v	ṭiš
 @v	uš₉
 @v	1(diš)
+@v	barig
 @v	1(barig)
 @v	1(bariga)
 @form ~a DIŠ@c
 @ucode	xebc2
 @v	1(diš@c)
 @v	diš@c
+@v	barig@c
 @v	bariga@c
 @v	1(barig@c)
 @v	1(bariga@c)
@@ -4435,6 +4437,8 @@
 @uname	CUNEIFORM SIGN DUH
 @ucode	x12083
 @v	duh
+@v	du₈
+@v	tuh
 @end sign
 
 @sign	DUN
@@ -6947,9 +6951,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN GABA
 @ucode	x120EE
-@v	du₈
 @v	dudda
-@v	duh
 @v?	ga₁₅
 @v	gab
 @v	gaba
@@ -6960,7 +6962,6 @@
 @v	qap
 @v	tah₂
 @v	tu₂₄
-@v	tuh
 @v	tuhu
 @v	ṭah₂
 @v	ṭuh
@@ -17409,8 +17410,6 @@
 
 @sign	N
 @uphase none
-@v	barig
-@v	gešʾu
 @v	n
 @end sign
 
@@ -28051,6 +28050,7 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE GESHU
 @ucode	x1241E
+@v	gešu
 @v	1(gešu)
 @v	1(gešʾu)
 @v	gešʾu
@@ -29352,7 +29352,7 @@
 @inote dcclt !sg
 @end sign
 
-@sign |BAN.GAM|
+@sign |PAN.GAM|
 @ucode x1227C.x120F5
 @v	zugudₓ
 @inote dcclt !sg
