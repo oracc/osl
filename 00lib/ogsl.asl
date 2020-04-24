@@ -9649,13 +9649,13 @@
 @ucode	x1213E
 @v	bibra
 @v	bibri
-@v-	guggal
+#@v-	guggal
 @note	guggal belongs to |LU.HUL₂|
-@v-	gukkal
+#@v-	gukkal
 @note	gukkal belongs to |LU.HUL₂|
 @v	hul₂
 @v	hula₂
-@v-	kungal
+#@v-	kungal
 @note	kungal belongs to |LU.HUL₂|
 @v	kuš₈
 @v	ukuš₂
@@ -13692,7 +13692,7 @@
 @v	waₓ
 @end sign
 
-@sign	|LAGAB×(GUD.GUD)+HUL₂|
+@sign	|LAGAB×(GUD&GUD)+HUL₂|
 @pname	|LAGAB×(GUD+GUD)+HUL₂|
 @uphase	0
 @end sign
