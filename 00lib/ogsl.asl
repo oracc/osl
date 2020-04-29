@@ -16973,6 +16973,8 @@
 @v?	egir₆
 @v?	eŋir₆
 @v	lumₓ
+@v	ŋur₂₄
+@inote	Attinger
 @v	ŋurgu₂
 @inote	Attinger
 @v	mur₇
