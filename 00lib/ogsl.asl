@@ -25542,7 +25542,7 @@
 @sign	UR@180
 @uphase 1.1
 @uname	CUNEIFORM SIGN UR INVERTED
-@v	UR@180 [CBS 2146 = dcclt:P227871 o 7', lu₂ UR@180]
+@inote [CBS 2146 = dcclt:P227871 o 7', lu₂ UR@180]
 @end sign
 
 @sign	|UR.MAH|
