@@ -5333,6 +5333,7 @@
 @end sign
 
 @sign	|ERIN₂+X|
+@list	ELLES160
 @uphase	9
 @ucode x124AD
 @uname CUNEIFORM SIGN ERIN₂ JOINING X
@@ -22155,6 +22156,7 @@
 @v	šas
 @v	šaš
 @v	šaṣ
+@v	šaz
 @v	še₁₆
 @v	šes
 @v	šeṣ	[AOS 67, 341 = cams/eae:P395092 o 63, u₂-šeṣ-ṣi]
