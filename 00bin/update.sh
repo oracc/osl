@@ -1,6 +1,6 @@
 #!/bin/sh
 chmod +w 00lib/ogsl.asl
-(cd ~/orc/oid ; scp -r build:/home/oracc/oid/* .)
+(cd ~/orc/oid ; scp -r build-oracc.museum.upenn.edu:/home/oracc/oid/* .)
 serve-install.sh ogsl build-oracc.museum.upenn.edu
 serve-install.sh ogsl/signlist build-oracc.museum.upenn.edu
 serve-index.sh ogsl build-oracc.museum.upenn.edu
