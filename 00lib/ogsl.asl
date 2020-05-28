@@ -15533,6 +15533,7 @@
 @uname	CUNEIFORM SIGN LIL
 @ucode	x121F8
 @v?	il₉
+@v	kuₓ
 @v	kurₓ
 @v	lil
 @v	sukuₓ
