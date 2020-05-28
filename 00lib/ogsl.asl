@@ -20129,6 +20129,7 @@
 @ucode	x12295
 @v	akaₓ
 @v	dilibₓ
+@v	muhhumₓ
 @v	saŋminₓ
 @v	saŋduₓ
 @v	%akk/n rēšu
@@ -20761,6 +20762,7 @@
 
 @sign	|SAL.UŠ|
 @ucode	x122A9.x12351
+@v	karkidₓ
 @v	niŋirsiₓ
 @v	gidlam₄
 @v	gitlam₄
