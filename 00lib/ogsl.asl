@@ -27174,6 +27174,8 @@
 @v	abzu
 @form ~a DE₂
 @v    	abzu₂
+@form ~b |UMUM×KASKAL|
+@v    	abzu₂
 @lit 1987 A. Cavigneaux, ASJ 9 46-47.
 @end form
 @end sign
