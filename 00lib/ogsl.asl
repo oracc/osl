@@ -551,6 +551,9 @@
 @form	~b |A.ZI&ZI.A|
 @ucode x12000.x12364.x12000
 @end form
+@form	~c |ZI&ZI.EŠ₂|
+@ucode x12364.x120A0
+@end form
 @end sign
 
 @sign	|A×A|
@@ -5641,6 +5644,9 @@
 @v	sirim₂
 @v	šer₃
 @v	šir₃
+@form ~a KEŠ₂
+@v	sir₃
+@inote to support sir(KEŠ₂)-re in Nippur Nigga Q000052 228, even though it needs collation
 @end sign
 
 @sign	|EZEN×A|
@@ -11556,6 +11562,7 @@
 @v	šudu₃
 @v	šušudi
 @v	ušₓ
+@form ~a |KA×GAN₂@t|
 @end sign
 
 @sign	|KA×(ŠU.EŠ₂)|
@@ -14443,11 +14450,6 @@
 @uphase	0
 @end sign
 
-@sign	LAK263
-@list LAK263
-@uphase	0
-@end sign
-
 @sign	LAK369
 @list LAK369
 @uphase	0
@@ -17082,6 +17084,8 @@
 @v	mur₇
 @v	mur₈
 @v	murgu₂
+@form ~a SIG₄
+@inote for nu-mur₈(SIG₄) in ED Metals 50/51; is that really sumur[roof]?
 @end sign
 
 @sign	MURUB₄
@@ -21726,6 +21730,7 @@
 @ucode x122B6
 @inote dcclt !sg
 @end form
+@form ~b |ŠA₃.A|
 @end sign
 
 @sign	|ŠA₃×BAD|
@@ -22240,6 +22245,8 @@
 @v?	šenbar
 @v	šegga
 @inote 	šeg₉-bar
+@form ~a LAK263
+@list LAK263
 @end sign
 
 @sign	|ŠEG₉.BAR|
@@ -28399,6 +28406,7 @@
 @ucode	x12413
 @v	8(u)
 @v	8(bur₃)
+@v	ussuₓ
 @form ~c 8(U@c)
 @ucode	xeb94
 @v	8(u@c)
