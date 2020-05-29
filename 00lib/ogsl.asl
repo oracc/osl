@@ -4807,6 +4807,7 @@
 @sign	|E₂.ŠE|
 @ucode	x1208D.x122BA
 @v	esagₓ
+@v	esaŋₓ
 @v	asaŋ
 @inote	Attinger
 @end sign
@@ -4885,6 +4886,7 @@
 @v	asaŋₓ
 @v	arahₓ
 @v	esagₓ
+@v	esaŋₓ
 @v	usiₓ
 @end sign
 
@@ -14444,6 +14446,8 @@
 
 @sign	LAK384
 @list	LAK384
+@v	saŋₓ
+@inote epsd2 e₂-saŋₓ = esaŋ[store]
 @end sign
 
 @sign	LAK397
@@ -24548,6 +24552,7 @@
 @list KWU509
 @ucode	x1230B.x122AD
 @v	sagₓ
+@v	saŋₓ
 @v	urum₇
 @v	usagₓ
 @v	zaₓ
