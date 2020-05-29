@@ -7571,6 +7571,7 @@
 
 @sign	|GAR.ŠID|
 @ucode	x120FB.x122C3
+@v	saŋŋaₓ
 @v	uttuku
 @v	utugₓ
 @v	utuqₓ
@@ -22479,6 +22480,7 @@
 
 @sign	|ŠID.GAR|
 @ucode x122C3.x120FB
+@v	saŋŋaₓ
 @end sign
 
 @sign	|ŠID.NUN|
