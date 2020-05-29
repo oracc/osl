@@ -3926,6 +3926,7 @@
 @ucode	x1207A.x1207A
 @v	sugₓ
 @v	erₓ
+@v	ereₓ
 @v	gidₓ
 @v	lah₅
 @v	laha₅
@@ -9203,7 +9204,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN HI TIMES ASH
 @ucode	x1212E
-@v	dubulₓ
+@v	ehₓ
 @v	udulₓ
 @v	kaz₈
 @v	kazaza
@@ -9240,6 +9241,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN HI TIMES ASH2
 @ucode	x1212F
+@v	dubulₓ
+@v	ellaŋₓ
 @v	ulₓ
 @v	umanₓ
 @v	ar₃
@@ -11840,6 +11843,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KAD5
 @ucode	x12193
+@v	esirₓ
 @v	kamₓ
 @v	gešhurₓ
 @v	bansur₃
@@ -21135,6 +21139,9 @@
 @v	šeb₄
 @v	šed₁₆
 @v	šeg₁₂
+@form LUM
+@v	gar₈
+@inote P273880 c ii 12 e₂-gar₈(LUM) ma₂
 @end sign
 
 @sign	|SIG₄.IDIM|
@@ -23817,6 +23824,7 @@
 @uname	CUNEIFORM SIGN TE
 @ucode	x122FC
 @v	karₓ
+@v	ruₓ
 @v	de₄
 @v	di₁₂
 @v	gal₅
