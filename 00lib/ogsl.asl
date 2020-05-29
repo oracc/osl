@@ -9243,6 +9243,8 @@
 @ucode	x1212F
 @v	dubulₓ
 @v	ellaŋₓ
+@v	girišₓ
+@v	hiₓ
 @v	ulₓ
 @v	umanₓ
 @v	ar₃
@@ -11454,6 +11456,9 @@
 @end form
 @form ~d	|KA×(U.U.U)|
 @end form
+@form ~e	|KA×EŠ₂|
+@inote Possibly just |KA×GAN₂@t|, sfs
+@end form
 @end sign
 
 @sign	|KA×SAR|
@@ -11916,10 +11921,7 @@
 @end sign
 
 @sign	|KAK.TAR|
-@list LAK304
 @ucode	x12195.x122FB
-#@v	kušu₂
-# something wrong here; kušu₂ is not KAK.TAR
 @v	kuksu₂
 @end sign
 
@@ -12205,6 +12207,7 @@
 @v	kirit
 @v	kiš₂
 @v	kiši₂
+@form ~a EZEN
 @end sign
 
 @sign	KI
@@ -13253,6 +13256,9 @@
 @inote	salgues
 @v	kušu₂
 @v	uh₃
+@form ~a LAK304
+@list LAK304
+@v	kušu₂
 @end sign
 
 @sign	|KUŠU₂.AN.MUŠ₃|
@@ -20137,6 +20143,7 @@
 @ucode	x12295
 @v	akaₓ
 @v	dilibₓ
+@v	mezeₓ
 @v	muhhumₓ
 @v	saŋminₓ
 @v	saŋduₓ
@@ -20457,6 +20464,8 @@
 @v	kuš₂⁻
 @v	šur₂⁻
 @inote following Attinger's approach
+@v	kuš₂
+@inote because ePSD does not (yet?) use +/- notation
 @end form
 @end sign
 
@@ -23998,6 +24007,8 @@
 @v	du₂
 @v	dud₂
 @v	dur₁₁
+@v	gurₓ
+@inote better as graphic variant of TE@g?
 @v	hu₂
 @v	huduš
 @v	martu [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29]
@@ -24103,6 +24114,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN TUM
 @ucode	x12308
+@v	guruₓ
 @v	siₓ
 @v	dam₃
 @v	du₄
