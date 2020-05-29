@@ -3316,6 +3316,8 @@
 @v	utua₂
 @v	utul₃
 @v	utuwa₂
+@form ~a LAK388
+@list LAK388
 @end sign
 
 @sign	|DAG.KISIM₅×LUM|
@@ -11182,6 +11184,7 @@
 @uname	CUNEIFORM SIGN KA TIMES IM
 @ucode	x1216E
 @v	kanaₓ
+@v	urguₓ
 @v?	ba₅
 @v	bu₁₃
 @v	buhₓ
@@ -11455,9 +11458,6 @@
 @form ~c	LAK332
 @end form
 @form ~d	|KA×(U.U.U)|
-@end form
-@form ~e	|KA×EŠ₂|
-@inote Possibly just |KA×GAN₂@t|, sfs
 @end form
 @end sign
 
@@ -14799,11 +14799,6 @@
 
 @sign	LAK387
 @list LAK387
-@uphase	0
-@end sign
-
-@sign	LAK388
-@list LAK388
 @uphase	0
 @end sign
 
@@ -19500,7 +19495,7 @@
 @end form
 @end sign
 
-@sign	|PAD.AN.MUŠ₂|
+@sign	|PAD.AN.MUŠ₃@g|
 @ucode	x1227B.x1202D.x1223D
 @v	nindabaₓ
 @end sign
