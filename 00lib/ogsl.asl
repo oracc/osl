@@ -9352,6 +9352,7 @@
 @ucode x1212D.x12041
 @inote dcclt !sg
 @end form
+@form ~c |HI×AŠ|
 @end sign
 
 @sign	|HI×DIŠ|
