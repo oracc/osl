@@ -24004,6 +24004,8 @@
 @inote	salgues
 @v	martum [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29]
 @inote	salgues
+@v	ruₓ
+@inote for ru₁₀ at Emar--graphic variant of TE@g?
 @v	tu
 @v	tud
 @v	tum₁₂
