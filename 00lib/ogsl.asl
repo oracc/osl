@@ -21139,7 +21139,7 @@
 @v	šeb₄
 @v	šed₁₆
 @v	šeg₁₂
-@form LUM
+@form ~a LUM
 @v	gar₈
 @inote P273880 c ii 12 e₂-gar₈(LUM) ma₂
 @end sign
