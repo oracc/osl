@@ -14074,7 +14074,6 @@
 @ucode x121CB.x12228
 @inote etcsri
 @end form
-@form ~b
 @end sign
 
 @end sign
