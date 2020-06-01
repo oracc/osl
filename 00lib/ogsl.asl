@@ -14076,8 +14076,6 @@
 @end form
 @end sign
 
-@end sign
-
 @sign	|LAGAB.SAG@g|
 @ucode x121B8.x122A8
 @end sign
