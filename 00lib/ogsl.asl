@@ -5410,6 +5410,8 @@
 @v	nah₂
 @v	samanₓ
 @note	See under saman~h
+@v	sumunₓ
+@inote in gašansumun
 @v	ša₁₆
 @v	še₃
 @v	ši₄
@@ -5752,11 +5754,6 @@
 @v	mir₅
 @end sign
 
-@sign	|EZEN×GUD|
-@list	MZL278
-@v	gublagaₓ
-@end sign
-
 @sign	|EZEN×HA|
 @list MZL291
 @list SLLHA161
@@ -5829,6 +5826,9 @@
 @v	gubalaga
 @v	gublaga
 @v	laban
+@form ~a |EZEN×GUD|
+@list	MZL278
+@form ~b EZEN
 @end sign
 
 @sign	|EZEN×LAL₂|
@@ -5909,6 +5909,7 @@
 @uphase	0
 @v?	murgišur₂
 @v	šubba
+@v	udnim
 @v	unₓ
 @v	uruₓ
 @end sign
@@ -12695,6 +12696,8 @@
 @v	šah₃
 @v	ših₂
 @v	ṣah₂
+@form ~a E₂
+@v	lil₂
 @end sign
 
 @sign	|KID.BALAG|
@@ -14067,6 +14070,13 @@
 @v?	immaₓ
 @v	para₇
 @v	šara₂
+@form ~a |LAGAB×IGI@g.ME|
+@ucode x121CB.x12228
+@inote etcsri
+@end form
+@form ~b
+@end sign
+
 @end sign
 
 @sign	|LAGAB.SAG@g|
@@ -16233,6 +16243,8 @@
 @uname	CUNEIFORM SIGN LUGAL
 @ucode	x12217
 @v	ŋušurₓ
+@v	iliₓ
+@inote based on gloss of nur-ili
 @v	%akk/n nūr-ili
 @v	%akk šarru
 @v?	bišeba
@@ -26887,6 +26899,8 @@
 @v	zabalam₂
 @form ~a |ZA.MUŠ₃@g.AB×(U.U.U)|
 @ucode	 x1235D.x1223D.x12014
+@form ~b |ZA.MUŠ₃|
+@ucode	x1235D.x12239
 @end sign
 
 @sign	|ZA.MUŠ₃@g|
@@ -28702,6 +28716,7 @@
 @sign	|IGI@g.IGI@g|
 @ucode	x1214A.x1214A
 @inote epsd2
+@v	immaₓ
 @v	ubriₓ
 @end sign
 
@@ -29680,12 +29695,6 @@
 @ucode x12338.x12000
 @inote etcsri
 @inote variant of URU×A = Arawa
-@end sign
-
-@sign	|LAGAB×IGI@g.ME|
-@ucode x121CB.x12228
-@inote etcsri
-@v	immaₓ
 @end sign
 
 @sign	|EZEN×HAL|
