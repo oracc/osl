@@ -5155,6 +5155,7 @@
 @sign	|EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
 @ucode	x12097.x1227D.x1214A.x12263.x12228.x120AC
 @v	enkum
+@v	isimudₓ
 @form ~a	|EN.PAP.IGI@g.NUN.EZEN×KASKAL|
 @ucode x12097.x1227D.x1214A.x12263.x120AC
 @end sign
@@ -5909,7 +5910,7 @@
 @uphase	0
 @v?	murgišur₂
 @v	šubba
-@v	udnim
+@v	udnimₓ
 @v	unₓ
 @v	uruₓ
 @end sign
