@@ -7901,6 +7901,8 @@
 @uname	CUNEIFORM SIGN GIR2
 @ucode	x12108
 @lit	Krebernik, OBO 160/1, 276
+@v	gaggimₓ
+@v	guggimₓ
 @v	garₓ
 @v	ger₂
 @v	gir₂
@@ -19426,6 +19428,7 @@
 @v	nuska
 @v	nuška
 @v	nusku
+@form ~a |PA.LU|
 @end sign
 
 @sign	|PA.TUK.DU|
@@ -20447,6 +20450,7 @@
 @v	malakumₓ
 @v	%akk/n muhhu
 @v	%akk/n ṣalmu
+@v	ṣalam
 @v	dil₂
 @inote	Attinger
 @v	dul₃
