@@ -4719,6 +4719,7 @@
 @uname	CUNEIFORM SIGN E2
 @ucode	x1208D
 @v	ŋaₓ
+@v	maₓ
 @v	ʾa₃
 @v	aʾ₃
 @v	a₁₄
@@ -11067,6 +11068,8 @@
 @v?	kur₈
 @v	šagar
 @v	šaŋar
+@v	tukurₓ
+@inote tukur[chew] collated from https://cdli.ucla.edu/dl/photo/P231774.jpg
 @form ~a KA
 @v      gu₇⁻
 @inote	Attinger
