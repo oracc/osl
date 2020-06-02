@@ -22179,7 +22179,7 @@
 @v	munuₓ
 @end sign
 
-@sign	|ŠE.SIG₂|
+@sign	|ŠE.SIK₂|
 @ucode x122BA.x122E0
 @v	šitaₓ
 @inote P330957 = ZA 101, 048 6N-T0651 r ii 1
