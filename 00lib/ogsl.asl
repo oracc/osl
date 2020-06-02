@@ -1580,6 +1580,10 @@
 @ucode x12038.x12000.x1202D
 @v	tillaₓ
 @end form
+@form	~c |AŠ.AŠ|
+@ucode x12038.x12038
+@v	tillaₓ
+@end form
 @end sign
 
 @sign	|AN.AŠ@z.AN|
@@ -1766,6 +1770,9 @@
 @end form
 @form ~b LAK239
 @list LAK239
+@end form
+@form ~c LAK240
+@list LAK240
 @end sign
 
 @sign	|ANŠE.AN|
@@ -2856,6 +2863,7 @@
 @v	git₂
 @v	giṭ₂
 @v	guz₂
+@v	ilduₓ
 @v	ildumₓ
 @v	kid₁₀
 @v	kim₃
@@ -5030,6 +5038,7 @@
 @v	enu
 @v	in₄
 @v	ru₁₂
+@v	urₓ
 @v	uru₁₆
 @v	urunₓ
 @form ~a LAK530
@@ -5696,14 +5705,6 @@
 @v	sil₉
 @end sign
 
-@sign	|EZEN×AN|
-@list LAK613
-@uphase	1
-@uname	CUNEIFORM SIGN EZEN TIMES AN
-@ucode	x120A5
-@v	uₓ
-@end sign
-
 @sign	|EZEN×BAD|
 @list HZL114
 @list MZL275
@@ -5728,11 +5729,17 @@
 @v	uk₅
 @v	un₃
 @v?	uq₅
-@end sign
-
-@sign	|EZEN×BAD.AN|
+@form ~a |EZEN×AN|
+@list LAK613
+@uphase	1
+@uname	CUNEIFORM SIGN EZEN TIMES AN
+@ucode	x120A5
+@v	uₓ
+@end form
+@form ~b |EZEN×BAD.AN|
 @ucode	x120A6.x1202D
 @v	%akk/n dūru
+@end form
 @end sign
 
 @sign	|EZEN×DUN₃@g|
@@ -7959,6 +7966,8 @@
 @ucode	x1210A
 @v	anše₂
 @v	anšu₂
+@v	birₓ
+@inote admin/names
 @v	er₉
 @v	ger₃
 @v	gir₃
@@ -9369,6 +9378,7 @@
 @v	šargalₓ
 @v	as₆
 @v	aš₈
+@v	kamₓ
 @v?	šardiš
 @v	šarŋeš
 @v?	umma₂
@@ -9564,6 +9574,7 @@
 @uname	CUNEIFORM SIGN HU
 @ucode	x12137
 @v	deₓ
+@v	reₓ
 @v-	ʾu₅
 @note	This value is rejected as unnecessary in MZL.
 @v	bag
@@ -10172,6 +10183,7 @@
 @sign	|IGI.NAGAR|
 @ucode	x12146.x12244
 @v	ilduₓ
+@form ~a NAGAR
 @end sign
 
 @sign	|IGI.NAGAR.BU|
@@ -11046,6 +11058,7 @@
 @form ~a |KA×GAN₂|
 @inote dcclt !sg
 @end form
+@form ~b |KA×ŠU|
 @end sign
 
 @sign	|KA×GAN₂@t.ŠA|
@@ -11486,6 +11499,7 @@
 @uname	CUNEIFORM SIGN KA TIMES SAR
 @ucode	x1217F
 @v	gukiri
+@v	kaₓ
 @v	ma₈
 @v	mu₁₁
 @form ~a |KA.SAR|
@@ -11519,6 +11533,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KA TIMES SHE
 @ucode	x12181
+@v	buₓ
+@inote uncollated hapax on seal P454750
 @v	šegₓ
 @v	tukur₂
 @v	tukureₓ
@@ -12833,6 +12849,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KISH
 @ucode	x121A7
+@v	erraₓ
 @v	keš
 @v	keše
 @inote	Attinger
@@ -12890,6 +12907,7 @@
 @v	šed₆
 @v	ši₅
 @v	tibₓ
+@v	tibirₓ
 @v	tukul
 @v	tukula
 @v?	tum₅
@@ -14244,6 +14262,8 @@
 @v	tul₂
 @v	ṭul
 @v	ub₄
+@form ~a |LAGAB×TIL|
+@v	pu₂
 @end sign
 
 @sign	|LAGAB×(U.A)|
@@ -15174,6 +15194,7 @@
 @uphase	9
 @ucode	x1250A
 @uname	CUNEIFORM SIGN LAK490
+@v	gaʾurₓ
 @v	gamurₓ
 @end sign
 
@@ -15563,6 +15584,7 @@
 @v	kurₓ
 @v	lil
 @v	sukuₓ
+@v	šaₓ
 @end sign
 
 @sign	LIMMU
@@ -17128,6 +17150,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN MUSH
 @ucode	x12232
+@v	suₓ
 @v	suhₓ
 @v	imdudu
 @v	irhan
@@ -20618,6 +20641,7 @@
 @v	eme₅
 @v	emerah
 @v	lagar₃
+@v	rigₓ
 @v	sukkal₂
 @form	~a |UD.SAL.HUB₂|
 @ucode x12313.x122A9.x12138
@@ -22080,6 +22104,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN TIR
 @ucode	x12301
+@v	ašnanₓ
 @v	dir₄
 @v	ezina₃
 @v	ezinam₃
@@ -23889,6 +23914,7 @@
 @v	kara
 @v	kir₈
 @v	qar₂
+@v	unuₓ
 @end sign
 
 @sign	|TE.AB|
@@ -24033,6 +24059,8 @@
 @inote better as graphic variant of TE@g?
 @v	hu₂
 @v	huduš
+@v	kuₓ
+@v	kurₓ
 @v	martu [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29]
 @inote	salgues
 @v	martum [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29]
@@ -25843,6 +25871,7 @@
 @sign	|UR₂×A|
 @uphase	0
 @v	arinaₓ
+@v	urumₓ
 @end sign
 
 @sign	|UR₂×(A.HA)|
@@ -26960,6 +26989,8 @@
 @v	ad₄
 @v	addaₓ
 @v	addu₄
+@form ~a |GAM.GAM|
+@v	ad₄
 @end sign
 
 @sign	ZA₇
