@@ -11088,6 +11088,7 @@
 @v	tukurₓ
 @inote tukur[chew] collated from https://cdli.ucla.edu/dl/photo/P231774.jpg
 @form ~a KA
+@v	gu₇
 @v      gu₇⁻
 @inote	Attinger
 @end form
