@@ -22607,6 +22607,7 @@
 @v	reg
 @v	rek
 @v	req
+@v	sem
 @v	rig
 @v	rik
 @v	riq
