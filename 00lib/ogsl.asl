@@ -2372,6 +2372,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN BAD
 @ucode	x12041
+@v	bilgaₓ
+@inote etscri
 @v	ba₉
 @v	bad
 @v	bada
@@ -24739,6 +24741,8 @@
 @list SLLHA447
 @list KWU511
 @ucode	x1230B.x12313
+@v	niŋarₓ
+@inote etcsri
 @v	nigin₄
 @v	niŋin₄
 @v?	nim₃
@@ -29729,9 +29733,10 @@
 @end sign
 
 @sign	|EZEN×HAL|
+@v	ubₓ
 @inote etcsri
-@inote admin/names
 @v	ugₓ
+@inote admin/names
 @end sign
 
 @sign	|E.PAP.PAP|
