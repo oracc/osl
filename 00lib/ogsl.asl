@@ -2372,7 +2372,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN BAD
 @ucode	x12041
-@v	bilgaₓ
+@v	baragₓ
 @inote etscri
 @v	ba₉
 @v	bad
@@ -8163,7 +8163,9 @@
 @uphase	1
 @uname	CUNEIFORM SIGN GISH
 @ucode	x12111
-@v	%akk iṣu
+@v	bilgaₓ
+@inote etcsri
+@v	%akk/n iṣu
 @v	es
 @v	eš₁₉
 @v	eṣ
