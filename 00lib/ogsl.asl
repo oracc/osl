@@ -30152,3 +30152,14 @@
 @list RSP069
 @end sign
 
+@sign |GUD×KASKAL|
+@inote epsd2/royal
+@end sign
+
+@sign |EZEN×KUR|
+@inote epsd2/royal
+@end sign
+
+@sign |ŠAR₂×GAD|
+@inote epsd2/royal
+@end sign
