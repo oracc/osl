@@ -2020,6 +2020,8 @@
 @v	ṭil
 @v	zuₓ
 @v	1(aš)
+@v	1(iku)
+@inote notation {mul}1(IKU){gana₂} in cams/gkab
 @form ~c AŠ@c
 @ucode	xeb80
 @v	aš@c
