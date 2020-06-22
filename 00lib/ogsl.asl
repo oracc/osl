@@ -18901,8 +18901,8 @@
 @v	agargara
 @v	aŋarŋara
 @v	%akk nappilu
-@v?	garₓ
-@inote	No
+@v	garₓ
+@inote	see a-garₓ(NUN@t)-garₓ(NUN@t){ku₆} in Home of the Fish
 @end sign
 
 @sign	|NUN@t.KI|
@@ -24533,6 +24533,9 @@
 @v	uia
 @v	uya
 @v 	udilia
+@form ~a 15
+@v    sarₓ
+@inote hack for eCUT
 @end sign
 
 @sign	|U.KA|
