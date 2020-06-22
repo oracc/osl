@@ -17196,6 +17196,7 @@
 @form ~d |MUŠ.DIN.BALAG|
 @ucode x12232.x12077.x12046
 @form ~e |MUŠ@90.MUŠ@90|
+@form ~f |MUŠ.IR.HA.DIN.BALAG|
 @end sign
 
 @sign	|MUŠ.ŠA|
