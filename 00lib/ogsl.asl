@@ -30169,3 +30169,7 @@
 @sign |ŠAR₂×GAD|
 @inote epsd2/royal
 @end sign
+
+@sign |LAGAB×GAL|
+@inote Lagash Riddles
+@end sign
