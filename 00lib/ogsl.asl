@@ -287,7 +287,7 @@
 @v	buniŋₓ
 @v	buninₓ
 @v	guninₓ
-@inote	Attinger
+@inote	Attinger ~ buniŋₓ
 @v	iₓ
 @v	idₓ
 @end sign
@@ -684,9 +684,9 @@
 @v	ti₈
 @form ~a DA
 @v      a₂⁻
-@inote	Attinger
+@inote	Attinger ~ a₂
 @v	te₈⁻
-@inote	Attinger
+@inote	Attinger ~ te₈
 @end form
 @end sign
 
@@ -905,7 +905,7 @@
 @v	našše
 @v	nazi
 @v	niŋen₆
-@inote	Attinger
+@inote	Attinger ~ niŋin₆
 @v	nigin₆
 @v	niŋin₆
 @v	nina
@@ -1020,9 +1020,9 @@
 @v	uruk
 @form ~a AB
 @v      unu⁻
-@inote	Attinger
+@inote	Attinger ~ unu
 @v	unug⁻
-@inote	Attinger
+@inote	Attinger ~ unug
 @end form
 @end sign
 
@@ -1128,7 +1128,7 @@
 @v	kir₆
 @v	qir₆
 @v	sem₅
-@inote	Attinger
+@inote	Attinger ~ šem₅
 @v	šem₅
 @v	ub₇
 @inote	Attinger
@@ -1160,7 +1160,7 @@
 @v	libiš
 @v	lipiš
 @v	sem₃
-@inote	Attinger
+@inote	Attinger ~ šem₃
 @v	šagₓ
 @v	šem₃
 @v	ub₃
@@ -1762,11 +1762,11 @@
 @v	anšu
 @v	sumugan
 @v	šagan₂
-@inote	Attinger
+@inote	Attinger ~ šakan₃
 @v	šakan₃
 @form ~a KIŠ
 @v      anše⁻
-@inote	Attinger
+@inote	Attinger ~ anše
 @end form
 @form ~b LAK239
 @list LAK239
@@ -1807,7 +1807,7 @@
 @ucode	x12032.x121B3.x1228F
 @v	sisi
 @v	zizi
-@inote	Attinger
+@inote	Attinger ~ sisi
 @form ~a |ANŠE.KUR|
 @ucode	x12032.x121B3
 @end form
@@ -1900,7 +1900,7 @@
 @v	irda
 @v	[...]ki
 @v	ninta₂
-@inote	Attinger
+@inote	Attinger ~ nita₂
 @v	nintah₂
 @v	nita₂
 @v	nitah₂
@@ -2876,7 +2876,7 @@
 @v	madla
 @v	madlu
 @v	madul
-@inote	Attinger
+@inote	Attinger ~ mudul
 @v	malla
 @v	mudla
 @v	mudlu
@@ -3039,7 +3039,7 @@
 @v	bul₂
 @v	bulug₂
 @v	buluŋ₂
-@inote	Attinger
+@inote	Attinger ~ bulug₂
 @v	bur₂
 @v	buru₂
 @v	du₉
@@ -3395,7 +3395,7 @@
 @v	hara₅
 @v	harub
 @v	haruba
-@inote	Attinger
+@inote	Attinger ~ harub
 @v	keš₉
 @v	kisim
 @v	kiši₉
@@ -3469,7 +3469,7 @@
 @v	daₓ
 @v	dar
 @v	dara₆
-@inote	Attinger
+@inote	Attinger ~ dar
 @v?	daš₄
 @v	dir₂
 @v	guₓ
@@ -3520,7 +3520,7 @@
 @v	nina₂
 @v	ninnaₓ
 @v	tara₄
-@inote	Attinger
+@inote	Attinger ~ dara₄
 @v	tarahₓ
 @v	ua₂
 @v	u₁₀
@@ -3977,7 +3977,7 @@
 @uname	CUNEIFORM SIGN DU OVER DU
 @ucode	x1207B
 @v	er₁₄
-@inote	Attinger
+@inote	Attinger ~ re₇
 @v?	la₄
 @v	lah₄
 @v	laha₄
@@ -4026,7 +4026,7 @@
 @v	šuhuš
 @form ~a DU
 @v      suhuš⁻
-@inote	Attinger
+@inote	Attinger ~ suhuš
 @end form
 @end sign
 
@@ -4073,11 +4073,11 @@
 @v	barim⁻
 @inote	Attinger
 @v      gir₅⁻
-@inote	Attinger
+@inote	Attinger ~ gir₅
 @v	im₂⁻
-@inote	Attinger
+@inote	Attinger ~ im₂
 @v	kaš₄⁻
-@inote	Attinger
+@inote	Attinger ~ kaš₄
 @end form
 @end sign
 
@@ -4499,7 +4499,7 @@
 @v	sul
 @v	šah₂
 @v	šaha₂
-@v	Attinger
+@v	Attinger ~ šah₂
 @v	šahan₃
 @v	šul
 @v	tun₄
@@ -4543,11 +4543,11 @@
 @v	ṭu
 @form ~a DUN₃@g
 @v      du₅⁺
-@inote	Attinger
+@inote	Attinger ~ du₅
 @v	dun₃⁺
-@inote	Attinger
+@inote	Attinger dun₃
 @v	tun₃⁺
-@inote	Attinger
+@inote	Attinger tun₃
 @end form
 @end sign
 
@@ -4818,7 +4818,7 @@
 @ucode	x1208D.x122DE
 @v	egar
 @v	eŋar
-@inote	Attinger
+@inote	Attinger ~ egar
 @v	igar
 @v	ingar
 @end sign
@@ -4828,7 +4828,7 @@
 @v	esagₓ
 @v	esaŋₓ
 @v	asaŋ
-@inote	Attinger
+@inote	Attinger ~ esaŋₓ
 @end sign
 
 @sign	|E₂.UŠ.BU.DA|
@@ -5856,7 +5856,7 @@
 @v	silₓ
 @form ~a EZEN
 @v      asila⁻
-@inote	Attinger
+@inote	Attinger ~ asila
 @end form
 @end sign
 
@@ -6102,7 +6102,7 @@
 @v	alba
 @v	ba₄
 @v	bešeŋ
-@inote	Attinger
+@inote	Attinger ~ bisaŋ
 @v	bisag
 @v	bisaŋ
 @v	bisan
@@ -6896,7 +6896,7 @@
 @v	arah₃
 @v	asagₓ
 @v	ašaŋ₂
-@inote	Attinger
+@inote	Attinger ~ esaŋ₂
 @v	esag₂
 @v	esaŋ₂
 @v	usi
@@ -7263,7 +7263,7 @@
 @ucode	x120F2.x1233A
 @v	kingal
 @v	kiŋgal
-@inote	Attinger
+@inote	Attinger ~ kingal
 @end sign
 
 @sign	|GAL.MUG@g|
@@ -7348,7 +7348,7 @@
 @v	qan
 @v	sag₇
 @v	saga₇
-@inote	Attinger
+@inote	Attinger ~ sag₇
 @v	seg₁₆
 @v	sig₁₆
 @end sign
@@ -7479,16 +7479,16 @@
 @v	nigiₓ
 @v	niŋ₂
 @v	niŋdanₓ
-@inote	Attinger
+@inote	Attinger ~ nindan
 @v	niŋdanaₓ
-@inote	Attinger
+@inote	Attinger ~ nindan
 @v	nik₂
 @v	nim₅
 @v	nin₆
 @v	ninda
 @v	nindan
 @v	nindanaₓ
-@inote	Attinger
+@inote	Attinger ~ nindan
 @v	ninni₃
 @v	niq₂
 @v	niqiₓ
@@ -7891,7 +7891,7 @@
 @ucode	x1222A.x1226D
 @v	ge₁₇
 @v	geg
-@inote	Attinger
+@inote	Attinger ~ gig
 @v	gi₁₇
 @v	gib₃
 @v	gig
@@ -7983,7 +7983,7 @@
 @v	imeriₓ
 @v	ir₉
 @v	irra
-@inote	Attinger
+@inote	Attinger ~ ir₉
 @v	kir₁₀
 @v?	kiri₅
 @v	merₓ
@@ -8053,7 +8053,7 @@
 @v	alima
 @form ~a KIŠ
 @v      alim⁻
-@inote	Attinger
+@inote	Attinger ~ alim
 @end form
 @end sign
 
@@ -8073,7 +8073,7 @@
 @v	irₓ
 @form ~a KIŠ
 @v   	giri₁₆⁻
-@inote	Attinger
+@inote	Attinger ~ giri₁₆
 @end form
 @end sign
 
@@ -8286,9 +8286,9 @@
 @v	gissu
 @v	gizzu
 @v	ŋessu
-@inote	Attinger
+@inote	Attinger ~ ŋissu
 @v	ŋessun
-@inote	Attinger
+@inote	Attinger ~ ŋissu
 @v	ŋissu
 @v?	luhumₓ
 @v	luhummu
@@ -8766,7 +8766,7 @@
 @ucode	x1211E
 @v	%akk alpu
 @v	aštub
-@inote	Attinger
+@inote	Attinger ~ eštub
 @v	alap
 @v	bahar
 @v	dapar
@@ -8844,7 +8844,7 @@
 @v	ama₂
 @v	ildag₃
 @v	eldig
-@inote	Attinger
+@inote	Attinger ~ ildag₃
 @end sign
 
 @sign	|(GUD×KUR₂)&(GUD×KUR₂)|
@@ -8907,7 +8907,7 @@
 @v?	gas₂
 @v	gaz₂
 @v	gaz⁻
-@inote	Attinger
+@inote	Attinger ~ gaz
 @v	gu₈
 @v	gum
 @v	kas₆
@@ -9056,7 +9056,7 @@
 @v	peš₁₁
 @form ~a HA@g
 @v      ha⁺
-@inote	Attinger
+@inote	Attinger ~ ha
 @end form
 @end sign
 
@@ -9116,11 +9116,11 @@
 @v	šegₓ
 @form ~a HA
 @v      gir⁻
-@inote	Attinger
+@inote	Attinger ~ gir
 @v	kir⁻
-@inote	Attinger
+@inote	Attinger ~ kir
 @v	peš⁻
-@inote	Attinger
+@inote	Attinger ~ peš
 @end form
 @end sign
 
@@ -10092,7 +10092,7 @@
 @v	sa₁₃
 @v	sag₁₀
 @v	saga₁₀
-@inote	Attinger
+@inote	Attinger ~ sag₁₀
 @note	The value saga was a coinage created for the CDLI Ur III corpus; now sag₁₀
 @v	seg₅
 @v	sig₅
@@ -10195,7 +10195,7 @@
 @sign	|IGI.NAGAR.BU|
 @ucode	x12146.x12244.x1204D
 @v	dulum
-@inote	Attinger
+@inote	Attinger ~ ildum₂
 @v	ildu₂
 @v	ildum₂
 @v	ilduma₂
@@ -10328,7 +10328,7 @@
 @v	ukdin
 @v	uktin
 @v	uktim
-@inote	Attinger
+@inote	Attinger ~ uktin
 @v	uludim₂
 @v	uludin₂
 @v	ulutim₂
@@ -10382,7 +10382,7 @@
 @v	hirinₓ
 @v	gaŋₓ
 @v	dubsig
-@inote	Attinger
+@inote	Attinger ~ dubsik
 @v	dubsik
 @v	dupsik
 @v	dusi
@@ -10518,7 +10518,7 @@
 @sign	|IM.SI.A|
 @ucode	x1214E.x122DB.x12000
 @v	duggu
-@inote	Attinger
+@inote	Attinger ~ dungu
 @v	dungaₓ
 @v	dungu
 @end sign
@@ -12402,7 +12402,7 @@
 @v	hirim
 @v	hirin
 @v	hurin
-@inote	Attinger
+@inote	Attinger ~ hirin
 @v	kankal
 @v	karaš₂
 @v	kikla
@@ -12819,7 +12819,7 @@
 @v	bur₆
 @v?	dag₄
 @v	ŋepar
-@inote	Attinger
+@inote	Attinger ~ ŋiparₓ
 @v	kisal
 @v	par₄
 @v?	lel₄
@@ -12859,11 +12859,11 @@
 @v	erraₓ
 @v	keš
 @v	keše
-@inote	Attinger
+@inote	Attinger ~ keš
 @v	kis
 @v	kiš
 @v	kiše
-@inote	Attinger
+@inote	Attinger ~ kiš
 @v	kiši
 @v	kiṣ
 @v	qis
@@ -12994,7 +12994,7 @@
 @v	ehₓ
 @v	ehehhe
 @v	eheh
-@inote	Attinger
+@inote	Attinger ~ ehehhe
 @end sign
 
 @sign	|KU.NU|
@@ -13034,7 +13034,7 @@
 @v	asaₓ
 @v	asag
 @v	aza₂
-@inote	Attinger
+@inote	Attinger ~ azag
 @v	azag
 @v	azak
 @end sign
@@ -13187,7 +13187,7 @@
 @ucode	x121B2
 @v	ku₁₄
 @v	kuŋ₂
-@inote	Attinger
+@inote	Attinger ~ kun
 @v	kun
 @v	kunu
 @v	megidaₓ [OB Nippur Ura 3 = Q000001 385]
@@ -13380,7 +13380,7 @@
 @v	ellag
 @v	ellaŋ
 @v	gerin
-@inote	Attinger
+@inote	Attinger ~ girin
 @v	gil₂
 @v	gili₂
 @v	gir₈
@@ -13415,7 +13415,7 @@
 @v	nigin₂
 @v	niŋi₂
 @v	niŋen₂
-@inote	Attinger
+@inote	Attinger ~ niŋin₂
 @v	niŋin₂
 @v	nimen₂
 @v	nin₄
@@ -13463,7 +13463,7 @@
 @v	nigi
 @v	nigin
 @v	niŋen
-@inote	Attinger
+@inote	Attinger ~ niŋin
 @v	niŋin
 @v	nimenₓ
 @v	nin₃
@@ -13686,7 +13686,7 @@
 @uname	CUNEIFORM SIGN LAGAB TIMES BAD
 @ucode	x121C0
 @v	dulₓ
-@inote	Attinger
+@inote	Attinger ~ tul₈
 @v	gigir
 @v	gigira
 @v	pu₆
@@ -15407,7 +15407,7 @@
 @ucode	x121F3.x121B8
 @v	nanga
 @v	niŋen₅
-@inote	Attinger
+@inote	Attinger ~ niŋin₆
 @v	nigin₅
 @v	niŋin₅
 @v	nimen
@@ -15710,7 +15710,7 @@
 @v	guggal
 @v	gukkal
 @v	kuŋgala
-@inote	Attinger
+@inote	Attinger ~ gukkal
 @v	kungal
 @end sign
 
@@ -16185,7 +16185,7 @@
 @inote CDLI
 @v	dim₃
 @v	irina₃
-@inote	Attinger
+@inote	Attinger ~ rin₅
 @v	ri₉
 @v	rin₅
 @v?	ug₈
@@ -16723,7 +16723,7 @@
 @ucode	x12226.x12097.x12195
 @v	mašda₂
 @v	mašgagen
-@inote	Attinger
+@inote	Attinger ~ mašda₂
 @end sign
 
 @sign	|MAŠ.GU₂.GAR₃|
@@ -16920,9 +16920,9 @@
 @v?	ga₁₂
 @v	ge₆
 @v	geg₂
-@inote	Attinger
+@inote	Attinger ~ gig₂
 @v	gegge
-@inote	Attinger
+@inote	Attinger ~ giggi
 @v	gi₆
 @v	gig₂
 @v	giggi
@@ -17124,13 +17124,13 @@
 @v?	eŋir₆
 @v	lumₓ
 @v	ŋur₂₄
-@inote	Attinger
+@inote	Attinger ~ mur₇
 @v	ŋurgu₂
-@inote	Attinger
+@inote	Attinger ~ murgu₂
 @v	mur₇
-@v	mur₈
 @v	murgu₂
 @form ~a SIG₄
+@v	mur₈
 @inote for nu-mur₈(SIG₄) in ED Metals 50/51; is that really sumur[roof]?
 @end sign
 
@@ -17320,7 +17320,7 @@
 @v	sedi₆
 @v?	suba₄
 @v	subi₄
-@inote	Attinger
+@inote	Attinger ~ šuba₄
 @v	suh₁₀
 @v	suku₆
 @v	sukud₃
@@ -17375,7 +17375,7 @@
 @form ~a	|A.MUŠ₃|
 @ucode	x12000.x12239
 @v	se₂₄
-@inote	Attinger
+@inote	Attinger ~ še₁₂
 @v	sed₃
 @v	sedi₃
 @v	še₁₂
@@ -17384,7 +17384,7 @@
 @form ~b	|A.MUŠ₃.DI|
 @ucode	x12000.x12239.x12072
 @v	amagea
-@inote	Attinger
+@inote	Attinger ~ amagi₂
 @v	amagi₂
 @v	halba₆
 @v	halbi₆
@@ -17486,15 +17486,15 @@
 @v	inšušinak
 @v	susan
 @v	susin
-@inote	Attinger
+@inote	Attinger ~ šušin
 @v	susina
-@inote	Attinger
+@inote	Attinger ~ šušin
 @v	šušin
 @v	šušina
 @v	šušinak
 @v	šušum
 @v	šušun
-@inote	Attinger
+@inote	Attinger ~ šušum
 @form	~a |MUŠ₃.ŠEŠ₂|
 @ucode x12239.x122C1
 @v	šušin [ED Cities = dcclt:Q000035 30]
@@ -17511,7 +17511,7 @@
 @v	subₓ
 @v	suba₃
 @v	subi₃
-@inote	Attinger
+@inote	Attinger ~ šuba₃
 @v	šuba₃
 @form ~a |MUŠ₃.ZA₇|
 @ucode x12239.x12546
@@ -17607,7 +17607,7 @@
 @ucode	x1223F
 @v	daramₓ
 @v	ŋešnu₃
-@inote	Attinger
+@inote	Attinger ~ nud
 @v	na₂
 @v	nad₃
 @v	ne₇
@@ -17728,14 +17728,14 @@
 @v	nagar
 @v	nagara
 @v	naŋar
-@inote	Attinger
+@inote	Attinger ~ nagar
 @v?	niminₓ
 @end sign
 
 @sign	|NAGAR.BU|
 @ucode	x12244.x1204D
 @v	dulum₂
-@inote	Attinger
+@inote	Attinger ~ ildum₃
 @v	ildu₃
 @v	ildum₃
 @v	ilduma₃
@@ -19324,7 +19324,7 @@
 @form ~a |PA.GU₂×NUN|
 @ucode	x1227A.x1211B
 @v      musubₓ
-@inote	Attinger
+@inote	Attinger ~ munsubₓ
 @end form
 @end sign
 
@@ -19349,7 +19349,7 @@
 @v	hamanzer
 @v	sab
 @v	saba
-@inote	Attinger
+@inote	Attinger ~ sab
 @v	sap
 @v	sip₄
 @v	sipa₂
@@ -19432,7 +19432,7 @@
 @ucode	x1227A.x122BA
 @v	isin
 @v	isina
-@inote	Attinger
+@inote	Attinger ~ isin
 @v	išin
 @end sign
 
@@ -19557,7 +19557,7 @@
 @ucode	x1227B.x1202D.x12239
 @v	nidba
 @v	niŋdaba
-@inote	Attinger
+@inote	Attinger ~ nindaba
 @v	nindaba
 @v	ninni₇
 @v	ninnim₇
@@ -19567,7 +19567,7 @@
 @ucode	x1227B.x12239
 @v	nidba₂
 @v	niŋdaba₂
-@inote	Attinger
+@inote	Attinger ~ nindabaₓ
 @v	nindabaₓ
 @v	ninniₓ
 @v	ninnimₓ
@@ -19931,7 +19931,7 @@
 @sign	|PIRIG.TUR|
 @ucode	x1228A.x12309
 @v	nemur₂
-@inote	Attinger
+@inote	Attinger ~ nimurₓ
 @v	nimurₓ
 @end sign
 
@@ -20528,7 +20528,7 @@
 @v	keš₄
 @v	keše₄
 @v	kiše₄
-@inote	Attinger
+@inote	Attinger ~ kiši₄
 @v	kiši₄
 @end sign
 
@@ -20561,7 +20561,7 @@
 @v	f
 @v	gal₄
 @v	galla₄
-@inote	Attinger
+@inote	Attinger ~ gal₄
 @v	gambiₓ
 @v	ŋal₄
 @v	kal₄
@@ -20834,13 +20834,13 @@
 @v	gidlam₄
 @v	gitlam₄
 @v	ŋešdan₄
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₄
 @v	ŋešdana₄
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₄
 @v	ŋeštan₄
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₄
 @v	ŋeštana₄
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₄
 @v	ŋidlam₄
 @v	nidalam₄
 @v	nidlam₄
@@ -20857,13 +20857,13 @@
 @v	gidlam
 @v	gitlam
 @v	ŋešdan
-@inote	Attinger
+@inote	Attinger ~ ŋidlam
 @v	ŋešdana
-@inote	Attinger
+@inote	Attinger ~ ŋidlam
 @v	ŋeštan
-@inote	Attinger
+@inote	Attinger ~ ŋidlam
 @v	ŋeštana
-@inote	Attinger
+@inote	Attinger ~ ŋidlam
 @v	ŋidlam
 @v	ŋitlam
 @v	mada
@@ -20886,7 +20886,7 @@
 @ucode x122A9.x12351.x12072.x121A4
 @v	gambi
 @v	gaiₓ
-@inote	Attinger
+@inote	Attinger ~ gambi
 @end form
 @form	~b |SAL.UŠ.KID|
 @ucode x122A9.x12351.x121A4
@@ -20895,7 +20895,7 @@
 @form	~c |SAL.UŠ.DI.E₂|
 @ucode x122A9.x12351.x12072.x1208D
 @v	gaiₓ
-@inote	Attinger
+@inote	Attinger ~ gambi
 @end form
 @form 	~d |SAL.DI.UŠ|
 @ucode x122A9.x12072.x12351
@@ -21188,7 +21188,7 @@
 @v	ŋur₂₃
 @inote	Attinger
 @v	ŋurgu
-@inote	Attinger
+@inote	Attinger ~ murgu
 @v	kulla
 @v	kulluₓ
 @v	murgu
@@ -21531,9 +21531,9 @@
 @v	šidaₓ
 @v	šita₃
 @v	šitan
-@inote	Attinger
+@inote	Attinger ~ šita₃
 @v	šiten
-@inote	Attinger
+@inote	Attinger ~ šita₃
 @v	šušu
 @v	zusu
 @end sign
@@ -21764,7 +21764,7 @@
 @v	ber₇
 @v	bir₇
 @v	isla
-@inote	Attinger
+@inote	Attinger ~ išla
 @v	isli [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 35']
 @inote	salgues
 @v?	iškila
@@ -21895,7 +21895,7 @@
 @v	ŋešimmar
 @v	ŋešnimbar
 @v	ŋešninbar
-@inote	Attinger
+@inote	Attinger ~ ŋešnimbar
 @v	ŋišimmar
 @v	ŋišnimbar
 @v	had₃
@@ -22041,7 +22041,7 @@
 @sign	|ŠE.HU.TUR|
 @ucode	x122BA.x12137.x12309
 @v	bebad
-@inote	Attinger
+@inote	Attinger ~ bibad
 @v	bibad
 @v	bibe
 @end sign
@@ -22116,7 +22116,7 @@
 @v	dir₄
 @v	ezina₃
 @v	ezinam₃
-@inote	Attinger
+@inote	Attinger ~ ezina₃
 @v	ezinu₃
 @v	gamun₂
 @v	ninni₈
@@ -22220,9 +22220,9 @@
 @v	ezin₂
 @v	ezina₂
 @v	ezinam₂
-@inote	Attinger
+@inote	Attinger ~ ezina₂
 @v	ezinan₂
-@inote	Attinger
+@inote	Attinger ~ ezina₂
 @v	ezinu₂
 @end sign
 
@@ -22454,7 +22454,7 @@
 @v	elal₂
 @v	gir₁₃
 @v	giri₁₃
-@inote	Attinger
+@inote	Attinger ~ gir₁₃
 @v	gud₉
 @v	ka₉
 @v	kas₇
@@ -22601,7 +22601,7 @@
 @v	asilal₂
 @v	asilla₂
 @v	babir₂
-@inote	Attinger
+@inote	Attinger ~ bappir₂
 @v	bappir₂
 @v	bappira₂
 @v	lumgi
@@ -22711,7 +22711,7 @@
 @uname	CUNEIFORM SIGN SHIM TIMES GAR
 @ucode	x122CB
 @v	babir
-@inote	Attinger
+@inote	Attinger ~ bappir
 @v	bappir
 @v	bappira
 @v	birₓ
@@ -22826,7 +22826,7 @@
 @uname	CUNEIFORM SIGN SHINIG
 @ucode	x122D2
 @v	šeneg
-@inote	Attinger
+@inote	Attinger ~ šinig
 @v	šinig
 @form ~a |GAD.NAGA|
 @ucode x120F0.x12240
@@ -22846,7 +22846,7 @@
 @uname	CUNEIFORM SIGN SHIR
 @ucode	x122D3
 @v	ašgi₂
-@inote	Attinger
+@inote	Attinger ~ aš₇
 @v	as₅
 @v	aš₇
 @v-	gasaₓ
@@ -23424,7 +23424,7 @@
 @ucode	x122DA
 @v?	sah₂
 @v	saha
-@inote	Attinger
+@inote	Attinger ~ šah
 @v	sih
 @v	subar
 @v	subir
@@ -23943,7 +23943,7 @@
 @sign	|TE.LAL|
 @ucode	x122FC.x121F2
 @v	ŋulla
-@inote	Attinger
+@inote	Attinger ~ gulla
 @v	gal₅-la
 @v	galla
 @v	galu
@@ -23978,7 +23978,7 @@
 @v	gura₈
 @v	guru₈
 @v	maru
-@inote	Attinger
+@inote	Attinger ~ ru₁₀
 @v	qurₓ
 @v	qur₈
 @inote CDLI
@@ -24011,7 +24011,7 @@
 @v	di₃
 @v	te₉
 @v	tel₃
-@inote	Attinger
+@inote	Attinger ~ til₃
 @v	teŋ₄
 @v	ti
 @v-	tibnu
@@ -24100,7 +24100,7 @@
 @v	azalag₂
 @v	azlag₂
 @v	dašgari
-@inote	Attinger
+@inote	Attinger ~ taškarin
 @v	dul₅
 @v	i₆
 @v	mu₄
@@ -24112,7 +24112,7 @@
 @v	tiškarini
 @v	tu₉
 @v	tuba₄
-@inote	Attinger
+@inote	Attinger ~ tug₂
 @v	tug₂
 @v	tuk₂
 @v	tuku₂
@@ -24182,7 +24182,7 @@
 @v	eger₄
 @v	egir₄
 @v	egur₄
-@inote	Attinger
+@inote	Attinger ~ egir₄
 @v	ep₂
 @v	geškadₓ
 @v	giškadₓ
@@ -24231,7 +24231,7 @@
 @v	banda₃
 @v	damu
 @v	de₁₀
-@inote	Attinger
+@inote	Attinger ~ di₄
 @v	di₄
 @v	du₁₃
 @v	dumₓ
@@ -24776,7 +24776,7 @@
 @v	niŋar
 @v	niŋin₃
 @v	nimar
-@inote	Attinger
+@inote	Attinger ~ niŋar
 @v?	nimgin₃
 @v	ningin₃
 @end sign
@@ -25113,7 +25113,7 @@
 @v	siki₂
 @v	šamaš
 @v	šara₉
-@inote	Attinger
+@inote	Attinger ~ šarag
 @v	šarag
 @v	ta₅
 @v	tam
@@ -25226,7 +25226,7 @@
 @v	burununa
 @v	sippar
 @v	zibbir
-@inote	Attinger
+@inote	Attinger ~ zimbir
 @v	zimbir
 @form	~a |UD.(GIŠ%GIŠ)@g.AN|
 @v	zimbir [ED Word List F = dcclt:Q000268 55]
@@ -26216,7 +26216,7 @@
 @v	erimmaₓ
 @v	erin₃
 @v	irimma
-@inote	Attinger
+@inote	Attinger ~ erim₃
 @end sign
 
 @sign	|URU×GU|
@@ -26346,7 +26346,7 @@
 @v?	gal₃
 @v	gišgal
 @v	ŋešgal
-@inote	Attinger
+@inote	Attinger ~ ŋišgal
 @v	ŋišgal
 @v	lu₇
 @v	qal₃
@@ -26475,7 +26475,7 @@
 @v	banšur
 @v	banšura
 @v	pansur
-@inote	Attinger
+@inote	Attinger ~ banšur
 @v	panšur
 @v	silig₅
 @v	šilig₅
@@ -26629,13 +26629,13 @@
 @v	gidlam₂
 @v	gitlam₂
 @v	ŋešdan₂
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₂
 @v	ŋešdana₂
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₂
 @v	ŋeštan₂
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₂
 @v	ŋeštana₂
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₂
 @v	ŋidlam₂
 @v	ŋitlam₂
 @v	madaₓ
@@ -26675,13 +26675,13 @@
 @v	gidlam₃
 @v	gitlam₃
 @v	ŋešdan₃
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₃
 @v	ŋešdana₃
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₃
 @v	ŋeštan₃
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₃
 @v	ŋeštana₃
-@inote	Attinger
+@inote	Attinger ~ ŋidlam₃
 @v	ŋidlam₃
 @v	nidalam₃
 @v	nidlam₃
@@ -26829,7 +26829,7 @@
 @v	širu
 @v	širum
 @v	usu₃
-@inote	Attinger
+@inote	Attinger ~ uzu
 @v	uzu
 @form ~a UZU@90 [OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7]
 @v	uzu@90
@@ -26867,7 +26867,7 @@
 @v	za
 @v	zagga₂
 @v	ze₄
-@inote	Attinger
+@inote	Attinger ~ za
 @end sign
 
 @sign	|ZA.AN.MUŠ₃@g|
@@ -26921,7 +26921,7 @@
 @v	halbaₓ
 @v	suba₂
 @v	subi₂
-@inote	Attinger
+@inote	Attinger ~ šuba₂
 @v	šub₈
 @v	šuba₂
 @v	šubuₓ
@@ -27345,7 +27345,7 @@
 @ucode	x1236E
 @v	garig
 @v	gariŋ₂
-@inote	Attinger
+@inote	Attinger ~ garig
 @v-	gazum₂
 @note	read garig instead of gazum
 @v	hal₂
