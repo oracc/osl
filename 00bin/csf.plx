@@ -30,7 +30,7 @@ sub compute_csfs {
     my %nonum = ();
     foreach my $v (@v) {
 	my $vn = $v; $vn =~ tr/₀-₉ₓ//d;
-	$nonum{$vn} = $v;
+	$nonum{$vn} = $v unless $nonum{$vn};
     }
     foreach my $v (keys %nonum) {
 	my $vs = $v; $vs =~ s/.$//;
