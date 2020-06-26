@@ -35,12 +35,12 @@ sub compute_csfs {
     foreach my $v (keys %nonum) {
 	my $vs = $v; $vs =~ s/.$//;
 	if ($nonum{$vs}) {
-	    print C "$nonum{$vs}\t$nonum{$v}\n";
+	    print C "$nonum{$v}\t$nonum{$vs}\n";
 	} else {
 	    $vs = $v;
 	    if ($vs =~ s/^(.[aeiu]).[aeiu](.)$/$1$2/) {
 		if ($nonum{$vs}) {
-		    print C "$nonum{$vs}\t$nonum{$v}\n";
+		    print C "$nonum{$v}\t$nonum{$vs}\n";
 		}
 	    }
 	}
