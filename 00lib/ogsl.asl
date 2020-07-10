@@ -6183,6 +6183,7 @@
 @v	/damal/
 @v	eme₄
 @v	hegal
+@v	heŋal
 @v	imi₂
 @v	maₓ
 @v	šaganₓ
@@ -6377,6 +6378,7 @@
 @ucode	x120C6
 @v	emedub
 @v	gadub
+@v	ŋadub
 @end sign
 
 @sign	|GA₂×(DUG×IGI@g)|
@@ -8499,6 +8501,8 @@
 @ucode	x12113
 @v	gešhar
 @v	gišhar
+@v	ŋešhur
+@v	ŋešhar
 @v	ziz₄
 @end sign
 
