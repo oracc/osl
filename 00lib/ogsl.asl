@@ -4499,7 +4499,7 @@
 @v	sul
 @v	šah₂
 @v	šaha₂
-@v	Attinger ~ šah₂
+@inote	Attinger ~ šah₂
 @v	šahan₃
 @v	šul
 @v	tun₄
