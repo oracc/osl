@@ -17134,8 +17134,13 @@
 @v	mur₇
 @v	murgu₂
 @form ~a SIG₄
+@v	ŋur₂₃
+@inote	Attinger
+@v	ŋurgu
+@inote	Attinger ~ murgu
 @v	mur₈
 @inote for nu-mur₈(SIG₄) in ED Metals 50/51; is that really sumur[roof]?
+@v	murgu
 @end sign
 
 @sign	MURUB₄
@@ -21189,13 +21194,8 @@
 @v	gar₈
 @v	gara₈
 @v	ŋar₈
-@v	ŋur₂₃
-@inote	Attinger
-@v	ŋurgu
-@inote	Attinger ~ murgu
 @v	kulla
 @v	kulluₓ
-@v	murgu
 @v	seg₄
 @v	sig₄
 @v	še₂₇
