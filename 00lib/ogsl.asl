@@ -4950,6 +4950,8 @@
 @v	ru₆
 @form ~a |GA.HI×AŠ₂.BUR|
 @form ~b |GA.PAP.U@g.DIŠ|
+@form ~c |E₂.PAP.GAŠAN.DIŠ|
+@form ~d |GA.HI×AŠ₂.GAŠAN.DIŠ|
 @end sign
 
 @sign	EGIR
