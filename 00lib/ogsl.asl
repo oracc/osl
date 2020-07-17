@@ -11684,6 +11684,7 @@
 @v	za₆
 @v	zu₉
 @v	zu·liₓ
+@v	zu°liₓ
 @end sign
 
 @sign	|KA×UD.BAR|
@@ -11731,6 +11732,7 @@
 @v	zukuraₓ
 @v	zarahₓ
 @v	za·rahₓ
+@v	za°rahₓ
 @form ~a |KA.X|
 @v    zubₓ
 @inote dcclt !sg
