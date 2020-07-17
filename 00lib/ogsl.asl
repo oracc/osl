@@ -11683,6 +11683,7 @@
 @v	tuₓ
 @v	za₆
 @v	zu₉
+@v	zu·liₓ
 @end sign
 
 @sign	|KA×UD.BAR|
@@ -11729,6 +11730,7 @@
 @v	širi
 @v	zukuraₓ
 @v	zarahₓ
+@v	za·rahₓ
 @form ~a |KA.X|
 @v    zubₓ
 @inote dcclt !sg
