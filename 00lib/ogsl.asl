@@ -10957,6 +10957,11 @@
 @v	uš₁₁
 @end sign
 
+@sign	|KA×BAL|
+@uname	CUNEIFORM SIGN KA TIMES BAL
+@v	buluₓ
+@end sign
+
 @sign	|KA×BALAG|
 @list MZL047
 @list OBZL317
@@ -11257,6 +11262,7 @@
 @uname	CUNEIFORM SIGN KA TIMES KAK
 @ucode	x1216F
 @v	kir₁₄
+@v	gugₓ
 @end sign
 
 @sign	|KA×KI|
@@ -11622,6 +11628,16 @@
 @end form
 @end sign
 
+@sign	|KA×TE|
+@uname	CUNEIFORM SIGN KA TIMES TE
+@v	emenₓ
+@end sign
+
+@sign	|KA×TIL|
+@uname	CUNEIFORM SIGN KA TIMES TE
+@v	šegₓ
+@end sign
+
 @sign	|KA×U|
 @list HZL141
 @list LAK319
@@ -11712,6 +11728,7 @@
 @v	hurₓ
 @v	širi
 @v	zukuraₓ
+@v	zarahₓ
 @form ~a |KA.X|
 @v    zubₓ
 @inote dcclt !sg
