@@ -21667,6 +21667,8 @@
 @v	sura₉
 @v	surru
 @v	zur₂
+@form ~a |UZ₃.IGI@g|
+@form ~b |UZ₃.IGI@g.IGI@g|
 @end sign
 
 @sign	ŠA
@@ -26861,6 +26863,10 @@
 @form ~a UZU@90 [OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7]
 @v	uzu@90
 @end form
+@end sign
+
+@sign	|UZU×GA|
+@v	zeₓ
 @end sign
 
 @sign	X
