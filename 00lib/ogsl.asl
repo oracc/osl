@@ -1989,7 +1989,6 @@
 @v	dil
 @v	dili
 @v	diš₂
-@v	eš₁₈
 @v	eš₂₀
 @v	ge₁₅
 @v-	geš₄
@@ -18395,6 +18394,7 @@
 @v	ag₂
 @v	aga₂
 @v	aŋ₂
+@v	aŋa₂
 @v	aka₂
 @v	am₂
 @v	eg₃
