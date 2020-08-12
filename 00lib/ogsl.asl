@@ -15586,19 +15586,6 @@
 @v	li
 @v	ni₈
 @v?	nu₉
-@form ~a ŠA
-@list HZL158
-@list LAK170
-@list MZL566
-@list OBZL203
-@list SLLHA353
-@list KWU301
-@uphase	1
-@uname	CUNEIFORM SIGN SHA
-@ucode	x122AD
-@v	en₈
-@v	li₅
-@end form
 @end sign
 
 @sign	LIL
