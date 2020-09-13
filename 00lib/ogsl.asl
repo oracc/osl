@@ -15680,6 +15680,7 @@
 @v	liš
 @v	liz
 @v?	mal₄
+@v	šil₄
 @end sign
 
 @sign	LU
