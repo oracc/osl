@@ -13096,16 +13096,19 @@
 @list KWU147
 @uphase	1
 @uname	CUNEIFORM SIGN KU4 VARIANT FORM
-@inote	##CHECK LAK/KWU/REC no. This is ED LIL; No separate uname/ucode needed?
+@inote	##CHECK LAK/KWU/REC no. This is ED LIL; No separate uname/ucode needed? FIXME
 @ucode	x121AE
 @v	ku₄
 @v	kur₉
 @end form
 @form ~a REC56
-@inote etcsri -- check
+@inote etcsri -- check -- REC56 = ŠU&ŠU@r
 @end form
 @form ~b REC144
-@inote etcsri -- check
+@inote etcsri -- check -- REC144 = ŠE.ŠU
+@end form
+@form ~c KWU634
+@inote KWU634 = ŠE.ŠU&ŠU@h
 @end form
 @end sign
 
@@ -17092,6 +17095,7 @@
 @v	šuk₂
 @v	uttu₄
 @v	wuk
+@v	zadimₓ
 @end sign
 
 @sign	MUG@g
@@ -23214,6 +23218,7 @@
 @uname	CUNEIFORM SIGN SHU OVER INVERTED SHU
 @ucode	x122D8
 @v?	lilₓ
+@inote better ŠU&ŠU@h because the lower sign is reflected about the horizontal axis not rotated 180
 @end sign
 
 @sign	ŠU@t
