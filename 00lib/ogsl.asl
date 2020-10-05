@@ -1684,6 +1684,7 @@
 @sign	|AN.SAL.TUG₂.IB|
 @ucode	x1202D.x122A9.x12306.x12141
 @v	ligidbaₓ
+@v	urzababitumₓ
 @end sign
 
 @sign	|AN.SAG@g|
