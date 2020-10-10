@@ -3317,6 +3317,7 @@
 @sign	|DAG.KISIM₅×(LU.MAŠ₂)|
 @list MZL460
 @list OBZL174
+@list KWU893
 @list SLLHA293
 @pname	|DAG.KISIM₅×LU+MAŠ₂|
 @uphase	1
