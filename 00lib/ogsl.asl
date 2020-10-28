@@ -29349,8 +29349,9 @@
 @end sign
 
 @sign |ZUM×LAGAB|
-@inote epsd2/royal
+@inote epsd2/royal; also in marguzum ed3b
 @v     garigₓ
+@v     gazumₓ
 @end sign
 
 @sign |A.ZI&ZI.LAGAB|
