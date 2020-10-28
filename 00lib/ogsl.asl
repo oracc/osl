@@ -11509,6 +11509,12 @@
 @end form
 @end sign
 
+@sign	|KA×SAL|
+@v	zarahₓ
+@v	za·rahₓ
+@v	za°rahₓ
+@end sign
+
 @sign	|KA×SAR|
 @list LAK325
 @list MZL045
@@ -11731,9 +11737,6 @@
 @v	hurₓ
 @v	širi
 @v	zukuraₓ
-@v	zarahₓ
-@v	za·rahₓ
-@v	za°rahₓ
 @form ~a |KA.X|
 @v    zubₓ
 @inote dcclt !sg
