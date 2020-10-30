@@ -10449,6 +10449,8 @@
 @v	tu₁₅
 @v	tum₉
 @v	tumu
+@form ~a LAK377
+@inote ur-{d}iškur(LAK377) in P250715 l.3
 @end sign
 
 @sign	|IM.IM.KAD₃IM.KAD₃A|
