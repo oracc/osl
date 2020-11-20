@@ -1642,6 +1642,7 @@
 @v	anzud₂
 @form	~a |AN.NI₂.MI|
 @ucode x1202D.x1224E.x1222A
+@form	~b |IM.MI|
 @end sign
 
 @sign	|AN.ME.U.U.U|
@@ -10417,6 +10418,8 @@
 @ucode	x1214E
 @v	adad
 @v	anegi
+@v	anzuₓ
+@inote ed12
 @v	di[...]ig
 @v?	did
 @v	dalhamunₓ
@@ -13902,6 +13905,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN LAGAB TIMES HAL
 @ucode	x121C9
+@v	amaₓ
+@inote ed12
 @v	angur
 @v?	bunig₃
 @v?	buniŋ₃
@@ -15197,6 +15202,8 @@
 @uphase	9
 @ucode	x124EA
 @uname	CUNEIFORM SIGN LAK20
+@v	balaₓ
+@inote ed12
 @end sign
 
 @sign	LAK171@s
@@ -17987,6 +17994,14 @@
 @form ~b |NE×PAP|
 @inote dcclt !sg
 @end form
+@form ~c |NE.PAP.BAU377|
+@v    bilₓ
+@inote ed12
+@end form
+@form ~d |NE.PAP.BAU077|
+@v    bilₓ
+@inote ed12
+@end form
 @end sign
 
 @sign	NI
@@ -20612,6 +20627,8 @@
 @v	munuz
 @v	murub
 @v	nunusₓ
+@v	nunuzₓ
+@inote ed12
 @v	rag
 @v	rak
 @v	raq
@@ -22433,6 +22450,10 @@
 @ucode	x122C0.x121A0
 @v	nan₂
 @v	nanna
+@form ~a |ŠEŠ.NA|
+@v	nannaₓ
+@inote ed12
+@end form
 @end sign
 
 @sign	ŠEŠ₂
@@ -27313,6 +27334,7 @@
 
 @sign	|ZU&ZU.SAR|
 @list LAK218
+@list BAU136
 @uphase	9
 @ucode	x12547
 @uname	CUNEIFORM SIGN ZU OVER ZU PLUS SAR
@@ -30206,4 +30228,38 @@
 
 @sign |LAGAB×GAL|
 @inote Lagash Riddles
+@end sign
+
+@sign |PA.SI|
+@v    ensiₓ
+@inote ed12
+@end sign
+
+@sign |HI×SAR|
+@inote ed3a/b
+@end sign
+
+@sign BAU077
+@inote ed12; provisional
+@end sign
+
+@sign BAU153
+@inote ed12; provisional
+@v	nirahₓ
+@end sign
+
+@sign BAU161b
+@inote ed12; provisional
+@end sign
+
+@sign BAU377
+@inote ed12; provisional
+@end sign
+
+@sign |GAN₂×HI|
+@inote ed12; provisional
+@end sign
+
+@sign 2(N57)
+@inote ed12
 @end sign
