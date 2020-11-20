@@ -2741,6 +2741,9 @@
 @ucode x12049.x122E4.x12000
 @v    	 kašbirₓ
 @end form
+@form ~b |BI.UD.SUD|
+@v    	 kašbirₓ
+@end form
 @end sign
 
 @sign	|BI.ZIZ₂|
@@ -29383,7 +29386,7 @@
 @sign |ZUM×LAGAB|
 @inote epsd2/royal; also in marguzum ed3b
 @v     garigₓ
-@v     gazumₓ
+@v     guzumₓ
 @end sign
 
 @sign |A.ZI&ZI.LAGAB|
