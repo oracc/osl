@@ -21434,6 +21434,12 @@
 @ucode x122D7.x120EE.x12000
 @v	šagiaₓ
 @end form
+@form	~f |GABA.ŠU.SILA₃|
+@v	šagia
+@end form
+@form	~g |SILA₃.ŠU.GABA|
+@v	šagia
+@end form
 @end sign
 
 @sign	SU
