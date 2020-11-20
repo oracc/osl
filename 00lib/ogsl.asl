@@ -15005,6 +15005,8 @@
 @pname	|ZUM×TUG₂|
 @uphase	0
 @v	garig₂
+@v	guzumₓ
+@inote needed for marguzum/al-guzumₓ
 @form ~a |ZUM.SI|
 @ucode x1236E.x122DB
 @v      garig₃
