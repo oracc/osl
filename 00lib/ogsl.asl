@@ -6156,6 +6156,8 @@
 @inote In almost all collatable instances "LAGAB" has a secondary vertical like GA₂. In P251751 two LAGAB×HA have no visible secondary vertical
 @form	~f |LAGAB×(HA.A)|
 @inote See, e.g., P427626 o 5
+@form	~g |LAGAB×HA.A|
+@inote Existence of this combination requires confirmation.
 @end sign
 
 @sign	|GA₂×(A.IGI)|
@@ -21484,6 +21486,9 @@
 @form	~g |SILA₃.ŠU.GABA|
 @v	šagia
 @end form
+@form	~h |SILA₃.ŠU|
+@v	šagia
+@end form
 @end sign
 
 @sign	SU
@@ -25319,6 +25324,10 @@
 @v	sipar
 @v	zabar
 @v	zibar
+@form ~a |UD.KA.AŠ|
+@form ~b |KA.UD.AŠ|
+@form ~c |KA.UD.BAR|
+@form ~d |KA.BAR|
 @end sign
 
 @sign	|UD.GIŠ%GIŠ.NUN|
@@ -25740,6 +25749,8 @@
 @end form
 @form ~b |GAD.UR₂×TAK₄|
 @end form
+@form ~c |UR₂×KID₂|
+@end form
 @end sign
 
 @sign	|UMBIN×LU|
@@ -25761,6 +25772,10 @@
 @v	simug
 @v	umum
 @v	umun₂
+@form ~a |UMUM×KASKAL|
+@uname	CUNEIFORM SIGN UMUM TIMES KASKAL
+@ucode	x12324
+@end form
 @end sign
 
 @sign	|UMUM×DUN₃@g|
@@ -26041,10 +26056,6 @@
 @v	erin₉
 @v	uruₓ
 @v	urum₄
-@end sign
-
-@sign	|UR₂×KID₂|
-@uphase	0
 @end sign
 
 @sign	|UR₂×NUN|
@@ -27432,7 +27443,6 @@
 
 @sign	ZUBI
 @list LAK459
-@list LAK460
 @list MZL097
 @uphase 2.x
 @note	See Conti RA 82, 115 nt.2 with further literature.
@@ -27440,6 +27450,7 @@
 @v	zubi
 @v	zubu
 @v	zu₈
+@form ~a LAK460
 @end sign
 
 @sign	ZUM
@@ -30116,12 +30127,6 @@
 @v	gurₓ
 @end sign
 
-@sign	|KA.UD.BAR|
-@ucode x12157.x12313.x12047
-@inote admin/ed3b
-@v	zabarₓ
-@end sign
-
 @sign	RSP380bis
 @inote admin/ed3b
 @v	uriₓ
@@ -30185,12 +30190,6 @@
 @ucode x12369.x1202D.x1202D
 @inote admin/ed3b
 @v	imgagaₓ
-@end sign
-
-@sign	|KA.BAR|
-@ucode x12157.x12047
-@inote admin/ed3b
-@v	zabarₓ
 @end sign
 
 @sign	|ŠE&ŠE.KIN|
@@ -30329,7 +30328,7 @@
 @inote ed3a
 @end sign
 
-@sign |LAK046@v|
+@sign LAK046@v
 @inote ed3a sfs
 @end sign
 
