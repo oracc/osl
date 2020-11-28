@@ -407,6 +407,7 @@
 @end form
 @form	~l	|A.PA.BI.GIŠ.PAD.SI.A|
 @ucode x12000.x1227A.x12049.x12111.x1227B.x122DB.x12000
+@form	~m	|PAD.GISAL.SI.A|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -23793,6 +23794,8 @@
 @form ~a |TAG.ŠU|
 @ucode x122F3.x122D7
 @inote dcclt !sg
+@form ~b |ŠU.TAG|
+@v    tibirₓ
 @end form
 @end sign
 
@@ -27299,6 +27302,8 @@
 @form ~b |TUM×(U.U.U)|
 @v	haš₂
 @inote dcclt Q000041
+@form ~c |TUM.AŠ₂|
+@v    hašₓ
 @end form
 @end sign
 
