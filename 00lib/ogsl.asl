@@ -410,6 +410,10 @@
 @end form
 @form	~l	|A.PA.BI.GIŠ.PAD.SI.A|
 @ucode x12000.x1227A.x12049.x12111.x1227B.x122DB.x12000
+@end form
+@form	~m	|A.GISAL.SI|
+@form	~n	|PA.GISAL.SI|
+@form	~o	|GISAL.A.SI|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -2675,6 +2679,7 @@
 @sign	|BAR.EDIN|
 @ucode	x12047.x12094
 @v	bahar₄
+@form ~a |BAR.BAHAR₂|
 @end sign
 
 @sign	|BAR.HU.KAK|
@@ -8514,6 +8519,8 @@
 @v	ašlag₄
 @v	azalag₄
 @v	azlag₄
+@form ~a |TUG₂.TE.A.DU|
+@v	azlagₓ
 @end sign
 
 @sign	|GIŠ×BAD|
@@ -8920,6 +8927,7 @@
 @v	sun₂
 @v	suna₂
 @v	šun₃
+@form ~a |GUL.ZA|
 @end sign
 
 @sign	GUM
@@ -9402,6 +9410,7 @@
 @form ~c |HI×AŠ|
 @form ~d |HI×DIŠ|
 @form ~e |HI×AŠ@c|
+@form ~f |HI×U|
 @end sign
 
 @sign	|HI×DIŠ|
@@ -15294,6 +15303,7 @@
 
 @sign	|LAK590.SI|
 @ucode x124D9.x122DB
+@v addirₓ
 @end sign
 
 @sign	|LAK648×DUB|
@@ -15354,10 +15364,6 @@
 @ucode	x124D6
 @uname	CUNEIFORM SIGN LAK648 TIMES UD
 @end	sign
-
-@sign	LAK742
-@uphase	0
-@end sign
 
 @sign	LAK747
 @uphase	0
@@ -19549,6 +19555,7 @@
 @sign	|PA.TE.SI.GAR|
 @ucode	x1227A.x122FC.x122DB.x120FB
 @v	ensiₓ
+@form ~a |PA.GAR.TE.SI|
 @end sign
 
 @sign	|PA.TUG₂|
@@ -25811,6 +25818,7 @@
 @inote (sjt) There is a problem with the Unicode implementation of DE₂ because that should probably be UMUM-sheshig, with an earlier form UMUM×KASKAL.
 @inote (sjt) The present solution of (re-)creating a DE₂ sign is not perfect but we need something like this solution for epsd2 de₂ bases
 @end form
+@form ~b UMUM
 @end sign
 
 @sign	|UMUM×PA|
