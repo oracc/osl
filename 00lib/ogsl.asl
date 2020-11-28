@@ -236,6 +236,7 @@
 @end form
 @form	~v |A.BU.DU|
 @ucode x12000.x1204D.x1207A
+@form	~w |A.HA|
 @end sign
 
 @sign	|A.HU.SI|
@@ -307,6 +308,8 @@
 @v	iₓ
 @v	idₓ
 @end form
+@form ~b |GA₂×(HAL.A)|
+@inote ed3a
 @end sign
 
 @sign	|A.LAGAB×HAL.DI|
@@ -6145,7 +6148,17 @@
 @form	~b |GA₂×(HA.A)|
 @ucode x124C0
 @list LAK694
+@inote See, e.g., P010481 o ii 6 where GA₂×(HA.A) is inside GA₂ box; contra CDLI comment GA₂ final vertical is in case ruling
 @end form
+@form	~c |GA₂×HA|
+@form	~d |GA₂×HA.A|
+@inote See, e.g., P010060 o ii 6 where GA₂×HA is square like LAGAB and clearly closed with A written outside GA₂
+@form	~e |LAGAB×HA|
+@inote In almost all collatable instances "LAGAB" has a secondary vertical like GA₂. In P251751 two LAGAB×HA have no visible secondary vertical
+@form	~f |LAGAB×(HA.A)|
+@inote See, e.g., P427626 o 5
+@form	~g |LAGAB×HA.A|
+@inote Existence of this combination requires confirmation.
 @end sign
 
 @sign	|GA₂×(A.IGI)|
@@ -8373,6 +8386,9 @@
 @v	gištug₃
 @v	ŋištu₃
 @v	ŋištug₃
+@form ~a |GIŠ.PI|
+@v	ŋeštugₓ
+@v	geštuₓ
 @end sign
 
 @sign	|GIŠ.RU|
@@ -9385,6 +9401,8 @@
 @inote dcclt !sg
 @end form
 @form ~c |HI×AŠ|
+@form ~d |HI×DIŠ|
+@form ~e |HI×AŠ@c|
 @end sign
 
 @sign	|HI×DIŠ|
@@ -18006,6 +18024,22 @@
 @end form
 @form ~d |NE.PAP.BAU077|
 @v    bilₓ
+@inote ed12; BAU077 ~ MES name = Bilgames?
+@end form
+@form ~e |NE.PAP.GIŠ|
+@v    bilₓ
+@inote ed3a
+@end form
+@form ~f |PAP.GIŠ.NE|
+@v    bilₓ
+@inote ed3a
+@end form
+@form ~g |PAP.NE.GIŠ|
+@v    bilₓ
+@inote ed3a
+@end form
+@form ~h |GIŠ.PAP.NE|
+@v    bilₓ
 @inote ed12
 @end form
 @end sign
@@ -18247,7 +18281,8 @@
 @v	nigidamin₃
 @v	2(barig)
 @v	2(bariga)
-@v	#old nimin₃
+@v-	nimin₃
+@inote nimin₃ is an old value
 @form ~a NIGIDAMIN@c
 @v	2(barig@c)
 @v	2(bariga@c)
@@ -18672,6 +18707,8 @@
 @v	lagaša
 @form ~a |NU₁₁.LA.BUR|
 @ucode x12262.x121B7.x12053
+@form ~b |NU₁₁.BUR.LA.HU|
+@form ~c |NU₁₁.BUR.HU|
 @end sign
 
 @sign	|NU₁₁.GIŠ|
@@ -19055,6 +19092,10 @@
 
 @sign	|NUNUZ.AB₂×(GUG₂.BULUG₂)|
 @pname	|NUNUZ.AB₂×GUG₂+BULUG₂|
+@end sign
+
+@sign	|NUNUZ.AB₂×GU|
+@inote CDLI |LAHTAN×GU| in ed3a
 @end sign
 
 @sign	|NUNUZ.AB₂×GUD|
@@ -21444,6 +21485,9 @@
 @v	šagia
 @end form
 @form	~g |SILA₃.ŠU.GABA|
+@v	šagia
+@end form
+@form	~h |SILA₃.ŠU|
 @v	šagia
 @end form
 @end sign
@@ -24559,6 +24603,9 @@
 @inote Nisaba 15 903 and 944.
 @v      šaman₂
 @end form
+@form ~b	|AŠ.GAN|
+@inote ed3a
+@end form
 @end sign
 
 @sign	|U.GUD|
@@ -24843,6 +24890,7 @@
 @inote	Attinger ~ niŋar
 @v?	nimgin₃
 @v	ningin₃
+@form ~a |U.KID₂|
 @end sign
 
 @sign	|U.UR@s|
@@ -25279,6 +25327,10 @@
 @v	sipar
 @v	zabar
 @v	zibar
+@form ~a |UD.KA.AŠ|
+@form ~b |KA.UD.AŠ|
+@form ~c |KA.UD.BAR|
+@form ~d |KA.BAR|
 @end sign
 
 @sign	|UD.GIŠ%GIŠ.NUN|
@@ -25700,6 +25752,8 @@
 @end form
 @form ~b |GAD.UR₂×TAK₄|
 @end form
+@form ~c |UR₂×KID₂|
+@end form
 @end sign
 
 @sign	|UMBIN×LU|
@@ -25721,6 +25775,10 @@
 @v	simug
 @v	umum
 @v	umun₂
+@form ~a |UMUM×KASKAL|
+@uname	CUNEIFORM SIGN UMUM TIMES KASKAL
+@ucode	x12324
+@end form
 @end sign
 
 @sign	|UMUM×DUN₃@g|
@@ -26001,10 +26059,6 @@
 @v	erin₉
 @v	uruₓ
 @v	urum₄
-@end sign
-
-@sign	|UR₂×KID₂|
-@uphase	0
 @end sign
 
 @sign	|UR₂×NUN|
@@ -27394,7 +27448,6 @@
 
 @sign	ZUBI
 @list LAK459
-@list LAK460
 @list MZL097
 @uphase 2.x
 @note	See Conti RA 82, 115 nt.2 with further literature.
@@ -27402,6 +27455,7 @@
 @v	zubi
 @v	zubu
 @v	zu₈
+@form ~a LAK460
 @end sign
 
 @sign	ZUM
@@ -29989,6 +30043,9 @@
 @ucode x122BA.x1204D.x12263.x120A0
 @inote admin/ed3b
 @v	samanₓ
+@form ~a |ŠE.EŠ₂.BU|
+@form ~b |NUN.EŠ₂.ŠE.BU|
+@form ~c |SUD.ŠE.NUN.EŠ₂|
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
@@ -30075,12 +30132,6 @@
 @v	gurₓ
 @end sign
 
-@sign	|KA.UD.BAR|
-@ucode x12157.x12313.x12047
-@inote admin/ed3b
-@v	zabarₓ
-@end sign
-
 @sign	RSP380bis
 @inote admin/ed3b
 @v	uriₓ
@@ -30144,12 +30195,6 @@
 @ucode x12369.x1202D.x1202D
 @inote admin/ed3b
 @v	imgagaₓ
-@end sign
-
-@sign	|KA.BAR|
-@ucode x12157.x12047
-@inote admin/ed3b
-@v	zabarₓ
 @end sign
 
 @sign	|ŠE&ŠE.KIN|
@@ -30278,4 +30323,44 @@
 
 @sign 2(N57)
 @inote ed12
+@end sign
+
+@sign |A.DU&A.DU|
+@inote ed3a
+@end sign
+
+@sign |KAK&KAK|
+@inote ed3a
+@end sign
+
+@sign LAK046@v
+@inote ed3a sfs
+@end sign
+
+@sign LAK765
+@inote ed3a DN
+@end sign
+
+@sign |TUR×NUN|
+@inote ed3a
+@end sign
+
+@sign |TUR×ZI|
+@inote ed3a
+@end sign
+
+@sign |URU×IMIN|
+@inote ed3a -- stacking pattern for IMIN is AŠ&AŠ&AŠ&AŠ.AŠ&AŠ&AŠ
+@end sign
+
+@sign |URU×IGI@g|
+@inote ed3a
+@end sign
+
+@sign |NU×U|
+@inote ed3a
+@end sign
+
+@sign |ŠE.GAN₂|
+@inote ed3a AbṢ
 @end sign
