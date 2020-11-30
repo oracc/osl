@@ -7729,6 +7729,8 @@
 @ucode	x12100
 @v-	ešša₃
 @note	See the discussion of gloss conventions in Antagal MSL 17, 134.
+@v	aₓ
+@inote	See Alster, Early Dynastic Proverbs AfO 38/39 (1991-1992) 23.
 @v	ge
 @v	gen₆
 @v	gi
@@ -10029,6 +10031,8 @@
 @v	pad₄
 @v	pan₃
 @v?	raₓ
+@v	rumₓ
+@note	In ED Proverbs
 @v	si₁₇
 @v?	še₂₀
 @v	ši
