@@ -23059,6 +23059,7 @@
 @v	qata
 @v	sagiₓ
 @v	šu
+@v	takaₓ
 @v	1(šu)
 @form ~c ŠU@c
 @v	šu@c
