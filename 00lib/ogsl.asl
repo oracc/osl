@@ -3860,6 +3860,7 @@
 @sign	DIŠ@t
 @uphase 3
 @v	diš@t
+@v	1(diš@t)
 @end sign
 
 @sign	DIŠ@k
@@ -8359,6 +8360,11 @@
 @v	gilgamesₓ
 @v	gilgamešₓ
 @end form
+@form ~e |GIŠ.GIŠ.NE@s.MES.GA|
+@ucode x12111.x12111.x1224B.x12229.x120B5
+@v	gilgamesₓ
+@v	gilgamešₓ
+@end form
 @end sign
 
 @sign	|GIŠ.NE@s|
@@ -8737,6 +8743,11 @@
 @ucode x12118.x12195
 @inote dcclt !sg
 @end form
+@form ~b LAK545
+@v	durₓ
+@end form
+@end sign
+
 @end sign
 
 @sign	|GU₂×KAK.GIŠ%GIŠ|
@@ -10065,11 +10076,15 @@
 @list MZL731
 @list OBZL239b
 @list SLLHA455
+@list LAK432
 @uphase	1
 @uname	CUNEIFORM SIGN IGI DIB
 @ucode	x12147
 @v	ša₁₇
 @v	u₃
+@form ~a LAK433
+@list LAK433
+@inote |IGI.GA₂×PA|: sign description indicative not definitive
 @end sign
 
 @sign	|IGI.DIM|
@@ -11129,6 +11144,7 @@
 @v	puzur₄
 @form ~a |KA×(GAN₂@t.ŠA)|
 @list RSP202
+@form ~b |KA×ŠU.ŠA|
 @end sign
 
 @sign	|KA×GAR|
@@ -18722,6 +18738,7 @@
 @ucode x12262.x121B7.x12053
 @form ~b |NU₁₁.BUR.LA.HU|
 @form ~c |NU₁₁.BUR.HU|
+@form ~d |NU₁₁.BUR.SU.LA.HU|
 @end sign
 
 @sign	|NU₁₁.GIŠ|
@@ -21698,6 +21715,9 @@
 @v	šun₄
 @v	zar₃
 @v	/zeŋ/
+@form ~a |SUM×DIŠ|
+@list LAK198
+@inote sfs
 @end sign
 
 @sign	SUMAŠ
@@ -22264,6 +22284,12 @@
 @v?	karadin₆
 @v	nenni₅
 @v	ninni₅
+@form ~a	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
+@v	ninniₓ
+@end form
+@form ~b	|U₂.(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
+@v	ninniₓ
+@end form
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR|
@@ -23165,6 +23191,11 @@
 @form	~c |ŠU.GAR.TUR.RU.LAL|
 @ucode x122D7.x120FB.x12309.x12292.x121F2
 @v	tukumₓ
+@end form
+@form	~d |GAR.ŠU.TUR|
+@ucode	x120FB.x122D7.x12309
+@v	tukumₓ
+@end form
 @end sign
 
 @sign	|ŠU.GAR.TUR.LAL.BI|
@@ -26495,21 +26526,24 @@
 @pname	|URU×MIN+IM|
 @uphase	0
 @v	uluₓ
+@inote deprecated; sign is really LAK648×IM
+@form ~b |LAK648×IM|
+@v	uluₓ
 @lit	Peterson dissertation (2007), p.230 with note 1009.
 @note	sign is LAK648×IM
 @end	form
-@form ~b LAK648
+@form ~c LAK648
 @ucode	x124CE
 @uname	CUNEIFORM SIGN LAK648
 @end form
-@form ~c URU
+@form ~d URU
 @v      lu₇⁻
 @inote	Attinger
 @v	ulu₃⁻
 @inote	Attinger
 @v	uru₁₇⁻
 @inote	Attinger
-@form ~d |IM.LAK648|
+@form ~e |IM.LAK648|
 @ucode x1214E.x12347
 @v	ulu₃
 @end form
@@ -30062,6 +30096,8 @@
 @form ~a |ŠE.EŠ₂.BU|
 @form ~b |NUN.EŠ₂.ŠE.BU|
 @form ~c |SUD.ŠE.NUN.EŠ₂|
+@form ~d |NUN.EŠ₂.AB.BU|
+@form ~e |EŠ₂.NUN.BU|
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
@@ -30380,3 +30416,21 @@
 @sign |ŠE.GAN₂|
 @inote ed3a AbṢ
 @end sign
+
+@sign |GUD.KU|
+@inote ur3 PN
+@v	unuₓ
+@end sign
+
+@sign |KA×URUDA|
+@inote oakk PN
+@end sign
+
+@sign |PA.DUG.GIŠ.PAD.SI.A|
+@v	addirₓ
+@end sign
+
+@sign |URU×EŠ|
+@inote only in one Ur III text &P143839 = SAT 2, 0639 no image on CDLI; needs collation
+@end sign
+
