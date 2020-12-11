@@ -8748,8 +8748,6 @@
 @end form
 @end sign
 
-@end sign
-
 @sign	|GU₂×KAK.GIŠ%GIŠ|
 @ucode	x12119.x12112
 @v?	duran
