@@ -2522,6 +2522,9 @@
 @v	nunurru
 @form	~a |DUG.SILA₃.BUR|
 @ucode x12081.x122E1.x12053
+@form	~b EDIN
+@v	baharₓ
+@inote requires collation, only in P325196 = CUSAS 23, 050 i 7 so far
 @end sign
 
 @sign	|BAHAR₂×AB₂|
