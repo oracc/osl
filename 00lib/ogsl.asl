@@ -237,6 +237,7 @@
 @form	~v |A.BU.DU|
 @ucode x12000.x1204D.x1207A
 @form	~w |A.HA|
+@form	~x |A.HA.DU|
 @end sign
 
 @sign	|A.HU.SI|
@@ -4221,6 +4222,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN DUG
 @ucode	x12081
+@v	biₓ
 @v	dug
 @v	duk
 @v	duka
@@ -6850,6 +6852,8 @@
 @v	išhara₄
 @v	išhur₄
 @v	išhuru₄
+@v	salₓ
+# needs collation but looks plausible on photo of P315388
 @v	sila₄
 @v	silaku
 @end sign
@@ -13431,9 +13435,11 @@
 
 @sign	KWU733
 @list KWU733
+@v egirₓ
 @inote NV in TCL 5, 6036 (P131750) counted per unit, in USC 6786 by weight.
 @inote NV KWU733 is often read egir (proper egir is KWU731) or egirₓ(KWU733). 
 @inote NV Schneider suggests dalla; Yildiz/Gomi UTI 3 2224 read zubi (both seem unlikely)
+@inote SJT egirₓ added for now to support ur3.atf
 @end sign
 
 @sign	KWU822
@@ -14087,6 +14093,9 @@
 @v	esir₂
 @v	kunin
 @v	šukumₓ
+@form ~a LAK768
+@inote LAK768 = LAGAB×HAL ; TSŠ 302, needs collation
+@end form
 @end sign
 
 @sign	|LAGAB×(KUL.HI.A)|
@@ -16998,6 +17007,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN MI
 @ucode	x1222A
+@v	anzuₓ
 @v?	dugud₂
 @v?	ga₁₂
 @v	ge₆
@@ -17189,6 +17199,8 @@
 @v	sub₅
 @v	sumur₃
 @v	šub₄
+@v	ušₓ
+@inote OSP 1 43 iii 1 clearly has LAK672b where context suggests ušₓ
 @form ~a |SIK₂.SUHUR|
 @ucode x122E0.x122E6
 @end form
@@ -27044,6 +27056,7 @@
 @ucode	x1235D.x1202D.x1223D
 @v	šubaₓ
 @v	zannaruₓ
+@form ~a |MUŠ₃×ZA|
 @end sign
 
 @sign	|ZA.DUN₃@g|
@@ -29915,6 +29928,7 @@
 @end sign
 
 @sign	|EZEN×HAL|
+@list LAK614
 @v	ubₓ
 @inote etcsri
 @v	ugₓ
@@ -30432,3 +30446,10 @@
 @inote only in one Ur III text &P143839 = SAT 2, 0639 no image on CDLI; needs collation
 @end sign
 
+@sign |GIŠ×ERIN₂|
+@inote oakk adm
+@end sign
+
+@sign |AB×DIŠ|
+@inote ed3b no image needs collation
+@end sign
