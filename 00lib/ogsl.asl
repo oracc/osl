@@ -3077,6 +3077,7 @@
 @ucode x12053.x12262
 @inote P252720 = CUSAS 35, 221
 @v	buruₓ
+@v	lagašₓ
 @end sign
 
 @sign	|BUR₂.BUR₂|
@@ -3783,6 +3784,7 @@
 @uname	CUNEIFORM SIGN DIN KASKAL U GUNU DISH
 @ucode	x12078
 @v	sagkurun
+@v	saŋkurun
 @end sign
 
 @sign	|DIN.ŠE.NUN&NUN|
@@ -5621,6 +5623,11 @@
 @uname	CUNEIFORM SIGN ESH2 CROSSING ESH2
 @lit	Woods FS Biggs, 328
 @end	sign
+
+@sign |EŠ₂%EŠ₂.NUN|
+@v	buranunaₓ
+@form ~a |EŠ₂%EŠ₂.NUN.A|
+@end sign
 
 @sign |EŠ₂@g@t%EŠ₂@g@t|
 @list LAK278b
@@ -16033,6 +16040,7 @@
 @lit	R. Borger MZL 143
 @end form
 @form	~c |LU₂×AŠ₂|
+@form	~d |LU₂×EŠ₂|
 @end sign
 
 @sign	|LU₂×HAL|
@@ -18736,6 +18744,9 @@
 @ucode x12262.x12053.x122E2.x12137.x121B7
 @v	lagašₓ
 @end form
+@form ~c |LA.NU₁₁.BUR|
+@v	lagašₓ
+@end form
 @end sign
 
 @sign	|NU₁₁.BUR.LA|
@@ -20907,6 +20918,7 @@
 
 @sign	|SAL.TUG₂|
 @list HZL299
+@list LAK522
 @list MZL887
 @list OBZL452
 @list SLLHA556
@@ -30110,6 +30122,7 @@
 @form ~c |SUD.ŠE.NUN.EŠ₂|
 @form ~d |NUN.EŠ₂.AB.BU|
 @form ~e |EŠ₂.NUN.BU|
+@form ~f |EŠ₂.TU.BU|
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
