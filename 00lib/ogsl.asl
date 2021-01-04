@@ -154,6 +154,7 @@
 @v	sahₓ
 @v	tuba₂
 @v	zahₓ
+@v	urumₓ
 @end sign
 
 @sign	|A.HA.A|
@@ -920,6 +921,10 @@
 @v	nina
 @v	sirara
 @v	siraran
+@end sign
+
+@sign	|AB×HA.TAG|
+@v	siraraₓ
 @end sign
 
 @sign	|AB×IMIN|
@@ -12973,6 +12978,10 @@
 @inote	in ED ŠAGINA KIŠ@g.ARAD; see Pettinato 1981a, 29.
 @end sign
 
+@sign	|KIŠ.AB@g|
+@v	nergalₓ
+@end sign
+
 @sign	KU
 @list HZL206
 @list MZL808
@@ -24413,6 +24422,7 @@
 @v	dumₓ
 @v	dumu
 @v	ibila₄
+@v	mar₅
 @v	maru
 @v	peš₇
 @v	suhušₓ
