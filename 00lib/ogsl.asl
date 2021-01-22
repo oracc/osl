@@ -14998,7 +14998,7 @@
 @uphase	9
 @ucode	x124DC
 @uname	CUNEIFORM SIGN LAK449 TIMES GU
-@note	CHECK Civil ARES 4
+@note	Civil ARES 4, 96.
 @end	sign
 
 @sign	|LAK449×IGI|
