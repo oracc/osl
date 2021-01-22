@@ -6977,6 +6977,10 @@
 @uname 	CUNEIFORM SIGN GA2 TIMES SHIM
 @end sign
 
+@sign	|GA₂×ŠU|
+@inote epsd2/admin/ur3 P374170 	BM 093618A Nisaba 17, 041 needs collation
+@end sign
+
 @sign	|GA₂×TAK₄|
 @list MZL394
 @list OBZL069
@@ -8047,6 +8051,7 @@
 @v	šakan₂
 @v	šakkan₂
 @v	wir
+@form ~a KIŠ
 @end sign
 
 @sign	|GIR₃.ARAD|
@@ -17865,6 +17870,7 @@
 @ucode	x12244.x1235E
 @v	tugul
 @v	tuhul
+@form ~a |ZA@t.NAGAR|
 @end sign
 
 @sign	NAM
@@ -19270,6 +19276,10 @@
 
 @sign	|NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
 @pname	|NUNUZ.KISIM₅×LU₃+PAP+PAP|
+@end sign
+
+@sign |NUNUZ.KISIM₅×(TUG₂.HI)|
+@inote epsd2/admin/ur3
 @end sign
 
 @sign	O
@@ -25835,6 +25845,7 @@
 @end sign
 
 @sign	|UMBIN×LU|
+@v	umbinₓ
 @form ~a |UMBIN×MAŠ|
 @lit  2014 Manuel Molina, SCTRAH 221
 @end form
