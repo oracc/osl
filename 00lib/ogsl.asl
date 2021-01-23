@@ -5700,6 +5700,10 @@
 @inote to support sir(KEŠ₂)-re in Nippur Nigga Q000052 228, even though it needs collation
 @end sign
 
+@sign	EZEN@90
+@inote P112975 o iv 8
+@end sign
+
 @sign	|EZEN×A|
 @list MZL288
 @list OBZL159
