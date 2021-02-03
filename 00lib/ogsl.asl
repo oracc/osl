@@ -17299,6 +17299,7 @@
 @v	šerah
 @v	šir₁₀
 @v	šubaₓ
+@v	ṣar₃
 @v	ṣer
 @v	ṣir
 @v	ṣur₂
