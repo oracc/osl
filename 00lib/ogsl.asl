@@ -8888,6 +8888,12 @@
 @v	addaₓ
 @end sign
 
+@sign	|GUD×ŠE|
+@uphase	0
+@v	saₓ
+@inote ed3a hapax; reading uncertain but posited by Edzard ZA 66 [1977] p.184
+@end sign
+
 @sign	|GUD.AN.NA|
 @ucode	x1211E.x1202D.x1223E
 @v	lium
@@ -12983,6 +12989,7 @@
 @inote	Attinger ~ kiš
 @v	kiši
 @v	kiṣ
+@v	lazₓ
 @v	qis
 @v	qiš
 @end sign
