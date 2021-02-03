@@ -2649,6 +2649,10 @@
 @end form
 @end sign
 
+@sign	BAR@g
+@inote temp for SF 1; check and possibly rename
+@end sign
+
 @sign	|BAR.AN|
 @list MZL122
 @list MZL123
@@ -14738,13 +14742,6 @@
 @uname	CUNEIFORM SIGN LAK51
 @end sign
 
-@sign	LAK62
-@list LAK062
-@uphase	9
-@ucode	x124F0
-@uname	CUNEIFORM SIGN LAK62
-@end sign
-
 @sign	|LAK79&LAK79@g|
 @list LAK079a
 @uphase	9
@@ -14876,11 +14873,6 @@
 
 @sign	LAK246
 @list LAK246
-@uphase	0
-@end sign
-
-@sign	LAK247
-@list LAK247
 @uphase	0
 @end sign
 
@@ -19904,6 +19896,9 @@
 @v	nika
 @v	peš₂
 @v	piš₂
+@form ~a LAK247
+@v    kilim
+@end form
 @end sign
 
 @sign	PI
@@ -24696,7 +24691,9 @@
 @v      šaman₂
 @end form
 @form ~b	|AŠ.GAN|
-@inote ed3a
+@list LAK062
+@ucode	x124F0
+@uname	CUNEIFORM SIGN LAK62
 @end form
 @end sign
 
@@ -26625,6 +26622,9 @@
 @ucode	x12349
 @v	šegₓ
 @v	šigₓ
+@end sign
+
+@sign |URU×ŠEŠ₂|
 @end sign
 
 @sign	|URU×TU|
