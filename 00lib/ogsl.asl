@@ -18108,6 +18108,10 @@
 @v    bilₓ
 @inote ed12
 @end form
+@form ~i |PAP.NE|
+@v    bilₓ
+@inote ed3a
+@end form
 @end sign
 
 @sign	NI
@@ -19739,6 +19743,7 @@
 @v	nindabaₓ
 @v	ninniₓ
 @v	ninnimₓ
+@form ~a |MUŠ₃.PAD|
 @end sign
 
 @sign	PAN
