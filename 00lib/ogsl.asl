@@ -13002,6 +13002,10 @@
 @v	nergalₓ
 @end sign
 
+@sign	|KIŠ×TIL|
+@inote SF 1 DN
+@end sign
+
 @sign	KU
 @list HZL206
 @list MZL808
@@ -15155,6 +15159,7 @@
 @v	bunₓ
 @lit	Peterson dissertation (2007), 226 with previous literature
 @inote	sign appears (only?) in TSŠ 46 vii 2' ##CHECK add reference
+@inote	also P010566 = SF 1 o vii 6 (Fara god list)
 @end sign
 
 @sign	|LAK617×BAD|
@@ -19895,6 +19900,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN PESH2
 @ucode	x1227E
+@v	ašbarₓ
+@inote ED3a DN {d}nin-ašbarₓ(PEŠ₂){+aš-bar} see Krebernik ZA 1986 p199
 @v	ge₁₉
 @v	gilili
 @v	gilim₂
