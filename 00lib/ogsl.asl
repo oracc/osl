@@ -24737,6 +24737,9 @@
 @v	ullu₃
 @v	ulu
 @v?	ur₆
+@form ~a |ŠU₂.GUD|
+@inote Fara form.
+@end form
 @end sign
 
 @sign	|U.GUR|
