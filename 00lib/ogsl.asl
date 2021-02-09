@@ -9106,9 +9106,10 @@
 @end sign
 
 @sign	GURUŠ
-@list LAK709b
+@list LAK709a
 @list KWU803
 @lit	Krebernik, OBO 160/1, 277
+@inote GURUŠ is the sign form with simple final vertical
 @uphase	1
 @uname	CUNEIFORM SIGN GURUSH
 @ucode	x12128
@@ -9118,6 +9119,12 @@
 @v	ŋereš₂
 @v	ŋuruš
 @v	murušₓ
+@v	lama₃
+@v	lamar
+@v	lamassu
+@v	lamma
+@v	lammar
+@inote in SF 1 GURUŠ is used for lammar (col i et passim); KAL is used for KAL/RIB (col x 20-21)
 @end sign
 
 @sign	HA
@@ -12100,6 +12107,7 @@
 @list OBZL176
 @list SLLHA322
 @lit	Krebernik OBO 160/1, 277
+@inote KAL/RIB is the sign form with broken final vertical.
 @uphase	1
 @uname	CUNEIFORM SIGN KAL
 @ucode	x12197
@@ -12122,11 +12130,6 @@
 @v	la₆
 @v	lab
 @v	lala₂
-@v	lama₃
-@v	lamar
-@v	lamassu
-@v	lamma
-@v	lammar
 @v	lap
 @v	lib₂
 @v	lip₂
@@ -27093,9 +27096,19 @@
 @end sign
 
 @sign	X₁
-@uphase	0
 @v	gurₓ
-@inote X₁ also used in P010093 rev xiv 3' of a squared animal head sign
+@end sign
+
+@sign X₂
+@inote SF 1 r i URU×X₂ and SF 1 r ii 13 X₂; form describable as AŠ&AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.
+@end sign
+
+@sign X₃
+@inote P010093 r ii 3' il-su₃-ERIN₂-X₃
+@end sign
+
+@sign |URU×X₂|
+@inote See sign X₂
 @end sign
 
 @sign	ZA
@@ -29776,11 +29789,13 @@
 @inote dcclt !sg
 @v emeₓ
 @end sign
+
 @sign |TAB&TAB|
 @inote dcclt !sg
 @v     limₓ
 @v     limmuₓ
 @end sign
+
 @sign	|UR×ŠU|
 @inote dcclt !sg
 @v	šuziₓ
@@ -30472,10 +30487,6 @@
 
 @sign |TUR×ZI|
 @inote ed3a
-@end sign
-
-@sign |URU×IMIN|
-@inote ed3a -- stacking pattern for IMIN is AŠ&AŠ&AŠ&AŠ.AŠ&AŠ&AŠ
 @end sign
 
 @sign |URU×IGI@g|
