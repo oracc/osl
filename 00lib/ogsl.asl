@@ -15374,6 +15374,8 @@
 @uphase	9
 @ucode	x124CF
 @uname	CUNEIFORM SIGN LAK648 TIMES DUB
+@v	banšurₓ
+@inote Krebernik ZA 1986 p201
 @end	sign
 
 @sign	LAK649
