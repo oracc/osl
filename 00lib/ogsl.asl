@@ -27103,7 +27103,7 @@
 @inote SF 1 r i URU×X₂ and SF 1 r ii 13 X₂; form describable as AŠ&AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.
 @end sign
 
-@sign X₃
+@sign X₇
 @inote P010093 r ii 3' il-su₃-ERIN₂-X₃
 @end sign
 
