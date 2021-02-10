@@ -2649,8 +2649,9 @@
 @end form
 @end sign
 
-@sign	BAR@g
-@inote temp for SF 1; check and possibly rename
+@sign	|BAR×TAB|
+@list LAK131
+@form ~a BAR@g
 @end sign
 
 @sign	|BAR.AN|
