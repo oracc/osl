@@ -5786,6 +5786,9 @@
 @ucode	x120A6.x1202D
 @v	%akk/n dūru
 @end form
+@form ~c |EZEN.AN|
+@inote SF 1 = P010566 r x 8' but not completely certain.
+@end form
 @end sign
 
 @sign	|EZEN×DUN₃@g|
@@ -18119,6 +18122,10 @@
 @inote ed12
 @end form
 @form ~i |PAP.NE|
+@v    bilₓ
+@inote ed3a
+@end form
+@form ~j |GIŠ.NE.PAP|
 @v    bilₓ
 @inote ed3a
 @end form
