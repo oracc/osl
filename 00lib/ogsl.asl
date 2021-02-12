@@ -5515,7 +5515,7 @@
 
 @sign	|EŠ₂.SUD.NUN.EŠ₂.TU|
 @ucode	x120A0.x122E4.x12263.x120A0.x12305
-@inote Several of the forms listed below have not been found yet and may be spurious. Krebernik ZA 76, 202 notes forms of saman₃ that begin with LUH. Check RlA {d}saman.
+@inote Several of the forms listed below have not been found yet and may be spurious. Krebernik ZA 76, 202 notes forms of saman₃ that begin with LUH. Check RlA {d}saman. LUH forms added sjt.
 @v	saman
 @v	samanurₓ
 @v	samun+
@@ -5606,6 +5606,10 @@
 @form ~t |ŠE.NUN.BU.E|
 @ucode x122BA.x12263.x1204D.x1208A
 @v	samanₓ
+@end form
+@form ~u |BU.NU.NUN.LUH.EŠ₂|
+@v	samanₓ
+@inote AbS
 @end form
 @form ~x	|NUN.ŠE.LAL|
 @ucode	x12263.x122BA.x121F2
@@ -17403,6 +17407,8 @@
 @v	re₈
 @v	ri₈
 @v	rin₄
+@form ~a |MUŠ.MUŠ|
+@inote restored in P225858 i 8' OIP 99, 83, AbS DN
 @end sign
 
 @sign	|MUŠ%MUŠ.A.NA|
@@ -27572,6 +27578,7 @@
 @v	ušbar₂
 @v	ušbur₂
 @v	uzu₂
+@v	zuₓ
 @end sign
 
 @sign	|ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)|
@@ -30196,6 +30203,7 @@
 @form ~d |NUN.EŠ₂.AB.BU|
 @form ~e |EŠ₂.NUN.BU|
 @form ~f |EŠ₂.TU.BU|
+@form ~g |BU.NUN.ŠE.EŠ₂|
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
