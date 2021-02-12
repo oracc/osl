@@ -23123,6 +23123,9 @@
 @v	eštaₓ
 @v	i₉ [Ass 00523 = dcclt/signlists:P370411 o i 36]
 @inote	salgues
+@form ~a |ŠITA.GIŠ.NAM₂|
+@inote AbS; more correct description of sign
+@end form
 @end sign
 
 @sign	ŠITA@t
@@ -30203,7 +30206,7 @@
 @form ~d |NUN.EŠ₂.AB.BU|
 @form ~e |EŠ₂.NUN.BU|
 @form ~f |EŠ₂.TU.BU|
-@form ~g |BU.NUN.ŠE.EŠ₂|
+@form ~g |EŠ₂.NUN.BU.ŠE|
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
