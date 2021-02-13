@@ -15680,6 +15680,9 @@
 @ucode x121F4.x121B3.x12292
 @inote dcclt !sg
 @end form
+@form ~b |LAM.RU|
+@inote AbS gods
+@end form
 @end sign
 
 @sign	|LAM.SAG|
