@@ -12991,6 +12991,8 @@
 @uname	CUNEIFORM SIGN KISH
 @ucode	x121A7
 @v	erraₓ
+@v	ilₓ
+@inote ED DN ilₓ(KIŠ)-la see Mander Pantheon p.47, Lambert report of OB gloss i-il-la
 @v	keš
 @v	keše
 @inote	Attinger ~ keš
