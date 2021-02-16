@@ -10738,6 +10738,10 @@
 @v	imina
 @v	umun₇
 @v	umunaₓ
+@form ~a 7(AŠ@c)@l
+@inote this is 7 times 1(AŠ@c) in a single row (@l=linear)
+@inote ED DN AbS 83 r "xii" 6
+@end form
 @end sign
 
 @sign	IN
@@ -17346,6 +17350,7 @@
 @ucode x12232.x12077.x12046
 @form ~e |MUŠ@90.MUŠ@90|
 @form ~f |MUŠ.IR.HA.DIN.BALAG|
+@form ~g |IR.MUŠ.HA.DIN.BALAG|
 @end sign
 
 @sign	|MUŠ.ŠA|
