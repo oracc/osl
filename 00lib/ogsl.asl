@@ -5611,6 +5611,9 @@
 @v	samanₓ
 @inote AbS
 @end form
+@form ~v	|BU.ŠE.EŠ₂.NUN|
+@v	saman₃
+@end form
 @form ~x	|NUN.ŠE.LAL|
 @ucode	x12263.x122BA.x121F2
 @inote		Does this form exist?
