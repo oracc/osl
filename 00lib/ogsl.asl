@@ -5166,6 +5166,8 @@
 @ucode	x12097.x12228.x1222C
 @v	endib
 @v	endub
+@form ~a |ME.MU|
+@v	endibₓ
 @end sign
 
 @sign	|EN.ME.ZI.AN.NA|
@@ -5283,6 +5285,10 @@
 @v	sibir₂
 @v	sullim
 @v?	šibir₂
+@end sign
+
+@sign	|EN×KUR|
+@inote DN in ur3 royal
 @end sign
 
 @sign	|EN×MAŠ|
@@ -17799,6 +17805,7 @@
 @v	nak₂
 @v	nama
 @v	nanga₆
+@v	nanibgalₓ
 @v	nidaba₂
 @v	nisaba₂
 @v	te₃
