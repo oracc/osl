@@ -24656,6 +24656,9 @@
 @v	kiriₓ
 @form	~a |ŠU₂.AD|
 @ucode x122D9.x1201C
+@end form
+@form	~b |DIŠ.AD|
+@inote P010982 = WF 025  = EDATS no. 116 r ii 9
 @end sign
 
 @sign	|U.DAR|
