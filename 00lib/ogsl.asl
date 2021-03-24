@@ -239,6 +239,7 @@
 @ucode x12000.x1204D.x1207A
 @form	~w |A.HA|
 @form	~x |A.HA.DU|
+@form	~y |HA.MUŠ.DU|
 @end sign
 
 @sign	|A.HU.SI|
@@ -455,6 +456,7 @@
 @ucode	x12000.x122E4
 @v	bir₈
 @v	kašbirₓ
+@form ~a |A.BU|
 @end sign
 
 @sign	|A.ŠU.NAGA|
@@ -29392,7 +29394,7 @@
 @end sign
 
 @sign |AŠ&AŠ@180|
-@inote ed3a number
+@inote ed3a number; descriptive name is bad--should be |AŠ&AŠ@180|@90 because the AŠ are vertical not horizontal
 @v gešmin@c
 @end sign
 
