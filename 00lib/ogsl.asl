@@ -15362,6 +15362,7 @@
 @uphase	9
 @ucode	x1250A
 @uname	CUNEIFORM SIGN LAK490
+@v	gaʾar
 @v	gaʾurₓ
 @v	gamurₓ
 @end sign
@@ -24657,7 +24658,7 @@
 @form	~a |ŠU₂.AD|
 @ucode x122D9.x1201C
 @end form
-@form	~b |DIŠ.AD|
+@form	~b AD
 @inote P010982 = WF 025  = EDATS no. 116 r ii 9
 @end sign
 
