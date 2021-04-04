@@ -19811,6 +19811,10 @@
 @v	tir₅
 @end sign
 
+@sign	|(PAN&PAN).(EŠ₂&EŠ₂)|
+@inote for lubšir in OIP 115 247 = P123379. The writing with PAN also in Ura 11 section 1 185 (Q000086).
+@end sign
+
 @sign	PAP
 @list LAK229
 @list MZL092
