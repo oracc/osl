@@ -16756,6 +16756,7 @@
 @ucode	x12223.x12195
 @v?	delluₓ
 @v	dilurₓ
+@v	dimgulₓ
 @v	dirgulₓ
 @v	targulₓ
 @end sign
@@ -19813,6 +19814,7 @@
 
 @sign	|(PAN&PAN).(EŠ₂&EŠ₂)|
 @inote for lubšir in OIP 115 247 = P123379. The writing with PAN also in Ura 11 section 1 185 (Q000086).
+@v	lubširₓ
 @end sign
 
 @sign	PAP
