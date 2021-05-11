@@ -20315,7 +20315,7 @@
 
 @sign	REC107
 @uphase 3
-@inote	check LAK etc., etc.
+@inote	check LAK etc., etc.; merge with SANGA₂?
 @end sign
 
 @sign	RI
