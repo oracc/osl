@@ -1713,6 +1713,7 @@
 @sign	|AN.ŠE.NAGA|
 @ucode	x1202D.x122BA.x12240
 @v	nanibgal₂
+@form ~a |ŠE.NAGA|
 @end sign
 
 @sign	|AN.TU|
