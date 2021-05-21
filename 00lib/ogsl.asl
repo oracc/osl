@@ -6580,7 +6580,9 @@
 @v	bisagₓ
 @v	bisanₓ
 @v	gagi₂
+@v	ŋagi₂
 @v	gagia₂
+@v	ŋagia₂
 @v	gurdub
 @v	pisagₓ
 @v	pisanₓ
@@ -9138,12 +9140,6 @@
 @v	ŋereš₂
 @v	ŋuruš
 @v	murušₓ
-@v	lama₃
-@v	lamar
-@v	lamassu
-@v	lamma
-@v	lammar
-@inote in SF 1 GURUŠ is used for lammar (col i et passim); KAL is used for KAL/RIB (col x 20-21)
 @end sign
 
 @sign	HA
@@ -12153,6 +12149,11 @@
 @v	la₆
 @v	lab
 @v	lala₂
+@v	lama₃
+@v	lamar
+@v	lamassu
+@v	lamma
+@v	lammar
 @v	lap
 @v	lib₂
 @v	lip₂
@@ -12184,6 +12185,9 @@
 @v	ursub₂
 @v?	zi₈
 @v	zurzub₂
+@form ~a GURUŠ
+@v	lamma
+@inote in SF 1 GURUŠ is used for lammar (col i et passim); KAL is used for KAL/RIB (col x 20-21)
 @form ~v KAL@v
 @v	sig₁₅@v
 @end sign
@@ -12617,42 +12621,6 @@
 @v	šakanka
 @end sign
 
-@sign	|KI.LU.EŠ₂|
-@ucode	x121A0.x121FB.x120A0
-@v	ugnimₓ
-@inote	all these ugnims are a mess and should be merged as variants of one sign
-@end sign
-
-@sign	|KI.SU.LU.EŠ₂|
-@ucode	x121A0.x122E2.x121FB.x120A0
-@v	ugnimₓ
-@end sign
-
-@sign	|KI.SU.LU.EŠ₂.GAR.KI|
-@ucode	x121A0.x122E2.x121FB.x120A0.x120FB.x121A0
-@v	ugnimₓ
-@end sign
-
-@sign	|KI.SU.LU.EŠ₂.KI.GAR|
-@ucode	x121A0.x122E2.x121FB.x120A0.x121A0.x120FB
-@v	ugnimₓ
-@end sign
-
-@sign	|SU.LU.EŠ₂.KI.GAR|
-@ucode	x122E2.x121FB.x120A0.x121A0.x120FB
-@v	ugnimₓ
-@end sign
-
-@sign	|SU.LU.ŠU.KI.GAR|
-@ucode	x122E2.x121FB.x122D7.x121A0.x120FB
-@v	ugnimₓ
-@end sign
-
-@sign |KI.SU.LU.GAR.KI|
-@ucode	x121A0.x122E2.x121FB.x120FB.x121A0
-@v	ugnimₓ
-@end sign
-
 @sign	|KI.LUGAL|
 @ucode	x121A0.x12217
 @v	šitenₓ
@@ -12735,36 +12703,22 @@
 @v	ugnim
 @v	uŋnim
 @v	umman
-@end sign
-
-@sign	|KI.SU.LU.EŠ₂.GAR.RA|
-@ucode	x121A0.x122E2.x121FB.x120A0.x120FB.x1228F
-@v	ugnimₓ
-@end sign
-
-@sign	|KI.SU.LU.GAR|
-@ucode	x121A0.x122E2.x121FB.x120FB
-@v	ugnimₓ
-@end sign
-
-@sign	|KI.SU.LU.KI.GAR|
-@ucode	x121A0.x122E2.x121FB.x121A0.x120FB
-@v	ugnimₓ
-@end sign
-
-@sign	|KI.SU.LU.LAGAB×U.GAR|
-@ucode	x121A0.x122E2.x121FB.x121E5.x120FB
-@v	ugnimₓ
-@end sign
-
-@sign	|KI.SU.LU.ŠU.GAR|
-@ucode	x121A0.x122E2.x121FB.x122D7.x120FB
-@v	ugnimₓ
-@end sign
-
-@sign	|KI.SU.ZA.LU.EŠ₂|
-@ucode	x121A0.x122E2.x1235D.x121FB.x120A0
-@v	ugnimₓ
+@form ~a	|KI.LU.EŠ₂|
+@form ~b	|KI.LU.EŠ₂.GAR.SU.GAR.RA|
+@form ~c	|KI.SU.LU.EŠ₂|
+@form ~d	|KI.SU.LU.EŠ₂.GAR.KI|
+@form ~e	|KI.SU.LU.EŠ₂.KI.GAR|
+@form ~f	|KI.SU.LU.GAR.KI|
+@form ~g	|KI.SU.LU.EŠ₂.GAR.RA|
+@form ~h	|KI.SU.LU.GAR|
+@form ~i	|KI.SU.LU.KI.GAR|
+@form ~j	|KI.SU.LU.LAGAB×U.GAR|
+@form ~k	|KI.SU.LU.ŠU.GAR|
+@form ~l	|KI.SU.ZA.LU.EŠ₂|
+@form ~m	|LU.EŠ₂.GAR.KI|
+@form ~n	|SU.KI.LU.EŠ₂.KI|
+@form ~o	|SU.LU.EŠ₂.KI.GAR|
+@form ~p	|SU.LU.ŠU.KI.GAR|
 @end sign
 
 @sign	|KI.ŠEŠ.KAK|
@@ -15852,11 +15806,6 @@
 @form	~d |(LAGAR@g.SU.LU.EŠ₂)&(LAGAR@g.SU.LU.EŠ₂)|
 @form	~e |SU.LU.EŠ₂|
 @ucode x122E2.x121FB.x120A0
-@end sign
-
-@sign	|LU.EŠ₂.GAR.KI|
-@ucode	x121FB.x120A0.x120FB.x121A0
-@v	ugnimₓ
 @end sign
 
 @sign	|LU.HUL₂|
@@ -21657,11 +21606,6 @@
 @ucode	x122E2.x12094
 @v	suburₓ
 @inote	Attinger
-@end sign
-
-@sign	|SU.KI.LU.EŠ₂.KI|
-@ucode	x122E2.x121A0.x121FB.x120A0.x121A0
-@v	ugnimₓ
 @end sign
 
 @sign	|SU.KUR|
@@ -29976,6 +29920,7 @@
 @sign |GAR.SAG.KEŠ₂.SAL|
 @ucode x120FB.x12295.x1219F.x122A9
 @inote dcclt !sg
+@v	ballaₓ
 @end sign
 
 @sign |LAGAB×BAR|
