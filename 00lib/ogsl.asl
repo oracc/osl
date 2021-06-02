@@ -4213,6 +4213,7 @@
 @v	duba₂
 @v	dubu₂
 @v	dup₂
+@v	ŋeštinₓ
 @v?	sagkurini
 @v	tig₃
 @v?	tu₁₆
@@ -27851,6 +27852,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE ASH TENU
 @ucode	x1244D
 @v	5(aš@t)
+@v	murguₓ
 @form ~a 5(AŠ@t@c)
 @v	5(aš@t@c)
 @end sign
