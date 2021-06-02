@@ -1109,6 +1109,7 @@
 @v	šagₓ
 @v	šemₓ
 @v	ubₓ
+@v	zeₓ
 @end sign
 
 @sign	|AB₂.ŠA₃.GI|
@@ -3541,7 +3542,7 @@
 @ucode	x12071
 @v	dar₄
 @v	dara₄
-@v	durahₓ
+@v	durah₂
 @v	gana₆
 @v	ganam₆
 @v	inna
@@ -3553,7 +3554,7 @@
 @v	ninnaₓ
 @v	tara₄
 @inote	Attinger ~ dara₄
-@v	tarahₓ
+@v	tarah₂
 @v	ua₂
 @v	u₁₀
 @end sign
@@ -16278,9 +16279,9 @@
 @end	sign
 
 @sign	LU₂@s
-@list MZL516,
+@list MZL516
+@list REC290
 @list SLLHA330_8n
-@list KWU081
 @list KWU081
 @uphase	1
 @uname	CUNEIFORM SIGN LU2 SHESHIG
@@ -16294,6 +16295,7 @@
 @v	ri₉
 @v	rin₅
 @v?	ug₈
+@inote Krebernik RlA s.v. U.GUR
 @form	~a |LU₂.GAM|
 @ucode x121FD.x120F5
 @v	ad₇ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 21]
@@ -25403,6 +25405,7 @@
 @sign	|UD.AN.UD|
 @ucode	x12313.x1202D.x12313
 @v	šerrida
+@form ~a |AN.UD.AN.UD|
 @end sign
 
 @sign	|UD.DU|
@@ -27559,6 +27562,9 @@
 @v	ušbur₂
 @v	uzu₂
 @v	zuₓ
+@form ~a ZU₅
+@v	azu
+@end form
 @end sign
 
 @sign	|ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)|
@@ -28915,11 +28921,6 @@
 @v     lilisₓ
 @end sign
 
-@sign |AN.UD.AN.UD|
-@ucode x1202D.x12313.x1202D.x12313
-@inote epsd2
-@end sign
-
 @sign |AŠ₂.A|
 @ucode	x1203E.x12000
 @inote epsd2
@@ -30072,10 +30073,6 @@
 @ucode x122FB.x122FB
 @inote etcsri
 @inote hapax--really necessary?
-@end sign
-
-@sign REC290
-@inote etcsri
 @end sign
 
 @sign REC558
