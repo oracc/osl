@@ -25777,6 +25777,7 @@
 @v	šumugₓ
 @v	teh₂
 @v	tehi₂
+@v	turₓ
 @v	u₁₆
 @v	um
 @v	umu
