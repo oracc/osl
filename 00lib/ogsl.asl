@@ -4882,7 +4882,7 @@
 @v	edakuaₓ
 @end sign
 
-@sign |Eₓ×AŠ@t|
+@sign |E₂×AŠ@t|
 @list KWU713
 @list KWU844
 @v	dagₓ
@@ -21441,21 +21441,21 @@
 @nosign	|SIK₂.AŠ|
 @note this is DARA₄ = x12071
 @ucode	x122E0.x12038
-@v	dibₓ
-@v	ganaₓ
-@v	ganamₓ
-@v	gayayuₓ
-@v	laharₓ
-@v	lahruₓ
-@v	mudru₄
-@v	mudrum₄
-@v	šurimₓ
-@v	šuruₓ
-@v	šurumₓ
-@v	šurunₓ
-@v	uₓ
-@v	usₓ
-@v	waₓ
+@v-	dibₓ
+@v-	ganaₓ
+@v-	ganamₓ
+@v-	gayayuₓ
+@v-	laharₓ
+@v-	lahruₓ
+@v-	mudru₄
+@v-	mudrum₄
+@v-	šurimₓ
+@v-	šuruₓ
+@v-	šurumₓ
+@v-	šurunₓ
+@v-	uₓ
+@v-	usₓ
+@v-	waₓ
 @end sign
 
 @sign	|SIK₂.BU|
