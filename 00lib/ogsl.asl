@@ -375,7 +375,7 @@
 @v	au
 @v?	iddir
 @v	samanₓ
-@form	~a	|A.LAK589.SI|
+@form	~a	|A.GISAL.SI|
 @ucode x12000.x12110.x122DB
 @lit	Pomponio 1984 OrNS 53, 7-10
 @end form
@@ -400,7 +400,7 @@
 @form	~h	|SI.GIŠ.PAD.DUG|
 @ucode	x122DB.x12111.x1227B.x12081
 @end form
-@form	~i	|LAK589.PAD.A.SI|
+@form	~i	|GISAL.PAD.A.SI|
 @ucode x12110.x1227B.x12000.x122DB
 @end form
 @form	~j	|A.PA.NE.PAD.SI.A|
@@ -413,10 +413,11 @@
 @form	~l	|A.PA.BI.GIŠ.PAD.SI.A|
 @ucode x12000.x1227A.x12049.x12111.x1227B.x122DB.x12000
 @end form
-@form	~m	|A.GISAL.SI|
+@form	~m	|GISAL.SI|
 @form	~n	|PA.GISAL.SI|
 @form	~o	|GISAL.A.SI|
 @form	~p	|PAD.GISAL.SI.A|
+@form	~q	|GUD.GIŠ×TAK₄.SI|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -14866,11 +14867,6 @@
 @uphase	0
 @end sign
 
-@sign	LAK244
-@list LAK244
-@uphase	0
-@end sign
-
 @sign	LAK246
 @list LAK246
 @uphase	0
@@ -15108,7 +15104,7 @@
 @uphase	0
 @end sign
 
-@sign	|LAK589.PAD.A.SI|
+@sign	|GISAL.PAD.A.SI|
 @ucode x12110.x1227B.x12000.x122DB
 @v	addirₓ
 @end sign
@@ -15328,32 +15324,6 @@
 @v	gaʾar
 @v	gaʾurₓ
 @v	gamurₓ
-@end sign
-
-@sign	|LAK589.A.SI|
-@ucode x12110.x12000.x122DB
-@inote should redo these addirₓ entries as @forms
-@v addirₓ
-@end sign
-
-@sign	|LAK589.PAD.SI|
-@ucode x12110.x1227B.x122DB
-@v addirₓ
-@end sign
-
-@sign	|LAK589.SI|
-@ucode x12110.x122DB
-@v addirₓ
-@end sign
-
-@sign	|LAK589.SI.A|
-@ucode x12110.x122DB.x12000
-@v addirₓ
-@end sign
-
-@sign	|LAK590.SI|
-@ucode x124D9.x122DB
-@v addirₓ
 @end sign
 
 @sign	|LAK648×DUB|
@@ -16497,7 +16467,6 @@
 @sign	LUL
 @list LAK242
 @list LAK243
-@list LAK244
 @list MZL570
 @list OBZL296
 @list SLLHA355
@@ -16552,7 +16521,8 @@
 @inote	salgues
 @form ~a RSP468bis
 @list RSP468bis
-@form ~b RSP468ter
+@inote RSP468bis is apparently not reflected in LAK242/243/244 and needs collation
+@form ~b LAK244
 @list LAK244
 @list RSP468ter
 @end sign
