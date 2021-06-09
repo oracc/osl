@@ -238,8 +238,7 @@
 @form	~v |A.BU.DU|
 @ucode x12000.x1204D.x1207A
 @form	~w |A.HA|
-@form	~x |A.HA.DU|
-@form	~y |HA.MUŠ.DU|
+@form	~x |HA.MUŠ.DU|
 @end sign
 
 @sign	|A.HU.SI|
