@@ -27056,14 +27056,29 @@
 @v	zeₓ
 @end sign
 
-@sign	X
+@sign KWU171
 @list KWU171
+@end sign
+@sign KWU173
 @list KWU173
+@end sign
+@sign KWU290
 @list KWU290
+@end sign
+@sign KWU306
 @list KWU306
+@end sign
+@sign KWU504
 @list KWU504
+@end sign
+@sign KWU672
 @list KWU672
+@end sign
+@sign KWU798
 @list KWU798
+@end sign
+
+@sign	X
 @ucode	X
 @uphase	none
 @v	x
