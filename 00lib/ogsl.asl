@@ -4883,6 +4883,12 @@
 @v	edakuaₓ
 @end sign
 
+@sign |Eₓ×AŠ@t|
+@list KWU713
+@list KWU844
+@v	dagₓ
+@end sign
+
 @sign	|E₂×BAD|
 @uphase	0
 @v?	baragₓ
@@ -4948,14 +4954,13 @@
 
 @sign	|E₂×U|
 @list LAK737
-@list KWU713
-@list KWU844
 @uphase	1
 @uname	CUNEIFORM SIGN E2 TIMES U
 @ucode	x12093
 @v	dagₓ
 @v	sadₓ
 @v	ulaₓ
+@inote LAK737 really is E₂×U; KWU signs are E₂×AŠ@t
 @end sign
 
 @sign	EDIN
