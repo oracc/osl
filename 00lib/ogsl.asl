@@ -9092,6 +9092,9 @@
 @v	taru
 @end sign
 
+@sign	|GUR×AŠ@c|
+@end sign
+
 @sign	GUR₇
 @list MZL819
 @list OBZL396
@@ -10568,7 +10571,7 @@
 @v	tu₁₅
 @v	tum₉
 @v	tumu
-@form ~a LAK377
+@form ~a NI₂
 @inote ur-{d}iškur(LAK377) in P250715 l.3
 @end sign
 
