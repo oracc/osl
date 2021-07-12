@@ -17867,6 +17867,7 @@
 @uname	CUNEIFORM SIGN NAM
 @ucode	x12246
 @v-	biₓ
+@v	ber₅
 @v	bir₅
 @v	na₇
 @v	nam
