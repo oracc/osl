@@ -5815,6 +5815,11 @@
 @end form
 @end sign
 
+@sign	|EZEN×BAD.SI.AB.BA|
+@v	barsip
+@inote for eISL
+@end sign
+
 @sign	|EZEN×DUN₃@g|
 @uphase	1
 @uname	CUNEIFORM SIGN EZEN TIMES DUN3 GUNU
