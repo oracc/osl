@@ -5373,6 +5373,8 @@
 @v	suₓ
 @v	še₂₂
 @v	šeš₄
+@v	inšušinaₓ
+@inote MC 25, 481 iii 8.
 @form ~a |SIK₂.NUN|
 @ucode x122E0.x12263
 @inote The form is found in Hattuša lexical texts
