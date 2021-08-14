@@ -16288,7 +16288,7 @@
 @form	~b |LU₂×GAM|
 @v	kama₆ [CUSAS 12 1.1.2 = dcclt/sgnlists:P342645 o ii 24 |LU₂×GAM| @ GAM]
 @inote	salgues
-@v	kamat [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 25 |LU₂×GAM| @ GAM]
+@v	kamad [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 25 |LU₂×GAM| @ GAM]
 @inote	salgues
 @v	lugam [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 23 |LU₂×GAM| @ GAM]
 @inote	salgues
