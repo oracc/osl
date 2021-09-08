@@ -5329,6 +5329,7 @@
 @v	adamen₅
 @v	adamin₅
 @v	dalhamun₂
+@v	mereₓ
 @v	merimer
 @v	merimeri
 @v	mermer
@@ -13423,6 +13424,7 @@
 @list OBZL457
 @list SLLHA562
 @list KWU794
+@list LAK304
 @uphase	1
 @uname	CUNEIFORM SIGN KUSHU2
 @ucode	x121B5
@@ -19625,6 +19627,7 @@
 @ucode	x1227A.x12306
 @v	enšada
 @v	enšadu
+@v	ninšaduₓ
 @v	nuska
 @v	nuška
 @v	nusku
