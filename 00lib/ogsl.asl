@@ -19627,7 +19627,7 @@
 @ucode	x1227A.x12306
 @v	enšada
 @v	enšadu
-@v	ninšaduₓ
+@v	ninšatumₓ
 @v	nuska
 @v	nuška
 @v	nusku
