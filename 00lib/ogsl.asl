@@ -338,6 +338,7 @@
 @v	esir
 @v	ešer
 @v	kuninₓ
+@v	buniŋₓ
 @v	sarₓ
 @end sign
 
