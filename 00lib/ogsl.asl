@@ -493,6 +493,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN ASAL2
 @ucode	x12037
+@list LAK212
+@list BAU134
 @lit  Krebernik, OBO 160/1, 283
 @end form
 @form	~b |A.TU.NUN&NUN|
@@ -5817,6 +5819,11 @@
 @form ~c |EZEN.AN|
 @inote SF 1 = P010566 r x 8' but not completely certain.
 @end form
+@end sign
+
+@sign	|EZEN×BAD.SI.AB.BA|
+@v	barsip
+@inote for eISL
 @end sign
 
 @sign	|EZEN×DUN₃@g|
@@ -17142,6 +17149,9 @@
 @v	taha
 @v	tuh₂
 @v	ṭah
+@form ~a |ŠE&ŠE|
+@inote Nisaba 25 p.29
+@end form
 @end sign
 
 @sign	MUG
@@ -19444,6 +19454,7 @@
 
 @sign	|PA.EL.BU@g|
 @v	sugₓ
+@form ~a |PA.EL.SUD|
 @end sign
 
 @sign	|PA.GA₂|
@@ -21564,6 +21575,9 @@
 @v	šagia
 @end form
 @form	~h |SILA₃.ŠU|
+@v	šagia
+@end form
+@form	~i |TAK₄.SILA₃.GABA|
 @v	šagia
 @end form
 @end sign
