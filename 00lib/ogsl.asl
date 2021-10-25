@@ -7451,6 +7451,10 @@
 @inote	Attinger ~ sag₇
 @v	seg₁₆
 @v	sig₁₆
+@form ~a |GAN×HI|
+@v	he₂
+@inote Nisaba 25
+@end form
 @end sign
 
 @sign	GAN@s
