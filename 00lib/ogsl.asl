@@ -542,7 +542,7 @@
 @end sign
 
 @sign	|A₂.ZA.AN.MUŠ₃|
-@ucode	x12000.x1235D.x1202D.x12239
+@ucode	x12009.x1235D.x1202D.x12239
 @v	aškudₓ
 @end sign
 
@@ -2777,22 +2777,22 @@
 @end sign
 
 @sign	|BI.ZIZ₂|
-@ucode	x12049.x1203E
+@ucode	x12049.x12369
 @v	{kaš}ulušinₓ
 @end sign
 
 @sign	|BI.ZIZ₂.A.AN|
-@ucode	x12049.x1203E.x12000.x1202D
+@ucode	x12049.x12369.x12000.x1202D
 @v	{kaš}ulušin
 @end sign
 
 @sign	|BI.ZIZ₂.AN|
-@ucode	x12049.x1203E.x1202D
+@ucode	x12049.x12369.x1202D
 @v	{kaš}ulušin₃
 @end sign
 
 @sign	|BI.ZIZ₂.AN.NA|
-@ucode	x12049.x1203E.x1202D.x1223E
+@ucode	x12049.x12369.x1202D.x1223E
 @v	{kaš}ulušin₂
 @end sign
 
@@ -3234,7 +3234,7 @@
 @list LAK744
 @uphase	1
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES GA
-@ucode	x1205C
+@ucode	x1205B
 @v	akan
 @v	akani
 @v	haraₓ
@@ -15899,14 +15899,14 @@
 @end sign
 
 @sign	|LU₂.SU|
-@ucode	x121FB.x122E2
+@ucode	x121FD.x122E2
 @v	šimašgi
 @inote CDLI
 @v	šimaški
 @end sign
 
 @sign	|LU₂.SU.A|
-@ucode	x121FB.x122E2.x12000
+@ucode	x121FD.x122E2.x12000
 @v	šimašgi₂
 @inote CDLI
 @v	šimaški₂
@@ -16347,7 +16347,7 @@
 @end sign
 
 @sign	|LU₃.PAP.PAP|
-@ucode	x12048.x1227D.x1227D
+@ucode	x12216.x1227D.x1227D
 @v	titab₂
 @form	~a |PAP.PAP.LU₃|
 @ucode x1227D.x1227D.x12216
@@ -19398,13 +19398,13 @@
 @end sign
 
 @sign	|PA.DAG.KISIM₅×GUD|
-@ucode	x1227A.x12056
+@ucode	x1227A.x1205F
 @v	udul₁₁
 @v	utul₁₁
 @end sign
 
 @sign	|PA.DAG.KISIM₅×KAK|
-@ucode	x1227A.x12056
+@ucode	x1227A.x12063
 @v	gabar
 @v	kabar
 @v	kapar
@@ -23477,7 +23477,7 @@
 @v	sulgar
 @v	šuhub
 @form ~a	|BAR.3×AN|
-@ucode	x12047.x1202E.x1202D
+@ucode	x12047.x1202F
 @note  The sign |BAR.3×AN| is a third millennium/OB variant of |ŠU₂.3×AN| and is thus not associated with kunga.
 @v-	kungaₓ
 @v	suhub
@@ -23561,7 +23561,7 @@
 @list SLLHA545
 @list KWU503
 @list KWU570
-@ucode	x122D9
+@ucode	x122D9.x12088
 @v	šudul
 @v	šudulu
 @v	šudun
@@ -29148,7 +29148,7 @@
 @end sign
 
 @sign |ŠEŠ.KI.DIM×ŠE|
-@ucode	x12016.x1202D.x122C0.x121A0
+@ucode	x122C0.x121A0.x12075
 @inote epsd2
 @v     munzerₓ
 @end sign
@@ -29189,7 +29189,7 @@
 @end sign
 
 @sign	|UD.MA₂.AB×(U.U.U).ŠIR|
-@ucode	x12313.x12223.x12014.x1230B.None.x122D3
+@ucode	x12313.x12223.x12014.x122D3
 @v	siraraₓ
 @end sign
 
@@ -29658,7 +29658,7 @@
 @end sign
 
 @sign |U.GIŠ%GIŠ|
-@ucode	x1230B.x12263
+@ucode	x1230B.x12112
 @inote epsd2/praxis
 @v     šennurₓ
 @end sign
