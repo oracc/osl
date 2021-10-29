@@ -16329,6 +16329,9 @@
 @v	arinaₓ
 @end sign
 
+@sign	LU₂@90
+@end sign
+
 @sign	LU₃
 @list LAK790
 @list MZL555
