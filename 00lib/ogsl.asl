@@ -23113,7 +23113,7 @@
 
 @sign	ŠITA₂
 @uphase	0
-@ucode	x120B7.x12111
+@ucode x122D6.x12111
 @v	ešda
 @v	gišha
 @v?	ha₈
@@ -23131,10 +23131,6 @@
 @end form
 @form ~b |NI.DIŠ.GIŠ|
 @ucode x1224C.x12079.x12111
-@inote dcclt !sg
-@end form
-@form ~c |ŠITA.GIŠ|
-@ucode x122D6.x12111
 @inote dcclt !sg
 @end form
 @end sign
