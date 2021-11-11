@@ -19400,6 +19400,11 @@
 @v	kuš₄
 @end sign
 
+@sign	|PA.DAG.KISIM₅×GA|
+@ucode	x1227A.x1205B
+@v	kabarₓ
+@end sign
+
 @sign	|PA.DAG.KISIM₅×GUD|
 @ucode	x1227A.x1205F
 @v	udul₁₁
