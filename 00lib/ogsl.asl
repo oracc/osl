@@ -26057,6 +26057,11 @@
 @v	dulₓ
 @end sign
 
+@sign	|UR×SAG|
+@v gudaₓ
+@inote utugin eta
+@end sign
+
 @sign	|UR%UR|
 @list HZL051
 @list OBZL252
