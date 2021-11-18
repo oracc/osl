@@ -1700,6 +1700,9 @@
 @sign	|AN.NAGA|
 @ucode	x1202D.x12240
 @v	nanibgal
+@form ~a |AN.ŠE.NAGA.GAL|
+@v	nanibgalₓ
+@end form
 @end sign
 
 @sign	|AN.SAL.TUG₂.IB|
@@ -17580,6 +17583,7 @@
 @v	sedi₈
 @v	še₅
 @v	šed₈
+@v	šubₓ
 @end form
 @form ~i	|ZA.MUŠ₃@g.DI|
 @ucode	x1235D.x1223D.x12072
