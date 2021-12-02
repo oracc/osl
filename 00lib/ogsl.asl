@@ -2441,6 +2441,7 @@
 @v	sugin
 @v	sungin
 @v	ṣiṣ
+@v	ṭel [K 24 iii 10 = eisl:Q003072 c+064, e-ṭel-li]
 @v	ti₅
 @v	tile
 @v	ṭil₂
@@ -8521,6 +8522,7 @@
 @v	gištug₂
 @v	ŋištug₂
 @v	ŋištu₂
+@v	muštugₓ
 @end sign
 
 @nosign	|GIŠ.TUG₂.PI.BU@t.NUN|
@@ -10394,6 +10396,11 @@
 @v	hul
 @v	hula
 @v	hulu
+@end sign
+
+@sign	|IGI.UR.SAR|
+@v	isimudₓ
+@inote from ISL Q003051--what is evidence?
 @end sign
 
 @sign	|IGI.UR.RU.GAR|
@@ -25480,6 +25487,9 @@
 @ucode x12313.x12263.x12112
 @v	buranunₓ
 @v	zimbirₓ
+@end form
+@form	~e |UD.GIŠ%GIŠ.NUN.KI|
+@v	buranunₓ
 @end form
 @end sign
 
