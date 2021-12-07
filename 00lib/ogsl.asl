@@ -7082,8 +7082,6 @@
 @list LAK677
 @uphase	9
 @ucode x124C8
-#@ucode	x124CA
-@inote NV Unicode 124CA is now part of the Early Dynastic unicode code block and is assigned to GEŠTIN TIMES U. 120E2 belongs to SILA4.
 @uname 	CUNEIFORM SIGN GA2 TIMES ZIZ2
 @v	gazi
 @v	gazaₓ
