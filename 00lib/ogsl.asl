@@ -14660,6 +14660,7 @@
 
 @sign	LAK384
 @list	LAK384
+@ucode x124EE
 @v	saŋₓ
 @inote epsd2 e₂-saŋₓ = esaŋ[store]
 @end sign
@@ -14671,6 +14672,7 @@
 
 @sign	LAK450
 @list LAK450
+@ucode x124F7
 @end sign
 
 @sign	LAK453
@@ -15161,6 +15163,7 @@
 
 @sign	LAK617
 @uphase	0
+@ucode x12501
 @note	exists only as container sign; variant of EZEN LAK611
 @end	sign
 
@@ -15390,6 +15393,7 @@
 @sign	|LAK648×NI|
 @pname	|URU×MIN+NI|
 @uphase	0
+@ucode x12512
 @v	šakirₓ
 @end sign
 
@@ -17165,6 +17169,7 @@
 @v	tuh₂
 @v	ṭah
 @form ~a |ŠE&ŠE|
+@ucode x12532
 @inote Nisaba 25 p.29
 @end form
 @end sign
@@ -22745,6 +22750,7 @@
 @v	zandara
 @form	~a LAK636
 @list LAK636
+@ucode x1250C
 @v	silaₓ
 @end	form
 @end sign
@@ -26135,6 +26141,7 @@
 
 @sign	UR₂@h
 @uphase 1.1
+@ucode x1253C
 @note	P221788 = BiMes 3, 15 rev. 2 line 5
 @end sign
 
