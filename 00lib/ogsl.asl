@@ -18647,6 +18647,10 @@
 @inote	salgues
 @end sign
 
+@sign	|NINDA₂×ŠIM|
+@inote ED I-II Ur
+@end sign
+
 @sign	|NINDA₂×U|
 @list LAK102
 @uphase	9
@@ -19450,6 +19454,11 @@
 @sign	|PA.DU|
 @ucode	x1227A.x1207A
 @v	maškim₃
+@end sign
+
+@sign	|KASKAL.PA.DU|
+@ucode	x1227A.x1207A
+@v	maškimₓ
 @end sign
 
 @sign	|PA.DU@g|
@@ -26412,6 +26421,10 @@
 @ucode	x1215E
 @v	unkinₓ
 @end form
+@end sign
+
+@sign |UNKIN×DUG|
+@inote ED I/II Ur, Nisaba 25, 71; check description is URU×BAR valid for UNKIN here?
 @end sign
 
 @sign	|URU×DARA₃|
