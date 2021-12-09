@@ -5506,6 +5506,8 @@
 @inote this should probably be moved to be an @form of GAN₂@t
 @v	eš₂@t
 @inote eš₂@t is used in the ed3b corpus in lu₂-eš₂/eš₂@t-gid₂
+@v	še₃@t
+@inote še₃@t also in ed3b in prefix še₃@t-til₃; once ši-til₃
 @v	karₓ
 @v	karaₓ
 @v	kiriₓ
