@@ -17234,6 +17234,10 @@
 @form ~a |SIK₂.SUHUR|
 @ucode x122E0.x122E6
 @end form
+@form ~b |PA.MUNSUB|
+@v	munsubₓ
+@inote ED I-II Ur
+@end form
 @end sign
 
 @sign	MURGU₂
