@@ -19461,7 +19461,7 @@
 @end sign
 
 @sign	|KASKAL.PA.DU|
-@ucode	x1227A.x1207A
+@ucode	x1219C.x1227A.x1207A
 @v	maškimₓ
 @end sign
 
