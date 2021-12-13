@@ -2335,9 +2335,9 @@
 @end sign
 
 @sign	|AŠ₂.GAR₃|
-@list LAK779?
 @ucode	x1203E.x120FC
 @v	ešgar
+@inote if LAK779 is a writing for ešgar then AŠ₂.GAR is a reintepretation of the sign form
 @end sign
 
 @sign	|AŠ₂.U|
@@ -11765,6 +11765,7 @@
 @ucode	x12183
 @v	adabₓ
 @v	burₓ
+@v	subₓ
 @v	šeₓ
 @v	šedₓ
 @v	šegₓ
@@ -14711,6 +14712,10 @@
 @list LAK500
 @uphase	0
 @v	ilₓ
+@end sign
+
+@sign LAK779
+@list LAK779
 @end sign
 
 @sign	LAK3
@@ -18913,6 +18918,10 @@
 @note	See Veldhuis JCS 54, 72-74
 @v-	šurumₓ
 @v	tur₃
+@form ~a LAK077
+@v	šilamₓ
+@inote not clear that LAK077 and LAK078 need to be differentiated.
+@end form
 @end sign
 
 @sign	|NUN.LAGAR×GAR|
@@ -21415,6 +21424,7 @@
 @uname	CUNEIFORM SIGN SIG4
 @ucode	x122DE
 @v	bar₅
+@v	egarₓ
 @v?	eger₆
 @v?	egir₆
 @v	gar₈
@@ -24238,6 +24248,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN TE GUNU
 @ucode	x122FD
+@v	galₓ
 @v	gar₁₃
 @v	gur₈
 @v	gura₈
@@ -30296,6 +30307,7 @@
 @sign	|ŠE.BU.EŠ₂.NUN|
 @ucode x122BA.x1204D.x120A0.x12263
 @inote admin/ed3b
+@v	šaŋanₓ
 @v	samanₓ
 @end sign
 
