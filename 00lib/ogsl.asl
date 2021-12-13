@@ -1604,6 +1604,9 @@
 @ucode x12038.x12038
 @v	tillaₓ
 @end form
+@form	~d |AN.AN|
+@v	tillaₓ
+@end form
 @end sign
 
 @sign	|AN.AŠ@z.AN|
@@ -3696,6 +3699,7 @@
 @list MZL168
 @list OBZL015
 @list KWU086
+@list LAK055
 @uphase	1
 @uname	CUNEIFORM SIGN DIM TIMES SHE
 @ucode	x12075
@@ -3714,6 +3718,7 @@
 @lit	Civil, ZA 74, 162
 @end form
 @form ~b	DIM@g
+@list LAK056
 @list RSP426a
 @v	mun
 @lit	Civil, ZA 74, 162; Civil ARES 4, 86.
@@ -9341,11 +9346,9 @@
 @end sign
 
 @sign	|HI.GIR₃|
-@list LAK240
 @list MZL645
 @list OBZL294
 @list SLLHA402
-@list KWU474
 @ucode	x1212D.x1210A
 @v	alimₓ
 @v	hiš₄
@@ -9358,8 +9361,12 @@
 @inote	Attinger
 @end form
 @form ~b |GIR₃×HI|
+@list KWU474
 @v	huš
-@inote Uncertain, needs collation, see P228804 vi 29
+@inote Uncertain, needs collation, see P228804 vi 29; what is uncertain about this?
+@end form
+@form ~c LAK240
+@inote this form has no HI component
 @end form
 @end sign
 
@@ -9514,6 +9521,7 @@
 @form ~d |HI×DIŠ|
 @form ~e |HI×AŠ@c|
 @form ~f |HI×U|
+@form ~g |HI×MAŠ|
 @end sign
 
 @sign	|HI×DIŠ|
@@ -16678,6 +16686,10 @@
 @v	wa₆
 @end sign
 
+@sign	|MA×GAN₂@t|
+@inote ed3b, collated from photo P225807; GAN₂@t runs SW to NE not NE to SW, i.e., is rotated -90 degrees
+@end sign
+
 @sign	|MA@g×TAK₄|
 @uphase	1
 @uname	CUNEIFORM SIGN MA GUNU TIMES TAK4
@@ -17050,6 +17062,7 @@
 @v	ŋi₆
 @v	ŋizza [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 62']
 @inote	salgues
+@v	ŋissu [CUSAS 36, 393 = epsd2/admin/ed3b:P252822 r ii 2, e₂-ŋissu-bi-dug₃]
 @v	ku₁₀
 @v	ku₁₀-ku₁₀
 @v	kukku₅
@@ -20215,6 +20228,7 @@
 @v      az⁻
 @inote	Attinger
 @end form
+@form ~b |ZA.PIRIG|
 @end sign
 
 @sign	|PIRIG@PIRIG|
@@ -22965,6 +22979,10 @@
 @ucode x122C6.x120FB
 @inote dcclt !sg
 @end form
+@end sign
+
+@sign	|ŠIM×HI|
+@inote ed3b collated from photo P250939 = CUSAS 35, 010 
 @end sign
 
 @sign	|ŠIM×IGI|
@@ -26320,6 +26338,8 @@
 @v	ur₁₀
 @v	uri
 @v	uru₁₉
+@form ~a RSP380b
+@inote cp LAK576 which is similar but not identical
 @end sign
 
 @sign	URI₃
@@ -26876,6 +26896,7 @@
 @v	gurušₓ
 @v	ŋeš₃
 @v	ŋiš₃
+@v	irₓ
 @v	iš₁₀
 @v	mešₓ
 @v	mišₓ
@@ -30022,6 +30043,10 @@
 @v	rigₓ
 @form ~a |SAL.HUB₂.DU|
 @ucode x122A9.x12138.x1207A
+@end form
+@form ~b DU
+@v	rigₓ
+@end form
 @end sign
 
 @sign X₃
@@ -30102,6 +30127,7 @@
 @ucode x122F3.x12263
 @inote etcsri
 @v	uttuₓ
+@form ~a |NUN.TAG|
 @end sign
 
 @sign |LU₂×BAD.BAD.A|
