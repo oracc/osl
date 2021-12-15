@@ -7912,6 +7912,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN GI TIMES U
 @ucode	x12102
+@v	henburₓ
 @end sign
 
 @sign	|GI%GI|
