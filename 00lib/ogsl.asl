@@ -6323,8 +6323,8 @@
 @inote dcclt !sg
 @end sign
 
-@sign	|GA₂×AN.KAK.A|
-@ucode	x120BC.x12195.x12000
+@sign	|GA₂×(AN.KAK.A)|
+@ucode	x12379
 @v	usud
 @end sign
 
