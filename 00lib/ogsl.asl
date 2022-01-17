@@ -16025,8 +16025,8 @@
 @v	ereₓ
 @end sign
 
-@sign	|LU₂×EŠ₂.LAL|
-@ucode	x12200.x121F2
+@sign	|LU₂×(EŠ₂.LAL)|
+@ucode	x1238A
 @v	[...]
 @v	ešela
 @v	ešelal
