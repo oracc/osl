@@ -18231,6 +18231,7 @@
 @sign	|NI.HUB₂|
 @ucode	x1224C.x12138
 @v	emerahₓ
+@form ~a |UD.NI.HUB₂|
 @end sign
  
 @sign	|NI.NI|
