@@ -18574,6 +18574,7 @@
 @v	aŋa₂
 @v	aka₂
 @v	am₂
+@v	aq₂
 @v	eg₃
 @v	eŋ₃
 @v	em₃
