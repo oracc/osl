@@ -5239,6 +5239,9 @@
 @ucode x122A9.x1226D.x12363.x1202D.x122C0.x121A0
 @v	zirruₓ
 @end form
+@form ~b |AN.EN.NU.NUNUZ.ZI.AN.ŠEŠ.KI|
+@v	zirruₓ
+@end form
 @end sign
 
 @sign	|EN.ŠEŠ|
