@@ -6323,8 +6323,8 @@
 @inote dcclt !sg
 @end sign
 
-@sign	|GA₂×AN.KAK.A|
-@ucode	x120BC.x12195.x12000
+@sign	|GA₂×(AN.KAK.A)|
+@ucode	x12379
 @v	usud
 @end sign
 
@@ -16025,8 +16025,8 @@
 @v	ereₓ
 @end sign
 
-@sign	|LU₂×EŠ₂.LAL|
-@ucode	x12200.x121F2
+@sign	|LU₂×(EŠ₂.LAL)|
+@ucode	x1238A
 @v	[...]
 @v	ešela
 @v	ešelal
