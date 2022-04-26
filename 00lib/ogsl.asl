@@ -9265,6 +9265,7 @@
 @v	qir
 @v	qiri
 @v	šegₓ
+@v	zahₓ
 @form ~a HA
 @v      gir⁻
 @inote	Attinger ~ gir
