@@ -12320,6 +12320,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KASKAL
 @ucode	x1219C
+@v	gaešₓ
 @v	garašₓ
 @v	harranₓ
 @v	bu₂
@@ -17236,6 +17237,7 @@
 @v	uttu₄
 @v	wuk
 @v	zadimₓ
+@form ~a |MUG.DIŠ|
 @end sign
 
 @sign	MUG@g
@@ -18165,6 +18167,9 @@
 @form ~j |GIŠ.NE.PAP|
 @v    bilₓ
 @inote ed3a
+@end form
+@form ~k |GIŠ.PAP.NE@s|
+@v    bilₓ
 @end form
 @end sign
 
@@ -19720,6 +19725,7 @@
 @v	nuška
 @v	nusku
 @form ~a |PA.LU|
+@form ~b |PA.NAM₂|
 @end sign
 
 @sign	|PA.TUK.DU|
@@ -23218,6 +23224,8 @@
 @ucode x1224C.x12079.x12111
 @inote dcclt !sg
 @end form
+@form ~c LAK489
+@inote FIXME: Consider this the base form of ŠITA₂? sign name here ŠITA₂ is being used for compound |ŠITA.GIŠ| which is not our normal practice
 @end sign
 
 @sign	ŠU
@@ -25293,6 +25301,9 @@
 @end form
 @form	~b |U₂.NAGA.A|
 @ucode x12311.x12240.x12000
+@v	ugaₓ
+@end form
+@form	~c |NAGA.U₂|
 @v	ugaₓ
 @end form
 @end sign
