@@ -5655,6 +5655,9 @@
 @ucode	x12263.x122BA.x121F2
 @inote		Does this form exist?
 @end form
+@form ~y	|EŠ₂.SUD.NUN|
+@v	samanₓ
+@end form
 @end sign
 
 @sign	|EŠ₂.ŠE|
