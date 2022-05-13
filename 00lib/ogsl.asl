@@ -635,6 +635,10 @@
 @v	šeš₃
 @end sign
 
+@sign	|A×KU₃|
+@inote oakk PN
+@end sign
+
 @sign	|A×LAGAR@g|
 @list MZL843
 @list SLLHA582
@@ -8469,7 +8473,8 @@
 @v	pil₃
 @v	šegₓ
 @v	ubilla
-@form	~a |GIŠ.NE|
+@form	~a |GI.NE|
+@inote P323750 CUSAS 19 066 o 5: needs collation--for GIŠ.NE?
 @end sign
 
 @sign	|GIŠ.NE@s.GA.ME.U.U.U|
@@ -11175,6 +11180,10 @@
 @uname	CUNEIFORM SIGN KA TIMES BU
 @v	? [CUSAS 12, 6.1.2 = cdli:P252191 r ii' 1]
 @end	sign
+
+@sign	|KA×DIŠ|
+@inote OAkk PN
+@end sign
 
 @sign	|KA×DUB₂|
 @uphase	1
@@ -26775,6 +26784,10 @@
 @end sign
 
 @sign |URU×ŠEŠ₂|
+@end sign
+
+@sign |URU×TIL|
+@inote OAkk PN
 @end sign
 
 @sign	|URU×TU|
