@@ -2354,6 +2354,7 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN SIX DISH
 @ucode	x1240B
+@v	iₓ
 @end sign
 
 @sign	AŠGAB
@@ -7476,6 +7477,7 @@
 @end sign
 
 @sign	GAN@s
+@v	ganₓ
 @end sign
 
 @sign	GAN₂
@@ -8467,6 +8469,7 @@
 @v	pil₃
 @v	šegₓ
 @v	ubilla
+@form	~a |GIŠ.NE|
 @end sign
 
 @sign	|GIŠ.NE@s.GA.ME.U.U.U|
@@ -8648,6 +8651,7 @@
 @uphase	9
 @ucode x124CB
 @uname	CUNEIFORM SIGN GISH TIMES GISH CROSSING GISH
+@v	ulₓ
 @end sign
 
 @sign	|GIŠ×TAK₄|
@@ -21717,6 +21721,9 @@
 @v	šurupak
 @v	šuruppag
 @v	šuruppak
+@form ~a |SU.LAM.KUR.RU|
+@v	šuruppakₓ
+@end form
 @end sign
 
 @sign	|SU.RU×KUR|
@@ -23618,6 +23625,9 @@
 @form ~d |ŠU₂.AN|
 @ucode x122D9.x1202D
 @v	keš₃
+@end form
+@form ~e |AN.HI×GAD|
+@v	kešₓ
 @end form
 @end sign
 
