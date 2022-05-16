@@ -237,8 +237,13 @@
 @end form
 @form	~v |A.BU.DU|
 @ucode x12000.x1204D.x1207A
+@end form
 @form	~w |A.HA|
+@end form
 @form	~x |HA.MUŠ.DU|
+@end form
+@form	~y |HA.A.DU|
+@end form
 @end sign
 
 @sign	|A.HU.SI|
@@ -2859,6 +2864,11 @@
 @ucode	x1204A
 @end sign
 
+@sign	|BI×DIŠ|
+@v	bappirₓ
+@v	lungaₓ
+@end sign
+
 @sign	|BI×GAR|
 @list LAK641
 @list MZL361
@@ -3809,6 +3819,10 @@
 @v	tin
 @v	ṭen
 @v?	ṭin
+@end sign
+
+@sign	|DIN.KASKAL|
+@v kurunₓ
 @end sign
 
 @sign	|DIN.KASKAL.U@g.DIŠ|
@@ -8536,6 +8550,7 @@
 
 @sign	|GIŠ.TUG₂.PI|
 @ucode	x12111.x12306.x1227F
+@v	azlagₓ
 @v	gešdu₂
 @v	geštu₂
 @v	geštug₂
@@ -15486,6 +15501,10 @@
 @v	šuruₓ
 @v	zur₅
 @v	zuru₅
+@end sign
+
+@sign	|LAL.DUG|
+@v	ummuₓ
 @end sign
 
 @sign	|LAL.KAK|
@@ -22906,6 +22925,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN SHIM
 @ucode	x122C6
+@v	birₓ
 @v	asila₂
 @v	asilal₂
 @v	asilla₂
@@ -25655,6 +25675,7 @@
 @ucode	x12313.x12137.x1212D.x12263
 @v	abbununna
 @v	abbununnu
+@v	adabₓ
 @v	ibbanunna
 @form ~a	|UD.HU.HI.NUN.NA|
 @ucode	x12313.x12137.x1212D.x12263.x1223E
@@ -30261,6 +30282,7 @@
 
 @sign LAK734
 @inote admin/names
+@v	gukkalₓ
 @end sign
 
 @sign |KAM×U|
@@ -30496,6 +30518,7 @@
 @ucode x12369.x1202D.x1202D
 @inote admin/ed3b
 @v	imgagaₓ
+@form	~a |ZIZ₂.AN.AN.AN|
 @end sign
 
 @sign	|ŠE&ŠE.KIN|
