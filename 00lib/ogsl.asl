@@ -19585,6 +19585,7 @@
 @sign	|PA.EL.BU@g|
 @v	sugₓ
 @form ~a |PA.EL.SUD|
+@form ~b |EL.SUD|
 @end sign
 
 @sign	|PA.GA₂|
