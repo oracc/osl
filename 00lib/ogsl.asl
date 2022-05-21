@@ -534,6 +534,8 @@
 @form	~k |A.TU.NUN&NUN.GABA.LIŠ|
 @ucode x12000.x12305.x1226A.x120EE.x121FA
 @end form
+@form	~l |A.TU.A.TU.GABA.LIŠ|
+@end form
 @end sign
 
 @sign	|A.TUR|
@@ -8135,6 +8137,7 @@
 @v	merₓ
 @v	miriₓ
 @v	qir₇
+@v	šaŋanₓ
 @v	sakkan
 @v	sumugan
 @v	sumugga
@@ -16781,6 +16784,11 @@
 @ucode	x12223
 @v	huₓ
 @v	ma₂
+@end sign
+
+@sign	|MA₂.HU|
+@v	uₓ
+@inote CUSAS 11 183 no photo.
 @end sign
 
 @sign	|MA₂.KAK|
@@ -25557,6 +25565,10 @@
 @v	saguš
 @v	saŋus
 @v	saŋuš
+@form	~a |DU₆×DU×KASKAL|
+@v	eₓ
+@inote CUSAS 11 187, no photo; DU×KASKAL is presumably a variant of DU@s
+@end form
 @end sign
 
 @sign	|UD.DU.BU|
