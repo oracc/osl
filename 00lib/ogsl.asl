@@ -11006,7 +11006,8 @@
 @note	Paralells KA.NU in SF 20
 @end sign
 
-@sign	|KA.AN|
+@nosign	|KA.AN|
+@note	error for |KA₂.AN| (resolved)
 @ucode	x12157.x1202D
 @v	babila
 @end sign
@@ -11016,10 +11017,11 @@
 @v	kurku₂
 @end sign
 
-@sign	|KA.AN.RA|
+@nosign	|KA.AN.RA|
 @ucode	x12157.x1202D.x1228F
 @v	babila₂
 @note	presumably this is an error for |KA₂.AN.RA|; CHECK.
+@note	indeed.
 @end sign
 
 @sign	|KA.BALAG.GA₂.TE.A.DU@s.ZA.NA|
@@ -11990,13 +11992,14 @@
 
 @sign	|KA₂.AN|
 @ucode	x1218D.x1202D
-@v	babilaₓ
+@v	babila
 @v	babilim
 @v	babilima
 @end sign
 
 @sign	|KA₂.AN.RA|
-@ucode	x1218D.x1202D.x1228F
+@ucode	x1218D.x1202D.x1228F\
+@v	babila₂
 @v	babilim₂
 @v	babilima₂
 @end sign
