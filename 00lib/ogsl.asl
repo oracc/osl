@@ -11905,8 +11905,8 @@
 @v	tuₓ
 @v	za₆
 @v	zu₉
-@v	zu·liₓ
-@v	zu°liₓ
+@v	zuliₓ
+@v	zuliₓ
 @end sign
 
 @sign	|KA×UD.BAR|
