@@ -1055,6 +1055,9 @@
 @v	unug⁻
 @inote	Attinger ~ unug
 @end form
+@form ~b MURUB₄
+@inote sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
+@end form
 @end sign
 
 @sign	|AB@g.MUŠ₃.ZA|
