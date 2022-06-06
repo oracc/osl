@@ -14385,6 +14385,7 @@
 @v	me₉
 @v?	muššagana₂
 @v	sagdudu
+@v	saŋdudu
 @form	~a |LAGAB×(ŠITA.GIŠ.ERIN₂)|
 @pname	|LAGAB×ŠITA+GIŠ+ERIN₂|
 @uphase	1
@@ -14392,11 +14393,13 @@
 @ucode	x121DD
 @v	meₓ
 @v	sagduduₓ
+@v	sŋgduduₓ
 @end form
 @form	~b |LAGAB×ŠITA₂|
 @v	me₉ [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 3']
 @inote	salgues
 @v	sagdudu [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 4']
+@v	saŋdudu
 @inote salgues
 @end form
 @form	~c |LAGAB×(ŠITA.GIŠ)|
