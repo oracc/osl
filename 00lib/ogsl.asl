@@ -18893,6 +18893,9 @@
 @form ~c |LA.NU₁₁.BUR|
 @v	lagašₓ
 @end form
+@form ~d |BUR.NU₁₁.LA.HU|
+@v	lagašₓ
+@end form
 @end sign
 
 @sign	|NU₁₁.BUR.LA|
