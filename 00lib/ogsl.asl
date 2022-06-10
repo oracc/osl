@@ -1654,6 +1654,10 @@
 @v	usanₓ
 @end sign
 
+@sign	|AN.GU₂×PAP|
+@v	usanₓ
+@end sign
+
 @sign	|AN.HU.MI.IM|
 @ucode	x1202D.x12137.x1222A.x1214E
 @v	anzuₓ
@@ -1940,6 +1944,7 @@
 @v	eri₃
 @v	eru
 @v	erum
+@v	galaₓ
 @v	ir₃
 @v	irda
 @v	[...]ki
@@ -1965,6 +1970,7 @@
 @sign	|ARAD.KU|
 @ucode	x12034.x121AA
 @v	galaₓ
+@form ~a |KU.ARAD|
 @end sign
 
 @sign	|ARAD.RA|
@@ -12000,7 +12006,7 @@
 @end sign
 
 @sign	|KA₂.AN.RA|
-@ucode	x1218D.x1202D.x1228F\
+@ucode	x1218D.x1202D.x1228F
 @v	babila₂
 @v	babilim₂
 @v	babilima₂
@@ -25871,6 +25877,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN UD SHESHIG
 @ucode	x1231A
+@v	itiₓ
 @v	itudₓ
 @end sign
 
@@ -26520,6 +26527,7 @@
 @v	ru₁₄
 @v	uru₁₈
 @v	urua
+@form ~a |URU.A|
 @end sign
 
 @sign	|URU×AŠGAB|
