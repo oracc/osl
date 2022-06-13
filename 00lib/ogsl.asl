@@ -347,6 +347,10 @@
 @v	sarₓ
 @end sign
 
+@sign	|A.LAK648×A|
+@v	addirₓ
+@end sign
+
 @sign	|A.LU₂@s.NA|
 @ucode	x12000.x12215.x1223E
 @v	arinaₓ
@@ -1872,6 +1876,7 @@
 @sign	|ANŠE.SAL|
 @ucode	x12032.x122A9
 @v	eme₆
+@form ~a |ANŠE×SAL|
 @end sign
 
 @sign	|ANŠE×ŠA₃|
@@ -7507,6 +7512,7 @@
 
 @sign	GAN@s
 @v	ganₓ
+@form ~a |GAN×KASKAL|
 @end sign
 
 @sign	GAN₂
@@ -7765,6 +7771,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN GAR3
 @ucode	x120FC
+@v	ašgarₓ
 @v	gar₃
 @v	gara₃
 @v	ŋar₃
@@ -9738,6 +9745,7 @@
 @uname	CUNEIFORM SIGN HI TIMES U
 @ucode	x12136
 @v	bur'uₓ
+@v	burʾuₓ
 @v	ellaŋₓ
 @v	dubur₂
 #Moved to 1(ŠARU)
@@ -15458,6 +15466,7 @@
 @uphase	9
 @ucode x12510
 @uname	CUNEIFORM SIGN LAK648 TIMES IGI
+@v	banšurₓ
 @end	sign
 
 @sign	|LAK648×IGI@g|
@@ -17495,6 +17504,10 @@
 @v	rin₄
 @form ~a |MUŠ.MUŠ|
 @inote restored in P225858 i 8' OIP 99, 83, AbS DN
+@end form
+@form ~b |BU.BU|
+@v	riₓ
+@end form
 @end sign
 
 @sign	|MUŠ%MUŠ.A.NA|
@@ -23874,6 +23887,7 @@
 
 @sign	|TA×ŠE|
 @uphase	0
+@v	sukudₓ
 @end sign
 
 @sign	TA@g
@@ -28191,6 +28205,7 @@
 @end form
 @form ~b |U×KASKAL|
 @v    bur'uₓ
+@v    burʾuₓ
 @inote does U×KASKAL ever occur or is it always U@c×KASKAL?
 @end form
 @end sign
