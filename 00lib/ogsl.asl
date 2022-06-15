@@ -7133,6 +7133,7 @@
 @v	gaba
 @v	gap
 @v	irtu
+@v	kap₃
 @v	pitru
 @v	qab
 @v	qap
