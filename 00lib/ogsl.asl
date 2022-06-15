@@ -29127,6 +29127,12 @@
 @uphase none
 @end sign
 
+@sign TAK₄@f
+@fake 1
+@uphase none
+@inote temporary entry to work around ATF/GDL parser bug which complains about |SAG×TAK₄@f|
+@end sign
+
 @sign KIB@g
 @inote sjt: temporary entry to get ETCSRI to compile; probably has another name
 @end sign
