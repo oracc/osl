@@ -26770,7 +26770,6 @@
 @end sign
 
 @sign	|URU×MIN|
-@list LAK648
 @list MZL080
 @list OBZL189
 @list SLLHA049x
@@ -27314,7 +27313,6 @@
 @ucode	X
 @uphase	none
 @v	x
-@v	n
 @end sign
 
 @sign	X₁
