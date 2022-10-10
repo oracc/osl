@@ -12813,6 +12813,13 @@
 @v	kišiₓ
 @end sign
 
+@sign	|KI.SAG@n.DU|
+@ucode	x121A0.x12294.x1207A
+@v	sulummar₂
+@inote	See Mittermayer, AbZL p. 204; Attinger, Glossaire p.948.
+@end sign
+
+
 @sign	|KI.SU.LU.EŠ₂.GAR|
 @ucode	x121A0.x122E2.x121FB.x120A0.x120FB
 @v	%akk ummanu
