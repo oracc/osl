@@ -7898,6 +7898,7 @@
 @ucode	x12100.x121A4.x12224
 @v    muruₓ
 @inote in {d}ama{+a-ma}-{+mu-ru}|GI.KID.MAH|; An = Anum 5
+@form ~a |KID.MA₂.MAH|
 @end sign
 
 @nosign	|GI.LU|
@@ -28571,7 +28572,7 @@
 @v	7(diš@c)
 @end sign
 
-@sign	7(DIŠ~a)
+@sign	7(DIŠ)~a
 @list HZL373
 @list MZL866
 @list OBZL478
@@ -28585,7 +28586,7 @@
 @v	7(diš@c)@v
 @end sign
 
-@sign	7(DIŠ~b)
+@sign	7(DIŠ)~b
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN B
 @ucode	x12443
