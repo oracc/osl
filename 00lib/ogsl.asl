@@ -3013,6 +3013,8 @@
 @ucode x12238.x1200A
 @inote dcclt !sg
 @end form
+@form ~d |SUD&SUD.AB|
+@end form
 @end sign
 
 @sign	|BU&BU.UN|
@@ -9196,6 +9198,9 @@
 @form ~b |SIK₂.LAM.HI×NUN.ME.U|
 @ucode x122E0.x121F4.x12134.x12228.x1230B
 @inote dcclt !sg
+@end form
+@form ~c |SIK₂.NUN.ME.U|
+@inote Šuila 2
 @end form
 @end sign
 
