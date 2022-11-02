@@ -1626,6 +1626,9 @@
 @form	~d |AN.AN|
 @v	tillaₓ
 @end form
+@form	~e |AN.AN.AŠ|
+@v	tillaₓ
+@end form
 @end sign
 
 @sign	|AN.AŠ@z.AN|
@@ -2222,6 +2225,7 @@
 @sign	AŠ@z
 @list MZL575
 @list SLLHA360
+@list KWU333
 @uphase	1
 @uname	CUNEIFORM SIGN ASH ZIDA TENU
 @ucode	x12039
@@ -5757,6 +5761,7 @@
 @list MZL272
 @list SLLHA152_8b
 @list KWU835
+@list LAK611
 @uphase	1
 @uname	CUNEIFORM SIGN EZEN
 @ucode	x120A1
@@ -5870,6 +5875,7 @@
 @form ~b |EZEN×BAD.AN|
 @ucode	x120A6.x1202D
 @v	%akk/n dūru
+@v	derₓ
 @end form
 @form ~c |EZEN.AN|
 @inote SF 1 = P010566 r x 8' but not completely certain.
@@ -8156,6 +8162,7 @@
 @v?	kiri₅
 @v	merₓ
 @v	miriₓ
+@v	qerₓ
 @v	qir₇
 @v	šaŋanₓ
 @v	sakkan
@@ -13560,6 +13567,10 @@
 @ucode x121B5.x1202D.x1223D
 @end sign
 
+@sign	|KUŠU₂.HI×DIŠ|
+@v	ummaₓ
+@end sign
+
 @sign	|KUŠU₂×KASKAL|
 @end sign
 
@@ -15688,6 +15699,12 @@
 @ucode	x121F3.x1207A
 @v	uku₂
 @v	ukur₃
+@form ~a |LALₓ×DU|
+@list LAK762
+@end form
+@form ~b |LAL₂×DU.DU|
+@list LAK763
+@end form
 @end sign
 
 @sign	|LAL₂.KAK|
@@ -16590,6 +16607,7 @@
 @v	lah₃
 @v?	laha₃
 @v	lih₃
+@v	likₓ
 @v	luh
 @v	luhu
 @v	nah
@@ -17094,6 +17112,7 @@
 @sign	|ME.NUN.TAG|
 @ucode	x12228.x12263.x122F3
 @v	gašamₓ
+@form ~a |TAG.NUN|
 @end sign
 
 @sign	|ME.U.U.U|
@@ -17176,6 +17195,7 @@
 @v	muši
 @v	mušu
 @v	sil₄
+@v	simₓ
 @v	suₓ
 @v	ṣil₂
 @v	wi₄
@@ -19627,9 +19647,11 @@
 @end sign
 
 @sign	|PA.EL.BU@g|
+@v	suₓ
 @v	sugₓ
 @form ~a |PA.EL.SUD|
 @form ~b |EL.SUD|
+@form ~c |PA.EL|
 @end sign
 
 @sign	|PA.GA₂|
@@ -19728,6 +19750,7 @@
 @v	sip₂
 @v	sipa
 @v	sipad
+@v	subaₓ
 @v	šab₅
 @v	šap₅
 @v	zip₃
@@ -26485,6 +26508,10 @@
 @v	uru₁₉
 @form ~a RSP380b
 @inote cp LAK576 which is similar but not identical
+@end form
+@form ~b LAK125
+@inote perhaps describable as URI@n
+@end form
 @end sign
 
 @sign	URI₃
@@ -28828,6 +28855,11 @@
 @v	gešʾu@v
 @end sign
 
+@sign |GEŠU@c×KASKAL|
+@list LAK824
+@inote P250936 = CUSAS 35, 457 suggests this sign is 600(=gešʾu) x 10(=×KASKAL), i.e., 6000
+@end sign
+
 @sign	2(GEŠU)
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN TWO GESHU
@@ -29895,6 +29927,9 @@
 @sign LAK212
 @inote epsd2/praxis
 @v     asalₓ
+@form ~a LAK212@v
+@inote P452998 = MRAH O.5009 i 3
+@end form
 @end sign
 
 @sign	|NAM.EN.NA|
@@ -30774,4 +30809,14 @@
 
 @sign |AB×DIŠ|
 @inote ed3b no image needs collation
+@end sign
+
+@sign N01
+@end sign
+
+@sign N08
+@end sign
+
+@sign |AŠ×BAD|
+@inote P452996 r 4 e₂-{d}|AŠ×BAD|-za PN
 @end sign
