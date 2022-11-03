@@ -16851,6 +16851,9 @@
 @sign	|MA₂.HU|
 @v	uₓ
 @inote CUSAS 11 183 no photo.
+@form ~a |HU.MA₂|
+@inote P215809 = Nik 2, 28 (copy)
+@end form
 @end sign
 
 @sign	|MA₂.KAK|
