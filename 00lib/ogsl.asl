@@ -428,6 +428,9 @@
 @form	~o	|GISAL.A.SI|
 @form	~p	|PAD.GISAL.SI.A|
 @form	~q	|GUD.GIŠ×TAK₄.SI|
+@form	~r	|A.PA.GISAL|
+@form	~s	|BI.GIŠ.GAD.A.A.SI|
+@form	~t	|PA.DUG.GIŠ.PAD.SI.A|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -2904,6 +2907,9 @@
 @inote	Attinger
 @end sign
 
+@sign	|BI×IGI|
+@end sign
+
 @sign	|BI×IGI@g|
 @list LAK640
 @list MZL360
@@ -4011,6 +4017,7 @@
 @v	men₃
 @v	miₓ
 @v	naₓ
+@v	nindaₓ
 @v	qub
 @v	qup
 @v	ra₂
@@ -20529,6 +20536,9 @@
 @v	šup
 @end sign
 
+@sign	|RU×KUR|
+@end sign
+
 @sign	|RU.NE|
 @ucode	x12292.x12248
 @v	rimₓ
@@ -21561,6 +21571,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN SIG4
 @ucode	x122DE
+@v	alurₓ
 @v	bar₅
 @v	egarₓ
 @v?	eger₆
@@ -25195,7 +25206,6 @@
 @v	ušu₂
 @v	uzu₅
 @form ~a |UD×DIŠ|
-@inote itudₓ??
 @end sign
 
 @sign	|U.UD.KID|
@@ -25664,6 +25674,7 @@
 @form ~b |KA.UD.AŠ|
 @form ~c |KA.UD.BAR|
 @form ~d |KA.BAR|
+@form ~e |UD.KA×BAR|
 @end sign
 
 @sign	|UD.GIŠ%GIŠ.NUN|
@@ -25842,6 +25853,8 @@
 @uname	CUNEIFORM SIGN UD TIMES BAD
 @ucode	x12315
 @v	itudₓ
+@form ~a |UD×DIŠ|
+@form ~b |UD×PAP|
 @end sign
 
 @sign	|UD×MI|
