@@ -25974,6 +25974,9 @@
 @v	itid₂
 @v	itu₂
 @v	itud₂
+@form ~a |UD@s×U|
+@inote epsd2/admin/oakk; needs in person collation; is U a partially obscured BAD?
+@end form
 @end sign
 
 @sign	UDUG
