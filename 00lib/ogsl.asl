@@ -22789,6 +22789,7 @@
 @v	urim₅
 @v	uru₁₅
 @v	urum₆
+@form ~a |AB.ŠEŠ|
 @end sign
 
 @sign	|ŠEŠ.AB@g|
