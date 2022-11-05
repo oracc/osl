@@ -4259,7 +4259,7 @@
 @uname	CUNEIFORM SIGN DUB TIMES SHE
 @list MZL243
 @ucode	x12376
-@v	gaz₃
+@v-	gaz₃
 @inote Reading gaz₃ in Borger MZL243, referring to Civil in RA 60: 92. In fact, all references listed by Civil have regular GUM×ŠE =gaz. DUB×ŠE does not exist.
 @end sign
 
