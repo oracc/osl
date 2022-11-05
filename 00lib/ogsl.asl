@@ -4252,15 +4252,15 @@
 @uphase	1
 @uname	CUNEIFORM SIGN DUB TIMES ESH2
 @ucode	x1207F
-@v	gaz₃
-@note  Perhaps a misreading DUB×ŠÈ=DUB×EŠ₂ of DUB×ŠE.
+@note  sign does not exist, based on typo for DUB×ŠE
 @end sign
 
-@sign	|DUB×ŠE|
+@nosign	|DUB×ŠE|
 @uname	CUNEIFORM SIGN DUB TIMES SHE
 @list MZL243
 @ucode	x12376
 @v	gaz₃
+@inote Reading gaz₃ in Borger MZL243, referring to Civil in RA 60: 92. In fact, all references listed by Civil have regular GUM×ŠE =gaz. DUB×ŠE does not exist.
 @end sign
 
 @sign	|DUB.TI|
