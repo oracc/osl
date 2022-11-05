@@ -4248,10 +4248,18 @@
 @ucode x1234F.x12244
 @end sign
 
-@sign	|DUB×EŠ₂|
+@nosign	|DUB×EŠ₂|
 @uphase	1
 @uname	CUNEIFORM SIGN DUB TIMES ESH2
 @ucode	x1207F
+@v	gaz₃
+@note  Perhaps a misreading DUB×ŠÈ=DUB×EŠ₂ of DUB×ŠE.
+@end sign
+
+@sign	|DUB×ŠE|
+@uname	CUNEIFORM SIGN DUB TIMES SHE
+@list MZL243
+@ucode	x12376
 @v	gaz₃
 @end sign
 
