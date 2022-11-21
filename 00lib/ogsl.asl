@@ -1859,6 +1859,9 @@
 @ucode	x12032.x12146.x12073
 @v	dusuₓ
 @end form
+@form	~b |IGI.EŠ₂|
+@v	dusuₓ
+@end form
 @end sign
 
 @sign	|ANŠE.KUR.RA|
@@ -30772,6 +30775,10 @@
 
 @sign |GAN₂×HI|
 @inote ed12; provisional
+@end sign
+
+@sign N57
+@inote for 2(N57)
 @end sign
 
 @sign 2(N57)
