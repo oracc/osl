@@ -13615,10 +13615,11 @@
 @sign	KWU733
 @list KWU733
 @v egirₓ
+@form ~a KWU734
 @inote NV in TCL 5, 6036 (P131750) counted per unit, in USC 6786 by weight.
 @inote NV KWU733 is often read egir (proper egir is KWU731) or egirₓ(KWU733). 
 @inote NV Schneider suggests dalla; Yildiz/Gomi UTI 3 2224 read zubi (both seem unlikely)
-@inote SJT egirₓ added for now to support ur3.atf
+@inote SJT egirₓ added for now to support ur3.atf; KWU734 probably graphic variant of KWU733
 @end sign
 
 @sign	KWU822
@@ -19458,6 +19459,11 @@
 @sign	|NUNUZ.DIM₂|
 @ucode	x1226D.x12076
 @v	nigi₃
+@end sign
+
+@sign	|NUNUZ.DUH.A|
+@list RSP349
+@inote ed3b
 @end sign
 
 @sign	|NUNUZ.KISIM₅|
@@ -27376,6 +27382,9 @@
 @sign KWU672
 @list KWU672
 @end sign
+@sign KWU745
+@list KWU745
+@end sign
 @sign KWU798
 @list KWU798
 @end sign
@@ -30777,6 +30786,18 @@
 @inote ed12; provisional
 @end sign
 
+@sign N8
+@inote for ed3b
+@end sign
+
+@sign |N8×DIŠ|
+@inote for ed3b
+@end sign
+
+@sign RSP374
+@inote possibly a malformed IL, see RSP ad loc
+@end sign
+
 @sign N57
 @inote for 2(N57)
 @end sign
@@ -30854,4 +30875,133 @@
 
 @sign |AŠ×BAD|
 @inote P452996 r 4 e₂-{d}|AŠ×BAD|-za PN
+@end sign
+
+@sign |AB×U|
+@list REC349
+@inote ed3b P112975 v 9
+@end sign
+
+@sign KWU276
+@inote ur3
+@end sign
+
+@sign KWU289
+@inote ur3
+@end sign
+
+@sign KWU442
+@inote ur3
+@end sign
+
+@sign KWU491
+@inote ur3
+@end sign
+
+@sign KWU879
+@inote ur3
+@end sign
+
+@sign LAK061
+@inote ed3a
+@end sign
+
+@sign LAK202
+@inote ed3a
+@end sign
+
+@sign LAK234
+@inote ed3a
+@end sign
+
+@sign LAK350@90
+@inote ed3a
+@end sign
+
+@sign LAK490@90
+@inote ed3a
+@end sign
+
+@sign LAK546
+@inote ed3a
+@end sign
+
+@sign N01@c
+@inote ed3a
+@end sign
+
+@sign N08@c
+@inote ed3a
+@end sign
+
+@sign N34@c
+@inote ed3a
+@end sign
+
+@sign N34@f@t
+@inote ed3a
+@end sign
+
+@sign N51@f
+@inote ed3a
+@end sign
+
+@sign BAU067
+@inote ed12
+@end sign
+
+@sign BAU106
+@inote ed12
+@end sign
+
+@sign BAU163
+@inote ed12
+@end sign
+
+@sign BAU165
+@inote ed12
+@end sign
+
+@sign N01@f
+@inote ed12
+@end sign
+
+@sign N04@f
+@inote ed12
+@end sign
+
+@sign N08@f
+@inote ed12
+@end sign
+
+@sign N14
+@inote ed12
+@end sign
+
+@sign N14@f
+@inote ed12
+@end sign
+
+@sign N19@f
+@inote ed12
+@end sign
+
+@sign N22
+@inote ed12
+@end sign
+
+@sign N22@f
+@inote ed12
+@end sign
+
+@sign N34@f
+@inote ed12
+@end sign
+
+@sign N45
+@inote ed12
+@end sign
+
+@sign N50
+@inote ed12
 @end sign
