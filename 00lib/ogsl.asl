@@ -13543,6 +13543,14 @@
 @v	zat
 @inote W.G. Lambert, Babylonian Oracle Questions 2007, no. 23 (P480372) obv 5 uz-zat
 @v	zizanu
+@form ~a LAK461a
+@list LAK461a
+@inote curviform LAK461
+@end form
+@form ~b LAK461b
+@list LAK461b
+@inote cuneiform LAK461
+@end form
 @end sign
 
 @sign	|KUR.MUŠ₃@g.ZA.KI|
@@ -13586,9 +13594,7 @@
 @inote	salgues
 @v	kušu₂
 @v	uh₃
-@form ~a LAK304
-@list LAK304
-@v	kušu₂
+@form ~a LAK304@270
 @end sign
 
 @sign	|KUŠU₂.AN.MUŠ₃|
@@ -19333,6 +19339,7 @@
 @list LAK449
 @ucode	x1226D.x12016
 @v	nisagga
+@form ~b LAK449b
 @end sign
 
 @sign	|NUNUZ.AB₂×AŠGAB|
@@ -23268,6 +23275,7 @@
 @uphase 9
 @ucode x12499
 @uname	CUNEIFORM SIGN DUG TIMES IGI GUNU
+@list 	LAK586
 @v	šembi
 @lit	Civil Ebla 1975-1985, 155
 @end form
@@ -23996,6 +24004,10 @@
 @v	kabta
 @form ~a |TA×IR|
 @v	gansis
+@end form
+@form ~b LAK654a
+@inote TA@g with curviform final wedge
+@end form
 @end form
 
 @end sign
@@ -24964,6 +24976,7 @@
 @sign	|U.GAN|
 @list HZL270
 @list LAK458
+@list LAK407b
 @list MZL684
 @list OBZL345
 @list SLLHA428
@@ -26575,6 +26588,8 @@
 @form ~b LAK125
 @inote perhaps describable as URI@n
 @end form
+@form ~c LAK647
+@end form
 @end sign
 
 @sign	URI₃
@@ -27631,6 +27646,10 @@
 @v	zaq
 @v	zik₀
 @end sign
+
+@sign LAK283a
+@inote modified ZAG; possibly a form of U.ZAG?
+@end inote
 
 @sign	|ZAG.AN|
 @ucode	x12360.x1202D
