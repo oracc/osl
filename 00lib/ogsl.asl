@@ -2997,6 +2997,9 @@
 @list LAK233
 @uphase 2.x
 @note in |PA.EL.BU@g|
+@form 	 ~a LAK233@g
+@inote Biggs clearly shows this variant in P010078 v 4' and 5' as BU gunufied both in the head and on the tail. Collation from photo supports this but is not completely decisive.
+@end form
 @end sign
 
 @sign	BU@t
@@ -3176,6 +3179,12 @@
 @v    buru₅ [Ass 00523 = dcclt/signlists:P370411 r ii 49]
 @inote   salgues
 @end form
+@end sign
+
+@sign	|BURU₅×AMAR@t|
+@list LAK072b
+@v	u₅
+@inote AbS P225926 = OIP 099, 048 v 2′
 @end sign
 
 @sign	DA
@@ -5124,6 +5133,12 @@
 @v	ili₅
 @v	ram₀
 @v	sikil
+@end sign
+
+@sign	ELLES214
+@list ELLES214
+@uphase	0
+@inote Ebla
 @end sign
 
 @sign	ELLES316
@@ -9021,6 +9036,7 @@
 @end sign
 
 @sign	|GUD×BAD|
+@list ELLES068
 @uphase	0
 @v	addaₓ
 @end sign
@@ -14902,7 +14918,11 @@
 @uname	CUNEIFORM SIGN LAK51
 @end sign
 
-@sign	|LAK79&LAK79@g|
+@sign	|LAK079|
+@list LAK079
+@end sign
+
+@sign	|LAK079&LAK079@g|
 @list LAK079a
 @uphase	9
 @ucode x124DC
@@ -23320,6 +23340,7 @@
 
 @sign	ŠITA
 @list LAK503
+@list LAK503b
 @list MZL388
 @list OBZL270
 @list SLLHA233_22
@@ -23332,6 +23353,10 @@
 @v	meₓ
 @v	nuₓ
 @v	šita
+@form ~a LAK503a
+@list LAK503a
+@inote This is the ŠITA with curved final "wedge" distinguised as LAK503a in CDLI AbS translits from ŠITA with cuneiform final wedge, LAK503b.
+@end form
 @end sign
 
 @sign	|ŠITA.GIŠ.TUG₂|
@@ -26153,6 +26178,7 @@
 @v	umum
 @v	umun₂
 @form ~a |UMUM×KASKAL|
+@list LAK156b
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @ucode	x12324
 @end form
@@ -30879,6 +30905,7 @@
 
 @sign |AB×U|
 @list REC349
+@v	mahₓ
 @inote ed3b P112975 v 9
 @end sign
 
