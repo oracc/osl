@@ -23509,6 +23509,7 @@
 @v	durunₓ
 @v	šukra
 @v	šunigin
+@v	šuniŋin
 @end sign
 
 @sign	|ŠU.GAR.TUR.LAL|
