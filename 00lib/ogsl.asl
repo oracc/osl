@@ -3516,6 +3516,9 @@
 @v	utua
 @v	utul₆
 @v	utuwa
+@form ~a LAK777@s
+@inote Extremely uncertain; possibly in IAS 47 iii' 2' but print photo unclear
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×X|
@@ -4667,6 +4670,8 @@
 @v	tun₃⁺
 @inote	Attinger tun₃
 @end form
+@form ~b LAK786
+@inote LAK sign form looks like LAGAB×LAL; LAK786 s.v. suggests equivalence to DUN₃ with a query.
 @end sign
 
 @sign	DUN₃@g
@@ -14924,11 +14929,11 @@
 @uname	CUNEIFORM SIGN LAK51
 @end sign
 
-@sign	|LAK079|
+@sign	LAK079
 @list LAK079
 @end sign
 
-@sign	|LAK079&LAK079@g|
+@sign	|(LAK079&LAK079)@g|
 @list LAK079a
 @uphase	9
 @ucode x124DC
@@ -17415,7 +17420,7 @@
 @v	sumur₃
 @v	šub₄
 @v	ušₓ
-@inote OSP 1 43 iii 1 clearly has LAK672b where context suggests ušₓ
+@inote OSP 1 43 iii 1 clearly has LAK672b where context suggests ušₓ; MUNSUB in OBO 160/1 p.277 could be described as LAK672@s
 @form ~a |SIK₂.SUHUR|
 @ucode x122E0.x122E6
 @end form
@@ -24008,8 +24013,6 @@
 @form ~b LAK654a
 @inote TA@g with curviform final wedge
 @end form
-@end form
-
 @end sign
 
 @sign	TAB
@@ -24551,6 +24554,7 @@
 @list MZL086
 @list OBZL382
 @list SLLHA058
+@list REC147
 @uphase	1
 @uname	CUNEIFORM SIGN TU
 @ucode	x12305
@@ -27317,6 +27321,7 @@
 @ucode	x12356
 @v	ušₓ [Ebla Sign List = dcclt:Q000038 61, u₃-šum₂]
 @lit	Krebernik OBO 160/1 277
+@inote this is LAK672 without the sheshig
 @end sign
 
 @nosign	UŠUMX
@@ -27649,7 +27654,7 @@
 
 @sign LAK283a
 @inote modified ZAG; possibly a form of U.ZAG?
-@end inote
+@end sign
 
 @sign	|ZAG.AN|
 @ucode	x12360.x1202D
