@@ -16599,6 +16599,7 @@
 @list SLLHA150v2
 @ucode	x12217.x120F6
 @v	dim₉
+@v	kamad₂
 @end sign
 
 @sign	|LUGAL.HI×BAD|
