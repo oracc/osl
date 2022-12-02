@@ -31059,3 +31059,114 @@
 @sign N50
 @inote ed12
 @end sign
+@sign	ELLES195a
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	ELLES22
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	ELLES257
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	ELLES270
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	ELLES278
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	ELLES302
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	ELLES329
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	ELLES360
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK0248
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK046a
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK0496
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK0499
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK0712
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK099
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK141
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK178
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK203
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK207a
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK248@g
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK248b
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK256@g
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK262@g
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK280
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK304a
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK309a
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK340
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK363
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK380
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK407
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK416
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK431
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK477
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK712
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK771
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK772b
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK791a
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+@sign	LAK821
+@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
