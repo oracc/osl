@@ -31119,6 +31119,9 @@
 @sign	LAK248b
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
+@sign	LAK256
+@inote for dcclt/ebla--required for LAK256@g
+@end sign
 @sign	LAK256@g
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
