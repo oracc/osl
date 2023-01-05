@@ -508,6 +508,7 @@
 @list LAK212
 @list BAU134
 @lit  Krebernik, OBO 160/1, 283
+@inote P452998 = MRAH O.5009 i 3 (Old Akkadian)
 @end form
 @form	~b |A.TU.NUN&NUN|
 @ucode x12000.x12305.x1226A
@@ -2374,6 +2375,7 @@
 @ucode	x1203E.x120FC
 @v	ešgar
 @inote if LAK779 is a writing for ešgar then AŠ₂.GAR is a reintepretation of the sign form
+@inote Steinkeller BiOr 52 ad ZATU149 is sceptical of ZATU149/LAK779 = /ešgar/
 @end sign
 
 @sign	|AŠ₂.U|
@@ -3039,19 +3041,26 @@
 @ucode	x1204F
 @v	gutir
 @v	kide
-@note	See Early Dynastic Geographical List 193 in CUSAS 12, 196 and UET 80 ii5 (parallels ED Cities 25).)
+@note	See Early Dynastic Geographical List 193 in CUSAS 12, 196 and UET 7, 80 ii 5 (parallels ED Cities 25).)
 @form	~a |BU@90.BU.UN|
 @note	ED Cities 25.
+@inote not clear if ZATU299 "KITI" |BU@90.UN| is same as |BU&BU.UN|
 @end form
 @end sign
 
 @sign	|(BU&BU)×NA₂|
 @uphase	9
+@list ZATU058
 @ucode x12487
 @uname	CUNEIFORM SIGN BU OVER BU TIMES NA2
-@v	? [CUSAS 12, 6.1.3 = cdli:P252194 r ii 8]
+@v	arinaₓ [CUSAS 12, 6.1.3 = cdli:P252194 r ii 8]
 @form	~a |BU@90.BU.NA₂|
 @note	ED Cities 14
+@end form
+@form	~b |(BU&BU)×NA₂.A|
+@list ZATU058
+@inote Steinkeller BiOr 52 ad ZATU058 |(BU&BU)×NA₂.A| = {+a}arinaₓ{+na₂}
+@end form
 @end sign
 
 @sign	|BU%BU|
@@ -3601,6 +3610,12 @@
 @v	ṭar₃
 @end sign
 
+@sign	|DARA₃×MA|
+@list ZATU026
+@list BAU163
+@inote possibly mašdaₓ{+ma}; not LAK249 as Green, ZATU
+@end sign
+
 @sign	DARA₄
 @list LAK670
 @list MZL817
@@ -3862,6 +3877,11 @@
 @v	tin
 @v	ṭen
 @v?	ṭin
+@end sign
+
+@sign	DIN@t
+@list BAU183
+@list ZATU080
 @end sign
 
 @sign	|DIN.KASKAL|
@@ -5211,6 +5231,8 @@
 @v	illil
 @v	nibri
 @v	nibru
+@form	~a |EN.E₂|
+@inote see Steinkeller, BiOr 52 ad ZATU142
 @end sign
 
 @sign	|EN.KU.A|
@@ -6317,10 +6339,12 @@
 @end form
 @form	~b |GA₂×(HA.A)|
 @ucode x124BE
-@list LAK694
 @inote See, e.g., P010481 o ii 6 where GA₂×(HA.A) is inside GA₂ box; contra CDLI comment GA₂ final vertical is in case ruling
 @end form
 @form	~c |GA₂×HA|
+@list ZATU173
+@list ZATU180
+@list LAK694
 @form	~d |GA₂×HA.A|
 @inote See, e.g., P010060 o ii 6 where GA₂×HA is square like LAGAB and clearly closed with A written outside GA₂
 @form	~e |LAGAB×HA|
@@ -6329,6 +6353,11 @@
 @inote See, e.g., P427626 o 5
 @form	~g |LAGAB×HA.A|
 @inote Existence of this combination requires confirmation.
+@end form
+@form	~h |GA₂×(HA.HA)|
+@ucode x124BE
+@list ZATU174
+@list LAK695
 @end sign
 
 @sign	|GA₂×(A.IGI)|
@@ -6953,6 +6982,7 @@
 
 @sign	|GA₂×(NE.E₂)|
 @list LAK692
+@list ZATU251
 @uphase	9
 @ucode x124C5
 @uname 	CUNEIFORM SIGN GA2 TIMES NE PLUS E2
@@ -9970,6 +10000,8 @@
 @end sign
 
 @sign	|HUB₂×KASKAL|
+@list LAK477
+@list BAU282
 @uphase	1
 @uname	CUNEIFORM SIGN HUB2 TIMES KASKAL
 @ucode	x1213B
@@ -13667,6 +13699,10 @@
 @v	la
 @v	šika
 @v	šikₓ
+@form	~e LA@n
+@list BAU286
+@inote Outline form of LA, form ~e used because CDLI UET II tranliterations use LA~e
+@end form
 @end sign
 
 @sign	LAGAB
@@ -14859,6 +14895,9 @@
 
 @sign LAK779
 @list LAK779
+@list BAU276
+@list ZATU149
+@inote Green ZATU /ešgar/ but Steinkeller BiOr 52 sceptical of this
 @end sign
 
 @sign	LAK3
@@ -15131,6 +15170,7 @@
 
 @sign	LAK350
 @list LAK350
+@list BAU213
 @uphase	0
 @end sign
 
@@ -15329,6 +15369,7 @@
 
 @sign	|LAK617×AŠ|
 @list LAK618
+@list BAU301
 @uphase	9
 @ucode x12502
 @uname	CUNEIFORM SIGN LAK617 TIMES ASH
@@ -15361,9 +15402,11 @@
 
 @sign	|LAK617×MIR|
 @list LAK622
+@list BAU303
 @uphase	9
 @ucode x12504
 @uname	CUNEIFORM SIGN LAK617 TIMES MIR
+@inote analogue to EZEN×DUN₃@g@g
 @end	sign
 
 @sign	|LAK617×TAR|
@@ -16152,6 +16195,9 @@
 @ucode x121FD.x121E5
 @v	 ad₆ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 22]
 @inote	 salgues
+@end form
+@form	~c |LU₂×UŠ₂|
+@list ZATU020
 @end form
 @end sign
 
@@ -17267,6 +17313,11 @@
 @v	šutumₓ
 @end sign
 
+@sign |MI.NUNUZ|
+@list LAK394
+@list BAU175
+@end sign
+
 @sign	|MI.ZA₇|
 @list LAK393
 @uphase	9
@@ -17507,6 +17558,10 @@
 @v?	uluki
 @v	zer₃
 @v	zir₃
+@form 	~a BAU153
+@list BAU153
+@v	nirahₓ
+@end form
 @end sign
 
 @sign |MUŠ.DIN.ŠE.NUN&NUN.BALAG|
@@ -21035,6 +21090,11 @@
 @v	šel₄
 @end sign
 
+@sign	|SAL×1(N58)|
+@list BAU400
+@inote description provisional, follows CDLI transliteration of UET II
+@end sign
+
 @sign	|SAL.AL|
 @ucode	x122A9.x12020
 @v	eme₇
@@ -23388,7 +23448,9 @@
 @uphase	0
 @end sign
 
-@sign	ŠITA₂
+@sign	|ŠITA.GIŠ|
+@list LAK489
+@list ZATU147
 @uphase	0
 @ucode x122D6.x12111
 @v	ešda
@@ -23410,8 +23472,6 @@
 @ucode x1224C.x12079.x12111
 @inote dcclt !sg
 @end form
-@form ~c LAK489
-@inote FIXME: Consider this the base form of ŠITA₂? sign name here ŠITA₂ is being used for compound |ŠITA.GIŠ| which is not our normal practice
 @end sign
 
 @sign	ŠU
@@ -23805,6 +23865,9 @@
 @end form
 @form ~e |AN.HI×GAD|
 @v	kešₓ
+@end form
+@form ~f |ŠU₂.AN.HI×KAK|
+@list BAU167
 @end form
 @end sign
 
@@ -24637,6 +24700,7 @@
 @list OBZL444
 @list SLLHA574
 @list KWU909
+@list LAK473
 @uphase	1
 @uname	CUNEIFORM SIGN TUK
 @ucode	x12307
@@ -24650,6 +24714,7 @@
 @v	tuk
 @v	tuku
 @v	tuq
+@inote Steinkeller BiOr 52 ad ZATU277 LAK473 an allograph of LAK474 so KAB and TUK not distinguished in ED.
 @end sign
 
 @sign	|TUK.TUK|
@@ -24699,6 +24764,11 @@
 @v	ṭum
 @v	zibₓ
 @form ~a LAK496
+@end sign
+
+@sign	|TUM×A|
+@list BAU379
+@inote CDLI UET II transliteration TUM~a@g but this is less descriptive than TUM×A
 @end sign
 
 @sign	|TUM×(DIŠ.DIŠ.DIŠ)|
@@ -25663,6 +25733,10 @@
 @v	ararma₂
 @v	larsa₂
 @v	larsam₂
+@form	~a ARARMA₂~a
+@list ZATU034
+@lit K. Szarzyńska, RA 87 (1993) 18 n.9, original form as a standard, later reanalyzed as UD+ADAB.
+@end form
 @end sign
 
 @sign	|UD.AB×(U.U.U)|
@@ -25871,6 +25945,10 @@
 @v	surugal
 @v	turungal
 @v	usab
+@form ~a ADAB~a
+@list ZATU019
+@lit K. Szarzyńska, RA 87 (1993) 18 n.9, original form as a standard, later reanalyzed as UD+NUN.
+@end form
 @end sign
 
 @sign	|UD.SAL.HUB₂|
@@ -26203,6 +26281,11 @@
 @end form
 @end sign
 
+@sign	BAU329
+@list BAU329
+@inote Sign-form is UMUM without the leading gunu horizontals
+@end sign
+
 @sign	|UMUM×DUN₃@g|
 @uname	CUNEIFORM SIGN UMUM TIMES DUN3 GUNU
 @v	agarinx
@@ -26437,6 +26520,11 @@
 @uphase	0
 @v	arinaₓ
 @v	urumₓ
+@form 	~a |UR₂×AŠ|
+@list ZATU589
+@v	urumₓ
+@inote Steinkeller BiOr 52 ad ZATU589 urumₓ{+rum}
+@end form
 @end sign
 
 @sign	|UR₂×(A.HA)|
@@ -29411,6 +29499,10 @@
 @v     ganzerₓ
 @end sign
 
+@sign |LAGAB×SI|
+@list BAU262
+@end sign
+
 @sign |LAGAB×ŠE|
 @inote epsd2
 @v     surₓ
@@ -29662,8 +29754,17 @@
 @end sign
 
 @sign |LAGAB×AŠ|
+@list ZATU127
 @inote dcclt/signlists
 @v	gigirₓ
+@end sign
+
+@sign |LAGAB×1(N01)|
+@list BAU268
+@list LAK772
+@v	dur₂?
+@v	gigirₓ?
+@inote |LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
 @end sign
 
 @sign |SIK₂.HI×NUN.AŠ.U|
@@ -30015,14 +30116,6 @@
 @sign	|UR₂×KID₂.SU|
 @inote epsd2/praxis
 @v     umbinₓ
-@end sign
-
-@sign LAK212
-@inote epsd2/praxis
-@v     asalₓ
-@form ~a LAK212@v
-@inote P452998 = MRAH O.5009 i 3
-@end form
 @end sign
 
 @sign	|NAM.EN.NA|
@@ -30822,17 +30915,16 @@
 @inote ed12; provisional
 @end sign
 
-@sign BAU153
-@inote ed12; provisional
-@v	nirahₓ
-@end sign
-
 @sign BAU161b
 @inote ed12; provisional
 @end sign
 
 @sign BAU377
 @inote ed12; provisional
+@end sign
+
+@sign BAU405
+@list BAU405
 @end sign
 
 @sign |GAN₂×HI|
@@ -30853,6 +30945,10 @@
 
 @sign N57
 @inote for 2(N57)
+@end sign
+
+@sign N58
+@inote for SAL×1(N58)
 @end sign
 
 @sign 2(N57)
@@ -31141,6 +31237,8 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK363
+@list LAK363
+@list BAU186
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK380
@@ -31153,9 +31251,6 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK431
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK477
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK712
@@ -31172,4 +31267,9 @@
 @end sign
 @sign	LAK821
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+
+@sign |UD×1(N01)|
+@list BAU199
+@inote possibly ITI?
 @end sign
