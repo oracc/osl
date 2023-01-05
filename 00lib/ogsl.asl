@@ -18195,6 +18195,10 @@
 @v	nam₂
 @end sign
 
+@sign	NAM₂@t
+@list BAU385b
+@end sign
+
 @sign	NE
 @list HZL169
 @list LAK148
