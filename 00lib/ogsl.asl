@@ -13699,10 +13699,11 @@
 @v	la
 @v	šika
 @v	šikₓ
-@form	~e LA@n
+@end sign
+
+@sign	LA@n
 @list BAU286
-@inote Outline form of LA, form ~e used because CDLI UET II tranliterations use LA~e
-@end form
+@inote Outline form of LA~e; CDLI UET II tranliterations use LA~e but LA@n lacks the internal horizontals of LA~e
 @end sign
 
 @sign	LAGAB
