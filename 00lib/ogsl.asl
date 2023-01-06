@@ -6057,6 +6057,13 @@
 @v	dugin₂
 @v	dugina₂
 @v	mir₅
+@form	~a |LAK617×MIR|
+@list LAK622
+@list BAU303
+@uphase	9
+@ucode x12504
+@uname	CUNEIFORM SIGN LAK617 TIMES MIR
+@inote analogue to EZEN×DUN₃@g@g
 @end sign
 
 @sign	|EZEN×HA|
@@ -15608,15 +15615,6 @@
 @uname	CUNEIFORM SIGN LAK617 TIMES LA
 @end	sign
 
-@sign	|LAK617×MIR|
-@list LAK622
-@list BAU303
-@uphase	9
-@ucode x12504
-@uname	CUNEIFORM SIGN LAK617 TIMES MIR
-@inote analogue to EZEN×DUN₃@g@g
-@end	sign
-
 @sign	|LAK617×TAR|
 @list LAK626
 @uphase	9
@@ -17794,7 +17792,9 @@
 @v	zir₃
 @form 	~a BAU153
 @list BAU153
+@list ZATU059
 @v	nirahₓ
+@inote SUD+DU₆, same as ZATU059/BU+DU₆ see ATFU p.44-45.
 @end form
 @end sign
 
@@ -20892,6 +20892,7 @@
 @end sign
 
 @sign	RU
+@list BAU145
 @list BAU204
 @list HZL043
 @list LAK281
@@ -31302,7 +31303,6 @@
 
 @sign BAU377
 @list BAU377
-@inote ed12; provisional
 @end sign
 
 @sign BAU405
@@ -31479,7 +31479,7 @@
 @end sign
 
 @sign BAU067
-@inote ed12
+@inote ed12, possibly NINDA₂×ŠE but ATFU p.67 questions this
 @end sign
 
 @sign BAU106
