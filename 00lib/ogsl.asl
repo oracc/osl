@@ -3923,7 +3923,6 @@
 @ucode	x12077
 @v?	dan₅
 @v	den
-@v	di₂
 @v	din
 @v	dini
 @v	gurun₈
@@ -3931,7 +3930,6 @@
 @note	Value idinₓ is not listed in MZL and seems unnecessary.
 @v	kurun₂
 @v	ten₂
-@v	ti₂
 @v-	tilₓ
 @note	Value tilₓ is not listed in MZL and seems unnecessary.
 @v	tim₃
@@ -9600,8 +9598,6 @@
 @v	ʾi₃
 @v	da₁₀
 @v	dab₃
-@v	de₈
-@v	di₂
 @v	du₁₀
 @v	dub₃
 @v	dug₃
@@ -9613,12 +9609,8 @@
 @v	kugu
 @v	muₓ
 @v	ta₈
-@v	te₂
-@v	ti₂
 @v	ṭa₃
 @v	ṭab₆
-@v	ṭe₂
-@v	ṭi₂
 @end sign
 
 @sign	|HI.A|
@@ -24932,6 +24924,19 @@
 @v	tana [Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu]
 @v	%akk/n tibnu
 @note	The value tibnu is assigned to TI@t, but it is not impossible that it belongs to TI.
+@end sign
+
+@sign TI₂
+@list HZL335
+@list MZL633
+@uname CUNEIFORM SIGN TI2
+@ucode x12397
+@v	ṭi₂
+@v	ṭe₂
+@v	ti₂
+@v	te₂
+@v	de₈
+@v	di₂
 @end sign
 
 @sign	TIL
