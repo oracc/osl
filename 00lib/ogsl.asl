@@ -8242,7 +8242,9 @@
 @end sign
 
 @sign	GIG
+@list BAU175
 @list HZL269
+@list LAK394
 @list MZL705
 @list OBZL350
 @list SLLHA446
@@ -8262,6 +8264,7 @@
 @v	kik
 @v	qiq
 @v	simₓ
+@inote ED |MI.NUNUZ|
 @end sign
 
 @sign	GIR₂
@@ -17530,11 +17533,6 @@
 @ucode	x1222A.x1223E.x1200A.x1230B.x1211E
 @note  Is this a typo for |GI.NA.AB.U.GUD|? See |E₂.GI.NA.AB.U.GUD|.
 @v	šutumₓ
-@end sign
-
-@sign |MI.NUNUZ|
-@list BAU175
-@list LAK394
 @end sign
 
 @sign	|MI.ZA₇|
