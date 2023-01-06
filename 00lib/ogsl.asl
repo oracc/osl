@@ -31278,3 +31278,33 @@
 @list BAU199
 @inote possibly ITI?
 @end sign
+
+@sign |ŠEŠ.UNUG|
+@end sign
+
+@sign |GUD×HI|
+@end sign
+
+@sign |MI&MI|
+@end sign
+
+@sign |IGI.BUR|
+@end sign
+
+@sign |GI&GI|
+@end sign
+
+@sign |LAK617×DUN₃@g@g|
+@end sign
+
+@sign |LAK617×LA@n|
+@end sign
+
+@sign |UNKEN×DUG|
+@end sign
+
+@sign |GU.GU|
+@end sign
+
+@sign |A×AN|
+@end sign
