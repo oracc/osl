@@ -32227,3 +32227,71 @@
 @fake 1
 @inote UET II
 @end sign
+@sign |MA×2(N57)|
+@inote UET II, provisional
+@end sign
+
+@sign |MA×X|
+@inote UET II, provisional
+@end sign
+
+@sign |MUD₃@g×GU|
+@inote UET II, provisional
+@end sign
+
+@sign |MUŠEN×2(N57)|
+@inote UET II, provisional
+@end sign
+
+@sign |NINDA₂×(GIŠ.DAR)|
+@inote UET II, provisional
+@end sign
+
+@sign |NINDA₂×(X.MAŠ)|
+@inote UET II, provisional
+@end sign
+
+@sign |NINDA₂×1(N06)|
+@inote UET II, provisional
+@end sign
+
+@sign |SILA₃×ŠE|
+@inote UET II, provisional
+@end sign
+
+@sign |TUR₃×TAK₄|
+@inote UET II, provisional
+@end sign
+
+@sign |UD×1(N01@f)|
+@inote UET II, provisional
+@end sign
+
+@sign |UD×3(N57)|
+@inote UET II, provisional
+@end sign
+
+@sign |UŠ×TAR|
+@inote UET II, provisional
+@end sign
+
+@sign |1(N08@f)×1(N57)|
+@inote UET II, provisional
+@end sign
+
+@sign |1(N57).1(N57)|
+@inote UET II, provisional
+@end sign
+
+@sign |1(N57).ŠAH₂|
+@inote UET II, provisional
+@end sign
+
+@sign |ŠU₂.2(N57)|
+@inote UET II, provisional
+@end sign
+
+@sign ŠU@s
+@inote UET II, provisional
+@end sign
+
