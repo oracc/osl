@@ -1515,6 +1515,13 @@
 @v	zur
 @end sign
 
+@sign	|AMAR.AMAR|
+@list BAU146a
+@form ~a |AMAR&AMAR|
+@inote |AMAR&AMAR| in CDLI archsigns
+@end form
+@end sign
+
 @sign	AMAR@t
 @uphase none
 @note	In |AB₂×AMAR@t| in P020344 = VS 27, 28.
@@ -1536,6 +1543,7 @@
 @end sign
 
 @sign	|AMAR×ŠE|
+@list BAU146b
 @list HZL156
 @list LAK268
 @list MZL696
@@ -7399,7 +7407,7 @@
 @list OBZL299
 @list SLLHA090
 @list KWU402
-@note	LAK285 represents a pre-Fara form of the sign.
+@note	LAK285 represents a pre-Fara form of the sign. BAU220/ZATU659 not completely certain.
 @uphase	1
 @uname	CUNEIFORM SIGN GAD
 @ucode	x120F0
@@ -24511,7 +24519,6 @@
 @end sign
 
 @sign	TAG
-@list BAU315
 @list BAU356
 @list HZL091
 @list LAK628
@@ -31299,11 +31306,27 @@
 @end sign
 
 @sign BAU077
+@list BAU077
 @inote ed12; provisional
 @end sign
 
 @sign BAU161b
+@list BAU161b
 @inote ed12; provisional
+@end sign
+
+@sign BAU209
+@list BAU209
+@end sign
+
+@sign BAU315
+@list BAU315
+@inote TAG? GEŠTIN×X?
+@end sign
+
+@sign BAU366
+@list BAU366
+@inote CDLI GIŠ@t.E₂~a
 @end sign
 
 @sign BAU377
@@ -31328,14 +31351,6 @@
 
 @sign RSP374
 @inote possibly a malformed IL, see RSP ad loc
-@end sign
-
-@sign N57
-@inote for 2(N57)
-@end sign
-
-@sign N58
-@inote for SAL×1(N58)
 @end sign
 
 @sign 2(N57)
@@ -31403,12 +31418,6 @@
 @inote ed3b no image needs collation
 @end sign
 
-@sign N01
-@end sign
-
-@sign N08
-@end sign
-
 @sign |AŠ×BAD|
 @inote P452996 r 4 e₂-{d}|AŠ×BAD|-za PN
 @end sign
@@ -31463,26 +31472,6 @@
 @inote ed3a
 @end sign
 
-@sign N01@c
-@inote ed3a
-@end sign
-
-@sign N08@c
-@inote ed3a
-@end sign
-
-@sign N34@c
-@inote ed3a
-@end sign
-
-@sign N34@f@t
-@inote ed3a
-@end sign
-
-@sign N51@f
-@inote ed3a
-@end sign
-
 @sign BAU067
 @inote ed12, possibly NINDA₂×ŠE but ATFU p.67 questions this
 @end sign
@@ -31496,46 +31485,6 @@
 @end sign
 
 @sign BAU165
-@inote ed12
-@end sign
-
-@sign N01@f
-@inote ed12
-@end sign
-
-@sign N04@f
-@inote ed12
-@end sign
-
-@sign N08@f
-@inote ed12
-@end sign
-
-@sign N14
-@inote ed12
-@end sign
-
-@sign N14@f
-@inote ed12
-@end sign
-
-@sign N19@f
-@inote ed12
-@end sign
-
-@sign N22
-@inote ed12
-@end sign
-
-@sign N22@f
-@inote ed12
-@end sign
-
-@sign N34@f
-@inote ed12
-@end sign
-
-@sign N45
 @inote ed12
 @end sign
 
@@ -31626,6 +31575,7 @@
 @sign	LAK363
 @list BAU186
 @list LAK363
+@inote CDLI |HI×1(N01@f)|
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK380
@@ -31699,4 +31649,581 @@
 
 @sign |A×AN|
 @list BAU417a
+@end sign
+
+@sign 1(N01)
+@inote UET II
+@end sign
+
+@sign 1(N01@f)
+@inote UET II
+@end sign
+
+@sign 1(N04)
+@inote UET II
+@end sign
+
+@sign 1(N04@f)
+@inote UET II
+@end sign
+
+@sign 1(N08)
+@inote UET II
+@end sign
+
+@sign 1(N08@f)
+@inote UET II
+@end sign
+
+@sign 1(N14)
+@inote UET II
+@end sign
+
+@sign 1(N14@f)
+@inote UET II
+@end sign
+
+@sign 1(N19)
+@inote UET II
+@end sign
+
+@sign 1(N19@f)
+@inote UET II
+@end sign
+
+@sign 1(N22)
+@inote UET II
+@end sign
+
+@sign 1(N22@f)
+@inote UET II
+@end sign
+
+@sign 1(N24)
+@inote UET II
+@end sign
+
+@sign 1(N34)
+@inote UET II
+@end sign
+
+@sign 1(N34@f)
+@inote UET II
+@end sign
+
+@sign 1(N34@f@t)
+@inote UET II
+@end sign
+
+@sign 1(N36)
+@inote UET II
+@end sign
+
+@sign 1(N36@f)
+@inote UET II
+@end sign
+
+@sign 1(N45)
+@inote UET II
+@end sign
+
+@sign 1(N45@f)
+@inote UET II
+@end sign
+
+@sign 1(N46)
+@inote UET II
+@end sign
+
+@sign 1(N48)
+@inote UET II
+@end sign
+
+@sign 1(N48@f)
+@inote UET II
+@end sign
+
+@sign 1(N50)
+@inote UET II
+@end sign
+
+@sign 1(N51)
+@inote UET II
+@end sign
+
+@sign 1(N51@f)
+@inote UET II
+@end sign
+
+@sign 1(N54)
+@inote UET II
+@end sign
+
+@sign 1(N57)
+@inote UET II
+@end sign
+
+@sign 1(N58)
+@inote UET II
+@end sign
+
+@sign 10(N01)
+@inote UET II
+@end sign
+
+@sign 10(N14)
+@inote UET II
+@end sign
+
+@sign 10(N14@f)
+@inote UET II
+@end sign
+
+@sign 2(N01)
+@inote UET II
+@end sign
+
+@sign 2(N01@f)
+@inote UET II
+@end sign
+
+@sign 2(N04)
+@inote UET II
+@end sign
+
+@sign 2(N04@f)
+@inote UET II
+@end sign
+
+@sign 2(N14)
+@inote UET II
+@end sign
+
+@sign 2(N14@f)
+@inote UET II
+@end sign
+
+@sign 2(N19)
+@inote UET II
+@end sign
+
+@sign 2(N19@f)
+@inote UET II
+@end sign
+
+@sign 2(N22)
+@inote UET II
+@end sign
+
+@sign 2(N22@f)
+@inote UET II
+@end sign
+
+@sign 2(N34)
+@inote UET II
+@end sign
+
+@sign 2(N34@f)
+@inote UET II
+@end sign
+
+@sign 2(N36)
+@inote UET II
+@end sign
+
+@sign 2(N45)
+@inote UET II
+@end sign
+
+@sign 2(N45@f)
+@inote UET II
+@end sign
+
+@sign 2(N46@f)
+@inote UET II
+@end sign
+
+@sign 2(N50)
+@inote UET II
+@end sign
+
+@sign 2(N51)
+@inote UET II
+@end sign
+
+@sign 2(N51@f)
+@inote UET II
+@end sign
+
+@sign 3(N01)
+@inote UET II
+@end sign
+
+@sign 3(N01@f)
+@inote UET II
+@end sign
+
+@sign 3(N04)
+@inote UET II
+@end sign
+
+@sign 3(N04@f)
+@inote UET II
+@end sign
+
+@sign 3(N14)
+@inote UET II
+@end sign
+
+@sign 3(N14@f)
+@inote UET II
+@end sign
+
+@sign 3(N19)
+@inote UET II
+@end sign
+
+@sign 3(N19@f)
+@inote UET II
+@end sign
+
+@sign 3(N34)
+@inote UET II
+@end sign
+
+@sign 3(N34@f)
+@inote UET II
+@end sign
+
+@sign 3(N51@f)
+@inote UET II
+@end sign
+
+@sign 3(N57)
+@inote UET II
+@end sign
+
+@sign 4(N01)
+@inote UET II
+@end sign
+
+@sign 4(N01@f)
+@inote UET II
+@end sign
+
+@sign 4(N04)
+@inote UET II
+@end sign
+
+@sign 4(N04@f)
+@inote UET II
+@end sign
+
+@sign 4(N14)
+@inote UET II
+@end sign
+
+@sign 4(N14@f)
+@inote UET II
+@end sign
+
+@sign 4(N19)
+@inote UET II
+@end sign
+
+@sign 4(N19@f)
+@inote UET II
+@end sign
+
+@sign 4(N34)
+@inote UET II
+@end sign
+
+@sign 4(N34@f)
+@inote UET II
+@end sign
+
+@sign 4(N36)
+@inote UET II
+@end sign
+
+@sign 4(N45)
+@inote UET II
+@end sign
+
+@sign 4(N50)
+@inote UET II
+@end sign
+
+@sign 4(N51)
+@inote UET II
+@end sign
+
+@sign 4(N51@f)
+@inote UET II
+@end sign
+
+@sign 5(N01)
+@inote UET II
+@end sign
+
+@sign 5(N01@f)
+@inote UET II
+@end sign
+
+@sign 5(N04@f)
+@inote UET II
+@end sign
+
+@sign 5(N14)
+@inote UET II
+@end sign
+
+@sign 5(N14@f)
+@inote UET II
+@end sign
+
+@sign 5(N19)
+@inote UET II
+@end sign
+
+@sign 5(N19@f)
+@inote UET II
+@end sign
+
+@sign 5(N34@f)
+@inote UET II
+@end sign
+
+@sign 5(N45)
+@inote UET II
+@end sign
+
+@sign 5(N50)
+@inote UET II
+@end sign
+
+@sign 5(N51)
+@inote UET II
+@end sign
+
+@sign 5(N51@f)
+@inote UET II
+@end sign
+
+@sign 6(N01)
+@inote UET II
+@end sign
+
+@sign 6(N01@f)
+@inote UET II
+@end sign
+
+@sign 6(N14)
+@inote UET II
+@end sign
+
+@sign 6(N14@f)
+@inote UET II
+@end sign
+
+@sign 6(N19)
+@inote UET II
+@end sign
+
+@sign 6(N19@f)
+@inote UET II
+@end sign
+
+@sign 6(N34@f)
+@inote UET II
+@end sign
+
+@sign 7(N01)
+@inote UET II
+@end sign
+
+@sign 7(N01@f)
+@inote UET II
+@end sign
+
+@sign 7(N14)
+@inote UET II
+@end sign
+
+@sign 7(N14@f)
+@inote UET II
+@end sign
+
+@sign 7(N19@f)
+@inote UET II
+@end sign
+
+@sign 8(N01)
+@inote UET II
+@end sign
+
+@sign 8(N01@f)
+@inote UET II
+@end sign
+
+@sign 8(N14)
+@inote UET II
+@end sign
+
+@sign 8(N14@f)
+@inote UET II
+@end sign
+
+@sign 8(N19)
+@inote UET II
+@end sign
+
+@sign 8(N34@f)
+@inote UET II
+@end sign
+
+@sign 8(N51@f)
+@inote UET II
+@end sign
+
+@sign 9(N01)
+@inote UET II
+@end sign
+
+@sign 9(N01@f)
+@inote UET II
+@end sign
+
+@sign 9(N14)
+@inote UET II
+@end sign
+
+@sign 9(N14@f)
+@inote UET II
+@end sign
+
+@sign 9(N34@f)
+@inote UET II
+@end sign
+
+@sign 9(N51@f)
+@inote UET II
+@end sign
+
+@sign N01
+@fake 1
+@inote UET II
+@end sign
+@sign N01@f
+@fake 1
+@inote UET II
+@end sign
+@sign N04
+@fake 1
+@inote UET II
+@end sign
+@sign N04@f
+@fake 1
+@inote UET II
+@end sign
+@sign N08
+@fake 1
+@inote UET II
+@end sign
+@sign N08@f
+@fake 1
+@inote UET II
+@end sign
+@sign N14
+@fake 1
+@inote UET II
+@end sign
+@sign N14@f
+@fake 1
+@inote UET II
+@end sign
+@sign N19
+@fake 1
+@inote UET II
+@end sign
+@sign N19@f
+@fake 1
+@inote UET II
+@end sign
+@sign N22
+@fake 1
+@inote UET II
+@end sign
+@sign N22@f
+@fake 1
+@inote UET II
+@end sign
+@sign N24
+@fake 1
+@inote UET II
+@end sign
+@sign N34
+@fake 1
+@inote UET II
+@end sign
+@sign N34@f
+@fake 1
+@inote UET II
+@end sign
+@sign N34@f@t
+@fake 1
+@inote UET II
+@end sign
+@sign N36
+@fake 1
+@inote UET II
+@end sign
+@sign N36@f
+@fake 1
+@inote UET II
+@end sign
+@sign N45
+@fake 1
+@inote UET II
+@end sign
+@sign N45@f
+@fake 1
+@inote UET II
+@end sign
+@sign N46
+@fake 1
+@inote UET II
+@end sign
+@sign N46@f
+@fake 1
+@inote UET II
+@end sign
+@sign N48
+@fake 1
+@inote UET II
+@end sign
+@sign N48@f
+@fake 1
+@inote UET II
+@end sign
+@sign N51
+@fake 1
+@inote UET II
+@end sign
+@sign N51@f
+@fake 1
+@inote UET II
+@end sign
+@sign N54
+@fake 1
+@inote UET II
+@end sign
+@sign N57
+@fake 1
+@inote UET II
+@end sign
+@sign N58
+@fake 1
+@inote UET II
 @end sign
