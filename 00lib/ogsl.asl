@@ -31038,6 +31038,14 @@
 @v	šuₓ
 @end sign
 
+@sign RSP194
+@list RSP194
+@end sign
+
+@sign RSP280
+@list RSP280
+@end sign
+
 @sign |ŠA×AN|
 @inote admin/names
 @v	šanₓ
