@@ -32,6 +32,14 @@
 @v	ya₁₀
 @end sign
 
+@sign	A@g
+@inote UET II = CDLI archsigns A@g
+@end sign
+
+@sign	A@t
+@inote UET II = CDLI archsigns A@t
+@end sign
+
 @sign	|A.A|
 @ucode	x12000.x12000
 @v	ai
@@ -1516,9 +1524,9 @@
 @end sign
 
 @sign	|AMAR.AMAR|
-@list BAU146a
+@list BAU146b
 @form ~a |AMAR&AMAR|
-@inote |AMAR&AMAR| in CDLI archsigns
+@inote UET II = CDLI archsigns |AMAR&AMAR|. CDLI description does not match instance which has AMAR+AMAR=BAU146 second form. ZATU has no AMAR+AMAR.
 @end form
 @end sign
 
@@ -3704,6 +3712,9 @@
 @v	tarah₂
 @v	ua₂
 @v	u₁₀
+@form ~b DARA₄~b
+@inote hapax in UET II = CDLI archsigns DARA₄~b which lacks internal horizontals
+@end form
 @end sign
 
 @sign	DI
@@ -4306,7 +4317,6 @@
 @end sign
 
 @sign	DUB
-@list BAU077
 @list BAU297
 @list HZL099
 @list LAK609
@@ -4697,6 +4707,10 @@
 @v	duh
 @v	du₈
 @v	tuh
+@end sign
+
+@sign DUH@g
+@inote UET II = CDLI archsigns DU₈~c@g
 @end sign
 
 @sign	DUN
@@ -6884,6 +6898,11 @@
 @v	egirsu
 @v	gagirsu
 @v	ŋaŋirsu
+@end sign
+
+@sign	|GA₂×GUD|
+@list BAU321
+@inote UET II = CDLI archsigns |GA₂~a1×GU₄|
 @end sign
 
 @sign	|GA₂×(HA.A)|
@@ -10914,6 +10933,10 @@
 @form ~a NI₂
 @list BAU389
 @inote ur-{d}iškur(LAK377) in P250715 l.3
+@end sign
+
+@sign IM@g
+@inote UET II 143 i 3 = CDLI archsigns IM~a@g; description uncertain
 @end sign
 
 @sign	|IM.IM.KAD₃IM.KAD₃A|
@@ -16419,6 +16442,10 @@
 @end form
 @end sign
 
+@sign |(LU₂×BAD)@t|
+@inote UET II = CDLI archsigns ADDA@t
+@end sign
+
 @sign	|LU₂×DIŠ|
 @list LAK338
 @uphase	9
@@ -17456,6 +17483,7 @@
 @end sign
 
 @sign	MES
+@list BAU077
 @list HZL112
 @list MZL486
 @list OBZL112a
@@ -18432,6 +18460,11 @@
 @uname	CUNEIFORM SIGN NAM2
 @ucode	x12247
 @v	nam₂
+@end sign
+
+@sign	NAM₂@g@t
+@list BAU387a
+@inote UET II = CDLI archsigns NAM₂@g; description not perfect but NAM₂@g@t is closer than NAM₂@g
 @end sign
 
 @sign	NAM₂@t
@@ -19643,11 +19676,8 @@
 @end sign
 
 @sign	NUNUZ
-@list BAU081
 @list BAU082a
-@list BAU082b
-@list BAU187
-@list LAK813
+@list LAK364
 @list KWU532
 @uphase	1
 @uname	CUNEIFORM SIGN NUNUZ
@@ -19660,6 +19690,17 @@
 @v	nuz
 @v	pel₅
 @v?	sug₉
+@inote Default form is the one transliterated as NUNUZ~c in CDLI archsigns
+@inote BAU082a is not exactly this form.  LAK364/KWU532 exactly this form, |(HI×1(N58))&(HI×1(N58))|
+@form ~a NUNUZ~a
+@list BAU082b
+@list LAK813
+@inote BAU082b and LAK813 are two conjoined round beads, NUNUZ~a1 in CDLI archsigns
+@end form
+@end sign
+
+@sign	|NUNUZ.NUNUZ|
+@list BAU187
 @end sign
 
 @sign	|NUNUZ.AB₂|
@@ -21166,6 +21207,11 @@
 @v	erum₃
 @end sign
 
+@sign |SAG×SAR|
+@list BAU235
+@inote UET II = CDLI archsigns |SAG×SAR~a|
+@end sign
+
 @sign	|SAG×ŠID|
 @list MZL191
 @list OBZL310
@@ -21313,9 +21359,11 @@
 @end sign
 
 @sign	SAG@n@g
+@list BAU234
 @list REC193
 @uphase	0
 @v	uguₓ
+@inote UET II = CDLI archsigns SAG@g; this gunu is inside head and resembles SAG×KAR₂
 @end sign
 
 @sign	|SAG@g×HA|
@@ -31305,11 +31353,6 @@
 @inote ed3a/b
 @end sign
 
-@sign BAU077
-@list BAU077
-@inote ed12; provisional
-@end sign
-
 @sign BAU161b
 @list BAU161b
 @inote ed12; provisional
@@ -31331,6 +31374,7 @@
 
 @sign BAU377
 @list BAU377
+@inote Possibly a GIŠ variant; CDLI GIŠ~v in UET II translits; GIŠ~x in archsigns
 @end sign
 
 @sign BAU405
@@ -31351,10 +31395,6 @@
 
 @sign RSP374
 @inote possibly a malformed IL, see RSP ad loc
-@end sign
-
-@sign 2(N57)
-@inote ed12
 @end sign
 
 @sign |A.DU&A.DU|
@@ -31472,25 +31512,32 @@
 @inote ed3a
 @end sign
 
-@sign BAU067
-@inote ed12, possibly NINDA₂×ŠE but ATFU p.67 questions this
+@sign N01@c
+@inote ed3a
 @end sign
 
-@sign BAU106
-@inote ed12
+@sign N08@c
+@inote ed3a
 @end sign
 
-@sign BAU163
-@inote ed12
-@end sign
-
-@sign BAU165
-@inote ed12
+@sign N34@c
+@inote ed3a
 @end sign
 
 @sign N50
 @inote ed12
 @end sign
+
+@sign BAU067
+@list BAU067
+@inote ed12, possibly NINDA₂×ŠE but ATFU p.67 questions this
+@end sign
+
+@sign BAU269
+@list BAU269
+@inote CDLI archsigns SILA₄~c, concentric rounded squares; Steinkeller: different lamb-word?
+@end sign
+
 @sign	ELLES195a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
@@ -31852,6 +31899,10 @@
 @end sign
 
 @sign 2(N51@f)
+@inote UET II
+@end sign
+
+@sign 2(N57)
 @inote UET II
 @end sign
 
@@ -32294,4 +32345,3 @@
 @sign ŠU@s
 @inote UET II, provisional
 @end sign
-
