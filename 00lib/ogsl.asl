@@ -2887,7 +2887,6 @@
 
 @sign	BI
 @list RSP218
-@list RSP218
 @list BAU344
 @list BAU350
 @list BAU351
@@ -3939,14 +3938,12 @@
 @list MZL168
 @list OBZL015
 @list KWU086
-@list RSP426b
 @v	gakkul₂
 @lit	Civil, ZA 74, 162
 @end form
 @form ~b	DIM@g
 @list RSP426a
 @list LAK056
-@list RSP426a
 @v	mun
 @lit	Civil, ZA 74, 162; Civil ARES 4, 86.
 @end form
@@ -5685,7 +5682,6 @@
 @end sign
 
 @sign	EREN
-@list RSP304
 @list RSP304
 @list BAU373
 @list HZL062
@@ -7784,7 +7780,6 @@
 @sign	GALAM
 @list RSP179
 @list RSP180
-@list RSP180
 @list LAK352
 @list MZL338
 @list SLLHA190kv
@@ -9665,7 +9660,6 @@
 
 @sign	HA
 @list RSP181
-@list RSP181
 @list BAU207
 @list HZL367
 @list LAK351
@@ -9752,7 +9746,6 @@
 @v	šegₓ
 @v	zahₓ
 @form ~a HA
-@list RSP181
 @list RSP181
 @list BAU207
 @v      gir⁻
@@ -11367,7 +11360,6 @@
 @form ~a |ŠE&ŠE.NI|
 @list RSP447
 @ucode x12532.x1224C
-@list RSP447
 @end sign
 
 @sign	IR
@@ -11822,7 +11814,6 @@
 @v	puzur₄
 @form ~a |KA×(GAN₂@t.ŠA)|
 @list RSP202
-@list RSP202
 @form ~b |KA×ŠU.ŠA|
 @end sign
 
@@ -12266,7 +12257,6 @@
 
 @sign	|KA×SAR|
 @list RSP207
-@list RSP207
 @list BAU235
 @list LAK325
 @list MZL045
@@ -12412,7 +12402,6 @@
 @end sign
 
 @sign	|KA×U₂|
-@list RSP204
 @list RSP204
 @list LAK321
 @list MZL043
@@ -15363,7 +15352,7 @@
 @end sign
 
 @sign	LAK384
-@list	LAK384
+@list LAK384
 @ucode x124EE
 @v	saŋₓ
 @inote epsd2 e₂-saŋₓ = esaŋ[store]
@@ -15424,17 +15413,20 @@
 @end sign
 
 @sign	LAK11
+@list LAK11
 @list LAK011
 @uphase	0
 @note	delete
 @end sign
 
 @sign	LAK13
+@list LAK13
 @list LAK013
 @uphase	0
 @end sign
 
 @sign	LAK21
+@list LAK21
 @list LAK021
 @uphase	9
 @ucode x124D6
@@ -15442,6 +15434,7 @@
 @end sign
 
 @sign	LAK25
+@list LAK25
 @list BAU076
 @list LAK025
 @uphase	9
@@ -15450,16 +15443,19 @@
 @end sign
 
 @sign	LAK27
+@list LAK27
 @list LAK027
 @uphase	0
 @end sign
 
 @sign	LAK28
+@list LAK28
 @list LAK028
 @uphase	0
 @end sign
 
 @sign	LAK30
+@list LAK30
 @list LAK030
 @uphase	9
 @ucode x124D8
@@ -15467,11 +15463,13 @@
 @end sign
 
 @sign	LAK37
+@list LAK37
 @list LAK037
 @uphase	0
 @end sign
 
 @sign	LAK50
+@list LAK50
 @list LAK050
 @uphase	9
 @ucode x124D9
@@ -15479,6 +15477,7 @@
 @end sign
 
 @sign	LAK51
+@list LAK51
 @list LAK051
 @uphase	9
 @ucode x124DA
@@ -15497,6 +15496,7 @@
 @end sign
 
 @sign	LAK80
+@list LAK80
 @list LAK080
 @uphase	9
 @ucode x124DD
@@ -15511,6 +15511,7 @@
 @end sign
 
 @sign	LAK92
+@list LAK92
 @list LAK092
 @ucode x124DF
 @uname	CUNEIFORM SIGN LAK92
@@ -15542,8 +15543,8 @@
 @end sign
 
 @sign	LAK151
-@list RSP365
 @list LAK151
+@list RSP365
 @uphase	0
 @end sign
 
@@ -15565,8 +15566,8 @@
 @end sign
 
 @sign	LAK219
-@list RSP179
 @list LAK219
+@list RSP179
 @ucode x124E3
 @uname	CUNEIFORM SIGN LAK219
 @uphase	9
@@ -15665,8 +15666,8 @@
 @end sign
 
 @sign	LAK343
-@list BAU238
 @list LAK343
+@list BAU238
 @ucode x124EA
 @uname	CUNEIFORM SIGN LAK343
 @uphase	9
@@ -15798,8 +15799,8 @@
 @end sign
 
 @sign	LAK470
-@list RSP101
 @list LAK470
+@list RSP101
 @uphase	9
 @ucode x124F9
 @uname	CUNEIFORM SIGN LAK470
@@ -15826,8 +15827,8 @@
 @end sign
 
 @sign	LAK524
-@list MZL885
 @list LAK524
+@list MZL885
 @list REC333
 @pname	|ZUM×TUG₂|
 @uphase	0
@@ -15885,6 +15886,7 @@
 @end	sign
 
 @sign	LAK617
+@list LAK617
 @list BAU300
 @uphase	0
 @ucode x12501
@@ -16000,8 +16002,8 @@
 @end sign
 
 @sign	LAK749
-@list RSP436
 @list LAK749
+@list RSP436
 @uphase	9
 @ucode x12518
 @uname	CUNEIFORM SIGN LAK749
@@ -16028,6 +16030,7 @@
 @end sign
 
 @sign	LAK20
+@list LAK20
 @list LAK020
 @uphase	9
 @uname	CUNEIFORM SIGN LAK20
@@ -16036,6 +16039,7 @@
 @end sign
 
 @sign	LAK171@s
+@list LAK171@s
 @uphase	0
 @v	esirₓ
 @v	gišhurₓ
@@ -16056,6 +16060,7 @@
 @end sign
 
 @sign	LAK173
+@list LAK173
 @list RSP431
 @uphase	0
 @v	esirₓ
@@ -16070,9 +16075,9 @@
 @end sign
 
 @sign	LAK490
+@list LAK490
 @list RSP216
 @list RSP429
-@list LAK490
 @uphase	9
 @ucode x124FB
 @uname	CUNEIFORM SIGN LAK490
@@ -16091,6 +16096,7 @@
 @end	sign
 
 @sign	LAK649
+@list LAK649
 @uphase	0
 @end sign
 
@@ -16145,6 +16151,7 @@
 @end	sign
 
 @sign	LAK747
+@list LAK747
 @uphase	0
 @end sign
 
@@ -17244,7 +17251,6 @@
 
 @sign	LUH
 @list RSP131
-@list RSP131
 @list BAU092
 @list HZL198
 @list LAK168
@@ -17334,7 +17340,6 @@
 @v	zalag₃ [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 64]
 @inote	salgues
 @form ~a RSP468bis
-@list RSP468bis
 @list RSP468bis
 @inote RSP468bis is apparently not reflected in LAK242/243/244 and needs collation
 @form ~b LAK244
@@ -19611,7 +19616,6 @@
 
 @sign	NISAG
 @list RSP137
-@list RSP137
 @list BAU106
 @list BAU154
 @list LAK159
@@ -21509,7 +21513,6 @@
 @end sign
 
 @sign	|SAG×HA|
-@list RSP196
 @list RSP196
 @list LAK308
 @list MZL198
@@ -24229,7 +24232,6 @@
 
 @sign	ŠITA
 @list RSP166
-@list RSP166
 @list BAU390
 @list BAU395
 @list LAK503
@@ -25164,7 +25166,6 @@
 
 @sign	TAK₄
 @list RSP387
-@list RSP387
 @list BAU118
 @list HZL227
 @list LAK282
@@ -25463,8 +25464,6 @@
 
 @sign	TIL
 @list RSP048
-@list RSP048
-@list RSP048
 @list LAK017
 @list MZL113b
 @lit	Krebernik, OBO 160/1, 276
@@ -25658,7 +25657,6 @@
 @end sign
 
 @sign	|TUM×GAN₂@t|
-@list RSP405
 @list RSP405
 @list LAK497b
 @uphase	9
@@ -26789,7 +26787,6 @@
 @v	uhu₂
 @form ~a |UD×KUŠU₂|
 @list RSP321
-@list RSP321
 @end sign
 
 @sign	|UD.MA₂.AB×HA|
@@ -27599,7 +27596,6 @@
 
 @sign	URI
 @list RSP380
-@list RSP380
 @list BAU414
 @list HZL246
 @list LAK176
@@ -27691,7 +27687,6 @@
 @end sign
 
 @sign	|URU×A|
-@list RSP303
 @list RSP303
 @list BAU337
 @list LAK597
@@ -28718,6 +28713,7 @@
 @end sign
 
 @sign LAK283a
+@list LAK283a
 @inote modified ZAG; possibly a form of U.ZAG?
 @end sign
 
@@ -30323,7 +30319,6 @@
 @list RSP106
 @ucode	xebd0
 @list	LAK106
-@list	RSP106
 @v	1/3(diš@c)@v
 @end sign
 
@@ -30331,7 +30326,6 @@
 @list RSP107
 @ucode	xebd1
 @list	LAK107
-@list	RSP107
 @v	2/3(diš@c)@v
 @end sign
 
@@ -30527,6 +30521,7 @@
 @end sign
 
 @sign LAK093
+@list LAK093
 @list RSP344
 @inote epsd2
 @end sign
@@ -31026,7 +31021,6 @@
 @end sign
 
 @sign LAK526
-@list RSP379
 @list LAK526
 @list RSP379
 @inote epsd2/royal, ed3b
@@ -31590,6 +31584,7 @@
 @end sign
 
 @sign LAK734
+@list LAK734
 @inote admin/names
 @v	gukkalₓ
 @end sign
@@ -31622,11 +31617,9 @@
 
 @sign RSP194
 @list RSP194
-@list RSP194
 @end sign
 
 @sign RSP280
-@list RSP280
 @list RSP280
 @end sign
 
@@ -31861,6 +31854,7 @@
 @end sign
 
 @sign	LAK205
+@list LAK205
 @inote admin/ed3b
 @v	gamunₓ
 @end sign
@@ -31928,7 +31922,6 @@
 @sign |IGI.LAGAB|
 @list RSP069
 @ucode x12146.x121B8
-@list RSP069
 @end sign
 
 @sign |GUD×KASKAL|
@@ -32009,10 +32002,12 @@
 @end sign
 
 @sign LAK046@v
+@list LAK046@v
 @inote ed3a sfs
 @end sign
 
 @sign LAK765
+@list LAK765
 @inote ed3a DN
 @end sign
 
@@ -32092,26 +32087,32 @@
 @end sign
 
 @sign LAK061
+@list LAK061
 @inote ed3a
 @end sign
 
 @sign LAK202
+@list LAK202
 @inote ed3a
 @end sign
 
 @sign LAK234
+@list LAK234
 @inote ed3a
 @end sign
 
 @sign LAK350@90
+@list LAK350@90
 @inote ed3a
 @end sign
 
 @sign LAK490@90
+@list LAK490@90
 @inote ed3a
 @end sign
 
 @sign LAK546
+@list LAK546
 @inote ed3a
 @end sign
 
@@ -32166,93 +32167,121 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK0248
+@list LAK0248
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK046a
+@list LAK046a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK0496
+@list LAK0496
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK0499
+@list LAK0499
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK0712
+@list LAK0712
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK099
+@list LAK099
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK141
+@list LAK141
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK178
+@list LAK178
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK203
+@list LAK203
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK207a
+@list LAK207a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK248@g
+@list LAK248@g
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK248b
+@list LAK248b
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK256
+@list LAK256
 @inote for dcclt/ebla--required for LAK256@g
 @end sign
 @sign	LAK256@g
+@list LAK256@g
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK262@g
+@list LAK262@g
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK280
+@list LAK280
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK304a
+@list LAK304a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK309a
+@list LAK309a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK340
+@list LAK340
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK363
-@list BAU186
 @list LAK363
+@list BAU186
 @inote CDLI |HI×1(N01@f)|
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK380
+@list LAK380
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK407
+@list LAK407
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK416
+@list LAK416
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK431
+@list LAK431
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK712
+@list LAK712
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK771
+@list LAK771
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK772b
+@list LAK772b
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK791a
+@list LAK791a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK821
+@list LAK821
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
