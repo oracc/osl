@@ -16018,7 +16018,6 @@
 @end sign
 
 @sign	LAK20
-@list LAK20
 @list LAK020
 @uphase	9
 @uname	CUNEIFORM SIGN LAK20
@@ -32171,7 +32170,7 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK712
-@list LAK0712
+@list LAK712
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK099
