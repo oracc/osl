@@ -15413,20 +15413,17 @@
 @end sign
 
 @sign	LAK11
-@list LAK11
 @list LAK011
 @uphase	0
 @note	delete
 @end sign
 
 @sign	LAK13
-@list LAK13
 @list LAK013
 @uphase	0
 @end sign
 
 @sign	LAK21
-@list LAK21
 @list LAK021
 @uphase	9
 @ucode x124D6
@@ -15434,28 +15431,24 @@
 @end sign
 
 @sign	LAK25
-@list LAK25
-@list BAU076
 @list LAK025
+@list BAU076
 @uphase	9
 @ucode x124D7
 @uname CUNEIFORM SIGN LAK25
 @end sign
 
 @sign	LAK27
-@list LAK27
 @list LAK027
 @uphase	0
 @end sign
 
 @sign	LAK28
-@list LAK28
 @list LAK028
 @uphase	0
 @end sign
 
 @sign	LAK30
-@list LAK30
 @list LAK030
 @uphase	9
 @ucode x124D8
@@ -15463,13 +15456,11 @@
 @end sign
 
 @sign	LAK37
-@list LAK37
 @list LAK037
 @uphase	0
 @end sign
 
 @sign	LAK50
-@list LAK50
 @list LAK050
 @uphase	9
 @ucode x124D9
@@ -15477,7 +15468,6 @@
 @end sign
 
 @sign	LAK51
-@list LAK51
 @list LAK051
 @uphase	9
 @ucode x124DA
@@ -15496,7 +15486,6 @@
 @end sign
 
 @sign	LAK80
-@list LAK80
 @list LAK080
 @uphase	9
 @ucode x124DD
@@ -15511,7 +15500,6 @@
 @end sign
 
 @sign	LAK92
-@list LAK92
 @list LAK092
 @ucode x124DF
 @uname	CUNEIFORM SIGN LAK92
@@ -32166,23 +32154,23 @@
 @sign	ELLES360
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
-@sign	LAK0248
-@list LAK0248
+@sign	LAK248
+@list LAK248
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK046a
 @list LAK046a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
-@sign	LAK0496
-@list LAK0496
+@sign	LAK496
+@list LAK496
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
-@sign	LAK0499
-@list LAK0499
+@sign	LAK499
+@list LAK499
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
-@sign	LAK0712
+@sign	LAK712
 @list LAK0712
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
