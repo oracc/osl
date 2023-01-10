@@ -1364,6 +1364,7 @@
 @v	meₓ
 @end form
 @form ~b	LAK493
+@list LAK493
 @uphase		9
 @ucode x124FD
 @uname		CUNEIFORM SIGN LAK493
@@ -3115,7 +3116,7 @@
 @uphase 2.x
 @note in |PA.EL.BU@g|
 @form 	 ~a LAK233@g
-@inote Biggs clearly shows this variant in P010078 v 4' and 5' as BU gunufied both in the head and on the tail. Collation from photo supports this but is not completely decisive.
+@inote Not in LAK. Biggs clearly shows this variant in P010078 v 4' and 5' as BU gunufied both in the head and on the tail. Collation from photo supports this but is not completely decisive.
 @end form
 @end sign
 
@@ -3659,6 +3660,7 @@
 @v	utul₆
 @v	utuwa
 @form ~a LAK777@s
+@list LAK777@s
 @inote Extremely uncertain; possibly in IAS 47 iii' 2' but print photo unclear
 @end form
 @end sign
@@ -4880,7 +4882,9 @@
 @inote	Attinger tun₃
 @end form
 @form ~b LAK786
+@list LAK786
 @inote LAK sign form looks like LAGAB×LAL; LAK786 s.v. suggests equivalence to DUN₃ with a query.
+@end form
 @end sign
 
 @sign	DUN₃@g
@@ -5409,6 +5413,7 @@
 @v	uru₁₆
 @v	urunₓ
 @form ~a LAK530
+@list LAK530
 @inote see http://cdli.ucla.edu/P250427 ii 2 with lit
 @end form
 @end sign
@@ -9289,6 +9294,7 @@
 @inote dcclt !sg
 @end form
 @form ~b LAK545
+@list LAK545
 @v	durₓ
 @end form
 @end sign
@@ -9856,6 +9862,7 @@
 @inote Uncertain, needs collation, see P228804 vi 29; what is uncertain about this?
 @end form
 @form ~c LAK240
+@list LAK240
 @inote this form has no HI component
 @end form
 @end sign
@@ -12242,8 +12249,10 @@
 @list KWU428
 @end form
 @form ~b	LAK328
+@list LAK328
 @end form
 @form ~c	LAK332
+@list LAK332
 @end form
 @form ~d	|KA×(U.U.U)|
 @end form
@@ -14835,6 +14844,7 @@
 @v	kunin
 @v	šukumₓ
 @form ~a LAK768
+@list LAK768
 @inote LAK768 = LAGAB×HAL ; TSŠ 302, needs collation
 @end form
 @end sign
@@ -15453,6 +15463,11 @@
 @uphase	9
 @ucode x124D8
 @uname	CUNEIFORM SIGN LAK30
+@form ~a LAK806
+@list LAK806
+@list ZATU663
+@inote This is LAK030 with the leading horizontal rendered as a circle.
+@end form
 @end sign
 
 @sign	LAK37
@@ -15728,6 +15743,19 @@
 @uname	CUNEIFORM SIGN LAK341
 @end sign
 
+@sign	LAK449
+@list LAK449
+@list RSP350
+@list REC280
+@uphase	9
+@ucode x124F1
+@uname	CUNEIFORM SIGN LAK449
+@form ~a LAK449a
+@list LAK449a
+@inote The lead form of LAK449, here LAK449a, is different from U+124F1=LAK449=RSP350=REC280; LAK49a is also the base of LAK450 and should be encoded separately.
+@end form
+@end sign
+
 @sign	|LAK449×GU|
 @list BAU129
 @list LAK455a
@@ -15778,11 +15806,6 @@
 
 @sign	LAK459
 @list LAK459
-@uphase	0
-@end sign
-
-@sign	LAK460
-@list LAK460
 @uphase	0
 @end sign
 
@@ -16547,7 +16570,9 @@
 @v	nu₁₂
 @v	si₆
 @v	udu
-@form ~a LAK780
+@form ~a |LAGAB×PA|
+@list BAU264
+@list LAK780
 @v	dibₓ
 @end sign
 
@@ -16571,6 +16596,9 @@
 @v	kuŋgala
 @inote	Attinger ~ gukkal
 @v	kungal
+@form ~a LAK776
+@list LAK776
+@end form
 @end sign
 
 @sign	|LU.KI.KAK|
@@ -19809,6 +19837,7 @@
 @v-	šurumₓ
 @v	tur₃
 @form ~a LAK077
+@list LAK077
 @v	šilamₓ
 @inote not clear that LAK077 and LAK078 need to be differentiated.
 @end form
@@ -20066,11 +20095,8 @@
 @end sign
 
 @sign	|NUNUZ.AB₂|
-@list RSP350
-@list LAK449
 @ucode	x1226D.x12016
 @v	nisagga
-@form ~b LAK449b
 @end sign
 
 @sign	|NUNUZ.AB₂×AŠGAB|
@@ -20105,9 +20131,11 @@
 @v	mud₃
 @v	pihu₂
 @form	~a LAK449
+@list LAK449
 @uphase	9
 @ucode x124F1
 @uname	CUNEIFORM SIGN LAK449
+@inote There is no BI inside LAK449--it is really a variant form of NUNUZ.AB₂.  I'm leaving this here for now in case it is intentiona
 @end sign
 
 @sign	|NUNUZ.AB₂×DUG|
@@ -20161,11 +20189,7 @@
 @v	lahtan
 @v	mudₓ
 @v	usagₓ
-@form	~a LAK450
-@uphase	9
-@ucode x124F7
-@uname	CUNEIFORM SIGN LAK450
-@end	form
+@inote LAK450 moved to |NUNUZ.AB₂×SILA₃|
 @end sign
 
 @sign	|NUNUZ.AB₂×NE|
@@ -20195,6 +20219,12 @@
 @uname	CUNEIFORM SIGN NUNUZ AB2 TIMES SILA3
 @ucode	x12276
 @v	lahtan₂
+@form	~a |SILA₃.LAK449a|
+@list LAK450
+@uphase	9
+@ucode x124F7
+@uname	CUNEIFORM SIGN LAK450
+@end form
 @end sign
 
 @sign	|NUNUZ.AB₂×U₂|
@@ -20914,6 +20944,7 @@
 @v	peš₂
 @v	piš₂
 @form ~a LAK247
+@list LAK247
 @list RSP460bis
 @v    kilim
 @end form
@@ -24899,6 +24930,7 @@
 @v	gansis
 @end form
 @form ~b LAK654a
+@list LAK654a
 @inote TA@g with curviform final wedge
 @end form
 @end sign
@@ -25629,6 +25661,7 @@
 @v	ṭum
 @v	zibₓ
 @form ~a LAK496
+@list LAK496
 @end sign
 
 @sign	|TUM×A|
@@ -26106,6 +26139,7 @@
 @v	usagₓ
 @v	zaₓ
 @form	~a LAK384
+@list LAK384
 @uphase	9
 @ucode x124EE
 @uname CUNEIFORM SIGN LAK384
@@ -27606,9 +27640,11 @@
 @inote cp LAK576 which is similar but not identical
 @end form
 @form ~b LAK125
+@list LAK125
 @inote perhaps describable as URI@n
 @end form
 @form ~c LAK647
+@list LAK647
 @end form
 @end sign
 
@@ -27952,6 +27988,7 @@
 @note	sign is LAK648×IM
 @end	form
 @form ~c LAK648
+@list LAK647
 @ucode x1250D
 @uname	CUNEIFORM SIGN LAK648
 @end form
@@ -29007,6 +29044,7 @@
 @v	zubu
 @v	zu₈
 @form ~a LAK460
+@list LAK460
 @end sign
 
 @sign	ZUM
@@ -30766,6 +30804,9 @@
 @v	dur₂?
 @v	gigirₓ?
 @inote |LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
+@form ~a |LAGAB×1(DIŠ)|
+@list LAK772b
+@end form
 @end sign
 
 @sign |SIK₂.HI×NUN.AŠ.U|
@@ -31864,9 +31905,6 @@
 
 @sign	|LAGAR×ZA|
 @end sign
-@sign	|LAGAB×PA|
-@list BAU264
-@end sign
 @sign	|EN×X|
 @end sign
 @sign	|LI&LI|
@@ -32153,24 +32191,8 @@
 @sign	ELLES360
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
-@sign	LAK248
-@list LAK248
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
 @sign	LAK046a
 @list LAK046a
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK496
-@list LAK496
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK499
-@list LAK499
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK712
-@list LAK712
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK099
@@ -32257,10 +32279,6 @@
 @end sign
 @sign	LAK771
 @list LAK771
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK772b
-@list LAK772b
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK791a
