@@ -5389,16 +5389,19 @@
 @v	sikil
 @end sign
 
-@sign	ELLES214
-@list ELLES214
-@uphase	0
-@inote Ebla
+@sign	ELLES257
 @end sign
 
-@sign	ELLES316
-@list ELLES316
-@uphase	0
-@inote Ebla sign list
+@sign	ELLES270
+@end sign
+
+@sign	ELLES278
+@end sign
+
+@sign	ELLES302
+@end sign
+
+@sign	ELLES360
 @end sign
 
 @sign	ELLES396
@@ -32241,30 +32244,6 @@
 @inote CDLI archsigns SILA₄~c, concentric rounded squares; Steinkeller: different lamb-word?
 @end sign
 
-@sign	ELLES195a
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	ELLES22
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	ELLES257
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	ELLES270
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	ELLES278
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	ELLES302
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	ELLES329
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	ELLES360
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
 @sign	LAK248
 @list LAK248
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
@@ -33383,5 +33362,90 @@
 @sign |ŠIM@g×PI|
 @list LAK661
 @inote missing compounds for lak.atf
+@end sign
+
+@sign ELLES065a
+@list ELLES065a
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES092
+@list ELLES092
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES151
+@list ELLES151
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES163
+@list ELLES163
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES164
+@list ELLES164
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES177
+@list ELLES177
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES179
+@list ELLES179
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES185
+@list ELLES185
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES189
+@list ELLES189
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES296
+@list ELLES296
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES301
+@list ELLES301
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES307b
+@list ELLES307b
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES312
+@list ELLES312
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES313
+@list ELLES313
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES324
+@list ELLES324
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES330
+@list ELLES330
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
+@sign ELLES358
+@list ELLES358
+@inote Ebla sign in ELLES not yet identified
 @end sign
 
