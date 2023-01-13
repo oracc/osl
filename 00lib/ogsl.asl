@@ -5458,9 +5458,6 @@
 @v	sikil
 @end sign
 
-@sign	ELLES257
-@end sign
-
 @sign	ELLES270
 @list ELLES270
 @end sign
@@ -12237,18 +12234,6 @@
 @v	gurušₓ [MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 23, gu-ru-uš |KA×(KI+ŠU2?)| ka-sa3-su2-um]
 @end sign
 
-@sign	|KA×KID|
-@uphase	1
-@uname	CUNEIFORM SIGN KA TIMES KID
-@inote	merge with KA×SA and refer to Steinkeller MC 4
-@ucode	x12171
-@v	dunₓ
-@v	suₓ
-@v	sulₓ
-@v	sumₓ
-@v	sunₓ
-@end sign
-
 @sign	|KA×KID₂|
 @uphase	0
 @v	šegₓ
@@ -12437,6 +12422,7 @@
 @end sign
 
 @sign	|KA×SA|
+@list ELLES185
 @list LAK333
 @list HZL136
 @list MZL032
@@ -12470,6 +12456,17 @@
 @list LAK332
 @end form
 @form ~d	|KA×(U.U.U)|
+@end form
+@form ~e	|KA×KID|
+@uphase	1
+@uname	CUNEIFORM SIGN KA TIMES KID
+@inote	merge with KA×SA and refer to Steinkeller MC 4
+@ucode	x12171
+@v	dunₓ
+@v	suₓ
+@v	sulₓ
+@v	sumₓ
+@v	sunₓ
 @end form
 @end sign
 
@@ -17034,6 +17031,7 @@
 @end sign
 
 @sign	|LU₂×EŠ₂|
+@list ELLES189
 @list OBZL259
 @list SLLHA330_7c
 @uphase	1
@@ -18339,6 +18337,7 @@
 
 @sign	MUNSUB
 @list ELLES329
+@list ELLES330
 @list LAK672b
 @list MZL820
 @list SLLHA543
@@ -21977,6 +21976,7 @@
 @end sign
 
 @sign	|SAG×TAK₄|
+@list ELLES163?
 @uphase	9
 @ucode x12530
 @uname	CUNEIFORM SIGN SAG TIMES TAK4
@@ -28037,6 +28037,7 @@
 
 @sign	UR₄
 @list ELLES247
+@list ELLES324?
 @list LAK472
 @list RSP393
 @list BAU285
@@ -28277,6 +28278,7 @@
 @end sign
 
 @sign	|URU×GU|
+@list ELLES296?
 @list LAK602
 @list RSP302
 @list MZL084
