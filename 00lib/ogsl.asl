@@ -7810,7 +7810,6 @@
 @end sign
 
 @sign	GALAM
-@list LAK352
 @list RSP179
 @list RSP180
 @list MZL338
@@ -9799,6 +9798,7 @@
 @end sign
 
 @sign	HA@t
+@list LAK352
 @list BAU211
 @list MZL857
 @list SLLHA590
