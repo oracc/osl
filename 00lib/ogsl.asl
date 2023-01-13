@@ -1,4 +1,5 @@
 @sign	A
+@list ELLES393
 @list LAK795
 @list RSP051
 @list RSP349
@@ -198,6 +199,7 @@
 @form	~e |MUŠ.DU.A.HA|
 @ucode x12232.x1207A.x12000.x12129
 @form	~f BU
+@list ELLES131
 @list LAK232
 @list RSP335
 @list BAU148
@@ -473,6 +475,7 @@
 @ucode	x12000.x122E2
 @v	aktum
 @form ~a SU
+@list ELLES172
 @list LAK293
 @list RSP143
 @list BAU226
@@ -513,6 +516,7 @@
 @end sign
 
 @sign	|A.TU.GABA.LIŠ|
+@list ELLES123
 @list LAK212
 @ucode	x12000.x12305.x120EE.x121FA
 @v	asal₂
@@ -715,6 +719,7 @@
 @end sign
 
 @sign	A₂
+@list ELLES078
 @list LAK140
 @list LAK144
 @list RSP420
@@ -740,6 +745,7 @@
 @v	te₈
 @v	ti₈
 @form ~a DA
+@list ELLES077
 @list LAK143
 @list RSP419
 @list BAU097
@@ -840,6 +846,7 @@
 @end sign
 
 @sign	AB
+@list ELLES285
 @list LAK536
 @list RSP223
 @list BAU333
@@ -1061,6 +1068,7 @@
 @end sign
 
 @sign	AB@g
+@list ELLES286
 @list LAK537
 @list RSP086
 @list RSP224
@@ -1094,6 +1102,7 @@
 @v	urugal₂
 @v	uruk
 @form ~a AB
+@list ELLES285
 @list LAK536
 @list RSP223
 @list BAU333
@@ -1114,6 +1123,7 @@
 @end sign
 
 @sign	AB₂
+@list ELLES218
 @list LAK403
 @list RSP159
 @list BAU177
@@ -1278,6 +1288,7 @@
 @end sign
 
 @sign	AD
+@list ELLES311
 @list LAK635
 @list RSP227
 @list BAU311
@@ -1327,6 +1338,7 @@
 @end sign
 
 @sign	AK
+@list ELLES053
 @list LAK087
 @list RSP273
 @list BAU062
@@ -1370,6 +1382,7 @@
 @v	meₓ
 @end form
 @form ~b	LAK493
+@list ELLES255
 @list LAK493
 @uphase		9
 @ucode x124FD
@@ -1378,6 +1391,7 @@
 @v	me₃
 @end form
 @form ~c	AK
+@list ELLES053
 @list LAK087
 @list RSP273
 @list BAU062
@@ -1405,6 +1419,7 @@
 @end sign
 
 @sign	AL
+@list ELLES269
 @list LAK515
 @list RSP399
 @list BAU310
@@ -1506,6 +1521,7 @@
 @end sign
 
 @sign	ALAN
+@list ELLES075
 @list LAK138
 @list RSP401
 @list BAU090
@@ -1537,6 +1553,7 @@
 @end sign
 
 @sign	AMAR
+@list ELLES152
 @list LAK267
 @list RSP110
 @list BAU146
@@ -1612,6 +1629,7 @@
 @end sign
 
 @sign	AN
+@list ELLES005
 @list LAK008
 @list RSP080
 @list BAU006
@@ -1843,6 +1861,7 @@
 @end sign
 
 @sign	|AN&AN|
+@list ELLES006
 @list LAK009
 @list RSP081
 @list BAU007
@@ -1985,6 +2004,7 @@
 @end sign
 
 @sign	|3×AN|
+@list ELLES006b
 @list LAK010
 @list RSP082
 @list BAU008
@@ -2005,6 +2025,7 @@
 @end sign
 
 @sign	APIN
+@list ELLES072
 @list LAK128
 @list RSP307
 @list BAU075
@@ -2086,6 +2107,7 @@
 @end sign
 
 @sign	|ARAD×KUR|
+@list ELLES036
 @list LAK059
 @list MZL019
 @list OBZL017
@@ -2109,6 +2131,7 @@
 @end sign
 
 @sign	ARKAB₂
+@list ELLES022
 @list LAK296
 @list LAK297
 @uphase	1
@@ -2123,6 +2146,7 @@
 @end sign
 
 @sign	AŠ
+@list ELLES001
 @list LAK001
 @list RSP001
 @list BAU001
@@ -2404,6 +2428,7 @@
 @end sign
 
 @sign	AŠ₂
+@list ELLES090
 @list LAK162a
 @list RSP128
 @list BAU095
@@ -2495,6 +2520,7 @@
 @end sign
 
 @sign	AŠGAB
+@list ELLES192
 @list LAK346?
 @list RSP395
 @list HZL080
@@ -2514,6 +2540,7 @@
 @end sign
 
 @sign	BA
+@list ELLES170
 @list LAK290
 @list RSP139
 @list BAU222
@@ -2534,6 +2561,7 @@
 @end sign
 
 @sign	BAD
+@list ELLES009
 @list LAK016
 @list RSP048bis
 @list BAU009
@@ -2670,6 +2698,7 @@
 @end sign
 
 @sign	BAHAR₂
+@list ELLES364
 @list LAK742
 @list BAU370
 @uphase	1
@@ -2718,6 +2747,7 @@
 @end sign
 
 @sign	BAL
+@list ELLES012
 @list LAK019
 @list RSP087
 @list HZL004
@@ -2746,6 +2776,7 @@
 @end sign
 
 @sign	BALAG
+@list ELLES026
 @list LAK041
 @list RSP377
 @list BAU029
@@ -2787,6 +2818,7 @@
 @end sign
 
 @sign	BAR
+@list ELLES367
 @list LAK752
 @list RSP044
 @list RSP134
@@ -2809,6 +2841,7 @@
 @note value sutu moved to BAN₂.
 @v-	war
 @form ~a AŠ
+@list ELLES001
 @list LAK001
 @list RSP001
 @list BAU001
@@ -2852,6 +2885,7 @@
 @v	kungi
 @end form
 @form ~d	|3×AN|
+@list ELLES006b
 @list LAK010
 @list RSP082
 @list BAU008
@@ -2877,6 +2911,7 @@
 @end sign
 
 @sign	BARA₂
+@list ELLES083
 @list LAK153
 @list BAU088
 @list HZL235
@@ -3053,6 +3088,7 @@
 @end sign
 
 @sign	BU
+@list ELLES131
 @list LAK232
 @list RSP335
 @list BAU148
@@ -3124,6 +3160,7 @@
 @end sign
 
 @sign	BU@g
+@list ELLES132
 @list LAK233
 @uphase 2.x
 @note in |PA.EL.BU@g|
@@ -3237,6 +3274,7 @@
 @end sign
 
 @sign	BUR
+@list ELLES097
 @list LAK169
 @list RSP164
 @list BAU404
@@ -3256,6 +3294,7 @@
 @end sign
 
 @sign	BUR₂
+@list ELLES030
 @list LAK052
 @list RSP088
 @list BAU054
@@ -3302,6 +3341,7 @@
 @end sign
 
 @sign	BURU₅
+@list ELLES044
 @list LAK072
 @list RSP414
 @list MZL135
@@ -3319,6 +3359,7 @@
 @ucode x12137.x1209F
 @end form
 @form ~d NAM
+@list ELLES043
 @list LAK071
 @list RSP413
 @list BAU038
@@ -3335,6 +3376,7 @@
 @end sign
 
 @sign	DA
+@list ELLES077
 @list LAK143
 @list RSP419
 @list BAU097
@@ -3373,6 +3415,7 @@
 @end sign
 
 @sign	DAG
+@list ELLES363
 @list LAK740
 @list RSP134
 @list RSP267
@@ -3662,6 +3705,7 @@
 @end sign
 
 @sign	|DAG.KISIM₅×UŠ|
+@list ELLES380
 @list LAK777
 @list MZL449
 @list SLLHA287
@@ -3695,6 +3739,7 @@
 @end sign
 
 @sign	DAM
+@list ELLES275
 @list LAK523
 @list RSP191
 @list BAU291
@@ -3745,6 +3790,7 @@
 @end sign
 
 @sign	DARA₃
+@list ELLES150
 @list LAK264
 @list RSP459
 @list HZL071
@@ -3801,6 +3847,7 @@
 @end sign
 
 @sign	DI
+@list ELLES227
 @list LAK439
 @list RSP318
 @list RSP319
@@ -3888,6 +3935,7 @@
 @end sign
 
 @sign	DIM
+@list ELLES031
 @list LAK053
 @list HZL014
 @list MZL167
@@ -3930,6 +3978,7 @@
 @end sign
 
 @sign	|DIM×ŠE|
+@list ELLES033a
 @list LAK055
 @list RSP426b
 @list BAU410
@@ -3945,6 +3994,7 @@
 @v	mun
 @v	munu
 @form ~a	|DIM×ŠE|
+@list ELLES033a
 @list LAK055
 @list RSP426b
 @list BAU410
@@ -3957,6 +4007,7 @@
 @lit	Civil, ZA 74, 162
 @end form
 @form ~b	DIM@g
+@list ELLES033b
 @list LAK056
 @list RSP426a
 @v	mun
@@ -3965,6 +4016,7 @@
 @end sign
 
 @sign	DIM₂
+@list ELLES251
 @list LAK481
 @list RSP375
 @list BAU381
@@ -4018,6 +4070,7 @@
 @end sign
 
 @sign	DIN
+@list ELLES135
 @list LAK237
 @list RSP084
 @list BAU144
@@ -4180,6 +4233,7 @@
 @end sign
 
 @sign	DU
+@list ELLES252
 @list LAK484
 @list RSP369
 @list BAU374
@@ -4332,6 +4386,7 @@
 @v	suhuš
 @v	šuhuš
 @form ~a DU
+@list ELLES252
 @list LAK484
 @list RSP369
 @list BAU374
@@ -4382,6 +4437,7 @@
 @v	raₓ
 @v	rim₄
 @form ~a DU
+@list ELLES252
 @list LAK484
 @list RSP369
 @list BAU374
@@ -4395,6 +4451,7 @@
 @inote	Attinger ~ kaš₄
 @end form
 @form ~b |DU×KASKAL|
+@list ELLES253
 @list LAK485
 @end sign
 
@@ -4420,6 +4477,7 @@
 @end sign
 
 @sign	DUB
+@list ELLES299
 @list LAK609
 @list RSP278
 @list BAU297
@@ -4492,6 +4550,7 @@
 @end sign
 
 @sign	DUB₂
+@list ELLES309
 @list LAK632
 @list RSP215
 @list KWU 720
@@ -4751,6 +4810,7 @@
 @end	sign
 
 @sign	|DUG×NI|
+@list ELLES293
 @list LAK588
 @uphase	9
 @ucode x124A5
@@ -4823,6 +4883,7 @@
 @end sign
 
 @sign	DUN
+@list ELLES025
 @list LAK040
 @list RSP457
 @list BAU019
@@ -4890,6 +4951,7 @@
 @v	tug₈
 @v	ṭu
 @form ~a DUN₃@g
+@list ELLES325
 @list LAK667
 @list RSP305
 @list BAU339
@@ -4901,11 +4963,13 @@
 @inote	Attinger tun₃
 @end form
 @form ~b LAK786
+@list ELLES385
 @list LAK786
 @inote LAK sign form looks like LAGAB×LAL; LAK786 s.v. suggests equivalence to DUN₃ with a query.
 @end sign
 
 @sign	DUN₃@g
+@list ELLES325
 @list LAK667
 @list RSP305
 @list BAU339
@@ -4936,6 +5000,7 @@
 @end sign
 
 @sign	DUN₃@g@g
+@list ELLES084
 @list LAK154
 @list RSP275
 @list KWU311
@@ -5001,6 +5066,7 @@
 @end sign
 
 @sign	DUR₂
+@list ELLES388
 @list LAK791
 @list RSP254
 @uphase	1
@@ -5022,6 +5088,7 @@
 @end sign
 
 @sign	E
+@list ELLES074
 @list LAK136
 @list LAK177?
 @list RSP297
@@ -5084,6 +5151,7 @@
 @end sign
 
 @sign	E₂
+@list ELLES359
 @list LAK732
 @list RSP250
 @list BAU365
@@ -5368,6 +5436,7 @@
 @end sign
 
 @sign	EL
+@list ELLES272
 @list LAK518
 @list RSP155
 @list BAU399
@@ -5393,15 +5462,19 @@
 @end sign
 
 @sign	ELLES270
+@list ELLES270
 @end sign
 
 @sign	ELLES278
+@list ELLES278
 @end sign
 
 @sign	ELLES302
+@list ELLES302
 @end sign
 
 @sign	ELLES360
+@list ELLES360
 @end sign
 
 @sign	ELLES396
@@ -5436,6 +5509,7 @@
 @v	uru₁₆
 @v	urunₓ
 @form ~a LAK530
+@list ELLES283
 @list LAK530
 @inote see http://cdli.ucla.edu/P250427 ii 2 with lit
 @end form
@@ -5802,7 +5876,7 @@
 @end sign
 
 @sign	|ERIN₂+X|
-@list	ELLES160
+@list ELLES160
 @uphase	9
 @ucode x124AB
 @uname CUNEIFORM SIGN ERIN₂ JOINING X
@@ -5810,6 +5884,7 @@
 @end sign
 
 @sign	EŠ₂
+@list ELLES392
 @list LAK794
 @list RSP256
 @list BAU386a
@@ -5862,6 +5937,7 @@
 @uphase	0
 @note: This is a variant of GAN₂@t listed in Ea 1, 186-188. The sign is to be distinguished from ZI₃, which is EŠ₂@t in ED writing.
 @inote this should probably be moved to be an @form of GAN₂@t
+@list ELLES110
 @list LAK186
 @v	eš₂@t
 @inote eš₂@t is used in the ed3b corpus in lu₂-eš₂/eš₂@t-gid₂
@@ -5941,6 +6017,7 @@
 @v	samanₓ
 @end form
 @form ~h	EŠ₂
+@list ELLES392
 @list LAK794
 @list RSP256
 @list BAU386a
@@ -6069,6 +6146,7 @@
 @end sign
 
 @sign	EZEN
+@list ELLES303
 @list LAK611
 @list RSP284
 @list BAU298
@@ -6103,6 +6181,7 @@
 @v	šer₃
 @v	šir₃
 @form ~a KEŠ₂
+@list ELLES300
 @list LAK612
 @list RSP285
 @list BAU307
@@ -6183,6 +6262,7 @@
 @v	un₃
 @v?	uq₅
 @form ~a |EZEN×AN|
+@list ELLES304
 @list LAK613
 @uphase	1
 @uname	CUNEIFORM SIGN EZEN TIMES AN
@@ -6249,6 +6329,7 @@
 @end sign
 
 @sign	|EZEN×KASKAL|
+@list ELLES306
 @list LAK616
 @list BAU299
 @list MZL277
@@ -6310,6 +6391,7 @@
 @list	MZL278
 @ucode x12377
 @form ~b EZEN
+@list ELLES303
 @list LAK611
 @list RSP284
 @list BAU298
@@ -6327,6 +6409,7 @@
 @v	asilal
 @v	silₓ
 @form ~a EZEN
+@list ELLES303
 @list LAK611
 @list RSP284
 @list BAU298
@@ -6466,6 +6549,7 @@
 @end	sign
 
 @sign	GA
+@list ELLES354
 @list LAK726
 @list RSP097
 @list RSP220
@@ -6552,6 +6636,7 @@
 @end sign
 
 @sign	GA@g
+@list ELLES355
 @list LAK727
 @list RSP221
 @list BAU369
@@ -6571,6 +6656,7 @@
 @end sign
 
 @sign	GA₂
+@list ELLES332
 @list LAK674
 @list RSP240
 @list BAU317
@@ -6625,6 +6711,7 @@
 @inote See, e.g., P010481 o ii 6 where GA₂×(HA.A) is inside GA₂ box; contra CDLI comment GA₂ final vertical is in case ruling
 @end form
 @form	~c |GA₂×HA|
+@list ELLES336
 @list LAK694
 @list ZATU173
 @list ZATU180
@@ -6639,6 +6726,7 @@
 @inote Existence of this combination requires confirmation.
 @end form
 @form	~h |GA₂×(HA.HA)|
+@list ELLES347
 @list LAK695
 @ucode x124BE
 @list ZATU174
@@ -6665,6 +6753,7 @@
 @end sign
 
 @sign	|GA₂×AN|
+@list ELLES333
 @list LAK675
 @list RSP244
 @list HZL057
@@ -6760,6 +6849,7 @@
 @end sign
 
 @sign	|GA₂×AŠ|
+@list ELLES346
 @list MZL389
 @list SLLHA234
 @list KWU809
@@ -6849,6 +6939,7 @@
 @end sign
 
 @sign	|GA₂×DI|
+@list ELLES341
 @list LAK686
 @list MZL425
 @list SLLHA268
@@ -6860,6 +6951,7 @@
 @end sign
 
 @sign	|GA₂×DIM@g|
+@list ELLES334
 @list LAK685
 @uphase	9
 @ucode x124B7
@@ -6921,6 +7013,7 @@
 @end sign
 
 @sign	|GA₂×EN|
+@list ELLES340
 @list LAK682
 @list RSP246
 @list BAU325
@@ -6974,6 +7067,7 @@
 @end sign
 
 @sign	|GA₂×GAR|
+@list ELLES342
 @list LAK691
 @list HZL060
 @list MZL431
@@ -7006,6 +7100,7 @@
 @end sign
 
 @sign	|GA₂×GI|
+@list ELLES339
 @list LAK680
 @list RSP245
 @list MZL396
@@ -7301,6 +7396,7 @@
 @end sign
 
 @sign	|GA₂×NUN&NUN|
+@list ELLES338
 @list LAK679
 @list RSP242
 @list HZL058
@@ -7318,6 +7414,7 @@
 @end sign
 
 @sign	|GA₂×PA|
+@list ELLES335
 @list LAK676
 @list RSP243
 @list BAU278
@@ -7341,6 +7438,7 @@
 @end sign
 
 @sign	|GA₂×SAL|
+@list ELLES344
 @list LAK698
 @list MZL432
 @list OBZL104
@@ -7475,6 +7573,7 @@
 @end sign
 
 @sign	|GA₂×UD|
+@list ELLES343
 @list LAK697
 @list MZL420
 @list SLLHA262
@@ -7504,6 +7603,7 @@
 @v	gazi
 @v	gazaₓ
 @form ~a |GA₂×PA|
+@list ELLES335
 @list LAK676
 @list RSP243
 @list BAU278
@@ -7533,6 +7633,7 @@
 @end sign
 
 @sign	GABA
+@list ELLES064
 @list LAK119
 @list RSP104
 @uphase	1
@@ -7577,6 +7678,7 @@
 @end	sign
 
 @sign	GAD
+@list ELLES167
 @list LAK046
 @list LAK285
 @list RSP060
@@ -7664,6 +7766,7 @@
 @end sign
 
 @sign	GAL
+@list ELLES093
 @list LAK164
 @list RSP129
 @list BAU107
@@ -7832,6 +7935,7 @@
 @end sign
 
 @sign	GAM
+@list ELLES105
 @list LAK180
 @list RSP050
 @list HZL247
@@ -7900,6 +8004,8 @@
 @end sign
 
 @sign	GAN₂
+@list ELLES055
+@list ELLES322
 @list LAK089
 @list RSP007
 @list RSP029
@@ -7977,6 +8083,7 @@
 @end sign
 
 @sign	GAN₂@t
+@list ELLES110
 @list LAK186
 @list MZL175
 @list OBZL246
@@ -8001,6 +8108,7 @@
 @end sign
 
 @sign	GAR
+@list ELLES280
 @list LAK525
 @list RSP152
 @list RSP254
@@ -8155,6 +8263,7 @@
 @end sign
 
 @sign	GAR₃
+@list ELLES089
 @list LAK160
 @list LAK161
 @list RSP346
@@ -8211,6 +8320,7 @@
 @end sign
 
 @sign	GEŠTIN
+@list ELLES308
 @list LAK629
 @list RSP214
 @list RSP216
@@ -8252,6 +8362,7 @@
 @end	sign
 
 @sign	GI
+@list ELLES243
 @list LAK464
 @list RSP451
 @list BAU255
@@ -8368,6 +8479,7 @@
 @end sign
 
 @sign	|GI%GI|
+@list ELLES244
 @list LAK465
 @list RSP452
 @list HZL258
@@ -8398,6 +8510,7 @@
 @end sign
 
 @sign	GI₄
+@list ELLES245
 @list LAK466
 @list RSP453
 @list BAU257
@@ -8480,6 +8593,7 @@
 @end sign
 
 @sign	GIR₂
+@list ELLES003
 @list LAK006
 @list RSP339
 @list BAU003
@@ -8509,6 +8623,7 @@
 @end sign
 
 @sign	GIR₂@g
+@list ELLES004
 @list LAK007
 @list RSP339bis
 @list BAU004
@@ -8671,6 +8786,7 @@
 @end sign
 
 @sign	|GIR₃×IGI|
+@list ELLES141
 @list LAK249
 @list HZL303
 @list OBZL295
@@ -8709,6 +8825,7 @@
 @end sign
 
 @sign	GISAL
+@list ELLES294
 @list LAK589
 @list RSP217
 @list RSP367
@@ -8727,6 +8844,7 @@
 @v	ŋizal
 @v	mizal
 @form	~a GISAL
+@list ELLES294
 @list LAK589
 @list RSP217
 @list RSP367
@@ -8753,6 +8871,7 @@
 @end sign
 
 @sign	GIŠ
+@list ELLES331
 @list LAK673
 @list RSP231
 @list BAU312
@@ -9122,6 +9241,7 @@
 @end sign
 
 @sign	|GIŠ×(GIŠ%GIŠ)|
+@list ELLES158
 @list LAK277
 @note	see Woods in FS Biggs and Civil ARES 4, 133.
 @uphase	9
@@ -9143,6 +9263,7 @@
 @end sign
 
 @sign	|GIŠ%GIŠ|
+@list ELLES157
 @list LAK276
 @list LAK610?
 @list HZL260
@@ -9204,6 +9325,7 @@
 @end sign
 
 @sign	GU
+@list ELLES265
 @list LAK509
 @list RSP176
 @list BAU393
@@ -9250,6 +9372,7 @@
 @end sign
 
 @sign	GU₂
+@list ELLES288
 @list LAK544
 @list RSP355
 @list BAU331
@@ -9273,6 +9396,7 @@
 @end sign
 
 @sign	|GU₂.GAR₃|
+@list ELLES039
 @list LAK063
 @list BAU050
 @list KWU689
@@ -9304,6 +9428,7 @@
 @end	sign
 
 @sign	|GU₂×KAK|
+@list ELLES289
 @list LAK545
 @list LAK549
 @list RSP356
@@ -9373,6 +9498,7 @@
 @end sign
 
 @sign	GU₂@g
+@list ELLES290
 @list LAK556
 @list MZL509
 @list SLLHA327
@@ -9388,6 +9514,7 @@
 @end sign
 
 @sign	GUD
+@list ELLES067
 @list LAK123
 @list RSP187
 @list BAU073
@@ -9471,6 +9598,7 @@
 @end sign
 
 @sign	|GUD×KUR|
+@list ELLES069
 @list LAK124
 @list RSP188
 @list HZL168
@@ -9513,6 +9641,7 @@
 @end sign
 
 @sign	GUL
+@list ELLES211
 @list LAK389
 @list RSP279
 @list BAU172
@@ -9543,6 +9672,7 @@
 @end sign
 
 @sign	GUM
+@list ELLES310
 @list LAK633
 @list RSP111
 @list HZL120
@@ -9608,6 +9738,7 @@
 @end sign
 
 @sign	GUR
+@list ELLES054
 @list LAK088
 @list RSP236
 @list BAU065
@@ -9680,6 +9811,7 @@
 @end sign
 
 @sign	GURUŠ
+@list ELLES348
 @list LAK709a
 @list BAU308
 @list KWU803
@@ -9697,6 +9829,7 @@
 @end sign
 
 @sign	HA
+@list ELLES194
 @list LAK351
 @list RSP181
 @list BAU207
@@ -9718,6 +9851,7 @@
 @v	kua
 @v	peš₁₁
 @form ~a HA@g
+@list ELLES196
 @list LAK353
 @list RSP182
 @list BAU210
@@ -9748,6 +9882,7 @@
 @end sign
 
 @sign	HA@g
+@list ELLES196
 @list LAK353
 @list RSP182
 @list BAU210
@@ -9785,6 +9920,7 @@
 @v	šegₓ
 @v	zahₓ
 @form ~a HA
+@list ELLES194
 @list LAK351
 @list RSP181
 @list BAU207
@@ -9798,6 +9934,7 @@
 @end sign
 
 @sign	HA@t
+@list ELLES195
 @list LAK352
 @list BAU211
 @list MZL857
@@ -9819,6 +9956,7 @@
 @end sign
 
 @sign	HAL
+@list ELLES002
 @list LAK005
 @list RSP076
 @list BAU002
@@ -9839,6 +9977,7 @@
 @end sign
 
 @sign	HI
+@list ELLES197
 @list LAK359
 @list RSP309
 @list BAU184
@@ -9923,6 +10062,7 @@
 @v	zinanutu
 @v	ziz₃
 @form	~a |HI×MAŠ|
+@list ELLES199
 @list RSP312
 @v	surₓ [Ebla Sign List = dcclt:Q000038 66, |HI×MAŠ| su-ru₁₂-um]
 @end form
@@ -9940,6 +10080,7 @@
 @end sign
 
 @sign	|HI×AŠ₂|
+@list ELLES202
 @list LAK370
 @list RSP315
 @list BAU189
@@ -10063,6 +10204,7 @@
 @form ~e |HI×AŠ@c|
 @form ~f |HI×U|
 @form ~g |HI×MAŠ|
+@list ELLES199
 @list RSP312
 @end sign
 
@@ -10108,6 +10250,7 @@
 @end sign
 
 @sign	|HI×NUN|
+@list ELLES201
 @list LAK367
 @list HZL332
 @list MZL636
@@ -10264,6 +10407,7 @@
 @end sign
 
 @sign	HU
+@list ELLES040
 @list LAK064
 @list RSP406
 @list BAU034
@@ -10349,6 +10493,7 @@
 @end sign
 
 @sign	|HU.SI|
+@list ELLES041
 @list LAK066
 @list MZL133
 @list KWU114
@@ -10442,6 +10587,7 @@
 @end sign
 
 @sign	HUL₂
+@list ELLES108
 @list LAK183
 @list RSP122
 @list HZL254
@@ -10479,6 +10625,7 @@
 @end sign
 
 @sign	I
+@list ELLES073
 @list LAK135
 @list BAU085
 @list HZL217
@@ -10534,6 +10681,7 @@
 @end sign
 
 @sign	IB
+@list ELLES369
 @list LAK755
 @list RSP103
 @list BAU260
@@ -10588,6 +10736,7 @@
 @v	uri₄
 @v	urumₓ
 @form ~a BAD
+@list ELLES009
 @list LAK016
 @list RSP048bis
 @list BAU009
@@ -10633,6 +10782,7 @@
 @end sign
 
 @sign	IG
+@list ELLES049
 @list LAK082
 @list RSP270
 @list BAU063
@@ -10667,6 +10817,7 @@
 @end sign
 
 @sign	IGI
+@list ELLES220
 @list LAK421
 @list RSP066
 @list BAU185
@@ -10734,6 +10885,7 @@
 @end sign
 
 @sign	|IGI.DIB|
+@list ELLES225
 @list LAK432
 @list RSP070
 @list HZL265
@@ -10772,6 +10924,7 @@
 @end sign
 
 @sign	|IGI.DUB|
+@list ELLES223
 @list LAK427
 @list RSP072
 @list HZL291
@@ -10919,6 +11072,7 @@
 @ucode	x12146.x12244
 @v	ilduₓ
 @form ~a NAGAR
+@list ELLES267
 @list LAK512
 @list RSP177
 @list BAU408
@@ -10935,6 +11089,7 @@
 @end sign
 
 @sign	|IGI.RI|
+@list ELLES221
 @list LAK422
 @list HZL289
 @list MZL726
@@ -10949,6 +11104,7 @@
 @end sign
 
 @sign	|IGI.RU|
+@list ELLES222
 @list LAK423
 @list RSP074
 @list BAU243
@@ -10973,6 +11129,7 @@
 @end sign
 
 @sign	|IGI.UR|
+@list ELLES224
 @list LAK428
 @list RSP071
 @list HZL290
@@ -11031,6 +11188,7 @@
 @end sign
 
 @sign	IGI@g
+@list ELLES095
 @list LAK167
 @list LAK437
 @list RSP067
@@ -11147,6 +11305,7 @@
 @end sign
 
 @sign	IM
+@list ELLES205
 @list LAK376
 @list RSP331
 @list BAU388
@@ -11393,6 +11552,7 @@
 @end sign
 
 @sign	IN
+@list ELLES124
 @list LAK214
 @list HZL354
 @list MZL261
@@ -11413,6 +11573,7 @@
 @end sign
 
 @sign	IR
+@list ELLES264
 @list LAK507
 @list RSP151
 @list BAU411
@@ -11435,6 +11596,7 @@
 @end sign
 
 @sign	IŠ
+@list ELLES091
 @list LAK163
 @list RSP123
 @list BAU104
@@ -11482,6 +11644,7 @@
 @end sign
 
 @sign	KA
+@list ELLES182
 @list LAK318
 @list RSP197
 @list BAU233
@@ -11636,6 +11799,7 @@
 @end sign
 
 @sign	|KA×A|
+@list ELLES184
 @list LAK331
 @list RSP199
 @list BAU232
@@ -11750,6 +11914,7 @@
 @v	šidₓ
 @v	šigₓ
 @form ~a KA
+@list ELLES182
 @list LAK318
 @list RSP197
 @list BAU233
@@ -11826,6 +11991,7 @@
 @end sign
 
 @sign	|KA×GAN₂@t|
+@list ELLES186
 @list LAK324
 @list BAU234
 @list MZL033
@@ -11855,6 +12021,7 @@
 @inote dcclt !sg
 @end form
 @form ~b |KA×ŠU|
+@list ELLES183
 @list LAK323
 @list RSP201
 @end sign
@@ -11889,6 +12056,7 @@
 @v	tukurₓ
 @inote tukur[chew] collated from https://cdli.ucla.edu/dl/photo/P231774.jpg
 @form ~a KA
+@list ELLES182
 @list LAK318
 @list RSP197
 @list BAU233
@@ -12154,6 +12322,7 @@
 @end sign
 
 @sign	|KA×ME|
+@list ELLES187
 @list LAK334
 @list RSP198
 @list HZL147
@@ -12286,6 +12455,7 @@
 @v	sun₄
 @v	tunₓ
 @form ~a	|KA×GAN₂@t|
+@list ELLES186
 @list LAK324
 @list BAU234
 @ucode x12164
@@ -12390,6 +12560,7 @@
 @end sign
 
 @sign	|KA×ŠU|
+@list ELLES183
 @list LAK323
 @list RSP201
 @list MZL049
@@ -12413,6 +12584,7 @@
 @v	šušudi
 @v	ušₓ
 @form ~a |KA×GAN₂@t|
+@list ELLES186
 @list LAK324
 @list BAU234
 @end sign
@@ -12560,6 +12732,7 @@
 @end sign
 
 @sign	KA₂
+@list ELLES362
 @list LAK735
 @list RSP135
 @list BAU363
@@ -12612,6 +12785,8 @@
 @end sign
 
 @sign	KAB
+@list ELLES079
+@list ELLES249
 @list LAK147
 @list LAK474
 @list BAU099
@@ -12687,6 +12862,7 @@
 @end sign
 
 @sign	KAD₄
+@list ELLES099
 @list LAK171?
 @list RSP430
 @list HZL068
@@ -12766,6 +12942,7 @@
 @end sign
 
 @sign	KAK
+@list ELLES262
 @list LAK504
 @list RSP147
 @list BAU392
@@ -12800,6 +12977,7 @@
 @end sign
 
 @sign	|KAK.GIŠ|
+@list ELLES260
 @list LAK505
 @ucode	x12195.x12111
 @v	šitaₓ
@@ -12817,6 +12995,7 @@
 @end sign
 
 @sign	KAL
+@list ELLES349
 @list LAK709b
 @list RSP237
 @list BAU326
@@ -12885,6 +13064,7 @@
 @v?	zi₈
 @v	zurzub₂
 @form ~a GURUŠ
+@list ELLES348
 @list LAK709a
 @list BAU308
 @v	lamma
@@ -12931,6 +13111,7 @@
 @end sign
 
 @sign	KAM₄
+@list ELLES017
 @list LAK029
 @list MZL097
 @list OBZL268
@@ -12953,6 +13134,7 @@
 @end sign
 
 @sign	KASKAL
+@list ELLES156
 @list LAK273
 @list RSP116
 @list BAU128
@@ -13085,6 +13267,7 @@
 @end sign
 
 @sign	KEŠ₂
+@list ELLES300
 @list LAK612
 @list RSP285
 @list BAU307
@@ -13108,12 +13291,14 @@
 @v	kiš₂
 @v	kiši₂
 @form ~a EZEN
+@list ELLES303
 @list LAK611
 @list RSP284
 @list BAU298
 @end sign
 
 @sign	KI
+@list ELLES228
 @list LAK440
 @list RSP165
 @list BAU191
@@ -13505,6 +13690,7 @@
 @end sign
 
 @sign	KID
+@list ELLES361
 @list LAK733
 @list RSP252
 @list BAU366
@@ -13546,6 +13732,7 @@
 @v	ših₂
 @v	ṣah₂
 @form ~a E₂
+@list ELLES359
 @list LAK732
 @list RSP250
 @list BAU365
@@ -13579,6 +13766,7 @@
 @end sign
 
 @sign	KIN
+@list ELLES101
 @list LAK174
 @list RSP394
 @list BAU111
@@ -13637,6 +13825,7 @@
 @end sign
 
 @sign	KISAL
+@list ELLES353
 @list LAK723
 @list RSP249
 @list BAU357
@@ -13719,6 +13908,7 @@
 @end sign
 
 @sign	KU
+@list ELLES387
 @list RSP253
 @list BAU384
 @list HZL206
@@ -13860,6 +14050,7 @@
 @end sign
 
 @sign	KU₃
+@list ELLES226
 @list LAK438
 @list RSP385
 @list BAU182
@@ -13936,6 +14127,7 @@
 @end sign
 
 @sign	KU₇
+@list ELLES284
 @list LAK535
 @list LAK801
 @list RSP222
@@ -13986,6 +14178,7 @@
 @end sign
 
 @sign	KUL
+@list ELLES007
 @list LAK012
 @list RSP085
 @list RSP086
@@ -14030,6 +14223,7 @@
 @end sign
 
 @sign	KUN
+@list ELLES368
 @list LAK026
 @list LAK754
 @list RSP343
@@ -14051,6 +14245,7 @@
 @v	[...]nunnam...
 @v	qun
 @form ~a	MAŠ₂
+@list ELLES028
 @list LAK043
 @list BAU046
 @list HZL038
@@ -14065,6 +14260,7 @@
 @end sign
 
 @sign	KUR
+@list ELLES241
 @list LAK461
 @list RSP065
 @list BAU418
@@ -14118,6 +14314,7 @@
 @inote W.G. Lambert, Babylonian Oracle Questions 2007, no. 23 (P480372) obv 5 uz-zat
 @v	zizanu
 @form ~a LAK461a
+@list ELLES241a
 @list LAK461a
 @inote curviform LAK461; cuneiform LAK461 is unmarked LAK641
 @end form
@@ -14152,6 +14349,7 @@
 @end sign
 
 @sign	KUŠU₂
+@list ELLES175
 @list LAK304
 @list MZL896
 @list OBZL457
@@ -14224,6 +14422,7 @@
 @end sign
 
 @sign	LA
+@list ELLES321
 @list LAK663
 @list RSP308
 @list BAU205
@@ -14247,6 +14446,7 @@
 @end sign
 
 @sign	LAGAB
+@list ELLES372
 @list LAK766
 @list RSP229
 @list BAU261
@@ -14374,6 +14574,8 @@
 @end sign
 
 @sign	|LAGAB×A|
+@list ELLES375
+@list ELLES384
 @list LAK785
 @list RSP263
 @list BAU271
@@ -14483,6 +14685,7 @@
 @v	kunin
 @end form
 @form ~g	A
+@list ELLES393
 @list LAK795
 @list LAK797
 @list RSP051
@@ -14552,6 +14755,7 @@
 @end sign
 
 @sign	|LAGAB×AN|
+@list ELLES376
 @list LAK769
 @list MZL758
 @list SLLHA484a
@@ -14705,6 +14909,7 @@
 @end sign
 
 @sign	|LAGAB×(GUD&GUD)|
+@list ELLES382
 @list LAK781
 @list RSP258
 @list BAU265
@@ -15013,6 +15218,7 @@
 @end sign
 
 @sign	|LAGAB×SUM|
+@list ELLES383
 @list LAK783
 @list RSP268
 @list HZL181
@@ -15150,6 +15356,7 @@
 @end sign
 
 @sign	|LAGAB×TIL|
+@list ELLES377
 @list LAK770
 @uphase	0
 @v	gigirₓ
@@ -15183,6 +15390,7 @@
 @v	ṭul
 @v	ub₄
 @form ~a |LAGAB×TIL|
+@list ELLES377
 @list LAK770
 @v	pu₂
 @end sign
@@ -15300,6 +15508,7 @@
 @end	sign
 
 @sign	LAGAR
+@list ELLES176
 @list LAK306
 @list RSP140
 @list HZL186
@@ -15355,6 +15564,7 @@
 @end sign
 
 @sign	LAGAR@g
+@list ELLES174
 @list LAK301
 @list LAK302
 @list HZL211
@@ -15406,6 +15616,7 @@
 @end sign
 
 @sign	LAK262
+@list ELLES148
 @list LAK262
 @uphase	0
 @end sign
@@ -15432,6 +15643,7 @@
 @end sign
 
 @sign	LAK492
+@list ELLES254
 @list LAK492
 @uphase	9
 @ucode x124FC
@@ -15451,6 +15663,7 @@
 @end	sign
 
 @sign	LAK500
+@list ELLES258
 @list LAK500
 @uphase	0
 @v	ilₓ
@@ -15595,6 +15808,7 @@
 @end sign
 
 @sign	LAK195
+@list ELLES115
 @list LAK195
 @uphase	0
 @end sign
@@ -15692,6 +15906,7 @@
 @end sign
 
 @sign	LAK287
+@list ELLES168
 @list LAK287
 @uphase	0
 @end sign
@@ -15752,6 +15967,7 @@
 @end sign
 
 @sign	LAK390
+@list ELLES212
 @list LAK390
 @uphase	9
 @ucode x124EF
@@ -15804,6 +16020,7 @@
 @end	sign
 
 @sign   |LAK449×(PAP.PAP.LU₃)|
+@list ELLES237
 @list LAK453
 @ucode x124F5
 @uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS PAP PLUS LU3
@@ -15822,6 +16039,7 @@
 @end	sign
 
 @sign	LAK457
+@list ELLES239
 @list LAK457
 @uphase	9
 @ucode x124F8
@@ -15862,6 +16080,7 @@
 @end sign
 
 @sign	LAK524
+@list ELLES279
 @list LAK524
 @list MZL885
 @list REC333
@@ -15909,6 +16128,7 @@
 @end sign
 
 @sign	LAK607
+@list ELLES298
 @list LAK607
 @uphase	0
 @end sign
@@ -15941,6 +16161,7 @@
 @end sign
 
 @sign	|LAK617×BAD|
+@list ELLES305
 @list LAK619
 @list BAU302
 @uphase	9
@@ -16065,6 +16286,7 @@
 @end sign
 
 @sign	LAK20
+@list ELLES013
 @list LAK020
 @uphase	9
 @uname	CUNEIFORM SIGN LAK20
@@ -16094,6 +16316,7 @@
 @end sign
 
 @sign	LAK173
+@list ELLES100
 @list LAK173
 @list RSP431
 @uphase	0
@@ -16142,6 +16365,7 @@
 @end	sign
 
 @sign	|LAK648×IGI|
+@list ELLES317
 @list LAK650
 @uphase	9
 @ucode x12510
@@ -16186,11 +16410,13 @@
 @end	sign
 
 @sign	LAK747
+@list ELLES365
 @list LAK747
 @uphase	0
 @end sign
 
 @sign	LAL
+@list ELLES370
 @list LAK756
 @list RSP040
 @list BAU292
@@ -16257,6 +16483,7 @@
 @end sign
 
 @sign	LAL₂
+@list ELLES371
 @list LAK760
 @list HZL362
 @list MZL751
@@ -16398,6 +16625,7 @@
 @end sign
 
 @sign	LAM
+@list ELLES112
 @list LAK189
 @list RSP184
 @list BAU120
@@ -16419,6 +16647,7 @@
 @end sign
 
 @sign	|LAM×KUR|
+@list ELLES113
 @list LAK190
 @list BAU121
 @list MZL694
@@ -16460,6 +16689,7 @@
 @end sign
 
 @sign	LI
+@list ELLES120
 @list LAK206
 @list RSP421
 @list RSP445
@@ -16580,6 +16810,7 @@
 @end sign
 
 @sign	LU
+@list ELLES378
 @list LAK775
 @list RSP260
 @list BAU272
@@ -16644,6 +16875,7 @@
 @end sign
 
 @sign	LU₂
+@list ELLES188
 @list LAK337
 @list RSP396
 @list BAU236
@@ -17089,6 +17321,7 @@
 @end sign
 
 @sign	|LU₂@g×AŠ|
+@list ELLES190
 @list LAK339
 @ucode x12519
 @uphase	9
@@ -17159,6 +17392,7 @@
 @end sign
 
 @sign	LU₃
+@list ELLES386
 @list LAK790
 @list RSP257
 @list BAU288
@@ -17192,6 +17426,7 @@
 @end sign
 
 @sign	LUGAL
+@list ELLES094
 @list LAK165
 @list RSP130
 @list HZL115
@@ -17288,6 +17523,7 @@
 @end sign
 
 @sign	LUH
+@list ELLES096
 @list LAK168
 @list RSP131
 @list BAU092
@@ -17320,6 +17556,7 @@
 @end sign
 
 @sign	LUL
+@list ELLES136
 @list LAK242
 @list LAK243
 @list RSP468
@@ -17381,6 +17618,7 @@
 @list RSP468bis
 @inote RSP468bis is apparently not reflected in LAK242/243/244 and needs collation
 @form ~b LAK244
+@list ELLES138
 @list LAK244
 @list RSP468ter
 @end sign
@@ -17405,6 +17643,7 @@
 @end sign
 
 @sign	LUM
+@list ELLES114
 @list LAK194
 @list RSP138
 @list BAU123
@@ -17489,6 +17728,7 @@
 @end sign
 
 @sign	MA
+@list ELLES019
 @list LAK034
 @list RSP289
 @list BAU028
@@ -17519,6 +17759,7 @@
 @end sign
 
 @sign	MA@g
+@list ELLES020
 @list LAK035
 @list RSP290
 @list HZL219
@@ -17534,6 +17775,7 @@
 @end sign
 
 @sign	MA₂
+@list ELLES282
 @list LAK529
 @list RSP294
 @list HZL087
@@ -17618,6 +17860,7 @@
 @end sign
 
 @sign	MAR
+@list ELLES070
 @list LAK126
 @list RSP115
 @list BAU078
@@ -17642,6 +17885,7 @@
 @end sign
 
 @sign	MAŠ
+@list ELLES027
 @list LAK042
 @list RSP019
 @list RSP047
@@ -17770,6 +18014,7 @@
 @end sign
 
 @sign	MAŠ₂
+@list ELLES028
 @list LAK043
 @list BAU046
 @list HZL038
@@ -17789,6 +18034,7 @@
 @end sign
 
 @sign	ME
+@list ELLES366
 @list LAK750
 @list RSP045
 @list BAU289
@@ -17847,6 +18093,7 @@
 @end sign
 
 @sign	MES
+@list ELLES071
 @list LAK127?
 @list RSP277
 @list BAU077
@@ -17881,6 +18128,7 @@
 @end sign
 
 @sign	MI
+@list ELLES213
 @list LAK391
 @list RSP120
 @list BAU173
@@ -17939,6 +18187,7 @@
 @end sign
 
 @sign	|MI.ZA₇|
+@list ELLES215
 @list LAK393
 @uphase	9
 @ucode x1251F
@@ -17967,6 +18216,7 @@
 @end sign
 
 @sign	MU
+@list ELLES008
 @list LAK014
 @list RSP438
 @list BAU026
@@ -18041,6 +18291,7 @@
 @end sign
 
 @sign	MUG
+@list ELLES029
 @list LAK048
 @list RSP168
 @list HZL022
@@ -18087,6 +18338,7 @@
 @end sign
 
 @sign	MUNSUB
+@list ELLES329
 @list LAK672b
 @list MZL820
 @list SLLHA543
@@ -18130,6 +18382,7 @@
 @v	mur₇
 @v	murgu₂
 @form ~a SIG₄
+@list ELLES111
 @list LAK188
 @list RSP114
 @list BAU206
@@ -18156,6 +18409,7 @@
 @end sign
 
 @sign	MUŠ
+@list ELLES133
 @list LAK235
 @list RSP337
 @list BAU152
@@ -18318,6 +18572,7 @@
 @end sign
 
 @sign	MUŠ₃
+@list ELLES242
 @list LAK462
 @list RSP098
 @list BAU249
@@ -18604,6 +18859,7 @@
 @end sign
 
 @sign	NA
+@list ELLES014
 @list LAK022
 @list RSP340
 @list BAU022
@@ -18629,6 +18885,7 @@
 @end sign
 
 @sign	NA₂
+@list ELLES126
 @list LAK221
 @list RSP402
 @list BAU155
@@ -18658,6 +18915,7 @@
 @end sign
 
 @sign	NAGA
+@list ELLES121
 @list LAK209
 @list RSP448
 @list BAU132
@@ -18746,6 +19004,7 @@
 @end sign
 
 @sign	NAGAR
+@list ELLES267
 @list LAK512
 @list RSP177
 @list BAU408
@@ -18792,6 +19051,7 @@
 @end sign
 
 @sign	NAM
+@list ELLES043
 @list LAK071
 @list RSP413
 @list BAU038
@@ -18840,6 +19100,7 @@
 @end sign
 
 @sign	NAM₂
+@list ELLES390
 @list LAK792
 @list BAU385a
 @uphase	1
@@ -18858,6 +19119,7 @@
 @end sign
 
 @sign	NE
+@list ELLES080
 @list LAK148
 @list RSP362
 @list HZL169
@@ -19052,11 +19314,13 @@
 @v    bilₓ
 @end form
 @form ~l |NE×KASKAL|
+@list ELLES081
 @list LAK150
 @end form
 @end sign
 
 @sign	NI
+@list ELLES263
 @list LAK506
 @list RSP148
 @list BAU406
@@ -19139,6 +19403,7 @@
 @end sign
 
 @sign	|NI.TUK|
+@list ELLES268
 @list LAK514
 @list RSP150
 @list BAU409
@@ -19151,6 +19416,7 @@
 @end sign
 
 @sign	|NI.UD|
+@list ELLES266
 @list LAK511
 @list RSP149
 @list BAU407
@@ -19229,6 +19495,7 @@
 @end sign
 
 @sign	NIM
+@list ELLES154
 @list LAK270
 @list LAK271
 @list RSP390
@@ -19266,6 +19533,7 @@
 @end sign
 
 @sign	|NIM×GAN₂@t|
+@list ELLES155
 @list LAK272
 @list RSP391
 @list HZL279
@@ -19282,6 +19550,7 @@
 @v	tum₃
 @v	tumu₃
 @form ~a NIM
+@list ELLES154
 @list LAK270
 @list LAK271
 @list RSP390
@@ -19322,6 +19591,7 @@
 @end sign
 
 @sign	NINDA₂
+@list ELLES057
 @list LAK095
 @list RSP105
 @list HZL119
@@ -19426,6 +19696,7 @@
 @end sign
 
 @sign	|NINDA₂×HI|
+@list ELLES061
 @list LAK114
 @uphase	9
 @ucode x12525
@@ -19609,6 +19880,7 @@
 @end sign
 
 @sign	|NINDA₂×U|
+@list ELLES060
 @list LAK102
 @uphase	9
 @ucode x1252A
@@ -19665,6 +19937,7 @@
 @end sign
 
 @sign	NISAG
+@list ELLES088
 @list LAK159
 @list RSP137
 @list BAU106
@@ -19689,6 +19962,7 @@
 @end sign
 
 @sign	NU
+@list ELLES021
 @list LAK036
 @list RSP075
 @list BAU020
@@ -19712,6 +19986,7 @@
 @end sign
 
 @sign	NU₁₁
+@list ELLES016
 @list LAK024
 @list RSP341
 @list BAU017
@@ -19808,6 +20083,7 @@
 @end sign
 
 @sign	NUN
+@list ELLES047
 @list LAK076
 @list RSP094
 @list RSP097
@@ -19872,6 +20148,7 @@
 @v-	šurumₓ
 @v	tur₃
 @form ~a LAK077
+@list ELLES048
 @list LAK077
 @v	šilamₓ
 @inote not clear that LAK077 and LAK078 need to be differentiated.
@@ -19994,6 +20271,7 @@
 @end sign
 
 @sign	|NUN&NUN|
+@list ELLES066
 @list LAK122
 @list RSP102
 @list BAU059
@@ -20101,6 +20379,7 @@
 @end sign
 
 @sign	NUNUZ
+@list ELLES200
 @list LAK364
 @list LAK813
 @list RSP348
@@ -20132,6 +20411,7 @@
 @end sign
 
 @sign	|NUNUZ.AB₂|
+@list ELLES233
 @list LAK449
 @list RSP350
 @ucode	x1226D.x12016
@@ -20141,6 +20421,7 @@
 @end sign
 
 @sign	|NUNUZ.AB₂×AŠGAB|
+@list ELLES234
 @list LAK451
 @list RSP352
 @list MZL619
@@ -20336,6 +20617,7 @@
 @end sign
 
 @sign	PA
+@list ELLES065
 @list LAK121
 @list RSP056
 @list BAU072
@@ -20740,6 +21022,7 @@
 @end sign
 
 @sign	PAD
+@list ELLES216
 @list LAK398
 @list RSP171
 @list BAU180
@@ -20807,6 +21090,7 @@
 @end sign
 
 @sign	PAN
+@list ELLES023
 @list LAK038
 @list RSP366
 @list HZL118
@@ -20831,6 +21115,7 @@
 @end sign
 
 @sign	PAP
+@list ELLES129
 @list LAK229
 @list RSP049
 @list BAU126
@@ -20886,6 +21171,7 @@
 @end sign
 
 @sign	|PAP.PAP|
+@list ELLES130
 @list LAK230
 @list RSP334
 @list BAU147
@@ -20990,6 +21276,7 @@
 @end sign
 
 @sign	PI
+@list ELLES232
 @list LAK447
 @list RSP079
 @list BAU247
@@ -21234,6 +21521,7 @@
 @end sign
 
 @sign	|PIRIG×ZA|
+@list ELLES147
 @list LAK261
 @list RSP461
 @list BAU164
@@ -21287,6 +21575,7 @@
 @end sign
 
 @sign	RA
+@list ELLES350
 @list LAK710
 @list RSP295
 @list BAU273
@@ -21355,6 +21644,7 @@
 @end sign
 
 @sign	RI
+@list ELLES046
 @list LAK075
 @list RSP412
 @list HZL032
@@ -21387,6 +21677,7 @@
 @end sign
 
 @sign	RU
+@list ELLES161
 @list LAK281
 @list RSP384
 @list BAU145
@@ -21430,6 +21721,7 @@
 @end sign
 
 @sign	SA
+@list ELLES357
 @list LAK731
 @list RSP132
 @list BAU361
@@ -21456,6 +21748,7 @@
 @end sign
 
 @sign	SAG
+@list ELLES178
 @list LAK307
 @list RSP192
 @list BAU228
@@ -21764,6 +22057,7 @@
 @end sign
 
 @sign	SAG@g
+@list ELLES181
 @list LAK317
 @list RSP133
 @list RSP193
@@ -21792,6 +22086,7 @@
 @v	šur₂
 @v	ugu₅
 @form ~a SAG
+@list ELLES178
 @list LAK307
 @list RSP192
 @list BAU228
@@ -21842,6 +22137,7 @@
 @end sign
 
 @sign	SAL
+@list ELLES271
 @list LAK517
 @list RSP153
 @list BAU138
@@ -21998,6 +22294,7 @@
 @v	gim₃
 @v	gin₅
 @form ~a |SAL×KUR|
+@list ELLES276
 @list LAK049
 @inote dcclt !sg
 @end form
@@ -22079,6 +22376,7 @@
 @end sign
 
 @sign	|SAL.TUG₂|
+@list ELLES274
 @list LAK522
 @list RSP190
 @list BAU401
@@ -22217,6 +22515,7 @@
 @end sign
 
 @sign	SANGA₂
+@list ELLES102
 @list LAK175
 @list RSP276
 @uphase	1
@@ -22291,6 +22590,7 @@
 @end sign
 
 @sign	SAR
+@list ELLES125
 @list LAK215
 @list RSP446
 @list HZL353
@@ -22345,6 +22645,7 @@
 @end	sign
 
 @sign	SI
+@list ELLES050
 @list LAK083
 @list RSP291
 @list BAU030
@@ -22370,6 +22671,7 @@
 @end sign
 
 @sign	|SI.A|
+@list ELLES051
 @list LAK084
 @list RSP292
 @list BAU032
@@ -22412,6 +22714,7 @@
 @end sign
 
 @sign	SI@g
+@list ELLES052
 @list LAK086
 @list RSP293
 @list BAU033
@@ -22494,6 +22797,7 @@
 @end sign
 
 @sign	SIG₄
+@list ELLES111
 @list LAK188
 @list RSP114
 @list BAU206
@@ -22522,6 +22826,7 @@
 @v	šed₁₆
 @v	šeg₁₂
 @form ~a LUM
+@list ELLES114
 @list LAK194
 @list RSP138
 @list BAU123
@@ -22557,6 +22862,7 @@
 @end sign
 
 @sign	SIK₂
+@list ELLES391
 @list LAK793
 @list RSP266
 @list BAU266
@@ -22673,6 +22979,7 @@
 @end sign
 
 @sign	SILA₃
+@list ELLES153
 @list LAK269
 @list RSP063
 @list BAU139
@@ -22736,6 +23043,7 @@
 @end sign
 
 @sign	SU
+@list ELLES172
 @list LAK293
 @list RSP143
 @list BAU226
@@ -22838,6 +23146,7 @@
 @v	zir₄
 @v	zu₆
 @form ~a BU
+@list ELLES131
 @list LAK232
 @list RSP335
 @list BAU148
@@ -22854,6 +23163,7 @@
 @end sign
 
 @sign	SUD₂
+@list ELLES045
 @list LAK074
 @list HZL029
 @list MZL139
@@ -22888,6 +23198,7 @@
 @end sign
 
 @sign	SUHUR
+@list ELLES128
 @list LAK227
 @list RSP178bis
 @list BAU215
@@ -22908,6 +23219,7 @@
 @end sign
 
 @sign	SUM
+@list ELLES117
 @list LAK197
 @list RSP450
 @list BAU125
@@ -22944,6 +23256,8 @@
 @end sign
 
 @sign	SUMAŠ
+@list ELLES063
+@list ELLES127
 @list LAK226
 @list RSP178
 @list BAU214
@@ -22971,6 +23285,7 @@
 @end sign
 
 @sign	SUR
+@list ELLES107
 @list LAK047
 @list LAK182
 @list RSP170
@@ -23006,6 +23321,7 @@
 @end sign
 
 @sign	ŠA
+@list ELLES098
 @list LAK170
 @list RSP167
 @list RSP324
@@ -23028,6 +23344,7 @@
 @end sign
 
 @sign	ŠA₃
+@list ELLES230
 @list LAK443
 @list RSP320
 @list HZL294
@@ -23245,6 +23562,7 @@
 @end sign
 
 @sign	ŠA₆
+@list ELLES116
 @list LAK196
 @list RSP345
 @list BAU124
@@ -23318,6 +23636,7 @@
 @end sign
 
 @sign	ŠAR₂
+@list ELLES397
 @list LAK809
 @list HZL335
 @list MZL632
@@ -23369,6 +23688,7 @@
 @end sign
 
 @sign	ŠE
+@list ELLES118
 @list LAK199
 @list RSP440
 @list BAU025
@@ -23480,6 +23800,7 @@
 @end sign
 
 @sign	|ŠE.NUN&NUN|
+@list ELLES119
 @list LAK204
 @list RSP441
 @list RSP442
@@ -23686,6 +24007,7 @@
 @v	šegga
 @inote 	šeg₉-bar
 @form ~a LAK263
+@list ELLES149
 @list LAK263
 @end sign
 
@@ -23695,6 +24017,7 @@
 @end sign
 
 @sign	ŠEN
+@list ELLES352
 @list LAK713
 @list BAU360
 @list HZL230
@@ -23723,6 +24046,7 @@
 @end sign
 
 @sign	ŠEŠ
+@list ELLES018
 @list LAK032
 @list RSP091
 @list BAU011
@@ -23808,6 +24132,7 @@
 @end sign
 
 @sign	ŠEŠ₂
+@list ELLES326
 @list LAK668
 @list HZL063
 @list MZL821
@@ -23832,6 +24157,7 @@
 @end sign
 
 @sign	ŠID
+@list ELLES351
 @list LAK711
 @list RSP296
 @list BAU371
@@ -23994,6 +24320,7 @@
 @end sign
 
 @sign	ŠIM
+@list ELLES319
 @list LAK655
 @list RSP422
 @list BAU353
@@ -24110,6 +24437,7 @@
 @end sign
 
 @sign	|ŠIM×GAR|
+@list ELLES320
 @list LAK659
 @list RSP219
 @list BAU354
@@ -24223,6 +24551,7 @@
 @v	šembi
 @v	šimbi
 @form ~a |DUG×IGI@g|
+@list ELLES292
 @list LAK586
 @uphase 9
 @ucode x12499
@@ -24231,6 +24560,7 @@
 @lit	Civil Ebla 1975-1985, 155
 @end form
 @form ~c ŠIM
+@list ELLES319
 @list LAK655
 @list RSP422
 @list BAU353
@@ -24259,6 +24589,7 @@
 @end sign
 
 @sign	ŠIR
+@list ELLES015
 @list LAK023
 @list BAU015
 @list BAU016
@@ -24304,6 +24635,7 @@
 @end sign
 
 @sign	ŠITA
+@list ELLES259
 @list LAK503
 @list LAK503b
 @list RSP166
@@ -24334,6 +24666,7 @@
 @v	i₉ [Ass 00523 = dcclt/signlists:P370411 o i 36]
 @inote	salgues
 @form ~a |ŠITA.GIŠ.NAM₂|
+@list ELLES261
 @list BAU391
 @inote AbS; more correct description of sign
 @end form
@@ -24370,6 +24703,7 @@
 @end sign
 
 @sign	ŠU
+@list ELLES076
 @list LAK139
 @list LAK146
 @list RSP124
@@ -24657,6 +24991,7 @@
 @end sign
 
 @sign	ŠU₂
+@list ELLES210
 @list LAK385
 @list KWU898
 @uphase	1
@@ -24726,6 +25061,7 @@
 @v	šuhub [SF 81 = dcclt:P010677 o i 10, ab₂ 3×AN.BAR]
 @end form
 @form ~c	|3×AN|
+@list ELLES006b
 @list LAK010
 @list RSP082
 @list BAU008
@@ -24872,6 +25208,7 @@
 @end sign
 
 @sign	ŠUBUR
+@list ELLES024
 @list LAK039
 @list RSP458
 @list BAU018
@@ -24922,6 +25259,7 @@
 @end sign
 
 @sign	TA
+@list ELLES291
 @list LAK559
 @list RSP209
 @list BAU346
@@ -25104,6 +25442,7 @@
 @end sign
 
 @sign	TAG
+@list ELLES307
 @list LAK628
 @list RSP427
 @list BAU356
@@ -25241,6 +25580,7 @@
 @end sign
 
 @sign	TAK₄
+@list ELLES162
 @list LAK282
 @list RSP387
 @list BAU118
@@ -25292,6 +25632,7 @@
 @end sign
 
 @sign	TAR
+@list ELLES106
 @list LAK181
 @list RSP064
 @list BAU117
@@ -25359,6 +25700,7 @@
 @end sign
 
 @sign	TE
+@list ELLES203
 @list LAK373
 @list RSP310
 @list BAU195
@@ -25392,6 +25734,7 @@
 @end sign
 
 @sign	|TE.A|
+@list ELLES204
 @list LAK375
 @list RSP311
 @list BAU196
@@ -25448,6 +25791,7 @@
 @end sign
 
 @sign	TE@g
+@list ELLES208
 @list LAK382
 @list RSP330
 @list HZL315
@@ -25473,6 +25817,7 @@
 @v	ur₁₂
 @v	uru₅
 @form ~a TE
+@list ELLES203
 @list LAK373
 @list RSP310
 @list BAU195
@@ -25490,6 +25835,7 @@
 @end sign
 
 @sign	TI
+@list ELLES011
 @list LAK018
 @list RSP089
 @list BAU023
@@ -25559,6 +25905,7 @@
 @end sign
 
 @sign	TU
+@list ELLES122
 @list LAK211
 @list RSP443
 @list RSP444
@@ -25598,6 +25945,7 @@
 @end sign
 
 @sign	TUG₂
+@list ELLES389
 @list RSP255
 @list BAU385c
 @list HZL212
@@ -25645,6 +25993,7 @@
 @end sign
 
 @sign	TUK
+@list ELLES248
 @list LAK473
 @list RSP392
 @list BAU283
@@ -25680,6 +26029,7 @@
 @end sign
 
 @sign	TUM
+@list ELLES256
 @list LAK494
 @list RSP403
 @list RSP404
@@ -25744,6 +26094,7 @@
 @end sign
 
 @sign	TUR
+@list ELLES281
 @list LAK528
 @list RSP381
 @list BAU415
@@ -25937,6 +26288,7 @@
 @ucode x122D9.x1201C
 @end form
 @form	~b AD
+@list ELLES311
 @list LAK635
 @list RSP227
 @list BAU311
@@ -26042,6 +26394,7 @@
 @v      šaman₂
 @end form
 @form ~b	|AŠ.GAN|
+@list ELLES038
 @list LAK062
 @ucode x124DB
 @uname	CUNEIFORM SIGN LAK62
@@ -26049,6 +26402,7 @@
 @end sign
 
 @sign	|U.GUD|
+@list ELLES173
 @list LAK299
 @list LAK300
 @list RSP012
@@ -26158,6 +26512,7 @@
 @end sign
 
 @sign	|U.SAG|
+@list ELLES180
 @list LAK316
 @list BAU179
 @list MZL671
@@ -26199,6 +26554,7 @@
 @v	usagₓ
 @v	zaₓ
 @form	~a LAK384
+@list ELLES209
 @list LAK384
 @uphase	9
 @ucode x124EE
@@ -26405,6 +26761,7 @@
 @end sign
 
 @sign	U₂
+@list ELLES082
 @list LAK152
 @list RSP133
 @list BAU091
@@ -26596,6 +26953,7 @@
 @end sign
 
 @sign	UB
+@list ELLES166
 @list LAK284
 @list RSP185
 @list BAU239
@@ -26628,6 +26986,8 @@
 @end sign
 
 @sign	UD
+@list ELLES206
+@list ELLES217
 @list LAK379
 @list LAK400
 @list RSP319
@@ -27001,6 +27361,7 @@
 @form ~a |UD×DIŠ|
 @list RSP328
 @form ~b |UD×PAP|
+@list ELLES207
 @end sign
 
 @sign	|UD×MI|
@@ -27137,6 +27498,7 @@
 @end sign
 
 @sign	LAHŠU
+@list ELLES229
 @list LAK442
 @list RSP333
 @uphase	1
@@ -27238,6 +27600,7 @@
 @end sign
 
 @sign	UMBIN
+@list ELLES169
 @list LAK289
 @list HZL166
 @list MZL160
@@ -27268,6 +27631,7 @@
 @end sign
 
 @sign	UMUM
+@list ELLES085
 @list LAK155
 @list RSP361
 @list BAU093
@@ -27332,6 +27696,7 @@
 @inote (sjt) The present solution of (re-)creating a DE₂ sign is not perfect but we need something like this solution for epsd2 de₂ bases
 @end form
 @form ~b UMUM
+@list ELLES085
 @list LAK155
 @list RSP361
 @list BAU093
@@ -27339,6 +27704,7 @@
 @end sign
 
 @sign	|UMUM×PA|
+@list ELLES087
 @list LAK156
 @list SLLHA338n2
 @uphase	1
@@ -27348,6 +27714,7 @@
 @end sign
 
 @sign	UN
+@list ELLES356
 @list LAK729
 @list RSP136
 @list BAU367
@@ -27378,6 +27745,7 @@
 @end sign
 
 @sign	UR
+@list ELLES323
 @list LAK664
 @list RSP238
 @list BAU284
@@ -27510,6 +27878,7 @@
 @end sign
 
 @sign	UR₂
+@list ELLES250
 @list LAK479
 @list RSP376
 @list BAU382
@@ -27667,6 +28036,7 @@
 @end sign
 
 @sign	UR₄
+@list ELLES247
 @list LAK472
 @list RSP393
 @list BAU285
@@ -27683,6 +28053,7 @@
 @end sign
 
 @sign	URI
+@list ELLES103
 @list LAK176
 @list RSP380
 @list BAU414
@@ -27731,6 +28102,7 @@
 @end sign
 
 @sign	URU
+@list ELLES295
 @list LAK591
 @list RSP300
 @list BAU336
@@ -27802,6 +28174,7 @@
 @end sign
 
 @sign	|URU×BAR|
+@list ELLES315
 @list LAK649
 @list BAU309
 @list HZL134
@@ -28021,6 +28394,7 @@
 @end sign
 
 @sign	|URU×MIN|
+@list ELLES314
 @list LAK648
 @list RSP269
 @list MZL080
@@ -28060,6 +28434,7 @@
 @uname	CUNEIFORM SIGN LAK648
 @end form
 @form ~d URU
+@list ELLES295
 @list LAK591
 @list RSP300
 @list BAU336
@@ -28184,6 +28559,7 @@
 @form ~v |URU×(MIN.URUDA)|
 @end form
 @form ~a |LAK648×URUDA|
+@list ELLES318
 @list LAK653
 @list LAK716
 @uphase	9
@@ -28193,6 +28569,7 @@
 @end sign
 
 @sign	URUDA
+@list ELLES297
 @list LAK604
 @list RSP239
 @list BAU338
@@ -28278,6 +28655,7 @@
 @end sign
 
 @sign	UŠ
+@list ELLES034
 @list LAK058
 @list RSP415
 @list HZL132
@@ -28434,6 +28812,7 @@
 @end sign
 
 @sign	|UŠ×TAK₄|
+@list ELLES037
 @list LAK060
 @list RSP418
 @list MZL382
@@ -28457,6 +28836,7 @@
 @end sign
 
 @sign	UŠX
+@list ELLES328
 @list LAK672a
 @list KWU089
 @uphase	1
@@ -28486,6 +28866,7 @@
 @end sign
 
 @sign	UZ₃
+@list ELLES056
 @list LAK778
 @list RSP400
 @list BAU275
@@ -28525,6 +28906,7 @@
 @end sign
 
 @sign	UZU
+@list ELLES193
 @list LAK350
 @list BAU213
 @list HZL203
@@ -28605,6 +28987,7 @@
 @end sign
 
 @sign	ZA
+@list ELLES395
 @list LAK797
 @list RSP077
 @list BAU082a
@@ -28776,6 +29159,7 @@
 @end sign
 
 @sign	ZAG
+@list ELLES165
 @list LAK283
 @list RSP388
 @list BAU158
@@ -28834,6 +29218,7 @@
 @end sign
 
 @sign	ZE₂
+@list ELLES287
 @list LAK538
 @list HZL108
 @list MZL259
@@ -28853,6 +29238,7 @@
 @end sign
 
 @sign	ZI
+@list ELLES246
 @list LAK468
 @list RSP455
 @list BAU258
@@ -29021,6 +29407,7 @@
 @end sign
 
 @sign	ZU
+@list ELLES171
 @list LAK291
 @list RSP141
 @list BAU224
@@ -29068,6 +29455,7 @@
 @end sign
 
 @sign	ZU₅
+@list ELLES062
 @list LAK117
 @uphase	1
 @uname	CUNEIFORM SIGN ZU5
@@ -29087,6 +29475,7 @@
 @v	uzu₂
 @v	zuₓ
 @form ~a ZU₅
+@list ELLES062
 @list LAK117
 @v	azu
 @end form
@@ -29109,6 +29498,7 @@
 @end sign
 
 @sign	ZUBI
+@list ELLES240
 @list LAK459
 @list MZL097
 @uphase 2.x
@@ -29122,6 +29512,7 @@
 @end sign
 
 @sign	ZUM
+@list ELLES273
 @list LAK520
 @list RSP175
 @list HZL300
@@ -29343,6 +29734,7 @@
 @end sign
 
 @sign	2(AŠ@t)
+@list ELLES109
 @list LAK185
 @list MZL593
 @list SLLHA124n2
@@ -31540,6 +31932,7 @@
 @ucode x122A9.x12138.x1207A
 @end form
 @form ~b DU
+@list ELLES252
 @list LAK484
 @list RSP369
 @list BAU374
@@ -31979,6 +32372,7 @@
 @sign	|LAGAR×ZA|
 @end sign
 @sign	|LAGAB×PA|
+@list ELLES381
 @list LAK780
 @list BAU264
 @end sign
@@ -32245,10 +32639,13 @@
 @end sign
 
 @sign	LAK248
+@list ELLES137
+@list ELLES139
 @list LAK248
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK046a
+@list ELLES277
 @list LAK046a
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
@@ -32268,6 +32665,7 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK178
+@list ELLES104
 @list LAK178
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
@@ -32288,6 +32686,7 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK256
+@list ELLES143
 @list LAK256
 @inote for dcclt/ebla--required for LAK256@g
 @end sign
@@ -32300,6 +32699,7 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK280
+@list ELLES159
 @list LAK280
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
@@ -32316,6 +32716,7 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK363
+@list ELLES198
 @list LAK363
 @list BAU186
 @inote CDLI |HI×1(N01@f)|
@@ -32326,6 +32727,7 @@
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK407
+@list ELLES219
 @list LAK407
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
@@ -33071,6 +33473,7 @@
 @end sign
 
 @sign HU@g
+@list ELLES042
 @list LAK069
 @inote for lak.atf
 @end sign
@@ -33120,6 +33523,7 @@
 @end sign
 
 @sign LAK776
+@list ELLES379
 @list LAK776
 @inote for lak.atf
 @end sign
@@ -33205,6 +33609,7 @@
 @end sign
 
 @sign |GIR×IGI.LU|
+@list ELLES142
 @list LAK250
 @inote missing compounds for lak.atf
 @end sign
@@ -33270,6 +33675,7 @@
 @end sign
 
 @sign |LAK449a×GU|
+@list ELLES238
 @list LAK455a
 @inote missing compounds for lak.atf
 @end sign
@@ -33300,6 +33706,7 @@
 @end sign
 
 @sign |NINDA₂×2(DIŠ@c)|
+@list ELLES059
 @list LAK101
 @inote missing compounds for lak.atf
 @end sign
@@ -33455,26 +33862,32 @@
 @end sign
 
 @sign |BAD×AŠ@t|
+@list ELLES010
 @inote missing compounds for elles.atf
 @end sign
 
 @sign |GA₂×SILA₃|
+@list ELLES337
 @inote missing compounds for elles.atf
 @end sign
 
 @sign |HA@t×BAD|
+@list ELLES195a
 @inote missing compounds for elles.atf
 @end sign
 
 @sign |LAGAB×AŠ₂|
+@list ELLES373
 @inote missing compounds for elles.atf
 @end sign
 
 @sign |NINDA₂×2(N01)|
+@list ELLES058
 @inote missing compounds for elles.atf
 @end sign
 
 @sign |TUM×SAL|
+@list ELLES257
 @inote missing compounds for elles.atf
 @end sign
 
