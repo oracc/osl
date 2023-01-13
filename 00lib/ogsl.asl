@@ -31699,6 +31699,7 @@
 @inote For validating sign-lists
 @end sign
 @sign |HI×X|
+@list ELLES214
 @inote For validating sign-lists
 @end sign
 @sign |KI×X|
