@@ -1,6 +1,5 @@
 @sign	A
 @list LAK795
-@list LAK797
 @list RSP051
 @list RSP349
 @list BAU416
@@ -22022,12 +22021,13 @@
 @v	murubₓ
 @end sign
 
-@sign	|SAL.LAGAB×AŠ₂|
+@nosign	|SAL.LAGAB×AŠ₂|
 @list MZL885
 @list SLLHA555B
 @uphase	1
 @uname	CUNEIFORM SIGN SAL LAGAB TIMES ASH2
 @ucode	x122AA
+@inote unicode revision needed
 @inote	deleted; sign is |ZUM×TUG₂| = LAK524
 @end sign
 
@@ -28602,6 +28602,7 @@
 @end sign
 
 @sign	ZA
+@list LAK797
 @list RSP077
 @list BAU082a
 @list BAU082b
