@@ -14062,7 +14062,7 @@
 @end sign
 
 @sign	KUR
-@list LAK814
+@list LAK461
 @list RSP065
 @list BAU418
 @list HZL329
@@ -14116,11 +14116,11 @@
 @v	zizanu
 @form ~a LAK461a
 @list LAK461a
-@inote curviform LAK461
+@inote curviform LAK461; cuneiform LAK461 is unmarked LAK641
 @end form
-@form ~b LAK461b
-@list LAK461b
-@inote cuneiform LAK461
+@form ~b LAK814
+@list LAK814
+@inote KUR written as three circles
 @end form
 @end sign
 
