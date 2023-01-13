@@ -33454,3 +33454,27 @@
 @inote Ebla sign in ELLES not yet identified
 @end sign
 
+@sign |BAD×AŠ@t|
+@inote missing compounds for elles.atf
+@end sign
+
+@sign |GA₂×SILA₃|
+@inote missing compounds for elles.atf
+@end sign
+
+@sign |HA@t×BAD|
+@inote missing compounds for elles.atf
+@end sign
+
+@sign |LAGAB×AŠ₂|
+@inote missing compounds for elles.atf
+@end sign
+
+@sign |NINDA₂×2(N01)|
+@inote missing compounds for elles.atf
+@end sign
+
+@sign |TUM×SAL|
+@inote missing compounds for elles.atf
+@end sign
+
