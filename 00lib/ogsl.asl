@@ -33434,6 +33434,11 @@
 @inote Ebla sign in ELLES not yet identified
 @end sign
 
+@sign ELLES316
+@list ELLES316
+@inote Ebla sign in ELLES not yet identified
+@end sign
+
 @sign ELLES324
 @list ELLES324
 @inote Ebla sign in ELLES not yet identified
