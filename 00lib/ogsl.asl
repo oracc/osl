@@ -1,8 +1,9 @@
 @sign	A
+@list LAK795
+@list LAK797
 @list RSP051
 @list RSP349
 @list BAU416
-@list LAK797
 @list MZL839
 @list KWU901
 @uphase	1
@@ -198,10 +199,10 @@
 @form	~e |MUŠ.DU.A.HA|
 @ucode x12232.x1207A.x12000.x12129
 @form	~f BU
+@list LAK232
 @list RSP335
 @list BAU148
 @list HZL339
-@list LAK232
 @list MZL580
 @list OBZL265
 @list SLLHA371
@@ -473,9 +474,9 @@
 @ucode	x12000.x122E2
 @v	aktum
 @form ~a SU
+@list LAK293
 @list RSP143
 @list BAU226
-@list LAK293
 @list MZL016
 @ucode	x122E2
 @lit	Civil 2008, ARES 4, 97
@@ -513,6 +514,7 @@
 @end sign
 
 @sign	|A.TU.GABA.LIŠ|
+@list LAK212
 @ucode	x12000.x12305.x120EE.x121FA
 @v	asal₂
 @v	asar₂
@@ -616,9 +618,9 @@
 @end sign
 
 @sign	|A×BAD|
+@list LAK800
 @list MZL840
 @list SLLHA580
-@list LAK800
 @uphase	1
 @uname	CUNEIFORM SIGN A TIMES BAD
 @ucode	x12002
@@ -638,8 +640,8 @@
 @end sign
 
 @sign	|A×HA|
-@list RSP183
 @list LAK796
+@list RSP183
 @list MZL846
 @list OBZL471
 @list KWU907
@@ -714,10 +716,11 @@
 @end sign
 
 @sign	A₂
+@list LAK140
+@list LAK144
 @list RSP420
 @list BAU102
 @list HZL215
-@list LAK140
 @list MZL560
 @list OBZL230
 @list SLLHA334
@@ -738,6 +741,7 @@
 @v	te₈
 @v	ti₈
 @form ~a DA
+@list LAK143
 @list RSP419
 @list BAU097
 @list BAU101
@@ -837,10 +841,10 @@
 @end sign
 
 @sign	AB
+@list LAK536
 @list RSP223
 @list BAU333
 @list HZL097
-@list LAK536
 @list MZL223
 @list OBZL125
 @list SLLHA128
@@ -903,8 +907,8 @@
 @end sign
 
 @sign	|AB×AŠ₂|
-@list RSP225
 @list LAK540
+@list RSP225
 @list MZL227
 @list OBZL127
 @list SLLHA200an
@@ -953,9 +957,9 @@
 @end sign
 
 @sign	|AB×HA|
+@list LAK543
 @list RSP226
 @list BAU334bis
-@list LAK543
 @list MZL236
 @list OBZL131
 @list SLLHA200v
@@ -1058,12 +1062,12 @@
 @end sign
 
 @sign	AB@g
+@list LAK537
 @list RSP086
 @list RSP224
 @list BAU334
 @list BAU335
 @list HZL111
-@list LAK537
 @list MZL232
 @list OBZL129
 @list SLLHA195
@@ -1091,6 +1095,7 @@
 @v	urugal₂
 @v	uruk
 @form ~a AB
+@list LAK536
 @list RSP223
 @list BAU333
 @v      unu⁻
@@ -1099,6 +1104,7 @@
 @inote	Attinger ~ unug
 @end form
 @form ~b MURUB₄
+@list LAK157
 @inote sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
 @end form
 @end sign
@@ -1109,11 +1115,11 @@
 @end sign
 
 @sign	AB₂
+@list LAK403
 @list RSP159
 @list BAU177
 @list BAU178
 @list HZL277
-@list LAK403
 @list MZL672
 @list OBZL352
 @list SLLHA420
@@ -1165,8 +1171,8 @@
 @end sign
 
 @sign	|AB₂.ŠA₃|
-@list RSP161
 @list LAK404
+@list RSP161
 @ucode	x12016.x122AE
 @v	girₓ
 @v	kirₓ
@@ -1252,6 +1258,7 @@
 @end sign
 
 @sign	|AB₂×TAK₄|
+@list LAK406
 @list MZL673
 @list SLLHA420_8
 @list KWU518
@@ -1272,10 +1279,10 @@
 @end sign
 
 @sign	AD
+@list LAK635
 @list RSP227
 @list BAU311
 @list HZL105
-@list LAK635
 @list MZL258
 @list OBZL132
 @list SLLHA145
@@ -1321,9 +1328,9 @@
 @end sign
 
 @sign	AK
+@list LAK087
 @list RSP273
 @list BAU062
-@list LAK087
 @list MZL127
 @list KWU073
 @uphase	1
@@ -1364,6 +1371,7 @@
 @v	meₓ
 @end form
 @form ~b	LAK493
+@list LAK493
 @uphase		9
 @ucode x124FD
 @uname		CUNEIFORM SIGN LAK493
@@ -1371,9 +1379,9 @@
 @v	me₃
 @end form
 @form ~c	AK
+@list LAK087
 @list RSP273
 @list BAU062
-@list LAK087
 @list MZL127
 @list KWU073
 @uphase	1
@@ -1398,10 +1406,10 @@
 @end sign
 
 @sign	AL
+@list LAK515
 @list RSP399
 @list BAU310
 @list HZL183
-@list LAK515
 @list MZL474
 @list OBZL108
 @list SLLHA298
@@ -1499,10 +1507,10 @@
 @end sign
 
 @sign	ALAN
+@list LAK138
 @list RSP401
 @list BAU090
 @list HZL226
-@list LAK138
 @list MZL573
 @list OBZL199
 @list SLLHA358
@@ -1530,10 +1538,10 @@
 @end sign
 
 @sign	AMAR
+@list LAK267
 @list RSP110
 @list BAU146
 @list HZL155
-@list LAK267
 @list MZL695
 @list OBZL367
 @list SLLHA437
@@ -1580,9 +1588,9 @@
 @end sign
 
 @sign	|AMAR×ŠE|
+@list LAK268
 @list BAU146b
 @list HZL156
-@list LAK268
 @list MZL696
 @list OBZL368
 @list SLLHA438
@@ -1605,10 +1613,10 @@
 @end sign
 
 @sign	AN
+@list LAK008
 @list RSP080
 @list BAU006
 @list HZL008
-@list LAK008
 @list MZL010
 @list OBZL009
 @list SLLHA013
@@ -1836,10 +1844,10 @@
 @end sign
 
 @sign	|AN&AN|
+@list LAK009
 @list RSP081
 @list BAU007
 @list HZL100
-@list LAK009
 @list MZL246
 @list SLLHA129
 @list KWU023
@@ -1876,11 +1884,11 @@
 @end sign
 
 @sign	ANŠE
+@list LAK253
 @list RSP466
 @list BAU161a
 @list BAU161c
 @list HZL302
-@list LAK253
 @list MZL353
 @list OBZL292
 @list SLLHA208
@@ -1898,6 +1906,7 @@
 @inote	Attinger ~ šakan₃
 @v	šakan₃
 @form ~a KIŠ
+@list LAK248
 @v      anše⁻
 @inote	Attinger ~ anše
 @end form
@@ -1935,6 +1944,7 @@
 @v	dusuₓ
 @end form
 @form	~b |IGI.EŠ₂|
+@list LAK434
 @list BAU244
 @v	dusuₓ
 @end form
@@ -1962,6 +1972,7 @@
 @ucode	x12032.x122A9
 @v	eme₆
 @form ~a |ANŠE×SAL|
+@list LAK254
 @end sign
 
 @sign	|ANŠE×ŠA₃|
@@ -1975,10 +1986,10 @@
 @end sign
 
 @sign	|3×AN|
+@list LAK010
 @list RSP082
 @list BAU008
 @list MZL247
-@list LAK010
 @list KWU025
 @uphase	1
 @uname	CUNEIFORM SIGN AN THREE TIMES
@@ -1995,10 +2006,10 @@
 @end sign
 
 @sign	APIN
+@list LAK128
 @list RSP307
 @list BAU075
 @list HZL009
-@list LAK128
 @list MZL090
 @list OBZL005
 @list SLLHA056
@@ -2113,10 +2124,10 @@
 @end sign
 
 @sign	AŠ
+@list LAK001
 @list RSP001
 @list BAU001
 @list HZL001
-@list LAK001
 @list MZL001
 @list OBZL001
 @list SLLHA001
@@ -2224,8 +2235,9 @@
 @end sign
 
 @sign	|AŠ&AŠ&AŠ|
-@list BAU084
+@list LAK133
 @list LAK191
+@list BAU084
 @list MZL505
 @list SLLHA325a
 @uphase	1
@@ -2393,10 +2405,10 @@
 @end sign
 
 @sign	AŠ₂
+@list LAK162a
 @list RSP128
 @list BAU095
 @list HZL241
-@list LAK162a
 @list MZL548
 @list OBZL211
 @list SLLHA339
@@ -2484,9 +2496,9 @@
 @end sign
 
 @sign	AŠGAB
+@list LAK346?
 @list RSP395
 @list HZL080
-@list LAK346?
 @list MZL173
 @list OBZL443
 @list SLLHA104_6
@@ -2503,10 +2515,10 @@
 @end sign
 
 @sign	BA
+@list LAK290
 @list RSP139
 @list BAU222
 @list HZL205
-@list LAK290
 @list MZL014
 @list OBZL303
 @list SLLHA005
@@ -2523,10 +2535,10 @@
 @end sign
 
 @sign	BAD
+@list LAK016
 @list RSP048bis
 @list BAU009
 @list HZL013
-@list LAK016
 @list MZL113
 @list OBZL025
 @list SLLHA069
@@ -2659,8 +2671,8 @@
 @end sign
 
 @sign	BAHAR₂
-@list BAU370
 @list LAK742
+@list BAU370
 @uphase	1
 @uname	CUNEIFORM SIGN BAHAR2
 @ucode	x12043
@@ -2677,6 +2689,7 @@
 @form	~a |DUG.SILA₃.BUR|
 @ucode x12081.x122E1.x12053
 @form	~b EDIN
+@list LAK747
 @list RSP433
 @list RSP435
 @v	baharₓ
@@ -2684,8 +2697,8 @@
 @end sign
 
 @sign	|BAHAR₂×AB₂|
-@list RSP434
 @list LAK743
+@list RSP434
 @uphase	9
 @ucode	x12484
 @uname	CUNEIFORM SIGN BAHAR2 TIMES AB2
@@ -2706,9 +2719,9 @@
 @end sign
 
 @sign	BAL
+@list LAK019
 @list RSP087
 @list HZL004
-@list LAK019
 @list MZL005
 @list OBZL003
 @list SLLHA009
@@ -2734,10 +2747,10 @@
 @end sign
 
 @sign	BALAG
+@list LAK041
 @list RSP377
 @list BAU029
 @list HZL225
-@list LAK041
 @list MZL565
 @list OBZL195
 @list KWU320
@@ -2775,11 +2788,11 @@
 @end sign
 
 @sign	BAR
+@list LAK752
 @list RSP044
 @list RSP134
 @list BAU252
 @list HZL020
-@list LAK752
 @list MZL121
 @list OBZL057
 @list SLLHA074
@@ -2797,10 +2810,10 @@
 @note value sutu moved to BAN₂.
 @v-	war
 @form ~a AŠ
+@list LAK001
 @list RSP001
 @list BAU001
 @list HZL001
-@list LAK001
 @list MZL001
 @list OBZL001
 @list SLLHA001
@@ -2821,6 +2834,7 @@
 @v	kunga₂
 @v	kungi₂
 @form ~a	|BAR×AN|
+@list LAK753
 @list KWU674
 @uphase	0
 @v	suhubₓ
@@ -2839,10 +2853,10 @@
 @v	kungi
 @end form
 @form ~d	|3×AN|
+@list LAK010
 @list RSP082
 @list BAU008
 @list MZL247
-@list LAK010
 @list KWU025
 @uphase	1
 @uname	CUNEIFORM SIGN AN THREE TIMES
@@ -2864,9 +2878,9 @@
 @end sign
 
 @sign	BARA₂
+@list LAK153
 @list BAU088
 @list HZL235
-@list LAK153
 @list MZL554
 @list OBZL217
 @list SLLHA344
@@ -2886,12 +2900,12 @@
 @end sign
 
 @sign	BI
+@list LAK639
 @list RSP218
 @list BAU344
 @list BAU350
 @list BAU351
 @list HZL153
-@list LAK639
 @list MZL358
 @list OBZL079
 @list SLLHA214
@@ -3040,10 +3054,10 @@
 @end sign
 
 @sign	BU
+@list LAK232
 @list RSP335
 @list BAU148
 @list HZL339
-@list LAK232
 @list MZL580
 @list OBZL265
 @list SLLHA371
@@ -3224,10 +3238,10 @@
 @end sign
 
 @sign	BUR
+@list LAK169
 @list RSP164
 @list BAU404
 @list HZL245
-@list LAK169
 @list MZL559
 @list OBZL223
 @list SLLHA349
@@ -3243,10 +3257,10 @@
 @end sign
 
 @sign	BUR₂
+@list LAK052
 @list RSP088
 @list BAU054
 @list BAU056
-@list LAK052
 @list MZL008
 @list OBZL013
 @list SLLHA011
@@ -3289,8 +3303,8 @@
 @end sign
 
 @sign	BURU₅
-@list RSP414
 @list LAK072
+@list RSP414
 @list MZL135
 @uphase	1
 @uname	CUNEIFORM SIGN NAM NUTILLU
@@ -3306,6 +3320,7 @@
 @ucode x12137.x1209F
 @end form
 @form ~d NAM
+@list LAK071
 @list RSP413
 @list BAU038
 @v    buru₅ [Ass 00523 = dcclt/signlists:P370411 r ii 49]
@@ -3314,18 +3329,18 @@
 @end sign
 
 @sign	|BURU₅×AMAR@t|
-@list RSP409
 @list LAK072b
+@list RSP409
 @v	u₅
 @inote AbS P225926 = OIP 099, 048 v 2′
 @end sign
 
 @sign	DA
+@list LAK143
 @list RSP419
 @list BAU097
 @list BAU101
 @list HZL214
-@list LAK143
 @list MZL561
 @list OBZL229
 @list SLLHA335
@@ -3359,10 +3374,10 @@
 @end sign
 
 @sign	DAG
+@list LAK740
 @list RSP134
 @list RSP267
 @list BAU362
-@list LAK740
 @list KWU848
 @uphase	1
 @uname	CUNEIFORM SIGN DAG
@@ -3681,10 +3696,10 @@
 @end sign
 
 @sign	DAM
+@list LAK523
 @list RSP191
 @list BAU291
 @list HZL298
-@list LAK523
 @list MZL889
 @list OBZL454
 @list SLLHA557
@@ -3731,9 +3746,9 @@
 @end sign
 
 @sign	DARA₃
+@list LAK264
 @list RSP459
 @list HZL071
-@list LAK264
 @list MZL166
 @list OBZL365
 @list KWU553
@@ -3756,8 +3771,8 @@
 @end sign
 
 @sign	DARA₄
-@list BAU372
 @list LAK670
+@list BAU372
 @list MZL817
 @list OBZL421
 @list SLLHA540
@@ -3787,11 +3802,11 @@
 @end sign
 
 @sign	DI
+@list LAK439
 @list RSP318
 @list RSP319
 @list BAU190
 @list HZL312
-@list LAK439
 @list MZL736
 @list OBZL431
 @list SLLHA457
@@ -3874,8 +3889,8 @@
 @end sign
 
 @sign	DIM
-@list HZL014
 @list LAK053
+@list HZL014
 @list MZL167
 @list OBZL014
 @list SLLHA094
@@ -3916,13 +3931,13 @@
 @end sign
 
 @sign	|DIM×ŠE|
+@list LAK055
 @list RSP426b
 @list BAU410
 @list HZL018
 @list MZL168
 @list OBZL015
 @list KWU086
-@list LAK055
 @uphase	1
 @uname	CUNEIFORM SIGN DIM TIMES SHE
 @ucode	x12075
@@ -3931,6 +3946,7 @@
 @v	mun
 @v	munu
 @form ~a	|DIM×ŠE|
+@list LAK055
 @list RSP426b
 @list BAU410
 @ucode x12075
@@ -3942,18 +3958,18 @@
 @lit	Civil, ZA 74, 162
 @end form
 @form ~b	DIM@g
-@list RSP426a
 @list LAK056
+@list RSP426a
 @v	mun
 @lit	Civil, ZA 74, 162; Civil ARES 4, 86.
 @end form
 @end sign
 
 @sign	DIM₂
+@list LAK481
 @list RSP375
 @list BAU381
 @list HZL165
-@list LAK481
 @list MZL686
 @list OBZL067
 @list SLLHA440
@@ -4003,11 +4019,11 @@
 @end sign
 
 @sign	DIN
+@list LAK237
 @list RSP084
 @list BAU144
 @list BAU145
 @list HZL330
-@list LAK237
 @list MZL119
 @list OBZL361
 @list SLLHA465
@@ -4165,10 +4181,10 @@
 @end sign
 
 @sign	DU
+@list LAK484
 @list RSP369
 @list BAU374
 @list HZL128
-@list LAK484
 @list MZL350
 @list SLLHA206
 @list KWU704
@@ -4295,9 +4311,9 @@
 @end sign
 
 @sign	DU@g
+@list LAK486
 @list RSP372
 @list RSP373
-@list LAK486
 @list MZL351
 @list OBZL065
 @list SLLHA201
@@ -4317,6 +4333,7 @@
 @v	suhuš
 @v	šuhuš
 @form ~a DU
+@list LAK484
 @list RSP369
 @list BAU374
 @v      suhuš⁻
@@ -4366,6 +4383,7 @@
 @v	raₓ
 @v	rim₄
 @form ~a DU
+@list LAK484
 @list RSP369
 @list BAU374
 @v	barim⁻
@@ -4378,6 +4396,7 @@
 @inote	Attinger ~ kaš₄
 @end form
 @form ~b |DU×KASKAL|
+@list LAK485
 @end sign
 
 @sign	|DU@s.A|
@@ -4402,10 +4421,10 @@
 @end sign
 
 @sign	DUB
+@list LAK609
 @list RSP278
 @list BAU297
 @list HZL099
-@list LAK609
 @list MZL242
 @list OBZL112b
 @list SLLHA138
@@ -4474,9 +4493,9 @@
 @end sign
 
 @sign	DUB₂
+@list LAK632
 @list RSP215
 @list KWU 720
-@list LAK632
 @list MZL565
 @list OBZL082
 @list SLLHA352
@@ -4503,15 +4522,15 @@
 @end sign
 
 @sign	DUG
+@list LAK560
+@list LAK637
+@list LAK639
 @list RSP212
 @list BAU342
 @list BAU348
 @list BAU349
 @list BAU352
 @list HZL162
-@list LAK560
-@list LAK637
-@list LAK639
 @list MZL499
 @list OBZL080
 @list SLLHA309
@@ -4633,6 +4652,7 @@
 @end	sign
 
 @sign	|DUG×GIŠ|
+@list LAK548
 @list LAK578
 @uphase	9
 @ucode x12496
@@ -4647,8 +4667,8 @@
 @end	sign
 
 @sign	|DUG×HI|
-@list BAU343
 @list LAK584
+@list BAU343
 @uphase	9
 @ucode x12498
 @uname	CUNEIFORM SIGN DUG TIMES HI
@@ -4763,8 +4783,8 @@
 @end	sign
 
 @sign	DUGUD
-@list HZL268
 @list LAK392
+@list HZL268
 @list MZL704
 @list OBZL349
 @list SLLHA445
@@ -4804,10 +4824,10 @@
 @end sign
 
 @sign	DUN
+@list LAK040
 @list RSP457
 @list BAU019
 @list HZL046
-@list LAK040
 @list MZL744
 @list SLLHA467
 @list KWU348
@@ -4848,10 +4868,10 @@
 @end sign
 
 @sign	DUN₃
+@list LAK666
 @list RSP306
 @list BAU280
 @list BAU340
-@list LAK666
 @list MZL836
 @list OBZL401a
 @list SLLHA595
@@ -4871,6 +4891,7 @@
 @v	tug₈
 @v	ṭu
 @form ~a DUN₃@g
+@list LAK667
 @list RSP305
 @list BAU339
 @v      du₅⁺
@@ -4881,14 +4902,15 @@
 @inote	Attinger tun₃
 @end form
 @form ~b LAK786
+@list LAK786
 @inote LAK sign form looks like LAGAB×LAL; LAK786 s.v. suggests equivalence to DUN₃ with a query.
 @end sign
 
 @sign	DUN₃@g
+@list LAK667
 @list RSP305
 @list BAU339
 @list HZL096
-@list LAK667
 @list MZL556
 @list OBZL401b
 @list SLLHA347
@@ -4915,8 +4937,8 @@
 @end sign
 
 @sign	DUN₃@g@g
-@list RSP275
 @list LAK154
+@list RSP275
 @list KWU311
 @uphase	1
 @uname	CUNEIFORM SIGN DUN3 GUNU GUNU
@@ -4980,8 +5002,8 @@
 @end sign
 
 @sign	DUR₂
-@list RSP254
 @list LAK791
+@list RSP254
 @uphase	1
 @uname	CUNEIFORM SIGN DUR2
 @ucode	x12089
@@ -5001,10 +5023,11 @@
 @end sign
 
 @sign	E
+@list LAK136
+@list LAK177?
 @list RSP297
 @list BAU089
 @list HZL187
-@list LAK177?
 @list MZL498
 @list OBZL167
 @list SLLHA308
@@ -5044,8 +5067,8 @@
 @end sign
 
 @sign	|E×PAP|
-@list RSP298
 @list LAK137
+@list RSP298
 @list SLLHA308n2
 @uphase	1
 @uname	CUNEIFORM SIGN E TIMES PAP
@@ -5062,10 +5085,10 @@
 @end sign
 
 @sign	E₂
+@list LAK732
 @list RSP250
 @list BAU365
 @list HZL199
-@list LAK732
 @list MZL495
 @list OBZL107
 @list SLLHA324
@@ -5271,9 +5294,9 @@
 @end sign
 
 @sign	EDIN
+@list LAK747
 @list RSP433
 @list RSP435
-@list LAK747
 @list MZL300
 @list OBZL115
 @list SLLHA168
@@ -5346,6 +5369,7 @@
 @end sign
 
 @sign	EL
+@list LAK518
 @list RSP155
 @list BAU399
 @list HZL307
@@ -5387,10 +5411,10 @@
 @end sign
 
 @sign	EN
+@list LAK532
 @list RSP271
 @list BAU296
 @list HZL040
-@list LAK532
 @list MZL164
 @list OBZL062
 @list SLLHA099
@@ -5410,6 +5434,7 @@
 @v	uru₁₆
 @v	urunₓ
 @form ~a LAK530
+@list LAK530
 @inote see http://cdli.ucla.edu/P250427 ii 2 with lit
 @end form
 @end sign
@@ -5492,6 +5517,7 @@
 @v	ensi
 @v	šešlam₂
 @form ~a  |EN×ME.LI|
+@list LAK534
 @ucode x1209A.x121F7
 @end sign
 
@@ -5683,10 +5709,11 @@
 @end sign
 
 @sign	EREN
+@list LAK665
+@list LAK671
 @list RSP304
 @list BAU373
 @list HZL062
-@list LAK671
 @list MZL818
 @list OBZL398
 @list SLLHA541
@@ -5717,12 +5744,12 @@
 @end sign
 
 @sign	ERIN₂
+@list LAK527
 @list RSP378
 @list BAU143
 @list BAU248
 @list BAU413
 @list HZL327
-@list LAK527
 @list MZL612
 @list OBZL247
 @list SLLHA393
@@ -5781,9 +5808,9 @@
 @end sign
 
 @sign	EŠ₂
+@list LAK794
 @list RSP256
 @list BAU386a
-@list LAK794
 @uphase	1
 @uname	CUNEIFORM SIGN ESH2
 @ucode	x120A0
@@ -5833,6 +5860,7 @@
 @uphase	0
 @note: This is a variant of GAN₂@t listed in Ea 1, 186-188. The sign is to be distinguished from ZI₃, which is EŠ₂@t in ED writing.
 @inote this should probably be moved to be an @form of GAN₂@t
+@list LAK186
 @v	eš₂@t
 @inote eš₂@t is used in the ed3b corpus in lu₂-eš₂/eš₂@t-gid₂
 @v	še₃@t
@@ -5911,9 +5939,9 @@
 @v	samanₓ
 @end form
 @form ~h	EŠ₂
+@list LAK794
 @list RSP256
 @list BAU386a
-@list LAK794
 @uphase	1
 @uname	CUNEIFORM SIGN ESH2
 @ucode	x120A0
@@ -6039,12 +6067,12 @@
 @end sign
 
 @sign	EZEN
+@list LAK611
 @list RSP284
 @list BAU298
 @list MZL272
 @list SLLHA152_8b
 @list KWU835
-@list LAK611
 @uphase	1
 @uname	CUNEIFORM SIGN EZEN
 @ucode	x120A1
@@ -6073,6 +6101,7 @@
 @v	šer₃
 @v	šir₃
 @form ~a KEŠ₂
+@list LAK612
 @list RSP285
 @list BAU307
 @v	sir₃
@@ -6218,8 +6247,8 @@
 @end sign
 
 @sign	|EZEN×KASKAL|
-@list BAU299
 @list LAK616
+@list BAU299
 @list MZL277
 @list OBZL157
 @list SLLHA152_4
@@ -6262,8 +6291,8 @@
 @end sign
 
 @sign	|EZEN×LA|
-@list RSP288
 @list LAK615
+@list RSP288
 @list MZL274
 @list OBZL154
 @list SLLHA152_9
@@ -6279,6 +6308,7 @@
 @list	MZL278
 @ucode x12377
 @form ~b EZEN
+@list LAK611
 @list RSP284
 @list BAU298
 @end sign
@@ -6295,6 +6325,7 @@
 @v	asilal
 @v	silₓ
 @form ~a EZEN
+@list LAK611
 @list RSP284
 @list BAU298
 @v      asila⁻
@@ -6433,11 +6464,11 @@
 @end	sign
 
 @sign	GA
+@list LAK726
 @list RSP097
 @list RSP220
 @list BAU368
 @list HZL159
-@list LAK726
 @list MZL491
 @list OBZL201
 @list SLLHA319
@@ -6519,9 +6550,9 @@
 @end sign
 
 @sign	GA@g
+@list LAK727
 @list RSP221
 @list BAU369
-@list LAK727
 @list MZL492
 @list OBZL202
 @list SLLHA319n
@@ -6538,10 +6569,10 @@
 @end sign
 
 @sign	GA₂
+@list LAK674
 @list RSP240
 @list BAU317
 @list HZL056
-@list LAK674
 @list MZL387
 @list OBZL093
 @list SLLHA233
@@ -6592,12 +6623,13 @@
 @inote See, e.g., P010481 o ii 6 where GA₂×(HA.A) is inside GA₂ box; contra CDLI comment GA₂ final vertical is in case ruling
 @end form
 @form	~c |GA₂×HA|
+@list LAK694
 @list ZATU173
 @list ZATU180
-@list LAK694
 @form	~d |GA₂×HA.A|
 @inote See, e.g., P010060 o ii 6 where GA₂×HA is square like LAGAB and clearly closed with A written outside GA₂
 @form	~e |LAGAB×HA|
+@list LAK784a
 @inote In almost all collatable instances "LAGAB" has a secondary vertical like GA₂. In P251751 two LAGAB×HA have no visible secondary vertical
 @form	~f |LAGAB×(HA.A)|
 @inote See, e.g., P427626 o 5
@@ -6605,9 +6637,9 @@
 @inote Existence of this combination requires confirmation.
 @end form
 @form	~h |GA₂×(HA.HA)|
+@list LAK695
 @ucode x124BE
 @list ZATU174
-@list LAK695
 @end sign
 
 @sign	|GA₂×(A.IGI)|
@@ -6631,9 +6663,9 @@
 @end sign
 
 @sign	|GA₂×AN|
+@list LAK675
 @list RSP244
 @list HZL057
-@list LAK675
 @list MZL392
 @list OBZL094
 @list SLLHA237
@@ -6887,9 +6919,9 @@
 @end sign
 
 @sign	|GA₂×EN|
+@list LAK682
 @list RSP246
 @list BAU325
-@list LAK682
 @list MZL399
 @list SLLHA247
 @uphase	1
@@ -6940,8 +6972,8 @@
 @end sign
 
 @sign	|GA₂×GAR|
-@list HZL060
 @list LAK691
+@list HZL060
 @list MZL431
 @list OBZL105
 @list SLLHA278
@@ -6972,8 +7004,8 @@
 @end sign
 
 @sign	|GA₂×GI|
-@list RSP245
 @list LAK680
+@list RSP245
 @list MZL396
 @list SLLHA243
 @list KWU811
@@ -7174,6 +7206,7 @@
 @end sign
 
 @sign	|GA₂×LI|
+@list LAK693
 @inote dcclt !sg possibly gusub
 @end sign
 
@@ -7185,6 +7218,7 @@
 @end sign
 
 @sign	|GA₂×(ME.EN)|
+@list LAK683
 @list MZL427
 @list OBZL102
 @list SLLHA270
@@ -7249,9 +7283,9 @@
 @end sign
 
 @sign	|GA₂×NUN|
+@list LAK678
 @list RSP241
 @list BAU318
-@list LAK678
 @list MZL397
 @list OBZL096
 @list SLLHA244v
@@ -7265,9 +7299,9 @@
 @end sign
 
 @sign	|GA₂×NUN&NUN|
+@list LAK679
 @list RSP242
 @list HZL058
-@list LAK679
 @list MZL411
 @list OBZL099
 @list SLLHA255
@@ -7282,10 +7316,10 @@
 @end sign
 
 @sign	|GA₂×PA|
+@list LAK676
 @list RSP243
 @list BAU278
 @list HZL054
-@list LAK676
 @list MZL408
 @list OBZL097
 @list SLLHA252
@@ -7460,19 +7494,19 @@
 @end sign
 
 @sign	|GA₂×ZIZ₂|
-@list MZL408
 @list LAK677
+@list MZL408
 @uphase	9
 @ucode x124C8
 @uname 	CUNEIFORM SIGN GA2 TIMES ZIZ2
 @v	gazi
 @v	gazaₓ
 @form ~a |GA₂×PA|
+@list LAK676
 @list RSP243
 @list BAU278
 @ucode x120E2
 @list HZL054
-@list LAK676
 @list MZL408
 @list OBZL097
 @list SLLHA252
@@ -7497,8 +7531,8 @@
 @end sign
 
 @sign	GABA
-@list RSP104
 @list LAK119
+@list RSP104
 @uphase	1
 @uname	CUNEIFORM SIGN GABA
 @ucode	x120EE
@@ -7541,12 +7575,12 @@
 @end	sign
 
 @sign	GAD
+@list LAK046
+@list LAK285
 @list RSP060
 @list BAU217
 @list BAU220
 @list HZL173
-@list LAK046
-@list LAK285
 @list MZL157
 @list OBZL299
 @list SLLHA090
@@ -7607,6 +7641,7 @@
 @end sign
 
 @sign	|GAD.TAK₄.SI|
+@list LAK288
 @list RSP061
 @list MZL159
 @list OBZL300
@@ -7627,10 +7662,10 @@
 @end sign
 
 @sign	GAL
+@list LAK164
 @list RSP129
 @list BAU107
 @list HZL242
-@list LAK164
 @list MZL553
 @list OBZL213
 @list SLLHA343
@@ -7773,9 +7808,9 @@
 @end sign
 
 @sign	GALAM
+@list LAK352
 @list RSP179
 @list RSP180
-@list LAK352
 @list MZL338
 @list SLLHA190kv
 @uphase	1
@@ -7796,9 +7831,9 @@
 @end sign
 
 @sign	GAM
+@list LAK180
 @list RSP050
 @list HZL247
-@list LAK180
 @list MZL576
 @list OBZL359
 @list SLLHA362
@@ -7825,10 +7860,10 @@
 @end sign
 
 @sign	GAN
+@list LAK644
 @list RSP428
 @list BAU047
 @list HZL113
-@list LAK644
 @list MZL253
 @list OBZL120
 @list SLLHA143
@@ -7858,18 +7893,19 @@
 @end sign
 
 @sign	GAN@s
+@list LAK645
 @v	ganₓ
 @form ~a |GAN×KASKAL|
 @end sign
 
 @sign	GAN₂
+@list LAK089
 @list RSP007
 @list RSP029
 @list RSP031
 @list RSP247
 @list BAU061
 @list HZL061
-@list LAK089
 @list MZL174
 @list OBZL106
 @list SLLHA105
@@ -7964,11 +8000,11 @@
 @end sign
 
 @sign	GAR
+@list LAK525
 @list RSP152
 @list RSP254
 @list BAU396
 @list HZL369
-@list LAK525
 @list MZL859
 @list OBZL473
 @list SLLHA597
@@ -8118,11 +8154,12 @@
 @end sign
 
 @sign	GAR₃
+@list LAK160
+@list LAK161
 @list RSP346
 @list BAU110
 @list BAU251
 @list HZL240
-@list LAK161
 @list MZL543
 @list OBZL209
 @list SLLHA333
@@ -8173,11 +8210,11 @@
 @end sign
 
 @sign	GEŠTIN
+@list LAK629
 @list RSP214
 @list RSP216
 @list BAU314
 @list HZL131
-@list LAK629
 @list MZL212
 @list OBZL077
 @list SLLHA210
@@ -8194,8 +8231,8 @@
 @end sign
 
 @sign	|GEŠTIN×KUR|
-@list RSP213
 @list LAK630
+@list RSP213
 @list MZL213
 @list SLLHA210a
 @uphase	1
@@ -8214,10 +8251,10 @@
 @end	sign
 
 @sign	GI
+@list LAK464
 @list RSP451
 @list BAU255
 @list HZL030
-@list LAK464
 @list MZL141
 @list OBZL040
 @list SLLHA085
@@ -8330,9 +8367,9 @@
 @end sign
 
 @sign	|GI%GI|
+@list LAK465
 @list RSP452
 @list HZL258
-@list LAK465
 @list MZL105
 @list OBZL250
 @list SLLHA067
@@ -8360,10 +8397,10 @@
 @end sign
 
 @sign	GI₄
+@list LAK466
 @list RSP453
 @list BAU257
 @list HZL234
-@list LAK466
 @list MZL507
 @list OBZL214
 @list SLLHA326
@@ -8381,8 +8418,8 @@
 @end sign
 
 @sign	|GI₄&GI₄|
-@list RSP454
 @list LAK467
+@list RSP454
 @list SLLHA326v
 @list KWU300
 @uphase	1
@@ -8415,10 +8452,10 @@
 @end sign
 
 @sign	GIG
+@list LAK394
 @list RSP121
 @list BAU175
 @list HZL269
-@list LAK394
 @list MZL705
 @list OBZL350
 @list SLLHA446
@@ -8442,10 +8479,10 @@
 @end sign
 
 @sign	GIR₂
+@list LAK006
 @list RSP339
 @list BAU003
 @list HZL006
-@list LAK006
 @list MZL006
 @list OBZL008
 @list SLLHA010
@@ -8471,11 +8508,11 @@
 @end sign
 
 @sign	GIR₂@g
+@list LAK007
 @list RSP339bis
 @list BAU004
 @list BAU005
 @list HZL006
-@list LAK007
 @list MZL007
 @list OBZL008
 @list SLLHA010
@@ -8502,11 +8539,11 @@
 @end sign
 
 @sign	GIR₃
+@list LAK248
 @list RSP463
 @list BAU161a
 @list BAU161c
 @list HZL301
-@list LAK248
 @list MZL701
 @list OBZL291b
 @list SLLHA444
@@ -8546,6 +8583,7 @@
 @v	šakkan₂
 @v	wir
 @form ~a KIŠ
+@list LAK248
 @end sign
 
 @sign	|GIR₃.ARAD|
@@ -8602,15 +8640,16 @@
 @v	alim
 @v	alima
 @form ~a KIŠ
+@list LAK248
 @v      alim⁻
 @inote	Attinger ~ alim
 @end form
 @end sign
 
 @sign	|GIR₃×GAN₂@t|
+@list LAK251
 @list RSP464
 @list BAU165
-@list LAK251
 @list MZL675
 @list OBZL293
 @list SLLHA423
@@ -8624,14 +8663,15 @@
 @v	ŋiri₁₆
 @v	irₓ
 @form ~a KIŠ
+@list LAK248
 @v   	giri₁₆⁻
 @inote	Attinger ~ giri₁₆
 @end form
 @end sign
 
 @sign	|GIR₃×IGI|
-@list HZL303
 @list LAK249
+@list HZL303
 @list OBZL295
 @list SLLHA421n2
 @uphase	1
@@ -8668,9 +8708,9 @@
 @end sign
 
 @sign	GISAL
+@list LAK589
 @list RSP217
 @list RSP367
-@list LAK589
 @list MZL376
 @list OBZL081
 @list SLLHA226
@@ -8686,9 +8726,9 @@
 @v	ŋizal
 @v	mizal
 @form	~a GISAL
+@list LAK589
 @list RSP217
 @list RSP367
-@list LAK589
 @list MZL376
 @list OBZL081
 @list SLLHA226
@@ -8712,10 +8752,10 @@
 @end sign
 
 @sign	GIŠ
+@list LAK673
 @list RSP231
 @list BAU312
 @list HZL178
-@list LAK673
 @list MZL469
 @list OBZL160
 @list SLLHA296
@@ -9102,8 +9142,9 @@
 @end sign
 
 @sign	|GIŠ%GIŠ|
-@list HZL260
+@list LAK276
 @list LAK610?
+@list HZL260
 @list OBZL274
 @list SLLHA296n2
 @list KWU360
@@ -9162,10 +9203,10 @@
 @end sign
 
 @sign	GU
+@list LAK509
 @list RSP176
 @list BAU393
 @list HZL304
-@list LAK509
 @list MZL891
 @list OBZL458
 @list SLLHA559
@@ -9208,10 +9249,10 @@
 @end sign
 
 @sign	GU₂
+@list LAK544
 @list RSP355
 @list BAU331
 @list HZL201
-@list LAK544
 @list MZL176
 @list OBZL089
 @list SLLHA106
@@ -9231,8 +9272,8 @@
 @end sign
 
 @sign	|GU₂.GAR₃|
-@list BAU050
 @list LAK063
+@list BAU050
 @list KWU689
 @list OBZL087
 @ucode	x12118.x120FC
@@ -9262,10 +9303,11 @@
 @end	sign
 
 @sign	|GU₂×KAK|
+@list LAK545
+@list LAK549
 @list RSP356
 @list BAU332
 @list HZL202
-@list LAK549
 @list MZL178
 @list OBZL088
 @list SLLHA108
@@ -9345,10 +9387,10 @@
 @end sign
 
 @sign	GUD
+@list LAK123
 @list RSP187
 @list BAU073
 @list HZL157
-@list LAK123
 @list MZL472
 @list OBZL118
 @list SLLHA297
@@ -9428,9 +9470,9 @@
 @end sign
 
 @sign	|GUD×KUR|
+@list LAK124
 @list RSP188
 @list HZL168
-@list LAK124
 @list MZL309
 @list OBZL119
 @list SLLHA170
@@ -9470,11 +9512,11 @@
 @end sign
 
 @sign	GUL
+@list LAK389
 @list RSP279
 @list BAU172
 @list HZL271
 @list KWU546
-@list LAK389
 @list MZL682
 @list OBZL343
 @list SLLHA429
@@ -9500,9 +9542,9 @@
 @end sign
 
 @sign	GUM
+@list LAK633
 @list RSP111
 @list HZL120
-@list LAK633
 @list MZL339
 @list OBZL138
 @list SLLHA191
@@ -9537,9 +9579,9 @@
 @end sign
 
 @sign	|GUM×ŠE|
+@list LAK634
 @list RSP112
 @list HZL122
-@list LAK634
 @list MZL340
 @list OBZL139
 @list SLLHA192
@@ -9565,11 +9607,11 @@
 @end sign
 
 @sign	GUR
+@list LAK088
 @list RSP236
 @list BAU065
 @list BAU327
 @list HZL185
-@list LAK088
 @list MZL180
 @list OBZL092
 @list SLLHA111
@@ -9637,8 +9679,8 @@
 @end sign
 
 @sign	GURUŠ
-@list BAU308
 @list LAK709a
+@list BAU308
 @list KWU803
 @lit	Krebernik, OBO 160/1, 277
 @inote GURUŠ is the sign form with simple final vertical
@@ -9654,10 +9696,10 @@
 @end sign
 
 @sign	HA
+@list LAK351
 @list RSP181
 @list BAU207
 @list HZL367
-@list LAK351
 @list MZL856
 @list OBZL475
 @list SLLHA589
@@ -9675,6 +9717,7 @@
 @v	kua
 @v	peš₁₁
 @form ~a HA@g
+@list LAK353
 @list RSP182
 @list BAU210
 @v      ha⁺
@@ -9704,10 +9747,10 @@
 @end sign
 
 @sign	HA@g
+@list LAK353
 @list RSP182
 @list BAU210
 @list HZL244A
-@list LAK353
 @list MZL558
 @list OBZL222
 @list SLLHA346
@@ -9741,6 +9784,7 @@
 @v	šegₓ
 @v	zahₓ
 @form ~a HA
+@list LAK351
 @list RSP181
 @list BAU207
 @v      gir⁻
@@ -9773,10 +9817,10 @@
 @end sign
 
 @sign	HAL
+@list LAK005
 @list RSP076
 @list BAU002
 @list HZL002
-@list LAK005
 @list MZL003
 @list OBZL007
 @list SLLHA002
@@ -9793,10 +9837,10 @@
 @end sign
 
 @sign	HI
+@list LAK359
 @list RSP309
 @list BAU184
 @list HZL335
-@list LAK359
 @list MZL631
 @list OBZL277
 @list SLLHA396
@@ -9842,6 +9886,7 @@
 @v	hušuₓ
 @v?	ruš
 @form ~a KIŠ
+@list LAK248
 @v      huš⁻
 @inote	Attinger
 @end form
@@ -9851,6 +9896,7 @@
 @inote Uncertain, needs collation, see P228804 vi 29; what is uncertain about this?
 @end form
 @form ~c LAK240
+@list LAK240
 @inote this form has no HI component
 @end form
 @end sign
@@ -9892,11 +9938,11 @@
 @end sign
 
 @sign	|HI×AŠ₂|
+@list LAK370
 @list RSP315
 @list BAU189
 @list BAU192
 @list HZL333
-@list LAK370
 @list MZL644
 @list OBZL281
 @list SLLHA401
@@ -9979,10 +10025,10 @@
 @end sign
 
 @sign	|HI×BAD|
+@list LAK366
 @list RSP312
 @list RSP313
 @list RSP314
-@list LAK366
 @list KWU452
 @uphase	1
 @uname	CUNEIFORM SIGN HI TIMES BAD
@@ -10010,6 +10056,7 @@
 @inote dcclt !sg
 @end form
 @form ~c |HI×AŠ|
+@list LAK361
 @form ~d |HI×DIŠ|
 @form ~e |HI×AŠ@c|
 @form ~f |HI×U|
@@ -10059,8 +10106,8 @@
 @end sign
 
 @sign	|HI×NUN|
-@list HZL332
 @list LAK367
+@list HZL332
 @list MZL636
 @list OBZL280
 @list SLLHA398
@@ -10112,8 +10159,8 @@
 @end sign
 
 @sign	|HI×NUN.ME|
-@list RSP316
 @list LAK368
+@list RSP316
 @list MZL638
 @list OBZL282
 @list SLLHA398_64
@@ -10152,9 +10199,9 @@
 @end sign
 
 @sign	|HI×ŠE|
+@list LAK372
 @list BAU188
 @list HZL334
-@list LAK372
 @list MZL643
 @list OBZL287
 @list SLLHA400
@@ -10215,10 +10262,10 @@
 @end sign
 
 @sign	HU
+@list LAK064
 @list RSP406
 @list BAU034
 @list HZL024
-@list LAK064
 @list MZL132
 @list OBZL034
 @list SLLHA078
@@ -10252,10 +10299,10 @@
 @end sign
 
 @sign	|HU.HI|
+@list LAK065
 @list RSP407
 @list BAU037
 @list HZL026
-@list LAK065
 @list MZL137
 @list OBZL035
 @list SLLHA081
@@ -10283,8 +10330,8 @@
 @end sign
 
 @sign	|HU.NA₂|
-@list RSP410
 @list LAK068
+@list RSP410
 @list MZL138
 @list OBZL036
 @list SLLHA082
@@ -10331,6 +10378,7 @@
 @v	tumₓ
 @v	tun₂
 @form ~a |HUB₂×UD|
+@list LAK476
 @list RSP425
 @ucode x1213D
 @v      tu₁₁⁺
@@ -10363,17 +10411,17 @@
 @end sign
 
 @sign	|HUB₂×KASKAL|
-@list BAU282
 @list LAK477
+@list BAU282
 @uphase	1
 @uname	CUNEIFORM SIGN HUB2 TIMES KASKAL
 @ucode	x1213B
 @end sign
 
 @sign	|HUB₂×UD|
+@list LAK476
 @list RSP425
 @list HZL050
-@list LAK476
 @list MZL150
 @list OBZL446
 @list SLLHA089
@@ -10392,9 +10440,9 @@
 @end sign
 
 @sign	HUL₂
+@list LAK183
 @list RSP122
 @list HZL254
-@list LAK183
 @list MZL877
 @list OBZL425
 @list SLLHA550
@@ -10429,9 +10477,9 @@
 @end sign
 
 @sign	I
+@list LAK135
 @list BAU085
 @list HZL217
-@list LAK135
 @list MZL252
 @list OBZL192
 @list SLLHA142
@@ -10484,10 +10532,10 @@
 @end sign
 
 @sign	IB
+@list LAK755
 @list RSP103
 @list BAU260
 @list HZL044
-@list LAK755
 @list MZL807
 @list OBZL394
 @list SLLHA535
@@ -10513,8 +10561,8 @@
 @end sign
 
 @sign	IDIM
-@list RSP048
 @list LAK004
+@list RSP048
 @list MZL113b
 @uphase	1
 @uname	CUNEIFORM SIGN IDIM
@@ -10538,6 +10586,7 @@
 @v	uri₄
 @v	urumₓ
 @form ~a BAD
+@list LAK016
 @list RSP048bis
 @list BAU009
 @v    	eše₃ [Ass 00523 = dcclt/signlists:P370411 o ii 1]
@@ -10582,10 +10631,10 @@
 @end sign
 
 @sign	IG
+@list LAK082
 @list RSP270
 @list BAU063
 @list HZL067
-@list LAK082
 @list MZL136
 @list OBZL061
 @list SLLHA080
@@ -10616,11 +10665,11 @@
 @end sign
 
 @sign	IGI
+@list LAK421
 @list RSP066
 @list BAU185
 @list BAU240
 @list HZL288
-@list LAK421
 @list MZL724
 @list OBZL233
 @list SLLHA449
@@ -10683,12 +10732,12 @@
 @end sign
 
 @sign	|IGI.DIB|
+@list LAK432
 @list RSP070
 @list HZL265
 @list MZL731
 @list OBZL239b
 @list SLLHA455
-@list LAK432
 @uphase	1
 @uname	CUNEIFORM SIGN IGI DIB
 @ucode	x12147
@@ -10721,9 +10770,9 @@
 @end sign
 
 @sign	|IGI.DUB|
+@list LAK427
 @list RSP072
 @list HZL291
-@list LAK427
 @list MZL727
 @list OBZL237
 @list SLLHA452v1
@@ -10775,9 +10824,9 @@
 @end sign
 
 @sign	|IGI.EŠ₂|
+@list LAK434
 @list BAU244
 @list HZL265
-@list LAK434
 @list MZL732
 @list OBZL239a
 @list SLLHA455
@@ -10811,8 +10860,8 @@
 @end sign
 
 @sign	|IGI.GAR|
-@list RSP068
 @list LAK435
+@list RSP068
 @list MZL735
 @list SLLHA449_244
 @list KWU561
@@ -10868,6 +10917,7 @@
 @ucode	x12146.x12244
 @v	ilduₓ
 @form ~a NAGAR
+@list LAK512
 @list RSP177
 @list BAU408
 @end sign
@@ -10883,8 +10933,8 @@
 @end sign
 
 @sign	|IGI.RI|
-@list HZL289
 @list LAK422
+@list HZL289
 @list MZL726
 @list OBZL234
 @list SLLHA451
@@ -10897,10 +10947,10 @@
 @end sign
 
 @sign	|IGI.RU|
+@list LAK423
 @list RSP074
 @list BAU243
 @list HZL292
-@list LAK423
 @list MZL725
 @list OBZL235
 @list SLLHA450
@@ -10921,9 +10971,9 @@
 @end sign
 
 @sign	|IGI.UR|
+@list LAK428
 @list RSP071
 @list HZL290
-@list LAK428
 @list MZL733
 @list OBZL240
 @list SLLHA456
@@ -10979,10 +11029,11 @@
 @end sign
 
 @sign	IGI@g
+@list LAK167
+@list LAK437
 @list RSP067
 @list BAU245
 @list HZL239
-@list LAK437
 @list MZL564
 @list OBZL198
 @list SLLHA351
@@ -11035,10 +11086,11 @@
 @end sign
 
 @sign	IL
+@list LAK501
+@list LAK502
 @list RSP374
 @list BAU380
 @list HZL117
-@list LAK502
 @list MZL348
 @list OBZL078
 @list SLLHA205
@@ -11062,10 +11114,10 @@
 @end sign
 
 @sign	IL₂
+@list LAK172?
 @list RSP432
 @list BAU412
 @list HZL161
-@list LAK172?
 @list MZL493
 @list OBZL204
 @list SLLHA320
@@ -11093,10 +11145,10 @@
 @end sign
 
 @sign	IM
+@list LAK376
 @list RSP331
 @list BAU388
 @list HZL337
-@list LAK376
 @list MZL641
 @list OBZL297
 @list SLLHA399
@@ -11141,6 +11193,7 @@
 @v	tum₉
 @v	tumu
 @form ~a NI₂
+@list LAK377
 @list BAU389
 @inote ur-{d}iškur(LAK377) in P250715 l.3
 @end sign
@@ -11259,11 +11312,11 @@
 @end sign
 
 @sign	|IM×TAK₄|
+@list LAK378
 @list RSP332
 @list MZL642
 @list SLLHA399_51
 @list KWU477
-@list LAK378
 @uphase	1
 @uname	CUNEIFORM SIGN IM TIMES TAK4
 @ucode	x1214F
@@ -11338,8 +11391,8 @@
 @end sign
 
 @sign	IN
-@list HZL354
 @list LAK214
+@list HZL354
 @list MZL261
 @list OBZL386
 @list SLLHA148
@@ -11358,10 +11411,10 @@
 @end sign
 
 @sign	IR
+@list LAK507
 @list RSP151
 @list BAU411
 @list HZL077
-@list LAK507
 @list MZL437
 @list OBZL263
 @list SLLHA232
@@ -11380,11 +11433,11 @@
 @end sign
 
 @sign	IŠ
+@list LAK163
 @list RSP123
 @list BAU104
 @list BAU105
 @list HZL151
-@list LAK163
 @list MZL357
 @list OBZL162
 @list SLLHA212
@@ -11427,10 +11480,10 @@
 @end sign
 
 @sign	KA
+@list LAK318
 @list RSP197
 @list BAU233
 @list HZL133
-@list LAK318
 @list MZL024
 @list OBZL312
 @list SLLHA015
@@ -11493,9 +11546,9 @@
 @v	zug₂
 @v	zuh
 @form ~a	|KA×U|
+@list LAK319
 @ucode x12187
 @list HZL141
-@list LAK319
 @list MZL056
 @list SLLHA031n1
 @v	kaₓ
@@ -11581,10 +11634,10 @@
 @end sign
 
 @sign	|KA×A|
+@list LAK331
 @list RSP199
 @list BAU232
 @list HZL148
-@list LAK331
 @list MZL064
 @list OBZL328
 @list SLLHA035
@@ -11695,6 +11748,7 @@
 @v	šidₓ
 @v	šigₓ
 @form ~a KA
+@list LAK318
 @list RSP197
 @list BAU233
 @v      še₂₆⁻
@@ -11770,8 +11824,8 @@
 @end sign
 
 @sign	|KA×GAN₂@t|
-@list BAU234
 @list LAK324
+@list BAU234
 @list MZL033
 @list OBZL321
 @list SLLHA019
@@ -11799,6 +11853,7 @@
 @inote dcclt !sg
 @end form
 @form ~b |KA×ŠU|
+@list LAK323
 @list RSP201
 @end sign
 
@@ -11813,10 +11868,10 @@
 @end sign
 
 @sign	|KA×GAR|
+@list LAK330
 @list RSP200
 @list BAU231
 @list HZL149
-@list LAK330
 @list MZL065
 @list OBZL329
 @list SLLHA036
@@ -11832,6 +11887,7 @@
 @v	tukurₓ
 @inote tukur[chew] collated from https://cdli.ucla.edu/dl/photo/P231774.jpg
 @form ~a KA
+@list LAK318
 @list RSP197
 @list BAU233
 @v	gu₇
@@ -11951,9 +12007,9 @@
 @end sign
 
 @sign	|KA×IM|
+@list LAK326
 @list RSP203
 @list HZL144
-@list LAK326
 @list MZL054
 @list OBZL322
 @list SLLHA030
@@ -12096,9 +12152,9 @@
 @end sign
 
 @sign	|KA×ME|
+@list LAK334
 @list RSP198
 @list HZL147
-@list LAK334
 @list MZL061
 @list OBZL326
 @list SLLHA032
@@ -12210,8 +12266,8 @@
 @end sign
 
 @sign	|KA×SA|
-@list HZL136
 @list LAK333
+@list HZL136
 @list MZL032
 @list OBZL316
 @list SLLHA018x
@@ -12228,9 +12284,9 @@
 @v	sun₄
 @v	tunₓ
 @form ~a	|KA×GAN₂@t|
+@list LAK324
 @list BAU234
 @ucode x12164
-@list LAK324
 @list MZL033
 @list OBZL321
 @list SLLHA019
@@ -12239,6 +12295,7 @@
 @form ~b	LAK328
 @end form
 @form ~c	LAK332
+@list LAK332
 @end form
 @form ~d	|KA×(U.U.U)|
 @end form
@@ -12251,9 +12308,9 @@
 @end sign
 
 @sign	|KA×SAR|
+@list LAK325
 @list RSP207
 @list BAU235
-@list LAK325
 @list MZL045
 @list OBZL324
 @list SLLHA021
@@ -12287,9 +12344,9 @@
 @end sign
 
 @sign	|KA×ŠE|
+@list LAK322
 @list RSP205
 @list HZL145
-@list LAK322
 @list MZL050
 @list OBZL323
 @list SLLHA027
@@ -12331,8 +12388,8 @@
 @end sign
 
 @sign	|KA×ŠU|
-@list RSP201
 @list LAK323
+@list RSP201
 @list MZL049
 @list OBZL320
 @list SLLHA026
@@ -12354,6 +12411,7 @@
 @v	šušudi
 @v	ušₓ
 @form ~a |KA×GAN₂@t|
+@list LAK324
 @list BAU234
 @end sign
 
@@ -12387,8 +12445,8 @@
 @end sign
 
 @sign	|KA×U|
-@list HZL141
 @list LAK319
+@list HZL141
 @list MZL056
 @list SLLHA031n1
 @uphase	1
@@ -12397,8 +12455,8 @@
 @end sign
 
 @sign	|KA×U₂|
-@list RSP204
 @list LAK321
+@list RSP204
 @list MZL043
 @list SLLHA024x
 @list KWU420
@@ -12500,11 +12558,11 @@
 @end sign
 
 @sign	KA₂
+@list LAK735
 @list RSP135
 @list BAU363
 @list BAU364
 @list HZL167
-@list LAK735
 @list MZL222
 @list OBZL175
 @list SLLHA133
@@ -12552,11 +12610,12 @@
 @end sign
 
 @sign	KAB
+@list LAK147
+@list LAK474
 @list BAU099
 @list BAU100
 @list BAU281
 @list HZL049
-@list LAK474
 @list MZL148
 @list OBZL226
 @list SLLHA088
@@ -12626,10 +12685,10 @@
 @end sign
 
 @sign	KAD₄
+@list LAK171?
 @list RSP430
 @list HZL068
 @list KWU316
-@list LAK171?
 @list MZL568
 @list OBZL227a
 @list SLLHA354b
@@ -12661,6 +12720,7 @@
 @end sign
 
 @sign	KAD₅
+@list LAK173
 @list LAK173?
 @list MZL569
 @list OBZL227b
@@ -12704,10 +12764,10 @@
 @end sign
 
 @sign	KAK
+@list LAK504
 @list RSP147
 @list BAU392
 @list HZL075
-@list LAK504
 @list MZL379
 @list OBZL260
 @list SLLHA230
@@ -12755,10 +12815,10 @@
 @end sign
 
 @sign	KAL
+@list LAK709b
 @list RSP237
 @list BAU326
 @list HZL196
-@list LAK709b
 @list MZL496
 @list OBZL176
 @list SLLHA322
@@ -12823,6 +12883,7 @@
 @v?	zi₈
 @v	zurzub₂
 @form ~a GURUŠ
+@list LAK709a
 @list BAU308
 @v	lamma
 @inote in SF 1 GURUŠ is used for lammar (col i et passim); KAL is used for KAL/RIB (col x 20-21)
@@ -12890,10 +12951,10 @@
 @end sign
 
 @sign	KASKAL
+@list LAK273
 @list RSP116
 @list BAU128
 @list HZL259
-@list LAK273
 @list MZL302
 @list OBZL271
 @list SLLHA166
@@ -12942,8 +13003,8 @@
 @end sign
 
 @sign	|KASKAL.GA|
-@list RSP117
 @list LAK275
+@list RSP117
 @ucode	x1219C.x120B5
 @v	gaeš₂
 @v	gaiš₂
@@ -13022,9 +13083,9 @@
 @end sign
 
 @sign	KEŠ₂
+@list LAK612
 @list RSP285
 @list BAU307
-@list LAK612
 @list KWU841
 @uphase	1
 @uname	CUNEIFORM SIGN KESH2
@@ -13045,15 +13106,16 @@
 @v	kiš₂
 @v	kiši₂
 @form ~a EZEN
+@list LAK611
 @list RSP284
 @list BAU298
 @end sign
 
 @sign	KI
+@list LAK440
 @list RSP165
 @list BAU191
 @list HZL313
-@list LAK440
 @list MZL737
 @list OBZL432
 @list SLLHA461
@@ -13441,10 +13503,10 @@
 @end sign
 
 @sign	KID
+@list LAK733
 @list RSP252
 @list BAU366
 @list HZL194
-@list LAK733
 @list MZL484
 @list OBZL163
 @list SLLHA313
@@ -13482,6 +13544,7 @@
 @v	ših₂
 @v	ṣah₂
 @form ~a E₂
+@list LAK732
 @list RSP250
 @list BAU365
 @v	lil₂
@@ -13514,11 +13577,11 @@
 @end sign
 
 @sign	KIN
+@list LAK174
 @list RSP394
 @list BAU111
 @list BAU112
 @list HZL047
-@list LAK174
 @list MZL815
 @list OBZL447
 @list SLLHA538
@@ -13572,10 +13635,10 @@
 @end sign
 
 @sign	KISAL
+@list LAK723
 @list RSP249
 @list BAU357
 @list HZL228
-@list LAK723
 @list MZL435
 @list OBZL161
 @list SLLHA249
@@ -13616,8 +13679,8 @@
 @end sign
 
 @sign	KIŠ
-@list HZL273
 @list LAK248
+@list HZL273
 @list MZL678
 @list OBZL291a
 @list SLLHA425
@@ -13795,10 +13858,10 @@
 @end sign
 
 @sign	KU₃
+@list LAK438
 @list RSP385
 @list BAU182
 @list HZL069
-@list LAK438
 @list MZL745
 @list OBZL428
 @list SLLHA468
@@ -13871,10 +13934,10 @@
 @end sign
 
 @sign	KU₇
-@list RSP222
-@list HZL184
 @list LAK535
 @list LAK801
+@list RSP222
+@list HZL184
 @list MZL171
 @list OBZL070
 @list SLLHA110
@@ -13921,11 +13984,11 @@
 @end sign
 
 @sign	KUL
+@list LAK012
 @list RSP085
 @list RSP086
 @list BAU041
 @list HZL012
-@list LAK012
 @list MZL117
 @list OBZL026
 @list SLLHA072
@@ -13965,10 +14028,10 @@
 @end sign
 
 @sign	KUN
-@list RSP343
-@list HZL035
 @list LAK026
 @list LAK754
+@list RSP343
+@list HZL035
 @list MZL131
 @list OBZL032
 @list SLLHA077
@@ -13986,9 +14049,9 @@
 @v	[...]nunnam...
 @v	qun
 @form ~a	MAŠ₂
+@list LAK043
 @list BAU046
 @list HZL038
-@list LAK043
 @list MZL130
 @list OBZL031
 @list SLLHA076
@@ -14000,10 +14063,10 @@
 @end sign
 
 @sign	KUR
+@list LAK814
 @list RSP065
 @list BAU418
 @list HZL329
-@list LAK814
 @list MZL578
 @list OBZL369
 @list SLLHA366
@@ -14087,11 +14150,11 @@
 @end sign
 
 @sign	KUŠU₂
+@list LAK304
 @list MZL896
 @list OBZL457
 @list SLLHA562
 @list KWU794
-@list LAK304
 @uphase	1
 @uname	CUNEIFORM SIGN KUSHU2
 @ucode	x121B5
@@ -14159,11 +14222,11 @@
 @end sign
 
 @sign	LA
+@list LAK663
 @list RSP308
 @list BAU205
 @list BAU287
 @list HZL095
-@list LAK663
 @list MZL089
 @list OBZL177
 @list SLLHA055
@@ -14182,10 +14245,10 @@
 @end sign
 
 @sign	LAGAB
+@list LAK766
 @list RSP229
 @list BAU261
 @list HZL179
-@list LAK766
 @list MZL755
 @list OBZL402
 @list SLLHA483
@@ -14259,8 +14322,8 @@
 @end sign
 
 @sign	|LAGAB.LAGAB|
-@list RSP230
 @list LAK767
+@list RSP230
 @list MZL804
 @list OBZL403
 @list SLLHA529
@@ -14309,10 +14372,10 @@
 @end sign
 
 @sign	|LAGAB×A|
+@list LAK785
 @list RSP263
 @list BAU271
 @list HZL182
-@list LAK785
 @list MZL795
 @list OBZL414
 @list SLLHA522
@@ -14392,11 +14455,11 @@
 @v	bunin₄
 @end form
 @form ~e	|LAGAB×HAL|
+@list LAK768
 @list RSP264
 @list BAU263
 @list BAU319
 @list HZL216
-@list LAK768
 @list MZL756
 @list OBZL404
 @list SLLHA484
@@ -14418,10 +14481,11 @@
 @v	kunin
 @end form
 @form ~g	A
+@list LAK795
+@list LAK797
 @list RSP051
 @list RSP349
 @list BAU416
-@list LAK797
 @list MZL839
 @list KWU901
 @uphase	1
@@ -14639,6 +14703,7 @@
 @end sign
 
 @sign	|LAGAB×(GUD&GUD)|
+@list LAK781
 @list RSP258
 @list BAU265
 @list HZL045
@@ -14687,11 +14752,11 @@
 @end sign
 
 @sign	|LAGAB×HAL|
+@list LAK768
 @list RSP264
 @list BAU263
 @list BAU319
 @list HZL216
-@list LAK768
 @list MZL756
 @list OBZL404
 @list SLLHA484
@@ -14923,8 +14988,8 @@
 @end sign
 
 @sign	|LAGAB×IGI@g|
-@list RSP265
 @list LAK782
+@list RSP265
 @list MZL776
 @list OBZL409
 @uphase	1
@@ -14946,6 +15011,7 @@
 @end sign
 
 @sign	|LAGAB×SUM|
+@list LAK783
 @list RSP268
 @list HZL181
 @list MZL767
@@ -15115,6 +15181,7 @@
 @v	ṭul
 @v	ub₄
 @form ~a |LAGAB×TIL|
+@list LAK770
 @v	pu₂
 @end sign
 
@@ -15231,9 +15298,9 @@
 @end	sign
 
 @sign	LAGAR
+@list LAK306
 @list RSP140
 @list HZL186
-@list LAK306
 @list MZL719
 @list OBZL308
 @list SLLHA458
@@ -15252,8 +15319,8 @@
 @end sign
 
 @sign	|LAGAR×ŠE|
-@list RSP146
 @list LAK303
+@list RSP146
 @list MZL722
 @list OBZL307
 @list SLLHA460v
@@ -15286,8 +15353,9 @@
 @end sign
 
 @sign	LAGAR@g
-@list HZL211
+@list LAK301
 @list LAK302
+@list HZL211
 @list MZL721
 @list OBZL311
 @list SLLHA459a
@@ -15743,8 +15811,8 @@
 @end	sign
 
 @sign	|LAK449×(U₂.BA)|
-@list RSP354
 @list LAK452
+@list RSP354
 @uphase	9
 @ucode x124F6
 @uname	CUNEIFORM SIGN LAK449 TIMES U2 PLUS BA
@@ -15859,8 +15927,8 @@
 @end	sign
 
 @sign	|LAK617×AŠ|
-@list BAU301
 @list LAK618
+@list BAU301
 @uphase	9
 @ucode x12502
 @uname	CUNEIFORM SIGN LAK617 TIMES ASH
@@ -15871,8 +15939,8 @@
 @end sign
 
 @sign	|LAK617×BAD|
-@list BAU302
 @list LAK619
+@list BAU302
 @uphase	9
 @ucode x12503
 @uname	CUNEIFORM SIGN LAK617 TIMES BAD
@@ -15886,9 +15954,9 @@
 @end	sign
 
 @sign	|LAK617×LA|
+@list LAK621
 @list RSP288
 @list BAU305
-@list LAK621
 @uphase	9
 @ucode x12506
 @uname	CUNEIFORM SIGN LAK617 TIMES LA
@@ -16087,6 +16155,7 @@
 @end	sign
 
 @sign	|LAK648×NI|
+@list LAK715
 @pname	|URU×MIN+NI|
 @uphase	0
 @ucode x12512
@@ -16120,10 +16189,10 @@
 @end sign
 
 @sign	LAL
+@list LAK756
 @list RSP040
 @list BAU292
 @list HZL358
-@list LAK756
 @list MZL750
 @list OBZL391
 @list SLLHA481
@@ -16174,6 +16243,7 @@
 @end sign
 
 @sign	|LAL.SAR|
+@list LAK757
 @ucode	x121F2.x122AC
 @v	nanga₄
 @v	nigin₉
@@ -16185,8 +16255,8 @@
 @end sign
 
 @sign	LAL₂
-@list HZL362
 @list LAK760
+@list HZL362
 @list MZL751
 @list SLLHA482
 @list KWU662
@@ -16311,6 +16381,7 @@
 @end sign
 
 @sign	|LAL₂.SAR|
+@list LAK761
 @list RSP042
 @ucode	x121F3.x122AC
 @v	nanga₃
@@ -16325,10 +16396,10 @@
 @end sign
 
 @sign	LAM
+@list LAK189
 @list RSP184
 @list BAU120
 @list HZL306
-@list LAK189
 @list MZL693
 @list OBZL244
 @list SLLHA435
@@ -16346,8 +16417,8 @@
 @end sign
 
 @sign	|LAM×KUR|
-@list BAU121
 @list LAK190
+@list BAU121
 @list MZL694
 @list SLLHA436
 @uphase	1
@@ -16387,11 +16458,11 @@
 @end sign
 
 @sign	LI
+@list LAK206
 @list RSP421
 @list RSP445
 @list BAU131
 @list HZL343
-@list LAK206
 @list MZL085
 @list OBZL381
 @list SLLHA059
@@ -16410,9 +16481,9 @@
 @end sign
 
 @sign	LIL
+@list LAK208
 @list RSP127
 @list HZL127
-@list LAK208
 @list KWU147
 @list MZL544
 @list OBZL091
@@ -16484,9 +16555,9 @@
 @end sign
 
 @sign	LIŠ
+@list LAK279
 @list RSP046
 @list HZL286
-@list LAK279
 @list MZL591
 @list OBZL232
 @list SLLHA377
@@ -16507,6 +16578,7 @@
 @end sign
 
 @sign	LU
+@list LAK775
 @list RSP260
 @list BAU272
 @list HZL210
@@ -16570,10 +16642,10 @@
 @end sign
 
 @sign	LU₂
+@list LAK337
 @list RSP396
 @list BAU236
 @list HZL078
-@list LAK337
 @list MZL514
 @list OBZL253
 @list SLLHA330
@@ -16689,9 +16761,9 @@
 @end sign
 
 @sign	|LU₂×BAD|
+@list LAK344
 @list RSP397
 @list BAU237
-@list LAK344
 @list MZL517
 @list OBZL256
 @list SLLHA330_6
@@ -17085,9 +17157,9 @@
 @end sign
 
 @sign	LU₃
+@list LAK790
 @list RSP257
 @list BAU288
-@list LAK790
 @list MZL555
 @list OBZL216
 @list SLLHA345
@@ -17118,9 +17190,9 @@
 @end sign
 
 @sign	LUGAL
+@list LAK165
 @list RSP130
 @list HZL115
-@list LAK165
 @list MZL266
 @list OBZL221a
 @list SLLHA151
@@ -17205,8 +17277,8 @@
 @end sign
 
 @sign	LUGAL@s
-@note Listed in LAK with reference to a Nebuchadnezzar text. Probably an exceptional (late) form in archaizing text.
 @list LAK166
+@note Listed in LAK with reference to a Nebuchadnezzar text. Probably an exceptional (late) form in archaizing text.
 @uphase	1
 @uname	CUNEIFORM SIGN LUGAL SHESHIG
 @ucode	x1221A
@@ -17214,10 +17286,10 @@
 @end sign
 
 @sign	LUH
+@list LAK168
 @list RSP131
 @list BAU092
 @list HZL198
-@list LAK168
 @list MZL494
 @list OBZL196
 @list SLLHA321
@@ -17246,11 +17318,11 @@
 @end sign
 
 @sign	LUL
+@list LAK242
+@list LAK243
 @list RSP468
 @list BAU103a
 @list BAU160
-@list LAK242
-@list LAK243
 @list MZL570
 @list OBZL296
 @list SLLHA355
@@ -17331,10 +17403,10 @@
 @end sign
 
 @sign	LUM
+@list LAK194
 @list RSP138
 @list BAU123
 @list HZL310
-@list LAK194
 @list MZL900
 @list OBZL248
 @list SLLHA565
@@ -17415,11 +17487,11 @@
 @end sign
 
 @sign	MA
+@list LAK034
 @list RSP289
 @list BAU028
 @list BAU079
 @list HZL208
-@list LAK034
 @list MZL552
 @list OBZL166
 @list SLLHA342
@@ -17445,9 +17517,9 @@
 @end sign
 
 @sign	MA@g
+@list LAK035
 @list RSP290
 @list HZL219
-@list LAK035
 @list MZL270
 @list OBZL218
 @list SLLHA146
@@ -17460,9 +17532,9 @@
 @end sign
 
 @sign	MA₂
+@list LAK529
 @list RSP294
 @list HZL087
-@list LAK529
 @list MZL201
 @list OBZL050
 @list SLLHA122
@@ -17522,9 +17594,9 @@
 @end sign
 
 @sign	MAH
+@list LAK057
 @list RSP368
 @list HZL010
-@list LAK057
 @list MZL091
 @list OBZL006
 @list SLLHA057
@@ -17544,10 +17616,10 @@
 @end sign
 
 @sign	MAR
+@list LAK126
 @list RSP115
 @list BAU078
 @list HZL191
-@list LAK126
 @list MZL483
 @list OBZL144
 @list SLLHA307
@@ -17568,11 +17640,11 @@
 @end sign
 
 @sign	MAŠ
+@list LAK042
 @list RSP019
 @list RSP047
 @list BAU045
 @list HZL020
-@list LAK042
 @list MZL120
 @list OBZL029
 @list SLLHA074
@@ -17620,11 +17692,11 @@
 @end sign
 
 @sign	|MAŠ.GU₂.GAR₃|
+@list LAK063b
 @list RSP347
 @list HZL253
 @list KWU104
 @list KWU105
-@list LAK063b
 @list MZL124
 @list SLLHA074_238
 @list OBZL030
@@ -17696,9 +17768,9 @@
 @end sign
 
 @sign	MAŠ₂
+@list LAK043
 @list BAU046
 @list HZL038
-@list LAK043
 @list MZL130
 @list OBZL031
 @list SLLHA076
@@ -17715,10 +17787,10 @@
 @end sign
 
 @sign	ME
+@list LAK750
 @list RSP045
 @list BAU289
 @list HZL357
-@list LAK750
 @list MZL753
 @list OBZL392
 @list SLLHA532
@@ -17773,6 +17845,7 @@
 @end sign
 
 @sign	MES
+@list LAK127?
 @list RSP277
 @list BAU077
 @list HZL112
@@ -17806,10 +17879,10 @@
 @end sign
 
 @sign	MI
+@list LAK391
 @list RSP120
 @list BAU173
 @list HZL267
-@list LAK391
 @list MZL681
 @list OBZL348
 @list SLLHA427
@@ -17871,9 +17944,9 @@
 @end	sign
 
 @sign	MIN
+@list LAK417
 @list RSP039
 @list HZL361
-@list LAK417
 @list MZL825
 @list OBZL465
 @list SLLHA570
@@ -17892,10 +17965,10 @@
 @end sign
 
 @sign	MU
+@list LAK014
 @list RSP438
 @list BAU026
 @list HZL017
-@list LAK014
 @list MZL098
 @list OBZL020
 @list SLLHA061
@@ -17943,9 +18016,9 @@
 @end sign
 
 @sign	|MU&MU|
+@list LAK015
 @list RSP439
 @list HZL171
-@list LAK015
 @list MZL301
 @list OBZL142
 @list SLLHA169
@@ -17959,15 +18032,16 @@
 @v	tuh₂
 @v	ṭah
 @form ~a |ŠE&ŠE|
+@list LAK200
 @ucode x12532
 @inote Nisaba 25 p.29
 @end form
 @end sign
 
 @sign	MUG
+@list LAK048
 @list RSP168
 @list HZL022
-@list LAK048
 @list MZL012
 @list OBZL012
 @list SLLHA003
@@ -18054,6 +18128,7 @@
 @v	mur₇
 @v	murgu₂
 @form ~a SIG₄
+@list LAK188
 @list RSP114
 @list BAU206
 @v	ŋur₂₃
@@ -18079,11 +18154,11 @@
 @end sign
 
 @sign	MUŠ
+@list LAK235
 @list RSP337
 @list BAU152
 @list BAU153
 @list HZL342
-@list LAK235
 @list MZL585
 @list OBZL267
 @list SLLHA374
@@ -18194,8 +18269,8 @@
 @end sign
 
 @sign	|MUŠ%MUŠ|
-@list RSP338
 @list LAK236
+@list RSP338
 @uphase	1
 @uname	CUNEIFORM SIGN MUSH CROSSING MUSH
 @ucode	x12238
@@ -18241,10 +18316,10 @@
 @end sign
 
 @sign	MUŠ₃
+@list LAK462
 @list RSP098
 @list BAU249
 @list HZL041
-@list LAK462
 @list MZL153
 @list OBZL044
 @list SLLHA103v
@@ -18527,10 +18602,10 @@
 @end sign
 
 @sign	NA
+@list LAK022
 @list RSP340
 @list BAU022
 @list HZL015
-@list LAK022
 @list MZL110
 @list OBZL024
 @list SLLHA070
@@ -18552,10 +18627,10 @@
 @end sign
 
 @sign	NA₂
+@list LAK221
 @list RSP402
 @list BAU155
 @list HZL314
-@list LAK221
 @list MZL689
 @list OBZL364
 @list SLLHA431
@@ -18581,9 +18656,9 @@
 @end sign
 
 @sign	NAGA
+@list LAK209
 @list RSP448
 @list BAU132
-@list LAK209
 @list MZL293
 @list OBZL377
 @list SLLHA165
@@ -18669,10 +18744,10 @@
 @end sign
 
 @sign	NAGAR
+@list LAK512
 @list RSP177
 @list BAU408
 @list HZL308
-@list LAK512
 @list MZL893
 @list OBZL449
 @list SLLHA560
@@ -18715,10 +18790,10 @@
 @end sign
 
 @sign	NAM
+@list LAK071
 @list RSP413
 @list BAU038
 @list HZL039
-@list LAK071
 @list MZL134
 @list OBZL042
 @list SLLHA079
@@ -18763,8 +18838,8 @@
 @end sign
 
 @sign	NAM₂
-@list BAU385a
 @list LAK792
+@list BAU385a
 @uphase	1
 @uname	CUNEIFORM SIGN NAM2
 @ucode	x12247
@@ -18781,9 +18856,9 @@
 @end sign
 
 @sign	NE
+@list LAK148
 @list RSP362
 @list HZL169
-@list LAK148
 @list MZL313
 @list OBZL116
 @list SLLHA172
@@ -18936,6 +19011,7 @@
 @inote dcclt !sg
 @end form
 @form ~b |NE×PAP|
+@list LAK149
 @inote dcclt !sg
 @end form
 @form ~c |NE.PAP.BAU377|
@@ -18974,14 +19050,15 @@
 @v    bilₓ
 @end form
 @form ~l |NE×KASKAL|
+@list LAK150
 @end form
 @end sign
 
 @sign	NI
+@list LAK506
 @list RSP148
 @list BAU406
 @list HZL072
-@list LAK506
 @list MZL380
 @list OBZL261
 @list SLLHA231
@@ -19060,9 +19137,9 @@
 @end sign
 
 @sign	|NI.TUK|
+@list LAK514
 @list RSP150
 @list BAU409
-@list LAK514
 @ucode	x1224C.x12307
 @v	delmun
 @v	dilmun
@@ -19072,10 +19149,10 @@
 @end sign
 
 @sign	|NI.UD|
+@list LAK511
 @list RSP149
 @list BAU407
 @list HZL073
-@list LAK511
 @list MZL385
 @list OBZL262
 @list SLLHA229n
@@ -19122,8 +19199,8 @@
 @end sign
 
 @sign	NI₂
-@list BAU389
 @list LAK377
+@list BAU389
 @uphase	1
 @uname	CUNEIFORM SIGN NI2
 @ucode	x1224E
@@ -19150,10 +19227,11 @@
 @end sign
 
 @sign	NIM
+@list LAK270
+@list LAK271
 @list RSP390
 @list BAU141?
 @list HZL074
-@list LAK271
 @list MZL690
 @list OBZL355
 @list SLLHA433
@@ -19186,9 +19264,9 @@
 @end sign
 
 @sign	|NIM×GAN₂@t|
+@list LAK272
 @list RSP391
 @list HZL279
-@list LAK272
 @list MZL691
 @list OBZL356
 @list SLLHA434
@@ -19202,6 +19280,8 @@
 @v	tum₃
 @v	tumu₃
 @form ~a NIM
+@list LAK270
+@list LAK271
 @list RSP390
 @list BAU141?
 @v      tum₃⁻
@@ -19240,9 +19320,9 @@
 @end sign
 
 @sign	NINDA₂
+@list LAK095
 @list RSP105
 @list HZL119
-@list LAK095
 @list MZL316
 @list OBZL135
 @list SLLHA176
@@ -19389,10 +19469,10 @@
 @end sign
 
 @sign	|NINDA₂×NE|
+@list LAK109
 @list RSP109
 @list BAU068
 @list HZL121
-@list LAK109
 @list MZL326
 @list OBZL136
 @list SLLHA183
@@ -19419,6 +19499,7 @@
 @end sign
 
 @sign	|NINDA₂×NUMUN|
+@list LAK096
 @v	nindaₓ [IM 051144 = dcclt:P247864 o ii 58]
 @end sign
 
@@ -19439,9 +19520,10 @@
 @end sign
 
 @sign	|NINDA₂×ŠE|
+@list LAK105
+@list LAK108
 @list RSP108
 @list BAU066
-@list LAK108
 @list SLLHA187v5
 @list KWU160
 @uphase	1
@@ -19581,10 +19663,10 @@
 @end sign
 
 @sign	NISAG
+@list LAK159
 @list RSP137
 @list BAU106
 @list BAU154
-@list LAK159
 @list MZL546
 @list OBZL207a
 @list SLLHA337xx
@@ -19605,11 +19687,11 @@
 @end sign
 
 @sign	NU
+@list LAK036
 @list RSP075
 @list BAU020
 @list BAU044
 @list HZL011
-@list LAK036
 @list MZL112
 @list OBZL019
 @list SLLHA075
@@ -19628,9 +19710,9 @@
 @end sign
 
 @sign	NU₁₁
+@list LAK024
 @list RSP341
 @list BAU017
-@list LAK024
 @list MZL115b
 @list KWU042
 @lit	Krebernik OBO 160/1, 276
@@ -19724,11 +19806,11 @@
 @end sign
 
 @sign	NUN
+@list LAK076
 @list RSP094
 @list RSP097
 @list BAU058
 @list HZL036
-@list LAK076
 @list MZL143
 @list OBZL047
 @list SLLHA087
@@ -19768,10 +19850,10 @@
 @end sign
 
 @sign	|NUN.LAGAR|
+@list LAK078
 @list RSP186
 @list BAU060
 @list HZL034
-@list LAK078
 @list MZL145
 @list OBZL048
 @list SLLHA087a
@@ -19788,6 +19870,7 @@
 @v-	šurumₓ
 @v	tur₃
 @form ~a LAK077
+@list LAK077
 @v	šilamₓ
 @inote not clear that LAK077 and LAK078 need to be differentiated.
 @end form
@@ -19839,6 +19922,7 @@
 @v	uš₆
 @end form
 @form ~b |NUN.LAGAR|
+@list LAK078
 @list RSP186
 @list BAU060
 @ucode x12263.x121EC
@@ -19908,10 +19992,10 @@
 @end sign
 
 @sign	|NUN&NUN|
+@list LAK122
 @list RSP102
 @list BAU059
 @list HZL204
-@list LAK122
 @list MZL502
 @list OBZL148
 @list SLLHA325
@@ -20015,10 +20099,11 @@
 @end sign
 
 @sign	NUNUZ
+@list LAK364
+@list LAK813
 @list RSP348
 @list RSP349
 @list BAU082a
-@list LAK364
 @list KWU532
 @uphase	1
 @uname	CUNEIFORM SIGN NUNUZ
@@ -20045,16 +20130,17 @@
 @end sign
 
 @sign	|NUNUZ.AB₂|
-@list RSP350
 @list LAK449
+@list RSP350
 @ucode	x1226D.x12016
 @v	nisagga
 @form ~b LAK449b
+@list LAK449b
 @end sign
 
 @sign	|NUNUZ.AB₂×AŠGAB|
-@list RSP352
 @list LAK451
+@list RSP352
 @list MZL619
 @list OBZL373
 @list SLLHA394c
@@ -20141,6 +20227,7 @@
 @v	mudₓ
 @v	usagₓ
 @form	~a LAK450
+@list LAK450
 @uphase	9
 @ucode x124F7
 @uname	CUNEIFORM SIGN LAK450
@@ -20247,10 +20334,10 @@
 @end sign
 
 @sign	PA
+@list LAK121
 @list RSP056
 @list BAU072
 @list HZL174
-@list LAK121
 @list MZL464
 @list OBZL143
 @list SLLHA295
@@ -20472,8 +20559,8 @@
 @end sign
 
 @sign	|PA.IB|
-@list HZL175
 @list LAK129?
+@list HZL175
 @list MZL466
 @list SLLHA295k
 @list KWU198
@@ -20651,11 +20738,11 @@
 @end sign
 
 @sign	PAD
+@list LAK398
 @list RSP171
 @list BAU180
 @list BAU218
 @list HZL295
-@list LAK398
 @list MZL746
 @list OBZL362
 @list SLLHA469
@@ -20718,9 +20805,9 @@
 @end sign
 
 @sign	PAN
+@list LAK038
 @list RSP366
 @list HZL118
-@list LAK038
 @list MZL685
 @list OBZL027
 @list SLLHA439
@@ -20742,9 +20829,9 @@
 @end sign
 
 @sign	PAP
+@list LAK229
 @list RSP049
 @list BAU126
-@list LAK229
 @list MZL092
 @list KWU380
 @uphase	1
@@ -20797,10 +20884,10 @@
 @end sign
 
 @sign	|PAP.PAP|
+@list LAK230
 @list RSP334
 @list BAU147
 @list HZL257
-@list LAK230
 @list MZL094
 @list OBZL264
 @list SLLHA060+060
@@ -20869,6 +20956,7 @@
 @end sign
 
 @sign	PEŠ₂
+@list LAK245
 @list HZL003
 @list MZL741
 @list OBZL418
@@ -20893,16 +20981,17 @@
 @v	peš₂
 @v	piš₂
 @form ~a LAK247
+@list LAK247
 @list RSP460bis
 @v    kilim
 @end form
 @end sign
 
 @sign	PI
+@list LAK447
 @list RSP079
 @list BAU247
 @list HZL317
-@list LAK447
 @list MZL598
 @list OBZL370
 @list SLLHA383
@@ -21060,9 +21149,9 @@
 @end sign
 
 @sign	PIRIG
+@list LAK257
 @list RSP460
 @list BAU162
-@list LAK257
 @list OBZL178
 @list SLLHA444
 @uphase	1
@@ -21080,6 +21169,7 @@
 @v	ug₂
 @v	uŋ₂
 @form ~a |PIRIG×UD|
+@list LAK259
 @ucode x1228C
 @v      piriŋ⁺
 @inote	Attinger
@@ -21110,8 +21200,8 @@
 @end sign
 
 @sign	|PIRIG×UD|
-@list HZL093
 @list LAK259
+@list HZL093
 @list MZL296
 @list OBZL179
 @list SLLHA130
@@ -21133,6 +21223,7 @@
 @form	~b |ZU.PIRIG|
 @ucode x1236A.x1228A
 @form	~c PIRIG
+@list LAK257
 @list RSP460
 @list BAU162
 @v	ug⁻
@@ -21141,10 +21232,10 @@
 @end sign
 
 @sign	|PIRIG×ZA|
+@list LAK261
 @list RSP461
 @list BAU164
 @list HZL092
-@list LAK261
 @list MZL297
 @list OBZL180
 @list SLLHA131
@@ -21162,6 +21253,7 @@
 @v	uṣ₄
 @v	uz₄
 @form ~a PIRIG
+@list LAK257
 @list RSP460
 @list BAU162
 @v      az⁻
@@ -21193,10 +21285,10 @@
 @end sign
 
 @sign	RA
+@list LAK710
 @list RSP295
 @list BAU273
 @list HZL233
-@list LAK710
 @list MZL511
 @list OBZL192
 @list SLLHA328
@@ -21261,9 +21353,9 @@
 @end sign
 
 @sign	RI
+@list LAK075
 @list RSP412
 @list HZL032
-@list LAK075
 @list MZL142
 @list OBZL039
 @list SLLHA086
@@ -21293,11 +21385,11 @@
 @end sign
 
 @sign	RU
+@list LAK281
 @list RSP384
 @list BAU145
 @list BAU204
 @list HZL043
-@list LAK281
 @list MZL111
 @list OBZL060
 @list SLLHA068
@@ -21336,10 +21428,10 @@
 @end sign
 
 @sign	SA
+@list LAK731
 @list RSP132
 @list BAU361
 @list HZL200
-@list LAK731
 @list MZL172
 @list OBZL147
 @list SLLHA104
@@ -21362,10 +21454,10 @@
 @end sign
 
 @sign	SAG
+@list LAK307
 @list RSP192
 @list BAU228
 @list HZL192
-@list LAK307
 @list MZL184
 @list OBZL309
 @list SLLHA115
@@ -21479,8 +21571,8 @@
 @end sign
 
 @sign	|SAG×HA|
-@list RSP196
 @list LAK308
+@list RSP196
 @list MZL198
 @list SLLHA121_1
 @uphase	1
@@ -21670,10 +21762,10 @@
 @end sign
 
 @sign	SAG@g
+@list LAK317
 @list RSP133
 @list RSP193
 @list BAU229
-@list LAK317
 @list MZL512
 @list OBZL331
 @list SLLHA329
@@ -21698,6 +21790,7 @@
 @v	šur₂
 @v	ugu₅
 @form ~a SAG
+@list LAK307
 @list RSP192
 @list BAU228
 @v      dil₂⁻
@@ -21747,11 +21840,11 @@
 @end sign
 
 @sign	SAL
+@list LAK517
 @list RSP153
 @list BAU138
 @list BAU397
 @list HZL297
-@list LAK517
 @list MZL883
 @list OBZL450
 @list SLLHA554
@@ -21903,6 +21996,7 @@
 @v	gim₃
 @v	gin₅
 @form ~a |SAL×KUR|
+@list LAK049
 @inote dcclt !sg
 @end form
 @end sign
@@ -21982,10 +22076,10 @@
 @end sign
 
 @sign	|SAL.TUG₂|
+@list LAK522
 @list RSP190
 @list BAU401
 @list HZL299
-@list LAK522
 @list MZL887
 @list OBZL452
 @list SLLHA556
@@ -22120,8 +22214,8 @@
 @end sign
 
 @sign	SANGA₂
-@list RSP276
 @list LAK175
+@list RSP276
 @uphase	1
 @uname	CUNEIFORM SIGN SANGA2
 @ucode	x122AB
@@ -22194,9 +22288,9 @@
 @end sign
 
 @sign	SAR
+@list LAK215
 @list RSP446
 @list HZL353
-@list LAK215
 @list MZL541
 @list OBZL385
 @list KWU650
@@ -22248,10 +22342,10 @@
 @end	sign
 
 @sign	SI
+@list LAK083
 @list RSP291
 @list BAU030
 @list HZL086
-@list LAK083
 @list MZL181
 @list OBZL164
 @list SLLHA112
@@ -22273,10 +22367,10 @@
 @end sign
 
 @sign	|SI.A|
+@list LAK084
 @list RSP292
 @list BAU032
 @list HZL089
-@list LAK084
 @list MZL207
 @list OBZL164
 @list SLLHA123
@@ -22315,9 +22409,9 @@
 @end sign
 
 @sign	SI@g
+@list LAK086
 @list RSP293
 @list BAU033
-@list LAK086
 @list MZL182
 @list OBZL165
 @list SLLHA113
@@ -22397,10 +22491,10 @@
 @end sign
 
 @sign	SIG₄
+@list LAK188
 @list RSP114
 @list BAU206
 @list HZL311
-@list LAK188
 @list MZL906
 @list OBZL243
 @list SLLHA567
@@ -22425,6 +22519,7 @@
 @v	šed₁₆
 @v	šeg₁₂
 @form ~a LUM
+@list LAK194
 @list RSP138
 @list BAU123
 @v	gar₈
@@ -22459,10 +22554,10 @@
 @end sign
 
 @sign	SIK₂
+@list LAK793
 @list RSP266
 @list BAU266
 @list HZL065
-@list LAK793
 @list MZL816
 @list OBZL395
 @list SLLHA539
@@ -22575,10 +22670,10 @@
 @end sign
 
 @sign	SILA₃
+@list LAK269
 @list RSP063
 @list BAU139
 @list HZL021
-@list LAK269
 @list MZL099
 @list OBZL269
 @list SLLHA062
@@ -22638,9 +22733,9 @@
 @end sign
 
 @sign	SU
+@list LAK293
 @list RSP143
 @list BAU226
-@list LAK293
 @list MZL016
 @uphase	1
 @uname	CUNEIFORM SIGN SU
@@ -22673,8 +22768,8 @@
 @end sign
 
 @sign	|SU.KUR.RU|
-@list BAU122
 @list LAK294
+@list BAU122
 @ucode	x122E2.x121B3.x12292
 @v	sud₃
 @v	šuripak
@@ -22740,6 +22835,7 @@
 @v	zir₄
 @v	zu₆
 @form ~a BU
+@list LAK232
 @list RSP335
 @list BAU148
 @v      su₃⁻
@@ -22755,8 +22851,8 @@
 @end sign
 
 @sign	SUD₂
-@list HZL029
 @list LAK074
+@list HZL029
 @list MZL139
 @list OBZL038
 @list SLLHA083
@@ -22789,10 +22885,10 @@
 @end sign
 
 @sign	SUHUR
+@list LAK227
 @list RSP178bis
 @list BAU215
 @list HZL349
-@list LAK227
 @list MZL646
 @list OBZL384
 @list SLLHA403
@@ -22809,10 +22905,10 @@
 @end sign
 
 @sign	SUM
+@list LAK197
 @list RSP450
 @list BAU125
 @list HZL350
-@list LAK197
 @list MZL292
 @list OBZL388
 @list SLLHA164
@@ -22845,9 +22941,9 @@
 @end sign
 
 @sign	SUMAŠ
+@list LAK226
 @list RSP178
 @list BAU214
-@list LAK226
 @list MZL323
 @list SLLHA182
 @list KWU597
@@ -22872,10 +22968,11 @@
 @end sign
 
 @sign	SUR
+@list LAK047
+@list LAK182
 @list RSP170
 @list BAU024
 @list HZL042
-@list LAK182
 @list MZL151
 @list OBZL056
 @list SLLHA101
@@ -22906,11 +23003,11 @@
 @end sign
 
 @sign	ŠA
+@list LAK170
 @list RSP167
 @list RSP324
 @list BAU108
 @list HZL158
-@list LAK170
 @list MZL566
 @list OBZL203
 @list SLLHA353
@@ -22928,9 +23025,9 @@
 @end sign
 
 @sign	ŠA₃
+@list LAK443
 @list RSP320
 @list HZL294
-@list LAK443
 @list MZL599
 @list OBZL433
 @list SLLHA384
@@ -23145,10 +23242,10 @@
 @end sign
 
 @sign	ŠA₆
+@list LAK196
 @list RSP345
 @list BAU124
 @list HZL070
-@list LAK196
 @list MZL571
 @list OBZL228
 @list SLLHA356
@@ -23218,8 +23315,8 @@
 @end sign
 
 @sign	ŠAR₂
-@list HZL335
 @list LAK809
+@list HZL335
 @list MZL632
 @list OBZL277
 @list SLLHA396
@@ -23269,11 +23366,11 @@
 @end sign
 
 @sign	ŠE
+@list LAK199
 @list RSP440
 @list BAU025
 @list BAU130
 @list HZL338
-@list LAK199
 @list MZL579
 @list OBZL378
 @list SLLHA367
@@ -23298,9 +23395,10 @@
 @end sign
 
 @sign	|ŠE.HU|
+@list LAK070
+@list LAK201
 @list RSP408
 @list BAU035
-@list LAK201
 @list KWU639
 @uphase	1
 @uname	CUNEIFORM SIGN SHE HU
@@ -23379,10 +23477,10 @@
 @end sign
 
 @sign	|ŠE.NUN&NUN|
+@list LAK204
 @list RSP441
 @list RSP442
 @list HZL344
-@list LAK204
 @list MZL587
 @list OBZL380
 @list SLLHA375
@@ -23560,6 +23658,7 @@
 @end sign
 
 @sign	ŠEG₉
+@list LAK187
 @list RSP462
 @list MZL878
 @list OBZL429
@@ -23593,9 +23692,9 @@
 @end sign
 
 @sign	ŠEN
+@list LAK713
 @list BAU360
 @list HZL230
-@list LAK713
 @list MZL017
 @list OBZL306
 @list SLLHA008
@@ -23621,10 +23720,10 @@
 @end sign
 
 @sign	ŠEŠ
+@list LAK032
 @list RSP091
 @list BAU011
 @list HZL079
-@list LAK032
 @list MZL535
 @list OBZL021b
 @list SLLHA331
@@ -23692,8 +23791,8 @@
 @end sign
 
 @sign	|ŠEŠ.KI|
-@list RSP092
 @list LAK033
+@list RSP092
 @list KWU033
 @ucode	x122C0.x121A0
 @v	nan₂
@@ -23706,6 +23805,7 @@
 @end sign
 
 @sign	ŠEŠ₂
+@list LAK668
 @list HZL063
 @list MZL821
 @list SLLHA544
@@ -23729,10 +23829,10 @@
 @end sign
 
 @sign	ŠID
+@list LAK711
 @list RSP296
 @list BAU371
 @list HZL231
-@list LAK711
 @list KWU766
 @list MZL485
 @list SLLHA314
@@ -23847,6 +23947,7 @@
 @end sign
 
 @sign	|ŠID×A|
+@list LAK295
 @list RSP299
 @list MZL489
 @list OBZL208
@@ -23890,10 +23991,10 @@
 @end sign
 
 @sign	ŠIM
+@list LAK655
 @list RSP422
 @list BAU353
 @list HZL154
-@list LAK655
 @list MZL362
 @list OBZL083
 @list SLLHA215
@@ -24006,11 +24107,11 @@
 @end sign
 
 @sign	|ŠIM×GAR|
+@list LAK659
 @list RSP219
 @list BAU354
 @list BAU355
 @list HZL163
-@list LAK659
 @list MZL373
 @list OBZL085
 @list SLLHA225
@@ -24051,8 +24152,8 @@
 @end sign
 
 @sign	|ŠIM×KUŠU₂|
-@list RSP424
 @list LAK658
+@list RSP424
 @list MZL375
 @list SLLHA223
 @uphase	1
@@ -24090,6 +24191,7 @@
 @end sign
 
 @sign	|ŠIM×PI|
+@list LAK657
 @v	šembiₓ
 @end sign
 
@@ -24108,8 +24210,8 @@
 @end sign
 
 @sign	|ŠIM×IGI@g|
-@list RSP423
 @list LAK656
+@list RSP423
 @list MZL368
 @list SLLHA219x
 @uphase	1
@@ -24118,14 +24220,15 @@
 @v	šembi
 @v	šimbi
 @form ~a |DUG×IGI@g|
+@list LAK586
 @uphase 9
 @ucode x12499
 @uname	CUNEIFORM SIGN DUG TIMES IGI GUNU
-@list 	LAK586
 @v	šembi
 @lit	Civil Ebla 1975-1985, 155
 @end form
 @form ~c ŠIM
+@list LAK655
 @list RSP422
 @list BAU353
 @v      šembi⁻
@@ -24153,10 +24256,10 @@
 @end sign
 
 @sign	ŠIR
+@list LAK023
 @list BAU015
 @list BAU016
 @list HZL005
-@list LAK023
 @list MZL115
 @list MZL115a
 @list OBZL028
@@ -24198,11 +24301,11 @@
 @end sign
 
 @sign	ŠITA
+@list LAK503
+@list LAK503b
 @list RSP166
 @list BAU390
 @list BAU395
-@list LAK503
-@list LAK503b
 @list MZL388
 @list OBZL270
 @list SLLHA233_22
@@ -24264,10 +24367,11 @@
 @end sign
 
 @sign	ŠU
+@list LAK139
+@list LAK146
 @list RSP124
 @list BAU096
 @list HZL068
-@list LAK146
 @list MZL567
 @list OBZL225
 @list SLLHA354
@@ -24532,8 +24636,8 @@
 @end sign
 
 @sign	|ŠU&ŠU@180|
-@list RSP126
 @list LAK094
+@list RSP126
 @uphase	1
 @uname	CUNEIFORM SIGN SHU OVER INVERTED SHU
 @ucode	x122D8
@@ -24619,10 +24723,10 @@
 @v	šuhub [SF 81 = dcclt:P010677 o i 10, ab₂ 3×AN.BAR]
 @end form
 @form ~c	|3×AN|
+@list LAK010
 @list RSP082
 @list BAU008
 @list MZL247
-@list LAK010
 @list KWU025
 @uphase	1
 @uname	CUNEIFORM SIGN AN THREE TIMES
@@ -24633,8 +24737,8 @@
 @end sign
 
 @sign	|ŠU₂.AN.HI×GAD|
-@list RSP018
 @list LAK357
+@list RSP018
 @list MZL871
 @list OBZL423
 @list SLLHA546_6
@@ -24656,6 +24760,7 @@
 @v	keš₃
 @end form
 @form ~d |ŠU₂.AN|
+@list LAK356
 @ucode x122D9.x1202D
 @v	keš₃
 @end form
@@ -24764,9 +24869,9 @@
 @end sign
 
 @sign	ŠUBUR
+@list LAK039
 @list RSP458
 @list BAU018
-@list LAK039
 @list MZL022
 @list OBZL004
 @list SLLHA053
@@ -24814,10 +24919,10 @@
 @end sign
 
 @sign	TA
+@list LAK559
 @list RSP209
 @list BAU346
 @list HZL160
-@list LAK559
 @list MZL248
 @list OBZL123
 @list SLLHA139
@@ -24831,9 +24936,9 @@
 @end sign
 
 @sign	|TA×HI|
+@list LAK587
 @list RSP210
 @list BAU345
-@list LAK587
 @list MZL250
 @list SLLHA141
 @list KWU757
@@ -24879,15 +24984,16 @@
 @v	gansis
 @end form
 @form ~b LAK654a
+@list LAK654
 @inote TA@g with curviform final wedge
 @end form
 @end sign
 
 @sign	TAB
+@list LAK090
 @list RSP039
 @list BAU064
 @list HZL090
-@list LAK090
 @list MZL209
 @list OBZL109
 @list SLLHA124
@@ -24995,10 +25101,10 @@
 @end sign
 
 @sign	TAG
+@list LAK628
 @list RSP427
 @list BAU356
 @list HZL091
-@list LAK628
 @list MZL221
 @list OBZL122
 @list SLLHA126
@@ -25132,10 +25238,10 @@
 @end sign
 
 @sign	TAK₄
+@list LAK282
 @list RSP387
 @list BAU118
 @list HZL227
-@list LAK282
 @list MZL106
 @list OBZL058
 @list SLLHA063d
@@ -25183,10 +25289,10 @@
 @end sign
 
 @sign	TAR
+@list LAK181
 @list RSP064
 @list BAU117
 @list HZL007
-@list LAK181
 @list MZL009
 @list OBZL231
 @list SLLHA012
@@ -25250,10 +25356,10 @@
 @end sign
 
 @sign	TE
+@list LAK373
 @list RSP310
 @list BAU195
 @list HZL249
-@list LAK373
 @list MZL589
 @list OBZL289
 @list SLLHA376
@@ -25283,10 +25389,10 @@
 @end sign
 
 @sign	|TE.A|
+@list LAK375
 @list RSP311
 @list BAU196
 @list HZL250
-@list LAK375
 @list MZL590
 @list OBZL290
 @list SLLHA376x
@@ -25339,9 +25445,9 @@
 @end sign
 
 @sign	TE@g
+@list LAK382
 @list RSP330
 @list HZL315
-@list LAK382
 @list MZL088
 @list OBZL283
 @list SLLHA058
@@ -25364,6 +25470,7 @@
 @v	ur₁₂
 @v	uru₅
 @form ~a TE
+@list LAK373
 @list RSP310
 @list BAU195
 @v      maru⁻
@@ -25380,9 +25487,9 @@
 @end sign
 
 @sign	TI
+@list LAK018
 @list RSP089
 @list BAU023
-@list LAK018
 @list MZL118
 @list SLLHA073av
 @list KWU037
@@ -25430,8 +25537,8 @@
 @end sign
 
 @sign	TIL
-@list RSP048
 @list LAK017
+@list RSP048
 @list MZL113b
 @lit	Krebernik, OBO 160/1, 276
 @uphase	1
@@ -25449,11 +25556,11 @@
 @end sign
 
 @sign	TU
+@list LAK211
 @list RSP443
 @list RSP444
 @list BAU133
 @list HZL346
-@list LAK211
 @list MZL086
 @list OBZL382
 @list SLLHA058
@@ -25535,6 +25642,7 @@
 @end sign
 
 @sign	TUK
+@list LAK473
 @list RSP392
 @list BAU283
 @list HZL053
@@ -25542,7 +25650,6 @@
 @list OBZL444
 @list SLLHA574
 @list KWU909
-@list LAK473
 @uphase	1
 @uname	CUNEIFORM SIGN TUK
 @ucode	x12307
@@ -25570,11 +25677,11 @@
 @end sign
 
 @sign	TUM
+@list LAK494
 @list RSP403
 @list RSP404
 @list BAU378
 @list HZL125
-@list LAK494
 @list MZL354
 @list OBZL075
 @list SLLHA207
@@ -25609,6 +25716,7 @@
 @v	ṭum
 @v	zibₓ
 @form ~a LAK496
+@list LAK496
 @end sign
 
 @sign	|TUM×A|
@@ -25624,8 +25732,8 @@
 @end sign
 
 @sign	|TUM×GAN₂@t|
-@list RSP405
 @list LAK497b
+@list RSP405
 @uphase	9
 @ucode x1253A
 @uname	CUNEIFORM SIGN TUM TIMES GAN2 TENU
@@ -25633,10 +25741,10 @@
 @end sign
 
 @sign	TUR
+@list LAK528
 @list RSP381
 @list BAU415
 @list HZL237
-@list LAK528
 @list MZL255
 @list OBZL393
 @list SLLHA144
@@ -25747,10 +25855,10 @@
 @end sign
 
 @sign	U
+@list LAK807
 @list RSP006
 @list RSP008
 @list HZL261
-@list LAK807
 @list MZL661
 @list OBZL337
 @list SLLHA411
@@ -25807,10 +25915,10 @@
 @end sign
 
 @sign	|U.AD|
+@list LAK414
 @list RSP015
 @list BAU181
 @list HZL266
-@list LAK414
 @list MZL683
 @list OBZL342
 @list SLLHA430
@@ -25826,6 +25934,7 @@
 @ucode x122D9.x1201C
 @end form
 @form	~b AD
+@list LAK635
 @list RSP227
 @list BAU311
 @inote P010982 = WF 025  = EDATS no. 116 r ii 9
@@ -25883,8 +25992,8 @@
 @end sign
 
 @sign	|U.GA|
-@list RSP014
 @list LAK412
+@list RSP014
 @list MZL700
 @list OBZL351
 @list SLLHA443
@@ -25908,11 +26017,11 @@
 @end sign
 
 @sign	|U.GAN|
+@list LAK407b
+@list LAK458
 @list RSP016
 @list BAU279
 @list HZL270
-@list LAK458
-@list LAK407b
 @list MZL684
 @list OBZL345
 @list SLLHA428
@@ -25937,10 +26046,11 @@
 @end sign
 
 @sign	|U.GUD|
+@list LAK299
+@list LAK300
 @list RSP012
 @list BAU221
 @list HZL275
-@list LAK300
 @list MZL698
 @list OBZL344
 @list SLLHA441
@@ -25984,9 +26094,9 @@
 @end sign
 
 @sign	|U.KA|
+@list LAK413
 @list RSP013
 @list HZL272
-@list LAK413
 @list MZL663
 @list OBZL358
 @list SLLHA412
@@ -26045,8 +26155,8 @@
 @end sign
 
 @sign	|U.SAG|
-@list BAU179
 @list LAK316
+@list BAU179
 @list MZL671
 @list OBZL357
 @list SLLHA419
@@ -26086,6 +26196,7 @@
 @v	usagₓ
 @v	zaₓ
 @form	~a LAK384
+@list LAK384
 @uphase	9
 @ucode x124EE
 @uname CUNEIFORM SIGN LAK384
@@ -26211,8 +26322,8 @@
 @end sign
 
 @sign	|U.UD.KID|
-@list RSP017
 @list LAK402
+@list RSP017
 @list MZL707
 @list SLLHA447a
 @list KWU512
@@ -26243,6 +26354,7 @@
 @end sign
 
 @sign	|U&U.PA&PA.GAR&GAR|
+@list LAK419
 @list SLLHA411_182a
 @uphase	1
 @uname	CUNEIFORM SIGN U OVER U PA OVER PA GAR OVER GAR
@@ -26252,6 +26364,7 @@
 @end sign
 
 @sign	|U&U.SUR&SUR|
+@list LAK418
 @list SLLHA411_167a
 @uphase	1
 @uname	CUNEIFORM SIGN U OVER U SUR OVER SUR
@@ -26289,10 +26402,10 @@
 @end sign
 
 @sign	U₂
+@list LAK152
 @list RSP133
 @list BAU091
 @list HZL195
-@list LAK152
 @list MZL490
 @list OBZL146
 @list SLLHA318
@@ -26480,10 +26593,10 @@
 @end sign
 
 @sign	UB
+@list LAK284
 @list RSP185
 @list BAU239
 @list HZL152
-@list LAK284
 @list MZL504
 @list OBZL288
 @list SLLHA306
@@ -26512,12 +26625,13 @@
 @end sign
 
 @sign	UD
+@list LAK379
+@list LAK400
 @list RSP319
 @list RSP322
 @list RSP324
 @list BAU197
 @list HZL316
-@list LAK400
 @list MZL596
 @list OBZL332
 @list SLLHA381
@@ -26689,6 +26803,7 @@
 @v	zabar
 @v	zibar
 @form ~a |UD.KA.AŠ|
+@list LAK329
 @form ~b |KA.UD.AŠ|
 @form ~c |KA.UD.BAR|
 @form ~d |KA.BAR|
@@ -26729,8 +26844,8 @@
 @end sign
 
 @sign	|UD.KUŠU₂|
-@list RSP174
 @list LAK305
+@list RSP174
 @list MZL611
 @list OBZL333
 @list SLLHA392
@@ -27019,8 +27134,8 @@
 @end sign
 
 @sign	LAHŠU
-@list RSP333
 @list LAK442
+@list RSP333
 @uphase	1
 @uname	CUNEIFORM SIGN LAHSHU
 @ucode	x121F1
@@ -27120,8 +27235,8 @@
 @end sign
 
 @sign	UMBIN
-@list HZL166
 @list LAK289
+@list HZL166
 @list MZL160
 @list OBZL301
 @list SLLHA092b
@@ -27150,11 +27265,11 @@
 @end sign
 
 @sign	UMUM
+@list LAK155
 @list RSP361
 @list BAU093
 @list BAU094
 @list HZL102
-@list LAK155
 @list MZL547
 @list OBZL215
 @list SLLHA338
@@ -27166,8 +27281,8 @@
 @v	umum
 @v	umun₂
 @form ~a |UMUM×KASKAL|
-@list RSP361bis
 @list LAK156b
+@list RSP361bis
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @ucode	x12324
 @end form
@@ -27206,6 +27321,7 @@
 @v	siu
 @v	ṭe₅
 @form ~a |UMUM×KASKAL|
+@list LAK156b
 @list RSP361bis
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @ucode	x12324
@@ -27213,6 +27329,7 @@
 @inote (sjt) The present solution of (re-)creating a DE₂ sign is not perfect but we need something like this solution for epsd2 de₂ bases
 @end form
 @form ~b UMUM
+@list LAK155
 @list RSP361
 @list BAU093
 @list BAU094
@@ -27228,9 +27345,9 @@
 @end sign
 
 @sign	UN
+@list LAK729
 @list RSP136
 @list BAU367
-@list LAK729
 @list KWU849
 @uphase	1
 @uname	CUNEIFORM SIGN UN
@@ -27258,10 +27375,10 @@
 @end sign
 
 @sign	UR
+@list LAK664
 @list RSP238
 @list BAU284
 @list HZL051
-@list LAK664
 @list MZL828
 @list OBZL400
 @list SLLHA575
@@ -27390,10 +27507,10 @@
 @end sign
 
 @sign	UR₂
+@list LAK479
 @list RSP376
 @list BAU382
 @list HZL124
-@list LAK479
 @list MZL341
 @list OBZL072
 @list SLLHA203
@@ -27547,9 +27664,9 @@
 @end sign
 
 @sign	UR₄
+@list LAK472
 @list RSP393
 @list BAU285
-@list LAK472
 @list MZL835
 @list OBZL448
 @list SLLHA594
@@ -27563,10 +27680,10 @@
 @end sign
 
 @sign	URI
+@list LAK176
 @list RSP380
 @list BAU414
 @list HZL246
-@list LAK176
 @list MZL574
 @list OBZL224
 @list SLLHA359n1
@@ -27587,15 +27704,17 @@
 @inote cp LAK576 which is similar but not identical
 @end form
 @form ~b LAK125
+@list LAK125
 @inote perhaps describable as URI@n
 @end form
 @form ~c LAK647
+@list LAK647
 @end form
 @end sign
 
 @sign	URI₃
-@list BAU010
 @list LAK031
+@list BAU010
 @list OBZL021a
 @list KWU029
 @uphase	1
@@ -27609,10 +27728,10 @@
 @end sign
 
 @sign	URU
+@list LAK591
 @list RSP300
 @list BAU336
 @list HZL229
-@list LAK591
 @list MZL071
 @list OBZL181
 @list SLLHA038
@@ -27655,9 +27774,9 @@
 @end sign
 
 @sign	|URU×A|
+@list LAK597
 @list RSP303
 @list BAU337
-@list LAK597
 @list MZL081
 @list SLLHA046xxx
 @uphase	1
@@ -27680,9 +27799,9 @@
 @end sign
 
 @sign	|URU×BAR|
+@list LAK649
 @list BAU309
 @list HZL134
-@list LAK649
 @list MZL073
 @list OBZL186
 @list SLLHA040
@@ -27735,8 +27854,8 @@
 @form ~v |URU×GA@g|
 @end form
 @form	~a |LAK648×GA|
-@ucode x1250F
 @list LAK714
+@ucode x1250F
 @end sign
 
 @sign	|URU×GAL|
@@ -27748,8 +27867,8 @@
 @end sign
 
 @sign	|URU×GAN₂@t|
-@list RSP301
 @list LAK601
+@list RSP301
 @list MZL074
 @list OBZL187
 @list SLLHA043v
@@ -27782,8 +27901,8 @@
 @end sign
 
 @sign	|URU×GU|
-@list RSP302
 @list LAK602
+@list RSP302
 @list MZL084
 @list OBZL185
 @list SLLHA046
@@ -27899,6 +28018,7 @@
 @end sign
 
 @sign	|URU×MIN|
+@list LAK648
 @list RSP269
 @list MZL080
 @list OBZL189
@@ -27937,6 +28057,7 @@
 @uname	CUNEIFORM SIGN LAK648
 @end form
 @form ~d URU
+@list LAK591
 @list RSP300
 @list BAU336
 @v      lu₇⁻
@@ -28060,6 +28181,7 @@
 @form ~v |URU×(MIN.URUDA)|
 @end form
 @form ~a |LAK648×URUDA|
+@list LAK653
 @list LAK716
 @uphase	9
 @ucode x12516
@@ -28068,10 +28190,10 @@
 @end sign
 
 @sign	URUDA
+@list LAK604
 @list RSP239
 @list BAU338
 @list HZL109
-@list LAK604
 @list MZL230
 @list OBZL111
 @list SLLHA132
@@ -28153,9 +28275,9 @@
 @end sign
 
 @sign	UŠ
+@list LAK058
 @list RSP415
 @list HZL132
-@list LAK058
 @list MZL381
 @list OBZL068
 @list SLLHA211
@@ -28309,8 +28431,8 @@
 @end sign
 
 @sign	|UŠ×TAK₄|
-@list RSP418
 @list LAK060
+@list RSP418
 @list MZL382
 @list OBZL069
 @list SLLHA211n
@@ -28361,11 +28483,11 @@
 @end sign
 
 @sign	UZ₃
+@list LAK778
 @list RSP400
 @list BAU275
 @list BAU276
 @list HZL023
-@list LAK778
 @list MZL203
 @list OBZL054
 @list SLLHA122b
@@ -28400,9 +28522,9 @@
 @end sign
 
 @sign	UZU
+@list LAK350
 @list BAU213
 @list HZL203
-@list LAK350
 @list MZL311
 @list OBZL134
 @list SLLHA171
@@ -28515,8 +28637,8 @@
 @end sign
 
 @sign	|ZA.GUL|
-@list RSP078
 @list LAK799
+@list RSP078
 @list MZL858
 @list SLLHA591
 @ucode	x1235D.x12122
@@ -28650,10 +28772,10 @@
 @end sign
 
 @sign	ZAG
+@list LAK283
 @list RSP388
 @list BAU158
 @list HZL238
-@list LAK283
 @list MZL540
 @list OBZL206
 @list SLLHA332
@@ -28708,8 +28830,8 @@
 @end sign
 
 @sign	ZE₂
-@list HZL108
 @list LAK538
+@list HZL108
 @list MZL259
 @list OBZL126
 @list SLLHA147
@@ -28727,10 +28849,10 @@
 @end sign
 
 @sign	ZI
+@list LAK468
 @list RSP455
 @list BAU258
 @list HZL033
-@list LAK468
 @list MZL140
 @list OBZL041
 @list SLLHA084
@@ -28775,6 +28897,7 @@
 @v	zuluhu₃
 @v	zulumhi₃
 @form ~a	|ZI&ZI|
+@list LAK469
 @list RSP456
 @list BAU259
 @list KWU127
@@ -28838,6 +28961,7 @@
 @v-	zulumhi₃
 @note value zulumhi₃ has been re-assigned to |ZI&ZI.A|; merges with |ZI&ZI.LAGAB| in OB
 @form ~a	|ZI&ZI|
+@list LAK469
 @list RSP456
 @list BAU259
 @list KWU127
@@ -28883,8 +29007,8 @@
 @end sign
 
 @sign	ZIZ₂
-@list RSP216
 @list LAK162b
+@list RSP216
 @lit	M. krebernik, OBO 160/1, 277
 @uphase	1
 @uname	CUNEIFORM SIGN ZIZ2
@@ -28893,10 +29017,10 @@
 @end sign
 
 @sign	ZU
+@list LAK291
 @list RSP141
 @list BAU224
 @list HZL209
-@list LAK291
 @list MZL015
 @list OBZL304
 @list SLLHA006
@@ -28913,9 +29037,9 @@
 @end sign
 
 @sign	|ZU.AB|
+@list LAK292
 @list RSP142
 @list BAU225
-@list LAK292
 @list KWU410
 @ucode	x1236A.x1200A
 @v	absu
@@ -28923,6 +29047,7 @@
 @form ~a DE₂
 @v    	abzu₂
 @form ~b |UMUM×KASKAL|
+@list LAK156b
 @list RSP361bis
 @v    	abzu₂
 @lit 1987 A. Cavigneaux, ASJ 9 46-47.
@@ -28930,8 +29055,8 @@
 @end sign
 
 @sign	|ZU&ZU.SAR|
-@list BAU136
 @list LAK218
+@list BAU136
 @uphase	9
 @ucode x12542
 @uname	CUNEIFORM SIGN ZU OVER ZU PLUS SAR
@@ -28958,6 +29083,7 @@
 @v	uzu₂
 @v	zuₓ
 @form ~a ZU₅
+@list LAK117
 @v	azu
 @end form
 @end sign
@@ -28988,12 +29114,13 @@
 @v	zubu
 @v	zu₈
 @form ~a LAK460
+@list LAK460
 @end sign
 
 @sign	ZUM
+@list LAK520
 @list RSP175
 @list HZL300
-@list LAK520
 @list MZL884
 @list OBZL456
 @list SLLHA555
@@ -29244,8 +29371,8 @@
 @end sign
 
 @sign	5(AŠ@t)
-@list RSP119
 @list LAK193
+@list RSP119
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN FIVE ASH TENU
 @ucode	x1244D
@@ -29374,8 +29501,8 @@
 @end sign
 
 @sign	U@g
-@list HZL261
 @list LAK808
+@list HZL261
 @list MZL662
 @list SLLHA350_8
 @uname	CUNEIFORM NUMERIC SIGN ONE BURU
@@ -30284,16 +30411,16 @@
 @end sign
 
 @sign	|NINDA₂×ŠUŠANA@c|
+@list LAK106
 @list RSP106
 @ucode	xebd0
-@list	LAK106
 @v	1/3(diš@c)@v
 @end sign
 
 @sign	|NINDA₂×ŠANABI@c|
+@list LAK107
 @list RSP107
 @ucode	xebd1
-@list	LAK107
 @v	2/3(diš@c)@v
 @end sign
 
@@ -30742,8 +30869,8 @@
 @end sign
 
 @sign |LAGAB×1(N01)|
-@list BAU268
 @list LAK772
+@list BAU268
 @v	dur₂?
 @v	gigirₓ?
 @inote |LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
@@ -30939,6 +31066,7 @@
 @end sign
 
 @sign REC169
+@list LAK274
 @inote CDLI oakk referencing CUSAS 27
 @v     uštil
 @end sign
@@ -31408,6 +31536,7 @@
 @ucode x122A9.x12138.x1207A
 @end form
 @form ~b DU
+@list LAK484
 @list RSP369
 @list BAU374
 @v	rigₓ
@@ -31846,6 +31975,7 @@
 @sign	|LAGAR×ZA|
 @end sign
 @sign	|LAGAB×PA|
+@list LAK780
 @list BAU264
 @end sign
 @sign	|EN×X|
@@ -32294,6 +32424,7 @@
 @end sign
 
 @sign 1(N01)
+@list LAK002
 @inote UET II
 @end sign
 
@@ -32942,6 +33073,7 @@
 @end sign
 
 @sign AL@s
+@list LAK516
 @inote for lak.atf
 @end sign
 
@@ -32954,22 +33086,27 @@
 @end sign
 
 @sign GU₂@s
+@list LAK555
 @inote for lak.atf
 @end sign
 
 @sign HU@g
+@list LAK069
 @inote for lak.atf
 @end sign
 
 @sign KAB@g
+@list LAK478
 @inote for lak.atf
 @end sign
 
 @sign LAK444
+@list LAK444
 @inote for lak.atf
 @end sign
 
 @sign LAK445
+@list LAK445
 @inote for lak.atf
 @end sign
 
@@ -32978,38 +33115,47 @@
 @end sign
 
 @sign LAK456
+@list LAK456
 @inote for lak.atf
 @end sign
 
 @sign LAK508
+@list LAK508
 @inote for lak.atf
 @end sign
 
 @sign LAK643
+@list LAK643
 @inote for lak.atf
 @end sign
 
 @sign LAK722
+@list LAK722
 @inote for lak.atf
 @end sign
 
 @sign LAK773
+@list LAK773
 @inote for lak.atf
 @end sign
 
 @sign LAK776
+@list LAK776
 @inote for lak.atf
 @end sign
 
 @sign LAK804
+@list LAK804
 @inote for lak.atf
 @end sign
 
 @sign LAK805
+@list LAK805
 @inote for lak.atf
 @end sign
 
 @sign LAK806
+@list LAK806
 @inote for lak.atf
 @end sign
 
@@ -33018,6 +33164,7 @@
 @end sign
 
 @sign LA₂@t
+@list LAK355
 @inote for lak.atf
 @end sign
 
@@ -33026,10 +33173,12 @@
 @end sign
 
 @sign MAŠ₂@g
+@list LAK044
 @inote for lak.atf
 @end sign
 
 @sign MURUB₄@g
+@list LAK158
 @inote for lak.atf
 @end sign
 
@@ -33042,10 +33191,12 @@
 @end sign
 
 @sign ŠEŠ₂@g
+@list LAK669
 @inote for lak.atf
 @end sign
 
 @sign ŠIM@g
+@list LAK660
 @inote for lak.atf
 @end sign
 
@@ -33054,146 +33205,182 @@
 @end sign
 
 @sign |(AB₂.ŠA₃)&(AB₂.ŠA₃)|
+@list LAK405
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |AŠ×1(AŠ@t)|
+@list LAK073
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |DU@g×KASKAL|
+@list LAK487
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |EN×A|
+@list LAK533
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |GIR×IGI.LU|
+@list LAK250
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |GU₂×(HI×DIŠ)|
+@list LAK554
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |GU₂×(HI×U)|
+@list LAK553
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |GU₂×PAP|
+@list LAK552
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |GU₂×PA|
+@list LAK551
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |HI.SUHUR|
+@list LAK223
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |HI×HAL|
+@list LAK365
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |HUL₂×X|
+@list LAK184
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |IGI.SUHUR|
+@list LAK224
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |KA×NI₂|
+@list LAK327
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |KISAL×UD|
+@list LAK725
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAGAB×GAN₂|
+@list LAK789
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAGAB×ŠU|
+@list LAK787
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAK449a×GU|
+@list LAK455a
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAK449a×IGI|
+@list LAK455
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAK490×KASKAL|
+@list LAK491
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAK648×1(DIŠ@c)|
+@list LAK652
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAL×LAGAB|
+@list LAK759
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |LAL₂×DU|
+@list LAK762
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |NINDA₂×2(DIŠ@c)|
+@list LAK101
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |NINDA₂×3(AŠ@c)|
+@list LAK100
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |PIRIG×PA.LAGAB|
+@list LAK258
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |PIRIG×ŠE|
+@list LAK260
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |SAG×NI|
+@list LAK313
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |SAL.AŠ₂|
+@list LAK519
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |SAR×ZIZ₂|
+@list LAK217
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |U&U.GAR₃&GAR₃|
+@list LAK420
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |URU×U₂@t|
+@list LAK599
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |URU×ŠAH₂|
+@list LAK593
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |ŠAR₂×HA|
+@list LAK810
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |ŠIM@g×KUŠU₂|
+@list LAK662
 @inote missing compounds for lak.atf
 @end sign
 
 @sign |ŠIM@g×PI|
+@list LAK661
 @inote missing compounds for lak.atf
 @end sign
 
