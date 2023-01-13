@@ -32937,3 +32937,116 @@
 @sign ŠU@s
 @inote UET II, provisional
 @end sign
+
+@sign AL@s
+@inote for lak.atf
+@end sign
+
+@sign AŠ~a
+@inote for lak.atf
+@end sign
+
+@sign EŠ₂@g@t
+@inote for lak.atf
+@end sign
+
+@sign GU₂@s
+@inote for lak.atf
+@end sign
+
+@sign HU@g
+@inote for lak.atf
+@end sign
+
+@sign KAB@g
+@inote for lak.atf
+@end sign
+
+@sign LAK444
+@inote for lak.atf
+@end sign
+
+@sign LAK445
+@inote for lak.atf
+@end sign
+
+@sign LAK449a
+@inote for lak.atf
+@end sign
+
+@sign LAK456
+@inote for lak.atf
+@end sign
+
+@sign LAK508
+@inote for lak.atf
+@end sign
+
+@sign LAK643
+@inote for lak.atf
+@end sign
+
+@sign LAK722
+@inote for lak.atf
+@end sign
+
+@sign LAK773
+@inote for lak.atf
+@end sign
+
+@sign LAK776
+@inote for lak.atf
+@end sign
+
+@sign LAK804
+@inote for lak.atf
+@end sign
+
+@sign LAK805
+@inote for lak.atf
+@end sign
+
+@sign LAK806
+@inote for lak.atf
+@end sign
+
+@sign LAK81
+@inote for lak.atf
+@end sign
+
+@sign LA₂@t
+@inote for lak.atf
+@end sign
+
+@sign LU₂@g
+@inote for lak.atf
+@end sign
+
+@sign MAŠ₂@g
+@inote for lak.atf
+@end sign
+
+@sign MURUB₄@g
+@inote for lak.atf
+@end sign
+
+@sign U₂@t
+@inote for lak.atf
+@end sign
+
+@sign ŠANABI@c
+@inote for lak.atf
+@end sign
+
+@sign ŠEŠ₂@g
+@inote for lak.atf
+@end sign
+
+@sign ŠIM@g
+@inote for lak.atf
+@end sign
+
+@sign ŠUŠANA@c
+@inote for lak.atf
+@end sign
+
