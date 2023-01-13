@@ -2732,6 +2732,10 @@
 @uname	CUNEIFORM SIGN BAHAR2 TIMES AB2
 @end sign
 
+@sign	|BAHAR₂×GU|
+@inote P010922 o 1
+@end sign
+
 @sign	|BAHAR₂×NI|
 @list LAK745
 @uphase	9
@@ -3456,7 +3460,8 @@
 @v	massa₂
 @end sign
 
-@sign	|DAG.KISIM₅×AB₂|
+@nosign	|DAG.KISIM₅×AB₂|
+@see |BAHAR₂×AB₂|
 @end sign
 
 @sign	|DAG.KISIM₅×AMAR|
@@ -5084,7 +5089,10 @@
 @sign	|DUR₂.DUR₂|
 @ucode	x12089.x12089
 @v	durunₓ
-@inote Fara form of KU.KU in admin/ed3a
+@inote Fara form of "KU.KU" in admin/ed3a
+@form ~a |DUR₂&DUR₂|
+@inote Stack is club-sandwich style, with three horizontals, the middle one shared
+@end form
 @end sign
 
 @sign	E
@@ -5281,9 +5289,12 @@
 @end sign
 
 @sign |E₂×AŠ@t|
+@list LAK734
 @list KWU713
 @list KWU844
 @v	dagₓ
+@v	gukkalₓ
+@inote are there multiple signs with very similar form involved here?
 @end sign
 
 @sign	|E₂×BAD|
@@ -5456,6 +5467,9 @@
 @v	ili₅
 @v	ram₀
 @v	sikil
+@end sign
+
+@sign	ELLES257
 @end sign
 
 @sign	ELLES270
@@ -7390,6 +7404,9 @@
 @v	ganun
 @v	ŋanun
 @v	ušuš
+@form ~a |LAGAB×NUN|
+@inote P010918 o i' 6'
+@end form
 @end sign
 
 @sign	|GA₂×NUN&NUN|
@@ -12234,6 +12251,18 @@
 @v	gurušₓ [MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 23, gu-ru-uš |KA×(KI+ŠU2?)| ka-sa3-su2-um]
 @end sign
 
+@sign	|KA×KID|
+@uphase	1
+@uname	CUNEIFORM SIGN KA TIMES KID
+@inote	merge with KA×SA and refer to Steinkeller MC 4
+@ucode	x12171
+@v	dunₓ
+@v	suₓ
+@v	sulₓ
+@v	sumₓ
+@v	sunₓ
+@end sign
+
 @sign	|KA×KID₂|
 @uphase	0
 @v	šegₓ
@@ -12422,7 +12451,6 @@
 @end sign
 
 @sign	|KA×SA|
-@list ELLES185
 @list LAK333
 @list HZL136
 @list MZL032
@@ -12456,17 +12484,6 @@
 @list LAK332
 @end form
 @form ~d	|KA×(U.U.U)|
-@end form
-@form ~e	|KA×KID|
-@uphase	1
-@uname	CUNEIFORM SIGN KA TIMES KID
-@inote	merge with KA×SA and refer to Steinkeller MC 4
-@ucode	x12171
-@v	dunₓ
-@v	suₓ
-@v	sulₓ
-@v	sumₓ
-@v	sunₓ
 @end form
 @end sign
 
@@ -15390,6 +15407,10 @@
 @list ELLES377
 @list LAK770
 @v	pu₂
+@end form
+@form ~b |LAGAB×1(N01)|
+@inote P519405 iii 5 in PN tul₂-saŋ
+@end form
 @end sign
 
 @sign	|LAGAB×(U.A)|
@@ -16436,6 +16457,10 @@
 @v	zuru₅
 @end sign
 
+@sign	|LAL×DIŠ|
+@inote P519405 v 4 in PN
+@end sign
+
 @sign	|LAL.DUG|
 @v	ummuₓ
 @end sign
@@ -17031,7 +17056,6 @@
 @end sign
 
 @sign	|LU₂×EŠ₂|
-@list ELLES189
 @list OBZL259
 @list SLLHA330_7c
 @uphase	1
@@ -18337,7 +18361,6 @@
 
 @sign	MUNSUB
 @list ELLES329
-@list ELLES330
 @list LAK672b
 @list MZL820
 @list SLLHA543
@@ -19396,6 +19419,10 @@
 @v	%akk/n ilī
 @end sign
 
+@sign	|NI&NI|
+@inote P010558 r 1 2
+@end sign
+
 @sign	|NI.LU|
 @ucode	x1224C.x121FB
 @v	libₓ
@@ -19876,6 +19903,10 @@
 @sign	|NINDA₂×ŠIM|
 @list BAU070
 @inote ED I-II Ur
+@end sign
+
+@sign	|NINDA₂×TUR|
+@inote P010834 o 2
 @end sign
 
 @sign	|NINDA₂×U|
@@ -21976,7 +22007,6 @@
 @end sign
 
 @sign	|SAG×TAK₄|
-@list ELLES163?
 @uphase	9
 @ucode x12530
 @uname	CUNEIFORM SIGN SAG TIMES TAK4
@@ -22643,6 +22673,10 @@
 @ucode x12535
 @uname	CUNEIFORM SIGN SAR TIMES SHE
 @end	sign
+
+@sign	|SAR×U₂|
+@inote P010810 passim
+@end sign
 
 @sign	SI
 @list ELLES050
@@ -24466,6 +24500,10 @@
 @ucode x122C6.x120FB
 @inote dcclt !sg
 @end form
+@end sign
+
+@sign	|ŠIM×GIG|
+@inote P252878 o 2
 @end sign
 
 @sign	|ŠIM×HI|
@@ -28037,7 +28075,6 @@
 
 @sign	UR₄
 @list ELLES247
-@list ELLES324?
 @list LAK472
 @list RSP393
 @list BAU285
@@ -28278,7 +28315,6 @@
 @end sign
 
 @sign	|URU×GU|
-@list ELLES296?
 @list LAK602
 @list RSP302
 @list MZL084
@@ -31699,7 +31735,6 @@
 @inote For validating sign-lists
 @end sign
 @sign |HI×X|
-@list ELLES214
 @inote For validating sign-lists
 @end sign
 @sign |KI×X|
@@ -32078,12 +32113,6 @@
 
 @sign KWU729
 @inote admin/names
-@end sign
-
-@sign LAK734
-@list LAK734
-@inote admin/names
-@v	gukkalₓ
 @end sign
 
 @sign |KAM×U|
@@ -32794,6 +32823,10 @@
 
 @sign |LAK617×LA@n|
 @list BAU304
+@end sign
+
+@sign |UNKEN×AN|
+@inote P011071 o 3
 @end sign
 
 @sign |UNKEN×DUG|
