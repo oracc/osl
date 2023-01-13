@@ -4377,6 +4377,7 @@
 @v	kaš₄⁻
 @inote	Attinger ~ kaš₄
 @end form
+@form ~b |DU×KASKAL|
 @end sign
 
 @sign	|DU@s.A|
@@ -18972,6 +18973,8 @@
 @form ~k |GIŠ.PAP.NE@s|
 @v    bilₓ
 @end form
+@form ~l |NE×KASKAL|
+@end form
 @end sign
 
 @sign	NI
@@ -33048,5 +33051,149 @@
 
 @sign ŠUŠANA@c
 @inote for lak.atf
+@end sign
+
+@sign |(AB₂.ŠA₃)&(AB₂.ŠA₃)|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |AŠ×1(AŠ@t)|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |DU@g×KASKAL|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |EN×A|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |GIR×IGI.LU|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |GU₂×(HI×DIŠ)|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |GU₂×(HI×U)|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |GU₂×PAP|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |GU₂×PA|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |HI.SUHUR|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |HI×HAL|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |HUL₂×X|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |IGI.SUHUR|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |KA×NI₂|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |KISAL×UD|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAGAB×GAN₂|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAGAB×ŠU|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAK449a×GU|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAK449a×IGI|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAK490×KASKAL|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAK648×1(DIŠ@c)|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAL×LAGAB|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |LAL₂×DU|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |NINDA₂×2(DIŠ@c)|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |NINDA₂×3(AŠ@c)|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |PIRIG×PA.LAGAB|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |PIRIG×ŠE|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |SAG×NI|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |SAL.AŠ₂|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |SAR×ZIZ₂|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |U&U.GAR₃&GAR₃|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |URU×U₂@t|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |URU×ŠAH₂|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |ŠAR₂×HA|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |ŠIM@g×KUŠU₂|
+@inote missing compounds for lak.atf
+@end sign
+
+@sign |ŠIM@g×PI|
+@inote missing compounds for lak.atf
 @end sign
 
