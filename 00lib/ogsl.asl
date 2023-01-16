@@ -3461,7 +3461,7 @@
 @end sign
 
 @nosign	|DAG.KISIM₅×AB₂|
-@see |BAHAR₂×AB₂|
+@inote see |BAHAR₂×AB₂|
 @end sign
 
 @sign	|DAG.KISIM₅×AMAR|
@@ -31735,6 +31735,7 @@
 @inote For validating sign-lists
 @end sign
 @sign |HI×X|
+@list ELLES214
 @inote For validating sign-lists
 @end sign
 @sign |KI×X|
