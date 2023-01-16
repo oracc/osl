@@ -11427,7 +11427,7 @@
 @end sign
 
 @sign	|IM.NI.UD|
-@ucode	x1214E.x1224C.x12313
+@ucode	x1214E.x1238E
 @v	enaqa
 @end sign
 
@@ -19424,7 +19424,7 @@
 @list OBZL262
 @list SLLHA229n
 @list KWU779
-@ucode	x1224C.x12313
+@ucode	x1238E
 @v	%akk abnu
 @v	%akk aban
 @v	atumₓ
@@ -19443,12 +19443,12 @@
 @end sign
 
 @sign	|NI.UD.EN|
-@ucode	x1224C.x12313.x12097
+@ucode	x1238E.x12097
 @v	enna
 @end sign
 
 @sign	|NI.UD.KI|
-@ucode	x1224C.x12313.x121A0
+@ucode	x1238E.x121A0
 @v	atum
 @end sign
 
