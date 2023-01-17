@@ -12685,7 +12685,7 @@
 @list RSP208
 @list MZL051
 @ucode	x12189.x12047
-@v	KAxUD-bar
+@inote @v	KAxUD-bar
 @v	zabar₃
 @v	zibar₃
 @end sign
