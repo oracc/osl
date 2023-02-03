@@ -2883,7 +2883,7 @@
 @list SLLHA546
 @ucode	x122D9.x1202D
 @end form
-@form ~c |ŠU₂.3xAN|
+@form ~c |ŠU₂.3×AN|
 @ucode	x122D9.x1202F
 @v	kunga
 @v	kungi
@@ -5992,9 +5992,9 @@
 @inote Several of the forms listed below have not been found yet and may be spurious. Krebernik ZA 76, 202 notes forms of saman₃ that begin with LUH. Check RlA {d}saman. LUH forms added sjt.
 @v	saman
 @v	samanurₓ
-@v	samun+
-@v	šaman+
-@v	šamanur+
+@v	samun⁺
+@v	šaman⁺
+@v	šamanur⁺
 @form ~a	|EŠ₂.BU.NUN.EŠ₂.TU|
 @ucode	x120A0.x1204D.x12263.x120A0.x12305
 @v	saman₂
@@ -10390,7 +10390,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN HI TIMES U
 @ucode	x12136
-@v	bur'uₓ
+@v	#old bur'uₓ
 @v	burʾuₓ
 @v	ellaŋₓ
 @v	dubur₂
@@ -12489,8 +12489,6 @@
 
 @sign	|KA×SAL|
 @v	zarahₓ
-@v	za·rahₓ
-@v	za°rahₓ
 @end sign
 
 @sign	|KA×SAR|
@@ -22770,7 +22768,7 @@
 
 @sign	|SI@g.A|
 @ucode	x122DC.x12000
-@v	#struck su₉
+@v	#old su₉
 @end sign
 
 @sign	|SI×TAK₄|
@@ -25474,7 +25472,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN TAB OVER TAB NI OVER NI DISH OVER DISH
 @ucode	x122F1
-@v	#struck ubinigga
+@v	#old ubinigga
 @v?	ubišaga [K 4386 = dcclt/nineveh:P365399 r ii 31]
 @note	Presumably, this is an attempt to write an archaizing form of UMBISAG₂; see An = Anum 1, 158.
 @end sign
@@ -27115,7 +27113,7 @@
 
 @sign	|UD.A|
 @ucode	x12313.x12000
-@v	#struck peš₉
+@v	#old peš₉
 @end sign
 
 @sign	|UD.AB|
@@ -29953,7 +29951,7 @@
 @v	1(burʾu@c)
 @end form
 @form ~b |U×KASKAL|
-@v    bur'uₓ
+@v    #old bur'uₓ
 @v    burʾuₓ
 @inote does U×KASKAL ever occur or is it always U@c×KASKAL?
 @end form
@@ -32421,8 +32419,11 @@
 @end sign
 
 @sign |AŠ×DIŠ@t|
+@fake 1
 @list RSP093
-@v 1(|AŠ×DIŠ@t|)
+@end sign
+@sign 1(|AŠ×DIŠ@t|)
+@list RSP093
 @end sign
 @sign 2(|AŠ×DIŠ@t|)
 @list RSP093
@@ -32446,6 +32447,7 @@
 @list RSP093
 @end sign
 @sign 9(|AŠ×DIŠ@t|)
+@list RSP093
 @end sign
 
 @sign |IGI.LAGAB|
