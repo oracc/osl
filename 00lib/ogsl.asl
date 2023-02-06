@@ -15295,7 +15295,7 @@
 @ucode	x121DD
 @v	meₓ
 @v	sagduduₓ
-@v	sŋgduduₓ
+@v	saŋduduₓ
 @end form
 @form	~b |LAGAB×ŠITA₂|
 @v	me₉ [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 3']
