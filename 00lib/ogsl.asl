@@ -11444,7 +11444,7 @@
 @end sign
 
 @sign	|IM.NI.UD|
-@ucode	x1214E.x1224C.x12313
+@ucode	x1214E.x1238E
 @v	enaqa
 @end sign
 
@@ -18012,7 +18012,7 @@
 @sign	|MAŠ.U.U|
 @list MZL126
 @list SLLHA074+471
-@ucode	x12226.x1230B.x1230B
+@ucode	x12226.x12399
 @v-    saŋgidim [CUSAS 12, JON 38 = dcclt:P414356 ii 11', MAŠ saŋ-gi-di-im |U.U| = ma-a-šu]
 @note  The gloss is a conflation of gidim₂(|MAŠ.U|) and saŋmin(|MAŠ.U.U|)
 @v      mašmin [MA Ea = dcclt:P345960 o iv 20']
@@ -19449,7 +19449,7 @@
 @list OBZL262
 @list SLLHA229n
 @list KWU779
-@ucode	x1224C.x12313
+@ucode	x1238E
 @v	%akk abnu
 @v	%akk aban
 @v	atumₓ
@@ -19468,12 +19468,12 @@
 @end sign
 
 @sign	|NI.UD.EN|
-@ucode	x1224C.x12313.x12097
+@ucode	x1238E.x12097
 @v	enna
 @end sign
 
 @sign	|NI.UD.KI|
-@ucode	x1224C.x12313.x121A0
+@ucode	x1238E.x121A0
 @v	atum
 @end sign
 
@@ -23464,7 +23464,7 @@
 @end sign
 
 @sign	|ŠA₃.U.U|
-@ucode x122AE.x1230B.x1230B
+@ucode x122AE.x12399
 @inote OBMC
 @v	tigidlaₓ
 @end sign
@@ -26619,7 +26619,7 @@
 @list MZL708
 @list OBZL363
 @list SLLHA471
-@ucode	x1230B.x1230B
+@ucode	x12399
 @v	amna₂
 @v	buzur₂
 @v	gešₓ
