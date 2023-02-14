@@ -32417,7 +32417,10 @@
 @end sign
 @sign	|UR×DIŠ|
 @end sign
-
+@sign |LAGAB×PAP|
+@end sign
+@sign |GIR₃×X|
+@end sign
 @sign |AŠ×DIŠ@t|
 @fake 1
 @list RSP093
