@@ -1643,6 +1643,8 @@
 @ucode	x1202D
 @v	sagₓ
 @v?	a₁₁
+@v	alₓ
+@inote Amarna
 @v	am₆
 @v	an
 @v	ana₂
@@ -1674,6 +1676,8 @@
 @v	sa₈
 @v	šubul
 @v	ṣa₃
+@v	ulₓ
+@inote Amarna
 @v	usanₓ
 @v	za₅
 @end sign
@@ -12977,6 +12981,8 @@
 @v	kal₃
 @v	kaq
 @v	ki₇
+@v	kitₓ
+@inote Amarna
 @v	qa₆
 @v	qaq
 @v	qi₆
@@ -23699,6 +23705,9 @@
 @v	1(šargal@c)
 @end sign
 
+@sign |ŠAR₂×GAL|
+@end sign
+
 @sign	|ŠAR₂×(GAL.DIŠ)|
 @list MZL651
 @list SLLHA408
@@ -33933,3 +33942,10 @@
 @inote missing compounds for elles.atf
 @end sign
 
+@sign |TUR×ARAD|
+@inote appears as logograms in PNs in Babcity
+@end sign
+
+@sign |KA×NA|
+@inote hapax in Amarna; suspicious
+@end sign
