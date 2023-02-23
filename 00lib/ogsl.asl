@@ -4866,6 +4866,7 @@
 @v	dukudₓ
 @v?	gi₂₅
 @v	ŋi₂₅
+@v	muruₓ
 @v	kaptu
 @v	qaptu
 @end sign
@@ -8008,6 +8009,7 @@
 @inote	Attinger ~ sag₇
 @v	seg₁₆
 @v	sig₁₆
+@v	šaganₓ
 @form ~a |GAN×HI|
 @list BAU048
 @v	he₂
@@ -17398,6 +17400,7 @@
 @v	adₓ
 @v	ad₈
 #inote CDLI
+@v	addaₓ
 @end sign
 
 @sign	LU₂@t
@@ -21069,10 +21072,11 @@
 @uphase	1
 @uname	CUNEIFORM SIGN PAD
 @ucode	x1227B
-@v	guₓ
 @v	bad₂
 @v	bat₂
 @v	bu₁₅
+@v	burₓ
+@v	guₓ
 @v	kur₆
 @v	kurum₆
 @v	kurummaₓ
@@ -22646,6 +22650,7 @@
 @v	nisig
 @v	nissa
 @v	niša
+@v	saₓ
 @v	sahar₂
 @v	sakar
 @v	sar
@@ -25764,6 +25769,7 @@
 @v	gal₅
 @v	gallaₓ
 @v	gul₃
+@v	kurunₓ
 @v	mul₂
 @v	te
 @v	teg₃
