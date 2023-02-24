@@ -23733,6 +23733,14 @@
 @v	šargalmin
 @end sign
 
+@sign	|ŠAR₂×U@g|
+@inote etcsri
+@end sign
+
+@sign	|ŠAR₂×KASKAL|
+@inote etcsri
+@end sign
+
 @sign	ŠE
 @list ELLES118
 @list LAK199
@@ -32603,6 +32611,10 @@
 
 @sign |AB×DIŠ|
 @inote ed3b no image needs collation
+@end sign
+
+@sign |AB×LAK178|
+@inote ed3b P216834 maybe connect with mahₓ(|AB×U|)
 @end sign
 
 @sign |AŠ×BAD|
