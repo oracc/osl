@@ -2264,18 +2264,6 @@
 @v     aš-šur
 @end sign
 
-@sign	|AŠ&AŠ&AŠ|
-@list LAK133
-@list BAU084
-@list MZL505
-@list SLLHA325a
-@uphase	1
-@uname	CUNEIFORM SIGN ASH OVER ASH OVER ASH
-@ucode	x1203C
-@v	eš₁₆
-@v	šušur
-@end sign
-
 @sign	|AŠ&AŠ&AŠ.AŠ&AŠ&AŠ|
 @ucode	x1203C.x1203C
 @v	aš₉
@@ -15703,6 +15691,17 @@
 @end sign
 
 @sign	|ŠE+SAR.HI.ZU&ZU|
+@form ~a |ŠE+SAR.HI.SAR.ZU&ZU|
+@form ~b |HI.ŠE+SAR.ZU&ZU|
+@end sign
+
+@sign	|ZU&ZU.ŠE|
+@end sign
+
+@sign	|ZU&ZU.ŠE.SAR|
+@end sign
+
+@sign	|ZU&ZU|
 @end sign
 
 @sign	LAK262
@@ -25537,11 +25536,6 @@
 @inote	salgues
 @end sign
 
-@sign	|TAB.AŠ|
-@ucode	x122F0.x12038
-@v	eš₂₁
-@end sign
-
 @sign	|TAB.KUN|
 @list MZL214
 @list SLLHA125v
@@ -29633,10 +29627,6 @@
 @end form
 @end sign
 
-@sign	|ZU&ZU|
-@inote or |ZU&ZU.ZU&ZU|{sar}?
-@end sign
-
 @sign	|ZU&ZU.SAR|
 @list LAK218
 @list BAU136
@@ -29853,19 +29843,27 @@
 @end sign
 
 @sign	3(AŠ~a)
+@inote @alias |AŠ&AŠ&AŠ|
+@list LAK133
+@list BAU084
+@list MZL505
+@list SLLHA325a
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH16
 @ucode	x1243A
 @v	3(aš@v)
 @v	3(aš@v@c)
 @v	eš₁₆
+@v	šušur
 @form ~a |AŠ@z&AŠ@z&AŠ@z|
 @v	eš₁₆ [Ass 00523 = dcclt/signlists:P370411 r i 50]
 @inote	salgues
 @end form
+@inote double-encoded as x1203C
 @end sign
 
 @sign	3(AŠ~b)
+@inote alias |TAB.AŠ|
 @list MZL210
 @list SLLHA124a
 @uphase	1
