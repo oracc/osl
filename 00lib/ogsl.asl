@@ -2243,12 +2243,6 @@
 @v	min₅
 @end sign
 
-@sign	|AŠ.AŠ.AŠ|
-@list MZL004
-@ucode	x12038.x12038.x12038
-@v	eš₆
-@end sign
-
 @sign	|AŠ.GAN₂|
 @ucode	x12038.x120F7
 @list MZL174
@@ -2272,7 +2266,6 @@
 
 @sign	|AŠ&AŠ&AŠ|
 @list LAK133
-@list LAK191
 @list BAU084
 @list MZL505
 @list SLLHA325a
@@ -15709,6 +15702,9 @@
 @end form
 @end sign
 
+@sign	|ŠE+SAR.HI.ZU&ZU|
+@end sign
+
 @sign	LAK262
 @list ELLES148
 @list LAK262
@@ -15721,7 +15717,7 @@
 @lit	Krebernik OBO 160/1, 280
 @end sign
 
-@sign	LAK397
+@sign	|ŠU₂.E₂|
 @list LAK397
 @uphase	0
 @end sign
@@ -17058,6 +17054,8 @@
 @v	šimaški₂
 @end sign
 
+@sign	|(LU₂.DUR₂)&(LU₂.DUR₂)|
+@end sign
 
 @sign	|LU₂.TUG₂|
 @ucode x121FD.x12306
@@ -18633,6 +18631,12 @@
 @ucode x12521
 @uname	CUNEIFORM SIGN MUSH OVER MUSH TIMES KAK
 @v	? [CUSAS 12, 6.1.3 = cdli:P252194 o iv 4]
+@form ~a |MUŠ%MUŠ.KAK|
+@inote P218299 7
+@end form
+@form ~b |MUŠ%MUŠ.HI|
+@inote P484014 possibly OB miscopy for |MUŠ%MUŠ.KAK|
+@end form
 @end sign
 
 @sign	|MUŠ%MUŠ|
@@ -18653,6 +18657,9 @@
 @end form
 @form ~b |BU.BU|
 @v	riₓ
+@end form
+@form ~c |(PAP.PAP)&(PAP.PAP)|
+@inote Ebla only; association with ri₈/rin₄ not certain
 @end form
 @end sign
 
@@ -24007,6 +24014,9 @@
 @form ~b	|U₂.(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
 @v	ninniₓ
 @end form
+@form ~c	|U₂.(ŠE.NUN&NUN)%(ŠE.NUN&NUN)|
+@v	ninniₓ
+@end form
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR|
@@ -26814,14 +26824,18 @@
 @v	ušu₃
 @v	3(u)
 @v	3(bur₃)
+@form ~a 3(AŠ@t)
+@end form
 @form ~c 3(U@c)
 @ucode	xeb8d
 @v	3(u@c)
 @v	3(bur₃@c)
 @v	eše@c
+@end form
 @form ~d 3(U@c)@v
 @ucode	xeb8e
 @v	3(u@c)@v
+@end form
 @end sign
 
 @sign	|U.U.U.AŠ₃|
@@ -29365,7 +29379,7 @@
 
 @sign LAK283a
 @list LAK283a
-@inote modified ZAG; possibly a form of U.ZAG?
+@inote modified ZAG; possibly a form of U.ZAG?; is this legit? CDLI SF 70 uses LAK283a but not clear why
 @end sign
 
 @sign	|ZAG.AN|
@@ -29619,6 +29633,10 @@
 @end form
 @end sign
 
+@sign	|ZU&ZU|
+@inote or |ZU&ZU.ZU&ZU|{sar}?
+@end sign
+
 @sign	|ZU&ZU.SAR|
 @list LAK218
 @list BAU136
@@ -29748,6 +29766,7 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN THREE ASH
 @ucode	x12401
+@v	eš₆
 @v	3(aš)
 @v	3(iku)
 @form ~c 3(AŠ@c)
@@ -29922,6 +29941,7 @@
 @end sign
 
 @sign	3(AŠ@t)
+@list LAK191
 @list MZL629
 @list SLLHA325an
 @uphase	1
