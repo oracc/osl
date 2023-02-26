@@ -8730,6 +8730,7 @@
 @v	ŋiri₃
 @v	huš₂
 @v	imeriₓ
+@v	ilₓ
 @v	ir₉
 @v	irra
 @inote	Attinger ~ ir₉
@@ -10059,6 +10060,13 @@
 @v	ta₈
 @v	ṭa₃
 @v	ṭab₆
+@form ~a DIN
+@v	hi
+@inote P345976 = CT  CT 18, pl. 01-04 (K 04375) 3. ki-iš-hi(DIN) : hi(HI) = MIN<(ku-us-su#-u)>
+@inote Borger's n633 TI₂ "abgeleitet aus n119 DIN" which has reference sign form HI in MZL and Unicode is behind this @form
+@inote In OGSL terms it would probably have been better not to disunify but making DIN an @form of HI with value hi is
+@inote the best we can do now.
+@end form
 @end sign
 
 @sign	|HI.A|
@@ -12912,6 +12920,7 @@
 @v	kat₃
 @v	kata₃
 @v	kud₆
+@v	murₓ
 @v?	qat₇
 @v	šed₄
 @end sign
@@ -12959,7 +12968,6 @@
 
 @sign	KAD₅
 @list LAK173
-@list LAK173?
 @list MZL569
 @list OBZL227b
 @list SLLHA354bv
@@ -17909,6 +17917,11 @@
 @sign	|MA₂.KASKAL.IGI@g&IGI@g|
 @end sign
 
+@sign	|MA₂.LIŠ|
+@v	surraₓ
+@form	~a |MA₂.HI.DIŠ|
+@end sign
+
 @sign	|MA₂.MUG|
 @list MZL202
 @list OBZL051
@@ -21955,6 +21968,9 @@
 @v	%akk/n muhhu
 @v	sagdu
 @v	saŋdu
+@form	~a |SAG.DU|
+@v	%akk/n muhhu
+@end form
 @end sign
 
 @sign	|SAG×DU₃|
@@ -25025,6 +25041,7 @@
 @sign	|ŠU.KAD₄|
 @ucode	x122D7.x12192
 @v	peš₁₄
+@form	~a |ŠU.KAD₅|
 @end sign
 
 @sign	|ŠU.KAL|
@@ -27052,6 +27069,7 @@
 
 @sign	|U₂.NAGA.GA|
 @ucode	x12311.x12240.x120B5
+@v	buruₓ
 @v	uga
 @form	~a |U₂.NAGA|
 @ucode	x12311.x12240
@@ -31197,6 +31215,7 @@
 @ucode	x12244.x12079
 @inote epsd2
 @v     kušaₓ
+@inote link to UD.KUŠ<U
 @end sign
 
 @sign |NE@s.GI|
