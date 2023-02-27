@@ -30689,6 +30689,7 @@
 @v	ŋeš₂
 @v	ŋiš₂
 @v	1(geš₂)
+@v	1(ŋeš₂)
 @form ~c GEŠ₂@c
 @list RSP025
 @ucode	xeb96
@@ -30709,6 +30710,7 @@
 @uname	CUNEIFORM NUMERIC SIGN TWO GESH2
 @ucode	x12416
 @v	2(geš₂)
+@v	2(ŋeš₂)
 @form ~c 2(GEŠ₂@c)
 @ucode	xeb97
 @v	2(geš₂@c)
@@ -30719,6 +30721,7 @@
 @uname	CUNEIFORM NUMERIC SIGN THREE GESH2
 @ucode	x12417
 @v	3(geš₂)
+@v	3(ŋeš₂)
 @form ~c 3(GEŠ₂@c)
 @ucode	xeb98
 @v	3(geš₂@c)
@@ -30732,6 +30735,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FOUR GESH2
 @ucode	x12418
 @v	4(geš₂)
+@v	4(ŋeš₂)
 @form ~c 4(GEŠ₂@c)
 @ucode	xeb9a
 @v	4(geš₂@c)
@@ -30745,6 +30749,7 @@
 @uname	CUNEIFORM NUMERIC SIGN FIVE GESH2
 @ucode	x12419
 @v	5(geš₂)
+@v	5(ŋeš₂)
 @form ~c 5(GEŠ₂@c)
 @ucode	xeb9c
 @v	5(geš₂@c)
@@ -30755,6 +30760,7 @@
 @uname	CUNEIFORM NUMERIC SIGN SIX GESH2
 @ucode	x1241A
 @v	6(geš₂)
+@v	6(ŋeš₂)
 @form ~c 6(GEŠ₂@c)
 @ucode	xeb9d
 @v	6(geš₂@c)
@@ -30765,6 +30771,7 @@
 @uname	CUNEIFORM NUMERIC SIGN SEVEN GESH2
 @ucode	x1241B
 @v	7(geš₂)
+@v	7(ŋeš₂)
 @form ~c 7(GEŠ₂@c)
 @ucode	xeb9e
 @v	7(geš₂@c)
@@ -30775,6 +30782,7 @@
 @uname	CUNEIFORM NUMERIC SIGN EIGHT GESH2
 @ucode	x1241C
 @v	8(geš₂)
+@v	8(ŋeš₂)
 @form ~c 8(GEŠ₂@c)
 @ucode	xeb9f
 @v	8(geš₂@c)
@@ -30785,6 +30793,7 @@
 @uname	CUNEIFORM NUMERIC SIGN NINE GESH2
 @ucode	x1241D
 @v	9(geš₂)
+@v	9(ŋeš₂)
 @form ~c 9(GEŠ₂@c)
 @ucode	xeba0
 @v	9(geš₂@c)
