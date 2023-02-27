@@ -34315,3 +34315,43 @@
 @inote addx
 @v	siraraₓ
 @end sign
+
+@sign	|GAN₂@t&GAN₂@t|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|KA&KA|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|MUŠ₃&MUŠ₃|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|SAR&SAR|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|TE&TE|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|TU&TU|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|U&U|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|UD&UD|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|ZI.LAGAB&ZI.LAGAB|
+@inote gvl dcclt amp-adds
+@end sign
+
+@sign	|ŠE.NUN.LAGAB&ŠE.NUN.LAGAB|
+@inote gvl dcclt amp-adds
+@end sign
