@@ -34364,3 +34364,7 @@
 @sign	|ŠE.NUN.LAGAB&ŠE.NUN.LAGAB|
 @inote gvl dcclt amp-adds
 @end sign
+
+@sign	|UD.SAL.KAB|
+@inote gvl dcclt
+@end sign
