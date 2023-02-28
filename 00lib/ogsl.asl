@@ -7212,6 +7212,8 @@
 @uname	CUNEIFORM SIGN GA2 TIMES HA PLUS LU PLUS ESH2
 @ucode	x120D1
 @v	halubba
+@form	~a |GA₂×(HA.LU.UB)|
+@inote Certainly UB₁ not UB₂(EŠ₂) on P388293 i 7, collated from photo.
 @end sign
 
 @sign	|GA₂×HAL|
@@ -7631,6 +7633,9 @@
 @v	erin₄
 @v	etam
 @v	karam
+@form	~a |GA₂×ERIN₂|
+@inote OB copy of ED source which has |GA₂×UD|; needs collation
+@end form
 @end sign
 
 @sign	|GA₂×(UD.DU)|
@@ -9513,6 +9518,12 @@
 @v?	turan
 @end sign
 
+@sign	|GU₂×KAK×IGI|
+@uphase	1
+@uname	CUNEIFORM SIGN GU2 TIMES KAK TIMES IGI
+@form ~a |GU₂×KAK.IGI|
+@end sign
+
 @sign	|GU₂×KAK×IGI@g|
 @uphase	1
 @uname	CUNEIFORM SIGN GU2 TIMES KAK TIMES IGI GUNU
@@ -10506,6 +10517,7 @@
 @v	talₓ
 @v	u₁₁
 @v	usan₅
+@form	~a RI
 @end sign
 
 @sign	|HU.HI|
@@ -12099,6 +12111,7 @@
 @list LAK323
 @list RSP201
 @v	šudaₓ
+@form ~c |SAG×GAN₂@t|
 @end sign
 
 @sign	|KA×GAN₂@t.ŠA|
@@ -14895,6 +14908,7 @@
 @v	gigira
 @v	pu₆
 @v	tul₈
+@form	~a |LAGAB×UŠ₂|
 @end sign
 
 @sign	|LAGAB×BI|
@@ -15732,8 +15746,7 @@
 @end sign
 
 @sign	|ŠE+SAR.HI.ZU&ZU|
-@form ~a |ŠE+SAR.HI.SAR.ZU&ZU|
-@form ~b |HI.ŠE+SAR.ZU&ZU|
+@form ~a |HI.ŠE+SAR.ZU&ZU|
 @end sign
 
 @sign	|ZU&ZU.ŠE|
@@ -16210,7 +16223,7 @@
 @uphase	0
 @end sign
 
-@sign	LAK524
+@sign	|ZUM×TUG₂|
 @list ELLES279
 @list LAK524
 @list MZL885
@@ -16292,7 +16305,7 @@
 @v	bunₓ
 @lit	Peterson dissertation (2007), 226 with previous literature
 @inote	sign appears (only?) in TSŠ 46 vii 2' ##CHECK add reference
-@inote	also P010566 = SF 1 o vii 6 (Fara god list)
+@inote	also P010566 = SF 1 o vii 6 (Fara god list); Note |LAK611×AŠ| in SF 64 v 5
 @end sign
 
 @sign	|LAK617×BAD|
@@ -16506,6 +16519,7 @@
 @ucode x12510
 @uname	CUNEIFORM SIGN LAK648 TIMES IGI
 @v	banšurₓ
+@inote Ebla sign list si-la-ga-um
 @end	sign
 
 @sign	|LAK648×IGI@g|
@@ -19827,6 +19841,7 @@
 @inote	salgues
 @v	indadilida [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 18]
 @inote	salgues
+@form	~a |NINDA₂×(AŠ@c.AŠ@c)|
 @end sign
 
 @sign	|NINDA₂×BAL|
@@ -20074,6 +20089,7 @@
 @uphase	9
 @ucode x1252B
 @uname	CUNEIFORM SIGN NINDA2 TIMES U PLUS U
+@form	~a |NINDA₂×(U@c.U@c)|
 @end sign
 
 @sign	|NINDA₂×U₂|
@@ -21841,7 +21857,6 @@
 @uphase	1
 @uname	CUNEIFORM SIGN RI
 @ucode	x12291
-@note	In some phases of cuneiform the sign RI may stand for HU and vv. The sign values of HU are not repeated here.
 @v-	bagₓ
 @v-	bakₓ
 @v	dal
@@ -21860,6 +21875,8 @@
 @v	tal
 @v	tala
 @v	ṭal
+@form	~a HU
+@note	In some phases of cuneiform the sign RI may stand for HU and vv. The sign values of HU are not repeated here.
 @end sign
 
 @sign	RU
@@ -26323,6 +26340,7 @@
 @uphase	9
 @ucode x1253B
 @uname	CUNEIFORM SIGN TUM TIMES DISH PLUS DISH PLUS DISH
+@inote Do the TUM group need further specification of whether the waist is "gunified" or not?
 @end sign
 
 @sign	|TUM×GAN₂@t|
@@ -34006,10 +34024,12 @@
 @inote missing compounds for lak.atf
 @end sign
 
-@sign |NINDA₂×2(DIŠ@c)|
+@sign	|NINDA₂×2(DIŠ)|
+@form	~a |NINDA₂×2(DIŠ@c)|
 @list ELLES059
 @list LAK101
 @inote missing compounds for lak.atf
+@end form
 @end sign
 
 @sign |NINDA₂×3(AŠ@c)|
