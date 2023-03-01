@@ -571,6 +571,8 @@
 @end form
 @form	~l |A.TU.A.TU.GABA.LIŠ|
 @end form
+@form	~m |A.TU.GABA.LIŠ.GAR|
+@end form
 @end sign
 
 @sign	|A.TUR|
@@ -3471,6 +3473,9 @@
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES A PLUS MASH
 @ucode	x12057
 @v	massa₂
+@form ~a |E.KISIM₅×(A.MAŠ)|
+@inote Hittite
+@end form
 @end sign
 
 @nosign	|DAG.KISIM₅×AB₂|
@@ -3494,6 +3499,9 @@
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES BALAG
 @ucode	x12059
 @v	šaran
+@form ~a |E.KISIM₅×BALAG|
+@inote Hittite
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×BI|
@@ -3520,6 +3528,9 @@
 @v	kisim₇
 @v	subₓ
 @v	ubur
+@form ~a |E.KISIM₅×GA|
+@inote Hittite
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×(GA.MAŠ)|
@@ -3551,6 +3562,9 @@
 @v	kisiₓ
 @v	kisim₄
 @v	kiši₈
+@form ~a |E.KISIM₅×GIR₂|
+@inote Hittite
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×GUD|
@@ -3613,6 +3627,9 @@
 @ucode	x12064
 @v	lahta₆
 @v	lahtan₆
+@form ~a |E.KISIM₅×LA|
+@inote Hittite
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×LU|
@@ -3698,6 +3715,9 @@
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES TAK4
 @ucode	x1206B
 @v	zibin
+@form ~a |E.KISIM₅×TAK₄|
+@inote Hittite
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×(U₂.GIR₂)|
@@ -3720,6 +3740,9 @@
 @v	šurin₅
 @v?	šurun₅
 @v	zibin₂
+@form ~a |E.KISIM₅×(U₂.GIR₂)|
+@inote Hittite
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×UŠ|
@@ -13477,6 +13500,7 @@
 @v	gešbun₂
 @v	ŋešbun₂
 @v	ŋišbun₂
+@form	~a |BI.KI|
 @end sign
 
 @sign	|KI.BI.GAR|
@@ -13488,6 +13512,7 @@
 @v	ŋišbun
 @v	gizbun
 @v	šubun
+@form	~a |BI.KI.GAR|
 @end sign
 
 @sign	|KI.BI.KAK|
@@ -13851,6 +13876,9 @@
 @v	tigiₓ
 @form ~a |E₂.BALAG|
 @ucode x1208D.x12046
+@end form
+@form ~b |BALAG.KID|
+@end form
 @end sign
 
 @sign	|KID.MAH|
@@ -16683,6 +16711,7 @@
 @v	halbu₄
 @v	halpiₓ
 @v	halpiaₓ
+@form	~a |LAL₂×HAL|
 @end sign
 
 @sign	|LAL₂.LAGAB|
@@ -18003,6 +18032,9 @@
 @v	sura₁₀
 @v	surru₂
 @v	zur₃
+@form	~a |MA₂.IGI|
+@inote uncertain; P271567 three times
+@end form
 @end sign
 
 @sign	MAH
@@ -19271,6 +19303,9 @@
 @sign	|NAM.LUGAL|
 @ucode	x12246.x12217
 @v	pala
+@form	~a |TUG₂.NAM.LUGAL|
+@inote in {d}pala? OB Diri
+@end form
 @end sign
 
 @sign	|NAM.SAL.TUG₂|
@@ -19749,6 +19784,7 @@
 @v      tum₃⁻
 @inote	Attinger
 @end form
+@form ~b |NIM×GAN₂|
 @end sign
 
 @sign	|NIM×(GAR.GAN₂@t)|
@@ -19842,6 +19878,7 @@
 @v	indadilida [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 18]
 @inote	salgues
 @form	~a |NINDA₂×(AŠ@c.AŠ@c)|
+@form	~b |NINDA₂.AŠ.AŠ|
 @end sign
 
 @sign	|NINDA₂×BAL|
@@ -20363,6 +20400,9 @@
 @v	gagaₓ
 @v	galgaₓ
 @v	ŋalgaₓ
+@form	~a |NUN.LA.GA₂×GAR|
+@v	gagaₓ
+@end form
 @end sign
 
 @nosign	|NUN.LAGAR×NUN.LAGAR|
@@ -20421,6 +20461,7 @@
 @uname	CUNEIFORM SIGN NUN LAGAR TIMES USH
 @ucode	x12268
 @v	[...]rig
+@form	~a |NUN.LA.GA₂×UŠ|
 @end sign
 
 @sign	|NUN.ME|
@@ -21094,6 +21135,7 @@
 @v	šab₅
 @v	šap₅
 @v	zip₃
+@form	~a |PA.EŠ₂|
 @end sign
 
 @sign	|PA.LUGAL|
@@ -22098,6 +22140,9 @@
 @v	muhhumₓ
 @v	%akk/n muhhu
 @v	muh₂
+@form ~a |SAG.NI|
+@inote Emar P271337
+@end form
 @end sign
 
 @sign	|SAG×KAK.GABA|
@@ -23262,6 +23307,9 @@
 @form	~i |TAK₄.SILA₃.GABA|
 @v	šagia
 @end form
+@form	~j |ŠU.SILA₃.GABA.A|
+@v	šagia
+@end form
 @end sign
 
 @sign	SU
@@ -23984,6 +24032,9 @@
 @sign	|ŠE.KAK|
 @ucode	x122BA.x12195
 @v	henbur₂
+@end sign
+
+@sign	|ŠE.KAK.A|
 @end sign
 
 @sign	|ŠE.KIN|
@@ -27088,6 +27139,9 @@
 @ucode	x12000.x121C9.X
 @v	azadₓ
 @end form
+@form	~f |A.LAGAB×KUL.ŠU₂|
+@v	azadₓ
+@end form
 @end sign
 
 @sign	|U₂.GIR₂@g|
@@ -29642,6 +29696,8 @@
 @lit   MSL 14, 49 note at line 453.
 @v-	gugₓ
 @v	sumₓ
+@end form
+@form ~b	|ZI&ZI.LAGAB&LAGAB|
 @end form
 @end sign
 
@@ -34260,11 +34316,6 @@
 @v	udnimₓ
 @end sign
 
-@sign	|NUN.LA.GA₂×GAR|
-@inote addx
-@v	gagaₓ
-@end sign
-
 @sign	|GIŠ.TUK.MAŠ|
 @inote addx
 @v	gilgamešₓ
@@ -34387,4 +34438,8 @@
 
 @sign	|UD.SAL.KAB|
 @inote gvl dcclt
+@end sign
+
+@sign	|TAB+ERIN₂×(U.U.U)|
+@inote gvl dcclt Emar
 @end sign
