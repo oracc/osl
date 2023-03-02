@@ -495,6 +495,7 @@
 @v	bir₈
 @v	kašbirₓ
 @form ~a |A.BU|
+@form ~b |SA.SU₃|
 @end sign
 
 @sign	|A.ŠU.NAGA|
@@ -505,6 +506,7 @@
 @sign	|A.ŠU₂.NAGA|
 @ucode	x12000.x122D9.x12240
 @v	šeg₄
+@form	~a |A.ŠU₂.U₂.NAGA|
 @end sign
 
 @sign	|A.TAR.A.AN|
@@ -1605,6 +1607,9 @@
 @v	marad₂
 @end sign
 
+@sign	|AMAR.ERIN₂|
+@end sign
+
 @sign	|AMAR.GIŠ|
 @ucode x1202B.x12111
 @inote	DCCLT
@@ -1912,6 +1917,8 @@
 @uname	CUNEIFORM SIGN AN PLUS NAGA OPPOSING AN PLUS NAGA
 @ucode	x12030
 @v	dalhamun₅
+@form	~a |(SUM.IR)@(SUM.IR)|
+@v	dalhamunₓ
 @end sign
 
 @sign	|AN.ŠEŠ.KI|
@@ -13246,6 +13253,7 @@
 @uname	CUNEIFORM SIGN KAM4
 @ucode	x1219B
 @v	gam₃
+@v	isubuₓ
 @v	kam₄
 @v	kimₓ	[AfO 4, 71-73 = dcclt:P282336 xii 7, KAM₄ ki-im ša-ak-rum]
 @lit	1980 Daniel Foxvog, Mesopotamia 8 (RAI 26) 73.
@@ -24838,6 +24846,7 @@
 @v	šimešal
 @v	šimeššal
 @v	šimmešla
+@form	~a |ŠIM.SAL|
 @end sign
 
 @sign	|ŠIM×IGI@g|
@@ -25863,6 +25872,9 @@
 @v	uttu
 @form ~a |TAG.TUG₂|
 @v    	uttu
+@end form
+@form ~b |ŠIM.TUG₂|
+@inote Assur NA lex; needs collation
 @end form
 @end sign
 
@@ -27207,6 +27219,8 @@
 @v	šimbirida
 @form ~a |U₂.KUR|
 @ucode x12311.x121B3
+@end form
+@form ~b |KUR.RA|
 @end sign
 
 @sign	|U₂.KUR.ZA.MUŠ₃@g.KI|
