@@ -34457,3 +34457,411 @@
 @sign	|TAB+ERIN₂×(U.U.U)|
 @inote gvl dcclt Emar
 @end sign
+
+@sign	|BAD×DIŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×GAR.ME|
+@inote gvl unknown compound
+@end sign
+
+@sign	|SAG×MIN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|E₂×MIN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|MUŠ₃×MUŠ₃|
+@inote gvl unknown compound
+@end sign
+
+@sign	|(GUR₇&GUR₇)×AN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GUD×DIŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAGAB×IGI|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NINDA₂×U@c|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NINDA₂×AŠ@c|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NINDA₂×DIŠ@c|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NINDA₂×3(AŠ)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×(SAL.ME)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ALAN×GAN₂@t|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×(GAR.ME)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KA×ŠAR₂|
+@inote gvl unknown compound
+@end sign
+
+@sign	|SAG×MAŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NINDA₂×(U.GUD)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|TIL×AŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAK263×BAR|
+@inote gvl unknown compound
+@end sign
+
+@sign	|URU×(TU&TU)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|URU×HI|
+@inote gvl unknown compound
+@end sign
+
+@sign	|URU×TU&TU|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LU₂×LIL|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠE×DIŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×KU|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DUG×LUH|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DUG×ŠUBUR|
+@inote gvl unknown compound
+@end sign
+
+@sign	|EZEN×AŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|SU×U@c|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠIM×ŠE|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DAG.KISIM₅×ŠE|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DUG×DUB|
+@inote gvl unknown compound
+@end sign
+
+@sign	|UŠ×U@c|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GU×GU@90|
+@inote gvl unknown compound
+@end sign
+
+@sign	|UMUM×AN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|EREN×KASKAL|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAK449×SI|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAK449×(AN.EŠ₂)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×DIM|
+@inote gvl unknown compound
+@end sign
+
+@sign	|SAR×ZU&ZU|
+@inote gvl unknown compound
+@end sign
+
+@sign	|(LU.SU)&(LU.SU)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAGAB×ZA|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAL₂×KAK|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAL₂×(URU×MIN)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|HI×PA|
+@inote gvl unknown compound
+@end sign
+
+@sign	|UD×GIŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×(BUR.LA)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×IL₂|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×GIŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|HI×PAP|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KA×MU.KA×MU|
+@inote gvl unknown compound
+@end sign
+
+@sign	|(SU.LU.UB₂.GAR)&(SU.LU.UB₂.GAR).ŠIR|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KA×MAŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠU₂.DUN₃|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KA×AŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KI.EŠ₅|
+@inote gvl unknown compound
+@end sign
+
+@sign	|AB₂×MU|
+@inote gvl unknown compound
+@end sign
+
+@sign	|AB₂×ŠE|
+@inote gvl unknown compound
+@end sign
+
+@sign	|IGI.IB|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DAG.KISIM₅×EN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAGAB×GUR|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠID×AŠ@t|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠID×ZA|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×(ME.NA)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NUN.NUN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠE.DIŠ&DIŠ.NUN&NUN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|URU×ŠA₃|
+@inote gvl unknown compound
+@end sign
+
+@sign	|URU×MAŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KA×GAN|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GIŠ.TUG₂.PI.ŠIR.TAR.GAR₃|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠITA.AN.MUŠ₃|
+@inote gvl unknown compound
+@end sign
+
+@sign	|UM.MA|
+@inote gvl unknown compound
+@end sign
+
+@sign	|UM×ME|
+@inote gvl unknown compound
+@end sign
+
+@sign	|AN.GU₂×NUN.PA.EL|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KA×KAD₃|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GIŠ×HI|
+@inote gvl unknown compound
+@end sign
+
+@sign	|KA×GUD|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAGAB×(U₂.AŠ@t)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|HA.LU.EŠ₂|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DUN₃@g@g×UŠ|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DAG₃.KISIM₅×(U₂.GIR₂)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×(KAL.AN)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|(GADA.GAR)&(GADA.GAR)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAGAR@g×ŠE|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAGAR@g×(ŠE.SUM)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GA₂×(PA.LAGAR)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ŠIM.KU|
+@inote gvl unknown compound
+@end sign
+
+@sign	|GIR₃×ZA@t|
+@inote gvl unknown compound
+@end sign
+
+@sign	|MUŠ×ERIN₂|
+@inote gvl unknown compound
+@end sign
+
+@sign	|MUŠ&MUŠ×AB|
+@inote gvl unknown compound
+@end sign
+
+@sign	|SIK₂.HI×(NUN.ME)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|SIK₂.HI×(NUN.ME.U)|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NAGAR×ZA@t|
+@inote gvl unknown compound
+@end sign
+
+@sign	|TUM×UD|
+@inote gvl unknown compound
+@end sign
+
+@sign	|AB×(U.U.U).KUG.LAM.SAL|
+@inote gvl unknown compound
+@end sign
+
+@sign	|URU×SAL|
+@inote gvl unknown compound
+@end sign
+
+@sign	|DAG.AB₂×LA|
+@inote gvl unknown compound
+@end sign
+
+@sign	|ITI×(U.U.U)@g|
+@inote gvl unknown compound
+@end sign
+
+@sign	|HI.KISIM₅×SA|
+@inote gvl unknown compound
+@end sign
+
+@sign	|NU&NU.NUNUZ&NUNUZ.U₂&U₂|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LU₂×(UD.TUG₂)|
+@inote gvl unknown compound
+@end sign
