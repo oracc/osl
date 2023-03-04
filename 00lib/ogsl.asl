@@ -3375,7 +3375,7 @@
 @uname	CUNEIFORM SIGN NAM NUTILLU
 @ucode	x12245
 @note The NB source for Ea II (LKU 1) describes BURU₅ as NAM nutillû
-@lit	Cavigenaux and Al-Rawi ZA 92 (2002), 44-50
+@lit	Cavigneaux and Al-Rawi ZA 92 (2002), 44-50
 @v	bur₅
 @v	buru₅
 @form ~a |HU.ŠE.ERIN₂|
@@ -5648,6 +5648,7 @@
 @ucode x12097.x12228.x12104
 @form	~b |EN×ME.GI₄|
 @ucode x1209A.x12104
+@v	engiz₂
 @end sign
 
 @sign	|EN.ME.LAGAR|
@@ -5709,6 +5710,9 @@
 @v	isimudₓ
 @form ~a	|EN.PAP.IGI@g.NUN.EZEN×KASKAL|
 @ucode x12097.x1227D.x1214A.x12263.x120AC
+@end form
+@form ~b	|EN×IGI@g.NUN.ME.EZEN×KASKAL|
+@end form
 @end sign
 
 @sign	|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|
@@ -5792,6 +5796,10 @@
 @v?	šibir₂
 @end sign
 
+@sign	|EN×IGI@g|
+@inote AbS in enkum
+@end sign
+
 @sign	|EN×KUR|
 @inote DN in ur3 royal
 @end sign
@@ -5809,10 +5817,6 @@
 @v	ensi₃
 @end sign
 
-@sign	|EN×ME.GI|
-@ucode	x1209A.x12100
-@v	engiz₂
-@end sign
 
 @sign	|EN%EN|
 @list SLLHA099a1
@@ -8898,6 +8902,7 @@
 @v	lulima
 @form	~a |LU.GIR₃×IGI|
 @ucode x121FB.x1210D
+@form	~b |IGI.LU.LAK248|
 @end sign
 
 @sign	|GIR₃×PA|
@@ -9491,6 +9496,10 @@
 @v	idigna
 @v	dallaₓ [TMH 5, 039 = P020453 o ii23, nin-dallaₓ(IDIGNA)]
 @note	The distinction between IDIGNA (LAK063; KWU689) and DALLA (MAŠ.IDIGNA) is consistent throughout the third millennium, with few exceptions. For Old Babylonian see Mittermayer aBZL. Exceptions include P020453 o ii 23 (OAkk Nippur) P020600 o ii 8 (OAkk Nippur) and P102772 o i 12 (Ur III).
+@form ~a |TUM×PAP|
+@v    idigna
+@inote CDLI AbS transliterations; basis for idigna reading?
+@end form
 @end sign
 
 @sign	|GU₂.NUNUZ|
@@ -10142,6 +10151,7 @@
 @list LAK240
 @inote this form has no HI component
 @end form
+@form ~d |IGI.LAK248|
 @end sign
 
 @sign	|HI×AŠ|
@@ -21802,6 +21812,7 @@
 @inote	Attinger
 @end form
 @form ~b |ZA.PIRIG|
+@form ~c |ZA.LAK247|
 @end sign
 
 @sign	|PIRIG@PIRIG|
@@ -24962,9 +24973,9 @@
 @v	meₓ
 @v	nuₓ
 @v	šita
-@form ~a LAK503a
+@form ~a ŠITA~a
 @list LAK503a
-@inote This is the ŠITA with curved final "wedge" distinguised as LAK503a in CDLI AbS translits from ŠITA with cuneiform final wedge, LAK503b.
+@inote This is the ŠITA with curved final "wedge" distinguished as LAK503a in CDLI AbS translits from ŠITA with cuneiform final wedge, LAK503b.
 @end form
 @end sign
 
@@ -24979,6 +24990,7 @@
 @list BAU391
 @inote AbS; more correct description of sign
 @end form
+@form ~b |ŠITA~a.GIŠ.NAM₂|
 @end sign
 
 @sign	ŠITA@t
@@ -29415,6 +29427,9 @@
 @ucode x1235D.x1202D.x12239
 @v	zanaruₓ
 @end form
+@form ~b |ZA.ZA₇.MUŠ₃|
+@inote P224931 ii 8'. Probably really |{+za}ZA₇.MUŠ₃| but Oracc notations don't currently support glosses on signs within compounds.
+@end form
 @end sign
 
 @sign	|ZA.MUŠ₃.AB@g|
@@ -29426,6 +29441,7 @@
 @ucode	 x1235D.x1223D.x12014
 @form ~b |ZA.MUŠ₃|
 @ucode	x1235D.x12239
+@form ~c |ZA₇.MUŠ₃.AB@g|
 @end sign
 
 @sign	|ZA.MUŠ₃@g|
