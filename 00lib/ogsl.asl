@@ -2904,11 +2904,13 @@
 @list SLLHA546
 @ucode	x122D9.x1202D
 @end form
-@form ~c |ŠU₂.3×AN|
-@ucode	x122D9.x1202F
-@v	kunga
-@v	kungi
-@end form
+#Need a way of detecting these and also a different mechanism for
+#referencing sign-values under multiple locations.
+#@form ~c |ŠU₂.3×AN|
+#@ucode	x122D9.x1202F
+#@v	kunga
+#@v	kungi
+#@end form
 @form ~d	|3×AN|
 @list ELLES006b
 @list LAK010
