@@ -16862,7 +16862,9 @@
 @v?	arad₃
 @v	eš₂₂
 @v	ešuₓ
+@v	isₓ
 @v	iš₁₁
+@v	kimₓ
 @v?	lam₇
 @end sign
 
@@ -26986,6 +26988,7 @@
 @v	šip₀
 @v	uš₁₈
 @v	ušu₃
+@v	uzₓ
 @v	3(u)
 @v	3(bur₃)
 @form ~a 3(AŠ@t)
