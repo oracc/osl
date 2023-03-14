@@ -19827,7 +19827,7 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN NIGIDAMIN
 @ucode	x12456
-@v	nigidamin₃
+@v	nigidamin
 @v	2(barig)
 @v	2(bariga)
 @v-	nimin₃
