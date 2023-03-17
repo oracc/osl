@@ -16640,6 +16640,11 @@
 @inote P519405 v 4 in PN
 @end sign
 
+@sign	|LAL.A|
+@v	laʾu₅
+@v	lalʾu₅
+@end sign
+
 @sign	|LAL.DUG|
 @v	ummuₓ
 @end sign
@@ -16707,8 +16712,8 @@
 
 @sign	|LAL₂.A|
 @ucode	x121F3.x12000
-@v	laʾu₅
-@v	lalʾu₅
+@v	laʾu₂
+@v	lalʾu₂
 @end sign
 
 @sign	|LAL₂.AŠ₂|
@@ -29761,10 +29766,12 @@
 @end form
 @form ~b |TUM×(U.U.U)|
 @v	haš₂
+@v	zig
 @inote dcclt Q000041
 @form ~c |TUM.AŠ₂|
 @v    hašₓ
 @end form
+@form ~d |NINDA₂×(U.U.U)|
 @end sign
 
 @sign	ZIZ₂
@@ -29880,6 +29887,8 @@
 @v	zu₈
 @form ~a LAK460
 @list LAK460
+@form ~b |PAP.NA₂|
+@list MZL097
 @end sign
 
 @sign	ZUM
