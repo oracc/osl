@@ -10046,8 +10046,11 @@
 @uphase	1
 @uname	CUNEIFORM SIGN HA TENU
 @ucode	x1212A
+@v	bandurₓ
+@v	zubₓ
 @v	zubud
 @v	zugud
+@form ~a |PAN.GAM|
 @end sign
 
 @sign	HA@t@g
@@ -32262,10 +32265,11 @@
 @inote dcclt !sg
 @end sign
 
-@sign |PAN.GAM|
+-@sign |PAN.GAM|
 @ucode x1227C.x120F5
 @v	zugudₓ
 @inote dcclt !sg
+@inote now as form under HA@t
 @end sign
 
 @sign |ŠIR.UD|
