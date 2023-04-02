@@ -23896,6 +23896,7 @@
 @v	sig₆
 @v	ša₆
 @v	šag₅
+@form ~a |SIK₂.E|
 @end sign
 
 @sign	|ŠA₆.TUR|
@@ -25003,6 +25004,7 @@
 @inote AbS; more correct description of sign
 @end form
 @form ~b |ŠITA~a.GIŠ.NAM₂|
+@end form
 @end sign
 
 @sign	ŠITA@t
@@ -28722,6 +28724,9 @@
 @v	silig₇
 @v	šilig₇
 @end form
+@form ~c |GIŠGAL×IGI|
+@inote Probably a better description than URU×(MIN.IGI)
+@end form
 @end sign
 
 @sign	|URU×IM|
@@ -32265,7 +32270,7 @@
 @inote dcclt !sg
 @end sign
 
--@sign |PAN.GAM|
+@nosign |PAN.GAM|
 @ucode x1227C.x120F5
 @v	zugudₓ
 @inote dcclt !sg
