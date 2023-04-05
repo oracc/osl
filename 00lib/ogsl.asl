@@ -10489,7 +10489,8 @@
 @v	zanzana
 @end sign
 
-@sign	|HI×U|
+@sign	|ŠAR₂×1(U)|
+@inote |HI×U|
 @list OBZL284
 @list MZL688
 @uphase	1
@@ -10505,7 +10506,8 @@
 #@v	1(šarʾu)
 @end sign
 
-@sign	|HI×(U.U)|
+@sign	|ŠAR₂×2(U)|
+@inote |HI×(U.U)|
 @pname	|HI×U+U|
 @uphase	0
 @uname	CUNEIFORM SIGN HI TIMES U PLUS U
@@ -10513,16 +10515,22 @@
 @v	šarniš
 @end sign
 
-@sign	|HI×(U.U.U)|
+@sign	|ŠAR₂×3(U)|
+@inote	|HI×(U.U.U)|
 @v	šarušu
 @end sign
 
-@sign	|HI×4(U)|
+@sign	|ŠAR₂×4(U)|
+@inote	|HI×4(U)|
 @v	šarnimin
 @end sign
 
-@sign	|HI×5(U)|
+@sign	|ŠAR₂×5(U)|
+@inote	|HI×5(U)|
 @v	šarninnu
+@end sign
+
+@sign	|ŠAR₂×1(GEŠ₂)|
 @end sign
 
 @sign	HU
@@ -29379,6 +29387,7 @@
 @v	zagga₂
 @v	ze₄
 @inote	Attinger ~ za
+@v	zamₓ
 @end sign
 
 @sign	|ZA.AN.MUŠ₃@g|
