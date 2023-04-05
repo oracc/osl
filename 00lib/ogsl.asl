@@ -30944,6 +30944,7 @@
 @v	1(gešʾu)
 @v	gešʾu
 @v	ŋešʾu
+@v	deššuₓ
 @form ~c GEŠU@c
 @list RSP027
 @ucode	xeba1
