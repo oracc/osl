@@ -11155,6 +11155,7 @@
 @list KWU561
 @ucode	x12146.x120FB
 @v	gurumₓ
+@v	sikkuₓ
 @end sign
 
 @sign	|IGI.IGI|
@@ -32291,6 +32292,7 @@
 @sign |ŠIR.UD|
 @ucode x122D3.x12313
 @inote dcclt !sg
+@v     buₓ
 @end sign
 
 @sign |ŠE.DIM|
