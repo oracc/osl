@@ -15211,6 +15211,7 @@
 @v	tinur
 @v	tinuru
 @v	tunur
+@v	udunₓ
 @end sign
 
 @sign	|LAGAB×(IM.HA)|
