@@ -466,6 +466,7 @@
 @sign	|A.SAG|
 @ucode	x12000.x12295
 @v	ugu₃
+@v	muhₓ
 @end sign
 
 @sign	|A.SIG|
@@ -3705,6 +3706,7 @@
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES PAP PLUS PAP
 @ucode	x12069
 @v	rapiku
+@v	rapikum
 @v	rapiqu
 @end sign
 
@@ -5239,6 +5241,7 @@
 @v	bit
 @v	biti
 @v	bitu
+@v	bitum
 @v	biṭ
 @v	e₂
 @v	eʾ₃
@@ -7320,6 +7323,7 @@
 @uname	CUNEIFORM SIGN GA2 TIMES KASKAL
 @ucode	x120D9
 @v	me₇
+@v	menₓ
 @end sign
 
 @sign	|GA₂×KID|
@@ -8117,6 +8121,7 @@
 @v	aša₅
 @v	ašag
 @v	buruₓ
+@v	eqqil
 @v?	ga₃
 @v	gan₂
 @v	gana₂
@@ -10986,6 +10991,7 @@
 @v	lima
 @v	limi
 @v	lum₂
+@v	mahar
 @v	pa₁₀
 @v	pad₄
 @v	pan₃
@@ -11458,6 +11464,7 @@
 @ucode	x1214E
 @v	adad
 @v	anegi
+@v	anig
 @v	anzuₓ
 @inote ed12
 @v	di[...]ig
@@ -11985,6 +11992,7 @@
 
 @sign	|KA×(A.ME)|
 @inote	glossed e-me-en (cmp. immen₂) in Mousaief Ea
+@v	emenₓ
 @end sign
 
 @sign	|KA×AD|
@@ -12027,6 +12035,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KA TIMES BAD
 @ucode	x1215C
+@v	uhhu
 @v	uh₄
 @v	uš₁₁
 @end sign
@@ -12545,6 +12554,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KA TIMES NUN
 @ucode	x1217B
+@v	namduₓ
 @v	numdu
 @v	numdum
 @v	numdun
@@ -12671,6 +12681,7 @@
 @ucode	x12181
 @v	buₓ
 @inote uncollated hapax on seal P454750
+@v     	kurₓ
 @v	šegₓ
 @v	tukur₂
 @v	tukureₓ
@@ -14778,6 +14789,7 @@
 @v	ašte₂
 @v	aya₄
 @v	bugin
+@v	buni
 @v	buniŋ
 @v	bunin
 @v	elamkuš₄
@@ -17200,6 +17212,7 @@
 @note corrected reading da-pa-ra in MSL 15 Diri 6B 33.
 @v?	karašₓ
 @v	pagra₃
+@v	kamaru
 @form ~a |LU₂.LU₂.LU₂.LU₂|
 @ucode x121FD.x121FD.x121FD.x121FD
 @note see MSL 15 Diri 6B 33 with notes.
@@ -19624,6 +19637,7 @@
 @v	sul₂
 @v	suš₂
 @v	šal₃
+@v	šamanₓ
 @v	šar₈
 @v	ṣal
 @v	tik₂
@@ -19666,6 +19680,8 @@
 @sign	|NI.LU|
 @ucode	x1224C.x121FB
 @v	libₓ
+@v	libiₓ
+@v	ligiₓ
 @end sign
 
 @sign	|NI.TUK|
@@ -23189,6 +23205,8 @@
 @v	šeq₂
 @v	šik₂
 @v	šiq₂
+@v	uₓ
+@v	uaₓ
 @end sign
 
 @nosign	|SIK₂.AŠ|
@@ -23366,6 +23384,7 @@
 @v	kus
 @v	kuš
 @v	kuz
+@v	maškum
 @v	su
 @v	sug₆
 @v	sum₃
@@ -23904,6 +23923,7 @@
 @v	sag₉
 @v	seg₆
 @v	sig₆
+@v	siqqaₓ
 @v	ša₆
 @v	šag₅
 @form ~a |SIK₂.E|
@@ -26536,6 +26556,10 @@
 @v	tur-tur
 @end sign
 
+@sign	|TUR.TUR.LA₂|
+@v	didla
+@end sign
+
 @sign	|TUR.UŠ|
 @ucode	x12309.x12351
 @v	suhušₓ
@@ -26881,10 +26905,12 @@
 @list KWU513
 @ucode	x1230B.x12295
 @lit	2014 Manuel Molina SCTRAH 142
+@v	muhₓ
 @v	saŋtušₓ
 @v	saŋtuₓ
 @v	sagdul
 @v	sagšu
+@v	saŋturₓ
 @v	sagtušₓ
 @v	saŋdul
 @v	saŋšu
@@ -27109,6 +27135,7 @@
 @v	kingusila₂ [Ass 00523 = dcclt/signlist:P370411 r i 6]
 @inote  salgues
 @v	kingusili₂
+@v	mullil
 @v	ninniₓ
 @v	ninnu
 @v	ninuₓ
@@ -27159,6 +27186,7 @@
 @v	kuzbu
 @v	mašammi
 @v	maššam
+@v	matšammi
 @v	%akk/n mat_šammi
 @v	pu₁₁
 @v	sam
@@ -28180,6 +28208,11 @@
 @inote [CBS 2146 = dcclt:P227871 o 7', lu₂ UR@180]
 @end sign
 
+@sign	|UR.A.EDIN|
+@v	teššela
+@v	teššeru
+@end sign
+
 @sign	|UR.MAH|
 @ucode	x12328.x12224
 @v	neša
@@ -28512,6 +28545,7 @@
 @v	u₁₉
 @v	ulu₄
 @v	uru
+@v	urumₓ
 @end sign
 
 @sign	URU@g
@@ -29791,6 +29825,9 @@
 @v    hašₓ
 @end form
 @form ~d |NINDA₂×(U.U.U)|
+@form ~e |TUM.EŠ|
+@v    kibₓ
+@end form
 @end sign
 
 @sign	ZIZ₂
