@@ -3081,6 +3081,10 @@
 @ucode	x1204A
 @end sign
 
+@sign	|BI×BAD|
+@inote dccmt
+@end sign
+
 @sign	|BI×DIŠ|
 @v	bappirₓ
 @v	lungaₓ
@@ -6962,7 +6966,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN GA2 TIMES BAD
 @ucode	x120BF
-@v	etutumₓ
+@v	etutum
 @v	%akk eṭutu
 @v	sabad₂
 @v	sad₃
@@ -8401,9 +8405,10 @@
 @note	This is sign is sometimes (incorrectly) described as AŠ@k
 @v	ge₂₂
 @v	saŋtak₂
-@v	san₂a₂
+@v	santa₂
 @v	santag₂
 @v	santak₂
+@v	šantak₂
 @v	ubura
 @v	uburu
 @v	ulil
@@ -13121,6 +13126,7 @@
 @v	du₃
 @v	gag
 @v	gak
+@v	habur
 @v	henbur
 @v	ka₁₅
 @v	kak
@@ -16659,6 +16665,9 @@
 @v	šuruₓ
 @v	zur₅
 @v	zuru₅
+@form ~a LAL@r
+@inote dccmt
+@end form
 @end sign
 
 @sign	|LAL×DIŠ|
@@ -23195,7 +23204,6 @@
 @uphase	1
 @uname	CUNEIFORM SIGN SIK2
 @ucode	x122E0
-@v	uₓ
 @v	lahrumₓ
 @v	seg₂
 @v	sig₂
@@ -24027,7 +24035,13 @@
 @end sign
 
 @sign	|ŠAR₂×KASKAL|
-@inote etcsri
+@inote etcsri, dccmt
+@v	1(šarʾu)@v
+@end sign
+
+@sign	6(|ŠAR₂×KASKAL|)
+@inote dccmt
+@v	6(šarʾu)@v
 @end sign
 
 @sign	ŠE
