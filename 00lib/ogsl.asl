@@ -17144,7 +17144,9 @@
 @v	šaŋaₓ
 @v	inbir₂ [VAT 9541 = dcclt/signlists:P345960 o ii 4']
 @inote	salgues
-@form	~a LU₂~v		xe001	
+@form	~a LU₂~v
+@ucode xe001
+@uchar 
 @end form
 @end sign
 
