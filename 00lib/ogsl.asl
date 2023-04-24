@@ -24248,7 +24248,7 @@
 @ucode	x12303.x121B8.x121B8
 @v	garadin₄
 @v	karadin₄
-@form	~a (|(ŠE.NUN&NUN.LAGAB)&(ŠE.NUN&NUN.LAGAB)|)
+@form	~a |(ŠE.NUN&NUN.LAGAB)&(ŠE.NUN&NUN.LAGAB)|
 @end form
 @form	~b |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB|
 @ucode x12303.x121B8
