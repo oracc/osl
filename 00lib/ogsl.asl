@@ -11514,9 +11514,10 @@
 @inote UET II 143 i 3 = CDLI archsigns IM~a@g; description uncertain
 @end sign
 
-@sign	|IM.IM.KAD₃IM.KAD₃A|
+@nosign	|IM.IM.KAD₃IM.KAD₃A|
 @ucode	x1214E.x12000
 @v	šegₓ
+@inote Some corruption here; |IM.A| also further down, so keeping this until I figure it out
 @end sign
 
 @sign	|IM.A.A|
