@@ -11514,12 +11514,6 @@
 @inote UET II 143 i 3 = CDLI archsigns IM~a@g; description uncertain
 @end sign
 
-@nosign	|IM.IM.KAD₃IM.KAD₃A|
-@ucode	x1214E.x12000
-@v	šegₓ
-@inote Some corruption here; |IM.A| also further down, so keeping this until I figure it out
-@end sign
-
 @sign	|IM.A.A|
 @ucode	x1214E.x12000.x12000
 @v	šeŋₓ
@@ -15244,7 +15238,7 @@
 @inote	salgues
 @end sign
 
-@sign	|LAGAB×(IM.IM.ŠU₂LU)|
+@sign	|LAGAB×(IM.LU)|
 @pname	|LAGAB×IM+LU|
 @uphase	1
 @uname	CUNEIFORM SIGN LAGAB TIMES IM PLUS LU
@@ -16833,7 +16827,7 @@
 @v	nangaₓ
 @v	uku₂
 @v	ukur₃
-@form ~a |LALₓ×DU|
+@form ~a |LAL₂×DU|
 @list LAK762
 @end form
 @form ~b |LAL₂×DU.DU|
@@ -33769,6 +33763,10 @@
 @inote UET II
 @end sign
 @sign N04@f
+@fake 1
+@inote UET II
+@end sign
+@sign N06
 @fake 1
 @inote UET II
 @end sign
