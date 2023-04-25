@@ -15436,7 +15436,7 @@
 @v	zara
 @v?	zarih
 @v	zarim [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 61']
-@inote: salgues
+@inote salgues
 @v	zur₄
 @end sign
 
