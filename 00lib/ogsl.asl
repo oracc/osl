@@ -8141,11 +8141,11 @@
 @v	mulu₄
 @v?	ul₈
 @v	ululₓ
-@form ~c IKU@c
+@form ~c GAN₂@c
 @v	iku@c
-@form ~d IKU@c@v
+@form ~d GAN₂@c@v
 @v	iku@c@v
-@form ~t IKU@t
+@form ~t GAN₂@t
 @v	iku@t
 @end sign
 
@@ -17146,7 +17146,6 @@
 @inote	salgues
 @form	~a LU₂~v
 @ucode xe001
-@uchar 
 @end form
 @end sign
 
@@ -31860,10 +31859,6 @@
 @inote CDLI ed3b
 @end sign
 
-@sign GAB@90
-@inote CDLI ed3b
-@end sign
-
 @sign GABA@t
 @inote CDLI ed3b
 @end sign
@@ -31920,11 +31915,7 @@
 @inote CDLI oakk
 @end sign
 
-@sign |DA×GEŠ@t|
-@inote CDLI oakk
-@end sign
-
-@sign GEŠ@t
+@sign |DA×GIŠ@t|
 @inote CDLI oakk
 @end sign
 
