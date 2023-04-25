@@ -4614,7 +4614,7 @@
 @list ELLES309
 @list LAK632
 @list RSP215
-@list KWU 720
+@list KWU720
 @list MZL565
 @list OBZL082
 @list SLLHA352
@@ -8179,7 +8179,7 @@
 
 @sign	GAN₂@g
 @inote from u3adm with note reading
-@inote: See W. Sallaberger, ZA 92 (2002) 301
+@inote See W. Sallaberger, ZA 92 (2002) 301
 @end sign
 
 @sign	GAN₂@t
