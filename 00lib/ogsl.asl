@@ -11555,7 +11555,7 @@
 @v	suhul₃
 @end sign
 
-@sign	|IM.DUN3@g@g.DUN|
+@sign	|IM.DUN₃@g@g.DUN|
 @ucode	x1214E.x12087.x12084
 @v	suhul₂
 @end sign
