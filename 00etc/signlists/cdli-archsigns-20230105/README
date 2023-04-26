@@ -2,3 +2,5 @@ This directory contains a download of a web page and a lower res copy
 of Bob Englund's proto-cuneiform signs from the CDLI website. This
 download was retrieved 2023-01-05.
 
+See the file MANIFEST for a table from current OID file names to
+original file names to validated GDL Unicode versions of the names.
