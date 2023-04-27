@@ -1812,6 +1812,8 @@
 @form	~a |AN.NI₂.MI|
 @ucode x1202D.x1224E.x1222A
 @form	~b |IM.MI|
+@form	~c |AN.MI|
+@inote also MI=anzuₓ i.e., AN-MI = {d}anzuₓ(MI)
 @end sign
 
 @sign	|AN.ME.U.U.U|
@@ -2930,6 +2932,8 @@
 @ucode	x12047.x12094
 @v	bahar₄
 @form ~a |BAR.BAHAR₂|
+@form ~b |GUD.BAR|
+@form ~c |BAR.GUD|
 @end sign
 
 @sign	|BAR.HU.KAK|
@@ -4587,6 +4591,8 @@
 @v	tibira
 @form	~a |URUDA.NAGAR|
 @ucode x1234F.x12244
+@form	~b |NAGAR.DUB|
+@inote [DUB] restored so possibly |NAGAR.URUDA|
 @end sign
 
 @nosign	|DUB×EŠ₂|
@@ -6173,6 +6179,9 @@
 @form ~y	|EŠ₂.SUD.NUN|
 @v	samanₓ
 @end form
+@form ~z	|BU.EŠ₂.ŠE.NUN|
+@v	saman₃
+@end form
 @end sign
 
 @sign	|EŠ₂.ŠE|
@@ -7487,6 +7496,7 @@
 @v	ganun
 @v	ŋanun
 @v	ušuš
+@inote In {u₂}ušuš is u₂ a determinative or part of the compound sign?
 @form ~a |LAGAB×NUN|
 @inote P010918 o i' 6'
 @end form
@@ -8672,6 +8682,9 @@
 @v	gedim
 @v	gidim
 @v	kitim
+@form	~a |SAG×TAB|
+@inote sign form according to dcclt edition of P213482 = HSS 10 222; photo indistinct; requires collation
+@end form
 @end sign
 
 @sign	GIG
@@ -9318,6 +9331,9 @@
 @v	ašlag₃
 @v	azalag₃
 @v	azlag₃
+@form	~a |GIŠ.TE.A.TUG₂.DU|
+@form	~b |GIŠ.DU.TE.A.TUG₂|
+@inote need to unify all the azlagX signs as forms of a single sign
 @end sign
 
 @sign	|GIŠ.TUG₂.TE.A|
@@ -12748,6 +12764,7 @@
 @list ELLES186
 @list LAK324
 @list BAU234
+@form ~b |SAG×ŠU|
 @end sign
 
 @sign	|KA×(ŠU.EŠ₂)|
@@ -19319,6 +19336,7 @@
 @v	ildum₃
 @v	ilduma₃
 @v	ildumma₃
+@form	~a |BU.NAGAR|
 @end sign
 
 @sign	|NAGAR.ZA@t|
@@ -20560,6 +20578,10 @@
 @ucode x12263.x12228.x12016.x1207A
 @v    abrig₂
 @end form
+@form ~c	|ME.NUN.DU|
+@form ~d	|NUN.AB₂.DU|
+@v	abrig₂
+@end form
 @end sign
 
 @sign	|NUN.ME.TAG|
@@ -21010,6 +21032,7 @@
 @ucode	x1227A.x12020
 @v	šabra
 @v	šapra
+@form	~a |AL.PA|
 @end sign
 
 @sign	|PA.AN|
@@ -22585,6 +22608,7 @@
 @v 	tunₓ
 @inote epsd2/royal; needs checking
 @end form
+@form	~c |SAL.HUB₂.AL|
 @end sign
 
 @sign	|SAL.KU|
@@ -27627,6 +27651,9 @@
 @form	~e |UD.GIŠ%GIŠ.NUN.KI|
 @v	buranunₓ
 @end form
+@form	~f |UD.AN.(GIŠ%GIŠ)@g|
+@v	zimbir
+@end form
 @end sign
 
 @sign	|UD.KID|
@@ -31739,6 +31766,10 @@
 
 @sign |LUL×ŠE|
 @inote u3adm
+@end sign
+
+@sign |LUL×3(DIŠ@t)|
+@inote See AOAT 319, 75-76 and Steinkeller ZA 94; previous description |NAR×ŠAG₄| but ×3(DIŠ@t) better based on Krebernik's copy on CDLI.
 @end sign
 
 @sign |U.EN|
