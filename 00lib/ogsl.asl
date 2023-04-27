@@ -524,7 +524,6 @@
 
 @sign	|A.TU.GABA.LIŠ|
 @list ELLES123
-@list LAK212
 @ucode	x12000.x12305.x120EE.x121FA
 @v	asal₂
 @v	asar₂
@@ -5658,6 +5657,8 @@
 @form	~b |EN×ME.GI₄|
 @ucode x1209A.x12104
 @v	engiz₂
+@form	~c |EN×ME.GI|
+@form	~d |ME.EN.GI|
 @end sign
 
 @sign	|EN.ME.LAGAR|
@@ -5678,8 +5679,10 @@
 @ucode	x12097.x12228.x1222C
 @v	endib
 @v	endub
-@form ~a |ME.MU|
+@form	~a |ME.MU|
 @v	endibₓ
+@form	~b |EN×ME.MU|
+@form	~c |ME.EN.MU|
 @end sign
 
 @sign	|EN.ME.ZI.AN.NA|
@@ -5721,6 +5724,8 @@
 @ucode x12097.x1227D.x1214A.x12263.x120AC
 @end form
 @form ~b	|EN×IGI@g.NUN.ME.EZEN×KASKAL|
+@end form
+@form ~c	|EN×IGI@g.NUN.EZEN×KASKAL|
 @end form
 @end sign
 
@@ -8915,6 +8920,7 @@
 @form	~a |LU.GIR₃×IGI|
 @ucode x121FB.x1210D
 @form	~b |IGI.LU.LAK248|
+@form	~c |LU.IGI.ANŠE|
 @end sign
 
 @sign	|GIR₃×PA|
@@ -11452,6 +11458,7 @@
 @v	il₂
 @v	ila₂
 @v	ili₂
+@form	~a |KAD₄.SAG|
 @end sign
 
 @sign	IM
@@ -22725,6 +22732,7 @@
 @end form
 @form ~b	|SAL.TUG₂.PAP.IGI@g.NUN.EZEN×KASKAL|
 @ucode x1238F.x1227D.x1214A.x12263.x120AC
+@form ~c	|SAL.TUG₂.IGI@g.NUN.ME.EZEN×KASKAL|
 @end sign
 
 @sign	|SAL.TUK|
@@ -26722,6 +26730,9 @@
 @sign	|U.EDIN|
 @ucode	x1230B.x12094
 @v	bahar₃
+@form	~a |U.BAHAR₂|
+@inote bahar₂/bahar₃ with EDIN vs. BAHAR₂ all need collation.
+@end form
 @end sign
 
 @sign	|U.EN×GAN₂@t|
@@ -27325,6 +27336,9 @@
 @end form
 @form	~c |NAGA.U₂|
 @v	ugaₓ
+@end form
+@form	~d |GA.NAGA|
+@v	uga
 @end form
 @end sign
 
