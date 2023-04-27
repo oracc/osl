@@ -22757,6 +22757,7 @@
 @form ~b	|SAL.TUG₂.PAP.IGI@g.NUN.EZEN×KASKAL|
 @ucode x1238F.x1227D.x1214A.x12263.x120AC
 @form ~c	|SAL.TUG₂.IGI@g.NUN.ME.EZEN×KASKAL|
+@form ~d	|SAL.TUG₂.PAP.IGI@g.ME.EZEN×KASKAL|
 @end sign
 
 @sign	|SAL.TUK|
