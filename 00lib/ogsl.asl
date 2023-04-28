@@ -8107,6 +8107,9 @@
 @v	he₂
 @inote Nisaba 25
 @end form
+@form ~b LAK062
+@inote this is AŠ+GAN taken as allograph of GAN in DCCLT ED Fara pots
+@end form
 @end sign
 
 @sign	GAN@s
@@ -16212,6 +16215,7 @@
 @uphase	9
 @ucode x124EF
 @uname	CUNEIFORM SIGN LAK390
+@v	dugudₓ
 @end sign
 
 @sign	LAK408
@@ -16526,6 +16530,8 @@
 @uname	CUNEIFORM SIGN LAK20
 @v	balaₓ
 @inote ed12
+@v	megidaₓ
+@inote megida(LAK20){zabar} in dcclt ED
 @end sign
 
 @sign	LAK171@s
@@ -29280,6 +29286,7 @@
 @uname	CUNEIFORM SIGN USH TIMES KUR
 @ucode	x12354
 @v	gešₓ
+@v	aradₓ
 @end sign
 
 @sign	|UŠ×TAK₄|
