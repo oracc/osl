@@ -1204,6 +1204,7 @@
 @v	šemₓ
 @v	ubₓ
 @v	zeₓ
+@form	~a |LAK386|
 @end sign
 
 @sign	|AB₂.ŠA₃.GI|
@@ -1953,6 +1954,8 @@
 @v	šakan₃
 @form ~a KIŠ
 @list LAK248
+@v	anše
+@inote Oracc anše(KIŠ)
 @v      anše⁻
 @inote	Attinger ~ anše
 @end form
@@ -3194,16 +3197,6 @@
 @v?	tur₈
 @end sign
 
-@sign	BU@g
-@list ELLES132
-@list LAK233
-@uphase 2.x
-@note in |PA.EL.BU@g|
-@form 	 ~a LAK233@g
-@inote Biggs clearly shows this variant in P010078 v 4' and 5' as BU gunufied both in the head and on the tail. Collation from photo supports this but is not completely decisive.
-@end form
-@end sign
-
 @sign	BU@t
 @uphase none
 @note in |GIŠ.TUG₂.PI.BU@t.NUN|, which is deprecated.
@@ -4016,6 +4009,10 @@
 @v	tum₈
 @v	ṭem
 @v	ṭim
+@form LAK061
+@list LAK061
+@inote ed3a
+@end form
 @end sign
 
 @sign	|DIM×EŠ|
@@ -6376,6 +6373,7 @@
 @form ~c |EZEN.AN|
 @inote SF 1 = P010566 r x 8' but not completely certain.
 @end form
+@form ~d |EZEN×AŠ|
 @end sign
 
 @sign	|EZEN×BAD.SI.AB.BA|
@@ -8883,6 +8881,7 @@
 @v      alim⁻
 @inote	Attinger ~ alim
 @end form
+@form ~b |IGI.KIŠ|
 @end sign
 
 @sign	|GIR₃×GAN₂@t|
@@ -9961,6 +9960,9 @@
 @v	ŋereš₂
 @v	ŋuruš
 @v	murušₓ
+@form	~a KAL
+@list LAK709b
+@end form
 @end sign
 
 @sign	HA
@@ -10474,20 +10476,28 @@
 @end form
 @end sign
 
-@sign	|HI×NUN.ME.U|
-@list MZL639
-@list SLLHA398_72
-@ucode	x12134.x12228.x1230B
+@sign	LAHŠU
+@list ELLES229
+@list LAK442
+@list RSP333
+@uphase	1
+@uname	CUNEIFORM SIGN LAHSHU
+@ucode	x121F1
+@v	lahšu
 @v	luhša
 @v	luhšu
 @v	ulu₂
 @v-	utul₁₂
+@form ~a	|HI×NUN.ME.U|
+@list MZL639
+@list SLLHA398_72
+@ucode	x12134.x12228.x1230B
 @note	see MZL, p236.
-@form	~a |MUŠ×PA|
+@form	~b |MUŠ×PA|
 @list KWU482a
 @note	Krebernik OBO 160/1, 279; signform KWU482a drawn as |MUŠ×GAD| and needs collation.
 @end form
-@form	~b |HI×NUN.ME.BAD|
+@form	~c |HI×NUN.ME.BAD|
 @ucode x12134.x12228.x12041
 @inote dcclt !sg
 @end form
@@ -13306,6 +13316,7 @@
 @sign	KAM₄
 @list ELLES017
 @list LAK029
+@list LAK460
 @list MZL097
 @list OBZL268
 @list SLLHA060x
@@ -15979,14 +15990,6 @@
 @uname	CUNEIFORM SIGN LAK50
 @end sign
 
-@sign	LAK51
-@list LAK051
-@uphase	9
-@ucode x124DA
-@uname	CUNEIFORM SIGN LAK51
-@v	gurₓ
-@end sign
-
 @sign	LAK079
 @list LAK079
 @end sign
@@ -16198,11 +16201,6 @@
 @uname	CUNEIFORM SIGN LAK383
 @end sign
 
-@sign	LAK386
-@list LAK386
-@uphase	0
-@end sign
-
 @sign	LAK387
 @list LAK387
 @uphase	0
@@ -16286,16 +16284,6 @@
 @uphase	9
 @ucode x124F8
 @uname	CUNEIFORM SIGN LAK457
-@end sign
-
-@sign	LAK459
-@list LAK459
-@uphase	0
-@end sign
-
-@sign	LAK460
-@list LAK460
-@uphase	0
 @end sign
 
 @sign	LAK470
@@ -18645,6 +18633,8 @@
 @v	munsubₓ
 @inote ED I-II Ur
 @end form
+@form ~c UŠX
+@list LAK672a
 @end sign
 
 @sign	MURGU₂
@@ -19720,6 +19710,7 @@
 @list RSP150
 @list BAU409
 @ucode	x1224C.x12307
+@v	alₓ
 @v	delmun
 @v	dilmun
 @v	dilmuna
@@ -23512,7 +23503,7 @@
 @v	zir₀
 @v	zir₄
 @v	zu₆
-@form ~a BU
+@form	~a BU
 @list ELLES131
 @list LAK232
 @list RSP335
@@ -23521,6 +23512,14 @@
 @inote	Attinger
 @v	sud⁻
 @inote	Attinger
+@end form
+@form	~b BU@g
+@list ELLES132
+@list LAK233
+@uphase 2.x
+@inote in |PA.EL.BU@g|
+@form	~c LAK233@g
+@inote Biggs clearly shows this variant in P010078 v 4' and 5' as BU gunufied both in the head and on the tail. Collation from photo supports this but is not completely decisive.
 @end form
 @end sign
 
@@ -26240,6 +26239,14 @@
 @end form
 @form ~b RSP329
 @list RSP329
+@end form
+@form ~c LAK051
+@list LAK051
+@uphase	9
+@ucode x124DA
+@uname	CUNEIFORM SIGN LAK51
+@v	gurₓ
+@end sign
 @end sign
 
 @sign	|TE@g.AB@g|
@@ -26994,6 +27001,8 @@
 @ucode x124EE
 @uname CUNEIFORM SIGN LAK384
 @inote epsd2 e₂-saŋₓ = esaŋ[store]
+@v	sagₓ
+@v	saŋₓ
 @v	utuₓ
 @end form
 @end sign
@@ -27284,6 +27293,7 @@
 @ucode x12311.x12108
 @inote dcclt !sg
 @end form
+@form ~b GIR₂
 @end sign
 
 @sign	|U₂.GIŠ.MI|
@@ -27689,6 +27699,8 @@
 @v	uhu₂
 @form ~a |UD×KUŠU₂|
 @list RSP321
+@end form
+@form ~b |KUŠU₂|
 @end sign
 
 @sign	|UD.MA₂.AB×HA|
@@ -27951,16 +27963,6 @@
 @v	uduₓ
 @v	udug
 @v	utug
-@end sign
-
-@sign	LAHŠU
-@list ELLES229
-@list LAK442
-@list RSP333
-@uphase	1
-@uname	CUNEIFORM SIGN LAHSHU
-@ucode	x121F1
-@v	lahšu
 @end sign
 
 @sign	UM
@@ -33102,11 +33104,6 @@
 
 @sign KWU879
 @inote ur3
-@end sign
-
-@sign LAK061
-@list LAK061
-@inote ed3a
 @end sign
 
 @sign LAK202
