@@ -1204,7 +1204,7 @@
 @v	šemₓ
 @v	ubₓ
 @v	zeₓ
-@form	~a |LAK386|
+@form	~a LAK386
 @end sign
 
 @sign	|AB₂.ŠA₃.GI|
@@ -4009,7 +4009,7 @@
 @v	tum₈
 @v	ṭem
 @v	ṭim
-@form LAK061
+@form ~a LAK061
 @list LAK061
 @inote ed3a
 @end form
@@ -26246,7 +26246,7 @@
 @ucode x124DA
 @uname	CUNEIFORM SIGN LAK51
 @v	gurₓ
-@end sign
+@end form
 @end sign
 
 @sign	|TE@g.AB@g|
@@ -27700,7 +27700,7 @@
 @form ~a |UD×KUŠU₂|
 @list RSP321
 @end form
-@form ~b |KUŠU₂|
+@form ~b KUŠU₂
 @end sign
 
 @sign	|UD.MA₂.AB×HA|
