@@ -3359,6 +3359,11 @@
 @ucode x1222E.x1222E
 @inote dcclt !sg
 @end form
+@form ~v	BUR₂@v
+@inote see MZL sub BUR₂, MZL008
+@v	bur₂@v
+@v	sun₅@v
+@end form
 @end sign
 
 @sign	|BUR.NU₁₁|
@@ -10361,6 +10366,7 @@
 @v?	udul₂
 @v	utul₂
 @form	~v KAM@v
+@v	kam@v
 @end form
 @form ~a |HI.AŠ|
 @ucode x1212D.x12038
