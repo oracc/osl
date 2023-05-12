@@ -2059,6 +2059,9 @@
 @v	suhub₂
 @v	šuhub₂
 @v	šun₂
+@form	~a |AN.AN.AN|
+@inote P229306 r iv 26
+@end form
 @end sign
 
 @sign	APIN
@@ -8860,6 +8863,7 @@
 @v	šagana
 @inote	Attinger
 @form	~b |KIŠ@g.ARAD|
+@form	~c |ANŠE.ARAD|
 @end sign
 
 @sign	|GIR₃.BAR|
@@ -10820,6 +10824,7 @@
 @ucode x122D9.x12260
 @inote dcclt !sg uncertain recollate
 @end form
+@form ~d |AN.HUL₂|
 @end sign
 
 @sign	I
@@ -20825,6 +20830,12 @@
 @uphase	9
 @ucode x124F1
 @uname	CUNEIFORM SIGN LAK449
+@form	~b |NUNUZ.KISIM₅×KAK|
+@inote P228840 ii 2
+@end form
+@form	~c |NUNUZ.AB₂×NI|
+@inote P229084 6
+@end form
 @end sign
 
 @sign	|NUNUZ.AB₂×DUG|
@@ -22589,11 +22600,12 @@
 @v	eme₃
 @end sign
 
-@sign	|SAL.ARAD.DAM|
+@nosign	|SAL.ARAD.DAM|
 @ucode	x122A9.x12034.x1206E
-@v	nitadamₓ
-@v	murubₓ
+@v-	nitadamₓ
+@v-	murubₓ
 @inote	suspicious: check OB Lu Nippur 757-8 to see if it is really SAL.UŠ.DAM
+@inote  collation of MSL 12 028 A r v 54 indicates only [...-D]AM; N5454 definitely SAL.UŠ.DAM // UŠ.SAL.DAM
 @end sign
 
 @sign	|SAL.AŠ₂.GAR₃|
@@ -22748,6 +22760,10 @@
 @ucode	x122A9.x12228
 @v	lagar₂
 @v	lukur
+@end sign
+
+@sign	|SAL.SAL.DAM|
+@v	murumₓ
 @end sign
 
 @sign	|SAL.SIK₂|
@@ -22905,6 +22921,9 @@
 @end form
 @form 	~d |SAL.DI.UŠ|
 @ucode x122A9.x12072.x12351
+@end form
+@form	~e |SAL.UŠ.E₂.DI|
+@v	gambi
 @end form
 @end sign
 
@@ -26993,6 +27012,9 @@
 @v?	umun₁₀
 @v	utul₈
 @v	utun
+@form	~a |U.KUL|
+@inote P247858 r ii final lines
+@end form
 @end sign
 
 @sign	|U.PIRIG|
