@@ -3212,6 +3212,9 @@
 @v?	tur₈
 @end sign
 
+@sign	|BU×ERIN₂|
+@end sign
+
 @sign	BU@t
 @uphase none
 @note in |GIŠ.TUG₂.PI.BU@t.NUN|, which is deprecated.
@@ -8900,6 +8903,12 @@
 @v	sakkan₂
 @end sign
 
+@sign	|GIR₃×BI|
+@end sign
+
+@sign	|GIR×(BAD.X)|
+@end sign
+
 @sign	|GIR₃.ŠU.IG|
 @ucode	x1210A.x122D7.x12145
 @v	hubud
@@ -12855,6 +12864,10 @@
 @v?	atab [CUSAS 12 1.3.1 = dcclt:P251887 o 17 a-ta-ab = |KA×(ŠU.X)|]
 @end sign
 
+@sign	|KA×TAB|
+@inote K 135+, contained sign uncertain
+@end sign
+
 @sign	|KA×TAR|
 @uphase	1
 @uname	CUNEIFORM SIGN KA TIMES TAR
@@ -15716,6 +15729,9 @@
 @end form
 @end sign
 
+@sign	|LAGAB×TUKU|
+@end sign
+
 @sign	|LAGAB×(U.A)|
 @inote SJT merge with LAGAB×A and its several @forms?
 @list MZL787
@@ -17265,6 +17281,9 @@
 @sign	|LU₂.HI×BAD|
 @ucode x121FD.x12130
 @v	kamaₓ
+@end sign
+
+@sign	|LU₂×IŠ|
 @end sign
 
 @sign	|LU₂.KI|
@@ -18926,6 +18945,7 @@
 @v	arina
 @v	erina₈
 @v	irina
+@form ~a |MUŠ%MUŠ×(A.NA)|
 @end sign
 
 @sign	|MUŠ&MUŠ.A.NA|
