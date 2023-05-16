@@ -367,6 +367,9 @@
 @v	kuninₓ
 @v	buniŋₓ
 @v	sarₓ
+@form ~a |A.LAGAB×U|
+@inote Emar
+@end form
 @end sign
 
 @sign	|A.LAK648×A|
@@ -453,6 +456,7 @@
 @form	~r	|A.PA.GISAL|
 @form	~s	|BI.GIŠ.GAD.A.A.SI|
 @form	~t	|PA.DUG.GIŠ.PAD.SI.A|
+@form	~u	|A.PA.BI.GIŠ.PAD|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -2715,6 +2719,7 @@
 @sign	|BAD.UD|
 @ucode	x12041.x12313
 @v	lugud
+@form ~a |UD.BAD|
 @end sign
 
 @sign	|BAD.X|
@@ -2750,6 +2755,10 @@
 @list RSP435
 @v	baharₓ
 @inote requires collation, only in P325196 = CUSAS 23, 050 i 7 so far
+@end form
+@form	~c |DUG.LIŠ.BUR|
+@inote P507554 Yale An-Anum collated from photo. Cp. šil₄ value of LIŠ.
+@end form
 @end sign
 
 @sign	|BAHAR₂×AB₂|
@@ -3232,6 +3241,8 @@
 @end form
 @form ~d |SUD&SUD.AB|
 @end form
+@form ~e |BU%BU.AB|
+@end form
 @end sign
 
 @sign	|BU&BU.UN|
@@ -3688,6 +3699,10 @@
 @v	utuwa₂
 @form ~a LAK388
 @list LAK388
+@end form
+@form ~b |DAG.KISIM₅×(LU.MAŠ)|
+@inote Emar, needs collation--typo for MAŠ₂?? See RSO 6/1 p 313 fig 41b RS 25.415
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×LUM|
@@ -4601,8 +4616,11 @@
 @v	tibira
 @form	~a |URUDA.NAGAR|
 @ucode x1234F.x12244
+@end form
 @form	~b |NAGAR.DUB|
 @inote [DUB] restored so possibly |NAGAR.URUDA|
+@end form
+@form	~c |UM×KUL.NAGAR|
 @end sign
 
 @nosign	|DUB×EŠ₂|
@@ -6246,6 +6264,9 @@
 @v	zi₃@t
 @inote ed3a CDLI corpus distinguishes zi₃ as upright, zi3@t as slanted
 @inote this has to be resolved in the ed3a ePSD2 corpus where we should use zi₃ as slanted
+@form ~a KU
+@inote a placeholder to think about how to represent things like ZI₃ = zi₃@t but post-ED written with EŠ₂ and post-OB written with "KU"
+@end form
 @end sign
 
 @sign	|EŠ₂@t.GIR₂@g|
@@ -7893,6 +7914,7 @@
 @uname	CUNEIFORM SIGN GAD OVER GAD GAR OVER GAR
 @ucode	x120F1
 @v	kinda
+@form ~a |GAD.GAR|
 @end sign
 
 @sign	GAL
@@ -7967,6 +7989,7 @@
 @ucode	x120F3
 @v	kindagal
 @v	kindaŋal
+@form ~a |GAL.GAD.GAR|
 @end sign
 
 @sign	|GAL.GIŠ.TUG₂.TE.A.DU|
@@ -8909,6 +8932,7 @@
 @inote	Attinger ~ alim
 @end form
 @form ~b |IGI.KIŠ|
+@form ~c |A.IGI.GIR₃|
 @end sign
 
 @sign	|GIR₃×GAN₂@t|
@@ -10464,6 +10488,12 @@
 @v	uman
 @v	umun₃
 @v	%akk upluₓ [Ea 05 = dcclt:Q000157 107, up-lu |HI×NUN| up-lu]
+@form ~a |HI.AŠ.RI|
+@inote Emar
+@end form
+@form ~b |HI+NUN|
+@inote Emar
+@end form
 @end sign
 
 @sign	|HI×NUN.HI×NUN|
@@ -10504,6 +10534,8 @@
 @ucode x1212D.x12038.x12263.x12228
 @inote dcclt !sg
 @end form
+@form ~b	|HI+NUN.ME|
+@form ~c	|HI.AŠ.RI.ME|
 @end sign
 
 @sign	LAHŠU
@@ -13782,6 +13814,11 @@
 @v	u₇
 @end sign
 
+@sign |MIN.MIN|
+@fake
+@inote temporary sign because (MIN-MIN)<(tiz-qa-ru)> doesn't work in current ATF processor; it will in the next version
+@end sign
+
 @sign	|KI.MUŠ₃@g|
 @ucode	x121A0.x1223D
 @v	kukku₄
@@ -13876,6 +13913,8 @@
 @form ~n	|SU.KI.LU.EŠ₂.KI|
 @form ~o	|SU.LU.EŠ₂.KI.GAR|
 @form ~p	|SU.LU.ŠU.KI.GAR|
+@form ~q	|KI.LU.EŠ₂.GAR|
+@form ~r	|KI.SU.LU.GAR.EŠ₂|
 @end sign
 
 @sign	|KI.ŠEŠ.KAK|
@@ -15377,6 +15416,9 @@
 @v	šukumₓ
 @form ~a LAK768
 @inote LAK768 = LAGAB×HAL ; TSŠ 302, needs collation
+@end form
+@form ~b |LAGAB×ERIN₂|
+@inote Emar
 @end form
 @end sign
 
@@ -20394,6 +20436,10 @@
 @form ~d |BUR.NU₁₁.LA.HU|
 @v	lagašₓ
 @end form
+@form ~e |BUR.NU₁₁|
+@end form
+@form ~f |BUR.NU₁₁.LA|
+@end form
 @end sign
 
 @sign	|NU₁₁.BUR.LA|
@@ -22745,6 +22791,7 @@
 @v	murub₂
 @v?	umahₓ
 @v?	usuh
+@form ~a |SAL×LAGAR|
 @end sign
 
 @sign	|SAL.MA|
@@ -24316,6 +24363,8 @@
 @form ~c	|U₂.(ŠE.NUN&NUN)%(ŠE.NUN&NUN)|
 @v	ninniₓ
 @end form
+@form ~d	|(ŠE.NUN)&(ŠE.NUN)|
+@end form
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR|
@@ -24609,6 +24658,9 @@
 @v	šeš₂
 @v	še₈
 @v	šiš₂
+@form ~a |SIK₂.LAM|
+@inote Emar
+@end form
 @end sign
 
 @sign	ŠEŠLAM
@@ -25304,6 +25356,8 @@
 @ucode	x120FB.x122D7.x12309
 @v	tukumₓ
 @end form
+@form	~e |GAR.ŠU.TUR.LAL|
+@end form
 @end sign
 
 @sign	|ŠU.GAR.TUR.LAL.BI|
@@ -25428,6 +25482,9 @@
 @list KWU323
 @ucode	x122D7.x12240
 @v	tu₅
+@form ~a |ŠU.SUM.KAK|
+@inote Emar
+@end form
 @end sign
 
 @sign	|ŠU.PAP.PAP|
@@ -26704,6 +26761,7 @@
 @ucode x12309.x1235D
 @v    	zizna
 @end form
+@form ~b	|TUR&TUR.ZA&ZA.NA|
 @end sign
 
 @sign	|TUR&TUR.ZA&ZA.TUR&TUR.ZA&ZA|
@@ -29118,6 +29176,7 @@
 @ucode x12516
 @uname	CUNEIFORM SIGN LAK648 TIMES URUDA
 @end form
+@form ~b |URU.URUDA|
 @end sign
 
 @sign	URUDA
@@ -30048,6 +30107,9 @@
 @list ELLES062
 @list LAK117
 @v	azu
+@end form
+@form ~b |URUDA×NUN|
+@inote Emar P271567 r iv 20
 @end form
 @end sign
 
