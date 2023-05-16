@@ -7710,6 +7710,9 @@
 @v	tan₃
 @end sign
 
+@sign	|GA₂×TE|
+@end sign
+
 @sign	|GA₂×U|
 @list MZL422
 @list SLLHA264
@@ -8901,6 +8904,10 @@
 @sign	|GIR₃.GA₂×PA.A.AN|
 @ucode	x1210A.x120E2.x12000.x1202D
 @v	sakkan₂
+@end sign
+
+@sign	|GIR₃×AN|
+@v	šakkanₓ
 @end sign
 
 @sign	|GIR₃×BI|
@@ -10379,6 +10386,9 @@
 @v	azubir
 @v	azugna
 @v	azukna
+@form	~a |HI+AŠ₂|
+@inote NA sign of form used in DCCLT Nineveh transliterations
+@end form
 @end sign
 
 @sign	|HI×BAD|
@@ -11148,6 +11158,9 @@
 @form ~a LAK433
 @list LAK433
 @inote |IGI.GA₂×PA|: sign description indicative not definitive
+@end form
+@form ~b |IGI.LU|
+@inote K 135+ P274788 NA but third millennium LAK775 style LU 
 @end sign
 
 @sign	|IGI.DIM|
@@ -19182,6 +19195,9 @@
 @ucode x12239.x122C1
 @v	šušin [ED Cities = dcclt:Q000035 30]
 @end form
+@form	~b |MUŠ₂.ŠEŠ₂|
+@inote Reading following copy CT 25 pl. 9-14 of K.4339+ (P365765) r i 19; collation from photo suggests copy's MUŠ₂ is better than MUŠ₃.
+@end form
 @end sign
 
 @sign	|MUŠ₃×PA|
@@ -22025,6 +22041,7 @@
 @v	tidanum
 @v	tidnim
 @v	tidnu
+@form	~c |GIR₃.GIR₃|
 @end sign
 
 @sign	RA
@@ -22870,6 +22887,10 @@
 @v	nim₂
 @v	nin
 @v	nina₃
+@end sign
+
+@sign	|SAL.TUG₂.BAHAR₂|
+@v	aruruₓ
 @end sign
 
 @sign	|SAL.TUG₂.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
@@ -28197,6 +28218,10 @@
 @ucode	x12320
 @v	samag₂
 @v	sumug₂
+@form ~a |DUB×ŠA₃|
+@list MZL244
+@inote NA sign form according to Borger's collation s.v. MZL 244
+@end form
 @end sign
 
 @sign	|UM×U|
@@ -30007,6 +30032,9 @@
 @end form
 @form ~b	|ZI&ZI.LAGAB&LAGAB|
 @end form
+@form ~c	|ZI%ZI.LAGAB|
+@inote NA sign form used in DCCLT Nineveh translits
+@end form
 @end sign
 
 @sign	ZIG
@@ -31583,6 +31611,10 @@
 @ucode	x12077.x12049
 @inote epsd2
 @v     kurunₓ
+@end sign
+
+@sign |EN.GA₂×SAL.DIM₂|
+@v	šugalanzuₓ
 @end sign
 
 @sign |EN.DAG.NUN.X|
@@ -33244,6 +33276,9 @@
 
 @sign |AŠ×BAD|
 @inote P452996 r 4 e₂-{d}|AŠ×BAD|-za PN
+@end sign
+
+@sign |AB×KI|
 @end sign
 
 @sign |AB×U|
