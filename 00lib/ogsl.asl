@@ -5892,6 +5892,10 @@
 @v	urbingu₂
 @end sign
 
+@sign	|EN%EN.EN%EN|
+@inote P382628 = CT 11, pl. 43, Rm 0611 o 2'
+@end sign
+
 @sign	|EN%EN.IM%IM|
 @ucode	x1209B.x12150
 @v	dalhamun₃
@@ -8876,6 +8880,10 @@
 @v	wir
 @form ~a KIŠ
 @list LAK248
+@end form
+@form ~b |GA₂×AN.GAN.KAK|
+@inote Reading according to copy of K.4349+ iv 54a''; needs collation
+@end form
 @end sign
 
 @sign	|GIR₃.ARAD|
@@ -10386,7 +10394,7 @@
 @v	azubir
 @v	azugna
 @v	azukna
-@form	~a |HI+AŠ₂|
+@form	~a |HI+AŠ₂.SAG|
 @inote NA sign of form used in DCCLT Nineveh transliterations
 @end form
 @end sign
@@ -16867,6 +16875,7 @@
 @v	lalla
 @v	lallal
 @v	papnun
+@form ~a |LAL%LAL|
 @end sign
 
 @sign	|LAL₂.A|
@@ -17562,6 +17571,7 @@
 @v	hara₃
 @v	tešlug
 @v	/tešlug/
+@form ~a |LU₂.LAGAB|
 @end sign
 
 @sign	|LU₂×(ME.EN)|
@@ -17572,6 +17582,7 @@
 @uname	CUNEIFORM SIGN LU2 TIMES ME PLUS EN
 @ucode	x1220B
 @v	dinig₂
+@form ~a |LU₂.ME.EN|
 @end sign
 
 @sign	|LU₂×NE|
@@ -17733,7 +17744,7 @@
 @v	ad₇ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 21]
 @end form
 @form	~b |LU₂×GAM|
-@v	kama₆ [CUSAS 12 1.1.2 = dcclt/sgnlists:P342645 o ii 24 |LU₂×GAM| @ GAM]
+@v	kama₆ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 24 |LU₂×GAM| @ GAM]
 @inote	salgues
 @v	kamad [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 25 |LU₂×GAM| @ GAM]
 @inote	salgues
@@ -17742,6 +17753,10 @@
 @end form
 @form	~c LAK349
 @list LAK349
+@end form
+@form	~d |LU₂.GAN|
+@inote P365401 = K.4393+ ii 25 collated from photo.
+@end form
 @end sign
 
 @sign	|LU₂@s×BAD|
@@ -18422,7 +18437,11 @@
 @note	Unclear where the value mašaku comes from.
 @v-	maz₀
 @v-	maz₂
-@note	Unclear where the value maz₀
+@note	Unclear where the value maz₀ comes from
+@end sign
+
+@sign	|MAŠ₂.GI₆|
+@v zagarₓ
 @end sign
 
 @sign	ME
@@ -21937,6 +21956,7 @@
 @ucode	x1228A.x12015.x120F2
 @v	nergal
 @v	nerigal
+@form	~a |GIR₃.AB@g.GAL|
 @end sign
 
 @sign	|PIRIG.TUR|
@@ -22042,6 +22062,7 @@
 @v	tidnim
 @v	tidnu
 @form	~c |GIR₃.GIR₃|
+@form	~d |GIR₃@GIR₃|
 @end sign
 
 @sign	RA
@@ -27924,8 +27945,9 @@
 @ucode x12313.x1212D.x12137.x1212D.x12263.x1223E
 @form ~c	|UD.HU.HI.HU.KI|
 @ucode x12313.x12137.x1212D.x12137.x121A0
-@form ~d	|UD.MUD.NUN.KI|
+@form ~d	|UD.HU.HI.NUN.KI|
 @ucode x12313.x12137.x1212D.x12263.x121A0
+@form ~e	|UD.HU.HI.NUN.NA.KI|
 @end sign
 
 @sign	|UD.NI|
@@ -31897,6 +31919,7 @@
 @ucode	x12156.x12313.x12157.x12047
 @inote dcclt
 @v     šenₓ
+@form ~a |URUDA.IŠ|
 @end sign
 
 @sign |SAL.LAGAB×(GUD&GUD)|
