@@ -3704,7 +3704,7 @@
 @list LAK388
 @end form
 @form ~b |DAG.KISIM₅×(LU.MAŠ)|
-@inote Emar, needs collation--typo for MAŠ₂?? See RSO 6/1 p 313 fig 41b RS 25.415
+@inote Emar, needs collation--typo for MAŠ₂?? See RSO 5/1 p 313 fig 41b RS 25.415
 @end form
 @end sign
 
