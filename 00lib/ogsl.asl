@@ -3380,6 +3380,7 @@
 @inote see MZL sub BUR₂, MZL008
 @v	bur₂@v
 @v	sun₅@v
+@v	ušu@v
 @end form
 @end sign
 
@@ -13414,6 +13415,7 @@
 @v	kam₂
 @v	udul₇
 @v	utul₇
+@inote Borger MZL254 = KAM₂ ; MZL640=KAM(|HI.BAD|); MZL595 = KAM₂@t but Borger transliteration KAM@v or KAM*
 @end sign
 
 @sign	KAM₄
@@ -14615,6 +14617,8 @@
 @v	gur₁₆
 @v	kin₃
 @v	kur
+@v	kuruₓ
+@inote eBL
 @v	lad
 @v	lat
 @v	lata
@@ -17985,6 +17989,8 @@
 @v	lulu
 @v	lup
 @v	nar
+@v	nara
+@inote eBL MLC.1857
 @v	nagar₃ [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 66]
 @inote	salgues
 @v	nari
@@ -19860,6 +19866,12 @@
 @v	dilmuna
 @v	telmun
 @v	tilmun
+@form ~a	|SAL.TUK|
+@ucode	x122A9.x12307
+@v	dilmunₓ
+@v	dilmun@v
+@inote eBL BM.77952; Oracc uses dilmunₓ
+@end form
 @end sign
 
 @sign	|NI.UD|
@@ -22921,11 +22933,6 @@
 @ucode x1238F.x1227D.x1214A.x12263.x120AC
 @form ~c	|SAL.TUG₂.IGI@g.NUN.ME.EZEN×KASKAL|
 @form ~d	|SAL.TUG₂.PAP.IGI@g.ME.EZEN×KASKAL|
-@end sign
-
-@sign	|SAL.TUK|
-@ucode	x122A9.x12307
-@v	dilmunₓ
 @end sign
 
 @sign	|SAL.UD|
