@@ -3568,6 +3568,9 @@
 @form ~a |E.KISIM₅×GA|
 @inote Hittite
 @end form
+@form ~b |DAG.DAG.KISIM₅×(U₂.GIR₂)|
+@inote Suspicious but not collatable: P247855 (RT 56?) iv 17-18
+@end form
 @end sign
 
 @sign	|DAG.KISIM₅×(GA.MAŠ)|
@@ -26169,6 +26172,9 @@
 @end form
 @form ~b |ŠIM.TUG₂|
 @inote Assur NA lex; needs collation
+@end form
+@form ~c |TUG₂.TAG|
+@v    	uttu
 @end form
 @end sign
 
