@@ -141,6 +141,9 @@
 @ucode	x12094.x121F2
 @v	ummuₓ
 @end form
+@form ~i	|EDIN.NA.A.LAL|
+@v	ummuₓ
+@end form
 @end sign
 
 @nosign	|A.GAN₂@t|
@@ -1188,6 +1191,11 @@
 @v	utul
 @form	~a |AB₂×KU|
 @v	unudₓ	[VS 24, 4 = dcclt:P347124 o i 13]
+@end form
+@form	~b |AB₂.LAGAB×U|
+@v	unudₓ
+@inote P416548 envelope lower edge 2
+@end form
 @end sign
 
 @sign	|AB₂.LU|
@@ -10213,6 +10221,7 @@
 @v	ʾi₃
 @v	da₁₀
 @v	dab₃
+@v	dinₓ
 @v	du₁₀
 @v	dub₃
 @v	dug₃
@@ -13951,6 +13960,7 @@
 @form ~p	|SU.LU.ŠU.KI.GAR|
 @form ~q	|KI.LU.EŠ₂.GAR|
 @form ~r	|KI.SU.LU.GAR.EŠ₂|
+@form ~s	|KI.SU.GAR.RA|
 @end sign
 
 @sign	|KI.ŠEŠ.KAK|
@@ -19050,6 +19060,9 @@
 @v?	šuba₄
 @v	zanaru
 @v	zannaru
+@form ~a MUŠ₃@g
+@v	inana
+@end form
 @end sign
 
 @sign	|MUŠ₃.AB|
@@ -19294,6 +19307,11 @@
 @sign	N
 @uphase none
 @v	n
+@end sign
+
+@sign	N/3(DIŠ)
+@uphase none
+@v	n/3(diš)
 @end sign
 
 @sign	NA
@@ -22459,6 +22477,10 @@
 @uname	CUNEIFORM SIGN SAG TIMES NUN
 @ucode	x1229E
 @v	dilib₄
+@end sign
+
+@sign	|SAG×PAP|
+@inote YBC MLC 2236 collated from photo
 @end sign
 
 @sign	|SAG×SAL|
@@ -27106,6 +27128,9 @@
 @v	muh
 @v	ugu
 @v	ugun₃
+@form ~a |U.SAG×PAP|
+@v	uguₓ
+@end form
 @end sign
 
 @sign	|U.KID|
