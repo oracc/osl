@@ -15730,6 +15730,7 @@
 @list RSP259
 @list BAU267
 @list HZL180
+@list LAK771
 @list MZL786
 @list OBZL410
 @list SLLHA511
@@ -33519,10 +33520,6 @@
 @end sign
 @sign	LAK712
 @list LAK712
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK771
-@list LAK771
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK772b
