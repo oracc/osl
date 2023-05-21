@@ -31,7 +31,7 @@ while (<S>) {
 }
 close(S);
 foreach my $n (keys %needx) {
-    print "\n\@sign\t$n\n\@inote addx\n";
+    print "\n\@sign\t$n\n\@inote addx dcclt/ebla\n";
     foreach my $v (@{$needx{$n}}) {
 	print "\@v\t$v\n";
     }
