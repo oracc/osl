@@ -8728,6 +8728,7 @@
 @v	qil₂
 @v?	qili₂
 @v	unu₁₀
+@form ~a |GI₄%GI₄|
 @end sign
 
 @sign	GI₄
@@ -8764,6 +8765,7 @@
 @end sign
 
 @sign	|GI₄%GI₄|
+@list ELLES244a
 @list MZL508
 @list SLLHA326a
 @uphase	1
