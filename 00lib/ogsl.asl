@@ -462,6 +462,7 @@
 @form	~t	|PA.DUG.GIŠ.PAD.SI.A|
 @form	~u	|A.PA.BI.GIŠ.PAD|
 @form	~v	|A.GISAL|
+@form	~w	|SI.A.PAD.GISAL|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
