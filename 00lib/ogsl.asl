@@ -461,6 +461,7 @@
 @form	~s	|BI.GIŠ.GAD.A.A.SI|
 @form	~t	|PA.DUG.GIŠ.PAD.SI.A|
 @form	~u	|A.PA.BI.GIŠ.PAD|
+@form	~v	|A.GISAL|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -5597,10 +5598,6 @@
 @list ELLES278
 @end sign
 
-@sign	ELLES302
-@list ELLES302
-@end sign
-
 @sign	ELLES360
 @list ELLES360
 @end sign
@@ -5965,7 +5962,10 @@
 @end sign
 
 @sign	ERIN₂
+@list ELLES159
+@list LAK280
 @list LAK527
+@inote is this really correct?
 @list RSP378
 @list BAU143
 @list BAU248
@@ -7503,6 +7503,7 @@
 @v	mi₄
 @v	min₇
 @v	tan₂
+@form ~a |GA×EN.ME|
 @end sign
 
 @sign	|GA₂×MI|
@@ -8864,6 +8865,7 @@
 @list RSP463
 @list BAU161a
 @list BAU161c
+@list ELLES137
 @list HZL301
 @list MZL701
 @list OBZL291b
@@ -11253,6 +11255,7 @@
 @ucode	x12146.x1208D
 @v	u₆
 @v	ug₆
+@form ~a |IGI.KID|
 @end sign
 
 @sign	|IGI.ERIN₂|
@@ -12850,6 +12853,7 @@
 @v	šegₓ
 @v	tukur₂
 @v	tukureₓ
+@form ~a |ŠE.KA|
 @end sign
 
 @sign	|KA×ŠE@f|
@@ -14236,6 +14240,7 @@
 @end sign
 
 @sign	KIŠ
+@list ELLES139
 @list LAK248
 @list HZL273
 @list MZL678
@@ -16769,16 +16774,6 @@
 @uname	CUNEIFORM SIGN LAK648 TIMES GA
 @end	sign
 
-@sign	|LAK648×IGI|
-@list ELLES317
-@list LAK650
-@uphase	9
-@ucode x12510
-@uname	CUNEIFORM SIGN LAK648 TIMES IGI
-@v	banšurₓ
-@inote Ebla sign list si-la-ga-um
-@end	sign
-
 @sign	|LAK648×IGI@g|
 @list LAK651
 @uphase	9
@@ -17764,6 +17759,7 @@
 @ucode x12519
 @uphase	9
 @uname	CUNEIFORM SIGN LU2 GUNU TIMES ASH
+@v	adₓ
 @end	sign
 
 @sign	LU₂@s
@@ -17811,9 +17807,10 @@
 @list KWU083
 @uphase	0
 @ucode x12389
-@v	adₓ
+@v-	adₓ
+@inote since CDLI uses ad₈ we should deprecate this adₓ
 @v	ad₈
-#inote CDLI
+@inote CDLI
 @v	addaₓ
 @end sign
 
@@ -21832,6 +21829,7 @@
 @list RSP460bis
 @v    kilim
 @end form
+@form ~b LAK244
 @end sign
 
 @sign	PI
@@ -23302,6 +23300,7 @@
 @v	ṭir
 @v	uš₁₅
 @v	ušub
+@form	~a |A.SI|
 @end sign
 
 @sign	|SI.A.BUR₂|
@@ -25831,6 +25830,7 @@
 @v	šudulu
 @v	šudun
 @v	šutul
+@form ~a ELLES302
 @end sign
 
 @sign	|ŠU₂.(E₂×AN)|
@@ -26451,6 +26451,7 @@
 @ucode	x122FC.x1200A
 @v	unu₆
 @v	unug₃
+@form ~a |AB.TE|
 @end sign
 
 @sign	|TE.AB@g|
@@ -27261,6 +27262,9 @@
 @end form
 @form ~b |SAG.U|
 @ucode x12295.x1230B
+@v    saŋšu
+@end form
+@form ~c |SAG.ŠU₂|
 @v    saŋšu
 @end form
 @end sign
@@ -29123,7 +29127,13 @@
 @v	šilig₇
 @end form
 @form ~c |GIŠGAL×IGI|
-@inote Probably a better description than URU×(MIN.IGI)
+@list ELLES317
+@list LAK650
+@uphase	9
+@ucode x12510
+@uname	CUNEIFORM SIGN LAK648 TIMES IGI
+@inote Ebla sign list si-la-ga-um
+@inote Probably a better description than URU×(MIN.IGI) or URU×IGI
 @end form
 @end sign
 
@@ -33477,12 +33487,6 @@
 @inote CDLI archsigns SILA₄~c, concentric rounded squares; Steinkeller: different lamb-word?
 @end sign
 
-@sign	LAK248
-@list ELLES137
-@list ELLES139
-@list LAK248
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
 @sign	LAK046a
 @list ELLES277
 @list LAK046a
@@ -33536,12 +33540,6 @@
 @sign	LAK262@g
 @list LAK262@g
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK280
-@list ELLES159
-@list LAK280
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@v	surₓ
 @end sign
 @sign	LAK304a
 @list LAK304a
