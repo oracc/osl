@@ -586,6 +586,8 @@
 @end form
 @form	~m |A.TU.GABA.LIŠ.GAR|
 @end form
+@form	~n |ASAL₂×A|
+@end form
 @end sign
 
 @sign	|A.TUR|
@@ -2268,13 +2270,20 @@
 @ucode	xeb80
 @v	aš@c
 @v	1(aš@c)
+@end form
 @form ~d AŠ@c@90
 @v	aš@c@90
+@end form
 @form ~e AŠ@c@v
 @v	aš@c@v
+@end form
 @form ~f AŠ@f
 @v	aš@f
 @inote "flat" aš, mostly Archaic Ur but also at Fara P480579
+@end form
+@form ~t AŠ@t
+@v	aš@t
+@end form
 @form ~v AŠ@v
 @v	aš@v
 @end form
@@ -2765,6 +2774,7 @@
 @form	~a |DUG.SILA₃.BUR|
 @ucode x12081.x122E1.x12053
 @form	~b EDIN
+@list ELLES365
 @list LAK747
 @list RSP433
 @list RSP435
@@ -3442,6 +3452,7 @@
 @sign	|BURU₅×AMAR@t|
 @list LAK072b
 @list RSP409
+@v	buruₓ
 @v	u₅
 @inote AbS P225926 = OIP 099, 048 v 2′
 @end sign
@@ -3836,6 +3847,10 @@
 @uphase	9
 @ucode x12489
 @uname	CUNEIFORM SIGN DAG TIMES KUR
+@end sign
+
+@sign	|DAG×PAP|
+@list ELLES362a
 @end sign
 
 @sign	DAM
@@ -5085,6 +5100,7 @@
 @list ELLES385
 @list LAK786
 @inote LAK sign form looks like LAGAB×LAL; LAK786 s.v. suggests equivalence to DUN₃ with a query.
+@inote I haven't collated all ELLES325 but cp MEE 3 53 vi 6, clear on photo MEE 3/A pl. XXVIII, and certainly DUN₃
 @end sign
 
 @sign	DUN₃@g
@@ -5491,6 +5507,7 @@
 @end sign
 
 @sign	EDIN
+@list ELLES365
 @list LAK747
 @list RSP433
 @list RSP435
@@ -7635,6 +7652,10 @@
 @v	eme₈
 @v	ur₁₄
 @v	uš₃
+@end sign
+
+@sign	|GA₂×(SAL.KUR)|
+@list ELLES345
 @end sign
 
 @sign	|GA₂×SAR|
@@ -10202,6 +10223,10 @@
 @lit	Veldhuis 2004, 150 n.6
 @end sign
 
+@sign |HA@t×TIL|
+@list ELLES195a
+@end sign
+
 @sign	HAL
 @list ELLES002
 @list LAK005
@@ -12384,6 +12409,7 @@
 @v      gu₇⁻
 @inote	Attinger
 @end form
+@form ~b |KA.GAR|
 @end sign
 
 @sign	|KA×(GAR.ŠA₃.A)|
@@ -12613,6 +12639,8 @@
 @ucode	x12180
 @v	mu₁₃
 @end form
+@form ~b	|KA.LI|
+@end form
 @end sign
 
 @sign	|KA×LI.KA×LI|
@@ -12659,6 +12687,7 @@
 @v	em₄
 @v	eme
 @v	uli
+@form 	~a |KA.ME|
 @end sign
 
 @sign	|KA×(ME.DU)|
@@ -15752,13 +15781,6 @@
 @v	šedur
 @end sign
 
-@sign	|LAGAB×TIL|
-@list ELLES377
-@list LAK770
-@uphase	0
-@v	gigirₓ
-@end sign
-
 @sign	|LAGAB×U|
 @list RSP259
 @list BAU267
@@ -15791,6 +15813,7 @@
 @form ~a |LAGAB×TIL|
 @list ELLES377
 @list LAK770
+@v	gigirₓ
 @v	pu₂
 @end form
 @form ~b |LAGAB×1(N01)|
@@ -15930,6 +15953,10 @@
 @v	lagal
 @v	lagar
 @v	nagal
+@end sign
+
+@sign	|LAGAR.HUL₂|
+@inote Ebla, not collatable
 @end sign
 
 @sign	|LAGAR.IB|
@@ -16810,12 +16837,6 @@
 @ucode x12515
 @uname	CUNEIFORM SIGN LAK648 TIMES UD
 @end	sign
-
-@sign	LAK747
-@list ELLES365
-@list LAK747
-@uphase	0
-@end sign
 
 @sign	LAL
 @list ELLES370
@@ -21782,6 +21803,7 @@
 @ucode	x1227D.x1214A.x12263.x12228
 @v	isimu₄
 @v	isimud₄
+@form	~a |IGI@g.PAP.NUN.ME|
 @end sign
 
 @sign	|PAP.IGI@g.NUN.ME.EZEN×KASKAL|
@@ -22377,6 +22399,11 @@
 @end form
 @end sign
 
+@sign	|SAG×IGI|
+@list LAK309a
+@inote Clear on photo MEE 3/A XXXIXa i 4
+@end sign
+
 @sign	|SAG.PA.LAGAB|
 @ucode	x12295.x1227A.x121B8
 @v	zarah
@@ -22445,6 +22472,10 @@
 @v	huₓ
 @v	haₓ
 @v?	hulumₓ
+@end sign
+
+@sign	|SAG×GAR|
+@inote Ebla
 @end sign
 
 @sign	|SAG×IG|
@@ -22944,6 +22975,9 @@
 @ucode	x122A9.x12228
 @v	lagar₂
 @v	lukur
+@form	~a |ŠITA₂.ME|
+@v	lukurₓ
+@end form
 @end sign
 
 @sign	|SAL.SAL.DAM|
@@ -23665,6 +23699,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN SU
 @ucode	x122E2
+@v	eₓ
+@inote uncertain; proposed in dcclt/ebla/MEE3_53.atf ad vii 1 but unclear basis
 @v	guš
 @v	kus
 @v	kuš
@@ -30547,9 +30583,12 @@
 @end sign
 
 @sign	AŠ@t
-@v	uzaraₓ
+@list ELLES104
+@list LAK178
 @v	aš@t
 @v	1(aš@t)
+@v	uzaraₓ
+@inote For sign form LAK178 LAK notes passim in FARA for later U and later for AŠ, DIŠ, or U.
 @form ~a 1(AŠ@t@c)
 @list RSP035
 @v	1(aš@t@c)
@@ -31905,6 +31944,7 @@
 @inote epsd2; is this really NUNUZ.AB₂×X?
 @v	lahtanₓ
 @end sign
+
 @sign |PAP.NUN.ME.EZEN|
 @ucode	x1227D.x12263.x12228.x120A1
 @inote epsd2
@@ -32695,13 +32735,6 @@
 
 @sign |KA×GIG|
 @inote dcclt !sg
-@end sign
-
-@nosign |PAN.GAM|
-@ucode x1227C.x120F5
-@v	zugudₓ
-@inote dcclt !sg
-@inote now as form under HA@t
 @end sign
 
 @sign |ŠIR.UD|
@@ -33506,11 +33539,6 @@
 @end sign
 @sign	LAK141
 @list LAK141
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK178
-@list ELLES104
-@list LAK178
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK203
@@ -34715,11 +34743,6 @@
 
 @sign |GA₂×SILA₃|
 @list ELLES337
-@inote missing compounds for elles.atf
-@end sign
-
-@sign |HA@t×BAD|
-@list ELLES195a
 @inote missing compounds for elles.atf
 @end sign
 
