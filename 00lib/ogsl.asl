@@ -285,6 +285,7 @@
 @v	ira₂
 @v	isiš₂
 @v	šešₓ
+@form	~a |IGI.A|
 @end sign
 
 @sign	|A.KA|
@@ -1055,6 +1056,7 @@
 @uphase	9
 @ucode	x12480
 @uname	CUNEIFORM SIGN AB TIMES NUN TENU
+@inote var of AB×AŠ₂ = abba₂?
 @end sign
 
 @sign	|AB×ŠEŠ|
@@ -5798,6 +5800,8 @@
 @end form
 @form ~c	|EN×IGI@g.NUN.EZEN×KASKAL|
 @end form
+@form ~d	|IGI@g.EN.NUN.ME.EZEN×KASKAL|
+@end form
 @end sign
 
 @sign	|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|
@@ -6287,6 +6291,8 @@
 @uphase	9
 @uname	CUNEIFORM SIGN ESH2 GUNU TENU CROSSING ESH2 GUNU TENU
 @lit	Woods FS Biggs, 328
+@v	hul₃
+@inote CHECK is this really EŠ₂@g@t or just EŠ₂@g, approx = GIŠ@g@t?
 @end	sign
 
 @sign	ZI₃
@@ -16067,6 +16073,14 @@
 @sign	|ZU&ZU|
 @end sign
 
+@sign	LAK234
+@inote possibly just a simple form of MUŠ
+@end sign
+
+@sign	|LAK234&LAK234|
+@v 	arinaₓ
+@end sign
+
 @sign	LAK262
 @list ELLES148
 @list LAK262
@@ -19044,6 +19058,7 @@
 @form ~c |(PAP.PAP)&(PAP.PAP)|
 @inote Ebla only; association with ri₈/rin₄ not certain
 @end form
+@form ~d |MUŠ&MUŠ|
 @end sign
 
 @sign	|MUŠ%MUŠ.A.NA|
@@ -24545,6 +24560,8 @@
 @end form
 @form ~d	|(ŠE.NUN)&(ŠE.NUN)|
 @end form
+@form ~e	|(ŠE.NUN)&(ŠE.NUN)×U₂|
+@end form
 @end sign
 
 @sign	|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR|
@@ -26684,6 +26701,9 @@
 @v	namšeše
 @inote	salgues
 @end	form
+@form	~b |ŠU×ŠE|
+@list LAK141
+@end form
 @end sign
 
 @sign	TUG₂
@@ -33477,11 +33497,6 @@
 @inote ed3a
 @end sign
 
-@sign LAK234
-@list LAK234
-@inote ed3a
-@end sign
-
 @sign LAK350@90
 @list LAK350@90
 @inote ed3a
@@ -33611,7 +33626,7 @@
 @end sign
 @sign	LAK712
 @list LAK712
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
+@inote LAK712(a) is probably a form of LAK648 used as a container; LAK712b is ŠEN without the ×A
 @end sign
 @sign	LAK772b
 @list LAK772b
