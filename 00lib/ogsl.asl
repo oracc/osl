@@ -464,6 +464,7 @@
 @form	~u	|A.PA.BI.GIŠ.PAD|
 @form	~v	|A.GISAL|
 @form	~w	|SI.A.PAD.GISAL|
+@form	~x	|GISAL.A|
 @end sign
 
 @sign	|A.PA.BI.SI.A.GA|
@@ -3457,6 +3458,7 @@
 @v	buruₓ
 @v	u₅
 @inote AbS P225926 = OIP 099, 048 v 2′
+@inote FIXME: if it is really u₅ it needs to be moved to be a @form of |HU.SI|. Or read uₓ.
 @end sign
 
 @sign	DA
@@ -5423,6 +5425,7 @@
 @end sign
 
 @sign |E₂×AŠ@t|
+@list ELLES360
 @list LAK734
 @list KWU713
 @list KWU844
@@ -5439,7 +5442,6 @@
 @end sign
 
 @sign	|E₂×GAR|
-@list LAK739
 @uphase	1
 @uname	CUNEIFORM SIGN E2 TIMES GAR
 @ucode	x1208F
@@ -5474,6 +5476,7 @@
 
 @sign	|E₂×SAL|
 @list KWU846
+@list LAK739
 @uphase	1
 @uname	CUNEIFORM SIGN E2 TIMES SAL
 @ucode	x12091
@@ -5545,10 +5548,11 @@
 @end sign
 
 @sign	EGIR
-@list RSP403
 @list HZL126
+@list LAK499
 @list MZL356
 @list OBZL076
+@list RSP403
 @list SLLHA209
 @list KWU731
 @uphase	1
@@ -5616,10 +5620,6 @@
 
 @sign	ELLES278
 @list ELLES278
-@end sign
-
-@sign	ELLES360
-@list ELLES360
 @end sign
 
 @sign	ELLES396
@@ -7527,7 +7527,7 @@
 @v	mi₄
 @v	min₇
 @v	tan₂
-@form ~a |GA×EN.ME|
+@form ~a |GA₂×(EN.ME)|
 @end sign
 
 @sign	|GA₂×MI|
@@ -10832,6 +10832,8 @@
 @ucode x12190.x1230B.x122DB
 @v u₅
 @end form
+@form ~b |MA₂.HU|
+@end form
 @end sign
 
 @sign	HUB₂
@@ -12077,7 +12079,7 @@
 
 @sign	KA@180
 @v?	nundumₓ [OIP 99, 34 = dcclt:P010094 o v 8']
-@note	Paralells KA.NU in SF 20
+@note	Parallels KA.NU in SF 20
 @end sign
 
 @nosign	|KA.AN|
@@ -12130,6 +12132,9 @@
 @sign	|KA.KA|
 @ucode	x12157.x12157
 @v	duṭu
+@end sign
+
+@sign	|KA@KA|
 @end sign
 
 @sign	|KA.KAK|
@@ -12313,6 +12318,11 @@
 @v	ma₅
 @v	mu₃
 @v	sub₄
+@end sign
+
+@sign	|KA.EŠ₂|
+@v eškiriₓ
+@inote MEE 15, 038 2' 2'.
 @end sign
 
 @sign	|KA×GA|
@@ -18257,6 +18267,9 @@
 @ucode	x12222
 @v	durba
 @v	hašhur
+@form ~a |MA×GAN₂@t|
+@inote See sign form in MEE15 pl VIII o 6
+@end form
 @end sign
 
 @sign	MA₂
@@ -29194,6 +29207,10 @@
 @inote Ebla sign list si-la-ga-um
 @inote Probably a better description than URU×(MIN.IGI) or URU×IGI
 @end form
+@form ~d |GIŠGAL+AŠ|
+@list ELLES317a
+@inote See drawing by Pettinato MEE 4 p97 ad r III 8 and ELLES318a
+@end form
 @end sign
 
 @sign	|URU×IM|
@@ -30148,6 +30165,12 @@
 @note abbreviated variant
 @v	šuₓ
 @v	sukumₓ
+@end form
+@form ~b	|ZI.ZI.A|
+@inote Read as suluhu₃ in Picchioni, Ešbarkin; not collatable
+@end form
+@form ~c	|ZI.ZI|
+@inote Read as suluhu₃ in Picchioni, Ešbarkin; not collatable
 @end form
 @end sign
 
@@ -33547,9 +33570,6 @@
 @list LAK496
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
-@sign	LAK499
-@list LAK499
-@end sign
 @sign	LAK099
 @list LAK099
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
@@ -35435,6 +35455,9 @@
 @sign	|KA.NU|
 @inote addx dcclt/ebla
 @v	nundumₓ
+@form ~a |KA.NUN|
+@inote Hapax in MEE15 but with asterisk so presumably collated by Picchioni; would be worth recollating to see if it's the more common |KA.NU|.
+@end form
 @end sign
 
 @sign	|DIM×KAK|
@@ -35538,6 +35561,7 @@
 @sign	|GA₂.NU₁₁|
 @inote addx dcclt/ebla
 @v	nummaₓ
+@form ~a |NU₁₁.GA₂|
 @end sign
 
 @sign	|ŠA.PI|
