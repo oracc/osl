@@ -3536,6 +3536,7 @@
 @v	tak₂
 @v	taq₂
 @v?	ṭak
+@form ~a LAK457
 @end sign
 
 @sign	|DAG.KISIM₅|
@@ -8906,7 +8907,7 @@
 @sign	|GIR₂×AŠGAB|
 @end sign
 
-@sign	|GIR₂@g×EŠ₂@t|
+@sign	|GIR₂@g×EŠ₂|
 @inote dcclt/ebla
 @end sign
 
@@ -9518,7 +9519,7 @@
 @v	ziz₄
 @end sign
 
-@sign	|GIŠ×EŠ@t|
+@sign	|GIŠ×EŠ₂@t|
 @inote MEE read GIŠ×GAN@t@t but this is not KAR₂ it's a backward-leaning EŠ₂
 @end sign
 
@@ -26100,6 +26101,9 @@
 @sign	|TA×IGI@g|
 @v	sukudₓ
 @v	šembiₓ
+@form ~a |DUG×IGI@g|
+@inote list LAKXXX
+@end form
 @end sign
 
 @sign	|TA×MI|
@@ -34687,6 +34691,7 @@
 @sign |SAG×NI|
 @list LAK313
 @inote missing compounds for lak.atf
+@v	azadₓ
 @v	uguₓ
 @end sign
 
