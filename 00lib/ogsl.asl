@@ -8903,6 +8903,10 @@
 @sign	|GIR₂×AŠGAB|
 @end sign
 
+@sign	|GIR₂@g×EŠ₂|
+@inote dcclt/ebla
+@end sign
+
 @sign	GIR₃
 @list LAK248
 @list RSP463
@@ -9509,6 +9513,9 @@
 @v	ŋešhur
 @v	ŋešhar
 @v	ziz₄
+@end sign
+
+@sign	|GIŠ×GAN₂@t|
 @end sign
 
 @sign	|GIŠ×(GIŠ%GIŠ)|
@@ -11306,6 +11313,7 @@
 @v	u₆
 @v	ug₆
 @form ~a |IGI.KID|
+@form ~b |IGI.KISAL|
 @end sign
 
 @sign	|IGI.ERIN₂|
@@ -12583,6 +12591,7 @@
 @lit	Peterson dissertation (2007), p.230 with note 1009.
 @note	sign is GIŠGAL×IM = LAK648×IM
 @end form
+@form	~b |KA.IM|
 @end sign
 
 @sign	|KA×KA|
@@ -22710,6 +22719,10 @@
 @v	dilib₅
 @end sign
 
+@sign	|SAG×ZA|
+@inote Bonecchi reading of MEE 4, 2+ viii 10
+@end sign
+
 @sign	|SAG&SAG|
 @list HZL192
 @list OBZL309
@@ -23813,6 +23826,9 @@
 @uname	CUNEIFORM SIGN SU OVER SU
 @ucode	x122E3
 @v	e₆
+@form ~a SU
+@inote Bonecchi reading of VE-1019
+@end form
 @end sign
 
 @sign	|SU&SU.A|
