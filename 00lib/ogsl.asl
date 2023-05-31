@@ -946,6 +946,9 @@
 @uname	CUNEIFORM SIGN AB TIMES ASH2
 @ucode	x1200B
 @v	abba₂
+@form ~a |AB×NUN@t|
+@list LAK541
+@end form
 @end sign
 
 @sign	|AB×DUN₃@g|
@@ -1640,6 +1643,7 @@
 @sign	|AMAR.UD|
 @ucode	x1202B.x12313
 @v	marduk
+@form ~a |UD.AMAR|
 @end sign
 
 @sign	|AMAR×ŠE|
@@ -1990,6 +1994,10 @@
 @end form
 @form ~c LAK240
 @list LAK240
+@end form
+@form	~d LAK248@g
+@list LAK248@g
+@end form
 @end sign
 
 @sign	|ANŠE.AN|
@@ -2006,6 +2014,8 @@
 @v	šakkan₆
 @form  ~a |ARAD.ANŠE|
 @ucode x12034.x12032
+@end form
+@form  ~b |LAK248@g.ARAD|
 @end form
 @end sign
 
@@ -5383,6 +5393,7 @@
 @v	agruₓ
 @v	agrunaₓ
 @v	e₂-gar₆
+@form ~a |KID.NUN|
 @end sign
 
 @sign	|E₂.SAL|
@@ -6258,6 +6269,8 @@
 @form ~z	|BU.EŠ₂.ŠE.NUN|
 @v	saman₃
 @end form
+@form ~aa	|SUD.NU.NUN.EŠ₂|
+@v    samanₓ
 @end sign
 
 @sign	|EŠ₂.ŠE|
@@ -9465,6 +9478,7 @@
 @v	azlag₃
 @form	~a |GIŠ.TE.A.TUG₂.DU|
 @form	~b |GIŠ.DU.TE.A.TUG₂|
+@form	~c |GIŠ.TE.A.DU.TUG₂|
 @inote need to unify all the azlagX signs as forms of a single sign
 @end sign
 
@@ -15661,6 +15675,10 @@
 @ucode x121B8.x122A8
 @end sign
 
+@sign	|LAGAB×(SAL.TUG₂)|
+@inote MEE 15, 27, r v' 13'
+@end sign
+
 @sign	|LAGAB×SUM|
 @list ELLES383
 @list LAK783
@@ -18802,6 +18820,8 @@
 @ucode x12532
 @inote Nisaba 25 p.29
 @end form
+@form ~b |MU.MU|
+@inote MEE 15 41+ r iii' 10'
 @end sign
 
 @sign	MUG
@@ -20257,6 +20277,7 @@
 @ucode	x12256
 @v	indagara
 @v	indagra
+@form ~a |NINDA₂.GUD|
 @end sign
 
 @sign	|NINDA₂×GUL|
@@ -20340,6 +20361,10 @@
 @v	ram
 @v	rama
 @v	ugₓ
+@end sign
+
+@sign	|NINDA₂@NINDA₂|
+@inote MEE 15, 28 iv 12
 @end sign
 
 @sign	|NINDA₂×NUMUN|
@@ -33584,10 +33609,6 @@
 @end sign
 @sign	LAK207a
 @list LAK207a
-@inote for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-@sign	LAK248@g
-@list LAK248@g
 @inote for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 @sign	LAK248b
