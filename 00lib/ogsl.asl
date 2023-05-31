@@ -1998,6 +1998,9 @@
 @form	~d LAK248@g
 @list LAK248@g
 @end form
+@form	~e LAK248b
+@list LAK248b
+@end form
 @end sign
 
 @sign	|ANŠE.AN|
@@ -8903,7 +8906,7 @@
 @sign	|GIR₂×AŠGAB|
 @end sign
 
-@sign	|GIR₂@g×EŠ₂|
+@sign	|GIR₂@g×EŠ₂@t|
 @inote dcclt/ebla
 @end sign
 
@@ -9515,7 +9518,8 @@
 @v	ziz₄
 @end sign
 
-@sign	|GIŠ×GAN₂@t|
+@sign	|GIŠ×EŠ@t|
+@inote MEE read GIŠ×GAN@t@t but this is not KAR₂ it's a backward-leaning EŠ₂
 @end sign
 
 @sign	|GIŠ×(GIŠ%GIŠ)|
@@ -18270,7 +18274,7 @@
 @end sign
 
 @sign	|MA×GAN₂@t|
-@inote ed3b, collated from photo P225807; GAN₂@t runs SW to NE not NE to SW, i.e., is rotated -90 degrees
+@inote ed3b, collated from photo P225807; GAN₂@t runs SW to NE not NW to SE, i.e., is rotated -90 degrees
 @end sign
 
 @sign	|MA@g×TAK₄|
@@ -20925,6 +20929,7 @@
 @v	šer₇
 @v?	tirₓ
 @inote	Abbreviation for tir = |ŠE.NUN&NUN|; not found so far.
+@form ~a |NUN.NUN|
 @end sign
 
 @sign	|(NUN&NUN)&(NUN&NUN)|
@@ -26050,6 +26055,12 @@
 @v	šušana
 @v	šuššanₓ
 @v	1/3(diš)
+@form ~a ŠUŠANA@c
+@list LAK817
+@end form
+@form ~b |ŠU₂.ŠA|
+@v 	šušanaₓ
+@end form
 @end sign
 
 @sign	TA
@@ -31867,6 +31878,9 @@
 @v     kurunₓ
 @end sign
 
+@sign |DIN×ŠE|
+@end sign
+
 @sign |EN.GA₂×SAL.DIM₂|
 @v	šugalanzuₓ
 @end sign
@@ -34527,10 +34541,6 @@
 
 @sign ŠIM@g
 @list LAK660
-@inote for lak.atf
-@end sign
-
-@sign ŠUŠANA@c
 @inote for lak.atf
 @end sign
 
