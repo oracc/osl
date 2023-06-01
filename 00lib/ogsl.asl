@@ -1613,6 +1613,12 @@
 @v	ṣur
 @v	ṣuru
 @v	zur
+@form ~a	|AMAR×PAP|
+@v 	amar
+@v 	mar₂
+@v 	zur
+@inote four times zu-ur/MIN/ma-ar/a-mar in BM.93034 (Ea 8)
+@end form
 @end sign
 
 @sign	|AMAR.AMAR|
@@ -2889,6 +2895,10 @@
 @sign	|BALAG.A|
 @ucode	x12046.x12000
 @v	hurinₓ
+@end sign
+
+@sign	|BALAG@BALAG|
+@inote P221799 ED Lagash lex; disposition of signs in case is BALAG&BALAG@180 but the transliteration assumes this is an artefact of the case width and that this is a sign of the SIGN@SIGN class
 @end sign
 
 @sign	|BALAG.LUL|
@@ -4714,6 +4724,7 @@
 @v	dup₂
 @v	ŋeštinₓ
 @v?	sagkurini
+@v	saŋkurini
 @v	tig₃
 @v?	tu₁₆
 @v	tub₂
@@ -6957,6 +6968,11 @@
 @uname	CUNEIFORM SIGN GA2 TIMES AB2 TENU PLUS TAB
 @ucode	x120BB
 @v	gakiṣṣu
+@inote deprecate gakiṣṣu?
+@v	ŋakizzum
+@form ~a |GA₂×(AB₂×ŠA₃.TAB)|
+@v	ŋakizzum
+@end form
 @end sign
 
 @sign	|GA₂×AN|
@@ -12374,6 +12390,7 @@
 @uname	CUNEIFORM SIGN KA TIMES GAL
 @ucode	x12163
 @v	agal
+@form ~a |KA×(A.GAL)|
 @end sign
 
 @sign	|KA×GAN₂@t|
@@ -12455,6 +12472,8 @@
 @inote	Attinger
 @end form
 @form ~b |KA.GAR|
+@form ~c |KA×(GI%GI)|
+@v	tukurₓ
 @end sign
 
 @sign	|KA×(GAR.ŠA₃.A)|
@@ -12812,6 +12831,9 @@
 @list HZL138
 @uphase	0
 @ucode x12384
+@end sign
+
+@sign	|KA×(PA.LUGAL)|
 @end sign
 
 @sign	|KA×PI|
@@ -15147,6 +15169,7 @@
 @v	isirₓ
 @v	ešerₓ
 @v	kunin
+@v	buniŋ₃
 @end form
 @form ~g	A
 @list ELLES393
@@ -20704,6 +20727,10 @@
 @form ~a	NU₁₁@t
 @end sign
 
+@sign	|NU₁₁.SILA₃|
+@v	ŋešniₓ
+@end sign
+
 @sign	NUN
 @list ELLES047
 @list LAK076
@@ -21380,8 +21407,13 @@
 @v	nagada
 @v	rig₁₀
 @v	ririg
+@v	sirig
 @v	udul₉
 @v	utul₉
+@form ~a |PA.DAG.KISIM₅×PAP|
+@v	sirig
+@inote value sirig following PA.DAG.KISIM₅×KAK; reading not certain
+@end form
 @end sign
 
 @sign	|PA.DAG.KISIM₅×(LU.MAŠ₂)|
@@ -32907,6 +32939,10 @@
 @inote dcclt !sg
 @end sign
 
+@sign |PA.SAG|
+@inote dcclt/signlists BM.37058 1'
+@end sign
+
 @sign |PA.SAL.HUB₂.DU|
 @ucode x1227A.x122A9.x12138.x1207A
 @inote u3adm
@@ -35199,6 +35235,14 @@
 @end sign
 
 @sign	|LAL₂×KAK|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAL₂×LAGAB|
+@inote gvl unknown compound
+@end sign
+
+@sign	|LAL₂×SAR|
 @inote gvl unknown compound
 @end sign
 
