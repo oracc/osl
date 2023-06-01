@@ -20727,7 +20727,7 @@
 @form ~a	NU₁₁@t
 @end sign
 
-@sign	|NU₁₁.SILA₃|
+@sign	|NU₁₁@t.SILA₃|
 @v	ŋešniₓ
 @end sign
 
