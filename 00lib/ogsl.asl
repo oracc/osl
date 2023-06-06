@@ -17782,6 +17782,8 @@
 @uname	CUNEIFORM SIGN LU2 TIMES SIK2 PLUS BU
 @ucode	x1220F
 @v	[...]AŠ
+@form ~a |LU₂×(SIK₂.SUD)|
+@inote Lambert Iraq 38 BM 98946; copy clearly SUD--possible one or other of BU/SUD forms is to be corrected
 @end sign
 
 @sign	|LU₂×ŠA₃|
@@ -27055,6 +27057,10 @@
 @ucode	x12309.x12351
 @v	suhušₓ
 @v	ibila
+@end sign
+
+@sign	|TUR&TUR|
+@inote SBH 17
 @end sign
 
 @sign	|TUR&TUR.ZA&ZA|
