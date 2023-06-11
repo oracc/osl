@@ -20397,6 +20397,8 @@
 @v	ig₃
 @v	iŋ₃
 @v	im₃
+@v	raₓ
+@inote for asbp/ninmed
 @v	ram
 @v	rama
 @v	ugₓ
