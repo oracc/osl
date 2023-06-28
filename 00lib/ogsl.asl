@@ -292,6 +292,9 @@
 @ucode	x12000.x12157
 @v	uga₂
 @v	ugu₂
+@form ~a |A.KA×A|
+@v uguₓ
+@end form
 @end sign
 
 @sign	|A.KAL|
@@ -2331,6 +2334,11 @@
 @ucode	x12038.x12131.x12104
 @v	aski
 @v	ašgi
+@end sign
+
+@sign	|AŠ.KUN|
+@inote admin/oldbab
+@v	megidaₓ
 @end sign
 
 @sign	|AŠ+SUR|
@@ -34636,6 +34644,11 @@
 @sign |GU₂×PA|
 @list LAK551
 @inote missing compounds for lak.atf
+@end sign
+
+@sign |GU₂×AŠ₂|
+@inote CBS 3421 o 18
+@inote collated from photo; could this be for GU₂×PA?
 @end sign
 
 @sign |HI.SUHUR|
