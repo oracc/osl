@@ -5931,6 +5931,10 @@
 @inote for u3adm
 @end sign
 
+@sign	|EN×MAŠ.KAK|
+@inote needs collation to know if this is EN×MAŠ.KAK or EN×(MAŠ.KAK); CUSAS 40, 831 o 4
+@end sign
+
 @sign	|EN×ME|
 @list SLLHA099c
 @uphase	1
