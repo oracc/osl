@@ -1181,6 +1181,7 @@
 @v	liti
 @v	liṭ
 @v	liṭi
+@v	mulₓ
 @v	rem₂
 @v	reme₂
 @v	rim₂
@@ -3747,6 +3748,10 @@
 @v	ubur₂
 @end sign
 
+@sign	|DAG.KISIM₅×(LU.GIR₂)|
+@v	kišiₓ
+@end sign
+
 @sign	|DAG.KISIM₅×(LU.MAŠ₂)|
 @list RSP358
 @list MZL460
@@ -4107,6 +4112,7 @@
 @v	tim
 @v	tum₈
 @v	ṭem
+@v	ṭiₓ
 @v	ṭim
 @form ~a LAK061
 @list LAK061
@@ -6913,6 +6919,7 @@
 @v	ma₃
 @v	mal
 @v	mala
+@v	mulₓ
 @v	pisag
 @v	pisaŋ
 @v	pisan
@@ -8245,6 +8252,7 @@
 @v	gana
 @v	he₂
 @v	hi₂
+@v	kamₓ
 @v	kan
 @v	kana
 @v	li₆
@@ -11245,6 +11253,7 @@
 @v	pa₁₀
 @v	pad₄
 @v	pan₃
+@v	paṭ
 @v?	raₓ
 @v	rumₓ
 @note	In ED Proverbs
@@ -12109,6 +12118,7 @@
 @v	ušₓ
 @inote sjt really defective uš₁₁/uš₇ poison; a placeholder to force collation
 @v	uzugₓ
+@v	zapₓ
 @v?	zib₄
 @v	zu₂
 @v	zug₂
@@ -20100,6 +20110,10 @@
 @ucode	x1224D
 @end sign
 
+@sign	|NI×GIŠ|
+@inote logogram for šamnu[oil]
+@end sign
+
 @sign	|4×NI|
 @v	šaršari [SpTU 3, 116 = dcclt:P348714 o ii 31]
 @inote	also in MAH 16068 = P424009 o ii 9' (Cavigneaux in FS Attinger)
@@ -22915,6 +22929,7 @@
 @v	raq
 @v	sal
 @v	sala
+@v	ṣalₓ
 @v	ša₁₂
 @v	šal
 @v	šel₄
