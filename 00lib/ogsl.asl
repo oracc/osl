@@ -1988,7 +1988,8 @@
 @v	%elx anše@d
 @v	anši
 @v	anšu
-@v	sumugan
+@v	sumuganₓ
+@inote dupfix MZL sumugan(GIR₃)
 @v	šagan₂
 @inote	Attinger ~ šakan₃
 @v	šakan₃
@@ -3456,7 +3457,7 @@
 @v	bubbur
 @end sign
 
-@sign	BURU₅
+@sign	BURU₅×A
 @list ELLES044
 @list LAK072
 @list RSP414
@@ -3488,7 +3489,8 @@
 @list LAK072b
 @list RSP409
 @v	buruₓ
-@v	u₅
+@v	uₓ
+@inote dupfix MZL u₅(|HU.SI|)
 @inote AbS P225926 = OIP 099, 048 v 2′
 @inote FIXME: if it is really u₅ it needs to be moved to be a @form of |HU.SI|. Or read uₓ.
 @end sign
@@ -4076,9 +4078,11 @@
 @v	dib
 @v	dibi
 @v	dip
-@v	dubba
+@v	dubbaₓ
+@inote dupfix MZL dubba(DUB)
 @v	dul₈
-@v	nu₁₂
+@v-	nu₁₂
+@inote dupfix MZL nu₁₂(LU/DIB) OGSL nu₁₂(LU) and add DIB as @form of LU if necessary
 @v	teb
 @v	tep
 @v	tib
@@ -4307,7 +4311,8 @@
 @v	diš
 @v	diša
 @v	duš₂
-@v	gala₁₀
+@v-	gala₁₀
+@inote dupfix MZL gala₁₀(|LU₂.DIŠ|)
 @v	ge₃
 @v-	geš₂
 @v-	gešta
@@ -4629,7 +4634,8 @@
 @sign	|DU@s.DU@s|
 @ucode	x1207D.x1207D
 @v	gigri₂
-@v	lah₇
+@v	lahₓ
+@inote dupfix: was lah₇ but MZL lah₇(DU@s)
 @v	rahₓ
 @v	reₓ
 @v	suₓ
@@ -4777,7 +4783,8 @@
 @v	ebir
 @v?	epig₂
 @v	epir
-@v	gurin
+@v	gurinₓ
+@inote dupfix MZL gurin(GURUN)
 @v	gurun₇
 @v	kurum₁₀
 @v	kurin
@@ -5800,7 +5807,8 @@
 
 @sign	|EN.ME.ZI.AN.NA|
 @ucode	x12097.x12228.x12363.x1202D.x1223E
-@v	endib
+@v	endibₓ
+@inote dupfix MZL endib(|EN.ME.MU|)
 @end sign
 
 @sign	|EN.NUNUZ.DIM₂|
@@ -6337,7 +6345,8 @@
 @uphase	9
 @uname	CUNEIFORM SIGN ESH2 GUNU TENU CROSSING ESH2 GUNU TENU
 @lit	Woods FS Biggs, 328
-@v	hul₃
+@v	hulₓ
+@inote dupfix MZL hul₃(KIB)
 @inote CHECK is this really EŠ₂@g@t or just EŠ₂@g, approx = GIŠ@g@t?
 @end	sign
 
@@ -7144,7 +7153,8 @@
 @uname	CUNEIFORM SIGN GA2 TIMES BAR PLUS RA
 @ucode	x120C0
 @v?	eburra
-@v?	gaburra
+@v?	gaburraₓ
+@inote dupfix MZL gaburra(|GA₂×BUR.RA|)
 @end sign
 
 @sign	|GA₂×BUR|
@@ -8328,7 +8338,8 @@
 
 @sign	|GAN₂.BU|
 @ucode	x120F7.x1204D
-@v	mulu₄
+@v-	mulu₄
+@inote dupfix MZL mulu₄(GAN₂)
 @v	mulu₄-bu
 @v	šanna
 @end sign
@@ -11253,7 +11264,8 @@
 @v	pa₁₀
 @v	pad₄
 @v	pan₃
-@v	paṭ
+@v	paṭₓ
+@inote dupfix MZL paṭ(PAD)
 @v?	raₓ
 @v	rumₓ
 @note	In ED Proverbs
@@ -12433,7 +12445,8 @@
 @v	bum
 @v	burₓ
 @v	buzur₅
-@v	kala
+@v	kalaₓ
+@inote dupfix MZL kala(KAL)
 @v	kan₆
 @v	kana₆
 @v	muₓ
@@ -14187,7 +14200,8 @@
 @uname	CUNEIFORM SIGN KID
 @ucode	x121A4
 @v	adgubₓ
-@v	bur₆
+@v	burₓ
+@inote dupfix MZL bur₆(KISAL)
 @v	buru₆
 @v	ge₂
 @v	gi₂
@@ -17326,9 +17340,10 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU B
 @ucode	x1243F
-@v	4(diš@v)
-@v	4(diš@v@c)
+@v	4(diš@v)~b
+@v	4(diš@v@c)~b
 @v	limmuₓ
+@inote FIXME: make LIMMU~b a form of LIMMU~a
 @end sign
 
 @sign	LIŠ
@@ -18067,9 +18082,8 @@
 @v    	 gug₅ [VAT 9541 = dcclt/signlists:P345960 o ii 8']
 @inote	 salgues
 @end form
-@end sign
-
-@sign	|LUGAL@LUGAL|
+@form ~b |LUGAL@LUGAL|
+@inote dupfix converted @sign to @form because gug₅
 @list MZL268
 @list SLLHA151v
 @uphase	1
@@ -18749,7 +18763,8 @@
 @v	ŋi₆
 @v	ŋizza [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 62']
 @inote	salgues
-@v	ŋissu [CUSAS 36, 393 = epsd2/admin/ed3b:P252822 r ii 2, e₂-ŋissu-bi-dug₃]
+@v	ŋissuₓ [CUSAS 36, 393 = epsd2/admin/ed3b:P252822 r ii 2, e₂-ŋissuₓ(MI)-bi-dug₃]
+@inote dupfix MZL gissu(|GIŠ.MI|)
 @v	ku₁₀
 @v	ku₁₀-ku₁₀
 @v	kukku₅
@@ -18969,9 +18984,10 @@
 @uphase	1
 @uname	CUNEIFORM SIGN MURGU2
 @ucode	x12231
-@v?	eger₆
-@v?	egir₆
-@v?	eŋir₆
+@v?	eger₅
+@inote dupfix MZL egir₆ etc. is MURGU; egir₅ etc. MURGU
+@v?	egir₅
+@v?	eŋir₅
 @v	lumₓ
 @v	ŋur₂₄
 @inote	Attinger ~ mur₇
@@ -20623,8 +20639,10 @@
 @v	nisag
 @v	nisaŋ
 @v	saₓ
-@v	sag₅
-@v	saŋ₅
+@v	sagₓ
+@inote dupfix MZL sag₅(ŠID)
+@v	saŋₓ
+@inote dupfix MZL saŋ₅(ŠID)
 @v	zaₓ
 @v	zag₃
 @v	zaŋ₃
@@ -20671,7 +20689,7 @@
 @v?	duri
 @v	enšab
 @v	ŋešnu [Ebla Sign List = Q000038 79, NU₁₁ mu-ša-na-um ]
-@inote	Attinger
+@inote	Attinger ŋešnu
 @v?	gešnu
 @v?	gišnu
 @v	nu₁₁
@@ -20680,6 +20698,14 @@
 @v?	pil₆
 @v	sakarₓ
 @v	sudₓ
+@form ~a |NU₁₁.GIŠ|
+@inote dupfix converted to @form to resolve ŋešnu conflict
+@inote PROBLEM: This means ŋešnu needs collation throughout because it probably normally refers to |NU₁₁.GIŠ|; possibly global nu₁₁ for nu₁₁(|NU₁₁.GIŠ|) in non-Attinger corpora
+@ucode	x12262.x12111
+@v	ŋešnu
+@v	ŋišnu
+@end sign
+
 @end sign
 
 @sign	|NU₁₁.BUR|
@@ -20721,12 +20747,6 @@
 @form ~b |NU₁₁.BUR.LA.HU|
 @form ~c |NU₁₁.BUR.HU|
 @form ~d |NU₁₁.BUR.SU.LA.HU|
-@end sign
-
-@sign	|NU₁₁.GIŠ|
-@ucode	x12262.x12111
-@v	ŋešnu
-@v	ŋišnu
 @end sign
 
 @sign	|NU₁₁.IR|
@@ -22509,7 +22529,8 @@
 @v	šak
 @v	šaq
 @v	šegₓ
-@v	zug₃
+@v	zugₓ
+@inote dupfix MZL zug₃(|SAG×U₂|)
 @end sign
 
 @sign	|SAG.AN|
@@ -22745,6 +22766,11 @@
 @ucode	x122A2
 @v	usag
 @v	usug₃
+@v	uzug₃
+@v	zug₃
+@form ~a |U₂.SAG|
+@ucode	x12311.x12295
+@v	muzug
 @v	uzug₃
 @v	zug₃
 @end sign
@@ -23991,7 +24017,8 @@
 @v	šita₃
 @v	šitan
 @inote	Attinger ~ šita₃
-@v	šiten
+@v	šitenₓ
+@inote dupfix MZL šiten(|KI.DU.KAK|)
 @inote	Attinger ~ šita₃
 @v	šušu
 @v	zusu
@@ -24899,7 +24926,8 @@
 @v	mun₄
 @v	muš₅
 @v	nan
-@v	sas
+@v	sasₓ
+@inote dupfix MZL sas(|KI.KAL|)
 @v	ses
 @v	sis
 @v	siš
@@ -25471,7 +25499,8 @@
 @sign	|ŠIR.GI₄|
 @ucode	x122D3.x12104
 @v	aš₇-gi₄
-@v	ašgi
+@v-	ašgi
+@inote dupfix MZL use aš₇-gi₄
 @end sign
 
 @sign		ŠIR@t
@@ -27883,12 +27912,6 @@
 @sign	|U₂.SA.KA.KAK|
 @ucode	x12311.x12293.x12157.x12195
 @v-	pihuₓ
-@end sign
-
-@sign	|U₂.SAG|
-@ucode	x12311.x12295
-@v	muzug
-@v	uzug₃
 @end sign
 
 @sign	|U₂.KA×LI|
