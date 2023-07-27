@@ -1,0 +1,76 @@
+***
+*** The following errors were detected by sx in an uptranslated
+*** version of ogsl but have been fixed in 00lib/ogsl.asl.  Most have
+*** the @inote 'dupfix'.  Some are noted as 'PROBLEM' because they may
+*** have silently changed the meaning of a few transliterations.
+***
+
+ogsl2.asl:12215: value gu₇ in form |KA×GAR|::KA has the same base as value gu₃ in sign KA
+ogsl2.asl:12474: sign |KA×LUM| values zuguz and zuguz have the same base zuguz
+ogsl2.asl:15218: sign |LAGAB×IM| values dilim and dilim₃ have the same base dilim
+ogsl2.asl:15243: sign |LAGAB×(IM.HA)| values ellamkušₓ and ellamkuš₅ have the same base ellamkuš
+ogsl2.asl:15573: sign |LAGAB×U| values bu₄ and bu₆ have the same base bu
+ogsl2.asl:17581: sign |LU₂@s×BAD| values adₓ and ad₈ have the same base ad
+ogsl2.asl:18252: sign MAŠ₂ values maz₀ and maz₂ have the same base maz
+ogsl2.asl:22464: sign SAL values muk₀ and muk₃ have the same base muk
+ogsl2.asl:23448: sign SUD values zir₀ and zir₄ have the same base zir
+ogsl2.asl:23927: sign ŠAB₆ values šab₀ and šab₆ have the same base šab
+ogsl2.asl:23927: sign ŠAB₆ values šap₀ and šap₆ have the same base šap
+ogsl2.asl:25289: sign |ŠU.PAP.PAP| values ŋešba₂ and ŋešbaₓ have the same base ŋešba
+ogsl2.asl:26017: sign TAR values zil₀ and zil₃ have the same base zil
+ogsl2.asl:26142: sign TE@g values qurₓ and qur₈ have the same base qur
+ogsl2.asl:26772: sign |U.GUD| values ullu and ullu₃ have the same base ullu
+ogsl2.asl:28226: sign UR@s values šudul₄ and šudul₅ have the same base šudul
+ogsl2.asl:4494: duplicate value lah₇ in sign |DU@s.DU@s| (first occurs in DU@s)
+ogsl2.asl:4526: duplicate value dubba in sign DUB (first occurs in DIB)
+ogsl2.asl:5654: duplicate value endib in sign |EN.ME.ZI.AN.NA| (first occurs in |EN.ME.MU|)
+ogsl2.asl:6970: duplicate value gaburra in sign |GA₂×(BUR.RA)| (first occurs in |GA₂×(BAR.RA)|)
+ogsl2.asl:8127: duplicate value mulu₄ in sign |GAN₂.BU| (first occurs in GAN₂)
+ogsl2.asl:8781: duplicate value sumugan in sign GIR₃ (first occurs in ANŠE)
+ogsl2.asl:9379: duplicate value hul₃ in sign |GIŠ%GIŠ| (first occurs in |EŠ₂@g@t%EŠ₂@g@t|)
+ogsl2.asl:9898: duplicate value gurin in sign GURUN (first occurs in DUG)
+ogsl2.asl:10634: duplicate value u₅ in sign |HU.SI| (first occurs in |BURU₅×AMAR@t|)
+ogsl2.asl:13202: duplicate value kala in sign KAL (first occurs in |KA×GAN₂@t|)
+ogsl2.asl:14034: duplicate value bur₆ in sign KISAL (first occurs in KID)
+ogsl2.asl:16994: duplicate value 4(diš@v) in sign LIMMU~b (first occurs in LIMMU~a)
+ogsl2.asl:16995: duplicate value 4(diš@v@c) in sign LIMMU~b (first occurs in LIMMU~a)
+ogsl2.asl:17040: duplicate value nu₁₂ in sign LU (first occurs in DIB)
+ogsl2.asl:17119: duplicate value gala₁₀ in sign |LU₂.DIŠ| (first occurs in DIŠ)
+ogsl2.asl:17722: duplicate value gug₅ in sign |LUGAL@LUGAL| (first occurs in |LUGAL&LUGAL|)
+ogsl2.asl:18387: duplicate value ŋissu in sign MI (first occurs in |GIŠ.MI|)
+ogsl2.asl:20304: duplicate value ŋešnu in sign |NU₁₁.GIŠ| (first occurs in NU₁₁)
+ogsl2.asl:21316: duplicate value paṭ in sign PAD (first occurs in IGI)
+ogsl2.asl:22295: duplicate value zug₃ in sign |SAG×U₂| (first occurs in SAG)
+ogsl2.asl:23119: duplicate value eger₆ in sign SIG₄ (first occurs in MURGU₂)
+ogsl2.asl:23120: duplicate value egir₆ in sign SIG₄ (first occurs in MURGU₂)
+ogsl2.asl:23504: duplicate value šiten in sign SUD₂ (first occurs in |KI.DU.KAK|)
+ogsl2.asl:24396: duplicate value sas in sign ŠEŠ (first occurs in |KI.KAL|)
+ogsl2.asl:24542: duplicate value sag₅ in sign ŠID (first occurs in NISAG)
+ogsl2.asl:24543: duplicate value saŋ₅ in sign ŠID (first occurs in NISAG)
+ogsl2.asl:24959: duplicate value ašgi in sign |ŠIR.GI₄| (first occurs in |AŠ.HI×DIŠ.GI₄|)
+ogsl2.asl:24987: duplicate value ešda₃ in sign ŠITA (first occurs in GA₂)
+ogsl2.asl:25351: duplicate value kunga₂ in sign |ŠU₂.AN| (first occurs in |BAR.AN|)
+ogsl2.asl:25352: duplicate value kungi₂ in sign |ŠU₂.AN| (first occurs in |BAR.AN|)
+ogsl2.asl:25882: duplicate value silig₃ in sign |TAG×TUG₂| (first occurs in |TAG×KU|)
+ogsl2.asl:25883: duplicate value tibir₄ in sign |TAG×TUG₂| (first occurs in |TAG×KU|)
+ogsl2.asl:26206: duplicate value tana in sign TI@t (first occurs in KAL)
+ogsl2.asl:26262: duplicate value hu₂ in sign TU (first occurs in KU₄)
+ogsl2.asl:26463: duplicate value maru in sign TUR (first occurs in TE@g)
+ogsl2.asl:26652: duplicate value muš₇ in sign |U.DAR| (first occurs in DIŠ)
+ogsl2.asl:27305: duplicate value uzug₃ in sign |U₂.SAG| (first occurs in |SAG×U₂|)
+ogsl2.asl:27667: duplicate value darengal in sign |UD.NUN| (first occurs in |A.LAGAB×HAL.UD.NUN.KI|)
+ogsl2.asl:27673: duplicate value turungal in sign |UD.NUN| (first occurs in |A.LAGAB×HAL.UD.NUN.KI|)
+ogsl2.asl:27878: duplicate value samag in sign UM (first occurs in DUB)
+ogsl2.asl:27879: duplicate value sumug in sign UM (first occurs in DUB)
+ogsl2.asl:28024: duplicate value agarinx in sign |UMUM×HA| (first occurs in |UMUM×DUN₃@g|)
+ogsl2.asl:28083: duplicate value uga₃ in sign UN (first occurs in NAGA)
+ogsl2.asl:28226: duplicate value šudul₄ in sign UR@s (first occurs in DUN₄)
+ogsl2.asl:29007: duplicate value ussu₃ in sign USSU₃ (first occurs in |AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.TAB|)
+ogsl2.asl:29362: duplicate value ze₄ in sign ZA (first occurs in |AB×ŠEŠ|)
+ogsl2.asl:29455: duplicate value zannaru in sign |ZA.MUŠ₃@g| (first occurs in MUŠ₃)
+ogsl2.asl:30077: duplicate value limmu₄ in sign 4(AŠ~a) (first occurs in |AŠ&AŠ&AŠ.AŠ|)
+ogsl2.asl:30701: duplicate value ussu in sign 8(DIŠ) (first occurs in USSU)
+ogsl2.asl:30726: duplicate value ilimmu₃ in sign 9(DIŠ~a) (first occurs in ILIMMU3)
+ogsl2.asl:30789: duplicate value gi₃ in sign 1(GEŠ₂) (first occurs in DIŠ)
+ogsl2.asl:31026: duplicate value 5(u) in sign 5(U) (first occurs in |U&U.U&U.U|)
+ogsl2.asl:31675: duplicate value dur₂ in sign |LAGAB×1(N01)| (first occurs in DUR₂)
