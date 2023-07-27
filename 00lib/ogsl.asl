@@ -3455,7 +3455,7 @@
 @v	bubbur
 @end sign
 
-@sign	BURU₅×A
+@sign	|BURU₅×A|
 @list ELLES044
 @list LAK072
 @list RSP414
@@ -4314,7 +4314,7 @@
 @v	ge₃
 @v-	geš₂
 @v-	gešta
-@nov?	gi₃
+@v-	gi₃
 @v-	giš₂
 @v-	ŋeš₂
 @v-	ŋiš₂
@@ -14615,7 +14615,7 @@
 @uname	CUNEIFORM SIGN KU4
 @ucode	x121AD
 @lit   Krecher, ZA 77 (1987), 17-21; Veldhuis, FS Sigrist (2009), 226-228
-@nov?	hu₂
+@v-	hu₂
 @inote dupfix MZL hu₂(TU) this is KU₄ ~ TU
 @v	ku₄
 @v	kur₉
@@ -20709,8 +20709,6 @@
 @v	ŋišnu
 @end sign
 
-@end sign
-
 @sign	|NU₁₁.BUR|
 @ucode	x12262.x12053
 @v	bur₄
@@ -26461,11 +26459,11 @@
 @form ~c |TUG₂.TAG|
 @v    	uttu
 @end form
-@noform ~d |TAG×KU|
+@form ~d |TAG×KU|
 @inote this sign should not exist
 @uname	CUNEIFORM SIGN TAG TIMES KU
 @unote if encoded in Unicode it should be noted that it is homophonous to TAG TIMES TUG₂; if both are encoded TAG TIMES KU should be deprecated
-@nov	uttuₓ
+@v-	uttuₓ
 @end sign
 
 @sign	|TAG×UD|
