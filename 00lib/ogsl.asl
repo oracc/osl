@@ -361,11 +361,13 @@
 @ucode	x12000.x121C9.x12313.x12263.x121A0
 @v	idarengalₓ
 @v	isurugalₓ
-@v	darengal
+@v	darengalₓ
+@inote dupfix MZL darengal(|UD.NUN|)
 @v	išuruengal
 @v	surengal
 @v	surgal
 @v	turungal
+@inote dupfix MZL turungal(|UD.NUN|)
 @end sign
 
 @sign	|A.LAGAB×KUL|
@@ -1072,7 +1074,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN AB TIMES SHESH
 @ucode	x12013
-@v	ze₄
+@v-	ze₄
+@inote dupfix ze₄ not in MZL; Attinger ze₄(ZA)
 @v	zi₄
 @end sign
 
@@ -2363,10 +2366,11 @@
 @v	umun₉
 @end sign
 
-@sign	|AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.TAB|
+@nosign	|AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.TAB|
 @ucode	x1203C.x1203C.x122F0
-@v	ussa₃
-@v	ussu₃
+@v-	ussa₃
+@v-	ussu₃
+@inote this is a description of 8-stacking-pattern USSU₃
 @end sign
 
 @sign	|AŠ&AŠ&AŠ.TAB|
@@ -2384,10 +2388,11 @@
 @v	gašmu
 @end sign
 
-@sign	|AŠ&AŠ&AŠ.AŠ|
+@nosign	|AŠ&AŠ&AŠ.AŠ|
 @ucode	x1203C.x12038
-@v	limmu₄
-@v	limu₄
+@v-	limmu₄
+@v-	limu₄
+@inote this is a description of the 4-stacking-pattern LIMMU₄/MZL506
 @end sign
 
 @sign	|AŠ&AŠ&AŠ%AŠ&AŠ&AŠ|
@@ -2465,13 +2470,6 @@
 @v	upuₓ
 @v	uzaglal
 @v	1/2(iku)
-@end sign
-
-@sign	ILIMMU3
-@uphase	0
-@v	ilimmu₃
-@v	9(aš@v)
-@v	9(aš@v@c)
 @end sign
 
 @sign	ILIMMU
@@ -4316,7 +4314,7 @@
 @v	ge₃
 @v-	geš₂
 @v-	gešta
-@v?	gi₃
+@nov?	gi₃
 @v-	giš₂
 @v-	ŋeš₂
 @v-	ŋiš₂
@@ -5264,6 +5262,11 @@
 @v	duruna
 @v	tur₇
 @v	ṭur₂
+@form ~a |LAGAB×1(N01)|
+@list LAK772
+@list BAU268
+@v	dur₂?
+@inote |LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
 @end sign
 
 @sign	|DUR₂.DUR₂|
@@ -6919,7 +6922,8 @@
 @v	bisag
 @v	bisaŋ
 @v	bisan
-@v	ešda₃
+@v	ešdaₓ
+@inote dupfix MZL ešda₃(ŠITA)
 @v	ga₂
 @v	ge₂₆
 @v	ŋa₂
@@ -12502,7 +12506,8 @@
 @list LAK318
 @list RSP197
 @list BAU233
-@v	gu₇
+@v	gu₃
+@inote OGSL doesn't allow gu₇(KA) and gu₃(KA) or guₓ(KA) so we have to use gu₃ here
 @v      gu₇⁻
 @inote	Attinger
 @end form
@@ -12761,10 +12766,9 @@
 @list HZL142
 @uphase	0
 @ucode x12383
-@v?	zuguz
-@inote	##CHECK MSL 14 308, 331
 @v	zuguz [BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 2']
 @inote	salgues
+@inote	##CHECK MSL 14 308, 331
 @form ~a |KA.LUM|
 @ucode x12157.x1221D
 @inote dcclt !sg
@@ -14611,7 +14615,8 @@
 @uname	CUNEIFORM SIGN KU4
 @ucode	x121AD
 @lit   Krecher, ZA 77 (1987), 17-21; Veldhuis, FS Sigrist (2009), 226-228
-@v?	hu₂
+@nov?	hu₂
+@inote dupfix MZL hu₂(TU) this is KU₄ ~ TU
 @v	ku₄
 @v	kur₉
 @v	lilₓ
@@ -15541,7 +15546,6 @@
 @v	bun
 @v	delen
 @v	delena
-@v	dilim
 @v	dilim₃
 @v	dilin
 @v	dilina
@@ -15566,9 +15570,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN LAGAB TIMES IM PLUS HA
 @ucode	x121CD
-@v	ellamkušₓ
 @v	ellamkuš₅ [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 43]
-@inote	salgues
+@inote	salgues; ellamkuš₅ not in MZL so ellamkušₓ retired
 @end sign
 
 @sign	|LAGAB×(IM.LU)|
@@ -15906,7 +15909,8 @@
 @v	addaₓ
 @v	burₓ
 @v	bu₄
-@v	bu₆
+@v-	bu₆
+@inote MZL bu₄(|LAGAB×U|)
 @v	dul₂
 @v	gala₃
 @v	gigir₂
@@ -18628,9 +18632,8 @@
 @v	maš₂
 @v-	mašaku
 @note	Unclear where the value mašaku comes from.
-@v-	maz₀
 @v-	maz₂
-@note	Unclear where the value maz₀ comes from
+@note	Unclear where the value maz₂ comes from
 @end sign
 
 @sign	|MAŠ₂.GI₆|
@@ -22942,7 +22945,6 @@
 @v	min₂
 @v	mu₁₀
 @v	mug₂
-@v	muk₀
 @v	muk₃
 @v	munus
 @v	munuz
@@ -23959,7 +23961,6 @@
 @v	šut
 @v	šuṭ
 @v	šuz
-@v	zir₀
 @v	zir₄
 @v	zu₆
 @form	~a BU
@@ -24444,8 +24445,6 @@
 @uphase	1
 @uname	CUNEIFORM SIGN SHAB6
 @ucode	x122B8
-@v	šab₀
-@v	šap₀
 @v	šab₆
 @v	šap₆
 @end sign
@@ -25848,7 +25847,6 @@
 @v	ŋešbu₂
 @v	gešpu₂
 @v	ŋešpu₂
-@v	ŋešbaₓ
 @end sign
 
 @sign	|ŠU.SI.DI|
@@ -25909,8 +25907,9 @@
 @v	gibir₂
 @v-	iši₂
 @v	kibir₃
-@v	kunga₂
-@v	kungi₂
+@v-	kunga₂
+@v-	kungi₂
+@inote dupfix kunga₂ and kungi₂ are now values of |ŠU₂.AN| as @form of |BAR.AN|
 @v-	sulgar
 @v-	suhul
 @v	še₉
@@ -26416,16 +26415,6 @@
 @v	tibir₅
 @end sign
 
-@sign	|TAG×KU|
-@uphase	0
-@uname	CUNEIFORM SIGN TAG TIMES KU
-@v	silig₃
-@v	tibir₄
-@v	ud₄
-@v	ut₄
-@v	uttuₓ
-@end sign
-
 @sign	|TAG×ŠE|
 @uphase	1
 @uname	CUNEIFORM SIGN TAG TIMES SHE
@@ -26458,6 +26447,8 @@
 @ucode	x122F8
 @v	silig₃
 @v	tibir₄
+@v	ud₄
+@v	ut₄
 @v	uṭu
 @v	utuₓ
 @v	uttu
@@ -26470,6 +26461,11 @@
 @form ~c |TUG₂.TAG|
 @v    	uttu
 @end form
+@noform ~d |TAG×KU|
+@inote this sign should not exist
+@uname	CUNEIFORM SIGN TAG TIMES KU
+@unote if encoded in Unicode it should be noted that it is homophonous to TAG TIMES TUG₂; if both are encoded TAG TIMES KU should be deprecated
+@nov	uttuₓ
 @end sign
 
 @sign	|TAG×UD|
@@ -26595,7 +26591,6 @@
 @v	ṭir₂
 @v	ursagsim
 @v	ursaŋsim
-@v	zil₀
 @v	zil₃
 @end sign
 
@@ -26720,7 +26715,6 @@
 @v	guru₈
 @v	maru
 @inote	Attinger ~ ru₁₀
-@v	qurₓ
 @v	qur₈
 @inote CDLI
 @v	ru₁₀
@@ -26787,7 +26781,8 @@
 @uphase	1
 @uname	CUNEIFORM SIGN TI TENU
 @ucode	x122FF
-@v	tana [Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu]
+@v	tanaₓ [Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu]
+@inote dupfix MZL tana(KAL)
 @v	%akk/n tibnu
 @note	The value tibnu is assigned to TI@t, but it is not impossible that it belongs to TI.
 @end sign
@@ -27046,7 +27041,8 @@
 @v	dumu
 @v	ibila₄
 @v	mar₅
-@v	maru
+@v-	maru
+@inote PROBLEM dupfix Attinger maru(TE@g) has broken MZL maru(TUR); check FM 'maru' examples--are there any?
 @v	peš₇
 @v	suhušₓ
 @v	šak₇
@@ -27240,7 +27236,8 @@
 @list SLLHA418
 @ucode	x1230B.x1206F
 @v	ašdar
-@v	muš₇
+@v	mušₓ
+@inote dupfix MZL muš₇(DIŠ)
 @v	u-gun₃
 @v?	ugun
 @v	ugunu
@@ -27363,7 +27360,6 @@
 @v	ru₅
 @v	ul
 @v	ula
-@v	ullu
 @v	ullu₃
 @v	ulu
 @v?	ur₆
@@ -27699,19 +27695,11 @@
 @v	karadin₉
 @end sign
 
-@sign	|U&U.U&U.U|
+@nosign	|U&U.U&U.U|
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN FIVE U
 @ucode	x12410
-@v	illil₂
-@v	kingusila₂ [Ass 00523 = dcclt/signlist:P370411 r i 6]
-@inote  salgues
-@v	kingusili₂
-@v	mullil
-@v	ninniₓ
-@v	ninnu
-@v	ninuₓ
-@v	5(u)
+@inote moved to sign 5(U)
 @end sign
 
 @sign	|U&U.U@v&U@v|
@@ -28495,7 +28483,8 @@
 @v	dehi₂
 @v	dih₂
 @v	dihi₂
-@v	samag
+@v	samagₓ
+@inote dupfix MZL samag(DUB)
 @v	sumug
 @v	šumugₓ
 @v	teh₂
@@ -28642,14 +28631,13 @@
 @uname	CUNEIFORM SIGN UMUM TIMES DUN3 GUNU
 @v	agarinₓ
 @v	aŋarinₓ
-@v	agarinx
 @lit	Civil 2008 ARES 4, 78
 @end sign
 
 @sign	|UMUM×HA|
 @uname	CUNEIFORM SIGN UMUM TIMES HA
 @v	aŋarinₓ
-@v	agarinx
+@v	agarinₓ
 @lit	Civil 2008 ARES 4, 78
 @end sign
 
@@ -28709,7 +28697,8 @@
 @v	kanam
 @v	u₁₂
 @v	ug₃
-@v	uga₃
+@v-	uga₃
+@inote MAYBE PROBLEM dupfix not in MZL; Attinger uga₃(NAGA)
 @v	uŋ₃
 @v	uku₃
 @v	umₓ
@@ -28853,7 +28842,6 @@
 @uname	CUNEIFORM SIGN UR SHESHIG
 @ucode	x1232A
 @v	dul₉
-@v	šudul₄
 @v	šudul₅
 @v	šudun₅
 @v	šutul₅
@@ -29637,17 +29625,6 @@
 @inote admin/ur3
 @end sign
 
-@sign	USSU
-@list HZL374
-@list MZL867
-@list SLLHA598d
-@uphase	1
-@uname	CUNEIFORM NUMERIC SIGN VARIANT FORM USSU
-@ucode	x12444
-@v	ussu
-@v	8(diš)@v
-@end sign
-
 @sign	USSU₃
 @list MZL538
 @list SLLHA331c
@@ -30105,7 +30082,8 @@
 @v	subi
 @v	šub₇
 @v	šuba
-@v	zannaru
+@v	zannaruₓ
+@inote dupfix MZL zannaru(MUŠ₃)
 @end sign
 
 @sign	|ZA.MUŠ₃@g.AB@g|
@@ -31379,6 +31357,15 @@
 @v	usa
 @form ~c 8(DIŠ@c)
 @v	8(diš@c)
+@form ~v USSU
+@list HZL374
+@list MZL867
+@list SLLHA598d
+@uphase	1
+@uname	CUNEIFORM NUMERIC SIGN VARIANT FORM USSU
+@ucode	x12444
+@v	ussu
+@v	8(diš)@v
 @end sign
 
 @sign	9(DIŠ)
@@ -31403,6 +31390,12 @@
 @v	ilimmu₃
 @form ~c 9(DIŠ@c)@v~a
 @v	9(diš@c)@v~a
+@form ~v ILIMMU3
+@uphase	0
+@unote check stacking pattern identity because of duplicate value ilimmu₃
+@v	ilimmu₃
+@v	9(aš@v)
+@v	9(aš@v@c)
 @end sign
 
 @sign	9(DIŠ~b)
@@ -31700,6 +31693,14 @@
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN FIVE U
 @ucode	x12410
+@v	illil₂
+@v	kingusila₂ [Ass 00523 = dcclt/signlist:P370411 r i 6]
+@inote  salgues
+@v	kingusili₂
+@v	mullil
+@v	ninniₓ
+@v	ninnu
+@v	ninuₓ
 @v	5(u)
 @v	5(bur₃)
 @form ~c 5(U@c)
@@ -32350,7 +32351,6 @@
 @sign |LAGAB×1(N01)|
 @list LAK772
 @list BAU268
-@v	dur₂?
 @v	gigirₓ?
 @inote |LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
 @end sign
