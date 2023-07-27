@@ -1,58 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<title>GSL Source Format</title>
-<link rel="stylesheet" type="text/css" href="/xdf.css"/>
-<script src="/xdf.js" type="text/javascript"> </script>
-<base href="http://oracc.museum.upenn.edu/ogsl/asl/"/></head>
-<body onload="onresize=setTOCoffset; setTOCoffset()">
-<div class="withtoc">
-<div class="speedbar" id="speedbar">
-<p class="toc h1">
-<a href="/nindex.html">CDL Home</a>
-</p>
-<hr class="toc"/>
-<p class="toc h1">
-<a href="#top">Introduction</a>
-</p>
-<hr class="toc"/>
-<p class="toc h2">
-<a href="#Structure/scope">Structure/scope</a>
-</p>
-<p class="toc h2">
-<a href="#Signs">Signs</a>
-</p>
-<p class="toc h2">
-<a href="#Forms">Forms</a>
-</p>
-<p class="toc h2">
-<a href="#Values">Values</a>
-</p>
-<p class="toc h2">
-<a href="#Instances">Instances</a>
-</p>
-<p class="toc h2">
-<a href="#Notes">Notes</a>
-</p>
-<p class="toc h2">
-<a href="#Internal_Notes">Internal Notes</a>
-</p>
-<p class="toc h2">
-<a href="#Lists">Lists</a>
-</p>
-<p class="toc h2">
-<a href="#Unicode_Fields">Unicode Fields</a>
-</p>
-</div>
-<div class="body">
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>The OGSL File Format</esp:name>
+  <esp:title>The OGSL File Format</esp:title>
+  <html>
+    <head/>
+    <body>
 
-<h1 class="title">GSL Source Format</h1><h2 class="author">Steve Tinney<br/>Version of 2010-06-22
-</h2><h1><a name="intro">Introduction</a></h1><p>The GSL source file is maintained as a simple plain
-  text file with @-commands in the manner of CDL glossaries. This
-  document gives an simple overview of the commands.</p>
+<esp:sh>WARNING</esp:sh>
 
-<h2><a name="Structure/scope">Structure/scope</a></h2>
+<p>The OGSL file format is changing and the new version will become
+the default in mid-August 2023.  This page is being rewritten to
+document the new format and will mention differences between new and
+old formats (there are not many).</p>
+
+<p>OGSL in the current (soon to be old) format is presently <esp:link url="https://github.com/oracc/ogsl/blob/5c4fd29dce817d48ccfda675307c6564d8dfc578/00lib/ogsl.asl">available here</esp:link>.</p>
+
+<p>OGSL in the future format (but not sorted as it will be when it becomes the default) is presently <esp:link url="https://github.com/oracc/oracc/blob/748e451c3dc40050b3faf380b1c0207a239d8f50/c2/bin/sx/nogsl.asl">available here</esp:link>.</p>
+
+<p>Both these locations will change in mid-August.</p>
+
+      <esp:sh>Structure/scope</esp:sh>
 
 <p>The general structure of the file is a collection of records, one
 per sign.  Each record contains a partly-ordered set of fields, i.e.,
@@ -81,7 +48,7 @@ occur after a value, they belong to the value.</p>
 <p>The scoped fields are: <code>@note</code>, <code>@inote</code>, and
 <code>@inst</code>.</p>
 
-<h2><a name="Signs">Signs</a></h2>
+<esp:sh>Signs</esp:sh>
 
 <p>Each sign is enclosed in an <code>@sign ... @end sign</code>
 block.  After the <code>@sign</code> comes the sign name, which is the
@@ -89,27 +56,33 @@ standard way of referring to the sign and must be unique.  The sign
 name is constructed using the conventions of GDL, the grapheme
 description language used by ATF.</p>
 
-<h2><a name="Forms">Forms</a></h2>
+<esp:sh>Forms</esp:sh>
 
 <p>Any sign may contain <code>@form</code> entries which at their
 simplest give a form variant code and a name for the variant form.
-The form may contain also contain any of the fields which may be part
-of a sign, except for nested <code>@form</code> entries.</p>
+The form variant codes and names must be unique within the current
+sign.  The form may contain also contain any of the fields which may
+be part of a sign, except for nested <code>@form</code> entries.</p>
 
 <p>In a <code>@form</code> field, the variant code is given by tilde
 followed by one or more lowercase letters (<code>~a</code>
 ... <code>~aa</code> etc.).</p>
 
-<h2><a name="Values">Values</a></h2>
+<esp:sh>Values</esp:sh>
 
-<p>The most common field is the value.  These are usually simply a
-reading of the sign, but additional information can be given on the
-<code>@v</code> line:</p>
+<p>The most common field of <code>@sign</code> is the value, and we
+call the values of a top-level <code>@sign</code> global values.
+Global values must be unique with respect to each other, i.e., each
+global value may only occur once as a value of a top-level
+<code>@sign</code>.</p>
+
+<p>Values These are usually simply a reading of the sign, but
+additional information can be given on the <code>@v</code> line:</p>
 
 <dl>
 <dt>Questionable value</dt>
 <dd>A questionable value is indicated by putting question mark after
-the field name, as in <code>@v? id₅</code>.</dd>
+the sign, form or value, as in <code>@v id₅?</code>.</dd>
 
 <dt>Deprecated value</dt>
 <dd>A deprecated value, one which is no longer considered allowable
@@ -117,11 +90,13 @@ for the sign or form, is indicated by putting a minus sign after the
 field name, as in <code>@v- gazum₂</code>.</dd>
 
 <dt>Language restriction</dt>
+
 <dd>A value which is only valid for one language may be indicated by
 putting an ATF language code between the field name and the value, as
 in <code>@v %elx anše@d</code>.</dd>
 
 <dt>Proof Example</dt>
+
 <dd>A proof example may be given on the same line, after the
 value. These are not needed for most values, but where a value is
 contested and a particular instance is critical to the proof of the
@@ -132,7 +107,44 @@ cams:P348641 o 18, i-nanna₂-ma]</code>.</dd>
 
 </dl>
 
-<h2><a name="Instances">Instances</a></h2>
+<h3>Local Values</h3>
+
+<p>Forms can contain <code>@v</code> lines: we call these local
+values.  Local values may occur more than once in the signlist,
+either as values of top-level <code>@sign</code>s or as values of
+other forms.  Within the signlist system, local values are always
+considered to be qualified by their form.  Thus, if you have the
+following mythical sign:</p>
+
+<pre class="example">
+@sign BA
+@v ba
+@form ~a ZU
+@v ba
+@end form
+@end sign
+</pre>
+
+<p>the actual values as internalized by the signlist system are:</p>
+
+<pre class="example">
+ba
+ba(BA~a)
+ba(ZU)
+</pre>
+
+<p>Of these, the first two are guaranteed to be unique as a result of
+the sign/form name and value restrictions on uniqueness described
+above. The third is potentially ambiguous (imagining how such an
+ambiguity could arise is left as an exercise for the reader).  When
+entering data, however, it is convenient for users to be able to use
+the form name as a qualifier and only look up the variant code when
+the system warns about ambiguity.</p>
+
+<p>Note that this approach means that local values must always be
+qualified by their form, even when they are globally unique.</p>
+
+<esp:sh>Instances</esp:sh>
 
 <p>Although the general idea of GSL is that instances should be
 harvested from the corpora, it is possible to include instances
@@ -159,19 +171,19 @@ editorial marks such as flags and bracketing (though it may have
 determinative brackets).</dd>
 </dl>
 
-<h2><a name="Notes">Notes</a></h2>
+<esp:sh>Notes</esp:sh>
 
 <p>One or more notes may be given each in their own <code>@note</code>
 field.  Notes of this kind appear in rendered versions of the sign
 list such as web pages and PDFs.</p>
 
-<h2><a name="Internal_Notes">Internal Notes</a></h2>
+<esp:sh>Internal Notes</esp:sh>
 
 <p>Internal notes are given in <code>@inote</code> fields.  These are
 exactly the same as <code>@note</code> fields, but they do not display
 when the sign list is rendered.</p>
 
-<h2><a name="Lists">Lists</a></h2>
+<esp:sh>Lists</esp:sh>
 
 <p>The numbers used for signs in other signlists are given using the
 <code>@list</code> field.  This contains at least an ATF-style sign
@@ -179,14 +191,11 @@ list reference, e.g., <code>MZL503</code>. This may optionally be
 followed by and ATF version of the name used in that signlist for the
 sign in question.</p>
 
-<h2><a name="Unicode_Fields">Unicode Fields</a></h2>
+<esp:sh>Unicode Fields</esp:sh>
 
-<p>Several fields are used for bookkeeping purposes with respet to the
+<p>Several fields are used for bookkeeping purposes with respect to the
 Unicode cuneiform specification.  These are not yet documented.</p>
 
-<hr/><p class="qn">
- Questions about this document may be directed to
-Steve Tinney (stinney at sas dot upenn dot edu).</p></div>
-</div>
 </body>
-</html>
+  </html>
+</esp:page>
