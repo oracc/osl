@@ -13,9 +13,9 @@ the default in mid-August 2023.  This page is being rewritten to
 document the new format and will mention differences between new and
 old formats (there are not many).</p>
 
-<p>OGSL in the current (soon to be old) format is presently <esp:link url="https://github.com/oracc/ogsl/blob/5c4fd29dce817d48ccfda675307c6564d8dfc578/00lib/ogsl.asl">available here</esp:link>.</p>
+<p>OGSL in the current (soon to be old) format is presently <esp:link url="https://raw.githubusercontent.com/oracc/ogsl/master/00lib/ogsl.asl">available here</esp:link>.</p>
 
-<p>OGSL in the future format (but not sorted as it will be when it becomes the default) is presently <esp:link url="https://github.com/oracc/oracc/blob/748e451c3dc40050b3faf380b1c0207a239d8f50/c2/bin/sx/nogsl.asl">available here</esp:link>.</p>
+<p>OGSL in the future format (but not sorted as it will be when it becomes the default) is presently <esp:link url="https://raw.githubusercontent.com/oracc/oracc/master/c2/bin/sx/nogsl.asl">available here</esp:link>.</p>
 
 <p>Both these locations will change in mid-August.</p>
 
