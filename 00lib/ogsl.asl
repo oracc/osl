@@ -18084,6 +18084,7 @@
 @v	kukuₓ
 @form ~a |LUGAL%LUGAL|
 @v    	 gug₅ [VAT 9541 = dcclt/signlists:P345960 o ii 8']
+@v	 adamin₂
 @inote	 salgues
 @end form
 @form ~b |LUGAL@LUGAL|
