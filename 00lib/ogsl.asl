@@ -2445,9 +2445,9 @@
 @uname	CUNEIFORM SIGN ASH ZIDA TENU
 @ucode	x12039
 @note	This sign is variously described as AŠ-tenû (MSL) or DIŠ-tenû (MZL 575) in the literature. AŠ sign with head to the left, sloping down to the right.
-# Moved to AŠ@t
-# @v	1(aš@t)
-# @v	aš@t
+@inote  Moved to AŠ@t
+@inote  @v	1(aš@t)
+@inote  @v	aš@t
 @v	saŋtaₓ
 @v	upaₓ
 @v	uburaₓ
@@ -2983,13 +2983,13 @@
 @list SLLHA546
 @ucode	x122D9.x1202D
 @end form
-#Need a way of detecting these and also a different mechanism for
-#referencing sign-values under multiple locations.
-#@form ~c |ŠU₂.3×AN|
-#@ucode	x122D9.x1202F
-#@v	kunga
-#@v	kungi
-#@end form
+@inote Need a way of detecting these and also a different mechanism for
+@inote referencing sign-values under multiple locations.
+@inote @form ~c |ŠU₂.3×AN|
+@inote @ucode	x122D9.x1202F
+@inote @v	kunga
+@inote @v	kungi
+@inote @end form
 @form ~d	|3×AN|
 @list ELLES006b
 @list LAK010
@@ -4034,7 +4034,7 @@
 @v	sisaₓ
 @v	%akk śa₂
 @v	ša₁₈
-#ša₁₈ not in MZL
+@inote ša₁₈ not in MZL
 @v	šul₃
 @v	te₁₀
 @v	ti₄
@@ -7699,7 +7699,7 @@
 @v	išhur₄
 @v	išhuru₄
 @v	salₓ
-# needs collation but looks plausible on photo of P315388
+@inote  needs collation but looks plausible on photo of P315388
 @v	sila₄
 @v	silaku
 @end sign
@@ -9168,7 +9168,7 @@
 @v	gisal
 @v?	gišal
 @v	gizal
-# @v-	ŋizzal
+@inote  @v-	ŋizzal
 @v	ŋisal
 @v	ŋizal
 @v	mizal
@@ -10774,10 +10774,10 @@
 @v	burʾuₓ
 @v	ellaŋₓ
 @v	dubur₂
-#Moved to 1(ŠARU)
-#@v	šaru
-#@v	šarʾu
-#@v	1(šarʾu)
+@inote Moved to 1(ŠARU)
+@inote @v	šaru
+@inote @v	šarʾu
+@inote @v	1(šarʾu)
 @end sign
 
 @sign	|ŠAR₂×2(U)|
@@ -11006,13 +11006,13 @@
 @ucode	x1213E
 @v	bibra
 @v	bibri
-#@v-	guggal
+@inote @v-	guggal
 @note	guggal belongs to |LU.HUL₂|
-#@v-	gukkal
+@inote @v-	gukkal
 @note	gukkal belongs to |LU.HUL₂|
 @v	hul₂
 @v	hula₂
-#@v-	kungal
+@inote @v-	kungal
 @note	kungal belongs to |LU.HUL₂|
 @v	kuš₈
 @v	ukuš₂
@@ -21336,7 +21336,7 @@
 @uphase	none
 @ucode	xA0.xA0
 @v	oo
-# how should this be rendered by cuneify?
+@inote  how should this be rendered by cuneify?
 @end sign
 
 @sign	PA
@@ -27856,10 +27856,10 @@
 @form ~a |KUR.MUŠ₃@g.ZA|
 @ucode x121B3.x1223D.x1235D
 @inote with equivalence Uruk in OB diri
-#end form
+@inote end form
 @form ~b |KUR.MUŠ₃|
 @ucode x121B3.x12239
-#end form
+@inote end form
 @end sign
 
 @sign	|U₂.NAGA.GA|
@@ -30216,7 +30216,7 @@
 @list OBZL126
 @list SLLHA147
 @list KWU824
-#Molina JNES 63, 2
+@inote Molina JNES 63, 2
 @uphase	1
 @uname	CUNEIFORM SIGN ZE2
 @ucode	x12362
@@ -32861,7 +32861,7 @@
 @end sign
 @sign |ZA.MUŠ₃.AB×(U.U.U)|
 @v zabalamₓ
-#inote dcclt !sg
+@inote inote dcclt !sg
 @end sign
 
 @sign |DU.KI|
