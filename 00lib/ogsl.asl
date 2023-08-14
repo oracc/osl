@@ -366,7 +366,7 @@
 @v	išuruengal
 @v	surengal
 @v	surgal
-@v	turungal
+@v	turungalₓ
 @inote dupfix MZL turungal(|UD.NUN|)
 @end sign
 
@@ -3455,7 +3455,7 @@
 @v	bubbur
 @end sign
 
-@sign	|BURU₅×A|
+@sign	BURU₅
 @list ELLES044
 @list LAK072
 @list RSP414
@@ -3481,6 +3481,9 @@
 @v    buru₅ [Ass 00523 = dcclt/signlists:P370411 r ii 49]
 @inote   salgues
 @end form
+@end sign
+
+@sign	|BURU₅×A|
 @end sign
 
 @sign	|BURU₅×AMAR@t|
@@ -6346,11 +6349,11 @@
 @sign |EŠ₂@g@t%EŠ₂@g@t|
 @list LAK278b
 @uphase	9
-@uname	CUNEIFORM SIGN ESH2 GUNU TENU CROSSING ESH2 GUNU TENU
+@inote @uname-no-uchar	CUNEIFORM SIGN ESH2 GUNU TENU CROSSING ESH2 GUNU TENU
 @lit	Woods FS Biggs, 328
 @v	hulₓ
 @inote dupfix MZL hul₃(KIB)
-@inote CHECK is this really EŠ₂@g@t or just EŠ₂@g, approx = GIŠ@g@t?
+@inote CHECK is this really EŠ₂@g@t or just EŠ₂@t, approx = GIŠ@g@t?
 @end	sign
 
 @sign	ZI₃
@@ -7756,7 +7759,7 @@
 @end sign
 
 @sign	|GA₂×(SILA₃.ME)|
-@uname	CUNEIFORM SIGN GA2 TIMES SILA3 PLUS ME
+@inote @uname-no-uchar	CUNEIFORM SIGN GA2 TIMES SILA3 PLUS ME
 @v	silaₓ
 @inote	Replaces silaₓ(LAK636) in Ebla (ED Food 33-37)
 @form	~a |GA×SILA₃|
@@ -7936,7 +7939,7 @@
 @end sign
 
 @sign	|4×GABA|
-@uname	CUNEIFORM SIGN GABA SQUARED
+@inote @uname-no-uchar	CUNEIFORM SIGN GABA SQUARED
 @v	tuddahaₓ [BE 1/2, 129 = cdli:P263651 o i 5', tu-ud-da-ha-a-ta = |4×GABA|-a-ta]
 @end	sign
 
@@ -7986,10 +7989,6 @@
 @v	qat₃
 @v	qaṭ₃ [EA 053 = amarna:P270922 64, {uru}qaṭ₃-na]
 @v?	qid₄
-@end sign
-
-@sign	|GAD+KID₂.DUH|
-@ucode x120F0.x122FA.x12083
 @end sign
 
 @sign	|GAD.DUN₃|
@@ -9802,7 +9801,7 @@
 
 @sign	|GU₂×KAK×IGI|
 @uphase	1
-@uname	CUNEIFORM SIGN GU2 TIMES KAK TIMES IGI
+@inote @uname-no-uchar	CUNEIFORM SIGN GU2 TIMES KAK TIMES IGI
 @form ~a |GU₂×KAK.IGI|
 @end sign
 
@@ -10784,7 +10783,7 @@
 @inote |HI×(U.U)|
 @pname	|HI×U+U|
 @uphase	0
-@uname	CUNEIFORM SIGN HI TIMES U PLUS U
+@inote @uname-no-uchar	CUNEIFORM SIGN HI TIMES U PLUS U
 @v	šaruminₓ
 @v	šarniš
 @end sign
@@ -12327,7 +12326,7 @@
 @end sign
 
 @sign	|KA×BAL|
-@uname	CUNEIFORM SIGN KA TIMES BAL
+@inote @uname-no-uchar	CUNEIFORM SIGN KA TIMES BAL
 @v	buluₓ
 @end sign
 
@@ -12378,7 +12377,7 @@
 @sign	|KA×DUB₂|
 @uphase	1
 @unote	Does this sign exist, separately from |KA×BALAG| = MZL47? ##CHECK which sign is incribed in P-Ea 332? MZL refers to Civil in AOAT 25, 105
-@uname	CUNEIFORM SIGN KA TIMES DUB2
+@inote @uname-no-uchar	CUNEIFORM SIGN KA TIMES DUB2
 @end sign
 
 @sign	|KA×EŠ|
@@ -12816,7 +12815,7 @@
 @sign	|KA×(ME.ME)|
 @pname	|KA×ME+ME|
 @uphase	1
-@uname	CUNEIFORM SIGN KA TIMES ME PLUS ME
+@inote @uname-no-uchar	CUNEIFORM SIGN KA TIMES ME PLUS ME
 @v	sibsib
 @end sign
 
@@ -13075,12 +13074,12 @@
 @end sign
 
 @sign	|KA×TE|
-@uname	CUNEIFORM SIGN KA TIMES TE
+@inote @uname-no-uchar	CUNEIFORM SIGN KA TIMES TE
 @v	emenₓ
 @end sign
 
 @sign	|KA×TIL|
-@uname	CUNEIFORM SIGN KA TIMES TE
+@inote @uname-no-uchar	CUNEIFORM SIGN KA TIMES TE
 @v	šegₓ
 @end sign
 
@@ -14911,7 +14910,7 @@
 @sign	|KUŠU₂×SAL|
 @list LAK446
 @uphase	9
-@uname	CUNEIFORM SIGN KUSHU2 TIMES SAL
+@inote @uname-no-uchar	CUNEIFORM SIGN KUSHU2 TIMES SAL
 @end	sign
 
 @nosign	|KWU089.GAL|
@@ -15823,15 +15822,12 @@
 @v	sagduduₓ
 @v	saŋduduₓ
 @end form
-@form	~b |LAGAB×ŠITA₂|
+@form	~c |LAGAB×(ŠITA.GIŠ)|
 @v	me₉ [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 3']
 @inote	salgues
 @v	sagdudu [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 4']
 @v	saŋdudu
 @inote salgues
-@end form
-@form	~c |LAGAB×(ŠITA.GIŠ)|
-@v	saŋduduₓ
 @end form
 @form	~d |LAGAB×(ŠITA@t.GIŠ.ERIN₂)|
 @inote dcclt !sg
@@ -16846,7 +16842,7 @@
 @list ELLES013
 @list LAK020
 @uphase	9
-@uname	CUNEIFORM SIGN LAK20
+@inote @uname-no-uchar	CUNEIFORM SIGN LAK20
 @v	balaₓ
 @inote ed12
 @v	megidaₓ
@@ -18247,9 +18243,10 @@
 @ucode	x1221D
 @v	lubₓ
 @v	hubₓ
-@v	eger₅
-@v	egir₅
-@v	eŋir₅
+@inote @v	eger₅
+@inote eger₅ and friends belong to MURGU₂
+@inote @v	egir₅
+@inote @v	eŋir₅
 @v	gamₓ
 @v	gu₁₅
 @v	gud₆
@@ -19023,7 +19020,6 @@
 @v	muri
 @v	muru₂
 @v	murub₄
-@uphase	0
 @end sign
 
 @sign	MUŠ
@@ -22596,11 +22592,6 @@
 @end form
 @end sign
 
-@sign	|SAG×DU₃|
-@list RSP195
-@uphase	0
-@end sign
-
 @sign	|SAG×DUB|
 @uphase	1
 @uname	CUNEIFORM SIGN SAG TIMES DUB
@@ -22638,9 +22629,11 @@
 @end sign
 
 @sign	|SAG×KAK|
+@inote @sign	|SAG×DU₃|
 @list LAK312
 @list MZL188
 @list OBZL330
+@list RSP195
 @list SLLHA116
 @uphase	1
 @uname	CUNEIFORM SIGN SAG TIMES KAK
@@ -24956,6 +24949,7 @@
 @end sign
 
 @sign	|ŠEŠ.AB@g|
+@list BAU014
 @list RSP090
 @ucode	x122C0.x12015
 @v	ura₁₅
@@ -26462,8 +26456,8 @@
 @end form
 @form ~d |TAG×KU|
 @inote this sign should not exist
-@uname	CUNEIFORM SIGN TAG TIMES KU
-@unote if encoded in Unicode it should be noted that it is homophonous to TAG TIMES TUG₂; if both are encoded TAG TIMES KU should be deprecated
+@inote @uname-no-uchar	CUNEIFORM SIGN TAG TIMES KU
+@unote if encoded in Unicode it should be noted that it is homographous to TAG TIMES TUG₂; if both are encoded TAG TIMES KU should be deprecated
 @v-	uttuₓ
 @end sign
 
@@ -27660,7 +27654,7 @@
 @inote	Attinger ~ niŋar
 @v?	nimgin₃
 @v	ningin₃
-@form ~a |U.KID₂|
+@form ~a |U.KID|
 @end sign
 
 @sign	|U.UR@s|
@@ -28399,7 +28393,7 @@
 @end sign
 
 @sign	UD@180
-@uname	CUNEIFORM SIGN UD INVERTED
+@inote @uname-no-uchar	CUNEIFORM SIGN UD INVERTED
 @note	MEE 3 44 o v 6
 @end sign
 
@@ -28484,7 +28478,8 @@
 @v	dihi₂
 @v	samagₓ
 @inote dupfix MZL samag(DUB)
-@v	sumug
+@v	sumugₓ
+@inote dupfix MZL sumug(DUB)
 @v	šumugₓ
 @v	teh₂
 @v	tehi₂
@@ -28627,14 +28622,14 @@
 @end sign
 
 @sign	|UMUM×DUN₃@g|
-@uname	CUNEIFORM SIGN UMUM TIMES DUN3 GUNU
+@inote @uname-no-uchar	CUNEIFORM SIGN UMUM TIMES DUN3 GUNU
 @v	agarinₓ
 @v	aŋarinₓ
 @lit	Civil 2008 ARES 4, 78
 @end sign
 
 @sign	|UMUM×HA|
-@uname	CUNEIFORM SIGN UMUM TIMES HA
+@inote @uname-no-char	CUNEIFORM SIGN UMUM TIMES HA
 @v	aŋarinₓ
 @v	agarinₓ
 @lit	Civil 2008 ARES 4, 78
@@ -28767,7 +28762,7 @@
 
 @sign	UR@180
 @uphase 1.1
-@uname	CUNEIFORM SIGN UR INVERTED
+@inote @uname-no-uchar	CUNEIFORM SIGN UR INVERTED
 @inote [CBS 2146 = dcclt:P227871 o 7', lu₂ UR@180]
 @end sign
 
@@ -28870,6 +28865,7 @@
 @sign	UR₂@h
 @uphase 1.1
 @ucode x1253C
+@uname CUNEIFORM SIGN UR2 INVERTED
 @note	P221788 = BiMes 3, 15 rev. 2 line 5
 @end sign
 
@@ -29176,10 +29172,6 @@
 @end form
 @end sign
 
-@sign |UNKIN×DUG|
-@inote ED I/II Ur, Nisaba 25, 71; check description is URU×BAR valid for UNKIN here?
-@end sign
-
 @sign	|URU×DARA₃|
 @list LAK592
 @uphase	9
@@ -29188,6 +29180,7 @@
 @end sign
 
 @sign	|URU×DUN|
+@list LAK593
 @uphase	1
 @uname	CUNEIFORM SIGN URU TIMES DUN
 @ucode	x1233B
@@ -30934,7 +30927,7 @@
 @list MZL662
 @list SLLHA350_8
 @uname	CUNEIFORM NUMERIC SIGN ONE BURU
-@uname	CUNEIFORM SIGN U GUNU
+@unote duplicate? @uname CUNEIFORM SIGN U GUNU
 @uphase	1
 @ucode	x12434
 @v	burʾu
@@ -31681,7 +31674,8 @@
 
 @sign	4(U)@v
 @uphase	1.1
-@uname	CUNEIFORM NUMERIC SIGN ELAMITE FOUR U
+@uname	CUNEIFORM NUMERIC SIGN ELAMITE FORTY
+@ucode  x12467
 @v	4(u)@v
 @end sign
 
@@ -31710,7 +31704,8 @@
 
 @sign	5(U)@v
 @uphase	1.1
-@uname	CUNEIFORM NUMERIC SIGN ELAMITE FIVE U
+@uname	CUNEIFORM NUMERIC SIGN ELAMITE FIFTY
+@ucode  x12468
 @v	5(u)@v
 @end sign
 
@@ -31772,7 +31767,6 @@
 
 @sign	F₁
 @list RSP009
-@ucode	xebc9
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE THIRD VARIANT FORM A
 @ucode	x1245D
@@ -31781,7 +31775,6 @@
 
 @sign	F₂
 @list RSP010
-@ucode	xebcb
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN TWO THIRDS VARIANT FORM A
 @ucode	x1245E
@@ -31790,7 +31783,6 @@
 
 @sign	F₃
 @list RSP020
-@ucode	xebcc
 @list SLLHA545a
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE EIGHTH ASH
@@ -31805,7 +31797,6 @@
 
 @sign	F₄
 @list RSP004
-@ucode	xebcd
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN ONE QUARTER ASH
 @ucode	x12460
@@ -32410,12 +32401,6 @@
 @sign |(AŠ&AŠ@180)×U|
 @inote ed3a number
 @v gešminʾu@c
-@end sign
-
-@sign |A.GISAL.GAD.GAR.A.SI|
-@ucode	x12000.x12110.x120F0.x120FB.x12000.x122DB
-@inote CDLI ed3b
-@v	addirₓ
 @end sign
 
 @sign |A.GISAL.PAD.SI.A|
@@ -33814,10 +33799,6 @@
 @inote possibly ITI?
 @end sign
 
-@sign |ŠEŠ.UNUG|
-@list BAU014
-@end sign
-
 @sign |GUD×HI|
 @list BAU074
 @end sign
@@ -33846,8 +33827,9 @@
 @inote P011071 o 3
 @end sign
 
-@sign |UNKEN×DUG|
+@sign |UNKIN×DUG|
 @list BAU358
+@inote ED I/II Ur, Nisaba 25, 71; check description is URU×BAR valid for UNKIN here? UNKE/IN×DUG
 @end sign
 
 @sign |GU.GU|
@@ -34813,11 +34795,6 @@
 @inote missing compounds for lak.atf
 @end sign
 
-@sign |URU×ŠAH₂|
-@list LAK593
-@inote missing compounds for lak.atf
-@end sign
-
 @sign |ŠAR₂×HA|
 @list LAK810
 @inote missing compounds for lak.atf
@@ -35524,8 +35501,8 @@
 @inote gvl unknown compound
 @end sign
 
-@sign	|ITI×(U.U.U)@g|
-@inote gvl unknown compound
+@nosign	|UD×(U.U.U)×(U.U.U)@g|
+@inote gvl unknown compound; suspicious because ITI is already UD×(U.U.U), so deleted for now
 @end sign
 
 @sign	|HI.KISIM₅×SA|
