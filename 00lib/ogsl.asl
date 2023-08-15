@@ -29942,8 +29942,6 @@
 @end sign
 
 @sign	X
-@ucode	X
-@uphase	none
 @v	baniaₓ
 @v	x
 @end sign
@@ -31860,8 +31858,8 @@
 
 @sign	P₅
 @uphase	1.1
-@uname	CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON
-@ucode	xE100
+@inote @uname	CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON
+@inote @ucode	xE100
 @v	::
 @end sign
 
