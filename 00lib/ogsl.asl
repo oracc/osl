@@ -2349,7 +2349,7 @@
 @sign	|AŠ+SUR|
 @list MZL011
 @list SLLHA014
-@uname	CUNEIFORM SIGN ASH PLUS SUR
+@inote @uname-not-encoded	CUNEIFORM SIGN ASH PLUS SUR
 @ucode	x12038.x122E9
 @v     aš-šur
 @end sign
@@ -21941,7 +21941,7 @@
 
 @sign	|PAP.IGI@g|
 @uphase	1
-@uname	CUNEIFORM SIGN PAP IGI GUNU
+@inote @uname-not-encoded	CUNEIFORM SIGN PAP IGI GUNU
 @ucode	x1227D.x1214A
 @v	isima
 @v	isimu
@@ -23922,7 +23922,7 @@
 
 @sign	|SU&SU.A|
 @uphase	1
-@uname	CUNEIFORM SIGN SU OVER SU A
+@inote @uname-not-encoded	CUNEIFORM SIGN SU OVER SU A
 @ucode	x122E3.x12000
 @v	e₆-a
 @end sign
