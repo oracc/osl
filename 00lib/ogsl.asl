@@ -502,8 +502,6 @@
 @list RSP143
 @list BAU226
 @list MZL016
-@ucode	x122E2
-@uname CUNEIFORM SIGN SU
 @lit	Civil 2008, ARES 4, 97
 @v	sudₓ
 @v	zuₓ
@@ -3548,7 +3546,6 @@
 @uphase	1
 @uname	CUNEIFORM SIGN DAG
 @ucode	x12056
-@uname CUNEIFORM SIGN DAG
 @v	bar₃
 @v	bara₃
 @v	barag₂
@@ -3885,8 +3882,6 @@
 @list MZL438
 @list OBZL168
 @list SLLHA280
-@ucode	x12056
-@uname CUNEIFORM SIGN DAG
 @v	ku₁₂
 @v	lu₁₀
 @end sign
@@ -6968,7 +6963,6 @@
 @uphase	9
 @ucode x124BE
 @uname CUNEIFORM SIGN GA2 TIMES HA PLUS A
-@uname	CUNEIFORM SIGN GA2 TIMES HA PLUS A
 @v	edakuaₓ
 @inote See, e.g., P010481 o ii 6 where GA₂×(HA.A) is inside GA₂ box; contra CDLI comment GA₂ final vertical is in case ruling
 @end form
@@ -16219,12 +16213,6 @@
 @uphase	0
 @end sign
 
-@sign	LAK450
-@list LAK450
-@ucode x124F7
-@uname CUNEIFORM SIGN LAK-450
-@end sign
-
 @sign	LAK453
 @list LAK453
 @uphase	0
@@ -17916,8 +17904,6 @@
 @end sign
 
 @sign	|LU₂@g.UŠ₂|
-@ucode	x12357
-@uname CUNEIFORM SIGN USH2
 @v	addaₓ
 @end sign
 
@@ -21132,7 +21118,6 @@
 @uphase	1
 @uname	CUNEIFORM SIGN NUNUZ
 @ucode	x1226D
-@uname CUNEIFORM SIGN NUNUZ
 @v	gunidaₓ
 @v	nunu
 @v	nunus
@@ -21262,10 +21247,8 @@
 @v	usagₓ
 @form	~a LAK450
 @list LAK450
-@uphase	9
 @ucode x124F7
 @uname CUNEIFORM SIGN LAK-450
-@uname	CUNEIFORM SIGN LAK450
 @end	form
 @end sign
 
@@ -23889,7 +23872,6 @@
 @list BAU226
 @list MZL016
 @uphase	1
-@uname	CUNEIFORM SIGN SU
 @ucode	x122E2
 @uname CUNEIFORM SIGN SU
 @v	eₓ
@@ -29309,7 +29291,6 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KA TIMES GU
 @ucode	x1216B
-@uname CUNEIFORM SIGN KA TIMES GU
 @v	guₓ
 @v	gur₅
 @v	guru₅
@@ -29851,7 +29832,6 @@
 @uphase	1
 @uname	CUNEIFORM SIGN USH2
 @ucode	x12357
-@uname CUNEIFORM SIGN USH2
 @end sign
 
 @sign	UŠX
