@@ -503,6 +503,7 @@
 @list BAU226
 @list MZL016
 @ucode	x122E2
+@uname CUNEIFORM SIGN SU
 @lit	Civil 2008, ARES 4, 97
 @v	sudₓ
 @v	zuₓ
@@ -1058,6 +1059,7 @@
 @list MZL224
 @lit	Waetzoldt 1972, Textilindustrie 113-114
 @ucode x12370
+@uname CUNEIFORM SIGN AB TIMES NUN
 @end sign
 
 @sign	|AB×NUN@t|
@@ -2479,6 +2481,7 @@
 @list SLLHA598e
 @uphase	0
 @ucode	x12446
+@uname CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU
 @v	ilimmu
 @v	9(diš)
 @form ~c 9(DIŠ@c)
@@ -3545,6 +3548,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN DAG
 @ucode	x12056
+@uname CUNEIFORM SIGN DAG
 @v	bar₃
 @v	bara₃
 @v	barag₂
@@ -3882,6 +3886,7 @@
 @list OBZL168
 @list SLLHA280
 @ucode	x12056
+@uname CUNEIFORM SIGN DAG
 @v	ku₁₂
 @v	lu₁₀
 @end sign
@@ -6637,6 +6642,7 @@
 @form ~a |EZEN×GUD|
 @list	MZL278
 @ucode x12377
+@uname CUNEIFORM SIGN EZEN TIMES GUD
 @form ~b EZEN
 @list ELLES303
 @list LAK611
@@ -6698,6 +6704,7 @@
 @sign	|EZEN×ŠE|
 @uphase	0
 @ucode x12378
+@uname CUNEIFORM SIGN EZEN TIMES SHE
 @v	ezen₄
 @end sign
 
@@ -6960,6 +6967,7 @@
 @form	~b |GA₂×(HA.A)|
 @uphase	9
 @ucode x124BE
+@uname CUNEIFORM SIGN GA2 TIMES HA PLUS A
 @uname	CUNEIFORM SIGN GA2 TIMES HA PLUS A
 @v	edakuaₓ
 @inote See, e.g., P010481 o ii 6 where GA₂×(HA.A) is inside GA₂ box; contra CDLI comment GA₂ final vertical is in case ruling
@@ -6983,6 +6991,7 @@
 @list ELLES347
 @list LAK695
 @ucode x124BE
+@uname CUNEIFORM SIGN GA2 TIMES HA PLUS A
 @list ZATU174
 @end sign
 
@@ -7074,6 +7083,7 @@
 
 @sign	|GA₂×(AN.KAK.A)|
 @ucode	x12379
+@uname CUNEIFORM SIGN GA2 TIMES AN PLUS KAK PLUS A
 @v	usud
 @end sign
 
@@ -10389,6 +10399,7 @@
 @list OBZL294
 @list SLLHA402
 @ucode x1237D
+@uname CUNEIFORM SIGN HUSH
 @v	alimₓ
 @v	hiš₄
 @v	huš
@@ -12575,6 +12586,7 @@
 @list HZL139
 @uphase	0
 @ucode x12380
+@uname CUNEIFORM SIGN KA TIMES GISH
 @end sign
 
 @sign	|KA×GIŠ%GIŠ|
@@ -12606,6 +12618,7 @@
 
 @sign	|KA×GU|
 @ucode x1216B
+@uname CUNEIFORM SIGN KA TIMES GU
 @v	guₓ [Adab 0753 = dcclt:P333146 r 3', gu |KA×GU| ri-ig-mu-um]
 @end sign
 
@@ -12625,6 +12638,7 @@
 @inote	##check - add reference
 @uphase	0
 @ucode x12382
+@uname CUNEIFORM SIGN KA TIMES HI TIMES ASH2
 @v	murumₓ
 @end sign
 
@@ -12767,6 +12781,7 @@
 @list HZL142
 @uphase	0
 @ucode x12383
+@uname CUNEIFORM SIGN KA TIMES LUM
 @v	zuguz [BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 2']
 @inote	salgues
 @inote	##CHECK MSL 14 308, 331
@@ -12871,6 +12886,7 @@
 @list HZL138
 @uphase	0
 @ucode x12384
+@uname CUNEIFORM SIGN KA TIMES PA
 @end sign
 
 @sign	|KA×(PA.LUGAL)|
@@ -13162,6 +13178,7 @@
 @list HZL137
 @uphase	0
 @ucode x12387
+@uname CUNEIFORM SIGN KA TIMES UR2
 @end sign
 
 @sign	|KA×UŠ|
@@ -16205,6 +16222,7 @@
 @sign	LAK450
 @list LAK450
 @ucode x124F7
+@uname CUNEIFORM SIGN LAK-450
 @end sign
 
 @sign	LAK453
@@ -16699,6 +16717,7 @@
 @list BAU300
 @uphase	0
 @ucode x12501
+@uname CUNEIFORM SIGN LAK-617
 @note	exists only as container sign; variant of EZEN LAK611
 @end	sign
 
@@ -16934,6 +16953,7 @@
 @pname	|URU×MIN+NI|
 @uphase	0
 @ucode x12512
+@uname CUNEIFORM SIGN LAK-648 TIMES NI
 @v	šakirₓ
 @end sign
 
@@ -17618,6 +17638,7 @@
 
 @sign	|LU₂×(EŠ₂.LAL)|
 @ucode	x1238A
+@uname CUNEIFORM SIGN LU2 TIMES ESH2 PLUS LAL
 @v	ereₓ
 @v	[...]
 @v	ešela
@@ -17833,6 +17854,7 @@
 @sign	|LU₂×ŠU|
 @uphase	0
 @ucode x1238B
+@uname CUNEIFORM SIGN LU2 TIMES SHU
 @v	erₓ
 @v	ereₓ
 @end sign
@@ -17895,6 +17917,7 @@
 
 @sign	|LU₂@g.UŠ₂|
 @ucode	x12357
+@uname CUNEIFORM SIGN USH2
 @v	addaₓ
 @end sign
 
@@ -17952,6 +17975,7 @@
 @list KWU083
 @uphase	0
 @ucode x12389
+@uname CUNEIFORM SIGN LU2 SHESHIG TIMES BAD
 @v-	adₓ
 @inote since CDLI uses ad₈ we should deprecate this adₓ
 @v	ad₈
@@ -18694,6 +18718,7 @@
 @list HZL360
 @list MZL754
 @ucode	x1238C
+@uname CUNEIFORM SIGN MESH
 @v	eš₁₇
 @v	mes₃
 @v	meš
@@ -20094,6 +20119,7 @@
 @list SLLHA229n
 @list KWU779
 @ucode	x1238E
+@uname CUNEIFORM SIGN NA4
 @v	%akk abnu
 @v	%akk aban
 @v	atumₓ
@@ -20329,6 +20355,7 @@
 
 @sign	|NINDA₂×BAL|
 @ucode x12391
+@uname CUNEIFORM SIGN NINDA2 TIMES BAL
 @v	gur₂₃ [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 9]
 @inote	salgues
 @end sign
@@ -20774,6 +20801,7 @@
 @list MZL116
 @uphase	2.x
 @ucode x12393
+@uname CUNEIFORM SIGN NU11 ROTATED NINETY DEGREES
 @lit	Civil, ARES 4, 58.
 @form ~a	NU₁₁@t
 @end sign
@@ -21104,6 +21132,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN NUNUZ
 @ucode	x1226D
+@uname CUNEIFORM SIGN NUNUZ
 @v	gunidaₓ
 @v	nunu
 @v	nunus
@@ -21235,6 +21264,7 @@
 @list LAK450
 @uphase	9
 @ucode x124F7
+@uname CUNEIFORM SIGN LAK-450
 @uname	CUNEIFORM SIGN LAK450
 @end	form
 @end sign
@@ -21281,6 +21311,7 @@
 @list OBZL371
 @list SLLHA394
 @ucode	x1226D
+@uname CUNEIFORM SIGN NUNUZ
 @v	[...]di
 @v	[...]gida
 @v	huburₓ
@@ -23044,6 +23075,7 @@
 @list SLLHA556
 @list KWU795a
 @ucode	x12390
+@uname CUNEIFORM SIGN NIN9
 @v?	e₁₃
 @v	nen₉
 @v	nin₉
@@ -23169,6 +23201,7 @@
 @list SLLHA556
 @list KWU796
 @ucode	x1238F
+@uname CUNEIFORM SIGN NIN
 @v	urušₓ
 @v	nunₓ
 @v	e₅
@@ -23858,6 +23891,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN SU
 @ucode	x122E2
+@uname CUNEIFORM SIGN SU
 @v	eₓ
 @inote uncertain; proposed in dcclt/ebla/MEE3_53.atf ad vii 1 but unclear basis
 @v	guš
@@ -23908,6 +23942,7 @@
 @list OBZL305
 @list SLLHA007v
 @ucode	x122E2
+@uname CUNEIFORM SIGN SU
 @v	sudₓ
 @v	šuruppakₓ
 @end sign
@@ -26018,6 +26053,7 @@
 @list LAK396
 @uphase	9
 @ucode x12536
+@uname CUNEIFORM SIGN SHU2 PLUS DUG TIMES NI
 @end sign
 
 @sign	|ŠU₂.DUN₄|
@@ -27538,6 +27574,7 @@
 @list OBZL363
 @list SLLHA471
 @ucode	x12399
+@uname CUNEIFORM SIGN U U
 @v	amna₂
 @v	buzur₂
 @v	gešₓ
@@ -29272,6 +29309,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN KA TIMES GU
 @ucode	x1216B
+@uname CUNEIFORM SIGN KA TIMES GU
 @v	guₓ
 @v	gur₅
 @v	guru₅
@@ -29487,6 +29525,7 @@
 @v	šig₅
 @form ~a |KA×TU|
 @ucode x12386
+@uname CUNEIFORM SIGN KA TIMES TU
 @end form
 @end sign
 
@@ -29812,6 +29851,7 @@
 @uphase	1
 @uname	CUNEIFORM SIGN USH2
 @ucode	x12357
+@uname CUNEIFORM SIGN USH2
 @end sign
 
 @sign	UŠX
@@ -29991,6 +30031,7 @@
 @v	zannaruₓ
 @form ~a |MUŠ₃×ZA|
 @ucode x1238D
+@uname CUNEIFORM SIGN MUSH3 TIMES ZA
 @end sign
 
 @sign	|ZA.DUN₃@g|
@@ -32965,6 +33006,7 @@
 
 @sign |NINDA₂×GI|
 @ucode x12392
+@uname CUNEIFORM SIGN NINDA2 TIMES GI
 @v giguruₓ
 @inote dcclt !sg writing for giguru[container] = pānu[basket] ?
 @end sign
@@ -33399,6 +33441,7 @@
 
 @sign	|GA₂×AŠ₂|
 @ucode x1237A
+@uname CUNEIFORM SIGN GA2 TIMES ASH2
 @inote admin/ed3b
 @v	gazigalₓ
 @v	gaziₓ
