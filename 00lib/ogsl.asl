@@ -5210,7 +5210,8 @@
 @v	uku
 @end sign
 
-@sign	DUN₃@g@g@s
+@sign-	DUN₃@g@g@s
+@inote this is encoded as DUN₄
 @uphase 0
 @note	in |ŠU₂.DUN₃@g@g@s|
 @end sign
@@ -7665,7 +7666,8 @@
 @end form
 @end sign
 
-@sign	|GA₂×NUN&NUN|
+@sign	|GA₂×(NUN&NUN)|
+@inote @aka |GA₂×NUN&NUN|
 @list ELLES338
 @list LAK679
 @list RSP242
@@ -15423,7 +15425,8 @@
 @v	waₓ
 @end sign
 
-@sign	|LAGAB×(GUD.GUD).A|
+@sign	|LAGAB×(GUD&GUD).A|
+@inote @aka |LAGAB×(GUD.GUD).A|
 @pname	|LAGAB×(GUD+GUD).A|
 @ucode	x121C7.x12000
 @v	uʾa
@@ -26017,7 +26020,8 @@
 @ucode x12536
 @end sign
 
-@sign	|ŠU₂.DUN₃@g@g@s|
+@sign	|ŠU₂.DUN₄|
+@inote alias |ŠU₂.DUN₃@g@g@s|
 @list HZL251
 @list MZL869
 @list OBZL422
@@ -30667,8 +30671,8 @@
 @v	9(aš@c@90)
 @end sign
 
-@sign	3(AŠ~a)
-@inote @alias |AŠ&AŠ&AŠ|
+@sign	 |AŠ&AŠ&AŠ|
+@inote @aka 3(AŠ~a)
 @list LAK133
 @list BAU084
 @list MZL505
