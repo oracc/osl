@@ -21929,7 +21929,6 @@
 @list MZL092
 @list OBZL249
 @list SLLHA060
-@ucode	x1227D
 @v	munuₓ
 @end sign
 
@@ -26220,7 +26219,7 @@
 @end form
 @form ~b LAK654a
 @list LAK654
-@inote TA@g with curviform final wedge
+@inote TA@g with curviform final wedge OGSL = LAK654a (main box); cuneiform final wedge OGSL = LAK654 (secondary box)
 @end form
 @end sign
 
@@ -30670,14 +30669,14 @@
 
 @sign	3(AŠ~a)
 @inote @alias |AŠ&AŠ&AŠ|
-@inote double-encoded as x1203C
 @list LAK133
 @list BAU084
 @list MZL505
 @list SLLHA325a
 @uphase	1
 @uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH16
-@ucode	x1243A
+@ucode	x1203C
+@unote double-encoded as x1243A
 @v	3(aš@v)
 @v	3(aš@v@c)
 @v	eš₁₆
