@@ -17882,6 +17882,7 @@
 @inote	salgues
 @end form
 @form ~b |LU₂.LU₂|
+@v    adamin
 @ucode	x121FD.x121FD
 @end form
 @form ~c |LU₂%LU₂|
