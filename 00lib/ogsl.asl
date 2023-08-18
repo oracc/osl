@@ -29402,7 +29402,6 @@
 
 @sign	|URU×MIN|
 @list ELLES314
-@list LAK648
 @list RSP269
 @list MZL080
 @list OBZL189
@@ -29453,7 +29452,7 @@
 @v	uru₁₇⁻
 @inote	Attinger
 @form ~e |IM.LAK648|
-@ucode x1214E.x12347
+@ucode x1214E.x1250D
 @v	ulu₃
 @end form
 @end sign
