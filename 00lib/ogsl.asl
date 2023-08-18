@@ -12660,7 +12660,6 @@
 @v	kiriₓ
 @v	tuₓ
 @form	~a |LAK648×IM|
-@pname	|URU×MIN+IM|
 @uphase	0
 @v	bunₓ [6N-T931 = dcclt:P274990 i' 5']
 @lit	Peterson dissertation (2007), p.230 with note 1009.
@@ -16940,7 +16939,6 @@
 
 @sign	|LAK648×NI|
 @list LAK715
-@pname	|URU×MIN+NI|
 @uphase	0
 @ucode x12512
 @uname CUNEIFORM SIGN LAK-648 TIMES NI
