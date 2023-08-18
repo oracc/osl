@@ -31882,8 +31882,8 @@
 
 @sign	P₅
 @uphase	1.1
-@inote @uname	CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON
-@inote @ucode	xE100
+@uname	CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON
+@ucode	x12474
 @v	::
 @end sign
 
@@ -32375,7 +32375,8 @@
 
 @sign |AK×ŠITA₂|
 @inote dcclt/signlists
-@v	meₓ
+@v	me₁₁
+@inote me₁₁ as @form under |AK×ERIN₂|
 @end sign
 
 @sign |IL₂.KID.DUB₂|
