@@ -35799,8 +35799,8 @@
 @uname CUNEIFORM SIGN DAG3
 @end sign
 
-@sign	PEŠ~v
-@inote PEŠ* is not a valid OGSL sign name
+@sign	PEŠ₂~v
+@inote PEŠ₂* is not a valid OGSL sign name
 @ucode x12394
 @uname CUNEIFORM SIGN PESH2 ASTERISK
 @end sign
