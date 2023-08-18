@@ -6,20 +6,18 @@
     <head/>
     <body>
 
-<esp:sh>WARNING</esp:sh>
+<esp:sh>NOTE</esp:sh>
 
-<p>The OGSL file format is changing and the new version will become
+<p>The OGSL file format has changed and the new version became
 the default in mid-August 2023.  This page is being rewritten to
 document the new format and will mention differences between new and
 old formats (there are not many).</p>
 
-<p>OGSL in the current (soon to be old) format is presently <esp:link url="https://raw.githubusercontent.com/oracc/ogsl/master/00lib/ogsl.asl">available here</esp:link>.</p>
+<p>OGSL in the old format is <esp:link url="https://raw.githubusercontent.com/oracc/ogsl/master/00any/ogsl-20230818-final.asl">available here</esp:link>.</p>
 
-<p>OGSL in the future format (but not sorted as it will be when it becomes the default) is presently <esp:link url="https://raw.githubusercontent.com/oracc/oracc/master/c2/bin/sx/nogsl.asl">available here</esp:link>.</p>
+<p>OGSL in the new format is <esp:link url="https://raw.githubusercontent.com/oracc/ogsl/master/00lib/ogsl.asl">available here</esp:link>.</p>
 
-<p>Both these locations will change in mid-August.</p>
-
-      <esp:sh>Structure/scope</esp:sh>
+<esp:sh>Structure/scope</esp:sh>
 
 <p>The general structure of the file is a collection of records, one
 per sign.  Each record contains a partly-ordered set of fields, i.e.,
