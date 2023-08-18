@@ -35799,7 +35799,8 @@
 @uname CUNEIFORM SIGN DAG3
 @end sign
 
-@sign	PEŠ*
+@sign	PEŠ~v
+@inote PEŠ* is not a valid OGSL sign name
 @ucode x12394
 @uname CUNEIFORM SIGN PESH2 ASTERISK
 @end sign
@@ -35814,7 +35815,7 @@
 @uname CUNEIFORM SIGN AB2 TIMES A
 @end sign
 
-@sign	|AMAR×KUG|
+@sign	|AMAR×KU₃|
 @ucode x12372
 @uname CUNEIFORM SIGN AMAR TIMES KUG
 @end sign
@@ -35839,7 +35840,7 @@
 @uname CUNEIFORM SIGN KA TIMES ASH3
 @end sign
 
-@sign	|KA×ŠUL|
+@sign	|KA×DUN|
 @ucode x12385
 @uname CUNEIFORM SIGN KA TIMES SHUL
 @end sign
