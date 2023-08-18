@@ -8868,6 +8868,8 @@
 @v	gidim
 @v	kitim
 @form	~a |SAG×TAB|
+@ucode x122A1
+@uname CUNEIFORM SIGN SAG TIMES TAB
 @inote sign form according to dcclt edition of P213482 = HSS 10 222; photo indistinct; requires collation
 @end form
 @end sign
@@ -35427,6 +35429,8 @@
 @end sign
 
 @sign	|UM×ME|
+@ucode x12398
+@uname CUNEIFORM SIGN UM TIMES ME
 @inote gvl unknown compound
 @end sign
 
@@ -35443,6 +35447,8 @@
 @end sign
 
 @sign	|KA×GUD|
+@ucode x12381
+@uname CUNEIFORM SIGN KA TIMES GUD
 @inote gvl unknown compound
 @end sign
 
@@ -35738,3 +35744,113 @@
 @inote addx dcclt/ebla
 @v	azadₓ
 @end sign
+@sign	1/2(GUR)
+@ucode x12464
+@uname CUNEIFORM NUMERIC SIGN ONE HALF GUR
+@end sign
+
+@sign	1/3(DIŠ)~e
+@ucode x12465
+@uname CUNEIFORM NUMERIC SIGN ELAMITE ONE THIRD
+@end sign
+
+@sign	1/4(GUR)
+@ucode x12463
+@uname CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
+@end sign
+
+@sign	2/3(DIŠ)~e
+@ucode x12466
+@uname CUNEIFORM NUMERIC SIGN ELAMITE TWO THIRDS
+@end sign
+
+@sign	4(U)~v
+@ucode x12469
+@uname CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM
+@end sign
+
+@sign	5(U)~v
+@ucode x1246A
+@uname CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM
+@end sign
+
+@sign	6(U)~v
+@ucode x1246B
+@uname CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM
+@end sign
+
+@sign	7(U)~v
+@ucode x1246C
+@uname CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM
+@end sign
+
+@sign	8(U)~v
+@ucode x1246D
+@uname CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM
+@end sign
+
+@sign	9(U)~v
+@ucode x1246E
+@uname CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM
+@end sign
+
+@sign	DAG₃
+@ucode x12374
+@uname CUNEIFORM SIGN DAG3
+@end sign
+
+@sign	PEŠ*
+@ucode x12394
+@uname CUNEIFORM SIGN PESH2 ASTERISK
+@end sign
+
+@sign	PIR₂
+@ucode x12395
+@uname CUNEIFORM SIGN PIR2
+@end sign
+
+@sign	|AB₂×A|
+@ucode x12371
+@uname CUNEIFORM SIGN AB2 TIMES A
+@end sign
+
+@sign	|AMAR×KUG|
+@ucode x12372
+@uname CUNEIFORM SIGN AMAR TIMES KUG
+@end sign
+
+@sign	|DAG.KISIM₅×(U.MAŠ)|
+@ucode x12373
+@uname CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS MASH
+@end sign
+
+@sign	|DIŠ+ŠU|
+@ucode x12375
+@uname CUNEIFORM SIGN DISH PLUS SHU
+@end sign
+
+@sign	|KA×ANŠE|
+@ucode x1237E
+@uname CUNEIFORM SIGN KA TIMES ANSHE
+@end sign
+
+@sign	|KA×AŠ₃|
+@ucode x1237F
+@uname CUNEIFORM SIGN KA TIMES ASH3
+@end sign
+
+@sign	|KA×ŠUL|
+@ucode x12385
+@uname CUNEIFORM SIGN KA TIMES SHUL
+@end sign
+
+@sign	|LAGAB×GI|
+@ucode x12388
+@uname CUNEIFORM SIGN LAGAB TIMES GI
+@end sign
+
+@sign	|SAG×IGI@g|
+@ucode x12396
+@uname CUNEIFORM SIGN SAG TIMES IGI GUNU
+@end sign
+
