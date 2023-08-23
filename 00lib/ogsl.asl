@@ -20762,6 +20762,7 @@
 @end sign
 
 @compoundonly	LAK248
+
 @sign LAK248b
 @list	LAK248b
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
@@ -20925,6 +20926,8 @@
 @inote	CDLI |HI×1(N01@f)|
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
+
+@lref LAK368
 
 @sign LAK368@s
 @list	LAK368@s
@@ -21534,6 +21537,8 @@
 @list	LAK776
 @inote	for lak.atf
 @end sign
+
+@lref LAK777
 
 @sign LAK779
 @list	BAU276
