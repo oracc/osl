@@ -9743,6 +9743,7 @@
 @end sign
 
 @sign |GA₂×(NUN&NUN)|
+@aka |GA₂×NUN&NUN|
 @uname	CUNEIFORM SIGN GA2 TIMES NUN OVER NUN
 @list	U+120E1
 @utf8	𒃡
@@ -9754,7 +9755,6 @@
 @list	MZL411
 @list	RSP242
 @list	SLLHA255
-@inote	@aka |GA₂×NUN&NUN|
 @v	gušur?
 @v	ŋušur
 @v	ur₃
