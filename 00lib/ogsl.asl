@@ -22727,8 +22727,10 @@
 @inote	salgues
 @v	kušum₂
 @v	lab₂?
-@inote	#nib leb
-@inote	#nib lep
+@v	leb
+@inote	#nib
+@v	lep 
+@inote	#nib
 @v	lib
 @v	libi
 @v	lip
