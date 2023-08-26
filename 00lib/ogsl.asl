@@ -1040,7 +1040,8 @@
 @form |A.BAD|
 @useq	x12000.x12041
 @utf8	𒀀𒁁
-@v	agam [VAT 10259 = dcclt/signlists:P283541 o 3]
+@v	agam
+@ref	VAT 10259 = dcclt/signlists:P283541 o 3
 @inote	salgues
 @@
 @end sign
@@ -1070,7 +1071,8 @@
 @form |A.GU|
 @useq	x12000.x12116
 @utf8	𒀀𒄖
-@v	zah₃ [VAT 10259 = dcclt/signlists:P283541 o 5]
+@v	zah₃
+@ref	VAT 10259 = dcclt/signlists:P283541 o 5
 @inote	salgues
 @@
 @end sign
@@ -1620,7 +1622,8 @@
 @inote	P416548 envelope lower edge 2
 @@
 @form |AB₂×KU|
-@v	unudₓ [VS 24, 4 = dcclt:P347124 o i 13]
+@v	unudₓ
+@ref	VS 24, 4 = dcclt:P347124 o i 13
 @@
 @end sign
 
@@ -1927,7 +1930,7 @@
 @list	U+12482
 @utf8	𒒂
 @uage	8.0
-@v	x₀₁ [OIP 99, 242 = cdli:P010220 3']
+@ref	OIP 99, 242 = cdli:P010220 3'
 @note	OIP 99, 89 ii' 2'
 @end sign
 
@@ -2460,7 +2463,8 @@
 @form |AŠ.AN.AŠ|
 @useq	x12038.x1202D.x12038
 @utf8	𒀸𒀭𒀸
-@v	tillaₓ [CUSAS 2.1.1 = dcclt:P251684 o i 13', kan₄ tillaₓ(AŠ.AN.AŠ)]
+@v	tillaₓ
+@ref	CUSAS 2.1.1 = dcclt:P251684 o i 13', kan₄ tillaₓ(AŠ.AN.AŠ)
 @@
 @form |AŠ.AŠ|
 @useq	x12038.x12038
@@ -2691,7 +2695,8 @@
 @sign |AN.ŠEŠ.KI|
 @useq	x1202D.x122C0.x121A0
 @utf8	𒀭𒋀𒆠
-@v	nanna₂ [SpTu 2 36 = cams:P348641 o 18, i-nanna₂-ma]
+@v	nanna₂
+@ref	SpTu 2 36 = cams:P348641 o 18, i-nanna₂-ma
 @inote	Borger MZL, 507 rejects the value.
 @end sign
 
@@ -3166,7 +3171,8 @@
 @v	eš₁₆
 @v	šušur
 @form |AŠ@z&AŠ@z&AŠ@z|
-@v	eš₁₆ [Ass 00523 = dcclt/signlists:P370411 r i 50]
+@v	eš₁₆
+@ref	Ass 00523 = dcclt/signlists:P370411 r i 50
 @inote	salgues
 @@
 @end sign
@@ -3338,7 +3344,8 @@
 @inote	sign only attested in MA Ea (VAT 9541 iii20' and 13), a text that has many obscure signs and readings. Not recognized in MZL.
 @v-	bag₄
 @note	see bag₂
-@v	sumₓ [VAT 9541 = dcclt:P345960 o iii 20', su-um ZIB@k ka-ba-ti-nu-u = %a la-ap-nu qa-tu-u₂]
+@v	sumₓ
+@ref	VAT 9541 = dcclt:P345960 o iii 20', su-um ZIB@k ka-ba-ti-nu-u = %a la-ap-nu qa-tu-u₂
 @end sign
 
 @sign AŠ@t
@@ -3501,7 +3508,8 @@
 @v	me₄
 @v	med
 @v	met
-@v	meṭ [STT 2 400 = cams:P338714 r 19, meṭ-lu-tu]
+@v	meṭ
+@ref	STT 2 400 = cams:P338714 r 19, meṭ-lu-tu
 @v	mit
 @v	miti
 @v	mitu
@@ -3525,7 +3533,8 @@
 @v	teₓ
 @v	ti₅
 @v	tile
-@v	ṭel [K 24 iii 10 = eisl:Q003072 c+064, e-ṭel-li]
+@v	ṭel
+@ref	K 24 iii 10 = eisl:Q003072 c+064, e-ṭel-li
 @v	ṭil₂
 @v	ulal
 @v	zar₅
@@ -4316,7 +4325,8 @@
 @utf8	𒒇
 @uage	8.0
 @list	ZATU058
-@v	arinaₓ [CUSAS 12, 6.1.3 = cdli:P252194 r ii 8]
+@v	arinaₓ
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r ii 8
 @form |(BU&BU)×NA₂.A|
 @useq	x12487.x12000
 @utf8	𒒇𒀀
@@ -4493,7 +4503,8 @@
 @list	ELLES043
 @list	LAK071
 @list	RSP413
-@v	buru₅ [Ass 00523 = dcclt/signlists:P370411 r ii 49]
+@v	buru₅
+@ref	Ass 00523 = dcclt/signlists:P370411 r ii 49
 @inote	salgues
 @@
 @end sign
@@ -4533,7 +4544,8 @@
 @v	idi₃
 @v	le₁₀
 @v	li₁₀
-@v	qab₃ [ BT 1 rev. iv' 3 qab3-[la2]-ni ]
+@v	qab₃
+@ref	 BT 1 rev. iv' 3 qab3-[la2-ni ]
 @v	ta₂
 @v	ṭa
 @end sign
@@ -5119,7 +5131,8 @@
 @v	inna
 @v	lahar₂
 @v	lahrum₂
-@v	mudru₄ [MSL 16 120 l. 127: SIK₂{{mu-ud-rum}}AŠ]
+@v	mudru₄
+@ref	MSL 16 120 l. 127: SIK₂{{mu-ud-rum}}AŠ
 @note	See |SIK₂.AŠ|
 @v	nina₂
 @v	ninnaₓ
@@ -5366,7 +5379,7 @@
 @list	U+1248B
 @utf8	𒒋
 @uage	8.0
-@v	x₀₂ [CUSAS 12, 6.1.3 = cdli:P252194 r iv 22-27]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r iv 22-27
 @end sign
 
 @sign DIM₂
@@ -5422,7 +5435,7 @@
 @list	U+1248C
 @utf8	𒒌
 @uage	8.0
-@v	x₀₃ [CUSAS 12 6.1.3 = cdli:P252194 r ii 7]
+@ref	CUSAS 12 6.1.3 = cdli:P252194 r ii 7
 @end sign
 
 @sign DIN
@@ -5572,7 +5585,8 @@
 @sign |DIŠ.DAR|
 @useq	x12079.x1206F
 @utf8	𒁹𒁯
-@v	ašdar₂ [Ass 00523 = dcclt/signlists:P3703411 r ii 44]
+@v	ašdar₂
+@ref	Ass 00523 = dcclt/signlists:P3703411 r ii 44
 @inote	salgues
 @v	uₓ(DIŠ)-gun₃
 @end sign
@@ -5616,7 +5630,8 @@
 @sign |DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k|
 @useq	X.X.X.X
 @utf8	XXXX
-@v	bag₂ [VAT 9541 = dcclt:PP345960 o iii 12', ba-ak DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k = %a šu-šu-ru]
+@v	bag₂
+@ref	VAT 9541 = dcclt:PP345960 o iii 12', ba-ak DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k = %a šu-šu-ru
 @v	bak₂
 @end sign
 
@@ -6269,7 +6284,7 @@
 @list	U+1249C
 @utf8	𒒜
 @uage	8.0
-@v	x₀₄ [SF 064 = dcclt:P010655 o iii 14]
+@ref	SF 064 = dcclt:P010655 o iii 14
 @end sign
 
 @sign |DUG×(KUŠU₂.KASKAL)|
@@ -7097,13 +7112,15 @@
 @form |TUM.ŠU₂|
 @useq	x12308.x122D9
 @utf8	𒌈𒋙
-@v	egir [VAT 9541 = dcclt/signlists:P345960 o ii 20']
+@v	egir
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 20'
 @inote	salgues
 @@
 @form |TUM.UD|
 @useq	x12308.x12313
 @utf8	𒌈𒌓
-@v	egir [VAT 9541 = dcclt/signlists:P345960 o ii 19']
+@v	egir
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 19'
 @inote	salgues
 @@
 @end sign
@@ -8057,7 +8074,8 @@
 @utf8	𒂠𒌓
 @note	see references quoted in CAD isqūqu.
 @v	zi₃-kum₄
-@v	zikumₓ [Diri 5 = Q000150 159]
+@v	zikumₓ
+@ref	Diri 5 = Q000150 159
 @end sign
 
 @compoundonly	|(EŠ₂&EŠ₂)|
@@ -8486,7 +8504,7 @@
 @list	U+124B5
 @utf8	𒒵
 @uage	8.0
-@v	x₁₃ [SF 007 = cdli:P010573 o ii 12]
+@ref	SF 007 = cdli:P010573 o ii 12
 @end sign
 
 @sign |EZEN×ŠE|
@@ -8559,7 +8577,7 @@
 @list	U+124AD
 @utf8	𒒭
 @uage	8.0
-@v	x₀₅ [CUSAS 12, 6.1.3 = cdli:P252194 r vii 7]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r vii 7
 @end sign
 
 @sign |EZEN@s×HI|
@@ -8567,7 +8585,7 @@
 @list	U+124AE
 @utf8	𒒮
 @uage	8.0
-@v	x₀₆ [CUSAS 12, 6.1.3 = cdli:P252194 r vii 5]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r vii 5
 @end sign
 
 @sign |EZEN@s×IGI@g|
@@ -8575,7 +8593,7 @@
 @list	U+124AF
 @utf8	𒒯
 @uage	8.0
-@v	x₀₇ [CUSAS 12, 6.1.3 = cdli:P252194 r vii 12]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r vii 12
 @end sign
 
 @sign |EZEN@s×LA|
@@ -8583,7 +8601,7 @@
 @list	U+124B0
 @utf8	𒒰
 @uage	8.0
-@v	x₀₈ [CUSAS 12, 6.1.3 = cdli:P252194 r vii 2]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r vii 2
 @end sign
 
 @sign |EZEN@s×LAL|
@@ -8591,7 +8609,7 @@
 @list	U+124B1
 @utf8	𒒱
 @uage	8.0
-@v	x₀₉ [CUSAS 12, 6.1.3 = cdli:P252194 r v 2]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r v 2
 @end sign
 
 @sign |EZEN@s×ME|
@@ -8599,7 +8617,7 @@
 @list	U+124B2
 @utf8	𒒲
 @uage	8.0
-@v	x₁₀ [CUSAS 12, 6.1.3 = cdli:P252194 r vii 4]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r vii 4
 @end sign
 
 @sign |EZEN@s×MES|
@@ -8607,7 +8625,7 @@
 @list	U+124B3
 @utf8	𒒳
 @uage	8.0
-@v	x₁₁ [CUSAS 12, 6.1.3 = cdli:P252194 r vii 1]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r vii 1
 @end sign
 
 @sign |EZEN@s×SU|
@@ -8615,7 +8633,7 @@
 @list	U+124B4
 @utf8	𒒴
 @uage	8.0
-@v	x₁₂ [CUSAS 12, 6.1.3 = cdli:P252194 r vii 9]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 r vii 9
 @end sign
 
 @sign F₁
@@ -8687,7 +8705,8 @@
 
 @sign |4×GABA|
 @inote	@uname-no-utf8	CUNEIFORM SIGN GABA SQUARED
-@v	tuddahaₓ [BE 1/2, 129 = cdli:P263651 o i 5', tu-ud-da-ha-a-ta = |4×GABA|-a-ta]
+@v	tuddahaₓ
+@ref	BE 1/2, 129 = cdli:P263651 o i 5', tu-ud-da-ha-a-ta = |4×GABA|-a-ta
 @end sign
 
 @sign GA
@@ -9153,7 +9172,8 @@
 @useq	x120C1.x12228
 @utf8	𒃁𒈨
 @v	gaburaₓ
-@v	ŋaburra [ED Cities = dcclt:Q000035 8]
+@v	ŋaburra
+@ref	ED Cities = dcclt:Q000035 8
 @@
 @end sign
 
@@ -9291,7 +9311,7 @@
 @list	U+124BA
 @utf8	𒒺
 @uage	8.0
-@v	x₁₄ [CUSAS 12, 6.4.2 K = dcclt:P253253 i 8]
+@ref	CUSAS 12, 6.4.2 K = dcclt:P253253 i 8
 @end sign
 
 @sign |GA₂×GA|
@@ -10072,7 +10092,8 @@
 @list	U+124C9
 @utf8	𒓉
 @uage	8.0
-@v	gabaₓ [OSP 1, 144 = cdli:P221641 o i 3]
+@v	gabaₓ
+@ref	OSP 1, 144 = cdli:P221641 o i 3
 @note	CUSAS 12, 6.1.3 o ii 12'
 @note	VE 951
 @end sign
@@ -10111,7 +10132,8 @@
 @v	kut₂
 @v	qad₃
 @v	qat₃
-@v	qaṭ₃ [EA 053 = amarna:P270922 64, {uru}qaṭ₃-na]
+@v	qaṭ₃
+@ref	EA 053 = amarna:P270922 64, {uru}qaṭ₃-na
 @v	qid₄?
 @end sign
 
@@ -11049,7 +11071,8 @@
 @form |E₂.GI.NA.AB.HI|
 @useq	x1208D.x12100.x1223E.x1200A.x1212D
 @utf8	𒂍𒄀𒈾𒀊𒄭
-@v	šutumₓ [OB Nippur Diri = Q000057 Seg.3, 4]
+@v	šutumₓ
+@ref	OB Nippur Diri = Q000057 Seg.3, 4
 @note	The entry is attested only in source J of OB Nippur Diri (Ni 10263) and may well be a (modern or ancient) error for |E₂.GI.NA.AB.U.GUD|.
 @@
 @form |E₂.GI.NA.AB.TUM|
@@ -11093,7 +11116,8 @@
 
 @sign |GI×TAK₄|
 @note	Civil, ARES 4, 101.
-@v	gitag [EDPV-A = Q00293 210]
+@v	gitag
+@ref	EDPV-A = Q00293 210
 @end sign
 
 @sign |GI×U|
@@ -12296,7 +12320,8 @@
 @v	gun₂
 @v	lil₆
 @v	qu₆
-@v	tek [EA 016 = amarna:P270976 o 8, tek-ne₂-e]
+@v	tek
+@ref	EA 016 = amarna:P270976 o 8, tek-ne₂-e
 @v	tik
 @v	tiq
 @v	usanₓ
@@ -12310,7 +12335,8 @@
 @list	ELLES039
 @list	KWU689
 @list	LAK063
-@v	dallaₓ [TMH 5, 039 = P020453 o ii23, nin-dallaₓ(IDIGNA)]
+@v	dallaₓ
+@ref	TMH 5, 039 = P020453 o ii23, nin-dallaₓ(IDIGNA)
 @note	The distinction between IDIGNA (LAK063; KWU689) and DALLA (MAŠ.IDIGNA) is consistent throughout the third millennium, with few exceptions. For Old Babylonian see Mittermayer aBZL. Exceptions include P020453 o ii 23 (OAkk Nippur) P020600 o ii 8 (OAkk Nippur) and P102772 o i 12 (Ur III).
 @v	idigna
 @form |TUM×PAP|
@@ -12705,7 +12731,8 @@
 @v	naga₄
 @v	naŋ₄
 @v	naŋa₄
-@v	nuŋa [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 23]
+@v	nuŋa
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 23
 @inote	salgues
 @v	qu
 @v	qum
@@ -12737,7 +12764,8 @@
 @v	kaš₆
 @v	kaṣ₃
 @v	kaz
-@v	kazba [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 27]
+@v	kazba
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 27
 @inote	salgues
 @v	kumₓ
 @v	nag₃
@@ -12795,7 +12823,8 @@
 @form |SIK₂.LAM.HI×NUN.ME.GAM|
 @useq	x122E0.x121F4.x12134.x12228.x120F5
 @utf8	𒋠𒇴𒄴𒈨𒃵
-@v	guru₇ [YBC 2176 = dcclt/signlists:P467315 r i 28]
+@v	guru₇
+@ref	YBC 2176 = dcclt/signlists:P467315 r i 28
 @inote	salgues
 @@
 @form |SIK₂.LAM.HI×NUN.ME.U|
@@ -13180,7 +13209,8 @@
 @form |HI×MAŠ|
 @list	ELLES199
 @list	RSP312
-@v	surₓ [Ebla Sign List = dcclt:Q000038 66, |HI×MAŠ| su-ru₁₂-um]
+@v	surₓ
+@ref	Ebla Sign List = dcclt:Q000038 66, |HI×MAŠ| su-ru₁₂-um
 @v	šurₓ
 @@
 @end sign
@@ -13564,7 +13594,8 @@
 @v	bah
 @v	bak
 @v	baq
-@v	buruₓ [MA Sa Vocabulary = dcclt:P381771 r i 10, bu-ru HU iṣ-ṣu-ru]
+@v	buruₓ
+@ref	MA Sa Vocabulary = dcclt:P381771 r i 10, bu-ru HU iṣ-ṣu-ru
 @v	dalₓ
 @v	deₓ
 @v	hu
@@ -13755,8 +13786,10 @@
 @v	hub
 @v	hup
 @v	qup₂?
-@v	tahta [UET 6/2, 363 = dcclt:P346410 o 2, ta-ah-ta %akk ha-tu-u₂ HUB₂×UD]
-@v	tahtu [CUSAS 1.1.2 = dcclt:P342645 o i 53, ta-ah-tu HUB₂×UD %akk ka-ma-rum]
+@v	tahta
+@ref	UET 6/2, 363 = dcclt:P346410 o 2, ta-ah-ta %akk ha-tu-u₂ HUB₂×UD
+@v	tahtu
+@ref	CUSAS 1.1.2 = dcclt:P342645 o i 53, ta-ah-tu HUB₂×UD %akk ka-ma-rum
 @inote	salgues
 @v	tu₁₀
 @v	tumₓ
@@ -13963,7 +13996,8 @@
 @list	ELLES009
 @list	LAK016
 @list	RSP048bis
-@v	eše₃ [Ass 00523 = dcclt/signlists:P370411 o ii 1]
+@v	eše₃
+@ref	Ass 00523 = dcclt/signlists:P370411 o ii 1
 @inote	salgues
 @@
 @end sign
@@ -14826,7 +14860,8 @@
 @sign |IM.KAD₃|
 @useq	x1214E.x12191
 @utf8	𒅎𒆑
-@v	tuk₈ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 52']
+@v	tuk₈
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 52'
 @inote	salgues
 @end sign
 
@@ -14867,7 +14902,8 @@
 @sign |IM.ŠU₂|
 @useq	x1214E.x122D9
 @utf8	𒅎𒋙
-@v	šu₁₇ [CUSAS 12 1.1.2 r i 53']
+@v	šu₁₇
+@ref	CUSAS 12 1.1.2 r i 53'
 @inote	salgues
 @v	uh₆
 @end sign
@@ -14900,9 +14936,11 @@
 @end sign
 
 @sign |IM&IM|
-@v	mur₁₁ [CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 56']
+@v	mur₁₁
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 56'
 @inote	salgues
-@v	šeŋ₁₅ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 50']
+@v	šeŋ₁₅
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 50'
 @inote	salgues
 @inote	sjt this sign and |IM@IM| should probably be subsumed under |IM%IM|
 @end sign
@@ -14923,16 +14961,20 @@
 @v	mermer₃
 @v	mermeri₃
 @v	nimgigre
-@v	rad₂ [SpTU 1, 83 = cdli:P348504 r 8, ti#-ik-ki ki-rad₂ : ki-ša₂-du ki-ra-du]
+@v	rad₂
+@ref	SpTU 1, 83 = cdli:P348504 r 8, ti#-ik-ki ki-rad₂ : ki-ša₂-du ki-ra-du
 @lit	MZL p.389
 @v	zigara
 @v	zigkaru
 @v	zikara
 @v	zikaru
 @form |IM&IM|
-@v	aŋar₅ [CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 55']
-@v	dalhamun₆ [CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 58']
-@v	mermeri₃ [CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 57']
+@v	aŋar₅
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 55'
+@v	dalhamun₆
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 58'
+@v	mermeri₃
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 57'
 @@
 @end sign
 
@@ -15055,7 +15097,8 @@
 @v	sahar
 @v	sahardub
 @v	sušₓ
-@v	šen₆ [Studio Historiae Ardens, 289-291 = dcclt:P333170 a ii 29, še-en IŠ šu-uh₂-tum]
+@v	šen₆
+@ref	Studio Historiae Ardens, 289-291 = dcclt:P333170 a ii 29, še-en IŠ šu-uh₂-tum
 @inote	This is a variant of |IŠ.URUDA| = šeknu/šen₅
 @v	šuš₃
 @v	ukum
@@ -15064,7 +15107,8 @@
 @sign |IŠ.A.SUD|
 @useq	x12156.x12000.x122E4
 @utf8	𒅖𒀀𒋤
-@v	imₓ [Diri 6 = dcclt:Q000151 B90]
+@v	imₓ
+@ref	Diri 6 = dcclt:Q000151 B90
 @end sign
 
 @sign |IŠ.UD.KA.BAR|
@@ -15339,7 +15383,8 @@
 @sign |KA×A.A|
 @useq	x12158.x12000
 @utf8	𒅘𒀀
-@v	pišₓ [Msk 74247+ = dcclt:P271995 o v 3]
+@v	pišₓ
+@ref	Msk 74247+ = dcclt:P271995 o v 3
 @end sign
 
 @sign |KA×(A.LAL)|
@@ -15470,7 +15515,7 @@
 @list	U+124D0
 @utf8	𒓐
 @uage	8.0
-@v	x₁₅ [CUSAS 12, 6.1.2 = cdli:P252191 r ii' 1]
+@ref	CUSAS 12, 6.1.2 = cdli:P252191 r ii' 1
 @end sign
 
 @sign |KA×DIŠ|
@@ -15656,7 +15701,8 @@
 @list	MZL066
 @list	SLLHA036a
 @v	meleₓ
-@v	meliₓ [MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 20, me-li |KA×(GAR.ŠA3.A)| ne-em-lu-um]
+@v	meliₓ
+@ref	MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 20, me-li |KA×(GAR.ŠA3.A)| ne-em-lu-um
 @end sign
 
 @sign |KA×(GAR.X)|
@@ -15732,7 +15778,8 @@
 @list	U+1216B
 @utf8	𒅫
 @uage	5.0
-@v	guₓ [Adab 0753 = dcclt:P333146 r 3', gu |KA×GU| ri-ig-mu-um]
+@v	guₓ
+@ref	Adab 0753 = dcclt:P333146 r 3', gu |KA×GU| ri-ig-mu-um
 @end sign
 
 @sign |KA×GUD|
@@ -15796,7 +15843,8 @@
 @utf8	𒅗𒅎
 @@
 @form |LAK648×IM|
-@v	bunₓ [6N-T931 = dcclt:P274990 i' 5']
+@v	bunₓ
+@ref	6N-T931 = dcclt:P274990 i' 5'
 @lit	Peterson dissertation (2007), p.230 with note 1009.
 @note	sign is GIŠGAL×IM = LAK648×IM
 @@
@@ -15807,7 +15855,7 @@
 @list	U+124D1
 @utf8	𒓑
 @uage	8.0
-@v	x₁₆ [CUSAS 12, 6.1.2 = cdli:P252191 r i':24]
+@ref	CUSAS 12, 6.1.2 = cdli:P252191 r i':24
 @end sign
 
 @sign |KA×KAD₃|
@@ -15837,7 +15885,8 @@
 @end sign
 
 @sign |KA×(KI.ŠU₂)|
-@v	gurušₓ [MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 23, gu-ru-uš |KA×(KI+ŠU2?)| ka-sa3-su2-um]
+@v	gurušₓ
+@ref	MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 23, gu-ru-uš |KA×(KI+ŠU2?)| ka-sa3-su2-um
 @end sign
 
 @sign |KA×KID|
@@ -15884,7 +15933,8 @@
 @v	sug₇
 @v	šegₓ
 @v	tu₆
-@v	ṭu₆ [PPAC 4, 128 = cdli:P332049 o 4 :: ba-al-ṭu₆-ša-ri₂]
+@v	ṭu₆
+@ref	PPAC 4, 128 = cdli:P332049 o 4 :: ba-al-ṭu₆-ša-ri₂
 @v	uš₇
 @v	zug₄
 @v	zuhₓ
@@ -15924,7 +15974,8 @@
 @uage	7.0
 @list	HZL142
 @list	MZL070
-@v	zuguz [BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 2']
+@v	zuguz
+@ref	BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 2'
 @inote	salgues
 @inote	##CHECK MSL 14 308, 331
 @form |KA.LUM|
@@ -16041,7 +16092,8 @@
 @list	ABZL313
 @list	MZL035
 @list	SLLHA022x
-@v	murga [BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 6']
+@v	murga
+@ref	BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 6'
 @inote	salgues
 @v	murgu₃
 @v	urgu₂
@@ -16234,7 +16286,7 @@
 @list	U+1252F
 @utf8	𒔯
 @uage	8.0
-@v	x₁₇ [CUSAS 12, 6.1.2 = cdli:P252191 r ii':18]
+@ref	CUSAS 12, 6.1.2 = cdli:P252191 r ii':18
 @end sign
 
 @sign |KA×ŠID|
@@ -16296,11 +16348,13 @@
 @end sign
 
 @sign |KA×(ŠU.EŠ₂)|
-@v	tahtaₓ [CUSAS 12 1.3.1 = dcclt:P251887 o 18 ta-ah-ta = |KA×(ŠU.EŠ₂)|]?
+@v	tahtaₓ
+@ref	CUSAS 12 1.3.1 = dcclt:P251887 o 18 ta-ah-ta = |KA×(ŠU.EŠ₂)|?
 @end sign
 
 @sign |KA×(ŠU.X)|
-@v	atab [CUSAS 12 1.3.1 = dcclt:P251887 o 17 a-ta-ab = |KA×(ŠU.X)|]?
+@v	atab
+@ref	CUSAS 12 1.3.1 = dcclt:P251887 o 17 a-ta-ab = |KA×(ŠU.X)|?
 @end sign
 
 @sign |KA×TAB|
@@ -16420,7 +16474,7 @@
 @list	U+124D3
 @utf8	𒓓
 @uage	8.0
-@v	x₁₈ [CUSAS 12, 6.1.2 = cdli:P252191 r i':23]
+@ref	CUSAS 12, 6.1.2 = cdli:P252191 r i':23
 @end sign
 
 @sign |KA×UR₂|
@@ -16544,7 +16598,8 @@
 @end sign
 
 @sign KA@180
-@v	nundumₓ [OIP 99, 34 = dcclt:P010094 o v 8']?
+@v	nundumₓ
+@ref	OIP 99, 34 = dcclt:P010094 o v 8'?
 @note	Parallels KA.NU in SF 20
 @end sign
 
@@ -16944,7 +16999,8 @@
 @v	gam₃
 @v	isubuₓ
 @v	kam₄
-@v	kimₓ [AfO 4, 71-73 = dcclt:P282336 xii 7, KAM₄ ki-im ša-ak-rum]
+@v	kimₓ
+@ref	AfO 4, 71-73 = dcclt:P282336 xii 7, KAM₄ ki-im ša-ak-rum
 @lit	1980 Daniel Foxvog, Mesopotamia 8 (RAI 26) 73.
 @lit	1992 Piotr Steinkeller and J.N. Postgate, MC 4 16.
 @v	qamₓ
@@ -17047,7 +17103,8 @@
 @inote	%akk illatu
 @v	ellat
 @v	ilba₂
-@v	ilha [SpTU 4, 183 = CAMS:P348776 r 17]
+@v	ilha
+@ref	SpTU 4, 183 = CAMS:P348776 r 17
 @v	illat
 @end sign
 
@@ -17494,7 +17551,8 @@
 @form |KI.NE@s|
 @useq	x121A0.x1224B
 @utf8	𒆠𒉋
-@v	gunniₓ [CBS 07884 = dcclt:P262860 14, KI.NE@s ki-nu-nu]
+@v	gunniₓ
+@ref	CBS 07884 = dcclt:P262860 14, KI.NE@s ki-nu-nu
 @@
 @end sign
 
@@ -17830,7 +17888,8 @@
 @list	SLLHA538
 @v	gur₁₀
 @v	ken
-@v	ki₉ [CUSAS 12 1.1.2 = dcclt/signlits:P342645 o i 56]
+@v	ki₉
+@ref	CUSAS 12 1.1.2 = dcclt/signlits:P342645 o i 56
 @inote	salgues
 @v	kig₂
 @v	kiŋ₂
@@ -17843,7 +17902,8 @@
 @v	qin
 @v	sag₁₁
 @v	saga₁₁
-@v	saka [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 58]
+@v	saka
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 58
 @inote	salgues
 @v	seg₁₈
 @v	sig₁₈
@@ -18399,7 +18459,8 @@
 @inote	Attinger ~ kun
 @v	kun
 @v	kunu
-@v	megidaₓ [OB Nippur Ura 3 = Q000001 385]
+@v	megidaₓ
+@ref	OB Nippur Ura 3 = Q000001 385
 @v	qun
 @v	xnunnamxₓ
 @form MAŠ₂
@@ -18458,7 +18519,8 @@
 @v	ramₓ
 @v	raman
 @v	ramanu
-@v	rammanu [SpTU 4, 183 = CAMS:P348776 r 12]
+@v	rammanu
+@ref	SpTU 4, 183 = CAMS:P348776 r 12
 @note	See Daniel Schwemer, Rammān(um), RlA (2006-2008) 11, 236-237.
 @v	rašu
 @v	razu
@@ -18533,11 +18595,13 @@
 @list	LAK304
 @list	MZL896
 @list	SLLHA562
-@v	kuia₃ [Ass 00523 = dcclt/signlist:P370411 o i 41]
+@v	kuia₃
+@ref	Ass 00523 = dcclt/signlist:P370411 o i 41
 @inote	salgues
 @v	kusuₓ
 @v	kuš₉
-@v	kuša [Ass 00523 = dcclt/signlist:P370411 o i 42]
+@v	kuša
+@ref	Ass 00523 = dcclt/signlist:P370411 o i 42
 @inote	salgues
 @v	kušu₂
 @v	kuwaₓ
@@ -18685,8 +18749,10 @@
 @uage	5.0
 @list	MZL805
 @list	SLLHA530
-@v	buru₁₇ [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o ii 67 ]
-@v	guru₂₂ [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 37']
+@v	buru₁₇
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o ii 67 
+@v	guru₂₂
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 37'
 @inote	salgues
 @v	gurun₄
 @end sign
@@ -18744,11 +18810,13 @@
 @v	gil₂
 @v	gili₂
 @v	gir₈
-@v	girak [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 11']
+@v	girak
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 11'
 @inote	salgues
 @v	girenₓ
 @v	giri₈
-@v	giriak [VAT 10172 = dcclt/signlists:P282497 o i 38]
+@v	giriak
+@ref	VAT 10172 = dcclt/signlists:P282497 o i 38
 @inote	salgues
 @v	girim
 @v	girin
@@ -18783,7 +18851,8 @@
 @v	qer₃
 @v	qil
 @v	qir₃
-@v	qur₉ [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o i 33]
+@v	qur₉
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o i 33
 @inote	salgues
 @v	re₃
 @v	rem
@@ -19078,7 +19147,8 @@
 @list	SLLHA503
 @v	gigir₃
 @form |LAGAB×LIŠ|
-@v	gigir₃ [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o 1 29']
+@v	gigir₃
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o 1 29'
 @inote	salgues
 @@
 @end sign
@@ -19435,7 +19505,8 @@
 @list	U+121CD
 @utf8	𒇍
 @uage	5.0
-@v	ellamkuš₅ [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 43]
+@v	ellamkuš₅
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 43
 @inote	salgues; ellamkuš₅ not in MZL so ellamkušₓ retired
 @end sign
 
@@ -19487,7 +19558,8 @@
 @v	ŋarin
 @v	tagrimₓ
 @v	tagrinₓ
-@v	tarim [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 28]
+@v	tarim
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 28
 @inote	salgues
 @end sign
 
@@ -19647,7 +19719,8 @@
 @v	zar
 @v	zara
 @v	zarih?
-@v	zarim [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 61']
+@v	zarim
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 61'
 @inote	salgues
 @v	zur₄
 @end sign
@@ -19667,7 +19740,8 @@
 @list	SLLHA492
 @v	šerimsur
 @v	šerinsur
-@v	zar₇ [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 30a]
+@v	zar₇
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 30a
 @inote	salgues
 @end sign
 
@@ -19693,9 +19767,11 @@
 @v	sagdudu
 @v	saŋdudu
 @form |LAGAB×(ŠITA.GIŠ)|
-@v	me₉ [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 3']
+@v	me₉
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 3'
 @inote	salgues
-@v	sagdudu [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 4']
+@v	sagdudu
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o ii 4'
 @v	saŋdudu
 @inote	salgues
 @@
@@ -19749,7 +19825,8 @@
 @utf8	𒇢
 @uage	5.0
 @v	sidugaₓ
-@v	sidugga₃ [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 23]
+@v	sidugga₃
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 23
 @inote	salgues
 @end sign
 
@@ -20389,7 +20466,8 @@
 @useq	x121F3.x1230B
 @utf8	𒇳𒌋
 @v	laʾu₈
-@v	lalʾu₈ [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 r i 45]
+@v	lalʾu₈
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 r i 45
 @inote	salgues
 @end sign
 
@@ -20399,7 +20477,8 @@
 @v	halba₅
 @v	halbi₅
 @v	halbu₅
-@v	halpa [CBS 10989 = dcclt/signlists:P230475 r i 18']
+@v	halpa
+@ref	CBS 10989 = dcclt/signlists:P230475 r i 18'
 @inote	salgues
 @v	halpi
 @v	halpia
@@ -21173,7 +21252,8 @@
 @note	After the ED period the sign disappears and its values are absorbed by TAK₄(LAK292) = ŠU@90. That LAK292 already had a tak₄ value is supported by variants in EDPV-A 210 (tag vs. LAK292). In earlier literature LAK492 is described as DUB₂.
 @v	kidₓ?
 @note	Krecher suggests that the sign is also used for kid₂, but the evidence for that is much weaker.
-@v	takaₓ [Ebla Sign List = dcclt:Q000038 131, da-ga-um]
+@v	takaₓ
+@ref	Ebla Sign List = dcclt:Q000038 131, da-ga-um
 @end sign
 
 @sign LAK495
@@ -21746,7 +21826,8 @@
 @utf8	𒈔
 @uage	5.0
 @list	SLLHA330_60n2
-@v	daparaₓ [Diri 6 B 33 = dcclt:Q000151 B33, da-pa-ra = |4×LU₂| ka-ma-ri]
+@v	daparaₓ
+@ref	Diri 6 B 33 = dcclt:Q000151 B33, da-pa-ra = |4×LU₂| ka-ma-ri
 @v	kamaru
 @v-	kapara₃
 @note	corrected reading da-pa-ra in MSL 15 Diri 6B 33.
@@ -21880,8 +21961,10 @@
 @list	SLLHA330
 @v	addaₓ
 @v	duₓ
-@v	giriₓ [OB Nippur Diri = dcclt:Q000057 218, ŋeš-gi-ri GIŠ.LU₂ ne-me-tum ša i-lum]
-@v	inbir₂ [VAT 9541 = dcclt/signlists:P345960 o ii 4']
+@v	giriₓ
+@ref	OB Nippur Diri = dcclt:Q000057 218, ŋeš-gi-ri GIŠ.LU₂ ne-me-tum ša i-lum
+@v	inbir₂
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 4'
 @inote	salgues
 @v	lu₂
 @v	na₆
@@ -22006,7 +22089,8 @@
 @form |LU₂.LAGAB×U|
 @useq	x121FD.x121E5
 @utf8	𒇽𒇥
-@v	ad₆ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 22]
+@v	ad₆
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 22
 @inote	salgues
 @@
 @form |LU₂×UŠ₂|
@@ -22093,7 +22177,8 @@
 @form |LU₂.ŠU|
 @useq	x121FD.x122D7
 @utf8	𒇽𒋗
-@v	eri₁₃ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 11]
+@v	eri₁₃
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 11
 @@
 @form |LU₂×ŠU|
 @@
@@ -22145,7 +22230,8 @@
 @form |LU₂.HI.BAD|
 @useq	x121FD.x1212D.x12041
 @utf8	𒇽𒄭𒁁
-@v	kama₅ [VAT 9541 = dcclt/signlists:P345960 o ii 2']
+@v	kama₅
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 2'
 @inote	salgues
 @@
 @end sign
@@ -22343,7 +22429,8 @@
 @v	azlag₇
 @v	dubal₇
 @form |AL×TUG₂|
-@v	dubal₇ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 10]
+@v	dubal₇
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 10
 @inote	salgues
 @@
 @end sign
@@ -22373,7 +22460,8 @@
 @v	adamin
 @v	enbir
 @v	gigam
-@v	gingam [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 31]
+@v	gingam
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 31
 @inote	salgues
 @v	inbir
 @v	pagraₓ
@@ -22384,8 +22472,10 @@
 @utf8	𒇽𒇽
 @v	adamin
 @form |LU₂&LU₂|
-@v	adamin [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 29]
-@v	urbigu₃ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 28]
+@v	adamin
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 29
+@v	urbigu₃
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 28
 @inote	salgues
 @form |LU₂%LU₂|
 @uname	CUNEIFORM SIGN LU2 CROSSING LU2
@@ -22393,7 +22483,8 @@
 @utf8	𒈒
 @uage	5.0
 @list	SLLHA330_60v
-@v	urbingu₃ [VAT 9541 = dcclt/signlists:P345960 o ii 3']
+@v	urbingu₃
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 3'
 @inote	salgues
 @@
 @end sign
@@ -22498,7 +22589,8 @@
 @form |LU₂.GAM|
 @useq	x121FD.x120F5
 @utf8	𒇽𒃵
-@v	ad₇ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 21]
+@v	ad₇
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 21
 @@
 @form |LU₂.GAN|
 @useq	x121FD.x120F6
@@ -22506,11 +22598,14 @@
 @inote	P365401 = K.4393+ ii 25 collated from photo.
 @@
 @form |LU₂×GAM|
-@v	kama₆ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 24 |LU₂×GAM| @ GAM]
+@v	kama₆
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 24 |LU₂×GAM| @ GAM
 @inote	salgues
-@v	kamad [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 25 |LU₂×GAM| @ GAM]
+@v	kamad
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 25 |LU₂×GAM| @ GAM
 @inote	salgues
-@v	lugam [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 23 |LU₂×GAM| @ GAM]
+@v	lugam
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 23 |LU₂×GAM| @ GAM
 @inote	salgues
 @@
 @end sign
@@ -22582,7 +22677,8 @@
 @v	kaššeba?
 @v	kaššebi?
 @v	lillan
-@v	lillia [CUSAS 12.1.1.2 = dcclt/signlists:P342645 o ii 32]
+@v	lillia
+@ref	CUSAS 12.1.1.2 = dcclt/signlists:P342645 o ii 32
 @v	lugal
 @v	lugala
 @v	nurra?
@@ -22632,12 +22728,14 @@
 @v	adamen₂
 @v	adamin₂
 @v	dadrum?
-@v	gug₅ [CUSAS 12.1.1.2 = dcclt/signlists:P342645 o ii 39]
+@v	gug₅
+@ref	CUSAS 12.1.1.2 = dcclt/signlists:P342645 o ii 39
 @v	kukuₓ
 @form |LUGAL%LUGAL|
 @v	adamin₂
 @inote	salgues
-@v	gug₅ [VAT 9541 = dcclt/signlists:P345960 o ii 8']
+@v	gug₅
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 8'
 @@
 @form |LUGAL@LUGAL|
 @uname	CUNEIFORM SIGN LUGAL OPPOSING LUGAL
@@ -22723,7 +22821,8 @@
 @v	dunga₂
 @v	ilumer₃
 @v	ka₅
-@v	kusun [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 65]
+@v	kusun
+@ref	CUSAS 12, 1.1.2 = dcclt:P342645 r ii 65
 @inote	salgues
 @v	kušum₂
 @v	lab₂?
@@ -22741,7 +22840,8 @@
 @v	lul
 @v	lulu
 @v	lup
-@v	nagar₃ [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 66]
+@v	nagar₃
+@ref	CUSAS 12, 1.1.2 = dcclt:P342645 r ii 66
 @inote	salgues
 @v	nar
 @v	nara
@@ -22752,18 +22852,22 @@
 @v	pih?
 @v	puh
 @v	sar₇
-@v	se₃₀ [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 61]
+@v	se₃₀
+@ref	CUSAS 12, 1.1.2 = dcclt:P342645 r ii 61
 @inote	salgues
 @v	sulug
-@v	sulun [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 59]
+@v	sulun
+@ref	CUSAS 12, 1.1.2 = dcclt:P342645 r ii 59
 @inote	salgues
 @v	šatam
 @v	šattam
 @v	šaṭam
 @v	še₁₁
-@v	tumga [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 63]
+@v	tumga
+@ref	CUSAS 12, 1.1.2 = dcclt:P342645 r ii 63
 @inote	salgues
-@v	zalag₃ [CUSAS 12, 1.1.2 = dcclt:P342645 r ii 64]
+@v	zalag₃
+@ref	CUSAS 12, 1.1.2 = dcclt:P342645 r ii 64
 @inote	salgues
 @v	zulug
 @form LAK244
@@ -23167,7 +23271,8 @@
 @v	1/2(diš@c)
 @@
 @form MAŠ@t
-@v	maš [SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t]
+@v	maš
+@ref	SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t
 @@
 @end sign
 
@@ -23249,10 +23354,12 @@
 @utf8	𒈦𒎙
 @list	MZL126
 @list	SLLHA074+471
-@v	mašmin [MA Ea = dcclt:P345960 o iv 20']
+@v	mašmin
+@ref	MA Ea = dcclt:P345960 o iv 20'
 @v	sagman
 @v	sagmin
-@v-	saŋgidim [CUSAS 12, JON 38 = dcclt:P414356 ii 11', MAŠ saŋ-gi-di-im |U.U| = ma-a-šu]
+@v-	saŋgidim
+@ref	CUSAS 12, JON 38 = dcclt:P414356 ii 11', MAŠ saŋ-gi-di-im |U.U| = ma-a-šu
 @note	The gloss is a conflation of gidim₂(|MAŠ.U|) and saŋmin(|MAŠ.U.U|)
 @v	saŋman
 @v	saŋmin
@@ -23261,7 +23368,8 @@
 @sign |MAŠ.U.U.U|
 @useq	x12226.x1230D
 @utf8	𒈦𒌍
-@v	saŋeš [CUSAS 12, JON 38 = dcclt:P414356 ii 12', |MAŠ.U.U.U| = tak-su-u]?
+@v	saŋeš
+@ref	CUSAS 12, JON 38 = dcclt:P414356 ii 12', |MAŠ.U.U.U| = tak-su-u?
 @end sign
 
 @sign |MAŠ.X|
@@ -23443,9 +23551,11 @@
 @v	gikki
 @v	ŋe₆
 @v	ŋi₆
-@v	ŋissuₓ [CUSAS 36, 393 = epsd2/admin/ed3b:P252822 r ii 2, e₂-ŋissuₓ(MI)-bi-dug₃]
+@v	ŋissuₓ
+@ref	CUSAS 36, 393 = epsd2/admin/ed3b:P252822 r ii 2, e₂-ŋissuₓ(MI)-bi-dug₃
 @inote	dupfix MZL gissu(|GIŠ.MI|)
-@v	ŋizza [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 62']
+@v	ŋizza
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 62'
 @inote	salgues
 @v	ku₁₀
 @v	ku₁₀-ku₁₀
@@ -23923,7 +24033,7 @@
 @list	U+12520
 @utf8	𒔠
 @uage	8.0
-@v	x₁₉ [CUSAS 12, 6.1.3 = cdli:P252194 o iv 3]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 o iv 3
 @end sign
 
 @sign |(MUŠ&MUŠ)×KAK|
@@ -23931,7 +24041,7 @@
 @list	U+12521
 @utf8	𒔡
 @uage	8.0
-@v	x₂₀ [CUSAS 12, 6.1.3 = cdli:P252194 o iv 4]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 o iv 4
 @form |MUŠ%MUŠ.HI|
 @useq	x12238.x1212D
 @utf8	𒈸𒄭
@@ -24134,7 +24244,8 @@
 @form |A.MUŠ₃@g|
 @useq	x12000.x1223D
 @utf8	𒀀𒈽
-@v	šed₉ [CBS 2175+ = dcclt:P227876 r ii 18']
+@v	šed₉
+@ref	CBS 2175+ = dcclt:P227876 r ii 18'
 @@
 @form |A.MUŠ₃@g.DI|
 @useq	x12000.x1223D.x12072
@@ -24232,7 +24343,8 @@
 @form |MUŠ₃.ŠEŠ₂|
 @useq	x12239.x122C1
 @utf8	𒈹𒋁
-@v	šušin [ED Cities = dcclt:Q000035 30]
+@v	šušin
+@ref	ED Cities = dcclt:Q000035 30
 @@
 @form |MUŠ₃@g.ŠEŠ₂|
 @aka	|MUŠ₂.ŠEŠ₂|
@@ -24584,7 +24696,8 @@
 @v	ne₇
 @v	nu₂
 @v	nud
-@v	šeₓ [Ebla Sign List = Q000038 72, NA₂ še₃-tum]
+@v	šeₓ
+@ref	Ebla Sign List = Q000038 72, NA₂ še₃-tum
 @v	šedₓ
 @v	timuaₓ
 @end sign
@@ -24625,17 +24738,21 @@
 @v	tu₂₂
 @v	uga₃
 @inote	Attinger
-@v	uhul [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 42]
+@v	uhul
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 42
 @inote	salgues
 @form |ŠE.NAGA|
 @useq	x122BA.x12240
 @utf8	𒊺𒉀
-@v	eriš₂ [CBS 157 = dcclt/signlists:P257722 r ii 21']
+@v	eriš₂
+@ref	CBS 157 = dcclt/signlists:P257722 r ii 21'
 @inote	salgues
 @v	hamunₓ
-@v	hilib₂ [CBS 157 = dcclt/signlists:P257722 r ii 15']
+@v	hilib₂
+@ref	CBS 157 = dcclt/signlists:P257722 r ii 15'
 @inote	salgues
-@v	naŋa [CBS 157 = dcclt/signlists:P257722 r ii 16']
+@v	naŋa
+@ref	CBS 157 = dcclt/signlists:P257722 r ii 16'
 @inote	salgues
 @@
 @end sign
@@ -24672,7 +24789,8 @@
 @form |ŠE.NAGA@ŠE.NAGA|
 @useq	x122BA.X.x12240
 @utf8	𒊺X𒉀
-@v	dalhamun₇ [CBS 157 = dcclt/signlists:P257722 r ii 19']
+@v	dalhamun₇
+@ref	CBS 157 = dcclt/signlists:P257722 r ii 19'
 @inote	salgues
 @@
 @form |U₂.NAGA@U₂.NAGA|
@@ -24794,7 +24912,8 @@
 @v	sin₂
 @inote	%akk śim₂
 @v	šam₄
-@v	šen₃ [RA 33 104 24]
+@v	šen₃
+@ref	RA 33 104 24
 @inote	(empty note)
 @v	šim₂
 @end sign
@@ -24902,7 +25021,8 @@
 @v	lem₄
 @v	li₉
 @v	lim₄
-@v	me₁₂ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 34]
+@v	me₁₂
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 34
 @inote	salgues
 @v	ne
 @v	ni₅
@@ -25009,12 +25129,14 @@
 @v	bil₂
 @v	ge₁₀
 @v	gi₁₀
-@v	gibi [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 43]
+@v	gibi
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 43
 @inote	salgues
 @v	gibil
 @v	gibila
 @v	gigiₓ
-@v	gil₄ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 42]
+@v	gil₄
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 42
 @inote	salgues
 @v	ne₈
 @v	pel₂
@@ -25095,7 +25217,8 @@
 @end sign
 
 @sign |4×NI|
-@v	šaršari [SpTU 3, 116 = dcclt:P348714 o ii 31]
+@v	šaršari
+@ref	SpTU 3, 116 = dcclt:P348714 o ii 31
 @inote	also in MAH 16068 = P424009 o ii 9' (Cavigneaux in FS Attinger)
 @end sign
 
@@ -25434,7 +25557,8 @@
 @v	inda
 @v	nida₂
 @v	ninda₂
-@v	ugu₇ [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 2]
+@v	ugu₇
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 2
 @inote	salgues
 @end sign
 
@@ -25460,10 +25584,12 @@
 @uage	5.0
 @list	MZL317
 @list	SLLHA177
-@v	indadili [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 17]
+@v	indadili
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 17
 @inote	salgues
 @v	indagaraₓ?
-@v	šurum₇ [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 4]
+@v	šurum₇
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 4
 @inote	salgues
 @end sign
 
@@ -25475,10 +25601,12 @@
 @uage	5.0
 @list	MZL318
 @list	SLLHA177n
-@v	indadilida [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 18]
+@v	indadilida
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 18
 @inote	salgues
 @v	saₓ
-@v	šušurum [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 5]
+@v	šušurum
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 5
 @inote	salgues
 @form |NINDA₂.AŠ.AŠ|
 @useq	x12252.x12038.x12038
@@ -25513,7 +25641,8 @@
 @list	U+12391
 @utf8	𒎑
 @uage	7.0
-@v	gur₂₃ [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 9]
+@v	gur₂₃
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 9
 @inote	salgues
 @end sign
 
@@ -25538,7 +25667,8 @@
 @end sign
 
 @sign |NINDA₂×DUB|
-@v	bariga [CUSAS 12, 1.1.2 = dcclt:P342645 o i 11, ba-ri₂-ga |NINDA₂×DUB|]
+@v	bariga
+@ref	CUSAS 12, 1.1.2 = dcclt:P342645 o i 11, ba-ri₂-ga |NINDA₂×DUB|
 @end sign
 
 @sign |NINDA₂×GAR₃|
@@ -25617,7 +25747,8 @@
 @sign |NINDA₂×KUL|
 @aka	|NINDA₂×NUMUN|
 @list	LAK096
-@v	nindaₓ [IM 051144 = dcclt:P247864 o ii 58]
+@v	nindaₓ
+@ref	IM 051144 = dcclt:P247864 o ii 58
 @end sign
 
 @sign |NINDA₂×LAK50|
@@ -25634,7 +25765,8 @@
 @utf8	𒔨
 @uage	8.0
 @list	LAK110
-@v	gurmi [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 13]
+@v	gurmi
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 13
 @inote	salgues
 @end sign
 
@@ -25645,13 +25777,15 @@
 @utf8	𒉗
 @uage	5.0
 @list	SLLHA190an4
-@v	endamekar [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 8]
+@v	endamekar
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 8
 @inote	salgues
 @v	nindamekar
 @end sign
 
 @sign |NINDA₂×MI|
-@v	gurgig [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 14]
+@v	gurgig
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 14
 @end sign
 
 @sign |NINDA₂×2(N01)|
@@ -25767,7 +25901,8 @@
 @form |ŠE.NINDA₂@180×ZA|
 @useq	x122BA.X
 @utf8	𒊺X
-@v	sam₂ [MEE 4 12 = dcclt/ebla:P241847 o v 13, niŋ₂-sam₂(|ŠE.NINDA₂@180×ZA|)]
+@v	sam₂
+@ref	MEE 4 12 = dcclt/ebla:P241847 o v 13, niŋ₂-sam₂(|ŠE.NINDA₂@180×ZA|)
 @@
 @end sign
 
@@ -25807,7 +25942,8 @@
 @end sign
 
 @sign |NINDA₂×ŠID|
-@v	gurmedub [CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 10]
+@v	gurmedub
+@ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 10
 @inote	salgues
 @end sign
 
@@ -26028,7 +26164,8 @@
 @v	enšab
 @v	gešnu?
 @v	gišnu?
-@v	ŋešnu [Ebla Sign List = Q000038 79, NU₁₁ mu-ša-na-um ]
+@v	ŋešnu
+@ref	Ebla Sign List = Q000038 79, NU₁₁ mu-ša-na-um 
 @inote	Attinger ŋešnu
 @v	ŋizzalₓ
 @v	mušnaₓ
@@ -26113,7 +26250,8 @@
 @sign |NU₁₁.IR|
 @useq	x12262.x12155
 @utf8	𒉢𒅕
-@v-	buru₁₅ [Aa 42 = Q000202 96, bu-ru |NU₁₁.IR| e-ri-bu{mušen}]
+@v-	buru₁₅
+@ref	Aa 42 = Q000202 96, bu-ru |NU₁₁.IR| e-ri-bu{mušen}
 @note	|NU₁₁.IR| = buru₁₅ in Aa 42 is presumably an error for |NU₁₁.BUR| = buru₄. Civil ARES 4, 57.
 @v	gešnu₂
 @v	gišnu₂
@@ -26128,7 +26266,8 @@
 @utf8	𒋕
 @uage	5.0
 @inote	UNICODE: The compound belongs to the NU₁₁ (not ŠIR) family and the Unicode name and signform should be corrected.
-@v	numma [CBS 11319+ = dcclt:P225766 r i 12', @atf{nu-um-ma |NU₁₁&NU₁₁.BUR&BUR| zi-i-ba-am}]
+@v	numma
+@ref	CBS 11319+ = dcclt:P225766 r i 12', @atf{nu-um-ma |NU₁₁&NU₁₁.BUR&BUR| zi-i-ba-am}
 @end sign
 
 @sign NU₁₁@90
@@ -26164,7 +26303,8 @@
 @list	RSP094
 @list	RSP097
 @list	SLLHA087
-@v	abₓ [CT 19, pl.23, Rm 0344 = dcclt/nineveh:P365403 r ii 7', NUN-gal = ab-gal-lum]?
+@v	abₓ
+@ref	CT 19, pl.23, Rm 0344 = dcclt/nineveh:P365403 r ii 7', NUN-gal = ab-gal-lum?
 @note	The writing NUN.GAL for abgal(|NUN.ME|) also appears in MSL 11, 46 rev. iii16 (Ugarit; Emar has ab-gal), but cannot be generalized to a value abₓ for NUN.
 @v	agargaraₓ
 @v-	dabₓ
@@ -26211,7 +26351,8 @@
 @note	See Veldhuis JCS 54, 72-74
 @v	malₓ
 @note	In tum-malₓ(TUR₃){ki}; see De Maaijer NABU 1999/92 and Steinkeller, ZA 91, 70 nt. 205.
-@v-	surum [CT 25, pl. 30-31 = dcclt/nineveh:P368627 o i 12, {d}šag₄-tur₃{{%a ša2-su-rum}} = %a be-let DINGIR.MEŠ]
+@v-	surum
+@ref	CT 25, pl. 30-31 = dcclt/nineveh:P368627 o i 12, {d}šag₄-tur₃{{%a ša2-su-rum}} = %a be-let DINGIR.MEŠ
 @note	The gloss in CT 25, 30 represents the Akkadian translation of the name (šag₄-tur₃ = šassūru = womb), not a pronunciation gloss.
 @v	šilamₓ
 @note	See Veldhuis JCS 54, 72-74
@@ -26265,7 +26406,8 @@
 @v	šilaₓ
 @v	šilam
 @v	šillatₓ
-@v	turₓ [UET 6, 126+:6-7 = epsd2/literary/P346211]
+@v	turₓ
+@ref	UET 6, 126+:6-7 = epsd2/literary/P346211
 @v	uš₅
 @form |DIŠ+NUN.LAGAR|
 @useq	x12079.x12263.x121EC
@@ -26934,7 +27076,8 @@
 @v	lu₉
 @v	lug₂
 @v	luŋ₂
-@v	luŋa₂ [BM 108862 = dcclt/signlists:P453275 r ii 10-11]
+@v	luŋa₂
+@ref	BM 108862 = dcclt/signlists:P453275 r ii 10-11
 @inote	salgues
 @v	lun
 @v	maš₄
@@ -26956,7 +27099,8 @@
 @v	si₂₉
 @v	sig₃
 @v	sigga₂
-@v	siqqa [CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 r ii 8]
+@v	siqqa
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 r ii 8
 @inote	salgues
 @v	sullat₂
 @v	šag₃
@@ -27336,8 +27480,10 @@
 @useq	x1227A.x122B7
 @utf8	𒉺𒊷
 @v	erida₂
-@v	erimₓ [CUSAS 12, JON 38 = dcclt:P414356 r i 5']
-@v	gangud [CUSAS 12, JON 38 = dcclt:P414356 r i 4']
+@v	erimₓ
+@ref	CUSAS 12, JON 38 = dcclt:P414356 r i 5'
+@v	gangud
+@ref	CUSAS 12, JON 38 = dcclt:P414356 r i 4'
 @v	šanga₇
 @v	tidimₓ
 @end sign
@@ -27354,7 +27500,8 @@
 @sign |PA.TAR|
 @useq	x1227A.x122FB
 @utf8	𒉺𒋻
-@v	gugₓ [K 2039 = dcclt/nineveh:P394154 o i 19']
+@v	gugₓ
+@ref	K 2039 = dcclt/nineveh:P394154 o i 19'
 @end sign
 
 @sign |PA.TE|
@@ -27413,7 +27560,8 @@
 @sign |PA.URU×MIN|
 @useq	x1227A.x12347
 @utf8	𒉺𒍇
-@v	suliliₓ [CUSAS 12, JON 38 = dcclt:P414356 r i 7']
+@v	suliliₓ
+@ref	CUSAS 12, JON 38 = dcclt:P414356 r i 7'
 @v	zililiₓ
 @v	zilulu
 @form |PA.URU|
@@ -27676,7 +27824,8 @@
 @sign |PAP.PAP.4×IDIM|
 @useq	x1227D.x1227D.X
 @utf8	𒉽𒉽X
-@v	šušru [Antagal G = dcclt/nineveh:P365399 r ii 30]
+@v	šušru
+@ref	Antagal G = dcclt/nineveh:P365399 r ii 30
 @v-	šuššub
 @end sign
 
@@ -28112,7 +28261,8 @@
 @form |PIRIG.KIŠ|
 @useq	x1228A.x121A7
 @utf8	𒊊𒆧
-@v	tidnum [ED Cities = dcclt:Q000035 35]
+@v	tidnum
+@ref	ED Cities = dcclt:Q000035 35
 @@
 @form |PIRIG.PIRIG|
 @useq	x1228A.x1228A
@@ -28709,7 +28859,7 @@
 @note	Civil AuOr 2, 293
 @v	burₓ
 @lit	Kienast FS Sjöberg, 543-544
-@v	x₂₁ [OIP 99, 61 = dcclt:P010102 o xii 9]
+@ref	OIP 99, 61 = dcclt:P010102 o xii 9
 @note	CUSAS 12, 6.1.2 r iii' 3-7; OIP 99, 69 r xi' 8'
 @end sign
 
@@ -29546,7 +29696,8 @@
 @list	LAK215
 @list	MZL541
 @list	RSP446
-@v	e₁₄ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 51]
+@v	e₁₄
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 51
 @inote	salgues
 @v	kiri₆
 @v	ma₄
@@ -29750,7 +29901,8 @@
 @list	MZL881
 @list	RSP317
 @list	SLLHA592
-@v	bek [STT 1 28 = cams:P338345 r ii 10, e-bek-ma]
+@v	bek
+@ref	STT 1 28 = cams:P338345 r ii 10, e-bek-ma
 @v	big
 @v	bik
 @v	epig
@@ -29771,7 +29923,8 @@
 @v	šak₆?
 @v	šeₓ
 @v	šeŋ
-@v	šek [SAAS 2 source A 1 = P395483 o iii 3, {1}mu-šek-niš]
+@v	šek
+@ref	SAAS 2 source A 1 = P395483 o iii 3, {1}mu-šek-niš
 @v	ši₃
 @v	šig
 @v	šik
@@ -30086,7 +30239,8 @@
 @form |ŠU.SILA₃.GABA|
 @useq	x122D7.x122E1.x120EE
 @utf8	𒋗𒋡𒃮
-@v	sagi [CUSAS 12, 2.1.3 = dcclt:P252036 o ii 19]
+@v	sagi
+@ref	CUSAS 12, 2.1.3 = dcclt:P252036 o ii 19
 @v	šagia
 @@
 @form |ŠU.SILA₃.GABA.A|
@@ -30554,7 +30708,8 @@
 @form |GI.ŠA₃.GI|
 @useq	x12100.x122AE.x12100
 @utf8	𒄀𒊮𒄀
-@v	pugluₓ [CULC 390 = P416298 r10', pugluₓ(GI.ŠA₃.GI){+pu-ug-lu}]
+@v	pugluₓ
+@ref	CULC 390 = P416298 r10', pugluₓ(GI.ŠA₃.GI){+pu-ug-lu}
 @@
 @end sign
 
@@ -30625,14 +30780,16 @@
 @v	bir₇
 @v	isla
 @inote	Attinger ~ išla
-@v	isli [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 35']
+@v	isli
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 35'
 @inote	salgues
 @v	iškila?
 @v	iškili?
 @v	išla
 @v	išli
 @v	kiri₄
-@v	kišli [VAT 9541 = dcclt/signlists:P345960 o 23']
+@v	kišli
+@ref	VAT 9541 = dcclt/signlists:P345960 o 23'
 @inote	salgues
 @v	libₓ
 @v	peš₄
@@ -30700,7 +30857,8 @@
 @list	MZL609
 @list	SLLHA389
 @v	gudu₅
-@v	ša₂₆ [VAT 9541 = dcclt/signlists:P345960 o ii 22']
+@v	ša₂₆
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 22'
 @inote	salgues
 @end sign
 
@@ -30809,7 +30967,7 @@
 @list	U+12531
 @utf8	𒔱
 @uage	8.0
-@v	x₂₂ [CUSAS 12, 6.1.3 = cdli:P252194 o i 13]
+@ref	CUSAS 12, 6.1.3 = cdli:P252194 o i 13
 @end sign
 
 @sign ŠAB₆
@@ -30986,7 +31144,8 @@
 @v	niga
 @v	nigan
 @v	nigu
-@v	sag₁₃ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 15]
+@v	sag₁₃
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 15
 @inote	salgues
 @v	še
 @v	u₂₀
@@ -31171,7 +31330,8 @@
 @form |ŠE.NAGA×A|
 @useq	x122BA.X
 @utf8	𒊺X
-@v	tuₓ [CUSAS 12, 3.4.7 = dcclt:P251491 02, tug₂ a-tuₓ(|ŠE.NAGA×A|)]
+@v	tuₓ
+@ref	CUSAS 12, 3.4.7 = dcclt:P251491 02, tug₂ a-tuₓ(|ŠE.NAGA×A|)
 @@
 @end sign
 
@@ -31219,7 +31379,8 @@
 @v	ninni₈
 @v	panaₓ
 @v	qišat
-@v	si₃₀ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 31]
+@v	si₃₀
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 31
 @inote	salgues
 @v	šabu
 @v	še₁₅
@@ -31287,7 +31448,8 @@
 @form |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAR|
 @useq	x12303.x120FB
 @utf8	𒌃𒃻
-@v	garadin [CBS 157 = dcclt/signlists:P257722 r ii 14']
+@v	garadin
+@ref	CBS 157 = dcclt/signlists:P257722 r ii 14'
 @inote	salgues
 @@
 @end sign
@@ -31498,7 +31660,8 @@
 @list	SLLHA551v
 @v	kiši₆
 @v	sa₂₁
-@v	sabar₂ [MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 r iii 39']
+@v	sabar₂
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 r iii 39'
 @inote	salgues
 @v	seg₁₄
 @v	segga
@@ -31591,7 +31754,8 @@
 @v	še₁₆
 @v	šes
 @v	šeš
-@v	šeṣ [AOS 67, 341 = cams/eae:P395092 o 63, u₂-šeṣ-ṣi]
+@v	šeṣ
+@ref	AOS 67, 341 = cams/eae:P395092 o 63, u₂-šeṣ-ṣi
 @v	šiš
 @v	šiṣ
 @v	šiz
@@ -31696,7 +31860,8 @@
 @uage	5.0
 @list	MZL100
 @list	SLLHA065
-@v	šešlam [2R47 = P395521 o ii27, {še-eš-lam}ŠEŠLAM = kib-ra-a-tu]
+@v	šešlam
+@ref	2R47 = P395521 o ii27, {še-eš-lam}ŠEŠLAM = kib-ra-a-tu
 @note	The only attestation of this sign seems to be 2R47 o ii27 (K 4387)
 @end sign
 
@@ -31733,7 +31898,8 @@
 @v	ka₉
 @v	kas₇
 @v	kid₄
-@v	kirban [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 29']
+@v	kirban
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 29'
 @inote	salgues
 @v	kiri₈
 @v	la₁₀
@@ -31781,7 +31947,8 @@
 @v	šub₆
 @v	šud₄
 @v	šudum
-@v	šutum₃ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 14']
+@v	šutum₃
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 14'
 @inote	salgues
 @note	Tinney, Nippur Lament commentary to line 5.
 @v	te₆
@@ -31792,7 +31959,8 @@
 @v	umbisaŋ
 @v	uttu₂
 @v	uṭu₂
-@v	zadra [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 17']
+@v	zadra
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 17'
 @inote	salgues
 @v	zadri
 @v	zadru
@@ -32370,7 +32538,8 @@
 @utf8	𒋖𒄑𒌆
 @v	ešda₂
 @v	eštaₓ
-@v	i₉ [Ass 00523 = dcclt/signlists:P370411 o i 36]
+@v	i₉
+@ref	Ass 00523 = dcclt/signlists:P370411 o i 36
 @inote	salgues
 @form |ŠITA.GIŠ.NAM₂|
 @useq	x122D6.x12111.x12247
@@ -32780,7 +32949,8 @@
 @utf8	𒀯𒁇
 @note	SF 81 (ED Animals A). Order of signs is insignificant here.
 @v	suhub
-@v	šuhub [SF 81 = dcclt:P010677 o i 10, ab₂ 3×AN.BAR]
+@v	šuhub
+@ref	SF 81 = dcclt:P010677 o i 10, ab₂ 3×AN.BAR
 @@
 @form |BAR.3×AN|
 @useq	x12047.x1202F
@@ -32998,7 +33168,8 @@
 @end sign
 
 @sign |ŠU₂×(A.DIŠ)|
-@v	šuaₓ [Msk 731030 = dcclt:P271301 r i 17]
+@v	šuaₓ
+@ref	Msk 731030 = dcclt:P271301 r i 17
 @end sign
 
 @sign ŠU@180
@@ -33034,7 +33205,8 @@
 @v	subur
 @v	šah
 @v	šaha
-@v	šeh [EA 020 = amarna:P270976 o 69, ha-šeh]
+@v	šeh
+@ref	EA 020 = amarna:P270976 o 69, ha-šeh
 @v	ših
 @v	šubar
 @v	šubur
@@ -33299,7 +33471,8 @@
 @list	HZL090
 @list	SLLHA125a
 @inote	#old ubinigga
-@v	ubišaga [K 4386 = dcclt/nineveh:P365399 r ii 31]?
+@v	ubišaga
+@ref	K 4386 = dcclt/nineveh:P365399 r ii 31?
 @note	Presumably, this is an attempt to write an archaizing form of UMBISAG₂; see An = Anum 1, 158.
 @end sign
 
@@ -33312,7 +33485,8 @@
 @sign TAB@t
 @list	MZL593
 @v	min₈
-@v	tab₄ [Ass 00523 = dcclt/signlists:P370411 r 2 48]
+@v	tab₄
+@ref	Ass 00523 = dcclt/signlists:P370411 r 2 48
 @inote	salgues
 @end sign
 
@@ -33331,7 +33505,8 @@
 @list	RSP427
 @list	SLLHA126
 @v	da₆
-@v	daq₆ [Tiglath-pileser III 37 = RINAP/tp3:Q003450 14, u2-daq6-qi2-qu]
+@v	daq₆
+@ref	Tiglath-pileser III 37 = RINAP/tp3:Q003450 14, u2-daq6-qi2-qu
 @note	Postgate, Sumer 29 pp. 47-59 line 14
 @v	guruš₄
 @v	suₓ
@@ -33850,7 +34025,8 @@
 @utf8	𒋿
 @uage	5.0
 @list	MZL118
-@v	tanaₓ [Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu]
+@v	tanaₓ
+@ref	Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu
 @inote	dupfix MZL tana(KAL)
 @inote	%akk/n tibnu
 @note	The value tibnu is assigned to TI@t, but it is not impossible that it belongs to TI.
@@ -33904,9 +34080,11 @@
 @v	huduš
 @v	kuₓ
 @v	kurₓ
-@v	martu [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29]
+@v	martu
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29
 @inote	salgues
-@v	martum [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29]
+@v	martum
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 29
 @inote	salgues
 @v	ruₓ
 @inote	for ru₁₀ at Emar--graphic variant of TE@g?
@@ -33915,7 +34093,8 @@
 @v	tum₁₂
 @v	tur₅
 @v	ṭu₂
-@form KU₄ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 19]
+@form KU₄
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 19
 @v	namšeše
 @inote	salgues
 @@
@@ -34021,7 +34200,8 @@
 @v	duk₂
 @v	dukuₓ
 @v	raš₂
-@v	ta₉ [CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 48]
+@v	ta₉
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o i 48
 @inote	salgues
 @v	tu₁₂
 @v	tug
@@ -34767,7 +34947,8 @@
 @v	neš
 @v	nis
 @v	niš
-@v	niz [EA 013 = amarna:P271153 o 1, zi-niz-zu]
+@v	niz
+@ref	EA 013 = amarna:P271153 o 1, zi-niz-zu
 @v	puzur₂
 @v	šamaš₂
 @v	šar₄
@@ -35482,7 +35663,8 @@
 @form |UD.(GIŠ%GIŠ)@g.AN|
 @useq	x12313.X.x1202D
 @utf8	𒌓X𒀭
-@v	zimbir [ED Word List F = dcclt:Q000268 55]
+@v	zimbir
+@ref	ED Word List F = dcclt:Q000268 55
 @@
 @form |UD.GIŠ%GIŠ.NUN.KI|
 @useq	x12313.x12112.x12263.x121A0
@@ -36302,7 +36484,8 @@
 @list	ABZL252
 @list	HZL051
 @list	SLLHA575a
-@v	liliru [VAT 9541 = dcclt/signlists:P345960 ii 11']
+@v	liliru
+@ref	VAT 9541 = dcclt/signlists:P345960 ii 11'
 @inote	salgues
 @v	liri₈
 @v	liru₈
@@ -36379,7 +36562,8 @@
 @uage	5.0
 @list	MZL343
 @list	SLLHA204n
-@v	šuhuš₂ [VAT 9541 = dcclt/signlists:P345960 o ii 15']
+@v	šuhuš₂
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 15'
 @inote	salgues
 @end sign
 
@@ -36533,7 +36717,8 @@
 @v	šutul₅
 @v	šutun₅
 @v	tul₇
-@v	ṭul₄ [VAT 9541 = dcclt/signlists:P345960 ii 9']
+@v	ṭul₄
+@ref	VAT 9541 = dcclt/signlists:P345960 ii 9'
 @inote	salgues
 @end sign
 
@@ -37211,7 +37396,7 @@
 @list	U+12540
 @utf8	𒕀
 @uage	8.0
-@v	x₂₃ [OIP 099, 267 = cdli:P226011 o ix 5']
+@ref	OIP 099, 267 = cdli:P226011 o ix 5'
 @note	OIP 099, 268 o vii' 17; OIP 099, 259 o iii' 2
 @lit	OIP 099, p.55
 @end sign
@@ -37314,8 +37499,10 @@
 @v	mešₓ
 @v	mišₓ
 @v	ned
-@v	net [SpTu 2 13 = cams:P348618 o i 25', en-net]
-@v	neṭ [PBS 12, 06 = dcclt:P263623 o 20', i-te-neṭ-ṭi-ru]
+@v	net
+@ref	SpTu 2 13 = cams:P348618 o i 25', en-net
+@v	neṭ
+@ref	PBS 12, 06 = dcclt:P263623 o 20', i-te-neṭ-ṭi-ru
 @v	nid
 @v	nindaₓ
 @v	ninta
@@ -37531,7 +37718,8 @@
 @v	usₓ
 @lit	Krebernik OBO 160/1 277
 @inote	this is LAK672 without the sheshig
-@v	ušₓ [Ebla Sign List = dcclt:Q000038 61, u₃-šum₂]
+@v	ušₓ
+@ref	Ebla Sign List = dcclt:Q000038 61, u₃-šum₂
 @end sign
 
 @sign UTUKI
@@ -37623,7 +37811,8 @@
 @v	usu₃
 @inote	Attinger ~ uzu
 @v	uzu
-@form UZU@90 [OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7]
+@form UZU@90
+@ref	OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7
 @v	uzu@90
 @@
 @end sign
@@ -37748,7 +37937,8 @@
 @v	geštaeₓ
 @v	gištaʾe₂
 @v	gištaʾi₂
-@v	ŋeštae₂ [VAT 10259 =dcclt/signlists:P283541 o 7]
+@v	ŋeštae₂
+@ref	VAT 10259 =dcclt/signlists:P283541 o 7
 @inote	salgues
 @v	nira₂
 @end sign
@@ -38130,7 +38320,8 @@
 
 @sign |ZI%ZI|
 @inote	epsd2
-@v	sissigₓ [P478860 ii 4, kug-|ZI%ZI|]
+@v	sissigₓ
+@ref	P478860 ii 4, kug-|ZI%ZI|
 @inote	FLP Inanna Hymn, Sjoberg JCS
 @end sign
 
@@ -38194,7 +38385,8 @@
 @form |TUM.KAD₃|
 @useq	x12308.x12191
 @utf8	𒌈𒆑
-@v	haš₂ [VAT 9541 = dcclt/signlists:P345960 o ii 18']
+@v	haš₂
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 18'
 @inote	salgues
 @@
 @form |TUM.U.U.U|
@@ -40271,7 +40463,8 @@
 @list	SLLHA475
 @v	5(bur₃)
 @v	illil₂
-@v	kingusila₂ [Ass 00523 = dcclt/signlist:P370411 r i 6]
+@v	kingusila₂
+@ref	Ass 00523 = dcclt/signlist:P370411 r i 6
 @inote	salgues
 @v	kingusili₂
 @v	mullil
