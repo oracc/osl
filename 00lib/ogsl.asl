@@ -7778,11 +7778,10 @@
 @v	rina₂
 @v	sap₂
 @v	sigₓ
-@v	%akk ṣab
+@v	ṣab
 @v	%akk/n ṣābu
 @v	%elx bir₃
 @v	surₓ
-@v	ṣab
 @v	ṣap
 @v	ṣapa
 @v	tam₅
@@ -13462,7 +13461,8 @@
 @v	uhu
 @v	uman
 @v	umun₃
-@v	%akk upluₓ [Ea 05 = dcclt:Q000157 107, up-lu |HI×NUN| up-lu]
+@v	%akk upluₓ 
+@ref	Ea 05 = dcclt:Q000157 107, up-lu |HI×NUN| up-lu
 @form |HI.AŠ.RI|
 @useq	x1212D.x12038.x12291
 @utf8	𒄭𒀸𒊑
@@ -14075,8 +14075,10 @@
 @v	bat₅
 @v	damu₂
 @v	dusuₓ
-@v	%akk mahru
-@v	%akk panu
+@v	%akk mahruₓ
+@inote mahru was IGI and IGI.DU; making both mahruₓ ensures instances in the corpus will be checked
+@v	%akk panuₓ
+@inote panuₓ need checking
 @v	ge₈
 @v	gi₈
 @v	igaₓ
@@ -14175,7 +14177,7 @@
 @list	RSP073
 @v	ašarid
 @v	%akk ašaridu
-@v	%akk mahru
+@v	%akk mahruₓ
 @v	gešdu₄
 @v	geštu₄
 @v	igeštu
@@ -15620,7 +15622,8 @@
 @v	pum
 @v	puzur₅
 @v	tuₓ
-@v	%akk puzru
+@v	%akk puzruₓ
+@inote duplicate puzruₓ need checking
 @v	tugure
 @form |KA×GAN₂|
 @list	RSP206
@@ -15639,7 +15642,7 @@
 @sign |KA×GAN₂@t.ŠA|
 @useq	x12164.x122AD
 @utf8	𒅤𒊭
-@v	%akk puzru
+@v	%akk puzruₓ
 @v	buzur₄
 @v	puzur₄
 @form |KA×(GAN₂@t.ŠA)|
@@ -17113,7 +17116,8 @@
 @utf8	𒆜𒆸
 @list	MZL307
 @list	SLLHA166e
-@v	%akk šubtu
+@v-	%akk šubtu
+@inote šubtu is a value-conflict with šubtu₃
 @v	šubtu₃
 @v	šubtum₃
 @end sign
@@ -22673,7 +22677,6 @@
 @v	iliₓ
 @inote	based on gloss of nur-ili
 @v	%akk/n nūr-ili
-@v	%akk šarru
 @v	kaššeba?
 @v	kaššebi?
 @v	lillan
@@ -24316,7 +24319,7 @@
 @form |ZA.MUŠ₃@g.DI|
 @useq	x1235D.x1223D.x12072
 @utf8	𒍝𒈽𒁲
-@v	%akk namru
+@v	%akk namruₓ
 @v	amagi₄
 @v	halba₃
 @v	halbi₃
@@ -25369,6 +25372,15 @@
 @v	taq₃
 @v	ya₄
 @v	za₂
+@form |UD.NI|
+@useq	x12313.x1224C
+@utf8	𒌓𒉌
+@v	%akk abnu
+@v	atumₓ
+@v	naₓ
+@v	yaₓ
+@v	zaₓ
+@@
 @end sign
 
 @sign |NI.UD.EN|
@@ -28643,13 +28655,14 @@
 @list	LAK314
 @list	MZL187
 @list	SLLHA121_6
-@v	%akk/n muhhu
+@v	%akk/n muhhuₓ
+@inote muhhuₓ need checking
 @v	sagdu
 @v	saŋdu
 @form |SAG.DU|
 @useq	x12295.x1207A
 @utf8	𒊕𒁺
-@v	%akk/n muhhu
+@v	%akk/n muhhuₓ
 @@
 @end sign
 
@@ -28717,7 +28730,7 @@
 @inote	@sign	|SAG×DU₃|
 @v	muh₂
 @v	muhhumₓ
-@v	%akk/n muhhu
+@v	%akk/n muhhuₓ
 @form |SAG.NI|
 @useq	x12295.x1224C
 @utf8	𒊕𒉌
@@ -28754,7 +28767,7 @@
 @uage	5.0
 @list	MZL200
 @list	SLLHA120n
-@v	%akk/n muhhu
+@v	%akk/n muhhuₓ
 @v	hulum₂
 @end sign
 
@@ -28976,7 +28989,7 @@
 @v	kušu₄
 @v	lumašₓ
 @v	malakumₓ
-@v	%akk/n muhhu
+@v	%akk/n muhhuₓ
 @v	%akk/n ṣalmu
 @v	muh₄
 @v	sumur
@@ -35287,7 +35300,8 @@
 @sign |U₂.KUR.ZA.MUŠ₃@g.KI|
 @useq	x12311.x121B3.x1235D.x1223D.x121A0
 @utf8	𒌑𒆳𒍝𒈽𒆠
-@v	%akk/n namru
+@v	%akk/n namruₓ
+@inote namruₓ need checking
 @v	namri
 @form |KUR.MUŠ₃|
 @useq	x121B3.x12239
@@ -35833,16 +35847,6 @@
 @sign |UD.MI|
 @useq	x12313.x1222A
 @utf8	𒌓𒈪
-@end sign
-
-@sign |UD.NI|
-@useq	x12313.x1224C
-@utf8	𒌓𒉌
-@v	%akk/n abnu
-@v	atumₓ
-@v	naₓ
-@v	yaₓ
-@v	zaₓ
 @end sign
 
 @sign |UD.NUN|
@@ -38017,7 +38021,7 @@
 @sign |ZA.MUŠ₃@g.AB@g|
 @useq	x1235D.x1223D.x12015
 @utf8	𒍝𒈽𒀕
-@v	panu
+@v	panuₓ
 @v	sugal
 @v	unu₁₁
 @v	zabala
@@ -38111,7 +38115,8 @@
 @sign |ZAG.GA|
 @useq	x12360.x120B5
 @utf8	𒍠𒂵
-@v	%akk/n būdu
+@v-	%akk/n būdu
+@inote deprecated pending collation; typo for ZAG.HA??
 @end sign
 
 @sign |ZAG.HA|
