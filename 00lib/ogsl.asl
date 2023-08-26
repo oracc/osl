@@ -3151,6 +3151,7 @@
 @end sign
 
 @sign |AŠ&AŠ&AŠ|
+@aka 3(AŠ~a)
 @uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH16
 @list	U+1203C
 @utf8	𒀼
@@ -3160,7 +3161,6 @@
 @list	LAK133
 @list	MZL505
 @list	SLLHA325a
-@inote	@aka 3(AŠ~a)
 @v	3(aš@v)
 @v	3(aš@v@c)
 @v	eš₁₆
@@ -19294,10 +19294,10 @@
 @end sign
 
 @sign |LAGAB×(GUD&GUD).A|
+@aka |LAGAB×(GUD.GUD).A|
 @pname	|LAGAB×(GUD+GUD).A|
 @useq	x121C7.x12000
 @utf8	𒇇𒀀
-@inote	@aka |LAGAB×(GUD.GUD).A|
 @v	uʾa
 @v	uʾi
 @v	uʾu
@@ -38204,6 +38204,7 @@
 @v	kibₓ
 @@
 @form |TUM×(U.U.U)|
+@aka	|TUM×EŠ|
 @v	haš₂
 @v	zig
 @inote	dcclt Q000041
