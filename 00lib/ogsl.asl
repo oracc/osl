@@ -2671,7 +2671,7 @@
 @sign |AN.SAG@g|
 @useq	x1202D.x122A8
 @utf8	𒀭𒊨
-@inote	%akk ṣillu
+@v	%akk ṣillu
 @v	ṣil₃
 @end sign
 
@@ -2762,7 +2762,7 @@
 @list	SLLHA208
 @v	amaraₓ
 @v	anše
-@inote	%elx anše@d
+@v	%elx anše@d
 @v	anši
 @v	anšu
 @v	sumuganₓ
@@ -2923,7 +2923,7 @@
 @list	KWU090
 @list	MZL018
 @list	SLLHA050
-@inote	%akk wardu
+@v	%akk wardu
 @v	arad
 @v	arda
 @v	er₃
@@ -3262,7 +3262,7 @@
 @lit	M. Krebernik, OBO 160/1 277
 @v	as₂
 @v	asa₂
-@inote	%akk aś
+@v	%akk aś
 @v	aš₂
 @v	aša₂
 @v	aṣ₂
@@ -5209,7 +5209,7 @@
 @v	silima
 @v	sim₃
 @v	sisaₓ
-@inote	%akk śa₂
+@v	%akk śa₂
 @v	ša₁₈
 @inote	ša₁₈ not in MZL
 @v	šul₃
@@ -5809,7 +5809,7 @@
 @list	RSP372
 @list	RSP373
 @list	SLLHA201
-@inote	%akk išdu
+@v	%akk išdu
 @v	gim₅?
 @v	gir₆
 @v	giri₆
@@ -5864,8 +5864,8 @@
 @list	MZL352
 @list	RSP371
 @list	SLLHA202
-@inote	%akk/n ālik
-@inote	%akk/n lāsimu
+@v	%akk/n ālik
+@v	%akk/n lāsimu
 @v	barim
 @inote	Attinger
 @v	gim₄
@@ -5966,7 +5966,7 @@
 @v	dubu
 @v	dup
 @v	kešebₓ
-@inote	%akk leʾum
+@v	%akk leʾum
 @v	kišeb
 @v	kišib₃
 @v	mebulug₃
@@ -6772,7 +6772,7 @@
 @list	SLLHA324
 @v	ʾa₃
 @v	a₁₄
-@inote	%akk/n bītu
+@v	%akk/n bītu
 @v	aʾ₃
 @v	bed
 @v	bet
@@ -7778,9 +7778,9 @@
 @v	rina₂
 @v	sap₂
 @v	sigₓ
-@inote	%akk ṣab
-@inote	%akk/n ṣābu
-@inote	%elx bir₃
+@v	%akk ṣab
+@v	%akk/n ṣābu
+@v	%elx bir₃
 @v	surₓ
 @v	ṣab
 @v	ṣap
@@ -8289,7 +8289,7 @@
 @useq	x120A6.x1202D
 @utf8	𒂦𒀭
 @list	RSP287
-@inote	%akk/n dūru
+@v	%akk/n dūru
 @v	derₓ
 @@
 @end sign
@@ -9119,7 +9119,7 @@
 @list	MZL395
 @list	SLLHA242
 @v	etutum
-@inote	%akk eṭutu
+@v	%akk eṭutu
 @v	sabad₂
 @v	sad₃
 @v	tilhar
@@ -10254,7 +10254,7 @@
 @v	nirₓ
 @v	qal
 @v	rab₂
-@inote	%elx rap₂
+@v	%elx rap₂
 @end sign
 
 @sign |GAL.AN.ZU|
@@ -10531,7 +10531,7 @@
 @list	RSP031
 @list	RSP247
 @list	SLLHA105
-@inote	%akk eqlu
+@v	%akk eqlu
 @v	al₃?
 @v	alalₓ
 @v	aša₅
@@ -10956,7 +10956,7 @@
 @list	SLLHA210
 @v	dinₓ
 @v	geštin
-@inote	%elx geštin@d
+@v	%elx geštin@d
 @v	geština
 @v	ŋeštin
 @v	ŋeština
@@ -11651,7 +11651,7 @@
 @list	SLLHA296
 @v	bilgaₓ
 @inote	etcsri
-@inote	%akk/n iṣu
+@v	%akk/n iṣu
 @v	es
 @v	eš₁₉
 @v	eṣ
@@ -12178,7 +12178,7 @@
 @list	LAK610?
 @list	SLLHA296n2
 @v	adamen₃
-@inote	%akk puhrum
+@v	%akk puhrum
 @v	adamin₃
 @v	alal₃
 @v	an₂?
@@ -12315,7 +12315,7 @@
 @list	MZL176
 @list	RSP355
 @list	SLLHA106
-@inote	%akk/n kišādu
+@v	%akk/n kišādu
 @v	gu₂
 @v	gun₂
 @v	lil₆
@@ -12515,7 +12515,7 @@
 @list	MZL472
 @list	RSP187
 @list	SLLHA297
-@inote	%akk alpu
+@v	%akk alpu
 @v	alap
 @v	aštub
 @inote	Attinger ~ eštub
@@ -13462,7 +13462,7 @@
 @v	uhu
 @v	uman
 @v	umun₃
-@inote	%akk upluₓ [Ea 05 = dcclt:Q000157 107, up-lu |HI×NUN| up-lu]
+@v	%akk upluₓ [Ea 05 = dcclt:Q000157 107, up-lu |HI×NUN| up-lu]
 @form |HI.AŠ.RI|
 @useq	x1212D.x12038.x12291
 @utf8	𒄭𒀸𒊑
@@ -14075,8 +14075,8 @@
 @v	bat₅
 @v	damu₂
 @v	dusuₓ
-@inote	%akk mahru
-@inote	%akk panu
+@v	%akk mahru
+@v	%akk panu
 @v	ge₈
 @v	gi₈
 @v	igaₓ
@@ -14174,8 +14174,8 @@
 @utf8	𒅆𒁺
 @list	RSP073
 @v	ašarid
-@inote	%akk ašaridu
-@inote	%akk mahru
+@v	%akk ašaridu
+@v	%akk mahru
 @v	gešdu₄
 @v	geštu₄
 @v	igeštu
@@ -14388,7 +14388,7 @@
 @useq	x12146.x1222B
 @utf8	𒅆𒈫
 @v	ini₄
-@inote	%akk/n īnu{II}
+@v	%akk/n īnu{II}
 @end sign
 
 @sign |IGI.NAGAR|
@@ -15055,7 +15055,7 @@
 @v	ire₁₄
 @v	iri₁₄
 @v	tirₓ
-@inote	%akk erešu
+@v	%akk erešu
 @end sign
 
 @sign IŠ
@@ -15078,7 +15078,7 @@
 @v	is₂
 @v	isi
 @v	isiš
-@inote	%akk iś
+@v	%akk iś
 @v	iš
 @v	iši
 @v	iṣ₂
@@ -15281,7 +15281,7 @@
 @sign |KA.HI|
 @useq	x12157.x1212D
 @utf8	𒅗𒄭
-@inote	%akk/n ṭēmu
+@v	%akk/n ṭēmu
 @v	dema
 @v	demma
 @v	demmu
@@ -15620,7 +15620,7 @@
 @v	pum
 @v	puzur₅
 @v	tuₓ
-@inote	%akk puzru
+@v	%akk puzru
 @v	tugure
 @form |KA×GAN₂|
 @list	RSP206
@@ -15639,7 +15639,7 @@
 @sign |KA×GAN₂@t.ŠA|
 @useq	x12164.x122AD
 @utf8	𒅤𒊭
-@inote	%akk puzru
+@v	%akk puzru
 @v	buzur₄
 @v	puzur₄
 @form |KA×(GAN₂@t.ŠA)|
@@ -16912,8 +16912,8 @@
 @v	sa₁₄
 @v	sag₈
 @v	sagaₓ
-@inote	%akk dannu
-@inote	%akk eṭlu
+@v	%akk dannu
+@v	%akk eṭlu
 @v	seg₁₅
 @v	si₂₁
 @v	sig₁₅
@@ -17100,7 +17100,7 @@
 @v	alha
 @v	baliha
 @v	dalₓ
-@inote	%akk illatu
+@v	%akk illatu
 @v	ellat
 @v	ilba₂
 @v	ilha
@@ -17113,7 +17113,7 @@
 @utf8	𒆜𒆸
 @list	MZL307
 @list	SLLHA166e
-@inote	%akk šubtu
+@v	%akk šubtu
 @v	šubtu₃
 @v	šubtum₃
 @end sign
@@ -17245,8 +17245,8 @@
 @v	ki
 @v	ku₁₁
 @v	kungaₓ
-@inote	%akk erṣetu
-@inote	%akk qaqqaru
+@v	%akk erṣetu
+@v	%akk qaqqaru
 @v	qe₂
 @v	qi₂
 @v	sasₓ
@@ -17618,7 +17618,7 @@
 @sign |KI.SU.LU.EŠ₂.GAR|
 @useq	x121A0.x122E2.x121FB.x120A0.x120FB
 @utf8	𒆠𒋢𒇻𒂠𒃻
-@inote	%akk ummanu
+@v	%akk ummanu
 @v	ugnim
 @v	uŋnim
 @v	umman
@@ -18151,7 +18151,7 @@
 @v	midda
 @v	middu
 @v	mitₓ
-@inote	%akk miṭṭu
+@v	%akk miṭṭu
 @v	mitta
 @v	mittu
 @v	mitum
@@ -18552,7 +18552,7 @@
 @sign |KUR.MUŠ₃@g.ZA.KI|
 @useq	x121B3.x1223D.x1235D.x121A0
 @utf8	𒆳𒈽𒍝𒆠
-@inote	%akk namru
+@v	%akk namru
 @end sign
 
 @sign |KUR.SI.A.GA|
@@ -22672,8 +22672,8 @@
 @v	haniš₂
 @v	iliₓ
 @inote	based on gloss of nur-ili
-@inote	%akk/n nūr-ili
-@inote	%akk šarru
+@v	%akk/n nūr-ili
+@v	%akk šarru
 @v	kaššeba?
 @v	kaššebi?
 @v	lillan
@@ -23254,7 +23254,7 @@
 @v	1/2(diš)
 @v	ma₇
 @v	mas
-@inote	%akk maś
+@v	%akk maś
 @v	maš
 @v-	maša
 @v	maṣ
@@ -24316,7 +24316,7 @@
 @form |ZA.MUŠ₃@g.DI|
 @useq	x1235D.x1223D.x12072
 @utf8	𒍝𒈽𒁲
-@inote	%akk namru
+@v	%akk namru
 @v	amagi₄
 @v	halba₃
 @v	halbi₃
@@ -24910,7 +24910,7 @@
 @v	si₁₃
 @v	sim
 @v	sin₂
-@inote	%akk śim₂
+@v	%akk śim₂
 @v	šam₄
 @v	šen₃
 @ref	RA 33 104 24
@@ -25270,7 +25270,7 @@
 @v	šitaₓ
 @v	ṣal
 @v	tanaₓ
-@inote	%akk šamnu
+@v	%akk šamnu
 @v	tik₂
 @v	tiq₂
 @v	u₂₄
@@ -25315,7 +25315,7 @@
 @sign |NI.NI|
 @useq	x1224C.x1224C
 @utf8	𒉌𒉌
-@inote	%akk/n ilī
+@v	%akk/n ilī
 @end sign
 
 @sign |NI.TUK|
@@ -25354,8 +25354,8 @@
 @list	MZL385
 @list	RSP149
 @list	SLLHA229n
-@inote	%akk abnu
-@inote	%akk aban
+@v	%akk abnu
+@v	%akk aban
 @v	atumₓ
 @v	bar₄
 @v	dag₃
@@ -26630,7 +26630,7 @@
 @list	SLLHA087
 @v	agargara
 @v	aŋarŋara
-@inote	%akk nappilu
+@v	%akk nappilu
 @v	garₓ
 @inote	see a-garₓ(NUN@t)-garₓ(NUN@t){ku₆} in Home of the Fish
 @end sign
@@ -27344,7 +27344,7 @@
 @sign |PA.KAK|
 @useq	x1227A.x12195
 @utf8	𒉺𒆕
-@inote	%akk hutpu
+@v	%akk hutpu
 @v	hudbu
 @end sign
 
@@ -27363,7 +27363,7 @@
 @list	MZL468
 @list	RSP057
 @list	SLLHA295m
-@inote	%akk reʾu
+@v	%akk reʾu
 @v	nuska₂
 @v	nusku₂
 @v	nuška₂
@@ -27467,7 +27467,7 @@
 @sign |PA.SU|
 @useq	x1227A.x122E2
 @utf8	𒉺𒋢
-@inote	%akk tertu
+@v	%akk tertu
 @end sign
 
 @sign |PA.SUD.EL|
@@ -28510,7 +28510,7 @@
 @list	SLLHA104
 @v	gid₃?
 @v	sa
-@inote	%akk śa
+@v	%akk śa
 @v	ša₁₀
 @form SA@v
 @v	sa@v
@@ -28555,7 +28555,7 @@
 @v	saŋ
 @v	saŋa
 @v	saŋduₓ
-@inote	%akk/n rēšu
+@v	%akk/n rēšu
 @v	saŋŋar
 @v	saŋminₓ
 @v	sak
@@ -28643,13 +28643,13 @@
 @list	LAK314
 @list	MZL187
 @list	SLLHA121_6
-@inote	%akk/n muhhu
+@v	%akk/n muhhu
 @v	sagdu
 @v	saŋdu
 @form |SAG.DU|
 @useq	x12295.x1207A
 @utf8	𒊕𒁺
-@inote	%akk/n muhhu
+@v	%akk/n muhhu
 @@
 @end sign
 
@@ -28717,7 +28717,7 @@
 @inote	@sign	|SAG×DU₃|
 @v	muh₂
 @v	muhhumₓ
-@inote	%akk/n muhhu
+@v	%akk/n muhhu
 @form |SAG.NI|
 @useq	x12295.x1224C
 @utf8	𒊕𒉌
@@ -28754,7 +28754,7 @@
 @uage	5.0
 @list	MZL200
 @list	SLLHA120n
-@inote	%akk/n muhhu
+@v	%akk/n muhhu
 @v	hulum₂
 @end sign
 
@@ -28976,12 +28976,12 @@
 @v	kušu₄
 @v	lumašₓ
 @v	malakumₓ
-@inote	%akk/n muhhu
-@inote	%akk/n ṣalmu
+@v	%akk/n muhhu
+@v	%akk/n ṣalmu
 @v	muh₄
 @v	sumur
 @v	sur₂
-@inote	%akk śur₂
+@v	%akk śur₂
 @v	šur₂
 @v	ṣalam
 @v	ugu₅
@@ -29718,7 +29718,7 @@
 @v	se₁₅
 @v	si₁₅
 @v	sig₁₉
-@inote	%akk śar
+@v	%akk śar
 @v	ša₈
 @v	šakar
 @v	šar
@@ -29782,8 +29782,8 @@
 @v	seg₉
 @v	si
 @v	sig₉
-@inote	%akk śe
-@inote	%akk śi
+@v	%akk śe
+@v	%akk śi
 @v	še₂
 @v	ši₂
 @v	ṣi₃
@@ -29878,8 +29878,8 @@
 @v	sa₁₁
 @v	si₄
 @v	su₄
-@inote	%akk śi₂
-@inote	%akk śu₂
+@v	%akk śi₂
+@v	%akk śu₂
 @v	usan₄
 @end sign
 
@@ -29917,8 +29917,8 @@
 @v	siga
 @v	sik
 @v	siq
-@inote	%akk śe₂
-@inote	%akk śi₃
+@v	%akk śe₂
+@v	%akk śi₃
 @v	šag₆?
 @v	šak₆?
 @v	šeₓ
@@ -30184,7 +30184,7 @@
 @list	MZL099
 @list	RSP063
 @list	SLLHA062
-@inote	%akk/n qû
+@v	%akk/n qû
 @v	ga₅
 @v	ka₄
 @v	qa
@@ -30279,7 +30279,7 @@
 @v	su
 @v	sug₆
 @v	sum₃
-@inote	%akk śu
+@v	%akk śu
 @v	šu₁₁
 @end sign
 
@@ -30400,7 +30400,7 @@
 @v	su₃
 @v	sud
 @v	sug₄
-@inote	%akk śu₃
+@v	%akk śu₃
 @v	šir₈
 @v	šuₓ
 @v	šud
@@ -30531,7 +30531,7 @@
 @v	sum
 @v	sumu
 @v	sun₃
-@inote	%akk śum₂
+@v	%akk śum₂
 @v	še₁₉
 @v	šum₂
 @v	šumu₂
@@ -30597,7 +30597,7 @@
 @list	SLLHA101
 @v	sur
 @v	sura
-@inote	%akk śur
+@v	%akk śur
 @v	šur
 @v	ṭir₃
 @end sign
@@ -32091,8 +32091,8 @@
 @v	siris
 @v	siriš
 @v	su₂₀
-@inote	%akk śem
-@inote	%akk śim
+@v	%akk śem
+@v	%akk śim
 @v	šem
 @v	šembi₂
 @v	šembizi
@@ -33514,7 +33514,7 @@
 @v	subu
 @v	suhₓ
 @v	sum₆
-@inote	%akk śum
+@v	%akk śum
 @v	šan₂
 @v	šerid
 @v	šerim
@@ -34028,7 +34028,7 @@
 @v	tanaₓ
 @ref	Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu
 @inote	dupfix MZL tana(KAL)
-@inote	%akk/n tibnu
+@v	%akk/n tibnu
 @note	The value tibnu is assigned to TI@t, but it is not impossible that it belongs to TI.
 @end sign
 
@@ -35162,7 +35162,7 @@
 @v	mašammi
 @v	maššam
 @v	matšammi
-@inote	%akk/n mat_šammi
+@v	%akk/n mat_šammi
 @v	matšammuₓ
 @v	pu₁₁
 @v	sam
@@ -35287,7 +35287,7 @@
 @sign |U₂.KUR.ZA.MUŠ₃@g.KI|
 @useq	x12311.x121B3.x1235D.x1223D.x121A0
 @utf8	𒌑𒆳𒍝𒈽𒆠
-@inote	%akk/n namru
+@v	%akk/n namru
 @v	namri
 @form |KUR.MUŠ₃|
 @useq	x121B3.x12239
@@ -35459,9 +35459,9 @@
 @list	SLLHA381
 @v	a₁₂
 @v	ah₃
-@inote	%akk/n wāṣit
-@inote	%akk/n māṣit
-@inote	%akk/n ṣītu
+@v	%akk/n wāṣit
+@v	%akk/n māṣit
+@v	%akk/n ṣītu
 @v	al₅
 @v	amna
 @v	ara₇
@@ -35838,7 +35838,7 @@
 @sign |UD.NI|
 @useq	x12313.x1224C
 @utf8	𒌓𒉌
-@inote	%akk/n abnu
+@v	%akk/n abnu
 @v	atumₓ
 @v	naₓ
 @v	yaₓ
@@ -35985,7 +35985,7 @@
 @list	MZL020
 @list	SLLHA052
 @v	a₁₃
-@inote	%akk/n arhu
+@v	%akk/n arhu
 @v	du₁₆
 @v	id₈
 @v	iti
@@ -36110,8 +36110,8 @@
 @uage	5.0
 @list	ABZL442
 @list	MZL833
-@inote	%akk/n rābiṣu
-@inote	%akk/n šēdu
+@v	%akk/n rābiṣu
+@v	%akk/n šēdu
 @v	gidim₄
 @v	šedu₂
 @v	uduₓ
@@ -36393,7 +36393,7 @@
 @list	SLLHA575
 @v	a₈
 @v	aia₃
-@inote	%akk/n kalbu
+@v	%akk/n kalbu
 @v	aya₃
 @v	das
 @v	daš
@@ -37072,7 +37072,7 @@
 @v	banšurₓ
 @v	ilumer₂
 @v	išdayaₓ
-@inote	%akk/n nūr-ili
+@v	%akk/n nūr-ili
 @v	išhuru₂
 @v	silig
 @v	šilig
@@ -37518,7 +37518,7 @@
 @v	us₂
 @v	usa₂
 @v	usu₂
-@inote	%akk uś
+@v	%akk uś
 @v	uš
 @v	uṣ₂
 @v	uz₂
@@ -37780,7 +37780,7 @@
 @uage	5.0
 @list	MZL204
 @list	SLLHA122c
-@inote	%akk/n qablu
+@v	%akk/n qablu
 @v	gablumₓ
 @v	meₓ
 @end sign
@@ -38111,14 +38111,14 @@
 @sign |ZAG.GA|
 @useq	x12360.x120B5
 @utf8	𒍠𒂵
-@inote	%akk/n būdu
+@v	%akk/n būdu
 @end sign
 
 @sign |ZAG.HA|
 @useq	x12360.x12129
 @utf8	𒍠𒄩
 @list	RSP389
-@inote	%akk/n būdu
+@v	%akk/n būdu
 @v	enku
 @v	enkud
 @v	essad
