@@ -4953,7 +4953,7 @@
 @v	uburₓ
 @end sign
 
-@sign |DAG.KISIM₅×(U.MAŠ)|
+@sign |DAG.KISIM₅×(U₂.MAŠ)|
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS MASH
 @list	U+12373
 @utf8	𒍳
