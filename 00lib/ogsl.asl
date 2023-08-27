@@ -27,7 +27,7 @@
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
 
 @listdef MZL 1-907 113b 115a 115b 146" 146' 146'' 527'
-@lit	R. Borger, Mesopotamisches Zeichenlexikon (AOAT 305; Ugarit-Verlag 2003)
+@lit	R. Borger, Mesopotamisches Zeichenlexikon (AOAT 305; Ugarit-Verlag 2003; second edition 2010)
 @inote	TO-DO: rationalize primed numbers in OGSL
 
 @listdef REC 1-563

@@ -1,0 +1,28 @@
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>Signlists</esp:name>
+  <esp:title>Signlists</esp:title>
+  <html>
+    <head/>
+    <body>
+
+      <p>OGSL references the following lists, with Borger, MZL 2nd edition being the default authority for values.</p>
+      
+<ul>
+<li>ABZ = R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)</li>
+<li>ABZL = C. Mittermayer, Altbabylonische Zeichenliste der sumerisch-literarischen Texte. (Fribourg, 2006).</li>
+<li>BAU = E. Burrows, Archaic Texts (UET 2; London 1935)</li>
+<li>ELLES = P. Mander, "Appendix E. Lista dei Segni dei testi lessicali di Ebla". Pp. 285-382 in G. Pettinato, Testi Lessicali Monolingui della Biblioteca L. 2769 (MEE 3; Napoli 1981)</li>
+<li>HZL = C. Ruster and E. Neu, Hethitisches Zeichenlexikon (Harrassowitz Verlag 1989)</li>
+<li>KWU = N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)</li>
+<li>LAK = A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)</li>
+<li>MZL = R. Borger, Mesopotamisches Zeichenlexikon (AOAT 305; Ugarit-Verlag 2003; second edition 2010)</li>
+<li>REC = F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme (Paris 1898)</li>
+<li>RSP = Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)</li>
+<li>SLLHA = A. Deimel, Šumerisches Lexikon [SL] = R. Labat, Manuel d'épigraphie akkadienne (6th ed. Paris 1988) [L] = F. Ellermeier and M. Studt, Handbuch Assur [HA; via <esp:link url="https://en.wikipedia.org/wiki/List_of_cuneiform_signs">https://en.wikipedia.org/wiki/List_of_cuneiform_signs</esp:link>]</li>
+<li>U+ = The Unicode Standard, v. 15 (http://unicode.org)</li>
+<li>ZATU = M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)</li>
+</ul>
+
+    </body>
+  </html>
+</esp:page>
