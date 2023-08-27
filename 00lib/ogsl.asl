@@ -1820,6 +1820,8 @@
 @compoundonly	|AB₂×(U.U.U)|
 @inote	added during ogsl upgrade
 
+@compoundonly	|AB₂×X|
+
 @sign AB@g
 @list	ABZL129
 @list	BAU334
@@ -3315,21 +3317,6 @@
 @useq	x1203E.X
 @utf8	𒀾X
 @v	bania
-@end sign
-
-@sign AŠ₃
-@uname	CUNEIFORM NUMERIC SIGN SIX DISH
-@list	U+1240B
-@utf8	𒐋
-@uage	5.0
-@v	iₓ
-@end sign
-
-@sign |AŠ₃+DIŠ|
-@inote	addx
-@useq	x1240B.x12079
-@utf8	𒐋𒁹
-@v	iminₓ
 @end sign
 
 @compoundonly	AŠ@180
@@ -8924,10 +8911,7 @@
 @list	ELLES347
 @list	LAK695
 @list	ZATU174
-@uname	CUNEIFORM SIGN GA2 TIMES HA PLUS A
-@list	U+124BE
-@utf8	𒒾
-@uage	8.0
+@inote ELLES347 and ZATU174 need confirming as |GA₂×(HA.HA)|; LAK695 copy is def ×(HA.HA) and refs 8570,1
 @@
 @form |LAGAB×HA|
 @list	LAK784a
@@ -13939,13 +13923,6 @@
 @v	arinaₓ
 @end sign
 
-@sign IA₂
-@uname	CUNEIFORM NUMERIC SIGN IA2
-@list	U+1240A
-@utf8	𒐊
-@uage	5.0
-@end sign
-
 @sign IB
 @list	ABZL394
 @list	BAU260
@@ -15486,13 +15463,6 @@
 @v	ibira₂
 @end sign
 
-@sign |KA×AŠ₃|
-@uname	CUNEIFORM SIGN KA TIMES ASH3
-@list	U+1237F
-@utf8	𒍿
-@uage	7.0
-@end sign
-
 @sign |KA×BAD|
 @list	ABZL314
 @list	KWU416
@@ -15560,8 +15530,13 @@
 @end sign
 
 @sign |KA×6(DIŠ)|
+@aka |KA×AŠ₃|
 @list	HZL150
 @list	MZL067
+@uname	CUNEIFORM SIGN KA TIMES ASH3
+@list	U+1237F
+@utf8	𒍿
+@uage	7.0
 @end sign
 
 @sign |KA×DU|
@@ -23920,10 +23895,6 @@
 @sign MURUB₄
 @list	LAK157
 @note	MURUB₄(LAK157) merges with NISAG(LAK159)
-@uname	CUNEIFORM SIGN MURUB₄
-@list	U+12260
-@utf8	𒉠
-@uage	5.0
 @v	mur₂
 @v	muri
 @v	muru₂
@@ -26974,10 +26945,8 @@
 @list	HZL328
 @list	MZL614
 @list	SLLHA394
-@uname	CUNEIFORM SIGN NUNUZ
-@list	U+1226D
-@utf8	𒉭
-@uage	5.0
+@useq	x1226D.X
+@utf8	𒉭X
 @v	huburₓ
 @v	mudₓ
 @v	xdiₓ
@@ -30435,10 +30404,8 @@
 @list	ABZL305
 @list	HZL213
 @list	SLLHA007v
-@uname	CUNEIFORM SIGN SU
-@list	U+122E2
-@utf8	𒋢
-@uage	5.0
+@useq	x122E2.X
+@utf8	𒋢X
 @v	sudₓ
 @v	šuruppakₓ
 @end sign
@@ -35118,7 +35085,8 @@
 @@
 @end sign
 
-@sign |U.U.U.AŠ₃|
+@sign |U.U.U.6(DIŠ)|
+@aka |U.U.U.AŠ₃|
 @useq	x1230D.x1240B
 @utf8	𒌍𒐋
 @v	bangašₓ
@@ -39321,6 +39289,7 @@
 @end sign
 
 @sign 5(DIŠ)
+@aka IA₂
 @list	ABZL476
 @list	HZL371
 @list	MZL861
@@ -39338,6 +39307,7 @@
 @end sign
 
 @sign 6(DIŠ)
+@aka AŠ₃
 @list	ABZL477
 @list	HZL372
 @list	MZL862
@@ -39350,6 +39320,7 @@
 @v	aša₃
 @v	ašša₃
 @v	dešaₓ
+@v	iₓ
 @v	6(diš)
 @form 6(DIŠ@c)
 @v	6(diš@c)
@@ -39385,14 +39356,15 @@
 @end sign
 
 @sign 7(DIŠ)~b
+@aka |AŠ₃+DIŠ|
 @uname	CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN B
 @list	U+12443
 @utf8	𒑃
 @uage	5.0
 @v	7(diš)@v~b
+@v	iminₓ
 @form 7(DIŠ@c)@v~b
 @v	7(diš@c)@v~b
-@v	iminₓ
 @@
 @end sign
 
