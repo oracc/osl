@@ -8924,10 +8924,6 @@
 @list	ELLES347
 @list	LAK695
 @list	ZATU174
-@uname	CUNEIFORM SIGN GA2 TIMES HA PLUS A
-@list	U+124BE
-@utf8	𒒾
-@uage	8.0
 @@
 @form |LAGAB×HA|
 @list	LAK784a
