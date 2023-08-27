@@ -2030,13 +2030,6 @@
 @inote	collate this--does it really exist?
 @end sign
 
-@sign |AK×(ŠITA.GIŠ)|
-@aka	|AK×ŠITA₂|
-@inote	dcclt/signlists
-@v	me₁₁
-@inote	me₁₁ as @form under |AK×ERIN₂|
-@end sign
-
 @sign AL
 @list	ABZL108
 @list	BAU310
@@ -21427,10 +21420,6 @@
 @uage	8.0
 @end sign
 
-@sign |LAK617×DUN₃@g@g|
-@list	BAU303
-@end sign
-
 @sign |LAK617×KU₃|
 @list	LAK620
 @uname	CUNEIFORM SIGN LAK617 TIMES KU3
@@ -35184,10 +35173,6 @@
 
 @sign- |U&U.U&U.U|
 @inote	moved to sign 5(U)
-@uname	CUNEIFORM NUMERIC SIGN FIVE U
-@list	U+12410
-@utf8	𒐐
-@uage	5.0
 @end sign
 
 @sign |U&U.U@v&U@v|
@@ -40523,6 +40508,7 @@
 @end sign
 
 @sign 5(U)
+@aka	|U&U.U&U.U|
 @list	ABZL376
 @list	MZL714
 @list	SLLHA475
