@@ -617,7 +617,7 @@
 @utf8	𒀀𒇉𒋙𒀀
 @@
 @form |A.LAGAB×HAL.X|
-@useq	x12000.x121C9.X
+@useq	x12000.x121C9.O
 @utf8	𒀀𒇉X
 @v	azadₓ
 @@
@@ -3596,12 +3596,12 @@
 @end sign
 
 @sign |BAD.X|
-@useq	x12041.X
+@useq	x12041.O
 @utf8	𒁁X
 @v	agaš
 @form |BAD&BAD.X|
 @inote	dcclt !sg
-@useq	X.X
+@useq	X.O
 @utf8	XX
 @@
 @end sign
@@ -5226,7 +5226,7 @@
 @end sign
 
 @sign |DI.X|
-@useq	x12072.X
+@useq	x12072.O
 @utf8	𒁲X
 @v	guruštiₓ
 @end sign
@@ -7309,7 +7309,7 @@
 
 @sign |EN.DAG.NUN.X|
 @inote	epsd2
-@useq	x12097.x12056.x12263.X
+@useq	x12097.x12056.x12263.O
 @utf8	𒂗𒁖𒉣X
 @v	enkumₓ
 @end sign
@@ -7980,7 +7980,6 @@
 @utf8	𒂠𒋤𒌓𒉣𒂠𒌅
 @@
 @form |EŠ₂.TU.BU|
-@aka	|ŠE₃.TU.BU|
 @aka	|ŠE₃.TU.BU|
 @useq	x120A0.x12305.x1204D
 @utf8	𒂠𒌅𒁍
@@ -9065,7 +9064,7 @@
 @end sign
 
 @sign |GA₂×AN.X|
-@useq	x120BC.X
+@useq	x120BC.O
 @utf8	𒂼X
 @v	kaxₓ
 @end sign
@@ -16517,7 +16516,7 @@
 @v	širi
 @v	zukuraₓ
 @form |KA.X|
-@useq	x12157.X
+@useq	x12157.O
 @utf8	𒅗X
 @v	zubₓ
 @inote	dcclt !sg
@@ -20524,7 +20523,7 @@
 
 @sign |LAL₂.X|
 @inote	For validating sign-lists
-@useq	x121F3.X
+@useq	x121F3.O
 @utf8	𒇳X
 @v	laʾuₓ
 @end sign
@@ -23408,7 +23407,7 @@
 @end sign
 
 @sign |MAŠ.X|
-@useq	x12226.X
+@useq	x12226.O
 @utf8	𒈦X
 @v	emaš
 @v	eriₓ
@@ -24735,7 +24734,7 @@
 @end sign
 
 @sign |NA₂.X|
-@useq	x1223F.X
+@useq	x1223F.O
 @utf8	𒈿X
 @v	ni-ir
 @end sign
@@ -26325,12 +26324,21 @@
 @utf8	𒎓
 @uage	7.0
 @form NU₁₁@t
+@inote formerly ŠIR@t
+@list	ABZL464
+@list	MZL116
+@list	SLLHA071n
+@uname	CUNEIFORM SIGN NU11 TENU
+@list	U+122D4
+@utf8	𒋔
+@uage	5.0
+@unote	Formerly CUNEIFORM SIGN SHIR TENU
 @@
 @end sign
 
 @sign |NU₁₁@t.SILA₃|
-@useq	X.x122E1
-@utf8	X𒋡
+@useq	x122D4.x122E1
+@utf8	𒋔𒋡
 @v	ŋešniₓ
 @end sign
 
@@ -29478,7 +29486,7 @@
 @utf8	𒎏𒅊𒉣𒈨𒂬
 @@
 @form |SAL.TUG₂.ME.DAG.X|
-@useq	x1238F.x12228.x12056.X
+@useq	x1238F.x12228.x12056.O
 @utf8	𒎏𒈨𒁖X
 @@
 @form |SAL.TUG₂.PAP.IGI@g.ME.EZEN×KASKAL|
@@ -29633,7 +29641,7 @@
 
 @sign |SAL.X|
 @inote	dcclt !sg
-@useq	x122A9.X
+@useq	x122A9.O
 @utf8	𒊩X
 @v	emeₓ
 @end sign
@@ -29881,7 +29889,7 @@
 
 @sign |SI.A.GAR.X|
 @inote	ed lu d; GAR could be PAD looking at CDLI photo; X maybe MA₂-gunu???
-@useq	x122DB.x12000.x120FB.X
+@useq	x122DB.x12000.x120FB.O
 @utf8	𒋛𒀀𒃻X
 @v	addirₓ
 @end sign
@@ -31238,7 +31246,6 @@
 @@
 @form |EŠ₂.TU.BU|
 @aka	|ŠE₃.TU.BU|
-@aka	|ŠE₃.TU.BU|
 @useq	x120A0.x12305.x1204D
 @utf8	𒂠𒌅𒁍
 @@
@@ -32509,17 +32516,6 @@
 @useq	x122D3.x12313
 @utf8	𒋓𒌓
 @v	buₓ
-@end sign
-
-@sign ŠIR@t
-@list	ABZL464
-@list	MZL116
-@list	SLLHA071n
-@inote	UNICODE: to be replaced by NU₁₁@t and NU₁₁@90
-@uname	CUNEIFORM SIGN SHIR TENU
-@list	U+122D4
-@utf8	𒋔
-@uage	5.0
 @end sign
 
 @sign- |ŠIR@t.SILA₃|
