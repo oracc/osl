@@ -8,4 +8,5 @@
   </struct:page>
   <struct:page file="newval.xml" id="newval" type="page"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
+  <struct:page file="u-data.xml" id="udata" type="page"/>
 </struct:page>

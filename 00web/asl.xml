@@ -111,10 +111,10 @@ form.</p>
 <p>Several types of note are supported in the notes block:</p>
 
 <dl>
-  <dt>@note</dt><dd>A note which is included in print/web versions of the signlist</dd>
-  <dt>@inote</dt><dd>An internal note which is not included in print/web versions</dd>
-  <dt>@lit</dt><dd>A note which is a bibliographical reference to a work or discussion</dd>
-  <dt>@ref</dt><dd>A note which is a reference to an occurence in the text-corpus</dd>
+  <dt>@note</dt><dd><p>A note which is included in print/web versions of the signlist</p></dd>
+  <dt>@inote</dt><dd><p>An internal note which is not included in print/web versions</p></dd>
+  <dt>@lit</dt><dd><p>A note which is a bibliographical reference to a work or discussion</p></dd>
+  <dt>@ref</dt><dd><p>A note which is a reference to an occurence in the text-corpus</p></dd>
 </dl>
 
 <p>The @note, @inote, and @lit and ref tags may be formatted over more
@@ -321,48 +321,57 @@ versions</esp:link>). The following tags are provided:</p>
 <h4>For encoded signs</h4>
 
 <dl>
-  <dt>@uname</dt><dd>The standard Unicode name for a character</dd>
-  <dt>@list U+XXXXX</dt><dd>The codepoint, e.g, @list U+12000</dd>
-  <dt>@uage</dt><dd>The Unicode version the character was added (from UCD DerivedAge.txt)</dd>
+  <dt>@uname</dt><dd><p>The standard Unicode name for a character</p></dd>
+  <dt>@list U+XXXXX</dt><dd><p>The codepoint, e.g, @list U+12000</p></dd>
+  <dt>@uage</dt><dd><p>The Unicode version the character was added (from UCD DerivedAge.txt)</p></dd>
 </dl>
 
 <h4>For unencoded signs</h4>
 
 <dl>
-  <dt>@uage</dt><dd>Either '0' meaning "should not be encoded"; 1
+  <dt>@uage</dt><dd><p>Either '0' meaning "should not be encoded"; 1
   meaning "included in a forthcoming proposal";
   or '9' meaning "possibly should be encoded"
   (this does not mean that the sign will
-  necessarily be encoded).</dd>
-  <dt>@upua</dt><dd>A hexadecimal code in a Private Use Area</dd>
+  necessarily be encoded).</p></dd>
+  <dt>@upua</dt><dd><p>A hexadecimal code in a Private Use Area</p></dd>
 </dl>
 
 <h4>For sign sequences</h4>
 
 <dl>
-  <dt>@useq</dt><dd>A sequence of hexadecimal numbers of the form
+  <dt>@useq</dt><dd><p>A sequence of hexadecimal numbers of the form
   xXXXXX, joined with dots, giving the codepoints that make up a
-  compound sign, e.g.:
+  compound sign, e.g.:</p>
   <pre>
     @sign |A.A|
-    @useq	x12000.x12000</pre></dd>
+    @useq x12000.x12000</pre>
+  
+  <p>Two special conventions
+    are used.  If the sign-name contains an 'X' component, the useq
+    has an uppercase letter O (oh) in the corresponding location. If a
+    component has no encoding, the useq has an uppercase letter X in
+    the corresponding location.</p>
+</dd>
 </dl>
 
 <h4>For all signs</h4>
 
 <dl>
-  <dt>@utf8</dt><dd>The UTF-8 encoded version of @list U+, or @useq,
-  @upua</dd> <dt>@unote</dt><dd>A note related to Unicode
+  <dt>@utf8</dt><dd><p>The UTF-8 encoded version of @list U+, or @useq,
+  @upua</p></dd>
+  <dt>@unote</dt><dd><p>A note related to Unicode
   cuneiform. These are internal working notes which are not printed.
   Notes intended for printing can be given in the notes block for the
-  sign or form using @note.</dd>
+  sign or form using @note.</p></dd>
 </dl>
 
 <p>Unicode blocks may only occur once for each codepoint.  For a sign,
 the Unicode block should occur with the sign; for a form which is not
-also a sign, the Unicode block may occur with the form. This
-constraint is checked by sx which warns about multiple instances of
-the same Unicode data.</p>
+also a sign, the Unicode block occurs with the form. This constraint
+is checked by sx which warns about multiple instances of the same
+Unicode data and about Unicode data attached to a form which also
+exists as a sign.</p>
 
 <esp:sh>Minor Features</esp:sh>
 
