@@ -2312,9 +2312,8 @@
 @v	tiškurₓ
 @end sign
 
-@sign AMAR@t
-@note	In |AB₂×AMAR@t| in P020344 = VS 27, 28.
-@end sign
+@compoundonly AMAR@t
+@inote In |AB₂×AMAR@t| in P020344 = VS 27, 28.
 
 @sign |3×AN|
 @list	BAU008
@@ -4350,10 +4349,10 @@
 @end sign
 
 @sign BU@90
-@note	in |BU@90.BU.NA₂| and |BU@90.BU.UN|
+@inote	in |BU@90.BU.NA₂| and |BU@90.BU.UN| and others
 @end sign
 
-@sign BU@t
+@sign- BU@t
 @note	in |GIŠ.TUG₂.PI.BU@t.NUN|, which is deprecated.
 @end sign
 
@@ -5145,6 +5144,10 @@
 @sign DE₂
 @list	KWU309
 @list	SLLHA338n1
+@umap |UMUM×KASKAL|
+@unote The reference glyph for DE₂ should be UMUM@s (UMUM SHESHIG); 
+       ideally that should be encoded as its own codepoint but for 
+       now we map to |UMUM×KASKAL|.
 @v	da₉
 @v	de₂
 @v	di₈
@@ -5165,9 +5168,8 @@
 @@
 @form |UMUM×KASKAL|
 @list	LAK156b
+@list	KWU309b
 @list	RSP361bis
-@inote	(sjt) There is a problem with the Unicode implementation of DE₂ because that should probably be UMUM-sheshig, with an earlier form UMUM×KASKAL.
-@inote	(sjt) The present solution of (re-)creating a DE₂ sign is not perfect but we need something like this solution for epsd2 de₂ bases
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @list	U+12324
 @ucun	𒌤
@@ -7983,7 +7985,6 @@
 @ucun	𒂠𒋤𒌓𒉣𒂠𒌅
 @@
 @form |EŠ₂.TU.BU|
-@aka	|ŠE₃.TU.BU|
 @aka	|ŠE₃.TU.BU|
 @useq	x120A0.x12305.x1204D
 @ucun	𒂠𒌅𒁍
@@ -26132,26 +26133,32 @@
 
 @sign DN
 @fake	1
+@uage	0
 @end sign
 
 @sign GN
 @fake	1
+@uage	0
 @end sign
 
 @sign LN
 @fake	1
+@uage	0
 @end sign
 
 @sign PN
 @fake	1
+@uage	0
 @end sign
 
 @sign RN
 @fake	1
+@uage	0
 @end sign
 
 @sign WN
 @fake	1
+@uage	0
 @end sign
 
 @sign NU
@@ -27030,18 +27037,22 @@
 @inote	added during ogsl upgrade
 
 @sign O
+@useq	xA0
+@ucun	 
+@uage	0
 @v	o
 @end sign
 
 @sign ON
 @fake	1
+@uage	0
 @end sign
 
 @sign OO
 @useq	xA0.xA0
+@uage	0
 @ucun	  
 @v	oo
-@inote	how should this be rendered by cuneify?
 @end sign
 
 @sign P₁
@@ -31253,7 +31264,6 @@
 @@
 @form |EŠ₂.TU.BU|
 @aka	|ŠE₃.TU.BU|
-@aka	|ŠE₃.TU.BU|
 @useq	x120A0.x12305.x1204D
 @ucun	𒂠𒌅𒁍
 @@
@@ -33796,10 +33806,7 @@
 @v	tatge
 @end sign
 
-@sign TAK₄@f
-@fake	1
-@inote	temporary entry to work around ATF/GDL parser bug which complains about |SAG×TAK₄@f|
-@end sign
+@compoundonly TAK₄@f
 
 @sign TAR
 @list	ABZL231
