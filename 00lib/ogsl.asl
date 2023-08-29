@@ -1679,6 +1679,7 @@
 @end sign
 
 @sign |AB₂×A|
+@list MZL680
 @uname	CUNEIFORM SIGN AB2 TIMES A
 @list	U+12371
 @ucun	𒍱
@@ -2280,6 +2281,8 @@
 @end sign
 
 @sign |AMAR×KU₃|
+@list HZL276
+@list MZL697
 @uname	CUNEIFORM SIGN AMAR TIMES KUG
 @list	U+12372
 @ucun	𒍲
@@ -4939,6 +4942,7 @@
 @end sign
 
 @sign |DAG.KISIM₅×(U₂.MAŠ)|
+@list MZL454
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS MASH
 @list	U+12373
 @ucun	𒍳
@@ -5621,6 +5625,7 @@
 @inote	added during ogsl upgrade
 
 @sign |DIŠ+ŠU|
+@list MZL811
 @uname	CUNEIFORM SIGN DISH PLUS SHU
 @list	U+12375
 @ucun	𒍵
@@ -19327,6 +19332,7 @@
 @end sign
 
 @sign |LAGAB×GI|
+@list MZL763
 @uname	CUNEIFORM SIGN LAGAB TIMES GI
 @list	U+12388
 @ucun	𒎈
@@ -27942,7 +27948,7 @@
 @list	ABZL418
 @list	HZL003
 @list	LAK245
-@list	MZL741
+@list	MZL882
 @list	SLLHA461x
 @uname	CUNEIFORM SIGN PESH2
 @list	U+1227E
@@ -27974,6 +27980,7 @@
 @end sign
 
 @sign PEŠ₂~v
+@list MZL741
 @inote	PEŠ₂* is not a valid OGSL sign name
 @uname	CUNEIFORM SIGN PESH2 ASTERISK
 @list	U+12394
@@ -28782,6 +28789,7 @@
 @end sign
 
 @sign |SAG×IGI@g|
+@list MZL194
 @uname	CUNEIFORM SIGN SAG TIMES IGI GUNU
 @list	U+12396
 @ucun	𒎖
@@ -36268,6 +36276,7 @@
 
 @sign |UM×ME|
 @inote	gvl unknown compound
+@list MZL488
 @uname	CUNEIFORM SIGN UM TIMES ME
 @list	U+12398
 @ucun	𒎘
