@@ -71,11 +71,14 @@ ASL.</p>
 	lit		= @lit	 LONG-TEXT
 	note		= @note  LONG-TEXT
 	ref		= @ref	 REFERENCE
-	unicode		= uname? , (ulist | useq | upua)? , utf8 , uage? (unote | inote)*
+	unicode		= uname? , (ulist | useq | upua)? , ucun? ,
+			  umap? , uage? (unote | inote)*
 	uname		= @uname UNICODE-NAME
 	ulist		= @list U+CODEPOINT
 	useq		= @useq DOTTED-HEX-SEQUENCE
 	upua		= @upua HEX-CODE
+	ucun		= @ucun CUNEIFORM-IN-UTF-8
+	umap		= @umap SIGN-NAME
 	uage		= '0' | '5.0' | '7.0' | '8.0' | 9
 	unote		= @unote LONG-TEXT
 	value		= (v , notes?)*
@@ -314,9 +317,9 @@ ensuring complete coverage of a given list.</p>
 <p>The Unicode block may occur as part of a @sign or @form and
 includes information which is for the most part derived from the
 Unicode Character Database (UCD; <esp:link
-url="https://www.unicode.org/Public/15.0.0/ucd/">from
-https://www.unicode.org/Public/15.0.0/ucd/ or later
-versions</esp:link>). The following tags are provided:</p>
+url="https://www.unicode.org/Public/UCD/latest/ucd/">from
+https://www.unicode.org/Public/UCD/latest/ucd/</esp:link>). The
+following tags are provided:</p>
 
 <h4>For encoded signs</h4>
 
@@ -329,6 +332,10 @@ versions</esp:link>). The following tags are provided:</p>
 <h4>For unencoded signs</h4>
 
 <dl>
+  <dt>@umap</dt><dd><p>Maps the current sign to the given SIGN-NAME
+  for locating Unicode information to allow renderers an interim means
+  of rendering unencoded signs.  Should be accompanied by an @unote
+  explaining the reason the @umap is needed.</p></dd>  
   <dt>@uage</dt><dd><p>Either '0' meaning "should not be encoded"; 1
   meaning "included in a forthcoming proposal";
   or '9' meaning "possibly should be encoded"
@@ -358,8 +365,8 @@ versions</esp:link>). The following tags are provided:</p>
 <h4>For all signs</h4>
 
 <dl>
-  <dt>@utf8</dt><dd><p>The UTF-8 encoded version of @list U+, or @useq,
-  @upua</p></dd>
+  <dt>@ucun</dt><dd><p>The cuneiform version of @list U+, or @useq,
+  @upua, encoded in the source .asl file as UTF-8</p></dd>
   <dt>@unote</dt><dd><p>A note related to Unicode
   cuneiform. These are internal working notes which are not printed.
   Notes intended for printing can be given in the notes block for the

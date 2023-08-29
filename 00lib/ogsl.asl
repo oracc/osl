@@ -76,7 +76,7 @@
 	https://en.wikipedia.org/wiki/List_of_cuneiform_signs]
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-@lit	The Unicode Standard, v. 15 (http://unicode.org)
+@lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
 @lit	M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)
