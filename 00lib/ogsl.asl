@@ -1679,6 +1679,7 @@
 @end sign
 
 @sign |AB₂×A|
+@list HZL284
 @list MZL680
 @uname	CUNEIFORM SIGN AB2 TIMES A
 @list	U+12371
