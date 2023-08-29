@@ -82,6 +82,9 @@
 @lit	M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)
 @inote	TO-DO: check numbers against volume
 
+@sysdef Attinger
+@inote	TO-DO: add @lit to published version and check for completeness
+
 @sign A
 @list	BAU416
 @list	ELLES393
@@ -26213,8 +26216,8 @@
 @v	gešnu?
 @v	gišnu?
 @v	ŋešnu
-@ref	Ebla Sign List = Q000038 79, NU₁₁ mu-ša-na-um 
 @inote	Attinger ŋešnu
+@ref	Ebla Sign List = Q000038 79, NU₁₁ mu-ša-na-um 
 @v	ŋizzalₓ
 @v	mušnaₓ
 @v	nu₁₁
@@ -30532,8 +30535,8 @@
 @v	šitan
 @inote	Attinger ~ šita₃
 @v	šitenₓ
-@inote	dupfix MZL šiten(|KI.DU.KAK|)
 @inote	Attinger ~ šita₃
+@inote	dupfix MZL šiten(|KI.DU.KAK|)
 @v	šušu
 @v	zusu
 @end sign
