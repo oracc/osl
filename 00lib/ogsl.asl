@@ -26,9 +26,8 @@
 	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a 791a
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
 
-@listdef MZL 1-907 113b 115a 115b 146" 146' 146'' 527'
+@listdef MZL 1-907 113b 115a 115b 146' 146" 527'
 @lit	R. Borger, Mesopotamisches Zeichenlexikon (AOAT 305; Ugarit-Verlag 2003; second edition 2010)
-@inote	TO-DO: rationalize primed numbers in OGSL
 
 @listdef REC 1-563
 @lit	F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme (Paris 1898)
@@ -3835,7 +3834,6 @@
 @end sign
 
 @sign |BAR.AN|
-@list	MZL122
 @list	MZL123
 @list	SLLHA074_182
 @useq	x12047.x1202D
@@ -26442,7 +26440,6 @@
 
 @sign |NUN.LAGAR×GAR|
 @list	MZL146"
-@list	MZL146''
 @list	SLLHA087cn
 @inote	CHECK VAT 09451 has |NUN.LA.GA₂×GAR|
 @uname	CUNEIFORM SIGN NUN LAGAR TIMES GAR
@@ -33058,7 +33055,6 @@
 @v	še₉
 @v-	šuhub
 @form |BAR.AN|
-@list	MZL122
 @list	MZL123
 @list	SLLHA074_182
 @useq	x12047.x1202D
