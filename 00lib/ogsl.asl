@@ -4172,6 +4172,7 @@
 @end sign
 
 @sign BU
+@aka BU~a
 @list	ABZL265
 @list	BAU148
 @list	ELLES131
@@ -4185,6 +4186,7 @@
 @list	U+1204D
 @ucun	𒁍
 @uage	5.0
+@inote 	BU~a for UET II sux texts
 @v	alaₓ
 @v	bu
 @v	bur₁₂
@@ -6421,6 +6423,7 @@
 @end sign
 
 @sign DUH
+@aka DU₈~a
 @list	ABZL141
 @list	BAU071
 @list	HZL164
@@ -6433,6 +6436,7 @@
 @list	U+12083
 @ucun	𒂃
 @uage	5.0
+@inote	DU₈~a for UET II sux texts
 @v	du₈
 @v	duh
 @v	tuh
@@ -11615,7 +11619,6 @@
 @ucun	𒄞𒄑
 @@
 @form |GUD.GIŠ×TAK₄|
-@aka	|GUD.GIŠ×KID₂|
 @@
 @end sign
 
@@ -12568,6 +12571,7 @@
 @end sign
 
 @sign |GUD.GIŠ×TAK₄|
+@aka	|GUD.GIŠ×KID₂|
 @list	LAK590
 @uname	CUNEIFORM SIGN GUD PLUS GISH TIMES TAK4
 @list	U+124CD
