@@ -82,7 +82,10 @@
 @inote	TO-DO: check numbers against volume
 
 @sysdef Attinger
-@inote	TO-DO: add @lit to published version and check for completeness
+@lit 	P. Attinger, "1. Système de translittération adopté: le problème de la «lecture correcte».
+	Pp. 58-103 in Glossaire sumérien–français principalement des textes littéraires
+	paléobabyloniens (Wiesbaden 2021).
+@inote	Presently incomplete.
 
 @sign A
 @list	BAU416

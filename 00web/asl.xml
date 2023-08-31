@@ -365,8 +365,8 @@ following tags are provided:</p>
 <h4>For all signs</h4>
 
 <dl>
-  <dt>@ucun</dt><dd><p>The cuneiform version of @list U+, or @useq,
-  @upua, encoded in the source .asl file as UTF-8</p></dd>
+  <dt>@ucun</dt><dd><p>The cuneiform version of @list U+, @useq,
+  or @upua, encoded in the source .asl file as UTF-8</p></dd>
   <dt>@unote</dt><dd><p>A note related to Unicode
   cuneiform. These are internal working notes which are not printed.
   Notes intended for printing can be given in the notes block for the
