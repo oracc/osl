@@ -4,11 +4,22 @@
   <html>
     <head/>
     <body>
+
+    <p>
+      <esp:link bookmark="h_components">Components</esp:link>
+      <esp:link bookmark="h_building">Building</esp:link>
+      <esp:link bookmark="h_integration">Integration</esp:link>
+      <esp:link bookmark="h_oids">OIDs</esp:link>
+      <esp:link bookmark="h_editing">Editing</esp:link>
+    </p>
+
+    <esp:sh>Introduction</esp:sh>
+      
     <p>The new OGSL and signlist tool are not yet fully integrated
     into Oracc: this page explains what can be expected to work and
     what the plans are for further integration.</p>
 
-    <h2>Components</h2>
+    <esp:sh>Components</esp:sh>
 
     <p>There are several components to OGSL and the signlist tools;
     some understanding of what they are is helpful for the following
@@ -27,7 +38,7 @@
       graphemes in transliteration.</p></dd>
     </dl>
     
-    <h2>Building</h2>
+    <esp:sh>Building</esp:sh>
 
     <p>The normal Oracc build is not fully functional in the ogsl
     project; for now two elements of the build are supported:</p>
@@ -36,13 +47,13 @@
       oracc update
       oracc build</pre>
 
-      <h3>Oracc update</h3>
+      <h5>Oracc update</h5>
       <p>This runs sx on ogsl.asl and rebuilds the data file which is
       used by SLL: this means that changes such as added values will
       be recognized on build-oracc after an oracc update.  It also
       rebuilds the auto-generated pages on missing lists and Unicode
       data.</p>
-      <h3>Oracc build</h3>
+      <h5>Oracc build</h5>
       <p>This only rebuilds the portal pages, which means that if
       edits to ogsl.asl have changed the missing lists or Unicode
       data, those changes will be visible on the new portal pages on
@@ -54,7 +65,7 @@
     OGSL will be effective on build-oracc, but will not propagated to
     the Munich build server or to the public servers.</p>
       
-    <h2>Integration</h2>
+    <esp:sh>Integration</esp:sh>
 
     <p>One of the reasons for rewriting the signlist tools was that
     there were four different ways of accessing signlist data in Oracc
@@ -66,7 +77,7 @@
     
     <p>Integration with glossary building is untested.</p>
 
-    <h2>OIDs</h2>
+    <esp:sh>OIDs</esp:sh>
 
     <p>OGSL is partly integrated into the Oracc persistent IDs (OIDs)
     subsystem: sx looks up OIDs in the central OID table and reports
@@ -82,16 +93,16 @@
     It's not entirely clear how @forms will be handled with OIDs
     yet.</p>
 
-    <h2>Editing</h2>
+    <esp:sh>Editing</esp:sh>
 
-    <h3>Adding/deleting @v, @form (with existing name), @list</h3>
+    <h5>Adding/deleting @v, @form (with existing name), @list</h5>
     
     <p>OGSL editing is open for business: values can be added
     (they do not affect OIDs); @form entries which reference existing
     signs or forms can also be added or deleted (they do not affect
     OIDs). @list entries can be added or modified.</p>
 
-    <h3>Changing Sign/Form Names</h3>
+    <h5>Changing Sign/Form Names</h5>
 
     <p>Changes to sign or form names will presently cause warnings
     that OIDs are needed; for now it would be better to notate them
@@ -104,7 +115,7 @@
     <p>This will allow a script to edit the OID table so that the OID
     for the former name now has the new name as its key.</p>
 
-    <h3>Adding Signs</h3>
+    <h5>Adding Signs</h5>
     <p>Until OID curation begins signs can be added as necessary
     and Steve will add the OIDs as required.</p>
     
