@@ -27057,6 +27057,8 @@
 @uage	0
 @ucun	  
 @v	oo
+@note The notation oo or <oo> is used to transliterate space left to indicate zero (oo)
+      or a place where there should have been space left to indicate zero (<oo>).
 @end sign
 
 @sign P₁
@@ -27068,6 +27070,8 @@
 @end sign
 
 @sign P₂
+@aka	00
+@aka	00~a
 @list	HZL248
 @list	MZL592
 @list	SLLHA377n1
@@ -34993,6 +34997,7 @@
 @end sign
 
 @sign |U.U|
+@aka 00~b
 @list	ABZL363
 @list	HZL296
 @list	MZL708
@@ -35048,6 +35053,7 @@
 @end sign
 
 @sign |U.U.U|
+@aka	00~d
 @list	ABZL366
 @list	HZL331
 @list	MZL711
@@ -39307,6 +39313,7 @@
 
 @sign 6(DIŠ)
 @aka	AŠ₃
+@aka	00~c
 @list	ABZL477
 @list	HZL372
 @list	MZL862
