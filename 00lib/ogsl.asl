@@ -31270,11 +31270,6 @@
 @useq	x120A0.x12263.x1204D.x122BA
 @ucun	𒂠𒉣𒁍𒊺
 @@
-@form |EŠ₂.TU.BU|
-@aka	|ŠE₃.TU.BU|
-@useq	x120A0.x12305.x1204D
-@ucun	𒂠𒌅𒁍
-@@
 @form |NUN.EŠ₂.AB.BU|
 @useq	x12263.x120A0.x1200A.x1204D
 @ucun	𒉣𒂠𒀊𒁍
