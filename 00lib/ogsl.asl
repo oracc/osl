@@ -1061,6 +1061,7 @@
 
 @sign |A×HA|
 @list	ABZL471
+@list	ELLES394
 @list	KWU907
 @list	LAK796
 @list	MZL846
@@ -2758,6 +2759,7 @@
 @list	ABZL292
 @list	BAU161a
 @list	BAU161c
+@list	ELLES140
 @list	HZL302
 @list	KWU460
 @list	LAK253
@@ -5330,6 +5332,7 @@
 @end sign
 
 @sign |DIM×MAŠ|
+@list	ELLES032
 @v	mašgurₓ
 @note	M. Civil ZA 74, 162
 @end sign
@@ -7710,6 +7713,7 @@
 @sign EREN
 @list	ABZL398
 @list	BAU373
+@list	ELLES327
 @list	HZL062
 @list	KWU895
 @list	LAK665
@@ -9728,6 +9732,7 @@
 @end sign
 
 @sign |GA₂×(NE.E₂)|
+@list	ELLES374
 @list	LAK692
 @list	ZATU251
 @uname	CUNEIFORM SIGN GA2 TIMES NE PLUS E2
@@ -11233,6 +11238,7 @@
 
 @sign GIDIM
 @list	ABZL426
+@list	ELLES191
 @list	HZL052
 @list	MZL830
 @list	SLLHA576
@@ -21143,6 +21149,7 @@
 @end sign
 
 @sign |LAK449×(AN.EŠ₂)|
+@list	ELLES235
 @inote	gvl unknown compound
 @end sign
 
@@ -21191,6 +21198,7 @@
 @end sign
 
 @sign |LAK449×SI|
+@list	ELLES236
 @inote	gvl unknown compound
 @end sign
 
@@ -24024,6 +24032,7 @@
 @end sign
 
 @sign |MUŠ×KUR|
+@list	ELLES134
 @uname	CUNEIFORM SIGN MUSH TIMES KUR
 @list	U+12234
 @ucun	𒈴
@@ -27967,6 +27976,8 @@
 @form LAK244
 @@
 @form LAK247
+@list	ELLES145
+@list	ELLES146
 @list	LAK247
 @list	RSP460bis
 @v	kilim
@@ -28165,6 +28176,7 @@
 @sign PIRIG
 @list	ABZL178
 @list	BAU162
+@list	ELLES144
 @list	LAK257
 @list	RSP460
 @list	SLLHA444
@@ -28269,6 +28281,7 @@
 @v	uq
 @form PIRIG
 @list	BAU162
+@list	ELLES144
 @list	LAK257
 @list	RSP460
 @v	ug⁻
@@ -28313,6 +28326,7 @@
 @v	uz₄
 @form PIRIG
 @list	BAU162
+@list	ELLES144
 @list	LAK257
 @list	RSP460
 @v	az⁻
@@ -30932,6 +30946,7 @@
 @end sign
 
 @sign |ŠA₃×SAL|
+@list	ELLES231
 @v	pešₓ
 @end sign
 
@@ -33162,6 +33177,7 @@
 @v	šudun
 @v	šutul
 @form ELLES302
+@list	ELLES302
 @@
 @end sign
 
@@ -36389,6 +36405,7 @@
 @end sign
 
 @sign |UMUM×HA|
+@list	ELLES086
 @inote	@uname-no-char	CUNEIFORM SIGN UMUM TIMES HA
 @v	agarinₓ
 @lit	Civil 2008 ARES 4, 78
