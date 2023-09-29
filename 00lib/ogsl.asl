@@ -17,7 +17,7 @@
 @listdef HZL 1-375 244A 256(1) 256(2)
 @lit	C. Ruster and E. Neu, Hethitisches Zeichenlexikon (Harrassowitz Verlag 1989)
 
-@listdef KWU 1-927 482a 791a 795a
+@listdef KWU 1-927 309b 482a 791a 795a
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
@@ -81,7 +81,7 @@
 @lit	M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)
 @inote	TO-DO: check numbers against volume
 
-@sysdef Attinger
+@sysdef Attinger Attinger-Sallaberger transliteration conventions
 @lit 	P. Attinger, "1. Système de translittération adopté: le problème de la «lecture correcte».
 	Pp. 58-103 in Glossaire sumérien–français principalement des textes littéraires
 	paléobabyloniens (Wiesbaden 2021).
