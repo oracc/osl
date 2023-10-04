@@ -3982,11 +3982,6 @@
 @inote	CDLI GIŠ@t.E₂~a
 @end sign
 
-@sign BAU377
-@list	BAU377
-@inote	Possibly a GIŠ variant; CDLI GIŠ~v in UET II translits; GIŠ~x in archsigns
-@end sign
-
 @sign BAU405
 @list	BAU405
 @end sign
@@ -11688,6 +11683,9 @@
 @v	neš₂
 @v	nis₂
 @v	niš₂
+@form GIŠ~v
+@aka GIŠ~x
+@list	BAU377
 @end sign
 
 @sign |GIŠ.BAD|
@@ -25216,8 +25214,8 @@
 @v	bilₓ
 @inote	ed12; BAU077 ~ MES name = Bilgames?
 @@
-@form |NE.PAP.BAU377|
-@useq	x12248.x1227D.X
+@form |NE.GIŠ~v|
+@useq	x12248.X
 @ucun	𒉈𒉽X
 @v	bilₓ
 @inote	ed12
