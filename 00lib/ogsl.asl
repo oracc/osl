@@ -123,6 +123,8 @@
 @v	šegₓ
 @v	ṭur₅
 @v	ya₁₀
+@form 	LAK797
+@@
 @end sign
 
 @sign |A.A|
@@ -21048,8 +21050,6 @@
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
-@lref	LAK368
-
 @sign LAK368@s
 @list	LAK368@s
 @lit	Brunke/Sallaberger Owen AV (2010), 50;  Civil ARES 4, 104; Krebernik OBO 160/1, 280 (under GUDU₄).
@@ -21658,8 +21658,6 @@
 @list	LAK776
 @inote	for lak.atf
 @end sign
-
-@lref	LAK777
 
 @sign LAK779
 @list	BAU276
@@ -33416,7 +33414,7 @@
 @v	ganzerₓ
 @v	kabta
 @form LAK654a
-@list	LAK654
+@list	LAK654a
 @inote	TA@g with curviform final wedge OGSL = LAK654a (main box); cuneiform final wedge OGSL = LAK654 (secondary box)
 @@
 @form |TA×IR|
