@@ -27949,6 +27949,7 @@
 
 @sign PEŠ₂
 @list	ABZL418
+@list	ELLES146
 @list	HZL003
 @list	LAK245
 @list	MZL741
@@ -27977,7 +27978,6 @@
 @@
 @form LAK247
 @list	ELLES145
-@list	ELLES146
 @list	LAK247
 @list	RSP460bis
 @v	kilim
