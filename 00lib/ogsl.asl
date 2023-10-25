@@ -81,8 +81,8 @@
 @lit	M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)
 @inote	TO-DO: check numbers against volume
 
-@sysdef Attinger Attinger-Sallaberger transliteration conventions
-@lit 	P. Attinger, "1. Système de translittération adopté: le problème de la «lecture correcte».
+@sysdef Attinger  Attinger-Sallaberger transliteration conventions
+@lit	P. Attinger, "1. Système de translittération adopté: le problème de la «lecture correcte».
 	Pp. 58-103 in Glossaire sumérien–français principalement des textes littéraires
 	paléobabyloniens (Wiesbaden 2021).
 @inote	Presently incomplete.
@@ -123,7 +123,7 @@
 @v	šegₓ
 @v	ṭur₅
 @v	ya₁₀
-@form 	LAK797
+@form LAK797
 @@
 @end sign
 
@@ -533,7 +533,7 @@
 @v	guninₓ
 @v	iₓ
 @v	idₓ
-@sys	Attinger guninₓ => buniŋₓ
+@sys	Attinger  guninₓ => buniŋₓ
 @end sign
 
 @sign |A.LAGAB×HAL|
@@ -1145,6 +1145,14 @@
 @v	amušₓ
 @end sign
 
+@sign A@g
+@inote	UET II = CDLI archsigns A@g
+@end sign
+
+@sign A@t
+@inote	UET II = CDLI archsigns A@t
+@end sign
+
 @sign A₂
 @list	ABZL230
 @list	BAU102
@@ -1180,8 +1188,8 @@
 @list	RSP419
 @v	a₂⁻
 @v	te₈⁻
-@sys	Attinger a₂⁻ => a₂
-@sys	Attinger te₈⁻ => te₈
+@sys	Attinger  a₂⁻ => a₂
+@sys	Attinger  te₈⁻ => te₈
 @@
 @end sign
 
@@ -1270,14 +1278,6 @@
 @@
 @end sign
 
-@sign A@g
-@inote	UET II = CDLI archsigns A@g
-@end sign
-
-@sign A@t
-@inote	UET II = CDLI archsigns A@t
-@end sign
-
 @sign AB
 @list	ABZL125
 @list	BAU333
@@ -1315,8 +1315,8 @@
 @v	iṣ₃
 @v	iz₃
 @v	unu₅
-@sys	Attinger erigal₃
-@sys	Attinger irigal₃
+@sys	Attinger  erigal₃
+@sys	Attinger  irigal₃
 @end sign
 
 @sign |AB.HA.ZAG.GABA.HU|
@@ -1448,7 +1448,7 @@
 @v	nina
 @v	sirara
 @v	siraran
-@sys	Attinger niŋen₆ => niŋin₆
+@sys	Attinger  niŋen₆ => niŋin₆
 @end sign
 
 @sign |AB×HA.TAG|
@@ -1571,6 +1571,70 @@
 
 @sign |AB×X|
 @inote	For validating sign-lists
+@end sign
+
+@sign AB@g
+@list	ABZL129
+@list	BAU334
+@list	BAU335
+@list	ELLES286
+@list	HZL111
+@list	KWU826
+@list	LAK537
+@list	MZL232
+@list	RSP086
+@list	RSP224
+@list	SLLHA195
+@uname	CUNEIFORM SIGN AB GUNU
+@list	U+12015
+@ucun	𒀕
+@uage	5.0
+@v	ab₄
+@v	aba₄
+@v	eri₁₁
+@v	erigal₂
+@v	erim₅
+@v	erin₅
+@v	gun₄
+@v	guna₄
+@v	gunu₄
+@v	iri₁₁
+@v	irigal₂
+@v	nu₇
+@v	sirara₅
+@v	unu
+@v	unug
+@v	urugal₂
+@v	uruk
+@sys	Attinger  erigal₂
+@sys	Attinger  irigal₂
+@form AB
+@list	BAU333
+@list	ELLES285
+@list	LAK536
+@list	RSP223
+@v	unu⁻
+@v	unug⁻
+@sys	Attinger  unu⁻ => unu
+@sys	Attinger  unug⁻ => unug
+@@
+@form MURUB₄
+@list	LAK157
+@inote	sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
+@@
+@end sign
+
+@sign |AB@g.MUŠ₃|
+@inote	admin/ed3b
+@useq	x12015.x12239
+@ucun	𒀕𒈹
+@v	zabalaₓ
+@end sign
+
+@sign |AB@g.MUŠ₃.ZA|
+@useq	x12015.x12239.x1235D
+@ucun	𒀕𒈹𒍝
+@v	zabalaₓ
 @end sign
 
 @sign AB₂
@@ -1726,8 +1790,8 @@
 @v	sem₅
 @v	šem₅
 @v	ub₇
-@sys	Attinger sem₅ => šem₅
-@sys	Attinger ub₇
+@sys	Attinger  sem₅ => šem₅
+@sys	Attinger  ub₇
 @end sign
 
 @compoundonly	|AB₂×GU|
@@ -1789,7 +1853,7 @@
 @v	šagₓ
 @v	šem₃
 @v	ub₃
-@sys	Attinger sem₃ => šem₃
+@sys	Attinger  sem₃ => šem₃
 @end sign
 
 @sign |AB₂×ŠE|
@@ -1828,70 +1892,6 @@
 @inote	added during ogsl upgrade
 
 @compoundonly	|AB₂×X|
-
-@sign AB@g
-@list	ABZL129
-@list	BAU334
-@list	BAU335
-@list	ELLES286
-@list	HZL111
-@list	KWU826
-@list	LAK537
-@list	MZL232
-@list	RSP086
-@list	RSP224
-@list	SLLHA195
-@uname	CUNEIFORM SIGN AB GUNU
-@list	U+12015
-@ucun	𒀕
-@uage	5.0
-@v	ab₄
-@v	aba₄
-@v	eri₁₁
-@v	erigal₂
-@v	erim₅
-@v	erin₅
-@v	gun₄
-@v	guna₄
-@v	gunu₄
-@v	iri₁₁
-@v	irigal₂
-@v	nu₇
-@v	sirara₅
-@v	unu
-@v	unug
-@v	urugal₂
-@v	uruk
-@sys	Attinger erigal₂
-@sys	Attinger irigal₂
-@form AB
-@list	BAU333
-@list	ELLES285
-@list	LAK536
-@list	RSP223
-@v	unu⁻
-@v	unug⁻
-@sys	Attinger unu⁻ => unu
-@sys	Attinger unug⁻ => unug
-@@
-@form MURUB₄
-@list	LAK157
-@inote	sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
-@@
-@end sign
-
-@sign |AB@g.MUŠ₃|
-@inote	admin/ed3b
-@useq	x12015.x12239
-@ucun	𒀕𒈹
-@v	zabalaₓ
-@end sign
-
-@sign |AB@g.MUŠ₃.ZA|
-@useq	x12015.x12239.x1235D
-@ucun	𒀕𒈹𒍝
-@v	zabalaₓ
-@end sign
 
 @sign AB₂@t
 @end sign
@@ -1933,7 +1933,7 @@
 @v	ad-kid
 @v	adgub
 @v	akkil₂
-@sys	Attinger adgub
+@sys	Attinger  adgub
 @end sign
 
 @sign |AD.KU|
@@ -2316,8 +2316,8 @@
 @v	tiškurₓ
 @end sign
 
-@compoundonly AMAR@t
-@inote In |AB₂×AMAR@t| in P020344 = VS 27, 28.
+@compoundonly	AMAR@t
+@inote	In |AB₂×AMAR@t| in P020344 = VS 27, 28.
 
 @sign |3×AN|
 @list	BAU008
@@ -2779,13 +2779,13 @@
 @inote	dupfix MZL sumugan(GIR₃)
 @v	šagan₂
 @v	šakan₃
-@sys	Attinger šagan₂ => šakan₃
+@sys	Attinger  šagan₂ => šakan₃
 @form KIŠ
 @list	LAK248
 @v	anše
 @inote	Oracc anše(KIŠ)
 @v	anše⁻
-@sys	Attinger anše⁻ => anše
+@sys	Attinger  anše⁻ => anše
 @@
 @form LAK239
 @list	LAK239
@@ -2853,7 +2853,7 @@
 @ucun	𒀲𒆳𒊏
 @v	sisi
 @v	zizi
-@sys	Attinger zizi => sisi
+@sys	Attinger  zizi => sisi
 @form |ANŠE.KUR|
 @useq	x12032.x121B3
 @ucun	𒀲𒆳
@@ -2956,7 +2956,7 @@
 @v	war₃
 @v	%akk wardu
 @v	xkiₓ
-@sys	Attinger ninta₂ => nita₂
+@sys	Attinger  ninta₂ => nita₂
 @end sign
 
 @sign |ARAD.ANŠE|
@@ -3257,68 +3257,11 @@
 @v	aš-šur
 @end sign
 
-@sign AŠ₂
-@list	ABZL211
-@list	BAU095
-@list	ELLES090
-@list	HZL241
-@list	KWU285
-@list	LAK162a
-@list	MZL548
-@list	RSP128
-@list	SLLHA339
-@lit	M. Krebernik, OBO 160/1 277
-@uname	CUNEIFORM SIGN ASH2
-@list	U+1203E
-@ucun	𒀾
-@uage	5.0
-@v	as₂
-@v	asa₂
-@v	%akk aś
-@v	aš₂
-@v	aša₂
-@v	aṣ₂
-@v	az₂
-@v	baeš
-@v	baneš
-@v	daš₃
-@v	deššu
-@v	taš₃
-@v	ud₂
-@v	udeššu
-@v	ut₂
-@v	utu₅
-@end sign
-
-@sign |AŠ₂.A|
-@inote	epsd2
-@useq	x1203E.x12000
-@ucun	𒀾𒀀
-@v	imgagaₓ
-@v	imŋaŋaₓ
-@end sign
-
-@sign |AŠ₂.GAR₃|
-@useq	x1203E.x120FC
-@ucun	𒀾𒃼
-@v	ešgar
-@inote	if LAK779 is a writing for ešgar then AŠ₂.GAR is a reintepretation of the sign form
-@inote	Steinkeller BiOr 52 ad ZATU149 is sceptical of ZATU149/LAK779 = /ešgar/
-@end sign
-
-@sign |AŠ₂.U|
-@useq	x1203E.x1230B
-@ucun	𒀾𒌋
-@v	banlimmu
-@end sign
-
-@sign |AŠ₂.U&U|
-@useq	x1203E.X
-@ucun	𒀾X
-@v	bania
-@end sign
-
 @compoundonly	AŠ@180
+
+@sign AŠ~a
+@inote	for lak.atf
+@end sign
 
 @sign AŠ@k
 @list	SLLHA361n
@@ -3421,8 +3364,65 @@
 @@
 @end sign
 
-@sign AŠ~a
-@inote	for lak.atf
+@sign AŠ₂
+@list	ABZL211
+@list	BAU095
+@list	ELLES090
+@list	HZL241
+@list	KWU285
+@list	LAK162a
+@list	MZL548
+@list	RSP128
+@list	SLLHA339
+@lit	M. Krebernik, OBO 160/1 277
+@uname	CUNEIFORM SIGN ASH2
+@list	U+1203E
+@ucun	𒀾
+@uage	5.0
+@v	as₂
+@v	asa₂
+@v	%akk aś
+@v	aš₂
+@v	aša₂
+@v	aṣ₂
+@v	az₂
+@v	baeš
+@v	baneš
+@v	daš₃
+@v	deššu
+@v	taš₃
+@v	ud₂
+@v	udeššu
+@v	ut₂
+@v	utu₅
+@end sign
+
+@sign |AŠ₂.A|
+@inote	epsd2
+@useq	x1203E.x12000
+@ucun	𒀾𒀀
+@v	imgagaₓ
+@v	imŋaŋaₓ
+@end sign
+
+@sign |AŠ₂.GAR₃|
+@useq	x1203E.x120FC
+@ucun	𒀾𒃼
+@v	ešgar
+@inote	if LAK779 is a writing for ešgar then AŠ₂.GAR is a reintepretation of the sign form
+@inote	Steinkeller BiOr 52 ad ZATU149 is sceptical of ZATU149/LAK779 = /ešgar/
+@end sign
+
+@sign |AŠ₂.U|
+@useq	x1203E.x1230B
+@ucun	𒀾𒌋
+@v	banlimmu
+@end sign
+
+@sign |AŠ₂.U&U|
+@useq	x1203E.X
+@ucun	𒀾X
+@v	bania
 @end sign
 
 @sign AŠGAB
@@ -3777,6 +3777,10 @@
 @v	takaₓ
 @end sign
 
+@sign |BALAG@BALAG|
+@inote	P221799 ED Lagash lex; disposition of signs in case is BALAG&BALAG@180 but the transliteration assumes this is an artefact of the case width and that this is a sign of the SIGN@SIGN class
+@end sign
+
 @sign |BALAG.A|
 @useq	x12046.x12000
 @ucun	𒁆𒀀
@@ -3795,10 +3799,6 @@
 @useq	x12046.x12309
 @ucun	𒁆𒌉
 @v	zabitum
-@end sign
-
-@sign |BALAG@BALAG|
-@inote	P221799 ED Lagash lex; disposition of signs in case is BALAG&BALAG@180 but the transliteration assumes this is an artefact of the case width and that this is a sign of the SIGN@SIGN class
 @end sign
 
 @sign BAR
@@ -4075,7 +4075,7 @@
 @useq	x12049.x12311.x12293
 @ucun	𒁉𒌑𒊓
 @v-	{kaš}dida
-@inote This can't be both {kaš}dida and dida and didaₓ for |U₂.SA| has been deleted.
+@inote	This can't be both {kaš}dida and dida and didaₓ for |U₂.SA| has been deleted.
 @v	dida
 @v	pihu₄
 @end sign
@@ -4148,7 +4148,7 @@
 @v	bappira₃
 @v	lungaₓ
 @v	ningiₓ
-@sys	Attinger ningiₓ
+@sys	Attinger  ningiₓ
 @end sign
 
 @sign |BI×IGI|
@@ -4171,7 +4171,7 @@
 @end sign
 
 @sign BU
-@aka BU~a
+@aka	BU~a
 @list	ABZL265
 @list	BAU148
 @list	ELLES131
@@ -4181,11 +4181,11 @@
 @list	MZL580
 @list	RSP335
 @list	SLLHA371
+@inote	BU~a for UET II sux texts
 @uname	CUNEIFORM SIGN BU
 @list	U+1204D
 @ucun	𒁍
 @uage	5.0
-@inote 	BU~a for UET II sux texts
 @v	alaₓ
 @v	bu
 @v	bur₁₂
@@ -4242,7 +4242,7 @@
 @v	šir₂
 @v	šud₂
 @v	tur₈?
-@sys	Attinger madul => mudul
+@sys	Attinger  madul => mudul
 @end sign
 
 @sign |BU.BU@90|
@@ -4453,7 +4453,7 @@
 @v	šum₅
 @v	ušu
 @v	ušum
-@sys	Attinger buluŋ₂ => bulug₂
+@sys	Attinger  buluŋ₂ => bulug₂
 @form BUR₂@v
 @inote	see MZL sub BUR₂, MZL008
 @v	bur₂@v
@@ -4657,10 +4657,6 @@
 @useq	x1208A.X
 @ucun	𒂊X
 @@
-@end sign
-
-@sign |E.KISIM₅×X|
-@v garaₓ
 @end sign
 
 @sign |DAG.KISIM₅×BI|
@@ -4940,13 +4936,6 @@
 @v	uburₓ
 @end sign
 
-@sign |DAG.KISIM₅×(U₂.MAŠ)|
-@uname	CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS MASH
-@list	U+12373
-@ucun	𒍳
-@uage	7.0
-@end sign
-
 @sign |DAG.KISIM₅×(U₂.GIR₂)|
 @pname	|DAG.KISIM₅×U₂+GIR₂|
 @list	ABZL170
@@ -4968,12 +4957,19 @@
 @v	šurin₅
 @v	šurun₅?
 @v	zibin₂
-@sys	Attinger haruba => harub
+@sys	Attinger  haruba => harub
 @form |E.KISIM₅×(U₂.GIR₂)|
 @inote	Hittite
 @useq	x1208A.X
 @ucun	𒂊X
 @@
+@end sign
+
+@sign |DAG.KISIM₅×(U₂.MAŠ)|
+@uname	CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS MASH
+@list	U+12373
+@ucun	𒍳
+@uage	7.0
 @end sign
 
 @sign |DAG.KISIM₅×UŠ|
@@ -5082,7 +5078,7 @@
 @v	tir₃
 @v	ṭar₂
 @v	ṭir₄
-@sys	Attinger dara₆ => dar
+@sys	Attinger  dara₆ => dar
 @end sign
 
 @sign DARA₃
@@ -5140,7 +5136,7 @@
 @v	tarah₂
 @v	u₁₀
 @v	ua₂
-@sys	Attinger tara₄ => dara₄
+@sys	Attinger  tara₄ => dara₄
 @form DARA₄~b
 @inote	hapax in UET II = CDLI archsigns DARA₄~b which lacks internal horizontals
 @@
@@ -5149,10 +5145,10 @@
 @sign DE₂
 @list	KWU309
 @list	SLLHA338n1
-@umap |UMUM×KASKAL|
-@unote The reference glyph for DE₂ should be UMUM@s (UMUM SHESHIG); 
-       ideally that should be encoded as its own codepoint but for 
-       now we map to |UMUM×KASKAL|.
+@umap	|UMUM×KASKAL|
+@unote	The reference glyph for DE₂ should be UMUM@s (UMUM SHESHIG); 
+	ideally that should be encoded as its own codepoint but for 
+	now we map to |UMUM×KASKAL|.
 @v	da₉
 @v	de₂
 @v	di₈
@@ -5172,8 +5168,8 @@
 @list	RSP361
 @@
 @form |UMUM×KASKAL|
-@list	LAK156b
 @list	KWU309b
+@list	LAK156b
 @list	RSP361bis
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @list	U+12324
@@ -5782,7 +5778,7 @@
 @v	sub₂
 @v	sug₂
 @v	sup₂?
-@sys	Attinger er₁₄ => re₇
+@sys	Attinger  er₁₄ => re₇
 @form |DU%DU|
 @inote	dcclt !sg
 @@
@@ -5833,7 +5829,7 @@
 @list	LAK484
 @list	RSP369
 @v	suhuš⁻
-@sys	Attinger suhuš⁻ => suhuš
+@sys	Attinger  suhuš⁻ => suhuš
 @@
 @end sign
 
@@ -5889,8 +5885,8 @@
 @v	parim
 @v	raₓ
 @v	rim₄
-@sys	Attinger barim
-@sys	Attinger parim
+@sys	Attinger  barim
+@sys	Attinger  parim
 @form DU
 @list	BAU374
 @list	ELLES252
@@ -5900,10 +5896,10 @@
 @v	gir₅⁻
 @v	im₂⁻
 @v	kaš₄⁻
-@sys	Attinger barim⁻
-@sys	Attinger gir₅⁻ => gir₅
-@sys	Attinger im₂⁻ => im₂
-@sys	Attinger kaš₄⁻ => kaš₄
+@sys	Attinger  barim⁻
+@sys	Attinger  gir₅⁻ => gir₅
+@sys	Attinger  im₂⁻ => im₂
+@sys	Attinger  kaš₄⁻ => kaš₄
 @@
 @form |DU×KASKAL|
 @list	ELLES253
@@ -6426,7 +6422,7 @@
 @end sign
 
 @sign DUH
-@aka DU₈~a
+@aka	DU₈~a
 @list	ABZL141
 @list	BAU071
 @list	HZL164
@@ -6435,11 +6431,11 @@
 @list	RSP104
 @list	RSP349
 @list	SLLHA167
+@inote	DU₈~a for UET II sux texts
 @uname	CUNEIFORM SIGN DUH
 @list	U+12083
 @ucun	𒂃
 @uage	5.0
-@inote	DU₈~a for UET II sux texts
 @v	du₈
 @v	duh
 @v	tuh
@@ -6478,7 +6474,7 @@
 @v	zahₓ
 @v	zehₓ
 @v	zu₇
-@sys	Attinger šaha₂ => šah₂
+@sys	Attinger  šaha₂ => šah₂
 @end sign
 
 @sign |DUN.GI|
@@ -6497,6 +6493,10 @@
 @useq	x12084.x12309
 @ucun	𒂄𒌉
 @v	zahdaₓ
+@end sign
+
+@sign DUN@g
+@v	nirₓ
 @end sign
 
 @sign DUN₃
@@ -6532,9 +6532,9 @@
 @v	du₅⁺
 @v	dun₃⁺
 @v	tun₃⁺
-@sys	Attinger du₅⁺ => du₅
-@sys	Attinger dun₃⁺ => dun₃
-@sys	Attinger tun₃⁺ => tun₃
+@sys	Attinger  du₅⁺ => du₅
+@sys	Attinger  dun₃⁺ => dun₃
+@sys	Attinger  tun₃⁺ => tun₃
 @@
 @form LAK786
 @list	ELLES385
@@ -6569,10 +6569,6 @@
 @form |DUN₃@g×(MU.KAK)|
 @inote	dcclt !sg
 @@
-@end sign
-
-@sign DUN@g
-@v	nirₓ
 @end sign
 
 @sign DUN₃@g
@@ -6711,6 +6707,12 @@
 @v	paₓ
 @v	šuruₓ
 @v	yi₃
+@end sign
+
+@sign |E.KISIM₅×X|
+@useq	x1208A.X
+@ucun	𒂊X
+@v	garaₓ
 @end sign
 
 @sign |E.PAP.PAP|
@@ -6888,7 +6890,7 @@
 @v	eŋar
 @v	igar
 @v	ingar
-@sys	Attinger eŋar => egar
+@sys	Attinger  eŋar => egar
 @end sign
 
 @sign |E₂.ŠA₃|
@@ -6904,7 +6906,7 @@
 @v	asaŋ
 @v	esagₓ
 @v	esaŋₓ
-@sys	Attinger asaŋ => esaŋₓ
+@sys	Attinger  asaŋ => esaŋₓ
 @end sign
 
 @sign |E₂.UŠ.BU.DA|
@@ -7319,6 +7321,14 @@
 @@
 @end sign
 
+@sign |EN@EN|
+@uname	CUNEIFORM SIGN EN OPPOSING EN
+@list	U+1209C
+@ucun	𒂜
+@uage	5.0
+@v	adaminₓ
+@end sign
+
 @sign |EN.DAG.NUN.X|
 @inote	epsd2
 @useq	x12097.x12056.x12263.O
@@ -7699,14 +7709,6 @@
 @v	nimgigri₂
 @v	nimgirgirri₂
 @v	nimŋirŋirri₂
-@end sign
-
-@sign |EN@EN|
-@uname	CUNEIFORM SIGN EN OPPOSING EN
-@list	U+1209C
-@ucun	𒂜
-@uage	5.0
-@v	adaminₓ
 @end sign
 
 @sign EREN
@@ -8486,7 +8488,7 @@
 @list	LAK611
 @list	RSP284
 @v	asila⁻
-@sys	Attinger asila⁻ => asila
+@sys	Attinger  asila⁻ => asila
 @@
 @end sign
 
@@ -8532,6 +8534,11 @@
 @v	asilalₓ
 @end sign
 
+@sign |EZEN×U@c|
+@inote	etcsri
+@v	badₓ
+@end sign
+
 @sign |EZEN×U₂|
 @list	MZL279
 @list	SLLHA154_1n
@@ -8541,11 +8548,6 @@
 @uage	5.0
 @v	usil
 @v	usilalₓ
-@end sign
-
-@sign |EZEN×U@c|
-@inote	etcsri
-@v	badₓ
 @end sign
 
 @sign |EZEN×UD|
@@ -8820,6 +8822,29 @@
 @v	gara₁₀
 @end sign
 
+@sign GA@g
+@list	ABZL202
+@list	BAU369
+@list	ELLES355
+@list	KWU762
+@list	LAK727
+@list	MZL492
+@list	RSP221
+@list	SLLHA319n
+@uname	CUNEIFORM SIGN GA GUNU
+@list	U+120B6
+@ucun	𒂶
+@uage	5.0
+@v	gar₂
+@v	gara₂
+@v	haₓ
+@form |SA.NI|
+@inote	dcclt !sg
+@useq	x12293.x1224C
+@ucun	𒊓𒉌
+@@
+@end sign
+
 @sign GA₂
 @list	ABZL093
 @list	BAU317
@@ -8855,7 +8880,7 @@
 @v	pisaŋ
 @v	pisan
 @v	ša₁₃
-@sys	Attinger bešeŋ => bisaŋ
+@sys	Attinger  bešeŋ => bisaŋ
 @end sign
 
 @sign |GA₂.NU₁₁|
@@ -9900,7 +9925,7 @@
 @v	esag₂
 @v	esaŋ₂
 @v	usi
-@sys	Attinger ašaŋ₂ => esaŋ₂
+@sys	Attinger  ašaŋ₂ => esaŋ₂
 @end sign
 
 @sign |GA₂×(ŠE.TUR)|
@@ -10039,29 +10064,6 @@
 @ucun	𒃭
 @uage	5.0
 @v	lirumₓ
-@end sign
-
-@sign GA@g
-@list	ABZL202
-@list	BAU369
-@list	ELLES355
-@list	KWU762
-@list	LAK727
-@list	MZL492
-@list	RSP221
-@list	SLLHA319n
-@uname	CUNEIFORM SIGN GA GUNU
-@list	U+120B6
-@ucun	𒂶
-@uage	5.0
-@v	gar₂
-@v	gara₂
-@v	haₓ
-@form |SA.NI|
-@inote	dcclt !sg
-@useq	x12293.x1224C
-@ucun	𒊓𒉌
-@@
 @end sign
 
 @sign GABA
@@ -10407,7 +10409,7 @@
 @ucun	𒃲𒌺
 @v	kiŋgal
 @v	kingal
-@sys	Attinger kiŋgal => kingal
+@sys	Attinger  kiŋgal => kingal
 @end sign
 
 @sign |GAL.ZU|
@@ -10505,7 +10507,7 @@
 @v	seg₁₆
 @v	sig₁₆
 @v	šaganₓ
-@sys	Attinger saga₇ => sag₇
+@sys	Attinger  saga₇ => sag₇
 @form |GAN×HI|
 @list	BAU048
 @v	he₂
@@ -10522,6 +10524,13 @@
 @useq	x120F6.x122E2
 @ucun	𒃶𒋢
 @v	duganₓ
+@end sign
+
+@sign GAN@s
+@list	LAK645
+@v	ganₓ
+@form |GAN×KASKAL|
+@@
 @end sign
 
 @sign GAN₂
@@ -10611,13 +10620,6 @@
 @v	ulul₂
 @end sign
 
-@sign GAN@s
-@list	LAK645
-@v	ganₓ
-@form |GAN×KASKAL|
-@@
-@end sign
-
 @sign GAN₂@g
 @inote	from u3adm with note reading
 @inote	See W. Sallaberger, ZA 92 (2002) 301
@@ -10704,9 +10706,9 @@
 @v	ša₂
 @v	šikin
 @v	šu₇?
-@sys	Attinger niŋdanₓ => nindan
-@sys	Attinger niŋdanaₓ => nindan
-@sys	Attinger nindanaₓ => nindan
+@sys	Attinger  niŋdanₓ => nindan
+@sys	Attinger  niŋdanaₓ => nindan
+@sys	Attinger  nindanaₓ => nindan
 @end sign
 
 @sign |GAR.GA₂×(A.IGI)|
@@ -10882,6 +10884,10 @@
 @compoundonly	|GAR&GAR|
 @inote	added during ogsl upgrade
 
+@sign GAR@g
+@inote	ed3a P010561
+@end sign
+
 @sign GAR₃
 @list	ABZL209
 @list	BAU110
@@ -10909,10 +10915,6 @@
 
 @compoundonly	|GAR₃&GAR₃|
 @inote	added during ogsl upgrade
-
-@sign GAR@g
-@inote	ed3a P010561
-@end sign
 
 @sign GAŠAN
 @list	HZL336
@@ -11280,8 +11282,8 @@
 @v	qiq
 @v	simₓ
 @inote	ED |MI.NUNUZ|
-@sys	Attinger geg => gig
-@sys	Attinger kib₃
+@sys	Attinger  geg => gig
+@sys	Attinger  kib₃
 @end sign
 
 @sign GIR₂
@@ -11365,7 +11367,7 @@
 @v	šakan₂
 @v	šakkan₂
 @v	wir
-@sys	Attinger irra => ir₉
+@sys	Attinger  irra => ir₉
 @form |GA₂×AN.GAN.KAK|
 @inote	Reading according to copy of K.4349+ iv 54a''; needs collation
 @useq	x120BC.x120F6.x12195
@@ -11392,7 +11394,7 @@
 @useq	x121A7.x12034
 @ucun	𒆧𒀴
 @v	šagana
-@sys	Attinger šagana
+@sys	Attinger  šagana
 @@
 @form |KIŠ@g.ARAD|
 @useq	X.x12034
@@ -11455,7 +11457,7 @@
 @form KIŠ
 @list	LAK248
 @v	alim⁻
-@sys	Attinger alim⁻ => alim
+@sys	Attinger  alim⁻ => alim
 @@
 @end sign
 
@@ -11486,7 +11488,7 @@
 @form KIŠ
 @list	LAK248
 @v	giri₁₆⁻
-@sys	Attinger giri₁₆⁻ => giri₁₆
+@sys	Attinger  giri₁₆⁻ => giri₁₆
 @@
 @end sign
 
@@ -11691,8 +11693,9 @@
 @v	nis₂
 @v	niš₂
 @form GIŠ~v
-@aka GIŠ~x
+@aka	GIŠ~x
 @list	BAU377
+@@
 @end sign
 
 @sign |GIŠ.BAD|
@@ -11808,8 +11811,8 @@
 @v	luhummu
 @v	ṣil₄
 @v	ubilla₂
-@sys	Attinger ŋessu => ŋissu
-@sys	Attinger ŋessun => ŋissu
+@sys	Attinger  ŋessu => ŋissu
+@sys	Attinger  ŋessun => ŋissu
 @end sign
 
 @sign |GIŠ.NE|
@@ -12029,7 +12032,7 @@
 @ucun	𒄑𒌆𒉿𒎓
 @v	ŋessal
 @inote	to be read ŋessal{+sal₄} in Attinger's system.
-@sys	Attinger ŋessal
+@sys	Attinger  ŋessal
 @@
 @form |GIŠ.TUG₂.PI.SILA₃.A|
 @note	Hattuša Erimhuš
@@ -12319,6 +12322,8 @@
 @v	sishe
 @end sign
 
+@compoundonly	GU@90
+
 @sign GU₂
 @list	ABZL089
 @list	BAU331
@@ -12357,12 +12362,20 @@
 @ref	TMH 5, 039 = P020453 o ii23, nin-dallaₓ(IDIGNA)
 @note	The distinction between IDIGNA (LAK063; KWU689) and DALLA (MAŠ.IDIGNA) is consistent throughout the third millennium, with few exceptions. For Old Babylonian see Mittermayer aBZL. Exceptions include P020453 o ii 23 (OAkk Nippur) P020600 o ii 8 (OAkk Nippur) and P102772 o i 12 (Ur III).
 @v	idigna
+@form |MAŠ.NA₂|
+@useq	x12226.x1223F
+@ucun	𒈦𒈿
+@@
 @form |TUM×PAP|
 @v	idigna
 @inote	CDLI AbS transliterations; basis for idigna reading?
 @@
-@form |MAŠ.NA₂|
-@@
+@end sign
+
+@sign |GU₂.KAM₄|
+@inote	sign name gu zu-ub#-[ba-ku]
+@useq	x12118.x1219B
+@ucun	𒄘𒆛
 @end sign
 
 @sign |GU₂.NUNUZ|
@@ -12385,10 +12398,6 @@
 @end sign
 
 @sign |GU₂×GAD|
-@end sign
-
-@sign |GU₂.KAM₄|
-@inote sign name gu zu-ub#-[ba-ku]
 @end sign
 
 @sign |GU₂×(HI×DIŠ)|
@@ -12505,8 +12514,6 @@
 @v	gueriši
 @end sign
 
-@compoundonly	GU@90
-
 @sign GU₂@g
 @list	ELLES290
 @list	KWU716
@@ -12576,7 +12583,7 @@
 @v	šušgim
 @v	zeb₃
 @v	zib₃
-@sys	Attinger aštub => eštub
+@sys	Attinger  aštub => eštub
 @end sign
 
 @sign |GUD.AN.NA|
@@ -12657,7 +12664,7 @@
 @v	ama₂
 @v	eldig
 @v	ildag₃
-@sys	Attinger eldig => ildag₃
+@sys	Attinger  eldig => ildag₃
 @end sign
 
 @sign |(GUD×PAP)&(GUD×PAP)|
@@ -12766,7 +12773,7 @@
 @v	qum
 @v	ša₉
 @v	šaqu₃?
-@sys	Attinger gaz⁻ => gaz
+@sys	Attinger  gaz⁻ => gaz
 @end sign
 
 @sign- |GUM×(GI.IDIM)|
@@ -12946,7 +12953,7 @@
 @list	LAK353
 @list	RSP182
 @v	ha⁺
-@sys	Attinger ha⁺ => ha
+@sys	Attinger  ha⁺ => ha
 @@
 @end sign
 
@@ -13034,9 +13041,9 @@
 @v	gir⁻
 @v	kir⁻
 @v	peš⁻
-@sys	Attinger gir⁻ => gir
-@sys	Attinger kir⁻ => kir
-@sys	Attinger peš⁻ => peš
+@sys	Attinger  gir⁻ => gir
+@sys	Attinger  kir⁻ => kir
+@sys	Attinger  peš⁻ => peš
 @@
 @end sign
 
@@ -13190,7 +13197,7 @@
 @form KIŠ
 @list	LAK248
 @v	huš⁻
-@sys	Attinger huš⁻
+@sys	Attinger  huš⁻
 @@
 @form LAK240
 @list	LAK240
@@ -13520,6 +13527,8 @@
 @ucun	𒄴𒆜
 @v	kiši₁₃
 @form |HI.KASKAL|
+@useq	x1212D.x1219C
+@ucun	𒄭𒆜
 @@
 @end sign
 
@@ -13767,7 +13776,7 @@
 @ucun	𒄽
 @uage	5.0
 @v	tu₁₁⁺
-@sys	Attinger tu₁₁⁺
+@sys	Attinger  tu₁₁⁺
 @@
 @end sign
 
@@ -14286,7 +14295,7 @@
 @v	seg₅
 @v	sig₅
 @v	ša₁₅?
-@sys	Attinger saga₁₀ => sag₁₀
+@sys	Attinger  saga₁₀ => sag₁₀
 @end sign
 
 @sign |IGI.EŠ₂|
@@ -14443,7 +14452,7 @@
 @v	ildum₂
 @v	ilduma₂
 @v	ildumma₂
-@sys	Attinger dulum => ildum₂
+@sys	Attinger  dulum => ildum₂
 @end sign
 
 @sign |IGI.NAGAR.ŠIR|
@@ -14620,7 +14629,7 @@
 @v	uludin₂
 @v	ulutim₂
 @v	ulutin₂
-@sys	Attinger uktim => uktin
+@sys	Attinger  uktim => uktin
 @end sign
 
 @sign |IGI@g.IGI@g|
@@ -14712,7 +14721,7 @@
 @v	ila₂
 @v	ili₂
 @v	illalₓ
-@sys	Attinger dubsig => dubsik
+@sys	Attinger  dubsig => dubsik
 @form |KAD₄.SAG|
 @useq	x12192.x12295
 @ucun	𒆒𒊕
@@ -14825,6 +14834,14 @@
 @@
 @end sign
 
+@sign |IM@IM|
+@uname	CUNEIFORM SIGN IM OPPOSING IM
+@list	U+12151
+@ucun	𒅑
+@uage	5.0
+@v	dalhamunₓ
+@end sign
+
 @sign |IM.A|
 @inote	epsd2
 @useq	x1214E.x12000
@@ -14922,7 +14939,7 @@
 @v	duggu
 @v	dungaₓ
 @v	dungu
-@sys	Attinger duggu => dungu
+@sys	Attinger  duggu => dungu
 @end sign
 
 @sign |IM.ŠITA|
@@ -14944,7 +14961,7 @@
 @useq	x1214E.x12313
 @ucun	𒅎𒌓
 @v	sidar
-@sys	Attinger sidar
+@sys	Attinger  sidar
 @end sign
 
 @sign |IM×TAK₄|
@@ -15008,14 +15025,6 @@
 @v	mermeri₃
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 57'
 @@
-@end sign
-
-@sign |IM@IM|
-@uname	CUNEIFORM SIGN IM OPPOSING IM
-@list	U+12151
-@ucun	𒅑
-@uage	5.0
-@v	dalhamunₓ
 @end sign
 
 @sign IM@g
@@ -15133,7 +15142,7 @@
 @inote	This is a variant of |IŠ.URUDA| = šeknu/šen₅
 @v	šuš₃
 @v	ukum
-@sys	Attinger kukkušda
+@sys	Attinger  kukkušda
 @end sign
 
 @sign |IŠ.A.SUD|
@@ -15245,8 +15254,8 @@
 @v	zu₂
 @v	zug₂
 @v	zuh
-@sys	Attinger agu₂
-@sys	Attinger ugu₆
+@sys	Attinger  agu₂
+@sys	Attinger  ugu₆
 @form |KA×U|
 @list	HZL141
 @list	LAK319
@@ -15268,6 +15277,9 @@
 @v	sumₓ
 @v	zu₉
 @@
+@end sign
+
+@sign |KA@KA|
 @end sign
 
 @sign- |KA.AN|
@@ -15524,7 +15536,7 @@
 @list	LAK318
 @list	RSP197
 @v	še₂₆⁻
-@sys	Attinger še₂₆⁻
+@sys	Attinger  še₂₆⁻
 @@
 @end sign
 
@@ -15712,7 +15724,7 @@
 @v	gu₃
 @inote	OGSL doesn't allow gu₇(KA) and gu₃(KA) or guₓ(KA) so we have to use gu₃ here
 @v	gu₇⁻
-@sys	Attinger gu₇⁻
+@sys	Attinger  gu₇⁻
 @@
 @form |KA.GAR|
 @useq	x12157.x120FB
@@ -16568,7 +16580,14 @@
 @inote	gvl dcclt amp-adds
 @end sign
 
-@sign |KA@KA|
+@sign KA@180
+@v	nundumₓ
+@ref	OIP 99, 34 = dcclt:P010094 o v 8'?
+@note	Parallels KA.NU in SF 20
+@end sign
+
+@sign KA@r
+@inote	CDLI oakk
 @end sign
 
 @sign KA₂
@@ -16627,16 +16646,6 @@
 @ucun	𒆎
 @uage	5.0
 @v	xₓ
-@end sign
-
-@sign KA@180
-@v	nundumₓ
-@ref	OIP 99, 34 = dcclt:P010094 o v 8'?
-@note	Parallels KA.NU in SF 20
-@end sign
-
-@sign KA@r
-@inote	CDLI oakk
 @end sign
 
 @sign KAB
@@ -17083,7 +17092,7 @@
 @v	raš
 @v	rin₆
 @v	šubtumₓ
-@sys	Attinger irsaŋ
+@sys	Attinger  irsaŋ
 @end sign
 
 @sign |KASKAL.BU|
@@ -17121,6 +17130,8 @@
 @ucun	𒆜𒄴
 @v	kiši₁₅
 @form |KASKAL.HI|
+@useq	x1219C.x1212D
+@ucun	𒆜𒄭
 @@
 @end sign
 
@@ -17458,7 +17469,7 @@
 @v	uludin
 @v	ulutim
 @v	ulutin
-@sys	Attinger hurin => hirin
+@sys	Attinger  hurin => hirin
 @end sign
 
 @sign |KI.KAL.BAD.IDIM|
@@ -17993,7 +18004,7 @@
 @v	kisal
 @v	lel₄?
 @v	par₄
-@sys	Attinger ŋepar => ŋiparₓ
+@sys	Attinger  ŋepar => ŋiparₓ
 @end sign
 
 @sign |KISAL×PAP|
@@ -18107,8 +18118,8 @@
 @v	lazₓ
 @v	qis
 @v	qiš
-@sys	Attinger keše => keš
-@sys	Attinger kiše => kiš
+@sys	Attinger  keše => keš
+@sys	Attinger  kiše => kiš
 @end sign
 
 @sign |KIŠ.AB@g|
@@ -18273,7 +18284,7 @@
 @v	ehₓ
 @v	eheh
 @v	ehehhe
-@sys	Attinger eheh => ehehhe
+@sys	Attinger  eheh => ehehhe
 @end sign
 
 @sign |KU.NU|
@@ -18292,6 +18303,10 @@
 @v	merimeri₅
 @v	mermer₅
 @v	mermeri₅
+@end sign
+
+@sign KU@t
+@note	this sign appears a few times in P250826 = P250826.
 @end sign
 
 @sign KU₃
@@ -18323,7 +18338,7 @@
 @v	azag
 @v	azak
 @v	sagₓ
-@sys	Attinger aza₂ => azag
+@sys	Attinger  aza₂ => azag
 @end sign
 
 @sign |KU₃.GI|
@@ -18434,10 +18449,6 @@
 @v	kukku
 @end sign
 
-@sign KU@t
-@note	this sign appears a few times in P250826 = P250826.
-@end sign
-
 @sign KUL
 @list	ABZL026
 @list	BAU041
@@ -18516,7 +18527,7 @@
 @ref	OB Nippur Ura 3 = Q000001 385
 @v	qun
 @v	xnunnamxₓ
-@sys	Attinger kuŋ₂ => kun
+@sys	Attinger  kuŋ₂ => kun
 @form MAŠ₂
 @list	ABZL031
 @list	BAU046
@@ -18603,6 +18614,16 @@
 @@
 @end sign
 
+@sign |KUR@KUR|
+@list	SLLHA366_87
+@uname	CUNEIFORM SIGN KUR OPPOSING KUR
+@list	U+121B4
+@ucun	𒆴
+@uage	5.0
+@v	gudibir₂
+@v	lamhu
+@end sign
+
 @sign |KUR.MUŠ₃@g.ZA.KI|
 @useq	x121B3.x1223D.x1235D.x121A0
 @ucun	𒆳𒈽𒍝𒆠
@@ -18626,16 +18647,6 @@
 @useq	x121B3.x1235D.x121B3.x12363
 @ucun	𒆳𒍝𒆳𒍣
 @v	ganzerₓ
-@end sign
-
-@sign |KUR@KUR|
-@list	SLLHA366_87
-@uname	CUNEIFORM SIGN KUR OPPOSING KUR
-@list	U+121B4
-@ucun	𒆴
-@uage	5.0
-@v	gudibir₂
-@v	lamhu
 @end sign
 
 @sign KUŠU₂
@@ -18920,8 +18931,8 @@
 @v	tukulₓ
 @v	tukur
 @v	tur₆
-@sys	Attinger gerin => girin
-@sys	Attinger niŋen₂ => niŋin₂
+@sys	Attinger  gerin => girin
+@sys	Attinger  niŋen₂ => niŋin₂
 @end sign
 
 @sign |LAGAB.LAGAB|
@@ -18955,7 +18966,7 @@
 @v	nini
 @v	ninni₂
 @v	rin₃
-@sys	Attinger niŋen => niŋin
+@sys	Attinger  niŋen => niŋin
 @end sign
 
 @sign |LAGAB.SAG@g|
@@ -19188,11 +19199,6 @@
 @v	gigirₓ
 @end sign
 
-@sign |LAGAB×AŠ₂|
-@list	ELLES373
-@inote	missing compounds for elles.atf
-@end sign
-
 @sign |LAGAB×AŠ@t|
 @list	MZL782
 @list	SLLHA503
@@ -19217,6 +19223,11 @@
 @uage	5.0
 @end sign
 
+@sign |LAGAB×AŠ₂|
+@list	ELLES373
+@inote	missing compounds for elles.atf
+@end sign
+
 @sign |LAGAB×BAD|
 @list	ABZL405
 @list	HZL224
@@ -19233,7 +19244,7 @@
 @v	gigira
 @v	pu₆
 @v	tul₈
-@sys	Attinger dulₓ => tul₈
+@sys	Attinger  dulₓ => tul₈
 @form |LAGAB×UŠ₂|
 @@
 @end sign
@@ -20478,7 +20489,7 @@
 @v	usar₃
 @v	ušar₃
 @v	ušur₃
-@sys	Attinger niŋen₅ => niŋin₆
+@sys	Attinger  niŋen₅ => niŋin₆
 @end sign
 
 @sign |LAL₂.NI|
@@ -21810,6 +21821,27 @@
 @v	limu
 @end sign
 
+@sign LIMMU~a
+@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU A
+@list	U+1243E
+@ucun	𒐾
+@uage	5.0
+@v	4(diš@v)
+@v	4(diš@v@c)
+@v	limmuₓ
+@end sign
+
+@sign LIMMU~b
+@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU B
+@list	U+1243F
+@ucun	𒐿
+@uage	5.0
+@v	4(diš@v)~b
+@v	4(diš@v@c)~b
+@v	limmuₓ
+@inote	FIXME: make LIMMU~b a form of LIMMU~a
+@end sign
+
 @sign LIMMU₂
 @list	ABZL110
 @list	LAK091
@@ -21830,27 +21862,6 @@
 @v	lim₂
 @v	limmu₂
 @v	limu₂
-@end sign
-
-@sign LIMMU~a
-@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU A
-@list	U+1243E
-@ucun	𒐾
-@uage	5.0
-@v	4(diš@v)
-@v	4(diš@v@c)
-@v	limmuₓ
-@end sign
-
-@sign LIMMU~b
-@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU B
-@list	U+1243F
-@ucun	𒐿
-@uage	5.0
-@v	4(diš@v)~b
-@v	4(diš@v@c)~b
-@v	limmuₓ
-@inote	FIXME: make LIMMU~b a form of LIMMU~a
 @end sign
 
 @sign LIŠ
@@ -21966,7 +21977,7 @@
 @v	kuŋgala
 @v	kungal
 @v	kungalaₓ
-@sys	Attinger kuŋgala => gukkal
+@sys	Attinger  kuŋgala => gukkal
 @end sign
 
 @sign |LU.KI.KAK|
@@ -22031,6 +22042,48 @@
 @v	šaŋaₓ
 @form LU₂~v
 @inote	@ucode xe001
+@@
+@end sign
+
+@sign |LU₂@LU₂|
+@list	ABZL255
+@list	SLLHA330_60
+@uname	CUNEIFORM SIGN LU2 OPPOSING LU2
+@list	U+12213
+@ucun	𒈓
+@uage	5.0
+@v	adamen
+@v	adamin
+@v	enbir
+@v	gigam
+@v	gingam
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 31
+@inote	salgues
+@v	inbir
+@v	pagraₓ
+@v	urbigu₃
+@v	urbingu₃
+@form |LU₂.LU₂|
+@useq	x121FD.x121FD
+@ucun	𒇽𒇽
+@v	adamin
+@@
+@form |LU₂&LU₂|
+@v	adamin
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 29
+@v	urbigu₃
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 28
+@inote	salgues
+@@
+@form |LU₂%LU₂|
+@list	SLLHA330_60v
+@uname	CUNEIFORM SIGN LU2 CROSSING LU2
+@list	U+12212
+@ucun	𒈒
+@uage	5.0
+@v	urbingu₃
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 3'
+@inote	salgues
 @@
 @end sign
 
@@ -22506,48 +22559,6 @@
 @ucun	XX
 @end sign
 
-@sign |LU₂@LU₂|
-@list	ABZL255
-@list	SLLHA330_60
-@uname	CUNEIFORM SIGN LU2 OPPOSING LU2
-@list	U+12213
-@ucun	𒈓
-@uage	5.0
-@v	adamen
-@v	adamin
-@v	enbir
-@v	gigam
-@v	gingam
-@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 31
-@inote	salgues
-@v	inbir
-@v	pagraₓ
-@v	urbigu₃
-@v	urbingu₃
-@form |LU₂.LU₂|
-@useq	x121FD.x121FD
-@ucun	𒇽𒇽
-@v	adamin
-@@
-@form |LU₂&LU₂|
-@v	adamin
-@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 29
-@v	urbigu₃
-@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 28
-@inote	salgues
-@@
-@form |LU₂%LU₂|
-@list	SLLHA330_60v
-@uname	CUNEIFORM SIGN LU2 CROSSING LU2
-@list	U+12212
-@ucun	𒈒
-@uage	5.0
-@v	urbingu₃
-@ref	VAT 9541 = dcclt/signlists:P345960 o ii 3'
-@inote	salgues
-@@
-@end sign
-
 @sign LU₃
 @list	ABZL216
 @list	BAU288
@@ -22641,7 +22652,7 @@
 @v	rin₅
 @v	ug₈?
 @inote	Krebernik RlA s.v. U.GUR
-@sys	Attinger irina₃ => rin₅
+@sys	Attinger  irina₃ => rin₅
 @form LAK349
 @list	LAK349
 @@
@@ -22789,12 +22800,6 @@
 @v	gug₅
 @ref	CUSAS 12.1.1.2 = dcclt/signlists:P342645 o ii 39
 @v	kukuₓ
-@form |LUGAL%LUGAL|
-@v	adamin₂
-@inote	salgues
-@v	gug₅
-@ref	VAT 9541 = dcclt/signlists:P345960 o ii 8'
-@@
 @form |LUGAL@LUGAL|
 @list	MZL268
 @list	SLLHA151v
@@ -22806,6 +22811,12 @@
 @v	adamenₓ
 @v	eₓ
 @v	gug₅
+@@
+@form |LUGAL%LUGAL|
+@v	adamin₂
+@inote	salgues
+@v	gug₅
+@ref	VAT 9541 = dcclt/signlists:P345960 o ii 8'
 @@
 @end sign
 
@@ -23112,6 +23123,34 @@
 @inote	UET II, provisional
 @end sign
 
+@sign MA@g
+@list	ABZL218
+@list	ELLES020
+@list	HZL219
+@list	KWU292
+@list	LAK035
+@list	MZL270
+@list	RSP290
+@list	SLLHA146
+@uname	CUNEIFORM SIGN MA GUNU
+@list	U+12222
+@ucun	𒈢
+@uage	5.0
+@v	durba
+@v	hašhur
+@form |MA×GAN₂@t|
+@inote	See sign form in MEE15 pl VIII o 6
+@@
+@end sign
+
+@sign |MA@g×TAK₄|
+@uname	CUNEIFORM SIGN MA GUNU TIMES TAK4
+@list	U+12221
+@ucun	𒈡
+@uage	5.0
+@v	širₓ
+@end sign
+
 @sign MA₂
 @list	ABZL050
 @list	ELLES282
@@ -23206,34 +23245,6 @@
 @useq	x12223.x122A9.x12079
 @ucun	𒈣𒊩𒁹
 @v	šilamₓ
-@end sign
-
-@sign MA@g
-@list	ABZL218
-@list	ELLES020
-@list	HZL219
-@list	KWU292
-@list	LAK035
-@list	MZL270
-@list	RSP290
-@list	SLLHA146
-@uname	CUNEIFORM SIGN MA GUNU
-@list	U+12222
-@ucun	𒈢
-@uage	5.0
-@v	durba
-@v	hašhur
-@form |MA×GAN₂@t|
-@inote	See sign form in MEE15 pl VIII o 6
-@@
-@end sign
-
-@sign |MA@g×TAK₄|
-@uname	CUNEIFORM SIGN MA GUNU TIMES TAK4
-@list	U+12221
-@ucun	𒈡
-@uage	5.0
-@v	širₓ
 @end sign
 
 @sign MAH
@@ -23345,7 +23356,7 @@
 @ucun	𒈦𒂗𒆕
 @v	mašda₂
 @v	mašgagen
-@sys	Attinger mašgagen => mašda₂
+@sys	Attinger  mašgagen => mašda₂
 @end sign
 
 @sign |MAŠ.GU₂.GAR₃|
@@ -23384,6 +23395,8 @@
 @end sign
 
 @sign |MAŠ.KAM₄|
+@useq	x12226.x1219B
+@ucun	𒈦𒆛
 @end sign
 
 @sign- |MAŠ.MIN|
@@ -23631,8 +23644,8 @@
 @v	ṣil₂
 @v	wi₄
 @v	zilₓ
-@sys	Attinger geg₂ => gig₂
-@sys	Attinger gegge => giggi
+@sys	Attinger  geg₂ => gig₂
+@sys	Attinger  gegge => giggi
 @end sign
 
 @sign |MI.MI|
@@ -23890,8 +23903,8 @@
 @v	lumₓ
 @v	mur₇
 @v	murgu₂
-@sys	Attinger ŋur₂₄ => mur₇
-@sys	Attinger ŋurgu₂ => murgu₂
+@sys	Attinger  ŋur₂₄ => mur₇
+@sys	Attinger  ŋurgu₂ => murgu₂
 @form SIG₄
 @list	BAU206
 @list	ELLES111
@@ -23902,8 +23915,8 @@
 @v	mur₈
 @inote	for nu-mur₈(SIG₄) in ED Metals 50/51; is that really sumur[roof]?
 @v	murgu
-@sys	Attinger ŋur₂₃
-@sys	Attinger ŋurgu => murgu
+@sys	Attinger  ŋur₂₃
+@sys	Attinger  ŋurgu => murgu
 @@
 @end sign
 
@@ -24166,6 +24179,14 @@
 @v	erinₓ
 @end sign
 
+@sign MUŠ@90
+@inote	CDLI ed3b
+@end sign
+
+@sign MUŠ@t
+@inote	CDLI ed3b
+@end sign
+
 @sign MUŠ₃
 @list	ABZL044
 @list	BAU249
@@ -24211,7 +24232,7 @@
 @v	šuba₄?
 @v	zanaru
 @v	zannaru
-@sys	Attinger subi₄ => šuba₄
+@sys	Attinger  subi₄ => šuba₄
 @form MUŠ₃@g
 @v	inana
 @@
@@ -24268,7 +24289,7 @@
 @v	sedi₃
 @v	še₁₂
 @v	šed₉
-@sys	Attinger se₂₄ => še₁₂
+@sys	Attinger  se₂₄ => še₁₂
 @@
 @form |A.MUŠ₃.A.DI|
 @useq	x12000.x12239.x12000.x12072
@@ -24290,7 +24311,7 @@
 @v	sedi₅
 @v	še₁₈
 @v	šed₁₁
-@sys	Attinger amagea => amagi₂
+@sys	Attinger  amagea => amagi₂
 @@
 @form |A.MUŠ₃×A.DI|
 @useq	x12000.x1223A.x12072
@@ -24356,7 +24377,7 @@
 @useq	x1223D.x12072
 @ucun	𒈽𒁲
 @v	se₂₉
-@sys	Attinger se₂₉
+@sys	Attinger  se₂₉
 @@
 @form |ZA.MUŠ₃.DI|
 @useq	x1235D.x12239.x12072
@@ -24398,9 +24419,9 @@
 @v	šušinak
 @v	šušum
 @v	šušun
-@sys	Attinger susin => šušin
-@sys	Attinger susina => šušin
-@sys	Attinger šušun => šušum
+@sys	Attinger  susin => šušin
+@sys	Attinger  susina => šušin
+@sys	Attinger  šušun => šušum
 @form |MUŠ₃.ŠEŠ₂|
 @useq	x12239.x122C1
 @ucun	𒈹𒋁
@@ -24444,7 +24465,7 @@
 @v	suba₃
 @v	subi₃
 @v	šuba₃
-@sys	Attinger subi₃ => šuba₃
+@sys	Attinger  subi₃ => šuba₃
 @form |MUŠ₃.ZA₇|
 @useq	x12239.x12541
 @ucun	𒈹𒕁
@@ -24469,14 +24490,6 @@
 
 @sign |MUŠ₃&MUŠ₃|
 @inote	gvl dcclt amp-adds
-@end sign
-
-@sign MUŠ@90
-@inote	CDLI ed3b
-@end sign
-
-@sign MUŠ@t
-@inote	CDLI ed3b
 @end sign
 
 @sign MUŠ₃@g
@@ -24760,7 +24773,7 @@
 @ref	Ebla Sign List = Q000038 72, NA₂ še₃-tum
 @v	šedₓ
 @v	timuaₓ
-@sys	Attinger ŋešnu₃ => nud
+@sys	Attinger  ŋešnu₃ => nud
 @end sign
 
 @sign |NA₂.X|
@@ -24801,7 +24814,7 @@
 @v	uhul
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 42
 @inote	salgues
-@sys	Attinger uga₃
+@sys	Attinger  uga₃
 @form |ŠE.NAGA|
 @useq	x122BA.x12240
 @ucun	𒊺𒉀
@@ -24816,24 +24829,6 @@
 @ref	CBS 157 = dcclt/signlists:P257722 r ii 16'
 @inote	salgues
 @@
-@end sign
-
-@compoundonly	|NAGA×A|
-@inote	added during ogsl upgrade
-
-@sign |NAGA×DIŠ|
-@lit	G. Pettinato MEE 3, p.89
-@note	Some sources of ED Metals (Abu-Salabikh; Sargonic Nippur) distinguish between NAGA×DIŠ (lines 89-90) and NAGA (lines 115-116)
-@end sign
-
-@sign |NAGA×ŠU@t|
-@list	MZL294
-@list	SLLHA165b
-@uname	CUNEIFORM SIGN NAGA TIMES SHU TENU
-@list	U+12242
-@ucun	𒉂
-@uage	5.0
-@v	tu₂₃
 @end sign
 
 @sign |NAGA@NAGA|
@@ -24867,6 +24862,24 @@
 
 @compoundonly	|NAGA@U₂|
 @inote	added during ogsl upgrade
+
+@compoundonly	|NAGA×A|
+@inote	added during ogsl upgrade
+
+@sign |NAGA×DIŠ|
+@lit	G. Pettinato MEE 3, p.89
+@note	Some sources of ED Metals (Abu-Salabikh; Sargonic Nippur) distinguish between NAGA×DIŠ (lines 89-90) and NAGA (lines 115-116)
+@end sign
+
+@sign |NAGA×ŠU@t|
+@list	MZL294
+@list	SLLHA165b
+@uname	CUNEIFORM SIGN NAGA TIMES SHU TENU
+@list	U+12242
+@ucun	𒉂
+@uage	5.0
+@v	tu₂₃
+@end sign
 
 @sign NAGA@180
 @list	MZL293
@@ -24907,7 +24920,7 @@
 @v	nagara
 @v	naŋar
 @v	niminₓ?
-@sys	Attinger naŋar => nagar
+@sys	Attinger  naŋar => nagar
 @end sign
 
 @sign |NAGAR.BU|
@@ -24918,7 +24931,7 @@
 @v	ildum₃
 @v	ilduma₃
 @v	ildumma₃
-@sys	Attinger dulum₂ => ildum₃
+@sys	Attinger  dulum₂ => ildum₃
 @form |BU.NAGAR|
 @useq	x1204D.x12244
 @ucun	𒁍𒉄
@@ -25109,8 +25122,8 @@
 @v	ṭi₅
 @v	zah
 @v	ziₓ
-@sys	Attinger ibbi₂
-@sys	Attinger šar₉
+@sys	Attinger  ibbi₂
+@sys	Attinger  šar₉
 @end sign
 
 @sign |NE.GI|
@@ -25222,6 +25235,12 @@
 @ucun	𒄑𒉽𒉋
 @v	bilₓ
 @@
+@form |NE.GIŠ~v|
+@useq	x12248.X
+@ucun	𒉈𒉽X
+@v	bilₓ
+@inote	ed12
+@@
 @form |NE.PAP|
 @inote	dcclt !sg
 @useq	x12248.x1227D
@@ -25232,12 +25251,6 @@
 @ucun	𒉈𒉽X
 @v	bilₓ
 @inote	ed12; BAU077 ~ MES name = Bilgames?
-@@
-@form |NE.GIŠ~v|
-@useq	x12248.X
-@ucun	𒉈𒉽X
-@v	bilₓ
-@inote	ed12
 @@
 @form |NE.PAP.GIŠ|
 @useq	x12248.x1227D.x12111
@@ -25346,7 +25359,7 @@
 @v	zalli
 @v	zanga
 @v	zar₂
-@sys	Attinger u₂₄
+@sys	Attinger  u₂₄
 @end sign
 
 @sign |NI.GIŠ|
@@ -25398,9 +25411,9 @@
 @form |SAL.TUK|
 @useq	x122A9.x12307
 @ucun	𒊩𒌇
-@v	dilmunₓ
 @v	dilmun@v
 @inote	eBL BM.77952; Oracc uses dilmunₓ
+@v	dilmunₓ
 @@
 @end sign
 
@@ -25594,7 +25607,7 @@
 @list	LAK271
 @list	RSP390
 @v	tum₃⁻
-@sys	Attinger tum₃⁻
+@sys	Attinger  tum₃⁻
 @@
 @form |NIM×GAN₂|
 @@
@@ -25633,6 +25646,10 @@
 @v	ugu₇
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 2
 @inote	salgues
+@end sign
+
+@sign |NINDA₂@NINDA₂|
+@inote	MEE 15, 28 iv 12
 @end sign
 
 @sign |NINDA₂×AN|
@@ -25696,11 +25713,11 @@
 @v	humₓ
 @end sign
 
-@sign |NINDA₂×3(AŠ)|
+@sign |NINDA₂×AŠ@c|
 @inote	gvl unknown compound
 @end sign
 
-@sign |NINDA₂×AŠ@c|
+@sign |NINDA₂×3(AŠ)|
 @inote	gvl unknown compound
 @end sign
 
@@ -25727,16 +25744,16 @@
 @uage	8.0
 @end sign
 
+@sign |NINDA₂×DIŠ@c|
+@inote	gvl unknown compound
+@end sign
+
 @sign |NINDA₂×2(DIŠ)|
 @form |NINDA₂×2(DIŠ@c)|
 @list	ELLES059
 @list	LAK101
 @inote	missing compounds for lak.atf
 @@
-@end sign
-
-@sign |NINDA₂×DIŠ@c|
-@inote	gvl unknown compound
 @end sign
 
 @sign |NINDA₂×DUB|
@@ -26061,6 +26078,10 @@
 @@
 @end sign
 
+@sign |NINDA₂×U@c|
+@inote	gvl unknown compound
+@end sign
+
 @sign |NINDA₂×U₂|
 @end sign
 
@@ -26090,10 +26111,6 @@
 @@
 @end sign
 
-@sign |NINDA₂×U@c|
-@inote	gvl unknown compound
-@end sign
-
 @sign |NINDA₂×URUDA|
 @list	LAK111
 @uname	CUNEIFORM SIGN NINDA2 TIMES URUDA
@@ -26116,10 +26133,6 @@
 
 @sign |NINDA₂×(X.MAŠ)|
 @inote	UET II, provisional
-@end sign
-
-@sign |NINDA₂@NINDA₂|
-@inote	MEE 15, 28 iv 12
 @end sign
 
 @compoundonly	|NINDA₂@180×ZA|
@@ -26255,7 +26268,7 @@
 @v	pil₆?
 @v	sakarₓ
 @v	sudₓ
-@sys	Attinger ŋešnu => ŋešnu
+@sys	Attinger  ŋešnu => ŋešnu
 @form |NU₁₁.GIŠ|
 @inote	dupfix converted to @form to resolve ŋešnu conflict
 @inote	PROBLEM: This means ŋešnu needs collation throughout because it probably normally refers to |NU₁₁.GIŠ|; possibly global nu₁₁ for nu₁₁(|NU₁₁.GIŠ|) in non-Attinger corpora
@@ -26512,7 +26525,7 @@
 @ucun	𒉣𒇬
 @v	šilam⁻
 @inote	sjt there is also a separate |NUN.LAGAR| sign with value šilamₓ
-@sys	Attinger šilam⁻
+@sys	Attinger  šilam⁻
 @@
 @form |NUN.LAGAR×MAŠ|
 @lit	Veldhuis, JCS 54, 70.
@@ -26773,12 +26786,12 @@
 @v	sug₉?
 @inote	Default form is the one transliterated as NUNUZ~c in CDLI archsigns
 @inote	BAU082a is not exactly this form.  LAK364/KWU532 exactly this form, |(HI×1(N58))&(HI×1(N58))|
+@form |AB₂%AB₂|
+@@
 @form NUNUZ~a
 @list	BAU082b
 @list	LAK813
 @inote	BAU082b and LAK813 are two conjoined round beads, NUNUZ~a1 in CDLI archsigns
-@@
-@form |AB₂%AB₂|
 @@
 @end sign
 
@@ -27073,11 +27086,11 @@
 
 @sign OO
 @useq	xA0.xA0
-@uage	0
 @ucun	  
+@uage	0
 @v	oo
-@note The notation oo or <oo> is used to transliterate space left to indicate zero (oo)
-      or a place where there should have been space left to indicate zero (<oo>).
+@note	The notation oo or <oo> is used to transliterate space left to indicate zero (oo)
+	or a place where there should have been space left to indicate zero (<oo>).
 @end sign
 
 @sign P₁
@@ -27268,8 +27281,10 @@
 @inote	value sirig following PA.DAG.KISIM₅×KAK; reading not certain
 @@
 @form |PA.X.X|
-@v utulₓ
-@inote P437085 = KBo 26, 018 i' 1'
+@useq	x1227A.O.O
+@ucun	𒉺OO
+@v	utulₓ
+@inote	P437085 = KBo 26, 018 i' 1'
 @@
 @end sign
 
@@ -27384,7 +27399,7 @@
 @ucun	𒉺𒄐𒉻
 @v	addir₃
 @inote	addir(|A.PA.GISAL.PAD.SI.A|) corresponds to {+a}addir₃{+dir} in Attinger's system
-@sys	Attinger addir₃
+@sys	Attinger  addir₃
 @end sign
 
 @sign |PA.GISAL.SI.KAL.RU|
@@ -27402,7 +27417,7 @@
 @useq	x1227A.x1211B
 @ucun	𒉺𒄛
 @v	musubₓ
-@sys	Attinger musubₓ => munsubₓ
+@sys	Attinger  musubₓ => munsubₓ
 @@
 @end sign
 
@@ -27440,7 +27455,7 @@
 @v	šip₃
 @v	šub₃
 @v	šup₃
-@sys	Attinger saba => sab
+@sys	Attinger  saba => sab
 @end sign
 
 @sign |PA.KAK|
@@ -27596,7 +27611,7 @@
 @v	isin
 @v	isina
 @v	išin
-@sys	Attinger isina => isin
+@sys	Attinger  isina => isin
 @end sign
 
 @sign |PA.TAR|
@@ -27741,7 +27756,7 @@
 @v	nindaba
 @v	ninni₇
 @v	ninnim₇
-@sys	Attinger niŋdaba => nindaba
+@sys	Attinger  niŋdaba => nindaba
 @end sign
 
 @sign |PAD.AN.MUŠ₃@g|
@@ -27765,7 +27780,7 @@
 @v	nindabaₓ
 @v	ninniₓ
 @v	ninnimₓ
-@sys	Attinger niŋdaba₂ => nindabaₓ
+@sys	Attinger  niŋdaba₂ => nindabaₓ
 @form |MUŠ₃.PAD|
 @useq	x12239.x1227B
 @ucun	𒈹𒉻
@@ -28214,7 +28229,40 @@
 @uage	5.0
 @v	dešₓ
 @v	piriŋ⁺
-@sys	Attinger piriŋ⁺
+@sys	Attinger  piriŋ⁺
+@@
+@end sign
+
+@sign |PIRIG@PIRIG|
+@list	SLLHA444n2
+@uname	CUNEIFORM SIGN PIRIG OPPOSING PIRIG
+@list	U+1228E
+@ucun	𒊎
+@uage	5.0
+@v	tidnum
+@form |GIR₃@GIR₃|
+@@
+@form |GIR₃.GIR₃|
+@useq	x1210A.x1210A
+@ucun	𒄊𒄊
+@@
+@form |PIRIG.KIŠ|
+@useq	x1228A.x121A7
+@ucun	𒊊𒆧
+@v	tidnum
+@ref	ED Cities = dcclt:Q000035 35
+@@
+@form |PIRIG.PIRIG|
+@useq	x1228A.x1228A
+@ucun	𒊊𒊊
+@v	didanu
+@v	didanum
+@v	didnu
+@v	didnum
+@v	tidanu
+@v	tidanum
+@v	tidnim
+@v	tidnu
 @@
 @end sign
 
@@ -28241,7 +28289,7 @@
 @ucun	𒊊𒌉
 @v	nemur₂
 @v	nimurₓ
-@sys	Attinger nemur₂ => nimurₓ
+@sys	Attinger  nemur₂ => nimurₓ
 @end sign
 
 @sign |PIRIG×KAL|
@@ -28295,7 +28343,7 @@
 @list	LAK257
 @list	RSP460
 @v	ug⁻
-@sys	Attinger ug⁻
+@sys	Attinger  ug⁻
 @@
 @form |SU.PIRIG|
 @useq	x122E2.x1228A
@@ -28339,7 +28387,7 @@
 @list	LAK257
 @list	RSP460
 @v	az⁻
-@sys	Attinger az⁻
+@sys	Attinger  az⁻
 @@
 @form |ZA.LAK247|
 @useq	x1235D.X
@@ -28348,39 +28396,6 @@
 @form |ZA.PIRIG|
 @useq	x1235D.x1228A
 @ucun	𒍝𒊊
-@@
-@end sign
-
-@sign |PIRIG@PIRIG|
-@list	SLLHA444n2
-@uname	CUNEIFORM SIGN PIRIG OPPOSING PIRIG
-@list	U+1228E
-@ucun	𒊎
-@uage	5.0
-@v	tidnum
-@form |GIR₃.GIR₃|
-@useq	x1210A.x1210A
-@ucun	𒄊𒄊
-@@
-@form |GIR₃@GIR₃|
-@@
-@form |PIRIG.KIŠ|
-@useq	x1228A.x121A7
-@ucun	𒊊𒆧
-@v	tidnum
-@ref	ED Cities = dcclt:Q000035 35
-@@
-@form |PIRIG.PIRIG|
-@useq	x1228A.x1228A
-@ucun	𒊊𒊊
-@v	didanu
-@v	didanum
-@v	didnu
-@v	didnum
-@v	tidanu
-@v	tidanum
-@v	tidnim
-@v	tidnu
 @@
 @end sign
 
@@ -29091,7 +29106,7 @@
 @v	ṣalam
 @v	%akk/n ṣalmu
 @v	ugu₅
-@sys	Attinger dil₂
+@sys	Attinger  dil₂
 @form SAG
 @list	BAU228
 @list	ELLES178
@@ -29105,9 +29120,9 @@
 @v	sur₂⁻
 @v	šur₂⁻
 @inote	following Attinger's approach
-@sys	Attinger dil₂⁻
-@sys	Attinger sumur⁻
-@sys	Attinger sur₂⁻
+@sys	Attinger  dil₂⁻
+@sys	Attinger  sumur⁻
+@sys	Attinger  sur₂⁻
 @@
 @end sign
 
@@ -29134,7 +29149,7 @@
 @v	keše₄
 @v	kiše₄
 @v	kiši₄
-@sys	Attinger kiše₄ => kiši₄
+@sys	Attinger  kiše₄ => kiši₄
 @end sign
 
 @sign SAG@n@g
@@ -29192,7 +29207,7 @@
 @v	šal
 @v	šel₄
 @v	ṣalₓ
-@sys	Attinger galla₄ => gal₄
+@sys	Attinger  galla₄ => gal₄
 @end sign
 
 @sign |SAL.AL|
@@ -29612,10 +29627,10 @@
 @v	nitah₃
 @v	nitalam₄
 @v	nitlam₄
-@sys	Attinger ŋešdan₄ => ŋidlam₄
-@sys	Attinger ŋešdana₄ => ŋidlam₄
-@sys	Attinger ŋeštan₄ => ŋidlam₄
-@sys	Attinger ŋeštana₄ => ŋidlam₄
+@sys	Attinger  ŋešdan₄ => ŋidlam₄
+@sys	Attinger  ŋešdana₄ => ŋidlam₄
+@sys	Attinger  ŋeštan₄ => ŋidlam₄
+@sys	Attinger  ŋeštana₄ => ŋidlam₄
 @end sign
 
 @sign |SAL.UŠ.DAM|
@@ -29636,10 +29651,10 @@
 @v	nitadam
 @v	nitalam
 @v	nitlam
-@sys	Attinger ŋešdan => ŋidlam
-@sys	Attinger ŋešdana => ŋidlam
-@sys	Attinger ŋeštan => ŋidlam
-@sys	Attinger ŋeštana => ŋidlam
+@sys	Attinger  ŋešdan => ŋidlam
+@sys	Attinger  ŋešdana => ŋidlam
+@sys	Attinger  ŋeštan => ŋidlam
+@sys	Attinger  ŋeštana => ŋidlam
 @end sign
 
 @sign |SAL.UŠ.DI|
@@ -29659,7 +29674,7 @@
 @useq	x122A9.x12351.x12072.x1208D
 @ucun	𒊩𒍑𒁲𒂍
 @v	gaiₓ
-@sys	Attinger gaiₓ => gambi
+@sys	Attinger  gaiₓ => gambi
 @@
 @form |SAL.UŠ.DI.KID|
 @list	RSP158
@@ -29667,7 +29682,7 @@
 @ucun	𒊩𒍑𒁲𒆤
 @v	gaiₓ
 @v	gambi
-@sys	Attinger gaiₓ => gambi
+@sys	Attinger  gaiₓ => gambi
 @@
 @form |SAL.UŠ.E₂.DI|
 @useq	x122A9.x12351.x1208D.x12072
@@ -30265,7 +30280,7 @@
 @ucun	𒋠𒁍
 @v	zulumhi⁻
 @inote	also transliterated as zulumhi₂
-@sys	Attinger zulumhi⁻
+@sys	Attinger  zulumhi⁻
 @@
 @end sign
 
@@ -30401,7 +30416,7 @@
 @useq	x122E2.x12094
 @ucun	𒋢𒂔
 @v	suburₓ
-@sys	Attinger suburₓ
+@sys	Attinger  suburₓ
 @end sign
 
 @sign |SU.GAN|
@@ -30524,8 +30539,8 @@
 @list	RSP335
 @v	su₃⁻
 @v	sud⁻
-@sys	Attinger su₃⁻
-@sys	Attinger sud⁻
+@sys	Attinger  su₃⁻
+@sys	Attinger  sud⁻
 @@
 @form BU@g
 @list	ELLES132
@@ -30545,6 +30560,14 @@
 
 @compoundonly	|SUD&SUD|
 @inote	added during ogsl upgrade
+
+@sign SUD@90
+@inote	CDLI ed3b
+@end sign
+
+@sign SUD@g
+@inote	CDLI ebla
+@end sign
 
 @sign SUD₂
 @list	ABZL038
@@ -30580,16 +30603,8 @@
 @inote	dupfix MZL šiten(|KI.DU.KAK|)
 @v	šušu
 @v	zusu
-@sys	Attinger šitan => šita₃
-@sys	Attinger šitenₓ => šita₃
-@end sign
-
-@sign SUD@90
-@inote	CDLI ed3b
-@end sign
-
-@sign SUD@g
-@inote	CDLI ebla
+@sys	Attinger  šitan => šita₃
+@sys	Attinger  šitenₓ => šita₃
 @end sign
 
 @sign SUHUR
@@ -30903,7 +30918,7 @@
 @v	peš₄
 @v	piš₄
 @v	sur₄
-@sys	Attinger isla => išla
+@sys	Attinger  isla => išla
 @form |ŠA₃.A|
 @@
 @form |ŠA₃×(U.A)|
@@ -31054,7 +31069,7 @@
 @v	siqqaₓ
 @v	ša₆
 @v	šag₅
-@sys	Attinger ŋešninbar => ŋešnimbar
+@sys	Attinger  ŋešninbar => ŋešnimbar
 @form |SIK₂.E|
 @useq	x122E0.x1208A
 @ucun	𒋠𒂊
@@ -31219,6 +31234,10 @@
 @v	šarušu
 @end sign
 
+@sign |ŠAR₂×U@g|
+@inote	etcsri
+@end sign
+
 @sign |ŠAR₂×4(U)|
 @inote	|HI×4(U)|
 @v	šarnimin
@@ -31227,10 +31246,6 @@
 @sign |ŠAR₂×5(U)|
 @inote	|HI×5(U)|
 @v	šarninnu
-@end sign
-
-@sign |ŠAR₂×U@g|
-@inote	etcsri
 @end sign
 
 @sign ŠE
@@ -31375,7 +31390,7 @@
 @v	bebad
 @v	bibad
 @v	bibe
-@sys	Attinger bebad => bibad
+@sys	Attinger  bebad => bibad
 @end sign
 
 @sign |ŠE.IGI.TUR|
@@ -31491,7 +31506,7 @@
 @v	tir
 @v	ṭer₅
 @v	ṭir₅
-@sys	Attinger ezinam₃ => ezina₃
+@sys	Attinger  ezinam₃ => ezina₃
 @end sign
 
 @sign |(ŠE.NUN&NUN)×TAK₄|
@@ -31628,8 +31643,8 @@
 @v	ezinam₂
 @v	ezinan₂
 @v	ezinu₂
-@sys	Attinger ezinam₂ => ezina₂
-@sys	Attinger ezinan₂ => ezina₂
+@sys	Attinger  ezinam₂ => ezina₂
+@sys	Attinger  ezinan₂ => ezina₂
 @end sign
 
 @sign |ŠE.ŠEŠ|
@@ -32074,7 +32089,7 @@
 @v	zadru
 @v	zandar
 @v	zandara
-@sys	Attinger giri₁₃ => gir₁₃
+@sys	Attinger  giri₁₃ => gir₁₃
 @form LAK636
 @list	LAK636
 @list	U+1250C
@@ -32210,7 +32225,7 @@
 @v	šim
 @v	šimbi₂
 @v	šimbizi
-@sys	Attinger babir₂ => bappir₂
+@sys	Attinger  babir₂ => bappir₂
 @end sign
 
 @sign |ŠIM.AN.MAŠ|
@@ -32327,7 +32342,7 @@
 @v	siraš₃
 @v	siris₃
 @v	šinₓ
-@sys	Attinger babir => bappir
+@sys	Attinger  babir => bappir
 @form |ŠIM.GAR|
 @inote	dcclt !sg
 @useq	x122C6.x120FB
@@ -32389,7 +32404,7 @@
 @list	LAK655
 @list	RSP422
 @v	šembi⁻
-@sys	Attinger šembi⁻
+@sys	Attinger  šembi⁻
 @@
 @end sign
 
@@ -32500,7 +32515,7 @@
 @uage	5.0
 @v	šeneg
 @v	šinig
-@sys	Attinger šeneg => šinig
+@sys	Attinger  šeneg => šinig
 @form |GAD.NAGA|
 @inote	dcclt !sg
 @useq	x120F0.x12240
@@ -32536,7 +32551,7 @@
 @v	šeri
 @v	šir
 @v	šur₃
-@sys	Attinger ašgi₂ => aš₇
+@sys	Attinger  ašgi₂ => aš₇
 @end sign
 
 @sign |ŠIR.GI₄|
@@ -32851,15 +32866,15 @@
 @ucun	𒋗𒄩
 @v	šuku₂
 @v	šukud₂
-@sys	Attinger šuku₂
-@sys	Attinger šukud₂
+@sys	Attinger  šuku₂
+@sys	Attinger  šukud₂
 @form |ŠU.HA@g|
 @useq	x122D7.x1212B
 @ucun	𒋗𒄫
 @v	šuku₃
 @v	šukud₃
-@sys	Attinger šuku₃
-@sys	Attinger šukud₃
+@sys	Attinger  šuku₃
+@sys	Attinger  šukud₃
 @@
 @end sign
 
@@ -32971,7 +32986,7 @@
 @v	ŋešba₂
 @v	ŋešbu₂
 @v	ŋešpu₂
-@sys	Attinger ŋešba₂
+@sys	Attinger  ŋešba₂
 @end sign
 
 @sign |ŠU.SI.DI|
@@ -32995,6 +33010,16 @@
 @uage	5.0
 @v	lilₓ?
 @inote	better ŠU&ŠU@h because the lower sign is reflected about the horizontal axis not rotated 180
+@end sign
+
+@sign ŠU@180
+@end sign
+
+@sign ŠU@s
+@inote	UET II, provisional
+@end sign
+
+@sign ŠU@t
 @end sign
 
 @sign ŠU₂
@@ -33269,16 +33294,6 @@
 @ref	Msk 731030 = dcclt:P271301 r i 17
 @end sign
 
-@sign ŠU@180
-@end sign
-
-@sign ŠU@s
-@inote	UET II, provisional
-@end sign
-
-@sign ŠU@t
-@end sign
-
 @sign ŠUBUR
 @list	ABZL004
 @list	BAU018
@@ -33311,7 +33326,7 @@
 @v	ṣeh
 @v	zeh₂
 @v	zih₂
-@sys	Attinger saha => šah
+@sys	Attinger  saha => šah
 @end sign
 
 @sign ŠUŠANA
@@ -33831,7 +33846,7 @@
 @v	tatge
 @end sign
 
-@compoundonly TAK₄@f
+@compoundonly	TAK₄@f
 
 @sign TAR
 @list	ABZL231
@@ -33990,8 +34005,8 @@
 @v	gulla
 @v	ŋulla
 @v	mullaₓ
-@sys	Attinger ŋulla => gulla
-@sys	Attinger mullaₓ
+@sys	Attinger  ŋulla => gulla
+@sys	Attinger  mullaₓ
 @end sign
 
 @sign |TE.ME|
@@ -34036,7 +34051,7 @@
 @v	teₓ
 @v	ur₁₂
 @v	uru₅
-@sys	Attinger maru => ru₁₀
+@sys	Attinger  maru => ru₁₀
 @form LAK051
 @list	LAK051
 @uname	CUNEIFORM SIGN LAK51
@@ -34054,7 +34069,7 @@
 @list	LAK373
 @list	RSP310
 @v	maru⁻
-@sys	Attinger maru⁻
+@sys	Attinger  maru⁻
 @@
 @end sign
 
@@ -34096,7 +34111,20 @@
 @v	tila₃
 @v	ṭe₆
 @v	ṭi₃
-@sys	Attinger tel₃ => til₃
+@sys	Attinger  tel₃ => til₃
+@end sign
+
+@sign TI@t
+@list	MZL118
+@uname	CUNEIFORM SIGN TI TENU
+@list	U+122FF
+@ucun	𒋿
+@uage	5.0
+@v	tanaₓ
+@ref	Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu
+@inote	dupfix MZL tana(KAL)
+@v	%akk/n tibnu
+@note	The value tibnu is assigned to TI@t, but it is not impossible that it belongs to TI.
 @end sign
 
 @sign TI₂
@@ -34112,19 +34140,6 @@
 @v	ti₂
 @v	ṭe₂
 @v	ṭi₂
-@end sign
-
-@sign TI@t
-@list	MZL118
-@uname	CUNEIFORM SIGN TI TENU
-@list	U+122FF
-@ucun	𒋿
-@uage	5.0
-@v	tanaₓ
-@ref	Diri 6 = Q000151 B28, ta-na-a TI@t.KU₆ ṣippatu
-@inote	dupfix MZL tana(KAL)
-@v	%akk/n tibnu
-@note	The value tibnu is assigned to TI@t, but it is not impossible that it belongs to TI.
 @end sign
 
 @sign TIL
@@ -34245,8 +34260,8 @@
 @v	tumušₓ
 @v	umuš
 @v	uš₄
-@sys	Attinger dašgari => taškarin
-@sys	Attinger tuba₄ => tug₂
+@sys	Attinger  dašgari => taškarin
+@sys	Attinger  tuba₄ => tug₂
 @end sign
 
 @sign |TUG₂.DU@s|
@@ -34358,7 +34373,7 @@
 @v	ṭu₄
 @v	ṭum
 @v	zibₓ
-@sys	Attinger egur₄ => egir₄
+@sys	Attinger  egur₄ => egir₄
 @form LAK496
 @list	LAK496
 @@
@@ -34434,7 +34449,7 @@
 @v	turu
 @v	ṭur₃
 @v	zerₓ
-@sys	Attinger de₁₀ => di₄
+@sys	Attinger  de₁₀ => di₄
 @end sign
 
 @sign |TUR.ARAD|
@@ -34768,6 +34783,8 @@
 @end sign
 
 @sign |U.GABA%GABA|
+@useq	x1230B.x120EF
+@ucun	𒌋𒃯
 @end sign
 
 @sign |U.GAN|
@@ -35018,7 +35035,7 @@
 @end sign
 
 @sign |U.U|
-@aka 00~b
+@aka	00~b
 @list	ABZL363
 @list	HZL296
 @list	MZL708
@@ -35161,12 +35178,14 @@
 @v	nimar
 @v	nimgin₃?
 @v	ningin₃
-@sys	Attinger nimar => niŋar
+@sys	Attinger  nimar => niŋar
 @form |U.KID|
 @@
 @end sign
 
 @sign |U.UR|
+@useq	x1230B.x12328
+@ucun	𒌋𒌨
 @end sign
 
 @sign |U.UR@s|
@@ -35228,6 +35247,35 @@
 @uage	5.0
 @v	bargi?
 @v	mašgi?
+@end sign
+
+@sign U@g
+@list	HZL261
+@list	LAK808
+@list	MZL662
+@list	SLLHA350_8
+@uname	CUNEIFORM NUMERIC SIGN ONE BURU
+@list	U+12434
+@ucun	𒐴
+@unote	duplicate? @uname CUNEIFORM SIGN U GUNU
+@uage	5.0
+@v	burʾu
+@v	1(burʾu)
+@form 1(BURU@c)
+@list	RSP034
+@inote	@ucode	xebb7
+@inote	this is the new OGSL name for U@c×KASKAL
+@v	burʾu@c
+@v	1(burʾu@c)
+@@
+@form |U×KASKAL|
+@inote	#old bur'uₓ
+@v	burʾuₓ
+@inote	does U×KASKAL ever occur or is it always U@c×KASKAL?
+@@
+@end sign
+
+@sign U@v
 @end sign
 
 @sign U₂
@@ -35346,7 +35394,7 @@
 @useq	x12311.x12172
 @ucun	𒌑𒅲
 @v	muzug₆
-@sys	Attinger muzug₆
+@sys	Attinger  muzug₆
 @end sign
 
 @sign |U₂.KI.SUM.GA|
@@ -35469,35 +35517,6 @@
 
 @sign |U₂&U₂|
 @inote	dcclt !sg
-@end sign
-
-@sign U@g
-@list	HZL261
-@list	LAK808
-@list	MZL662
-@list	SLLHA350_8
-@uname	CUNEIFORM NUMERIC SIGN ONE BURU
-@list	U+12434
-@ucun	𒐴
-@unote	duplicate? @uname CUNEIFORM SIGN U GUNU
-@uage	5.0
-@v	burʾu
-@v	1(burʾu)
-@form 1(BURU@c)
-@list	RSP034
-@inote	@ucode	xebb7
-@inote	this is the new OGSL name for U@c×KASKAL
-@v	burʾu@c
-@v	1(burʾu@c)
-@@
-@form |U×KASKAL|
-@inote	#old bur'uₓ
-@v	burʾuₓ
-@inote	does U×KASKAL ever occur or is it always U@c×KASKAL?
-@@
-@end sign
-
-@sign U@v
 @end sign
 
 @sign U₂@t
@@ -35629,7 +35648,7 @@
 @v	zalaga
 @v	zalah
 @v	zalaqaₓ
-@sys	Attinger šara₉ => šarag
+@sys	Attinger  šara₉ => šarag
 @end sign
 
 @sign |UD.A|
@@ -35747,7 +35766,7 @@
 @v	sippar
 @v	zibbir
 @v	zimbir
-@sys	Attinger zibbir => zimbir
+@sys	Attinger  zibbir => zimbir
 @form |GIŠ%GIŠ.NUN|
 @useq	x12112.x12263
 @ucun	𒄒𒉣
@@ -36591,6 +36610,31 @@
 @@
 @end sign
 
+@sign UR@180
+@inote	@uname-no-utf8	CUNEIFORM SIGN UR INVERTED
+@inote	[CBS 2146 = dcclt:P227871 o 7', lu₂ UR@180]
+@end sign
+
+@sign UR@s
+@list	ABZL220
+@list	KWU855
+@list	MZL829
+@list	SLLHA575b
+@uname	CUNEIFORM SIGN UR SHESHIG
+@list	U+1232A
+@ucun	𒌪
+@uage	5.0
+@v	dul₉
+@v	šudul₅
+@v	šudun₅
+@v	šutul₅
+@v	šutun₅
+@v	tul₇
+@v	ṭul₄
+@ref	VAT 9541 = dcclt/signlists:P345960 ii 9'
+@inote	salgues
+@end sign
+
 @sign UR₂
 @list	ABZL072
 @list	BAU382
@@ -36789,31 +36833,6 @@
 @v	ura₄
 @end sign
 
-@sign UR@180
-@inote	@uname-no-utf8	CUNEIFORM SIGN UR INVERTED
-@inote	[CBS 2146 = dcclt:P227871 o 7', lu₂ UR@180]
-@end sign
-
-@sign UR@s
-@list	ABZL220
-@list	KWU855
-@list	MZL829
-@list	SLLHA575b
-@uname	CUNEIFORM SIGN UR SHESHIG
-@list	U+1232A
-@ucun	𒌪
-@uage	5.0
-@v	dul₉
-@v	šudul₅
-@v	šudun₅
-@v	šutul₅
-@v	šutun₅
-@v	tul₇
-@v	ṭul₄
-@ref	VAT 9541 = dcclt/signlists:P345960 ii 9'
-@inote	salgues
-@end sign
-
 @sign UR₂@g
 @list	KWU737
 @v	ur₂@g
@@ -36865,6 +36884,10 @@
 @@
 @end sign
 
+@sign URI@n
+@inote	CDLI ed3b
+@end sign
+
 @sign URI₃
 @list	ABZL021a
 @list	BAU010
@@ -36879,10 +36902,6 @@
 @v	urin
 @v	uru₃
 @v	urun
-@end sign
-
-@sign URI@n
-@inote	CDLI ed3b
 @end sign
 
 @sign URU
@@ -37088,7 +37107,7 @@
 @v	erimmaₓ
 @v	erin₃
 @v	irimma
-@sys	Attinger irimma => erim₃
+@sys	Attinger  irimma => erim₃
 @end sign
 
 @sign |URU×GU|
@@ -37275,7 +37294,7 @@
 @v	ulu₃
 @v	uru₁₇
 @v	zik₃
-@sys	Attinger ŋešgal => ŋišgal
+@sys	Attinger  ŋešgal => ŋišgal
 @form |IM.LAK648|
 @useq	x1214E.x1250D
 @ucun	𒅎𒔍
@@ -37300,9 +37319,9 @@
 @v	lu₇⁻
 @v	ulu₃⁻
 @v	uru₁₇⁻
-@sys	Attinger lu₇⁻
-@sys	Attinger ulu₃⁻
-@sys	Attinger uru₁₇⁻
+@sys	Attinger  lu₇⁻
+@sys	Attinger  ulu₃⁻
+@sys	Attinger  uru₁₇⁻
 @@
 @form |URU×(MIN.IM)|
 @pname	|URU×MIN+IM|
@@ -37457,7 +37476,7 @@
 @v	silig₅
 @v	šilig₅
 @v	uruₓ
-@sys	Attinger pansur => banšur
+@sys	Attinger  pansur => banšur
 @form |LAK648×URUDA|
 @list	ELLES318
 @list	LAK653
@@ -37477,7 +37496,7 @@
 
 @sign |URU×X|
 @inote	For validating sign-lists
-@v guruₓ
+@v	guruₓ
 @end sign
 
 @sign |URU×X₂|
@@ -37654,10 +37673,10 @@
 @v	nitadam₂
 @v	nitalam₂
 @v	nitlam₂
-@sys	Attinger ŋešdan₂ => ŋidlam₂
-@sys	Attinger ŋešdana₂ => ŋidlam₂
-@sys	Attinger ŋeštan₂ => ŋidlam₂
-@sys	Attinger ŋeštana₂ => ŋidlam₂
+@sys	Attinger  ŋešdan₂ => ŋidlam₂
+@sys	Attinger  ŋešdana₂ => ŋidlam₂
+@sys	Attinger  ŋeštan₂ => ŋidlam₂
+@sys	Attinger  ŋeštana₂ => ŋidlam₂
 @end sign
 
 @sign |UŠ.GA|
@@ -37707,10 +37726,10 @@
 @v	nidlam₃
 @v	nitalam₃
 @v	nitlam₃
-@sys	Attinger ŋešdan₃ => ŋidlam₃
-@sys	Attinger ŋešdana₃ => ŋidlam₃
-@sys	Attinger ŋeštan₃ => ŋidlam₃
-@sys	Attinger ŋeštana₃ => ŋidlam₃
+@sys	Attinger  ŋešdan₃ => ŋidlam₃
+@sys	Attinger  ŋešdana₃ => ŋidlam₃
+@sys	Attinger  ŋeštan₃ => ŋidlam₃
+@sys	Attinger  ŋeštana₃ => ŋidlam₃
 @end sign
 
 @sign |UŠ.TUG₂.PI|
@@ -37903,7 +37922,7 @@
 @v	širum
 @v	usu₃
 @v	uzu
-@sys	Attinger usu₃ => uzu
+@sys	Attinger  usu₃ => uzu
 @form UZU@90
 @ref	OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7
 @v	uzu@90
@@ -37980,7 +37999,7 @@
 @v	zagga₂
 @v	zamₓ
 @v	ze₄
-@sys	Attinger ze₄ => za
+@sys	Attinger  ze₄ => za
 @end sign
 
 @sign |ZA.AN.MUŠ₃@g|
@@ -38055,7 +38074,7 @@
 @v	šubuₓ
 @v	zanaru₂
 @v	zannaru₂
-@sys	Attinger subi₂ => šuba₂
+@sys	Attinger  subi₂ => šuba₂
 @form |ZA.AN.MUŠ₃|
 @useq	x1235D.x1202D.x12239
 @ucun	𒍝𒀭𒈹
@@ -38138,15 +38157,6 @@
 @v	nir₄
 @end sign
 
-@sign ZA₇
-@list	LAK798
-@uname	CUNEIFORM SIGN ZA7
-@list	U+12541
-@ucun	𒕁
-@uage	8.0
-@v	za₇
-@end sign
-
 @sign ZA@t
 @list	ABZL245
 @list	MZL854
@@ -38161,6 +38171,15 @@
 @form |GAM.GAM|
 @v	ad₄
 @@
+@end sign
+
+@sign ZA₇
+@list	LAK798
+@uname	CUNEIFORM SIGN ZA7
+@list	U+12541
+@ucun	𒕁
+@uage	8.0
+@v	za₇
 @end sign
 
 @sign ZAG
@@ -38343,7 +38362,7 @@
 @useq	x12364.x121B8
 @ucun	𒍤𒆸
 @v	šub₅
-@sys	Attinger šub₅
+@sys	Attinger  šub₅
 @@
 @form |ZI&ZI.LAGAB×AŠ|
 @inote	dcclt !sg
@@ -38742,7 +38761,7 @@
 @v	ṣum
 @v	zu₃
 @v	zum
-@sys	Attinger gariŋ₂ => garig
+@sys	Attinger  gariŋ₂ => garig
 @end sign
 
 @sign- |ZUM.LAGAB|
@@ -38814,6 +38833,23 @@
 @@
 @end sign
 
+@sign 3(AŠ~b)
+@list	MZL210
+@list	SLLHA124a
+@inote	alias |TAB.AŠ|
+@uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH21
+@list	U+1243B
+@ucun	𒐻
+@uage	5.0
+@v	3(aš)@v
+@form 3(AŠ@c)@v
+@inote	@ucode	xeb83
+@v	3(aš@c)@v
+@v	eš₂₁
+@v	3(iku)@v
+@@
+@end sign
+
 @sign 4(AŠ)
 @uname	CUNEIFORM NUMERIC SIGN FOUR ASH
 @list	U+12402
@@ -38826,6 +38862,21 @@
 @inote	@ucode	xeb84
 @v	4(aš@c)
 @v	4(iku@c)
+@@
+@end sign
+
+@sign 4(AŠ~a)
+@list	MZL506
+@list	SLLHA325b
+@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU4
+@list	U+1243D
+@ucun	𒐽
+@uage	5.0
+@v	4(aš@v)
+@v	limmu₄
+@form 4(AŠ@c)@v
+@inote	@ucode	xeb85
+@v	4(aš@v@c)
 @@
 @end sign
 
@@ -38859,6 +38910,21 @@
 @@
 @end sign
 
+@sign 6(AŠ~a)
+@list	LAK134
+@list	MZL536
+@list	SLLHA331a
+@uname	CUNEIFORM NUMERIC SIGN SIX VARIANT FORM ASH9
+@list	U+12440
+@ucun	𒑀
+@uage	5.0
+@v	6(aš@v)
+@form 6(AŠ@c)@v
+@v	aš₉
+@v	6(aš@v@c)
+@@
+@end sign
+
 @sign 7(AŠ)
 @list	MZL218
 @list	SLLHA125d
@@ -38870,6 +38936,20 @@
 @form 7(AŠ@c)
 @inote	@ucode	xeb88
 @v	7(aš@c)
+@@
+@end sign
+
+@sign 7(AŠ~a)
+@list	MZL537
+@list	SLLHA331b
+@uname	CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN3
+@list	U+12441
+@ucun	𒑁
+@uage	5.0
+@v	7(aš@v)
+@form 7(AŠ@c)@v
+@v	7(aš@v@c)
+@v	imin₃
 @@
 @end sign
 
@@ -38904,40 +38984,159 @@
 @@
 @end sign
 
-@sign 1(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 3(BURU@v)
+@uname	CUNEIFORM NUMERIC SIGN THREE BURU VARIANT FORM
+@list	U+12437
+@ucun	𒐷
+@uage	5.0
+@v	3(burʾu)@v
+@form 3(BURU@c)@v
+@inote	@ucode	xebba
+@v	3(burʾu@c)@v
+@@
 @end sign
 
-@sign 2(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 2(BURU)
+@uname	CUNEIFORM NUMERIC SIGN TWO BURU
+@list	U+12435
+@ucun	𒐵
+@uage	5.0
+@v	2(burʾu)
+@v	nišₓ
+@form 2(BURU@c)
+@inote	@ucode	xebb8
+@v	2(burʾu@c)
+@@
 @end sign
 
-@sign 3(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 3(BURU)
+@uname	CUNEIFORM NUMERIC SIGN THREE BURU
+@list	U+12436
+@ucun	𒐶
+@uage	5.0
+@v	3(burʾu)
+@v	ušuₓ
+@form 3(BURU@c)
+@inote	@ucode	xebb9
+@v	3(burʾu@c)
+@@
 @end sign
 
-@sign 4(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 4(BURU)
+@uname	CUNEIFORM NUMERIC SIGN FOUR BURU
+@list	U+12438
+@ucun	𒐸
+@uage	5.0
+@v	4(burʾu)
+@v	niminₓ
+@form 4(BURU@c)
+@inote	@ucode	xebbb
+@v	4(burʾu@c)
+@@
 @end sign
 
-@sign 5(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 5(BURU)
+@uname	CUNEIFORM NUMERIC SIGN FIVE BURU
+@list	U+12439
+@ucun	𒐹
+@uage	5.0
+@v	5(burʾu)
+@v	buriaₓ
+@v	ninnuₓ
+@form 5(BURU@c)
+@inote	@ucode	xebbc
+@v	5(burʾu@c)
+@@
 @end sign
 
-@sign 6(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 1(GEŠU)
+@list	RSP021
+@uname	CUNEIFORM NUMERIC SIGN ONE GESHU
+@list	U+1241E
+@ucun	𒐞
+@uage	5.0
+@v	deššuₓ
+@v	gešʾu
+@v	1(gešʾu)
+@v	gešu
+@v	1(gešu)
+@v	ŋešʾu
+@form GEŠU@c
+@list	RSP027
+@inote	@ucode	xeba1
+@v	gešʾu@c
+@v	1(gešʾu@c)
+@v	1(gešu@c)
+@v	ŋešʾu@c
+@@
+@form GEŠU@v
+@v	gešʾu@v
+@@
 @end sign
 
-@sign 7(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 2(GEŠU)
+@uname	CUNEIFORM NUMERIC SIGN TWO GESHU
+@list	U+1241F
+@ucun	𒐟
+@uage	5.0
+@v	2(gešʾu)
+@v	2(gešu)
+@form 2(GEŠU@c)
+@inote	@ucode	xeba2
+@v	2(gešʾu@c)
+@v	2(gešu@c)
+@@
 @end sign
 
-@sign 8(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 3(GEŠU)
+@uname	CUNEIFORM NUMERIC SIGN THREE GESHU
+@list	U+12420
+@ucun	𒐠
+@uage	5.0
+@v	3(gešʾu)
+@v	3(gešu)
+@form 3(GEŠU@c)
+@inote	@ucode	xeba3
+@v	3(gešʾu@c)
+@v	3(gešu@c)
+@@
+@form 3(GEŠU@c)@v
+@inote	@ucode	xeba4
+@v	3(gešʾu@c)@v
+@v	3(gešu@c)@v
+@@
 @end sign
 
-@sign 9(|AŠ×DIŠ@t|)
-@list	RSP093
+@sign 4(GEŠU)
+@uname	CUNEIFORM NUMERIC SIGN FOUR GESHU
+@list	U+12421
+@ucun	𒐡
+@uage	5.0
+@v	4(gešʾu)
+@v	4(gešu)
+@form 4(GEŠU@c)
+@inote	@ucode	xeba5
+@v	4(gešʾu@c)
+@v	4(gešu@c)
+@@
+@form 4(GEŠU@c)@v
+@v	4(gešʾu@c)@v
+@v	4(gešu@c)@v
+@@
+@end sign
+
+@sign 5(GEŠU)
+@uname	CUNEIFORM NUMERIC SIGN FIVE GESHU
+@list	U+12422
+@ucun	𒐢
+@uage	5.0
+@v	5(gešʾu)
+@v	5(gešu)
+@form 5(GEŠU@c)
+@inote	@ucode	xeba6
+@v	5(gešʾu@c)
+@v	5(gešu@c)
+@@
 @end sign
 
 @sign 2(AŠ@t)
@@ -39006,254 +39205,302 @@
 @@
 @end sign
 
-@sign 4(AŠ~a)
-@list	MZL506
-@list	SLLHA325b
-@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU4
-@list	U+1243D
-@ucun	𒐽
+@sign 2(DIŠ@t)
+@list	RSP039
+@v	2(diš@t)
+@v	2(diš@t@c)
+@v	tabₓ
+@end sign
+
+@sign 3(DIŠ@t)
+@v	3(diš@t)
+@v	3(diš@t@c)
+@end sign
+
+@sign 4(DIŠ@t)
+@v	4(diš@t)
+@v	4(diš@t@c)
+@end sign
+
+@sign 5(DIŠ@t)
+@v	5(diš@t)
+@v	5(diš@t@c)
+@end sign
+
+@sign 6(DIŠ@t)
+@v	6(diš@t)
+@v	6(diš@t@c)
+@end sign
+
+@sign 4(U)
+@list	ABZL374
+@list	HZL335
+@list	MZL712
+@list	SLLHA473
+@uname	CUNEIFORM NUMERIC SIGN FOUR U
+@list	U+1240F
+@ucun	𒐏
 @uage	5.0
-@v	4(aš@v)
-@v	limmu₄
-@form 4(AŠ@c)@v
-@inote	@ucode	xeb85
-@v	4(aš@v@c)
+@v	4(bur₃)
+@v	limmu₃
+@v	limu₃
+@v	nimin
+@v	nimina
+@v	nin₅
+@v	nina₄
+@v	šanabaku₂
+@v	šanabi₂
+@v	4(u)
+@form 4(U@c)
+@inote	@ucode	xeb8f
+@v	4(bur₃@c)
+@v	4(u@c)
+@@
+@form 4(U@c)@v
+@inote	@ucode	xeb90
+@v	4(u@c)@v
 @@
 @end sign
 
-@sign 6(AŠ~a)
-@list	LAK134
-@list	MZL536
-@list	SLLHA331a
-@uname	CUNEIFORM NUMERIC SIGN SIX VARIANT FORM ASH9
-@list	U+12440
-@ucun	𒑀
+@sign 4(U)~v
+@uname	CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM
+@list	U+12469
+@ucun	𒑩
+@uage	7.0
+@end sign
+
+@sign 4(U)@v
+@uname	CUNEIFORM NUMERIC SIGN ELAMITE FORTY
+@list	U+12467
+@ucun	𒑧
+@uage	7.0
+@v	4(u)@v
+@end sign
+
+@sign 5(U)@v
+@uname	CUNEIFORM NUMERIC SIGN ELAMITE FIFTY
+@list	U+12468
+@ucun	𒑨
+@uage	7.0
+@v	5(u)@v
+@end sign
+
+@sign 5(U)
+@aka	|U&U.U&U.U|
+@list	ABZL376
+@list	MZL714
+@list	SLLHA475
+@uname	CUNEIFORM NUMERIC SIGN FIVE U
+@list	U+12410
+@ucun	𒐐
 @uage	5.0
-@v	6(aš@v)
-@form 6(AŠ@c)@v
-@v	aš₉
-@v	6(aš@v@c)
+@v	5(bur₃)
+@v	illil₂
+@v	kingusila₂
+@ref	Ass 00523 = dcclt/signlist:P370411 r i 6
+@inote	salgues
+@v	kingusili₂
+@v	mullil
+@v	ninniₓ
+@v	ninnu
+@v	ninuₓ
+@v	5(u)
+@form 5(U@c)
+@inote	@ucode	xeb91
+@v	5(bur₃@c)
+@v	5(u@c)
 @@
 @end sign
 
-@sign 7(AŠ~a)
-@list	MZL537
-@list	SLLHA331b
-@uname	CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN3
-@list	U+12441
-@ucun	𒑁
+@sign 5(U)~v
+@uname	CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM
+@list	U+1246A
+@ucun	𒑪
+@uage	7.0
+@end sign
+
+@sign 6(U)~v
+@uname	CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM
+@list	U+1246B
+@ucun	𒑫
+@uage	7.0
+@end sign
+
+@sign 6(U)
+@list	MZL715
+@list	SLLHA476
+@uname	CUNEIFORM NUMERIC SIGN SIX U
+@list	U+12411
+@ucun	𒐑
 @uage	5.0
-@v	7(aš@v)
-@form 7(AŠ@c)@v
-@v	7(aš@v@c)
-@v	imin₃
+@v	ašₓ
+@v	6(bur₃)
+@v	6(u)
+@form 6(U@c)
+@inote	@ucode	xeb92
+@v	6(u@c)
 @@
 @end sign
 
-@sign 3(AŠ~b)
-@list	MZL210
-@list	SLLHA124a
-@inote	alias |TAB.AŠ|
-@uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH21
-@list	U+1243B
-@ucun	𒐻
+@sign 7(U)~v
+@uname	CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM
+@list	U+1246C
+@ucun	𒑬
+@uage	7.0
+@end sign
+
+@sign 7(U)
+@list	MZL716
+@list	SLLHA477
+@uname	CUNEIFORM NUMERIC SIGN SEVEN U
+@list	U+12412
+@ucun	𒐒
 @uage	5.0
-@v	3(aš)@v
-@form 3(AŠ@c)@v
-@inote	@ucode	xeb83
-@v	3(aš@c)@v
-@v	eš₂₁
-@v	3(iku)@v
+@v	7(bur₃)
+@v	7(u)
+@v	umunₓ
+@form 7(U@c)
+@inote	@ucode	xeb93
+@v	7(u@c)
 @@
 @end sign
 
-@sign 1(BAN₂)
-@list	ABZL029
-@list	HZL020
-@list	MZL122
-@list	RSP019bis
-@list	SLLHA074
-@uname	CUNEIFORM NUMERIC SIGN ONE BAN2
-@list	U+1244F
-@ucun	𒑏
+@sign 8(U)
+@list	MZL717
+@list	SLLHA478
+@uname	CUNEIFORM NUMERIC SIGN EIGHT U
+@list	U+12413
+@ucun	𒐓
 @uage	5.0
-@v	ban₂
-@v	1(ban₂)
-@v	banda₂
-@v	sutₓ
-@v	sutu
-@form 1(BAN₂@c)
-@list	RSP036bis
-@inote	@ucode	xebbd
-@v	ban₂@c
-@v	1(ban₂@c)
-@@
-@form BAN₂@v
-@v	ban₂@v
+@v	8(bur₃)
+@v	8(u)
+@v	ussuₓ
+@form 8(U@c)
+@inote	@ucode	xeb94
+@v	8(u@c)
 @@
 @end sign
 
-@sign 2(BAN₂)
-@list	ABZL143
-@list	MZL465
-@list	RSP019bis
-@list	SLLHA295
-@uname	CUNEIFORM NUMERIC SIGN TWO BAN2
-@list	U+12450
-@ucun	𒑐
+@sign 8(U)~v
+@uname	CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM
+@list	U+1246D
+@ucun	𒑭
+@uage	7.0
+@end sign
+
+@sign 9(U)~v
+@uname	CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM
+@list	U+1246E
+@ucun	𒑮
+@uage	7.0
+@end sign
+
+@sign 9(U)
+@list	MZL718
+@list	SLLHA479
+@uname	CUNEIFORM NUMERIC SIGN NINE U
+@list	U+12414
+@ucun	𒐔
 @uage	5.0
-@v	bamen
-@v	bamin
-@v	2(ban₂)
-@v	banmin
-@form 2(BAN₂@c)
-@list	RSP036bis
-@inote	@ucode	xebbe
-@v	2(ban₂@c)
+@v	9(bur₃)
+@v	ilimmuₓ
+@v	9(u)
+@form 9(U@c)
+@inote	@ucode	xeb95
+@v	9(u@c)
 @@
 @end sign
 
-@sign 3(BAN₂)
-@list	MZL549
-@list	RSP019bis
-@list	SLLHA339
-@uname	CUNEIFORM NUMERIC SIGN THREE BAN2
-@list	U+12451
-@ucun	𒑑
+@sign 1(ŠARU)
+@list	ABZL284
+@list	MZL653
+@list	SLLHA409
+@uname	CUNEIFORM NUMERIC SIGN ONE SHARU
+@list	U+1242C
+@ucun	𒐬
 @uage	5.0
-@v	3(ban₂)
-@form 3(BAN₂@c)
-@list	RSP036bis
-@inote	@ucode	xebbf
-@v	3(ban₂@c)
+@v	šarʾu
+@v	1(šarʾu)
+@v	šaru
+@v	1(šaru)
+@form 1(ŠARU@c)
+@list	RSP032
+@inote	@ucode	xebb1
+@v	šarʾu@c
+@v	1(šarʾu@c)
+@v	šaru@c
+@v	1(šaru@c)
 @@
-@form 3(BAN₂@c)@v
-@v	3(ban₂@c)@v
-@@
-@end sign
-
-@sign 4(BAN₂)
-@list	MZL550
-@list	RSP019bis
-@list	SLLHA340v
-@uname	CUNEIFORM NUMERIC SIGN FOUR BAN2
-@list	U+12452
-@ucun	𒑒
-@uage	5.0
-@v	4(ban₂)
-@form 4(BAN₂@c)
-@list	RSP036bis
-@inote	@ucode	xebc0
-@v	4(ban₂@c)
+@form 1(ŠARU@v)
+@v	šarʾu@v
+@inote	cdli lagash2
+@v	šaru@v
 @@
 @end sign
 
-@sign 5(BAN₂)
-@list	MZL551
-@list	RSP019bis
-@list	SLLHA341v
-@uname	CUNEIFORM NUMERIC SIGN FIVE BAN2
-@list	U+12454
-@ucun	𒑔
+@sign 2(ŠARU)
+@list	ABZL285
+@list	MZL655
+@list	SLLHA409a
+@uname	CUNEIFORM NUMERIC SIGN TWO SHARU
+@list	U+1242D
+@ucun	𒐭
 @uage	5.0
-@v	5(ban₂)
-@form 5(BAN₂@c)
-@list	RSP036bis
-@inote	@ucode	xebc1
-@v	5(ban₂@c)
+@v	2(šarʾu)
+@v	2(šaru)
+@form 2(ŠARU@c)
+@inote	@ucode	xebb2
+@v	2(šarʾu@c)
+@v	2(šaru@c)
 @@
 @end sign
 
-@sign 4(BAN₂@v)
-@list	SLLHA340
-@uname	CUNEIFORM NUMERIC SIGN FOUR BAN2 VARIANT FORM
-@list	U+12453
-@ucun	𒑓
+@sign 3(ŠARU)
+@list	ABZL286
+@list	MZL656
+@list	SLLHA409b
+@uname	CUNEIFORM NUMERIC SIGN THREE SHARU
+@list	U+1242E
+@ucun	𒐮
 @uage	5.0
-@v	4(ban₂)@v
-@v	4(ban₂@v)
-@form 4(BAN₂@c)@v
-@v	4(ban₂@c)@v
-@v	4(ban₂@v@c)
+@v	3(šarʾu)
+@v	3(šaru)
+@form 3(ŠARU@c)
+@inote	@ucode	xebb3
+@v	3(šarʾu@c)
+@v	3(šaru@c)
 @@
 @end sign
 
-@sign 5(BAN₂@v)
-@list	SLLHA341
-@uname	CUNEIFORM NUMERIC SIGN FIVE BAN2 VARIANT FORM
-@list	U+12455
-@ucun	𒑕
+@sign 4(ŠARU)
+@list	MZL657
+@list	SLLHA409c
+@uname	CUNEIFORM NUMERIC SIGN FOUR SHARU
+@list	U+12430
+@ucun	𒐰
 @uage	5.0
-@v	5(ban₂)@v
-@v	5(ban₂@v)
-@form 5(BAN₂@c)@v
-@v	5(ban₂@c)@v
-@v	5(ban₂@v@c)
+@v	4(šarʾu)
+@v	4(šaru)
+@form 4(ŠARU@c)
+@inote	@ucode	xebb5
+@v	4(šarʾu@c)
+@v	4(šaru@c)
 @@
 @end sign
 
-@sign 2(BURU)
-@uname	CUNEIFORM NUMERIC SIGN TWO BURU
-@list	U+12435
-@ucun	𒐵
+@sign 5(ŠARU)
+@list	MZL658
+@list	SLLHA409d
+@uname	CUNEIFORM NUMERIC SIGN FIVE SHARU
+@list	U+12431
+@ucun	𒐱
 @uage	5.0
-@v	2(burʾu)
-@v	nišₓ
-@form 2(BURU@c)
-@inote	@ucode	xebb8
-@v	2(burʾu@c)
-@@
-@end sign
-
-@sign 3(BURU)
-@uname	CUNEIFORM NUMERIC SIGN THREE BURU
-@list	U+12436
-@ucun	𒐶
-@uage	5.0
-@v	3(burʾu)
-@v	ušuₓ
-@form 3(BURU@c)
-@inote	@ucode	xebb9
-@v	3(burʾu@c)
-@@
-@end sign
-
-@sign 4(BURU)
-@uname	CUNEIFORM NUMERIC SIGN FOUR BURU
-@list	U+12438
-@ucun	𒐸
-@uage	5.0
-@v	4(burʾu)
-@v	niminₓ
-@form 4(BURU@c)
-@inote	@ucode	xebbb
-@v	4(burʾu@c)
-@@
-@end sign
-
-@sign 5(BURU)
-@uname	CUNEIFORM NUMERIC SIGN FIVE BURU
-@list	U+12439
-@ucun	𒐹
-@uage	5.0
-@v	5(burʾu)
-@v	buriaₓ
-@v	ninnuₓ
-@form 5(BURU@c)
-@inote	@ucode	xebbc
-@v	5(burʾu@c)
-@@
-@end sign
-
-@sign 3(BURU@v)
-@uname	CUNEIFORM NUMERIC SIGN THREE BURU VARIANT FORM
-@list	U+12437
-@ucun	𒐷
-@uage	5.0
-@v	3(burʾu)@v
-@form 3(BURU@c)@v
-@inote	@ucode	xebba
-@v	3(burʾu@c)@v
+@v	5(šarʾu)
+@v	5(šaru)
+@form 5(ŠARU@c)
+@inote	@ucode	xebb6
+@v	5(šarʾu@c)
+@v	5(šaru@c)
 @@
 @end sign
 
@@ -39443,33 +39690,6 @@
 @@
 @end sign
 
-@sign 2(DIŠ@t)
-@list	RSP039
-@v	2(diš@t)
-@v	2(diš@t@c)
-@v	tabₓ
-@end sign
-
-@sign 3(DIŠ@t)
-@v	3(diš@t)
-@v	3(diš@t@c)
-@end sign
-
-@sign 4(DIŠ@t)
-@v	4(diš@t)
-@v	4(diš@t@c)
-@end sign
-
-@sign 5(DIŠ@t)
-@v	5(diš@t)
-@v	5(diš@t@c)
-@end sign
-
-@sign 6(DIŠ@t)
-@v	6(diš@t)
-@v	6(diš@t@c)
-@end sign
-
 @sign 9(DIŠ~a)
 @list	MZL539
 @list	SLLHA331d
@@ -39515,6 +39735,195 @@
 @v	ilimmuₓ
 @form 9(DIŠ@v@c)
 @v	9(diš@v@c)
+@@
+@end sign
+
+@sign 1/2(GUR)
+@uname	CUNEIFORM NUMERIC SIGN ONE HALF GUR
+@list	U+12464
+@ucun	𒑤
+@uage	7.0
+@end sign
+
+@sign 1/4(GUR)
+@uname	CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
+@list	U+12463
+@ucun	𒑣
+@uage	7.0
+@end sign
+
+@sign 3(ŠARU@v)
+@uname	CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM
+@list	U+1242F
+@ucun	𒐯
+@uage	5.0
+@v	3(šarʾu)@v
+@v	3(šaru)@v
+@form 3(ŠARU@c)@v
+@inote	@ucode	xebb4
+@v	3(šarʾu@c)@v
+@v	3(šaru@c)@v
+@@
+@end sign
+
+@sign 1(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 2(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 3(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 4(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 5(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 6(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 7(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 8(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 9(|AŠ×DIŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 1(BAN₂)
+@list	ABZL029
+@list	HZL020
+@list	MZL122
+@list	RSP019bis
+@list	SLLHA074
+@uname	CUNEIFORM NUMERIC SIGN ONE BAN2
+@list	U+1244F
+@ucun	𒑏
+@uage	5.0
+@v	ban₂
+@v	1(ban₂)
+@v	banda₂
+@v	sutₓ
+@v	sutu
+@form BAN₂@v
+@v	ban₂@v
+@@
+@form 1(BAN₂@c)
+@list	RSP036bis
+@inote	@ucode	xebbd
+@v	ban₂@c
+@v	1(ban₂@c)
+@@
+@end sign
+
+@sign 2(BAN₂)
+@list	ABZL143
+@list	MZL465
+@list	RSP019bis
+@list	SLLHA295
+@uname	CUNEIFORM NUMERIC SIGN TWO BAN2
+@list	U+12450
+@ucun	𒑐
+@uage	5.0
+@v	bamen
+@v	bamin
+@v	2(ban₂)
+@v	banmin
+@form 2(BAN₂@c)
+@list	RSP036bis
+@inote	@ucode	xebbe
+@v	2(ban₂@c)
+@@
+@end sign
+
+@sign 3(BAN₂)
+@list	MZL549
+@list	RSP019bis
+@list	SLLHA339
+@uname	CUNEIFORM NUMERIC SIGN THREE BAN2
+@list	U+12451
+@ucun	𒑑
+@uage	5.0
+@v	3(ban₂)
+@form 3(BAN₂@c)
+@list	RSP036bis
+@inote	@ucode	xebbf
+@v	3(ban₂@c)
+@@
+@form 3(BAN₂@c)@v
+@v	3(ban₂@c)@v
+@@
+@end sign
+
+@sign 4(BAN₂)
+@list	MZL550
+@list	RSP019bis
+@list	SLLHA340v
+@uname	CUNEIFORM NUMERIC SIGN FOUR BAN2
+@list	U+12452
+@ucun	𒑒
+@uage	5.0
+@v	4(ban₂)
+@form 4(BAN₂@c)
+@list	RSP036bis
+@inote	@ucode	xebc0
+@v	4(ban₂@c)
+@@
+@end sign
+
+@sign 5(BAN₂)
+@list	MZL551
+@list	RSP019bis
+@list	SLLHA341v
+@uname	CUNEIFORM NUMERIC SIGN FIVE BAN2
+@list	U+12454
+@ucun	𒑔
+@uage	5.0
+@v	5(ban₂)
+@form 5(BAN₂@c)
+@list	RSP036bis
+@inote	@ucode	xebc1
+@v	5(ban₂@c)
+@@
+@end sign
+
+@sign 4(BAN₂@v)
+@list	SLLHA340
+@uname	CUNEIFORM NUMERIC SIGN FOUR BAN2 VARIANT FORM
+@list	U+12453
+@ucun	𒑓
+@uage	5.0
+@v	4(ban₂)@v
+@v	4(ban₂@v)
+@form 4(BAN₂@c)@v
+@v	4(ban₂@c)@v
+@v	4(ban₂@v@c)
+@@
+@end sign
+
+@sign 5(BAN₂@v)
+@list	SLLHA341
+@uname	CUNEIFORM NUMERIC SIGN FIVE BAN2 VARIANT FORM
+@list	U+12455
+@ucun	𒑕
+@uage	5.0
+@v	5(ban₂)@v
+@v	5(ban₂@v)
+@form 5(BAN₂@c)@v
+@v	5(ban₂@c)@v
+@v	5(ban₂@v@c)
 @@
 @end sign
 
@@ -39694,108 +40103,40 @@
 @@
 @end sign
 
-@sign 1(GEŠU)
-@list	RSP021
-@uname	CUNEIFORM NUMERIC SIGN ONE GESHU
-@list	U+1241E
-@ucun	𒐞
-@uage	5.0
-@v	deššuₓ
-@v	gešʾu
-@v	1(gešʾu)
-@v	gešu
-@v	1(gešu)
-@v	ŋešʾu
-@form GEŠU@c
-@list	RSP027
-@inote	@ucode	xeba1
-@v	gešʾu@c
-@v	1(gešʾu@c)
-@v	1(gešu@c)
-@v	ŋešʾu@c
-@@
-@form GEŠU@v
-@v	gešʾu@v
-@@
+@sign 1(N01@f)
+@inote	UET II
 @end sign
 
-@sign 2(GEŠU)
-@uname	CUNEIFORM NUMERIC SIGN TWO GESHU
-@list	U+1241F
-@ucun	𒐟
-@uage	5.0
-@v	2(gešʾu)
-@v	2(gešu)
-@form 2(GEŠU@c)
-@inote	@ucode	xeba2
-@v	2(gešʾu@c)
-@v	2(gešu@c)
-@@
+@sign 2(N01@f)
+@inote	UET II
 @end sign
 
-@sign 3(GEŠU)
-@uname	CUNEIFORM NUMERIC SIGN THREE GESHU
-@list	U+12420
-@ucun	𒐠
-@uage	5.0
-@v	3(gešʾu)
-@v	3(gešu)
-@form 3(GEŠU@c)
-@inote	@ucode	xeba3
-@v	3(gešʾu@c)
-@v	3(gešu@c)
-@@
-@form 3(GEŠU@c)@v
-@inote	@ucode	xeba4
-@v	3(gešʾu@c)@v
-@v	3(gešu@c)@v
-@@
+@sign 3(N01@f)
+@inote	UET II
 @end sign
 
-@sign 4(GEŠU)
-@uname	CUNEIFORM NUMERIC SIGN FOUR GESHU
-@list	U+12421
-@ucun	𒐡
-@uage	5.0
-@v	4(gešʾu)
-@v	4(gešu)
-@form 4(GEŠU@c)
-@inote	@ucode	xeba5
-@v	4(gešʾu@c)
-@v	4(gešu@c)
-@@
-@form 4(GEŠU@c)@v
-@v	4(gešʾu@c)@v
-@v	4(gešu@c)@v
-@@
+@sign 4(N01@f)
+@inote	UET II
 @end sign
 
-@sign 5(GEŠU)
-@uname	CUNEIFORM NUMERIC SIGN FIVE GESHU
-@list	U+12422
-@ucun	𒐢
-@uage	5.0
-@v	5(gešʾu)
-@v	5(gešu)
-@form 5(GEŠU@c)
-@inote	@ucode	xeba6
-@v	5(gešʾu@c)
-@v	5(gešu@c)
-@@
+@sign 5(N01@f)
+@inote	UET II
 @end sign
 
-@sign 1/2(GUR)
-@uname	CUNEIFORM NUMERIC SIGN ONE HALF GUR
-@list	U+12464
-@ucun	𒑤
-@uage	7.0
+@sign 6(N01@f)
+@inote	UET II
 @end sign
 
-@sign 1/4(GUR)
-@uname	CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
-@list	U+12463
-@ucun	𒑣
-@uage	7.0
+@sign 7(N01@f)
+@inote	UET II
+@end sign
+
+@sign 8(N01@f)
+@inote	UET II
+@end sign
+
+@sign 9(N01@f)
+@inote	UET II
 @end sign
 
 @sign 1(N01)
@@ -39836,42 +40177,6 @@
 @end sign
 
 @sign 10(N01)
-@inote	UET II
-@end sign
-
-@sign 1(N01@f)
-@inote	UET II
-@end sign
-
-@sign 2(N01@f)
-@inote	UET II
-@end sign
-
-@sign 3(N01@f)
-@inote	UET II
-@end sign
-
-@sign 4(N01@f)
-@inote	UET II
-@end sign
-
-@sign 5(N01@f)
-@inote	UET II
-@end sign
-
-@sign 6(N01@f)
-@inote	UET II
-@end sign
-
-@sign 7(N01@f)
-@inote	UET II
-@end sign
-
-@sign 8(N01@f)
-@inote	UET II
-@end sign
-
-@sign 9(N01@f)
 @inote	UET II
 @end sign
 
@@ -40097,6 +40402,10 @@
 @inote	UET II
 @end sign
 
+@sign 1(N34@f@t)
+@inote	UET II
+@end sign
+
 @sign 1(N34@f)
 @inote	UET II
 @end sign
@@ -40126,10 +40435,6 @@
 @end sign
 
 @sign 9(N34@f)
-@inote	UET II
-@end sign
-
-@sign 1(N34@f@t)
 @inote	UET II
 @end sign
 
@@ -40205,22 +40510,6 @@
 @inote	UET II
 @end sign
 
-@sign 1(N51)
-@inote	UET II
-@end sign
-
-@sign 2(N51)
-@inote	UET II
-@end sign
-
-@sign 4(N51)
-@inote	UET II
-@end sign
-
-@sign 5(N51)
-@inote	UET II
-@end sign
-
 @sign 1(N51@f)
 @inote	UET II
 @end sign
@@ -40246,6 +40535,22 @@
 @end sign
 
 @sign 9(N51@f)
+@inote	UET II
+@end sign
+
+@sign 1(N51)
+@inote	UET II
+@end sign
+
+@sign 2(N51)
+@inote	UET II
+@end sign
+
+@sign 4(N51)
+@inote	UET II
+@end sign
+
+@sign 5(N51)
 @inote	UET II
 @end sign
 
@@ -40393,290 +40698,4 @@
 @sign 6(|ŠAR₂×KASKAL|)
 @inote	dccmt
 @v	6(šarʾu)@v
-@end sign
-
-@sign 1(ŠARU)
-@list	ABZL284
-@list	MZL653
-@list	SLLHA409
-@uname	CUNEIFORM NUMERIC SIGN ONE SHARU
-@list	U+1242C
-@ucun	𒐬
-@uage	5.0
-@v	šarʾu
-@v	1(šarʾu)
-@v	šaru
-@v	1(šaru)
-@form 1(ŠARU@c)
-@list	RSP032
-@inote	@ucode	xebb1
-@v	šarʾu@c
-@v	1(šarʾu@c)
-@v	šaru@c
-@v	1(šaru@c)
-@@
-@form 1(ŠARU@v)
-@v	šarʾu@v
-@inote	cdli lagash2
-@v	šaru@v
-@@
-@end sign
-
-@sign 2(ŠARU)
-@list	ABZL285
-@list	MZL655
-@list	SLLHA409a
-@uname	CUNEIFORM NUMERIC SIGN TWO SHARU
-@list	U+1242D
-@ucun	𒐭
-@uage	5.0
-@v	2(šarʾu)
-@v	2(šaru)
-@form 2(ŠARU@c)
-@inote	@ucode	xebb2
-@v	2(šarʾu@c)
-@v	2(šaru@c)
-@@
-@end sign
-
-@sign 3(ŠARU)
-@list	ABZL286
-@list	MZL656
-@list	SLLHA409b
-@uname	CUNEIFORM NUMERIC SIGN THREE SHARU
-@list	U+1242E
-@ucun	𒐮
-@uage	5.0
-@v	3(šarʾu)
-@v	3(šaru)
-@form 3(ŠARU@c)
-@inote	@ucode	xebb3
-@v	3(šarʾu@c)
-@v	3(šaru@c)
-@@
-@end sign
-
-@sign 4(ŠARU)
-@list	MZL657
-@list	SLLHA409c
-@uname	CUNEIFORM NUMERIC SIGN FOUR SHARU
-@list	U+12430
-@ucun	𒐰
-@uage	5.0
-@v	4(šarʾu)
-@v	4(šaru)
-@form 4(ŠARU@c)
-@inote	@ucode	xebb5
-@v	4(šarʾu@c)
-@v	4(šaru@c)
-@@
-@end sign
-
-@sign 5(ŠARU)
-@list	MZL658
-@list	SLLHA409d
-@uname	CUNEIFORM NUMERIC SIGN FIVE SHARU
-@list	U+12431
-@ucun	𒐱
-@uage	5.0
-@v	5(šarʾu)
-@v	5(šaru)
-@form 5(ŠARU@c)
-@inote	@ucode	xebb6
-@v	5(šarʾu@c)
-@v	5(šaru@c)
-@@
-@end sign
-
-@sign 3(ŠARU@v)
-@uname	CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM
-@list	U+1242F
-@ucun	𒐯
-@uage	5.0
-@v	3(šarʾu)@v
-@v	3(šaru)@v
-@form 3(ŠARU@c)@v
-@inote	@ucode	xebb4
-@v	3(šarʾu@c)@v
-@v	3(šaru@c)@v
-@@
-@end sign
-
-@sign 4(U)
-@list	ABZL374
-@list	HZL335
-@list	MZL712
-@list	SLLHA473
-@uname	CUNEIFORM NUMERIC SIGN FOUR U
-@list	U+1240F
-@ucun	𒐏
-@uage	5.0
-@v	4(bur₃)
-@v	limmu₃
-@v	limu₃
-@v	nimin
-@v	nimina
-@v	nin₅
-@v	nina₄
-@v	šanabaku₂
-@v	šanabi₂
-@v	4(u)
-@form 4(U@c)
-@inote	@ucode	xeb8f
-@v	4(bur₃@c)
-@v	4(u@c)
-@@
-@form 4(U@c)@v
-@inote	@ucode	xeb90
-@v	4(u@c)@v
-@@
-@end sign
-
-@sign 4(U)~v
-@uname	CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM
-@list	U+12469
-@ucun	𒑩
-@uage	7.0
-@end sign
-
-@sign 4(U)@v
-@uname	CUNEIFORM NUMERIC SIGN ELAMITE FORTY
-@list	U+12467
-@ucun	𒑧
-@uage	7.0
-@v	4(u)@v
-@end sign
-
-@sign 5(U)@v
-@uname	CUNEIFORM NUMERIC SIGN ELAMITE FIFTY
-@list	U+12468
-@ucun	𒑨
-@uage	7.0
-@v	5(u)@v
-@end sign
-
-@sign 5(U)
-@aka	|U&U.U&U.U|
-@list	ABZL376
-@list	MZL714
-@list	SLLHA475
-@uname	CUNEIFORM NUMERIC SIGN FIVE U
-@list	U+12410
-@ucun	𒐐
-@uage	5.0
-@v	5(bur₃)
-@v	illil₂
-@v	kingusila₂
-@ref	Ass 00523 = dcclt/signlist:P370411 r i 6
-@inote	salgues
-@v	kingusili₂
-@v	mullil
-@v	ninniₓ
-@v	ninnu
-@v	ninuₓ
-@v	5(u)
-@form 5(U@c)
-@inote	@ucode	xeb91
-@v	5(bur₃@c)
-@v	5(u@c)
-@@
-@end sign
-
-@sign 5(U)~v
-@uname	CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM
-@list	U+1246A
-@ucun	𒑪
-@uage	7.0
-@end sign
-
-@sign 6(U)~v
-@uname	CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM
-@list	U+1246B
-@ucun	𒑫
-@uage	7.0
-@end sign
-
-@sign 6(U)
-@list	MZL715
-@list	SLLHA476
-@uname	CUNEIFORM NUMERIC SIGN SIX U
-@list	U+12411
-@ucun	𒐑
-@uage	5.0
-@v	ašₓ
-@v	6(bur₃)
-@v	6(u)
-@form 6(U@c)
-@inote	@ucode	xeb92
-@v	6(u@c)
-@@
-@end sign
-
-@sign 7(U)~v
-@uname	CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM
-@list	U+1246C
-@ucun	𒑬
-@uage	7.0
-@end sign
-
-@sign 7(U)
-@list	MZL716
-@list	SLLHA477
-@uname	CUNEIFORM NUMERIC SIGN SEVEN U
-@list	U+12412
-@ucun	𒐒
-@uage	5.0
-@v	7(bur₃)
-@v	7(u)
-@v	umunₓ
-@form 7(U@c)
-@inote	@ucode	xeb93
-@v	7(u@c)
-@@
-@end sign
-
-@sign 8(U)
-@list	MZL717
-@list	SLLHA478
-@uname	CUNEIFORM NUMERIC SIGN EIGHT U
-@list	U+12413
-@ucun	𒐓
-@uage	5.0
-@v	8(bur₃)
-@v	8(u)
-@v	ussuₓ
-@form 8(U@c)
-@inote	@ucode	xeb94
-@v	8(u@c)
-@@
-@end sign
-
-@sign 8(U)~v
-@uname	CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM
-@list	U+1246D
-@ucun	𒑭
-@uage	7.0
-@end sign
-
-@sign 9(U)~v
-@uname	CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM
-@list	U+1246E
-@ucun	𒑮
-@uage	7.0
-@end sign
-
-@sign 9(U)
-@list	MZL718
-@list	SLLHA479
-@uname	CUNEIFORM NUMERIC SIGN NINE U
-@list	U+12414
-@ucun	𒐔
-@uage	5.0
-@v	9(bur₃)
-@v	ilimmuₓ
-@v	9(u)
-@form 9(U@c)
-@inote	@ucode	xeb95
-@v	9(u@c)
-@@
 @end sign
