@@ -2965,6 +2965,12 @@
 @v	%akk wardu
 @v	xkiₓ
 @sys	Attinger   ninta₂ => nita₂
+@inote CHECK: from eggrobin's commit of ELLes numbers: Note that for ELLES035
+       I have disregarded 48 r. III 16–17, P241498 o iii 16–17. Those are
+       transliterated AŠ.SÌLA in MEE3 and simply sila₃ in dcclt/ebla,
+       corresponding to 𒀸𒋡 or just 𒋡, whereas the attestation from MEE 3 43
+       is arad 𒀴. If a distinction with normal sila₃ needed to be made in
+       dcclt/ebla, I guess an @form of sila₃ would be needed.
 @end sign
 
 @sign |ARAD.ANŠE|
