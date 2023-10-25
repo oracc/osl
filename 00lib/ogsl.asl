@@ -4659,6 +4659,10 @@
 @@
 @end sign
 
+@sign |E.KISIM₅×X|
+@v garaₓ
+@end sign
+
 @sign |DAG.KISIM₅×BI|
 @list	MZL447
 @list	RSP359
@@ -10925,7 +10929,7 @@
 
 @sign GE₂₂
 @list	MZL647
-@note	This is sign is sometimes (incorrectly) described as AŠ@k
+@note	This sign is sometimes (incorrectly) described as AŠ@k
 @uname	CUNEIFORM SIGN GE₂₂
 @list	U+1237B
 @ucun	𒍻
@@ -12357,6 +12361,8 @@
 @v	idigna
 @inote	CDLI AbS transliterations; basis for idigna reading?
 @@
+@form |MAŠ.NA₂|
+@@
 @end sign
 
 @sign |GU₂.NUNUZ|
@@ -12376,6 +12382,13 @@
 @sign |GU₂×AŠ₂|
 @inote	CBS 3421 o 18
 @inote	collated from photo; could this be for GU₂×PA?
+@end sign
+
+@sign |GU₂×GAD|
+@end sign
+
+@sign |GU₂.KAM₄|
+@inote sign name gu zu-ub#-[ba-ku]
 @end sign
 
 @sign |GU₂×(HI×DIŠ)|
@@ -13506,6 +13519,8 @@
 @useq	x12134.x1219C
 @ucun	𒄴𒆜
 @v	kiši₁₃
+@form |HI.KASKAL|
+@@
 @end sign
 
 @sign |HI×NUN.ME|
@@ -17105,6 +17120,8 @@
 @useq	x1219C.x12134
 @ucun	𒆜𒄴
 @v	kiši₁₅
+@form |KASKAL.HI|
+@@
 @end sign
 
 @sign |KASKAL.KUR|
@@ -23366,6 +23383,9 @@
 @v	mašda₃
 @end sign
 
+@sign |MAŠ.KAM₄|
+@end sign
+
 @sign- |MAŠ.MIN|
 @note	error for |MAŠ.U.U|
 @useq	x12226.x1222B
@@ -26758,6 +26778,8 @@
 @list	LAK813
 @inote	BAU082b and LAK813 are two conjoined round beads, NUNUZ~a1 in CDLI archsigns
 @@
+@form |AB₂%AB₂|
+@@
 @end sign
 
 @sign |NUNUZ.AB₂|
@@ -27244,6 +27266,10 @@
 @ucun	𒉺𒁖X
 @v	sirig
 @inote	value sirig following PA.DAG.KISIM₅×KAK; reading not certain
+@@
+@form |PA.X.X|
+@v utulₓ
+@inote P437085 = KBo 26, 018 i' 1'
 @@
 @end sign
 
@@ -34741,6 +34767,9 @@
 @v	zahan
 @end sign
 
+@sign |U.GABA%GABA|
+@end sign
+
 @sign |U.GAN|
 @list	ABZL345
 @list	BAU279
@@ -35135,6 +35164,9 @@
 @sys	Attinger nimar => niŋar
 @form |U.KID|
 @@
+@end sign
+
+@sign |U.UR|
 @end sign
 
 @sign |U.UR@s|
@@ -37445,6 +37477,7 @@
 
 @sign |URU×X|
 @inote	For validating sign-lists
+@v guruₓ
 @end sign
 
 @sign |URU×X₂|
@@ -37883,7 +37916,9 @@
 
 @sign X
 @v	baniaₓ
+@v	eriₓ
 @v	x
+@v	zeₓ
 @end sign
 
 @sign X₁
