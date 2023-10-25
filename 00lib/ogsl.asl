@@ -4074,7 +4074,8 @@
 @sign |BI.U₂.SA|
 @useq	x12049.x12311.x12293
 @ucun	𒁉𒌑𒊓
-@v	{kaš}dida
+@v-	{kaš}dida
+@inote This can't be both {kaš}dida and dida and didaₓ for |U₂.SA| has been deleted.
 @v	dida
 @v	pihu₄
 @end sign
@@ -5457,8 +5458,8 @@
 @v	din
 @v	dini
 @v	gurun₈
-@v-	idinₓ
-@note	Value idinₓ is not listed in MZL and seems unnecessary.
+@v	idinₓ
+@inote	Value idinₓ is not listed in MZL and seems unnecessary; reallowed because of lex i-di-in = DIN in DCCLT
 @v	itinₓ
 @v	kurun₂
 @v	ten₂
