@@ -81,7 +81,7 @@
 @lit	M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)
 @inote	TO-DO: check numbers against volume
 
-@sysdef Attinger   Attinger-Sallaberger transliteration conventions
+@sysdef Attinger    Attinger-Sallaberger transliteration conventions
 @lit	P. Attinger, "1. Système de translittération adopté: le problème de la «lecture correcte».
 	Pp. 58-103 in Glossaire sumérien–français principalement des textes littéraires
 	paléobabyloniens (Wiesbaden 2021).
@@ -533,7 +533,7 @@
 @v	guninₓ
 @v	iₓ
 @v	idₓ
-@sys	Attinger   guninₓ => buniŋₓ
+@sys	Attinger    guninₓ => buniŋₓ
 @end sign
 
 @sign |A.LAGAB×HAL|
@@ -1189,8 +1189,8 @@
 @list	RSP419
 @v	a₂⁻
 @v	te₈⁻
-@sys	Attinger   a₂⁻ => a₂
-@sys	Attinger   te₈⁻ => te₈
+@sys	Attinger    a₂⁻ => a₂
+@sys	Attinger    te₈⁻ => te₈
 @@
 @end sign
 
@@ -1316,8 +1316,8 @@
 @v	iṣ₃
 @v	iz₃
 @v	unu₅
-@sys	Attinger   erigal₃
-@sys	Attinger   irigal₃
+@sys	Attinger    erigal₃
+@sys	Attinger    irigal₃
 @end sign
 
 @sign |AB.HA.ZAG.GABA.HU|
@@ -1449,7 +1449,7 @@
 @v	nina
 @v	sirara
 @v	siraran
-@sys	Attinger   niŋen₆ => niŋin₆
+@sys	Attinger    niŋen₆ => niŋin₆
 @end sign
 
 @sign |AB×HA.TAG|
@@ -1607,8 +1607,8 @@
 @v	unug
 @v	urugal₂
 @v	uruk
-@sys	Attinger   erigal₂
-@sys	Attinger   irigal₂
+@sys	Attinger    erigal₂
+@sys	Attinger    irigal₂
 @form AB
 @list	BAU333
 @list	ELLES285
@@ -1616,8 +1616,8 @@
 @list	RSP223
 @v	unu⁻
 @v	unug⁻
-@sys	Attinger   unu⁻ => unu
-@sys	Attinger   unug⁻ => unug
+@sys	Attinger    unu⁻ => unu
+@sys	Attinger    unug⁻ => unug
 @@
 @form MURUB₄
 @list	LAK157
@@ -1794,8 +1794,8 @@
 @v	sem₅
 @v	šem₅
 @v	ub₇
-@sys	Attinger   sem₅ => šem₅
-@sys	Attinger   ub₇
+@sys	Attinger    sem₅ => šem₅
+@sys	Attinger    ub₇
 @end sign
 
 @compoundonly	|AB₂×GU|
@@ -1857,7 +1857,7 @@
 @v	šagₓ
 @v	šem₃
 @v	ub₃
-@sys	Attinger   sem₃ => šem₃
+@sys	Attinger    sem₃ => šem₃
 @end sign
 
 @sign |AB₂×ŠE|
@@ -1937,7 +1937,7 @@
 @v	ad-kid
 @v	adgub
 @v	akkil₂
-@sys	Attinger   adgub
+@sys	Attinger    adgub
 @end sign
 
 @sign |AD.KU|
@@ -2786,13 +2786,13 @@
 @inote	dupfix MZL sumugan(GIR₃)
 @v	šagan₂
 @v	šakan₃
-@sys	Attinger   šagan₂ => šakan₃
+@sys	Attinger    šagan₂ => šakan₃
 @form KIŠ
 @list	LAK248
 @v	anše
 @inote	Oracc anše(KIŠ)
 @v	anše⁻
-@sys	Attinger   anše⁻ => anše
+@sys	Attinger    anše⁻ => anše
 @@
 @form LAK239
 @list	LAK239
@@ -2860,7 +2860,7 @@
 @ucun	𒀲𒆳𒊏
 @v	sisi
 @v	zizi
-@sys	Attinger   zizi => sisi
+@sys	Attinger    zizi => sisi
 @form |ANŠE.KUR|
 @useq	x12032.x121B3
 @ucun	𒀲𒆳
@@ -2964,13 +2964,13 @@
 @v	war₃
 @v	%akk wardu
 @v	xkiₓ
-@sys	Attinger   ninta₂ => nita₂
-@inote CHECK: from eggrobin's commit of ELLes numbers: Note that for ELLES035
-       I have disregarded 48 r. III 16–17, P241498 o iii 16–17. Those are
-       transliterated AŠ.SÌLA in MEE3 and simply sila₃ in dcclt/ebla,
-       corresponding to 𒀸𒋡 or just 𒋡, whereas the attestation from MEE 3 43
-       is arad 𒀴. If a distinction with normal sila₃ needed to be made in
-       dcclt/ebla, I guess an @form of sila₃ would be needed.
+@inote	CHECK: from eggrobin's commit of ELLes numbers: Note that for ELLES035
+	I have disregarded 48 r. III 16–17, P241498 o iii 16–17. Those are
+	transliterated AŠ.SÌLA in MEE3 and simply sila₃ in dcclt/ebla,
+	corresponding to 𒀸𒋡 or just 𒋡, whereas the attestation from MEE 3 43
+	is arad 𒀴. If a distinction with normal sila₃ needed to be made in
+	dcclt/ebla, I guess an @form of sila₃ would be needed.
+@sys	Attinger    ninta₂ => nita₂
 @end sign
 
 @sign |ARAD.ANŠE|
@@ -4162,7 +4162,7 @@
 @v	bappira₃
 @v	lungaₓ
 @v	ningiₓ
-@sys	Attinger   ningiₓ
+@sys	Attinger    ningiₓ
 @end sign
 
 @sign |BI×IGI|
@@ -4256,7 +4256,7 @@
 @v	šir₂
 @v	šud₂
 @v	tur₈?
-@sys	Attinger   madul => mudul
+@sys	Attinger    madul => mudul
 @end sign
 
 @sign |BU.BU@90|
@@ -4467,7 +4467,7 @@
 @v	šum₅
 @v	ušu
 @v	ušum
-@sys	Attinger   buluŋ₂ => bulug₂
+@sys	Attinger    buluŋ₂ => bulug₂
 @form BUR₂@v
 @inote	see MZL sub BUR₂, MZL008
 @v	bur₂@v
@@ -4971,7 +4971,7 @@
 @v	šurin₅
 @v	šurun₅?
 @v	zibin₂
-@sys	Attinger   haruba => harub
+@sys	Attinger    haruba => harub
 @form |E.KISIM₅×(U₂.GIR₂)|
 @inote	Hittite
 @useq	x1208A.X
@@ -5093,7 +5093,7 @@
 @v	tir₃
 @v	ṭar₂
 @v	ṭir₄
-@sys	Attinger   dara₆ => dar
+@sys	Attinger    dara₆ => dar
 @end sign
 
 @sign DARA₃
@@ -5151,7 +5151,7 @@
 @v	tarah₂
 @v	u₁₀
 @v	ua₂
-@sys	Attinger   tara₄ => dara₄
+@sys	Attinger    tara₄ => dara₄
 @form DARA₄~b
 @inote	hapax in UET II = CDLI archsigns DARA₄~b which lacks internal horizontals
 @@
@@ -5795,7 +5795,7 @@
 @v	sub₂
 @v	sug₂
 @v	sup₂?
-@sys	Attinger   er₁₄ => re₇
+@sys	Attinger    er₁₄ => re₇
 @form |DU%DU|
 @inote	dcclt !sg
 @@
@@ -5846,7 +5846,7 @@
 @list	LAK484
 @list	RSP369
 @v	suhuš⁻
-@sys	Attinger   suhuš⁻ => suhuš
+@sys	Attinger    suhuš⁻ => suhuš
 @@
 @end sign
 
@@ -5902,8 +5902,8 @@
 @v	parim
 @v	raₓ
 @v	rim₄
-@sys	Attinger   barim
-@sys	Attinger   parim
+@sys	Attinger    barim
+@sys	Attinger    parim
 @form DU
 @list	BAU374
 @list	ELLES252
@@ -5913,10 +5913,10 @@
 @v	gir₅⁻
 @v	im₂⁻
 @v	kaš₄⁻
-@sys	Attinger   barim⁻
-@sys	Attinger   gir₅⁻ => gir₅
-@sys	Attinger   im₂⁻ => im₂
-@sys	Attinger   kaš₄⁻ => kaš₄
+@sys	Attinger    barim⁻
+@sys	Attinger    gir₅⁻ => gir₅
+@sys	Attinger    im₂⁻ => im₂
+@sys	Attinger    kaš₄⁻ => kaš₄
 @@
 @form |DU×KASKAL|
 @list	ELLES253
@@ -6491,7 +6491,7 @@
 @v	zahₓ
 @v	zehₓ
 @v	zu₇
-@sys	Attinger   šaha₂ => šah₂
+@sys	Attinger    šaha₂ => šah₂
 @end sign
 
 @sign |DUN.GI|
@@ -6549,9 +6549,9 @@
 @v	du₅⁺
 @v	dun₃⁺
 @v	tun₃⁺
-@sys	Attinger   du₅⁺ => du₅
-@sys	Attinger   dun₃⁺ => dun₃
-@sys	Attinger   tun₃⁺ => tun₃
+@sys	Attinger    du₅⁺ => du₅
+@sys	Attinger    dun₃⁺ => dun₃
+@sys	Attinger    tun₃⁺ => tun₃
 @@
 @form LAK786
 @list	ELLES385
@@ -6907,7 +6907,7 @@
 @v	eŋar
 @v	igar
 @v	ingar
-@sys	Attinger   eŋar => egar
+@sys	Attinger    eŋar => egar
 @end sign
 
 @sign |E₂.ŠA₃|
@@ -6923,7 +6923,7 @@
 @v	asaŋ
 @v	esagₓ
 @v	esaŋₓ
-@sys	Attinger   asaŋ => esaŋₓ
+@sys	Attinger    asaŋ => esaŋₓ
 @end sign
 
 @sign |E₂.UŠ.BU.DA|
@@ -8506,7 +8506,7 @@
 @list	LAK611
 @list	RSP284
 @v	asila⁻
-@sys	Attinger   asila⁻ => asila
+@sys	Attinger    asila⁻ => asila
 @@
 @end sign
 
@@ -8898,7 +8898,7 @@
 @v	pisaŋ
 @v	pisan
 @v	ša₁₃
-@sys	Attinger   bešeŋ => bisaŋ
+@sys	Attinger    bešeŋ => bisaŋ
 @end sign
 
 @sign |GA₂.NU₁₁|
@@ -9001,6 +9001,8 @@
 @v	gakiṣṣu
 @inote	deprecate gakiṣṣu?
 @v	ŋakizzum
+@form |GA₂×(AB₂×GAN₂@t.TAB)|
+@@
 @form |GA₂×(AB₂×ŠA₃.TAB)|
 @v	ŋakizzum
 @@
@@ -9944,7 +9946,7 @@
 @v	esag₂
 @v	esaŋ₂
 @v	usi
-@sys	Attinger   ašaŋ₂ => esaŋ₂
+@sys	Attinger    ašaŋ₂ => esaŋ₂
 @end sign
 
 @sign |GA₂×(ŠE.TUR)|
@@ -10428,7 +10430,7 @@
 @ucun	𒃲𒌺
 @v	kiŋgal
 @v	kingal
-@sys	Attinger   kiŋgal => kingal
+@sys	Attinger    kiŋgal => kingal
 @end sign
 
 @sign |GAL.ZU|
@@ -10526,7 +10528,7 @@
 @v	seg₁₆
 @v	sig₁₆
 @v	šaganₓ
-@sys	Attinger   saga₇ => sag₇
+@sys	Attinger    saga₇ => sag₇
 @form |GAN×HI|
 @list	BAU048
 @v	he₂
@@ -10725,9 +10727,9 @@
 @v	ša₂
 @v	šikin
 @v	šu₇?
-@sys	Attinger   niŋdanₓ => nindan
-@sys	Attinger   niŋdanaₓ => nindan
-@sys	Attinger   nindanaₓ => nindan
+@sys	Attinger    niŋdanₓ => nindan
+@sys	Attinger    niŋdanaₓ => nindan
+@sys	Attinger    nindanaₓ => nindan
 @end sign
 
 @sign |GAR.GA₂×(A.IGI)|
@@ -11302,8 +11304,8 @@
 @v	qiq
 @v	simₓ
 @inote	ED |MI.NUNUZ|
-@sys	Attinger   geg => gig
-@sys	Attinger   kib₃
+@sys	Attinger    geg => gig
+@sys	Attinger    kib₃
 @end sign
 
 @sign GIR₂
@@ -11387,7 +11389,7 @@
 @v	šakan₂
 @v	šakkan₂
 @v	wir
-@sys	Attinger   irra => ir₉
+@sys	Attinger    irra => ir₉
 @form |GA₂×AN.GAN.KAK|
 @inote	Reading according to copy of K.4349+ iv 54a''; needs collation
 @useq	x120BC.x120F6.x12195
@@ -11414,7 +11416,7 @@
 @useq	x121A7.x12034
 @ucun	𒆧𒀴
 @v	šagana
-@sys	Attinger   šagana
+@sys	Attinger    šagana
 @@
 @form |KIŠ@g.ARAD|
 @useq	X.x12034
@@ -11477,7 +11479,7 @@
 @form KIŠ
 @list	LAK248
 @v	alim⁻
-@sys	Attinger   alim⁻ => alim
+@sys	Attinger    alim⁻ => alim
 @@
 @end sign
 
@@ -11508,7 +11510,7 @@
 @form KIŠ
 @list	LAK248
 @v	giri₁₆⁻
-@sys	Attinger   giri₁₆⁻ => giri₁₆
+@sys	Attinger    giri₁₆⁻ => giri₁₆
 @@
 @end sign
 
@@ -11831,8 +11833,8 @@
 @v	luhummu
 @v	ṣil₄
 @v	ubilla₂
-@sys	Attinger   ŋessu => ŋissu
-@sys	Attinger   ŋessun => ŋissu
+@sys	Attinger    ŋessu => ŋissu
+@sys	Attinger    ŋessun => ŋissu
 @end sign
 
 @sign |GIŠ.NE|
@@ -12052,7 +12054,7 @@
 @ucun	𒄑𒌆𒉿𒎓
 @v	ŋessal
 @inote	to be read ŋessal{+sal₄} in Attinger's system.
-@sys	Attinger   ŋessal
+@sys	Attinger    ŋessal
 @@
 @form |GIŠ.TUG₂.PI.SILA₃.A|
 @note	Hattuša Erimhuš
@@ -12603,7 +12605,7 @@
 @v	šušgim
 @v	zeb₃
 @v	zib₃
-@sys	Attinger   aštub => eštub
+@sys	Attinger    aštub => eštub
 @end sign
 
 @sign |GUD.AN.NA|
@@ -12684,7 +12686,7 @@
 @v	ama₂
 @v	eldig
 @v	ildag₃
-@sys	Attinger   eldig => ildag₃
+@sys	Attinger    eldig => ildag₃
 @end sign
 
 @sign |(GUD×PAP)&(GUD×PAP)|
@@ -12793,7 +12795,7 @@
 @v	qum
 @v	ša₉
 @v	šaqu₃?
-@sys	Attinger   gaz⁻ => gaz
+@sys	Attinger    gaz⁻ => gaz
 @end sign
 
 @sign- |GUM×(GI.IDIM)|
@@ -12973,7 +12975,7 @@
 @list	LAK353
 @list	RSP182
 @v	ha⁺
-@sys	Attinger   ha⁺ => ha
+@sys	Attinger    ha⁺ => ha
 @@
 @end sign
 
@@ -13061,9 +13063,9 @@
 @v	gir⁻
 @v	kir⁻
 @v	peš⁻
-@sys	Attinger   gir⁻ => gir
-@sys	Attinger   kir⁻ => kir
-@sys	Attinger   peš⁻ => peš
+@sys	Attinger    gir⁻ => gir
+@sys	Attinger    kir⁻ => kir
+@sys	Attinger    peš⁻ => peš
 @@
 @end sign
 
@@ -13217,7 +13219,7 @@
 @form KIŠ
 @list	LAK248
 @v	huš⁻
-@sys	Attinger   huš⁻
+@sys	Attinger    huš⁻
 @@
 @form LAK240
 @list	LAK240
@@ -13796,7 +13798,7 @@
 @ucun	𒄽
 @uage	5.0
 @v	tu₁₁⁺
-@sys	Attinger   tu₁₁⁺
+@sys	Attinger    tu₁₁⁺
 @@
 @end sign
 
@@ -14315,7 +14317,7 @@
 @v	seg₅
 @v	sig₅
 @v	ša₁₅?
-@sys	Attinger   saga₁₀ => sag₁₀
+@sys	Attinger    saga₁₀ => sag₁₀
 @end sign
 
 @sign |IGI.EŠ₂|
@@ -14472,7 +14474,7 @@
 @v	ildum₂
 @v	ilduma₂
 @v	ildumma₂
-@sys	Attinger   dulum => ildum₂
+@sys	Attinger    dulum => ildum₂
 @end sign
 
 @sign |IGI.NAGAR.ŠIR|
@@ -14649,7 +14651,7 @@
 @v	uludin₂
 @v	ulutim₂
 @v	ulutin₂
-@sys	Attinger   uktim => uktin
+@sys	Attinger    uktim => uktin
 @end sign
 
 @sign |IGI@g.IGI@g|
@@ -14741,7 +14743,7 @@
 @v	ila₂
 @v	ili₂
 @v	illalₓ
-@sys	Attinger   dubsig => dubsik
+@sys	Attinger    dubsig => dubsik
 @form |KAD₄.SAG|
 @useq	x12192.x12295
 @ucun	𒆒𒊕
@@ -14959,7 +14961,7 @@
 @v	duggu
 @v	dungaₓ
 @v	dungu
-@sys	Attinger   duggu => dungu
+@sys	Attinger    duggu => dungu
 @end sign
 
 @sign |IM.ŠITA|
@@ -14981,7 +14983,7 @@
 @useq	x1214E.x12313
 @ucun	𒅎𒌓
 @v	sidar
-@sys	Attinger   sidar
+@sys	Attinger    sidar
 @end sign
 
 @sign |IM×TAK₄|
@@ -15162,7 +15164,7 @@
 @inote	This is a variant of |IŠ.URUDA| = šeknu/šen₅
 @v	šuš₃
 @v	ukum
-@sys	Attinger   kukkušda
+@sys	Attinger    kukkušda
 @end sign
 
 @sign |IŠ.A.SUD|
@@ -15274,8 +15276,8 @@
 @v	zu₂
 @v	zug₂
 @v	zuh
-@sys	Attinger   agu₂
-@sys	Attinger   ugu₆
+@sys	Attinger    agu₂
+@sys	Attinger    ugu₆
 @form |KA×U|
 @list	HZL141
 @list	LAK319
@@ -15556,7 +15558,7 @@
 @list	LAK318
 @list	RSP197
 @v	še₂₆⁻
-@sys	Attinger   še₂₆⁻
+@sys	Attinger    še₂₆⁻
 @@
 @end sign
 
@@ -15744,7 +15746,7 @@
 @v	gu₃
 @inote	OGSL doesn't allow gu₇(KA) and gu₃(KA) or guₓ(KA) so we have to use gu₃ here
 @v	gu₇⁻
-@sys	Attinger   gu₇⁻
+@sys	Attinger    gu₇⁻
 @@
 @form |KA.GAR|
 @useq	x12157.x120FB
@@ -17112,7 +17114,7 @@
 @v	raš
 @v	rin₆
 @v	šubtumₓ
-@sys	Attinger   irsaŋ
+@sys	Attinger    irsaŋ
 @end sign
 
 @sign |KASKAL.BU|
@@ -17489,7 +17491,7 @@
 @v	uludin
 @v	ulutim
 @v	ulutin
-@sys	Attinger   hurin => hirin
+@sys	Attinger    hurin => hirin
 @end sign
 
 @sign |KI.KAL.BAD.IDIM|
@@ -18024,7 +18026,7 @@
 @v	kisal
 @v	lel₄?
 @v	par₄
-@sys	Attinger   ŋepar => ŋiparₓ
+@sys	Attinger    ŋepar => ŋiparₓ
 @end sign
 
 @sign |KISAL×PAP|
@@ -18138,8 +18140,8 @@
 @v	lazₓ
 @v	qis
 @v	qiš
-@sys	Attinger   keše => keš
-@sys	Attinger   kiše => kiš
+@sys	Attinger    keše => keš
+@sys	Attinger    kiše => kiš
 @end sign
 
 @sign |KIŠ.AB@g|
@@ -18304,7 +18306,7 @@
 @v	ehₓ
 @v	eheh
 @v	ehehhe
-@sys	Attinger   eheh => ehehhe
+@sys	Attinger    eheh => ehehhe
 @end sign
 
 @sign |KU.NU|
@@ -18358,7 +18360,7 @@
 @v	azag
 @v	azak
 @v	sagₓ
-@sys	Attinger   aza₂ => azag
+@sys	Attinger    aza₂ => azag
 @end sign
 
 @sign |KU₃.GI|
@@ -18547,7 +18549,7 @@
 @ref	OB Nippur Ura 3 = Q000001 385
 @v	qun
 @v	xnunnamxₓ
-@sys	Attinger   kuŋ₂ => kun
+@sys	Attinger    kuŋ₂ => kun
 @form MAŠ₂
 @list	ABZL031
 @list	BAU046
@@ -18951,8 +18953,8 @@
 @v	tukulₓ
 @v	tukur
 @v	tur₆
-@sys	Attinger   gerin => girin
-@sys	Attinger   niŋen₂ => niŋin₂
+@sys	Attinger    gerin => girin
+@sys	Attinger    niŋen₂ => niŋin₂
 @end sign
 
 @sign |LAGAB.LAGAB|
@@ -18986,7 +18988,7 @@
 @v	nini
 @v	ninni₂
 @v	rin₃
-@sys	Attinger   niŋen => niŋin
+@sys	Attinger    niŋen => niŋin
 @end sign
 
 @sign |LAGAB.SAG@g|
@@ -19264,7 +19266,7 @@
 @v	gigira
 @v	pu₆
 @v	tul₈
-@sys	Attinger   dulₓ => tul₈
+@sys	Attinger    dulₓ => tul₈
 @form |LAGAB×UŠ₂|
 @@
 @end sign
@@ -20510,7 +20512,7 @@
 @v	usar₃
 @v	ušar₃
 @v	ušur₃
-@sys	Attinger   niŋen₅ => niŋin₆
+@sys	Attinger    niŋen₅ => niŋin₆
 @end sign
 
 @sign |LAL₂.NI|
@@ -22000,7 +22002,7 @@
 @v	kuŋgala
 @v	kungal
 @v	kungalaₓ
-@sys	Attinger   kuŋgala => gukkal
+@sys	Attinger    kuŋgala => gukkal
 @end sign
 
 @sign |LU.KI.KAK|
@@ -22675,7 +22677,7 @@
 @v	rin₅
 @v	ug₈?
 @inote	Krebernik RlA s.v. U.GUR
-@sys	Attinger   irina₃ => rin₅
+@sys	Attinger    irina₃ => rin₅
 @form LAK349
 @list	LAK349
 @@
@@ -23270,6 +23272,12 @@
 @v	šilamₓ
 @end sign
 
+@sign |MA₂.X|
+@useq	x12223.O
+@ucun	𒈣O
+@v	nirₓ
+@end sign
+
 @sign MAH
 @list	ABZL006
 @list	HZL010
@@ -23379,7 +23387,7 @@
 @ucun	𒈦𒂗𒆕
 @v	mašda₂
 @v	mašgagen
-@sys	Attinger   mašgagen => mašda₂
+@sys	Attinger    mašgagen => mašda₂
 @end sign
 
 @sign |MAŠ.GU₂.GAR₃|
@@ -23667,8 +23675,8 @@
 @v	ṣil₂
 @v	wi₄
 @v	zilₓ
-@sys	Attinger   geg₂ => gig₂
-@sys	Attinger   gegge => giggi
+@sys	Attinger    geg₂ => gig₂
+@sys	Attinger    gegge => giggi
 @end sign
 
 @sign |MI.MI|
@@ -23926,8 +23934,8 @@
 @v	lumₓ
 @v	mur₇
 @v	murgu₂
-@sys	Attinger   ŋur₂₄ => mur₇
-@sys	Attinger   ŋurgu₂ => murgu₂
+@sys	Attinger    ŋur₂₄ => mur₇
+@sys	Attinger    ŋurgu₂ => murgu₂
 @form SIG₄
 @list	BAU206
 @list	ELLES111
@@ -23938,8 +23946,8 @@
 @v	mur₈
 @inote	for nu-mur₈(SIG₄) in ED Metals 50/51; is that really sumur[roof]?
 @v	murgu
-@sys	Attinger   ŋur₂₃
-@sys	Attinger   ŋurgu => murgu
+@sys	Attinger    ŋur₂₃
+@sys	Attinger    ŋurgu => murgu
 @@
 @end sign
 
@@ -24256,7 +24264,7 @@
 @v	šuba₄?
 @v	zanaru
 @v	zannaru
-@sys	Attinger   subi₄ => šuba₄
+@sys	Attinger    subi₄ => šuba₄
 @form MUŠ₃@g
 @v	inana
 @@
@@ -24313,7 +24321,7 @@
 @v	sedi₃
 @v	še₁₂
 @v	šed₉
-@sys	Attinger   se₂₄ => še₁₂
+@sys	Attinger    se₂₄ => še₁₂
 @@
 @form |A.MUŠ₃.A.DI|
 @useq	x12000.x12239.x12000.x12072
@@ -24335,7 +24343,7 @@
 @v	sedi₅
 @v	še₁₈
 @v	šed₁₁
-@sys	Attinger   amagea => amagi₂
+@sys	Attinger    amagea => amagi₂
 @@
 @form |A.MUŠ₃×A.DI|
 @useq	x12000.x1223A.x12072
@@ -24401,7 +24409,7 @@
 @useq	x1223D.x12072
 @ucun	𒈽𒁲
 @v	se₂₉
-@sys	Attinger   se₂₉
+@sys	Attinger    se₂₉
 @@
 @form |ZA.MUŠ₃.DI|
 @useq	x1235D.x12239.x12072
@@ -24443,9 +24451,9 @@
 @v	šušinak
 @v	šušum
 @v	šušun
-@sys	Attinger   susin => šušin
-@sys	Attinger   susina => šušin
-@sys	Attinger   šušun => šušum
+@sys	Attinger    susin => šušin
+@sys	Attinger    susina => šušin
+@sys	Attinger    šušun => šušum
 @form |MUŠ₃.ŠEŠ₂|
 @useq	x12239.x122C1
 @ucun	𒈹𒋁
@@ -24489,7 +24497,7 @@
 @v	suba₃
 @v	subi₃
 @v	šuba₃
-@sys	Attinger   subi₃ => šuba₃
+@sys	Attinger    subi₃ => šuba₃
 @form |MUŠ₃.ZA₇|
 @useq	x12239.x12541
 @ucun	𒈹𒕁
@@ -24797,7 +24805,7 @@
 @ref	Ebla Sign List = Q000038 72, NA₂ še₃-tum
 @v	šedₓ
 @v	timuaₓ
-@sys	Attinger   ŋešnu₃ => nud
+@sys	Attinger    ŋešnu₃ => nud
 @end sign
 
 @sign |NA₂.X|
@@ -24838,7 +24846,7 @@
 @v	uhul
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 42
 @inote	salgues
-@sys	Attinger   uga₃
+@sys	Attinger    uga₃
 @form |ŠE.NAGA|
 @useq	x122BA.x12240
 @ucun	𒊺𒉀
@@ -24944,7 +24952,7 @@
 @v	nagara
 @v	naŋar
 @v	niminₓ?
-@sys	Attinger   naŋar => nagar
+@sys	Attinger    naŋar => nagar
 @end sign
 
 @sign |NAGAR.BU|
@@ -24955,7 +24963,7 @@
 @v	ildum₃
 @v	ilduma₃
 @v	ildumma₃
-@sys	Attinger   dulum₂ => ildum₃
+@sys	Attinger    dulum₂ => ildum₃
 @form |BU.NAGAR|
 @useq	x1204D.x12244
 @ucun	𒁍𒉄
@@ -25146,8 +25154,8 @@
 @v	ṭi₅
 @v	zah
 @v	ziₓ
-@sys	Attinger   ibbi₂
-@sys	Attinger   šar₉
+@sys	Attinger    ibbi₂
+@sys	Attinger    šar₉
 @end sign
 
 @sign |NE.GI|
@@ -25383,7 +25391,7 @@
 @v	zalli
 @v	zanga
 @v	zar₂
-@sys	Attinger   u₂₄
+@sys	Attinger    u₂₄
 @end sign
 
 @sign |NI.GIŠ|
@@ -25631,7 +25639,7 @@
 @list	LAK271
 @list	RSP390
 @v	tum₃⁻
-@sys	Attinger   tum₃⁻
+@sys	Attinger    tum₃⁻
 @@
 @form |NIM×GAN₂|
 @@
@@ -26292,7 +26300,7 @@
 @v	pil₆?
 @v	sakarₓ
 @v	sudₓ
-@sys	Attinger   ŋešnu => ŋešnu
+@sys	Attinger    ŋešnu => ŋešnu
 @form |NU₁₁.GIŠ|
 @inote	dupfix converted to @form to resolve ŋešnu conflict
 @inote	PROBLEM: This means ŋešnu needs collation throughout because it probably normally refers to |NU₁₁.GIŠ|; possibly global nu₁₁ for nu₁₁(|NU₁₁.GIŠ|) in non-Attinger corpora
@@ -26549,7 +26557,7 @@
 @ucun	𒉣𒇬
 @v	šilam⁻
 @inote	sjt there is also a separate |NUN.LAGAR| sign with value šilamₓ
-@sys	Attinger   šilam⁻
+@sys	Attinger    šilam⁻
 @@
 @form |NUN.LAGAR×MAŠ|
 @lit	Veldhuis, JCS 54, 70.
@@ -27423,7 +27431,7 @@
 @ucun	𒉺𒄐𒉻
 @v	addir₃
 @inote	addir(|A.PA.GISAL.PAD.SI.A|) corresponds to {+a}addir₃{+dir} in Attinger's system
-@sys	Attinger   addir₃
+@sys	Attinger    addir₃
 @end sign
 
 @sign |PA.GISAL.SI.KAL.RU|
@@ -27441,7 +27449,7 @@
 @useq	x1227A.x1211B
 @ucun	𒉺𒄛
 @v	musubₓ
-@sys	Attinger   musubₓ => munsubₓ
+@sys	Attinger    musubₓ => munsubₓ
 @@
 @end sign
 
@@ -27479,7 +27487,7 @@
 @v	šip₃
 @v	šub₃
 @v	šup₃
-@sys	Attinger   saba => sab
+@sys	Attinger    saba => sab
 @end sign
 
 @sign |PA.KAK|
@@ -27635,7 +27643,7 @@
 @v	isin
 @v	isina
 @v	išin
-@sys	Attinger   isina => isin
+@sys	Attinger    isina => isin
 @end sign
 
 @sign |PA.TAR|
@@ -27780,7 +27788,7 @@
 @v	nindaba
 @v	ninni₇
 @v	ninnim₇
-@sys	Attinger   niŋdaba => nindaba
+@sys	Attinger    niŋdaba => nindaba
 @end sign
 
 @sign |PAD.AN.MUŠ₃@g|
@@ -27804,7 +27812,7 @@
 @v	nindabaₓ
 @v	ninniₓ
 @v	ninnimₓ
-@sys	Attinger   niŋdaba₂ => nindabaₓ
+@sys	Attinger    niŋdaba₂ => nindabaₓ
 @form |MUŠ₃.PAD|
 @useq	x12239.x1227B
 @ucun	𒈹𒉻
@@ -28258,7 +28266,7 @@
 @uage	5.0
 @v	dešₓ
 @v	piriŋ⁺
-@sys	Attinger   piriŋ⁺
+@sys	Attinger    piriŋ⁺
 @@
 @end sign
 
@@ -28318,7 +28326,7 @@
 @ucun	𒊊𒌉
 @v	nemur₂
 @v	nimurₓ
-@sys	Attinger   nemur₂ => nimurₓ
+@sys	Attinger    nemur₂ => nimurₓ
 @end sign
 
 @sign |PIRIG×KAL|
@@ -28373,7 +28381,7 @@
 @list	LAK257
 @list	RSP460
 @v	ug⁻
-@sys	Attinger   ug⁻
+@sys	Attinger    ug⁻
 @@
 @form |SU.PIRIG|
 @useq	x122E2.x1228A
@@ -28418,7 +28426,7 @@
 @list	LAK257
 @list	RSP460
 @v	az⁻
-@sys	Attinger   az⁻
+@sys	Attinger    az⁻
 @@
 @form |ZA.LAK247|
 @useq	x1235D.X
@@ -29139,7 +29147,7 @@
 @v	ṣalam
 @v	%akk/n ṣalmu
 @v	ugu₅
-@sys	Attinger   dil₂
+@sys	Attinger    dil₂
 @form SAG
 @list	BAU228
 @list	ELLES178
@@ -29153,9 +29161,9 @@
 @v	sur₂⁻
 @v	šur₂⁻
 @inote	following Attinger's approach
-@sys	Attinger   dil₂⁻
-@sys	Attinger   sumur⁻
-@sys	Attinger   sur₂⁻
+@sys	Attinger    dil₂⁻
+@sys	Attinger    sumur⁻
+@sys	Attinger    sur₂⁻
 @@
 @end sign
 
@@ -29182,7 +29190,7 @@
 @v	keše₄
 @v	kiše₄
 @v	kiši₄
-@sys	Attinger   kiše₄ => kiši₄
+@sys	Attinger    kiše₄ => kiši₄
 @end sign
 
 @sign SAG@n@g
@@ -29240,7 +29248,7 @@
 @v	šal
 @v	šel₄
 @v	ṣalₓ
-@sys	Attinger   galla₄ => gal₄
+@sys	Attinger    galla₄ => gal₄
 @end sign
 
 @sign |SAL.AL|
@@ -29660,10 +29668,10 @@
 @v	nitah₃
 @v	nitalam₄
 @v	nitlam₄
-@sys	Attinger   ŋešdan₄ => ŋidlam₄
-@sys	Attinger   ŋešdana₄ => ŋidlam₄
-@sys	Attinger   ŋeštan₄ => ŋidlam₄
-@sys	Attinger   ŋeštana₄ => ŋidlam₄
+@sys	Attinger    ŋešdan₄ => ŋidlam₄
+@sys	Attinger    ŋešdana₄ => ŋidlam₄
+@sys	Attinger    ŋeštan₄ => ŋidlam₄
+@sys	Attinger    ŋeštana₄ => ŋidlam₄
 @end sign
 
 @sign |SAL.UŠ.DAM|
@@ -29684,10 +29692,10 @@
 @v	nitadam
 @v	nitalam
 @v	nitlam
-@sys	Attinger   ŋešdan => ŋidlam
-@sys	Attinger   ŋešdana => ŋidlam
-@sys	Attinger   ŋeštan => ŋidlam
-@sys	Attinger   ŋeštana => ŋidlam
+@sys	Attinger    ŋešdan => ŋidlam
+@sys	Attinger    ŋešdana => ŋidlam
+@sys	Attinger    ŋeštan => ŋidlam
+@sys	Attinger    ŋeštana => ŋidlam
 @end sign
 
 @sign |SAL.UŠ.DI|
@@ -29707,7 +29715,7 @@
 @useq	x122A9.x12351.x12072.x1208D
 @ucun	𒊩𒍑𒁲𒂍
 @v	gaiₓ
-@sys	Attinger   gaiₓ => gambi
+@sys	Attinger    gaiₓ => gambi
 @@
 @form |SAL.UŠ.DI.KID|
 @list	RSP158
@@ -29715,7 +29723,7 @@
 @ucun	𒊩𒍑𒁲𒆤
 @v	gaiₓ
 @v	gambi
-@sys	Attinger   gaiₓ => gambi
+@sys	Attinger    gaiₓ => gambi
 @@
 @form |SAL.UŠ.E₂.DI|
 @useq	x122A9.x12351.x1208D.x12072
@@ -30313,7 +30321,7 @@
 @ucun	𒋠𒁍
 @v	zulumhi⁻
 @inote	also transliterated as zulumhi₂
-@sys	Attinger   zulumhi⁻
+@sys	Attinger    zulumhi⁻
 @@
 @end sign
 
@@ -30449,7 +30457,7 @@
 @useq	x122E2.x12094
 @ucun	𒋢𒂔
 @v	suburₓ
-@sys	Attinger   suburₓ
+@sys	Attinger    suburₓ
 @end sign
 
 @sign |SU.GAN|
@@ -30572,8 +30580,8 @@
 @list	RSP335
 @v	su₃⁻
 @v	sud⁻
-@sys	Attinger   su₃⁻
-@sys	Attinger   sud⁻
+@sys	Attinger    su₃⁻
+@sys	Attinger    sud⁻
 @@
 @form BU@g
 @list	ELLES132
@@ -30636,8 +30644,8 @@
 @inote	dupfix MZL šiten(|KI.DU.KAK|)
 @v	šušu
 @v	zusu
-@sys	Attinger   šitan => šita₃
-@sys	Attinger   šitenₓ => šita₃
+@sys	Attinger    šitan => šita₃
+@sys	Attinger    šitenₓ => šita₃
 @end sign
 
 @sign SUHUR
@@ -30951,7 +30959,7 @@
 @v	peš₄
 @v	piš₄
 @v	sur₄
-@sys	Attinger   isla => išla
+@sys	Attinger    isla => išla
 @form |ŠA₃.A|
 @@
 @form |ŠA₃×(U.A)|
@@ -31103,7 +31111,7 @@
 @v	siqqaₓ
 @v	ša₆
 @v	šag₅
-@sys	Attinger   ŋešninbar => ŋešnimbar
+@sys	Attinger    ŋešninbar => ŋešnimbar
 @form |SIK₂.E|
 @useq	x122E0.x1208A
 @ucun	𒋠𒂊
@@ -31424,7 +31432,7 @@
 @v	bebad
 @v	bibad
 @v	bibe
-@sys	Attinger   bebad => bibad
+@sys	Attinger    bebad => bibad
 @end sign
 
 @sign |ŠE.IGI.TUR|
@@ -31540,7 +31548,7 @@
 @v	tir
 @v	ṭer₅
 @v	ṭir₅
-@sys	Attinger   ezinam₃ => ezina₃
+@sys	Attinger    ezinam₃ => ezina₃
 @end sign
 
 @sign |(ŠE.NUN&NUN)×TAK₄|
@@ -31677,8 +31685,8 @@
 @v	ezinam₂
 @v	ezinan₂
 @v	ezinu₂
-@sys	Attinger   ezinam₂ => ezina₂
-@sys	Attinger   ezinan₂ => ezina₂
+@sys	Attinger    ezinam₂ => ezina₂
+@sys	Attinger    ezinan₂ => ezina₂
 @end sign
 
 @sign |ŠE.ŠEŠ|
@@ -32123,7 +32131,7 @@
 @v	zadru
 @v	zandar
 @v	zandara
-@sys	Attinger   giri₁₃ => gir₁₃
+@sys	Attinger    giri₁₃ => gir₁₃
 @form LAK636
 @list	LAK636
 @list	U+1250C
@@ -32259,7 +32267,7 @@
 @v	šim
 @v	šimbi₂
 @v	šimbizi
-@sys	Attinger   babir₂ => bappir₂
+@sys	Attinger    babir₂ => bappir₂
 @end sign
 
 @sign |ŠIM.AN.MAŠ|
@@ -32376,7 +32384,7 @@
 @v	siraš₃
 @v	siris₃
 @v	šinₓ
-@sys	Attinger   babir => bappir
+@sys	Attinger    babir => bappir
 @form |ŠIM.GAR|
 @inote	dcclt !sg
 @useq	x122C6.x120FB
@@ -32438,7 +32446,7 @@
 @list	LAK655
 @list	RSP422
 @v	šembi⁻
-@sys	Attinger   šembi⁻
+@sys	Attinger    šembi⁻
 @@
 @end sign
 
@@ -32549,7 +32557,7 @@
 @uage	5.0
 @v	šeneg
 @v	šinig
-@sys	Attinger   šeneg => šinig
+@sys	Attinger    šeneg => šinig
 @form |GAD.NAGA|
 @inote	dcclt !sg
 @useq	x120F0.x12240
@@ -32585,7 +32593,7 @@
 @v	šeri
 @v	šir
 @v	šur₃
-@sys	Attinger   ašgi₂ => aš₇
+@sys	Attinger    ašgi₂ => aš₇
 @end sign
 
 @sign |ŠIR.GI₄|
@@ -32900,15 +32908,15 @@
 @ucun	𒋗𒄩
 @v	šuku₂
 @v	šukud₂
-@sys	Attinger   šuku₂
-@sys	Attinger   šukud₂
+@sys	Attinger    šuku₂
+@sys	Attinger    šukud₂
 @form |ŠU.HA@g|
 @useq	x122D7.x1212B
 @ucun	𒋗𒄫
 @v	šuku₃
 @v	šukud₃
-@sys	Attinger   šuku₃
-@sys	Attinger   šukud₃
+@sys	Attinger    šuku₃
+@sys	Attinger    šukud₃
 @@
 @end sign
 
@@ -33020,7 +33028,7 @@
 @v	ŋešba₂
 @v	ŋešbu₂
 @v	ŋešpu₂
-@sys	Attinger   ŋešba₂
+@sys	Attinger    ŋešba₂
 @end sign
 
 @sign |ŠU.SI.DI|
@@ -33361,7 +33369,7 @@
 @v	ṣeh
 @v	zeh₂
 @v	zih₂
-@sys	Attinger   saha => šah
+@sys	Attinger    saha => šah
 @end sign
 
 @sign ŠUŠANA
@@ -34040,8 +34048,8 @@
 @v	gulla
 @v	ŋulla
 @v	mullaₓ
-@sys	Attinger   ŋulla => gulla
-@sys	Attinger   mullaₓ
+@sys	Attinger    ŋulla => gulla
+@sys	Attinger    mullaₓ
 @end sign
 
 @sign |TE.ME|
@@ -34086,7 +34094,7 @@
 @v	teₓ
 @v	ur₁₂
 @v	uru₅
-@sys	Attinger   maru => ru₁₀
+@sys	Attinger    maru => ru₁₀
 @form LAK051
 @list	LAK051
 @uname	CUNEIFORM SIGN LAK51
@@ -34104,7 +34112,7 @@
 @list	LAK373
 @list	RSP310
 @v	maru⁻
-@sys	Attinger   maru⁻
+@sys	Attinger    maru⁻
 @@
 @end sign
 
@@ -34146,7 +34154,7 @@
 @v	tila₃
 @v	ṭe₆
 @v	ṭi₃
-@sys	Attinger   tel₃ => til₃
+@sys	Attinger    tel₃ => til₃
 @end sign
 
 @sign TI@t
@@ -34295,8 +34303,8 @@
 @v	tumušₓ
 @v	umuš
 @v	uš₄
-@sys	Attinger   dašgari => taškarin
-@sys	Attinger   tuba₄ => tug₂
+@sys	Attinger    dašgari => taškarin
+@sys	Attinger    tuba₄ => tug₂
 @end sign
 
 @sign |TUG₂.DU@s|
@@ -34408,7 +34416,7 @@
 @v	ṭu₄
 @v	ṭum
 @v	zibₓ
-@sys	Attinger   egur₄ => egir₄
+@sys	Attinger    egur₄ => egir₄
 @form LAK496
 @list	LAK496
 @@
@@ -34484,7 +34492,7 @@
 @v	turu
 @v	ṭur₃
 @v	zerₓ
-@sys	Attinger   de₁₀ => di₄
+@sys	Attinger    de₁₀ => di₄
 @end sign
 
 @sign |TUR.ARAD|
@@ -35213,7 +35221,7 @@
 @v	nimar
 @v	nimgin₃?
 @v	ningin₃
-@sys	Attinger   nimar => niŋar
+@sys	Attinger    nimar => niŋar
 @form |U.KID|
 @@
 @end sign
@@ -35429,7 +35437,7 @@
 @useq	x12311.x12172
 @ucun	𒌑𒅲
 @v	muzug₆
-@sys	Attinger   muzug₆
+@sys	Attinger    muzug₆
 @end sign
 
 @sign |U₂.KI.SUM.GA|
@@ -35683,7 +35691,7 @@
 @v	zalaga
 @v	zalah
 @v	zalaqaₓ
-@sys	Attinger   šara₉ => šarag
+@sys	Attinger    šara₉ => šarag
 @end sign
 
 @sign |UD.A|
@@ -35801,7 +35809,7 @@
 @v	sippar
 @v	zibbir
 @v	zimbir
-@sys	Attinger   zibbir => zimbir
+@sys	Attinger    zibbir => zimbir
 @form |GIŠ%GIŠ.NUN|
 @useq	x12112.x12263
 @ucun	𒄒𒉣
@@ -37145,7 +37153,7 @@
 @v	erimmaₓ
 @v	erin₃
 @v	irimma
-@sys	Attinger   irimma => erim₃
+@sys	Attinger    irimma => erim₃
 @end sign
 
 @sign |URU×GU|
@@ -37332,7 +37340,7 @@
 @v	ulu₃
 @v	uru₁₇
 @v	zik₃
-@sys	Attinger   ŋešgal => ŋišgal
+@sys	Attinger    ŋešgal => ŋišgal
 @form |IM.LAK648|
 @useq	x1214E.x1250D
 @ucun	𒅎𒔍
@@ -37357,9 +37365,9 @@
 @v	lu₇⁻
 @v	ulu₃⁻
 @v	uru₁₇⁻
-@sys	Attinger   lu₇⁻
-@sys	Attinger   ulu₃⁻
-@sys	Attinger   uru₁₇⁻
+@sys	Attinger    lu₇⁻
+@sys	Attinger    ulu₃⁻
+@sys	Attinger    uru₁₇⁻
 @@
 @form |URU×(MIN.IM)|
 @pname	|URU×MIN+IM|
@@ -37514,7 +37522,7 @@
 @v	silig₅
 @v	šilig₅
 @v	uruₓ
-@sys	Attinger   pansur => banšur
+@sys	Attinger    pansur => banšur
 @form |LAK648×URUDA|
 @list	ELLES318
 @list	LAK653
@@ -37711,10 +37719,10 @@
 @v	nitadam₂
 @v	nitalam₂
 @v	nitlam₂
-@sys	Attinger   ŋešdan₂ => ŋidlam₂
-@sys	Attinger   ŋešdana₂ => ŋidlam₂
-@sys	Attinger   ŋeštan₂ => ŋidlam₂
-@sys	Attinger   ŋeštana₂ => ŋidlam₂
+@sys	Attinger    ŋešdan₂ => ŋidlam₂
+@sys	Attinger    ŋešdana₂ => ŋidlam₂
+@sys	Attinger    ŋeštan₂ => ŋidlam₂
+@sys	Attinger    ŋeštana₂ => ŋidlam₂
 @end sign
 
 @sign |UŠ.GA|
@@ -37764,10 +37772,10 @@
 @v	nidlam₃
 @v	nitalam₃
 @v	nitlam₃
-@sys	Attinger   ŋešdan₃ => ŋidlam₃
-@sys	Attinger   ŋešdana₃ => ŋidlam₃
-@sys	Attinger   ŋeštan₃ => ŋidlam₃
-@sys	Attinger   ŋeštana₃ => ŋidlam₃
+@sys	Attinger    ŋešdan₃ => ŋidlam₃
+@sys	Attinger    ŋešdana₃ => ŋidlam₃
+@sys	Attinger    ŋeštan₃ => ŋidlam₃
+@sys	Attinger    ŋeštana₃ => ŋidlam₃
 @end sign
 
 @sign |UŠ.TUG₂.PI|
@@ -37960,7 +37968,7 @@
 @v	širum
 @v	usu₃
 @v	uzu
-@sys	Attinger   usu₃ => uzu
+@sys	Attinger    usu₃ => uzu
 @form UZU@90
 @ref	OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7
 @v	uzu@90
@@ -38037,7 +38045,7 @@
 @v	zagga₂
 @v	zamₓ
 @v	ze₄
-@sys	Attinger   ze₄ => za
+@sys	Attinger    ze₄ => za
 @end sign
 
 @sign |ZA.AN.MUŠ₃@g|
@@ -38112,7 +38120,7 @@
 @v	šubuₓ
 @v	zanaru₂
 @v	zannaru₂
-@sys	Attinger   subi₂ => šuba₂
+@sys	Attinger    subi₂ => šuba₂
 @form |ZA.AN.MUŠ₃|
 @useq	x1235D.x1202D.x12239
 @ucun	𒍝𒀭𒈹
@@ -38400,7 +38408,7 @@
 @useq	x12364.x121B8
 @ucun	𒍤𒆸
 @v	šub₅
-@sys	Attinger   šub₅
+@sys	Attinger    šub₅
 @@
 @form |ZI&ZI.LAGAB×AŠ|
 @inote	dcclt !sg
@@ -38799,7 +38807,7 @@
 @v	ṣum
 @v	zu₃
 @v	zum
-@sys	Attinger   gariŋ₂ => garig
+@sys	Attinger    gariŋ₂ => garig
 @end sign
 
 @sign- |ZUM.LAGAB|
