@@ -6,24 +6,12 @@
     <head/>
     <body>
       <esp:image file="LAK25-ogsl.png" description="LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen."/>
-
-      <p>OGSL Provides a global registry of sign names, variants and
-      readings for use by Oracc.</p>
-
-      <p>You can browse or search the signlist <esp:link
-      url="/ogsl/signlist">here</esp:link>.</p>
-
-      <p>You can learn how to report a <esp:link
-      url="/ogsl/addingtoogsl/">Report a new sign or value
-      here.</esp:link></p>
-
-      <p>You can view/download the OGSL source file <esp:link
-      url="https://raw.githubusercontent.com/oracc/ogsl/master/00lib/ogsl.asl">directly
-      from the github repository</esp:link>.</p>
-      
-      <p>OGSL is managed by Niek Veldhuis at UC Berkeley and Steve Tinney at
-      the University of Pennsylvania.</p>
-
+      <p>Provides a global registry of sign names, variants and readings for use by Oracc.<br xmlns="http://oracc.org/ns/xpd/1.0"/>
+Managed by Niek Veldhuis at UC Berkeley.</p>
+<p>You can browse or search the signlist <esp:link url="/ogsl/signlist">here</esp:link>.</p>
+<p>You can learn how to report a <esp:link
+url="http://oracc.museum.upenn.edu/ogsl/newval.html">Report a new sign
+or value here.</esp:link></p>
     </body>
   </html>
 </esp:page>
