@@ -3,6 +3,11 @@
         xmlns:struct="http://oracc.org/ns/esp-struct/1.0"
         xmlns="http://www.w3.org/1999/xhtml"
         file="home.xml" id="home" accesskey="1" type="page">
+  <struct:page file="lists.xml" id="lists" type="page">
+    <struct:page file="list-data.xml" id="listdata" type="page"/>
+  </struct:page>
   <struct:page file="newval.xml" id="newval" type="page"/>
+  <struct:page file="maintainer.xml" id="maintainer" type="page"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
+  <struct:page file="u-data.xml" id="udata" type="page"/>
 </struct:page>
