@@ -2931,7 +2931,6 @@
 @sign ARAD
 @list	ABZL016
 @list	BAU051
-@list	BAU052
 @list	BAU053
 @list	ELLES035
 @list	HZL016
@@ -2998,6 +2997,7 @@
 
 @sign |ARAD×KUR|
 @list	ABZL017
+@list	BAU052
 @list	ELLES036
 @list	KWU065
 @list	LAK059
@@ -6446,7 +6446,6 @@
 @list	KWU146
 @list	MZL298
 @list	RSP104
-@list	RSP349
 @list	SLLHA167
 @inote	DU₈~a for UET II sux texts
 @uname	CUNEIFORM SIGN DUH
@@ -10014,6 +10013,10 @@
 @v	sabad
 @v	sad₂
 @v	ula₂
+@end sign
+
+@sign |GA₂×U₂|
+@list BAU322
 @end sign
 
 @sign |GA₂×UD|
@@ -33124,6 +33127,7 @@
 @v-	kungaₓ
 @v	suhub
 @v	šuhub
+@inote cp "BAR MUL"--written more like BAR×MUL i 4' in P000299 Archaic Animals
 @@
 @end sign
 
