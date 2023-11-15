@@ -13316,6 +13316,7 @@
 @v	gur₁₄
 @v	har
 @v	hara
+@v	herₓ
 @v	hiₓ
 @v	hir₂
 @v	hu₄
@@ -13658,8 +13659,8 @@
 @list	U+12137
 @ucun	𒄷
 @uage	5.0
-@v-	ʾu₅
-@note	This value is rejected as unnecessary in MZL.
+@v	ʾu₅
+@inote	Although this value is rejected as unnecessary in MZL, it is used in MB peripheral so OGSL supports it.
 @v	bag
 @v	bah
 @v	bak
@@ -31317,6 +31318,7 @@
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 15
 @inote	salgues
 @v	še
+@v	šiₓ
 @v	u₂₀
 @end sign
 
