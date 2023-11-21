@@ -13779,7 +13779,10 @@
 
 @sign HUB₂
 @list	ABZL445
+@list	BAU281
+@list	ELLES249
 @list	HZL049
+@list	LAK474
 @list	MZL149
 @list	SLLHA088
 @uname	CUNEIFORM SIGN HUB2
@@ -16678,12 +16681,9 @@
 @list	ABZL226
 @list	BAU099
 @list	BAU100
-@list	BAU281
 @list	ELLES079
-@list	ELLES249
 @list	HZL049
 @list	LAK147
-@list	LAK474
 @list	MZL148
 @list	SLLHA088
 @uname	CUNEIFORM SIGN KAB
