@@ -29,6 +29,9 @@
 @listdef MZL 1-907 113b 115a 115b 146' 146" 527'
 @lit	R. Borger, Mesopotamisches Zeichenlexikon (AOAT 305; Ugarit-Verlag 2003; second edition 2010)
 
+@listdef PTACE 1-336
+@lit	A. Catagnoti, La paleografia dei testi dell’amministrazione e della cancelleria di Ebla (QdS 30; Florence 2013)
+
 @listdef REC 1-563
 @lit	F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme (Paris 1898)
 
