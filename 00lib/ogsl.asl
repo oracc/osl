@@ -2043,6 +2043,7 @@
 @form LAK493
 @list	ELLES255
 @list	LAK493
+@list	PTACE144
 @lit	Ebla 1975-1985, 196-197
 @uname	CUNEIFORM SIGN LAK493
 @list	U+124FD
@@ -5431,6 +5432,7 @@
 @form DIM@g
 @list	ELLES033b
 @list	LAK056
+@list	PTACE063
 @list	RSP426a
 @v	mun
 @lit	Civil, ZA 74, 162; Civil ARES 4, 86.
@@ -5975,6 +5977,7 @@
 @form |DU×KASKAL|
 @list	ELLES253
 @list	LAK485
+@list	PTACE237
 @@
 @end sign
 
@@ -7397,6 +7400,7 @@
 @form LAK530
 @list	ELLES283
 @list	LAK530
+@list	PTACE256
 @inote	see http://cdli.ucla.edu/P250427 ii 2 with lit
 @@
 @end sign
@@ -8375,6 +8379,7 @@
 @form |EZEN×AN|
 @list	ELLES304
 @list	LAK613
+@list	PTACE264
 @uname	CUNEIFORM SIGN EZEN TIMES AN
 @list	U+120A5
 @ucun	𒂥
@@ -25505,6 +25510,7 @@
 @form |NE×KASKAL|
 @list	ELLES081
 @list	LAK150
+@list	PTACE096
 @@
 @form |NE×PAP|
 @list	LAK149
@@ -28269,6 +28275,7 @@
 @form LAK247
 @list	ELLES145
 @list	LAK247
+@list	PTACE137
 @list	RSP460bis
 @v	kilim
 @@
@@ -29650,6 +29657,7 @@
 @form |SAL×KUR|
 @list	ELLES276
 @list	LAK049
+@list	PTACE231
 @inote	dcclt !sg
 @@
 @end sign
@@ -30840,6 +30848,7 @@
 @form BU@g
 @list	ELLES132
 @list	LAK233
+@list	PTACE124
 @inote	in |PA.EL.BU@g|
 @@
 @form LAK233@g
@@ -37550,6 +37559,7 @@
 @aka	|GIŠGAL×IGI|
 @list	ELLES317
 @list	LAK650
+@list	PTACE082
 @inote	Ebla sign list si-la-ga-um
 @inote	Probably a better description than URU×(MIN.IGI) or URU×IGI
 @uname	CUNEIFORM SIGN LAK648 TIMES IGI
@@ -37830,6 +37840,7 @@
 @list	ELLES318
 @list	LAK653
 @list	LAK716
+@list	PTACE083
 @uname	CUNEIFORM SIGN LAK648 TIMES URUDA
 @list	U+12516
 @ucun	𒔖
