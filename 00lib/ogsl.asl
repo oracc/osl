@@ -13904,7 +13904,10 @@
 
 @sign HUB₂
 @list	ABZL445
+@list	BAU281
+@list	ELLES249
 @list	HZL049
+@list	LAK474
 @list	MZL149
 @list	PTACE273
 @list	SLLHA088
@@ -16828,12 +16831,9 @@
 @list	ABZL226
 @list	BAU099
 @list	BAU100
-@list	BAU281
 @list	ELLES079
-@list	ELLES249
 @list	HZL049
 @list	LAK147
-@list	LAK474
 @list	MZL148
 @list	PTACE090
 @list	SLLHA088
@@ -30311,8 +30311,10 @@
 @list	BAU202
 @list	HZL255
 @list	KWU342
+@list	LAK400
 @list	MZL881
 @list	PTACE159
+@list	REC256
 @list	RSP317
 @list	SLLHA592
 @uname	CUNEIFORM SIGN SIG
@@ -35913,9 +35915,9 @@
 @list	HZL316
 @list	KWU345
 @list	LAK379
-@list	LAK400
 @list	MZL596
 @list	PTACE185
+@list	REC234
 @list	RSP319
 @list	RSP322
 @list	RSP324
