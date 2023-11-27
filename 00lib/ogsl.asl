@@ -30208,12 +30208,10 @@
 @sign |SI.A|
 @list	ABZL164
 @list	BAU032
-@list	ELLES051
 @list	HZL089
 @list	KWU095
 @list	LAK084
 @list	MZL207
-@list	PTACE031
 @list	RSP292
 @list	SLLHA123
 @useq	x122DB.x12000
@@ -30234,6 +30232,8 @@
 @v	uš₁₅
 @v	ušub
 @form |A.SI|
+@list	ELLES051
+@list	PTACE031
 @useq	x12000.x122DB
 @ucun	𒀀𒋛
 @@
