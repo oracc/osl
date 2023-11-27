@@ -18642,9 +18642,8 @@
 @list	ABZL375
 @list	KWU636
 @list	MZL087
-@list	REC145
+@list	REC144
 @list	SLLHA058
-@inote	##CHECK REC no.
 @lit	Krecher, ZA 77 (1987), 17-21; Veldhuis, FS Sigrist (2009), 226-228
 @uname	CUNEIFORM SIGN KU4
 @list	U+121AD
@@ -18656,9 +18655,11 @@
 @v	kur₉
 @v	lilₓ
 @v	sunₓ
-@form KU₄~a
-@list	KWU147
-@inote	##CHECK LAK/KWU/REC no. This is ED LIL; No separate uname/ucode needed? FIXME
+@form REC145
+@aka KU₄~a
+@list	KWU634
+@list	REC145
+@list	LAK208
 @uname	CUNEIFORM SIGN KU4 VARIANT FORM
 @list	U+121AE
 @ucun	𒆮
@@ -18666,14 +18667,11 @@
 @v	ku₄
 @v	kur₉
 @@
-@form KWU634
-@inote	KWU634 = ŠE.ŠU&ŠU@h
-@@
-@form REC144
-@inote	etcsri -- check -- REC144 = ŠE.ŠU
-@@
-@form REC56
-@inote	etcsri -- check -- REC56 = ŠU&ŠU@r
+@form LIL
+@list	KWU147
+@list	LAK094
+@list	REC056
+@ucun	𒇸
 @@
 @end sign
 
@@ -22116,7 +22114,7 @@
 @list	ABZL091
 @list	HZL127
 @list	KWU147
-@list	LAK208
+@list	LAK094
 @list	MZL544
 @list	RSP127
 @list	SLLHA336
@@ -22131,6 +22129,14 @@
 @v	lil
 @v	sukuₓ
 @v	šaₓ
+@form REC145
+@aka KU₄~a
+@lit	Krecher 1973 https://doi.org/10.1515/zava.1973.63.2.145 p. 232
+@list	KWU634
+@list	REC145
+@list	LAK208
+@ucun	𒆮
+@@
 @end sign
 
 @sign LIMMU
@@ -28955,11 +28961,6 @@
 @@
 @end sign
 
-@sign RSP126
-@inote	admin/names
-@v	šuₓ
-@end sign
-
 @sign RSP194
 @list	RSP194
 @end sign
@@ -33497,13 +33498,14 @@
 @end sign
 
 @sign |ŠU&ŠU@180|
-@list	LAK094
 @list	RSP126
 @uname	CUNEIFORM SIGN SHU OVER INVERTED SHU
 @list	U+122D8
 @ucun	𒋘
 @uage	5.0
 @v	lilₓ?
+@inote	admin/names
+@v	šuₓ
 @inote	better ŠU&ŠU@h because the lower sign is reflected about the horizontal axis not rotated 180
 @end sign
 
