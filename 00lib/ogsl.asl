@@ -3568,6 +3568,7 @@
 @v	pi₃
 @v	pid₂
 @v	pit₂
+@v	piṭₓ
 @v	qit₃
 @v	sugin
 @v	sungin
@@ -4056,6 +4057,7 @@
 @list	U+12049
 @ucun	𒁉
 @uage	5.0
+@v	batₓ
 @v	be₂
 @v	bi
 @v	biz
@@ -4540,8 +4542,10 @@
 @list	U+12245
 @ucun	𒉅
 @uage	5.0
+@v	birₓ
 @v	bur₅
 @v	buru₅
+@v	parₓ
 @form |HU.ERIN₂|
 @useq	x12137.x1209F
 @ucun	𒄷𒂟
@@ -5222,6 +5226,7 @@
 @v	si₇
 @v	siu
 @v	ṭe₅
+@v	ṭiₓ
 @form UMUM
 @list	BAU093
 @list	BAU094
@@ -6546,6 +6551,7 @@
 @v	šaha₂
 @v	šahan₃
 @v	šul
+@v	šuluₓ
 @v	tun₄
 @v	zahₓ
 @v	zehₓ
@@ -12401,6 +12407,7 @@
 @list	U+12116
 @ucun	𒄖
 @uage	5.0
+@v	ahₓ
 @v	gu
 @v	gumₓ?
 @v	ku₈
@@ -13452,6 +13459,7 @@
 @v	mur
 @v	muru
 @v	murum
+@v	qinₓ
 @v	sagbar
 @v	saggar₂
 @v	saŋŋar₂
@@ -17200,6 +17208,7 @@
 @uage	5.0
 @v	eriš₇
 @v	kam₂
+@v	qamaₓ
 @v	udul₇
 @v	utul₇
 @inote	Borger MZL254 = KAM₂ ; MZL640=KAM(|HI.BAD|); MZL595 = KAM₂@t but Borger transliteration KAM@v or KAM*
@@ -26926,6 +26935,7 @@
 @list	U+1226A
 @ucun	𒉪
 @uage	5.0
+@v	lurₓ
 @v	nar₃
 @v	naraₓ
 @v	nenerₓ
@@ -27996,6 +28006,7 @@
 @v	pat
 @v	pata
 @v	paṭ
+@v	šatₓ
 @v	šug
 @v	šuk
 @v	šuku
@@ -30951,6 +30962,7 @@
 @list	U+122E7
 @ucun	𒋧
 @uage	5.0
+@v	arₓ
 @v	ari₆
 @v	sar₈
 @v	se₃
@@ -31031,6 +31043,7 @@
 @v	sur
 @v	sura
 @v	%akk śur
+@v	šarₓ
 @v	šur
 @v	ṭir₃
 @end sign
@@ -39118,6 +39131,7 @@
 @v	hal₂
 @v	haš₄
 @v	kušumₓ
+@v	raqₓ
 @v	ri₄
 @v	rig₂
 @v	riŋ₂?
