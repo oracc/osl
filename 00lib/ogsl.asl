@@ -4341,6 +4341,7 @@
 @ucun	𒁐𒀊
 @@
 @form |(BU%BU)×AB|
+@form |BU%BU×AB|
 @inote	dcclt !sg
 @@
 @form |MUŠ%MUŠ.AB|
@@ -24428,7 +24429,8 @@
 @v	arina
 @v	erina₈
 @v	irina
-@form |MUŠ%MUŠ×(A.NA)|
+@form |(MUŠ%MUŠ)×(A.NA)|
+@aka |MUŠ%MUŠ×(A.NA)|
 @@
 @end sign
 
