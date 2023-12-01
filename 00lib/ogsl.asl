@@ -36148,12 +36148,12 @@
 @useq	x12263.x12112
 @ucun	𒉣𒄒
 @@
-@form |UD.AN.(GIŠ%GIŠ)@g|
+@form |UD.AN.((GIŠ%GIŠ)@g)|
 @useq	x12313.x1202D.X
 @ucun	𒌓𒀭X
 @v	zimbir
 @@
-@form |UD.(GIŠ%GIŠ)@g.AN|
+@form |UD.((GIŠ%GIŠ)@g).AN|
 @useq	x12313.X.x1202D
 @ucun	𒌓X𒀭
 @v	zimbir
