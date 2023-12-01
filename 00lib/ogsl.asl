@@ -36512,7 +36512,7 @@
 @useq	x12317.x1207A
 @ucun	𒌗𒁺
 @end sign
-oc
+
 @sign- |UD×(U.U.U)×(U.U.U)@g|
 @inote	gvl unknown compound; suspicious because ITI is already UD×(U.U.U), so deleted for now
 @end sign
