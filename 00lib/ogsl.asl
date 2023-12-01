@@ -4340,7 +4340,7 @@
 @useq	x12050.x1200A
 @ucun	𒁐𒀊
 @@
-@form |BU%BU×AB|
+@form |(BU%BU)×AB|
 @inote	dcclt !sg
 @@
 @form |MUŠ%MUŠ.AB|
@@ -4348,7 +4348,7 @@
 @useq	x12238.x1200A
 @ucun	𒈸𒀊
 @@
-@form |MUŠ%MUŠ×AB|
+@form |(MUŠ%MUŠ)×AB|
 @inote	dcclt !sg
 @@
 @form |SUD&SUD.AB|
@@ -24342,7 +24342,7 @@
 @v	arinaₓ
 @end sign
 
-@sign |MUŠ&MUŠ×(A.NA)|
+@sign |(MUŠ&MUŠ)×(A.NA)|
 @pname	|MUŠ&MUŠ×A+NA|
 @list	SLLHA374_81n1
 @uname	CUNEIFORM SIGN MUSH OVER MUSH TIMES A PLUS NA
@@ -24352,7 +24352,7 @@
 @v	arinaₓ
 @end sign
 
-@sign |MUŠ&MUŠ×AB|
+@sign |(MUŠ&MUŠ)×AB|
 @inote	gvl unknown compound
 @end sign
 
@@ -24429,7 +24429,7 @@
 @@
 @end sign
 
-@sign |MUŠ%MUŠ×MAŠ|
+@sign |(MUŠ%MUŠ)×MAŠ|
 @v	erinₓ
 @end sign
 
@@ -30181,7 +30181,7 @@
 @inote	missing compounds for lak.atf
 @end sign
 
-@sign |SAR×ZU&ZU|
+@sign |SAR×(ZU&ZU)|
 @inote	gvl unknown compound
 @end sign
 
@@ -31864,7 +31864,7 @@
 @@
 @form |(ŠE.NUN)&(ŠE.NUN)|
 @@
-@form |(ŠE.NUN)&(ŠE.NUN)×U₂|
+@form |((ŠE.NUN)&(ŠE.NUN))×U₂|
 @@
 @form |U₂.(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
 @useq	x12311.x12303
