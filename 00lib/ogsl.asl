@@ -36149,7 +36149,7 @@
 @ucun	𒉣𒄒
 @@
 @form |UD.AN.((GIŠ%GIŠ)@g)|
-@form |UD.AN.(GIŠ%GIŠ)@g|
+@aka |UD.AN.(GIŠ%GIŠ)@g|
 @useq	x12313.x1202D.X
 @ucun	𒌓𒀭X
 @v	zimbir
