@@ -3270,7 +3270,7 @@
 @v	ia₉
 @end sign
 
-@sign |(AŠ&AŠ&AŠ)%(AŠ&AŠ&AŠ)|
+@sign |((AŠ&AŠ&AŠ)%(AŠ&AŠ&AŠ))|
 @aka |AŠ&AŠ&AŠ%AŠ&AŠ&AŠ|
 @list	MZL649
 @list	SLLHA365
