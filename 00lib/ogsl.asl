@@ -35501,6 +35501,8 @@
 @@
 @end sign
 
+@compoundonly |(U.U.U)@g|
+
 @sign |U.U.U.6(DIŠ)|
 @aka	|U.U.U.AŠ₃|
 @useq	x1230D.x1240B
@@ -36510,7 +36512,7 @@
 @useq	x12317.x1207A
 @ucun	𒌗𒁺
 @end sign
-
+oc
 @sign- |UD×(U.U.U)×(U.U.U)@g|
 @inote	gvl unknown compound; suspicious because ITI is already UD×(U.U.U), so deleted for now
 @end sign
