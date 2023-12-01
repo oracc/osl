@@ -31865,6 +31865,7 @@
 @form |(ŠE.NUN)&(ŠE.NUN)|
 @@
 @form |((ŠE.NUN)&(ŠE.NUN))×U₂|
+@aka  |(ŠE.NUN)&(ŠE.NUN)×U₂|
 @@
 @form |U₂.(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
 @useq	x12311.x12303
