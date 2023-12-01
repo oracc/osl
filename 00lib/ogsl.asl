@@ -12368,7 +12368,7 @@
 @v	ulul
 @end sign
 
-@compoundonly	|(GIŠ%GIŠ)@g|
+@compoundonly	|((GIŠ%GIŠ)@g)|
 @inote	added during ogsl upgrade
 
 @sign |GIŠ%GIŠ.NUN|
