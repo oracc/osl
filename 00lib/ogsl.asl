@@ -41125,7 +41125,6 @@
 @compoundonly	|AB₂×NE|
 @compoundonly	|AB₂×SILA₃|
 @compoundonly	|AB₂×U₂|
-@compoundonly	|ŠE+SAR|
 @compoundonly	|AB₂×GAN₂@t.TAB|
 @compoundonly	|AB₂×ŠA₃.TAB|
 @compoundonly	|GUD×PAP|
