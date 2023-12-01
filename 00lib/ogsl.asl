@@ -41126,3 +41126,17 @@
 @compoundonly	|ŠE.NUN&NUN.LAGAB|
 @compoundonly	|E₂×AN|
 @compoundonly	|4×ZA|
+@compoundonly	|AŠ&AŠ|
+@compoundonly	|TUG₂&TUG₂|
+@compoundonly	|E&E|
+@compoundonly	|KAK×IGI|
+@compoundonly	|IGI&IGI|
+@compoundonly	|ŠIR&ŠIR|
+@compoundonly	|KU&HI×AŠ₂|
+@compoundonly	|NU₁₁&NU₁₁|
+@compoundonly	|BUR&BUR|
+@compoundonly	|LAGAR&LAGAR|
+@compoundonly	|SIG₄&SIG₄|
+@compoundonly	|ZA&ZA|
+@compoundonly	|SUR&SUR|
+@compoundonly	|U@v&U@v|
