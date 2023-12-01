@@ -3382,7 +3382,8 @@
 @v	uzaglal
 @end sign
 
-@sign |AŠ@z&AŠ@z&AŠ@z&AŠ@z|
+@sign	ZIB
+@aka |AŠ@z&AŠ@z&AŠ@z&AŠ@z|
 @list	MZL628
 @list	SLLHA395
 @uname	CUNEIFORM SIGN ZIB
