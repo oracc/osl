@@ -4341,7 +4341,7 @@
 @ucun	𒁐𒀊
 @@
 @form |(BU%BU)×AB|
-@form |BU%BU×AB|
+@aka |BU%BU×AB|
 @inote	dcclt !sg
 @@
 @form |MUŠ%MUŠ.AB|
