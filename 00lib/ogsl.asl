@@ -4349,6 +4349,7 @@
 @ucun	𒈸𒀊
 @@
 @form |(MUŠ%MUŠ)×AB|
+@aka 	|MUŠ%MUŠ×AB|
 @inote	dcclt !sg
 @@
 @form |SUD&SUD.AB|
@@ -24343,6 +24344,7 @@
 @end sign
 
 @sign |(MUŠ&MUŠ)×(A.NA)|
+@aka |MUŠ&MUŠ×(A.NA)|
 @pname	|MUŠ&MUŠ×A+NA|
 @list	SLLHA374_81n1
 @uname	CUNEIFORM SIGN MUSH OVER MUSH TIMES A PLUS NA
