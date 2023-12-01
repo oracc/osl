@@ -24353,6 +24353,7 @@
 @end sign
 
 @sign |(MUŠ&MUŠ)×AB|
+@aka |MUŠ&MUŠ×AB|
 @inote	gvl unknown compound
 @end sign
 
@@ -24430,6 +24431,7 @@
 @end sign
 
 @sign |(MUŠ%MUŠ)×MAŠ|
+@aka |MUŠ%MUŠ×MAŠ|
 @v	erinₓ
 @end sign
 
@@ -30182,6 +30184,7 @@
 @end sign
 
 @sign |SAR×(ZU&ZU)|
+@aka |SAR×ZU&ZU|
 @inote	gvl unknown compound
 @end sign
 
