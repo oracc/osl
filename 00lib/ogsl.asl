@@ -33507,8 +33507,8 @@
 @v	gibir
 @v	kibir₂
 @v	kungaₓ
-@form |ŠU₂.(AŠ@z&AŠ@z&AŠ@z&AŠ@z)|
-@aka	|ŠU₂.ZIB|
+@form	|ŠU₂.ZIB|
+@aka	|ŠU₂.(AŠ@z&AŠ@z&AŠ@z&AŠ@z)|
 @inote	dcclt !sg
 @useq	x122D9.x12366
 @ucun	𒋙𒍦
