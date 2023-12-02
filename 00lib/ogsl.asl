@@ -41150,3 +41150,6 @@
 @compoundonly	|ZA&ZA|
 @compoundonly	|SUR&SUR|
 @compoundonly	|U@v&U@v|
+@compoundonly	|BAD×U|
+@compoundonly	|BAR×DUG|
+@compoundonly	|IGI×MIN|
