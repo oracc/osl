@@ -18913,8 +18913,6 @@
 @inote	@uname-no-utf8	CUNEIFORM SIGN KUSHU2 TIMES SAL
 @end sign
 
-@compoundonly	KWU089
-
 @sign- |KWU089.GAL|
 @note	KWU089 is a by-form of MUŠ.
 @useq	X.x120F2
