@@ -41152,4 +41152,4 @@
 @compoundonly	|U@v&U@v|
 @compoundonly	|BAD×U|
 @compoundonly	|BAR×DUG|
-@compoundonly	|IGI×MIN|
+@compoundonly	|MIN×IGI|
