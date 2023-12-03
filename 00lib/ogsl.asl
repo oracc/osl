@@ -11997,7 +11997,8 @@
 @v	gilgamesₓ
 @v	gilgamešₓ
 @@
-@form |GIŠ.BIL.X.GA.MES|
+@form |GIŠ.NE.X.GA.MES|
+@aka |GIŠ.BIL.X.GA.MES|
 @v	gilgamešₓ
 @@
 @end sign
