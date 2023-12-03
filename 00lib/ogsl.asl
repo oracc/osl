@@ -1556,6 +1556,7 @@
 @end sign
 
 @sign |AB×(U.U.U)|
+@aka |AB×EŠ|
 @pname	|AB×U+U+U|
 @uname	CUNEIFORM SIGN AB TIMES U PLUS U PLUS U
 @list	U+12014
@@ -20903,8 +20904,7 @@
 @ucun	𒇴𒊒
 @@
 @form |LAM×KUR.RU|
-@inote this is a place-holder for P238333 = BTT pl. 08, K 04714 3 |(LAM×KUR).RU|
-	until that can be collated.  The transliteration presumably means that only
+@inote P238333 = BTT pl. 08, K 04714 3 collated: only
 	the KUR is inscribed within LAM and the RU follows it.
 @@
 @end sign
@@ -36468,6 +36468,7 @@
 @end sign
 
 @sign |UD×(U.U.U)|
+@aka |UD×EŠ|
 @pname	|UD×U+U+U|
 @list	ABZL334
 @list	HZL084
