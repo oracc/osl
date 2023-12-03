@@ -11997,6 +11997,9 @@
 @v	gilgamesₓ
 @v	gilgamešₓ
 @@
+@form |GIŠ.BIL.X.GA.MES|
+@v	gilgamešₓ
+@@
 @end sign
 
 @sign |GIŠ.NE.MES.GA|
@@ -20897,6 +20900,11 @@
 @inote	AbS gods
 @useq	x121F4.x12292
 @ucun	𒇴𒊒
+@@
+@form |(LAM×KUR).RU|
+@inote this is a place-holder for P238333 = BTT pl. 08, K 04714 3 |(LAM×KUR).RU|
+	until that can be collated.  The transliteration presumably means that only
+	the KUR is inscribed within LAM and the RU follows it.
 @@
 @end sign
 
