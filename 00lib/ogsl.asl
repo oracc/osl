@@ -9169,6 +9169,7 @@
 @end sign
 
 @sign |GA₂×(AN.KAK.A)|
+@pname |GA₂×AN+KAK+A|
 @uname	CUNEIFORM SIGN GA2 TIMES AN PLUS KAK PLUS A
 @list	U+12379
 @ucun	𒍹
@@ -20215,6 +20216,7 @@
 @end sign
 
 @sign |LAGAB×(U.U.U)|
+@aka |LAGAB×EŠ|
 @pname	|LAGAB×U+U+U|
 @list	ABZL411
 @list	MZL788
@@ -30330,9 +30332,12 @@
 @end sign
 
 @sign |SI@g.A|
-@inote	#old su₉
+@v su₉
 @useq	x122DC.x12000
 @ucun	𒋜𒀀
+@inote reinstated because this is still in dcclt/fm-EA3-composite.atf Ea 3,
+	200 su₉ " [su-u] ~ |[SI@g].A| = %sb sa-a-mu; it may well no longer
+	be correct but the dcclt ref needs fixing before this gets removed from OGSL.
 @end sign
 
 @sign SIG
@@ -38338,6 +38343,8 @@
 @sign X
 @v	baniaₓ
 @v	eriₓ
+@v	lugudₓ
+@v	surruₓ
 @v	x
 @v	zeₓ
 @end sign
