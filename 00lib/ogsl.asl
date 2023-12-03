@@ -20902,7 +20902,7 @@
 @useq	x121F4.x12292
 @ucun	𒇴𒊒
 @@
-@form |(LAM×KUR).RU|
+@form |LAM×KUR.RU|
 @inote this is a place-holder for P238333 = BTT pl. 08, K 04714 3 |(LAM×KUR).RU|
 	until that can be collated.  The transliteration presumably means that only
 	the KUR is inscribed within LAM and the RU follows it.
