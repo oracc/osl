@@ -11170,8 +11170,9 @@
 @v	si₂₂
 @v	sig₁₇
 @note	Civil. OrAn 22, 4.
-@v-	sissiₓ
+@v	sissiₓ
 @note	The value sissiₓ derives from the writing GI for green (sissig) in ED texts. The value sig₁₇ is sufficient.
+@inote SJT removed '-' from @v; I take the point, but @v- now removes the value from the signlist used for validation and OGSL needs to be inclusive in this area rather than prescriptive.  Perhaps we need to be able to express 'allowed but not recommended'; @v~ sissiₓ vel sim.
 @v	tar₅
 @note	Rebus writing (GI = târu); MZL p.461.
 @v	taru₅
