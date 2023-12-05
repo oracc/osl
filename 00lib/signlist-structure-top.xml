@@ -1,3 +1,4 @@
 <wrapper xmlns:struct="http://oracc.org/ns/esp-struct/1.0">
+  <struct:link id="ogsl-home" title="OGSL Home Page" url="/ogsl"/>
   <struct:page file="signlist-x-abbrevs.xml" id="abbreviations" type="page"/>
 </wrapper>
