@@ -1,3 +1,4 @@
+@project ogsl
 @signlist ogsl
 
 @inote	@listdef ABZ 1-598
@@ -1555,6 +1556,7 @@
 @end sign
 
 @sign |AB×(U.U.U)|
+@aka |AB×EŠ|
 @pname	|AB×U+U+U|
 @uname	CUNEIFORM SIGN AB TIMES U PLUS U PLUS U
 @list	U+12014
@@ -3269,7 +3271,8 @@
 @v	ia₉
 @end sign
 
-@sign |AŠ&AŠ&AŠ%AŠ&AŠ&AŠ|
+@sign |(AŠ&AŠ&AŠ)%(AŠ&AŠ&AŠ)|
+@aka |AŠ&AŠ&AŠ%AŠ&AŠ&AŠ|
 @list	MZL649
 @list	SLLHA365
 @uname	CUNEIFORM SIGN ASH OVER ASH OVER ASH CROSSING ASH OVER ASH OVER ASH
@@ -3381,7 +3384,8 @@
 @v	uzaglal
 @end sign
 
-@sign |AŠ@z&AŠ@z&AŠ@z&AŠ@z|
+@sign	ZIB
+@aka |AŠ@z&AŠ@z&AŠ@z&AŠ@z|
 @list	MZL628
 @list	SLLHA395
 @uname	CUNEIFORM SIGN ZIB
@@ -4338,7 +4342,8 @@
 @useq	x12050.x1200A
 @ucun	𒁐𒀊
 @@
-@form |BU%BU×AB|
+@form |(BU%BU)×AB|
+@aka |BU%BU×AB|
 @inote	dcclt !sg
 @@
 @form |MUŠ%MUŠ.AB|
@@ -4346,7 +4351,8 @@
 @useq	x12238.x1200A
 @ucun	𒈸𒀊
 @@
-@form |MUŠ%MUŠ×AB|
+@form |(MUŠ%MUŠ)×AB|
+@aka 	|MUŠ%MUŠ×AB|
 @inote	dcclt !sg
 @@
 @form |SUD&SUD.AB|
@@ -9163,6 +9169,7 @@
 @end sign
 
 @sign |GA₂×(AN.KAK.A)|
+@pname |GA₂×AN+KAK+A|
 @uname	CUNEIFORM SIGN GA2 TIMES AN PLUS KAK PLUS A
 @list	U+12379
 @ucun	𒍹
@@ -11165,8 +11172,9 @@
 @v	si₂₂
 @v	sig₁₇
 @note	Civil. OrAn 22, 4.
-@v-	sissiₓ
+@v	sissiₓ
 @note	The value sissiₓ derives from the writing GI for green (sissig) in ED texts. The value sig₁₇ is sufficient.
+@inote SJT removed '-' from @v; I take the point, but @v- now removes the value from the signlist used for validation and OGSL needs to be inclusive in this area rather than prescriptive.  Perhaps we need to be able to express 'allowed but not recommended'; @v~ sissiₓ vel sim.
 @v	tar₅
 @note	Rebus writing (GI = târu); MZL p.461.
 @v	taru₅
@@ -11989,6 +11997,10 @@
 @useq	x1224B.x120B5.x12229
 @ucun	𒉋𒂵𒈩
 @v	gilgamesₓ
+@v	gilgamešₓ
+@@
+@form |GIŠ.NE.X.GA.MES|
+@aka |GIŠ.BIL.X.GA.MES|
 @v	gilgamešₓ
 @@
 @end sign
@@ -18908,8 +18920,6 @@
 @inote	@uname-no-utf8	CUNEIFORM SIGN KUSHU2 TIMES SAL
 @end sign
 
-@compoundonly	KWU089
-
 @sign- |KWU089.GAL|
 @note	KWU089 is a by-form of MUŠ.
 @useq	X.x120F2
@@ -20206,6 +20216,7 @@
 @end sign
 
 @sign |LAGAB×(U.U.U)|
+@aka |LAGAB×EŠ|
 @pname	|LAGAB×U+U+U|
 @list	ABZL411
 @list	MZL788
@@ -20893,6 +20904,10 @@
 @inote	AbS gods
 @useq	x121F4.x12292
 @ucun	𒇴𒊒
+@@
+@form |LAM×KUR.RU|
+@inote P238333 = BTT pl. 08, K 04714 3 collated: only
+	the KUR is inscribed within LAM and the RU follows it.
 @@
 @end sign
 
@@ -24340,7 +24355,8 @@
 @v	arinaₓ
 @end sign
 
-@sign |MUŠ&MUŠ×(A.NA)|
+@sign |(MUŠ&MUŠ)×(A.NA)|
+@aka |MUŠ&MUŠ×(A.NA)|
 @pname	|MUŠ&MUŠ×A+NA|
 @list	SLLHA374_81n1
 @uname	CUNEIFORM SIGN MUSH OVER MUSH TIMES A PLUS NA
@@ -24350,7 +24366,8 @@
 @v	arinaₓ
 @end sign
 
-@sign |MUŠ&MUŠ×AB|
+@sign |(MUŠ&MUŠ)×AB|
+@aka |MUŠ&MUŠ×AB|
 @inote	gvl unknown compound
 @end sign
 
@@ -24423,11 +24440,13 @@
 @v	arina
 @v	erina₈
 @v	irina
-@form |MUŠ%MUŠ×(A.NA)|
+@form |(MUŠ%MUŠ)×(A.NA)|
+@aka |MUŠ%MUŠ×(A.NA)|
 @@
 @end sign
 
-@sign |MUŠ%MUŠ×MAŠ|
+@sign |(MUŠ%MUŠ)×MAŠ|
+@aka |MUŠ%MUŠ×MAŠ|
 @v	erinₓ
 @end sign
 
@@ -30179,7 +30198,8 @@
 @inote	missing compounds for lak.atf
 @end sign
 
-@sign |SAR×ZU&ZU|
+@sign |SAR×(ZU&ZU)|
+@aka |SAR×ZU&ZU|
 @inote	gvl unknown compound
 @end sign
 
@@ -30312,9 +30332,12 @@
 @end sign
 
 @sign |SI@g.A|
-@inote	#old su₉
+@v su₉
 @useq	x122DC.x12000
 @ucun	𒋜𒀀
+@inote reinstated because this is still in dcclt/fm-EA3-composite.atf Ea 3,
+	200 su₉ " [su-u] ~ |[SI@g].A| = %sb sa-a-mu; it may well no longer
+	be correct but the dcclt ref needs fixing before this gets removed from OGSL.
 @end sign
 
 @sign SIG
@@ -31862,7 +31885,8 @@
 @@
 @form |(ŠE.NUN)&(ŠE.NUN)|
 @@
-@form |(ŠE.NUN)&(ŠE.NUN)×U₂|
+@form |((ŠE.NUN)&(ŠE.NUN))×U₂|
+@aka  |(ŠE.NUN)&(ŠE.NUN)×U₂|
 @@
 @form |U₂.(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
 @useq	x12311.x12303
@@ -33506,8 +33530,8 @@
 @v	gibir
 @v	kibir₂
 @v	kungaₓ
-@form |ŠU₂.AŠ@z&AŠ@z&AŠ@z&AŠ@z|
-@aka	|ŠU₂.ZIB|
+@form	|ŠU₂.ZIB|
+@aka	|ŠU₂.(AŠ@z&AŠ@z&AŠ@z&AŠ@z)|
 @inote	dcclt !sg
 @useq	x122D9.x12366
 @ucun	𒋙𒍦
@@ -35490,6 +35514,8 @@
 @@
 @end sign
 
+@compoundonly |(U.U.U)@g|
+
 @sign |U.U.U.6(DIŠ)|
 @aka	|U.U.U.AŠ₃|
 @useq	x1230D.x1240B
@@ -36447,6 +36473,7 @@
 @end sign
 
 @sign |UD×(U.U.U)|
+@aka |UD×EŠ|
 @pname	|UD×U+U+U|
 @list	ABZL334
 @list	HZL084
@@ -38316,6 +38343,8 @@
 @sign X
 @v	baniaₓ
 @v	eriₓ
+@v	lugudₓ
+@v	surruₓ
 @v	x
 @v	zeₓ
 @end sign
@@ -41085,3 +41114,58 @@
 @inote	dccmt
 @v	6(šarʾu)@v
 @end sign
+@compoundonly	|KISIM₅×AMAR|
+@compoundonly	|KISIM₅×BI|
+@compoundonly	|KISIM₅×(GA.MAŠ)|
+@compoundonly	|KISIM₅×GI|
+@compoundonly	|KISIM₅×GUD|
+@compoundonly	|KISIM₅×HA|
+@compoundonly	|KISIM₅×IR|
+@compoundonly	|KISIM₅×(IR.LU)|
+@compoundonly	|KISIM₅×LU|
+@compoundonly	|KISIM₅×(LU.MAŠ₂)|
+@compoundonly	|KISIM₅×LUM|
+@compoundonly	|KISIM₅×NE|
+@compoundonly	|KISIM₅×(PAP.PAP)|
+@compoundonly	|KISIM₅×SI|
+@compoundonly	|KISIM₅×(U₂.MAŠ)|
+@compoundonly	|KISIM₅×UŠ|
+@compoundonly	|(LAGAB×U)&(LAGAB×U)|
+@compoundonly	|LAGAR×GAR|
+@compoundonly	|LAGAR×SAL|
+@compoundonly	|LAGAR×MAŠ|
+@compoundonly	|LAGAR×UŠ|
+@compoundonly	|AB₂×AŠGAB|
+@compoundonly	|AB₂×BI|
+@compoundonly	|AB₂×DUG|
+@compoundonly	|AB₂×IGI@g|
+@compoundonly	|AB₂×KAD₃|
+@compoundonly	|AB₂×NE|
+@compoundonly	|AB₂×SILA₃|
+@compoundonly	|AB₂×U₂|
+@compoundonly	|AB₂×GAN₂@t.TAB|
+@compoundonly	|AB₂×ŠA₃.TAB|
+@compoundonly	|GUD×PAP|
+@compoundonly	|GUR₇&GUR₇|
+@compoundonly	|IDIM&IDIM|
+@compoundonly	|LAK079&LAK079|
+@compoundonly	|ŠE.NUN&NUN.LAGAB|
+@compoundonly	|E₂×AN|
+@compoundonly	|4×ZA|
+@compoundonly	|AŠ&AŠ|
+@compoundonly	|TUG₂&TUG₂|
+@compoundonly	|E&E|
+@compoundonly	|KAK×IGI|
+@compoundonly	|IGI&IGI|
+@compoundonly	|ŠIR&ŠIR|
+@compoundonly	|KU&HI×AŠ₂|
+@compoundonly	|NU₁₁&NU₁₁|
+@compoundonly	|BUR&BUR|
+@compoundonly	|LAGAR&LAGAR|
+@compoundonly	|SIG₄&SIG₄|
+@compoundonly	|ZA&ZA|
+@compoundonly	|SUR&SUR|
+@compoundonly	|U@v&U@v|
+@compoundonly	|BAD×U|
+@compoundonly	|BAR×DUG|
+@compoundonly	|MIN×IGI|
