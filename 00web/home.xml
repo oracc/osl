@@ -14,7 +14,7 @@
       url="/ogsl/signlist">here</esp:link>.</p>
 
       <p>You can learn how to report a <esp:link
-      url="/ogsl/addingtoogsl/">Report a new sign or value
+      page="newval">report a new sign or value
       here.</esp:link></p>
 
       <p>You can view/download the OGSL source file <esp:link
