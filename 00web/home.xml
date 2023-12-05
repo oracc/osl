@@ -13,7 +13,7 @@
       <p>You can browse or search the signlist <esp:link
       url="/ogsl/signlist">here</esp:link>.</p>
 
-      <p>You can learn how to report a <esp:link
+      <p>You can learn how to <esp:link
       page="newval">report a new sign or value
       here.</esp:link></p>
 
