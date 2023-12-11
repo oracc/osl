@@ -3349,6 +3349,7 @@
 @end sign
 
 @sign AŠ@z
+@aka 	GE₂₃
 @list	KWU333
 @list	MZL575
 @list	SLLHA360
@@ -27404,6 +27405,27 @@
 @v	𒑱
 @inote	For use in Luwian {𒑱}
 @v	:
+@form |9(DIŠ~b)+9(DIŠ~b)|
+@note P363689 TCL 06 16, o 14 and r 29, possibly to be understood as 6(U) in a variant stacking pattern.
+@@
+@form	AŠ@z
+@inote Amarna
+@@
+@form	GAM
+@inote Amarna
+@@
+@form	|U.U|
+@inote Amarna
+@@
+@form	U
+@inote Amarna
+@@
+@form	GE₂₂
+@inote Amarna
+@@
+@form	DIŠ
+@inote Amarna
+@@
 @end sign
 
 @sign P₃
@@ -35417,6 +35439,7 @@
 @end sign
 
 @sign |U.U|
+@aka	MAN
 @aka	00~b
 @list	ABZL363
 @list	HZL296
