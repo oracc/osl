@@ -41190,7 +41190,8 @@
 @inote Late KI.MIN = 4th instance
 @end sign
 
-@sign |KI.IA₂|
+@sign |KI.5(DIŠ)|
+@aka	|KI.IA₂|
 @inote Late KI.MIN = 5th instance; form of IA₂ needs collation
 @end sign
 
