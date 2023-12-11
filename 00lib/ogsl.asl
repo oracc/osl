@@ -41184,8 +41184,8 @@
 @inote Late KI.MIN = 4th instance
 @end sign
 
-@sign |KI.IA|
-@inote Late KI.MIN = 5th instance
+@sign |KI.IA₂|
+@inote Late KI.MIN = 5th instance; form of IA₂ needs collation
 @end sign
 
 @sign |NIM×GA|
