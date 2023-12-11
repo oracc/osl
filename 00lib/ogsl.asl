@@ -41174,3 +41174,20 @@
 @aka |ŠU.BI.AŠ.AM₃|
 @inote Late KI.MIN-type group in cams/gkab.
 @end sign
+
+@sign |KI.U.U.U|
+@aka |KI.EŠ|
+@inote Late KI.MIN = 3rd instance
+@end sign
+
+@sign |KI.LIMMU|
+@inote Late KI.MIN = 4th instance
+@end sign
+
+@sign |KI.YA|
+@inote Late KI.MIN = 4th instance
+@end sign
+
+@sign |NIM×GA|
+@inote uncertain and damaged compound in cams/gkab 00atf/sptu_2_029.atf:238:P348634
+@end sign
