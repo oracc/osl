@@ -40314,6 +40314,12 @@
 @@
 @end sign
 
+@sign 6(BAN₂)
+@inote For Sultantepe admin, where it occurs twice in cams/gkab; 
+       not clear that it should exist but I don't know STT metrology 
+       so this is a place-holder.
+@end sign
+
 @sign 4(BAN₂@v)
 @list	SLLHA340
 @uname	CUNEIFORM NUMERIC SIGN FOUR BAN2 VARIANT FORM
