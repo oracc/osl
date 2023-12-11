@@ -41169,3 +41169,8 @@
 @compoundonly	|BAD×U|
 @compoundonly	|BAR×DUG|
 @compoundonly	|MIN×IGI|
+
+@sign |ŠU.BI.AŠ.A.AN|
+@aka |ŠU.BI.AŠ.AM₃|
+@inote Late KI.MIN-type group in cams/gkab.
+@end sign
