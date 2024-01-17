@@ -5662,6 +5662,42 @@
 @form DIŠ@f
 @v	diš@f
 @@
+@form 4(DIŠ)
+@inote dcclt *() punctuation qualifier
+@@
+@form 5(DIŠ)
+@inote dcclt *() punctuation qualifier
+@@
+@form AŠ@c
+@inote dcclt *() punctuation qualifier
+@@
+@form AŠ@z
+@inote dcclt *() punctuation qualifier
+@@
+@form |DIŠ.DIŠ.DIŠ|
+@inote dcclt *() punctuation qualifier
+@@
+@form GAM
+@inote dcclt *() punctuation qualifier
+@@
+@form MIN
+@inote dcclt *() punctuation qualifier
+@@
+@form P₂
+@inote dcclt *() punctuation qualifier
+@@
+@form PAP
+@inote dcclt *() punctuation qualifier
+@@
+@form U@c
+@inote dcclt *() punctuation qualifier
+@@
+@form USSU
+@inote dcclt *() punctuation qualifier
+@@
+@form U
+@inote dcclt *() punctuation qualifier
+@@
 @end sign
 
 @sign |DIŠ.DAR|
