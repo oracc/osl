@@ -1817,6 +1817,7 @@
 @v	ub₇
 @sys	Attinger sem₅ => šem₅
 @sys	Attinger ub₇
+@form |AB₂×TAK₄|
 @end sign
 
 @compoundonly	|AB₂×GAN₂@t.TAB|
@@ -6936,6 +6937,12 @@
 @v	pid
 @v	pit
 @v	piṭ
+@end sign
+
+@sign |E₂×1(GEŠ₂)|
+@aka |E₂×GI₃|
+@v	giₓ?
+@inote Needs collation; Cavigneaux in Iraq 85
 @end sign
 
 @sign |E₂.A|
