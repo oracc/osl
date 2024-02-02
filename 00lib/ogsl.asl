@@ -6631,6 +6631,7 @@
 @list	ABZL401a
 @list	BAU280
 @list	BAU340
+@list	HZL223
 @list	KWU858
 @list	LAK666
 @list	MZL836
@@ -6704,13 +6705,13 @@
 @list	ABZL401b
 @list	BAU339
 @list	ELLES325
-@list	HZL096
+@list	HZL223
 @list	KWU859
 @list	LAK667
-@list	MZL556
+@list	MZL836
 @list	PTACE269
 @list	RSP305
-@list	SLLHA347
+@list	SLLHA595
 @uname	CUNEIFORM SIGN DUN3 GUNU
 @list	U+12086
 @ucun	𒂆
@@ -6735,10 +6736,15 @@
 @end sign
 
 @sign DUN₃@g@g
+@list	ABZL219a
+@list	ABZL219b
 @list	ELLES084
+@list	HZL096
 @list	KWU311
 @list	LAK154
+@list	MZL556
 @list	RSP275
+@list	SLLHA347
 @uname	CUNEIFORM SIGN DUN3 GUNU GUNU
 @list	U+12087
 @ucun	𒂇
