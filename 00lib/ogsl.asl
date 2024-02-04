@@ -4,7 +4,7 @@
 @inote	@listdef ABZ 1-598
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
 
-@listdef ABZL 1-480 021a 021b 112a 112b 207a 207a/207b 221a 221b 227a 227b 239a 239b 291a 291b 401a 401b
+@listdef ABZL 1-480 021a 021b 112a 112b 207a 207a/207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b 401a 401b
 @lit	C. Mittermayer, Altbabylonische Zeichenliste der sumerisch-literarischen Texte. (Fribourg, 2006).
 
 @listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 385a 385b 385c 386a 386b 387a 417a
@@ -18720,6 +18720,7 @@
 @list	KWU147
 @list	LAK094
 @list	REC056
+@aka	REC56
 @ucun	𒇸
 @@
 @end sign
@@ -22180,7 +22181,7 @@
 @v	sukuₓ
 @v	šaₓ
 @form REC145
-@aka KU₄~a
+@inote @aka KU₄~a (repeated @aka KU₄ is redundant and not allowed)
 @lit	Krecher 1973 https://doi.org/10.1515/zava.1973.63.2.145 p. 232
 @list	KWU634
 @list	REC145
