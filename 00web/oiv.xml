@@ -9,7 +9,7 @@
       Ideographic Variation Sequences as defined in <esp:link
       url="https://unicode.org/reports/tr37">Unicode Technical Report
       37 (referred to as TR37 in the following).</esp:link> in
-      OGSL/GDL. The original idea of using these with Unicode
+      OGSL/GVL. The original idea of using these with Unicode
       cuneiform is owed to Robin LeRoy.</p>
 
       <esp:h>Overview</esp:h>
@@ -41,7 +41,9 @@
       <p>Oracc_OGSL names consist of a BASESIGN, underscore character,
       '_', VARDATA.  Both BASESIGN, the sign subject to variation, and
       VARDATA, the variation, consist of uppercase letters A-Z
-      followed by optional digits 0-9.</p>
+      followed by optional digits 0-9, followed by option compound
+      sign parts.  A compound sign part consists of a delimiter from
+      the set <code>@%&amp;*</code> plus a sign name.</p>
 
       <p>The BASESIGN is always derived from an OGSL sign name
       translating subscript digits to regular digits and substituting
@@ -107,6 +109,49 @@
       <p>In the case of variant forms, The VARDATA component of the
       label <code>MU_KASKAL</code> may qualify the variation rather
       than defining the target form as a merged sign.</p>
+
+      <esp:h>Oracc_OGSL Ideographic Variation Database</esp:h>
+
+      <p>The Oracc_OGSL Ideographic Variation Database, OIVD, is kept
+      in 00etc/Oracc_OGSL.txt in the Oracc OGSL repo, and is available
+      online at XXX.</p>
+
+      <p>The OIVD contains all possible applications of IVS in
+      Oracc_OGSL; not all script phases will exhibit all IVS traits,
+      however. Subsetting of the OIVD for individual script phases is
+      handled using configuration files which give a simple list of
+      IVS names.  By convention these have the extension
+      <code>.oiv</code>.  A trivial example could be a file
+      <code>merger.oiv</code> containing the line:</p>
+
+      <pre>
+	IM_NI2
+      </pre>
+      
+      <esp:h>GVL Implementation</esp:h>
+
+      <p>The Grapheme Validation Library (GVL) uses data derived from
+      a sign list to validate Oracc transliteration; it also uses the
+      sign list to add unicode data to the processed transliteration.
+      GVL can be configured to use OIVD entries by via a
+      <code>.oiv</code> file. This is set using the library routine
+      <code>gvl_use_ivs(const char *oivfilename)</code>: GVL reads the
+      <code>.oiv</code> file and looks up the entries in the OIVD,
+      building an IVS map from the base character to the IVS pair.
+      When adding Unicode data GVL looks up each unicode codepoint in
+      the IVS map and replaces it with the IVS pair if found. This is
+      done both for singleton unicode codepoints and for codepoints
+      that are part of a sequence.</p>
+
+      <p>GVL callers are responsible for determining the selection of
+      the correct IVS sets dependent on project, text, or
+      transliteration metadata.  GVL guarantees that a requested
+      <code>.oiv</code> file will be read only once so switching
+      between script types is efficient: this feature can be used not
+      only to account for general variations like mergers, but also
+      individual handwriting such as the variable differentiation of
+      GA and BI signs on certain Old Babylonian literary tablets or
+      graphetic features as defined in the source corpus of SAAo.</p>
       
     </body>
   </html>
