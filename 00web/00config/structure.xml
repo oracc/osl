@@ -7,4 +7,5 @@
   <struct:page file="newval.xml" id="newval" type="page"/>
   <struct:page file="maintainer.xml" id="maintainer" type="page"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
+  <struct:page file="oiv.xml" id="oiv" type="page"/>
 </struct:page>
