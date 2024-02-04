@@ -18720,7 +18720,6 @@
 @list	KWU147
 @list	LAK094
 @list	REC056
-@aka	REC56
 @ucun	𒇸
 @@
 @end sign
@@ -22169,6 +22168,7 @@
 @list	REC056
 @list	RSP127
 @list	SLLHA336
+@aka	REC56
 @lit	Krecher ZA 77 (1987), 17-21
 @uname	CUNEIFORM SIGN LIL
 @list	U+121F8
