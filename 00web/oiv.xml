@@ -80,9 +80,6 @@
 	E0113 VFORM3
       </pre>
 
-      <p>It remains to be seen whether the life history of any
-      individual sign exhibits this level of variation.</p>
-
       <esp:h>Sample Oracc_OGSL IVS entries</esp:h>
 
       <p>The most common use of Oracc_OGSL IVS will be to handle
@@ -132,8 +129,8 @@
 
       <p>The Grapheme Validation Library (GVL) uses data derived from
       a sign list to validate Oracc transliteration; it also uses the
-      sign list to add unicode data to the processed transliteration.
-      GVL can be configured to use OIVD entries by via a
+      sign list to add Unicode data to the processed transliteration.
+      GVL can be configured to use OIVD entries via a
       <code>.oiv</code> file. This is set using the library routine
       <code>gvl_use_ivs(const char *oivfilename)</code>: GVL reads the
       <code>.oiv</code> file and looks up the entries in the OIVD,
@@ -147,7 +144,7 @@
       the correct IVS sets dependent on project, text, or
       transliteration metadata.  GVL guarantees that a requested
       <code>.oiv</code> file will be read only once so switching
-      between script types is efficient: this feature can be used not
+      between script-types is efficient: this feature can be used not
       only to account for general variations like mergers, but also
       individual handwriting such as the variable differentiation of
       GA and BI signs on certain Old Babylonian literary tablets or
