@@ -41,9 +41,9 @@
       <p>Oracc_OGSL names consist of a BASESIGN, underscore character,
       '_', VARDATA.  Both BASESIGN, the sign subject to variation, and
       VARDATA, the variation, consist of uppercase letters A-Z
-      followed by optional digits 0-9, followed by option compound
+      followed by optional digits 0-9, followed by optional compound
       sign parts.  A compound sign part consists of a delimiter from
-      the set <code>@%&amp;*</code> plus a sign name.</p>
+      the set <code>@%&amp;*.</code> plus a sign name.</p>
 
       <p>The BASESIGN is always derived from an OGSL sign name
       translating subscript digits to regular digits and substituting
