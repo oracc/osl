@@ -36,14 +36,16 @@
 	Oracc_OGSL;[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*_[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*;http://oracc.org/ogsl/ivs/
       </pre>
 
-      <esp:h>Oracc_OGSL Name Structure</esp:h>
+      <esp:h>Oracc_OGSL Identifier Structure</esp:h>
 
-      <p>Oracc_OGSL names consist of a BASESIGN, underscore character,
-      '_', VARDATA.  Both BASESIGN, the sign subject to variation, and
-      VARDATA, the variation, consist of uppercase letters A-Z
-      followed by optional digits 0-9, followed by optional compound
-      sign parts.  A compound sign part consists of a delimiter from
-      the set <code>@%&amp;*.</code> plus a sign name.</p>
+      <p>Oracc_OGSL identifiers consist of a BASESIGN, underscore
+      character, '_', and VARDATA.  Both BASESIGN, the sign subject to
+      variation, and VARDATA, the variation, consist of uppercase
+      letters A-Z followed by optional digits 0-9, followed by
+      optional compound sign parts.  A compound sign part consists of
+      a delimiter from the set <code>@%&amp;*.</code> plus a sign
+      name, consisting of uppercase letters A-Z followed by optional
+      digits 0-9.</p>
 
       <p>The BASESIGN is always derived from an OGSL sign name
       translating subscript digits to regular digits and substituting
@@ -56,6 +58,11 @@
       <p>The VARDATA is either an OGSL sign name or a descriptive
       label for the variant selected via the sequence as described
       further in the next section.</p>
+
+      <esp:h>Oracc_OGSL Reference Glyphs</esp:h>
+
+      <p>A table of Oracc_OGSL reference glyphs is maintained at
+      XXX/ogsl/ivsglyphs.html.</p>
 
       <esp:h>Oracc_OGSL use of Variation Selectors</esp:h>
 
@@ -90,7 +97,7 @@
 
       <pre>      
 	# IM merges with NI2 except for ED Fara
-	1214E E0100 Oracc_OGSL IM_NI2
+	1214E E0100;Oracc_OGSL;IM_NI2
       </pre>
       
       <p>Systemic sign variation is also handled using IVS entries.  A
@@ -100,7 +107,7 @@
 
       <pre>
 	# MU sign with KASKAL-style replacement for normal SHE-style component
-	1222C E0110 Oracc_OGSL MU_KASKAL
+	1222C E0110;Oracc_OGSL;MU_KASKAL
       </pre>
 
       <p>In the case of variant forms, The VARDATA component of the

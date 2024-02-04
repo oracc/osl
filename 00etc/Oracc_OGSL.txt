@@ -1,5 +1,7 @@
-# IM merges with NI2 except for ED Fara
-1214E E0100 Oracc_OGSL IM_NI2
+#ref IM_NI2: IM merges with U+1224E NI2 except for ED Fara
+1214E E0100;Oracc_OGSL;IM_NI2
 
-# MU sign with KASKAL-style replacement for normal SHE-style component
-1222C E0110 Oracc_OGSL MU_KASKAL
+#ref MU_KASKAL: MU sign with KASKAL-style replacement for normal SHE-style component (e.g., P222183 i 5)
+1222C E0110;Oracc_OGSL;MU_KASKAL
+
+# EOF
