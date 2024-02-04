@@ -433,7 +433,7 @@ for example, this is likely to be a rarely used facility.</p>
 used in corpus-based signlists and is an instruction to the sx-suite
 to embed the @merge signs in the parent sign.  This allows
 corpus-based signlists to treat signs and values naturally as
-experienced by readers.<p>
+experienced by readers.</p>
 
 <pre class="example">
   @sign NI₂
