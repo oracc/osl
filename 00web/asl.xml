@@ -85,6 +85,7 @@ ASL.</p>
 	v		= @v '-'? vlang? VALUE '?'?
 	vlang		= '%' LANG-CODE
 	system		= @sys SYSTEM-NAME VALUE ('~' VALUE)?
+	merge		= @merge SIGN-NAME(S)
 	formblock	= form , names? , list* , notes? , unicode? ,
 			  value* , endform
 	form		= @form '-'? SIGN-NAME
@@ -425,6 +426,21 @@ consists of a SIGN-NAME and a GOESTO notation in which the destination
 portion must be a SIGN-NAME which occurs in the ASL signlist.  Since
 cross-references can be generated automatically by sx from @aka tags,
 for example, this is likely to be a rarely used facility.</p>
+
+<h4>Mergers</h4>
+
+<p>The @merge tag is listed under minor features because it is only
+used in corpus-based signlists and is an instruction to the sx-suite
+to embed the @merge signs in the parent sign.  This allows
+corpus-based signlists to treat signs and values naturally as
+experienced by readers.<p>
+
+<pre class="example">
+  @sign NI₂
+  ...
+  @merge IM
+  @end sign
+</pre>
 
 </body></html>
 </esp:page>
