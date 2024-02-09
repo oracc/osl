@@ -11655,6 +11655,9 @@
 @v	alim⁻
 @sys	Attinger alim⁻ => alim
 @@
+@form |GIR₃×IGI|
+@inote This is the form in Gudea Cyl.
+@@
 @end sign
 
 @sign |GIR₃×AN|
@@ -11723,6 +11726,9 @@
 @form |LU.IGI.ANŠE|
 @useq	x121FB.x12146.x12032
 @ucun	𒇻𒅆𒀲
+@@
+@form |GIR₃×(IGI.LU)|
+@inote Variant in Gudea Cyl.
 @@
 @end sign
 
@@ -13636,6 +13642,9 @@
 @@
 @form KAM@v
 @v	kam@v
+@@
+@form |HI×AŠ@t|
+@inote this is the form in Gudea Cyl
 @@
 @end sign
 
@@ -21711,7 +21720,7 @@
 
 @sign LAK496
 @list	LAK496
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
+@inote	This is EGIR(LAK499) without the gunufication at the end of the sign. Used for egir in Gudea Cyl. except for the final use in the Gudea Cyl B colophon.
 @end sign
 
 @sign LAK498
