@@ -15,6 +15,15 @@
 @lit	P. Mander, "Appendix E. Lista dei Segni dei testi lessicali di Ebla".
 	Pp. 285-382 in G. Pettinato, Testi Lessicali Monolingui della Biblioteca L. 2769 (MEE 3; Napoli 1981)
 
+@listdef GCSL 1-326 007a 057a 178a 185a 186a 188a 242a 249a
+@lit	[Gudea Corpus SL based on] I.M. Price, The Great Cylinder Inscriptions A & B of Gudea (Leipzig 1899) pt. I pp.89-111.
+@note GCSL is a corrected superset of Price's signlist; GCSL numbers
+	less than 400 correspond to Price's sign numbers. Except for
+	GCSL057a, 'a'-numbers are excerpted from compounds in Price.
+	GCSL numbers 400 and above are reserved for additions to
+	Price's list with reference images taken from Thureau-Dangin,
+	TCL 8, and other sources.
+
 @listdef HZL 1-375 244A 256(1) 256(2)
 @lit	C. Ruster and E. Neu, Hethitisches Zeichenlexikon (Harrassowitz Verlag 1989)
 
@@ -92,6 +101,7 @@
 @inote	Presently incomplete.
 
 @sign A
+@list	GCSL324
 @list	BAU416
 @list	ELLES393
 @list	KWU901
@@ -393,6 +403,7 @@
 @ucun	𒀀𒄩𒋻𒌓𒁺
 @@
 @form BU
+@list	GCSL115
 @list	ABZL265
 @list	BAU148
 @list	ELLES131
@@ -832,6 +843,7 @@
 @ucun	𒀀𒋢
 @v	aktum
 @form SU
+@list	GCSL137
 @list	BAU226
 @list	ELLES172
 @list	LAK293
@@ -1163,6 +1175,7 @@
 @end sign
 
 @sign A₂
+@list	GCSL088
 @list	ABZL230
 @list	BAU102
 @list	ELLES078
@@ -1191,6 +1204,7 @@
 @v	te₈
 @v	ti₈
 @form DA
+@list	GCSL087
 @list	BAU097
 @list	BAU101
 @list	ELLES077
@@ -1290,6 +1304,7 @@
 @end sign
 
 @sign AB
+@list	GCSL251
 @list	ABZL125
 @list	BAU333
 @list	ELLES285
@@ -1439,6 +1454,7 @@
 @end sign
 
 @sign |AB×HA|
+@list	GCSL253
 @list	ABZL131
 @list	BAU334bis
 @list	KWU829
@@ -1623,6 +1639,7 @@
 @sys	Attinger erigal₂
 @sys	Attinger irigal₂
 @form AB
+@list	GCSL251
 @list	BAU333
 @list	ELLES285
 @list	LAK536
@@ -1653,6 +1670,7 @@
 @end sign
 
 @sign AB₂
+@list	GCSL204
 @list	ABZL352
 @list	BAU177
 @list	BAU178
@@ -1723,6 +1741,7 @@
 @end sign
 
 @sign |AB₂.ŠA₃|
+@list	GCSL205
 @list	LAK404
 @list	RSP161
 @useq	x12016.x122AE
@@ -1937,6 +1956,7 @@
 @end sign
 
 @sign AD
+@list	GCSL270
 @list	ABZL132
 @list	BAU311
 @list	ELLES311
@@ -1993,6 +2013,7 @@
 @end sign
 
 @sign AK
+@list	GCSL045
 @list	BAU062
 @list	ELLES053
 @list	KWU073
@@ -2022,6 +2043,8 @@
 @end sign
 
 @sign |AK×ERIN₂|
+@list	GCSL006
+@list	GCSL036
 @list	ABZL053
 @list	HZL082
 @list	KWU072
@@ -2034,6 +2057,7 @@
 @uage	5.0
 @v	me₃
 @form AK
+@list	GCSL045
 @list	BAU062
 @list	ELLES053
 @list	KWU073
@@ -2082,6 +2106,7 @@
 @end sign
 
 @sign AL
+@list	GCSL271
 @list	ABZL108
 @list	BAU310
 @list	ELLES269
@@ -2261,6 +2286,7 @@
 @end sign
 
 @sign AMAR
+@list	GCSL120
 @list	ABZL367
 @list	BAU146
 @list	ELLES152
@@ -2338,6 +2364,7 @@
 @end sign
 
 @sign |AMAR×ŠE|
+@list	GCSL121
 @list	ABZL368
 @list	BAU146b
 @list	HZL156
@@ -2369,6 +2396,7 @@
 @inote	In |AB₂×AMAR@t| in P020344 = VS 27, 28.
 
 @sign |3×AN|
+@list	GCSL051
 @list	BAU008
 @list	ELLES006b
 @list	KWU025
@@ -2407,6 +2435,7 @@
 @end sign
 
 @sign AN
+@list	GCSL004
 @list	ABZL009
 @list	BAU006
 @list	ELLES005
@@ -2747,6 +2776,7 @@
 @ucun	𒀭𒊺𒉀
 @v	nanibgal₂
 @form |ŠE.NAGA|
+@list	GCSL106
 @useq	x122BA.x12240
 @ucun	𒊺𒉀
 @@
@@ -2783,6 +2813,7 @@
 @inote	added during ogsl upgrade
 
 @sign |AN&AN|
+@list	GCSL050
 @list	BAU007
 @list	ELLES006
 @list	HZL100
@@ -2809,6 +2840,7 @@
 @end sign
 
 @sign ANŠE
+@list	GCSL167
 @list	ABZL292
 @list	BAU161a
 @list	BAU161c
@@ -2845,6 +2877,7 @@
 @list	LAK239
 @@
 @form LAK240
+@list	GCSL119
 @list	LAK240
 @@
 @form LAK248@g
@@ -2948,6 +2981,7 @@
 @end sign
 
 @sign APIN
+@list	GCSL043
 @list	ABZL005
 @list	BAU075
 @list	ELLES072
@@ -2978,6 +3012,7 @@
 @end sign
 
 @sign ARAD
+@list	GCSL020
 @list	ABZL016
 @list	BAU051
 @list	BAU053
@@ -3045,6 +3080,7 @@
 @end sign
 
 @sign |ARAD×KUR|
+@list	GCSL021
 @list	ABZL017
 @list	BAU052
 @list	ELLES036
@@ -3091,6 +3127,7 @@
 @compoundonly	ASAL₂
 
 @sign AŠ
+@list	GCSL001
 @list	ABZL001
 @list	BAU001
 @list	ELLES001
@@ -3169,6 +3206,7 @@
 @inote	"flat" aš, mostly Archaic Ur but also at Fara P480579
 @@
 @form AŠ@t
+@list	GCSL188a
 @v	aš@t
 @@
 @form AŠ@v
@@ -3358,6 +3396,7 @@
 @end sign
 
 @sign AŠ@t
+@list	GCSL188a
 @list	ELLES104
 @list	LAK178
 @v	aš@t
@@ -3409,6 +3448,7 @@
 @end sign
 
 @sign AŠ₂
+@list	GCSL074
 @list	ABZL211
 @list	BAU095
 @list	ELLES090
@@ -3492,6 +3532,7 @@
 @end sign
 
 @sign BA
+@list	GCSL134
 @list	ABZL303
 @list	BAU222
 @list	ELLES170
@@ -3515,6 +3556,8 @@
 @end sign
 
 @sign BAD
+@list	GCSL010
+@list	GCSL209
 @list	ABZL025
 @list	BAU009
 @list	ELLES009
@@ -3729,6 +3772,7 @@
 @ucun	𒂁𒋡𒁓
 @@
 @form EDIN
+@list	GCSL306
 @list	ELLES365
 @list	LAK747
 @list	PTACE293
@@ -3769,6 +3813,7 @@
 @end sign
 
 @sign BAL
+@list	GCSL015
 @list	ABZL003
 @list	ELLES012
 @list	HZL004
@@ -3801,6 +3846,7 @@
 @end sign
 
 @sign BALAG
+@list	GCSL034
 @list	ABZL195
 @list	BAU029
 @list	ELLES026
@@ -3856,6 +3902,7 @@
 @end sign
 
 @sign BAR
+@list	GCSL308
 @list	ABZL057
 @list	BAU252
 @list	ELLES367
@@ -3881,6 +3928,7 @@
 @note	value sutu moved to BAN₂.
 @v-	war
 @form AŠ
+@list	GCSL001
 @list	ABZL001
 @list	BAU001
 @list	ELLES001
@@ -3902,6 +3950,7 @@
 @v	kunga₂
 @v	kungi₂
 @form |3×AN|
+@list	GCSL051
 @list	BAU008
 @list	ELLES006b
 @list	KWU025
@@ -3972,6 +4021,7 @@
 @end sign
 
 @sign BARA₂
+@list	GCSL068
 @list	ABZL217
 @list	BAU088
 @list	ELLES083
@@ -4049,6 +4099,7 @@
 @end sign
 
 @sign BI
+@list	GCSL277
 @list	ABZL079
 @list	BAU344
 @list	BAU350
@@ -4180,6 +4231,7 @@
 @end sign
 
 @sign |BI×A|
+@list	GCSL279
 @list	LAK642
 @uname	CUNEIFORM SIGN BI TIMES A
 @list	U+1204A
@@ -4232,6 +4284,7 @@
 @end sign
 
 @sign BU
+@list	GCSL115
 @aka	BU~a
 @list	ABZL265
 @list	BAU148
@@ -4459,6 +4512,7 @@
 @end sign
 
 @sign BUR
+@list	GCSL080
 @list	ABZL223
 @list	BAU404
 @list	ELLES097
@@ -4492,6 +4546,7 @@
 @compoundonly	|BUR&BUR|
 
 @sign BUR₂
+@list	GCSL022
 @list	ABZL013
 @list	BAU054
 @list	BAU056
@@ -4542,6 +4597,7 @@
 @end sign
 
 @sign BURU₅
+@list	GCSL039
 @list	ELLES044
 @list	LAK072
 @list	MZL135
@@ -4565,6 +4621,7 @@
 @ucun	𒄷𒊺𒂟
 @@
 @form NAM
+@list	GCSL040
 @list	BAU038
 @list	ELLES043
 @list	LAK071
@@ -4590,6 +4647,7 @@
 @end sign
 
 @sign DA
+@list	GCSL087
 @list	ABZL229
 @list	BAU097
 @list	BAU101
@@ -4638,6 +4696,7 @@
 @end sign
 
 @sign DAG
+@list	GCSL304
 @list	BAU362
 @list	ELLES363
 @list	KWU848
@@ -5096,6 +5155,7 @@
 @end sign
 
 @sign DAM
+@list	GCSL244
 @list	ABZL454
 @list	BAU291
 @list	ELLES275
@@ -5130,6 +5190,7 @@
 @end sign
 
 @sign DAR
+@list	GCSL033
 @list	ABZL037
 @list	BAU036
 @list	HZL083
@@ -5157,6 +5218,7 @@
 @end sign
 
 @sign DARA₃
+@list	GCSL110
 @list	ABZL365
 @list	ELLES150
 @list	HZL071
@@ -5219,6 +5281,7 @@
 @end sign
 
 @sign DE₂
+@list	GCSL071
 @list	KWU309
 @list	SLLHA338n1
 @umap	|UMUM×KASKAL|
@@ -5256,6 +5319,7 @@
 @end sign
 
 @sign DI
+@list	GCSL193
 @list	ABZL431
 @list	BAU190
 @list	ELLES227
@@ -5316,6 +5380,7 @@
 @end sign
 
 @sign DIB
+@list	GCSL186a
 @list	ABZL419
 @list	HZL210?
 @list	MZL813
@@ -5352,6 +5417,7 @@
 @end sign
 
 @sign DIM
+@list	GCSL018
 @list	ABZL014
 @list	ELLES031
 @list	HZL014
@@ -5445,6 +5511,7 @@
 @lit	Civil, ZA 74, 162
 @@
 @form DIM@g
+@list	GCSL019
 @list	ELLES033b
 @list	LAK056
 @list	PTACE063
@@ -5464,6 +5531,7 @@
 @end sign
 
 @sign DIM₂
+@list	GCSL223
 @list	ABZL067
 @list	BAU381
 @list	ELLES251
@@ -5521,6 +5589,7 @@
 @end sign
 
 @sign DIN
+@list	GCSL118
 @list	ABZL361
 @list	BAU144
 @list	BAU145
@@ -5679,6 +5748,7 @@
 @inote dcclt *() punctuation qualifier
 @@
 @form GAM
+@list	GCSL091
 @inote dcclt *() punctuation qualifier
 @@
 @form MIN
@@ -5688,6 +5758,7 @@
 @inote dcclt *() punctuation qualifier
 @@
 @form PAP
+@list	GCSL113
 @inote dcclt *() punctuation qualifier
 @@
 @form U@c
@@ -5697,6 +5768,7 @@
 @inote dcclt *() punctuation qualifier
 @@
 @form U
+@list	GCSL176
 @inote dcclt *() punctuation qualifier
 @@
 @end sign
@@ -5763,6 +5835,7 @@
 @end sign
 
 @sign DU
+@list	GCSL224
 @list	BAU374
 @list	ELLES252
 @list	HZL128
@@ -5946,6 +6019,7 @@
 @v	suhuš
 @v	šuhuš
 @form DU
+@list	GCSL224
 @list	BAU374
 @list	ELLES252
 @list	LAK484
@@ -5979,6 +6053,7 @@
 @end sign
 
 @sign DU@s
+@list	GCSL225
 @list	ABZL066
 @list	BAU376
 @list	HZL129
@@ -6011,6 +6086,7 @@
 @sys	Attinger barim
 @sys	Attinger parim
 @form DU
+@list	GCSL224
 @list	BAU374
 @list	ELLES252
 @list	LAK484
@@ -6071,6 +6147,7 @@
 @end sign
 
 @sign DUB
+@list	GCSL263
 @list	ABZL112b
 @list	BAU297
 @list	ELLES299
@@ -6178,6 +6255,7 @@
 @end sign
 
 @sign DUB₂
+@list	GCSL266
 @list	ABZL082
 @list	ELLES309
 @list	KWU720
@@ -6211,6 +6289,7 @@
 @end sign
 
 @sign DUG
+@list	GCSL278
 @list	ABZL080
 @list	BAU342
 @list	BAU348
@@ -6527,6 +6606,7 @@
 @end sign
 
 @sign DUGUD
+@list	GCSL201
 @list	ABZL349
 @list	HZL268
 @list	KWU507
@@ -6550,6 +6630,7 @@
 @end sign
 
 @sign DUH
+@list	GCSL055
 @aka	DU₈~a
 @list	ABZL141
 @list	BAU071
@@ -6573,6 +6654,7 @@
 @end sign
 
 @sign DUN
+@list	GCSL189
 @list	BAU019
 @list	ELLES025
 @list	HZL046
@@ -6654,6 +6736,7 @@
 @v	tuna₃
 @v	ṭu
 @form DUN₃@g
+@list	GCSL314
 @list	BAU339
 @list	ELLES325
 @list	LAK667
@@ -6675,6 +6758,7 @@
 @end sign
 
 @sign DUN₄
+@list	GCSL312
 @list	ABZL220
 @list	BAU156
 @list	HZL088
@@ -6702,6 +6786,7 @@
 @end sign
 
 @sign DUN₃@g
+@list	GCSL314
 @list	ABZL401b
 @list	BAU339
 @list	ELLES325
@@ -6736,6 +6821,7 @@
 @end sign
 
 @sign DUN₃@g@g
+@list	GCSL072
 @list	ABZL219a
 @list	ABZL219b
 @list	ELLES084
@@ -6821,6 +6907,7 @@
 @end sign
 
 @sign E
+@list	GCSL084
 @list	ABZL167
 @list	BAU089
 @list	ELLES074
@@ -6907,6 +6994,7 @@
 @end sign
 
 @sign E₂
+@list	GCSL299
 @list	ABZL107
 @list	BAU365
 @list	ELLES359
@@ -7182,6 +7270,7 @@
 @end sign
 
 @sign EDIN
+@list	GCSL306
 @list	ABZL115
 @list	ELLES365
 @list	KWU753
@@ -7246,6 +7335,7 @@
 @end sign
 
 @sign EGIR
+@list	GCSL230
 @list	ABZL076
 @list	HZL126
 @list	KWU731
@@ -7291,6 +7381,7 @@
 @end sign
 
 @sign EL
+@list	GCSL240
 @list	ABZL455
 @list	BAU399
 @list	ELLES272
@@ -7440,6 +7531,7 @@
 @end sign
 
 @sign EN
+@list	GCSL248
 @list	ABZL062
 @list	BAU296
 @list	HZL040
@@ -7603,6 +7695,7 @@
 @v	ensi
 @v	šešlam₂
 @form |EN×ME.LI|
+@list	GCSL249
 @list	LAK534
 @useq	x1209A.x121F7
 @ucun	𒂚𒇷
@@ -7809,6 +7902,7 @@
 @end sign
 
 @sign |EN×ME|
+@list	GCSL249a
 @list	SLLHA099c
 @uname	CUNEIFORM SIGN EN TIMES ME
 @list	U+1209A
@@ -7908,6 +8002,8 @@
 @end sign
 
 @sign ERIN₂
+@list	GCSL125
+@list	GCSL300
 @list	ABZL247
 @list	BAU143
 @list	BAU248
@@ -8002,6 +8098,7 @@
 @end sign
 
 @sign EŠ₂
+@list	GCSL323
 @list	BAU386a
 @list	ELLES392
 @list	LAK794
@@ -8109,6 +8206,7 @@
 @v	saman₃
 @@
 @form EŠ₂
+@list	GCSL323
 @list	BAU386a
 @list	ELLES392
 @list	LAK794
@@ -8313,6 +8411,7 @@
 @end sign
 
 @sign EZEN
+@list	GCSL261
 @list	BAU298
 @list	ELLES303
 @list	KWU835
@@ -8350,6 +8449,7 @@
 @v	šir₃
 @v	ugₓ
 @form KEŠ₂
+@list	GCSL264
 @list	BAU307
 @list	ELLES300
 @list	LAK612
@@ -8411,6 +8511,7 @@
 @end sign
 
 @sign |EZEN×BAD|
+@list	GCSL262
 @list	ABZL153
 @list	HZL114
 @list	KWU837
@@ -8616,6 +8717,7 @@
 @v	gublaga
 @v	laban
 @form EZEN
+@list	GCSL261
 @list	BAU298
 @list	ELLES303
 @list	LAK611
@@ -8644,6 +8746,7 @@
 @v	asilal
 @v	silₓ
 @form EZEN
+@list	GCSL261
 @list	BAU298
 @list	ELLES303
 @list	LAK611
@@ -8886,6 +8989,7 @@
 @end sign
 
 @sign GA
+@list	GCSL296
 @list	ABZL201
 @list	BAU368
 @list	ELLES354
@@ -9011,6 +9115,7 @@
 @end sign
 
 @sign GA₂
+@list	GCSL287
 @list	ABZL093
 @list	BAU317
 @list	ELLES332
@@ -9157,6 +9262,7 @@
 @end sign
 
 @sign |GA₂×AN|
+@list	GCSL288
 @list	ABZL094
 @list	ELLES333
 @list	HZL057
@@ -9868,6 +9974,7 @@
 @end sign
 
 @sign |GA₂×(ME.EN)|
+@list	GCSL292
 @pname	|GA₂×ME+EN|
 @list	ABZL102
 @list	LAK683
@@ -9969,6 +10076,7 @@
 @end sign
 
 @sign |GA₂×(NUN&NUN)|
+@list	GCSL291
 @aka	|GA₂×NUN&NUN|
 @list	ABZL099
 @list	ELLES338
@@ -9990,6 +10098,7 @@
 @end sign
 
 @sign |GA₂×PA|
+@list	GCSL290
 @list	ABZL097
 @list	BAU278
 @list	ELLES335
@@ -10217,6 +10326,7 @@
 @v	gazaₓ
 @v	gazi
 @form |GA₂×PA|
+@list	GCSL290
 @list	ABZL097
 @list	BAU278
 @list	ELLES335
@@ -10427,6 +10537,7 @@
 @end sign
 
 @sign GAL
+@list	GCSL076
 @list	ABZL213
 @list	BAU107
 @list	ELLES093
@@ -10627,6 +10738,7 @@
 @end sign
 
 @sign GAM
+@list	GCSL091
 @list	ABZL359
 @list	ELLES105
 @list	HZL247
@@ -10662,6 +10774,7 @@
 @end sign
 
 @sign GAN
+@list	GCSL273
 @list	ABZL120
 @list	BAU047
 @list	HZL113
@@ -10718,6 +10831,7 @@
 @end sign
 
 @sign GAN₂
+@list	GCSL026
 @list	ABZL106
 @list	BAU061
 @list	ELLES055
@@ -10765,6 +10879,7 @@
 @v	iku@c@v
 @@
 @form GAN₂@t
+@list	GCSL095
 @v	iku@t
 @@
 @end sign
@@ -10811,6 +10926,7 @@
 @end sign
 
 @sign GAN₂@t
+@list	GCSL095
 @list	ABZL246
 @list	ELLES110
 @list	KWU349
@@ -10842,6 +10958,7 @@
 @end sign
 
 @sign GAR
+@list	GCSL246
 @list	ABZL473
 @list	BAU396
 @list	ELLES280
@@ -11075,6 +11192,7 @@
 @end sign
 
 @sign GAR₃
+@list	GCSL073
 @list	ABZL209
 @list	BAU110
 @list	BAU251
@@ -11142,6 +11260,7 @@
 @end sign
 
 @sign GEŠTIN
+@list	GCSL265
 @list	ABZL077
 @list	BAU314
 @list	ELLES308
@@ -11195,6 +11314,7 @@
 @end sign
 
 @sign GI
+@list	GCSL219
 @list	ABZL040
 @list	BAU255
 @list	ELLES243
@@ -11374,6 +11494,7 @@
 @end sign
 
 @sign GI₄
+@list	GCSL065
 @list	ABZL214
 @list	BAU257
 @list	ELLES245
@@ -11453,6 +11574,7 @@
 @end sign
 
 @sign GIG
+@list	GCSL202
 @list	ABZL350
 @list	BAU175
 @list	HZL269
@@ -11482,6 +11604,7 @@
 @end sign
 
 @sign GIR₂
+@list	GCSL002
 @list	ABZL008
 @list	BAU003
 @list	ELLES003
@@ -11518,6 +11641,7 @@
 @end sign
 
 @sign GIR₃
+@list	GCSL165
 @list	ABZL291b
 @list	BAU161a
 @list	BAU161c
@@ -11705,6 +11829,7 @@
 @end sign
 
 @sign |GIR₃×(LU.IGI)|
+@list	GCSL169
 @pname	|GIR₃×LU+IGI|
 @list	KWU467
 @list	MZL702
@@ -11728,6 +11853,7 @@
 @ucun	𒇻𒅆𒀲
 @@
 @form |GIR₃×(IGI.LU)|
+@list	GCSL168
 @inote Variant in Gudea Cyl.
 @@
 @end sign
@@ -11753,6 +11879,7 @@
 @end sign
 
 @sign GIR₂@g
+@list	GCSL003
 @list	ABZL008
 @list	BAU004
 @list	BAU005
@@ -11854,6 +11981,7 @@
 @end sign
 
 @sign GIŠ
+@list	GCSL286
 @list	ABZL160
 @list	BAU312
 @list	ELLES331
@@ -12394,6 +12522,7 @@
 @end sign
 
 @sign |GIŠ%GIŠ|
+@list	GCSL124
 @list	ABZL274
 @list	ELLES157
 @list	HZL260
@@ -12469,6 +12598,7 @@
 @end sign
 
 @sign GU
+@list	GCSL236
 @list	ABZL458
 @list	BAU393
 @list	ELLES265
@@ -12537,6 +12667,7 @@
 @compoundonly	GU@90
 
 @sign GU₂
+@list	GCSL250
 @list	ABZL089
 @list	BAU331
 @list	ELLES288
@@ -12564,6 +12695,7 @@
 @end sign
 
 @sign |GU₂.GAR₃|
+@list	GCSL025
 @list	ABZL087
 @list	BAU050
 @list	ELLES039
@@ -12751,6 +12883,7 @@
 @end sign
 
 @sign GUD
+@list	GCSL059
 @list	ABZL118
 @list	BAU073
 @list	ELLES067
@@ -12861,6 +12994,7 @@
 @end sign
 
 @sign |GUD×KUR|
+@list	GCSL060
 @list	ABZL119
 @list	ELLES069
 @list	HZL168
@@ -12924,6 +13058,7 @@
 @end sign
 
 @sign GUL
+@list	GCSL207
 @list	ABZL343
 @list	BAU172
 @list	ELLES211
@@ -13001,6 +13136,7 @@
 @end sign
 
 @sign |GUM×ŠE|
+@list	GCSL269
 @list	ABZL139
 @list	HZL122
 @list	KWU742
@@ -13035,6 +13171,7 @@
 @end sign
 
 @sign GUR
+@list	GCSL049
 @list	ABZL092
 @list	BAU065
 @list	BAU327
@@ -13064,6 +13201,7 @@
 @end sign
 
 @sign GUR₇
+@list	GCSL070
 @list	ABZL396
 @list	KWU926
 @list	MZL819
@@ -13141,12 +13279,14 @@
 @v	ŋuruš
 @v	murušₓ
 @form KAL
+@list	GCSL293
 @list	LAK709b
 @v	giriₓ
 @@
 @end sign
 
 @sign HA
+@list	GCSL190
 @list	ABZL475
 @list	BAU207
 @list	ELLES194
@@ -13172,6 +13312,7 @@
 @v	peš₁₁
 @v	zahaₓ
 @form HA@g
+@list	GCSL191
 @list	BAU210
 @list	ELLES196
 @list	LAK353
@@ -13220,6 +13361,7 @@
 @end sign
 
 @sign HA@g
+@list	GCSL191
 @list	ABZL222
 @list	BAU210
 @list	ELLES196
@@ -13260,6 +13402,7 @@
 @v	šegₓ
 @v	zahₓ
 @form HA
+@list	GCSL190
 @list	BAU207
 @list	ELLES194
 @list	LAK351
@@ -13349,6 +13492,7 @@
 @end sign
 
 @sign HI
+@list	GCSL149
 @list	ABZL277
 @list	BAU184
 @list	ELLES197
@@ -13384,6 +13528,7 @@
 @v	ṭa₃
 @v	ṭab₆
 @form DIN
+@list	GCSL118
 @list	PTACE127
 @v	hi
 @inote	P345976 = CT  CT 18, pl. 01-04 (K 04375) 3. ki-iš-hi(DIN) : hi(HI) = MIN<(ku-us-su#-u)>
@@ -13430,6 +13575,7 @@
 @sys	Attinger huš⁻
 @@
 @form LAK240
+@list	GCSL119
 @list	LAK240
 @inote	this form has no HI component
 @@
@@ -13492,6 +13638,7 @@
 @end sign
 
 @sign |HI×AŠ₂|
+@list	GCSL155
 @list	ABZL281
 @list	BAU189
 @list	BAU192
@@ -13565,6 +13712,7 @@
 @end sign
 
 @sign |HI×AŠ₂.HI×AŠ₂|
+@list	GCSL156
 @list	LAK371
 @useq	x1212F.x1212F
 @ucun	𒄯𒄯
@@ -13595,6 +13743,7 @@
 @end sign
 
 @sign |HI×BAD|
+@list	GCSL152
 @list	KWU452
 @list	LAK366
 @list	RSP312
@@ -13644,6 +13793,7 @@
 @v	kam@v
 @@
 @form |HI×AŠ@t|
+@list	GCSL162
 @inote this is the form in Gudea Cyl
 @@
 @end sign
@@ -13671,6 +13821,7 @@
 @end sign
 
 @sign |HI×GAD|
+@list	GCSL158
 @list	KWU588
 @list	MZL650
 @list	SLLHA407
@@ -13706,6 +13857,7 @@
 @end sign
 
 @sign |HI×NUN|
+@list	GCSL153
 @list	ABZL280
 @list	ELLES201
 @list	HZL332
@@ -13772,6 +13924,7 @@
 @end sign
 
 @sign |HI×NUN.ME|
+@list	GCSL154
 @list	ABZL282
 @list	LAK368
 @list	MZL638
@@ -13859,6 +14012,7 @@
 @end sign
 
 @sign HU
+@list	GCSL031
 @list	ABZL034
 @list	BAU034
 @list	ELLES040
@@ -13900,6 +14054,7 @@
 @v	usan₅
 @v	ušₓ
 @form RI
+@list	GCSL178a
 @list	PTACE064
 @@
 @end sign
@@ -13955,12 +14110,14 @@
 @v	ša₂₂
 @v	še₂₁
 @form |NA₂.HU|
+@list	GCSL109
 @useq	x1223F.x12137
 @ucun	𒈿𒄷
 @@
 @end sign
 
 @sign |HU.SI|
+@list	GCSL035
 @list	ELLES041
 @list	KWU114
 @list	LAK066
@@ -13994,6 +14151,7 @@
 @end sign
 
 @sign HUB₂
+@list	GCSL222
 @list	ABZL445
 @list	BAU281
 @list	ELLES249
@@ -14088,6 +14246,7 @@
 @end sign
 
 @sign HUL₂
+@list	GCSL197
 @list	ABZL425
 @list	ELLES108
 @list	HZL254
@@ -14279,6 +14438,8 @@
 @v	uri₄
 @v	urumₓ
 @form BAD
+@list	GCSL010
+@list	GCSL209
 @list	BAU009
 @list	ELLES009
 @list	LAK016
@@ -14310,6 +14471,7 @@
 @end sign
 
 @sign IG
+@list	GCSL046
 @list	ABZL061
 @list	BAU063
 @list	ELLES049
@@ -14347,6 +14509,7 @@
 @end sign
 
 @sign IGI
+@list	GCSL177
 @list	ABZL233
 @list	BAU185
 @list	BAU240
@@ -14431,6 +14594,7 @@
 @end sign
 
 @sign |IGI.DIB|
+@list	GCSL186
 @list	ABZL239b
 @list	ELLES225
 @list	HZL265
@@ -14480,6 +14644,7 @@
 @end sign
 
 @sign |IGI.DUB|
+@list	GCSL183
 @list	ABZL237
 @list	ELLES223
 @list	HZL291
@@ -14513,6 +14678,7 @@
 @end sign
 
 @sign |IGI.E₂|
+@list	GCSL184
 @list	ABZL236
 @list	MZL728
 @list	SLLHA449_145
@@ -14531,6 +14697,7 @@
 @end sign
 
 @sign |IGI.ERIN₂|
+@list	GCSL182
 @list	KWU559
 @list	MZL730
 @list	SLLHA454
@@ -14721,6 +14888,7 @@
 @end sign
 
 @sign |IGI.RI|
+@list	GCSL178
 @list	ABZL234
 @list	ELLES221
 @list	HZL289
@@ -14738,6 +14906,7 @@
 @end sign
 
 @sign |IGI.RU|
+@list	GCSL180
 @list	ABZL235
 @list	BAU243
 @list	ELLES222
@@ -14774,6 +14943,7 @@
 @end sign
 
 @sign |IGI.UR|
+@list	GCSL179
 @list	ABZL240
 @list	ELLES224
 @list	HZL290
@@ -14843,6 +15013,7 @@
 @end sign
 
 @sign IGI@g
+@list	GCSL078
 @list	ABZL198
 @list	BAU245
 @list	ELLES095
@@ -14924,6 +15095,7 @@
 @inote	added during ogsl upgrade
 
 @sign IL
+@list	GCSL229
 @list	ABZL078
 @list	BAU380
 @list	HZL117
@@ -14954,6 +15126,7 @@
 @end sign
 
 @sign IL₂
+@list	GCSL082
 @list	ABZL204
 @list	BAU412
 @list	HZL161
@@ -15092,6 +15265,7 @@
 @v	tum₉
 @v	tumu
 @form NI₂
+@list	GCSL163
 @list	BAU389
 @list	LAK377
 @inote	ur-{d}iškur(LAK377) in P250715 l.3
@@ -15315,6 +15489,7 @@
 @end sign
 
 @sign IN
+@list	GCSL111
 @list	ABZL386
 @list	ELLES124
 @list	HZL354
@@ -15340,6 +15515,8 @@
 @end sign
 
 @sign IR
+@list	GCSL038
+@list	GCSL235
 @list	ABZL263
 @list	BAU411
 @list	ELLES264
@@ -15366,6 +15543,7 @@
 @end sign
 
 @sign IŠ
+@list	GCSL075
 @list	ABZL162
 @list	BAU104
 @list	BAU105
@@ -15452,6 +15630,7 @@
 @end sign
 
 @sign KA
+@list	GCSL141
 @list	ABZL312
 @list	BAU233
 @list	ELLES182
@@ -15657,6 +15836,7 @@
 @end sign
 
 @sign |KA×A|
+@list	GCSL148
 @list	ABZL328
 @list	BAU232
 @list	ELLES184
@@ -15799,6 +15979,7 @@
 @v	šidₓ
 @v	šigₓ
 @form KA
+@list	GCSL141
 @list	BAU233
 @list	ELLES182
 @list	LAK318
@@ -15906,6 +16087,8 @@
 @end sign
 
 @sign |KA×GAN₂@t|
+@list	GCSL144
+@list	GCSL145
 @list	ABZL321
 @list	BAU234
 @list	ELLES186
@@ -15939,6 +16122,7 @@
 @inote	dcclt !sg
 @@
 @form |KA×ŠU|
+@list	GCSL143
 @list	ELLES183
 @list	LAK323
 @list	RSP201
@@ -15964,6 +16148,7 @@
 @end sign
 
 @sign |KA×GAR|
+@list	GCSL146
 @list	ABZL329
 @list	BAU231
 @list	HZL149
@@ -15987,6 +16172,7 @@
 @v	tukurₓ
 @inote	tukur[chew] collated from https://cdli.ucla.edu/dl/photo/P231774.jpg
 @form KA
+@list	GCSL141
 @list	BAU233
 @list	ELLES182
 @list	LAK318
@@ -16035,6 +16221,7 @@
 @end sign
 
 @sign |KA×GIR₂|
+@list	GCSL142
 @list	KWU417
 @list	LAK320
 @list	MZL025
@@ -16304,6 +16491,7 @@
 @end sign
 
 @sign |KA×ME|
+@list	GCSL147
 @list	ABZL326
 @list	ELLES187
 @list	HZL147
@@ -16500,6 +16688,8 @@
 @v	sun₄
 @v	tunₓ
 @form |KA×GAN₂@t|
+@list	GCSL144
+@list	GCSL145
 @list	ABZL321
 @list	BAU234
 @list	ELLES186
@@ -16628,6 +16818,7 @@
 @end sign
 
 @sign |KA×ŠU|
+@list	GCSL143
 @list	ABZL320
 @list	ELLES183
 @list	KWU418
@@ -16653,6 +16844,8 @@
 @v	šušudi
 @v	ušₓ
 @form |KA×GAN₂@t|
+@list	GCSL144
+@list	GCSL145
 @list	BAU234
 @list	ELLES186
 @list	LAK324
@@ -16864,6 +17057,7 @@
 @end sign
 
 @sign KA₂
+@list	GCSL303
 @list	ABZL175
 @list	BAU363
 @list	BAU364
@@ -16923,6 +17117,7 @@
 @end sign
 
 @sign KAB
+@list	GCSL089
 @list	ABZL226
 @list	BAU099
 @list	BAU100
@@ -17102,6 +17297,7 @@
 @end sign
 
 @sign KAK
+@list	GCSL231
 @list	ABZL260
 @list	BAU392
 @list	ELLES262
@@ -17178,6 +17374,7 @@
 @end sign
 
 @sign KAL
+@list	GCSL293
 @list	ABZL176
 @list	BAU326
 @list	ELLES349
@@ -17512,6 +17709,7 @@
 @end sign
 
 @sign KEŠ₂
+@list	GCSL264
 @list	BAU307
 @list	ELLES300
 @list	KWU841
@@ -17538,6 +17736,7 @@
 @v	kiš₂
 @v	kiši₂
 @form EZEN
+@list	GCSL261
 @list	BAU298
 @list	ELLES303
 @list	LAK611
@@ -17551,6 +17750,7 @@
 @end sign
 
 @sign KI
+@list	GCSL194
 @list	ABZL432
 @list	BAU191
 @list	ELLES228
@@ -18177,6 +18377,7 @@
 @v	ših₂
 @v	ṣah₂
 @form E₂
+@list	GCSL299
 @list	BAU365
 @list	ELLES359
 @list	LAK732
@@ -18224,6 +18425,7 @@
 @end sign
 
 @sign KIN
+@list	GCSL083
 @list	ABZL447
 @list	BAU111
 @list	BAU112
@@ -18289,6 +18491,8 @@
 @end sign
 
 @sign KISAL
+@list	GCSL295
+@list	GCSL302
 @list	ABZL161
 @list	BAU357
 @list	ELLES353
@@ -18487,6 +18691,7 @@
 @end sign
 
 @sign KU
+@list	GCSL242a
 @list	ABZL415
 @list	BAU384
 @list	ELLES387
@@ -18650,6 +18855,7 @@
 @end sign
 
 @sign KU₃
+@list	GCSL192
 @list	ABZL428
 @list	BAU182
 @list	ELLES226
@@ -18697,6 +18903,7 @@
 @end sign
 
 @sign KU₄
+@list	GCSL105
 @list	ABZL375
 @list	KWU636
 @list	MZL087
@@ -18726,6 +18933,7 @@
 @v	kur₉
 @@
 @form LIL
+@list	GCSL054
 @list	KWU147
 @list	LAK094
 @list	REC056
@@ -18790,6 +18998,7 @@
 @end sign
 
 @sign KUL
+@list	GCSL011
 @list	ABZL026
 @list	BAU041
 @list	ELLES007
@@ -18846,6 +19055,7 @@
 @end sign
 
 @sign KUN
+@list	GCSL309
 @list	ABZL032
 @list	ELLES368
 @list	HZL035
@@ -18871,6 +19081,7 @@
 @v	xnunnamxₓ
 @sys	Attinger kuŋ₂ => kun
 @form MAŠ₂
+@list	GCSL030
 @list	ABZL031
 @list	BAU046
 @list	ELLES028
@@ -18888,6 +19099,7 @@
 @end sign
 
 @sign KUR
+@list	GCSL215
 @list	ABZL369
 @list	BAU418
 @list	ELLES241
@@ -19167,6 +19379,7 @@
 @end sign
 
 @sign LA
+@list	GCSL285
 @list	ABZL177
 @list	BAU205
 @list	BAU287
@@ -19326,6 +19539,7 @@
 @end sign
 
 @sign |LAGAB×A|
+@list	GCSL321
 @list	ABZL414
 @list	BAU271
 @list	ELLES375
@@ -19381,6 +19595,7 @@
 @v	zuk
 @v	zuq
 @form A
+@list	GCSL324
 @list	BAU416
 @list	ELLES393
 @list	KWU901
@@ -19416,6 +19631,7 @@
 @v	bunin₂
 @@
 @form |LAGAB×HAL|
+@list	GCSL315
 @list	ABZL404
 @list	BAU263
 @list	BAU319
@@ -19576,6 +19792,7 @@
 @end sign
 
 @sign |LAGAB×BAD|
+@list	GCSL316
 @list	ABZL405
 @list	HZL224
 @list	KWU870
@@ -19741,6 +19958,7 @@
 @end sign
 
 @sign |LAGAB×(GUD&GUD)|
+@list	GCSL319
 @pname	|LAGAB×GUD+GUD|
 @list	ABZL399
 @list	BAU265
@@ -19811,6 +20029,7 @@
 @end sign
 
 @sign |LAGAB×HAL|
+@list	GCSL315
 @list	ABZL404
 @list	BAU263
 @list	BAU319
@@ -20096,6 +20315,7 @@
 @end sign
 
 @sign |LAGAB×PA|
+@list	GCSL318
 @list	BAU264
 @list	ELLES381
 @list	LAK780
@@ -20278,6 +20498,7 @@
 @end sign
 
 @sign |LAGAB×U|
+@list	GCSL320
 @list	ABZL410
 @list	BAU267
 @list	HZL180
@@ -20554,6 +20775,7 @@
 @compoundonly	|LAGAR&LAGAR|
 
 @sign LAGAR@g
+@list	GCSL170
 @list	ABZL311
 @list	ELLES174
 @list	HZL211
@@ -20661,6 +20883,7 @@
 @end sign
 
 @sign LAL
+@list	GCSL313
 @list	ABZL391
 @list	BAU292
 @list	ELLES370
@@ -20958,6 +21181,7 @@
 @end sign
 
 @sign LAM
+@list	GCSL097
 @list	ABZL244
 @list	BAU120
 @list	ELLES112
@@ -21719,6 +21943,7 @@
 @end sign
 
 @sign LAK496
+@list	GCSL228
 @list	LAK496
 @inote	This is EGIR(LAK499) without the gunufication at the end of the sign. Used for egir in Gudea Cyl. except for the final use in the Gudea Cyl B colophon.
 @end sign
@@ -22140,6 +22365,7 @@
 @end sign
 
 @sign LI
+@list	GCSL104
 @list	ABZL381
 @list	BAU131
 @list	ELLES120
@@ -22169,6 +22395,7 @@
 @end sign
 
 @sign LIL
+@list	GCSL054
 @list	ABZL091
 @list	HZL127
 @list	KWU147
@@ -22311,6 +22538,7 @@
 @end sign
 
 @sign LU
+@list	GCSL317
 @list	ABZL416
 @list	BAU272
 @list	ELLES378
@@ -22410,6 +22638,7 @@
 @end sign
 
 @sign LU₂
+@list	GCSL218
 @list	ABZL253
 @list	BAU236
 @list	ELLES188
@@ -22957,6 +23186,7 @@
 @end sign
 
 @sign LU₃
+@list	GCSL067
 @list	ABZL216
 @list	BAU288
 @list	ELLES386
@@ -23121,6 +23351,7 @@
 @end sign
 
 @sign LUGAL
+@list	GCSL077
 @list	ABZL221a
 @list	ELLES094
 @list	HZL115
@@ -23230,6 +23461,7 @@
 @end sign
 
 @sign LUH
+@list	GCSL079
 @list	ABZL196
 @list	BAU092
 @list	ELLES096
@@ -23269,6 +23501,7 @@
 @end sign
 
 @sign LUL
+@list	GCSL164
 @list	ABZL296
 @list	BAU103a
 @list	BAU160
@@ -23397,6 +23630,7 @@
 @end sign
 
 @sign LUM
+@list	GCSL100
 @list	ABZL248
 @list	BAU123
 @list	ELLES114
@@ -23493,6 +23727,7 @@
 @end sign
 
 @sign MA
+@list	GCSL009
 @list	ABZL166
 @list	BAU028
 @list	BAU079
@@ -23556,6 +23791,7 @@
 @end sign
 
 @sign MA₂
+@list	GCSL032
 @list	ABZL050
 @list	ELLES282
 @list	HZL087
@@ -23659,6 +23895,7 @@
 @end sign
 
 @sign MAH
+@list	GCSL023
 @list	ABZL006
 @list	HZL010
 @list	KWU091
@@ -23688,6 +23925,7 @@
 @end sign
 
 @sign MAR
+@list	GCSL061
 @list	ABZL144
 @list	BAU078
 @list	ELLES070
@@ -23717,6 +23955,7 @@
 @end sign
 
 @sign MAŠ
+@list	GCSL027
 @list	ABZL029
 @list	BAU045
 @list	ELLES027
@@ -23774,6 +24013,7 @@
 @end sign
 
 @sign |MAŠ.GU₂.GAR₃|
+@list	GCSL028
 @list	ABZL030
 @list	HZL253
 @list	KWU104
@@ -23868,6 +24108,7 @@
 @end sign
 
 @sign MAŠ₂
+@list	GCSL030
 @list	ABZL031
 @list	BAU046
 @list	ELLES028
@@ -23901,6 +24142,7 @@
 @end sign
 
 @sign ME
+@list	GCSL307
 @list	ABZL392
 @list	BAU289
 @list	ELLES366
@@ -23976,6 +24218,7 @@
 @end sign
 
 @sign MES
+@list	GCSL260
 @list	ABZL112a
 @list	BAU077
 @list	ELLES071
@@ -24013,6 +24256,7 @@
 @end sign
 
 @sign MI
+@list	GCSL200
 @list	ABZL348
 @list	BAU173
 @list	ELLES213
@@ -24125,6 +24369,7 @@
 @compoundonly	|MIN×IGI|
 
 @sign MU
+@list	GCSL005
 @list	ABZL020
 @list	BAU026
 @list	ELLES008
@@ -24182,6 +24427,7 @@
 @end sign
 
 @sign |MU&MU|
+@list	GCSL052
 @list	ABZL142
 @list	HZL171
 @list	KWU049
@@ -24258,6 +24504,7 @@
 @end sign
 
 @sign MUG@g
+@list	GCSL017
 @list	ABZL011
 @list	BAU055
 @list	MZL013
@@ -24328,6 +24575,7 @@
 @sys	Attinger ŋur₂₄ => mur₇
 @sys	Attinger ŋurgu₂ => murgu₂
 @form SIG₄
+@list	GCSL096
 @list	BAU206
 @list	ELLES111
 @list	LAK188
@@ -24361,6 +24609,7 @@
 @end sign
 
 @sign MUŠ
+@list	GCSL117
 @list	ABZL267
 @list	BAU152
 @list	BAU153
@@ -25149,6 +25398,7 @@
 @end sign
 
 @sign NA
+@list	GCSL012
 @list	ABZL024
 @list	BAU022
 @list	ELLES014
@@ -25178,6 +25428,7 @@
 @end sign
 
 @sign NA₂
+@list	GCSL108
 @list	ABZL364
 @list	BAU155
 @list	ELLES126
@@ -25247,6 +25498,7 @@
 @inote	salgues
 @sys	Attinger uga₃
 @form |ŠE.NAGA|
+@list	GCSL106
 @useq	x122BA.x12240
 @ucun	𒊺𒉀
 @v	eriš₂
@@ -25397,6 +25649,7 @@
 @end sign
 
 @sign NAM
+@list	GCSL040
 @list	ABZL042
 @list	BAU038
 @list	ELLES043
@@ -25485,6 +25738,7 @@
 @end sign
 
 @sign NE
+@list	GCSL063
 @list	ABZL116
 @list	ELLES080
 @list	HZL169
@@ -25624,6 +25878,7 @@
 @end sign
 
 @sign NE@s
+@list	GCSL064
 @list	ABZL117
 @list	BAU103c
 @list	HZL172
@@ -25735,6 +25990,7 @@
 @end sign
 
 @sign NI
+@list	GCSL234
 @list	ABZL261
 @list	BAU406
 @list	ELLES263
@@ -25932,6 +26188,7 @@
 @end sign
 
 @sign NI₂
+@list	GCSL163
 @list	BAU389
 @list	LAK377
 @uname	CUNEIFORM SIGN NI2
@@ -25982,6 +26239,7 @@
 @end sign
 
 @sign NIM
+@list	GCSL122
 @list	ABZL355
 @list	BAU141?
 @list	ELLES154
@@ -26025,6 +26283,7 @@
 @end sign
 
 @sign |NIM×GAN₂@t|
+@list	GCSL123
 @list	ABZL356
 @list	ELLES155
 @list	HZL279
@@ -26044,6 +26303,7 @@
 @v	tum₃
 @v	tumu₃
 @form NIM
+@list	GCSL122
 @list	BAU141?
 @list	ELLES154
 @list	LAK270
@@ -26331,6 +26591,7 @@
 @end sign
 
 @sign |NINDA₂×NE|
+@list	GCSL053
 @list	ABZL136
 @list	BAU068
 @list	HZL121
@@ -26642,6 +26903,7 @@
 @end sign
 
 @sign NU
+@list	GCSL016
 @list	ABZL019
 @list	BAU020
 @list	BAU044
@@ -26688,6 +26950,7 @@
 @end sign
 
 @sign NU₁₁
+@list	GCSL013
 @list	BAU017
 @list	ELLES016
 @list	KWU042
@@ -26841,6 +27104,7 @@
 @end sign
 
 @sign NUN
+@list	GCSL041
 @list	ABZL047
 @list	BAU058
 @list	ELLES047
@@ -26890,6 +27154,7 @@
 @end sign
 
 @sign |NUN.LAGAR|
+@list	GCSL042
 @list	ABZL048
 @list	BAU060
 @list	HZL034
@@ -26968,6 +27233,7 @@
 @inote	SF 081 r i 10-11
 @@
 @form |NUN.LAGAR|
+@list	GCSL042
 @list	BAU060
 @list	LAK078
 @list	RSP186
@@ -27103,6 +27369,7 @@
 @end sign
 
 @sign |NUN&NUN|
+@list	GCSL058
 @list	ABZL148
 @list	BAU059
 @list	ELLES066
@@ -27216,6 +27483,7 @@
 @end sign
 
 @sign NUNUZ
+@list	GCSL214
 @list	BAU082a
 @list	ELLES200
 @list	KWU532
@@ -27579,12 +27847,14 @@
 @ucun	𒑈𒑈
 @@
 @form GAM
+@list	GCSL091
 @inote	Amarna
 @@
 @form GE₂₂
 @inote	Amarna
 @@
 @form U
+@list	GCSL176
 @inote	Amarna
 @@
 @form |U.U|
@@ -27617,6 +27887,7 @@
 @end sign
 
 @sign PA
+@list	GCSL056
 @list	ABZL143
 @list	BAU072
 @list	ELLES065
@@ -27905,6 +28176,7 @@
 @end sign
 
 @sign |PA.HUB₂.DU|
+@list	GCSL057a
 @list	KWU199
 @useq	x1227A.x12138.x1207A
 @ucun	𒉺𒄸𒁺
@@ -27951,6 +28223,7 @@
 @end sign
 
 @sign |PA.LU|
+@list	GCSL057
 @list	HZL177
 @list	MZL468
 @list	RSP057
@@ -28032,6 +28305,7 @@
 @ucun	𒉺𒊩𒄸𒁺
 @v	rigₓ
 @form DU
+@list	GCSL224
 @list	BAU374
 @list	ELLES252
 @list	LAK484
@@ -28138,6 +28412,7 @@
 @v	nusku
 @v	nuška
 @form |PA.LU|
+@list	GCSL057
 @list	RSP057
 @@
 @form |PA.NAM₂|
@@ -28182,6 +28457,7 @@
 @inote	added during ogsl upgrade
 
 @sign PAD
+@list	GCSL187
 @list	ABZL362
 @list	BAU180
 @list	BAU218
@@ -28268,6 +28544,7 @@
 @end sign
 
 @sign PAN
+@list	GCSL092
 @list	ABZL027
 @list	ELLES023
 @list	HZL118
@@ -28300,6 +28577,7 @@
 @end sign
 
 @sign PAP
+@list	GCSL113
 @list	BAU126
 @list	ELLES129
 @list	KWU380
@@ -28396,6 +28674,7 @@
 @end sign
 
 @sign |PAP.PAP|
+@list	GCSL114
 @list	ABZL264
 @list	BAU147
 @list	ELLES130
@@ -28508,6 +28787,7 @@
 @end sign
 
 @sign PI
+@list	GCSL211
 @list	ABZL370
 @list	BAU247
 @list	ELLES232
@@ -28690,6 +28970,7 @@
 @end sign
 
 @sign PIRIG
+@list	GCSL131
 @list	ABZL178
 @list	BAU162
 @list	ELLES144
@@ -28713,6 +28994,8 @@
 @v	ug₂
 @v	uŋ₂
 @form |PIRIG×UD|
+@list	GCSL132
+@list	GCSL133
 @list	LAK259
 @list	U+1228C
 @ucun	𒊌
@@ -28809,6 +29092,8 @@
 @end sign
 
 @sign |PIRIG×UD|
+@list	GCSL132
+@list	GCSL133
 @list	ABZL179
 @list	HZL093
 @list	KWU437
@@ -28829,6 +29114,7 @@
 @v	uku₄
 @v	uq
 @form PIRIG
+@list	GCSL131
 @list	BAU162
 @list	ELLES144
 @list	LAK257
@@ -28875,6 +29161,7 @@
 @v	uṣ₄
 @v	uz₄
 @form PIRIG
+@list	GCSL131
 @list	BAU162
 @list	ELLES144
 @list	LAK257
@@ -28893,6 +29180,7 @@
 @end sign
 
 @sign RA
+@list	GCSL294
 @list	ABZL192
 @list	BAU273
 @list	ELLES350
@@ -28984,6 +29272,7 @@
 @end sign
 
 @sign RI
+@list	GCSL178a
 @list	ABZL039
 @list	ELLES046
 @list	HZL032
@@ -29016,6 +29305,7 @@
 @v	tala
 @v	ṭal
 @form HU
+@list	GCSL031
 @list	PTACE040
 @note	In some phases of cuneiform the sign RI may stand for HU and vv. The sign values of HU are not repeated here.
 @@
@@ -29061,6 +29351,7 @@
 @end sign
 
 @sign RU
+@list	GCSL126
 @list	ABZL060
 @list	BAU145
 @list	BAU204
@@ -29108,6 +29399,7 @@
 @end sign
 
 @sign SA
+@list	GCSL298
 @list	ABZL147
 @list	BAU361
 @list	ELLES357
@@ -29139,6 +29431,7 @@
 @end sign
 
 @sign SAG
+@list	GCSL138
 @list	ABZL309
 @list	BAU228
 @list	ELLES178
@@ -29573,6 +29866,7 @@
 @end sign
 
 @sign SAG@g
+@list	GCSL139
 @list	ABZL331
 @list	BAU229
 @list	ELLES181
@@ -29606,6 +29900,7 @@
 @v	ugu₅
 @sys	Attinger dil₂
 @form SAG
+@list	GCSL138
 @list	BAU228
 @list	ELLES178
 @list	LAK307
@@ -29659,6 +29954,7 @@
 @end sign
 
 @sign SAL
+@list	GCSL238
 @list	ABZL450
 @list	BAU138
 @list	BAU397
@@ -29831,6 +30127,7 @@
 @end sign
 
 @sign |SAL.KU|
+@list	GCSL242
 @list	ABZL451
 @list	HZL299
 @list	KWU795a
@@ -29846,6 +30143,7 @@
 @end sign
 
 @sign |SAL.KUR|
+@list	GCSL239
 @list	ABZL459
 @list	BAU398
 @list	HZL305
@@ -29987,6 +30285,7 @@
 @end sign
 
 @sign |SAL.TUG₂|
+@list	GCSL243
 @list	ABZL452
 @list	BAU401
 @list	ELLES274
@@ -30309,6 +30608,7 @@
 @end sign
 
 @sign SAR
+@list	GCSL112
 @list	ABZL385
 @list	ELLES125
 @list	HZL353
@@ -30389,6 +30689,7 @@
 @end sign
 
 @sign SI
+@list	GCSL047
 @list	ABZL164
 @list	BAU030
 @list	ELLES050
@@ -30522,6 +30823,7 @@
 @end sign
 
 @sign SIG
+@list	GCSL196
 @list	ABZL437
 @list	BAU202
 @list	HZL255
@@ -30577,6 +30879,7 @@
 @end sign
 
 @sign SIG₄
+@list	GCSL096
 @list	ABZL243
 @list	BAU206
 @list	ELLES111
@@ -30608,6 +30911,7 @@
 @v	šed₁₆
 @v	šeg₁₂
 @form LUM
+@list	GCSL100
 @list	BAU123
 @list	ELLES114
 @list	LAK194
@@ -30902,6 +31206,7 @@
 @end sign
 
 @sign SU
+@list	GCSL137
 @list	BAU226
 @list	ELLES172
 @list	LAK293
@@ -31002,6 +31307,7 @@
 @uage	5.0
 @v	e₆
 @form SU
+@list	GCSL137
 @list	PTACE120
 @inote	Bonecchi reading of VE-1019
 @@
@@ -31025,6 +31331,7 @@
 @inote	added during ogsl upgrade
 
 @sign SUD
+@list	GCSL116
 @list	ABZL266
 @list	BAU149
 @list	BAU151
@@ -31054,6 +31361,7 @@
 @v	zir₄
 @v	zu₆
 @form BU
+@list	GCSL115
 @list	BAU148
 @list	ELLES131
 @list	LAK232
@@ -31132,6 +31440,8 @@
 @end sign
 
 @sign SUHUR
+@list	GCSL151
+@list	GCSL216
 @list	ABZL384
 @list	BAU215
 @list	ELLES128
@@ -31154,6 +31464,7 @@
 @end sign
 
 @sign SUM
+@list	GCSL101
 @list	ABZL388
 @list	BAU125
 @list	ELLES117
@@ -31231,6 +31542,7 @@
 @end sign
 
 @sign SUR
+@list	GCSL037
 @list	ABZL056
 @list	BAU024
 @list	ELLES107
@@ -31279,6 +31591,7 @@
 @end sign
 
 @sign ŠA
+@list	GCSL081
 @list	ABZL203
 @list	BAU108
 @list	ELLES098
@@ -31316,6 +31629,7 @@
 @end sign
 
 @sign ŠA₃
+@list	GCSL195
 @list	ABZL433
 @list	ELLES230
 @list	HZL294
@@ -31568,6 +31882,7 @@
 @end sign
 
 @sign ŠA₆
+@list	GCSL069
 @list	ABZL228
 @list	BAU124
 @list	ELLES116
@@ -31783,6 +32098,7 @@
 @end sign
 
 @sign ŠE
+@list	GCSL102
 @list	ABZL378
 @list	BAU025
 @list	BAU130
@@ -31976,6 +32292,7 @@
 @end sign
 
 @sign |ŠE.NAGA|
+@list	GCSL106
 @list	KWU642
 @useq	x122BA.x12240
 @ucun	𒊺𒉀
@@ -32011,6 +32328,7 @@
 @end sign
 
 @sign |ŠE.NUN&NUN|
+@list	GCSL103
 @list	ABZL380
 @list	ELLES119
 @list	HZL344
@@ -32313,6 +32631,7 @@
 @compoundonly	ŠE@v
 
 @sign ŠEG₉
+@list	GCSL310
 @list	ABZL429
 @list	LAK187
 @list	MZL878
@@ -32387,6 +32706,7 @@
 @end sign
 
 @sign ŠEŠ
+@list	GCSL007
 @list	ABZL021b
 @list	BAU011
 @list	ELLES018
@@ -32471,6 +32791,7 @@
 @end sign
 
 @sign |ŠEŠ.KI|
+@list	GCSL008
 @list	KWU033
 @list	LAK033
 @list	RSP092
@@ -33005,6 +33326,7 @@
 @end sign
 
 @sign |ŠIM×PI|
+@list	GCSL281
 @list	LAK657
 @v	šembiₓ
 @end sign
@@ -33033,6 +33355,7 @@
 @end sign
 
 @sign ŠIM@g
+@list	GCSL280
 @list	LAK660
 @inote	for lak.atf
 @end sign
@@ -33043,11 +33366,13 @@
 @end sign
 
 @sign |ŠIM@g×PI|
+@list	GCSL282
 @list	LAK661
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign ŠINIG
+@list	GCSL129
 @list	ABZL302
 @list	HZL085
 @list	KWU405
@@ -33133,6 +33458,7 @@
 @end sign
 
 @sign ŠITA
+@list	GCSL232
 @list	ABZL270
 @list	BAU390
 @list	BAU395
@@ -33166,6 +33492,7 @@
 @end sign
 
 @sign |ŠITA.GIŠ|
+@list	GCSL233
 @list	LAK489
 @list	ZATU147
 @useq	x122D6.x12111
@@ -33219,6 +33546,7 @@
 @end sign
 
 @sign ŠU
+@list	GCSL086
 @list	ABZL225
 @list	BAU096
 @list	ELLES076
@@ -33612,6 +33940,7 @@
 @v	sulgar
 @v	šuhub
 @form |3×AN|
+@list	GCSL051
 @list	BAU008
 @list	ELLES006b
 @list	KWU025
@@ -33935,6 +34264,7 @@
 @end sign
 
 @sign TA
+@list	GCSL254
 @list	ABZL123
 @list	BAU346
 @list	ELLES291
@@ -33960,6 +34290,7 @@
 @end sign
 
 @sign |TA×HI|
+@list	GCSL255
 @list	BAU345
 @list	KWU757
 @list	LAK587
@@ -34166,6 +34497,7 @@
 @end sign
 
 @sign TAG
+@list	GCSL267
 @list	ABZL122
 @list	BAU356
 @list	ELLES307
@@ -34347,6 +34679,7 @@
 @end sign
 
 @sign TAK₄
+@list	GCSL127
 @list	ABZL058
 @list	BAU118
 @list	ELLES162
@@ -34413,6 +34746,7 @@
 @compoundonly	TAK₄@f
 
 @sign TAR
+@list	GCSL093
 @list	ABZL231
 @list	BAU117
 @list	ELLES106
@@ -34485,6 +34819,7 @@
 @end sign
 
 @sign TE
+@list	GCSL159
 @list	ABZL289
 @list	BAU195
 @list	ELLES203
@@ -34522,6 +34857,7 @@
 @end sign
 
 @sign |TE.A|
+@list	GCSL161
 @list	ABZL290
 @list	BAU196
 @list	ELLES204
@@ -34595,6 +34931,7 @@
 @end sign
 
 @sign TE@g
+@list	GCSL160
 @list	ABZL283
 @list	ELLES208
 @list	HZL315
@@ -34633,6 +34970,7 @@
 @list	RSP329
 @@
 @form TE
+@list	GCSL159
 @list	BAU195
 @list	ELLES203
 @list	LAK373
@@ -34655,6 +34993,7 @@
 @end sign
 
 @sign TI
+@list	GCSL014
 @list	BAU023
 @list	ELLES011
 @list	KWU037
@@ -34739,6 +35078,7 @@
 @end sign
 
 @sign TU
+@list	GCSL107
 @list	ABZL382
 @list	BAU133
 @list	ELLES122
@@ -34777,6 +35117,7 @@
 @v	tur₅
 @v	ṭu₂
 @form KU₄
+@list	GCSL105
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 19
 @v	namšeše
 @inote	salgues
@@ -34798,6 +35139,7 @@
 @end sign
 
 @sign TUG₂
+@list	GCSL185a
 @list	ABZL417
 @list	BAU385c
 @list	ELLES389
@@ -34868,6 +35210,7 @@
 @compoundonly	|TUG₂&TUG₂|
 
 @sign TUK
+@list	GCSL221
 @list	ABZL444
 @list	BAU283
 @list	ELLES248
@@ -34909,6 +35252,7 @@
 @end sign
 
 @sign TUM
+@list	GCSL227
 @list	ABZL075
 @list	BAU378
 @list	ELLES256
@@ -34952,6 +35296,7 @@
 @v	zibₓ
 @sys	Attinger egur₄ => egir₄
 @form LAK496
+@list	GCSL228
 @list	LAK496
 @@
 @end sign
@@ -34990,6 +35335,7 @@
 @end sign
 
 @sign TUR
+@list	GCSL247
 @list	ABZL393
 @list	BAU415
 @list	ELLES281
@@ -35153,6 +35499,7 @@
 @end sign
 
 @sign U
+@list	GCSL176
 @list	ABZL337
 @list	HZL261
 @list	LAK807
@@ -35215,6 +35562,7 @@
 @end sign
 
 @sign |U.AD|
+@list	GCSL206
 @list	ABZL342
 @list	BAU181
 @list	HZL266
@@ -35232,6 +35580,7 @@
 @v	kir₁₃
 @v	kiriₓ
 @form AD
+@list	GCSL270
 @list	BAU311
 @list	ELLES311
 @list	LAK635
@@ -35246,6 +35595,7 @@
 @end sign
 
 @sign |U.AN|
+@list	GCSL198
 @inote	epsd2 2018-10-02
 @useq	x1230B.x1202D
 @ucun	𒌋𒀭
@@ -35409,6 +35759,7 @@
 @end sign
 
 @sign |U.GUD|
+@list	GCSL199
 @list	ABZL344
 @list	BAU221
 @list	ELLES173
@@ -35599,6 +35950,7 @@
 @end sign
 
 @sign |U.TUG₂|
+@list	GCSL185
 @list	ABZL360
 @list	HZL262
 @list	KWU412
@@ -35808,6 +36160,7 @@
 @end sign
 
 @sign |U&U.SUR&SUR|
+@list	GCSL213
 @list	LAK418
 @list	SLLHA411_167a
 @uname	CUNEIFORM SIGN U OVER U SUR OVER SUR
@@ -35865,6 +36218,7 @@
 @compoundonly	|U@v&U@v|
 
 @sign U₂
+@list	GCSL066
 @list	ABZL146
 @list	BAU091
 @list	ELLES082
@@ -35943,6 +36297,7 @@
 @v	kišig
 @v	kišik
 @form GIR₂
+@list	GCSL002
 @list	PTACE005
 @@
 @form |U₂.GIR₂|
@@ -36112,6 +36467,7 @@
 @end sign
 
 @sign UB
+@list	GCSL128
 @list	ABZL288
 @list	BAU239
 @list	ELLES166
@@ -36149,6 +36505,7 @@
 @end sign
 
 @sign UD
+@list	GCSL171
 @list	ABZL332
 @list	BAU197
 @list	ELLES206
@@ -36304,6 +36661,7 @@
 @end sign
 
 @sign |UD.DU|
+@list	GCSL173
 @list	BAU198a
 @list	RSP326
 @useq	x12313.x1207A
@@ -36434,6 +36792,7 @@
 @end sign
 
 @sign |UD.KA.BAR|
+@list	GCSL172
 @useq	x12313.x12157.x12047
 @ucun	𒌓𒅗𒁇
 @v	sipar
@@ -36789,6 +37148,7 @@
 @end sign
 
 @sign |UD@s×BAD|
+@list	GCSL175
 @list	LAK381
 @list	MZL021
 @list	SLLHA052xv
@@ -36822,6 +37182,7 @@
 @end sign
 
 @sign UM
+@list	GCSL062
 @list	ABZL113
 @list	HZL098
 @list	KWU189
@@ -36956,6 +37317,7 @@
 @end sign
 
 @sign UMBIN
+@list	GCSL130
 @list	ABZL301
 @list	ELLES169
 @list	HZL166
@@ -37050,6 +37412,7 @@
 @end sign
 
 @sign UN
+@list	GCSL297
 @list	BAU367
 @list	ELLES356
 @list	KWU849
@@ -37085,6 +37448,7 @@
 @end sign
 
 @sign UR
+@list	GCSL311
 @list	ABZL400
 @list	BAU284
 @list	ELLES323
@@ -37233,6 +37597,7 @@
 @end sign
 
 @sign UR₂
+@list	GCSL226
 @list	ABZL072
 @list	BAU382
 @list	ELLES250
@@ -37448,6 +37813,7 @@
 @end sign
 
 @sign URI
+@list	GCSL090
 @list	ABZL224
 @list	BAU414
 @list	ELLES103
@@ -37489,6 +37855,7 @@
 @end sign
 
 @sign URI₃
+@list	GCSL007a
 @list	ABZL021a
 @list	BAU010
 @list	KWU029
@@ -37505,6 +37872,7 @@
 @end sign
 
 @sign URU
+@list	GCSL256
 @list	ABZL181
 @list	BAU336
 @list	ELLES295
@@ -37547,6 +37915,7 @@
 @end sign
 
 @sign |URU×A|
+@list	GCSL258
 @list	BAU337
 @list	LAK597
 @list	MZL081
@@ -37584,6 +37953,7 @@
 @end sign
 
 @sign |URU×BAR|
+@list	GCSL276
 @list	ABZL186
 @list	BAU309
 @list	ELLES315
@@ -37712,6 +38082,7 @@
 @end sign
 
 @sign |URU×GU|
+@list	GCSL257
 @list	ABZL185
 @list	KWU771
 @list	LAK602
@@ -37765,6 +38136,7 @@
 @end sign
 
 @sign |URU×IGI|
+@list	GCSL274
 @list	ABZL184
 @list	KWU228
 @list	MZL079
@@ -37914,6 +38286,7 @@
 @note	sign is LAK648×IM
 @@
 @form URU
+@list	GCSL256
 @list	BAU336
 @list	ELLES295
 @list	LAK591
@@ -38062,6 +38435,7 @@
 @end sign
 
 @sign |URU×URUDA|
+@list	GCSL275
 @list	ABZL182
 @list	KWU229
 @list	MZL075
@@ -38118,6 +38492,7 @@
 @end sign
 
 @sign URUDA
+@list	GCSL259
 @list	ABZL111
 @list	BAU338
 @list	ELLES297
@@ -38194,6 +38569,7 @@
 @end sign
 
 @sign UŠ
+@list	GCSL024
 @list	ABZL068
 @list	ELLES034
 @list	HZL132
@@ -38453,6 +38829,7 @@
 @end sign
 
 @sign UZ₃
+@list	GCSL044
 @list	ABZL054
 @list	BAU275
 @list	BAU276
@@ -38595,6 +38972,7 @@
 @end sign
 
 @sign ZA
+@list	GCSL325
 @list	BAU082a
 @list	BAU082b
 @list	ELLES395
@@ -38641,6 +39019,7 @@
 @end sign
 
 @sign |ZA.GUL|
+@list	GCSL326
 @list	LAK799
 @list	MZL858
 @list	PTACE261
@@ -38799,6 +39178,7 @@
 @end sign
 
 @sign ZAG
+@list	GCSL085
 @list	ABZL206
 @list	BAU158
 @list	ELLES165
@@ -38863,6 +39243,7 @@
 @end sign
 
 @sign ZE₂
+@list	GCSL252
 @list	ABZL126
 @list	ELLES287
 @list	HZL108
@@ -38884,6 +39265,7 @@
 @end sign
 
 @sign ZI
+@list	GCSL220
 @list	ABZL041
 @list	BAU258
 @list	ELLES246
@@ -39074,6 +39456,7 @@
 @v	zid₂
 @v	zuₓ
 @form KU
+@list	GCSL242a
 @inote	a placeholder to think about how to represent things like ZI₃ = zi₃@t but post-ED written with EŠ₂ and post-OB written with "KU"
 @@
 @form ZI₃@t
@@ -39226,6 +39609,7 @@
 @end sign
 
 @sign ZU
+@list	GCSL135
 @list	ABZL304
 @list	BAU224
 @list	ELLES171
@@ -39250,6 +39634,7 @@
 @end sign
 
 @sign |ZU.AB|
+@list	GCSL136
 @list	BAU225
 @list	KWU410
 @list	LAK292
@@ -39259,6 +39644,7 @@
 @v	absu
 @v	abzu
 @form DE₂
+@list	GCSL071
 @v	abzu₂
 @@
 @form |UMUM×KASKAL|
@@ -39787,6 +40173,7 @@
 @end sign
 
 @sign 2(AŠ@t)
+@list	GCSL094
 @list	ELLES109
 @list	LAK185
 @list	MZL593
@@ -39933,6 +40320,7 @@
 @end sign
 
 @sign 5(U)
+@list	GCSL217
 @aka	|U&U.U&U.U|
 @list	ABZL376
 @list	MZL714
