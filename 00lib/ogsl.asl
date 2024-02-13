@@ -15,7 +15,7 @@
 @lit	P. Mander, "Appendix E. Lista dei Segni dei testi lessicali di Ebla".
 	Pp. 285-382 in G. Pettinato, Testi Lessicali Monolingui della Biblioteca L. 2769 (MEE 3; Napoli 1981)
 
-@listdef GCSL 1-326 007a 057a 178a 185a 186a 188a 242a 249a
+@listdef GCSL 1-326 007a 057a 178a 185a 186a 188a 242a 249a 400
 @lit	[Gudea Corpus SL based on] I.M. Price, The Great Cylinder Inscriptions A & B of Gudea (Leipzig 1899) pt. I pp.89-111.
 @note GCSL is a corrected superset of Price's signlist; GCSL numbers
 	less than 400 correspond to Price's sign numbers. Except for
@@ -6713,6 +6713,7 @@
 @list	ABZL401a
 @list	BAU280
 @list	BAU340
+@list	GCSL400
 @list	HZL223
 @list	KWU858
 @list	LAK666
@@ -7961,6 +7962,7 @@
 @list	ABZL398
 @list	BAU373
 @list	ELLES327
+@list	GCSL300
 @list	HZL062
 @list	KWU895
 @list	LAK665
@@ -8003,7 +8005,6 @@
 
 @sign ERIN₂
 @list	GCSL125
-@list	GCSL300
 @list	ABZL247
 @list	BAU143
 @list	BAU248
@@ -8989,10 +8990,10 @@
 @end sign
 
 @sign GA
-@list	GCSL296
 @list	ABZL201
 @list	BAU368
 @list	ELLES354
+@list	GCSL296a
 @list	HZL159
 @list	KWU760
 @list	LAK726
@@ -9094,6 +9095,7 @@
 @list	ABZL202
 @list	BAU369
 @list	ELLES355
+@list	GCSL296
 @list	KWU762
 @list	LAK727
 @list	MZL492
