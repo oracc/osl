@@ -8004,12 +8004,12 @@
 @end sign
 
 @sign ERIN₂
-@list	GCSL125
 @list	ABZL247
 @list	BAU143
 @list	BAU248
 @list	BAU413
 @list	ELLES159
+@list	GCSL125
 @list	HZL327
 @list	KWU347
 @list	LAK280
