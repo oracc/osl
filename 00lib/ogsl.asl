@@ -27830,6 +27830,7 @@
 @ucun	𒑰
 @uage	5.0
 @v	/
+@v	p₁
 @end sign
 
 @sign P₂
@@ -27845,6 +27846,7 @@
 @v	𒑱
 @inote	For use in Luwian {𒑱}
 @v	:
+@v	p₂
 @form AŠ@z
 @inote	Amarna
 @@
@@ -27878,6 +27880,7 @@
 @ucun	𒑲
 @uage	5.0
 @v	:"
+@v	p₃
 @end sign
 
 @sign P₄
@@ -27886,6 +27889,7 @@
 @ucun	𒑳
 @uage	5.0
 @v	:.
+@v	p₄
 @end sign
 
 @sign P₅
@@ -27894,6 +27898,7 @@
 @ucun	𒑴
 @uage	7.0
 @v	::
+@v	p₅
 @end sign
 
 @sign PA
