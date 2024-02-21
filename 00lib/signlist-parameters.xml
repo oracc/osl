@@ -4,8 +4,8 @@
         xmlns:esp="http://oracc.org/ns/esp/1.0"
 	xmlns="http://www.w3.org/1999/xhtml"
 >
-  <param:title>Oracc Global Sign List</param:title><!-- used at head of page and in citations -->
-  <param:publisher>The OGSL Project</param:publisher><!-- used in citations -->
+  <param:title>Oracc Sign List</param:title><!-- used at head of page and in citations -->
+  <param:publisher>The Oracc Project</param:publisher><!-- used in citations -->
   <param:host>http://build-oracc.museum.upenn.edu</param:host>
   <param:root>/ogsl/signlist</param:root>
   <param:common-headers>
@@ -16,11 +16,17 @@
     <meta name="DC.format" content="text/html"/>
     <link media="screen,projection" href="/ogsl/signlist/css/projesp.css" type="text/css" rel="stylesheet"/>
     <script type="text/javascript" src="/ogsl/signlist/js/projesp.js"> </script>
+    <script type="text/javascript" src="/js/p3.js">&#xa0;</script>
+    <script type="text/javascript" src="/ogsl/signlist/js/slmap.js">&#xa0;</script>
+    <script type="text/javascript" src="/ogsl/signlist/js/slpage.js">&#xa0;</script>
   </param:common-headers>
   <param:top-content>
   </param:top-content>
+  <param:navbar>yes</param:navbar>
+  <param:slform>yes</param:slform>
   <param:dc-id-prefix>ogsl-signlist-oracc-museum-upenn-edu/page/</param:dc-id-prefix>
   <param:main-menu-caption>Main menu</param:main-menu-caption>
-  <param:footer>OGSL project</param:footer>
+  <param:footer>OSL project</param:footer>
   <param:cuneify default="false" switcher="no"/>
+  <param:breadcrumbs>no</param:breadcrumbs>
 </param:parameters>
