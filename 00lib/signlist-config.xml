@@ -8,4 +8,5 @@
   <logo type="text">OGSL/signlist</logo>
   <image>lak25.png</image>
   <blurb>Browsable/searchable version of OGSL</blurb>
+  <option name="asl-lexdata" value="yes"/>
 </project>
