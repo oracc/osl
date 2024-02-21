@@ -11,6 +11,8 @@
     <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text"/>
     <meta name="DC.format" content="text/html"/>
     <meta name="robots" content="noindex,nofollow"/>
+    <script type="text/javascript" src="/ogsl/signlist/js/slmap.js"> </script>
+    <script type="text/javascript" src="/ogsl/signlist/js/slpage.js"> </script>
   </param:common-headers>
   <param:dc-id-prefix>ogsl-oracc-org/page/</param:dc-id-prefix>
   <param:main-menu-caption>Main menu</param:main-menu-caption>
