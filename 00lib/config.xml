@@ -11,4 +11,6 @@ Managed by Niek Veldhuis at UC Berkeley and Steve Tinney and the University of P
   <image-alt>LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen.</image-alt>
   <option name="serve-host" value="build-oracc.museum.upenn.edu"/>
   <option name="serve-subs" value="signlist"/>
+  <option name="asl-cbd-tok" value="00lib/epsd27.tok"/>
+  <option name="asl-cbd-url" value="http://oracc.org/epsd2"/>
 </project>

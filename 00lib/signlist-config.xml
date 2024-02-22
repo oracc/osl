@@ -9,4 +9,5 @@
   <image>lak25.png</image>
   <blurb>Browsable/searchable version of OGSL</blurb>
   <option name="asl-lexdata" value="yes"/>
+  <option name="asl-suxword" value="yes"/>
 </project>
