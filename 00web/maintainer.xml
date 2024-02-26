@@ -15,23 +15,23 @@
 
     <esp:sh>Introduction</esp:sh>
       
-    <p>The new OGSL and signlist tool are not yet fully integrated
+    <p>The new OSL and signlist tool are not yet fully integrated
     into Oracc: this page explains what can be expected to work and
     what the plans are for further integration.</p>
 
     <esp:sh>Components</esp:sh>
 
-    <p>There are several components to OGSL and the signlist tools;
+    <p>There are several components to OSL and the signlist tools;
     some understanding of what they are is helpful for the following
     sections.</p>
 
     <dl>
-      <dt>OGSL</dt><dd><p>The signlist itself, 00lib/ogsl.asl in the
-      ogsl project</p></dd>
+      <dt>OSL</dt><dd><p>The signlist itself, 00lib/osl.asl in the
+      osl project</p></dd>
       <dt>SX</dt><dd><p>The main processor for Oracc ASL (signlist)
       files</p></dd>
       <dt>SLL</dt><dd><p>The Sign List Library--a library used by SX
-      and other programs to load OGSL</p></dd>
+      and other programs to load OSL</p></dd>
       <dt>GVL</dt><dd><p>The Grapheme Validation Library--a library
       used by the ATF processor and other programs to check
       transliteration; also uses SLL to check the validity of
@@ -40,7 +40,7 @@
     
     <esp:sh>Building</esp:sh>
 
-    <p>The normal Oracc build is not fully functional in the ogsl
+    <p>The normal Oracc build is not fully functional in the osl
     project; for now two elements of the build are supported:</p>
 
     <pre class="cookbook">
@@ -48,21 +48,21 @@
       oracc build</pre>
 
       <h5>Oracc update</h5>
-      <p>This runs sx on ogsl.asl and rebuilds the data file which is
+      <p>This runs sx on osl.asl and rebuilds the data file which is
       used by SLL: this means that changes such as added values will
       be recognized on build-oracc after an oracc update.  It also
       rebuilds the auto-generated pages on missing lists and Unicode
       data.</p>
       <h5>Oracc build</h5>
       <p>This only rebuilds the portal pages, which means that if
-      edits to ogsl.asl have changed the missing lists or Unicode
+      edits to osl.asl have changed the missing lists or Unicode
       data, those changes will be visible on the new portal pages on
       build-oracc.</p>
 
     <p>At present <code class="cookbook">oracc serve</code> is not
-    supported; this will change as soon as the OGSL/SSL/GVL
+    supported; this will change as soon as the OSL/SSL/GVL
     integration is complete.  For now this means that changes made to
-    OGSL will be effective on build-oracc, but will not propagated to
+    OSL will be effective on build-oracc, but will not propagated to
     the Munich build server or to the public servers.</p>
       
     <esp:sh>Integration</esp:sh>
@@ -72,19 +72,19 @@
     subsystems. Integration with the ATF processor (in Oracc 1 this is
     'ox'; in Oracc 2 it will be 'ax') is complete and under testing.</p>
 
-    <p>Integration with the online signlist that is part of OGSL and
+    <p>Integration with the online signlist that is part of OSL and
     ePSD is functional but needs some revision.</p>
     
     <p>Integration with glossary building is untested.</p>
 
     <esp:sh>OIDs</esp:sh>
 
-    <p>OGSL is partly integrated into the Oracc persistent IDs (OIDs)
+    <p>OSL is partly integrated into the Oracc persistent IDs (OIDs)
     subsystem: sx looks up OIDs in the central OID table and reports
     any signs that do not have OIDs. For the moment these need to be
     added manually, but this will be rectified very soon.</p>
 
-    <p>The plan is to integrate OGSL more closely with the OIDs in
+    <p>The plan is to integrate OSL more closely with the OIDs in
     the near future. It is likely that all the existing OIDs for signs
     will then be revoked and reissued to provide a clean start, after
     which changes in sign-names, removal of signs, and the physical
@@ -97,7 +97,7 @@
 
     <h5>Adding/deleting @v, @form (with existing name), @list</h5>
     
-    <p>OGSL editing is open for business: values can be added
+    <p>OSL editing is open for business: values can be added
     (they do not affect OIDs); @form entries which reference existing
     signs or forms can also be added or deleted (they do not affect
     OIDs). @list entries can be added or modified.</p>

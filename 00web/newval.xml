@@ -1,11 +1,11 @@
 <esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
-  <esp:name>Adding to OGSL</esp:name>
-  <esp:title>Adding to OGSL</esp:title>
+  <esp:name>Adding to OSL</esp:name>
+  <esp:title>Adding to OSL</esp:title>
   <html>
     <head/>
     <body>
     <p>If the ATF checker rejects a valid sign value, this value needs
-    to be added to the ORACC Global Sign List. Email your request to
+    to be added to the ORACC Sign List. Email your request to
     Niek Veldhuis (veldhuis at berkeley dot edu); usually, the value
     is added the same working day. If you haven't heard within a week,
     try again.</p>
@@ -13,7 +13,7 @@
     <p>In your email, report the new value (e.g., re&#x1E6D;), the
     sign name (e.g., &#x160;ID), and the sign number in one of the
     standard sign lists (e.g., MZL486; see the <esp:link
-    url="/ogsl/signlist/abbreviations">OGSL abbreviations
+    url="/osl/signlist/abbreviations">OSL abbreviations
     page</esp:link>).  In addition, provide (brief) documentation on
     the validity of the sign value, including the text you are working
     on with text name, P number column/line number and transliteration

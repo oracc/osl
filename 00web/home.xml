@@ -5,9 +5,9 @@
   <html>
     <head/>
     <body>
-      <esp:image file="LAK25-ogsl.png" description="LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen."/>
+      <esp:image file="LAK25-osl.png" description="LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen."/>
 
-      <p>OGSL Provides a global registry of sign names, variants and
+      <p>OSL Provides a global registry of sign names, variants and
       readings for use by Oracc.</p>
 
       <p>You can browse or search the signlist <esp:link
@@ -18,7 +18,7 @@
       here.</esp:link></p>
 
       <p>You can view/download the OSL source file <esp:link
-      url="https://raw.githubusercontent.com/oracc/ogsl/master/00lib/ogsl.asl">directly
+      url="https://raw.githubusercontent.com/oracc/osl/master/00lib/osl.asl">directly
       from the github repository</esp:link>.</p>
       
       <p>OSL is managed by Niek Veldhuis at UC Berkeley and Steve Tinney at

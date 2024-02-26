@@ -5,7 +5,7 @@
         file="home.xml" id="home" accesskey="1" type="page">
   <struct:link id="osl-sl" title="Signlist" url="/osl/signlist" target="_top"/>
   <struct:page file="newval.xml" id="newval" type="page"/>
-  <struct:page file="maintainer.xml" id="maintainer" type="page"/>
+  <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
   <struct:page file="oiv.xml" id="oiv" type="page" hide-menu-link="yes"/>
 </struct:page>

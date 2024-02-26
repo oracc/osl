@@ -1,6 +1,6 @@
 <esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
-  <esp:name>OGSL Ideographic Variation</esp:name>
-  <esp:title>OGSL Ideographic Variation</esp:title>
+  <esp:name>OSL Ideographic Variation</esp:name>
+  <esp:title>OSL Ideographic Variation</esp:title>
   <html>
     <head/>
     <body>
@@ -9,7 +9,7 @@
       Ideographic Variation Sequences as defined in <esp:link
       url="https://unicode.org/reports/tr37">Unicode Technical Report
       37 (referred to as TR37 in the following).</esp:link> in
-      OGSL/GVL. The original idea of using these with Unicode
+      OSL/GVL. The original idea of using these with Unicode
       cuneiform is owed to Robin LeRoy.</p>
 
       <esp:h>Overview</esp:h>
@@ -26,19 +26,19 @@
       selectors along with a collection name and a name for the
       sequence.</p>
 
-      <esp:h>Oracc_OGSL Collection</esp:h>
+      <esp:h>Oracc_OSL Collection</esp:h>
 
-      <p>The name of the Oracc OGSL collection is
-      <code>Oracc_OGSL</code>. This implementation is presently
+      <p>The name of the Oracc OSL collection is
+      <code>Oracc_OSL</code>. This implementation is presently
       unregistered, but the collection data would be of the form:</p>
 
       <pre>
-	Oracc_OGSL;[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*_[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*;http://oracc.org/ogsl/ivs/
+	Oracc_OSL;[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*_[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*;http://oracc.org/osl/ivs/
       </pre>
 
-      <esp:h>Oracc_OGSL Identifier Structure</esp:h>
+      <esp:h>Oracc_OSL Identifier Structure</esp:h>
 
-      <p>Oracc_OGSL identifiers consist of a BASESIGN, underscore
+      <p>Oracc_OSL identifiers consist of a BASESIGN, underscore
       character, '_', and VARDATA.  Both BASESIGN, the sign subject to
       variation, and VARDATA, the variation, consist of uppercase
       letters A-Z followed by optional digits 0-9, followed by
@@ -47,7 +47,7 @@
       name, consisting of uppercase letters A-Z followed by optional
       digits 0-9.</p>
 
-      <p>The BASESIGN is always derived from an OGSL sign name
+      <p>The BASESIGN is always derived from an OSL sign name
       translating subscript digits to regular digits and substituting
       SH for Š, e.g., <code>MU</code>, <code>NI2</code>, or
       <code>SHU</code>.  For compound signs the sign name is
@@ -55,18 +55,18 @@
       any TIMES sign to '*', e.g., <code>|GA₂×AN|</code> would be
       specified as <code>GA2*AN</code>.</p>
 
-      <p>The VARDATA is either an OGSL sign name or a descriptive
+      <p>The VARDATA is either an OSL sign name or a descriptive
       label for the variant selected via the sequence as described
       further in the next section.</p>
 
-      <esp:h>Oracc_OGSL Reference Glyphs</esp:h>
+      <esp:h>Oracc_OSL Reference Glyphs</esp:h>
 
-      <p>A table of Oracc_OGSL reference glyphs is maintained at
-      XXX/ogsl/ivsglyphs.html.</p>
+      <p>A table of Oracc_OSL reference glyphs is maintained at
+      XXX/osl/ivsglyphs.html.</p>
 
-      <esp:h>Oracc_OGSL use of Variation Selectors</esp:h>
+      <esp:h>Oracc_OSL use of Variation Selectors</esp:h>
 
-      <p>Oracc_OGSL defines IVSs for two reasons:</p>
+      <p>Oracc_OSL defines IVSs for two reasons:</p>
 
       <ul>
 	<li>To support splits and mergers</li>
@@ -87,9 +87,9 @@
 	E0113 VFORM3
       </pre>
 
-      <esp:h>Sample Oracc_OGSL IVS entries</esp:h>
+      <esp:h>Sample Oracc_OSL IVS entries</esp:h>
 
-      <p>The most common use of Oracc_OGSL IVS will be to handle
+      <p>The most common use of Oracc_OSL IVS will be to handle
       mergers--a number of sign distinctions in Early Dynastic writing
       become lost over time, for example IM and NI₂ are separate signs
       in ED Fara but are merged in almost every other script
@@ -97,7 +97,7 @@
 
       <pre>      
 	# IM merges with NI2 except for ED Fara
-	1214E E0100;Oracc_OGSL;IM_NI2
+	1214E E0100;Oracc_OSL;IM_NI2
       </pre>
       
       <p>Systemic sign variation is also handled using IVS entries.  A
@@ -107,21 +107,21 @@
 
       <pre>
 	# MU sign with KASKAL-style replacement for normal SHE-style component
-	1222C E0110;Oracc_OGSL;MU_KASKAL
+	1222C E0110;Oracc_OSL;MU_KASKAL
       </pre>
 
       <p>In the case of variant forms, The VARDATA component of the
       label <code>MU_KASKAL</code> may qualify the variation rather
       than defining the target form as a merged sign.</p>
 
-      <esp:h>Oracc_OGSL Ideographic Variation Database</esp:h>
+      <esp:h>Oracc_OSL Ideographic Variation Database</esp:h>
 
-      <p>The Oracc_OGSL Ideographic Variation Database, OIVD, is kept
-      in 00etc/Oracc_OGSL.txt in the Oracc OGSL repo, and is available
+      <p>The Oracc_OSL Ideographic Variation Database, OIVD, is kept
+      in 00etc/Oracc_OSL.txt in the Oracc OSL repo, and is available
       online at XXX.</p>
 
       <p>The OIVD contains all possible applications of IVS in
-      Oracc_OGSL; not all script phases will exhibit all IVS traits,
+      Oracc_OSL; not all script phases will exhibit all IVS traits,
       however. Subsetting of the OIVD for individual script phases is
       handled using configuration files which give a simple list of
       IVS names.  By convention these have the extension
@@ -143,7 +143,7 @@
       <code>.oiv</code> file <code>GU.oiv</code> which is looked for
       along a path of <code>.oiv</code> file locations.  This path may
       include project configuration options, standard locations in the
-      project, and system locations in OGSL.</p>
+      project, and system locations in OSL.</p>
 
       <p>A <code>.oiv</code> file is a three-column tabbed file giving
       a base character, a base+selector pair, and optional rendering

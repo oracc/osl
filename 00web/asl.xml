@@ -2,8 +2,8 @@
 	xmlns:esp="http://oracc.org/ns/esp/1.0"
 	xmlns="http://www.w3.org/1999/xhtml"
 	>
-  <esp:name>ASL/OGSL File Format</esp:name>
-  <esp:title>ASL/OGSL File Format</esp:title>
+  <esp:name>ASL/OSL File Format</esp:name>
+  <esp:title>ASL/OSL File Format</esp:title>
 
   <html>
     <head/>
@@ -25,19 +25,19 @@
 <p>The ASL file format is Oracc's document type for signlists of
 Sumero-Akkadian Cuneiform (SAC) and related scripts.</p>
 
-<p>The primary system signlist is OGSL: The Oracc GLobal Sign List, which
+<p>The primary system signlist is OSL: The Oracc GLobal Sign List, which
 is available online at http://oracc.org.  This document often
-references OGSL by name, but the definitions apply to any ASL file.</p>
+references OSL by name, but the definitions apply to any ASL file.</p>
 
 <p>The ASL structure is designed to support the way cuneiformists think
-about cuneiform signs and readings (values); OGSL is a working
+about cuneiform signs and readings (values); OSL is a working
 document which is intended to provide an exhaustive listing of signs
 and values.  It also provides concordances to all of the major SAC
 print signlists, as well as the Unicode standard.</p>
 
 <p>The main Oracc program for working with ASL files is the
 signlist-processor, 'sx', which is referenced occasionally below. One
-of the important uses of OGSL is to provide a control lists for
+of the important uses of OSL is to provide a control lists for
 transliteration on Oracc, both in the corpora and the glossaries.
 This is implemented using a library called GVL, the Grapheme
 Validation Library; again, occasional references to GVL are made
@@ -170,7 +170,7 @@ parenthesis to indicate grouping, e.g.:</p>
 rarely, if ever, used.</p>
 
 <p>The @aka tag allows common transliteration practices to be used while
-retaining more rigid constraints in the OGSL naming scheme.  It also
+retaining more rigid constraints in the OSL naming scheme.  It also
 provides a mechanism for changing the SIGN-NAME of an @sign without
 breaking the corpora by adding @aka tags for backward compatibility.</p>
 
@@ -205,7 +205,7 @@ numerical subscript.  This means that a sign cannot have values gu₃
 and gu₇, for example.</p>
 
 <p>In transliteration, most values can be given as simple values&#8212;we
-call these "unqualified values".  OGSL's constraints ensure that any
+call these "unqualified values".  OSL's constraints ensure that any
 unqualified value can only refer to a single sign.</p>
 
 <p>Certain values must be expressed as "qualified values", i.e., they
@@ -260,7 +260,7 @@ sign-as-form would inherit a value with a different index. E.g.:</p>
 ...</pre>
 
 <p>In this example, gu₇⁻ is a notation used in Attinger&apos;s system for
-an value written with an abbreviated sign.  OGSL does not use values
+an value written with an abbreviated sign.  OSL does not use values
 with a superscript plus or minus, and would ordinarily use gu₇ as the
 complement to gu₇⁻.  The KA sign, however, has a value gu₃ and
 therefore cannot also have a gu₇ value.  Listing gu₃ explicitly
@@ -293,14 +293,14 @@ such as BAU00I.A.</p>
 extension following the digits. These are sometimes based on usage in
 the list in question, and sometimes on later differentiations which
 are not present in the published list; hence there is no guarantee
-that an OGSL LIST-NUM will occur verbatim in the relevant list (though
+that an OSL LIST-NUM will occur verbatim in the relevant list (though
 the vast majority do).</p>
 
 <h4>@lref</h4>
 
 <p>Most signlists have entries that do not align with specific signs&#8212;a
 signlist may give a reduplicated form of a sign, for example, which is
-not recognized as a sign in OGSL. These are accommodated using the
+not recognized as a sign in OSL. These are accommodated using the
 @lref tag, which must have a LIST-NUM, and may have a GOESTO notation
 of the form '=&gt; TEXT'.  The TEXT will normally be ATF transliteration
 but this is not a requirement. @lref may be followed by an optional
@@ -308,7 +308,7 @@ notes block.</p>
 
 <h4>Tracking Missing List Entries</h4>
 
-<p>The actual LIST-NUM entries that occur in @list or @lref in OGSL are
+<p>The actual LIST-NUM entries that occur in @list or @lref in OSL are
 tracked by sx and compared to the numbers given in the @listdef. This
 allows a list list of missing numbers to be generated to help with
 ensuring complete coverage of a given list.</p>
@@ -414,9 +414,9 @@ value before the GOESTO.</p>
 <h4>Components Only in Compounds</h4>
 
 <p>When validating compound signs, GVL requires that every component have
-an entry in OGSL, even those which do not occur independently.
+an entry in OSL, even those which do not occur independently.
 Because these have historically not been encoded in Unicode we keep
-them separated from regular signs in OGSL by defining them with the
+them separated from regular signs in OSL by defining them with the
 @compoundonly tag followed by an optional notes block.</p>
 
 <h4>Sign References</h4>
