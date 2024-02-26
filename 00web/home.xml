@@ -5,7 +5,7 @@
   <html>
     <head/>
     <body>
-      <esp:image file="LAK25-osl.png" description="LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen."/>
+      <esp:image file="LAK070.png" description="LAK 70 (UZ) from A. Deimel, Liste der Archaische Keilschriftzeichen."/>
 
       <p>OSL Provides a global registry of sign names, variants and
       readings for use by Oracc.</p>
