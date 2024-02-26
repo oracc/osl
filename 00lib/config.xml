@@ -7,8 +7,8 @@
   <public>yes</public>
   <blurb>Provides a global registry of sign names, variants and readings for use by Oracc.<br/>
 Managed by Niek Veldhuis at UC Berkeley and Steve Tinney and the University of Pennsylvania.</blurb>
-  <image>LAK25-ogsl.png</image>
-  <image-alt>LAK 25, from A. Deimel, Liste der Archaische Keilschriftzeichen.</image-alt>
+  <image>LAK070-ogsl.png</image>
+  <image-alt>LAK 70, from A. Deimel, Liste der Archaische Keilschriftzeichen.</image-alt>
   <option name="serve-host" value="build-oracc.museum.upenn.edu"/>
   <option name="serve-subs" value="signlist"/>
   <option name="asl-cbd-tok" value="00lib/epsd27.tok"/>
