@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="ogsl">
-  <name>Oracc Global Sign List</name>
-  <abbrev>OGSL</abbrev>
-  <logo type="text">OGSL</logo>
+<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="osl">
+  <name>Oracc Sign List</name>
+  <abbrev>OSL</abbrev>
+  <logo type="text">OSL</logo>
   <type>signlist</type>
   <public>yes</public>
   <blurb>Provides a global registry of sign names, variants and readings for use by Oracc.<br/>

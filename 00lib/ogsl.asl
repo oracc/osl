@@ -1,5 +1,5 @@
-@project ogsl
-@signlist ogsl
+@project osl
+@signlist osl
 
 @inote	@listdef ABZ 1-598
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
