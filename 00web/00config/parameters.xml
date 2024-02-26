@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <param:parameters xmlns:param="http://oracc.org/ns/esp-param/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml">
-  <param:title>Oracc Global Sign List</param:title>
-  <param:publisher>The OGSL Project</param:publisher>
+  <param:title>Oracc Sign List</param:title>
+  <param:publisher>The OSL Project</param:publisher>
   <param:host>http://oracc.org</param:host>
   <param:root/>
   <param:common-headers>
-    <meta name="DC.publisher" content="The OGSL Project"/>
+    <meta name="DC.publisher" content="The OSL Project"/>
     <meta name="DC.language" scheme="ISO 639-2/T" content="eng"/>
-    <meta name="DC.rights.copyright" content="CC BY-SA The OGSL Project, 2014-"/>
+    <meta name="DC.rights.copyright" content="CC BY-SA The OSL Project, 2014-"/>
     <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text"/>
     <meta name="DC.format" content="text/html"/>
     <meta name="robots" content="noindex,nofollow"/>
-    <script type="text/javascript" src="/ogsl/signlist/js/slmap.js"> </script>
-    <script type="text/javascript" src="/ogsl/signlist/js/slpage.js"> </script>
+    <script type="text/javascript" src="/osl/signlist/js/slmap.js"> </script>
+    <script type="text/javascript" src="/osl/signlist/js/slpage.js"> </script>
   </param:common-headers>
-  <param:dc-id-prefix>ogsl-oracc-org/page/</param:dc-id-prefix>
+  <param:dc-id-prefix>osl-oracc-org/page/</param:dc-id-prefix>
   <param:main-menu-caption>Main menu</param:main-menu-caption>
-  <param:footer><a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA</a> The OGSL Project, 2014-</param:footer>
+  <param:footer><a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA</a> The OSL Project, 2014-</param:footer>
 </param:parameters>

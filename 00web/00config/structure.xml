@@ -3,9 +3,9 @@
         xmlns:struct="http://oracc.org/ns/esp-struct/1.0"
         xmlns="http://www.w3.org/1999/xhtml"
         file="home.xml" id="home" accesskey="1" type="page">
-  <struct:link id="ogsl-sl" title="Signlist" url="/ogsl/signlist" target="_top"/>
+  <struct:link id="osl-sl" title="Signlist" url="/osl/signlist" target="_top"/>
   <struct:page file="newval.xml" id="newval" type="page"/>
   <struct:page file="maintainer.xml" id="maintainer" type="page"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
-  <struct:page file="oiv.xml" id="oiv" type="page"/>
+  <struct:page file="oiv.xml" id="oiv" type="page" hide-menu-link="yes"/>
 </struct:page>

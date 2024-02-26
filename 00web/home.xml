@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
   <esp:name>Home</esp:name>
-  <esp:title>Oracc Global Sign List</esp:title>
+  <esp:title>Oracc Sign List</esp:title>
   <html>
     <head/>
     <body>
@@ -11,17 +11,17 @@
       readings for use by Oracc.</p>
 
       <p>You can browse or search the signlist <esp:link
-      url="/ogsl/signlist">here</esp:link>.</p>
+      url="/osl/signlist">here</esp:link>.</p>
 
       <p>You can learn how to <esp:link
       page="newval">report a new sign or value
       here.</esp:link></p>
 
-      <p>You can view/download the OGSL source file <esp:link
+      <p>You can view/download the OSL source file <esp:link
       url="https://raw.githubusercontent.com/oracc/ogsl/master/00lib/ogsl.asl">directly
       from the github repository</esp:link>.</p>
       
-      <p>OGSL is managed by Niek Veldhuis at UC Berkeley and Steve Tinney at
+      <p>OSL is managed by Niek Veldhuis at UC Berkeley and Steve Tinney at
       the University of Pennsylvania.</p>
 
     </body>
