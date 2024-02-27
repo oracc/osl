@@ -90,6 +90,10 @@
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
+@linkdef eBL Links to the electronic Babylonian Library sign list.
+
+@linkdef Wikidata Links to the Wikidata pages for Unicode signs.
+
 @listdef ZATU 1-855
 @lit	M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)
 @inote	TO-DO: check numbers against volume
