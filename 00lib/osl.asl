@@ -104,6 +104,10 @@
 	paléobabyloniens (Wiesbaden 2021).
 @inote	Presently incomplete.
 
+@images 00etc/im-lak-svg.tab
+
+@images 00etc/im-lak-a-z.tab
+
 @sign A
 @oid	o0000087
 @list	BAU416

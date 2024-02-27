@@ -1,6 +1,6 @@
 # LAK SVG but not including LAK numbers with commas in images/lak/svg
-@label LAK
-@base images/lak/svg
+@label	LAK
+@path	images/lak/svg
 o0000106	LAK001.svg	LAK001
 o0027232	LAK002.svg	LAK002
 o0000349	LAK003.svg	LAK003

@@ -1,6 +1,6 @@
 # LAK PNG but not including LAK numbers without alphabetic subscript in images/lak/signs
 @label LAK
-@base images/lak/signs
+@path images/lak/signs
 o0000106	LAK001.png	LAK001
 o0027232	LAK002.png	LAK002
 o0000349	LAK003.png	LAK003
