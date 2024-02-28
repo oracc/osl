@@ -46,13 +46,15 @@
 
       <esp:sh>OSL and Unicode</esp:sh>
 
-      <p>OSL is not an offical part of the Unicode standard but it is
-      being proposed as the authority for Sumero-Akkadian cuneiform
-      data which supports the application of Unicode Cuneiform to data
-      entry and rendering.  See Robin Leroy's <esp:link
-      url="https://www.unicode.org/reports/tr56/">DUTR#56: UNICODE®
-      CUNEIFORM SIGN LISTS </esp:link> for further details.</p>
-      
+      <p>OSL is not part of the Unicode Standard or other Unicode
+      specification. However, its is recommended by a preliminary
+      document as the source of data such as sign values and
+      correspondences to other sign lists, which are in practice
+      needed to use the Unicode Sumero-Akkadian cuneiform characters.
+      See <esp:link url="https://www.unicode.org/reports/tr56/">Draft
+      Unicode Technical Report #56, “Unicode Cuneiform Sign
+      Lists”</esp:link>, edited by Robin Leroy.</p>
+            
       <esp:sh>OSL Licence</esp:sh>
 
       <p>The OSL source file and all of the data that is part of the
