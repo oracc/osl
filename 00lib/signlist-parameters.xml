@@ -4,14 +4,14 @@
         xmlns:esp="http://oracc.org/ns/esp/1.0"
 	xmlns="http://www.w3.org/1999/xhtml"
 >
-  <param:title>OSL Sign List</param:title><!-- used at head of page and in citations -->
+  <param:title>Oracc Sign List</param:title><!-- used at head of page and in citations -->
   <param:publisher>The Oracc Project</param:publisher><!-- used in citations -->
-  <param:host>http://build-oracc.museum.upenn.edu</param:host>
+  <param:host>https://oracc.museum.upenn.edu</param:host>
   <param:root>/osl/signlist</param:root>
   <param:common-headers>
-    <meta name="DC.publisher" content="OGSL Project, Oracc"/>
+    <meta name="DC.publisher" content="OSL Project, Oracc"/>
     <meta name="DC.language" scheme="ISO 639-2/T" content="eng"/>
-    <meta name="DC.rights.copyright" content="Copyright The OGSL Project; released under a CC-BY-SA 3.0 license"/>
+    <meta name="DC.rights.copyright" content="Copyright The OSL Project; released under a CC-BY-SA 3.0 license"/>
     <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text" />
     <meta name="DC.format" content="text/html"/>
     <link media="screen,projection" href="/osl/signlist/css/projesp.css" type="text/css" rel="stylesheet"/>

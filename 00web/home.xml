@@ -10,19 +10,17 @@
       <p>OSL Provides a global registry of sign names, variants and
       readings for use by Oracc.</p>
 
-      <p>You can browse or search the signlist <esp:link
+      <p>You can browse or search the sign list <esp:link
       url="/osl/signlist">here</esp:link>.</p>
 
-      <p>You can learn how to <esp:link
-      page="newval">report a new sign or value
-      here.</esp:link></p>
+      <p>You can learn how to <esp:link page="newval">report a new
+      sign or value here.</esp:link></p>
 
-      <p>You can view/download the OSL source file <esp:link
-      url="https://raw.githubusercontent.com/oracc/osl/master/00lib/osl.asl">directly
-      from the github repository</esp:link>.</p>
+      <p>You can <esp:link page="about">obtain the OSL data</esp:link> in several forms.</p>
       
-      <p>OSL is managed by Niek Veldhuis at UC Berkeley and Steve Tinney at
-      the University of Pennsylvania.</p>
+      <p>OSL is managed by Niek Veldhuis at UC Berkeley and Steve
+      Tinney at the University of Pennsylvania with contributions by
+      Robin Leroy of Unicode and Google.</p>
 
     </body>
   </html>
