@@ -26,7 +26,7 @@
   <param:slform>yes</param:slform>
   <param:dc-id-prefix>osl-signlist-oracc-museum-upenn-edu/page/</param:dc-id-prefix>
   <param:main-menu-caption>Main menu</param:main-menu-caption>
-  <param:footer>OSL project</param:footer>
+  <param:footer>CC0: The Oracc Sign List is in the Public Domain; this is version @@version@@ produced at @@timestamp@@</param:footer>
   <param:cuneify default="false" switcher="no"/>
   <param:breadcrumbs>no</param:breadcrumbs>
 </param:parameters>

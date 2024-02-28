@@ -1,6 +1,8 @@
 @project osl
 @signlist osl
 
+@inote CC0: osl.asl and its associated files are placed in the public domain under a CC0 licence.
+
 @inote	@listdef ABZ 1-598
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
 
@@ -104,9 +106,9 @@
 	paléobabyloniens (Wiesbaden 2021).
 @inote	Presently incomplete.
 
-@images 00etc/im-lak-svg.tab
+@inote @images 00etc/im-lak-svg.tab
 
-@images 00etc/im-lak-a-z.tab
+@inote @images 00etc/im-lak-a-z.tab
 
 @sign A
 @oid	o0000087
