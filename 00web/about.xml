@@ -47,7 +47,7 @@
       <esp:sh>OSL and Unicode</esp:sh>
 
       <p>OSL is not part of the Unicode Standard or other Unicode
-      specification. However, its is recommended by a preliminary
+      specification. However, it is recommended by a preliminary
       document as the source of data such as sign values and
       correspondences to other sign lists, which are in practice
       needed to use the Unicode Sumero-Akkadian cuneiform characters.
