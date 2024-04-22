@@ -44842,7 +44842,7 @@
 @link Wikidata Q87556577 http://www.wikidata.org/entity/Q87556577
 @end sign
 
-@sign UN
+@sign KALAM
 @oid	o0000574
 @list	BAU367
 @list	ELLES356
@@ -44859,6 +44859,23 @@
 @v	kalama
 @v	kanaŋ
 @v	kanam
+@link eBL UN https://www.ebl.lmu.de/signs/UN
+@link Wikidata Q87556578 http://www.wikidata.org/entity/Q87556578
+@note The current state of OSL KALAM/KALAM@g is the first phase in
+      correcting the association of names and glyphs in Unicode 5.0.
+      The previous name of KALAM was UN and the previous name of KALAM@g
+      was UN@g. Further review of the various lists is necessary and
+      most periods will need to treat KALAM and KALAM@g as a merger.
+@end sign
+
+@sign KALAM@g
+@oid	o0000575
+@list	LAK730
+@uname	CUNEIFORM SIGN UN GUNU
+@list	U+12327
+@ucun	𒌧
+@uage	5.0
+@v	kalamₓ
 @v	u₁₂
 @v	ug₃
 @v-	uga₃
@@ -44868,18 +44885,6 @@
 @v	umₓ
 @v	un
 @v	unu₄
-@link eBL UN https://www.ebl.lmu.de/signs/UN
-@link Wikidata Q87556578 http://www.wikidata.org/entity/Q87556578
-@end sign
-
-@sign UN@g
-@oid	o0000575
-@list	LAK730
-@uname	CUNEIFORM SIGN UN GUNU
-@list	U+12327
-@ucun	𒌧
-@uage	5.0
-@v	kalamₓ
 @link eBL UN@g https://www.ebl.lmu.de/signs/UN@g
 @link Wikidata Q87556580 http://www.wikidata.org/entity/Q87556580
 @end sign
