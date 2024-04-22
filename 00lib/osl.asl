@@ -24739,7 +24739,8 @@
 @link Wikidata Q87555980 http://www.wikidata.org/entity/Q87555980
 @end sign
 
-@sign |LAGAB×UN|
+@sign|LAGAB×KALAM@g|
+@aka |LAGAB×UN|
 @oid	o0001837
 @link eBL |LAGAB×UN| https://www.ebl.lmu.de/signs/|LAGAB×UN|
 @end sign
