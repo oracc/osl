@@ -9423,8 +9423,9 @@
 @end sign
 
 @sign |AN+EN|
-@uage 0
 @oid o0038077
+@uage 0
+@useq x1202D.x200D.x12097
 @note This entry is defined to facilitate mapping {d}+en to a font ligature via AN+ZWJ+EN.
 @end sign
 
