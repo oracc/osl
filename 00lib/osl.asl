@@ -9422,6 +9422,12 @@
 @inote	missing compounds for lak.atf
 @end sign
 
+@sign |AN+EN|
+@uage 0
+@oid o0038077
+@note This entry is defined to facilitate mapping {d}+en to a font ligature via AN+ZWJ+EN.
+@end sign
+
 @sign |EN×GAN₂|
 @oid	o0001079
 @list	ABZL063
