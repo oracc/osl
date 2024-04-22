@@ -5237,8 +5237,8 @@
 @v	arinaₓ
 @end sign
 
-@sign |BU.BU@90.UN|
-@aka |BU.BU@90.KALAM@g|
+@sign |BU.BU@90.KALAM@g|
+@aka |BU.BU@90.UN|
 @oid	o0031638
 @inote	addx dcclt/ebla
 @useq	x1204D.X.x12326
@@ -5298,8 +5298,8 @@
 @@
 @end sign
 
-@sign |BU&BU.UN|
-@aka |BU&BU.KALAM@g|
+@sign |BU&BU.KALAM@g|
+@aka |BU&BU.UN|
 @oid	o0000931
 @uname	CUNEIFORM SIGN BU OVER BU UN
 @list	U+1204F
@@ -5310,8 +5310,8 @@
 @note	See Early Dynastic Geographical List 193 in CUSAS 12, 196 and UET 7, 80 ii 5 (parallels ED Cities 25).)
 @link eBL |BU&BU.UN| https://www.ebl.lmu.de/signs/|BU&BU.UN|
 @link Wikidata Q87555157 http://www.wikidata.org/entity/Q87555157
-@form |BU@90.BU.UN|
-@aka |BU@90.BU.KALAM@g|
+@form |BU@90.BU.KALAM@g|
+@aka |BU@90.BU.UN|
 @oid	o0000936
 @note	ED Cities 25.
 @inote	not clear if ZATU299 "KITI" |BU@90.UN| is same as |BU&BU.UN|
@@ -15350,8 +15350,8 @@
 @link eBL |GU₂.NUNUZ| https://www.ebl.lmu.de/signs/|GU₂.NUNUZ|
 @end sign
 
-@sign |GU₂.UN|
-@aka |GU₂.KALAM@g|
+@sign |GU₂.KALAM@g|
+@aka |GU₂.UN|
 @oid	o0001427
 @useq	x12118.x12326
 @ucun	𒄘𒌦
