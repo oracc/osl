@@ -24220,9 +24220,10 @@
 @oid	o0031555
 @inote	Emar
 @@
-@form LAK768
+@form |LAGAB×HAL|
+@list LAK768
 @oid	o0018585
-@inote	LAK768 = LAGAB×HAL ; TSŠ 302, needs collation
+@inote	TSŠ 302, needs collation; |LAGAB×HAL| is form in Gudea Cyl A xvi 8, three times
 @@
 @end sign
 
@@ -40856,6 +40857,12 @@
 @oid	o0120543
 @useq	x122D9.x1212D.x1202D
 @ucun	𒋙𒄭𒀭
+@v	keš₃
+@@
+@form |U.AN.HI×GAD|
+@oid 	o0038079
+@useq	x1230B.x1202D.x12132
+@ucun	𒌋𒀭𒄲
 @v	keš₃
 @@
 @end sign
