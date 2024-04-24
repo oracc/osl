@@ -6340,6 +6340,7 @@
 @end sign
 
 @sign DE₂
+@aka UMUM@s
 @oid	o0000138
 @list	GCSL071
 @list	KWU309
@@ -44813,6 +44814,8 @@
 @uage	5.0
 @link eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
 @link Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
+@@
+@form UMUM@s
 @@
 @end sign
 
