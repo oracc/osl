@@ -14042,6 +14042,8 @@
 @v	ukur?
 @link eBL GIR₂ https://www.ebl.lmu.de/signs/GIR₂
 @link Wikidata Q87555512 http://www.wikidata.org/entity/Q87555512
+@form UL₄
+@inote Support CCPo GIR₂(UL₄)
 @end sign
 
 @sign |GIR₂×AŠGAB|
@@ -20797,6 +20799,8 @@
 @ucun	𒆕
 @uage	5.0
 @v	ban₄
+@v	biₓ
+@inote CCPo
 @v	da₃
 @v	du₃
 @v	gag
@@ -27281,6 +27285,8 @@
 @v	ša₁₁
 @v	šagaₓ
 @v	šaŋaₓ
+@v	šuₓ
+@inote CCPo
 @link eBL LU₂ https://www.ebl.lmu.de/signs/LU₂
 @link Wikidata Q87556019 http://www.wikidata.org/entity/Q87556019
 @form LU₂~v
@@ -28462,6 +28468,10 @@
 @inote	See AOAT 319, 75-76 and Steinkeller ZA 94; previous description |NAR×ŠAG₄| but ×3(DIŠ@t) better based on Krebernik's copy on CDLI.
 @end sign
 
+@sign |LUL×A|
+@inote CCPo
+@end sign
+
 @sign |LUL×ŠE|
 @oid	o0001922
 @inote	u3adm
@@ -28500,6 +28510,8 @@
 @inote	@v	eŋir₅
 @v	hum
 @v	humu
+@v	hunₓ
+@inote CCPo
 @v	hus
 @v	huz?
 @v	kuŋₓ?
