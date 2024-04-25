@@ -14042,7 +14042,7 @@
 @v	ukur?
 @link eBL GIR₂ https://www.ebl.lmu.de/signs/GIR₂
 @link Wikidata Q87555512 http://www.wikidata.org/entity/Q87555512
-@form UL₄
+@form GIR₂@g
 @inote Support CCPo GIR₂(UL₄)
 @end sign
 
