@@ -44882,9 +44882,9 @@
 @list	LAK729
 @list	PTACE300
 @list	RSP136
-@uname	CUNEIFORM SIGN UN
-@list	U+12326
-@ucun	𒌦
+@uname	CUNEIFORM SIGN UN GUNU
+@list	U+12327
+@ucun	𒌧
 @uage	5.0
 @v	kalam
 @v	kalama
@@ -44892,19 +44892,19 @@
 @v	kanam
 @link eBL UN https://www.ebl.lmu.de/signs/UN
 @link Wikidata Q87556578 http://www.wikidata.org/entity/Q87556578
-@note The current state of OSL KALAM/KALAM@g is the first phase in
-      correcting the association of names and glyphs in Unicode 5.0.
-      The previous name of KALAM was UN and the previous name of KALAM@g
-      was UN@g. Further review of the various lists is necessary and
+@note The characters CUNEIFORM SIGN UN and CUNEIFORM SIGN UN GUNU are affected
+      by a glyph erratum incorporated into Unicode 16.0: the glyphs are swapped
+      with respect to Unicode 5.0..15.1, and a formal alias corrects the name of
+      UN GUNU to KALAM.  Further review of the various lists is necessary and
       most periods will need to treat KALAM and KALAM@g as a merger.
 @end sign
 
 @sign KALAM@g
 @oid	o0000575
 @list	LAK730
-@uname	CUNEIFORM SIGN UN GUNU
-@list	U+12327
-@ucun	𒌧
+@uname	CUNEIFORM SIGN UN
+@list	U+12326
+@ucun	𒌦
 @uage	5.0
 @v	kalamₓ
 @v	u₁₂
