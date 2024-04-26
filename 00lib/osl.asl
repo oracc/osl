@@ -44884,6 +44884,8 @@
 @list	RSP136
 @uname	CUNEIFORM SIGN UN GUNU
 @list	U+12327
+@umap KALAM@g
+@unote Until the glyph swap happens the KALAM glyph needs to come from U+12326.
 @ucun	𒌧
 @uage	5.0
 @v	kalam
@@ -44904,6 +44906,8 @@
 @list	LAK730
 @uname	CUNEIFORM SIGN UN
 @list	U+12326
+@umap KALAM
+@unote Until the glyph swap happens the KALAM@g glyph needs to come from U+12327.
 @ucun	𒌦
 @uage	5.0
 @v	kalamₓ
