@@ -5241,7 +5241,7 @@
 @aka |BU.BU@90.UN|
 @oid	o0031638
 @inote	addx dcclt/ebla
-@useq	x1204D.X.x12327
+@useq	x1204D.X.x12326
 @ucun	𒁍X𒌦
 @v	kitiₓ
 @end sign
@@ -5315,7 +5315,7 @@
 @oid	o0000936
 @note	ED Cities 25.
 @inote	not clear if ZATU299 "KITI" |BU@90.UN| is same as |BU&BU.UN|
-@useq	X.x1204D.x12327
+@useq	X.x1204D.x12326
 @ucun	X𒁍𒌦
 @@
 @end sign
@@ -15358,7 +15358,7 @@
 @sign |GU₂.KALAM@g|
 @aka |GU₂.UN|
 @oid	o0001427
-@useq	x12118.x12327
+@useq	x12118.x12326
 @ucun	𒄘𒌦
 @v	biltu
 @v	gun
