@@ -11874,6 +11874,8 @@
 
 @sign |GA₂×(IGI@g.ME)|
 @oid	o0221865
+@v	immaₓ
+@inote CCPo
 @end sign
 
 @sign |GA₂×IL₂|
@@ -23363,6 +23365,8 @@
 @v	sim₄?
 @v	suₓ
 @v	surₓ
+@v	tinₓ
+@inote CCPo
 @v	tuku₆
 @v	tukulₓ
 @v	tukur
