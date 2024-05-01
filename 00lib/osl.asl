@@ -44876,11 +44876,13 @@
 
 @sign KALAM
 @oid	o0000574
+@list	ABZL169
 @list	BAU367
 @list	ELLES356
 @list	GCSL297
 @list	KWU849
 @list	LAK729
+@list	MZL500
 @list	PTACE300
 @list	RSP136
 @uname	CUNEIFORM SIGN UN GUNU
@@ -44904,7 +44906,9 @@
 
 @sign KALAM@g
 @oid	o0000575
+@list	ABZL169
 @list	LAK730
+@list	MZL501
 @uname	CUNEIFORM SIGN UN
 @list	U+12326
 @umap KALAM
