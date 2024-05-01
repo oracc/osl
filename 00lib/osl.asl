@@ -14046,6 +14046,7 @@
 @link Wikidata Q87555512 http://www.wikidata.org/entity/Q87555512
 @form GIR₂@g
 @inote Support CCPo GIR₂(UL₄)
+@@
 @end sign
 
 @sign |GIR₂×AŠGAB|
