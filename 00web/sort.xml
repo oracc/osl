@@ -17,7 +17,7 @@
 
       <dl>
 
-	<dt>GRAPHEME</dt><dd>The original grapheme</dd>
+	<dt>GRAPHEME</dt><dd>The original grapheme.</dd>
 
 	<dt>TYPE</dt><dd>An integer which is 0 for regular graphemes; 1
 	for punctuation; 2 for numbers.  This feature means that in a
