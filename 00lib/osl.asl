@@ -6840,6 +6840,7 @@
 @v	ṭiš
 @v	ukitₓ
 @v	uš₉
+@v	uₓ
 @link eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
 @link Wikidata Q87555241 http://www.wikidata.org/entity/Q87555241
 @form AŠ@c
@@ -6930,7 +6931,7 @@
 @v	ašdar₂
 @ref	Ass 00523 = dcclt/signlists:P3703411 r ii 44
 @inote	salgues
-@v	uₓ(DIŠ)-gun₃
+@note	DIŠ-DAR is also a writing for uₓ(DIŠ)-gun₃.
 @link eBL |DIŠ.DAR| https://www.ebl.lmu.de/signs/|DIŠ.DAR|
 @end sign
 
