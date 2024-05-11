@@ -4,6 +4,7 @@
         xmlns="http://www.w3.org/1999/xhtml"
         file="home.xml" id="home" accesskey="1" type="page">
   <struct:link id="osl-sl" title="Signlist" url="/osl/signlist" target="_top"/>
+  <struct:page file="acrl.xml" id="acrl" target="_top"/>
   <struct:page file="newval.xml" id="newval" type="page"/>
   <struct:page file="about.xml" id="about" type="page"/>
   <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>
