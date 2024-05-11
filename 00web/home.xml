@@ -13,6 +13,9 @@
       <p>You can browse or search the sign list <esp:link
       url="/osl/signlist">here</esp:link>.</p>
 
+      <p>You can access Øyvind Bjøru's Aggregated Cuneiform Resource
+      Lookup <esp:link page="acrl">here</esp:link>.</p>
+      
       <p>You can learn how to <esp:link page="newval">report a new
       sign or value here.</esp:link></p>
 
