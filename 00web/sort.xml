@@ -6,7 +6,7 @@
     <head/>
     <body>
 
-      y<p>OSL is sorted according to the system-wide Oracc grapheme
+      <p>OSL is sorted according to the system-wide Oracc grapheme
       sorting algorithm which is defined in the the GDL library.  The
       same sort is used by PCSL and in sorting transliteration
       fragments such as the grammatical bases in Sumerian glossary
@@ -19,7 +19,7 @@
 
 	<dt>GRAPHEME</dt><dd>The original grapheme</dd>
 
-	<dt>TYPE</dt><dd>A flag which is 0 for regular graphemes; 1
+	<dt>TYPE</dt><dd>An integer which is 0 for regular graphemes; 1
 	for punctuation; 2 for numbers.  This feature means that in a
 	list of signs, regular graphemes sort first, punctuation
 	follow in their own block, and numbers are at the end in their
@@ -40,32 +40,32 @@
 	<code>x</code> has an index value of 1000.</dd>
 
 	<dt>REPEAT</dt><dd>The repeat count for a number as an
-	integer; -1 is a flag value for no repeater</dd>
+	integer; -1 is a flag value for no repeater.</dd>
       </dl>
 
       <p>Sorting is carried out with the C library <code>qsort</code>
-      function which compares two items at a time.  The basic steps in
-      this sort are as follows--when two segments comparing different
-      (including where one grapheme has the segment and the other does
-      not) comparison stops and a result is returned.  The steps and
-      results are:</p>
+      function which compares two items at a time. Wwhen two segments
+      compare different (including where one grapheme has the
+      segment and the other does not) comparison stops and a result is
+      returned. The steps are:</p>
 
       <ol>
 	<li>Compare TYPE</li>
 	<li>Compare KEY</li>
 	<li>Compare INDEX</li>
-	<li>Compare MODS; each MOD is a single <code>@</code> or
+	<li><p>Compare MODS; each MOD is a single <code>@</code> or
 	<code>~</code> item. MODs with <code>~</code> sort before MODs
 	with <code>@</code> because the <code>~</code> indicates a
 	glyph-variant whereas a <code>@</code> indicates a new sign
 	created by modifying another sign in the ways specified by the
-	<code>@</code>-modifier. By definition of the data-type in
+	<code>@</code>-modifier.</p>
+	<p>By definition of the data-type in
 	Oracc, MODS are ASCII alphanumeric sequences matching
 	<code>[~@][a-z0-9]+</code>. They are normally compared with a
 	simple string comparison so they sort in simple alphabetic
 	order, but an exception is made for the modifiers that consist
 	entirely of digits <code>0..9</code> such as <code>@90</code>,
-	etc.  These are sorted in numeric sequence.</li>
+	etc.  These are sorted in numeric sequence.</p></li>
 	<li>Compare REPEAT</li>
 	<li>If this point is reached the graphemes are the same; if
 	they are in different letter cases lower case is sorted before
@@ -97,7 +97,14 @@
 
       <p>Because numbers are compared with BASE first and REPEAT last,
       all of the numbers with the same GRAPHEME are grouped
-      together--1(N01), 2(N02) etc., then 1(N01@f) and so on.</p>      
+      together--1(N01), 2(N02) etc., then 1(N01@f) and so on.</p>
+
+      <esp:sh>Graphemes with Numeric Multipliers like |3×AN|</esp:sh>
+
+      <p>Multipler graphemes have special treatment and are sorted as
+      though they were REPEAT(GRAPHEME), like numbers but with TYPE=0.
+      This means that <code>|3×AN|</code> sorts immediately after
+      AN.</p>
       
     </body>
   </html>
