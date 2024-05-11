@@ -44876,6 +44876,14 @@
 @end sign
 
 @sign KALAM
+@note The characters CUNEIFORM SIGN UN and CUNEIFORM SIGN UN GUNU are affected
+      by a glyph erratum incorporated into Unicode 16.0: the glyphs are swapped
+      with respect to Unicode 5.0..15.1, and a formal alias corrects the name of
+      UN GUNU to KALAM.  Further review of the various lists is necessary and
+      most periods will need to treat KALAM and KALAM@g as a merger.
+@note OSL uses a webfont which is a version of NotoSansCuneiform with
+      the KALAM/KALAM@g glyphs swapped by Robin Leroy to conform to
+      the new definition.
 @oid	o0000574
 @list	ABZL169
 @list	BAU367
@@ -44897,14 +44905,6 @@
 @v	kanam
 @link eBL UN https://www.ebl.lmu.de/signs/UN
 @link Wikidata Q87556578 http://www.wikidata.org/entity/Q87556578
-@note The characters CUNEIFORM SIGN UN and CUNEIFORM SIGN UN GUNU are affected
-      by a glyph erratum incorporated into Unicode 16.0: the glyphs are swapped
-      with respect to Unicode 5.0..15.1, and a formal alias corrects the name of
-      UN GUNU to KALAM.  Further review of the various lists is necessary and
-      most periods will need to treat KALAM and KALAM@g as a merger.
-@note OSL uses a webfont which is a version of NotoSansCuneiform with
-      the KALAM/KALAM@g glyphs swapped by Robin Leroy to conform to
-      the new definition.
 @end sign
 
 @sign KALAM@g
