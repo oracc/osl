@@ -52,6 +52,8 @@ ASL.</p>
 <pre class="example">
 	ASL		= signlist listdef* sysdef* top-level-tags
 	signlist	= @signlist PROJECT-NAME
+	project		= @project PROJECT-NAME
+	domain		= @domain "sl" | "pc"
 	listdef		= @listdef ABBREVIATION NUMBERS , notes
 	sysdef		= @sysdef NAME TEXT? , notes?
 	top-level-tags  = (signblock | compoundonly | listref | signref)*
@@ -99,6 +101,17 @@ ASL.</p>
 <p>Every ASL file must begin with @signlist followed by the name of
 the project of which it is part. Like several other tags, @signlist
 may be followed by a notes block.</p>
+
+<p>An ASL file may also provide a @project tag which gives the
+project-name for the signlist; this may differ from the project in
+which the signlist lives.</p>
+
+<p>The @domain tag is necessary when the signlist is for signs that
+are not in the Sumero-Akkadian repertoire: it is the domain key that
+is used for selecting OIDs.  The default, which is set if there is no
+@domain tag, is <code>sl</code> which correspondes to the OID domain
+for Sumero-Akkadian Cuneiform.  For Proto-Cuneiform the domain tag
+argument should be <code>pc</code>.</p>
 
 <esp:sh>Notes</esp:sh>
 

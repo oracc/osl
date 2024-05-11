@@ -1,5 +1,6 @@
 @project osl
 @signlist osl
+@domain sl
 
 @inote CC0: osl.asl and its associated files are placed in the public domain under a CC0 licence.
 
@@ -44887,9 +44888,8 @@
 @list	RSP136
 @uname	CUNEIFORM SIGN UN GUNU
 @list	U+12327
-@umap KALAM@g
-@unote Until the glyph swap happens the KALAM glyph needs to come from U+12326.
 @ucun	𒌧
+@unote This glyph may appear incorrect in the OSL source but should be correct in the web display which uses the swapped font.
 @uage	5.0
 @v	kalam
 @v	kalama
@@ -44902,6 +44902,9 @@
       with respect to Unicode 5.0..15.1, and a formal alias corrects the name of
       UN GUNU to KALAM.  Further review of the various lists is necessary and
       most periods will need to treat KALAM and KALAM@g as a merger.
+@note OSL uses a webfont which is a version of NotoSansCuneiform with
+      the KALAM/KALAM@g glyphs swapped by Robin Leroy to conform to
+      the new definition.
 @end sign
 
 @sign KALAM@g
@@ -44911,9 +44914,8 @@
 @list	MZL501
 @uname	CUNEIFORM SIGN UN
 @list	U+12326
-@umap KALAM
-@unote Until the glyph swap happens the KALAM@g glyph needs to come from U+12327.
 @ucun	𒌦
+@unote This glyph may appear incorrect in the OSL source but should be correct in the web display which uses the swapped font.
 @uage	5.0
 @v	kalamₓ
 @v	u₁₂
