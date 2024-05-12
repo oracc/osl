@@ -88,10 +88,11 @@
 	  z</code>.</p>
 	</li>
 
-	<li>Compare INDEX: subscript digits are
-	mapped to ASCII digits and the sequence is converted to an
-	integer; subscript <code>x</code> has an INDEX value of
-	1000.</li>
+	<li>Compare INDEX: subscript digits are mapped to ASCII digits
+	and the sequence is converted to an integer; subscript
+	<code>x</code> has an INDEX value of 1000. Graphemes with no
+	explicit index have INDEX=0 so that X and X₁ sort as
+	expected.</li>
 
 	<li>
 
@@ -154,7 +155,7 @@
       
       <esp:sh>Graphemes with Numeric Multipliers like |3×AN|</esp:sh>
 
-      <p>Multipler graphemes have special treatment and are sorted as
+      <p>Multiplier graphemes have special treatment and are sorted as
       though they were REPEAT(GRAPHEME), like numbers but with
       TYPE=0. In addition, a NULL delimiter is added after the
       multiplier grapheme to ensure that it sorts after the base
