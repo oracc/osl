@@ -58,7 +58,7 @@
 
       <p>Sorting is carried out with the C library <code>qsort</code>y
       function which compares two items at a time. The comparison
-      routine, <code>gsort_cmp</code> is in <esp:link
+      routine, <code>gsort_cmp</code>, is in Oracc II's <esp:link
       url="https://github.com/oracc/oracc2/blob/main/lib/gdl/gsort.c">lib/gdl/gsort.c</esp:link>.</p>
 
       <p>Comparing items steps through the segments and when two
@@ -115,9 +115,9 @@
 
 	<li>Compare REPEAT</li>
 
-	<li>If this point is reached the graphemes are the same; if
-	they differ in letter case then lower case is sorted before
-	upper.</li>
+	<li>If this point is reached the items are the same when
+	lowercased; if they differ in letter case then lower case is
+	sorted before upper.</li>
       </ol>
 
       <esp:sh>Punctuation in Sorting</esp:sh>
