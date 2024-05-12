@@ -58,7 +58,7 @@
 	integer; -1 is a flag value for no repeater.</dd>
 
 	<dt>SUFFIX</dt><dd>For list-patterned graphemes only; see
-	<esp:link bookmark="h_listpatternedgraphemes">the description
+	<esp:link bookmark="h_listygraphemes">the description
 	below</esp:link>.</dd>
       </dl>
 
@@ -168,7 +168,7 @@
       as sequences with the value and sign separated by a NULL
       delimiter.</p>
       
-      <esp:sh>Graphemes with Numeric Multipliers like |3×AN|</esp:sh>
+      <esp:sh>Multipliers Graphemes</esp:sh>
 
       <p>Multiplier graphemes have special treatment and are sorted as
       though they were REPEAT(GRAPHEME), like numbers but with
@@ -177,17 +177,17 @@
       grapheme.  This means that <code>|3×AN|</code> sorts immediately
       after AN, for example.</p>
 
-      <esp:sh>List-patterned Graphemes</esp:sh>
+      <esp:sh>Listy Graphemes</esp:sh>
 
       <p>List numbers are segmented slightly differently from regular
       graphemes although they have the same type. The sort algorithm
       considers and grapheme that fails the number-pattern test but
-      contains 1 or more ASCII digits to be a "list". The part before
-      the digits becomes BASE; the digits are converted to an integer
-      and the index is set to 10000+the integer result of the digit
-      conversion.  If anything follows the digits it becomes the
-      SUFFIX segment. A list name could also potentially have MODS,
-      e.g., <code>LAK001a@c</code>.</p>
+      contains 1 or more ASCII digits to be a "list", or listy
+      grapheme. The part before the digits becomes BASE; the digits
+      are converted to an integer and the index is set to 10000+the
+      integer result of the digit conversion.  If anything follows the
+      digits it becomes the SUFFIX segment. A list name could also
+      potentially have MODS, e.g., <code>LAK001a@c</code>.</p>
 
       <esp:sh>Mixed Number/Non-Number Compounds</esp:sh>
 
