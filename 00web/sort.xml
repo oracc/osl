@@ -127,7 +127,7 @@
 
       <esp:sh>Numbers in Sorting</esp:sh>
 
-      <p>Two broad categories of sign have TYPE 2, number:</p>
+      <p>Three categories of sign have TYPE 2, number:</p>
 
       <ul>
 	<li>an upper or lower case <code>N/n</code> followed by
@@ -141,6 +141,7 @@
 	padded with leading zeroes, so they must be compared as
 	integers in order for 1(N01) and 10(N01) to sort
 	correctly.</li>
+	<li>The fraction graphemes F₃ etc.</li>
       </ul>
 
       <p>Because numbers are compared with BASE first and REPEAT last,
