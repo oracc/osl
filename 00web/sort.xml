@@ -168,7 +168,7 @@
       as sequences with the value and sign separated by a NULL
       delimiter.</p>
       
-      <esp:sh>Multipliers Graphemes</esp:sh>
+      <esp:sh>Multiplier Graphemes</esp:sh>
 
       <p>Multiplier graphemes have special treatment and are sorted as
       though they were REPEAT(GRAPHEME), like numbers but with
