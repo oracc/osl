@@ -10,7 +10,9 @@
       sorting algorithm which is defined in the the GDL library.  The
       same sort is used by PCSL and in sorting transliteration
       fragments such as the grammatical bases in Sumerian glossary
-      articles.</p>
+      articles.  A separate page gives the reference version of the
+      <esp:link url="/osl/signlist/SortOrder/">OSL sort
+      order</esp:link>.</p>
 
       <p>A <code>sequence</code> is one or more graphemes which are
       normally separated by delimiters. In the normal case, a
@@ -141,7 +143,7 @@
 	padded with leading zeroes, so they must be compared as
 	integers in order for 1(N01) and 10(N01) to sort
 	correctly.</li>
-	<li>The fraction graphemes F₃ etc.</li>
+	<li>The fraction graphemes F₁, F₂, etc.</li>
       </ul>
 
       <p>Because numbers are compared with BASE first and REPEAT last,
