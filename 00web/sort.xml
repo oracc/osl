@@ -159,6 +159,9 @@
       all of the numbers with the same GRAPHEME are grouped
       together--1(N01), 2(N02) etc., then 1(N01@f) and so on.</p>
 
+      <p>See also the section on mixed number/non-number compounds
+      below.</p>
+
       <esp:sh>Qualified Graphemes</esp:sh>
 
       <p>Qualified graphemes such as <code>ašₓ(AB)</code> are treated
@@ -185,6 +188,20 @@
       conversion.  If anything follows the digits it becomes the
       SUFFIX segment. A list name could also potentially have MODS,
       e.g., <code>LAK001a@c</code>.</p>
+
+      <esp:sh>Mixed Number/Non-Number Compounds</esp:sh>
+
+      <p>In Proto-Cuneiform there are compounds such as |1(N57).ŠAH₂|
+      which are considered as non-numbers for the purposes of Unicode
+      PC and which are sorted by the Oracc sort in the regular
+      grapheme block rather than the number block.</p>
+
+      <p>This is done by coercing the type of the first
+      <code>sort-item</code> to 0, regular grapheme, but leaving the
+      rest of the segments the same. The BASE is then N57, which sorts
+      before NA; the group of N57.X compounds is kept together in the
+      sorted sequence because the number-like BASE-then-REPEAT
+      sorting is still obeyed.</p>
       
     </body>
   </html>
