@@ -23,15 +23,17 @@
       and before the determinative for postposed
       determinatives. Following normal disciplinary practice,
       determinatives are ignored when sorting so no
-      <code>sort-item</code>.</p>
+      <code>sort-item</code> is created for determinatives--any
+      preceding or following delimiters are added to the list of
+      <code>sort-items</code>.</p>
 
-      <p>The algorithm works by splitting a <code>sort-time</code>
+      <p>The algorithm works by splitting a <code>sort-item</code>
       into segments and comparing the segments in turn. The segments
       are:</p>
 
       <dl>
 
-	<dt>GRAPHEME</dt><dd>The original grapheme or delimiter.</dd>
+	<dt>TEXT</dt><dd>The original grapheme or delimiter.</dd>
 
 	<dt>TYPE</dt><dd>An integer which is 0 for regular graphemes
 	and for delimiters; 1 for punctuation; 2 for numbers.</dd>
@@ -54,9 +56,12 @@
       </dl>
 
       <p>Sorting is carried out with the C library <code>qsort</code>
-      function which compares two items at a time. Wwhen two segments
-      compare different (including where one grapheme has the
-      segment and the other does not) comparison stops and a result is
+      function which compares two items at a time. The controller
+      routine is <esp:link
+      url="https://raw.githubusercontent.com/oracc/oracc2/main/lib/gdl/gsort.c">available
+      in the oracc2 github repository</esp:link>. When two segments
+      compare different (including where one grapheme has the segment
+      and the other does not) comparison stops and a result is
       returned. The steps are:</p>
 
       <ol>
@@ -67,13 +72,14 @@
 
 	<li>
 
-	  <p>Compare KEY letter-by-letter.</p>
+	  <p>Compare KEY character by character.</p>
 
 	  <p>Delimiters sort before letters. The character order for
 	  delimiters puts the delimiters that separate juxtaposed
 	  signs first, and those which represent integrative
 	  relationships second: <code> SPACE - . + : @ × &amp; %
-	  </code>.</p>
+	  </code>. The algorithm also uses NULL delimiters to
+	  influence sort order in a few cases.</p>
 
 	  <p>The letter order for graphemes is: <code> ʾ a b c
 	  d e f g ŋ h ḫ i j k l m n o p q r s ś š ṣ t ṭ u v w x y
@@ -138,12 +144,20 @@
       all of the numbers with the same GRAPHEME are grouped
       together--1(N01), 2(N02) etc., then 1(N01@f) and so on.</p>
 
+      <esp:sh>Qualified Graphemes</esp:sh>
+
+      <p>Qualified graphemes such as <code>ašₓ(AB)</code> are treated
+      as sequences with the value and sign separated by a NULL
+      delimiter.</p>
+      
       <esp:sh>Graphemes with Numeric Multipliers like |3×AN|</esp:sh>
 
       <p>Multipler graphemes have special treatment and are sorted as
-      though they were REPEAT(GRAPHEME), like numbers but with TYPE=0.
-      This means that <code>|3×AN|</code> sorts immediately after
-      AN.</p>
+      though they were REPEAT(GRAPHEME), like numbers but with
+      TYPE=0. In addition, a NULL delimiter is added after the
+      multiplier grapheme to ensure that it sorts after the base
+      grapheme.  This means that <code>|3×AN|</code> sorts immediately
+      after AN, for example.</p>
       
     </body>
   </html>
