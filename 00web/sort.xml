@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
-  <esp:name>Sort</esp:name>
+  <esp:name>Sorting</esp:name>
   <esp:title>Oracc Grapheme Sorting</esp:title>
   <html>
     <head/>
@@ -12,38 +12,42 @@
       fragments such as the grammatical bases in Sumerian glossary
       articles.</p>
 
-      <p>The algorithm works by splitting a grapheme into segments and
-      comparing the segments in turn. The segments are:</p>
+      <p>A <code>sequence</code> is one or more graphemes which are
+      normally separated by delimiters. In the normal case, a
+      <code>sort-item</code> is created for each grapheme or delimiter
+      and added to the list of <code>sort-items</code> that represents
+      the <code>sequence</code>.</p>
+
+      <p>The exception is that determinatives do not have a delimiter
+      on one side--after the determinative for preposed determinatives
+      and before the determinative for postposed
+      determinatives. Following normal disciplinary practice,
+      determinatives are ignored when sorting so no
+      <code>sort-item</code>.</p>
+
+      <p>The algorithm works by splitting a <code>sort-time</code>
+      into segments and comparing the segments in turn. The segments
+      are:</p>
 
       <dl>
 
-	<dt>GRAPHEME</dt><dd>The original grapheme.</dd>
+	<dt>GRAPHEME</dt><dd>The original grapheme or delimiter.</dd>
 
-	<dt>TYPE</dt><dd>An integer which is 0 for regular graphemes; 1
-	for punctuation; 2 for numbers.  This feature means that in a
-	list of signs, regular graphemes sort first, punctuation
-	follow in their own block, and numbers are at the end in their
-	own block.</dd>
+	<dt>TYPE</dt><dd>An integer which is 0 for regular graphemes
+	and for delimiters; 1 for punctuation; 2 for numbers.</dd>
 
 	<dt>BASE</dt><dd>The grapheme stripped of subscript digits or
 	modifiers and lowercased.</dd>
 
 	<dt>KEY</dt><dd><p>The BASE passed through Oracc's grapheme
-	collation sequence; the letters in KEY are remapped so that
-	characters such as <code>ŋ</code> and <code>š</code> sort
-	after <code>g</code> and <code>s</code>
-	respectively.</p>
-	<p>The letter sort sequence is: <code> ʾ a b c
-	d e f g ŋ h ḫ i j k l m n o p q r s ś š ṣ t ṭ u v w x y
-	z</code>.</p></dd>
+	collation sequence; the letters in KEY are remapped to conform
+	to the delimiter and grapheme character and letter orders.</p>
+	</dd>
 
 	<dt>MODS</dt><dd>A list of zero or more modifiers of the kind
 	expressed with <code>@</code> and <code>~</code> in ATF.</dd>
 
-	<dt>INDEX</dt><dd>The grapheme index: subscript digits are
-	mapped to ASCII digits and the sequence is converted to an
-	integer; subscript <code>x</code> has an INDEX value of
-	1000.</dd>
+	<dt>INDEX</dt><dd>The grapheme index</dd>
 
 	<dt>REPEAT</dt><dd>The repeat count for a number as an
 	integer; -1 is a flag value for no repeater.</dd>
@@ -56,23 +60,52 @@
       returned. The steps are:</p>
 
       <ol>
-	<li>Compare TYPE</li>
-	<li>Compare KEY</li>
-	<li>Compare INDEX</li>
-	<li><p>Compare MODS; each MOD is a single <code>@</code> or
-	<code>~</code> item. MODs with <code>~</code> sort before MODs
-	with <code>@</code> because the <code>~</code> indicates a
-	glyph-variant whereas a <code>@</code> indicates a new sign
-	created by modifying another sign in the ways specified by the
-	<code>@</code>-modifier.</p>
-	<p>By definition of the data-type in
-	Oracc, MODS are ASCII alphanumeric sequences matching
-	<code>[~@][a-z0-9]+</code>. They are normally compared with a
-	simple string comparison so they sort in simple alphabetic
-	order, but an exception is made for the modifiers that consist
-	entirely of digits <code>0..9</code> such as <code>@90</code>,
-	etc.  These are sorted in numeric sequence.</p></li>
+	<li>Compare TYPE: the type values mean mean that in a list of
+	signs, regular graphemes sort first, punctuation follows in
+	its own block, and numbers are at the end in their own
+	block.</li>
+
+	<li>
+
+	  <p>Compare KEY letter-by-letter.</p>
+
+	  <p>Delimiters sort before letters. The character order for
+	  delimiters puts the delimiters that separate juxtaposed
+	  signs first, and those which represent integrative
+	  relationships second: <code> SPACE - . + : @ × &amp; %
+	  </code>.</p>
+
+	  <p>The letter order for graphemes is: <code> ʾ a b c
+	  d e f g ŋ h ḫ i j k l m n o p q r s ś š ṣ t ṭ u v w x y
+	  z</code>.</p>
+	</li>
+
+	<li>Compare INDEX: subscript digits are
+	mapped to ASCII digits and the sequence is converted to an
+	integer; subscript <code>x</code> has an INDEX value of
+	1000.</li>
+
+	<li>
+
+	  <p>Compare MODS; each MOD is a single <code>@</code> or
+	  <code>~</code> item. MODs with <code>~</code> sort before
+	  MODs with <code>@</code> because the <code>~</code>
+	  indicates a glyph-variant whereas a <code>@</code> indicates
+	  a new sign created by modifying another sign in the ways
+	  specified by the <code>@</code>-modifier.</p>
+
+	  <p>By definition of the data-type in Oracc, MODS are ASCII
+	  alphanumeric sequences matching
+	  <code>[~@][a-z0-9]+</code>. They are normally compared with
+	  a simple string comparison so they sort in simple alphabetic
+	  order, but an exception is made for the modifiers that
+	  consist entirely of digits <code>0..9</code> such as
+	  <code>@90</code>, etc.  These are sorted in numeric
+	  sequence.</p>
+	</li>
+
 	<li>Compare REPEAT</li>
+
 	<li>If this point is reached the graphemes are the same; if
 	they differ in letter case then lower case is sorted before
 	upper.</li>
