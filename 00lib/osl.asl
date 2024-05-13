@@ -25420,6 +25420,7 @@
 @v	lemₓ
 @v	lim₃
 @v	lugₓ
+@v	lum₄
 @link eBL LAM https://www.ebl.lmu.de/signs/LAM
 @link Wikidata Q87556001 http://www.wikidata.org/entity/Q87556001
 @end sign
