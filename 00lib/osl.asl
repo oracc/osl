@@ -6781,6 +6781,7 @@
 @end sign
 
 @sign DIŠ
+@aka 1(DIŠ)
 @oid	o0000145
 @list	ABZL390
 @list	HZL356
