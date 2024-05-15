@@ -48319,16 +48319,19 @@
 @end sign
 
 @sign |1(DIŠ).1(BAN₂)|
+@useq x12079.x1244F
 @v 7(ban₂)
 @note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @end sign
 
 @sign |1(DIŠ).2(BAN₂)|
+@useq x12079.x12450
 @v 8(ban₂)
 @note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @end sign
 
 @sign |1(DIŠ).3(BAN₂)|
+@useq x12079.x12451
 @v 9(ban₂)
 @note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @end sign
