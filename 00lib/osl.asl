@@ -6795,6 +6795,8 @@
 @v	anₓ
 @v	ana
 @v	aš₁₀
+@v	6(ban₂)
+@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @v	barig
 @v	1(barig)
 @v	1(bariga)
@@ -7950,6 +7952,7 @@
 @v	dugud
 @v	duguda
 @v	dukudₓ
+@v	geₓ
 @v	gi₂₅?
 @v	ŋi₂₅
 @v	kaptu
@@ -8821,6 +8824,7 @@
 @v	eŋera
 @v	eŋir
 @v	lumhaₓ
+@v	sangaₓ
 @v	tum₁₃
 @v	zibₓ
 @link eBL EGIR https://www.ebl.lmu.de/signs/EGIR
@@ -18182,6 +18186,7 @@
 @v	dubsig
 @v	dubsik
 @v	dupsik
+@v	dunₓ
 @v	dusi
 @v	dussu
 @v	dusu
@@ -23952,6 +23957,7 @@
 @list	U+121C7
 @ucun	𒇇
 @uage	5.0
+@v	dabₓ
 @v	dibₓ
 @v	gana₄
 @v	ganam₄
@@ -31282,6 +31288,7 @@
 @ucun	𒉌
 @uage	5.0
 @v	ʾa₅
+@v	aₓ
 @v	be₃
 @v	bu₁₆
 @v	deₓ
@@ -35187,6 +35194,7 @@
 
 @sign REC107
 @oid	o0000512
+@v	sangaₓ
 @inote	check LAK etc., etc.; merge with SANGA₂?
 @link eBL REC107 https://www.ebl.lmu.de/signs/REC107
 @end sign
@@ -37038,6 +37046,7 @@
 @v	su₄
 @v	%akk śi₂
 @v	%akk śu₂
+@v	šiₓ
 @v	usan₄
 @link eBL SI@g https://www.ebl.lmu.de/signs/SI@g
 @link Wikidata Q87556439 http://www.wikidata.org/entity/Q87556439
@@ -38822,6 +38831,7 @@
 @oid	o0002724
 @useq	x122BA.x12247
 @ucun	𒊺𒉇
+@v	susₓ
 @v	šušₓ
 @v	šušinₓ
 @link eBL |ŠE.NAM₂| https://www.ebl.lmu.de/signs/|ŠE.NAM₂|
@@ -42436,6 +42446,7 @@
 @v	suhušₓ
 @v	šak₇
 @v	šir₆
+@v	tirₓ
 @v	tu₁₉?
 @v	tul₄
 @v	tur
@@ -48306,6 +48317,21 @@
 @@
 @end sign
 
+@sign |1(DIŠ).1(BAN₂)|
+@v 7(ban₂)
+@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
+@end sign
+
+@sign |1(DIŠ).2(BAN₂)|
+@v 8(ban₂)
+@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
+@end sign
+
+@sign |1(DIŠ).3(BAN₂)|
+@v 9(ban₂)
+@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
+@end sign
+
 @sign 2(DIŠ@t)
 @oid	o0000014
 @list	RSP039
@@ -49126,13 +49152,6 @@
 @inote	@ucode	xebc1
 @v	5(ban₂@c)
 @@
-@end sign
-
-@sign 6(BAN₂)
-@oid	o0038005
-@inote	For Sultantepe admin, where it occurs twice in cams/gkab; 
-	not clear that it should exist but I don't know STT metrology 
-	so this is a place-holder.
 @end sign
 
 @sign 4(BAN₂@v)
