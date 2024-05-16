@@ -180,7 +180,7 @@
       <esp:sh>Listy Graphemes</esp:sh>
 
       <p>List numbers are segmented slightly differently from regular
-      graphemes although they have the same type. The sort algorithm
+      graphemes although they have the same TYPE (i.e., 0). The sort algorithm
       considers any grapheme that fails the number-pattern test but
       contains 1 or more ASCII digits to be a "list", or listy
       grapheme. The part before the digits becomes BASE; the digits
