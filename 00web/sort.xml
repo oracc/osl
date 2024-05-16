@@ -181,10 +181,10 @@
 
       <p>List numbers are segmented slightly differently from regular
       graphemes although they have the same type. The sort algorithm
-      considers and grapheme that fails the number-pattern test but
+      considers any grapheme that fails the number-pattern test but
       contains 1 or more ASCII digits to be a "list", or listy
       grapheme. The part before the digits becomes BASE; the digits
-      are converted to an integer and the index is set to 10000+the
+      are converted to an integer and the INDEX is set to 10000 + the
       integer result of the digit conversion.  If anything follows the
       digits it becomes the SUFFIX segment. A list name could also
       potentially have MODS, e.g., <code>LAK001a@c</code>.</p>
