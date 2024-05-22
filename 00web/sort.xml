@@ -62,7 +62,7 @@
 	below</esp:link>.</dd>
       </dl>
 
-      <p>Sorting is carried out with the C library <code>qsort</code>y
+      <p>Sorting is carried out with the C library <code>qsort</code>
       function which compares two items at a time. The comparison
       routine, <code>gsort_cmp</code>, is in Oracc II's <esp:link
       url="https://github.com/oracc/oracc2/blob/main/lib/gdl/gsort.c">lib/gdl/gsort.c</esp:link>.</p>
