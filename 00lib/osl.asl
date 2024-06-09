@@ -9648,22 +9648,15 @@
 @list	U+1209F
 @ucun	𒂟
 @uage	5.0
-@v	%elx bir₃
 @v	erem
 @v	eren₂
 @v	erena₂
 @v	erim
 @v	erin₂
 @v	erina₂
-@v	hiš₃
-@v	lah₂
-@v	lih₂
 @v	nura
 @v	nuri
 @v	nuru
-@v	par₅
-@v	per₂
-@v	pir₂
 @v	rin₂
 @v	rina₂
 @v	sap₂
@@ -9673,8 +9666,6 @@
 @v	ṣap
 @v	ṣapa
 @v	%akk/n ṣābu
-@v	tam₅
-@v	udaₓ
 @v	zab
 @v	zalag₂
 @v	zap
@@ -34843,10 +34834,20 @@
 
 @sign PIR₂
 @oid	o0032009
+@list	MZL613
 @uname	CUNEIFORM SIGN PIR2
 @list	U+12395
 @ucun	𒎕
 @uage	7.0
+@v	%elx bir₃
+@v	hiš₃
+@v	lah₂
+@v	lih₂
+@v	par₅
+@v	per₂
+@v	pir₂
+@v	tam₅
+@v	udaₓ
 @link eBL PIR₂ https://www.ebl.lmu.de/signs/PIR₂
 @link Wikidata Q87556818 http://www.wikidata.org/entity/Q87556818
 @end sign
