@@ -6191,10 +6191,17 @@
 
 @sign DAG₃
 @oid	o0032005
+@list	MZL386
 @uname	CUNEIFORM SIGN DAG3
 @list	U+12374
 @ucun	𒍴
 @uage	7.0
+@v	dag₃
+@v	dak₃
+@v	daq₃
+@v	par₇
+@v	tak₃
+@v	taq₃
 @link eBL DAG₃ https://www.ebl.lmu.de/signs/DAG₃
 @link Wikidata Q87556748 http://www.wikidata.org/entity/Q87556748
 @end sign
@@ -31419,15 +31426,9 @@
 @v	%akk abnu
 @v	atumₓ
 @v	bar₄
-@v	dag₃
-@v	dak₃
-@v	daq₃
 @v	i₄
 @v	ia₄
 @v	na₄
-@v	par₇
-@v	tak₃
-@v	taq₃
 @v	ya₄
 @v	za₂
 @link Wikidata Q87556803 http://www.wikidata.org/entity/Q87556803
