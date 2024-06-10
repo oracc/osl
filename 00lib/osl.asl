@@ -22830,6 +22830,7 @@
 @uage	5.0
 @v	gu₉
 @v	gul₂
+@v	ŋu₉
 @v	ku₉
 @v	kul
 @v	kula
