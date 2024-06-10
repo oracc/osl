@@ -21018,6 +21018,7 @@
 @ucun	𒆚
 @uage	5.0
 @v	eriš₇
+@v	kam~v
 @v	kam₂
 @v	qamaₓ
 @v	udul₇
