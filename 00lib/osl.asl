@@ -31022,6 +31022,8 @@
 @v	gibil₄
 @v	gir₁₀
 @v	gum₃
+@v	ŋe₉
+@v	ŋi₉
 @v	ibbi₂
 @v	izi
 @v	izu
