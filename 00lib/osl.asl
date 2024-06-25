@@ -32752,6 +32752,7 @@
 @link eBL |NUN.LAGAR×SAL| https://www.ebl.lmu.de/signs/|NUN.LAGAR×SAL|
 @link Wikidata Q87556218 http://www.wikidata.org/entity/Q87556218
 @form |DIŠ+NUN.LAGAR|
+@aka	|DIŠ+(NUN.LAGAR)|
 @oid	o0069957
 @useq	x12079.x12263.x121EC
 @ucun	𒁹𒉣𒇬
