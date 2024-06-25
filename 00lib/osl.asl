@@ -39954,6 +39954,10 @@
 @lit	Civil Ebla 1975-1985, 155
 @link Wikidata Q87557135 http://www.wikidata.org/entity/Q87557135
 @@
+@form |TA×IGI@g|
+@oid	o0221885
+@v	šembiₓ
+@@
 @form ŠIM
 @oid	o0002838
 @list	BAU353
@@ -41221,16 +41225,6 @@
 @sign |TA×IGI@g|
 @oid	o0221885
 @v	sukudₓ
-@v	šembiₓ
-@form |DUG×IGI@g|
-@oid	o0001021
-@inote	list LAKXXX
-@uname	CUNEIFORM SIGN DUG TIMES IGI GUNU
-@list	U+12499
-@ucun	𒒙
-@uage	8.0
-@link Wikidata Q87557135 http://www.wikidata.org/entity/Q87557135
-@@
 @end sign
 
 @sign |TA×MI|
