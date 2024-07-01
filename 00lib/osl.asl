@@ -10301,6 +10301,8 @@
 @link eBL |EZEN×BAD.AN| https://www.ebl.lmu.de/signs/|EZEN×BAD.AN|
 @@
 @form |EZEN×BAD.GAL.AN|
+@useq  x120A6.x120F2.x1202D
+@ucun	𒂦𒃲𒀭
 @v	derₓ
 @@
 @end sign
@@ -18094,6 +18096,7 @@
 @v	ugarₓ
 @v	ugur₂
 @v	ukur₅
+@v	zeₓ
 @v	ziₓ
 @link eBL IGI@g https://www.ebl.lmu.de/signs/IGI@g
 @link Wikidata Q87555649 http://www.wikidata.org/entity/Q87555649
@@ -47873,6 +47876,7 @@
 @useq	x1236E.x122DB
 @ucun	𒍮𒋛
 @v	garig₃
+@v	rigₓ
 @note	form attested in Ur III.
 @@
 @end sign
