@@ -14595,6 +14595,7 @@
 @oid	o0001371
 @useq	x12111.x12157.x12193
 @ucun	𒄑𒅗𒆓
+@v	kageškaraₓ
 @v	kaŋeškaraₓ
 @link eBL |GIŠ.KA.KAD₅| https://www.ebl.lmu.de/signs/|GIŠ.KA.KAD₅|
 @end sign
@@ -27399,14 +27400,6 @@
 @link eBL |LU₂.EN| https://www.ebl.lmu.de/signs/|LU₂.EN|
 @end sign
 
-@sign |LU₂.GAM|
-@oid	o0001936
-@useq	x121FD.x120F5
-@ucun	𒇽𒃵
-@v	addaₓ
-@link eBL |LU₂.GAM| https://www.ebl.lmu.de/signs/|LU₂.GAM|
-@end sign
-
 @sign |LU₂.HI×BAD|
 @oid	o0001939
 @useq	x121FD.x12130
@@ -28091,6 +28084,7 @@
 @ucun	𒈕
 @uage	5.0
 @v	ad₇
+@v	addaₓ
 @inote	CDLI
 @v	dim₃
 @v	irina₃
@@ -28110,7 +28104,6 @@
 @oid	o0001936
 @useq	x121FD.x120F5
 @ucun	𒇽𒃵
-@v	ad₇
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 21
 @link eBL |LU₂.GAM| https://www.ebl.lmu.de/signs/|LU₂.GAM|
 @@
@@ -44825,7 +44818,7 @@
 @form |UR₂×TAK₄|
 @oid	o0002594
 @aka	|UR₂×KID₂|
-@inote @v	umbin
+@v	umbin
 @@
 @end sign
 
