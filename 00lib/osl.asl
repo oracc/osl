@@ -13083,10 +13083,6 @@
 @v	he₂
 @inote	Nisaba 25
 @@
-@form LAK062
-@oid	o0031504
-@inote	this is AŠ+GAN taken as allograph of GAN in DCCLT ED Fara pots
-@@
 @end sign
 
 @sign |GAN.SU|
@@ -42922,6 +42918,7 @@
 @oid	o0018530
 @list	ELLES038
 @list	LAK062
+@inote	this is AŠ+GAN taken as allograph of GAN in DCCLT ED Fara pots but perhaps better to take as allograph of U.GAN
 @uname	CUNEIFORM SIGN LAK62
 @list	U+124DB
 @ucun	𒓛
