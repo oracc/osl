@@ -3514,8 +3514,8 @@
 @v	dur₃
 @v	duru₃
 @inote Moved to GIR₃.ARAD::ANŠE.ARAD šaggin/šakkan₆
-@v	šagginₓ
-@v	šakkan₆
+@inote @v	šagginₓ
+@inote @v	šakkan₆
 @link eBL |ANŠE.ARAD| https://www.ebl.lmu.de/signs/|ANŠE.ARAD|
 @form |ARAD.ANŠE|
 @oid	o0000840
