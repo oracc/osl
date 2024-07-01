@@ -31223,7 +31223,7 @@
 @form |NE.PAP.GIŠ~v|
 @aka |GIŠ.PAP.BAU377|
 @oid	o0038089
-@useq	x12248.X
+@useq	x12248.x1227D.X
 @ucun	𒉈𒉽X
 @v	bilₓ
 @inote	ed12
@@ -38865,6 +38865,7 @@
 @end sign
 
 @sign |ŠE.NAGA@180|
+@useq x122BA.x12241
 @inote epsd2 admin/names FN; variant of ŠE.NAGA?
 @end sign
 
