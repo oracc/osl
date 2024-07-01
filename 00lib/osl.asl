@@ -45457,10 +45457,12 @@
 @v	uru₁₉
 @link eBL URI https://www.ebl.lmu.de/signs/URI
 @link Wikidata Q87556612 http://www.wikidata.org/entity/Q87556612
-@form LAK125
-@oid	o0025671
+@form URI@n
+@oid	o0000580
 @list	LAK125
-@inote	perhaps describable as URI@n
+@inote	CDLI ed3b
+@link eBL URI@n https://www.ebl.lmu.de/signs/URI@n
+@v	uriₓ
 @@
 @form LAK647
 @oid	o0025783
@@ -45472,12 +45474,6 @@
 @list	RSP380bis
 @inote	cp LAK576 which is similar but not identical
 @@
-@end sign
-
-@sign URI@n
-@oid	o0000580
-@inote	CDLI ed3b
-@link eBL URI@n https://www.ebl.lmu.de/signs/URI@n
 @end sign
 
 @sign URI₃
