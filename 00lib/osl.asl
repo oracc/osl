@@ -31222,7 +31222,7 @@
 @@
 @form |NE.PAP.GIŠ~v|
 @aka |GIŠ.PAP.BAU377|
-@oid	o0037791
+@oid	o0038089
 @useq	x12248.X
 @ucun	𒉈𒉽X
 @v	bilₓ
