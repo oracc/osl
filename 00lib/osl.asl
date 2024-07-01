@@ -32913,6 +32913,12 @@
 @ucun	𒉣𒈨𒀖𒁺
 @v	abrig₂
 @@
+@form |AB₂.NUN.ME|
+@oid	o0038094
+@useq	x12016.x12263.x12228
+@ucun	𒀖𒉣𒈨
+@v	abrig₂
+@@
 @end sign
 
 @sign |NUN.ME.EZEN.GUM|
