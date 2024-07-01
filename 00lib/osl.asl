@@ -44818,7 +44818,8 @@
 @form |UR₂×TAK₄|
 @oid	o0002594
 @aka	|UR₂×KID₂|
-@v	umbin
+@v	umbinₓ
+@inote umbin or umbinₓ?
 @@
 @end sign
 
