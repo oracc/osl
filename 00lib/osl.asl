@@ -10300,6 +10300,9 @@
 @v	%akk/n dūru
 @link eBL |EZEN×BAD.AN| https://www.ebl.lmu.de/signs/|EZEN×BAD.AN|
 @@
+@form |EZEN×BAD.GAL.AN|
+@v	derₓ
+@@
 @end sign
 
 @sign |(EZEN×BAD)@s|
