@@ -16867,6 +16867,7 @@
 @end sign
 
 @sign |HI×U|
+
 @v 	ellaŋₓ
 @end sign
 
@@ -18573,6 +18574,7 @@
 @v	mermer₃
 @v	mermeri₃
 @v	nimgigre
+@v	nimgirgireₓ
 @v	rad₂
 @ref	SpTU 1, 83 = cdli:P348504 r 8, ti#-ik-ki ki-rad₂ : ki-ša₂-du ki-ra-du
 @lit	MZL p.389
@@ -26589,6 +26591,7 @@
 @list	U+12506
 @ucun	𒔆
 @uage	8.0
+@v	gublagaₓ
 @link eBL |LAK617×LA| https://www.ebl.lmu.de/signs/|LAK617×LA|
 @link Wikidata Q87557350 http://www.wikidata.org/entity/Q87557350
 @end sign
@@ -29231,6 +29234,7 @@
 @v	mis
 @v	miš
 @v	miṣ
+@v	pisaŋₓ
 @v	red
 @v	ret
 @v	rid
@@ -32072,6 +32076,7 @@
 @end sign
 
 @sign |NINDA₂×(PAP.PAP)|
+@aka |NINDA₂×BULUG₃|
 @oid	o0002086
 @list	LAK113
 @uname	CUNEIFORM SIGN NINDA2 TIMES PAP PLUS PAP
@@ -33981,6 +33986,8 @@
 @end sign
 
 @sign |PA.LAGAB×(GUD&GUD)|
+@aka |PA+(LAGAB×GUD&GUD)|
+@aka |PA.(LAGAB×GUD&GUD)|
 @oid	o0002195
 @pname	|PA.LAGAB×GUD+GUD|
 @useq	x1227A.x121C7
@@ -42016,6 +42023,7 @@
 @link eBL TE@g https://www.ebl.lmu.de/signs/TE@g
 @link Wikidata Q87556495 http://www.wikidata.org/entity/Q87556495
 @form LAK051
+@aka LAK51
 @oid	o0031506
 @list	LAK051
 @uname	CUNEIFORM SIGN LAK51
