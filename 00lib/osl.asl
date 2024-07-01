@@ -1779,6 +1779,7 @@
 @list	U+1200F
 @ucun	𒀏
 @uage	5.0
+@v	agarinₓ
 @v	aŋarinₓ
 @v	nanše
 @v	našše
@@ -1888,8 +1889,9 @@
 @list	U+12013
 @ucun	𒀓
 @uage	5.0
-@v-	ze₄
+@inote @v-	ze₄
 @inote	dupfix ze₄ not in MZL; Attinger ze₄(ZA)
+@v	zeₓ
 @v	zi₄
 @link eBL |AB×ŠEŠ| https://www.ebl.lmu.de/signs/|AB×ŠEŠ|
 @link Wikidata Q87555034 http://www.wikidata.org/entity/Q87555034
@@ -3511,6 +3513,7 @@
 @v	du₂₅
 @v	dur₃
 @v	duru₃
+@inote Moved to GIR₃.ARAD::ANŠE.ARAD šaggin/šakkan₆
 @v	šagginₓ
 @v	šakkan₆
 @link eBL |ANŠE.ARAD| https://www.ebl.lmu.de/signs/|ANŠE.ARAD|
@@ -4409,6 +4412,7 @@
 @useq	x12041.x121FD
 @ucun	𒁁𒇽
 @v	adₓ
+@v	addaₓ
 @link eBL |BAD.LU₂| https://www.ebl.lmu.de/signs/|BAD.LU₂|
 @end sign
 
@@ -5988,6 +5992,7 @@
 @v	haraₓ
 @v	kisim₃
 @v	ua₄
+@v	uburₓ
 @v	udul₃
 @v	utua₂
 @v	utul₃
@@ -12009,7 +12014,8 @@
 @link Wikidata Q87555428 http://www.wikidata.org/entity/Q87555428
 @end sign
 
-@sign |GA₂×LAK175|
+@sign |GA₂×SANGA₂|
+@aka |GA₂×LAK175|
 @oid	o0031654
 @inote	addx dcclt/ebla
 @v	šangaₓ
@@ -12633,7 +12639,7 @@
 @sign |(GAD.GAR)&(GAD.GAR)|
 @oid	o0027917
 @aka	|(GADA.GAR)&(GADA.GAR)|
-@inote	gvl unknown compound
+@v	garadinₓ
 @end sign
 
 @sign |GAD.PAD.MUŠ₃|
@@ -14134,6 +14140,7 @@
 @v	šaggina
 @v	šagina
 @v	šakan₆
+@v	šakkan₆
 @v	šakkana
 @link eBL |GIR₃.ARAD| https://www.ebl.lmu.de/signs/|GIR₃.ARAD|
 @form |ANŠE.ARAD|
@@ -14571,6 +14578,7 @@
 @oid	o0022955
 @useq	x12111.x12157.x12191
 @ucun	𒄑𒅗𒆑
+@v	kageškaraₓ
 @v	kaŋeškaraₓ
 @end sign
 
@@ -14578,6 +14586,7 @@
 @oid	o0001370
 @useq	x12111.x12157.x12192
 @ucun	𒄑𒅗𒆒
+@v	kageškaraₓ
 @v	kaŋeškaraₓ
 @link eBL |GIŠ.KA.KAD₄| https://www.ebl.lmu.de/signs/|GIŠ.KA.KAD₄|
 @end sign
@@ -15167,6 +15176,7 @@
 @v	tur₄
 @v	ṭur₄
 @v	ul₃
+@v	ullu
 @v	ulul
 @link eBL |GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|GIŠ%GIŠ|
 @link Wikidata Q87555533 http://www.wikidata.org/entity/Q87555533
@@ -16849,6 +16859,10 @@
 @v	zanzana
 @link eBL |HI×ŠE| https://www.ebl.lmu.de/signs/|HI×ŠE|
 @link Wikidata Q87555606 http://www.wikidata.org/entity/Q87555606
+@end sign
+
+@sign |HI×U|
+@v 	ellaŋₓ
 @end sign
 
 @sign |HI×X|
@@ -22732,6 +22746,8 @@
 @list	REC056
 @ucun	𒇸
 @link eBL LIL https://www.ebl.lmu.de/signs/LIL
+@v	kurₓ
+@v	kuₓ
 @@
 @form REC145
 @oid	o0000298
@@ -23558,6 +23574,7 @@
 @list	U+121C9
 @ucun	𒇉
 @uage	5.0
+@v	agarinₓ
 @v	aŋarinₓ
 @v	bunig₃?
 @v	buniŋ₃?
@@ -24685,6 +24702,7 @@
 @v	bur₁₀
 @v	buruₓ
 @v	duₓ
+@v	gukinₓ
 @v	nenna₂
 @v	nenni₂
 @v	ninna₂
@@ -25663,8 +25681,6 @@
 @v	esirₓ
 @link eBL LAK173 https://www.ebl.lmu.de/signs/LAK173
 @end sign
-
-@compoundonly	LAK175
 
 @compoundonly	LAK178
 
@@ -32330,9 +32346,10 @@
 @v	nisag
 @v	nisaŋ
 @v	saₓ
-@v	sagₓ
+@v	sag₆
 @inote	dupfix MZL sag₅(ŠID)
-@v	saŋₓ
+@inote  2024-06-30 introduce value sag₆/saŋ₆ for NISAG versus sag₅/saŋ₅ for ŠID and update ePSD2 to match; collation/fixing of DCCLT etc to do.
+@v	saŋ₆
 @inote	dupfix MZL saŋ₅(ŠID)
 @v	zaₓ
 @v	zag₃
@@ -34038,6 +34055,7 @@
 @useq	x1227A.x12263.x121EC
 @ucun	𒉺𒉣𒇬
 @v	udulₓ
+@v	utulₓ
 @link eBL |PA.NUN.LAGAR| https://www.ebl.lmu.de/signs/|PA.NUN.LAGAR|
 @end sign
 
@@ -35186,6 +35204,7 @@
 @oid	o0002259
 @useq	x12290.x12224
 @ucun	𒊐𒈤
+@v	gušurₓ
 @v	ŋušurₓ
 @link eBL |RAB.MAH| https://www.ebl.lmu.de/signs/|RAB.MAH|
 @end sign
@@ -35194,6 +35213,7 @@
 @oid	o0002260
 @useq	x12290.x12309.x12309
 @ucun	𒊐𒌉𒌉
+@v	gušurₓ
 @v	ŋušurₓ
 @link eBL |RAB.TUR.TUR| https://www.ebl.lmu.de/signs/|RAB.TUR.TUR|
 @end sign
@@ -36803,7 +36823,8 @@
 @v	sangu₃
 @link eBL |IL₂.MA₂.IGI@g| https://www.ebl.lmu.de/signs/|IL₂.MA₂.IGI@g|
 @@
-@form |LAGAB×LAK175|
+@form |LAGAB×SANGA₂|
+@aka |LAGAB×LAK175|
 @oid	o0001825
 @v	saŋaₓ
 @@
@@ -38543,7 +38564,8 @@
 @inote	@v	šaru
 @inote	@v	šarʾu
 @inote	@v	1(šarʾu)
-@v	ellaŋₓ
+@inote  Moved to |HI×U| because all other ellag₀ are HI× compounds
+@inote  @v	ellaŋₓ
 @link eBL |ŠAR₂×U| https://www.ebl.lmu.de/signs/|ŠAR₂×U|
 @link Wikidata Q87555609 http://www.wikidata.org/entity/Q87555609
 @end sign
@@ -40685,9 +40707,11 @@
 @useq	x122D7.x1227D.x1227D
 @ucun	𒋗𒉽𒉽
 @v	gešba₂
+@v	gešpaₓ
 @v	gešbu₂
 @v	gešpu₂
 @v	ŋešba₂
+@v	ŋešpaₓ
 @v	ŋešbu₂
 @v	ŋešpu₂
 @sys	Attinger ŋešba₂
@@ -44801,6 +44825,7 @@
 @form |UR₂×TAK₄|
 @oid	o0002594
 @aka	|UR₂×KID₂|
+@inote @v	umbin
 @@
 @end sign
 
@@ -45843,6 +45868,8 @@
 @useq	x12347.x12038
 @ucun	𒍇𒀸
 @@
+@@form |LAK648×IGI|
+@inote for ePSD2 banšur pending further investigation
 @end sign
 
 @sign |URU×IGI@g|
