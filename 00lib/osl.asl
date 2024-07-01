@@ -10053,11 +10053,13 @@
 @end sign
 
 @sign |EŠ₂%EŠ₂.NUN|
+@aka |KIB@g.NUN|
 @oid	o0018592
 @useq	x124AC.x12263
 @ucun	𒒬𒉣
 @v	buranunaₓ
 @form |EŠ₂%EŠ₂.NUN.A|
+@aka |KIB@g.NUN.A|
 @oid	o0018591
 @useq	x124AC.x12263.x12000
 @ucun	𒒬𒉣𒀀
@@ -11888,6 +11890,8 @@
 @oid	o0221865
 @v	immaₓ
 @inote CCPo
+@v	išharaₓ
+@inote sfs--from epsd2 admin/names
 @end sign
 
 @sign |GA₂×IL₂|
@@ -14638,6 +14642,7 @@
 @oid	o0221867
 @useq	x12111.X
 @ucun	𒄑X
+@v	gešaₓ
 @v	ŋešaₓ
 @v	ummaₓ
 @@
@@ -23259,6 +23264,7 @@
 @oid	o0000304
 @inote	u3adm
 @v	erenₓ
+@v	erinₓ
 @link eBL KWU896 https://www.ebl.lmu.de/signs/KWU896
 @end sign
 
@@ -29271,6 +29277,7 @@
 @v	giggi
 @v	gigi₂
 @v	gikki
+@v	gissuₓ
 @v	ŋe₆
 @v	ŋi₆
 @v	ŋissuₓ
@@ -31207,6 +31214,14 @@
 @v	bilₓ
 @@
 @form |NE.GIŠ~v|
+@oid	o0037791
+@useq	x12248.X
+@ucun	𒉈X
+@v	bilₓ
+@inote	ed12
+@@
+@form |NE.PAP.GIŠ~v|
+@aka |GIŠ.PAP.BAU377|
 @oid	o0037791
 @useq	x12248.X
 @ucun	𒉈𒉽X
@@ -33419,6 +33434,7 @@
 @end sign
 
 @sign |NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
+@aka |NUNUZ.(KISIM₅×(GUG₂.MUNU₄))|
 @oid	o0002159
 @pname	|NUNUZ.KISIM₅×LU₃+PAP+PAP|
 @useq	x1226D.X
@@ -38848,6 +38864,10 @@
 @@
 @end sign
 
+@sign |ŠE.NAGA@180|
+@inote epsd2 admin/names FN; variant of ŠE.NAGA?
+@end sign
+
 @sign |ŠE.NAM₂|
 @oid	o0002724
 @useq	x122BA.x12247
@@ -42906,6 +42926,7 @@
 @ucun	𒓛
 @uage	8.0
 @link Wikidata Q87557264 http://www.wikidata.org/entity/Q87557264
+@v	šakan
 @@
 @form |U.GAN@s|
 @oid	o0002455
