@@ -45868,7 +45868,7 @@
 @useq	x12347.x12038
 @ucun	𒍇𒀸
 @@
-@@form |LAK648×IGI|
+@form |LAK648×IGI|
 @inote for ePSD2 banšur pending further investigation
 @end sign
 
