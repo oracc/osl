@@ -16467,6 +16467,7 @@
 @v	ar₃
 @v	ara₃
 @v	dubulₓ
+@v	duburₓ
 @v	ellaŋₓ
 @v	endibdim
 @v	ga₁₁?
