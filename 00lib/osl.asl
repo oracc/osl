@@ -205,6 +205,7 @@
 @ucun	𒀀𒀭
 @v	a₄
 @v	am₃
+@v	emₓ
 @v	še₇
 @v	šeg₃
 @v	šeŋ₃
@@ -14011,6 +14012,7 @@
 @ucun	𒍼
 @uage	7.0
 @v	ge₁₇
+@v	gebₓ
 @v	geg
 @v	gi₁₇
 @v	gib₃
@@ -14900,6 +14902,7 @@
 @v	ŋeštug₂
 @v	ŋištu₂
 @v	ŋištug₂
+@v	muštuₓ
 @v	muštugₓ
 @link eBL |GIŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI|
 @end sign
