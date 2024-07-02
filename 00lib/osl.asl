@@ -26040,6 +26040,7 @@
 @list	U+124EA
 @ucun	𒓪
 @uage	8.0
+@v	lilₓ
 @link eBL LAK343 https://www.ebl.lmu.de/signs/LAK343
 @link Wikidata Q87557297 http://www.wikidata.org/entity/Q87557297
 @end sign
@@ -44096,6 +44097,10 @@
 @oid	o0001361
 @useq	x12112.x12263
 @ucun	𒄒𒉣
+@@
+@form |A.GIŠ%GIŠ.NUN|
+@oid	o0038095
+@useq	o0000087.x12112.x12263
 @@
 @form |NUN.GIŠ%GIŠ|
 @oid	o0221904
