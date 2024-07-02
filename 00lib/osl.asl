@@ -664,6 +664,7 @@
 @useq	x12000.x121C9
 @ucun	𒀀𒇉
 @v	buniŋₓ
+@v	guninₓ
 @v	i₇
 @v	id₂
 @v	ida₂
