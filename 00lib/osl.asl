@@ -42840,6 +42840,7 @@
 @list	SLLHA470
 @useq	x1230B.x1240A
 @ucun	𒌋𒐊
+@v	sarₓ
 @v	udilia
 @v	udiliyaₓ
 @v	uia
