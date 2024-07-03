@@ -10254,6 +10254,7 @@
 @v	bat₃
 @v	bunₓ
 @v	dur₈
+@v	duri
 @v	durum
 @v	niŋbunₓ
 @v	niŋbunaₓ
@@ -32478,7 +32479,8 @@
 @list	U+12262
 @ucun	𒉢
 @uage	5.0
-@v	duri?
+@v-	duri?
+@inote deprecated duri? because it's already questionable and eCUT uses duri(BAD₃)
 @v	enšab
 @v	gešnu?
 @v	gišnu?
@@ -42486,6 +42488,7 @@
 @uage	5.0
 @v	ban₃
 @v	banda₃
+@v	buₓ
 @v	damu
 @v	de₁₀
 @v	di₄
@@ -42497,6 +42500,7 @@
 @v-	maru
 @inote	PROBLEM dupfix Attinger maru(TE@g) has broken MZL maru(TUR); check FM 'maru' examples--are there any?
 @v	peš₇
+@v	puₓ
 @v	suhušₓ
 @v	šak₇
 @v	šir₆
