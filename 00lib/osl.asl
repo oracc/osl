@@ -8772,6 +8772,7 @@
 @v	girₓ
 @v	gurₓ
 @v	idenₓ
+@v	idinₓ
 @v	la₈
 @v	rabita
 @v	ri₁₀?
@@ -10638,6 +10639,7 @@
 @sign |EZEN×X|
 @oid	o0001120
 @v	murgišur₂?
+@v	silₓ
 @v	šubba
 @v	udnimₓ
 @v	unₓ
@@ -16495,6 +16497,7 @@
 @v	kikkin
 @v	kin₂
 @v	kinkin
+@v	kunuₓ
 @v	mar₆
 @v	mur
 @v	muru
@@ -20003,6 +20006,7 @@
 @list	U+1217B
 @ucun	𒅻
 @uage	5.0
+@v	lubduₓ
 @v	namduₓ
 @v	numdu
 @v	numdum
@@ -30667,6 +30671,7 @@
 @ucun	𒈿
 @uage	5.0
 @v	daramₓ
+@v	gešnu₃
 @v	ŋešnu₃
 @v	na₂
 @v	nad₃
@@ -34567,6 +34572,7 @@
 @v	bulunₓ
 @v	bur₁₃
 @v	dim₄
+@v	munₓ
 @v	munu₄
 @v	pur₁₃
 @link eBL |PAP.PAP| https://www.ebl.lmu.de/signs/|PAP.PAP|
@@ -36124,6 +36130,7 @@
 @uage	5.0
 @v	f
 @v	gal₄
+@v	galaₓ
 @v	galla₄
 @v	gambiₓ
 @v	gemeₓ
@@ -41326,12 +41333,13 @@
 @v	gansis
 @v	ganzerₓ
 @v	kabta
+@v	taₓ
 @link eBL TA@g https://www.ebl.lmu.de/signs/TA@g
 @link Wikidata Q87556477 http://www.wikidata.org/entity/Q87556477
 @form LAK654a
 @oid	o0025784
 @list	LAK654a
-@inote	TA@g with curviform final wedge OGSL = LAK654a (main box); cuneiform final wedge OGSL = LAK654 (secondary box)
+@inote	TA@g with curviform final wedge OSL = LAK654a (main box); cuneiform final wedge OSL = LAK654 (secondary box)
 @@
 @form |TA×IR|
 @oid	o0023011
@@ -42040,6 +42048,7 @@
 @inote	CDLI
 @v	ru₁₀
 @v	teₓ
+@v	tenₓ
 @v	ur₁₂
 @v	uru₅
 @sys	Attinger maru => ru₁₀
