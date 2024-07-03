@@ -7511,6 +7511,7 @@
 @v	duba₂
 @v	dubu₂
 @v	dup₂
+@v	geštinₓ
 @v	ŋeštinₓ
 @v	sagkurini?
 @v	saŋkurini
@@ -13498,6 +13499,7 @@
 @oid	o0001240
 @useq	x120FB.x122C3
 @ucun	𒃻𒋃
+@v	sangaₓ
 @v	saŋŋaₓ
 @v	uttuku
 @v	utugₓ
@@ -15936,6 +15938,7 @@
 
 @sign |GUR×AŠ@c|
 @oid	o0021438
+@v gurₓ
 @end sign
 
 @sign GUR₇
@@ -39662,6 +39665,7 @@
 @oid	o0002741
 @useq	x122C3.x120FB
 @ucun	𒋃𒃻
+@v	sangaₓ
 @v	saŋŋaₓ
 @link eBL |ŠID.GAR| https://www.ebl.lmu.de/signs/|ŠID.GAR|
 @end sign
@@ -44952,6 +44956,7 @@
 @ucun	𒌥
 @uage	5.0
 @v	deₓ
+@v	simugₓ
 @link eBL |UMUM×PA| https://www.ebl.lmu.de/signs/|UMUM×PA|
 @link Wikidata Q87556577 http://www.wikidata.org/entity/Q87556577
 @end sign
