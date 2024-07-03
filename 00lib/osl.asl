@@ -205,6 +205,7 @@
 @ucun	𒀀𒀭
 @v	a₄
 @v	am₃
+@v	emₓ
 @v	še₇
 @v	šeg₃
 @v	šeŋ₃
@@ -663,6 +664,7 @@
 @useq	x12000.x121C9
 @ucun	𒀀𒇉
 @v	buniŋₓ
+@v	guninₓ
 @v	i₇
 @v	id₂
 @v	ida₂
@@ -6196,10 +6198,17 @@
 
 @sign DAG₃
 @oid	o0032005
+@list	MZL386
 @uname	CUNEIFORM SIGN DAG3
 @list	U+12374
 @ucun	𒍴
 @uage	7.0
+@v	dag₃
+@v	dak₃
+@v	daq₃
+@v	par₇
+@v	tak₃
+@v	taq₃
 @link eBL DAG₃ https://www.ebl.lmu.de/signs/DAG₃
 @link Wikidata Q87556748 http://www.wikidata.org/entity/Q87556748
 @end sign
@@ -7509,6 +7518,7 @@
 @v	duba₂
 @v	dubu₂
 @v	dup₂
+@v	geštinₓ
 @v	ŋeštinₓ
 @v	sagkurini?
 @v	saŋkurini
@@ -9653,22 +9663,15 @@
 @list	U+1209F
 @ucun	𒂟
 @uage	5.0
-@v	%elx bir₃
 @v	erem
 @v	eren₂
 @v	erena₂
 @v	erim
 @v	erin₂
 @v	erina₂
-@v	hiš₃
-@v	lah₂
-@v	lih₂
 @v	nura
 @v	nuri
 @v	nuru
-@v	par₅
-@v	per₂
-@v	pir₂
 @v	rin₂
 @v	rina₂
 @v	sap₂
@@ -9678,8 +9681,6 @@
 @v	ṣap
 @v	ṣapa
 @v	%akk/n ṣābu
-@v	tam₅
-@v	udaₓ
 @v	zab
 @v	zalag₂
 @v	zap
@@ -13497,6 +13498,7 @@
 @oid	o0001240
 @useq	x120FB.x122C3
 @ucun	𒃻𒋃
+@v	sangaₓ
 @v	saŋŋaₓ
 @v	uttuku
 @v	utugₓ
@@ -14012,6 +14014,7 @@
 @ucun	𒍼
 @uage	7.0
 @v	ge₁₇
+@v	gebₓ
 @v	geg
 @v	gi₁₇
 @v	gib₃
@@ -14901,6 +14904,7 @@
 @v	ŋeštug₂
 @v	ŋištu₂
 @v	ŋištug₂
+@v	muštuₓ
 @v	muštugₓ
 @link eBL |GIŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI|
 @end sign
@@ -15933,6 +15937,7 @@
 
 @sign |GUR×AŠ@c|
 @oid	o0021438
+@v gurₓ
 @end sign
 
 @sign GUR₇
@@ -16464,6 +16469,7 @@
 @v	ar₃
 @v	ara₃
 @v	dubulₓ
+@v	duburₓ
 @v	ellaŋₓ
 @v	endibdim
 @v	ga₁₁?
@@ -26036,6 +26042,7 @@
 @list	U+124EA
 @ucun	𒓪
 @uage	8.0
+@v	lilₓ
 @link eBL LAK343 https://www.ebl.lmu.de/signs/LAK343
 @link Wikidata Q87557297 http://www.wikidata.org/entity/Q87557297
 @end sign
@@ -31463,15 +31470,9 @@
 @v	%akk abnu
 @v	atumₓ
 @v	bar₄
-@v	dag₃
-@v	dak₃
-@v	daq₃
 @v	i₄
 @v	ia₄
 @v	na₄
-@v	par₇
-@v	tak₃
-@v	taq₃
 @v	ya₄
 @v	za₂
 @link Wikidata Q87556803 http://www.wikidata.org/entity/Q87556803
@@ -34892,10 +34893,20 @@
 
 @sign PIR₂
 @oid	o0032009
+@list	MZL613
 @uname	CUNEIFORM SIGN PIR2
 @list	U+12395
 @ucun	𒎕
 @uage	7.0
+@v	%elx bir₃
+@v	hiš₃
+@v	lah₂
+@v	lih₂
+@v	par₅
+@v	per₂
+@v	pir₂
+@v	tam₅
+@v	udaₓ
 @link eBL PIR₂ https://www.ebl.lmu.de/signs/PIR₂
 @link Wikidata Q87556818 http://www.wikidata.org/entity/Q87556818
 @end sign
@@ -39658,6 +39669,7 @@
 @oid	o0002741
 @useq	x122C3.x120FB
 @ucun	𒋃𒃻
+@v	sangaₓ
 @v	saŋŋaₓ
 @link eBL |ŠID.GAR| https://www.ebl.lmu.de/signs/|ŠID.GAR|
 @end sign
@@ -44096,6 +44108,10 @@
 @useq	x12112.x12263
 @ucun	𒄒𒉣
 @@
+@form |A.GIŠ%GIŠ.NUN|
+@oid	o0038095
+@useq	x12000.x12112.x12263
+@@
 @form |NUN.GIŠ%GIŠ|
 @oid	o0221904
 @useq	x12263.x12112
@@ -44946,6 +44962,7 @@
 @ucun	𒌥
 @uage	5.0
 @v	deₓ
+@v	simugₓ
 @link eBL |UMUM×PA| https://www.ebl.lmu.de/signs/|UMUM×PA|
 @link Wikidata Q87556577 http://www.wikidata.org/entity/Q87556577
 @end sign
