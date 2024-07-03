@@ -44106,7 +44106,7 @@
 @@
 @form |A.GIŠ%GIŠ.NUN|
 @oid	o0038095
-@useq	o0000087.x12112.x12263
+@useq	x12000.x12112.x12263
 @@
 @form |NUN.GIŠ%GIŠ|
 @oid	o0221904
