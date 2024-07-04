@@ -27663,6 +27663,8 @@
 @list	U+12202
 @ucun	𒈂
 @uage	5.0
+@v	adₓ
+@inote for cmawro--sfs could it be a heš₅/šaga instance instead?
 @v	heš₅
 @v	šaga
 @v	šaŋa
@@ -47700,6 +47702,10 @@
 @lit	1987 A. Cavigneaux, ASJ 9 46-47.
 @link eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
 @link Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
+@@
+@form |ZU×AB|
+@oid	o0038097
+@inote cmawro
 @@
 @end sign
 
