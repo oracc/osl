@@ -16774,6 +16774,11 @@
 @link eBL |HI×NUN.HI×NUN| https://www.ebl.lmu.de/signs/|HI×NUN.HI×NUN|
 @end sign
 
+@sign |(HI×NUN.HI×NUN)&(HI×NUN.HI×NUN)|
+@oid	o0038104
+@inote Sum med tablet
+@end sign
+
 @sign |HI×NUN.KASKAL|
 @oid	o0001459
 @list	MZL637
