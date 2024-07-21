@@ -6874,6 +6874,11 @@
 @inote	dcclt *() punctuation qualifier
 @link eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @@
+@form |U.U|
+@oid	o0002475
+@inote	00atf/sptu_3_089.atf:153 *() punctuation qualifier
+@link eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
+@@
 @form DIŠ@c
 @oid	o0223336
 @inote	@ucode	xebc2
