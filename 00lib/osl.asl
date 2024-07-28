@@ -6949,6 +6949,11 @@
 @inote	dcclt *() punctuation qualifier
 @link eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @@
+@form |U.U|
+@oid	o0002475
+@inote	00atf/sptu_3_089.atf:153 *() punctuation qualifier
+@link eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
+@@
 @form DIŠ@c
 @oid	o0223336
 @inote	@ucode	xebc2
@@ -14979,6 +14984,7 @@
 @v	gišdu₂
 @v	gištu₂
 @v	gištug₂
+@v	ŋessalₓ
 @v	ŋeštu₂
 @v	ŋeštug₂
 @v	ŋištu₂
@@ -16848,6 +16854,11 @@
 @ucun	𒄴𒄴
 @v	uhₓ
 @link eBL |HI×NUN.HI×NUN| https://www.ebl.lmu.de/signs/|HI×NUN.HI×NUN|
+@end sign
+
+@sign |(HI×NUN.HI×NUN)&(HI×NUN.HI×NUN)|
+@oid	o0038104
+@inote Sum med tablet
 @end sign
 
 @sign |HI×NUN.KASKAL|
@@ -21563,6 +21574,11 @@
 @useq	x12049.x121A0.x120FB
 @ucun	𒁉𒆠𒃻
 @@
+@form |KI.GAR.BI|
+@oid	o0038103
+@useq	x121A0.x120FB.x12049
+@ucun	𒆠𒃻𒁉
+@@
 @end sign
 
 @sign |KI.BI.KAK|
@@ -25504,6 +25520,11 @@
 @sign |LAL₂×KAK|
 @oid	o0028025
 @inote	gvl unknown compound
+@end sign
+
+@sign |LAL₂×KU|
+@oid	o0038099
+@inote dsst P276688 o 5
 @end sign
 
 @sign |LAL₂×LAGAB|
@@ -33155,6 +33176,9 @@
 @v	%akk nappilu
 @link eBL NUN@t https://www.ebl.lmu.de/signs/NUN@t
 @link Wikidata Q87556224 http://www.wikidata.org/entity/Q87556224
+@form NUN
+@oid	o0000488
+@inote dsst P251917 9 = Bird and Fish 117
 @end sign
 
 @sign |NUN@t.KI|
@@ -43759,6 +43783,9 @@
 @ucun	𒌑𒆠𒋧𒂵
 @v	gud₃
 @link eBL |U₂.KI.SUM.GA| https://www.ebl.lmu.de/signs/|U₂.KI.SUM.GA|
+@form |U₂.KI.SUM|
+@oid	o0038101
+@inote dsst P252266 ii 1 = Bird and Fish 110
 @end sign
 
 @sign |U₂.KUR.NI.TUK.KI|
