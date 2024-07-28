@@ -4139,8 +4139,6 @@
 @link eBL |AŠ+SUR| https://www.ebl.lmu.de/signs/|AŠ+SUR|
 @end sign
 
-@compoundonly	AŠ@180
-
 @sign AŠ~a
 @oid	o0027534
 @inote	for lak.atf
@@ -43785,6 +43783,7 @@
 @link eBL |U₂.KI.SUM.GA| https://www.ebl.lmu.de/signs/|U₂.KI.SUM.GA|
 @form |U₂.KI.SUM|
 @oid	o0038101
+@useq	x12311.x121A0.x122E7
 @inote dsst P252266 ii 1 = Bird and Fish 110
 @end sign
 
