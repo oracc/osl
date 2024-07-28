@@ -3879,6 +3879,7 @@
 @form AŠ@v
 @oid	o0223464
 @v	aš@v
+@v	1(aš@v)
 @@
 @end sign
 
@@ -6955,6 +6956,7 @@
 @form DIŠ@c
 @oid	o0223336
 @inote	@ucode	xebc2
+@v	1/4(aš@c)
 @v	1(aš@c@90)
 @v	barig@c
 @v	1(barig@c)
@@ -10842,6 +10844,8 @@
 @ucun	𒑝
 @uage	5.0
 @v	1/3(diš@c)
+@v	1/3(aš@c)
+@inote CDLI in quantities of silver--but 1/3(diš@c) may be better in those contexts
 @link eBL F₁ https://www.ebl.lmu.de/signs/F₁
 @link Wikidata Q87557046 http://www.wikidata.org/entity/Q87557046
 @end sign
@@ -10854,8 +10858,17 @@
 @ucun	𒑞
 @uage	5.0
 @v	2/3(diš@c)
+@v	2/3(aš@c)
 @link eBL F₂ https://www.ebl.lmu.de/signs/F₂
 @link Wikidata Q87557048 http://www.wikidata.org/entity/Q87557048
+@form NIGIDAMIN@c
+@oid	o0223340
+@inote ED3a abbreviated form of F₂
+@@
+@form 2(DIŠ@c)
+@oid	o0223390
+@inote ED3a variant of NIGIDAMIN@c
+@@
 @end sign
 
 @sign F₃
@@ -11986,6 +11999,9 @@
 @inote CCPo
 @v	išharaₓ
 @inote sfs--from epsd2 admin/names
+@form	|GA₂×IGI@g|
+@oid	o0038131
+@@
 @end sign
 
 @sign |GA₂×IL₂|
@@ -32302,6 +32318,7 @@
 @link eBL |NINDA₂×(ŠE.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ)|
 @link Wikidata Q87556201 http://www.wikidata.org/entity/Q87556201
 @form |NINDA₂×(ŠE.AŠ@c)|
+@aka |NINDA₂×(ŠE.1(AŠ@c))|
 @oid	o0223482
 @inote	@ucode	xebce
 @@
@@ -32320,6 +32337,7 @@
 @link eBL |NINDA₂×(ŠE.AŠ.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ.AŠ)|
 @link Wikidata Q87556203 http://www.wikidata.org/entity/Q87556203
 @form |NINDA₂×(ŠE.AŠ@c.AŠ@c)|
+@aka |NINDA₂×(ŠE.2(AŠ@c))|
 @oid	o0223483
 @inote	@ucode	xebcf
 @@
@@ -49040,6 +49058,10 @@
 @v	7(barig@c)
 @v	7(diš@c)
 @@
+@form	7(DIŠ@t)
+@oid	o0038129
+@v	7(diš@t)
+@@
 @end sign
 
 @sign 7(DIŠ)~a
@@ -49109,6 +49131,10 @@
 @link eBL USSU https://www.ebl.lmu.de/signs/USSU
 @link Wikidata Q87556984 http://www.wikidata.org/entity/Q87556984
 @@
+@form	8(DIŠ@t)
+@oid	o0038127
+@v	8(diš@t)
+@@
 @end sign
 
 @sign 9(DIŠ)
@@ -49129,6 +49155,7 @@
 @form	9(DIŠ@t)
 @oid	o0038126
 @v	9(diš@t)
+@@
 @end sign
 
 @sign 9(DIŠ~a)
@@ -49453,6 +49480,12 @@
 @@
 @end sign
 
+@sign 4(EŠE₃@c)
+@oid	o0038133
+@inote P010063 iv 15 collated (ED3a)
+@v	4(eše₃@c)
+@end sign
+
 @sign 1(GEŠ₂)
 @oid	o0000007
 @list	RSP003
@@ -49480,6 +49513,8 @@
 @form GEŠ₂@c@90
 @oid	o0223470
 @v	geš₂@c@90
+@v	ŋeš₂@c@90
+@inote used in context with gešmin@c where geš₂@c@90 is half a gešmin@c, i.e., 60
 @@
 @form GEŠ₂@c@v
 @oid	o0223471
