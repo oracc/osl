@@ -6955,6 +6955,8 @@
 @form DIŠ@c
 @oid	o0223336
 @inote	@ucode	xebc2
+@v	1/2(aš@c)
+@inote as 1/2 gur hence CDLI usage with AŠ rather than DIŠ
 @v	1(aš@c@90)
 @v	barig@c
 @v	1(barig@c)
@@ -10065,6 +10067,12 @@
 @useq	x122BA.x120A0.x12263.x1204D.x1221B
 @ucun	𒊺𒂠𒉣𒁍𒈛
 @v	samanₓ
+@@
+@form |ŠE.NUN.BU.LUH|
+@oid	o0038124
+@useq	x122BA.x12263.x1204D.x1221B
+@ucun	𒊺𒉣𒁍𒈛
+@v	saman₃
 @@
 @form |ŠE.NUN|
 @oid	o0221882
@@ -31675,6 +31683,8 @@
 @form NIGIDAEŠ@c
 @oid	o0223339
 @list	RSP038
+@v	3/4(aš@c)
+@inote as 3/4 gur
 @v	3(barig@c)
 @v	3(bariga@c)
 @@
@@ -31699,6 +31709,8 @@
 @form NIGIDAMIN@c
 @oid	o0223340
 @list	RSP037
+@v	2/4(aš@c)
+@inote	CDLI as 1/2 gur written 2(barig@c)--is this really necessary?
 @v	2(barig@c)
 @v	2(bariga@c)
 @@
@@ -48691,6 +48703,7 @@
 @form 6(U@c)
 @oid	o0223436
 @inote	@ucode	xeb92
+@v	6(bur₃@c)
 @v	6(u@c)
 @@
 @end sign
@@ -48718,6 +48731,7 @@
 @form 7(U@c)
 @oid	o0223444
 @inote	@ucode	xeb93
+@v	7(bur₃@c)
 @v	7(u@c)
 @@
 @end sign
@@ -48737,6 +48751,7 @@
 @form 8(U@c)
 @oid	o0223449
 @inote	@ucode	xeb94
+@v	8(bur₃@c)
 @v	8(u@c)
 @@
 @end sign
@@ -48772,6 +48787,7 @@
 @form 9(U@c)
 @oid	o0223459
 @inote	@ucode	xeb95
+@v	9(bur₃@c)
 @v	9(u@c)
 @@
 @end sign
@@ -48955,6 +48971,7 @@
 @form 4(DIŠ@c)
 @oid	o0223415
 @inote	@ucode	xebc6
+@v	4(aš@c@90)
 @v	4(barig@c)
 @v	4(bariga@c)
 @v	4(diš@c)
@@ -48978,6 +48995,7 @@
 @link Wikidata Q87556851 http://www.wikidata.org/entity/Q87556851
 @form 5(DIŠ@c)
 @oid	o0223426
+@v	5(barig@c)
 @v	5(diš@c)
 @@
 @end sign
@@ -49004,8 +49022,8 @@
 @link Wikidata Q87556853 http://www.wikidata.org/entity/Q87556853
 @form 6(DIŠ@c)
 @oid	o0223434
-@v	6(diš@c)
 @v	6(barig@c)
+@v	6(diš@c)
 @@
 @end sign
 
@@ -49020,6 +49038,8 @@
 @link Wikidata Q87556855 http://www.wikidata.org/entity/Q87556855
 @form 7(DIŠ@c)
 @oid	o0223440
+@v	7(aš@c@90)
+@v	7(barig@c)
 @v	7(diš@c)
 @@
 @end sign
@@ -49108,6 +49128,9 @@
 @oid	o0223456
 @v	9(diš@c)~d
 @@
+@form	9(DIŠ@t)
+@oid	o0038126
+@v	9(diš@t)
 @end sign
 
 @sign 9(DIŠ~a)
