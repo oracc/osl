@@ -6955,8 +6955,6 @@
 @form DIŠ@c
 @oid	o0223336
 @inote	@ucode	xebc2
-@v	1/2(aš@c)
-@inote as 1/2 gur hence CDLI usage with AŠ rather than DIŠ
 @v	1(aš@c@90)
 @v	barig@c
 @v	1(barig@c)
