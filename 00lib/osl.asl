@@ -4039,18 +4039,93 @@
 @link Wikidata Q87555120 http://www.wikidata.org/entity/Q87555120
 @end sign
 
-@sign |AŠ&AŠ@180|
+@sign	GEŠMIN@c
+@aka	|AŠ&AŠ@180|
 @oid	o0000861
-@inote	ed3a number; descriptive name is bad--should be |AŠ&AŠ@180|@90 because the AŠ are vertical not horizontal
+@inote ed3a number; descriptive name in @aka is bad--should be
+       |AŠ&AŠ@180|@90 because the AŠ are vertical not horizontal
+@inote 2024-07-28 move to GEŠMIN@c as conventional sign name. The CDLI
+       notation for gešmin is geš2@c@d where @d is presumably for
+       'doubled'. In Oracc GDL @d is used for discontinuous writings of
+       single graphemes, notably ANŠE in Elamite texts.
 @v	gešmin@c
+@v	1(gešmin@c)
+@v	1(ŋešmin@c)
 @link eBL |AŠ&AŠ@180| https://www.ebl.lmu.de/signs/|AŠ&AŠ@180|
 @end sign
 
-@sign |(AŠ&AŠ@180)×U|
+@sign	GEŠMINU@c
+@aka	|(AŠ&AŠ@180)×U|
 @oid	o0000621
-@inote	ed3a number
+@inote	ed3a number; 2024-07-28 move to GEŠMINU@c as conventional sign name
 @v	gešminʾu@c
+@v	1(gešminʾu@c)
+@v	1(ŋešminʾu@c)
 @link eBL |(AŠ&AŠ@180)×U| https://www.ebl.lmu.de/signs/|(AŠ&AŠ@180)×U|
+@end sign
+
+@sign 2(GEŠMIN@c)
+@oid	o0038105
+@v	2(gešmin@c)
+@v	2(ŋešmin@c)
+@end sign
+
+@sign |2(GEŠMIN@c)×AŠ|
+@oid	o0038114
+@end sign
+
+@sign 3(GEŠMIN@c)
+@oid	o0038107
+@v	3(gešmin@c)
+@v	3(ŋešmin@c)
+@end sign
+
+@sign 4(GEŠMIN@c)
+@oid	o0038109
+@v	4(gešmin@c)
+@v	4(ŋešmin@c)
+@end sign
+
+@sign |4(GEŠMIN@c)×AŠ|
+@oid	o0038116
+@end sign
+
+@sign 5(GEŠMIN@c)
+@oid	o0038111
+@v	5(gešmin@c)
+@v	5(ŋešmin@c)
+@end sign
+
+@sign 6(GEŠMIN@c)
+@oid	o0038112
+@v	6(gešmin@c)
+@v	6(ŋešmin@c)
+@note	This sign is so far unattested.
+@end sign
+
+@sign 7(GEŠMIN@c)
+@oid	o0038113
+@v	7(gešmin@c)
+@v	7(ŋešmin@c)
+@end sign
+
+@sign 2(GEŠMINU@c)
+@oid	o0038118
+@v	2(gešminʾu@c)
+@v	2(ŋešminʾu@c)
+@note	This sign is so far unattested.
+@end sign
+
+@sign 3(GEŠMINU@c)
+@oid	o0038120
+@v	3(gešminʾu@c)
+@v	3(ŋešminʾu@c)
+@end sign
+
+@sign 4(GEŠMINU@c)
+@oid	o0038122
+@v	4(gešminʾu@c)
+@v	4(ŋešminʾu@c)
 @end sign
 
 @sign |AŠ+SUR|
@@ -6877,6 +6952,7 @@
 @form DIŠ@c
 @oid	o0223336
 @inote	@ucode	xebc2
+@v	1(aš@c@90)
 @v	barig@c
 @v	1(barig@c)
 @v	bariga@c
@@ -13161,6 +13237,7 @@
 @form GAN₂@c
 @oid	o0028134
 @v	iku@c
+@v	1(iku@c)
 @@
 @form GAN₂@c@v
 @oid	o0028136
@@ -28955,9 +29032,12 @@
 @link Wikidata Q87556100 http://www.wikidata.org/entity/Q87556100
 @form 1/2(DIŠ@c)
 @oid	o0223387
+@list	LAK838
 @list	RSP036
 @inote	@ucode	xebca
 @v	1/2(diš@c)
+@v	1/2(aš@c)
+@inote I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
 @@
 @form MAŠ@t
 @oid	o0000450
@@ -29384,6 +29464,7 @@
 @form 2(DIŠ@c)
 @oid	o0223390
 @inote	@ucode	xebc3
+@v	2(aš@c@90)
 @v	2(diš@c)
 @@
 @end sign
@@ -43340,6 +43421,7 @@
 @inote	@ucode	xeb8d
 @v	3(bur₃@c)
 @v	eše@c
+@v	1(eše@c)
 @v	3(u@c)
 @@
 @end sign
@@ -48823,6 +48905,7 @@
 @form 3(DIŠ@c)
 @oid	o0223400
 @inote	@ucode	xebc4
+@v	3(aš@c@90)
 @v	3(diš@c)
 @@
 @end sign
@@ -48896,6 +48979,7 @@
 @form 6(DIŠ@c)
 @oid	o0223434
 @v	6(diš@c)
+@v	6(barig@c)
 @@
 @end sign
 
