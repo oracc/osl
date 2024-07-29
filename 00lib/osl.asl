@@ -7377,6 +7377,7 @@
 @v	kim₄
 @v	lah₇
 @v	%akk/n lāsimu
+@v	maškimₓ
 @v	parim
 @v	raₓ
 @v	rim₄
@@ -10932,6 +10933,12 @@
 @uage	5.0
 @link eBL F₆ https://www.ebl.lmu.de/signs/F₆
 @link Wikidata Q87557055 http://www.wikidata.org/entity/Q87557055
+@end sign
+
+@sign F₇
+@oid	o0038137
+@v	1/2(diš@t)
+@inote P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ and F₇ is a slanted cuneiform DIŠ with a horizontal indicating the half value as with 1/2(aš@c)
 @end sign
 
 @sign |4×GABA|
@@ -32321,6 +32328,7 @@
 @aka |NINDA₂×(ŠE.1(AŠ@c))|
 @oid	o0223482
 @inote	@ucode	xebce
+@v	1/3
 @@
 @end sign
 
@@ -32340,6 +32348,7 @@
 @aka |NINDA₂×(ŠE.2(AŠ@c))|
 @oid	o0223483
 @inote	@ucode	xebcf
+@v	2/3
 @@
 @end sign
 
@@ -41241,6 +41250,13 @@
 @link eBL |ŠU₂.NE| https://www.ebl.lmu.de/signs/|ŠU₂.NE|
 @end sign
 
+@sign |ŠU₂.ŠA|
+@oid	o0038138
+@useq	x122D9.x122AD
+@v	saₓ
+@inote P253776 ii 8, CUSAS 35 no. 479
+@end sign
+
 @sign |ŠU₂.ŠE.KU.KAK|
 @oid	o0002822
 @useq	x122D9.x122BA.x121AA.x12195
@@ -44248,8 +44264,8 @@
 @v	burununa
 @v	sippar
 @v	zibbir
-@v	zimbir
 @sys	Attinger zibbir => zimbir
+@v	zimbir
 @link eBL |UD.GIŠ%GIŠ.NUN| https://www.ebl.lmu.de/signs/|UD.GIŠ%GIŠ.NUN|
 @form |GIŠ%GIŠ.NUN|
 @oid	o0001361
@@ -44290,6 +44306,12 @@
 @ucun	𒌓𒉣𒄒
 @v	buranunₓ
 @v	zimbirₓ
+@@
+@form |UD.LAM.NUN|
+@oid	o0038135
+@useq	x12313.x121F4.x12263
+@ucun	𒌓𒇴𒉣
+@v	zimbir
 @@
 @end sign
 
@@ -49011,6 +49033,7 @@
 @link Wikidata Q87556851 http://www.wikidata.org/entity/Q87556851
 @form 5(DIŠ@c)
 @oid	o0223426
+@v	5(aš@c@90)
 @v	5(barig@c)
 @v	5(diš@c)
 @@
@@ -49038,6 +49061,7 @@
 @link Wikidata Q87556853 http://www.wikidata.org/entity/Q87556853
 @form 6(DIŠ@c)
 @oid	o0223434
+@v	6(aš@c@90)
 @v	6(barig@c)
 @v	6(diš@c)
 @@
@@ -49514,6 +49538,8 @@
 @oid	o0223470
 @v	geš₂@c@90
 @v	ŋeš₂@c@90
+@v	1(geš₂@c@90)
+@v	1(ŋeš₂@c@90)
 @inote used in context with gešmin@c where geš₂@c@90 is half a gešmin@c, i.e., 60
 @@
 @form GEŠ₂@c@v
