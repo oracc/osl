@@ -41248,9 +41248,10 @@
 @link eBL |ŠU₂.NE| https://www.ebl.lmu.de/signs/|ŠU₂.NE|
 @end sign
 
-@sign |ŠU₂.ŠA|
+@sign |ŠU₂.SA|
 @oid	o0038138
-@useq	x122D9.x122AD
+@useq	x122D9.x12293
+@ucun	𒋙𒊓
 @v	saₓ
 @inote P253776 ii 8, CUSAS 35 no. 479
 @end sign
