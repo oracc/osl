@@ -32328,7 +32328,6 @@
 @aka |NINDA₂×(ŠE.1(AŠ@c))|
 @oid	o0223482
 @inote	@ucode	xebce
-@v	1/3
 @@
 @end sign
 
@@ -32348,7 +32347,6 @@
 @aka |NINDA₂×(ŠE.2(AŠ@c))|
 @oid	o0223483
 @inote	@ucode	xebcf
-@v	2/3
 @@
 @end sign
 
