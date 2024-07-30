@@ -26782,11 +26782,6 @@
 @link Wikidata Q87557345 http://www.wikidata.org/entity/Q87557345
 @end sign
 
-@sign |LAK617×LU₃|
-@oid	o0038182
-@inote P252810 = CUSAS 35, 407 
-@end sign
-
 @sign |LAK617×KU₃|
 @oid	o0001867
 @list	LAK620
@@ -26970,8 +26965,13 @@
 @link Wikidata Q87557379 http://www.wikidata.org/entity/Q87557379
 @end sign
 
+@sign |LAK617×HI|
+@oid	o0038182
+@inote P252810 = CUSAS 35, 407 
+@end sign
+
 @sign |LAK648×LU₃|
-@oid
+@oid	o0038180
 @inote P252803 = CUSAS 35, 399 
 @end sign
 
