@@ -1475,6 +1475,11 @@
 @@
 @end sign
 
+@sign A₂@h
+@oid	o0038176
+@inote ED3b (or ED3a??) P250330 = UET 2, supp 02 r 1 3
+@end sign
+
 @sign |A₂.AŠ|
 @oid	o0000876
 @useq	x12009.x12038
@@ -10351,6 +10356,7 @@
 @v	dur₈
 @v	duri
 @v	durum
+@v	iₓ
 @v	niŋbunₓ
 @v	niŋbunaₓ
 @v	u₉
@@ -12067,7 +12073,7 @@
 @v	išharaₓ
 @inote sfs--from epsd2 admin/names
 @form	|GA₂×IGI@g|
-@oid	o0038131
+@oid	o0001309
 @@
 @end sign
 
@@ -14821,6 +14827,11 @@
 @v	gešaₓ
 @v	ŋešaₓ
 @v	ummaₓ
+@@
+@form |GIŠ.KI.KUŠU₂|
+@oid	o0038184
+@v	gešaₓ
+@v	ŋešaₓ
 @@
 @end sign
 
@@ -26772,6 +26783,11 @@
 @end sign
 
 @sign |LAK617×KU₃|
+@oid	o0038182
+@inote P252810 = CUSAS 35, 407 
+@end sign
+
+@sign |LAK617×KU₃|
 @oid	o0001867
 @list	LAK620
 @uname	CUNEIFORM SIGN LAK617 TIMES KU3
@@ -26952,6 +26968,11 @@
 @v	šakirₓ
 @link eBL |LAK648×NI| https://www.ebl.lmu.de/signs/|LAK648×NI|
 @link Wikidata Q87557379 http://www.wikidata.org/entity/Q87557379
+@end sign
+
+@sign |LAK648×LU₃|
+@oid
+@inote P252803 = CUSAS 35, 399 
 @end sign
 
 @sign |LAK648×(PAP.PAP.LU₃)|
@@ -28926,6 +28947,11 @@
 @v	ma₂
 @link eBL MA₂ https://www.ebl.lmu.de/signs/MA₂
 @link Wikidata Q87556095 http://www.wikidata.org/entity/Q87556095
+@end sign
+
+@sign |MA₂×EŠ₂|
+@oid	o0038178
+@inote P252707 = CUSAS 35, 230 (also in 231)
 @end sign
 
 @sign |MA₂.HU|
@@ -41410,6 +41436,7 @@
 @ucun	𒑚
 @uage	5.0
 @v	1/3(diš)
+@v	1/3(iku)
 @v	igišŋalₓ
 @v	šudaₓ?
 @v	šušana
@@ -42947,6 +42974,7 @@
 @form BUR₃@v
 @oid	o0223333
 @v	bur₃@v
+@v	1(bur₃@v)
 @inote	ed3b
 @@
 @form U@c
@@ -48267,6 +48295,7 @@
 @oid	o0223432
 @inote	@ucode	xeb87
 @v	6(aš@c)
+@v	6(iku@c)
 @@
 @end sign
 
@@ -49372,6 +49401,10 @@
 @aka	6(|AŠ×AŠ@t|)
 @oid	o0223346
 @list	RSP093
+@form 6(|BAD×DIŠ@t|)
+@aka 6(|BAD×AŠ@t|)
+@oid	o0038174
+@@
 @end sign
 
 @sign 7(|AŠ×DIŠ@t|)
