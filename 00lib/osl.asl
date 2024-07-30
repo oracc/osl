@@ -10965,7 +10965,7 @@
 @inote This form is something like BAD@90. P221565 i 4.
 @@
 @form F₈@t
-@oid	o0038163
+@oid	o0038173
 @v	1/2(iku@t)
 @inote This form is a NW to SE slanted cuneiform DIŠ with a horizontal; P392107
 @@
