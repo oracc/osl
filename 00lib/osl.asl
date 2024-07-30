@@ -26782,7 +26782,7 @@
 @link Wikidata Q87557345 http://www.wikidata.org/entity/Q87557345
 @end sign
 
-@sign |LAK617×KU₃|
+@sign |LAK617×LU₃|
 @oid	o0038182
 @inote P252810 = CUSAS 35, 407 
 @end sign
