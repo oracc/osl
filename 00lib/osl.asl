@@ -7411,6 +7411,11 @@
 @@
 @end sign
 
+@sign |DU×TAK₄|
+@oid	o0038139
+@inote &P274443 = FT 2, pl. 43, AO 12186 r 2
+@end sign
+
 @sign |DU@s.A|
 @oid	o0000995
 @useq	x1207D.x12000
@@ -10888,6 +10893,10 @@
 @oid	o0223358
 @list	RSP033
 @v	1/8(iku@c)
+@form F₃@c@v
+@oid	o0038149
+@v	1/8(iku@c@v)
+@inote This form can be described as |1(DIŠ@c)&1(U@c)|
 @@
 @end sign
 
@@ -10906,6 +10915,11 @@
 @oid	o0223359
 @list	RSP026
 @v	1/4(iku@c)
+@@
+@form F₄@c@v
+@oid	o0038146
+@v	1/4(iku@c@v)
+@inote This variant can be described as |1(AŠ@c)×1(AŠ)|
 @@
 @end sign
 
@@ -10939,6 +10953,46 @@
 @oid	o0038137
 @v	1/2(diš@t)
 @inote P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ and F₇ is a slanted cuneiform DIŠ with a horizontal indicating the half value as with 1/2(aš@c)
+@end sign
+
+@sign F₈
+@oid	o0038147
+@v	1/2(iku@c@v)
+@inote This form can be described as |1(DIŠ@c)×1(DIŠ)|
+@form F₈@v
+@oid	o0038163
+@v	1/2(iku@v)
+@inote This form is something like BAD@90. P221565 i 4.
+@end sign
+
+@sign 1(IKU@t)
+@oid	o0038164
+@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	1(iku@t)
+@end sign
+
+@sign 2(IKU@t)
+@oid	o0038166
+@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	2(iku@t)
+@end sign
+
+@sign 3(IKU@t)
+@oid	o0038168
+@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	3(iku@t)
+@end sign
+
+@sign 4(IKU@t)
+@oid	o0038169
+@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	4(iku@t)
+@end sign
+
+@sign 5(IKU@t)
+@oid	o0038171
+@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	5(iku@t)
 @end sign
 
 @sign |4×GABA|
@@ -32232,14 +32286,6 @@
 @link Wikidata Q87557425 http://www.wikidata.org/entity/Q87557425
 @end sign
 
-@sign |NINDA₂×ŠANABI@c|
-@oid	o0223370
-@list	LAK107
-@list	RSP107
-@inote	@ucode	xebd1
-@v	2/3(diš@c)@v
-@end sign
-
 @sign |NINDA₂×ŠE|
 @oid	o0002118
 @list	BAU066
@@ -32326,8 +32372,14 @@
 @link Wikidata Q87556201 http://www.wikidata.org/entity/Q87556201
 @form |NINDA₂×(ŠE.AŠ@c)|
 @aka |NINDA₂×(ŠE.1(AŠ@c))|
+@aka |NINDA₂×ŠUŠANA@c|
 @oid	o0223482
+@list	LAK106
+@list	RSP106
+@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP106.
 @inote	@ucode	xebce
+@v	1/3(aš@c@v)
+@inote 1/3(aš@c@v) is a CDLI transliteration
 @@
 @end sign
 
@@ -32345,8 +32397,14 @@
 @link Wikidata Q87556203 http://www.wikidata.org/entity/Q87556203
 @form |NINDA₂×(ŠE.AŠ@c.AŠ@c)|
 @aka |NINDA₂×(ŠE.2(AŠ@c))|
+@aka |NINDA₂×ŠANABI@c|
 @oid	o0223483
+@list	LAK107
+@list	RSP107
+@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP107.
 @inote	@ucode	xebcf
+@v	2/3(aš@c@v)
+@inote 2/3(aš@c@v) is a CDLI transliteration
 @@
 @end sign
 
@@ -32362,14 +32420,6 @@
 @oid	o0021451
 @list	BAU070
 @inote	ED I-II Ur
-@end sign
-
-@sign |NINDA₂×ŠUŠANA@c|
-@oid	o0223371
-@list	LAK106
-@list	RSP106
-@inote	@ucode	xebd0
-@v	1/3(diš@c)@v
 @end sign
 
 @sign |NINDA₂×TUR|
@@ -38629,6 +38679,12 @@
 @v	šudaminₓ?
 @link eBL ŠANABI https://www.ebl.lmu.de/signs/ŠANABI
 @link Wikidata Q87557042 http://www.wikidata.org/entity/Q87557042
+@form ŠANABI@v
+@oid	o0038144
+@v	2/3(diš@v)
+@inote P010528 = OIP 014, 049 o i 3: this variant has a cuneiform frame
+       with a curved central stroke--presumably a hybrid 2/3(diš)
+@@
 @end sign
 
 @sign ŠANABI@c
@@ -49273,46 +49329,63 @@
 @end sign
 
 @sign 1(|AŠ×DIŠ@t|)
+@aka	1(|AŠ×AŠ@t|)
 @oid	o0223341
 @list	RSP093
+@form 1(|BAD×DIŠ@t|)
+@aka 1(|BAD×AŠ@t|)
+@oid	o0038143
+@inote This sign is unattested but is needed to handle n(|BAD×AŠ@t|) which occurs in ED3b
 @end sign
 
 @sign 2(|AŠ×DIŠ@t|)
+@aka	2(|AŠ×AŠ@t|)
 @oid	o0223342
 @list	RSP093
 @end sign
 
 @sign 3(|AŠ×DIŠ@t|)
+@aka	3(|AŠ×AŠ@t|)
 @oid	o0223343
 @list	RSP093
 @end sign
 
 @sign 4(|AŠ×DIŠ@t|)
+@aka	4(|AŠ×AŠ@t|)
 @oid	o0223344
 @list	RSP093
 @end sign
 
 @sign 5(|AŠ×DIŠ@t|)
+@aka	5(|AŠ×AŠ@t|)
 @oid	o0223345
 @list	RSP093
 @end sign
 
 @sign 6(|AŠ×DIŠ@t|)
+@aka	6(|AŠ×AŠ@t|)
 @oid	o0223346
 @list	RSP093
 @end sign
 
 @sign 7(|AŠ×DIŠ@t|)
+@aka	7(|AŠ×AŠ@t|)
 @oid	o0223347
 @list	RSP093
+@form 7(|BAD×DIŠ@t|)
+@aka 7(|BAD×AŠ@t|)
+@oid	o0038141
+@@
 @end sign
 
 @sign 8(|AŠ×DIŠ@t|)
+@aka	8(|AŠ×AŠ@t|)
 @oid	o0223348
 @list	RSP093
 @end sign
 
 @sign 9(|AŠ×DIŠ@t|)
+@aka	9(|AŠ×AŠ@t|)
 @oid	o0223349
 @list	RSP093
 @end sign
@@ -49549,6 +49622,7 @@
 @form GEŠ₂@t
 @oid	o0223472
 @v	geš₂@t
+@v	1(geš₂@t)
 @@
 @end sign
 
@@ -49565,6 +49639,10 @@
 @oid	o0223393
 @inote	@ucode	xeb97
 @v	2(geš₂@c)
+@@
+@form 2(GEŠ₂@t)
+@oid	o0038151
+@v	2(geš₂@t)
 @@
 @end sign
 
@@ -49587,6 +49665,10 @@
 @inote	@ucode	xeb98
 @v	3(geš₂@c)
 @@
+@form 3(GEŠ₂@t)
+@oid	o0038153
+@v	3(geš₂@t)
+@@
 @end sign
 
 @sign 4(GEŠ₂)
@@ -49608,6 +49690,10 @@
 @inote	@ucode	xeb9a
 @v	4(geš₂@c)
 @@
+@form 4(GEŠ₂@t)
+@oid	o0038155
+@v	4(geš₂@t)
+@@
 @end sign
 
 @sign 5(GEŠ₂)
@@ -49623,6 +49709,10 @@
 @oid	o0223428
 @inote	@ucode	xeb9c
 @v	5(geš₂@c)
+@@
+@form 5(GEŠ₂@t)
+@oid	o0038157
+@v	5(geš₂@t)
 @@
 @end sign
 
@@ -49640,6 +49730,10 @@
 @inote	@ucode	xeb9d
 @v	6(geš₂@c)
 @@
+@form 6(GEŠ₂@t)
+@oid	o0038159 
+@v	6(geš₂@t)
+@@
 @end sign
 
 @sign 7(GEŠ₂)
@@ -49655,6 +49749,10 @@
 @oid	o0223443
 @inote	@ucode	xeb9e
 @v	7(geš₂@c)
+@@
+@form 7(GEŠ₂@t)
+@oid	o0038161
+@v	7(geš₂@t)
 @@
 @end sign
 
