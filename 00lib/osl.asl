@@ -10952,7 +10952,7 @@
 @sign F₇
 @oid	o0038137
 @v	1/2(diš@t)
-@inote P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ and F₇ is a slanted cuneiform DIŠ with a horizontal indicating the half value as with 1/2(aš@c)
+@inote P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ and F₇ is a NE to SW slanted cuneiform DIŠ with a horizontal indicating the half value as with 1/2(aš@c)
 @end sign
 
 @sign F₈
@@ -10963,6 +10963,12 @@
 @oid	o0038163
 @v	1/2(iku@v)
 @inote This form is something like BAD@90. P221565 i 4.
+@@
+@form F₈@t
+@oid	o0038163
+@v	1/2(iku@t)
+@inote This form is a NW to SE slanted cuneiform DIŠ with a horizontal; P392107
+@@
 @end sign
 
 @sign 1(IKU@t)
