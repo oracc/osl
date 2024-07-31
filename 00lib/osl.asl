@@ -10965,16 +10965,17 @@
 @oid	o0038147
 @v	1/2(iku@c@v)
 @inote This form can be described as |1(DIŠ@c)×1(DIŠ)|
-@form F₈@v
+@form F₈@t
 @oid	o0038163
-@v	1/2(iku@v)
+@v	1/2(iku@t)
 @inote This form is something like BAD@90. P221565 i 4.
 @@
-@form F₈@t
+@end sign
+
+@sign F₉
 @oid	o0038173
-@v	1/2(iku@t)
+@v	1/4(iku@t)
 @inote This form is a NW to SE slanted cuneiform DIŠ with a horizontal; P392107
-@@
 @end sign
 
 @sign 1(IKU@t)
@@ -14830,6 +14831,7 @@
 @@
 @form |GIŠ.KI.KUŠU₂|
 @oid	o0038184
+@useq x12111.x121A0.x121B5
 @v	gešaₓ
 @v	ŋešaₓ
 @@
@@ -22457,6 +22459,7 @@
 @form 5/6(DIŠ@c)
 @oid	o0223431
 @v	5/6(diš@c)
+@v	5/6(aš@c)
 @@
 @end sign
 
@@ -29172,6 +29175,8 @@
 @v	1/2(diš@c)
 @v	1/2(aš@c)
 @inote I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
+@v	1/4(diš@c)
+@inote  This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP/036 but the value should be treated as uncertain.
 @@
 @form MAŠ@t
 @oid	o0000450
@@ -41558,6 +41563,10 @@
 @link eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
 @end sign
 
+@sign |TA×U|
+@oid	o0038186
+@end sign
+
 @sign TA@g
 @oid	o0000542
 @list	LAK654
@@ -48331,6 +48340,7 @@
 @oid	o0223438
 @inote	@ucode	xeb88
 @v	7(aš@c)
+@v	7(iku@c)
 @@
 @end sign
 
