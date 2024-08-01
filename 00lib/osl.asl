@@ -10079,6 +10079,12 @@
 @ucun	𒊺𒂠𒉣𒁍𒈛
 @v	samanₓ
 @@
+@form |ŠE.EŠ₂.NUN&NUN|
+@oid	o0038188
+@useq	x122BA.x120A0.x1226A
+@ucun	𒊺𒂠𒉪
+@v	samanₓ
+@@
 @form |ŠE.NUN.BU.LUH|
 @oid	o0038124
 @useq	x122BA.x12263.x1204D.x1221B
@@ -29151,6 +29157,8 @@
 @uage	5.0
 @v	ba₇
 @v-	baš
+@v	1/2(aš)
+@inote 1/2(aš) used by CDLI with GUR measures
 @v	1/2(diš)
 @v	ma₇
 @v	mas
@@ -32404,6 +32412,8 @@
 @list	U+1225C
 @ucun	𒉜
 @uage	5.0
+@v	1/3(aš@v)
+@inote 1/3(aš@v) is an ePSD2 transliteration coined from CDLI's 1/3(aš@c@v)
 @v	saₓ
 @link eBL |NINDA₂×(ŠE.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ)|
 @link Wikidata Q87556201 http://www.wikidata.org/entity/Q87556201
@@ -32421,6 +32431,7 @@
 @end sign
 
 @sign |NINDA₂×(ŠE.AŠ.AŠ)|
+@aka |NINDA₂×(ŠE.2(AŠ))|
 @oid	o0002094
 @pname	|NINDA₂×ŠE+AŠ+AŠ|
 @list	MZL332
@@ -32429,6 +32440,8 @@
 @list	U+1225D
 @ucun	𒉝
 @uage	5.0
+@v	2/3(aš@v)
+@inote 2/3(aš@v) is an ePSD2 transliteration coined from CDLI's 2/3(aš@c@v)
 @v	saₓ
 @link eBL |NINDA₂×(ŠE.AŠ.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ.AŠ)|
 @link Wikidata Q87556203 http://www.wikidata.org/entity/Q87556203
@@ -50447,6 +50460,7 @@
 @ucun	𒐣
 @uage	5.0
 @v	2(šar₂)
+@v	2(šargal)
 @link Wikidata Q87556910 http://www.wikidata.org/entity/Q87556910
 @form 2(ŠAR₂@c)
 @oid	o0223395
@@ -50462,6 +50476,7 @@
 @ucun	𒐤
 @uage	5.0
 @v	3(šar₂)
+@v	3(šargal)
 @link Wikidata Q87556912 http://www.wikidata.org/entity/Q87556912
 @form 3(ŠAR₂@c)
 @oid	o0223409
@@ -50492,6 +50507,7 @@
 @ucun	𒐦
 @uage	5.0
 @v	4(šar₂)
+@v	4(šargal)
 @link Wikidata Q87556916 http://www.wikidata.org/entity/Q87556916
 @form 4(ŠAR₂@c)
 @oid	o0223422
@@ -50507,6 +50523,7 @@
 @ucun	𒐧
 @uage	5.0
 @v	5(šar₂)
+@v	5(šargal)
 @link Wikidata Q87556917 http://www.wikidata.org/entity/Q87556917
 @form 5(ŠAR₂@c)
 @oid	o0223430
@@ -50522,6 +50539,7 @@
 @ucun	𒐨
 @uage	5.0
 @v	6(šar₂)
+@v	6(šargal)
 @link Wikidata Q87556919 http://www.wikidata.org/entity/Q87556919
 @form 6(ŠAR₂@c)
 @oid	o0223437
@@ -50537,6 +50555,7 @@
 @ucun	𒐩
 @uage	5.0
 @v	7(šar₂)
+@v	7(šargal)
 @link Wikidata Q87556921 http://www.wikidata.org/entity/Q87556921
 @form 7(ŠAR₂@c)
 @oid	o0223445
@@ -50552,6 +50571,7 @@
 @ucun	𒐪
 @uage	5.0
 @v	8(šar₂)
+@v	8(šargal)
 @link Wikidata Q87556923 http://www.wikidata.org/entity/Q87556923
 @form 8(ŠAR₂@c)
 @oid	o0223450
@@ -50567,6 +50587,8 @@
 @ucun	𒐫
 @uage	5.0
 @v	9(šar₂)
+@v	9(šargal)
+@inote 9(šargal) P102004
 @link Wikidata Q87556926 http://www.wikidata.org/entity/Q87556926
 @form 9(ŠAR₂@c)
 @oid	o0223460
