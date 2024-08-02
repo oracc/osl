@@ -22456,6 +22456,7 @@
 @list	U+1245C
 @ucun	𒑜
 @uage	5.0
+@v	5/6(aš)
 @v	5/6(diš)
 @v	kingusila
 @v	kingusili
@@ -38728,6 +38729,7 @@
 @list	U+1245B
 @ucun	𒑛
 @uage	5.0
+@v	2/3(aš)
 @v	2/3(diš)
 @v	šanaba
 @v	šanabi
@@ -41459,6 +41461,7 @@
 @list	U+1245A
 @ucun	𒑚
 @uage	5.0
+@v	1/3(aš)
 @v	1/3(diš)
 @v	1/3(iku)
 @v	igišŋalₓ
