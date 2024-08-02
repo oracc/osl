@@ -32412,6 +32412,10 @@
 @list	U+1225C
 @ucun	𒉜
 @uage	5.0
+@v	1/3(|NINDA₂×(ŠE.AŠ)|)
+@v	1/3(|NINDA₂×(ŠE.1(AŠ))|)
+@inote any values of the 1/3(|NINDA₂.xxx|) kind have to be special-cased in the asl lexer;
+       @aka doesn't work with these
 @v	1/3(aš@v)
 @inote 1/3(aš@v) is an ePSD2 transliteration coined from CDLI's 1/3(aš@c@v)
 @v	saₓ
@@ -32440,6 +32444,8 @@
 @list	U+1225D
 @ucun	𒉝
 @uage	5.0
+@v	2/3(|NINDA₂×(ŠE.AŠ.AŠ)|)
+@v	2/3(|NINDA₂×(ŠE.2(AŠ))|)
 @v	2/3(aš@v)
 @inote 2/3(aš@v) is an ePSD2 transliteration coined from CDLI's 2/3(aš@c@v)
 @v	saₓ
