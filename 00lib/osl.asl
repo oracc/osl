@@ -1915,6 +1915,16 @@
 @link Wikidata Q87557094 http://www.wikidata.org/entity/Q87557094
 @end sign
 
+@sign |AB×TAK₄|
+@oid o0038190
+@inote requires collation; typo for AB₂×TAK₄?; epsd2/admin/ur3
+@end sign
+
+@sign |GIŠ×ŠU|
+@oid o0038192
+@inote requires collation; epsd2/admin/ur3
+@end sign
+
 @sign |AB×U|
 @oid	o0025711
 @list	REC349
@@ -5227,6 +5237,16 @@
 @v	šimbi₃
 @link eBL |BI×IGI@g| https://www.ebl.lmu.de/signs/|BI×IGI@g|
 @link Wikidata Q87555151 http://www.wikidata.org/entity/Q87555151
+@end sign
+
+@sign |BI×PAP|
+@oid o0038196
+@inote epsd2/admin/ur3
+@end sign
+
+@sign |GA₂×BU|
+@oid o0038197
+@inote epsd2/admin/ur3
 @end sign
 
 @sign BIL₂@g
@@ -11257,6 +11277,11 @@
 @link eBL |GA₂.SILA₃| https://www.ebl.lmu.de/signs/|GA₂.SILA₃|
 @end sign
 
+@sign |GA₂×A|
+@oid	o0037208
+@inote epsd2/admin/ur3
+@end sign
+
 @sign |GA₂×(A.DA.HA)|
 @oid	o0001246
 @pname	|GA₂×A+DA+HA|
@@ -12267,6 +12292,11 @@
 @uage	8.0
 @link eBL |GA₂×LUH| https://www.ebl.lmu.de/signs/|GA₂×LUH|
 @link Wikidata Q87557215 http://www.wikidata.org/entity/Q87557215
+@end sign
+
+@sign |GA₂×ME|
+@oid o0038201
+@inote epsd2/admin/ur3
 @end sign
 
 @sign |GA₂×(ME.EN)|
@@ -16966,6 +16996,11 @@
 @inote	Emar
 @useq	x1212D.x12263
 @ucun	𒄭𒉣
+@@
+@form |HI×(U.U.U)|
+@aka |HI×EŠ|
+@oid	o0023047
+@v	uh
 @@
 @end sign
 
@@ -22186,6 +22221,11 @@
 @useq	x122E2.x121FB.x122D7.x121A0.x120FB
 @ucun	𒋢𒇻𒋗𒆠𒃻
 @@
+@form |SU.LU.ŠU.KI.GAR.RA|
+@oid	o0038195
+@useq	x122E2.x121FB.x122D7.x121A0.x120FB.x1228F
+@ucun	𒋢𒇻𒋗𒆠𒃻𒊏
+@@
 @end sign
 
 @sign |KI.ŠEŠ.KAK|
@@ -22471,6 +22511,7 @@
 @list	U+1245C
 @ucun	𒑜
 @uage	5.0
+@v	5/6(aš)
 @v	5/6(diš)
 @v	kingusila
 @v	kingusili
@@ -32427,6 +32468,10 @@
 @list	U+1225C
 @ucun	𒉜
 @uage	5.0
+@v	1/3(|NINDA₂×(ŠE.AŠ)|)
+@v	1/3(|NINDA₂×(ŠE.1(AŠ))|)
+@inote any values of the 1/3(|NINDA₂.xxx|) kind have to be special-cased in the asl lexer;
+       @aka doesn't work with these
 @v	1/3(aš@v)
 @inote 1/3(aš@v) is an ePSD2 transliteration coined from CDLI's 1/3(aš@c@v)
 @v	saₓ
@@ -32455,6 +32500,8 @@
 @list	U+1225D
 @ucun	𒉝
 @uage	5.0
+@v	2/3(|NINDA₂×(ŠE.AŠ.AŠ)|)
+@v	2/3(|NINDA₂×(ŠE.2(AŠ))|)
 @v	2/3(aš@v)
 @inote 2/3(aš@v) is an ePSD2 transliteration coined from CDLI's 2/3(aš@c@v)
 @v	saₓ
@@ -37921,6 +37968,23 @@
 @@
 @end sign
 
+@sign |GU₂×(U.U.U)|
+@aka |GU₂×EŠ|
+@oid o0038209
+@inote epsd2/admin/ur3
+@end sign
+
+@sign |SU×KUR|
+@oid o0038211	
+@end sign
+
+@sign |SU×KUR.RU|
+@oid o0038207
+@useq X.x12292
+@v sudₓ
+@inote epsd2/admin/ur3
+@end sign
+
 @compoundonly	|(SU.LU.EŠ₂.GAR)&(SU.LU.EŠ₂.GAR)|
 @inote	added during ogsl upgrade
 
@@ -38737,6 +38801,7 @@
 @list	U+1245B
 @ucun	𒑛
 @uage	5.0
+@v	2/3(aš)
 @v	2/3(diš)
 @v	šanaba
 @v	šanabi
@@ -41473,6 +41538,7 @@
 @list	U+1245A
 @ucun	𒑚
 @uage	5.0
+@v	1/3(aš)
 @v	1/3(diš)
 @v	1/3(iku)
 @v	igišŋalₓ
@@ -45650,6 +45716,11 @@
 @link Wikidata Q87556601 http://www.wikidata.org/entity/Q87556601
 @end sign
 
+@sign |UR₂×PA|
+@oid o0038194
+@inote epsd2/admin/ur3 ; requires collation; is this different from UR₂×GAD??
+@end sign
+ 
 @sign |UR₂×TAK₄.SU|
 @oid	o0002593
 @aka	|UR₂×KID₂.SU|
@@ -45657,6 +45728,21 @@
 @useq	X.x122E2
 @ucun	X𒋢
 @v	umbinₓ
+@end sign
+
+@sign |UR₂×U|
+@oid o0038202
+@inote epsd2/admin/ur3
+@end sign
+
+@sign |UR₂×ZI|
+@oid	o0038203
+@inote epsd2/admin/ur3
+@end sign
+
+@sign |KA×NI|
+@oid o0038205
+@inote epsd2/admin/ur3
 @end sign
 
 @sign |UR₂×U₂|
@@ -47867,6 +47953,7 @@
 @list	U+12369
 @ucun	𒍩
 @uage	5.0
+@v	ulušinₓ
 @v	ziz₂
 @link eBL ZIZ₂ https://www.ebl.lmu.de/signs/ZIZ₂
 @link Wikidata Q87556726 http://www.wikidata.org/entity/Q87556726
@@ -47907,6 +47994,7 @@
 @v	udra₃
 @v	ulušin₃
 @link eBL |ZIZ₂.AN| https://www.ebl.lmu.de/signs/|ZIZ₂.AN|
+
 @end sign
 
 @sign |ZIZ₂.AN.AN|
