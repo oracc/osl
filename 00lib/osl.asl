@@ -1920,11 +1920,6 @@
 @inote requires collation; typo for AB₂×TAK₄?; epsd2/admin/ur3
 @end sign
 
-@sign |GIŠ×ŠU|
-@oid o0038192
-@inote requires collation; epsd2/admin/ur3
-@end sign
-
 @sign |AB×U|
 @oid	o0025711
 @list	REC349
@@ -8734,11 +8729,6 @@
 @end sign
 
 @sign |E₂×GAR|
-@oid o0038215
-@inote epsd2/admin/ur3
-@end sign
-
-@sign |E₂×GAR|
 @oid	o0001156
 @uname	CUNEIFORM SIGN E2 TIMES GAR
 @list	U+1208F
@@ -8765,6 +8755,11 @@
 @end sign
 
 @sign |LA×KUR|
+@oid o0038214
+@inote epsd2/admin/ur3 needs collation
+@end sign
+
+@sign |E₂×GAN₂|
 @oid o0038215
 @inote epsd2/admin/ur3 needs collation
 @end sign
@@ -22221,10 +22216,10 @@
 @useq	x122E2.x121FB.x122D7.x121A0.x120FB
 @ucun	𒋢𒇻𒋗𒆠𒃻
 @@
-@form |SU.LU.ŠU.KI.GAR.RA|
+@form |SU.LU.EŠ₂.KI.GAR.RA|
 @oid	o0038195
-@useq	x122E2.x121FB.x122D7.x121A0.x120FB.x1228F
-@ucun	𒋢𒇻𒋗𒆠𒃻𒊏
+@useq	x122E2.x121FB.x120A0.x121A0.x120FB.x1228F
+@ucun	𒋢𒇻𒂠𒆠𒃻𒊏
 @@
 @end sign
 
