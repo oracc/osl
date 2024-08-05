@@ -9082,6 +9082,8 @@
 
 @compoundonly	ELLES214
 
+@compoundonly	DIŠ.BAD&BAD
+
 @sign ELLES257
 @oid	o0025799
 @end sign
@@ -39503,6 +39505,7 @@
 @sign |U&U.GAD&GAD.GAR&GAR|
 @aka  |(U.KINDA)&(U.KINDA)|
 @oid	o0038218
+@useq X.x120F1
 @end sign
 
 @sign |ŠE&ŠE.GAD&GAD.GAR&GAR|
