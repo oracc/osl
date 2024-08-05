@@ -48813,6 +48813,18 @@
 @note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @end sign
 
+@sign 1(U@90)
+@end sign
+
+@sign 2(U@90)
+@end sign
+
+@sign |DIŠ×1(U@90)|
+@end sign
+
+@sign |DIŠ×2(U@90)|
+@end sign
+
 @sign 2(DIŠ@t)
 @oid	o0000014
 @list	RSP039
