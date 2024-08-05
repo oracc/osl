@@ -8714,6 +8714,11 @@
 @end sign
 
 @sign |E₂×GAR|
+@oid o0038215
+@inote epsd2/admin/ur3
+@end sign
+
+@sign |E₂×GAR|
 @oid	o0001156
 @uname	CUNEIFORM SIGN E2 TIMES GAR
 @list	U+1208F
@@ -8732,6 +8737,16 @@
 @aka	|E₂×GI₃|
 @v	giₓ?
 @inote	Needs collation; Cavigneaux in Iraq 85
+@end sign
+
+@sign |GIŠ×ŠU|
+@oid o0038213
+@inote epsd2/admin/ur3 needs collation
+@end sign
+
+@sign |LA×KUR|
+@oid o0038215
+@inote epsd2/admin/ur3 needs collation
 @end sign
 
 @sign |E₂×KUR|
@@ -39425,6 +39440,11 @@
 @link Wikidata Q87557446 http://www.wikidata.org/entity/Q87557446
 @end sign
 
+@sign |U&U.GAD&GAD.GAR&GAR|
+@aka  |(U.KINDA)&(U.KINDA)|
+@oid	o0038218
+@end sign
+
 @sign |ŠE&ŠE.GAD&GAD.GAR&GAR|
 @oid	o0002705
 @list	SLLHA369
@@ -48348,6 +48368,7 @@
 @ucun	𒐅
 @uage	5.0
 @v	7(aš)
+@v	7(iku)
 @link Wikidata Q87556841 http://www.wikidata.org/entity/Q87556841
 @form 7(AŠ@c)
 @oid	o0223438
@@ -48355,6 +48376,12 @@
 @v	7(aš@c)
 @v	7(iku@c)
 @@
+@end sign
+
+@sign |LAGAB×(DIŠ.BAD&BAD)|
+@oid	o0038216
+@v  dibₓ
+@inote epsd2/admin/ur3 needs collation
 @end sign
 
 @sign 7(AŠ~a)
