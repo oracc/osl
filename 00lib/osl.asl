@@ -9082,7 +9082,7 @@
 
 @compoundonly	ELLES214
 
-@compoundonly	DIŠ.BAD&BAD
+@compoundonly	|DIŠ.BAD&BAD|
 
 @sign ELLES257
 @oid	o0025799
