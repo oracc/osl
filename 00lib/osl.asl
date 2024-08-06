@@ -24289,6 +24289,7 @@
 @end sign
 
 @sign |LAGAB×(GUD&GUD)+HUL₂|
+@aka |U₈.HUL₂|
 @oid	o0235344
 @pname	|LAGAB×(GUD+GUD)+HUL₂|
 @useq	x121C7.x1213E
@@ -33520,6 +33521,12 @@
 @ucun	𒉭X
 @@
 @end sign
+
+@sign |NUNUZ.AB₂×(BI.SILA₃)|
+@oid 	o0038230
+@inote epsd2/admin/ur; CDLI "KWU475×BI|"; sign clear on photo P250637
+@end sign
+
 
 @sign |NUNUZ.AB₂×(BUR₂.LU₃)|
 @oid	o0002143
