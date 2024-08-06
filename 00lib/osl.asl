@@ -16547,6 +16547,7 @@
 @v	ta₈
 @v	ṭa₃
 @v	ṭab₆
+@v	ṭibₓ
 @link eBL HI https://www.ebl.lmu.de/signs/HI
 @link Wikidata Q87555589 http://www.wikidata.org/entity/Q87555589
 @form DIN
@@ -23510,6 +23511,8 @@
 @sign KWU745
 @oid	o0025725
 @list	KWU745
+@v šimₓ
+@inote šimₓ in CDLI Ur3 admin P332425
 @end sign
 
 @sign KWU798
@@ -33525,7 +33528,7 @@
 @sign |NUNUZ.AB₂×(BI.SILA₃)|
 @oid 	o0038232
 @useq x1226D.X
-@inote epsd2/admin/ur; CDLI "KWU475×BI|"; sign clear on photo P250637
+@inote epsd2/admin/ur; CDLI "|KWU475×BI|"; sign clear on photo P250637
 @end sign
 
 @compoundonly |AB₂×(BI.SILA₃)|
@@ -37925,6 +37928,10 @@
 @ucun	𒋢𒀀
 @v	aktum₂
 @link eBL |SU.A| https://www.ebl.lmu.de/signs/|SU.A|
+@form |A.ZU|
+@oid o0038236
+@useq x12000.x1236A
+@v aktumₓ
 @end sign
 
 @sign |SU.EDIN|
