@@ -33527,6 +33527,7 @@
 @inote epsd2/admin/ur; CDLI "KWU475×BI|"; sign clear on photo P250637
 @end sign
 
+@compoundonly |BI.SILA₃|
 
 @sign |NUNUZ.AB₂×(BUR₂.LU₃)|
 @oid	o0002143
