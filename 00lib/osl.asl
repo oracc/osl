@@ -1864,6 +1864,11 @@
 @inote	ed3b P216834 maybe connect with mahₓ(|AB×U|)
 @end sign
 
+@sign |AB×MAŠ|
+@oid	o0038239
+@inote epsd2/admin/ur3
+@end sign
+
 @sign |AB×NUN|
 @oid	o0000754
 @list	MZL224
@@ -2085,6 +2090,13 @@
 @ucun	𒀖𒀭𒋀𒆠
 @v	munzerₓ
 @link eBL |AB₂.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|AB₂.AN.ŠEŠ.KI|
+@end sign
+
+@sign |IGI.PA|
+@oid	o0038241
+@useq x12146.x1227A
+@ucun 𒅆𒉺
+@v paₓ
 @end sign
 
 @sign |AB₂.KU|
@@ -3301,6 +3313,11 @@
 @useq	x12239.x122FC.x12015
 @ucun	𒈹𒋼𒀕
 @v	zabalaₓ
+@@
+@form |MUŠ₃.ZA|
+@oid	o0002043
+@useq	x12239.x1235D
+@ucun	𒈹𒍝
 @@
 @end sign
 
@@ -17956,8 +17973,14 @@
 @v	seg₅
 @v	sig₅
 @v	ša₁₅?
+@v	šiₓ
 @sys	Attinger saga₁₀ => sag₁₀
 @link eBL |IGI.ERIN₂| https://www.ebl.lmu.de/signs/|IGI.ERIN₂|
+@end sign
+
+@sign |EŠ₂×GAD|
+@oid o0038237
+@inote epsd2/admin/ur3; need collation
 @end sign
 
 @sign |IGI.EŠ₂|
