@@ -3318,6 +3318,8 @@
 @oid	o0002043
 @useq	x12239.x1235D
 @ucun	𒈹𒍝
+@v	zabalaₓ
+@v	zabalamₓ
 @@
 @end sign
 
