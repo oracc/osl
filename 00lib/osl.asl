@@ -356,6 +356,11 @@
 @ucun	𒀀𒄐𒃰𒃻𒀀𒋛
 @v	addirₓ
 @link eBL |A.GISAL.GAD.GAR.A.SI| https://www.ebl.lmu.de/signs/|A.GISAL.GAD.GAR.A.SI|
+@form |A.LAK648×A.GISAL.GAD.GAR.A.SI|
+@oid  o0038275
+@useq x12000.X.x12110.x120F0.x120FB.x12000.x122DB
+@ucun 𒀀X𒄐𒃰𒃻𒀀𒋛
+@@
 @end sign
 
 @sign |A.GISAL.PAD.SI.A|
@@ -6307,6 +6312,11 @@
 @sign |DAG×PAP|
 @oid	o0031721
 @list	ELLES362a
+@end sign
+
+@sign |DAG×U|
+@oid	o0038265
+@inote epsd2/oakk
 @end sign
 
 @sign DAG₃
@@ -25945,12 +25955,6 @@
 @link eBL LAK093 https://www.ebl.lmu.de/signs/LAK093
 @end sign
 
-@sign LAK099
-@oid	o0025817
-@list	LAK099
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
 @sign LAK11
 @oid	o0000311
 @list	LAK011
@@ -30412,6 +30416,16 @@
 @@
 @end sign
 
+@sign |MUŠ₃×AN|
+@oid  o0038271
+@inote epsd2/oakk; requires collation no photo on CDLI (check Banca d'Italia)
+@end sign
+
+@sign |TA×KASKAL|
+@oid  o0038273
+@inote epsd2/oakk; possibly read GUR₈!
+@end sign
+
 @sign |MUŠ₃.AB|
 @oid	o0002038
 @useq	x12239.x1200A
@@ -32178,7 +32192,13 @@
 
 @sign |NINDA₂×AŠ@c|
 @oid	o0028039
+@list	LAK099
 @inote	gvl unknown compound
+@end sign
+
+@sign |NINDA₂×2(AŠ@c)|
+@oid	o0038269
+@inote epsd2/oakk; ebla; not in LAK 
 @end sign
 
 @sign |NINDA₂×3(AŠ)|
@@ -46123,6 +46143,11 @@
 @link Wikidata Q87556621 http://www.wikidata.org/entity/Q87556621
 @end sign
 
+@sign |URU×BAD|
+@oid	o0038267
+@inote epsd2/oakk
+@end sign
+
 @sign |URU×BAR|
 @oid	o0002555
 @list	ABZL186
@@ -48821,6 +48846,12 @@
 @v	5(gešʾu@c)
 @v	5(gešu@c)
 @@
+@end sign
+
+@sign 7(GEŠU)
+@oid	o0038263
+@v	7(gešʾu)
+@v	7(ŋešʾu)
 @end sign
 
 @sign 2(AŠ@t)
