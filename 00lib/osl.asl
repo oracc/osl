@@ -38853,11 +38853,15 @@
 @inote P010528 = OIP 014, 049 o i 3: this variant has a cuneiform frame
        with a curved central stroke--presumably a hybrid 2/3(diš)
 @@
-@end sign
-
-@sign ŠANABI@c
+@form ŠANABI@t
+@oid	o0038243
+@v 2/3(diš@t)
+@inote minor graphic variant in Lagash II
+@@
+@form ŠANABI@c
 @oid	o0027578
 @inote	for lak.atf
+@@
 @end sign
 
 @sign ŠAR₂
@@ -41598,6 +41602,12 @@
 @@
 @end sign
 
+@sign |LU.KU|
+@oid o0038245
+@useq x121FB.x121AA
+@ucun 𒇻𒆪
+@end sign
+
 @sign |4×TAB|
 @oid	o0000653
 @list	ABZL109
@@ -42858,6 +42868,7 @@
 @list	U+1253A
 @ucun	𒔺
 @uage	8.0
+@v	egirₓ
 @v	tumₓ
 @link eBL |TUM×GAN₂@t| https://www.ebl.lmu.de/signs/|TUM×GAN₂@t|
 @link Wikidata Q87557463 http://www.wikidata.org/entity/Q87557463
@@ -49135,6 +49146,7 @@
 @form 1(ŠARU@v)
 @oid	o0223374
 @v	šarʾu@v
+@v	1(šarʾu@v)
 @inote	cdli lagash2
 @v	šaru@v
 @@
@@ -49157,6 +49169,11 @@
 @inote	@ucode	xebb2
 @v	2(šarʾu@c)
 @v	2(šaru@c)
+@@
+@form 2(ŠARU@v)
+@oid	o0038246
+@v	2(šarʾu@v)
+@inote	cdli lagash2
 @@
 @end sign
 
@@ -49215,6 +49232,11 @@
 @inote	@ucode	xebb6
 @v	5(šarʾu@c)
 @v	5(šaru@c)
+@@
+@form 5(ŠARU@v)
+@oid	o0038248
+@v	5(šarʾu@v)
+@inote	cdli lagash2
 @@
 @end sign
 
