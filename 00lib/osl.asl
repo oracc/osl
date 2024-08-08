@@ -41606,6 +41606,7 @@
 @oid o0038245
 @useq x121FB.x121AA
 @ucun 𒇻𒆪
+@v unuₓ
 @end sign
 
 @sign |4×TAB|
