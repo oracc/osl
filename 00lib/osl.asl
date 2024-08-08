@@ -13945,41 +13945,41 @@
 @inote Attested
 @end sign
 
-@sign |2(GEŠU@c×KASKAL)|
+@sign 2(|GEŠU@c×KASKAL|)
 @oid  o0038252
 @v	2(gešʾu@v)
 @v	2(ŋešʾu@v)
 @inote Attested
 @end sign
 
-@sign |3(GEŠU@c×KASKAL)|
+@sign 3(|GEŠU@c×KASKAL|)
 @oid  o0038254
 @v	3(gešʾu@v)
 @v	3(ŋešʾu@v)
 @inote Attested
 @end sign
 
-@sign |4(GEŠU@c×KASKAL)|
+@sign 4(|GEŠU@c×KASKAL|)
 @oid  o0038256
 @v	4(gešʾu@v)
 @v	4(ŋešʾu@v)
 @inote Attested
 @end sign
 
-@sign |5(GEŠU@c×KASKAL)|
+@sign 5(|GEŠU@c×KASKAL|)
 @oid  o0038258
 @v	5(gešʾu@v)
 @v	5(ŋešʾu@v)
 @end sign
 
-@sign |6(GEŠU@c×KASKAL)|
+@sign 6(|GEŠU@c×KASKAL|)
 @oid  o0038260
 @v	6(gešʾu@v)
 @v	6(ŋešʾu@v)
 @inote Attested
 @end sign
 
-@sign |7(GEŠU@c×KASKAL)|
+@sign 7(|GEŠU@c×KASKAL|)
 @oid  o0038262
 @v	7(gešʾu@v)
 @v	7(ŋešʾu@v)
