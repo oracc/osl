@@ -4830,6 +4830,8 @@
 @list	U+12047
 @ucun	𒁇
 @uage	5.0
+@v	1/2(diš)@v
+@inote Collated from photo; sign definitely BAR--perhaps simpler to read 1/2(diš)!
 @v	ba₁₅
 @v	bar
 @v	bara
@@ -10349,6 +10351,15 @@
 @inote	to support sir(KEŠ₂)-re in Nippur Nigga Q000052 228, even though it needs collation
 @link eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
 @@
+@end sign
+
+@sign |EZEN×2(DIŠ@t)|
+@oid  o0038298
+@inote could also be described as EZEN×TAB@t
+@end sign
+
+@sign |SILA₃×5(DIŠ)|
+@oid  o0038300
 @end sign
 
 @sign |EZEN×A|
@@ -16723,6 +16734,12 @@
 @ucun	𒄭𒋦
 @end sign
 
+@sign |(HI&HI).SUHUR|
+@oid	o0038302
+@useq	X.x122E6
+@ucun	X𒋦
+@end sign
+
 @sign |HI×AŠ|
 @oid	o0001447
 @list	ABZL278
@@ -20180,7 +20197,8 @@
 
 @sign |KA×MAŠ|
 @oid	o0028000
-@inote	gvl unknown compound
+@v	kabₓ
+@inote oakk
 @end sign
 
 @sign |KA×ME|
@@ -29251,6 +29269,8 @@
 @link eBL MAH@g https://www.ebl.lmu.de/signs/MAH@g
 @end sign
 
+@compoundonly |(HI&HI)|
+
 @sign MAR
 @oid	o0000448
 @list	ABZL144
@@ -29308,6 +29328,7 @@
 @v-	baš
 @v	1/2(aš)
 @inote 1/2(aš) used by CDLI with GUR measures
+@v	1/2(ban₂)
 @v	1/2(diš)
 @v	ma₇
 @v	mas
@@ -32655,8 +32676,6 @@
 
 @sign |NINDA₂×U|
 @oid	o0002113
-@list	ELLES060
-@list	LAK102
 @uname	CUNEIFORM SIGN NINDA2 TIMES U
 @list	U+1252A
 @ucun	𒔪
@@ -32664,6 +32683,11 @@
 @v	udugabaₓ
 @link eBL |NINDA₂×U| https://www.ebl.lmu.de/signs/|NINDA₂×U|
 @link Wikidata Q87557427 http://www.wikidata.org/entity/Q87557427
+@form |NINDA₂×U@c|
+@list	ELLES060
+@list	LAK102
+@oid	o0028041
+@@
 @end sign
 
 @sign |NINDA₂×(U.GUD)|
@@ -32673,7 +32697,6 @@
 
 @sign |NINDA₂×(U.U)|
 @oid	o0002087
-@list	LAK103
 @uname	CUNEIFORM SIGN NINDA2 TIMES U PLUS U
 @list	U+1252B
 @ucun	𒔫
@@ -32682,13 +32705,9 @@
 @link eBL |NINDA₂×(U.U)| https://www.ebl.lmu.de/signs/|NINDA₂×(U.U)|
 @link Wikidata Q87557429 http://www.wikidata.org/entity/Q87557429
 @form |NINDA₂×(U@c.U@c)|
+@list	LAK103
 @oid	o0027882
 @@
-@end sign
-
-@sign |NINDA₂×U@c|
-@oid	o0028041
-@inote	gvl unknown compound
 @end sign
 
 @sign |NINDA₂×U₂|
@@ -38954,7 +38973,8 @@
 @@
 @form ŠANABI@c
 @oid	o0027578
-@inote	for lak.atf
+@v	2/3(aš@c@90)
+@inote ŠU₂.2(N08) = ŠU₂.2(AŠ@c@90) = ŠU₂.2(DIŠ@c)
 @@
 @end sign
 
@@ -40324,6 +40344,12 @@
 @inote	gvl unknown compound
 @useq	x122C6.x121AA
 @ucun	𒋆𒆪
+@end sign
+
+@sign |ŠIM×X₁|
+@oid  o0038306
+@inote This is the specific sign in &P215682 = MVN 03, 024 o 6;
+       ŠIM×(EŠ₂?.GAR) or ŠIM×BUR!
 @end sign
 
 @sign |ŠIM×A|
@@ -41699,6 +41725,8 @@
 @form ŠUŠANA@c
 @oid	o0027584
 @list	LAK817
+@v	1/3(aš@c@90)
+@inote |ŠU₂.N8| = |ŠU₂.AŠ@c@90| = |ŠU₂.DIŠ@c|
 @@
 @end sign
 
@@ -41790,6 +41818,10 @@
 @sign |TA×IGI@g|
 @oid	o0221885
 @v	sukudₓ
+@end sign
+
+@sign |TA×KUR|
+@oid	o0038295
 @end sign
 
 @sign |TA×MI|
@@ -42950,6 +42982,7 @@
 @end sign
 
 @sign |TUM×(DIŠ.DIŠ.DIŠ)|
+@aka |TUM×3(DIŠ)|
 @oid	o0002428
 @list	LAK497a
 @inote	Do the TUM group need further specification of whether the waist is "gunified" or not?
@@ -47965,6 +47998,11 @@
 @@
 @end sign
 
+@sign |(ZI&ZI)×U|
+@aka |ZI&ZI+U|
+@oid  o0038297
+@end sign
+
 @sign |ZI&ZI.LAGAB.ŠE|
 @oid	o0002664
 @useq	x12364.x121B8.x122BA
@@ -48582,6 +48620,7 @@
 @ucun	𒐄
 @uage	5.0
 @v	6(aš)
+@v	6(iku)
 @link Wikidata Q87556840 http://www.wikidata.org/entity/Q87556840
 @form 6(AŠ@c)
 @oid	o0223432
@@ -49016,7 +49055,8 @@
 @list	RSP039
 @v	2(diš@t)
 @v	2(diš@t@c)
-@v	tabₓ
+@v-	tabₓ
+@inote deprecated because we use TAB@t=tab₄ for this sign/value
 @end sign
 
 @sign 3(DIŠ@t)
