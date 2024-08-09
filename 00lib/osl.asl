@@ -2442,6 +2442,12 @@
 @v	akkil₂
 @sys	Attinger adgub
 @link eBL |AD.KID| https://www.ebl.lmu.de/signs/|AD.KID|
+@form |AD.KID.KID|
+@oid  o0038288
+@useq x1201C.x121A4.x121A4
+@ucun 𒀜𒆤𒆤
+@v	akkilₓ
+@@
 @end sign
 
 @sign |AD.KU|
@@ -4769,6 +4775,7 @@
 @v	hurₓ
 @v	hurinₓ
 @v	lumha
+@v	pumₓ
 @v	takaₓ
 @link eBL BALAG https://www.ebl.lmu.de/signs/BALAG
 @link Wikidata Q87555140 http://www.wikidata.org/entity/Q87555140
@@ -33416,6 +33423,7 @@
 @end sign
 
 @sign |(NUN&NUN)&(NUN&NUN)|
+@aka |NIR&NIR|
 @oid	o0221961
 @end sign
 
@@ -48877,10 +48885,15 @@
 @v	6(ŋešʾu@c)
 @end sign
 
-@sign 7(GEŠU@c)
+@sign 7(GEŠU)
+@oid  o0038286
+@v	7(gešʾu)
+@v	7(ŋešʾu)
+@form 7(GEŠU@c)
 @oid	o0038263
 @v	7(gešʾu@c)
 @v	7(ŋešʾu@c)
+@@
 @end sign
 
 @sign 2(AŠ@t)
@@ -49756,6 +49769,10 @@
 @aka	8(|AŠ×AŠ@t|)
 @oid	o0223348
 @list	RSP093
+@form 8(|BAD×DIŠ@t|)
+@aka 8(|BAD×AŠ@t|)
+@oid	o0038293
+@@
 @end sign
 
 @sign 9(|AŠ×DIŠ@t|)
@@ -49997,6 +50014,7 @@
 @v	1(geš₂@c@90)
 @v	1(ŋeš₂@c@90)
 @inote used in context with gešmin@c where geš₂@c@90 is half a gešmin@c, i.e., 60
+@inote also used to count rams in P271231 where geš₂@c is used for ewes
 @@
 @form GEŠ₂@c@v
 @oid	o0223471
@@ -50053,6 +50071,10 @@
 @oid	o0038153
 @v	3(geš₂@t)
 @@
+@form 3(GEŠ₂@c@90)
+@oid	o0038290
+@v	3(geš₂@c@90)
+@@
 @end sign
 
 @sign 4(GEŠ₂)
@@ -50077,6 +50099,10 @@
 @form 4(GEŠ₂@t)
 @oid	o0038155
 @v	4(geš₂@t)
+@@
+@form 4(GEŠ₂@c@90)
+@oid	
+@v	4(geš₂@c@90)
 @@
 @end sign
 
