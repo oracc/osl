@@ -7010,9 +7010,11 @@
 @link eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @@
 @form DIŠ@c
+@aka N8
 @oid	o0223336
 @inote	@ucode	xebc2
 @v	1/4(aš@c)
+@v	1/2(aš@c@90)
 @v	1(aš@c@90)
 @v	barig@c
 @v	1(barig@c)
@@ -29331,7 +29333,7 @@
 @v	1/2(aš@c)
 @inote I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
 @v	1/4(diš@c)
-@inote  This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP/036 but the value should be treated as uncertain.
+@inote  This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP/036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this.
 @@
 @form MAŠ@t
 @oid	o0000450
@@ -48144,6 +48146,7 @@
 @end sign
 
 @sign |ZIZ₂.AN|
+@aka |AŠ₂.AN|
 @oid	o0002670
 @useq	x12369.x1202D
 @ucun	𒍩𒀭
@@ -50101,7 +50104,7 @@
 @v	4(geš₂@t)
 @@
 @form 4(GEŠ₂@c@90)
-@oid	
+@oid	o0038292
 @v	4(geš₂@c@90)
 @@
 @end sign
