@@ -356,9 +356,9 @@
 @ucun	𒀀𒄐𒃰𒃻𒀀𒋛
 @v	addirₓ
 @link eBL |A.GISAL.GAD.GAR.A.SI| https://www.ebl.lmu.de/signs/|A.GISAL.GAD.GAR.A.SI|
-@form |A.LAK648×A.GISAL.GAD.GAR.A.SI|
+@form |A.LAK648×A.GAD.GAR.A.SI|
 @oid  o0038275
-@useq x12000.X.x12110.x120F0.x120FB.x12000.x122DB
+@useq x12000.X.x120F0.x120FB.x12000.x122DB
 @ucun 𒀀X𒄐𒃰𒃻𒀀𒋛
 @@
 @end sign
@@ -10133,6 +10133,7 @@
 @useq	x122BA.x120A0.x12263.x1204D
 @ucun	𒊺𒂠𒉣𒁍
 @v	saman₃
+@v	šakkanₓ
 @@
 @form |ŠE.EŠ₂.NUN.BU.LUH|
 @oid	o0221908
@@ -11031,11 +11032,13 @@
 @sign F₈
 @oid	o0038147
 @v	1/2(iku@c@v)
+@v	1/2(barig@c)
 @inote This form can be described as |1(DIŠ@c)×1(DIŠ)|
 @form F₈@t
 @oid	o0038163
 @v	1/2(iku@t)
-@inote This form is something like BAD@90. P221565 i 4.
+@v	1/6(diš)
+@inote This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study
 @@
 @end sign
 
@@ -32198,6 +32201,7 @@
 
 @sign |NINDA₂×2(AŠ@c)|
 @oid	o0038269
+@v	saₓ
 @inote epsd2/oakk; ebla; not in LAK 
 @end sign
 
@@ -32579,8 +32583,10 @@
 @aka |NINDA₂×ŠUŠANA@c|
 @oid	o0223482
 @list	LAK106
+@list	LAK869
+@inote LAK lists twice
 @list	RSP106
-@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP106.
+@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP106 and LAK869b
 @inote	@ucode	xebce
 @v	1/3(aš@c@v)
 @inote 1/3(aš@c@v) is a CDLI transliteration
@@ -32609,8 +32615,10 @@
 @aka |NINDA₂×ŠANABI@c|
 @oid	o0223483
 @list	LAK107
+@list	LAK870
+@inote LAK lists twice
 @list	RSP107
-@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP107.
+@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP107 and LAK870b
 @inote	@ucode	xebcf
 @v	2/3(aš@c@v)
 @inote 2/3(aš@c@v) is a CDLI transliteration
@@ -37348,6 +37356,11 @@
 @ucun	𒊬𒊬
 @v	sarsa
 @link eBL |SAR.SAR| https://www.ebl.lmu.de/signs/|SAR.SAR|
+@end sign
+
+@sign |SAR×(GIŠ%GIŠ)|
+@oid  o0038285
+@inote epsd2/oakk legible on photo and clear on copied collation
 @end sign
 
 @sign |SAR×ŠE|
@@ -44943,6 +44956,11 @@
 @oid	o0025694
 @list	ELLES207
 @@
+@form |UD@g×BAD|
+@oid o0038284
+@v itiₓ
+@inote needs collation; no photo
+@@
 @end sign
 
 @sign |UD×GIŠ|
@@ -48848,10 +48866,21 @@
 @@
 @end sign
 
-@sign 7(GEŠU)
+@sign |KA×RI|
+@oid o0038278
+@inote epsd2/oakk
+@end sign
+
+@sign 6(GEŠU@c)
+@oid	o0038276
+@v	6(gešʾu@c)
+@v	6(ŋešʾu@c)
+@end sign
+
+@sign 7(GEŠU@c)
 @oid	o0038263
-@v	7(gešʾu)
-@v	7(ŋešʾu)
+@v	7(gešʾu@c)
+@v	7(ŋešʾu@c)
 @end sign
 
 @sign 2(AŠ@t)
@@ -49207,6 +49236,12 @@
 @v	9(bur₃@c)
 @v	9(u@c)
 @@
+@end sign
+
+@sign 10(U@c)
+@oid  o0038282
+@v 10(bur₃@c)
+@inote 10(bur₃@c) in epsd/oakk
 @end sign
 
 @sign 1(ŠARU)
@@ -49913,6 +49948,16 @@
 @inote	@ucode	xebc8
 @v	2(eše₃@c)
 @@
+@end sign
+
+@sign 3(EŠE₃)
+@oid	o0038279
+@v	3(eše₃)
+@end sign
+
+@sign 3(EŠE₃@c)
+@oid	o0038281
+@v	3(eše₃@c)
 @end sign
 
 @sign 4(EŠE₃@c)
