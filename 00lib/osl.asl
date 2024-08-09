@@ -22093,6 +22093,11 @@
 @useq	x121A0.x12217.x1207A
 @ucun	𒆠𒈗𒁺
 @v	alalₓ
+@form |LUGAL.KI.DU|
+@oid  o0038308
+@useq x12217.x121A0.x1207A
+@ucun 𒈗𒆠𒁺
+@@
 @end sign
 
 @sign |KI.MIN|
