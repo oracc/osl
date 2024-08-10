@@ -3945,6 +3945,13 @@
 @link eBL |AŠ.GAN₂| https://www.ebl.lmu.de/signs/|AŠ.GAN₂|
 @end sign
 
+@sign |AŠ+GU₂|
+@oid  o0038319
+@useq x12038.x12118
+@ucun 𒀸𒄘
+@inote UET II
+@end sign
+
 @sign |AŠ.HI×DIŠ.GI₄|
 @oid	o0000868
 @useq	x12038.x12131.x12104
@@ -14730,6 +14737,12 @@
 @v	ul₄
 @link eBL GIR₂@g https://www.ebl.lmu.de/signs/GIR₂@g
 @link Wikidata Q87555514 http://www.wikidata.org/entity/Q87555514
+@form GIR₂
+@inote Support Nisaba 25 UL₄(GIR₂)
+@inote the distribution of values of GIR₂/GIR₂@g is confused over time
+	partly owing to scribal practice and partly owing to possible
+	issues in modern copies--a lot of collation is needed
+@@
 @end sign
 
 @sign |GIR₂@g×EŠ₂|
@@ -34333,6 +34346,12 @@
 @useq	x1227A.x12096.x122E4
 @ucun	𒉺𒂖𒋤
 @@
+@form |PA.BU.EL|
+@oid	o0038317
+@useq	x1227A.x1204D.x12096
+@ucun	𒉺𒁍𒂖
+@v	susugₓ
+@@
 @end sign
 
 @sign |PA.GA₂|
@@ -40859,6 +40878,23 @@
 @useq	X.x12111.x12247
 @ucun	X𒄑𒉇
 @@
+@end sign
+
+@sign |HI×ZI₃|
+@oid	o0038311
+@inote ED I-II Ur
+@end sign
+
+@sign |ŠITA×HI|
+@oid	o0038309
+@inote ED I-II Ur
+@end sign
+
+@sign |2(N57)+E₂|
+@oid	X.x1208D
+@useq X.x1208D
+@ucun X.𒂍
+@inote ED I-II Ur
 @end sign
 
 @sign ŠITA@t
@@ -50249,46 +50285,55 @@
 @sign 1(N01@f)
 @oid	o0027234
 @inote	UET II
+@v	1(aš@f)
 @end sign
 
 @sign 2(N01@f)
 @oid	o0027294
 @inote	UET II
+@v	2(aš@f)
 @end sign
 
 @sign 3(N01@f)
 @oid	o0027327
 @inote	UET II
+@v	3(aš@f)
 @end sign
 
 @sign 4(N01@f)
 @oid	o0027348
 @inote	UET II
+@v	4(aš@f)
 @end sign
 
 @sign 5(N01@f)
 @oid	o0027376
 @inote	UET II
+@v	5(aš@f)
 @end sign
 
 @sign 6(N01@f)
 @oid	o0027397
 @inote	UET II
+@v	6(aš@f)
 @end sign
 
 @sign 7(N01@f)
 @oid	o0027411
 @inote	UET II
+@v	7(aš@f)
 @end sign
 
 @sign 8(N01@f)
 @oid	o0027421
 @inote	UET II
+@v	8(aš@f)
 @end sign
 
 @sign 9(N01@f)
 @oid	o0027435
 @inote	UET II
+@v	9(aš@f)
 @end sign
 
 @sign 1(N01)
@@ -50394,6 +50439,11 @@
 @inote	UET II
 @end sign
 
+@sign 2(N08)
+@oid	o0038318
+@inote UET II
+@end sign
+
 @sign 1(N08@f)
 @oid	o0027242
 @inote	UET II
@@ -50457,16 +50507,19 @@
 @sign 1(N14@f)
 @oid	o0027246
 @inote	UET II
+@v	1(u@f)
 @end sign
 
 @sign 2(N14@f)
 @oid	o0027300
 @inote	UET II
+@v	2(u@f)
 @end sign
 
 @sign 3(N14@f)
 @oid	o0027335
 @inote	UET II
+@v	3(u@f)
 @end sign
 
 @sign 4(N14@f)
