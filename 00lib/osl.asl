@@ -17616,6 +17616,7 @@
 @uage	5.0
 @v	i
 @v	nat₂
+@v	5(aš@v)
 @link eBL I https://www.ebl.lmu.de/signs/I
 @link Wikidata Q87555628 http://www.wikidata.org/entity/Q87555628
 @form I@t
@@ -27617,8 +27618,8 @@
 @v	udu
 @link eBL LU https://www.ebl.lmu.de/signs/LU
 @link Wikidata Q87556014 http://www.wikidata.org/entity/Q87556014
-@form LAK780
-@oid	o0221891
+@form |LAGAB×PA|
+@oid	o0221968
 @v	dibₓ
 @@
 @end sign
@@ -40540,13 +40541,18 @@
 @list	U+12499
 @ucun	𒒙
 @uage	8.0
-@v	šembi
 @lit	Civil Ebla 1975-1985, 155
 @link Wikidata Q87557135 http://www.wikidata.org/entity/Q87557135
 @@
 @form |TA×IGI@g|
 @oid	o0221885
 @v	šembiₓ
+@@
+@form |GU₂×IGI@g|
+@@
+@form |GU₂×IGI|
+@oid o0038322
+@inote Fara form
 @@
 @form ŠIM
 @oid	o0002838
@@ -42500,6 +42506,12 @@
 @v	unuₓ
 @link eBL TE https://www.ebl.lmu.de/signs/TE
 @link Wikidata Q87556494 http://www.wikidata.org/entity/Q87556494
+@form |HI×AŠ|
+@inote AbS form
+@@
+@form |HI×DIŠ|
+@inote Fara form
+@@
 @end sign
 
 @sign |TE.A|
@@ -50440,7 +50452,7 @@
 @end sign
 
 @sign 2(N08)
-@oid	o0038318
+@oid	o0031167
 @inote UET II
 @end sign
 
@@ -51051,3 +51063,19 @@
 @inote	dccmt
 @v	6(šarʾu)@v
 @end sign
+
+@sign |URU×PIRIG|
+@oid  o0038318
+@inote AbS 327 clear on photo and copy
+@end sign
+
+@sign |AB.KID&KID|
+@oid o0038321
+@useq x1200A.X
+@end sign
+
+@sign |TUK×HAL|
+@oid o0038324
+@end sign
+
+@compoundonly |KID&KID|
