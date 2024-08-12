@@ -8802,7 +8802,7 @@
 @end sign
 
 @sign |LA×KUR|
-@oid o0038214
+@oid o0038224
 @inote epsd2/admin/ur3 needs collation
 @end sign
 
@@ -24686,7 +24686,7 @@
 @@
 @form |LAGAB×HAL|
 @list LAK768
-@oid	o0018585
+@oid	o0001814
 @inote	TSŠ 302, needs collation; |LAGAB×HAL| is form in Gudea Cyl A xvi 8, three times
 @@
 @end sign
@@ -31694,7 +31694,7 @@
 @@
 @form |NE.PAP.GIŠ~v|
 @aka |GIŠ.PAP.BAU377|
-@oid	o0038089
+@oid	o0018519
 @useq	x12248.x1227D.X
 @ucun	𒉈𒉽X
 @v	bilₓ
@@ -40927,7 +40927,7 @@
 @end sign
 
 @sign |2(N57)+E₂|
-@oid	X.x1208D
+@oid	o0038313
 @useq X.x1208D
 @ucun X.𒂍
 @inote ED I-II Ur
