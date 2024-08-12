@@ -17254,11 +17254,6 @@
 @@
 @end sign
 
-@sign |(TAG×NE)&(TAG×ŠE)|
-@oid  o0038335
-@inote epsd2/royal; needs collation
-@end sign
-
 @sign |HI×U|
 @oid  o0001463
 @v 	ellaŋₓ
@@ -42253,6 +42248,10 @@
 @v	tibirₓ
 @link eBL |TAG×ŠE| https://www.ebl.lmu.de/signs/|TAG×ŠE|
 @link Wikidata Q87556488 http://www.wikidata.org/entity/Q87556488
+@form |(TAG×NE)&(TAG×ŠE)|
+@oid  o0038335
+@inote epsd2/royal; needs collation
+@@
 @end sign
 
 @sign |TAG×ŠU|
