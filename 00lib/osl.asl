@@ -17248,10 +17248,19 @@
 @v	zanzana
 @link eBL |HI×ŠE| https://www.ebl.lmu.de/signs/|HI×ŠE|
 @link Wikidata Q87555606 http://www.wikidata.org/entity/Q87555606
+@form |HI×KUR|
+@oid  o0038334
+@inote epsd2/royal; needs collation (read |HI×ŠE!| ?)
+@@
+@end sign
+
+@sign |(TAG×NE)&(TAG×ŠE)|
+@oid  o0038335
+@inote epsd2/royal; needs collation
 @end sign
 
 @sign |HI×U|
-
+@oid  o0001463
 @v 	ellaŋₓ
 @end sign
 
@@ -26886,6 +26895,7 @@
 @sign |ERIN₂.A|
 @oid  o0038331
 @useq x1209F.x12000
+@v	uriₓ
 @inote epsd2/royal
 @end sign
 
@@ -37189,7 +37199,13 @@
 @sys	Attinger ŋeštan => ŋidlam
 @sys	Attinger ŋeštana => ŋidlam
 @link eBL |SAL.UŠ.DAM| https://www.ebl.lmu.de/signs/|SAL.UŠ.DAM|
+@form |SAL.UŠ.DI.DAM|
+@oid  o0038333
+@useq x122A9.x12351.x12072.x1206E
+@@
 @end sign
+
+@compoundonly |(TAG×NE)|
 
 @sign |SAL.UŠ.DI|
 @oid	o0002331
