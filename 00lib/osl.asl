@@ -16129,6 +16129,14 @@
 @link eBL GUD@s https://www.ebl.lmu.de/signs/GUD@s
 @end sign
 
+@sign |GAR.GUL.DA|
+@oid  o0038327
+@useq x120FB.x12122.x12055
+@ucun 𒃻𒄢𒁕
+@v	gugₓ
+@inote epsd2/royal
+@end sign
+
 @sign GUL
 @oid	o0000224
 @list	ABZL343
@@ -26875,6 +26883,12 @@
 @v	uruhₓ
 @end sign
 
+@sign |ERIN₂.A|
+@oid  o0038331
+@useq x1209F.x12000
+@inote epsd2/royal
+@end sign
+
 @sign LAK539
 @oid	o0000396
 @list	LAK539
@@ -26975,6 +26989,11 @@
 @uage	8.0
 @link eBL |LAK617×BAD| https://www.ebl.lmu.de/signs/|LAK617×BAD|
 @link Wikidata Q87557345 http://www.wikidata.org/entity/Q87557345
+@end sign
+
+@sign |LAK617×IGI|
+@oid	o0038329
+@inote epsd2/royal
 @end sign
 
 @sign |LAK617×KU₃|
