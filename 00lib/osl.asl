@@ -2,8 +2,7 @@
 @signlist osl
 @domain sl
 
-@inote CC0: osl.asl and its associated files are placed in the public domain under a CC0 licence.
-
+@inote	CC0: osl.asl and its associated files are placed in the public domain under a CC0 licence.
 @inote	@listdef ABZ 1-598
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
 
@@ -93,23 +92,21 @@
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
-@linkdef eBL Links to the electronic Babylonian Library sign list.
-
-@linkdef Wikidata Links to the Wikidata pages for Unicode signs.
-
 @listdef ZATU 1-855
 @lit	M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ATU 2; Berlin 1987)
 @inote	TO-DO: check numbers against volume
+
+@linkdef Wikidata Links to the Wikidata pages for Unicode signs.
+
+@linkdef eBL Links to the electronic Babylonian Library sign list.
 
 @sysdef Attinger Attinger-Sallaberger transliteration conventions
 @lit	P. Attinger, "1. Système de translittération adopté: le problème de la «lecture correcte».
 	Pp. 58-103 in Glossaire sumérien–français principalement des textes littéraires
 	paléobabyloniens (Wiesbaden 2021).
 @inote	Presently incomplete.
-
-@inote @images 00etc/im-lak-svg.tab
-
-@inote @images 00etc/im-lak-a-z.tab
+@inote	@images 00etc/im-lak-svg.tab
+@inote	@images 00etc/im-lak-a-z.tab
 
 @sign A
 @oid	o0000087
@@ -150,8 +147,8 @@
 @v	šegₓ
 @v	ṭur₅
 @v	ya₁₀
-@link eBL A https://www.ebl.lmu.de/signs/A
-@link Wikidata Q87554995 http://www.wikidata.org/entity/Q87554995
+@link	eBL A https://www.ebl.lmu.de/signs/A
+@link	Wikidata Q87554995 http://www.wikidata.org/entity/Q87554995
 @form LAK797
 @oid	o0270203
 @@
@@ -178,7 +175,7 @@
 @v	iyyi
 @v	iyyu
 @v	yaₓ
-@link eBL |A.A| https://www.ebl.lmu.de/signs/|A.A|
+@link	eBL |A.A| https://www.ebl.lmu.de/signs/|A.A|
 @end sign
 
 @sign |A.A.A|
@@ -186,7 +183,7 @@
 @useq	x12000.x12000.x12000
 @ucun	𒀀𒀀𒀀
 @v	ayayaₓ
-@link eBL |A.A.A| https://www.ebl.lmu.de/signs/|A.A.A|
+@link	eBL |A.A.A| https://www.ebl.lmu.de/signs/|A.A.A|
 @end sign
 
 @sign |A.AB.BA|
@@ -210,7 +207,7 @@
 @v	šeg₃
 @v	šeŋ₃
 @v	šemₓ
-@link eBL |A.AN| https://www.ebl.lmu.de/signs/|A.AN|
+@link	eBL |A.AN| https://www.ebl.lmu.de/signs/|A.AN|
 @end sign
 
 @sign |A.BAR.BAHAR₂|
@@ -236,7 +233,7 @@
 @ucun	𒀀𒁉
 @v	maštabaₓ
 @inote	An Anum 5 307
-@link eBL |A.BI| https://www.ebl.lmu.de/signs/|A.BI|
+@link	eBL |A.BI| https://www.ebl.lmu.de/signs/|A.BI|
 @end sign
 
 @sign |A.DU|
@@ -246,7 +243,7 @@
 @v	a-ra₂
 @v	tuše
 @v	tuššuru
-@link eBL |A.DU| https://www.ebl.lmu.de/signs/|A.DU|
+@link	eBL |A.DU| https://www.ebl.lmu.de/signs/|A.DU|
 @end sign
 
 @sign |A.DU&A.DU|
@@ -267,7 +264,7 @@
 @v	erum₄
 @v	ummuₓ
 @v	ummudₓ
-@link eBL |A.EDIN| https://www.ebl.lmu.de/signs/|A.EDIN|
+@link	eBL |A.EDIN| https://www.ebl.lmu.de/signs/|A.EDIN|
 @end sign
 
 @sign |A.EDIN.LAL|
@@ -276,13 +273,13 @@
 @ucun	𒀀𒂔𒇲
 @v	ummu₃
 @v	ummud?
-@link eBL |A.EDIN.LAL| https://www.ebl.lmu.de/signs/|A.EDIN.LAL|
+@link	eBL |A.EDIN.LAL| https://www.ebl.lmu.de/signs/|A.EDIN.LAL|
 @form |A.EDIN|
 @oid	o0000666
 @lit	Civil ARES 4, 120
 @useq	x12000.x12094
 @ucun	𒀀𒂔
-@link eBL |A.EDIN| https://www.ebl.lmu.de/signs/|A.EDIN|
+@link	eBL |A.EDIN| https://www.ebl.lmu.de/signs/|A.EDIN|
 @@
 @form |A.EDIN.A.LAL|
 @oid	o0000663
@@ -345,7 +342,7 @@
 @ucun	𒀀𒃼
 @v	a-gar₃
 @v	ugar
-@link eBL |A.GAR₃| https://www.ebl.lmu.de/signs/|A.GAR₃|
+@link	eBL |A.GAR₃| https://www.ebl.lmu.de/signs/|A.GAR₃|
 @end sign
 
 @sign |A.GISAL.GAD.GAR.A.SI|
@@ -355,11 +352,11 @@
 @useq	x12000.x12110.x120F0.x120FB.x12000.x122DB
 @ucun	𒀀𒄐𒃰𒃻𒀀𒋛
 @v	addirₓ
-@link eBL |A.GISAL.GAD.GAR.A.SI| https://www.ebl.lmu.de/signs/|A.GISAL.GAD.GAR.A.SI|
+@link	eBL |A.GISAL.GAD.GAR.A.SI| https://www.ebl.lmu.de/signs/|A.GISAL.GAD.GAR.A.SI|
 @form |A.LAK648×A.GAD.GAR.A.SI|
-@oid  o0038275
-@useq x12000.X.x120F0.x120FB.x12000.x122DB
-@ucun 𒀀X𒄐𒃰𒃻𒀀𒋛
+@oid	o0038275
+@useq	x12000.X.x120F0.x120FB.x12000.x122DB
+@ucun	𒀀X𒄐𒃰𒃻𒀀𒋛
 @@
 @end sign
 
@@ -369,7 +366,7 @@
 @useq	x12000.x12110.x1227B.x122DB.x12000
 @ucun	𒀀𒄐𒉻𒋛𒀀
 @v	addirₓ
-@link eBL |A.GISAL.PAD.SI.A| https://www.ebl.lmu.de/signs/|A.GISAL.PAD.SI.A|
+@link	eBL |A.GISAL.PAD.SI.A| https://www.ebl.lmu.de/signs/|A.GISAL.PAD.SI.A|
 @end sign
 
 @sign |A.GISAL.SI.ELLES214|
@@ -398,7 +395,7 @@
 @v	urumₓ
 @v	xriₓ
 @v	zahₓ
-@link eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
+@link	eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
 @end sign
 
 @sign |A.HA.A|
@@ -407,7 +404,7 @@
 @ucun	𒀀𒄩𒀀
 @v	sahₓ
 @v	zahₓ
-@link eBL |A.HA.A| https://www.ebl.lmu.de/signs/|A.HA.A|
+@link	eBL |A.HA.A| https://www.ebl.lmu.de/signs/|A.HA.A|
 @end sign
 
 @sign |A.HA.TAR.DU|
@@ -420,7 +417,7 @@
 @v	girimma₃
 @v	girin₂
 @v	nun₂
-@link eBL |A.HA.TAR.DU| https://www.ebl.lmu.de/signs/|A.HA.TAR.DU|
+@link	eBL |A.HA.TAR.DU| https://www.ebl.lmu.de/signs/|A.HA.TAR.DU|
 @form |A.BU|
 @oid	o0000661
 @inote	OIP 99, 319 column 3, 1
@@ -444,7 +441,7 @@
 @@
 @form |A.HA|
 @oid	o0000683
-@link eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
+@link	eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
 @@
 @form |A.HA.BU.DU|
 @oid	o0000676
@@ -492,7 +489,7 @@
 @list	RSP335
 @list	SLLHA371
 @v	hurinₓ
-@link eBL BU https://www.ebl.lmu.de/signs/BU
+@link	eBL BU https://www.ebl.lmu.de/signs/BU
 @@
 @form |HA.A.DU|
 @oid	o0021758
@@ -573,7 +570,7 @@
 @useq	x12000.x12137.x122DB
 @ucun	𒀀𒄷𒋛
 @v	liq₃
-@link eBL |A.HU.SI| https://www.ebl.lmu.de/signs/|A.HU.SI|
+@link	eBL |A.HU.SI| https://www.ebl.lmu.de/signs/|A.HU.SI|
 @end sign
 
 @sign |A.IGI|
@@ -592,10 +589,10 @@
 @v	isiš₂
 @v	šeₓ
 @v	šešₓ
-@link eBL |A.IGI| https://www.ebl.lmu.de/signs/|A.IGI|
+@link	eBL |A.IGI| https://www.ebl.lmu.de/signs/|A.IGI|
 @form |IGI.A|
 @oid	o0001484
-@link eBL |IGI.A| https://www.ebl.lmu.de/signs/|IGI.A|
+@link	eBL |IGI.A| https://www.ebl.lmu.de/signs/|IGI.A|
 @@
 @end sign
 
@@ -605,7 +602,7 @@
 @ucun	𒀀𒅗
 @v	uga₂
 @v	ugu₂
-@link eBL |A.KA| https://www.ebl.lmu.de/signs/|A.KA|
+@link	eBL |A.KA| https://www.ebl.lmu.de/signs/|A.KA|
 @form |A.KA×A|
 @oid	o0031828
 @useq	x12000.x12158
@@ -622,7 +619,7 @@
 @v	ella
 @v	eribₓ
 @v	illu
-@link eBL |A.KAL| https://www.ebl.lmu.de/signs/|A.KAL|
+@link	eBL |A.KAL| https://www.ebl.lmu.de/signs/|A.KAL|
 @end sign
 
 @sign |A.KU|
@@ -638,7 +635,7 @@
 @useq	x12000.x121B5
 @ucun	𒀀𒆵
 @v	akšak₂
-@link eBL |A.KUŠU₂| https://www.ebl.lmu.de/signs/|A.KUŠU₂|
+@link	eBL |A.KUŠU₂| https://www.ebl.lmu.de/signs/|A.KUŠU₂|
 @end sign
 
 @sign |A.LAGAB.LAGAB|
@@ -646,7 +643,7 @@
 @useq	x12000.x121B8.x121B8
 @ucun	𒀀𒆸𒆸
 @v	enigin
-@link eBL |A.LAGAB.LAGAB| https://www.ebl.lmu.de/signs/|A.LAGAB.LAGAB|
+@link	eBL |A.LAGAB.LAGAB| https://www.ebl.lmu.de/signs/|A.LAGAB.LAGAB|
 @end sign
 
 @sign |A.LAGAB×A|
@@ -659,7 +656,7 @@
 @v	iₓ
 @v	idₓ
 @sys	Attinger guninₓ => buniŋₓ
-@link eBL |A.LAGAB×A| https://www.ebl.lmu.de/signs/|A.LAGAB×A|
+@link	eBL |A.LAGAB×A| https://www.ebl.lmu.de/signs/|A.LAGAB×A|
 @end sign
 
 @sign |A.LAGAB×HAL|
@@ -678,14 +675,14 @@
 @v	iti₅
 @v	itu₅
 @v	narₓ
-@link eBL |A.LAGAB×HAL| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL|
+@link	eBL |A.LAGAB×HAL| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL|
 @form |A.LAGAB×A|
 @oid	o0000690
 @useq	x12000.x121B9
 @ucun	𒀀𒆹
 @v	iₓ
 @v	idₓ
-@link eBL |A.LAGAB×A| https://www.ebl.lmu.de/signs/|A.LAGAB×A|
+@link	eBL |A.LAGAB×A| https://www.ebl.lmu.de/signs/|A.LAGAB×A|
 @@
 @form |GA₂×(HAL.A)|
 @oid	o0018531
@@ -698,7 +695,7 @@
 @useq	x12000.x121C9.x12072
 @ucun	𒀀𒇉𒁲
 @v	id₇
-@link eBL |A.LAGAB×HAL.DI| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL.DI|
+@link	eBL |A.LAGAB×HAL.DI| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL.DI|
 @end sign
 
 @sign |A.LAGAB×HAL.GAL|
@@ -706,7 +703,7 @@
 @useq	x12000.x121C9.x120F2
 @ucun	𒀀𒇉𒃲
 @v	id₆
-@link eBL |A.LAGAB×HAL.GAL| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL.GAL|
+@link	eBL |A.LAGAB×HAL.GAL| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL.GAL|
 @end sign
 
 @sign |A.LAGAB×HAL.PAP.NA₂|
@@ -730,7 +727,7 @@
 @v	surgal
 @v	turungalₓ
 @inote	dupfix MZL turungal(|UD.NUN|)
-@link eBL |A.LAGAB×HAL.UD.NUN.KI| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL.UD.NUN.KI|
+@link	eBL |A.LAGAB×HAL.UD.NUN.KI| https://www.ebl.lmu.de/signs/|A.LAGAB×HAL.UD.NUN.KI|
 @end sign
 
 @sign |A.LAGAB×KUL|
@@ -742,7 +739,7 @@
 @v	ešer
 @v	kuninₓ
 @v	sarₓ
-@link eBL |A.LAGAB×KUL| https://www.ebl.lmu.de/signs/|A.LAGAB×KUL|
+@link	eBL |A.LAGAB×KUL| https://www.ebl.lmu.de/signs/|A.LAGAB×KUL|
 @form |A.LAGAB×U|
 @oid	o0031530
 @inote	Emar
@@ -757,7 +754,7 @@
 @ucun	𒀀𒇒𒈣𒋙𒀀
 @v	azad
 @inote	Some forms seem to imply that the full Diri is |U₂.A.LAGAB×KUL.MA₂.ŠU₂.A|
-@link eBL |A.LAGAB×KUL.MA₂.ŠU₂.A| https://www.ebl.lmu.de/signs/|A.LAGAB×KUL.MA₂.ŠU₂.A|
+@link	eBL |A.LAGAB×KUL.MA₂.ŠU₂.A| https://www.ebl.lmu.de/signs/|A.LAGAB×KUL.MA₂.ŠU₂.A|
 @form |A.LAGAB×HAL.ŠU₂|
 @oid	o0000696
 @useq	x12000.x121C9.x122D9
@@ -808,22 +805,22 @@
 @v	addirₓ
 @end sign
 
-@sign |A.LU₃|
-@oid	o0000704
-@useq	x12000.x12216
-@ucun	𒀀𒈖
-@v	a-gar₅
-@v	kunigara₅
-@link eBL |A.LU₃| https://www.ebl.lmu.de/signs/|A.LU₃|
-@end sign
-
 @sign |A.LU₂@s.NA|
 @oid	o0000703
 @useq	x12000.x12215.x1223E
 @ucun	𒀀𒈕𒈾
 @v	a-rin₄-na
 @v	arinaₓ
-@link eBL |A.LU₂@s.NA| https://www.ebl.lmu.de/signs/|A.LU₂@s.NA|
+@link	eBL |A.LU₂@s.NA| https://www.ebl.lmu.de/signs/|A.LU₂@s.NA|
+@end sign
+
+@sign |A.LU₃|
+@oid	o0000704
+@useq	x12000.x12216
+@ucun	𒀀𒈖
+@v	a-gar₅
+@v	kunigara₅
+@link	eBL |A.LU₃| https://www.ebl.lmu.de/signs/|A.LU₃|
 @end sign
 
 @sign |A.LUM|
@@ -831,7 +828,7 @@
 @useq	x12000.x1221D
 @ucun	𒀀𒈝
 @v	aslumₓ
-@link eBL |A.LUM| https://www.ebl.lmu.de/signs/|A.LUM|
+@link	eBL |A.LUM| https://www.ebl.lmu.de/signs/|A.LUM|
 @end sign
 
 @sign |A.MI.A|
@@ -839,7 +836,7 @@
 @useq	x12000.x1222A.x12000
 @ucun	𒀀𒈪𒀀
 @v	ega
-@link eBL |A.MI.A| https://www.ebl.lmu.de/signs/|A.MI.A|
+@link	eBL |A.MI.A| https://www.ebl.lmu.de/signs/|A.MI.A|
 @end sign
 
 @sign |A.MUŠ|
@@ -847,7 +844,7 @@
 @useq	x12000.x12232
 @ucun	𒀀𒈲
 @v	šeₓ
-@link eBL |A.MUŠ| https://www.ebl.lmu.de/signs/|A.MUŠ|
+@link	eBL |A.MUŠ| https://www.ebl.lmu.de/signs/|A.MUŠ|
 @end sign
 
 @sign |A.PA.BI.SI.A.GA|
@@ -855,7 +852,7 @@
 @useq	x12000.x1227A.x12049.x122DB.x12000.x120B5
 @ucun	𒀀𒉺𒁉𒋛𒀀𒂵
 @v	samanₓ
-@link eBL |A.PA.BI.SI.A.GA| https://www.ebl.lmu.de/signs/|A.PA.BI.SI.A.GA|
+@link	eBL |A.PA.BI.SI.A.GA| https://www.ebl.lmu.de/signs/|A.PA.BI.SI.A.GA|
 @end sign
 
 @sign |A.PA.GISAL.PAD.SI.A|
@@ -867,7 +864,7 @@
 @v	au
 @v	iddir?
 @v	samanₓ
-@link eBL |A.PA.GISAL.PAD.SI.A| https://www.ebl.lmu.de/signs/|A.PA.GISAL.PAD.SI.A|
+@link	eBL |A.PA.GISAL.PAD.SI.A| https://www.ebl.lmu.de/signs/|A.PA.GISAL.PAD.SI.A|
 @form |A.GISAL|
 @oid	o0031704
 @useq	x12000.x12110
@@ -996,7 +993,7 @@
 @oid	o0000718
 @useq	x12000.x12293
 @ucun	𒀀𒊓
-@link eBL |A.SA| https://www.ebl.lmu.de/signs/|A.SA|
+@link	eBL |A.SA| https://www.ebl.lmu.de/signs/|A.SA|
 @end sign
 
 @sign |A.SAG|
@@ -1005,7 +1002,7 @@
 @ucun	𒀀𒊕
 @v	muhₓ
 @v	ugu₃
-@link eBL |A.SAG| https://www.ebl.lmu.de/signs/|A.SAG|
+@link	eBL |A.SAG| https://www.ebl.lmu.de/signs/|A.SAG|
 @end sign
 
 @sign |A.SIG|
@@ -1014,7 +1011,7 @@
 @ucun	𒀀𒋝
 @v	epigₓ
 @lit	Sallaberger 1996, MHEM 3, 100
-@link eBL |A.SIG| https://www.ebl.lmu.de/signs/|A.SIG|
+@link	eBL |A.SIG| https://www.ebl.lmu.de/signs/|A.SIG|
 @end sign
 
 @sign |A.SU|
@@ -1022,7 +1019,7 @@
 @useq	x12000.x122E2
 @ucun	𒀀𒋢
 @v	aktum
-@link eBL |A.SU| https://www.ebl.lmu.de/signs/|A.SU|
+@link	eBL |A.SU| https://www.ebl.lmu.de/signs/|A.SU|
 @form SU
 @oid	o0000531
 @list	BAU226
@@ -1035,7 +1032,7 @@
 @lit	Civil 2008, ARES 4, 97
 @v	sudₓ
 @v	zuₓ
-@link eBL SU https://www.ebl.lmu.de/signs/SU
+@link	eBL SU https://www.ebl.lmu.de/signs/SU
 @@
 @end sign
 
@@ -1045,7 +1042,7 @@
 @ucun	𒀀𒋤
 @v	bir₈
 @v	kašbirₓ
-@link eBL |A.SUD| https://www.ebl.lmu.de/signs/|A.SUD|
+@link	eBL |A.SUD| https://www.ebl.lmu.de/signs/|A.SUD|
 @form |A.BU|
 @oid	o0000661
 @useq	x12000.x1204D
@@ -1066,7 +1063,7 @@
 @v	asi
 @v	eša
 @v	eše₄
-@link eBL |A.ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|A.ŠE.NUN&NUN|
+@link	eBL |A.ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|A.ŠE.NUN&NUN|
 @end sign
 
 @sign |A.ŠU.NAGA|
@@ -1074,7 +1071,7 @@
 @useq	x12000.x122D7.x12240
 @ucun	𒀀𒋗𒉀
 @v	tu₁₇
-@link eBL |A.ŠU.NAGA| https://www.ebl.lmu.de/signs/|A.ŠU.NAGA|
+@link	eBL |A.ŠU.NAGA| https://www.ebl.lmu.de/signs/|A.ŠU.NAGA|
 @end sign
 
 @sign |A.ŠU₂.NAGA|
@@ -1082,7 +1079,7 @@
 @useq	x12000.x122D9.x12240
 @ucun	𒀀𒋙𒉀
 @v	šeg₄
-@link eBL |A.ŠU₂.NAGA| https://www.ebl.lmu.de/signs/|A.ŠU₂.NAGA|
+@link	eBL |A.ŠU₂.NAGA| https://www.ebl.lmu.de/signs/|A.ŠU₂.NAGA|
 @form |A.ŠU₂.U₂.NAGA|
 @oid	o0027904
 @useq	x12000.x122D9.x12311.x12240
@@ -1095,7 +1092,7 @@
 @useq	x12000.x122FB.x12000.x1202D
 @ucun	𒀀𒋻𒀀𒀭
 @v	ebla
-@link eBL |A.TAR.A.AN| https://www.ebl.lmu.de/signs/|A.TAR.A.AN|
+@link	eBL |A.TAR.A.AN| https://www.ebl.lmu.de/signs/|A.TAR.A.AN|
 @end sign
 
 @sign |A.TU.GABA.LIŠ|
@@ -1108,7 +1105,7 @@
 @v	ašalₓ
 @v	ašar₂
 @v	azalₓ
-@link eBL |A.TU.GABA.LIŠ| https://www.ebl.lmu.de/signs/|A.TU.GABA.LIŠ|
+@link	eBL |A.TU.GABA.LIŠ| https://www.ebl.lmu.de/signs/|A.TU.GABA.LIŠ|
 @form |A.GABA.LIŠ.TU|
 @oid	o0000667
 @useq	x12000.x120EE.x121FA.x12305
@@ -1173,7 +1170,7 @@
 @list	U+12037
 @ucun	𒀷
 @uage	5.0
-@link Wikidata Q87555108 http://www.wikidata.org/entity/Q87555108
+@link	Wikidata Q87555108 http://www.wikidata.org/entity/Q87555108
 @@
 @form |GABA.LIŠ|
 @oid	o0001182
@@ -1193,7 +1190,7 @@
 @useq	x12000.x12309
 @ucun	𒀀𒌉
 @v	edamu
-@link eBL |A.TUR| https://www.ebl.lmu.de/signs/|A.TUR|
+@link	eBL |A.TUR| https://www.ebl.lmu.de/signs/|A.TUR|
 @end sign
 
 @sign |A.U.KA|
@@ -1201,7 +1198,7 @@
 @useq	x12000.x1230B.x12157
 @ucun	𒀀𒌋𒅗
 @v	uguₓ
-@link eBL |A.U.KA| https://www.ebl.lmu.de/signs/|A.U.KA|
+@link	eBL |A.U.KA| https://www.ebl.lmu.de/signs/|A.U.KA|
 @end sign
 
 @sign |A.ZA.MUŠ₃@g|
@@ -1229,7 +1226,7 @@
 @v	šubₓ
 @inote	MC: /šumun//
 @v	zukumₓ
-@link eBL |A.ZI&ZI| https://www.ebl.lmu.de/signs/|A.ZI&ZI|
+@link	eBL |A.ZI&ZI| https://www.ebl.lmu.de/signs/|A.ZI&ZI|
 @form |A.ZI&ZI.A|
 @oid	o0000731
 @useq	x12000.x12364.x12000
@@ -1244,7 +1241,7 @@
 @oid	o0002663
 @useq	x12364.x120A0
 @ucun	𒍤𒂠
-@link eBL |ZI&ZI.EŠ₂| https://www.ebl.lmu.de/signs/|ZI&ZI.EŠ₂|
+@link	eBL |ZI&ZI.EŠ₂| https://www.ebl.lmu.de/signs/|ZI&ZI.EŠ₂|
 @@
 @end sign
 
@@ -1254,7 +1251,7 @@
 @useq	x12000.x12364.x121B8
 @ucun	𒀀𒍤𒆸
 @v	aškiₓ
-@link eBL |A.ZI&ZI.LAGAB| https://www.ebl.lmu.de/signs/|A.ZI&ZI.LAGAB|
+@link	eBL |A.ZI&ZI.LAGAB| https://www.ebl.lmu.de/signs/|A.ZI&ZI.LAGAB|
 @end sign
 
 @sign |A.ZU₅|
@@ -1276,8 +1273,8 @@
 @v	aya₂-aya₂
 @v	edur
 @v	eduru
-@link eBL |A×A| https://www.ebl.lmu.de/signs/|A×A|
-@link Wikidata Q87554997 http://www.wikidata.org/entity/Q87554997
+@link	eBL |A×A| https://www.ebl.lmu.de/signs/|A×A|
+@link	Wikidata Q87554997 http://www.wikidata.org/entity/Q87554997
 @end sign
 
 @sign |A×AN|
@@ -1295,8 +1292,8 @@
 @ucun	𒀂
 @uage	5.0
 @v	agam
-@link eBL |A×BAD| https://www.ebl.lmu.de/signs/|A×BAD|
-@link Wikidata Q87554999 http://www.wikidata.org/entity/Q87554999
+@link	eBL |A×BAD| https://www.ebl.lmu.de/signs/|A×BAD|
+@link	Wikidata Q87554999 http://www.wikidata.org/entity/Q87554999
 @form |A.BAD|
 @oid	o0000657
 @useq	x12000.x12041
@@ -1333,8 +1330,8 @@
 @v	saha₇
 @v	zah₃
 @v	zaha₃
-@link eBL |A×HA| https://www.ebl.lmu.de/signs/|A×HA|
-@link Wikidata Q87555003 http://www.wikidata.org/entity/Q87555003
+@link	eBL |A×HA| https://www.ebl.lmu.de/signs/|A×HA|
+@link	Wikidata Q87555003 http://www.wikidata.org/entity/Q87555003
 @form |A.GU|
 @oid	o0000674
 @useq	x12000.x12116
@@ -1357,8 +1354,8 @@
 @v	ir₆
 @v	isiš₃
 @v	šeš₃
-@link eBL |A×IGI| https://www.ebl.lmu.de/signs/|A×IGI|
-@link Wikidata Q87555005 http://www.wikidata.org/entity/Q87555005
+@link	eBL |A×IGI| https://www.ebl.lmu.de/signs/|A×IGI|
+@link	Wikidata Q87555005 http://www.wikidata.org/entity/Q87555005
 @end sign
 
 @sign |A×KU₃|
@@ -1375,8 +1372,8 @@
 @ucun	𒀆
 @uage	5.0
 @v	šedu₃
-@link eBL |A×LAGAR@g| https://www.ebl.lmu.de/signs/|A×LAGAR@g|
-@link Wikidata Q87555007 http://www.wikidata.org/entity/Q87555007
+@link	eBL |A×LAGAR@g| https://www.ebl.lmu.de/signs/|A×LAGAR@g|
+@link	Wikidata Q87555007 http://www.wikidata.org/entity/Q87555007
 @form |A.LAGAR@g|
 @oid	o0023032
 @inote	dcclt !sg
@@ -1397,8 +1394,8 @@
 @v	amuš
 @v	amuša
 @v	emuš
-@link eBL |A×MUŠ| https://www.ebl.lmu.de/signs/|A×MUŠ|
-@link Wikidata Q87555010 http://www.wikidata.org/entity/Q87555010
+@link	eBL |A×MUŠ| https://www.ebl.lmu.de/signs/|A×MUŠ|
+@link	Wikidata Q87555010 http://www.wikidata.org/entity/Q87555010
 @end sign
 
 @sign |A×SAG|
@@ -1411,8 +1408,8 @@
 @uage	5.0
 @v	esag
 @v	esaŋ
-@link eBL |A×SAG| https://www.ebl.lmu.de/signs/|A×SAG|
-@link Wikidata Q87555012 http://www.wikidata.org/entity/Q87555012
+@link	eBL |A×SAG| https://www.ebl.lmu.de/signs/|A×SAG|
+@link	Wikidata Q87555012 http://www.wikidata.org/entity/Q87555012
 @end sign
 
 @sign |A×SUD@90|
@@ -1461,8 +1458,8 @@
 @v	iṭ
 @v	te₈
 @v	ti₈
-@link eBL A₂ https://www.ebl.lmu.de/signs/A₂
-@link Wikidata Q20639233 http://www.wikidata.org/entity/Q20639233
+@link	eBL A₂ https://www.ebl.lmu.de/signs/A₂
+@link	Wikidata Q20639233 http://www.wikidata.org/entity/Q20639233
 @form DA
 @oid	o0000132
 @list	BAU097
@@ -1476,13 +1473,8 @@
 @v	te₈⁻
 @sys	Attinger a₂⁻ => a₂
 @sys	Attinger te₈⁻ => te₈
-@link eBL DA https://www.ebl.lmu.de/signs/DA
+@link	eBL DA https://www.ebl.lmu.de/signs/DA
 @@
-@end sign
-
-@sign A₂@h
-@oid	o0038176
-@inote ED3b (or ED3a??) P250330 = UET 2, supp 02 r 1 3
 @end sign
 
 @sign |A₂.AŠ|
@@ -1492,7 +1484,7 @@
 @v	liri₅
 @v	liru₅
 @v	lirum₅
-@link eBL |A₂.AŠ| https://www.ebl.lmu.de/signs/|A₂.AŠ|
+@link	eBL |A₂.AŠ| https://www.ebl.lmu.de/signs/|A₂.AŠ|
 @end sign
 
 @sign |A₂.GA₂×SAL|
@@ -1500,7 +1492,7 @@
 @useq	x12009.x120E3
 @ucun	𒀉𒃣
 @v	arhuš₇
-@link eBL |A₂.GA₂×SAL| https://www.ebl.lmu.de/signs/|A₂.GA₂×SAL|
+@link	eBL |A₂.GA₂×SAL| https://www.ebl.lmu.de/signs/|A₂.GA₂×SAL|
 @end sign
 
 @sign |A₂.KAL|
@@ -1512,7 +1504,7 @@
 @v	lirum₄
 @v	usu
 @v	uššuₓ
-@link eBL |A₂.KAL| https://www.ebl.lmu.de/signs/|A₂.KAL|
+@link	eBL |A₂.KAL| https://www.ebl.lmu.de/signs/|A₂.KAL|
 @end sign
 
 @sign |A₂.MUŠ₃|
@@ -1520,7 +1512,7 @@
 @useq	x12009.x12239
 @ucun	𒀉𒈹
 @v	aškud₂
-@link eBL |A₂.MUŠ₃| https://www.ebl.lmu.de/signs/|A₂.MUŠ₃|
+@link	eBL |A₂.MUŠ₃| https://www.ebl.lmu.de/signs/|A₂.MUŠ₃|
 @end sign
 
 @sign |A₂.MUŠ₃@g|
@@ -1528,7 +1520,7 @@
 @useq	x12009.x1223D
 @ucun	𒀉𒈽
 @v	aškud
-@link eBL |A₂.MUŠ₃@g| https://www.ebl.lmu.de/signs/|A₂.MUŠ₃@g|
+@link	eBL |A₂.MUŠ₃@g| https://www.ebl.lmu.de/signs/|A₂.MUŠ₃@g|
 @end sign
 
 @sign |A₂.PA|
@@ -1536,7 +1528,7 @@
 @useq	x12009.x1227A
 @ucun	𒀉𒉺
 @v	azag₂
-@link eBL |A₂.PA| https://www.ebl.lmu.de/signs/|A₂.PA|
+@link	eBL |A₂.PA| https://www.ebl.lmu.de/signs/|A₂.PA|
 @end sign
 
 @sign |A₂.SAL|
@@ -1544,7 +1536,7 @@
 @useq	x12009.x122A9
 @ucun	𒀉𒊩
 @v	arhuš₆
-@link eBL |A₂.SAL| https://www.ebl.lmu.de/signs/|A₂.SAL|
+@link	eBL |A₂.SAL| https://www.ebl.lmu.de/signs/|A₂.SAL|
 @end sign
 
 @sign |A₂.TUR|
@@ -1552,7 +1544,7 @@
 @useq	x12009.x12309
 @ucun	𒀉𒌉
 @v	arhuš₅
-@link eBL |A₂.TUR| https://www.ebl.lmu.de/signs/|A₂.TUR|
+@link	eBL |A₂.TUR| https://www.ebl.lmu.de/signs/|A₂.TUR|
 @end sign
 
 @sign |A₂.U.KID|
@@ -1561,7 +1553,7 @@
 @ucun	𒀉𒌋𒆤
 @v	ašita
 @v	ašte
-@link eBL |A₂.U.KID| https://www.ebl.lmu.de/signs/|A₂.U.KID|
+@link	eBL |A₂.U.KID| https://www.ebl.lmu.de/signs/|A₂.U.KID|
 @end sign
 
 @sign |A₂.UD.DU|
@@ -1570,7 +1562,7 @@
 @ucun	𒀉𒌓𒁺
 @v	ehe
 @v	ehi
-@link eBL |A₂.UD.DU| https://www.ebl.lmu.de/signs/|A₂.UD.DU|
+@link	eBL |A₂.UD.DU| https://www.ebl.lmu.de/signs/|A₂.UD.DU|
 @end sign
 
 @sign |A₂.ZA.AN.MUŠ₃|
@@ -1579,7 +1571,7 @@
 @ucun	𒀉𒍝𒀭𒈹
 @v	aškudₓ
 @v	zannaruₓ
-@link eBL |A₂.ZA.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|A₂.ZA.AN.MUŠ₃|
+@link	eBL |A₂.ZA.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|A₂.ZA.AN.MUŠ₃|
 @end sign
 
 @sign |A₂.ZA.MUŠ₃@g|
@@ -1587,12 +1579,17 @@
 @useq	x12009.x1235D.x1223D
 @ucun	𒀉𒍝𒈽
 @v	aškudₓ
-@link eBL |A₂.ZA.MUŠ₃@g| https://www.ebl.lmu.de/signs/|A₂.ZA.MUŠ₃@g|
+@link	eBL |A₂.ZA.MUŠ₃@g| https://www.ebl.lmu.de/signs/|A₂.ZA.MUŠ₃@g|
 @form |A₂.ZA.MUŠ₃|
 @oid	o0000888
 @useq	x12009.x1235D.x12239
 @ucun	𒀉𒍝𒈹
 @@
+@end sign
+
+@sign A₂@h
+@oid	o0038176
+@inote	ED3b (or ED3a??) P250330 = UET 2, supp 02 r 1 3
 @end sign
 
 @sign AB
@@ -1637,8 +1634,8 @@
 @v	unu₅
 @sys	Attinger erigal₃
 @sys	Attinger irigal₃
-@link eBL AB https://www.ebl.lmu.de/signs/AB
-@link Wikidata Q87555015 http://www.wikidata.org/entity/Q87555015
+@link	eBL AB https://www.ebl.lmu.de/signs/AB
+@link	Wikidata Q87555015 http://www.wikidata.org/entity/Q87555015
 @end sign
 
 @sign |AB.HA.ZAG.GABA.HU|
@@ -1647,7 +1644,7 @@
 @ucun	𒀊𒄩𒍠𒃮𒄷
 @v	essadu
 @v	ešsadu
-@link eBL |AB.HA.ZAG.GABA.HU| https://www.ebl.lmu.de/signs/|AB.HA.ZAG.GABA.HU|
+@link	eBL |AB.HA.ZAG.GABA.HU| https://www.ebl.lmu.de/signs/|AB.HA.ZAG.GABA.HU|
 @end sign
 
 @sign |AB.HA@g|
@@ -1655,7 +1652,7 @@
 @useq	x1200A.x1212B
 @ucun	𒀊𒄫
 @v	girabaₓ
-@link eBL |AB.HA@g| https://www.ebl.lmu.de/signs/|AB.HA@g|
+@link	eBL |AB.HA@g| https://www.ebl.lmu.de/signs/|AB.HA@g|
 @end sign
 
 @sign |AB.KID|
@@ -1674,6 +1671,12 @@
 @v	akkilₓ
 @end sign
 
+@sign |AB.KID&KID|
+@oid	o0038321
+@useq	x1200A.X
+@ucun	𒀊X
+@end sign
+
 @sign |AB.MUŠ₃|
 @oid	o0000740
 @useq	x1200A.x12239
@@ -1681,7 +1684,7 @@
 @v	sugal₆
 @v	zabala₆
 @v	zabalam₆
-@link eBL |AB.MUŠ₃| https://www.ebl.lmu.de/signs/|AB.MUŠ₃|
+@link	eBL |AB.MUŠ₃| https://www.ebl.lmu.de/signs/|AB.MUŠ₃|
 @end sign
 
 @sign |AB.NAM|
@@ -1689,12 +1692,12 @@
 @useq	x1200A.x12246
 @ucun	𒀊𒉆
 @v	absin₂
-@link eBL |AB.NAM| https://www.ebl.lmu.de/signs/|AB.NAM|
+@link	eBL |AB.NAM| https://www.ebl.lmu.de/signs/|AB.NAM|
 @end sign
 
 @sign |AB×A|
 @oid	o0000744
-@link eBL |AB×A| https://www.ebl.lmu.de/signs/|AB×A|
+@link	eBL |AB×A| https://www.ebl.lmu.de/signs/|AB×A|
 @end sign
 
 @sign |AB×AŠ₂|
@@ -1710,12 +1713,12 @@
 @ucun	𒀋
 @uage	5.0
 @v	abba₂
-@link eBL |AB×AŠ₂| https://www.ebl.lmu.de/signs/|AB×AŠ₂|
-@link Wikidata Q87555017 http://www.wikidata.org/entity/Q87555017
+@link	eBL |AB×AŠ₂| https://www.ebl.lmu.de/signs/|AB×AŠ₂|
+@link	Wikidata Q87555017 http://www.wikidata.org/entity/Q87555017
 @form |AB×NUN@t|
 @oid	o0000753
 @list	LAK541
-@link eBL |AB×NUN@t| https://www.ebl.lmu.de/signs/|AB×NUN@t|
+@link	eBL |AB×NUN@t| https://www.ebl.lmu.de/signs/|AB×NUN@t|
 @@
 @end sign
 
@@ -1734,8 +1737,8 @@
 @uage	5.0
 @v	agarin
 @v	aŋarin
-@link eBL |AB×DUN₃@g| https://www.ebl.lmu.de/signs/|AB×DUN₃@g|
-@link Wikidata Q87555019 http://www.wikidata.org/entity/Q87555019
+@link	eBL |AB×DUN₃@g| https://www.ebl.lmu.de/signs/|AB×DUN₃@g|
+@link	Wikidata Q87555019 http://www.wikidata.org/entity/Q87555019
 @form |NINDA₂×DUN₃@g|
 @oid	o0022994
 @inote	dcclt !sg
@@ -1756,8 +1759,8 @@
 @v	irigal
 @v	unugi₂
 @v	urugal
-@link eBL |AB×GAL| https://www.ebl.lmu.de/signs/|AB×GAL|
-@link Wikidata Q87555021 http://www.wikidata.org/entity/Q87555021
+@link	eBL |AB×GAL| https://www.ebl.lmu.de/signs/|AB×GAL|
+@link	Wikidata Q87555021 http://www.wikidata.org/entity/Q87555021
 @form |NINDA₂×GAL|
 @oid	o0022995
 @@
@@ -1773,8 +1776,8 @@
 @uage	5.0
 @v	agarin₂
 @v	aŋarin₂
-@link eBL |AB×GAN₂@t| https://www.ebl.lmu.de/signs/|AB×GAN₂@t|
-@link Wikidata Q87555022 http://www.wikidata.org/entity/Q87555022
+@link	eBL |AB×GAN₂@t| https://www.ebl.lmu.de/signs/|AB×GAN₂@t|
+@link	Wikidata Q87555022 http://www.wikidata.org/entity/Q87555022
 @end sign
 
 @sign |AB×HA|
@@ -1804,8 +1807,8 @@
 @v	sirara
 @v	siraran
 @sys	Attinger niŋen₆ => niŋin₆
-@link eBL |AB×HA| https://www.ebl.lmu.de/signs/|AB×HA|
-@link Wikidata Q87555024 http://www.wikidata.org/entity/Q87555024
+@link	eBL |AB×HA| https://www.ebl.lmu.de/signs/|AB×HA|
+@link	Wikidata Q87555024 http://www.wikidata.org/entity/Q87555024
 @end sign
 
 @sign |AB×HA.TAG|
@@ -1824,8 +1827,8 @@
 @ucun	𒀐
 @uage	5.0
 @v	unugi
-@link eBL |AB×IGI@g| https://www.ebl.lmu.de/signs/|AB×IGI@g|
-@link Wikidata Q87555026 http://www.wikidata.org/entity/Q87555026
+@link	eBL |AB×IGI@g| https://www.ebl.lmu.de/signs/|AB×IGI@g|
+@link	Wikidata Q87555026 http://www.wikidata.org/entity/Q87555026
 @form |NINDA₂×IGI@g|
 @oid	o0023071
 @inote	dcclt !sg
@@ -1842,13 +1845,13 @@
 @uage	5.0
 @v	ešemen₄
 @v	ešemin₄
-@link eBL |AB×IMIN| https://www.ebl.lmu.de/signs/|AB×IMIN|
-@link Wikidata Q87555028 http://www.wikidata.org/entity/Q87555028
+@link	eBL |AB×IMIN| https://www.ebl.lmu.de/signs/|AB×IMIN|
+@link	Wikidata Q87555028 http://www.wikidata.org/entity/Q87555028
 @end sign
 
 @sign |AB×KI|
 @oid	o0031583
-@link eBL |AB×KI| https://www.ebl.lmu.de/signs/|AB×KI|
+@link	eBL |AB×KI| https://www.ebl.lmu.de/signs/|AB×KI|
 @end sign
 
 @sign |AB×LAGAB|
@@ -1860,8 +1863,8 @@
 @ucun	𒀒
 @uage	5.0
 @v	niginₓ?
-@link eBL |AB×LAGAB| https://www.ebl.lmu.de/signs/|AB×LAGAB|
-@link Wikidata Q87555029 http://www.wikidata.org/entity/Q87555029
+@link	eBL |AB×LAGAB| https://www.ebl.lmu.de/signs/|AB×LAGAB|
+@link	Wikidata Q87555029 http://www.wikidata.org/entity/Q87555029
 @end sign
 
 @sign |AB×LAK178|
@@ -1871,7 +1874,7 @@
 
 @sign |AB×MAŠ|
 @oid	o0038239
-@inote epsd2/admin/ur3
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign |AB×NUN|
@@ -1882,8 +1885,8 @@
 @list	U+12370
 @ucun	𒍰
 @uage	7.0
-@link eBL |AB×NUN| https://www.ebl.lmu.de/signs/|AB×NUN|
-@link Wikidata Q87556738 http://www.wikidata.org/entity/Q87556738
+@link	eBL |AB×NUN| https://www.ebl.lmu.de/signs/|AB×NUN|
+@link	Wikidata Q87556738 http://www.wikidata.org/entity/Q87556738
 @end sign
 
 @sign |AB×NUN@t|
@@ -1894,24 +1897,24 @@
 @list	U+12480
 @ucun	𒒀
 @uage	8.0
-@link eBL |AB×NUN@t| https://www.ebl.lmu.de/signs/|AB×NUN@t|
-@link Wikidata Q87557092 http://www.wikidata.org/entity/Q87557092
+@link	eBL |AB×NUN@t| https://www.ebl.lmu.de/signs/|AB×NUN@t|
+@link	Wikidata Q87557092 http://www.wikidata.org/entity/Q87557092
 @end sign
 
 @sign |AB×ŠEŠ|
 @oid	o0000755
 @list	MZL226
 @list	SLLHA200c
+@inote	@v-	ze₄
+@inote	dupfix ze₄ not in MZL; Attinger ze₄(ZA)
 @uname	CUNEIFORM SIGN AB TIMES SHESH
 @list	U+12013
 @ucun	𒀓
 @uage	5.0
-@inote @v-	ze₄
-@inote	dupfix ze₄ not in MZL; Attinger ze₄(ZA)
 @v	zeₓ
 @v	zi₄
-@link eBL |AB×ŠEŠ| https://www.ebl.lmu.de/signs/|AB×ŠEŠ|
-@link Wikidata Q87555034 http://www.wikidata.org/entity/Q87555034
+@link	eBL |AB×ŠEŠ| https://www.ebl.lmu.de/signs/|AB×ŠEŠ|
+@link	Wikidata Q87555034 http://www.wikidata.org/entity/Q87555034
 @end sign
 
 @sign |AB×ŠU₂|
@@ -1921,13 +1924,13 @@
 @list	U+12481
 @ucun	𒒁
 @uage	8.0
-@link eBL |AB×ŠU₂| https://www.ebl.lmu.de/signs/|AB×ŠU₂|
-@link Wikidata Q87557094 http://www.wikidata.org/entity/Q87557094
+@link	eBL |AB×ŠU₂| https://www.ebl.lmu.de/signs/|AB×ŠU₂|
+@link	Wikidata Q87557094 http://www.wikidata.org/entity/Q87557094
 @end sign
 
 @sign |AB×TAK₄|
-@oid o0038190
-@inote requires collation; typo for AB₂×TAK₄?; epsd2/admin/ur3
+@oid	o0038190
+@inote	requires collation; typo for AB₂×TAK₄?; epsd2/admin/ur3
 @end sign
 
 @sign |AB×U|
@@ -1935,7 +1938,7 @@
 @list	REC349
 @v	mahₓ
 @inote	ed3b P112975 v 9
-@link eBL |AB×U| https://www.ebl.lmu.de/signs/|AB×U|
+@link	eBL |AB×U| https://www.ebl.lmu.de/signs/|AB×U|
 @end sign
 
 @sign |AB×(U.U.U)|
@@ -1958,8 +1961,8 @@
 @v	unugₓ
 @v	urugalₓ
 @v	urukₓ
-@link eBL |AB×(U.U.U)| https://www.ebl.lmu.de/signs/|AB×(U.U.U)|
-@link Wikidata Q87555035 http://www.wikidata.org/entity/Q87555035
+@link	eBL |AB×(U.U.U)| https://www.ebl.lmu.de/signs/|AB×(U.U.U)|
+@link	Wikidata Q87555035 http://www.wikidata.org/entity/Q87555035
 @end sign
 
 @sign |AB×(U.U.U).KU₃.LAM.SAL|
@@ -2011,8 +2014,8 @@
 @v	uruk
 @sys	Attinger erigal₂
 @sys	Attinger irigal₂
-@link eBL AB@g https://www.ebl.lmu.de/signs/AB@g
-@link Wikidata Q87555037 http://www.wikidata.org/entity/Q87555037
+@link	eBL AB@g https://www.ebl.lmu.de/signs/AB@g
+@link	Wikidata Q87555037 http://www.wikidata.org/entity/Q87555037
 @form AB
 @oid	o0000088
 @list	BAU333
@@ -2025,13 +2028,13 @@
 @v	unug⁻
 @sys	Attinger unu⁻ => unu
 @sys	Attinger unug⁻ => unug
-@link eBL AB https://www.ebl.lmu.de/signs/AB
+@link	eBL AB https://www.ebl.lmu.de/signs/AB
 @@
 @form MURUB₄
 @oid	o0000462
 @list	LAK157
 @inote	sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
-@link eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
+@link	eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
 @@
 @end sign
 
@@ -2048,7 +2051,7 @@
 @useq	x12015.x12239.x1235D
 @ucun	𒀕𒈹𒍝
 @v	zabalaₓ
-@link eBL |AB@g.MUŠ₃.ZA| https://www.ebl.lmu.de/signs/|AB@g.MUŠ₃.ZA|
+@link	eBL |AB@g.MUŠ₃.ZA| https://www.ebl.lmu.de/signs/|AB@g.MUŠ₃.ZA|
 @end sign
 
 @sign AB₂
@@ -2084,8 +2087,8 @@
 @v	reme₂
 @v	rim₂
 @v	rimu₂
-@link eBL AB₂ https://www.ebl.lmu.de/signs/AB₂
-@link Wikidata Q87555039 http://www.wikidata.org/entity/Q87555039
+@link	eBL AB₂ https://www.ebl.lmu.de/signs/AB₂
+@link	Wikidata Q87555039 http://www.wikidata.org/entity/Q87555039
 @end sign
 
 @sign |AB₂.AN.ŠEŠ.KI|
@@ -2094,14 +2097,7 @@
 @useq	x12016.x1202D.x122C0.x121A0
 @ucun	𒀖𒀭𒋀𒆠
 @v	munzerₓ
-@link eBL |AB₂.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|AB₂.AN.ŠEŠ.KI|
-@end sign
-
-@sign |IGI.PA|
-@oid	o0038241
-@useq x12146.x1227A
-@ucun 𒅆𒉺
-@v paₓ
+@link	eBL |AB₂.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|AB₂.AN.ŠEŠ.KI|
 @end sign
 
 @sign |AB₂.KU|
@@ -2115,7 +2111,7 @@
 @v	unu₃
 @v	unud
 @v	utul
-@link eBL |AB₂.KU| https://www.ebl.lmu.de/signs/|AB₂.KU|
+@link	eBL |AB₂.KU| https://www.ebl.lmu.de/signs/|AB₂.KU|
 @form |AB₂.LAGAB×U|
 @oid	o0031624
 @useq	x12016.x121E5
@@ -2137,7 +2133,7 @@
 @ucun	𒀖𒇻
 @v	udul₁₀
 @v	utul₁₀
-@link eBL |AB₂.LU| https://www.ebl.lmu.de/signs/|AB₂.LU|
+@link	eBL |AB₂.LU| https://www.ebl.lmu.de/signs/|AB₂.LU|
 @end sign
 
 @sign |AB₂.ŠA₃|
@@ -2155,10 +2151,10 @@
 @v	šemₓ
 @v	ubₓ
 @v	zeₓ
-@link eBL |AB₂.ŠA₃| https://www.ebl.lmu.de/signs/|AB₂.ŠA₃|
+@link	eBL |AB₂.ŠA₃| https://www.ebl.lmu.de/signs/|AB₂.ŠA₃|
 @form LAK386
 @oid	o0000365
-@link eBL LAK386 https://www.ebl.lmu.de/signs/LAK386
+@link	eBL LAK386 https://www.ebl.lmu.de/signs/LAK386
 @@
 @end sign
 
@@ -2170,7 +2166,7 @@
 @ucun	𒀖𒊮𒄀
 @v	zeₓ
 @inote	Presargonic
-@link eBL |AB₂.ŠA₃.GI| https://www.ebl.lmu.de/signs/|AB₂.ŠA₃.GI|
+@link	eBL |AB₂.ŠA₃.GI| https://www.ebl.lmu.de/signs/|AB₂.ŠA₃.GI|
 @end sign
 
 @sign |(AB₂.ŠA₃)&(AB₂.ŠA₃)|
@@ -2185,7 +2181,7 @@
 @useq	x12016.x12306
 @ucun	𒀖𒌆
 @v	sumunₓ
-@link eBL |AB₂.TUG₂| https://www.ebl.lmu.de/signs/|AB₂.TUG₂|
+@link	eBL |AB₂.TUG₂| https://www.ebl.lmu.de/signs/|AB₂.TUG₂|
 @end sign
 
 @sign |AB₂×A|
@@ -2197,7 +2193,7 @@
 @list	U+12371
 @ucun	𒍱
 @uage	7.0
-@link Wikidata Q87556741 http://www.wikidata.org/entity/Q87556741
+@link	Wikidata Q87556741 http://www.wikidata.org/entity/Q87556741
 @end sign
 
 @sign |AB₂×AMAR@t|
@@ -2216,8 +2212,8 @@
 @uage	5.0
 @v	lilis
 @v	liliz
-@link eBL |AB₂×BALAG| https://www.ebl.lmu.de/signs/|AB₂×BALAG|
-@link Wikidata Q87555041 http://www.wikidata.org/entity/Q87555041
+@link	eBL |AB₂×BALAG| https://www.ebl.lmu.de/signs/|AB₂×BALAG|
+@link	Wikidata Q87555041 http://www.wikidata.org/entity/Q87555041
 @form |AB₂×DUB₂|
 @oid	o0000766
 @note	Sign is only found in first millennium, where no difference exists between BALAG and DUB₂. Sign description is kept here for compatibility with earlier literature and search purposes.
@@ -2225,6 +2221,8 @@
 @end sign
 
 @compoundonly	|AB₂×BI|
+
+@compoundonly	|AB₂×(BI.SILA₃)|
 
 @compoundonly	|AB₂×(BUR₂.LU₃)|
 @inote	added during ogsl upgrade
@@ -2235,7 +2233,7 @@
 @oid	o0000768
 @inote	epsd2
 @v	lilisₓ
-@link eBL |AB₂×GAN₂| https://www.ebl.lmu.de/signs/|AB₂×GAN₂|
+@link	eBL |AB₂×GAN₂| https://www.ebl.lmu.de/signs/|AB₂×GAN₂|
 @end sign
 
 @sign |AB₂×GAN₂@t|
@@ -2255,11 +2253,11 @@
 @v	ub₇
 @sys	Attinger sem₅ => šem₅
 @sys	Attinger ub₇
-@link eBL |AB₂×GAN₂@t| https://www.ebl.lmu.de/signs/|AB₂×GAN₂@t|
-@link Wikidata Q87555043 http://www.wikidata.org/entity/Q87555043
+@link	eBL |AB₂×GAN₂@t| https://www.ebl.lmu.de/signs/|AB₂×GAN₂@t|
+@link	Wikidata Q87555043 http://www.wikidata.org/entity/Q87555043
 @form |AB₂×TAK₄|
 @oid	o0000770
-@link eBL |AB₂×TAK₄| https://www.ebl.lmu.de/signs/|AB₂×TAK₄|
+@link	eBL |AB₂×TAK₄| https://www.ebl.lmu.de/signs/|AB₂×TAK₄|
 @@
 @end sign
 
@@ -2302,8 +2300,8 @@
 @v	meze
 @v	šem₄
 @v	ub₆
-@link eBL |AB₂×(ME.EN)| https://www.ebl.lmu.de/signs/|AB₂×(ME.EN)|
-@link Wikidata Q87555045 http://www.wikidata.org/entity/Q87555045
+@link	eBL |AB₂×(ME.EN)| https://www.ebl.lmu.de/signs/|AB₂×(ME.EN)|
+@link	Wikidata Q87555045 http://www.wikidata.org/entity/Q87555045
 @end sign
 
 @sign |AB₂×MU|
@@ -2339,8 +2337,8 @@
 @v	šem₃
 @v	ub₃
 @sys	Attinger sem₃ => šem₃
-@link eBL |AB₂×ŠA₃| https://www.ebl.lmu.de/signs/|AB₂×ŠA₃|
-@link Wikidata Q87555047 http://www.wikidata.org/entity/Q87555047
+@link	eBL |AB₂×ŠA₃| https://www.ebl.lmu.de/signs/|AB₂×ŠA₃|
+@link	Wikidata Q87555047 http://www.wikidata.org/entity/Q87555047
 @end sign
 
 @compoundonly	|AB₂×ŠA₃.TAB|
@@ -2373,8 +2371,8 @@
 @v	šem₆
 @v	ub₅
 @v	uba₅
-@link eBL |AB₂×TAK₄| https://www.ebl.lmu.de/signs/|AB₂×TAK₄|
-@link Wikidata Q87555050 http://www.wikidata.org/entity/Q87555050
+@link	eBL |AB₂×TAK₄| https://www.ebl.lmu.de/signs/|AB₂×TAK₄|
+@link	Wikidata Q87555050 http://www.wikidata.org/entity/Q87555050
 @form |AB₂.TAK₄|
 @oid	o0223365
 @list	RSP163
@@ -2392,7 +2390,7 @@
 
 @sign AB₂@t
 @oid	o0000091
-@link eBL AB₂@t https://www.ebl.lmu.de/signs/AB₂@t
+@link	eBL AB₂@t https://www.ebl.lmu.de/signs/AB₂@t
 @end sign
 
 @sign AD
@@ -2419,8 +2417,8 @@
 @v	ap₃
 @v	at
 @v	aṭ
-@link eBL AD https://www.ebl.lmu.de/signs/AD
-@link Wikidata Q87555052 http://www.wikidata.org/entity/Q87555052
+@link	eBL AD https://www.ebl.lmu.de/signs/AD
+@link	Wikidata Q87555052 http://www.wikidata.org/entity/Q87555052
 @end sign
 
 @sign |AD.E₂|
@@ -2429,7 +2427,7 @@
 @ucun	𒀜𒂍
 @v	ad-kidₓ
 @v	akkilₓ
-@link eBL |AD.E₂| https://www.ebl.lmu.de/signs/|AD.E₂|
+@link	eBL |AD.E₂| https://www.ebl.lmu.de/signs/|AD.E₂|
 @end sign
 
 @sign |AD.KID|
@@ -2441,11 +2439,11 @@
 @v	adgub
 @v	akkil₂
 @sys	Attinger adgub
-@link eBL |AD.KID| https://www.ebl.lmu.de/signs/|AD.KID|
+@link	eBL |AD.KID| https://www.ebl.lmu.de/signs/|AD.KID|
 @form |AD.KID.KID|
-@oid  o0038288
-@useq x1201C.x121A4.x121A4
-@ucun 𒀜𒆤𒆤
+@oid	o0038288
+@useq	x1201C.x121A4.x121A4
+@ucun	𒀜𒆤𒆤
 @v	akkilₓ
 @@
 @end sign
@@ -2455,7 +2453,7 @@
 @useq	x1201C.x121AA
 @ucun	𒀜𒆪
 @v	akkilₓ
-@link eBL |AD.KU| https://www.ebl.lmu.de/signs/|AD.KU|
+@link	eBL |AD.KU| https://www.ebl.lmu.de/signs/|AD.KU|
 @end sign
 
 @sign |AD×EŠ₂|
@@ -2466,8 +2464,8 @@
 @list	U+12482
 @ucun	𒒂
 @uage	8.0
-@link eBL |AD×EŠ₂| https://www.ebl.lmu.de/signs/|AD×EŠ₂|
-@link Wikidata Q87557096 http://www.wikidata.org/entity/Q87557096
+@link	eBL |AD×EŠ₂| https://www.ebl.lmu.de/signs/|AD×EŠ₂|
+@link	Wikidata Q87557096 http://www.wikidata.org/entity/Q87557096
 @end sign
 
 @sign AK
@@ -2499,8 +2497,8 @@
 @v	na₃
 @v	ra₆
 @v	ša₅
-@link eBL AK https://www.ebl.lmu.de/signs/AK
-@link Wikidata Q87555054 http://www.wikidata.org/entity/Q87555054
+@link	eBL AK https://www.ebl.lmu.de/signs/AK
+@link	Wikidata Q87555054 http://www.wikidata.org/entity/Q87555054
 @end sign
 
 @sign |AK×ERIN₂|
@@ -2518,8 +2516,8 @@
 @ucun	𒀞
 @uage	5.0
 @v	me₃
-@link eBL |AK×ERIN₂| https://www.ebl.lmu.de/signs/|AK×ERIN₂|
-@link Wikidata Q87555057 http://www.wikidata.org/entity/Q87555057
+@link	eBL |AK×ERIN₂| https://www.ebl.lmu.de/signs/|AK×ERIN₂|
+@link	Wikidata Q87555057 http://www.wikidata.org/entity/Q87555057
 @form AK
 @oid	o0000093
 @list	BAU062
@@ -2536,8 +2534,8 @@
 @uage	5.0
 @v	me₆
 @note	Abbreviated form of ME₃.
-@link eBL AK https://www.ebl.lmu.de/signs/AK
-@link Wikidata Q87555054 http://www.wikidata.org/entity/Q87555054
+@link	eBL AK https://www.ebl.lmu.de/signs/AK
+@link	Wikidata Q87555054 http://www.wikidata.org/entity/Q87555054
 @@
 @form |AK×(ŠITA.GIŠ)|
 @oid	o0000776
@@ -2547,7 +2545,7 @@
 @ucun	𒀟
 @uage	5.0
 @v	me₁₁
-@link Wikidata Q87555059 http://www.wikidata.org/entity/Q87555059
+@link	Wikidata Q87555059 http://www.wikidata.org/entity/Q87555059
 @@
 @form |KA×ERIN₂|
 @oid	o0001620
@@ -2556,8 +2554,8 @@
 @ucun	𒅠
 @uage	5.0
 @v	meₓ
-@link eBL |KA×ERIN₂| https://www.ebl.lmu.de/signs/|KA×ERIN₂|
-@link Wikidata Q87555691 http://www.wikidata.org/entity/Q87555691
+@link	eBL |KA×ERIN₂| https://www.ebl.lmu.de/signs/|KA×ERIN₂|
+@link	Wikidata Q87555691 http://www.wikidata.org/entity/Q87555691
 @@
 @form LAK493
 @oid	o0000386
@@ -2570,7 +2568,7 @@
 @ucun	𒓽
 @uage	8.0
 @v	me₃
-@link Wikidata Q87557334 http://www.wikidata.org/entity/Q87557334
+@link	Wikidata Q87557334 http://www.wikidata.org/entity/Q87557334
 @@
 @end sign
 
@@ -2602,8 +2600,8 @@
 @v	il₁₀
 @v	mah₂
 @v	maha₂
-@link eBL AL https://www.ebl.lmu.de/signs/AL
-@link Wikidata Q87555061 http://www.wikidata.org/entity/Q87555061
+@link	eBL AL https://www.ebl.lmu.de/signs/AL
+@link	Wikidata Q87555061 http://www.wikidata.org/entity/Q87555061
 @end sign
 
 @sign |AL.ŠE|
@@ -2611,7 +2609,7 @@
 @useq	x12020.x122BA
 @ucun	𒀠𒊺
 @v	ilₓ
-@link eBL |AL.ŠE| https://www.ebl.lmu.de/signs/|AL.ŠE|
+@link	eBL |AL.ŠE| https://www.ebl.lmu.de/signs/|AL.ŠE|
 @end sign
 
 @sign |AL×AL|
@@ -2623,8 +2621,8 @@
 @ucun	𒀡
 @uage	5.0
 @v	bal₃
-@link eBL |AL×AL| https://www.ebl.lmu.de/signs/|AL×AL|
-@link Wikidata Q87555064 http://www.wikidata.org/entity/Q87555064
+@link	eBL |AL×AL| https://www.ebl.lmu.de/signs/|AL×AL|
+@link	Wikidata Q87555064 http://www.wikidata.org/entity/Q87555064
 @end sign
 
 @sign |AL×DIM₂|
@@ -2636,8 +2634,8 @@
 @ucun	𒀢
 @uage	5.0
 @v	lidim
-@link eBL |AL×DIM₂| https://www.ebl.lmu.de/signs/|AL×DIM₂|
-@link Wikidata Q87555066 http://www.wikidata.org/entity/Q87555066
+@link	eBL |AL×DIM₂| https://www.ebl.lmu.de/signs/|AL×DIM₂|
+@link	Wikidata Q87555066 http://www.wikidata.org/entity/Q87555066
 @end sign
 
 @sign |AL×GIŠ|
@@ -2651,8 +2649,8 @@
 @v	gišbar
 @v	gišmaš
 @v	ŋešmaš
-@link eBL |AL×GIŠ| https://www.ebl.lmu.de/signs/|AL×GIŠ|
-@link Wikidata Q87555068 http://www.wikidata.org/entity/Q87555068
+@link	eBL |AL×GIŠ| https://www.ebl.lmu.de/signs/|AL×GIŠ|
+@link	Wikidata Q87555068 http://www.wikidata.org/entity/Q87555068
 @end sign
 
 @sign |AL×HA|
@@ -2664,8 +2662,8 @@
 @ucun	𒀤
 @uage	5.0
 @v	hibira
-@link eBL |AL×HA| https://www.ebl.lmu.de/signs/|AL×HA|
-@link Wikidata Q87555070 http://www.wikidata.org/entity/Q87555070
+@link	eBL |AL×HA| https://www.ebl.lmu.de/signs/|AL×HA|
+@link	Wikidata Q87555070 http://www.wikidata.org/entity/Q87555070
 @end sign
 
 @sign |AL×KAD₃|
@@ -2676,8 +2674,8 @@
 @ucun	𒀥
 @uage	5.0
 @v	dubal
-@link eBL |AL×KAD₃| https://www.ebl.lmu.de/signs/|AL×KAD₃|
-@link Wikidata Q87555072 http://www.wikidata.org/entity/Q87555072
+@link	eBL |AL×KAD₃| https://www.ebl.lmu.de/signs/|AL×KAD₃|
+@link	Wikidata Q87555072 http://www.wikidata.org/entity/Q87555072
 @end sign
 
 @sign |AL×KI|
@@ -2690,8 +2688,8 @@
 @uage	5.0
 @v	bal₄
 @v	dubal₂
-@link eBL |AL×KI| https://www.ebl.lmu.de/signs/|AL×KI|
-@link Wikidata Q87555074 http://www.wikidata.org/entity/Q87555074
+@link	eBL |AL×KI| https://www.ebl.lmu.de/signs/|AL×KI|
+@link	Wikidata Q87555074 http://www.wikidata.org/entity/Q87555074
 @end sign
 
 @sign |AL×ŠE|
@@ -2703,8 +2701,8 @@
 @ucun	𒀧
 @uage	5.0
 @v	il₆
-@link eBL |AL×ŠE| https://www.ebl.lmu.de/signs/|AL×ŠE|
-@link Wikidata Q87555076 http://www.wikidata.org/entity/Q87555076
+@link	eBL |AL×ŠE| https://www.ebl.lmu.de/signs/|AL×ŠE|
+@link	Wikidata Q87555076 http://www.wikidata.org/entity/Q87555076
 @end sign
 
 @sign |AL×UŠ|
@@ -2719,8 +2717,8 @@
 @v	hibiz₂
 @v	šušbar
 @v	šušmaš
-@link eBL |AL×UŠ| https://www.ebl.lmu.de/signs/|AL×UŠ|
-@link Wikidata Q87555078 http://www.wikidata.org/entity/Q87555078
+@link	eBL |AL×UŠ| https://www.ebl.lmu.de/signs/|AL×UŠ|
+@link	Wikidata Q87555078 http://www.wikidata.org/entity/Q87555078
 @end sign
 
 @sign AL@s
@@ -2757,8 +2755,8 @@
 @v	kaššeba₂?
 @v	kaššebi₂?
 @inote	for bišeba₂ vs. kaššeba₂ see LUGAL.
-@link eBL ALAN https://www.ebl.lmu.de/signs/ALAN
-@link Wikidata Q87555079 http://www.wikidata.org/entity/Q87555079
+@link	eBL ALAN https://www.ebl.lmu.de/signs/ALAN
+@link	Wikidata Q87555079 http://www.wikidata.org/entity/Q87555079
 @end sign
 
 @sign |ALAN×GAN₂@t|
@@ -2769,7 +2767,7 @@
 @sign |ALAN&ALAN|
 @oid	o0000781
 @v	alamₓ
-@link eBL |ALAN&ALAN| https://www.ebl.lmu.de/signs/|ALAN&ALAN|
+@link	eBL |ALAN&ALAN| https://www.ebl.lmu.de/signs/|ALAN&ALAN|
 @end sign
 
 @sign ALEPH
@@ -2795,8 +2793,8 @@
 @v	uʾ
 @v	uh₅
 @v	umun₄
-@link eBL ALEPH https://www.ebl.lmu.de/signs/ALEPH
-@link Wikidata Q87555081 http://www.wikidata.org/entity/Q87555081
+@link	eBL ALEPH https://www.ebl.lmu.de/signs/ALEPH
+@link	Wikidata Q87555081 http://www.wikidata.org/entity/Q87555081
 @end sign
 
 @sign AMAR
@@ -2825,8 +2823,8 @@
 @v	ṣur
 @v	ṣuru
 @v	zur
-@link eBL AMAR https://www.ebl.lmu.de/signs/AMAR
-@link Wikidata Q87555083 http://www.wikidata.org/entity/Q87555083
+@link	eBL AMAR https://www.ebl.lmu.de/signs/AMAR
+@link	Wikidata Q87555083 http://www.wikidata.org/entity/Q87555083
 @form |AMAR×PAP|
 @oid	o0031810
 @v	amar
@@ -2852,7 +2850,7 @@
 @useq	x1202B.x12055
 @ucun	𒀫𒁕
 @v	marad₂
-@link eBL |AMAR.DA| https://www.ebl.lmu.de/signs/|AMAR.DA|
+@link	eBL |AMAR.DA| https://www.ebl.lmu.de/signs/|AMAR.DA|
 @end sign
 
 @sign |AMAR.ERIN₂|
@@ -2866,7 +2864,7 @@
 @inote	DCCLT
 @useq	x1202B.x12111
 @ucun	𒀫𒄑
-@link eBL |AMAR.GIŠ| https://www.ebl.lmu.de/signs/|AMAR.GIŠ|
+@link	eBL |AMAR.GIŠ| https://www.ebl.lmu.de/signs/|AMAR.GIŠ|
 @end sign
 
 @sign |AMAR.UD|
@@ -2874,7 +2872,7 @@
 @useq	x1202B.x12313
 @ucun	𒀫𒌓
 @v	marduk
-@link eBL |AMAR.UD| https://www.ebl.lmu.de/signs/|AMAR.UD|
+@link	eBL |AMAR.UD| https://www.ebl.lmu.de/signs/|AMAR.UD|
 @form |UD.AMAR|
 @oid	o0031779
 @useq	x12313.x1202B
@@ -2890,7 +2888,7 @@
 @list	U+12372
 @ucun	𒍲
 @uage	7.0
-@link Wikidata Q87556743 http://www.wikidata.org/entity/Q87556743
+@link	Wikidata Q87556743 http://www.wikidata.org/entity/Q87556743
 @end sign
 
 @sign |AMAR×ŠE|
@@ -2911,8 +2909,8 @@
 @v	siskur
 @v	siškur
 @v	sizkur
-@link eBL |AMAR×ŠE| https://www.ebl.lmu.de/signs/|AMAR×ŠE|
-@link Wikidata Q87555086 http://www.wikidata.org/entity/Q87555086
+@link	eBL |AMAR×ŠE| https://www.ebl.lmu.de/signs/|AMAR×ŠE|
+@link	Wikidata Q87555086 http://www.wikidata.org/entity/Q87555086
 @end sign
 
 @sign |AMAR×ŠE.AMAR×ŠE|
@@ -2924,57 +2922,11 @@
 @v	siškur₂
 @v	sizkur₂
 @v	tiškurₓ
-@link eBL |AMAR×ŠE.AMAR×ŠE| https://www.ebl.lmu.de/signs/|AMAR×ŠE.AMAR×ŠE|
+@link	eBL |AMAR×ŠE.AMAR×ŠE| https://www.ebl.lmu.de/signs/|AMAR×ŠE.AMAR×ŠE|
 @end sign
 
 @compoundonly	AMAR@t
 @inote	In |AB₂×AMAR@t| in P020344 = VS 27, 28.
-
-@sign |3×AN|
-@oid	o0000642
-@list	BAU008
-@list	ELLES006b
-@list	GCSL051
-@list	KWU025
-@list	LAK010
-@list	MZL247
-@list	PTACE009
-@list	RSP082
-@uname	CUNEIFORM SIGN AN THREE TIMES
-@list	U+1202F
-@ucun	𒀯
-@uage	5.0
-@v	kunga₃
-@v	kungi₃
-@v	mul
-@v	mulu
-@v	munₓ
-@v	nap₂
-@v	suhub₂
-@v	šuhub₂
-@v	šun₂
-@link eBL |3×AN| https://www.ebl.lmu.de/signs/|3×AN|
-@link Wikidata Q87555091 http://www.wikidata.org/entity/Q87555091
-@form |AN.AN.AN|
-@oid	o0031516
-@inote	P229306 r iv 26
-@useq	x1202D.x1202D.x1202D
-@ucun	𒀭𒀭𒀭
-@@
-@end sign
-
-@sign |4×(AN.NAGA)|
-@oid	o0000643
-@pname	|4×(AN+NAGA)|
-@list	SLLHA165a
-@uname	CUNEIFORM SIGN AN PLUS NAGA SQUARED
-@list	U+12031
-@ucun	𒀱
-@uage	5.0
-@v	dalhamun₄
-@link eBL |4×(AN.NAGA)| https://www.ebl.lmu.de/signs/|4×(AN.NAGA)|
-@link Wikidata Q87555096 http://www.wikidata.org/entity/Q87555096
-@end sign
 
 @sign AN
 @oid	o0000099
@@ -3035,16 +2987,54 @@
 @inote	Amarna
 @v	usanₓ
 @v	za₅
-@link eBL AN https://www.ebl.lmu.de/signs/AN
-@link Wikidata Q87555087 http://www.wikidata.org/entity/Q87555087
+@link	eBL AN https://www.ebl.lmu.de/signs/AN
+@link	Wikidata Q87555087 http://www.wikidata.org/entity/Q87555087
 @end sign
 
-@sign |AN.3×AN|
-@oid	o0000797
-@useq	x1202D.x1202F
-@ucun	𒀭𒀯
-@v	šuhubₓ
-@link eBL |AN.3×AN| https://www.ebl.lmu.de/signs/|AN.3×AN|
+@sign |3×AN|
+@oid	o0000642
+@list	BAU008
+@list	ELLES006b
+@list	GCSL051
+@list	KWU025
+@list	LAK010
+@list	MZL247
+@list	PTACE009
+@list	RSP082
+@uname	CUNEIFORM SIGN AN THREE TIMES
+@list	U+1202F
+@ucun	𒀯
+@uage	5.0
+@v	kunga₃
+@v	kungi₃
+@v	mul
+@v	mulu
+@v	munₓ
+@v	nap₂
+@v	suhub₂
+@v	šuhub₂
+@v	šun₂
+@link	eBL |3×AN| https://www.ebl.lmu.de/signs/|3×AN|
+@link	Wikidata Q87555091 http://www.wikidata.org/entity/Q87555091
+@form |AN.AN.AN|
+@oid	o0031516
+@inote	P229306 r iv 26
+@useq	x1202D.x1202D.x1202D
+@ucun	𒀭𒀭𒀭
+@@
+@end sign
+
+@sign |4×(AN.NAGA)|
+@oid	o0000643
+@pname	|4×(AN+NAGA)|
+@list	SLLHA165a
+@uname	CUNEIFORM SIGN AN PLUS NAGA SQUARED
+@list	U+12031
+@ucun	𒀱
+@uage	5.0
+@v	dalhamun₄
+@link	eBL |4×(AN.NAGA)| https://www.ebl.lmu.de/signs/|4×(AN.NAGA)|
+@link	Wikidata Q87555096 http://www.wikidata.org/entity/Q87555096
 @end sign
 
 @sign |AN.A.LAGAB×HAL|
@@ -3054,7 +3044,7 @@
 @v	ita₄
 @v	iti₄
 @v	itu₄
-@link eBL |AN.A.LAGAB×HAL| https://www.ebl.lmu.de/signs/|AN.A.LAGAB×HAL|
+@link	eBL |AN.A.LAGAB×HAL| https://www.ebl.lmu.de/signs/|AN.A.LAGAB×HAL|
 @end sign
 
 @sign |AN.AB×HA|
@@ -3074,7 +3064,15 @@
 @v	mulₓ
 @v	nab₃
 @v	namₓ
-@link eBL |AN.AN| https://www.ebl.lmu.de/signs/|AN.AN|
+@link	eBL |AN.AN| https://www.ebl.lmu.de/signs/|AN.AN|
+@end sign
+
+@sign |AN.3×AN|
+@oid	o0000797
+@useq	x1202D.x1202F
+@ucun	𒀭𒀯
+@v	šuhubₓ
+@link	eBL |AN.3×AN| https://www.ebl.lmu.de/signs/|AN.3×AN|
 @end sign
 
 @sign |AN.AŠ.A.AN|
@@ -3082,7 +3080,7 @@
 @useq	x1202D.x12038.x12000.x1202D
 @ucun	𒀭𒀸𒀀𒀭
 @v	tilla₄?
-@link eBL |AN.AŠ.A.AN| https://www.ebl.lmu.de/signs/|AN.AŠ.A.AN|
+@link	eBL |AN.AŠ.A.AN| https://www.ebl.lmu.de/signs/|AN.AŠ.A.AN|
 @end sign
 
 @sign |AN.AŠ.AN|
@@ -3091,11 +3089,11 @@
 @ucun	𒀭𒀸𒀭
 @v	barzil
 @v	tilla₂
-@link eBL |AN.AŠ.AN| https://www.ebl.lmu.de/signs/|AN.AŠ.AN|
+@link	eBL |AN.AŠ.AN| https://www.ebl.lmu.de/signs/|AN.AŠ.AN|
 @form |AN.AN|
 @oid	o0000799
 @v	tillaₓ
-@link eBL |AN.AN| https://www.ebl.lmu.de/signs/|AN.AN|
+@link	eBL |AN.AN| https://www.ebl.lmu.de/signs/|AN.AN|
 @@
 @form |AN.AN.AŠ|
 @oid	o0025680
@@ -3122,7 +3120,7 @@
 @useq	x12038.x12038
 @ucun	𒀸𒀸
 @v	tillaₓ
-@link eBL |AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ.AŠ|
+@link	eBL |AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ.AŠ|
 @@
 @end sign
 
@@ -3131,7 +3129,7 @@
 @useq	x1202D.x12039.x1202D
 @ucun	𒀭𒀹𒀭
 @v	tilla₅
-@link eBL |AN.AŠ@z.AN| https://www.ebl.lmu.de/signs/|AN.AŠ@z.AN|
+@link	eBL |AN.AŠ@z.AN| https://www.ebl.lmu.de/signs/|AN.AŠ@z.AN|
 @end sign
 
 @sign |AN.BARA₂|
@@ -3139,7 +3137,7 @@
 @useq	x1202D.x12048
 @ucun	𒀭𒁈
 @v	kunigara
-@link eBL |AN.BARA₂| https://www.ebl.lmu.de/signs/|AN.BARA₂|
+@link	eBL |AN.BARA₂| https://www.ebl.lmu.de/signs/|AN.BARA₂|
 @end sign
 
 @sign |AN.DIŠ.AN|
@@ -3147,7 +3145,7 @@
 @useq	x1202D.x12079.x1202D
 @ucun	𒀭𒁹𒀭
 @v	tilla₃?
-@link eBL |AN.DIŠ.AN| https://www.ebl.lmu.de/signs/|AN.DIŠ.AN|
+@link	eBL |AN.DIŠ.AN| https://www.ebl.lmu.de/signs/|AN.DIŠ.AN|
 @end sign
 
 @sign |AN.DU.AN|
@@ -3155,7 +3153,7 @@
 @useq	x1202D.x1207A.x1202D
 @ucun	𒀭𒁺𒀭
 @v	aššan
-@link eBL |AN.DU.AN| https://www.ebl.lmu.de/signs/|AN.DU.AN|
+@link	eBL |AN.DU.AN| https://www.ebl.lmu.de/signs/|AN.DU.AN|
 @end sign
 
 @sign |AN.EN.NU.NUNUZ.NAM.AN.ŠEŠ.KI|
@@ -3179,7 +3177,7 @@
 @useq	x1202D.x12119
 @ucun	𒀭𒄙
 @v	usanₓ
-@link eBL |AN.GU₂×KAK| https://www.ebl.lmu.de/signs/|AN.GU₂×KAK|
+@link	eBL |AN.GU₂×KAK| https://www.ebl.lmu.de/signs/|AN.GU₂×KAK|
 @end sign
 
 @sign |AN.GU₂×NUN|
@@ -3187,7 +3185,7 @@
 @useq	x1202D.x1211B
 @ucun	𒀭𒄛
 @v	usanₓ
-@link eBL |AN.GU₂×NUN| https://www.ebl.lmu.de/signs/|AN.GU₂×NUN|
+@link	eBL |AN.GU₂×NUN| https://www.ebl.lmu.de/signs/|AN.GU₂×NUN|
 @end sign
 
 @sign |AN.GU₂×NUN.PA.EL|
@@ -3218,7 +3216,7 @@
 @ucun	𒀭𒄷𒈪𒅎
 @v	anzuₓ
 @v	gunₓ
-@link eBL |AN.HU.MI.IM| https://www.ebl.lmu.de/signs/|AN.HU.MI.IM|
+@link	eBL |AN.HU.MI.IM| https://www.ebl.lmu.de/signs/|AN.HU.MI.IM|
 @form |AN.MI.HU|
 @oid	o0027764
 @useq	x1202D.x1222A.x12137
@@ -3232,7 +3230,7 @@
 @ucun	𒀭𒅎
 @v	kutraₓ
 @v	qutraₓ
-@link eBL |AN.IM| https://www.ebl.lmu.de/signs/|AN.IM|
+@link	eBL |AN.IM| https://www.ebl.lmu.de/signs/|AN.IM|
 @end sign
 
 @sign |AN.IM.DUGUD|
@@ -3241,7 +3239,7 @@
 @ucun	𒀭𒅎𒂂
 @v	anzu
 @v	anzud
-@link eBL |AN.IM.DUGUD| https://www.ebl.lmu.de/signs/|AN.IM.DUGUD|
+@link	eBL |AN.IM.DUGUD| https://www.ebl.lmu.de/signs/|AN.IM.DUGUD|
 @form |AN.DUGUD|
 @oid	o0000806
 @useq	x1202D.x12082
@@ -3255,7 +3253,7 @@
 @ucun	𒀭𒅎𒈪
 @v	anzu₂
 @v	anzud₂
-@link eBL |AN.IM.MI| https://www.ebl.lmu.de/signs/|AN.IM.MI|
+@link	eBL |AN.IM.MI| https://www.ebl.lmu.de/signs/|AN.IM.MI|
 @form |AN.MI|
 @oid	o0031476
 @inote	also MI=anzuₓ i.e., AN-MI = {d}anzuₓ(MI)
@@ -3279,7 +3277,7 @@
 @inote	epsd2/praxis
 @useq	x1202D.X
 @ucun	𒀭X
-@link eBL |AN.LAK397| https://www.ebl.lmu.de/signs/|AN.LAK397|
+@link	eBL |AN.LAK397| https://www.ebl.lmu.de/signs/|AN.LAK397|
 @end sign
 
 @sign |AN.ME.NAGA|
@@ -3295,7 +3293,7 @@
 @useq	x1202D.x1238C
 @ucun	𒀭𒎌
 @v	ili₇
-@link eBL |AN.ME.U.U.U| https://www.ebl.lmu.de/signs/|AN.ME.U.U.U|
+@link	eBL |AN.ME.U.U.U| https://www.ebl.lmu.de/signs/|AN.ME.U.U.U|
 @end sign
 
 @sign |AN.MUŠ|
@@ -3303,7 +3301,7 @@
 @useq	x1202D.x12232
 @ucun	𒀭𒈲
 @v	kunigara₂
-@link eBL |AN.MUŠ| https://www.ebl.lmu.de/signs/|AN.MUŠ|
+@link	eBL |AN.MUŠ| https://www.ebl.lmu.de/signs/|AN.MUŠ|
 @end sign
 
 @sign |AN.MUŠ₃.AB|
@@ -3311,13 +3309,13 @@
 @useq	x1202D.x12239.x1200A
 @ucun	𒀭𒈹𒀊
 @v	zabalaₓ
-@link eBL |AN.MUŠ₃.AB| https://www.ebl.lmu.de/signs/|AN.MUŠ₃.AB|
+@link	eBL |AN.MUŠ₃.AB| https://www.ebl.lmu.de/signs/|AN.MUŠ₃.AB|
 @form |AN.MUŠ₃.AB@g|
 @oid	o0000817
 @useq	x1202D.x12239.x12015
 @ucun	𒀭𒈹𒀕
 @v	zabalaₓ
-@link eBL |AN.MUŠ₃.AB@g| https://www.ebl.lmu.de/signs/|AN.MUŠ₃.AB@g|
+@link	eBL |AN.MUŠ₃.AB@g| https://www.ebl.lmu.de/signs/|AN.MUŠ₃.AB@g|
 @@
 @form |MUŠ₃.TE.AB@g|
 @oid	o0221901
@@ -3344,7 +3342,7 @@
 @v	nanga₅?
 @v	niggi
 @v	niggin
-@link eBL |AN.NA| https://www.ebl.lmu.de/signs/|AN.NA|
+@link	eBL |AN.NA| https://www.ebl.lmu.de/signs/|AN.NA|
 @end sign
 
 @sign |AN.NAGA|
@@ -3352,7 +3350,7 @@
 @useq	x1202D.x12240
 @ucun	𒀭𒉀
 @v	nanibgal
-@link eBL |AN.NAGA| https://www.ebl.lmu.de/signs/|AN.NAGA|
+@link	eBL |AN.NAGA| https://www.ebl.lmu.de/signs/|AN.NAGA|
 @form |AN.ŠE.NAGA.GAL|
 @oid	o0021447
 @useq	x1202D.x122BA.x12240.x120F2
@@ -3370,8 +3368,8 @@
 @ucun	𒀰
 @uage	5.0
 @v	dalhamun₅
-@link eBL |(AN.NAGA)@(AN.NAGA)| https://www.ebl.lmu.de/signs/|(AN.NAGA)@(AN.NAGA)|
-@link Wikidata Q87555094 http://www.wikidata.org/entity/Q87555094
+@link	eBL |(AN.NAGA)@(AN.NAGA)| https://www.ebl.lmu.de/signs/|(AN.NAGA)@(AN.NAGA)|
+@link	Wikidata Q87555094 http://www.wikidata.org/entity/Q87555094
 @form |(SUM.IR)@(SUM.IR)|
 @oid	o0027902
 @v	dalhamunₓ
@@ -3384,7 +3382,7 @@
 @ucun	𒀭𒊨
 @v	ṣil₃
 @v	%akk ṣillu
-@link eBL |AN.SAG@g| https://www.ebl.lmu.de/signs/|AN.SAG@g|
+@link	eBL |AN.SAG@g| https://www.ebl.lmu.de/signs/|AN.SAG@g|
 @end sign
 
 @sign |AN.SAL.TUG₂.IB|
@@ -3393,7 +3391,7 @@
 @ucun	𒀭𒎏𒅁
 @v	ligidbaₓ
 @v	urzababitumₓ
-@link eBL |AN.SAL.TUG₂.IB| https://www.ebl.lmu.de/signs/|AN.SAL.TUG₂.IB|
+@link	eBL |AN.SAL.TUG₂.IB| https://www.ebl.lmu.de/signs/|AN.SAL.TUG₂.IB|
 @end sign
 
 @sign |AN.ŠE.NAGA|
@@ -3401,13 +3399,13 @@
 @useq	x1202D.x122BA.x12240
 @ucun	𒀭𒊺𒉀
 @v	nanibgal₂
-@link eBL |AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|AN.ŠE.NAGA|
+@link	eBL |AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|AN.ŠE.NAGA|
 @form |ŠE.NAGA|
 @oid	o0002722
 @list	GCSL106
 @useq	x122BA.x12240
 @ucun	𒊺𒉀
-@link eBL |ŠE.NAGA| https://www.ebl.lmu.de/signs/|ŠE.NAGA|
+@link	eBL |ŠE.NAGA| https://www.ebl.lmu.de/signs/|ŠE.NAGA|
 @@
 @end sign
 
@@ -3418,7 +3416,7 @@
 @v	nanna₂
 @ref	SpTu 2 36 = cams:P348641 o 18, i-nanna₂-ma
 @inote	Borger MZL, 507 rejects the value.
-@link eBL |AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|AN.ŠEŠ.KI|
+@link	eBL |AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|AN.ŠEŠ.KI|
 @end sign
 
 @sign |AN.TU|
@@ -3426,7 +3424,7 @@
 @useq	x1202D.x12305
 @ucun	𒀭𒌅
 @v	kunigara₃
-@link eBL |AN.TU| https://www.ebl.lmu.de/signs/|AN.TU|
+@link	eBL |AN.TU| https://www.ebl.lmu.de/signs/|AN.TU|
 @end sign
 
 @sign |AN.U|
@@ -3435,7 +3433,7 @@
 @useq	x1202D.x1230B
 @ucun	𒀭𒌋
 @v	enₓ
-@link eBL |AN.U| https://www.ebl.lmu.de/signs/|AN.U|
+@link	eBL |AN.U| https://www.ebl.lmu.de/signs/|AN.U|
 @end sign
 
 @sign |AN.ZAG|
@@ -3443,7 +3441,15 @@
 @useq	x1202D.x12360
 @ucun	𒀭𒍠
 @v	uzugₓ
-@link eBL |AN.ZAG| https://www.ebl.lmu.de/signs/|AN.ZAG|
+@link	eBL |AN.ZAG| https://www.ebl.lmu.de/signs/|AN.ZAG|
+@end sign
+
+@sign |AN+EN|
+@oid	o0038077
+@note	This entry is defined to facilitate mapping {d}+en to a font ligature via AN+ZWJ+EN.
+@useq	x1202D.x200D.x12097
+@ucun	𒀭‍𒂗
+@uage	0
 @end sign
 
 @compoundonly	|AN×MUŠ₃|
@@ -3471,14 +3477,14 @@
 @v	nap
 @v	nubₓ
 @v	tillaₓ
-@link eBL |AN&AN| https://www.ebl.lmu.de/signs/|AN&AN|
-@link Wikidata Q87555089 http://www.wikidata.org/entity/Q87555089
+@link	eBL |AN&AN| https://www.ebl.lmu.de/signs/|AN&AN|
+@link	Wikidata Q87555089 http://www.wikidata.org/entity/Q87555089
 @end sign
 
 @sign AN@180
 @oid	o0000100
 @inote	CDLI oakk
-@link eBL AN@180 https://www.ebl.lmu.de/signs/AN@180
+@link	eBL AN@180 https://www.ebl.lmu.de/signs/AN@180
 @end sign
 
 @sign ANŠE
@@ -3509,8 +3515,8 @@
 @v	šagan₂
 @v	šakan₃
 @sys	Attinger šagan₂ => šakan₃
-@link eBL ANŠE https://www.ebl.lmu.de/signs/ANŠE
-@link Wikidata Q87555099 http://www.wikidata.org/entity/Q87555099
+@link	eBL ANŠE https://www.ebl.lmu.de/signs/ANŠE
+@link	Wikidata Q87555099 http://www.wikidata.org/entity/Q87555099
 @form KIŠ
 @oid	o0000286
 @list	LAK248
@@ -3518,12 +3524,12 @@
 @inote	Oracc anše(KIŠ)
 @v	anše⁻
 @sys	Attinger anše⁻ => anše
-@link eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
+@link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
 @form LAK239
 @oid	o0000333
 @list	LAK239
-@link eBL LAK239 https://www.ebl.lmu.de/signs/LAK239
+@link	eBL LAK239 https://www.ebl.lmu.de/signs/LAK239
 @@
 @form LAK240
 @oid	o0245336
@@ -3545,7 +3551,7 @@
 @useq	x12032.x1202D
 @ucun	𒀲𒀭
 @v	šakan₄
-@link eBL |ANŠE.AN| https://www.ebl.lmu.de/signs/|ANŠE.AN|
+@link	eBL |ANŠE.AN| https://www.ebl.lmu.de/signs/|ANŠE.AN|
 @end sign
 
 @sign |ANŠE.ARAD|
@@ -3555,15 +3561,15 @@
 @v	du₂₅
 @v	dur₃
 @v	duru₃
-@inote Moved to GIR₃.ARAD::ANŠE.ARAD šaggin/šakkan₆
-@inote @v	šagginₓ
-@inote @v	šakkan₆
-@link eBL |ANŠE.ARAD| https://www.ebl.lmu.de/signs/|ANŠE.ARAD|
+@inote	Moved to GIR₃.ARAD::ANŠE.ARAD šaggin/šakkan₆
+@inote	@v	šagginₓ
+@inote	@v	šakkan₆
+@link	eBL |ANŠE.ARAD| https://www.ebl.lmu.de/signs/|ANŠE.ARAD|
 @form |ARAD.ANŠE|
 @oid	o0000840
 @useq	x12034.x12032
 @ucun	𒀴𒀲
-@link eBL |ARAD.ANŠE| https://www.ebl.lmu.de/signs/|ARAD.ANŠE|
+@link	eBL |ARAD.ANŠE| https://www.ebl.lmu.de/signs/|ARAD.ANŠE|
 @@
 @form |LAK248@g.ARAD|
 @oid	o0031781
@@ -3579,7 +3585,7 @@
 @v	dusi₂
 @v	dussa₂
 @v	dusu₂
-@link eBL |ANŠE.IGI.EŠ₂| https://www.ebl.lmu.de/signs/|ANŠE.IGI.EŠ₂|
+@link	eBL |ANŠE.IGI.EŠ₂| https://www.ebl.lmu.de/signs/|ANŠE.IGI.EŠ₂|
 @form |ANŠE.IGI|
 @oid	o0027766
 @useq	x12032.x12146
@@ -3598,7 +3604,7 @@
 @list	LAK434
 @list	PTACE204
 @v	dusuₓ
-@link eBL |IGI.EŠ₂| https://www.ebl.lmu.de/signs/|IGI.EŠ₂|
+@link	eBL |IGI.EŠ₂| https://www.ebl.lmu.de/signs/|IGI.EŠ₂|
 @@
 @end sign
 
@@ -3609,7 +3615,7 @@
 @v	sisi
 @v	zizi
 @sys	Attinger zizi => sisi
-@link eBL |ANŠE.KUR.RA| https://www.ebl.lmu.de/signs/|ANŠE.KUR.RA|
+@link	eBL |ANŠE.KUR.RA| https://www.ebl.lmu.de/signs/|ANŠE.KUR.RA|
 @form |ANŠE.KUR|
 @oid	o0000835
 @useq	x12032.x121B3
@@ -3625,7 +3631,7 @@
 @v	anšuₓ
 @v	sumuganₓ
 @v	šakanₓ
-@link eBL |ANŠE.PA| https://www.ebl.lmu.de/signs/|ANŠE.PA|
+@link	eBL |ANŠE.PA| https://www.ebl.lmu.de/signs/|ANŠE.PA|
 @end sign
 
 @sign |ANŠE.SAL|
@@ -3633,7 +3639,7 @@
 @useq	x12032.x122A9
 @ucun	𒀲𒊩
 @v	eme₆
-@link eBL |ANŠE.SAL| https://www.ebl.lmu.de/signs/|ANŠE.SAL|
+@link	eBL |ANŠE.SAL| https://www.ebl.lmu.de/signs/|ANŠE.SAL|
 @form |ANŠE×SAL|
 @oid	o0021775
 @list	LAK254
@@ -3646,7 +3652,7 @@
 @ucun	𒀲𒍑
 @v	durₓ
 @inote	check; confusion with ANŠE.ARAD?
-@link eBL |ANŠE.UŠ| https://www.ebl.lmu.de/signs/|ANŠE.UŠ|
+@link	eBL |ANŠE.UŠ| https://www.ebl.lmu.de/signs/|ANŠE.UŠ|
 @end sign
 
 @compoundonly	|ANŠE×IGI|
@@ -3655,7 +3661,7 @@
 @sign |ANŠE×ŠA₃|
 @oid	o0000839
 @v	šakkanₓ
-@link eBL |ANŠE×ŠA₃| https://www.ebl.lmu.de/signs/|ANŠE×ŠA₃|
+@link	eBL |ANŠE×ŠA₃| https://www.ebl.lmu.de/signs/|ANŠE×ŠA₃|
 @end sign
 
 @sign APIN
@@ -3688,8 +3694,8 @@
 @v	ur₁₁
 @v	uru₄
 @v	uš₈
-@link eBL APIN https://www.ebl.lmu.de/signs/APIN
-@link Wikidata Q87555101 http://www.wikidata.org/entity/Q87555101
+@link	eBL APIN https://www.ebl.lmu.de/signs/APIN
+@link	Wikidata Q87555101 http://www.wikidata.org/entity/Q87555101
 @end sign
 
 @sign ARAD
@@ -3736,8 +3742,8 @@
 	is arad 𒀴. If a distinction with normal sila₃ needed to be made in
 	dcclt/ebla, I guess an @form of sila₃ would be needed.
 @sys	Attinger ninta₂ => nita₂
-@link eBL ARAD https://www.ebl.lmu.de/signs/ARAD
-@link Wikidata Q87555102 http://www.wikidata.org/entity/Q87555102
+@link	eBL ARAD https://www.ebl.lmu.de/signs/ARAD
+@link	Wikidata Q87555102 http://www.wikidata.org/entity/Q87555102
 @end sign
 
 @sign |ARAD.ANŠE|
@@ -3746,7 +3752,7 @@
 @ucun	𒀴𒀲
 @v-	durₓ
 @inote	variant writing of dur₃; see there
-@link eBL |ARAD.ANŠE| https://www.ebl.lmu.de/signs/|ARAD.ANŠE|
+@link	eBL |ARAD.ANŠE| https://www.ebl.lmu.de/signs/|ARAD.ANŠE|
 @end sign
 
 @sign |ARAD.KU|
@@ -3754,7 +3760,7 @@
 @useq	x12034.x121AA
 @ucun	𒀴𒆪
 @v	galaₓ
-@link eBL |ARAD.KU| https://www.ebl.lmu.de/signs/|ARAD.KU|
+@link	eBL |ARAD.KU| https://www.ebl.lmu.de/signs/|ARAD.KU|
 @form |KU.ARAD|
 @oid	o0021768
 @useq	x121AA.x12034
@@ -3767,7 +3773,7 @@
 @useq	x12034.x1228F
 @ucun	𒀴𒊏
 @v	era?
-@link eBL |ARAD.RA| https://www.ebl.lmu.de/signs/|ARAD.RA|
+@link	eBL |ARAD.RA| https://www.ebl.lmu.de/signs/|ARAD.RA|
 @end sign
 
 @sign |ARAD×KUR|
@@ -3797,8 +3803,8 @@
 @v	nitaₓ
 @v	urda₂
 @v	urdu₂
-@link eBL |ARAD×KUR| https://www.ebl.lmu.de/signs/|ARAD×KUR|
-@link Wikidata Q87555104 http://www.wikidata.org/entity/Q87555104
+@link	eBL |ARAD×KUR| https://www.ebl.lmu.de/signs/|ARAD×KUR|
+@link	Wikidata Q87555104 http://www.wikidata.org/entity/Q87555104
 @end sign
 
 @sign ARKAB₂
@@ -3811,8 +3817,8 @@
 @ucun	𒀶
 @uage	5.0
 @v	arkab₂
-@link eBL ARKAB₂ https://www.ebl.lmu.de/signs/ARKAB₂
-@link Wikidata Q87555106 http://www.wikidata.org/entity/Q87555106
+@link	eBL ARKAB₂ https://www.ebl.lmu.de/signs/ARKAB₂
+@link	Wikidata Q87555106 http://www.wikidata.org/entity/Q87555106
 @end sign
 
 @sign |ARKAB₂.IB|
@@ -3820,7 +3826,7 @@
 @useq	x12036.x12141
 @ucun	𒀶𒅁
 @v	arkabₓ
-@link eBL |ARKAB₂.IB| https://www.ebl.lmu.de/signs/|ARKAB₂.IB|
+@link	eBL |ARKAB₂.IB| https://www.ebl.lmu.de/signs/|ARKAB₂.IB|
 @end sign
 
 @compoundonly	ASAL₂
@@ -3844,7 +3850,6 @@
 @v	ana₃
 @v	as₃
 @v	aš
-@v	1(aš)
 @v	aša
 @v	ašša
 @v	aṣ₃
@@ -3862,8 +3867,6 @@
 @v	ge₁₅
 @v-	geš₄
 @note	see MZL 1.
-@v	1(iku)
-@inote	notation {mul}1(IKU){gana₂} in cams/gkab
 @v	in₆
 @v	ina
 @v	liri₂
@@ -3889,8 +3892,11 @@
 @v	til₄
 @v	ṭil
 @v	zuₓ
-@link eBL AŠ https://www.ebl.lmu.de/signs/AŠ
-@link Wikidata Q87555110 http://www.wikidata.org/entity/Q87555110
+@v	1(aš)
+@v	1(iku)
+@inote	notation {mul}1(IKU){gana₂} in cams/gkab
+@link	eBL AŠ https://www.ebl.lmu.de/signs/AŠ
+@link	Wikidata Q87555110 http://www.wikidata.org/entity/Q87555110
 @form AŠ@c
 @oid	o0221914
 @list	RSP024
@@ -3932,7 +3938,7 @@
 @v	didli
 @v	man₃
 @v	min₅
-@link eBL |AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ.AŠ|
+@link	eBL |AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ.AŠ|
 @end sign
 
 @sign |AŠ.GAN₂|
@@ -3942,14 +3948,7 @@
 @ucun	𒀸𒃷
 @v	ikuₓ
 @inote	in {mul}ikuₓ(|AŠ.GAN₂|)
-@link eBL |AŠ.GAN₂| https://www.ebl.lmu.de/signs/|AŠ.GAN₂|
-@end sign
-
-@sign |AŠ+GU₂|
-@oid  o0038319
-@useq x12038.x12118
-@ucun 𒀸𒄘
-@inote UET II
+@link	eBL |AŠ.GAN₂| https://www.ebl.lmu.de/signs/|AŠ.GAN₂|
 @end sign
 
 @sign |AŠ.HI×DIŠ.GI₄|
@@ -3958,7 +3957,7 @@
 @ucun	𒀸𒄱𒄄
 @v	aski
 @v	ašgi
-@link eBL |AŠ.HI×DIŠ.GI₄| https://www.ebl.lmu.de/signs/|AŠ.HI×DIŠ.GI₄|
+@link	eBL |AŠ.HI×DIŠ.GI₄| https://www.ebl.lmu.de/signs/|AŠ.HI×DIŠ.GI₄|
 @end sign
 
 @sign |AŠ.KUN|
@@ -3967,6 +3966,24 @@
 @useq	x12038.x121B2
 @ucun	𒀸𒆲
 @v	megidaₓ
+@end sign
+
+@sign |AŠ+GU₂|
+@oid	o0038319
+@inote	UET II
+@useq	x12038.x12118
+@ucun	𒀸𒄘
+@end sign
+
+@sign |AŠ+SUR|
+@oid	o0000862
+@list	MZL011
+@list	SLLHA014
+@inote	@uname-not-encoded	CUNEIFORM SIGN ASH PLUS SUR
+@useq	x12038.x122E9
+@ucun	𒀸𒋩
+@v	aš-šur
+@link	eBL |AŠ+SUR| https://www.ebl.lmu.de/signs/|AŠ+SUR|
 @end sign
 
 @sign |AŠ×AŠ@t|
@@ -3997,8 +4014,8 @@
 @ucun	𒀻
 @uage	5.0
 @v	gašmu
-@link eBL |AŠ&AŠ.TUG₂&TUG₂.TUG₂&TUG₂.PAP| https://www.ebl.lmu.de/signs/|AŠ&AŠ.TUG₂&TUG₂.TUG₂&TUG₂.PAP|
-@link Wikidata Q87555116 http://www.wikidata.org/entity/Q87555116
+@link	eBL |AŠ&AŠ.TUG₂&TUG₂.TUG₂&TUG₂.PAP| https://www.ebl.lmu.de/signs/|AŠ&AŠ.TUG₂&TUG₂.TUG₂&TUG₂.PAP|
+@link	Wikidata Q87555116 http://www.wikidata.org/entity/Q87555116
 @end sign
 
 @sign |AŠ&AŠ&AŠ|
@@ -4013,12 +4030,12 @@
 @ucun	𒀼
 @unote	double-encoded as x1243A
 @uage	5.0
-@v	3(aš@v)
-@v	3(aš@v@c)
 @v	eš₁₆
 @v	šušur
-@link eBL |AŠ&AŠ&AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ|
-@link Wikidata Q87555117 http://www.wikidata.org/entity/Q87555117
+@v	3(aš@v)
+@v	3(aš@v@c)
+@link	eBL |AŠ&AŠ&AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ|
+@link	Wikidata Q87555117 http://www.wikidata.org/entity/Q87555117
 @form |AŠ@z&AŠ@z&AŠ@z|
 @oid	o0000871
 @v	eš₁₆
@@ -4041,7 +4058,7 @@
 @useq	x1203C.x1203C
 @ucun	𒀼𒀼
 @v	aš₉
-@link eBL |AŠ&AŠ&AŠ.AŠ&AŠ&AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ.AŠ&AŠ&AŠ|
+@link	eBL |AŠ&AŠ&AŠ.AŠ&AŠ&AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ.AŠ&AŠ&AŠ|
 @end sign
 
 @sign |AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.AŠ|
@@ -4051,7 +4068,7 @@
 @v	imin₃
 @v	imina₃
 @v	umun₉
-@link eBL |AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.AŠ|
+@link	eBL |AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.AŠ|
 @end sign
 
 @sign- |AŠ&AŠ&AŠ.AŠ&AŠ&AŠ.TAB|
@@ -4070,7 +4087,7 @@
 @useq	x1203C.x122F0
 @ucun	𒀼𒋰
 @v	ia₉
-@link eBL |AŠ&AŠ&AŠ.TAB| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ.TAB|
+@link	eBL |AŠ&AŠ&AŠ.TAB| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ.TAB|
 @end sign
 
 @sign |(AŠ&AŠ&AŠ)%(AŠ&AŠ&AŠ)|
@@ -4084,107 +4101,7 @@
 @uage	5.0
 @v	kad₈
 @v	šušur₂
-@link Wikidata Q87555120 http://www.wikidata.org/entity/Q87555120
-@end sign
-
-@sign	GEŠMIN@c
-@aka	|AŠ&AŠ@180|
-@oid	o0000861
-@inote ed3a number; descriptive name in @aka is bad--should be
-       |AŠ&AŠ@180|@90 because the AŠ are vertical not horizontal
-@inote 2024-07-28 move to GEŠMIN@c as conventional sign name. The CDLI
-       notation for gešmin is geš2@c@d where @d is presumably for
-       'doubled'. In Oracc GDL @d is used for discontinuous writings of
-       single graphemes, notably ANŠE in Elamite texts.
-@v	gešmin@c
-@v	1(gešmin@c)
-@v	1(ŋešmin@c)
-@link eBL |AŠ&AŠ@180| https://www.ebl.lmu.de/signs/|AŠ&AŠ@180|
-@end sign
-
-@sign	GEŠMINU@c
-@aka	|(AŠ&AŠ@180)×U|
-@oid	o0000621
-@inote	ed3a number; 2024-07-28 move to GEŠMINU@c as conventional sign name
-@v	gešminʾu@c
-@v	1(gešminʾu@c)
-@v	1(ŋešminʾu@c)
-@link eBL |(AŠ&AŠ@180)×U| https://www.ebl.lmu.de/signs/|(AŠ&AŠ@180)×U|
-@end sign
-
-@sign 2(GEŠMIN@c)
-@oid	o0038105
-@v	2(gešmin@c)
-@v	2(ŋešmin@c)
-@end sign
-
-@sign |2(GEŠMIN@c)×AŠ|
-@oid	o0038114
-@end sign
-
-@sign 3(GEŠMIN@c)
-@oid	o0038107
-@v	3(gešmin@c)
-@v	3(ŋešmin@c)
-@end sign
-
-@sign 4(GEŠMIN@c)
-@oid	o0038109
-@v	4(gešmin@c)
-@v	4(ŋešmin@c)
-@end sign
-
-@sign |4(GEŠMIN@c)×AŠ|
-@oid	o0038116
-@end sign
-
-@sign 5(GEŠMIN@c)
-@oid	o0038111
-@v	5(gešmin@c)
-@v	5(ŋešmin@c)
-@end sign
-
-@sign 6(GEŠMIN@c)
-@oid	o0038112
-@v	6(gešmin@c)
-@v	6(ŋešmin@c)
-@note	This sign is so far unattested.
-@end sign
-
-@sign 7(GEŠMIN@c)
-@oid	o0038113
-@v	7(gešmin@c)
-@v	7(ŋešmin@c)
-@end sign
-
-@sign 2(GEŠMINU@c)
-@oid	o0038118
-@v	2(gešminʾu@c)
-@v	2(ŋešminʾu@c)
-@note	This sign is so far unattested.
-@end sign
-
-@sign 3(GEŠMINU@c)
-@oid	o0038120
-@v	3(gešminʾu@c)
-@v	3(ŋešminʾu@c)
-@end sign
-
-@sign 4(GEŠMINU@c)
-@oid	o0038122
-@v	4(gešminʾu@c)
-@v	4(ŋešminʾu@c)
-@end sign
-
-@sign |AŠ+SUR|
-@oid	o0000862
-@list	MZL011
-@list	SLLHA014
-@inote	@uname-not-encoded	CUNEIFORM SIGN ASH PLUS SUR
-@useq	x12038.x122E9
-@ucun	𒀸𒋩
-@v	aš-šur
-@link eBL |AŠ+SUR| https://www.ebl.lmu.de/signs/|AŠ+SUR|
+@link	Wikidata Q87555120 http://www.wikidata.org/entity/Q87555120
 @end sign
 
 @sign AŠ~a
@@ -4204,8 +4121,8 @@
 @v	utaqaₓ
 @v	uzalagₓ
 @v	uzalakₓ
-@link eBL AŠ@k https://www.ebl.lmu.de/signs/AŠ@k
-@link Wikidata Q87555113 http://www.wikidata.org/entity/Q87555113
+@link	eBL AŠ@k https://www.ebl.lmu.de/signs/AŠ@k
+@link	Wikidata Q87555113 http://www.wikidata.org/entity/Q87555113
 @end sign
 
 @sign |AŠ@k&AŠ@k&AŠ@k&AŠ@k|
@@ -4220,8 +4137,8 @@
 @note	see bag₂
 @v	sumₓ
 @ref	VAT 9541 = dcclt:P345960 o iii 20', su-um ZIB@k ka-ba-ti-nu-u = %a la-ap-nu qa-tu-u₂
-@link eBL |AŠ@k&AŠ@k&AŠ@k&AŠ@k| https://www.ebl.lmu.de/signs/|AŠ@k&AŠ@k&AŠ@k&AŠ@k|
-@link Wikidata Q87556721 http://www.wikidata.org/entity/Q87556721
+@link	eBL |AŠ@k&AŠ@k&AŠ@k&AŠ@k| https://www.ebl.lmu.de/signs/|AŠ@k&AŠ@k&AŠ@k&AŠ@k|
+@link	Wikidata Q87556721 http://www.wikidata.org/entity/Q87556721
 @end sign
 
 @sign AŠ@t
@@ -4230,9 +4147,9 @@
 @list	GCSL188a
 @list	LAK178
 @v	aš@t
-@v	1(aš@t)
 @v	uzaraₓ
 @inote	For sign form LAK178 LAK notes passim in FARA for later U and later for AŠ, DIŠ, or U.
+@v	1(aš@t)
 @form 1(AŠ@t@c)
 @oid	o0223351
 @list	RSP035
@@ -4263,7 +4180,6 @@
 @v	dili₄
 @v	eš₁₈
 @v	ge₂₃
-@v	1/2(iku)
 @v	iš₈
 @v	sagtag₃
 @v	sagtak₃
@@ -4277,8 +4193,9 @@
 @v	upaₓ
 @v	upuₓ
 @v	uzaglal
-@link eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
-@link Wikidata Q87555112 http://www.wikidata.org/entity/Q87555112
+@v	1/2(iku)
+@link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
+@link	Wikidata Q87555112 http://www.wikidata.org/entity/Q87555112
 @end sign
 
 @sign AŠ₂
@@ -4314,8 +4231,8 @@
 @v	udeššu
 @v	ut₂
 @v	utu₅
-@link eBL AŠ₂ https://www.ebl.lmu.de/signs/AŠ₂
-@link Wikidata Q87555122 http://www.wikidata.org/entity/Q87555122
+@link	eBL AŠ₂ https://www.ebl.lmu.de/signs/AŠ₂
+@link	Wikidata Q87555122 http://www.wikidata.org/entity/Q87555122
 @end sign
 
 @sign |AŠ₂.A|
@@ -4325,7 +4242,7 @@
 @ucun	𒀾𒀀
 @v	imgagaₓ
 @v	imŋaŋaₓ
-@link eBL |AŠ₂.A| https://www.ebl.lmu.de/signs/|AŠ₂.A|
+@link	eBL |AŠ₂.A| https://www.ebl.lmu.de/signs/|AŠ₂.A|
 @end sign
 
 @sign |AŠ₂.GAR₃|
@@ -4335,7 +4252,7 @@
 @v	ešgar
 @inote	if LAK779 is a writing for ešgar then AŠ₂.GAR is a reintepretation of the sign form
 @inote	Steinkeller BiOr 52 ad ZATU149 is sceptical of ZATU149/LAK779 = /ešgar/
-@link eBL |AŠ₂.GAR₃| https://www.ebl.lmu.de/signs/|AŠ₂.GAR₃|
+@link	eBL |AŠ₂.GAR₃| https://www.ebl.lmu.de/signs/|AŠ₂.GAR₃|
 @end sign
 
 @sign |AŠ₂.U|
@@ -4343,7 +4260,7 @@
 @useq	x1203E.x1230B
 @ucun	𒀾𒌋
 @v	banlimmu
-@link eBL |AŠ₂.U| https://www.ebl.lmu.de/signs/|AŠ₂.U|
+@link	eBL |AŠ₂.U| https://www.ebl.lmu.de/signs/|AŠ₂.U|
 @end sign
 
 @sign |AŠ₂.U&U|
@@ -4351,7 +4268,7 @@
 @useq	x1203E.X
 @ucun	𒀾X
 @v	bania
-@link eBL |AŠ₂.U&U| https://www.ebl.lmu.de/signs/|AŠ₂.U&U|
+@link	eBL |AŠ₂.U&U| https://www.ebl.lmu.de/signs/|AŠ₂.U&U|
 @end sign
 
 @sign AŠGAB
@@ -4375,8 +4292,8 @@
 @v	šigagu
 @v	šikangu
 @v	šikinₓ
-@link eBL AŠGAB https://www.ebl.lmu.de/signs/AŠGAB
-@link Wikidata Q87555124 http://www.wikidata.org/entity/Q87555124
+@link	eBL AŠGAB https://www.ebl.lmu.de/signs/AŠGAB
+@link	Wikidata Q87555124 http://www.wikidata.org/entity/Q87555124
 @end sign
 
 @sign BA
@@ -4402,8 +4319,8 @@
 @v	libit
 @v	pa₂
 @v	wa₂
-@link eBL BA https://www.ebl.lmu.de/signs/BA
-@link Wikidata Q87555126 http://www.wikidata.org/entity/Q87555126
+@link	eBL BA https://www.ebl.lmu.de/signs/BA
+@link	Wikidata Q87555126 http://www.wikidata.org/entity/Q87555126
 @end sign
 
 @sign BAD
@@ -4485,8 +4402,8 @@
 @v	ziz
 @v	zu₄
 @v	zuru₉
-@link eBL BAD https://www.ebl.lmu.de/signs/BAD
-@link Wikidata Q87555128 http://www.wikidata.org/entity/Q87555128
+@link	eBL BAD https://www.ebl.lmu.de/signs/BAD
+@link	Wikidata Q87555128 http://www.wikidata.org/entity/Q87555128
 @end sign
 
 @sign |BAD.AŠ|
@@ -4496,7 +4413,7 @@
 @v	zar₆
 @v	zara₆
 @v	zuru₁₀
-@link eBL |BAD.AŠ| https://www.ebl.lmu.de/signs/|BAD.AŠ|
+@link	eBL |BAD.AŠ| https://www.ebl.lmu.de/signs/|BAD.AŠ|
 @end sign
 
 @sign |BAD.BAD|
@@ -4505,7 +4422,7 @@
 @ucun	𒁁𒁁
 @v	dabda₂
 @v	ugₓ
-@link eBL |BAD.BAD| https://www.ebl.lmu.de/signs/|BAD.BAD|
+@link	eBL |BAD.BAD| https://www.ebl.lmu.de/signs/|BAD.BAD|
 @end sign
 
 @sign |BAD.IGI.BAD|
@@ -4517,7 +4434,7 @@
 @v	gurinₓ
 @v	gurun₂
 @v	kurunₓ
-@link eBL |BAD.IGI.BAD| https://www.ebl.lmu.de/signs/|BAD.IGI.BAD|
+@link	eBL |BAD.IGI.BAD| https://www.ebl.lmu.de/signs/|BAD.IGI.BAD|
 @end sign
 
 @sign |BAD.KASKAL|
@@ -4527,7 +4444,7 @@
 @v	sagmaš
 @v	saŋmaš
 @v	zanbur
-@link eBL |BAD.KASKAL| https://www.ebl.lmu.de/signs/|BAD.KASKAL|
+@link	eBL |BAD.KASKAL| https://www.ebl.lmu.de/signs/|BAD.KASKAL|
 @end sign
 
 @sign |BAD.LU₂|
@@ -4536,7 +4453,7 @@
 @ucun	𒁁𒇽
 @v	adₓ
 @v	addaₓ
-@link eBL |BAD.LU₂| https://www.ebl.lmu.de/signs/|BAD.LU₂|
+@link	eBL |BAD.LU₂| https://www.ebl.lmu.de/signs/|BAD.LU₂|
 @end sign
 
 @sign |BAD.MI|
@@ -4546,7 +4463,7 @@
 @v	adama
 @v	adamu
 @v	mudgi
-@link eBL |BAD.MI| https://www.ebl.lmu.de/signs/|BAD.MI|
+@link	eBL |BAD.MI| https://www.ebl.lmu.de/signs/|BAD.MI|
 @end sign
 
 @sign |BAD.UD|
@@ -4554,7 +4471,7 @@
 @useq	x12041.x12313
 @ucun	𒁁𒌓
 @v	lugud
-@link eBL |BAD.UD| https://www.ebl.lmu.de/signs/|BAD.UD|
+@link	eBL |BAD.UD| https://www.ebl.lmu.de/signs/|BAD.UD|
 @form |UD.BAD|
 @oid	o0031560
 @useq	x12313.x12041
@@ -4567,7 +4484,7 @@
 @useq	x12041.O
 @ucun	𒁁X
 @v	agaš
-@link eBL |BAD.X| https://www.ebl.lmu.de/signs/|BAD.X|
+@link	eBL |BAD.X| https://www.ebl.lmu.de/signs/|BAD.X|
 @form |BAD&BAD.X|
 @oid	o0022937
 @inote	dcclt !sg
@@ -4594,8 +4511,8 @@
 @list	U+12483
 @ucun	𒒃
 @uage	8.0
-@link eBL |BAD×DIŠ@t| https://www.ebl.lmu.de/signs/|BAD×DIŠ@t|
-@link Wikidata Q87557098 http://www.wikidata.org/entity/Q87557098
+@link	eBL |BAD×DIŠ@t| https://www.ebl.lmu.de/signs/|BAD×DIŠ@t|
+@link	Wikidata Q87557098 http://www.wikidata.org/entity/Q87557098
 @end sign
 
 @compoundonly	|BAD×U|
@@ -4610,7 +4527,7 @@
 @sign BAD₃@90
 @oid	o0000115
 @inote	CDLI ed3b
-@link eBL BAD₃@90 https://www.ebl.lmu.de/signs/BAD₃@90
+@link	eBL BAD₃@90 https://www.ebl.lmu.de/signs/BAD₃@90
 @end sign
 
 @sign BAG₃
@@ -4622,8 +4539,8 @@
 @uage	5.0
 @v	bag₃
 @v	bak₃
-@link eBL BAG₃ https://www.ebl.lmu.de/signs/BAG₃
-@link Wikidata Q87555131 http://www.wikidata.org/entity/Q87555131
+@link	eBL BAG₃ https://www.ebl.lmu.de/signs/BAG₃
+@link	Wikidata Q87555131 http://www.wikidata.org/entity/Q87555131
 @end sign
 
 @sign BAHAR₂
@@ -4647,8 +4564,8 @@
 @v	nunurra
 @v	nunurru
 @v	urₓ
-@link eBL BAHAR₂ https://www.ebl.lmu.de/signs/BAHAR₂
-@link Wikidata Q87555133 http://www.wikidata.org/entity/Q87555133
+@link	eBL BAHAR₂ https://www.ebl.lmu.de/signs/BAHAR₂
+@link	Wikidata Q87555133 http://www.wikidata.org/entity/Q87555133
 @form |DUG.LIŠ.BUR|
 @oid	o0031538
 @inote	P507554 Yale An-Anum collated from photo. Cp. šil₄ value of LIŠ.
@@ -4670,7 +4587,7 @@
 @list	RSP435
 @v	baharₓ
 @inote	requires collation, only in P325196 = CUSAS 23, 050 i 7 so far
-@link eBL EDIN https://www.ebl.lmu.de/signs/EDIN
+@link	eBL EDIN https://www.ebl.lmu.de/signs/EDIN
 @@
 @end sign
 
@@ -4682,8 +4599,8 @@
 @list	U+12484
 @ucun	𒒄
 @uage	8.0
-@link eBL |BAHAR₂×AB₂| https://www.ebl.lmu.de/signs/|BAHAR₂×AB₂|
-@link Wikidata Q87557100 http://www.wikidata.org/entity/Q87557100
+@link	eBL |BAHAR₂×AB₂| https://www.ebl.lmu.de/signs/|BAHAR₂×AB₂|
+@link	Wikidata Q87557100 http://www.wikidata.org/entity/Q87557100
 @end sign
 
 @sign |BAHAR₂×GU|
@@ -4698,8 +4615,8 @@
 @list	U+12485
 @ucun	𒒅
 @uage	8.0
-@link eBL |BAHAR₂×NI| https://www.ebl.lmu.de/signs/|BAHAR₂×NI|
-@link Wikidata Q87557103 http://www.wikidata.org/entity/Q87557103
+@link	eBL |BAHAR₂×NI| https://www.ebl.lmu.de/signs/|BAHAR₂×NI|
+@link	Wikidata Q87557103 http://www.wikidata.org/entity/Q87557103
 @end sign
 
 @sign |BAHAR₂×ZA|
@@ -4709,8 +4626,8 @@
 @list	U+12486
 @ucun	𒒆
 @uage	8.0
-@link eBL |BAHAR₂×ZA| https://www.ebl.lmu.de/signs/|BAHAR₂×ZA|
-@link Wikidata Q87557104 http://www.wikidata.org/entity/Q87557104
+@link	eBL |BAHAR₂×ZA| https://www.ebl.lmu.de/signs/|BAHAR₂×ZA|
+@link	Wikidata Q87557104 http://www.wikidata.org/entity/Q87557104
 @end sign
 
 @sign BAL
@@ -4737,8 +4654,8 @@
 @v	pal
 @v	pala₄
 @v	pul₃
-@link eBL BAL https://www.ebl.lmu.de/signs/BAL
-@link Wikidata Q87555136 http://www.wikidata.org/entity/Q87555136
+@link	eBL BAL https://www.ebl.lmu.de/signs/BAL
+@link	Wikidata Q87555136 http://www.wikidata.org/entity/Q87555136
 @end sign
 
 @sign |BAL&BAL|
@@ -4748,8 +4665,8 @@
 @ucun	𒁅
 @uage	5.0
 @v	minbulugₓ
-@link eBL |BAL&BAL| https://www.ebl.lmu.de/signs/|BAL&BAL|
-@link Wikidata Q87555138 http://www.wikidata.org/entity/Q87555138
+@link	eBL |BAL&BAL| https://www.ebl.lmu.de/signs/|BAL&BAL|
+@link	Wikidata Q87555138 http://www.wikidata.org/entity/Q87555138
 @end sign
 
 @sign BALAG
@@ -4784,8 +4701,8 @@
 @v	lumha
 @v	pumₓ
 @v	takaₓ
-@link eBL BALAG https://www.ebl.lmu.de/signs/BALAG
-@link Wikidata Q87555140 http://www.wikidata.org/entity/Q87555140
+@link	eBL BALAG https://www.ebl.lmu.de/signs/BALAG
+@link	Wikidata Q87555140 http://www.wikidata.org/entity/Q87555140
 @end sign
 
 @sign |BALAG@BALAG|
@@ -4798,7 +4715,7 @@
 @useq	x12046.x12000
 @ucun	𒁆𒀀
 @v	hurinₓ
-@link eBL |BALAG.A| https://www.ebl.lmu.de/signs/|BALAG.A|
+@link	eBL |BALAG.A| https://www.ebl.lmu.de/signs/|BALAG.A|
 @end sign
 
 @sign |BALAG.LUL|
@@ -4808,7 +4725,7 @@
 @v	tegi
 @v	tigi
 @v	tigu
-@link eBL |BALAG.LUL| https://www.ebl.lmu.de/signs/|BALAG.LUL|
+@link	eBL |BALAG.LUL| https://www.ebl.lmu.de/signs/|BALAG.LUL|
 @end sign
 
 @sign |BALAG.TUR|
@@ -4816,7 +4733,7 @@
 @useq	x12046.x12309
 @ucun	𒁆𒌉
 @v	zabitum
-@link eBL |BALAG.TUR| https://www.ebl.lmu.de/signs/|BALAG.TUR|
+@link	eBL |BALAG.TUR| https://www.ebl.lmu.de/signs/|BALAG.TUR|
 @end sign
 
 @sign BAR
@@ -4837,8 +4754,6 @@
 @list	U+12047
 @ucun	𒁇
 @uage	5.0
-@v	1/2(diš)@v
-@inote Collated from photo; sign definitely BAR--perhaps simpler to read 1/2(diš)!
 @v	ba₁₅
 @v	bar
 @v	bara
@@ -4848,8 +4763,10 @@
 @v-	sutu
 @note	value sutu moved to BAN₂.
 @v-	war
-@link eBL BAR https://www.ebl.lmu.de/signs/BAR
-@link Wikidata Q87555142 http://www.wikidata.org/entity/Q87555142
+@v	1/2(diš)@v
+@inote	Collated from photo; sign definitely BAR--perhaps simpler to read 1/2(diš)!
+@link	eBL BAR https://www.ebl.lmu.de/signs/BAR
+@link	Wikidata Q87555142 http://www.wikidata.org/entity/Q87555142
 @form AŠ
 @oid	o0000106
 @list	ABZL001
@@ -4863,7 +4780,7 @@
 @list	RSP001
 @list	SLLHA001
 @note	In Fara; see LAK1; Biggs JCS 20, 83-84; Krebernik OBO 160/1, 280.
-@link eBL AŠ https://www.ebl.lmu.de/signs/AŠ
+@link	eBL AŠ https://www.ebl.lmu.de/signs/AŠ
 @@
 @end sign
 
@@ -4875,7 +4792,7 @@
 @ucun	𒁇𒀭
 @v	kunga₂
 @v	kungi₂
-@link eBL |BAR.AN| https://www.ebl.lmu.de/signs/|BAR.AN|
+@link	eBL |BAR.AN| https://www.ebl.lmu.de/signs/|BAR.AN|
 @form |3×AN|
 @oid	o0000642
 @list	BAU008
@@ -4892,8 +4809,8 @@
 @uage	5.0
 @v	kunga₃
 @v	kungi₃
-@link eBL |3×AN| https://www.ebl.lmu.de/signs/|3×AN|
-@link Wikidata Q87555091 http://www.wikidata.org/entity/Q87555091
+@link	eBL |3×AN| https://www.ebl.lmu.de/signs/|3×AN|
+@link	Wikidata Q87555091 http://www.wikidata.org/entity/Q87555091
 @@
 @form |BAR×AN|
 @oid	o0000911
@@ -4917,7 +4834,7 @@
 @inote	@end form
 @useq	x122D9.x1202D
 @ucun	𒋙𒀭
-@link eBL |ŠU₂.AN| https://www.ebl.lmu.de/signs/|ŠU₂.AN|
+@link	eBL |ŠU₂.AN| https://www.ebl.lmu.de/signs/|ŠU₂.AN|
 @@
 @end sign
 
@@ -4926,7 +4843,7 @@
 @useq	x12047.x12094
 @ucun	𒁇𒂔
 @v	bahar₄
-@link eBL |BAR.EDIN| https://www.ebl.lmu.de/signs/|BAR.EDIN|
+@link	eBL |BAR.EDIN| https://www.ebl.lmu.de/signs/|BAR.EDIN|
 @form |BAR.BAHAR₂|
 @oid	o0018562
 @useq	x12047.x12043
@@ -4949,7 +4866,7 @@
 @useq	x12047.x12137.x12195
 @ucun	𒁇𒄷𒆕
 @v	nunmeli
-@link eBL |BAR.HU.KAK| https://www.ebl.lmu.de/signs/|BAR.HU.KAK|
+@link	eBL |BAR.HU.KAK| https://www.ebl.lmu.de/signs/|BAR.HU.KAK|
 @end sign
 
 @compoundonly	|BAR×DUG|
@@ -4987,8 +4904,8 @@
 @v	ša₂₃
 @v	šar₆
 @v	šara
-@link eBL BARA₂ https://www.ebl.lmu.de/signs/BARA₂
-@link Wikidata Q87555144 http://www.wikidata.org/entity/Q87555144
+@link	eBL BARA₂ https://www.ebl.lmu.de/signs/BARA₂
+@link	Wikidata Q87555144 http://www.wikidata.org/entity/Q87555144
 @end sign
 
 @sign |BARA₂.BI|
@@ -5091,8 +5008,8 @@
 @v	su₁₅
 @v	ša₂₁
 @v	šu₁₃
-@link eBL BI https://www.ebl.lmu.de/signs/BI
-@link Wikidata Q87555146 http://www.wikidata.org/entity/Q87555146
+@link	eBL BI https://www.ebl.lmu.de/signs/BI
+@link	Wikidata Q87555146 http://www.wikidata.org/entity/Q87555146
 @end sign
 
 @sign |BI.A.SUD|
@@ -5102,7 +5019,7 @@
 @v	kaš-bir₈
 @v	kašbir
 @v	ulušinₓ
-@link eBL |BI.A.SUD| https://www.ebl.lmu.de/signs/|BI.A.SUD|
+@link	eBL |BI.A.SUD| https://www.ebl.lmu.de/signs/|BI.A.SUD|
 @form |BI.SUD.A|
 @oid	o0000918
 @useq	x12049.x122E4.x12000
@@ -5122,7 +5039,7 @@
 @useq	x12049.x1206F
 @ucun	𒁉𒁯
 @v	lungaₓ
-@link eBL |BI.DAR| https://www.ebl.lmu.de/signs/|BI.DAR|
+@link	eBL |BI.DAR| https://www.ebl.lmu.de/signs/|BI.DAR|
 @end sign
 
 @sign |BI.DIN|
@@ -5130,7 +5047,7 @@
 @useq	x12049.x12077
 @ucun	𒁉𒁷
 @v	kurun
-@link eBL |BI.DIN| https://www.ebl.lmu.de/signs/|BI.DIN|
+@link	eBL |BI.DIN| https://www.ebl.lmu.de/signs/|BI.DIN|
 @end sign
 
 @sign |BI.LUL|
@@ -5141,7 +5058,7 @@
 @v	šaqa
 @v	šaqu
 @v	šaqum
-@link eBL |BI.LUL| https://www.ebl.lmu.de/signs/|BI.LUL|
+@link	eBL |BI.LUL| https://www.ebl.lmu.de/signs/|BI.LUL|
 @end sign
 
 @sign |BI.MI|
@@ -5150,18 +5067,18 @@
 @ucun	𒁉𒈪
 @v	kurun₅
 @v	siris₅
-@link eBL |BI.MI| https://www.ebl.lmu.de/signs/|BI.MI|
+@link	eBL |BI.MI| https://www.ebl.lmu.de/signs/|BI.MI|
 @end sign
 
 @sign |BI.U₂.SA|
 @oid	o0000921
 @useq	x12049.x12311.x12293
 @ucun	𒁉𒌑𒊓
+@v	dida
 @v-	{kaš}dida
 @inote	This can't be both {kaš}dida and dida and didaₓ for |U₂.SA| has been deleted.
-@v	dida
 @v	pihu₄
-@link eBL |BI.U₂.SA| https://www.ebl.lmu.de/signs/|BI.U₂.SA|
+@link	eBL |BI.U₂.SA| https://www.ebl.lmu.de/signs/|BI.U₂.SA|
 @end sign
 
 @sign |BI.U₂.SA.KA.KAK|
@@ -5178,7 +5095,7 @@
 @v	dida₂
 @v	{kaš}dida₂
 @v	pihu₅
-@link eBL |BI.UŠ.SA| https://www.ebl.lmu.de/signs/|BI.UŠ.SA|
+@link	eBL |BI.UŠ.SA| https://www.ebl.lmu.de/signs/|BI.UŠ.SA|
 @end sign
 
 @sign |BI.ZIZ₂|
@@ -5186,7 +5103,7 @@
 @useq	x12049.x12369
 @ucun	𒁉𒍩
 @v	{kaš}ulušinₓ
-@link eBL |BI.ZIZ₂| https://www.ebl.lmu.de/signs/|BI.ZIZ₂|
+@link	eBL |BI.ZIZ₂| https://www.ebl.lmu.de/signs/|BI.ZIZ₂|
 @end sign
 
 @sign |BI.ZIZ₂.A.AN|
@@ -5194,7 +5111,7 @@
 @useq	x12049.x12369.x12000.x1202D
 @ucun	𒁉𒍩𒀀𒀭
 @v	{kaš}ulušin
-@link eBL |BI.ZIZ₂.A.AN| https://www.ebl.lmu.de/signs/|BI.ZIZ₂.A.AN|
+@link	eBL |BI.ZIZ₂.A.AN| https://www.ebl.lmu.de/signs/|BI.ZIZ₂.A.AN|
 @end sign
 
 @sign |BI.ZIZ₂.AN|
@@ -5202,7 +5119,7 @@
 @useq	x12049.x12369.x1202D
 @ucun	𒁉𒍩𒀭
 @v	{kaš}ulušin₃
-@link eBL |BI.ZIZ₂.AN| https://www.ebl.lmu.de/signs/|BI.ZIZ₂.AN|
+@link	eBL |BI.ZIZ₂.AN| https://www.ebl.lmu.de/signs/|BI.ZIZ₂.AN|
 @end sign
 
 @sign |BI.ZIZ₂.AN.NA|
@@ -5210,7 +5127,7 @@
 @useq	x12049.x12369.x1202D.x1223E
 @ucun	𒁉𒍩𒀭𒈾
 @v	{kaš}ulušin₂
-@link eBL |BI.ZIZ₂.AN.NA| https://www.ebl.lmu.de/signs/|BI.ZIZ₂.AN.NA|
+@link	eBL |BI.ZIZ₂.AN.NA| https://www.ebl.lmu.de/signs/|BI.ZIZ₂.AN.NA|
 @end sign
 
 @sign |BI×A|
@@ -5221,8 +5138,8 @@
 @list	U+1204A
 @ucun	𒁊
 @uage	5.0
-@link eBL |BI×A| https://www.ebl.lmu.de/signs/|BI×A|
-@link Wikidata Q87555147 http://www.wikidata.org/entity/Q87555147
+@link	eBL |BI×A| https://www.ebl.lmu.de/signs/|BI×A|
+@link	Wikidata Q87555147 http://www.wikidata.org/entity/Q87555147
 @end sign
 
 @sign |BI×BAD|
@@ -5251,8 +5168,8 @@
 @v	lungaₓ
 @v	ningiₓ
 @sys	Attinger ningiₓ
-@link eBL |BI×GAR| https://www.ebl.lmu.de/signs/|BI×GAR|
-@link Wikidata Q87555149 http://www.wikidata.org/entity/Q87555149
+@link	eBL |BI×GAR| https://www.ebl.lmu.de/signs/|BI×GAR|
+@link	Wikidata Q87555149 http://www.wikidata.org/entity/Q87555149
 @end sign
 
 @sign |BI×IGI|
@@ -5270,24 +5187,19 @@
 @uage	5.0
 @v	šembi₃
 @v	šimbi₃
-@link eBL |BI×IGI@g| https://www.ebl.lmu.de/signs/|BI×IGI@g|
-@link Wikidata Q87555151 http://www.wikidata.org/entity/Q87555151
+@link	eBL |BI×IGI@g| https://www.ebl.lmu.de/signs/|BI×IGI@g|
+@link	Wikidata Q87555151 http://www.wikidata.org/entity/Q87555151
 @end sign
 
 @sign |BI×PAP|
-@oid o0038196
-@inote epsd2/admin/ur3
-@end sign
-
-@sign |GA₂×BU|
-@oid o0038197
-@inote epsd2/admin/ur3
+@oid	o0038196
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign BIL₂@g
 @oid	o0000123
 @inote	CDLI ed3b
-@link eBL BIL₂@g https://www.ebl.lmu.de/signs/BIL₂@g
+@link	eBL BIL₂@g https://www.ebl.lmu.de/signs/BIL₂@g
 @end sign
 
 @sign BU
@@ -5366,8 +5278,8 @@
 @v	šud₂
 @v	tur₈?
 @sys	Attinger madul => mudul
-@link eBL BU https://www.ebl.lmu.de/signs/BU
-@link Wikidata Q87555153 http://www.wikidata.org/entity/Q87555153
+@link	eBL BU https://www.ebl.lmu.de/signs/BU
+@link	Wikidata Q87555153 http://www.wikidata.org/entity/Q87555153
 @end sign
 
 @sign |BU.BU@90|
@@ -5379,8 +5291,8 @@
 @end sign
 
 @sign |BU.BU@90.KALAM@g|
-@aka |BU.BU@90.UN|
 @oid	o0031638
+@aka	|BU.BU@90.UN|
 @inote	addx dcclt/ebla
 @useq	x1204D.X.x12326
 @ucun	𒁍X𒌦
@@ -5409,8 +5321,8 @@
 @ucun	𒁎
 @uage	5.0
 @v	sirsir
-@link eBL |BU&BU.AB| https://www.ebl.lmu.de/signs/|BU&BU.AB|
-@link Wikidata Q87555155 http://www.wikidata.org/entity/Q87555155
+@link	eBL |BU&BU.AB| https://www.ebl.lmu.de/signs/|BU&BU.AB|
+@link	Wikidata Q87555155 http://www.wikidata.org/entity/Q87555155
 @form |BU%BU.AB|
 @oid	o0031532
 @useq	x12050.x1200A
@@ -5440,8 +5352,8 @@
 @end sign
 
 @sign |BU&BU.KALAM@g|
-@aka |BU&BU.UN|
 @oid	o0000931
+@aka	|BU&BU.UN|
 @uname	CUNEIFORM SIGN BU OVER BU UN
 @list	U+1204F
 @ucun	𒁏
@@ -5449,11 +5361,11 @@
 @v	gutir
 @v	kide
 @note	See Early Dynastic Geographical List 193 in CUSAS 12, 196 and UET 7, 80 ii 5 (parallels ED Cities 25).)
-@link eBL |BU&BU.UN| https://www.ebl.lmu.de/signs/|BU&BU.UN|
-@link Wikidata Q87555157 http://www.wikidata.org/entity/Q87555157
+@link	eBL |BU&BU.UN| https://www.ebl.lmu.de/signs/|BU&BU.UN|
+@link	Wikidata Q87555157 http://www.wikidata.org/entity/Q87555157
 @form |BU@90.BU.KALAM@g|
-@aka |BU@90.BU.UN|
 @oid	o0000936
+@aka	|BU@90.BU.UN|
 @note	ED Cities 25.
 @inote	not clear if ZATU299 "KITI" |BU@90.UN| is same as |BU&BU.UN|
 @useq	X.x1204D.x12326
@@ -5470,8 +5382,8 @@
 @uage	8.0
 @v	arinaₓ
 @ref	CUSAS 12, 6.1.3 = cdli:P252194 r ii 8
-@link eBL |(BU&BU)×NA₂| https://www.ebl.lmu.de/signs/|(BU&BU)×NA₂|
-@link Wikidata Q87557106 http://www.wikidata.org/entity/Q87557106
+@link	eBL |(BU&BU)×NA₂| https://www.ebl.lmu.de/signs/|(BU&BU)×NA₂|
+@link	Wikidata Q87557106 http://www.wikidata.org/entity/Q87557106
 @form |(BU&BU)×NA₂.A|
 @oid	o0027177
 @list	ZATU058
@@ -5496,8 +5408,8 @@
 @ucun	𒁐
 @uage	5.0
 @v	unu₁₂
-@link eBL |BU%BU| https://www.ebl.lmu.de/signs/|BU%BU|
-@link Wikidata Q87555159 http://www.wikidata.org/entity/Q87555159
+@link	eBL |BU%BU| https://www.ebl.lmu.de/signs/|BU%BU|
+@link	Wikidata Q87555159 http://www.wikidata.org/entity/Q87555159
 @form |BU&BU|
 @oid	o0048847
 @v	sirsirₓ
@@ -5507,7 +5419,7 @@
 @sign BU@90
 @oid	o0000125
 @inote	in |BU@90.BU.NA₂| and |BU@90.BU.UN| and others
-@link eBL BU@90 https://www.ebl.lmu.de/signs/BU@90
+@link	eBL BU@90 https://www.ebl.lmu.de/signs/BU@90
 @end sign
 
 @sign- BU@t
@@ -5533,8 +5445,8 @@
 @v	muš₆?
 @v	nagarₓ
 @v	niŋinₓ
-@link eBL BULUG https://www.ebl.lmu.de/signs/BULUG
-@link Wikidata Q87555160 http://www.wikidata.org/entity/Q87555160
+@link	eBL BULUG https://www.ebl.lmu.de/signs/BULUG
+@link	Wikidata Q87555160 http://www.wikidata.org/entity/Q87555160
 @end sign
 
 @sign |BULUG.NAGAR|
@@ -5542,7 +5454,7 @@
 @useq	x12051.x12244
 @ucun	𒁑𒉄
 @v	minbulugₓ
-@link eBL |BULUG.NAGAR| https://www.ebl.lmu.de/signs/|BULUG.NAGAR|
+@link	eBL |BULUG.NAGAR| https://www.ebl.lmu.de/signs/|BULUG.NAGAR|
 @end sign
 
 @sign |BULUG&BULUG|
@@ -5556,8 +5468,8 @@
 @v	minbulug₂
 @v	šembulug?
 @v	šimbulug?
-@link eBL |BULUG&BULUG| https://www.ebl.lmu.de/signs/|BULUG&BULUG|
-@link Wikidata Q87555161 http://www.wikidata.org/entity/Q87555161
+@link	eBL |BULUG&BULUG| https://www.ebl.lmu.de/signs/|BULUG&BULUG|
+@link	Wikidata Q87555161 http://www.wikidata.org/entity/Q87555161
 @end sign
 
 @sign BUR
@@ -5583,8 +5495,8 @@
 @v	parₓ
 @v	pur
 @v	puru
-@link eBL BUR https://www.ebl.lmu.de/signs/BUR
-@link Wikidata Q87555162 http://www.wikidata.org/entity/Q87555162
+@link	eBL BUR https://www.ebl.lmu.de/signs/BUR
+@link	Wikidata Q87555162 http://www.wikidata.org/entity/Q87555162
 @end sign
 
 @sign |BUR.NU₁₁|
@@ -5631,8 +5543,8 @@
 @v	ušu
 @v	ušum
 @sys	Attinger buluŋ₂ => bulug₂
-@link eBL BUR₂ https://www.ebl.lmu.de/signs/BUR₂
-@link Wikidata Q87555163 http://www.wikidata.org/entity/Q87555163
+@link	eBL BUR₂ https://www.ebl.lmu.de/signs/BUR₂
+@link	Wikidata Q87555163 http://www.wikidata.org/entity/Q87555163
 @form BUR₂@v
 @oid	o0031514
 @inote	see MZL sub BUR₂, MZL008
@@ -5653,7 +5565,7 @@
 @useq	x12054.x12054
 @ucun	𒁔𒁔
 @v	bubbur
-@link eBL |BUR₂.BUR₂| https://www.ebl.lmu.de/signs/|BUR₂.BUR₂|
+@link	eBL |BUR₂.BUR₂| https://www.ebl.lmu.de/signs/|BUR₂.BUR₂|
 @end sign
 
 @sign BURU₅
@@ -5673,7 +5585,7 @@
 @v	bur₅
 @v	buru₅
 @v	parₓ
-@link eBL BURU₅ https://www.ebl.lmu.de/signs/BURU₅
+@link	eBL BURU₅ https://www.ebl.lmu.de/signs/BURU₅
 @form |HU.ERIN₂|
 @oid	o0001465
 @useq	x12137.x1209F
@@ -5695,7 +5607,7 @@
 @v	buru₅
 @ref	Ass 00523 = dcclt/signlists:P370411 r ii 49
 @inote	salgues
-@link eBL NAM https://www.ebl.lmu.de/signs/NAM
+@link	eBL NAM https://www.ebl.lmu.de/signs/NAM
 @@
 @end sign
 
@@ -5743,8 +5655,8 @@
 @ref	BT 1 rev. iv' 3 qab3-[la2-ni ]
 @v	ta₂
 @v	ṭa
-@link eBL DA https://www.ebl.lmu.de/signs/DA
-@link Wikidata Q87555170 http://www.wikidata.org/entity/Q87555170
+@link	eBL DA https://www.ebl.lmu.de/signs/DA
+@link	Wikidata Q87555170 http://www.wikidata.org/entity/Q87555170
 @end sign
 
 @sign |DA.UŠ|
@@ -5753,7 +5665,7 @@
 @ucun	𒁕𒍑
 @v	gabraₓ
 @v	ragabₓ
-@link eBL |DA.UŠ| https://www.ebl.lmu.de/signs/|DA.UŠ|
+@link	eBL |DA.UŠ| https://www.ebl.lmu.de/signs/|DA.UŠ|
 @end sign
 
 @sign |DA×GIŠ@t|
@@ -5768,8 +5680,8 @@
 @list	U+12488
 @ucun	𒒈
 @uage	8.0
-@link eBL |DA×TAK₄| https://www.ebl.lmu.de/signs/|DA×TAK₄|
-@link Wikidata Q87557109 http://www.wikidata.org/entity/Q87557109
+@link	eBL |DA×TAK₄| https://www.ebl.lmu.de/signs/|DA×TAK₄|
+@link	Wikidata Q87557109 http://www.wikidata.org/entity/Q87557109
 @end sign
 
 @sign DAG
@@ -5799,11 +5711,11 @@
 @v	tak₂
 @v	taq₂
 @v	ṭak?
-@link eBL DAG https://www.ebl.lmu.de/signs/DAG
-@link Wikidata Q87555171 http://www.wikidata.org/entity/Q87555171
+@link	eBL DAG https://www.ebl.lmu.de/signs/DAG
+@link	Wikidata Q87555171 http://www.wikidata.org/entity/Q87555171
 @form LAK457
 @oid	o0000377
-@link eBL LAK457 https://www.ebl.lmu.de/signs/LAK457
+@link	eBL LAK457 https://www.ebl.lmu.de/signs/LAK457
 @@
 @end sign
 
@@ -5828,7 +5740,7 @@
 @v	kišiₓ
 @v-	šihumₓ
 @inote	šihum is an Akkadian equivalent
-@link eBL |DAG.KISIM₅| https://www.ebl.lmu.de/signs/|DAG.KISIM₅|
+@link	eBL |DAG.KISIM₅| https://www.ebl.lmu.de/signs/|DAG.KISIM₅|
 @end sign
 
 @sign |DAG.KISIM₅×(A.MAŠ)|
@@ -5841,8 +5753,8 @@
 @ucun	𒁗
 @uage	5.0
 @v	massa₂
-@link eBL |DAG.KISIM₅×(A.MAŠ)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(A.MAŠ)|
-@link Wikidata Q87555173 http://www.wikidata.org/entity/Q87555173
+@link	eBL |DAG.KISIM₅×(A.MAŠ)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(A.MAŠ)|
+@link	Wikidata Q87555173 http://www.wikidata.org/entity/Q87555173
 @form |E.KISIM₅×(A.MAŠ)|
 @oid	o0027849
 @inote	Hittite
@@ -5866,8 +5778,8 @@
 @uage	5.0
 @v	garim₂
 @v	ŋarim₂
-@link eBL |DAG.KISIM₅×AMAR| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×AMAR|
-@link Wikidata Q87555175 http://www.wikidata.org/entity/Q87555175
+@link	eBL |DAG.KISIM₅×AMAR| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×AMAR|
+@link	Wikidata Q87555175 http://www.wikidata.org/entity/Q87555175
 @end sign
 
 @sign |DAG.KISIM₅×BALAG|
@@ -5879,8 +5791,8 @@
 @ucun	𒁙
 @uage	5.0
 @v	šaran
-@link eBL |DAG.KISIM₅×BALAG| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×BALAG|
-@link Wikidata Q87555178 http://www.wikidata.org/entity/Q87555178
+@link	eBL |DAG.KISIM₅×BALAG| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×BALAG|
+@link	Wikidata Q87555178 http://www.wikidata.org/entity/Q87555178
 @form |E.KISIM₅×BALAG|
 @oid	o0027853
 @inote	Hittite
@@ -5902,8 +5814,8 @@
 @v	harₓ
 @v	hara₄
 @v	haru₄
-@link eBL |DAG.KISIM₅×BI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×BI|
-@link Wikidata Q87555181 http://www.wikidata.org/entity/Q87555181
+@link	eBL |DAG.KISIM₅×BI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×BI|
+@link	Wikidata Q87555181 http://www.wikidata.org/entity/Q87555181
 @end sign
 
 @sign |DAG.KISIM₅×EN|
@@ -5926,8 +5838,8 @@
 @v	kisim₇
 @v	subₓ
 @v	ubur
-@link eBL |DAG.KISIM₅×GA| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GA|
-@link Wikidata Q87555182 http://www.wikidata.org/entity/Q87555182
+@link	eBL |DAG.KISIM₅×GA| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GA|
+@link	Wikidata Q87555182 http://www.wikidata.org/entity/Q87555182
 @form |DAG.DAG.KISIM₅×(U₂.GIR₂)|
 @oid	o0031620
 @inote	Suspicious but not collatable: P247855 (RT 56?) iv 17-18
@@ -5950,8 +5862,8 @@
 @ucun	𒁜
 @uage	5.0
 @v	massa
-@link eBL |DAG.KISIM₅×(GA.MAŠ)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(GA.MAŠ)|
-@link Wikidata Q87555184 http://www.wikidata.org/entity/Q87555184
+@link	eBL |DAG.KISIM₅×(GA.MAŠ)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(GA.MAŠ)|
+@link	Wikidata Q87555184 http://www.wikidata.org/entity/Q87555184
 @end sign
 
 @sign |DAG.KISIM₅×GI|
@@ -5964,8 +5876,8 @@
 @uage	5.0
 @v	keš₇?
 @v	kiši₇
-@link eBL |DAG.KISIM₅×GI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GI|
-@link Wikidata Q87555186 http://www.wikidata.org/entity/Q87555186
+@link	eBL |DAG.KISIM₅×GI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GI|
+@link	Wikidata Q87555186 http://www.wikidata.org/entity/Q87555186
 @end sign
 
 @sign |DAG.KISIM₅×GIR₂|
@@ -5981,8 +5893,8 @@
 @v	kisiₓ
 @v	kisim₄
 @v	kiši₈
-@link eBL |DAG.KISIM₅×GIR₂| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GIR₂|
-@link Wikidata Q87555188 http://www.wikidata.org/entity/Q87555188
+@link	eBL |DAG.KISIM₅×GIR₂| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GIR₂|
+@link	Wikidata Q87555188 http://www.wikidata.org/entity/Q87555188
 @form |E.KISIM₅×GIR₂|
 @oid	o0027857
 @inote	Hittite
@@ -6002,8 +5914,8 @@
 @uage	5.0
 @v	udul₅
 @v	utul₅
-@link eBL |DAG.KISIM₅×GUD| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GUD|
-@link Wikidata Q87555189 http://www.wikidata.org/entity/Q87555189
+@link	eBL |DAG.KISIM₅×GUD| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×GUD|
+@link	Wikidata Q87555189 http://www.wikidata.org/entity/Q87555189
 @end sign
 
 @sign |DAG.KISIM₅×HA|
@@ -6016,8 +5928,8 @@
 @uage	5.0
 @v	hulum₃
 @v	hunin
-@link eBL |DAG.KISIM₅×HA| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×HA|
-@link Wikidata Q87555192 http://www.wikidata.org/entity/Q87555192
+@link	eBL |DAG.KISIM₅×HA| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×HA|
+@link	Wikidata Q87555192 http://www.wikidata.org/entity/Q87555192
 @end sign
 
 @sign |DAG.KISIM₅×IR|
@@ -6030,8 +5942,8 @@
 @uage	5.0
 @v	haraₓ
 @v	ubur₃
-@link eBL |DAG.KISIM₅×IR| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×IR|
-@link Wikidata Q87555194 http://www.wikidata.org/entity/Q87555194
+@link	eBL |DAG.KISIM₅×IR| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×IR|
+@link	Wikidata Q87555194 http://www.wikidata.org/entity/Q87555194
 @end sign
 
 @sign |DAG.KISIM₅×(IR.LU)|
@@ -6044,8 +5956,8 @@
 @ucun	𒁢
 @uage	5.0
 @v	ubur₄
-@link eBL |DAG.KISIM₅×(IR.LU)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(IR.LU)|
-@link Wikidata Q87555196 http://www.wikidata.org/entity/Q87555196
+@link	eBL |DAG.KISIM₅×(IR.LU)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(IR.LU)|
+@link	Wikidata Q87555196 http://www.wikidata.org/entity/Q87555196
 @end sign
 
 @sign |DAG.KISIM₅×KAK|
@@ -6058,8 +5970,8 @@
 @v	gabar₂
 @v	kabar₂
 @v	paₓ
-@link eBL |DAG.KISIM₅×KAK| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×KAK|
-@link Wikidata Q87555198 http://www.wikidata.org/entity/Q87555198
+@link	eBL |DAG.KISIM₅×KAK| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×KAK|
+@link	Wikidata Q87555198 http://www.wikidata.org/entity/Q87555198
 @form |NUNUZ.KISIM₅×KAK|
 @oid	o0221883
 @useq	x1226D.X
@@ -6077,8 +5989,8 @@
 @uage	5.0
 @v	lahta₆
 @v	lahtan₆
-@link eBL |DAG.KISIM₅×LA| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×LA|
-@link Wikidata Q87555201 http://www.wikidata.org/entity/Q87555201
+@link	eBL |DAG.KISIM₅×LA| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×LA|
+@link	Wikidata Q87555201 http://www.wikidata.org/entity/Q87555201
 @form |E.KISIM₅×LA|
 @oid	o0027859
 @inote	Hittite
@@ -6100,8 +6012,8 @@
 @uage	5.0
 @v	kisimₓ
 @v	ubur₂
-@link eBL |DAG.KISIM₅×LU| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×LU|
-@link Wikidata Q87555202 http://www.wikidata.org/entity/Q87555202
+@link	eBL |DAG.KISIM₅×LU| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×LU|
+@link	Wikidata Q87555202 http://www.wikidata.org/entity/Q87555202
 @end sign
 
 @sign |DAG.KISIM₅×(LU.GIR₂)|
@@ -6133,12 +6045,12 @@
 @v	utua₂
 @v	utul₃
 @v	utuwa₂
-@link eBL |DAG.KISIM₅×(LU.MAŠ₂)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(LU.MAŠ₂)|
-@link Wikidata Q87555205 http://www.wikidata.org/entity/Q87555205
+@link	eBL |DAG.KISIM₅×(LU.MAŠ₂)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(LU.MAŠ₂)|
+@link	Wikidata Q87555205 http://www.wikidata.org/entity/Q87555205
 @form LAK388
 @oid	o0000367
 @list	LAK388
-@link eBL LAK388 https://www.ebl.lmu.de/signs/LAK388
+@link	eBL LAK388 https://www.ebl.lmu.de/signs/LAK388
 @@
 @end sign
 
@@ -6151,8 +6063,8 @@
 @ucun	𒁧
 @uage	5.0
 @v	hulum
-@link eBL |DAG.KISIM₅×LUM| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×LUM|
-@link Wikidata Q87555208 http://www.wikidata.org/entity/Q87555208
+@link	eBL |DAG.KISIM₅×LUM| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×LUM|
+@link	Wikidata Q87555208 http://www.wikidata.org/entity/Q87555208
 @end sign
 
 @sign |DAG.KISIM₅×NE|
@@ -6166,8 +6078,8 @@
 @v	ge₂₈
 @v	šurin₄?
 @v	šurun₄
-@link eBL |DAG.KISIM₅×NE| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×NE|
-@link Wikidata Q87555210 http://www.wikidata.org/entity/Q87555210
+@link	eBL |DAG.KISIM₅×NE| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×NE|
+@link	Wikidata Q87555210 http://www.wikidata.org/entity/Q87555210
 @end sign
 
 @sign |DAG.KISIM₅×(PAP.PAP)|
@@ -6182,8 +6094,8 @@
 @v	rapiku
 @v	rapikum
 @v	rapiqu
-@link eBL |DAG.KISIM₅×(PAP.PAP)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(PAP.PAP)|
-@link Wikidata Q87555213 http://www.wikidata.org/entity/Q87555213
+@link	eBL |DAG.KISIM₅×(PAP.PAP)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(PAP.PAP)|
+@link	Wikidata Q87555213 http://www.wikidata.org/entity/Q87555213
 @end sign
 
 @sign |DAG.KISIM₅×SI|
@@ -6195,8 +6107,8 @@
 @ucun	𒁪
 @uage	5.0
 @v	kisim₂
-@link eBL |DAG.KISIM₅×SI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×SI|
-@link Wikidata Q87555214 http://www.wikidata.org/entity/Q87555214
+@link	eBL |DAG.KISIM₅×SI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×SI|
+@link	Wikidata Q87555214 http://www.wikidata.org/entity/Q87555214
 @end sign
 
 @sign |DAG.KISIM₅×ŠE|
@@ -6215,8 +6127,8 @@
 @ucun	𒁫
 @uage	5.0
 @v	zibin
-@link eBL |DAG.KISIM₅×TAK₄| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×TAK₄|
-@link Wikidata Q87555216 http://www.wikidata.org/entity/Q87555216
+@link	eBL |DAG.KISIM₅×TAK₄| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×TAK₄|
+@link	Wikidata Q87555216 http://www.wikidata.org/entity/Q87555216
 @form |E.KISIM₅×TAK₄|
 @oid	o0027861
 @inote	Hittite
@@ -6231,7 +6143,7 @@
 @useq	x12056.X
 @ucun	𒁖X
 @v	uburₓ
-@link eBL |DAG.KISIM₅×U| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×U|
+@link	eBL |DAG.KISIM₅×U| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×U|
 @end sign
 
 @sign |DAG.KISIM₅×(U₂.GIR₂)|
@@ -6257,8 +6169,8 @@
 @v	šurun₅?
 @v	zibin₂
 @sys	Attinger haruba => harub
-@link eBL |DAG.KISIM₅×(U₂.GIR₂)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(U₂.GIR₂)|
-@link Wikidata Q87555218 http://www.wikidata.org/entity/Q87555218
+@link	eBL |DAG.KISIM₅×(U₂.GIR₂)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(U₂.GIR₂)|
+@link	Wikidata Q87555218 http://www.wikidata.org/entity/Q87555218
 @form |E.KISIM₅×(U₂.GIR₂)|
 @oid	o0027851
 @inote	Hittite
@@ -6274,8 +6186,8 @@
 @list	U+12373
 @ucun	𒍳
 @uage	7.0
-@link eBL |DAG.KISIM₅×(U₂.MAŠ)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(U₂.MAŠ)|
-@link Wikidata Q87556745 http://www.wikidata.org/entity/Q87556745
+@link	eBL |DAG.KISIM₅×(U₂.MAŠ)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(U₂.MAŠ)|
+@link	Wikidata Q87556745 http://www.wikidata.org/entity/Q87556745
 @end sign
 
 @sign |DAG.KISIM₅×UŠ|
@@ -6293,8 +6205,8 @@
 @v	utua
 @v	utul₆
 @v	utuwa
-@link eBL |DAG.KISIM₅×UŠ| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×UŠ|
-@link Wikidata Q87555220 http://www.wikidata.org/entity/Q87555220
+@link	eBL |DAG.KISIM₅×UŠ| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×UŠ|
+@link	Wikidata Q87555220 http://www.wikidata.org/entity/Q87555220
 @form LAK777@s
 @oid	o0025785
 @inote	Extremely uncertain; possibly in IAS 47 iii' 2' but print photo unclear
@@ -6311,7 +6223,7 @@
 @ucun	𒁖X
 @v	ku₁₂
 @v	lu₁₀
-@link eBL |DAG.KISIM₅×X| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×X|
+@link	eBL |DAG.KISIM₅×X| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×X|
 @end sign
 
 @sign |DAG×KUR|
@@ -6321,8 +6233,8 @@
 @list	U+12489
 @ucun	𒒉
 @uage	8.0
-@link eBL |DAG×KUR| https://www.ebl.lmu.de/signs/|DAG×KUR|
-@link Wikidata Q87557111 http://www.wikidata.org/entity/Q87557111
+@link	eBL |DAG×KUR| https://www.ebl.lmu.de/signs/|DAG×KUR|
+@link	Wikidata Q87557111 http://www.wikidata.org/entity/Q87557111
 @end sign
 
 @sign |DAG×PAP|
@@ -6332,7 +6244,7 @@
 
 @sign |DAG×U|
 @oid	o0038265
-@inote epsd2/oakk
+@inote	epsd2/oakk
 @end sign
 
 @sign DAG₃
@@ -6348,8 +6260,8 @@
 @v	par₇
 @v	tak₃
 @v	taq₃
-@link eBL DAG₃ https://www.ebl.lmu.de/signs/DAG₃
-@link Wikidata Q87556748 http://www.wikidata.org/entity/Q87556748
+@link	eBL DAG₃ https://www.ebl.lmu.de/signs/DAG₃
+@link	Wikidata Q87556748 http://www.wikidata.org/entity/Q87556748
 @end sign
 
 @sign DAM
@@ -6379,8 +6291,8 @@
 @v	tum₁₀
 @v	ṭa₄
 @v	ṭam
-@link eBL DAM https://www.ebl.lmu.de/signs/DAM
-@link Wikidata Q87555221 http://www.wikidata.org/entity/Q87555221
+@link	eBL DAM https://www.ebl.lmu.de/signs/DAM
+@link	Wikidata Q87555221 http://www.wikidata.org/entity/Q87555221
 @end sign
 
 @sign |DAM.UŠ|
@@ -6418,8 +6330,8 @@
 @v	ṭar₂
 @v	ṭir₄
 @sys	Attinger dara₆ => dar
-@link eBL DAR https://www.ebl.lmu.de/signs/DAR
-@link Wikidata Q87555223 http://www.wikidata.org/entity/Q87555223
+@link	eBL DAR https://www.ebl.lmu.de/signs/DAR
+@link	Wikidata Q87555223 http://www.wikidata.org/entity/Q87555223
 @end sign
 
 @sign DARA₃
@@ -6445,8 +6357,8 @@
 @v	tara₃
 @v	tarah
 @v	ṭar₃
-@link eBL DARA₃ https://www.ebl.lmu.de/signs/DARA₃
-@link Wikidata Q87555225 http://www.wikidata.org/entity/Q87555225
+@link	eBL DARA₃ https://www.ebl.lmu.de/signs/DARA₃
+@link	Wikidata Q87555225 http://www.wikidata.org/entity/Q87555225
 @end sign
 
 @sign |DARA₃×MA|
@@ -6485,8 +6397,8 @@
 @v	u₁₀
 @v	ua₂
 @sys	Attinger tara₄ => dara₄
-@link eBL DARA₄ https://www.ebl.lmu.de/signs/DARA₄
-@link Wikidata Q87555227 http://www.wikidata.org/entity/Q87555227
+@link	eBL DARA₄ https://www.ebl.lmu.de/signs/DARA₄
+@link	Wikidata Q87555227 http://www.wikidata.org/entity/Q87555227
 @form DARA₄~b
 @oid	o0027511
 @inote	hapax in UET II = CDLI archsigns DARA₄~b which lacks internal horizontals
@@ -6494,8 +6406,8 @@
 @end sign
 
 @sign DE₂
-@aka UMUM@s
 @oid	o0000138
+@aka	UMUM@s
 @list	GCSL071
 @list	KWU309
 @list	SLLHA338n1
@@ -6522,7 +6434,7 @@
 @list	ELLES085
 @list	LAK155
 @list	RSP361
-@link eBL UMUM https://www.ebl.lmu.de/signs/UMUM
+@link	eBL UMUM https://www.ebl.lmu.de/signs/UMUM
 @@
 @form |UMUM×KASKAL|
 @oid	o0002529
@@ -6533,8 +6445,8 @@
 @list	U+12324
 @ucun	𒌤
 @uage	5.0
-@link eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
-@link Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
+@link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
+@link	Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
 @@
 @end sign
 
@@ -6579,8 +6491,8 @@
 @v	ti₄
 @v	ṭe
 @v	ṭi
-@link eBL DI https://www.ebl.lmu.de/signs/DI
-@link Wikidata Q87555229 http://www.wikidata.org/entity/Q87555229
+@link	eBL DI https://www.ebl.lmu.de/signs/DI
+@link	Wikidata Q87555229 http://www.wikidata.org/entity/Q87555229
 @end sign
 
 @sign |DI.DI|
@@ -6588,7 +6500,7 @@
 @useq	x12072.x12072
 @ucun	𒁲𒁲
 @v	sadu
-@link eBL |DI.DI| https://www.ebl.lmu.de/signs/|DI.DI|
+@link	eBL |DI.DI| https://www.ebl.lmu.de/signs/|DI.DI|
 @end sign
 
 @sign |DI.TAR|
@@ -6597,7 +6509,7 @@
 @ucun	𒁲𒋻
 @v	ištaranₓ
 @inote	An = Anum 5 288
-@link eBL |DI.TAR| https://www.ebl.lmu.de/signs/|DI.TAR|
+@link	eBL |DI.TAR| https://www.ebl.lmu.de/signs/|DI.TAR|
 @end sign
 
 @sign |DI.X|
@@ -6605,7 +6517,7 @@
 @useq	x12072.O
 @ucun	𒁲X
 @v	guruštiₓ
-@link eBL |DI.X| https://www.ebl.lmu.de/signs/|DI.X|
+@link	eBL |DI.X| https://www.ebl.lmu.de/signs/|DI.X|
 @end sign
 
 @sign DIB
@@ -6644,8 +6556,8 @@
 @v	ṭep
 @v	ṭib
 @v	ṭip
-@link eBL DIB https://www.ebl.lmu.de/signs/DIB
-@link Wikidata Q87555230 http://www.wikidata.org/entity/Q87555230
+@link	eBL DIB https://www.ebl.lmu.de/signs/DIB
+@link	Wikidata Q87555230 http://www.wikidata.org/entity/Q87555230
 @end sign
 
 @sign DIM
@@ -6675,8 +6587,8 @@
 @v	ṭem
 @v	ṭiₓ
 @v	ṭim
-@link eBL DIM https://www.ebl.lmu.de/signs/DIM
-@link Wikidata Q87555232 http://www.wikidata.org/entity/Q87555232
+@link	eBL DIM https://www.ebl.lmu.de/signs/DIM
+@link	Wikidata Q87555232 http://www.wikidata.org/entity/Q87555232
 @form LAK061
 @oid	o0025727
 @list	LAK061
@@ -6691,8 +6603,8 @@
 @list	U+1248A
 @ucun	𒒊
 @uage	8.0
-@link eBL |DIM×IGI| https://www.ebl.lmu.de/signs/|DIM×IGI|
-@link Wikidata Q87557112 http://www.wikidata.org/entity/Q87557112
+@link	eBL |DIM×IGI| https://www.ebl.lmu.de/signs/|DIM×IGI|
+@link	Wikidata Q87557112 http://www.wikidata.org/entity/Q87557112
 @end sign
 
 @sign |DIM×KAK|
@@ -6718,7 +6630,7 @@
 @list	ELLES032
 @v	mašgurₓ
 @note	M. Civil ZA 74, 162
-@link eBL |DIM×MAŠ| https://www.ebl.lmu.de/signs/|DIM×MAŠ|
+@link	eBL |DIM×MAŠ| https://www.ebl.lmu.de/signs/|DIM×MAŠ|
 @end sign
 
 @sign |DIM×ŠE|
@@ -6739,8 +6651,8 @@
 @v	kakkul₂
 @v	mun
 @v	munu
-@link eBL |DIM×ŠE| https://www.ebl.lmu.de/signs/|DIM×ŠE|
-@link Wikidata Q87555234 http://www.wikidata.org/entity/Q87555234
+@link	eBL |DIM×ŠE| https://www.ebl.lmu.de/signs/|DIM×ŠE|
+@link	Wikidata Q87555234 http://www.wikidata.org/entity/Q87555234
 @form |DIM×ŠE|
 @oid	o0000978
 @list	ABZL015
@@ -6756,8 +6668,8 @@
 @uage	5.0
 @v	gakkul₂
 @lit	Civil, ZA 74, 162
-@link eBL |DIM×ŠE| https://www.ebl.lmu.de/signs/|DIM×ŠE|
-@link Wikidata Q87555234 http://www.wikidata.org/entity/Q87555234
+@link	eBL |DIM×ŠE| https://www.ebl.lmu.de/signs/|DIM×ŠE|
+@link	Wikidata Q87555234 http://www.wikidata.org/entity/Q87555234
 @@
 @form DIM@g
 @oid	o0000142
@@ -6779,7 +6691,7 @@
 @list	U+1248B
 @ucun	𒒋
 @uage	8.0
-@link Wikidata Q87557114 http://www.wikidata.org/entity/Q87557114
+@link	Wikidata Q87557114 http://www.wikidata.org/entity/Q87557114
 @end sign
 
 @sign DIM₂
@@ -6828,8 +6740,8 @@
 @v	tam₆
 @v	ṭem₂
 @v	ṭim₂
-@link eBL DIM₂ https://www.ebl.lmu.de/signs/DIM₂
-@link Wikidata Q87555236 http://www.wikidata.org/entity/Q87555236
+@link	eBL DIM₂ https://www.ebl.lmu.de/signs/DIM₂
+@link	Wikidata Q87555236 http://www.wikidata.org/entity/Q87555236
 @end sign
 
 @sign |DIM₂×SU|
@@ -6843,8 +6755,8 @@
 @list	U+1248C
 @ucun	𒒌
 @uage	8.0
-@link eBL |DIM₂×UD| https://www.ebl.lmu.de/signs/|DIM₂×UD|
-@link Wikidata Q87557116 http://www.wikidata.org/entity/Q87557116
+@link	eBL |DIM₂×UD| https://www.ebl.lmu.de/signs/|DIM₂×UD|
+@link	Wikidata Q87557116 http://www.wikidata.org/entity/Q87557116
 @end sign
 
 @sign DIN
@@ -6881,8 +6793,8 @@
 @v	tin
 @v	ṭen
 @v	ṭin?
-@link eBL DIN https://www.ebl.lmu.de/signs/DIN
-@link Wikidata Q87555237 http://www.wikidata.org/entity/Q87555237
+@link	eBL DIN https://www.ebl.lmu.de/signs/DIN
+@link	Wikidata Q87555237 http://www.wikidata.org/entity/Q87555237
 @end sign
 
 @sign |DIN.BI|
@@ -6891,7 +6803,7 @@
 @useq	x12077.x12049
 @ucun	𒁷𒁉
 @v	kurunₓ
-@link eBL |DIN.BI| https://www.ebl.lmu.de/signs/|DIN.BI|
+@link	eBL |DIN.BI| https://www.ebl.lmu.de/signs/|DIN.BI|
 @end sign
 
 @sign |DIN.KASKAL|
@@ -6909,8 +6821,8 @@
 @uage	5.0
 @v	sagkurun
 @v	saŋkurun
-@link eBL |DIN.KASKAL.U@g.DIŠ| https://www.ebl.lmu.de/signs/|DIN.KASKAL.U@g.DIŠ|
-@link Wikidata Q87555239 http://www.wikidata.org/entity/Q87555239
+@link	eBL |DIN.KASKAL.U@g.DIŠ| https://www.ebl.lmu.de/signs/|DIN.KASKAL.U@g.DIŠ|
+@link	Wikidata Q87555239 http://www.wikidata.org/entity/Q87555239
 @end sign
 
 @sign |DIN.ŠE.NUN&NUN|
@@ -6920,7 +6832,7 @@
 @v	babilaₓ
 @v	din-tir
 @v	gamun
-@link eBL |DIN.ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|DIN.ŠE.NUN&NUN|
+@link	eBL |DIN.ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|DIN.ŠE.NUN&NUN|
 @end sign
 
 @sign |DIN×ŠE|
@@ -6934,8 +6846,8 @@
 @end sign
 
 @sign DIŠ
-@aka 1(DIŠ)
 @oid	o0000145
+@aka	1(DIŠ)
 @list	ABZL390
 @list	HZL356
 @list	MZL748
@@ -6949,15 +6861,10 @@
 @v	anₓ
 @v	ana
 @v	aš₁₀
-@v	6(ban₂)
-@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @v	barig
-@v	1(barig)
-@v	1(bariga)
 @v	daš₂
 @v	deš
 @v	diš
-@v	1(diš)
 @v	diša
 @v	duš₂
 @v	eš₄
@@ -6994,11 +6901,16 @@
 @v	tiš
 @v	tiz
 @v	ṭiš
+@v	uₓ
 @v	ukitₓ
 @v	uš₉
-@v	uₓ
-@link eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
-@link Wikidata Q87555241 http://www.wikidata.org/entity/Q87555241
+@v	6(ban₂)
+@note	For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
+@v	1(barig)
+@v	1(bariga)
+@v	1(diš)
+@link	eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
+@link	Wikidata Q87555241 http://www.wikidata.org/entity/Q87555241
 @form AŠ@c
 @oid	o0221914
 @inote	dcclt *() punctuation qualifier
@@ -7006,72 +6918,58 @@
 @form AŠ@z
 @oid	o0000108
 @inote	dcclt *() punctuation qualifier
-@link eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
+@link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
 @@
 @form |DIŠ.DIŠ.DIŠ|
 @oid	o0000986
 @inote	dcclt *() punctuation qualifier
-@link eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
-@@
-@form |U.U|
-@oid	o0002475
-@inote	00atf/sptu_3_089.atf:153 *() punctuation qualifier
-@link eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
+@link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @@
 @form DIŠ@c
-@aka N8
 @oid	o0223336
+@aka	N8
 @inote	@ucode	xebc2
-@v	1/4(aš@c)
-@v	1/2(aš@c@90)
-@v	1(aš@c@90)
 @v	barig@c
-@v	1(barig@c)
 @v	bariga@c
-@v	1(bariga@c)
 @v	diš@c
+@v	1/4(aš@c)
+@v	1(aš@c@90)
+@v	1/2(aš@c@90)
+@v	1(barig@c)
+@v	1(bariga@c)
 @v	1(diš@c)
 @@
 @form DIŠ@f
 @oid	o0223466
 @v	diš@f
 @@
-@form 4(DIŠ)
-@oid	o0000040
-@inote	dcclt *() punctuation qualifier
-@link eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
-@@
-@form 5(DIŠ)
-@oid	o0000052
-@inote	dcclt *() punctuation qualifier
-@@
 @form GAM
 @oid	o0000196
 @list	GCSL091
 @inote	dcclt *() punctuation qualifier
-@link eBL GAM https://www.ebl.lmu.de/signs/GAM
+@link	eBL GAM https://www.ebl.lmu.de/signs/GAM
 @@
 @form MIN
 @oid	o0000456
 @inote	dcclt *() punctuation qualifier
-@link eBL MIN https://www.ebl.lmu.de/signs/MIN
-@@
-@form P₂
-@oid	o0000506
-@inote	dcclt *() punctuation qualifier
-@link eBL P₂ https://www.ebl.lmu.de/signs/P₂
+@link	eBL MIN https://www.ebl.lmu.de/signs/MIN
 @@
 @form PAP
 @oid	o0000500
 @list	GCSL113
 @inote	dcclt *() punctuation qualifier
-@link eBL PAP https://www.ebl.lmu.de/signs/PAP
+@link	eBL PAP https://www.ebl.lmu.de/signs/PAP
 @@
 @form U
 @oid	o0000561
 @list	GCSL176
 @inote	dcclt *() punctuation qualifier
-@link eBL U https://www.ebl.lmu.de/signs/U
+@link	eBL U https://www.ebl.lmu.de/signs/U
+@@
+@form |U.U|
+@oid	o0002475
+@inote	00atf/sptu_3_089.atf:153 *() punctuation qualifier
+@link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @@
 @form U@c
 @oid	o0223334
@@ -7084,10 +6982,26 @@
 @list	U+12444
 @ucun	𒑄
 @uage	5.0
-@link eBL USSU https://www.ebl.lmu.de/signs/USSU
-@link Wikidata Q87556984 http://www.wikidata.org/entity/Q87556984
+@link	eBL USSU https://www.ebl.lmu.de/signs/USSU
+@link	Wikidata Q87556984 http://www.wikidata.org/entity/Q87556984
+@@
+@form P₂
+@oid	o0000506
+@inote	dcclt *() punctuation qualifier
+@link	eBL P₂ https://www.ebl.lmu.de/signs/P₂
+@@
+@form 4(DIŠ)
+@oid	o0000040
+@inote	dcclt *() punctuation qualifier
+@link	eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
+@@
+@form 5(DIŠ)
+@oid	o0000052
+@inote	dcclt *() punctuation qualifier
 @@
 @end sign
+
+@compoundonly	|DIŠ.BAD&BAD|
 
 @sign |DIŠ.DAR|
 @oid	o0000983
@@ -7097,7 +7011,7 @@
 @ref	Ass 00523 = dcclt/signlists:P3703411 r ii 44
 @inote	salgues
 @note	DIŠ-DAR is also a writing for uₓ(DIŠ)-gun₃.
-@link eBL |DIŠ.DAR| https://www.ebl.lmu.de/signs/|DIŠ.DAR|
+@link	eBL |DIŠ.DAR| https://www.ebl.lmu.de/signs/|DIŠ.DAR|
 @end sign
 
 @sign |DIŠ.DIŠ.DIŠ|
@@ -7106,7 +7020,7 @@
 @ucun	𒁹𒁹𒁹
 @v	eš₅
 @v	eša₅
-@link eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
+@link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @end sign
 
 @sign |DIŠ.DIŠ.DIŠ.U.U|
@@ -7116,7 +7030,7 @@
 @v	eššaba
 @v	eššana
 @v	iššebu
-@link eBL |DIŠ.DIŠ.DIŠ.U.U| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ.U.U|
+@link	eBL |DIŠ.DIŠ.DIŠ.U.U| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ.U.U|
 @end sign
 
 @sign |DIŠ.DIŠ.DIŠ.U.U.U|
@@ -7124,14 +7038,8 @@
 @useq	x12079.x12079.x12079.x1230D
 @ucun	𒁹𒁹𒁹𒌍
 @v	iššebuₓ
-@link eBL |DIŠ.DIŠ.DIŠ.U.U.U| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ.U.U.U|
+@link	eBL |DIŠ.DIŠ.DIŠ.U.U.U| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ.U.U.U|
 @end sign
-
-@compoundonly	|DIŠ×A|
-@inote	added during ogsl upgrade
-
-@compoundonly	|DIŠ&DIŠ|
-@inote	added during ogsl upgrade
 
 @sign |DIŠ+ŠU|
 @oid	o0032017
@@ -7140,14 +7048,28 @@
 @list	U+12375
 @ucun	𒍵
 @uage	7.0
-@link eBL |DIŠ+ŠU| https://www.ebl.lmu.de/signs/|DIŠ+ŠU|
-@link Wikidata Q87556751 http://www.wikidata.org/entity/Q87556751
+@link	eBL |DIŠ+ŠU| https://www.ebl.lmu.de/signs/|DIŠ+ŠU|
+@link	Wikidata Q87556751 http://www.wikidata.org/entity/Q87556751
 @end sign
+
+@compoundonly	|DIŠ×A|
+@inote	added during ogsl upgrade
+
+@sign |DIŠ×1(U@90)|
+@oid	o0038220
+@end sign
+
+@sign |DIŠ×2(U@90)|
+@oid	o0038222
+@end sign
+
+@compoundonly	|DIŠ&DIŠ|
+@inote	added during ogsl upgrade
 
 @sign DIŠ@k
 @oid	o0000146
 @v	uliₓ?
-@link eBL DIŠ@k https://www.ebl.lmu.de/signs/DIŠ@k
+@link	eBL DIŠ@k https://www.ebl.lmu.de/signs/DIŠ@k
 @end sign
 
 @sign |DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k|
@@ -7157,14 +7079,14 @@
 @v	bag₂
 @ref	VAT 9541 = dcclt:PP345960 o iii 12', ba-ak DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k = %a šu-šu-ru
 @v	bak₂
-@link eBL |DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k| https://www.ebl.lmu.de/signs/|DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k|
+@link	eBL |DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k| https://www.ebl.lmu.de/signs/|DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k|
 @end sign
 
 @sign DIŠ@t
 @oid	o0000147
 @v	diš@t
 @v	1(diš@t)
-@link eBL DIŠ@t https://www.ebl.lmu.de/signs/DIŠ@t
+@link	eBL DIŠ@t https://www.ebl.lmu.de/signs/DIŠ@t
 @end sign
 
 @sign DU
@@ -7232,8 +7154,8 @@
 @v	tumu₂
 @v	ṭu₃
 @v	ur₈
-@link eBL DU https://www.ebl.lmu.de/signs/DU
-@link Wikidata Q87555243 http://www.wikidata.org/entity/Q87555243
+@link	eBL DU https://www.ebl.lmu.de/signs/DU
+@link	Wikidata Q87555243 http://www.wikidata.org/entity/Q87555243
 @end sign
 
 @sign |DU.DU|
@@ -7252,7 +7174,7 @@
 @v	rahₓ
 @v	sugₓ
 @v	šuₓ
-@link eBL |DU.DU| https://www.ebl.lmu.de/signs/|DU.DU|
+@link	eBL |DU.DU| https://www.ebl.lmu.de/signs/|DU.DU|
 @end sign
 
 @sign |DU.DU.DU.DU|
@@ -7267,7 +7189,7 @@
 @v	subₓ
 @v	sugₓ
 @v	šuₓ
-@link eBL |DU.DU.DU.DU| https://www.ebl.lmu.de/signs/|DU.DU.DU.DU|
+@link	eBL |DU.DU.DU.DU| https://www.ebl.lmu.de/signs/|DU.DU.DU.DU|
 @end sign
 
 @sign |DU.HUB₂|
@@ -7276,7 +7198,7 @@
 @ucun	𒁺𒄸
 @v	rig₁₂
 @v	rige₁₂
-@link eBL |DU.HUB₂| https://www.ebl.lmu.de/signs/|DU.HUB₂|
+@link	eBL |DU.HUB₂| https://www.ebl.lmu.de/signs/|DU.HUB₂|
 @end sign
 
 @sign |DU.KI|
@@ -7293,7 +7215,12 @@
 @useq	x1207A.x121EF
 @ucun	𒁺𒇯
 @v	edₓ
-@link eBL |DU.LAGAR@g| https://www.ebl.lmu.de/signs/|DU.LAGAR@g|
+@link	eBL |DU.LAGAR@g| https://www.ebl.lmu.de/signs/|DU.LAGAR@g|
+@end sign
+
+@sign |DU×TAK₄|
+@oid	o0038139
+@inote	&P274443 = FT 2, pl. 43, AO 12186 r 2
 @end sign
 
 @compoundonly	|DU&A|
@@ -7319,8 +7246,8 @@
 @v	sug₂
 @v	sup₂?
 @sys	Attinger er₁₄ => re₇
-@link eBL |DU&DU| https://www.ebl.lmu.de/signs/|DU&DU|
-@link Wikidata Q87555245 http://www.wikidata.org/entity/Q87555245
+@link	eBL |DU&DU| https://www.ebl.lmu.de/signs/|DU&DU|
+@link	Wikidata Q87555245 http://www.wikidata.org/entity/Q87555245
 @form |DU%DU|
 @oid	o0022941
 @inote	dcclt !sg
@@ -7338,7 +7265,7 @@
 @v	subₓ
 @v	sugₓ
 @v	šuₓ
-@link eBL |DU&DU.DU&DU| https://www.ebl.lmu.de/signs/|DU&DU.DU&DU|
+@link	eBL |DU&DU.DU&DU| https://www.ebl.lmu.de/signs/|DU&DU.DU&DU|
 @end sign
 
 @sign DU@90
@@ -7371,8 +7298,8 @@
 @v	suh₆
 @v	suhuš
 @v	šuhuš
-@link eBL DU@g https://www.ebl.lmu.de/signs/DU@g
-@link Wikidata Q87555246 http://www.wikidata.org/entity/Q87555246
+@link	eBL DU@g https://www.ebl.lmu.de/signs/DU@g
+@link	Wikidata Q87555246 http://www.wikidata.org/entity/Q87555246
 @form DU
 @oid	o0000149
 @list	BAU374
@@ -7383,7 +7310,7 @@
 @list	RSP369
 @v	suhuš⁻
 @sys	Attinger suhuš⁻ => suhuš
-@link eBL DU https://www.ebl.lmu.de/signs/DU
+@link	eBL DU https://www.ebl.lmu.de/signs/DU
 @@
 @end sign
 
@@ -7400,7 +7327,7 @@
 @useq	x1207C.x1207C
 @ucun	𒁼𒁼
 @v	gigri
-@link eBL |DU@g.DU@g| https://www.ebl.lmu.de/signs/|DU@g.DU@g|
+@link	eBL |DU@g.DU@g| https://www.ebl.lmu.de/signs/|DU@g.DU@g|
 @end sign
 
 @sign |DU@g×KASKAL|
@@ -7412,7 +7339,7 @@
 @sign DU@g@g
 @oid	o0000151
 @inote	the existence of this sign requires confirmation
-@link eBL DU@g@g https://www.ebl.lmu.de/signs/DU@g@g
+@link	eBL DU@g@g https://www.ebl.lmu.de/signs/DU@g@g
 @end sign
 
 @sign DU@s
@@ -7450,8 +7377,8 @@
 @v	rim₄
 @sys	Attinger barim
 @sys	Attinger parim
-@link eBL DU@s https://www.ebl.lmu.de/signs/DU@s
-@link Wikidata Q87555248 http://www.wikidata.org/entity/Q87555248
+@link	eBL DU@s https://www.ebl.lmu.de/signs/DU@s
+@link	Wikidata Q87555248 http://www.wikidata.org/entity/Q87555248
 @form DU
 @oid	o0000149
 @list	BAU374
@@ -7468,7 +7395,7 @@
 @sys	Attinger gir₅⁻ => gir₅
 @sys	Attinger im₂⁻ => im₂
 @sys	Attinger kaš₄⁻ => kaš₄
-@link eBL DU https://www.ebl.lmu.de/signs/DU
+@link	eBL DU https://www.ebl.lmu.de/signs/DU
 @@
 @form |DU×KASKAL|
 @oid	o0027593
@@ -7478,18 +7405,13 @@
 @@
 @end sign
 
-@sign |DU×TAK₄|
-@oid	o0038139
-@inote &P274443 = FT 2, pl. 43, AO 12186 r 2
-@end sign
-
 @sign |DU@s.A|
 @oid	o0000995
 @useq	x1207D.x12000
 @ucun	𒁽𒀀
 @v	gan₃
 @v	gana₃
-@link eBL |DU@s.A| https://www.ebl.lmu.de/signs/|DU@s.A|
+@link	eBL |DU@s.A| https://www.ebl.lmu.de/signs/|DU@s.A|
 @end sign
 
 @sign |DU@s.DU@s|
@@ -7505,7 +7427,7 @@
 @v	subₓ
 @v	sugₓ
 @v	šuₓ
-@link eBL |DU@s.DU@s| https://www.ebl.lmu.de/signs/|DU@s.DU@s|
+@link	eBL |DU@s.DU@s| https://www.ebl.lmu.de/signs/|DU@s.DU@s|
 @form |DU@s&DU@s|
 @oid	o0022944
 @inote	dcclt !sg
@@ -7574,8 +7496,8 @@
 @v	urud₂
 @v	urudu₂
 @v	zamug
-@link eBL DUB https://www.ebl.lmu.de/signs/DUB
-@link Wikidata Q87555250 http://www.wikidata.org/entity/Q87555250
+@link	eBL DUB https://www.ebl.lmu.de/signs/DUB
+@link	Wikidata Q87555250 http://www.wikidata.org/entity/Q87555250
 @end sign
 
 @sign |DUB.NAGAR|
@@ -7586,7 +7508,7 @@
 @v	tabira
 @v	tebiru
 @v	tibira
-@link eBL |DUB.NAGAR| https://www.ebl.lmu.de/signs/|DUB.NAGAR|
+@link	eBL |DUB.NAGAR| https://www.ebl.lmu.de/signs/|DUB.NAGAR|
 @form |NAGAR.DUB|
 @oid	o0031491
 @inote	[DUB] restored so possibly |NAGAR.URUDA|
@@ -7610,7 +7532,7 @@
 @inote	DCCLT
 @useq	x1207E.x122FE
 @ucun	𒁾𒋾
-@link eBL |DUB.TI| https://www.ebl.lmu.de/signs/|DUB.TI|
+@link	eBL |DUB.TI| https://www.ebl.lmu.de/signs/|DUB.TI|
 @end sign
 
 @sign- |DUB×EŠ₂|
@@ -7620,7 +7542,7 @@
 @list	U+1207F
 @ucun	𒁿
 @uage	5.0
-@link Wikidata Q87555252 http://www.wikidata.org/entity/Q87555252
+@link	Wikidata Q87555252 http://www.wikidata.org/entity/Q87555252
 @end sign
 
 @sign |DUB×(GA.A)|
@@ -7633,7 +7555,7 @@
 @oid	o0001000
 @inote	dcclt/signlists
 @v	samagₓ
-@link eBL |DUB×LAGAB| https://www.ebl.lmu.de/signs/|DUB×LAGAB|
+@link	eBL |DUB×LAGAB| https://www.ebl.lmu.de/signs/|DUB×LAGAB|
 @form |DUB.LAGAB|
 @oid	o0022946
 @inote	dcclt !sg
@@ -7682,15 +7604,15 @@
 @v	tunₓ
 @v	tup₂
 @v	ṭub₂
-@link eBL DUB₂ https://www.ebl.lmu.de/signs/DUB₂
-@link Wikidata Q87555253 http://www.wikidata.org/entity/Q87555253
+@link	eBL DUB₂ https://www.ebl.lmu.de/signs/DUB₂
+@link	Wikidata Q87555253 http://www.wikidata.org/entity/Q87555253
 @end sign
 
 @sign |DUB₂.LUL|
 @oid	o0001001
 @useq	x12080.x1221C
 @ucun	𒂀𒈜
-@link eBL |DUB₂.LUL| https://www.ebl.lmu.de/signs/|DUB₂.LUL|
+@link	eBL |DUB₂.LUL| https://www.ebl.lmu.de/signs/|DUB₂.LUL|
 @end sign
 
 @sign DUG
@@ -7749,8 +7671,8 @@
 @v	urṣub
 @v	urzub
 @v	zurzub
-@link eBL DUG https://www.ebl.lmu.de/signs/DUG
-@link Wikidata Q87555255 http://www.wikidata.org/entity/Q87555255
+@link	eBL DUG https://www.ebl.lmu.de/signs/DUG
+@link	Wikidata Q87555255 http://www.wikidata.org/entity/Q87555255
 @end sign
 
 @sign |DUG.BUR|
@@ -7758,7 +7680,7 @@
 @useq	x12081.x12053
 @ucun	𒂁𒁓
 @v	baharₓ
-@link eBL |DUG.BUR| https://www.ebl.lmu.de/signs/|DUG.BUR|
+@link	eBL |DUG.BUR| https://www.ebl.lmu.de/signs/|DUG.BUR|
 @end sign
 
 @sign |DUG.DUG|
@@ -7766,7 +7688,7 @@
 @useq	x12081.x12081
 @ucun	𒂁𒂁
 @v	lumₓ
-@link eBL |DUG.DUG| https://www.ebl.lmu.de/signs/|DUG.DUG|
+@link	eBL |DUG.DUG| https://www.ebl.lmu.de/signs/|DUG.DUG|
 @end sign
 
 @sign |DUG.PAP.BUR|
@@ -7782,7 +7704,7 @@
 @useq	x12081.x122E1.x12053.x1223E
 @ucun	𒂁𒋡𒁓𒈾
 @v	bahar₅
-@link eBL |DUG.SILA₃.BUR.NA| https://www.ebl.lmu.de/signs/|DUG.SILA₃.BUR.NA|
+@link	eBL |DUG.SILA₃.BUR.NA| https://www.ebl.lmu.de/signs/|DUG.SILA₃.BUR.NA|
 @end sign
 
 @sign |DUG×ANŠE|
@@ -7792,8 +7714,8 @@
 @list	U+1248D
 @ucun	𒒍
 @uage	8.0
-@link eBL |DUG×ANŠE| https://www.ebl.lmu.de/signs/|DUG×ANŠE|
-@link Wikidata Q87557118 http://www.wikidata.org/entity/Q87557118
+@link	eBL |DUG×ANŠE| https://www.ebl.lmu.de/signs/|DUG×ANŠE|
+@link	Wikidata Q87557118 http://www.wikidata.org/entity/Q87557118
 @end sign
 
 @sign |DUG×AŠ|
@@ -7803,8 +7725,8 @@
 @list	U+1248E
 @ucun	𒒎
 @uage	8.0
-@link eBL |DUG×AŠ| https://www.ebl.lmu.de/signs/|DUG×AŠ|
-@link Wikidata Q87557120 http://www.wikidata.org/entity/Q87557120
+@link	eBL |DUG×AŠ| https://www.ebl.lmu.de/signs/|DUG×AŠ|
+@link	Wikidata Q87557120 http://www.wikidata.org/entity/Q87557120
 @end sign
 
 @sign |DUG×AŠ@f|
@@ -7814,8 +7736,8 @@
 @list	U+1248F
 @ucun	𒒏
 @uage	8.0
-@link eBL |DUG×AŠ@f| https://www.ebl.lmu.de/signs/|DUG×AŠ@f|
-@link Wikidata Q87557122 http://www.wikidata.org/entity/Q87557122
+@link	eBL |DUG×AŠ@f| https://www.ebl.lmu.de/signs/|DUG×AŠ@f|
+@link	Wikidata Q87557122 http://www.wikidata.org/entity/Q87557122
 @end sign
 
 @sign |DUG×DIN|
@@ -7825,8 +7747,8 @@
 @list	U+12490
 @ucun	𒒐
 @uage	8.0
-@link eBL |DUG×DIN| https://www.ebl.lmu.de/signs/|DUG×DIN|
-@link Wikidata Q87557123 http://www.wikidata.org/entity/Q87557123
+@link	eBL |DUG×DIN| https://www.ebl.lmu.de/signs/|DUG×DIN|
+@link	Wikidata Q87557123 http://www.wikidata.org/entity/Q87557123
 @end sign
 
 @sign |DUG×DUB|
@@ -7841,8 +7763,8 @@
 @list	U+12491
 @ucun	𒒑
 @uage	8.0
-@link eBL |DUG×DUN| https://www.ebl.lmu.de/signs/|DUG×DUN|
-@link Wikidata Q87557125 http://www.wikidata.org/entity/Q87557125
+@link	eBL |DUG×DUN| https://www.ebl.lmu.de/signs/|DUG×DUN|
+@link	Wikidata Q87557125 http://www.wikidata.org/entity/Q87557125
 @end sign
 
 @sign |DUG×ERIN₂|
@@ -7852,8 +7774,8 @@
 @list	U+12492
 @ucun	𒒒
 @uage	8.0
-@link eBL |DUG×ERIN₂| https://www.ebl.lmu.de/signs/|DUG×ERIN₂|
-@link Wikidata Q87557127 http://www.wikidata.org/entity/Q87557127
+@link	eBL |DUG×ERIN₂| https://www.ebl.lmu.de/signs/|DUG×ERIN₂|
+@link	Wikidata Q87557127 http://www.wikidata.org/entity/Q87557127
 @end sign
 
 @sign |DUG×GA|
@@ -7863,8 +7785,8 @@
 @list	U+12493
 @ucun	𒒓
 @uage	8.0
-@link eBL |DUG×GA| https://www.ebl.lmu.de/signs/|DUG×GA|
-@link Wikidata Q87557128 http://www.wikidata.org/entity/Q87557128
+@link	eBL |DUG×GA| https://www.ebl.lmu.de/signs/|DUG×GA|
+@link	Wikidata Q87557128 http://www.wikidata.org/entity/Q87557128
 @end sign
 
 @sign |DUG×GI|
@@ -7874,8 +7796,8 @@
 @list	U+12494
 @ucun	𒒔
 @uage	8.0
-@link eBL |DUG×GI| https://www.ebl.lmu.de/signs/|DUG×GI|
-@link Wikidata Q87557129 http://www.wikidata.org/entity/Q87557129
+@link	eBL |DUG×GI| https://www.ebl.lmu.de/signs/|DUG×GI|
+@link	Wikidata Q87557129 http://www.wikidata.org/entity/Q87557129
 @end sign
 
 @sign |DUG×GIR₂@g|
@@ -7885,8 +7807,8 @@
 @list	U+12495
 @ucun	𒒕
 @uage	8.0
-@link eBL |DUG×GIR₂@g| https://www.ebl.lmu.de/signs/|DUG×GIR₂@g|
-@link Wikidata Q87557130 http://www.wikidata.org/entity/Q87557130
+@link	eBL |DUG×GIR₂@g| https://www.ebl.lmu.de/signs/|DUG×GIR₂@g|
+@link	Wikidata Q87557130 http://www.wikidata.org/entity/Q87557130
 @end sign
 
 @sign |DUG×GIŠ|
@@ -7897,8 +7819,8 @@
 @list	U+12496
 @ucun	𒒖
 @uage	8.0
-@link eBL |DUG×GIŠ| https://www.ebl.lmu.de/signs/|DUG×GIŠ|
-@link Wikidata Q87557131 http://www.wikidata.org/entity/Q87557131
+@link	eBL |DUG×GIŠ| https://www.ebl.lmu.de/signs/|DUG×GIŠ|
+@link	Wikidata Q87557131 http://www.wikidata.org/entity/Q87557131
 @end sign
 
 @sign |DUG×HA|
@@ -7908,8 +7830,8 @@
 @list	U+12497
 @ucun	𒒗
 @uage	8.0
-@link eBL |DUG×HA| https://www.ebl.lmu.de/signs/|DUG×HA|
-@link Wikidata Q87557132 http://www.wikidata.org/entity/Q87557132
+@link	eBL |DUG×HA| https://www.ebl.lmu.de/signs/|DUG×HA|
+@link	Wikidata Q87557132 http://www.wikidata.org/entity/Q87557132
 @end sign
 
 @sign |DUG×HI|
@@ -7920,8 +7842,8 @@
 @list	U+12498
 @ucun	𒒘
 @uage	8.0
-@link eBL |DUG×HI| https://www.ebl.lmu.de/signs/|DUG×HI|
-@link Wikidata Q87557134 http://www.wikidata.org/entity/Q87557134
+@link	eBL |DUG×HI| https://www.ebl.lmu.de/signs/|DUG×HI|
+@link	Wikidata Q87557134 http://www.wikidata.org/entity/Q87557134
 @end sign
 
 @sign |DUG×KASKAL|
@@ -7931,8 +7853,8 @@
 @list	U+1249A
 @ucun	𒒚
 @uage	8.0
-@link eBL |DUG×KASKAL| https://www.ebl.lmu.de/signs/|DUG×KASKAL|
-@link Wikidata Q87557137 http://www.wikidata.org/entity/Q87557137
+@link	eBL |DUG×KASKAL| https://www.ebl.lmu.de/signs/|DUG×KASKAL|
+@link	Wikidata Q87557137 http://www.wikidata.org/entity/Q87557137
 @end sign
 
 @sign |DUG×KUR|
@@ -7942,8 +7864,8 @@
 @list	U+1249B
 @ucun	𒒛
 @uage	8.0
-@link eBL |DUG×KUR| https://www.ebl.lmu.de/signs/|DUG×KUR|
-@link Wikidata Q87557139 http://www.wikidata.org/entity/Q87557139
+@link	eBL |DUG×KUR| https://www.ebl.lmu.de/signs/|DUG×KUR|
+@link	Wikidata Q87557139 http://www.wikidata.org/entity/Q87557139
 @end sign
 
 @sign |DUG×KUŠU₂|
@@ -7953,8 +7875,8 @@
 @list	U+1249C
 @ucun	𒒜
 @uage	8.0
-@link eBL |DUG×KUŠU₂| https://www.ebl.lmu.de/signs/|DUG×KUŠU₂|
-@link Wikidata Q87557142 http://www.wikidata.org/entity/Q87557142
+@link	eBL |DUG×KUŠU₂| https://www.ebl.lmu.de/signs/|DUG×KUŠU₂|
+@link	Wikidata Q87557142 http://www.wikidata.org/entity/Q87557142
 @end sign
 
 @sign |DUG×(KUŠU₂.KASKAL)|
@@ -7964,8 +7886,8 @@
 @list	U+1249D
 @ucun	𒒝
 @uage	8.0
-@link eBL |DUG×(KUŠU₂.KASKAL)| https://www.ebl.lmu.de/signs/|DUG×(KUŠU₂.KASKAL)|
-@link Wikidata Q87557143 http://www.wikidata.org/entity/Q87557143
+@link	eBL |DUG×(KUŠU₂.KASKAL)| https://www.ebl.lmu.de/signs/|DUG×(KUŠU₂.KASKAL)|
+@link	Wikidata Q87557143 http://www.wikidata.org/entity/Q87557143
 @end sign
 
 @sign |DUG×LAK20|
@@ -7975,8 +7897,8 @@
 @list	U+1249E
 @ucun	𒒞
 @uage	8.0
-@link eBL |DUG×LAK20| https://www.ebl.lmu.de/signs/|DUG×LAK20|
-@link Wikidata Q87557145 http://www.wikidata.org/entity/Q87557145
+@link	eBL |DUG×LAK20| https://www.ebl.lmu.de/signs/|DUG×LAK20|
+@link	Wikidata Q87557145 http://www.wikidata.org/entity/Q87557145
 @end sign
 
 @sign |DUG×LAM|
@@ -7986,8 +7908,8 @@
 @list	U+1249F
 @ucun	𒒟
 @uage	8.0
-@link eBL |DUG×LAM| https://www.ebl.lmu.de/signs/|DUG×LAM|
-@link Wikidata Q87557147 http://www.wikidata.org/entity/Q87557147
+@link	eBL |DUG×LAM| https://www.ebl.lmu.de/signs/|DUG×LAM|
+@link	Wikidata Q87557147 http://www.wikidata.org/entity/Q87557147
 @end sign
 
 @sign |DUG×(LAM×KUR)|
@@ -7997,8 +7919,8 @@
 @list	U+124A0
 @ucun	𒒠
 @uage	8.0
-@link eBL |DUG×(LAM×KUR)| https://www.ebl.lmu.de/signs/|DUG×(LAM×KUR)|
-@link Wikidata Q87557149 http://www.wikidata.org/entity/Q87557149
+@link	eBL |DUG×(LAM×KUR)| https://www.ebl.lmu.de/signs/|DUG×(LAM×KUR)|
+@link	Wikidata Q87557149 http://www.wikidata.org/entity/Q87557149
 @end sign
 
 @sign |DUG×LUH|
@@ -8013,8 +7935,8 @@
 @list	U+124A1
 @ucun	𒒡
 @uage	8.0
-@link eBL |DUG×(LUH.GIŠ)| https://www.ebl.lmu.de/signs/|DUG×(LUH.GIŠ)|
-@link Wikidata Q87557150 http://www.wikidata.org/entity/Q87557150
+@link	eBL |DUG×(LUH.GIŠ)| https://www.ebl.lmu.de/signs/|DUG×(LUH.GIŠ)|
+@link	Wikidata Q87557150 http://www.wikidata.org/entity/Q87557150
 @end sign
 
 @sign |DUG×MAŠ|
@@ -8024,8 +7946,8 @@
 @list	U+124A2
 @ucun	𒒢
 @uage	8.0
-@link eBL |DUG×MAŠ| https://www.ebl.lmu.de/signs/|DUG×MAŠ|
-@link Wikidata Q87557152 http://www.wikidata.org/entity/Q87557152
+@link	eBL |DUG×MAŠ| https://www.ebl.lmu.de/signs/|DUG×MAŠ|
+@link	Wikidata Q87557152 http://www.wikidata.org/entity/Q87557152
 @end sign
 
 @sign |DUG×MES|
@@ -8035,8 +7957,8 @@
 @list	U+124A3
 @ucun	𒒣
 @uage	8.0
-@link eBL |DUG×MES| https://www.ebl.lmu.de/signs/|DUG×MES|
-@link Wikidata Q87557154 http://www.wikidata.org/entity/Q87557154
+@link	eBL |DUG×MES| https://www.ebl.lmu.de/signs/|DUG×MES|
+@link	Wikidata Q87557154 http://www.wikidata.org/entity/Q87557154
 @end sign
 
 @sign |DUG×MI|
@@ -8046,8 +7968,8 @@
 @list	U+124A4
 @ucun	𒒤
 @uage	8.0
-@link eBL |DUG×MI| https://www.ebl.lmu.de/signs/|DUG×MI|
-@link Wikidata Q87557155 http://www.wikidata.org/entity/Q87557155
+@link	eBL |DUG×MI| https://www.ebl.lmu.de/signs/|DUG×MI|
+@link	Wikidata Q87557155 http://www.wikidata.org/entity/Q87557155
 @end sign
 
 @sign |DUG×NI|
@@ -8062,8 +7984,8 @@
 @v	šugurₓ
 @note	Q000027 l. 7
 @v	šukurₓ
-@link eBL |DUG×NI| https://www.ebl.lmu.de/signs/|DUG×NI|
-@link Wikidata Q87557158 http://www.wikidata.org/entity/Q87557158
+@link	eBL |DUG×NI| https://www.ebl.lmu.de/signs/|DUG×NI|
+@link	Wikidata Q87557158 http://www.wikidata.org/entity/Q87557158
 @end sign
 
 @sign |DUG×PI|
@@ -8073,8 +7995,8 @@
 @list	U+124A6
 @ucun	𒒦
 @uage	8.0
-@link eBL |DUG×PI| https://www.ebl.lmu.de/signs/|DUG×PI|
-@link Wikidata Q87557160 http://www.wikidata.org/entity/Q87557160
+@link	eBL |DUG×PI| https://www.ebl.lmu.de/signs/|DUG×PI|
+@link	Wikidata Q87557160 http://www.wikidata.org/entity/Q87557160
 @end sign
 
 @sign |DUG×SI@g|
@@ -8084,8 +8006,8 @@
 @list	U+124A8
 @ucun	𒒨
 @uage	8.0
-@link eBL |DUG×SI@g| https://www.ebl.lmu.de/signs/|DUG×SI@g|
-@link Wikidata Q87557164 http://www.wikidata.org/entity/Q87557164
+@link	eBL |DUG×SI@g| https://www.ebl.lmu.de/signs/|DUG×SI@g|
+@link	Wikidata Q87557164 http://www.wikidata.org/entity/Q87557164
 @end sign
 
 @sign |DUG×ŠE|
@@ -8095,8 +8017,8 @@
 @list	U+124A7
 @ucun	𒒧
 @uage	8.0
-@link eBL |DUG×ŠE| https://www.ebl.lmu.de/signs/|DUG×ŠE|
-@link Wikidata Q87557162 http://www.wikidata.org/entity/Q87557162
+@link	eBL |DUG×ŠE| https://www.ebl.lmu.de/signs/|DUG×ŠE|
+@link	Wikidata Q87557162 http://www.wikidata.org/entity/Q87557162
 @end sign
 
 @sign |DUG×ŠUBUR|
@@ -8128,8 +8050,8 @@
 @v	kaptu
 @v	muruₓ
 @v	qaptu
-@link eBL DUGUD https://www.ebl.lmu.de/signs/DUGUD
-@link Wikidata Q87555257 http://www.wikidata.org/entity/Q87555257
+@link	eBL DUGUD https://www.ebl.lmu.de/signs/DUGUD
+@link	Wikidata Q87555257 http://www.wikidata.org/entity/Q87555257
 @end sign
 
 @sign DUH
@@ -8151,8 +8073,8 @@
 @v	du₈
 @v	duh
 @v	tuh
-@link eBL DUH https://www.ebl.lmu.de/signs/DUH
-@link Wikidata Q87555258 http://www.wikidata.org/entity/Q87555258
+@link	eBL DUH https://www.ebl.lmu.de/signs/DUH
+@link	Wikidata Q87555258 http://www.wikidata.org/entity/Q87555258
 @end sign
 
 @sign DUH@g
@@ -8193,8 +8115,8 @@
 @v	zehₓ
 @v	zu₇
 @sys	Attinger šaha₂ => šah₂
-@link eBL DUN https://www.ebl.lmu.de/signs/DUN
-@link Wikidata Q87555260 http://www.wikidata.org/entity/Q87555260
+@link	eBL DUN https://www.ebl.lmu.de/signs/DUN
+@link	Wikidata Q87555260 http://www.wikidata.org/entity/Q87555260
 @end sign
 
 @sign |DUN.GI|
@@ -8209,7 +8131,7 @@
 @useq	x12084.x12248.x12309
 @ucun	𒂄𒉈𒌉
 @v	zahdaₓ
-@link eBL |DUN.NE.TUR| https://www.ebl.lmu.de/signs/|DUN.NE.TUR|
+@link	eBL |DUN.NE.TUR| https://www.ebl.lmu.de/signs/|DUN.NE.TUR|
 @end sign
 
 @sign |DUN.TUR|
@@ -8217,13 +8139,13 @@
 @useq	x12084.x12309
 @ucun	𒂄𒌉
 @v	zahdaₓ
-@link eBL |DUN.TUR| https://www.ebl.lmu.de/signs/|DUN.TUR|
+@link	eBL |DUN.TUR| https://www.ebl.lmu.de/signs/|DUN.TUR|
 @end sign
 
 @sign DUN@g
 @oid	o0000159
 @v	nirₓ
-@link eBL DUN@g https://www.ebl.lmu.de/signs/DUN@g
+@link	eBL DUN@g https://www.ebl.lmu.de/signs/DUN@g
 @end sign
 
 @sign DUN₃
@@ -8254,8 +8176,8 @@
 @v	tun₃
 @v	tuna₃
 @v	ṭu
-@link eBL DUN₃ https://www.ebl.lmu.de/signs/DUN₃
-@link Wikidata Q87555262 http://www.wikidata.org/entity/Q87555262
+@link	eBL DUN₃ https://www.ebl.lmu.de/signs/DUN₃
+@link	Wikidata Q87555262 http://www.wikidata.org/entity/Q87555262
 @form DUN₃@g
 @oid	o0000161
 @list	BAU339
@@ -8270,7 +8192,7 @@
 @sys	Attinger du₅⁺ => du₅
 @sys	Attinger dun₃⁺ => dun₃
 @sys	Attinger tun₃⁺ => tun₃
-@link eBL DUN₃@g https://www.ebl.lmu.de/signs/DUN₃@g
+@link	eBL DUN₃@g https://www.ebl.lmu.de/signs/DUN₃@g
 @@
 @form LAK786
 @oid	o0025786
@@ -8278,38 +8200,6 @@
 @list	LAK786
 @inote	LAK sign form looks like LAGAB×LAL; LAK786 s.v. suggests equivalence to DUN₃ with a query.
 @inote	I haven't collated all ELLES325 but cp MEE 3 53 vi 6, clear on photo MEE 3/A pl. XXVIII, and certainly DUN₃
-@@
-@end sign
-
-@sign DUN₄
-@oid	o0000164
-@list	ABZL220
-@list	BAU156
-@list	GCSL312
-@list	HZL088
-@list	KWU185
-@list	MZL557
-@list	SLLHA348
-@uname	CUNEIFORM SIGN DUN4
-@list	U+12088
-@ucun	𒂈
-@uage	5.0
-@v	dul₄
-@v	dun₄
-@v	migir₂
-@v	nigir₂
-@v	niŋir₂
-@v	nimgir₂
-@v	šudul₄
-@v	šudun₄
-@v	šutul₄
-@v	šutun₄
-@v	tul₆
-@link eBL DUN₄ https://www.ebl.lmu.de/signs/DUN₄
-@link Wikidata Q87555267 http://www.wikidata.org/entity/Q87555267
-@form |DUN₃@g×(MU.KAK)|
-@oid	o0023036
-@inote	dcclt !sg
 @@
 @end sign
 
@@ -8340,8 +8230,8 @@
 @v	gin₂
 @v	gina₂
 @v	puš₄
-@link eBL DUN₃@g https://www.ebl.lmu.de/signs/DUN₃@g
-@link Wikidata Q87555264 http://www.wikidata.org/entity/Q87555264
+@link	eBL DUN₃@g https://www.ebl.lmu.de/signs/DUN₃@g
+@link	Wikidata Q87555264 http://www.wikidata.org/entity/Q87555264
 @end sign
 
 @sign |DUN₃@g.UŠ|
@@ -8350,7 +8240,7 @@
 @ucun	𒂆𒍑
 @v	aga-us₂
 @v	uku-uš
-@link eBL |DUN₃@g.UŠ| https://www.ebl.lmu.de/signs/|DUN₃@g.UŠ|
+@link	eBL |DUN₃@g.UŠ| https://www.ebl.lmu.de/signs/|DUN₃@g.UŠ|
 @end sign
 
 @sign DUN₃@g@g
@@ -8384,8 +8274,8 @@
 @v	ten₃
 @v	tin₃
 @v	uku
-@link eBL DUN₃@g@g https://www.ebl.lmu.de/signs/DUN₃@g@g
-@link Wikidata Q87555265 http://www.wikidata.org/entity/Q87555265
+@link	eBL DUN₃@g@g https://www.ebl.lmu.de/signs/DUN₃@g@g
+@link	Wikidata Q87555265 http://www.wikidata.org/entity/Q87555265
 @end sign
 
 @sign |DUN₃@g@g.UŠ|
@@ -8393,7 +8283,7 @@
 @useq	x12087.x12351
 @ucun	𒂇𒍑
 @v	ukuš
-@link eBL |DUN₃@g@g.UŠ| https://www.ebl.lmu.de/signs/|DUN₃@g@g.UŠ|
+@link	eBL |DUN₃@g@g.UŠ| https://www.ebl.lmu.de/signs/|DUN₃@g@g.UŠ|
 @end sign
 
 @sign |DUN₃@g@g.ZA|
@@ -8401,7 +8291,7 @@
 @useq	x12087.x1235D
 @ucun	𒂇𒍝
 @v	nirₓ
-@link eBL |DUN₃@g@g.ZA| https://www.ebl.lmu.de/signs/|DUN₃@g@g.ZA|
+@link	eBL |DUN₃@g@g.ZA| https://www.ebl.lmu.de/signs/|DUN₃@g@g.ZA|
 @end sign
 
 @sign |DUN₃@g@g×UŠ|
@@ -8413,6 +8303,38 @@
 @oid	o0000163
 @inote	this is encoded as DUN₄
 @note	in |ŠU₂.DUN₃@g@g@s|
+@end sign
+
+@sign DUN₄
+@oid	o0000164
+@list	ABZL220
+@list	BAU156
+@list	GCSL312
+@list	HZL088
+@list	KWU185
+@list	MZL557
+@list	SLLHA348
+@uname	CUNEIFORM SIGN DUN4
+@list	U+12088
+@ucun	𒂈
+@uage	5.0
+@v	dul₄
+@v	dun₄
+@v	migir₂
+@v	nigir₂
+@v	niŋir₂
+@v	nimgir₂
+@v	šudul₄
+@v	šudun₄
+@v	šutul₄
+@v	šutun₄
+@v	tul₆
+@link	eBL DUN₄ https://www.ebl.lmu.de/signs/DUN₄
+@link	Wikidata Q87555267 http://www.wikidata.org/entity/Q87555267
+@form |DUN₃@g×(MU.KAK)|
+@oid	o0023036
+@inote	dcclt !sg
+@@
 @end sign
 
 @sign DUR₂
@@ -8431,8 +8353,8 @@
 @v	duruna
 @v	tur₇
 @v	ṭur₂
-@link eBL DUR₂ https://www.ebl.lmu.de/signs/DUR₂
-@link Wikidata Q87555269 http://www.wikidata.org/entity/Q87555269
+@link	eBL DUR₂ https://www.ebl.lmu.de/signs/DUR₂
+@link	Wikidata Q87555269 http://www.wikidata.org/entity/Q87555269
 @form |LAGAB×1(N01)|
 @oid	o0027185
 @list	BAU268
@@ -8448,7 +8370,7 @@
 @ucun	𒂉𒂉
 @v	durunₓ
 @inote	Fara form of "KU.KU" in admin/ed3a
-@link eBL |DUR₂.DUR₂| https://www.ebl.lmu.de/signs/|DUR₂.DUR₂|
+@link	eBL |DUR₂.DUR₂| https://www.ebl.lmu.de/signs/|DUR₂.DUR₂|
 @form |DUR₂&DUR₂|
 @oid	o0027705
 @inote	Stack is club-sandwich style, with three horizontals, the middle one shared
@@ -8481,8 +8403,8 @@
 @v	paₓ
 @v	šuruₓ
 @v	yi₃
-@link eBL E https://www.ebl.lmu.de/signs/E
-@link Wikidata Q87555271 http://www.wikidata.org/entity/Q87555271
+@link	eBL E https://www.ebl.lmu.de/signs/E
+@link	Wikidata Q87555271 http://www.wikidata.org/entity/Q87555271
 @end sign
 
 @sign |E.KISIM₅×X|
@@ -8506,7 +8428,7 @@
 @ucun	𒂊𒋤𒄽
 @v	kuru
 @v	šuruₓ
-@link eBL |E.SUD.HUB₂×UD| https://www.ebl.lmu.de/signs/|E.SUD.HUB₂×UD|
+@link	eBL |E.SUD.HUB₂×UD| https://www.ebl.lmu.de/signs/|E.SUD.HUB₂×UD|
 @end sign
 
 @sign |E.TUM|
@@ -8519,7 +8441,7 @@
 @v	kuru₁₄
 @v	kurul₁₄
 @v	šuruₓ
-@link eBL |E.TUM| https://www.ebl.lmu.de/signs/|E.TUM|
+@link	eBL |E.TUM| https://www.ebl.lmu.de/signs/|E.TUM|
 @end sign
 
 @sign |E.TUM.GA₂×(NUN&NUN)|
@@ -8540,8 +8462,8 @@
 @ucun	𒂋
 @uage	5.0
 @v	paₓ
-@link eBL |E×PAP| https://www.ebl.lmu.de/signs/|E×PAP|
-@link Wikidata Q87555273 http://www.wikidata.org/entity/Q87555273
+@link	eBL |E×PAP| https://www.ebl.lmu.de/signs/|E×PAP|
+@link	Wikidata Q87555273 http://www.wikidata.org/entity/Q87555273
 @end sign
 
 @compoundonly	|E&E|
@@ -8554,8 +8476,8 @@
 @ucun	𒂌
 @uage	5.0
 @v	hilibu
-@link eBL |E&E.NUN&NUN| https://www.ebl.lmu.de/signs/|E&E.NUN&NUN|
-@link Wikidata Q87555274 http://www.wikidata.org/entity/Q87555274
+@link	eBL |E&E.NUN&NUN| https://www.ebl.lmu.de/signs/|E&E.NUN&NUN|
+@link	Wikidata Q87555274 http://www.wikidata.org/entity/Q87555274
 @end sign
 
 @sign E₂
@@ -8597,8 +8519,8 @@
 @v	pid
 @v	pit
 @v	piṭ
-@link eBL E₂ https://www.ebl.lmu.de/signs/E₂
-@link Wikidata Q87555276 http://www.wikidata.org/entity/Q87555276
+@link	eBL E₂ https://www.ebl.lmu.de/signs/E₂
+@link	Wikidata Q87555276 http://www.wikidata.org/entity/Q87555276
 @end sign
 
 @sign |E₂.A|
@@ -8608,7 +8530,7 @@
 @v	eʾi
 @v	eʾu
 @v	eduruₓ
-@link eBL |E₂.A| https://www.ebl.lmu.de/signs/|E₂.A|
+@link	eBL |E₂.A| https://www.ebl.lmu.de/signs/|E₂.A|
 @end sign
 
 @sign |E₂.AN.ŠE.NAGA|
@@ -8616,7 +8538,7 @@
 @useq	x1208D.x1202D.x122BA.x12240
 @ucun	𒂍𒀭𒊺𒉀
 @v	xingaraₓ
-@link eBL |E₂.AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|E₂.AN.ŠE.NAGA|
+@link	eBL |E₂.AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|E₂.AN.ŠE.NAGA|
 @end sign
 
 @sign |E₂.BAR|
@@ -8625,7 +8547,7 @@
 @ucun	𒂍𒁇
 @v	saŋŋaₓ
 @note	Artificial first millennium value based on the logogram E₂.BAR for Akkadian šangû.
-@link eBL |E₂.BAR| https://www.ebl.lmu.de/signs/|E₂.BAR|
+@link	eBL |E₂.BAR| https://www.ebl.lmu.de/signs/|E₂.BAR|
 @end sign
 
 @sign |E₂.GIŠ.TUG₂.PI.AN.ŠE.NAGA|
@@ -8633,7 +8555,7 @@
 @useq	x1208D.x12111.x12306.x1227F.x1202D.x122BA.x12240
 @ucun	𒂍𒄑𒌆𒉿𒀭𒊺𒉀
 @v	xingaraₓ
-@link eBL |E₂.GIŠ.TUG₂.PI.AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|E₂.GIŠ.TUG₂.PI.AN.ŠE.NAGA|
+@link	eBL |E₂.GIŠ.TUG₂.PI.AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|E₂.GIŠ.TUG₂.PI.AN.ŠE.NAGA|
 @end sign
 
 @sign |E₂.KI.SUM.GA|
@@ -8642,7 +8564,7 @@
 @ucun	𒂍𒆠𒋧𒂵
 @v	eurre
 @v	xlaₓ
-@link eBL |E₂.KI.SUM.GA| https://www.ebl.lmu.de/signs/|E₂.KI.SUM.GA|
+@link	eBL |E₂.KI.SUM.GA| https://www.ebl.lmu.de/signs/|E₂.KI.SUM.GA|
 @end sign
 
 @sign |E₂.KUR.BAD|
@@ -8651,7 +8573,7 @@
 @ucun	𒂍𒆳𒁁
 @v	arala
 @v	arali
-@link eBL |E₂.KUR.BAD| https://www.ebl.lmu.de/signs/|E₂.KUR.BAD|
+@link	eBL |E₂.KUR.BAD| https://www.ebl.lmu.de/signs/|E₂.KUR.BAD|
 @form |KUR.BAD|
 @oid	o0001757
 @useq	x121B3.x12041
@@ -8664,7 +8586,7 @@
 @useq	x1208D.x12202.x12000
 @ucun	𒂍𒈂𒀀
 @v	xennuₓ
-@link eBL |E₂.LU₂×GAN₂@t.A| https://www.ebl.lmu.de/signs/|E₂.LU₂×GAN₂@t.A|
+@link	eBL |E₂.LU₂×GAN₂@t.A| https://www.ebl.lmu.de/signs/|E₂.LU₂×GAN₂@t.A|
 @end sign
 
 @sign |E₂.MI|
@@ -8672,7 +8594,7 @@
 @useq	x1208D.x1222A
 @ucun	𒂍𒈪
 @v	itimaₓ
-@link eBL |E₂.MI| https://www.ebl.lmu.de/signs/|E₂.MI|
+@link	eBL |E₂.MI| https://www.ebl.lmu.de/signs/|E₂.MI|
 @end sign
 
 @sign |E₂.NUN|
@@ -8683,7 +8605,7 @@
 @v	agrun
 @v	agrunaₓ
 @v	e₂-gar₆
-@link eBL |E₂.NUN| https://www.ebl.lmu.de/signs/|E₂.NUN|
+@link	eBL |E₂.NUN| https://www.ebl.lmu.de/signs/|E₂.NUN|
 @form |KID.NUN|
 @oid	o0031768
 @useq	x121A4.x12263
@@ -8697,7 +8619,7 @@
 @ucun	𒂍𒊩
 @v	amaₓ
 @v	ameₓ
-@link eBL |E₂.SAL| https://www.ebl.lmu.de/signs/|E₂.SAL|
+@link	eBL |E₂.SAL| https://www.ebl.lmu.de/signs/|E₂.SAL|
 @end sign
 
 @sign |E₂.SIG₄|
@@ -8710,7 +8632,7 @@
 @v	igar
 @v	ingar
 @sys	Attinger eŋar => egar
-@link eBL |E₂.SIG₄| https://www.ebl.lmu.de/signs/|E₂.SIG₄|
+@link	eBL |E₂.SIG₄| https://www.ebl.lmu.de/signs/|E₂.SIG₄|
 @end sign
 
 @sign |E₂.ŠA₃|
@@ -8729,7 +8651,7 @@
 @v	esagₓ
 @v	esaŋₓ
 @sys	Attinger asaŋ => esaŋₓ
-@link eBL |E₂.ŠE| https://www.ebl.lmu.de/signs/|E₂.ŠE|
+@link	eBL |E₂.ŠE| https://www.ebl.lmu.de/signs/|E₂.ŠE|
 @end sign
 
 @sign |E₂.UŠ.BU.DA|
@@ -8739,7 +8661,7 @@
 @v	arah₄
 @v	araha
 @v	ašlug
-@link eBL |E₂.UŠ.BU.DA| https://www.ebl.lmu.de/signs/|E₂.UŠ.BU.DA|
+@link	eBL |E₂.UŠ.BU.DA| https://www.ebl.lmu.de/signs/|E₂.UŠ.BU.DA|
 @end sign
 
 @sign |E₂×(A.HA.DA)|
@@ -8750,8 +8672,8 @@
 @ucun	𒂎
 @uage	5.0
 @v	edakuaₓ
-@link eBL |E₂×(A.HA.DA)| https://www.ebl.lmu.de/signs/|E₂×(A.HA.DA)|
-@link Wikidata Q87555278 http://www.wikidata.org/entity/Q87555278
+@link	eBL |E₂×(A.HA.DA)| https://www.ebl.lmu.de/signs/|E₂×(A.HA.DA)|
+@link	Wikidata Q87555278 http://www.wikidata.org/entity/Q87555278
 @end sign
 
 @compoundonly	|E₂×AN|
@@ -8772,7 +8694,12 @@
 @v	baragₓ?
 @v	dagₓ?
 @v	gidaₓ?
-@link eBL |E₂×BAD| https://www.ebl.lmu.de/signs/|E₂×BAD|
+@link	eBL |E₂×BAD| https://www.ebl.lmu.de/signs/|E₂×BAD|
+@end sign
+
+@sign |E₂×GAN₂|
+@oid	o0038215
+@inote	epsd2/admin/ur3 needs collation
 @end sign
 
 @sign |E₂×GAR|
@@ -8785,30 +8712,8 @@
 @v	eŋaraₓ
 @v	ŋalgaₓ
 @v	ŋargaₓ
-@link eBL |E₂×GAR| https://www.ebl.lmu.de/signs/|E₂×GAR|
-@link Wikidata Q87555281 http://www.wikidata.org/entity/Q87555281
-@end sign
-
-@sign |E₂×1(GEŠ₂)|
-@oid	o0038009
-@aka	|E₂×GI₃|
-@v	giₓ?
-@inote	Needs collation; Cavigneaux in Iraq 85
-@end sign
-
-@sign |GIŠ×ŠU|
-@oid o0038213
-@inote epsd2/admin/ur3 needs collation
-@end sign
-
-@sign |LA×KUR|
-@oid o0038224
-@inote epsd2/admin/ur3 needs collation
-@end sign
-
-@sign |E₂×GAN₂|
-@oid o0038215
-@inote epsd2/admin/ur3 needs collation
+@link	eBL |E₂×GAR| https://www.ebl.lmu.de/signs/|E₂×GAR|
+@link	Wikidata Q87555281 http://www.wikidata.org/entity/Q87555281
 @end sign
 
 @sign |E₂×KUR|
@@ -8818,8 +8723,8 @@
 @list	U+124A9
 @ucun	𒒩
 @uage	8.0
-@link eBL |E₂×KUR| https://www.ebl.lmu.de/signs/|E₂×KUR|
-@link Wikidata Q87557166 http://www.wikidata.org/entity/Q87557166
+@link	eBL |E₂×KUR| https://www.ebl.lmu.de/signs/|E₂×KUR|
+@link	Wikidata Q87557166 http://www.wikidata.org/entity/Q87557166
 @end sign
 
 @sign |E₂×MI|
@@ -8831,8 +8736,8 @@
 @v	gagigₓ
 @v	itimaₓ
 @v	niŋinₓ
-@link eBL |E₂×MI| https://www.ebl.lmu.de/signs/|E₂×MI|
-@link Wikidata Q87555282 http://www.wikidata.org/entity/Q87555282
+@link	eBL |E₂×MI| https://www.ebl.lmu.de/signs/|E₂×MI|
+@link	Wikidata Q87555282 http://www.wikidata.org/entity/Q87555282
 @end sign
 
 @sign |E₂×MIN|
@@ -8848,8 +8753,8 @@
 @list	U+124AA
 @ucun	𒒪
 @uage	8.0
-@link eBL |E₂×PAP| https://www.ebl.lmu.de/signs/|E₂×PAP|
-@link Wikidata Q87557168 http://www.wikidata.org/entity/Q87557168
+@link	eBL |E₂×PAP| https://www.ebl.lmu.de/signs/|E₂×PAP|
+@link	Wikidata Q87557168 http://www.wikidata.org/entity/Q87557168
 @end sign
 
 @sign |E₂×SAL|
@@ -8867,8 +8772,8 @@
 @v	urₓ
 @v	ušₓ
 @v	xₓ
-@link eBL |E₂×SAL| https://www.ebl.lmu.de/signs/|E₂×SAL|
-@link Wikidata Q87555284 http://www.wikidata.org/entity/Q87555284
+@link	eBL |E₂×SAL| https://www.ebl.lmu.de/signs/|E₂×SAL|
+@link	Wikidata Q87555284 http://www.wikidata.org/entity/Q87555284
 @end sign
 
 @sign |E₂×ŠA₃|
@@ -8888,8 +8793,8 @@
 @v	esagₓ
 @v	esaŋₓ
 @v	usiₓ
-@link eBL |E₂×ŠE| https://www.ebl.lmu.de/signs/|E₂×ŠE|
-@link Wikidata Q87555286 http://www.wikidata.org/entity/Q87555286
+@link	eBL |E₂×ŠE| https://www.ebl.lmu.de/signs/|E₂×ŠE|
+@link	Wikidata Q87555286 http://www.wikidata.org/entity/Q87555286
 @end sign
 
 @sign |E₂×U|
@@ -8903,13 +8808,20 @@
 @v	sadₓ
 @v	ulaₓ
 @inote	LAK737 really is E₂×U; KWU signs are E₂×AŠ@t
-@link eBL |E₂×U| https://www.ebl.lmu.de/signs/|E₂×U|
-@link Wikidata Q87555288 http://www.wikidata.org/entity/Q87555288
+@link	eBL |E₂×U| https://www.ebl.lmu.de/signs/|E₂×U|
+@link	Wikidata Q87555288 http://www.wikidata.org/entity/Q87555288
 @end sign
 
 @sign |E₂×X|
 @oid	o0022914
 @inote	For validating sign-lists
+@end sign
+
+@sign |E₂×1(GEŠ₂)|
+@oid	o0038009
+@aka	|E₂×GI₃|
+@v	giₓ?
+@inote	Needs collation; Cavigneaux in Iraq 85
 @end sign
 
 @sign EDIN
@@ -8947,8 +8859,8 @@
 @v	ri₁₀?
 @v	ribₓ
 @v	ru₆
-@link eBL EDIN https://www.ebl.lmu.de/signs/EDIN
-@link Wikidata Q87555289 http://www.wikidata.org/entity/Q87555289
+@link	eBL EDIN https://www.ebl.lmu.de/signs/EDIN
+@link	Wikidata Q87555289 http://www.wikidata.org/entity/Q87555289
 @form |E₂.PAP.GAŠAN.DIŠ|
 @oid	o0018510
 @useq	x1208D.x1227D.x120FD.x12079
@@ -8958,7 +8870,7 @@
 @oid	o0001168
 @useq	x120B5.x1212F.x12053
 @ucun	𒂵𒄯𒁓
-@link eBL |GA.HI×AŠ₂.BUR| https://www.ebl.lmu.de/signs/|GA.HI×AŠ₂.BUR|
+@link	eBL |GA.HI×AŠ₂.BUR| https://www.ebl.lmu.de/signs/|GA.HI×AŠ₂.BUR|
 @@
 @form |GA.HI×AŠ₂.GAŠAN.DIŠ|
 @oid	o0018511
@@ -8969,7 +8881,7 @@
 @oid	o0001177
 @useq	x120B5.x1227D.x12434.x12079
 @ucun	𒂵𒉽𒐴𒁹
-@link eBL |GA.PAP.U@g.DIŠ| https://www.ebl.lmu.de/signs/|GA.PAP.U@g.DIŠ|
+@link	eBL |GA.PAP.U@g.DIŠ| https://www.ebl.lmu.de/signs/|GA.PAP.U@g.DIŠ|
 @@
 @end sign
 
@@ -9013,8 +8925,8 @@
 @v	sangaₓ
 @v	tum₁₃
 @v	zibₓ
-@link eBL EGIR https://www.ebl.lmu.de/signs/EGIR
-@link Wikidata Q87555291 http://www.wikidata.org/entity/Q87555291
+@link	eBL EGIR https://www.ebl.lmu.de/signs/EGIR
+@link	Wikidata Q87555291 http://www.wikidata.org/entity/Q87555291
 @form KWU732
 @oid	o0000302
 @v	zibₓ
@@ -9041,7 +8953,7 @@
 @sign EGIR@g
 @oid	o0000169
 @v	egirₓ
-@link eBL EGIR@g https://www.ebl.lmu.de/signs/EGIR@g
+@link	eBL EGIR@g https://www.ebl.lmu.de/signs/EGIR@g
 @end sign
 
 @sign EL
@@ -9069,8 +8981,8 @@
 @v	ili₅
 @v	ram₀
 @v	sikil
-@link eBL EL https://www.ebl.lmu.de/signs/EL
-@link Wikidata Q87555293 http://www.wikidata.org/entity/Q87555293
+@link	eBL EL https://www.ebl.lmu.de/signs/EL
+@link	Wikidata Q87555293 http://www.wikidata.org/entity/Q87555293
 @end sign
 
 @sign ELLES065a
@@ -9129,8 +9041,6 @@
 
 @compoundonly	ELLES214
 
-@compoundonly	|DIŠ.BAD&BAD|
-
 @sign ELLES257
 @oid	o0025799
 @end sign
@@ -9179,7 +9089,7 @@
 @oid	o0000171
 @list	ELLES316
 @inote	Ebla sign in ELLES not yet identified
-@link eBL ELLES316 https://www.ebl.lmu.de/signs/ELLES316
+@link	eBL ELLES316 https://www.ebl.lmu.de/signs/ELLES316
 @end sign
 
 @sign ELLES324
@@ -9208,23 +9118,8 @@
 @ucun	𒍡
 @uage	5.0
 @v	zamₓ
-@link eBL ELLES396 https://www.ebl.lmu.de/signs/ELLES396
-@link Wikidata Q87556708 http://www.wikidata.org/entity/Q87556708
-@end sign
-
-@sign |4×EN|
-@oid	o0000646
-@list	SLLHA099b1
-@uname	CUNEIFORM SIGN EN SQUARED
-@list	U+1209D
-@ucun	𒂝
-@uage	5.0
-@v	merimer₂
-@v	merimeri₂
-@v	mermer₂
-@v	mermeri₂
-@link eBL |4×EN| https://www.ebl.lmu.de/signs/|4×EN|
-@link Wikidata Q87555307 http://www.wikidata.org/entity/Q87555307
+@link	eBL ELLES396 https://www.ebl.lmu.de/signs/ELLES396
+@link	Wikidata Q87556708 http://www.wikidata.org/entity/Q87556708
 @end sign
 
 @sign EN
@@ -9255,8 +9150,8 @@
 @v	urₓ
 @v	uru₁₆
 @v	urunₓ
-@link eBL EN https://www.ebl.lmu.de/signs/EN
-@link Wikidata Q87555295 http://www.wikidata.org/entity/Q87555295
+@link	eBL EN https://www.ebl.lmu.de/signs/EN
+@link	Wikidata Q87555295 http://www.wikidata.org/entity/Q87555295
 @form LAK530
 @oid	o0000395
 @list	ELLES283
@@ -9273,8 +9168,23 @@
 @ucun	𒂜
 @uage	5.0
 @v	adaminₓ
-@link eBL |EN@EN| https://www.ebl.lmu.de/signs/|EN@EN|
-@link Wikidata Q87555305 http://www.wikidata.org/entity/Q87555305
+@link	eBL |EN@EN| https://www.ebl.lmu.de/signs/|EN@EN|
+@link	Wikidata Q87555305 http://www.wikidata.org/entity/Q87555305
+@end sign
+
+@sign |4×EN|
+@oid	o0000646
+@list	SLLHA099b1
+@uname	CUNEIFORM SIGN EN SQUARED
+@list	U+1209D
+@ucun	𒂝
+@uage	5.0
+@v	merimer₂
+@v	merimeri₂
+@v	mermer₂
+@v	mermeri₂
+@link	eBL |4×EN| https://www.ebl.lmu.de/signs/|4×EN|
+@link	Wikidata Q87555307 http://www.wikidata.org/entity/Q87555307
 @end sign
 
 @sign |EN.DAG.NUN.X|
@@ -9283,7 +9193,7 @@
 @useq	x12097.x12056.x12263.O
 @ucun	𒂗𒁖𒉣X
 @v	enkumₓ
-@link eBL |EN.DAG.NUN.X| https://www.ebl.lmu.de/signs/|EN.DAG.NUN.X|
+@link	eBL |EN.DAG.NUN.X| https://www.ebl.lmu.de/signs/|EN.DAG.NUN.X|
 @end sign
 
 @sign |EN.DIM₂.GIG|
@@ -9293,7 +9203,7 @@
 @v	enegi₃
 @v	enegir₃
 @v	ennigi₃
-@link eBL |EN.DIM₂.GIG| https://www.ebl.lmu.de/signs/|EN.DIM₂.GIG|
+@link	eBL |EN.DIM₂.GIG| https://www.ebl.lmu.de/signs/|EN.DIM₂.GIG|
 @end sign
 
 @sign |EN.GA₂×SAL.DIM₂|
@@ -9309,7 +9219,7 @@
 @ucun	𒂗𒄀
 @v	enegiₓ
 @v	engizₓ
-@link eBL |EN.GI| https://www.ebl.lmu.de/signs/|EN.GI|
+@link	eBL |EN.GI| https://www.ebl.lmu.de/signs/|EN.GI|
 @end sign
 
 @sign |EN.KI|
@@ -9318,7 +9228,7 @@
 @ucun	𒂗𒆠
 @v	tungal₂
 @v	tunŋal₂
-@link eBL |EN.KI| https://www.ebl.lmu.de/signs/|EN.KI|
+@link	eBL |EN.KI| https://www.ebl.lmu.de/signs/|EN.KI|
 @end sign
 
 @sign |EN.KID|
@@ -9331,7 +9241,7 @@
 @v	illil
 @v	nibri
 @v	nibru
-@link eBL |EN.KID| https://www.ebl.lmu.de/signs/|EN.KID|
+@link	eBL |EN.KID| https://www.ebl.lmu.de/signs/|EN.KID|
 @form |EN.E₂|
 @oid	o0027181
 @inote	see Steinkeller, BiOr 52 ad ZATU142
@@ -9345,7 +9255,7 @@
 @useq	x12097.x121AA.x12000
 @ucun	𒂗𒆪𒀀
 @v	mudru₂
-@link eBL |EN.KU.A| https://www.ebl.lmu.de/signs/|EN.KU.A|
+@link	eBL |EN.KU.A| https://www.ebl.lmu.de/signs/|EN.KU.A|
 @end sign
 
 @sign |EN.LI|
@@ -9354,7 +9264,7 @@
 @ucun	𒂗𒇷
 @v	ensiₓ
 @inote	how common is this?  delete and read |EN.<ME>.LI| instead?
-@link eBL |EN.LI| https://www.ebl.lmu.de/signs/|EN.LI|
+@link	eBL |EN.LI| https://www.ebl.lmu.de/signs/|EN.LI|
 @end sign
 
 @sign |EN.MAŠ.KAK|
@@ -9362,7 +9272,7 @@
 @useq	x12097.x12226.x12195
 @ucun	𒂗𒈦𒆕
 @v	mašda₄
-@link eBL |EN.MAŠ.KAK| https://www.ebl.lmu.de/signs/|EN.MAŠ.KAK|
+@link	eBL |EN.MAŠ.KAK| https://www.ebl.lmu.de/signs/|EN.MAŠ.KAK|
 @end sign
 
 @sign |EN.ME.AD.KU₃|
@@ -9370,7 +9280,7 @@
 @useq	x12097.x12228.x1201C.x121AC
 @ucun	𒂗𒈨𒀜𒆬
 @v	šennu
-@link eBL |EN.ME.AD.KU₃| https://www.ebl.lmu.de/signs/|EN.ME.AD.KU₃|
+@link	eBL |EN.ME.AD.KU₃| https://www.ebl.lmu.de/signs/|EN.ME.AD.KU₃|
 @end sign
 
 @sign |EN.ME.AN.MUŠ₃|
@@ -9378,7 +9288,7 @@
 @useq	x12097.x12228.x1202D.x12239
 @ucun	𒂗𒈨𒀭𒈹
 @v	ukurrim
-@link eBL |EN.ME.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|EN.ME.AN.MUŠ₃|
+@link	eBL |EN.ME.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|EN.ME.AN.MUŠ₃|
 @form |EN.ME.AN×MUŠ₃|
 @oid	o0023037
 @inote	dcclt !sg
@@ -9392,7 +9302,7 @@
 @useq	x12097.x12228.x12100
 @ucun	𒂗𒈨𒄀
 @v	engiz
-@link eBL |EN.ME.GI| https://www.ebl.lmu.de/signs/|EN.ME.GI|
+@link	eBL |EN.ME.GI| https://www.ebl.lmu.de/signs/|EN.ME.GI|
 @form |EN.ME.GI₄|
 @oid	o0001060
 @useq	x12097.x12228.x12104
@@ -9402,7 +9312,7 @@
 @oid	o0001080
 @useq	x1209A.x12100
 @ucun	𒂚𒄀
-@link eBL |EN×ME.GI| https://www.ebl.lmu.de/signs/|EN×ME.GI|
+@link	eBL |EN×ME.GI| https://www.ebl.lmu.de/signs/|EN×ME.GI|
 @@
 @form |EN×ME.GI₄|
 @oid	o0001081
@@ -9422,7 +9332,7 @@
 @useq	x12097.x12228.x121EC
 @ucun	𒂗𒈨𒇬
 @v	murub₃
-@link eBL |EN.ME.LAGAR| https://www.ebl.lmu.de/signs/|EN.ME.LAGAR|
+@link	eBL |EN.ME.LAGAR| https://www.ebl.lmu.de/signs/|EN.ME.LAGAR|
 @end sign
 
 @sign |EN.ME.LI|
@@ -9431,7 +9341,7 @@
 @ucun	𒂗𒈨𒇷
 @v	ensi
 @v	šešlam₂
-@link eBL |EN.ME.LI| https://www.ebl.lmu.de/signs/|EN.ME.LI|
+@link	eBL |EN.ME.LI| https://www.ebl.lmu.de/signs/|EN.ME.LI|
 @form |EN×ME.LI|
 @oid	o0001082
 @list	GCSL249
@@ -9447,7 +9357,7 @@
 @ucun	𒂗𒈨𒈬
 @v	endib
 @v	endub
-@link eBL |EN.ME.MU| https://www.ebl.lmu.de/signs/|EN.ME.MU|
+@link	eBL |EN.ME.MU| https://www.ebl.lmu.de/signs/|EN.ME.MU|
 @form |EN×ME.MU|
 @oid	o0031462
 @useq	x1209A.x1222C
@@ -9472,7 +9382,7 @@
 @ucun	𒂗𒈨𒍣𒀭𒈾
 @v	endibₓ
 @inote	dupfix MZL endib(|EN.ME.MU|)
-@link eBL |EN.ME.ZI.AN.NA| https://www.ebl.lmu.de/signs/|EN.ME.ZI.AN.NA|
+@link	eBL |EN.ME.ZI.AN.NA| https://www.ebl.lmu.de/signs/|EN.ME.ZI.AN.NA|
 @end sign
 
 @sign |EN.NUNUZ.DIM₂|
@@ -9480,7 +9390,7 @@
 @useq	x12097.x1226D.x12076
 @ucun	𒂗𒉭𒁶
 @v	ennigi₂
-@link eBL |EN.NUNUZ.DIM₂| https://www.ebl.lmu.de/signs/|EN.NUNUZ.DIM₂|
+@link	eBL |EN.NUNUZ.DIM₂| https://www.ebl.lmu.de/signs/|EN.NUNUZ.DIM₂|
 @form |EN.NUNUZ.MA|
 @oid	o0023038
 @inote	dcclt !sg
@@ -9494,7 +9404,7 @@
 @useq	x12097.x1226D.x12363.x1202D.x122C0.x121A0
 @ucun	𒂗𒉭𒍣𒀭𒋀𒆠
 @v	zirru
-@link eBL |EN.NUNUZ.ZI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|EN.NUNUZ.ZI.AN.ŠEŠ.KI|
+@link	eBL |EN.NUNUZ.ZI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|EN.NUNUZ.ZI.AN.ŠEŠ.KI|
 @form |EN.NU.NUNUZ.ZI.AN.ŠEŠ.KI|
 @oid	o0001066
 @useq	x12097.x12261.x1226D.x12363.x1202D.x122C0.x121A0
@@ -9508,7 +9418,7 @@
 @ucun	𒂗𒉭𒍣𒀭𒌓
 @v	nunuzzi
 @v	nuzzi
-@link eBL |EN.NUNUZ.ZI.AN.UD| https://www.ebl.lmu.de/signs/|EN.NUNUZ.ZI.AN.UD|
+@link	eBL |EN.NUNUZ.ZI.AN.UD| https://www.ebl.lmu.de/signs/|EN.NUNUZ.ZI.AN.UD|
 @form |EN.NU.NUNUZ.ZI.AN.UD|
 @oid	o0001065
 @useq	x12097.x12261.x1226D.x12363.x1202D.x12313
@@ -9523,7 +9433,7 @@
 @useq	x12097.x1227D.x1208A.x1214A.x12263.x12228.x120AC
 @ucun	𒂗𒉽𒂊𒅊𒉣𒈨𒂬
 @v	enkumₓ
-@link eBL |EN.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|EN.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
+@link	eBL |EN.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|EN.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
 @end sign
 
 @sign |EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
@@ -9532,7 +9442,7 @@
 @ucun	𒂗𒉽𒅊𒉣𒈨𒂬
 @v	enkum
 @v	isimudₓ
-@link eBL |EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
+@link	eBL |EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
 @form |EN.PAP.IGI@g.NUN.EZEN×KASKAL|
 @oid	o0022948
 @useq	x12097.x1227D.x1214A.x12263.x120AC
@@ -9560,7 +9470,7 @@
 @useq	x12097.x122A9.x12228.x1226D.x12363.x1202D.x122C0.x121A0
 @ucun	𒂗𒊩𒈨𒉭𒍣𒀭𒋀𒆠
 @v	zirruₓ
-@link eBL |EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|
+@link	eBL |EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|
 @form |AN.EN.NU.NUNUZ.ZI.AN.ŠEŠ.KI|
 @oid	o0021743
 @useq	x1202D.x12097.x12261.x1226D.x12363.x1202D.x122C0.x121A0
@@ -9581,7 +9491,7 @@
 @useq	x12097.x122A9.x1226D.x12363.x1202D.x122C0.x121A0
 @ucun	𒂗𒊩𒉭𒍣𒀭𒋀𒆠
 @v	zirruₓ
-@link eBL |EN.SAL.NUNUZ.ZI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|EN.SAL.NUNUZ.ZI.AN.ŠEŠ.KI|
+@link	eBL |EN.SAL.NUNUZ.ZI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|EN.SAL.NUNUZ.ZI.AN.ŠEŠ.KI|
 @end sign
 
 @sign |EN.ŠEŠ|
@@ -9589,7 +9499,7 @@
 @useq	x12097.x122C0
 @ucun	𒂗𒋀
 @v	suruen
-@link eBL |EN.ŠEŠ| https://www.ebl.lmu.de/signs/|EN.ŠEŠ|
+@link	eBL |EN.ŠEŠ| https://www.ebl.lmu.de/signs/|EN.ŠEŠ|
 @end sign
 
 @sign |EN.TI|
@@ -9598,7 +9508,7 @@
 @ucun	𒂗𒋾
 @v	ebeh
 @v	ebih
-@link eBL |EN.TI| https://www.ebl.lmu.de/signs/|EN.TI|
+@link	eBL |EN.TI| https://www.ebl.lmu.de/signs/|EN.TI|
 @end sign
 
 @sign |EN.ZU|
@@ -9611,20 +9521,13 @@
 @v	tungal
 @v	zuen
 @v	zuena
-@link eBL |EN.ZU| https://www.ebl.lmu.de/signs/|EN.ZU|
+@link	eBL |EN.ZU| https://www.ebl.lmu.de/signs/|EN.ZU|
 @end sign
 
 @sign |EN×A|
 @oid	o0027595
 @list	LAK533
 @inote	missing compounds for lak.atf
-@end sign
-
-@sign |AN+EN|
-@oid o0038077
-@uage 0
-@useq x1202D.x200D.x12097
-@note This entry is defined to facilitate mapping {d}+en to a font ligature via AN+ZWJ+EN.
 @end sign
 
 @sign |EN×GAN₂|
@@ -9638,8 +9541,8 @@
 @ucun	𒂘
 @uage	5.0
 @v	šibirₓ
-@link eBL |EN×GAN₂| https://www.ebl.lmu.de/signs/|EN×GAN₂|
-@link Wikidata Q87555296 http://www.wikidata.org/entity/Q87555296
+@link	eBL |EN×GAN₂| https://www.ebl.lmu.de/signs/|EN×GAN₂|
+@link	Wikidata Q87555296 http://www.wikidata.org/entity/Q87555296
 @end sign
 
 @sign |EN×GAN₂@t|
@@ -9668,8 +9571,8 @@
 @v	sibir₂
 @v	sullim
 @v	šibir₂?
-@link eBL |EN×GAN₂@t| https://www.ebl.lmu.de/signs/|EN×GAN₂@t|
-@link Wikidata Q87555298 http://www.wikidata.org/entity/Q87555298
+@link	eBL |EN×GAN₂@t| https://www.ebl.lmu.de/signs/|EN×GAN₂@t|
+@link	Wikidata Q87555298 http://www.wikidata.org/entity/Q87555298
 @end sign
 
 @sign |EN×IGI@g|
@@ -9704,14 +9607,14 @@
 @uage	5.0
 @v	enme
 @v	ensi₃
-@link eBL |EN×ME| https://www.ebl.lmu.de/signs/|EN×ME|
-@link Wikidata Q87555300 http://www.wikidata.org/entity/Q87555300
+@link	eBL |EN×ME| https://www.ebl.lmu.de/signs/|EN×ME|
+@link	Wikidata Q87555300 http://www.wikidata.org/entity/Q87555300
 @end sign
 
 @sign |EN×U|
 @oid	o0001084
 @inote	u3adm
-@link eBL |EN×U| https://www.ebl.lmu.de/signs/|EN×U|
+@link	eBL |EN×U| https://www.ebl.lmu.de/signs/|EN×U|
 @end sign
 
 @sign |EN×X|
@@ -9740,8 +9643,8 @@
 @v	nimgirgirri
 @v	urbigu₂
 @v	urbingu₂
-@link eBL |EN%EN| https://www.ebl.lmu.de/signs/|EN%EN|
-@link Wikidata Q87555302 http://www.wikidata.org/entity/Q87555302
+@link	eBL |EN%EN| https://www.ebl.lmu.de/signs/|EN%EN|
+@link	Wikidata Q87555302 http://www.wikidata.org/entity/Q87555302
 @end sign
 
 @sign |EN%EN.EN%EN|
@@ -9759,7 +9662,7 @@
 @v	nimgigri₂
 @v	nimgirgirri₂
 @v	nimŋirŋirri₂
-@link eBL |EN%EN.IM%IM| https://www.ebl.lmu.de/signs/|EN%EN.IM%IM|
+@link	eBL |EN%EN.IM%IM| https://www.ebl.lmu.de/signs/|EN%EN.IM%IM|
 @end sign
 
 @sign EREN
@@ -9790,8 +9693,8 @@
 @v	še₂₂
 @v	šeš₄
 @v	šurmenₓ
-@link eBL EREN https://www.ebl.lmu.de/signs/EREN
-@link Wikidata Q87555308 http://www.wikidata.org/entity/Q87555308
+@link	eBL EREN https://www.ebl.lmu.de/signs/EREN
+@link	Wikidata Q87555308 http://www.wikidata.org/entity/Q87555308
 @form |SIK₂.NUN|
 @oid	o0002355
 @inote	The form is found in Hattuša lexical texts
@@ -9806,7 +9709,7 @@
 @useq	x1209E.x122D7.x12228
 @ucun	𒂞𒋗𒈨
 @v	šurmenₓ
-@link eBL |EREN.ŠU.ME| https://www.ebl.lmu.de/signs/|EREN.ŠU.ME|
+@link	eBL |EREN.ŠU.ME| https://www.ebl.lmu.de/signs/|EREN.ŠU.ME|
 @end sign
 
 @sign |EREN×KASKAL|
@@ -9856,8 +9759,16 @@
 @v	zab
 @v	zalag₂
 @v	zap
-@link eBL ERIN₂ https://www.ebl.lmu.de/signs/ERIN₂
-@link Wikidata Q87555310 http://www.wikidata.org/entity/Q87555310
+@link	eBL ERIN₂ https://www.ebl.lmu.de/signs/ERIN₂
+@link	Wikidata Q87555310 http://www.wikidata.org/entity/Q87555310
+@end sign
+
+@sign |ERIN₂.A|
+@oid	o0038331
+@useq	x1209F.x12000
+@ucun	𒂟𒀀
+@v	uriₓ
+@inote	epsd2/royal
 @end sign
 
 @sign |ERIN₂.KAB|
@@ -9866,7 +9777,7 @@
 @useq	x1209F.x1218F
 @ucun	𒂟𒆏
 @v	emerahₓ
-@link eBL |ERIN₂.KAB| https://www.ebl.lmu.de/signs/|ERIN₂.KAB|
+@link	eBL |ERIN₂.KAB| https://www.ebl.lmu.de/signs/|ERIN₂.KAB|
 @end sign
 
 @sign |ERIN₂.NA|
@@ -9874,7 +9785,7 @@
 @useq	x1209F.x1223E
 @ucun	𒂟𒈾
 @v	urume
-@link eBL |ERIN₂.NA| https://www.ebl.lmu.de/signs/|ERIN₂.NA|
+@link	eBL |ERIN₂.NA| https://www.ebl.lmu.de/signs/|ERIN₂.NA|
 @end sign
 
 @sign |ERIN₂.NUN.NA|
@@ -9883,7 +9794,7 @@
 @useq	x1209F.x12263.x1223E
 @ucun	𒂟𒉣𒈾
 @v	surungalₓ
-@link eBL |ERIN₂.NUN.NA| https://www.ebl.lmu.de/signs/|ERIN₂.NUN.NA|
+@link	eBL |ERIN₂.NUN.NA| https://www.ebl.lmu.de/signs/|ERIN₂.NUN.NA|
 @end sign
 
 @sign |ERIN₂.UD|
@@ -9891,11 +9802,8 @@
 @inote	epsd2
 @useq	x1209F.x12313
 @ucun	𒂟𒌓
-@link eBL |ERIN₂.UD| https://www.ebl.lmu.de/signs/|ERIN₂.UD|
+@link	eBL |ERIN₂.UD| https://www.ebl.lmu.de/signs/|ERIN₂.UD|
 @end sign
-
-@compoundonly	|ERIN₂×(U.U.U)|
-@inote	added during ogsl upgrade
 
 @sign |ERIN₂+X|
 @oid	o0001086
@@ -9906,14 +9814,17 @@
 @uage	8.0
 @v	ditanₓ
 @v	tidnumₓ
-@link eBL |ERIN₂+X| https://www.ebl.lmu.de/signs/|ERIN₂+X|
-@link Wikidata Q87557169 http://www.wikidata.org/entity/Q87557169
+@link	eBL |ERIN₂+X| https://www.ebl.lmu.de/signs/|ERIN₂+X|
+@link	Wikidata Q87557169 http://www.wikidata.org/entity/Q87557169
 @end sign
+
+@compoundonly	|ERIN₂×(U.U.U)|
+@inote	added during ogsl upgrade
 
 @sign ERIN₂@t
 @oid	o0000176
 @v	surₓ
-@link eBL ERIN₂@t https://www.ebl.lmu.de/signs/ERIN₂@t
+@link	eBL ERIN₂@t https://www.ebl.lmu.de/signs/ERIN₂@t
 @end sign
 
 @sign EŠ₂
@@ -9962,8 +9873,8 @@
 @v	ub₂
 @v	uba₂
 @v	up₂
-@link eBL EŠ₂ https://www.ebl.lmu.de/signs/EŠ₂
-@link Wikidata Q87555313 http://www.wikidata.org/entity/Q87555313
+@link	eBL EŠ₂ https://www.ebl.lmu.de/signs/EŠ₂
+@link	Wikidata Q87555313 http://www.wikidata.org/entity/Q87555313
 @form EŠ₂@90
 @oid	o0221915
 @v	eš₂@90
@@ -9977,7 +9888,7 @@
 @ucun	𒂠𒄾
 @v	ešemen₃
 @v	ešemin₃
-@link eBL |EŠ₂.HUL₂| https://www.ebl.lmu.de/signs/|EŠ₂.HUL₂|
+@link	eBL |EŠ₂.HUL₂| https://www.ebl.lmu.de/signs/|EŠ₂.HUL₂|
 @end sign
 
 @sign |EŠ₂.KA|
@@ -9987,7 +9898,7 @@
 @v	sura₁₃
 @v	surra₁₃
 @v	zir₂
-@link eBL |EŠ₂.KA| https://www.ebl.lmu.de/signs/|EŠ₂.KA|
+@link	eBL |EŠ₂.KA| https://www.ebl.lmu.de/signs/|EŠ₂.KA|
 @end sign
 
 @sign |EŠ₂.MAH|
@@ -9995,7 +9906,7 @@
 @useq	x120A0.x12224
 @ucun	𒂠𒈤
 @v	ebih₂
-@link eBL |EŠ₂.MAH| https://www.ebl.lmu.de/signs/|EŠ₂.MAH|
+@link	eBL |EŠ₂.MAH| https://www.ebl.lmu.de/signs/|EŠ₂.MAH|
 @end sign
 
 @sign |EŠ₂.PAP.PAP|
@@ -10003,7 +9914,7 @@
 @useq	x120A0.x1227D.x1227D
 @ucun	𒂠𒉽𒉽
 @v	še₃-munu₄
-@link eBL |EŠ₂.PAP.PAP| https://www.ebl.lmu.de/signs/|EŠ₂.PAP.PAP|
+@link	eBL |EŠ₂.PAP.PAP| https://www.ebl.lmu.de/signs/|EŠ₂.PAP.PAP|
 @end sign
 
 @sign |EŠ₂.SUD.NUN.EŠ₂.TU|
@@ -10016,7 +9927,7 @@
 @v	samun⁺
 @v	šaman⁺
 @v	šamanur⁺
-@link eBL |EŠ₂.SUD.NUN.EŠ₂.TU| https://www.ebl.lmu.de/signs/|EŠ₂.SUD.NUN.EŠ₂.TU|
+@link	eBL |EŠ₂.SUD.NUN.EŠ₂.TU| https://www.ebl.lmu.de/signs/|EŠ₂.SUD.NUN.EŠ₂.TU|
 @form |BU.EŠ₂.ŠE.NUN|
 @oid	o0031479
 @useq	x1204D.x120A0.x122BA.x12263
@@ -10056,8 +9967,8 @@
 @uage	5.0
 @v	samanₓ
 @note	RA 87 (1993), 109-110 (Tell Haddad).
-@link eBL EŠ₂ https://www.ebl.lmu.de/signs/EŠ₂
-@link Wikidata Q87555313 http://www.wikidata.org/entity/Q87555313
+@link	eBL EŠ₂ https://www.ebl.lmu.de/signs/EŠ₂
+@link	Wikidata Q87555313 http://www.wikidata.org/entity/Q87555313
 @@
 @form |EŠ₂.BU.EŠ₂.NUN.EŠ₂.TU|
 @oid	o0001125
@@ -10165,12 +10076,6 @@
 @ucun	𒊺𒂠𒉪
 @v	samanₓ
 @@
-@form |ŠE.NUN.BU.LUH|
-@oid	o0038124
-@useq	x122BA.x12263.x1204D.x1221B
-@ucun	𒊺𒉣𒁍𒈛
-@v	saman₃
-@@
 @form |ŠE.NUN|
 @oid	o0221882
 @useq	x122BA.x12263
@@ -10182,6 +10087,12 @@
 @useq	x122BA.x12263.x1204D.x1208A
 @ucun	𒊺𒉣𒁍𒂊
 @v	samanₓ
+@@
+@form |ŠE.NUN.BU.LUH|
+@oid	o0038124
+@useq	x122BA.x12263.x1204D.x1221B
+@ucun	𒊺𒉣𒁍𒈛
+@v	saman₃
 @@
 @form |ŠE.NUN.EŠ₂.BU|
 @oid	o0187974
@@ -10209,7 +10120,7 @@
 @ucun	𒂠𒊺
 @v	dabin
 @inote	properly |ZI₃.ŠE|?
-@link eBL |EŠ₂.ŠE| https://www.ebl.lmu.de/signs/|EŠ₂.ŠE|
+@link	eBL |EŠ₂.ŠE| https://www.ebl.lmu.de/signs/|EŠ₂.ŠE|
 @end sign
 
 @sign |EŠ₂.UD|
@@ -10220,7 +10131,12 @@
 @v	zi₃-kum₄
 @v	zikumₓ
 @ref	Diri 5 = Q000150 159
-@link eBL |EŠ₂.UD| https://www.ebl.lmu.de/signs/|EŠ₂.UD|
+@link	eBL |EŠ₂.UD| https://www.ebl.lmu.de/signs/|EŠ₂.UD|
+@end sign
+
+@sign |EŠ₂×GAD|
+@oid	o0038237
+@inote	epsd2/admin/ur3; need collation
 @end sign
 
 @compoundonly	|(EŠ₂&EŠ₂)|
@@ -10234,19 +10150,19 @@
 @list	U+124AC
 @ucun	𒒬
 @uage	8.0
-@link eBL |EŠ₂%EŠ₂| https://www.ebl.lmu.de/signs/|EŠ₂%EŠ₂|
-@link Wikidata Q87557171 http://www.wikidata.org/entity/Q87557171
+@link	eBL |EŠ₂%EŠ₂| https://www.ebl.lmu.de/signs/|EŠ₂%EŠ₂|
+@link	Wikidata Q87557171 http://www.wikidata.org/entity/Q87557171
 @end sign
 
 @sign |EŠ₂%EŠ₂.NUN|
-@aka |KIB@g.NUN|
 @oid	o0018592
+@aka	|KIB@g.NUN|
 @useq	x124AC.x12263
 @ucun	𒒬𒉣
 @v	buranunaₓ
 @form |EŠ₂%EŠ₂.NUN.A|
-@aka |KIB@g.NUN.A|
 @oid	o0018591
+@aka	|KIB@g.NUN.A|
 @useq	x124AC.x12263.x12000
 @ucun	𒒬𒉣𒀀
 @@
@@ -10265,7 +10181,7 @@
 @v	hulₓ
 @inote	dupfix MZL hul₃(KIB)
 @inote	CHECK is this really EŠ₂@g@t or just EŠ₂@t, approx = GIŠ@g@t?
-@link eBL |EŠ₂@g@t%EŠ₂@g@t| https://www.ebl.lmu.de/signs/|EŠ₂@g@t%EŠ₂@g@t|
+@link	eBL |EŠ₂@g@t%EŠ₂@g@t| https://www.ebl.lmu.de/signs/|EŠ₂@g@t%EŠ₂@g@t|
 @end sign
 
 @sign EŠ₂@t
@@ -10283,26 +10199,14 @@
 @v	kiriₓ
 @v	še₃@t
 @inote	še₃@t also in ed3b in prefix še₃@t-til₃; once ši-til₃
-@link eBL EŠ₂@t https://www.ebl.lmu.de/signs/EŠ₂@t
+@link	eBL EŠ₂@t https://www.ebl.lmu.de/signs/EŠ₂@t
 @end sign
 
 @sign |EŠ₂@t.GIR₂@g|
 @oid	o0001137
 @useq	X.x12109
 @ucun	X𒄉
-@link eBL |EŠ₂@t.GIR₂@g| https://www.ebl.lmu.de/signs/|EŠ₂@t.GIR₂@g|
-@end sign
-
-@sign |4×(EZEN×KASKAL)|
-@oid	o0000644
-@list	SLLHA152_4v
-@uname	CUNEIFORM SIGN EZEN TIMES KASKAL SQUARED
-@list	U+120AD
-@ucun	𒂭
-@uage	5.0
-@v	gugu₂
-@link eBL |4×(EZEN×KASKAL)| https://www.ebl.lmu.de/signs/|4×(EZEN×KASKAL)|
-@link Wikidata Q87555338 http://www.wikidata.org/entity/Q87555338
+@link	eBL |EŠ₂@t.GIR₂@g| https://www.ebl.lmu.de/signs/|EŠ₂@t.GIR₂@g|
 @end sign
 
 @sign EZEN
@@ -10344,8 +10248,8 @@
 @v	šer₃
 @v	šir₃
 @v	ugₓ
-@link eBL EZEN https://www.ebl.lmu.de/signs/EZEN
-@link Wikidata Q87555314 http://www.wikidata.org/entity/Q87555314
+@link	eBL EZEN https://www.ebl.lmu.de/signs/EZEN
+@link	Wikidata Q87555314 http://www.wikidata.org/entity/Q87555314
 @form KEŠ₂
 @oid	o0000278
 @list	BAU307
@@ -10356,17 +10260,20 @@
 @list	RSP285
 @v	sir₃
 @inote	to support sir(KEŠ₂)-re in Nippur Nigga Q000052 228, even though it needs collation
-@link eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
+@link	eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
 @@
 @end sign
 
-@sign |EZEN×2(DIŠ@t)|
-@oid  o0038298
-@inote could also be described as EZEN×TAB@t
-@end sign
-
-@sign |SILA₃×5(DIŠ)|
-@oid  o0038300
+@sign |4×(EZEN×KASKAL)|
+@oid	o0000644
+@list	SLLHA152_4v
+@uname	CUNEIFORM SIGN EZEN TIMES KASKAL SQUARED
+@list	U+120AD
+@ucun	𒂭
+@uage	5.0
+@v	gugu₂
+@link	eBL |4×(EZEN×KASKAL)| https://www.ebl.lmu.de/signs/|4×(EZEN×KASKAL)|
+@link	Wikidata Q87555338 http://www.wikidata.org/entity/Q87555338
 @end sign
 
 @sign |EZEN×A|
@@ -10386,8 +10293,8 @@
 @v	numgišur
 @v	sil₆
 @v	silal
-@link eBL |EZEN×A| https://www.ebl.lmu.de/signs/|EZEN×A|
-@link Wikidata Q87555316 http://www.wikidata.org/entity/Q87555316
+@link	eBL |EZEN×A| https://www.ebl.lmu.de/signs/|EZEN×A|
+@link	Wikidata Q87555316 http://www.wikidata.org/entity/Q87555316
 @end sign
 
 @sign |EZEN×(A.LAL)|
@@ -10403,8 +10310,8 @@
 @v	asila₅
 @v	asilal₅
 @v	sil₇
-@link eBL |EZEN×(A.LAL)| https://www.ebl.lmu.de/signs/|EZEN×(A.LAL)|
-@link Wikidata Q87555319 http://www.wikidata.org/entity/Q87555319
+@link	eBL |EZEN×(A.LAL)| https://www.ebl.lmu.de/signs/|EZEN×(A.LAL)|
+@link	Wikidata Q87555319 http://www.wikidata.org/entity/Q87555319
 @end sign
 
 @sign |EZEN×(A.LAL₂)|
@@ -10420,8 +10327,8 @@
 @v	asila₄
 @v	asilal₄
 @v	sil₉
-@link eBL |EZEN×(A.LAL₂)| https://www.ebl.lmu.de/signs/|EZEN×(A.LAL₂)|
-@link Wikidata Q87555321 http://www.wikidata.org/entity/Q87555321
+@link	eBL |EZEN×(A.LAL₂)| https://www.ebl.lmu.de/signs/|EZEN×(A.LAL₂)|
+@link	Wikidata Q87555321 http://www.wikidata.org/entity/Q87555321
 @end sign
 
 @sign |EZEN×AŠ|
@@ -10462,8 +10369,8 @@
 @v	uk₅
 @v	un₃
 @v	uq₅?
-@link eBL |EZEN×BAD| https://www.ebl.lmu.de/signs/|EZEN×BAD|
-@link Wikidata Q87555324 http://www.wikidata.org/entity/Q87555324
+@link	eBL |EZEN×BAD| https://www.ebl.lmu.de/signs/|EZEN×BAD|
+@link	Wikidata Q87555324 http://www.wikidata.org/entity/Q87555324
 @form |EZEN.AN|
 @oid	o0018858
 @inote	SF 1 = P010566 r x 8' but not completely certain.
@@ -10482,8 +10389,8 @@
 @v	buₓ
 @v	bunₓ
 @v	uₓ
-@link eBL |EZEN×AN| https://www.ebl.lmu.de/signs/|EZEN×AN|
-@link Wikidata Q87555323 http://www.wikidata.org/entity/Q87555323
+@link	eBL |EZEN×AN| https://www.ebl.lmu.de/signs/|EZEN×AN|
+@link	Wikidata Q87555323 http://www.wikidata.org/entity/Q87555323
 @@
 @form |EZEN×AŠ|
 @oid	o0027955
@@ -10495,10 +10402,11 @@
 @ucun	𒂦𒀭
 @v	derₓ
 @v	%akk/n dūru
-@link eBL |EZEN×BAD.AN| https://www.ebl.lmu.de/signs/|EZEN×BAD.AN|
+@link	eBL |EZEN×BAD.AN| https://www.ebl.lmu.de/signs/|EZEN×BAD.AN|
 @@
 @form |EZEN×BAD.GAL.AN|
-@useq  x120A6.x120F2.x1202D
+@oid	o0038093
+@useq	x120A6.x120F2.x1202D
 @ucun	𒂦𒃲𒀭
 @v	derₓ
 @@
@@ -10507,7 +10415,7 @@
 @sign |(EZEN×BAD)@s|
 @oid	o0000623
 @inote	CDLI oakk
-@link eBL |(EZEN×BAD)@s| https://www.ebl.lmu.de/signs/|(EZEN×BAD)@s|
+@link	eBL |(EZEN×BAD)@s| https://www.ebl.lmu.de/signs/|(EZEN×BAD)@s|
 @end sign
 
 @sign |EZEN×BAD.SI.AB.BA|
@@ -10532,8 +10440,8 @@
 @uage	5.0
 @v	dugin
 @v	dugina
-@link eBL |EZEN×DUN₃@g| https://www.ebl.lmu.de/signs/|EZEN×DUN₃@g|
-@link Wikidata Q87555326 http://www.wikidata.org/entity/Q87555326
+@link	eBL |EZEN×DUN₃@g| https://www.ebl.lmu.de/signs/|EZEN×DUN₃@g|
+@link	Wikidata Q87555326 http://www.wikidata.org/entity/Q87555326
 @form |EZEN×GAN₂@t|
 @oid	o0022949
 @inote	dcclt !sg
@@ -10549,8 +10457,8 @@
 @v	dugin₂
 @v	dugina₂
 @v	mir₅
-@link eBL |EZEN×DUN₃@g@g| https://www.ebl.lmu.de/signs/|EZEN×DUN₃@g@g|
-@link Wikidata Q87555329 http://www.wikidata.org/entity/Q87555329
+@link	eBL |EZEN×DUN₃@g@g| https://www.ebl.lmu.de/signs/|EZEN×DUN₃@g@g|
+@link	Wikidata Q87555329 http://www.wikidata.org/entity/Q87555329
 @form |LAK617×DUN₃@g@g|
 @oid	o0027210
 @aka	|LAK617×MIR|
@@ -10561,7 +10469,7 @@
 @list	U+12504
 @ucun	𒔄
 @uage	8.0
-@link Wikidata Q87557347 http://www.wikidata.org/entity/Q87557347
+@link	Wikidata Q87557347 http://www.wikidata.org/entity/Q87557347
 @@
 @end sign
 
@@ -10575,8 +10483,8 @@
 @uage	5.0
 @v	akšakₓ
 @v	udnimₓ
-@link eBL |EZEN×HA| https://www.ebl.lmu.de/signs/|EZEN×HA|
-@link Wikidata Q87555331 http://www.wikidata.org/entity/Q87555331
+@link	eBL |EZEN×HA| https://www.ebl.lmu.de/signs/|EZEN×HA|
+@link	Wikidata Q87555331 http://www.wikidata.org/entity/Q87555331
 @end sign
 
 @sign |EZEN×HA@g|
@@ -10585,7 +10493,7 @@
 @list	U+120AA
 @ucun	𒂪
 @uage	5.0
-@link eBL |EZEN×HA@g| https://www.ebl.lmu.de/signs/|EZEN×HA@g|
+@link	eBL |EZEN×HA@g| https://www.ebl.lmu.de/signs/|EZEN×HA@g|
 @end sign
 
 @sign |EZEN×HAL|
@@ -10609,8 +10517,8 @@
 @v	kisig₂
 @v	udinim
 @v	udnim
-@link eBL |EZEN×IGI@g| https://www.ebl.lmu.de/signs/|EZEN×IGI@g|
-@link Wikidata Q87555334 http://www.wikidata.org/entity/Q87555334
+@link	eBL |EZEN×IGI@g| https://www.ebl.lmu.de/signs/|EZEN×IGI@g|
+@link	Wikidata Q87555334 http://www.wikidata.org/entity/Q87555334
 @end sign
 
 @sign |EZEN×KASKAL|
@@ -10638,8 +10546,8 @@
 @v	un₄
 @v	ununₓ
 @v	usigi?
-@link eBL |EZEN×KASKAL| https://www.ebl.lmu.de/signs/|EZEN×KASKAL|
-@link Wikidata Q87555336 http://www.wikidata.org/entity/Q87555336
+@link	eBL |EZEN×KASKAL| https://www.ebl.lmu.de/signs/|EZEN×KASKAL|
+@link	Wikidata Q87555336 http://www.wikidata.org/entity/Q87555336
 @end sign
 
 @sign |EZEN×KU₃|
@@ -10657,8 +10565,8 @@
 @v	silalₓ
 @v	udnimₓ
 @v	uruₓ
-@link eBL |EZEN×KU₃| https://www.ebl.lmu.de/signs/|EZEN×KU₃|
-@link Wikidata Q87555340 http://www.wikidata.org/entity/Q87555340
+@link	eBL |EZEN×KU₃| https://www.ebl.lmu.de/signs/|EZEN×KU₃|
+@link	Wikidata Q87555340 http://www.wikidata.org/entity/Q87555340
 @end sign
 
 @sign |EZEN×KUR|
@@ -10682,8 +10590,8 @@
 @v	gubalaga
 @v	gublaga
 @v	laban
-@link eBL |EZEN×LA| https://www.ebl.lmu.de/signs/|EZEN×LA|
-@link Wikidata Q87555342 http://www.wikidata.org/entity/Q87555342
+@link	eBL |EZEN×LA| https://www.ebl.lmu.de/signs/|EZEN×LA|
+@link	Wikidata Q87555342 http://www.wikidata.org/entity/Q87555342
 @form EZEN
 @oid	o0000177
 @list	BAU298
@@ -10692,7 +10600,7 @@
 @list	LAK611
 @list	PTACE262
 @list	RSP284
-@link eBL EZEN https://www.ebl.lmu.de/signs/EZEN
+@link	eBL EZEN https://www.ebl.lmu.de/signs/EZEN
 @@
 @form |EZEN×GUD|
 @oid	o0001107
@@ -10701,8 +10609,8 @@
 @list	U+12377
 @ucun	𒍷
 @uage	7.0
-@link eBL |EZEN×GUD| https://www.ebl.lmu.de/signs/|EZEN×GUD|
-@link Wikidata Q87556754 http://www.wikidata.org/entity/Q87556754
+@link	eBL |EZEN×GUD| https://www.ebl.lmu.de/signs/|EZEN×GUD|
+@link	Wikidata Q87556754 http://www.wikidata.org/entity/Q87556754
 @@
 @end sign
 
@@ -10719,8 +10627,8 @@
 @v	asila
 @v	asilal
 @v	silₓ
-@link eBL |EZEN×LAL₂| https://www.ebl.lmu.de/signs/|EZEN×LAL₂|
-@link Wikidata Q87555344 http://www.wikidata.org/entity/Q87555344
+@link	eBL |EZEN×LAL₂| https://www.ebl.lmu.de/signs/|EZEN×LAL₂|
+@link	Wikidata Q87555344 http://www.wikidata.org/entity/Q87555344
 @form EZEN
 @oid	o0000177
 @list	BAU298
@@ -10731,7 +10639,7 @@
 @list	RSP284
 @v	asila⁻
 @sys	Attinger asila⁻ => asila
-@link eBL EZEN https://www.ebl.lmu.de/signs/EZEN
+@link	eBL EZEN https://www.ebl.lmu.de/signs/EZEN
 @@
 @end sign
 
@@ -10744,8 +10652,8 @@
 @ucun	𒂱
 @uage	5.0
 @v	libin
-@link eBL |EZEN×LI| https://www.ebl.lmu.de/signs/|EZEN×LI|
-@link Wikidata Q87555345 http://www.wikidata.org/entity/Q87555345
+@link	eBL |EZEN×LI| https://www.ebl.lmu.de/signs/|EZEN×LI|
+@link	Wikidata Q87555345 http://www.wikidata.org/entity/Q87555345
 @end sign
 
 @sign |EZEN×LU|
@@ -10757,8 +10665,8 @@
 @ucun	𒂲
 @uage	5.0
 @v	lubun
-@link eBL |EZEN×LU| https://www.ebl.lmu.de/signs/|EZEN×LU|
-@link Wikidata Q87555347 http://www.wikidata.org/entity/Q87555347
+@link	eBL |EZEN×LU| https://www.ebl.lmu.de/signs/|EZEN×LU|
+@link	Wikidata Q87555347 http://www.wikidata.org/entity/Q87555347
 @end sign
 
 @sign |EZEN×SU|
@@ -10768,8 +10676,8 @@
 @list	U+124B5
 @ucun	𒒵
 @uage	8.0
-@link eBL |EZEN×SU| https://www.ebl.lmu.de/signs/|EZEN×SU|
-@link Wikidata Q87557188 http://www.wikidata.org/entity/Q87557188
+@link	eBL |EZEN×SU| https://www.ebl.lmu.de/signs/|EZEN×SU|
+@link	Wikidata Q87557188 http://www.wikidata.org/entity/Q87557188
 @end sign
 
 @sign |EZEN×ŠE|
@@ -10779,8 +10687,8 @@
 @ucun	𒍸
 @uage	7.0
 @v	ezen₄
-@link eBL |EZEN×ŠE| https://www.ebl.lmu.de/signs/|EZEN×ŠE|
-@link Wikidata Q87556757 http://www.wikidata.org/entity/Q87556757
+@link	eBL |EZEN×ŠE| https://www.ebl.lmu.de/signs/|EZEN×ŠE|
+@link	Wikidata Q87556757 http://www.wikidata.org/entity/Q87556757
 @end sign
 
 @sign |EZEN×ŠID|
@@ -10788,7 +10696,7 @@
 @inote	epsd2/royal
 @v	asilaₓ
 @v	asilalₓ
-@link eBL |EZEN×ŠID| https://www.ebl.lmu.de/signs/|EZEN×ŠID|
+@link	eBL |EZEN×ŠID| https://www.ebl.lmu.de/signs/|EZEN×ŠID|
 @end sign
 
 @sign |EZEN×U@c|
@@ -10807,8 +10715,8 @@
 @uage	5.0
 @v	usil
 @v	usilalₓ
-@link eBL |EZEN×U₂| https://www.ebl.lmu.de/signs/|EZEN×U₂|
-@link Wikidata Q87555348 http://www.wikidata.org/entity/Q87555348
+@link	eBL |EZEN×U₂| https://www.ebl.lmu.de/signs/|EZEN×U₂|
+@link	Wikidata Q87555348 http://www.wikidata.org/entity/Q87555348
 @end sign
 
 @sign |EZEN×UD|
@@ -10826,8 +10734,8 @@
 @v	sil₁₀
 @v	sillal
 @v	uruₓ
-@link eBL |EZEN×UD| https://www.ebl.lmu.de/signs/|EZEN×UD|
-@link Wikidata Q87555350 http://www.wikidata.org/entity/Q87555350
+@link	eBL |EZEN×UD| https://www.ebl.lmu.de/signs/|EZEN×UD|
+@link	Wikidata Q87555350 http://www.wikidata.org/entity/Q87555350
 @end sign
 
 @sign |EZEN×X|
@@ -10838,7 +10746,7 @@
 @v	udnimₓ
 @v	unₓ
 @v	uruₓ
-@link eBL |EZEN×X| https://www.ebl.lmu.de/signs/|EZEN×X|
+@link	eBL |EZEN×X| https://www.ebl.lmu.de/signs/|EZEN×X|
 @end sign
 
 @sign |EZEN×X.KI|
@@ -10846,6 +10754,11 @@
 @inote	For validating sign-lists
 @useq	X.x121A0
 @ucun	X𒆠
+@end sign
+
+@sign |EZEN×2(DIŠ@t)|
+@oid	o0038298
+@inote	could also be described as EZEN×TAB@t
 @end sign
 
 @sign EZEN@90
@@ -10862,8 +10775,8 @@
 @list	U+124AD
 @ucun	𒒭
 @uage	8.0
-@link eBL |EZEN@s×AŠ| https://www.ebl.lmu.de/signs/|EZEN@s×AŠ|
-@link Wikidata Q87557174 http://www.wikidata.org/entity/Q87557174
+@link	eBL |EZEN@s×AŠ| https://www.ebl.lmu.de/signs/|EZEN@s×AŠ|
+@link	Wikidata Q87557174 http://www.wikidata.org/entity/Q87557174
 @end sign
 
 @sign |EZEN@s×HI|
@@ -10873,8 +10786,8 @@
 @list	U+124AE
 @ucun	𒒮
 @uage	8.0
-@link eBL |EZEN@s×HI| https://www.ebl.lmu.de/signs/|EZEN@s×HI|
-@link Wikidata Q87557176 http://www.wikidata.org/entity/Q87557176
+@link	eBL |EZEN@s×HI| https://www.ebl.lmu.de/signs/|EZEN@s×HI|
+@link	Wikidata Q87557176 http://www.wikidata.org/entity/Q87557176
 @end sign
 
 @sign |EZEN@s×IGI@g|
@@ -10884,8 +10797,8 @@
 @list	U+124AF
 @ucun	𒒯
 @uage	8.0
-@link eBL |EZEN@s×IGI@g| https://www.ebl.lmu.de/signs/|EZEN@s×IGI@g|
-@link Wikidata Q87557178 http://www.wikidata.org/entity/Q87557178
+@link	eBL |EZEN@s×IGI@g| https://www.ebl.lmu.de/signs/|EZEN@s×IGI@g|
+@link	Wikidata Q87557178 http://www.wikidata.org/entity/Q87557178
 @end sign
 
 @sign |EZEN@s×LA|
@@ -10895,8 +10808,8 @@
 @list	U+124B0
 @ucun	𒒰
 @uage	8.0
-@link eBL |EZEN@s×LA| https://www.ebl.lmu.de/signs/|EZEN@s×LA|
-@link Wikidata Q87557180 http://www.wikidata.org/entity/Q87557180
+@link	eBL |EZEN@s×LA| https://www.ebl.lmu.de/signs/|EZEN@s×LA|
+@link	Wikidata Q87557180 http://www.wikidata.org/entity/Q87557180
 @end sign
 
 @sign |EZEN@s×LAL|
@@ -10906,8 +10819,8 @@
 @list	U+124B1
 @ucun	𒒱
 @uage	8.0
-@link eBL |EZEN@s×LAL| https://www.ebl.lmu.de/signs/|EZEN@s×LAL|
-@link Wikidata Q87557181 http://www.wikidata.org/entity/Q87557181
+@link	eBL |EZEN@s×LAL| https://www.ebl.lmu.de/signs/|EZEN@s×LAL|
+@link	Wikidata Q87557181 http://www.wikidata.org/entity/Q87557181
 @end sign
 
 @sign |EZEN@s×ME|
@@ -10917,8 +10830,8 @@
 @list	U+124B2
 @ucun	𒒲
 @uage	8.0
-@link eBL |EZEN@s×ME| https://www.ebl.lmu.de/signs/|EZEN@s×ME|
-@link Wikidata Q87557182 http://www.wikidata.org/entity/Q87557182
+@link	eBL |EZEN@s×ME| https://www.ebl.lmu.de/signs/|EZEN@s×ME|
+@link	Wikidata Q87557182 http://www.wikidata.org/entity/Q87557182
 @end sign
 
 @sign |EZEN@s×MES|
@@ -10928,8 +10841,8 @@
 @list	U+124B3
 @ucun	𒒳
 @uage	8.0
-@link eBL |EZEN@s×MES| https://www.ebl.lmu.de/signs/|EZEN@s×MES|
-@link Wikidata Q87557184 http://www.wikidata.org/entity/Q87557184
+@link	eBL |EZEN@s×MES| https://www.ebl.lmu.de/signs/|EZEN@s×MES|
+@link	Wikidata Q87557184 http://www.wikidata.org/entity/Q87557184
 @end sign
 
 @sign |EZEN@s×SU|
@@ -10939,8 +10852,8 @@
 @list	U+124B4
 @ucun	𒒴
 @uage	8.0
-@link eBL |EZEN@s×SU| https://www.ebl.lmu.de/signs/|EZEN@s×SU|
-@link Wikidata Q87557187 http://www.wikidata.org/entity/Q87557187
+@link	eBL |EZEN@s×SU| https://www.ebl.lmu.de/signs/|EZEN@s×SU|
+@link	Wikidata Q87557187 http://www.wikidata.org/entity/Q87557187
 @end sign
 
 @sign F₁
@@ -10950,11 +10863,11 @@
 @list	U+1245D
 @ucun	𒑝
 @uage	5.0
-@v	1/3(diš@c)
 @v	1/3(aš@c)
-@inote CDLI in quantities of silver--but 1/3(diš@c) may be better in those contexts
-@link eBL F₁ https://www.ebl.lmu.de/signs/F₁
-@link Wikidata Q87557046 http://www.wikidata.org/entity/Q87557046
+@inote	CDLI in quantities of silver--but 1/3(diš@c) may be better in those contexts
+@v	1/3(diš@c)
+@link	eBL F₁ https://www.ebl.lmu.de/signs/F₁
+@link	Wikidata Q87557046 http://www.wikidata.org/entity/Q87557046
 @end sign
 
 @sign F₂
@@ -10964,17 +10877,17 @@
 @list	U+1245E
 @ucun	𒑞
 @uage	5.0
-@v	2/3(diš@c)
 @v	2/3(aš@c)
-@link eBL F₂ https://www.ebl.lmu.de/signs/F₂
-@link Wikidata Q87557048 http://www.wikidata.org/entity/Q87557048
+@v	2/3(diš@c)
+@link	eBL F₂ https://www.ebl.lmu.de/signs/F₂
+@link	Wikidata Q87557048 http://www.wikidata.org/entity/Q87557048
 @form NIGIDAMIN@c
 @oid	o0223340
-@inote ED3a abbreviated form of F₂
+@inote	ED3a abbreviated form of F₂
 @@
 @form 2(DIŠ@c)
 @oid	o0223390
-@inote ED3a variant of NIGIDAMIN@c
+@inote	ED3a variant of NIGIDAMIN@c
 @@
 @end sign
 
@@ -10988,16 +10901,17 @@
 @ucun	𒑟
 @uage	5.0
 @v	1/8(iku)
-@link eBL F₃ https://www.ebl.lmu.de/signs/F₃
-@link Wikidata Q87557050 http://www.wikidata.org/entity/Q87557050
+@link	eBL F₃ https://www.ebl.lmu.de/signs/F₃
+@link	Wikidata Q87557050 http://www.wikidata.org/entity/Q87557050
 @form F₃@c
 @oid	o0223358
 @list	RSP033
 @v	1/8(iku@c)
+@@
 @form F₃@c@v
 @oid	o0038149
 @v	1/8(iku@c@v)
-@inote This form can be described as |1(DIŠ@c)&1(U@c)|
+@inote	This form can be described as |1(DIŠ@c)&1(U@c)|
 @@
 @end sign
 
@@ -11010,8 +10924,8 @@
 @ucun	𒑠
 @uage	5.0
 @v	1/4(iku)
-@link eBL F₄ https://www.ebl.lmu.de/signs/F₄
-@link Wikidata Q87557052 http://www.wikidata.org/entity/Q87557052
+@link	eBL F₄ https://www.ebl.lmu.de/signs/F₄
+@link	Wikidata Q87557052 http://www.wikidata.org/entity/Q87557052
 @form F₄@c
 @oid	o0223359
 @list	RSP026
@@ -11020,7 +10934,7 @@
 @form F₄@c@v
 @oid	o0038146
 @v	1/4(iku@c@v)
-@inote This variant can be described as |1(AŠ@c)×1(AŠ)|
+@inote	This variant can be described as |1(AŠ@c)×1(AŠ)|
 @@
 @end sign
 
@@ -11033,8 +10947,8 @@
 @list	U+12461
 @ucun	𒑡
 @uage	5.0
-@link eBL F₅ https://www.ebl.lmu.de/signs/F₅
-@link Wikidata Q87557054 http://www.wikidata.org/entity/Q87557054
+@link	eBL F₅ https://www.ebl.lmu.de/signs/F₅
+@link	Wikidata Q87557054 http://www.wikidata.org/entity/Q87557054
 @end sign
 
 @sign F₆
@@ -11046,71 +10960,33 @@
 @list	U+12462
 @ucun	𒑢
 @uage	5.0
-@link eBL F₆ https://www.ebl.lmu.de/signs/F₆
-@link Wikidata Q87557055 http://www.wikidata.org/entity/Q87557055
+@link	eBL F₆ https://www.ebl.lmu.de/signs/F₆
+@link	Wikidata Q87557055 http://www.wikidata.org/entity/Q87557055
 @end sign
 
 @sign F₇
 @oid	o0038137
 @v	1/2(diš@t)
-@inote P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ and F₇ is a NE to SW slanted cuneiform DIŠ with a horizontal indicating the half value as with 1/2(aš@c)
+@inote	P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ and F₇ is a NE to SW slanted cuneiform DIŠ with a horizontal indicating the half value as with 1/2(aš@c)
 @end sign
 
 @sign F₈
 @oid	o0038147
-@v	1/2(iku@c@v)
 @v	1/2(barig@c)
-@inote This form can be described as |1(DIŠ@c)×1(DIŠ)|
+@inote	This form can be described as |1(DIŠ@c)×1(DIŠ)|
+@v	1/2(iku@c@v)
 @form F₈@t
 @oid	o0038163
-@v	1/2(iku@t)
 @v	1/6(diš)
-@inote This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study
+@inote	This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study
+@v	1/2(iku@t)
 @@
 @end sign
 
 @sign F₉
 @oid	o0038173
 @v	1/4(iku@t)
-@inote This form is a NW to SE slanted cuneiform DIŠ with a horizontal; P392107
-@end sign
-
-@sign 1(IKU@t)
-@oid	o0038164
-@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
-@v	1(iku@t)
-@end sign
-
-@sign 2(IKU@t)
-@oid	o0038166
-@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
-@v	2(iku@t)
-@end sign
-
-@sign 3(IKU@t)
-@oid	o0038168
-@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
-@v	3(iku@t)
-@end sign
-
-@sign 4(IKU@t)
-@oid	o0038169
-@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
-@v	4(iku@t)
-@end sign
-
-@sign 5(IKU@t)
-@oid	o0038171
-@inote Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
-@v	5(iku@t)
-@end sign
-
-@sign |4×GABA|
-@oid	o0000647
-@inote	@uname-no-utf8	CUNEIFORM SIGN GABA SQUARED
-@v	tuddahaₓ
-@ref	BE 1/2, 129 = cdli:P263651 o i 5', tu-ud-da-ha-a-ta = |4×GABA|-a-ta
-@link eBL |4×GABA| https://www.ebl.lmu.de/signs/|4×GABA|
+@inote	This form is a NW to SE slanted cuneiform DIŠ with a horizontal; P392107
 @end sign
 
 @sign GA
@@ -11144,8 +11020,8 @@
 @v	kur₁₅
 @v	qa₂
 @v	šizbu
-@link eBL GA https://www.ebl.lmu.de/signs/GA
-@link Wikidata Q87555352 http://www.wikidata.org/entity/Q87555352
+@link	eBL GA https://www.ebl.lmu.de/signs/GA
+@link	Wikidata Q87555352 http://www.wikidata.org/entity/Q87555352
 @end sign
 
 @sign |GA.A|
@@ -11154,7 +11030,7 @@
 @ucun	𒂵𒀀
 @v	gar₁₁
 @v	gara₁₁
-@link eBL |GA.A| https://www.ebl.lmu.de/signs/|GA.A|
+@link	eBL |GA.A| https://www.ebl.lmu.de/signs/|GA.A|
 @end sign
 
 @sign |GA.DIŠ|
@@ -11162,7 +11038,7 @@
 @useq	x120B5.x12079
 @ucun	𒂵𒁹
 @v	gar₁₂
-@link eBL |GA.DIŠ| https://www.ebl.lmu.de/signs/|GA.DIŠ|
+@link	eBL |GA.DIŠ| https://www.ebl.lmu.de/signs/|GA.DIŠ|
 @end sign
 
 @sign |GA.GA|
@@ -11170,7 +11046,7 @@
 @useq	x120B5.x120B5
 @ucun	𒂵𒂵
 @v	garₓ
-@link eBL |GA.GA| https://www.ebl.lmu.de/signs/|GA.GA|
+@link	eBL |GA.GA| https://www.ebl.lmu.de/signs/|GA.GA|
 @end sign
 
 @sign |GA.KA×GU.SAR|
@@ -11185,7 +11061,7 @@
 @useq	x120B5.x12191
 @ucun	𒂵𒆑
 @v	pešₓ
-@link eBL |GA.KAD₃| https://www.ebl.lmu.de/signs/|GA.KAD₃|
+@link	eBL |GA.KAD₃| https://www.ebl.lmu.de/signs/|GA.KAD₃|
 @end sign
 
 @sign |GA.KASKAL|
@@ -11198,14 +11074,14 @@
 @v	gaiš
 @v	garaₓ
 @v	garaš₃
-@link eBL |GA.KASKAL| https://www.ebl.lmu.de/signs/|GA.KASKAL|
+@link	eBL |GA.KASKAL| https://www.ebl.lmu.de/signs/|GA.KASKAL|
 @end sign
 
 @sign |GA.KASKAL.KAL.NE|
 @oid	o0001170
 @useq	x120B5.x1219C.x12197.x12248
 @ucun	𒂵𒆜𒆗𒉈
-@link eBL |GA.KASKAL.KAL.NE| https://www.ebl.lmu.de/signs/|GA.KASKAL.KAL.NE|
+@link	eBL |GA.KASKAL.KAL.NE| https://www.ebl.lmu.de/signs/|GA.KASKAL.KAL.NE|
 @end sign
 
 @sign |GA.LAGAB|
@@ -11213,21 +11089,21 @@
 @useq	x120B5.x121B8
 @ucun	𒂵𒆸
 @v	kisim₆
-@link eBL |GA.LAGAB| https://www.ebl.lmu.de/signs/|GA.LAGAB|
+@link	eBL |GA.LAGAB| https://www.ebl.lmu.de/signs/|GA.LAGAB|
 @end sign
 
 @sign |GA.MA₂.DUB₂|
 @oid	o0001173
 @useq	x120B5.x12223.x12080
 @ucun	𒂵𒈣𒂀
-@link eBL |GA.MA₂.DUB₂| https://www.ebl.lmu.de/signs/|GA.MA₂.DUB₂|
+@link	eBL |GA.MA₂.DUB₂| https://www.ebl.lmu.de/signs/|GA.MA₂.DUB₂|
 @end sign
 
 @sign |GA.MA₂.KASKAL.IGI@g|
 @oid	o0001175
 @useq	x120B5.x12223.x1219C.x1214A
 @ucun	𒂵𒈣𒆜𒅊
-@link eBL |GA.MA₂.KASKAL.IGI@g| https://www.ebl.lmu.de/signs/|GA.MA₂.KASKAL.IGI@g|
+@link	eBL |GA.MA₂.KASKAL.IGI@g| https://www.ebl.lmu.de/signs/|GA.MA₂.KASKAL.IGI@g|
 @end sign
 
 @sign |GA.NI|
@@ -11236,7 +11112,7 @@
 @ucun	𒂵𒉌
 @v	gar₁₀
 @v	gara₁₀
-@link eBL |GA.NI| https://www.ebl.lmu.de/signs/|GA.NI|
+@link	eBL |GA.NI| https://www.ebl.lmu.de/signs/|GA.NI|
 @end sign
 
 @sign GA@g
@@ -11258,8 +11134,8 @@
 @v	gar₂
 @v	gara₂
 @v	haₓ
-@link eBL GA@g https://www.ebl.lmu.de/signs/GA@g
-@link Wikidata Q87555354 http://www.wikidata.org/entity/Q87555354
+@link	eBL GA@g https://www.ebl.lmu.de/signs/GA@g
+@link	Wikidata Q87555354 http://www.wikidata.org/entity/Q87555354
 @form |SA.NI|
 @oid	o0023073
 @inote	dcclt !sg
@@ -11307,8 +11183,8 @@
 @v	pisan
 @v	ša₁₃
 @sys	Attinger bešeŋ => bisaŋ
-@link eBL GA₂ https://www.ebl.lmu.de/signs/GA₂
-@link Wikidata Q87555355 http://www.wikidata.org/entity/Q87555355
+@link	eBL GA₂ https://www.ebl.lmu.de/signs/GA₂
+@link	Wikidata Q87555355 http://www.wikidata.org/entity/Q87555355
 @end sign
 
 @sign |GA₂.NU₁₁|
@@ -11330,12 +11206,12 @@
 @useq	x120B7.x122E1
 @ucun	𒂷𒋡
 @v	šitaₓ
-@link eBL |GA₂.SILA₃| https://www.ebl.lmu.de/signs/|GA₂.SILA₃|
+@link	eBL |GA₂.SILA₃| https://www.ebl.lmu.de/signs/|GA₂.SILA₃|
 @end sign
 
 @sign |GA₂×A|
 @oid	o0037208
-@inote epsd2/admin/ur3
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign |GA₂×(A.DA.HA)|
@@ -11346,8 +11222,8 @@
 @ucun	𒂸
 @uage	5.0
 @v	edakua
-@link eBL |GA₂×(A.DA.HA)| https://www.ebl.lmu.de/signs/|GA₂×(A.DA.HA)|
-@link Wikidata Q87555357 http://www.wikidata.org/entity/Q87555357
+@link	eBL |GA₂×(A.DA.HA)| https://www.ebl.lmu.de/signs/|GA₂×(A.DA.HA)|
+@link	Wikidata Q87555357 http://www.wikidata.org/entity/Q87555357
 @form |GA₂×(A.HA)|
 @oid	o0001248
 @pname	|GA₂×A+HA|
@@ -11357,7 +11233,7 @@
 @uage	5.0
 @v	addakuyaₓ
 @v	edakuaₓ
-@link Wikidata Q87555359 http://www.wikidata.org/entity/Q87555359
+@link	Wikidata Q87555359 http://www.wikidata.org/entity/Q87555359
 @@
 @form |GA₂×HA|
 @oid	o0018533
@@ -11365,12 +11241,6 @@
 @list	LAK694
 @list	ZATU173
 @list	ZATU180
-@@
-@form |GA₂×HA.A|
-@oid	o0018532
-@inote	See, e.g., P010060 o ii 6 where GA₂×HA is square like LAGAB and clearly closed with A written outside GA₂
-@useq	X.x12000
-@ucun	X𒀀
 @@
 @form |GA₂×(HA.A)|
 @oid	o0001262
@@ -11380,8 +11250,14 @@
 @uage	8.0
 @v	edakuaₓ
 @inote	See, e.g., P010481 o ii 6 where GA₂×(HA.A) is inside GA₂ box; contra CDLI comment GA₂ final vertical is in case ruling
-@link eBL |GA₂×(HA.A)| https://www.ebl.lmu.de/signs/|GA₂×(HA.A)|
-@link Wikidata Q87557207 http://www.wikidata.org/entity/Q87557207
+@link	eBL |GA₂×(HA.A)| https://www.ebl.lmu.de/signs/|GA₂×(HA.A)|
+@link	Wikidata Q87557207 http://www.wikidata.org/entity/Q87557207
+@@
+@form |GA₂×HA.A|
+@oid	o0018532
+@inote	See, e.g., P010060 o ii 6 where GA₂×HA is square like LAGAB and clearly closed with A written outside GA₂
+@useq	X.x12000
+@ucun	X𒀀
 @@
 @form |GA₂×(HA.HA)|
 @oid	o0027183
@@ -11394,7 +11270,11 @@
 @oid	o0001815
 @list	LAK784a
 @inote	In almost all collatable instances "LAGAB" has a secondary vertical like GA₂. In P251751 two LAGAB×HA have no visible secondary vertical
-@link eBL |LAGAB×HA| https://www.ebl.lmu.de/signs/|LAGAB×HA|
+@link	eBL |LAGAB×HA| https://www.ebl.lmu.de/signs/|LAGAB×HA|
+@@
+@form |LAGAB×(HA.A)|
+@oid	o0018538
+@inote	See, e.g., P427626 o 5
 @@
 @form |LAGAB×HA.A|
 @oid	o0018557
@@ -11402,17 +11282,13 @@
 @useq	x121C8.x12000
 @ucun	𒇈𒀀
 @@
-@form |LAGAB×(HA.A)|
-@oid	o0018538
-@inote	See, e.g., P427626 o 5
-@@
 @end sign
 
 @sign |GA₂×(A.EN)|
 @oid	o0001247
 @inote	epsd2
 @v	menₓ
-@link eBL |GA₂×(A.EN)| https://www.ebl.lmu.de/signs/|GA₂×(A.EN)|
+@link	eBL |GA₂×(A.EN)| https://www.ebl.lmu.de/signs/|GA₂×(A.EN)|
 @end sign
 
 @sign |GA₂×(A.IGI)|
@@ -11427,8 +11303,8 @@
 @v	alimₓ?
 @v	pi₇?
 @v	piru?
-@link eBL |GA₂×(A.IGI)| https://www.ebl.lmu.de/signs/|GA₂×(A.IGI)|
-@link Wikidata Q87555360 http://www.wikidata.org/entity/Q87555360
+@link	eBL |GA₂×(A.IGI)| https://www.ebl.lmu.de/signs/|GA₂×(A.IGI)|
+@link	Wikidata Q87555360 http://www.wikidata.org/entity/Q87555360
 @end sign
 
 @sign |GA₂×(AB₂@t.TAB)|
@@ -11441,7 +11317,7 @@
 @v	gakiṣṣu
 @inote	deprecate gakiṣṣu?
 @v	ŋakizzum
-@link eBL |GA₂×(AB₂@t.TAB)| https://www.ebl.lmu.de/signs/|GA₂×(AB₂@t.TAB)|
+@link	eBL |GA₂×(AB₂@t.TAB)| https://www.ebl.lmu.de/signs/|GA₂×(AB₂@t.TAB)|
 @form |GA₂×(AB₂×GAN₂@t.TAB)|
 @oid	o0036500
 @@
@@ -11485,8 +11361,8 @@
 @v	šaganₓ
 @v	šagganₓ
 @v	šakkan₇
-@link eBL |GA₂×AN| https://www.ebl.lmu.de/signs/|GA₂×AN|
-@link Wikidata Q87555364 http://www.wikidata.org/entity/Q87555364
+@link	eBL |GA₂×AN| https://www.ebl.lmu.de/signs/|GA₂×AN|
+@link	Wikidata Q87555364 http://www.wikidata.org/entity/Q87555364
 @end sign
 
 @sign |GA₂×AN.A.TU|
@@ -11496,7 +11372,7 @@
 @v	amedu
 @v	eme₄-e₄-du₂
 @v	emedu₂
-@link eBL |GA₂×AN.A.TU| https://www.ebl.lmu.de/signs/|GA₂×AN.A.TU|
+@link	eBL |GA₂×AN.A.TU| https://www.ebl.lmu.de/signs/|GA₂×AN.A.TU|
 @end sign
 
 @sign |GA₂×AN.AN.MUŠ₃|
@@ -11506,7 +11382,7 @@
 @v	agarim
 @v	amalu
 @v	amarim?
-@link eBL |GA₂×AN.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|GA₂×AN.AN.MUŠ₃|
+@link	eBL |GA₂×AN.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|GA₂×AN.AN.MUŠ₃|
 @end sign
 
 @sign |GA₂×AN.DUN₃@g|
@@ -11515,7 +11391,7 @@
 @ucun	𒂼𒂆
 @v	agarin₃
 @v	aŋarin₃
-@link eBL |GA₂×AN.DUN₃@g| https://www.ebl.lmu.de/signs/|GA₂×AN.DUN₃@g|
+@link	eBL |GA₂×AN.DUN₃@g| https://www.ebl.lmu.de/signs/|GA₂×AN.DUN₃@g|
 @form |GA₂×AN.DUN₃|
 @oid	o0023041
 @inote	dcclt !sg
@@ -11539,7 +11415,7 @@
 @ucun	𒍹
 @uage	7.0
 @v	usud
-@link Wikidata Q87556759 http://www.wikidata.org/entity/Q87556759
+@link	Wikidata Q87556759 http://www.wikidata.org/entity/Q87556759
 @end sign
 
 @sign |GA₂×AN.LUL|
@@ -11548,7 +11424,7 @@
 @ucun	𒂼𒈜
 @v	amalug?
 @v	malug?
-@link eBL |GA₂×AN.LUL| https://www.ebl.lmu.de/signs/|GA₂×AN.LUL|
+@link	eBL |GA₂×AN.LUL| https://www.ebl.lmu.de/signs/|GA₂×AN.LUL|
 @end sign
 
 @sign |GA₂×AN.MUŠ₃|
@@ -11565,7 +11441,7 @@
 @ucun	𒂼𒋆
 @v	agarin₄
 @v	aŋarin₄
-@link eBL |GA₂×AN.ŠIM| https://www.ebl.lmu.de/signs/|GA₂×AN.ŠIM|
+@link	eBL |GA₂×AN.ŠIM| https://www.ebl.lmu.de/signs/|GA₂×AN.ŠIM|
 @end sign
 
 @sign |GA₂×AN.ŠIM×GAR|
@@ -11575,7 +11451,7 @@
 @v	agarin₅
 @v	aŋarin₅
 @v	garinₓ
-@link eBL |GA₂×AN.ŠIM×GAR| https://www.ebl.lmu.de/signs/|GA₂×AN.ŠIM×GAR|
+@link	eBL |GA₂×AN.ŠIM×GAR| https://www.ebl.lmu.de/signs/|GA₂×AN.ŠIM×GAR|
 @end sign
 
 @sign |GA₂×AN.TU|
@@ -11585,7 +11461,7 @@
 @v	eme₄-du₂
 @v	emedu
 @v	emedudₓ
-@link eBL |GA₂×AN.TU| https://www.ebl.lmu.de/signs/|GA₂×AN.TU|
+@link	eBL |GA₂×AN.TU| https://www.ebl.lmu.de/signs/|GA₂×AN.TU|
 @end sign
 
 @sign |GA₂×AN.X|
@@ -11593,7 +11469,7 @@
 @useq	x120BC.O
 @ucun	𒂼X
 @v	kaxₓ
-@link eBL |GA₂×AN.X| https://www.ebl.lmu.de/signs/|GA₂×AN.X|
+@link	eBL |GA₂×AN.X| https://www.ebl.lmu.de/signs/|GA₂×AN.X|
 @end sign
 
 @sign |GA₂×AŠ|
@@ -11609,8 +11485,8 @@
 @v	gaiku
 @v	ŋaiku
 @v	iku₂
-@link eBL |GA₂×AŠ| https://www.ebl.lmu.de/signs/|GA₂×AŠ|
-@link Wikidata Q87555365 http://www.wikidata.org/entity/Q87555365
+@link	eBL |GA₂×AŠ| https://www.ebl.lmu.de/signs/|GA₂×AŠ|
+@link	Wikidata Q87555365 http://www.wikidata.org/entity/Q87555365
 @end sign
 
 @sign |GA₂×AŠ₂|
@@ -11622,7 +11498,7 @@
 @uage	7.0
 @v	gaziₓ
 @v	gazigalₓ
-@link Wikidata Q87556761 http://www.wikidata.org/entity/Q87556761
+@link	Wikidata Q87556761 http://www.wikidata.org/entity/Q87556761
 @end sign
 
 @sign |GA₂×(AŠ₂.GAL)|
@@ -11635,8 +11511,8 @@
 @ucun	𒂾
 @uage	5.0
 @v	gazigal
-@link eBL |GA₂×(AŠ₂.GAL)| https://www.ebl.lmu.de/signs/|GA₂×(AŠ₂.GAL)|
-@link Wikidata Q87555367 http://www.wikidata.org/entity/Q87555367
+@link	eBL |GA₂×(AŠ₂.GAL)| https://www.ebl.lmu.de/signs/|GA₂×(AŠ₂.GAL)|
+@link	Wikidata Q87555367 http://www.wikidata.org/entity/Q87555367
 @end sign
 
 @sign |GA₂×(AŠ₂.TUR)|
@@ -11657,8 +11533,8 @@
 @v	sabad₂
 @v	sad₃
 @v	tilhar
-@link eBL |GA₂×BAD| https://www.ebl.lmu.de/signs/|GA₂×BAD|
-@link Wikidata Q87555370 http://www.wikidata.org/entity/Q87555370
+@link	eBL |GA₂×BAD| https://www.ebl.lmu.de/signs/|GA₂×BAD|
+@link	Wikidata Q87555370 http://www.wikidata.org/entity/Q87555370
 @end sign
 
 @sign |GA₂×BAHAR₂|
@@ -11668,8 +11544,8 @@
 @list	U+124B6
 @ucun	𒒶
 @uage	8.0
-@link eBL |GA₂×BAHAR₂| https://www.ebl.lmu.de/signs/|GA₂×BAHAR₂|
-@link Wikidata Q87557190 http://www.wikidata.org/entity/Q87557190
+@link	eBL |GA₂×BAHAR₂| https://www.ebl.lmu.de/signs/|GA₂×BAHAR₂|
+@link	Wikidata Q87557190 http://www.wikidata.org/entity/Q87557190
 @end sign
 
 @sign |GA₂×(BAR.RA)|
@@ -11682,8 +11558,13 @@
 @v	eburra?
 @v	gaburraₓ?
 @inote	dupfix MZL gaburra(|GA₂×BUR.RA|)
-@link eBL |GA₂×(BAR.RA)| https://www.ebl.lmu.de/signs/|GA₂×(BAR.RA)|
-@link Wikidata Q87555371 http://www.wikidata.org/entity/Q87555371
+@link	eBL |GA₂×(BAR.RA)| https://www.ebl.lmu.de/signs/|GA₂×(BAR.RA)|
+@link	Wikidata Q87555371 http://www.wikidata.org/entity/Q87555371
+@end sign
+
+@sign |GA₂×BU|
+@oid	o0038197
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign |GA₂×BUR|
@@ -11695,8 +11576,8 @@
 @uage	5.0
 @v-	ŋaburraₓ
 @note	for ED ŋaburra see variant |GA₂×BUR.ME| under |GA₂×(BUR.RA)|
-@link eBL |GA₂×BUR| https://www.ebl.lmu.de/signs/|GA₂×BUR|
-@link Wikidata Q87555374 http://www.wikidata.org/entity/Q87555374
+@link	eBL |GA₂×BUR| https://www.ebl.lmu.de/signs/|GA₂×BUR|
+@link	Wikidata Q87555374 http://www.wikidata.org/entity/Q87555374
 @end sign
 
 @sign |GA₂×(BUR.LA)|
@@ -11715,8 +11596,8 @@
 @uage	5.0
 @v	gaburra
 @v	ŋaburra
-@link eBL |GA₂×(BUR.RA)| https://www.ebl.lmu.de/signs/|GA₂×(BUR.RA)|
-@link Wikidata Q87555377 http://www.wikidata.org/entity/Q87555377
+@link	eBL |GA₂×(BUR.RA)| https://www.ebl.lmu.de/signs/|GA₂×(BUR.RA)|
+@link	Wikidata Q87555377 http://www.wikidata.org/entity/Q87555377
 @form |GA₂×BUR.ME|
 @oid	o0001290
 @useq	x120C1.x12228
@@ -11737,8 +11618,8 @@
 @uage	5.0
 @v	dan₇
 @v	tan₇
-@link eBL |GA₂×DA| https://www.ebl.lmu.de/signs/|GA₂×DA|
-@link Wikidata Q87555379 http://www.wikidata.org/entity/Q87555379
+@link	eBL |GA₂×DA| https://www.ebl.lmu.de/signs/|GA₂×DA|
+@link	Wikidata Q87555379 http://www.wikidata.org/entity/Q87555379
 @end sign
 
 @sign |GA₂×DI|
@@ -11753,8 +11634,8 @@
 @uage	5.0
 @v	edi
 @v	gadi
-@link eBL |GA₂×DI| https://www.ebl.lmu.de/signs/|GA₂×DI|
-@link Wikidata Q87555380 http://www.wikidata.org/entity/Q87555380
+@link	eBL |GA₂×DI| https://www.ebl.lmu.de/signs/|GA₂×DI|
+@link	Wikidata Q87555380 http://www.wikidata.org/entity/Q87555380
 @end sign
 
 @sign |GA₂×DIM|
@@ -11771,8 +11652,8 @@
 @ucun	𒃅
 @uage	5.0
 @v	munu₃
-@link eBL |GA₂×DIM×ŠE| https://www.ebl.lmu.de/signs/|GA₂×DIM×ŠE|
-@link Wikidata Q87555382 http://www.wikidata.org/entity/Q87555382
+@link	eBL |GA₂×DIM×ŠE| https://www.ebl.lmu.de/signs/|GA₂×DIM×ŠE|
+@link	Wikidata Q87555382 http://www.wikidata.org/entity/Q87555382
 @end sign
 
 @sign |GA₂×DIM@g|
@@ -11783,8 +11664,8 @@
 @list	U+124B7
 @ucun	𒒷
 @uage	8.0
-@link eBL |GA₂×DIM@g| https://www.ebl.lmu.de/signs/|GA₂×DIM@g|
-@link Wikidata Q87557194 http://www.wikidata.org/entity/Q87557194
+@link	eBL |GA₂×DIM@g| https://www.ebl.lmu.de/signs/|GA₂×DIM@g|
+@link	Wikidata Q87557194 http://www.wikidata.org/entity/Q87557194
 @end sign
 
 @sign |GA₂×DUB|
@@ -11798,8 +11679,8 @@
 @v	emedub
 @v	gadub
 @v	ŋadub
-@link eBL |GA₂×DUB| https://www.ebl.lmu.de/signs/|GA₂×DUB|
-@link Wikidata Q87555385 http://www.wikidata.org/entity/Q87555385
+@link	eBL |GA₂×DUB| https://www.ebl.lmu.de/signs/|GA₂×DUB|
+@link	Wikidata Q87555385 http://www.wikidata.org/entity/Q87555385
 @end sign
 
 @sign |GA₂×(DUG×IGI@g)|
@@ -11809,8 +11690,8 @@
 @list	U+124B8
 @ucun	𒒸
 @uage	8.0
-@link eBL |GA₂×(DUG×IGI@g)| https://www.ebl.lmu.de/signs/|GA₂×(DUG×IGI@g)|
-@link Wikidata Q87557196 http://www.wikidata.org/entity/Q87557196
+@link	eBL |GA₂×(DUG×IGI@g)| https://www.ebl.lmu.de/signs/|GA₂×(DUG×IGI@g)|
+@link	Wikidata Q87557196 http://www.wikidata.org/entity/Q87557196
 @end sign
 
 @sign |GA₂×(DUG×KASKAL)|
@@ -11820,8 +11701,8 @@
 @list	U+124B9
 @ucun	𒒹
 @uage	8.0
-@link eBL |GA₂×(DUG×KASKAL)| https://www.ebl.lmu.de/signs/|GA₂×(DUG×KASKAL)|
-@link Wikidata Q87557198 http://www.wikidata.org/entity/Q87557198
+@link	eBL |GA₂×(DUG×KASKAL)| https://www.ebl.lmu.de/signs/|GA₂×(DUG×KASKAL)|
+@link	Wikidata Q87557198 http://www.wikidata.org/entity/Q87557198
 @end sign
 
 @sign |GA₂×EL|
@@ -11831,8 +11712,8 @@
 @ucun	𒃇
 @uage	5.0
 @v	ŋasikillaₓ
-@link eBL |GA₂×EL| https://www.ebl.lmu.de/signs/|GA₂×EL|
-@link Wikidata Q87555386 http://www.wikidata.org/entity/Q87555386
+@link	eBL |GA₂×EL| https://www.ebl.lmu.de/signs/|GA₂×EL|
+@link	Wikidata Q87555386 http://www.wikidata.org/entity/Q87555386
 @end sign
 
 @sign |GA₂×(EL.LA)|
@@ -11848,8 +11729,8 @@
 @v	esikilla
 @v	gasikilla
 @v	ŋasikilla
-@link eBL |GA₂×(EL.LA)| https://www.ebl.lmu.de/signs/|GA₂×(EL.LA)|
-@link Wikidata Q87555388 http://www.wikidata.org/entity/Q87555388
+@link	eBL |GA₂×(EL.LA)| https://www.ebl.lmu.de/signs/|GA₂×(EL.LA)|
+@link	Wikidata Q87555388 http://www.wikidata.org/entity/Q87555388
 @end sign
 
 @sign |GA₂×EN|
@@ -11865,8 +11746,8 @@
 @ucun	𒃉
 @uage	5.0
 @v	menₓ
-@link eBL |GA₂×EN| https://www.ebl.lmu.de/signs/|GA₂×EN|
-@link Wikidata Q87555390 http://www.wikidata.org/entity/Q87555390
+@link	eBL |GA₂×EN| https://www.ebl.lmu.de/signs/|GA₂×EN|
+@link	Wikidata Q87555390 http://www.wikidata.org/entity/Q87555390
 @end sign
 
 @sign |GA₂×EN.NUN|
@@ -11874,7 +11755,7 @@
 @useq	x120C9.x12263
 @ucun	𒃉𒉣
 @v	ŋanunₓ
-@link eBL |GA₂×EN.NUN| https://www.ebl.lmu.de/signs/|GA₂×EN.NUN|
+@link	eBL |GA₂×EN.NUN| https://www.ebl.lmu.de/signs/|GA₂×EN.NUN|
 @end sign
 
 @sign |GA₂×EN×GAN₂@t|
@@ -11888,8 +11769,8 @@
 @v	esibir
 @v	gasibir
 @v	ŋasibir
-@link eBL |GA₂×EN×GAN₂@t| https://www.ebl.lmu.de/signs/|GA₂×EN×GAN₂@t|
-@link Wikidata Q87555393 http://www.wikidata.org/entity/Q87555393
+@link	eBL |GA₂×EN×GAN₂@t| https://www.ebl.lmu.de/signs/|GA₂×EN×GAN₂@t|
+@link	Wikidata Q87555393 http://www.wikidata.org/entity/Q87555393
 @end sign
 
 @sign |GA₂×EREN|
@@ -11899,8 +11780,8 @@
 @list	U+124BA
 @ucun	𒒺
 @uage	8.0
-@link eBL |GA₂×EREN| https://www.ebl.lmu.de/signs/|GA₂×EREN|
-@link Wikidata Q87557200 http://www.wikidata.org/entity/Q87557200
+@link	eBL |GA₂×EREN| https://www.ebl.lmu.de/signs/|GA₂×EREN|
+@link	Wikidata Q87557200 http://www.wikidata.org/entity/Q87557200
 @end sign
 
 @sign |GA₂×GA|
@@ -11910,8 +11791,8 @@
 @list	U+124BB
 @ucun	𒒻
 @uage	8.0
-@link eBL |GA₂×GA| https://www.ebl.lmu.de/signs/|GA₂×GA|
-@link Wikidata Q87557201 http://www.wikidata.org/entity/Q87557201
+@link	eBL |GA₂×GA| https://www.ebl.lmu.de/signs/|GA₂×GA|
+@link	Wikidata Q87557201 http://www.wikidata.org/entity/Q87557201
 @end sign
 
 @sign |GA₂×GAM|
@@ -11931,8 +11812,8 @@
 @uage	5.0
 @v	dan₄
 @v	tan₄
-@link eBL |GA₂×GAN₂@t| https://www.ebl.lmu.de/signs/|GA₂×GAN₂@t|
-@link Wikidata Q87555395 http://www.wikidata.org/entity/Q87555395
+@link	eBL |GA₂×GAN₂@t| https://www.ebl.lmu.de/signs/|GA₂×GAN₂@t|
+@link	Wikidata Q87555395 http://www.wikidata.org/entity/Q87555395
 @end sign
 
 @sign |GA₂×GAR|
@@ -11954,8 +11835,8 @@
 @v	išhara
 @v	išhuru
 @v	malga?
-@link eBL |GA₂×GAR| https://www.ebl.lmu.de/signs/|GA₂×GAR|
-@link Wikidata Q87555397 http://www.wikidata.org/entity/Q87555397
+@link	eBL |GA₂×GAR| https://www.ebl.lmu.de/signs/|GA₂×GAR|
+@link	Wikidata Q87555397 http://www.wikidata.org/entity/Q87555397
 @end sign
 
 @sign |GA₂×(GAR.DI)|
@@ -11965,8 +11846,8 @@
 @list	U+124BC
 @ucun	𒒼
 @uage	8.0
-@link eBL |GA₂×(GAR.DI)| https://www.ebl.lmu.de/signs/|GA₂×(GAR.DI)|
-@link Wikidata Q87557203 http://www.wikidata.org/entity/Q87557203
+@link	eBL |GA₂×(GAR.DI)| https://www.ebl.lmu.de/signs/|GA₂×(GAR.DI)|
+@link	Wikidata Q87557203 http://www.wikidata.org/entity/Q87557203
 @end sign
 
 @sign |GA₂×(GAR.ME)|
@@ -11988,8 +11869,8 @@
 @list	U+124BD
 @ucun	𒒽
 @uage	8.0
-@link eBL |GA₂×(GAR.NE)| https://www.ebl.lmu.de/signs/|GA₂×(GAR.NE)|
-@link Wikidata Q87557205 http://www.wikidata.org/entity/Q87557205
+@link	eBL |GA₂×(GAR.NE)| https://www.ebl.lmu.de/signs/|GA₂×(GAR.NE)|
+@link	Wikidata Q87557205 http://www.wikidata.org/entity/Q87557205
 @end sign
 
 @sign |GA₂×GI|
@@ -12014,8 +11895,8 @@
 @v	ŋagia₂
 @v	pisagₓ
 @v	pisanₓ
-@link eBL |GA₂×GI| https://www.ebl.lmu.de/signs/|GA₂×GI|
-@link Wikidata Q87555399 http://www.wikidata.org/entity/Q87555399
+@link	eBL |GA₂×GI| https://www.ebl.lmu.de/signs/|GA₂×GI|
+@link	Wikidata Q87555399 http://www.wikidata.org/entity/Q87555399
 @end sign
 
 @sign |GA₂×GI₄|
@@ -12035,8 +11916,8 @@
 @v	ŋagia
 @v	pisagₓ
 @v	pisanₓ
-@link eBL |GA₂×GI₄| https://www.ebl.lmu.de/signs/|GA₂×GI₄|
-@link Wikidata Q87555401 http://www.wikidata.org/entity/Q87555401
+@link	eBL |GA₂×GI₄| https://www.ebl.lmu.de/signs/|GA₂×GI₄|
+@link	Wikidata Q87555401 http://www.wikidata.org/entity/Q87555401
 @end sign
 
 @sign |GA₂×(GI₄.A)|
@@ -12047,8 +11928,8 @@
 @ucun	𒃏
 @uage	5.0
 @v	ŋagiaₓ
-@link eBL |GA₂×(GI₄.A)| https://www.ebl.lmu.de/signs/|GA₂×(GI₄.A)|
-@link Wikidata Q87555403 http://www.wikidata.org/entity/Q87555403
+@link	eBL |GA₂×(GI₄.A)| https://www.ebl.lmu.de/signs/|GA₂×(GI₄.A)|
+@link	Wikidata Q87555403 http://www.wikidata.org/entity/Q87555403
 @end sign
 
 @sign |GA₂×(GIR₂.SU)|
@@ -12063,8 +11944,8 @@
 @v	egirsu
 @v	gagirsu
 @v	ŋaŋirsu
-@link eBL |GA₂×(GIR₂.SU)| https://www.ebl.lmu.de/signs/|GA₂×(GIR₂.SU)|
-@link Wikidata Q87555404 http://www.wikidata.org/entity/Q87555404
+@link	eBL |GA₂×(GIR₂.SU)| https://www.ebl.lmu.de/signs/|GA₂×(GIR₂.SU)|
+@link	Wikidata Q87555404 http://www.wikidata.org/entity/Q87555404
 @end sign
 
 @sign |GA₂×GIŠ|
@@ -12088,8 +11969,8 @@
 @ucun	𒃑
 @uage	5.0
 @v	halubba
-@link eBL |GA₂×(HA.LU.EŠ₂)| https://www.ebl.lmu.de/signs/|GA₂×(HA.LU.EŠ₂)|
-@link Wikidata Q87555406 http://www.wikidata.org/entity/Q87555406
+@link	eBL |GA₂×(HA.LU.EŠ₂)| https://www.ebl.lmu.de/signs/|GA₂×(HA.LU.EŠ₂)|
+@link	Wikidata Q87555406 http://www.wikidata.org/entity/Q87555406
 @form |GA₂×(HA.LU.UB)|
 @oid	o0027863
 @inote	Certainly UB₁ not UB₂(EŠ₂) on P388293 i 7, collated from photo.
@@ -12103,8 +11984,8 @@
 @ucun	𒃒
 @uage	5.0
 @v	ŋahallaₓ
-@link eBL |GA₂×HAL| https://www.ebl.lmu.de/signs/|GA₂×HAL|
-@link Wikidata Q87555408 http://www.wikidata.org/entity/Q87555408
+@link	eBL |GA₂×HAL| https://www.ebl.lmu.de/signs/|GA₂×HAL|
+@link	Wikidata Q87555408 http://www.wikidata.org/entity/Q87555408
 @end sign
 
 @sign |GA₂×(HAL.LA)|
@@ -12119,8 +12000,8 @@
 @v	ehalla
 @v	gahalla
 @v	ŋahalla
-@link eBL |GA₂×(HAL.LA)| https://www.ebl.lmu.de/signs/|GA₂×(HAL.LA)|
-@link Wikidata Q87555410 http://www.wikidata.org/entity/Q87555410
+@link	eBL |GA₂×(HAL.LA)| https://www.ebl.lmu.de/signs/|GA₂×(HAL.LA)|
+@link	Wikidata Q87555410 http://www.wikidata.org/entity/Q87555410
 @end sign
 
 @sign |GA₂×(HI.LI)|
@@ -12135,8 +12016,8 @@
 @v	ehili
 @v	gahili
 @v	ŋahili
-@link eBL |GA₂×(HI.LI)| https://www.ebl.lmu.de/signs/|GA₂×(HI.LI)|
-@link Wikidata Q87555412 http://www.wikidata.org/entity/Q87555412
+@link	eBL |GA₂×(HI.LI)| https://www.ebl.lmu.de/signs/|GA₂×(HI.LI)|
+@link	Wikidata Q87555412 http://www.wikidata.org/entity/Q87555412
 @end sign
 
 @sign |GA₂×HUB₂|
@@ -12148,8 +12029,8 @@
 @ucun	𒃕
 @uage	5.0
 @v	garaš
-@link eBL |GA₂×HUB₂| https://www.ebl.lmu.de/signs/|GA₂×HUB₂|
-@link Wikidata Q87555414 http://www.wikidata.org/entity/Q87555414
+@link	eBL |GA₂×HUB₂| https://www.ebl.lmu.de/signs/|GA₂×HUB₂|
+@link	Wikidata Q87555414 http://www.wikidata.org/entity/Q87555414
 @end sign
 
 @sign |GA₂×IGI@g|
@@ -12165,17 +12046,17 @@
 @v	galgaₓ
 @v	sabad₃
 @v	sad₄
-@link eBL |GA₂×IGI@g| https://www.ebl.lmu.de/signs/|GA₂×IGI@g|
-@link Wikidata Q87555415 http://www.wikidata.org/entity/Q87555415
+@link	eBL |GA₂×IGI@g| https://www.ebl.lmu.de/signs/|GA₂×IGI@g|
+@link	Wikidata Q87555415 http://www.wikidata.org/entity/Q87555415
 @end sign
 
 @sign |GA₂×(IGI@g.ME)|
 @oid	o0221865
 @v	immaₓ
-@inote CCPo
+@inote	CCPo
 @v	išharaₓ
-@inote sfs--from epsd2 admin/names
-@form	|GA₂×IGI@g|
+@inote	sfs--from epsd2 admin/names
+@form |GA₂×IGI@g|
 @oid	o0001309
 @@
 @end sign
@@ -12196,8 +12077,8 @@
 @uage	5.0
 @v	išhuru₅
 @v	išhurum₅
-@link eBL |GA₂×(IŠ.HU.AŠ)| https://www.ebl.lmu.de/signs/|GA₂×(IŠ.HU.AŠ)|
-@link Wikidata Q87555417 http://www.wikidata.org/entity/Q87555417
+@link	eBL |GA₂×(IŠ.HU.AŠ)| https://www.ebl.lmu.de/signs/|GA₂×(IŠ.HU.AŠ)|
+@link	Wikidata Q87555417 http://www.wikidata.org/entity/Q87555417
 @end sign
 
 @sign |GA₂×KAK|
@@ -12210,8 +12091,8 @@
 @uage	5.0
 @v	am₄?
 @v	ama₄
-@link eBL |GA₂×KAK| https://www.ebl.lmu.de/signs/|GA₂×KAK|
-@link Wikidata Q87555419 http://www.wikidata.org/entity/Q87555419
+@link	eBL |GA₂×KAK| https://www.ebl.lmu.de/signs/|GA₂×KAK|
+@link	Wikidata Q87555419 http://www.wikidata.org/entity/Q87555419
 @end sign
 
 @sign |GA₂×(KAL.AN)|
@@ -12229,8 +12110,8 @@
 @uage	5.0
 @v	me₇
 @v	menₓ
-@link eBL |GA₂×KASKAL| https://www.ebl.lmu.de/signs/|GA₂×KASKAL|
-@link Wikidata Q87555422 http://www.wikidata.org/entity/Q87555422
+@link	eBL |GA₂×KASKAL| https://www.ebl.lmu.de/signs/|GA₂×KASKAL|
+@link	Wikidata Q87555422 http://www.wikidata.org/entity/Q87555422
 @end sign
 
 @sign |GA₂×KID|
@@ -12240,8 +12121,8 @@
 @ucun	𒃚
 @uage	5.0
 @v	ŋalillaₓ
-@link eBL |GA₂×KID| https://www.ebl.lmu.de/signs/|GA₂×KID|
-@link Wikidata Q87555423 http://www.wikidata.org/entity/Q87555423
+@link	eBL |GA₂×KID| https://www.ebl.lmu.de/signs/|GA₂×KID|
+@link	Wikidata Q87555423 http://www.wikidata.org/entity/Q87555423
 @end sign
 
 @sign |GA₂×(KID.LAL)|
@@ -12256,8 +12137,8 @@
 @v	elilla
 @v	galilla
 @v	ŋalilla
-@link eBL |GA₂×(KID.LAL)| https://www.ebl.lmu.de/signs/|GA₂×(KID.LAL)|
-@link Wikidata Q87555425 http://www.wikidata.org/entity/Q87555425
+@link	eBL |GA₂×(KID.LAL)| https://www.ebl.lmu.de/signs/|GA₂×(KID.LAL)|
+@link	Wikidata Q87555425 http://www.wikidata.org/entity/Q87555425
 @end sign
 
 @sign |GA₂×KU|
@@ -12278,8 +12159,8 @@
 @v	gaʾazag?
 @v	gazag?
 @v	ŋasag?
-@link eBL |GA₂×(KU₃.AN)| https://www.ebl.lmu.de/signs/|GA₂×(KU₃.AN)|
-@link Wikidata Q87555427 http://www.wikidata.org/entity/Q87555427
+@link	eBL |GA₂×(KU₃.AN)| https://www.ebl.lmu.de/signs/|GA₂×(KU₃.AN)|
+@link	Wikidata Q87555427 http://www.wikidata.org/entity/Q87555427
 @end sign
 
 @sign |GA₂×(KUŠU₂.KASKAL)|
@@ -12289,8 +12170,8 @@
 @list	U+124BF
 @ucun	𒒿
 @uage	8.0
-@link eBL |GA₂×(KUŠU₂.KASKAL)| https://www.ebl.lmu.de/signs/|GA₂×(KUŠU₂.KASKAL)|
-@link Wikidata Q87557209 http://www.wikidata.org/entity/Q87557209
+@link	eBL |GA₂×(KUŠU₂.KASKAL)| https://www.ebl.lmu.de/signs/|GA₂×(KUŠU₂.KASKAL)|
+@link	Wikidata Q87557209 http://www.wikidata.org/entity/Q87557209
 @end sign
 
 @sign |GA₂×LA|
@@ -12300,15 +12181,8 @@
 @ucun	𒃝
 @uage	5.0
 @v	daŋalₓ
-@link eBL |GA₂×LA| https://www.ebl.lmu.de/signs/|GA₂×LA|
-@link Wikidata Q87555428 http://www.wikidata.org/entity/Q87555428
-@end sign
-
-@sign |GA₂×SANGA₂|
-@aka |GA₂×LAK175|
-@oid	o0031654
-@inote	addx dcclt/ebla
-@v	šangaₓ
+@link	eBL |GA₂×LA| https://www.ebl.lmu.de/signs/|GA₂×LA|
+@link	Wikidata Q87555428 http://www.wikidata.org/entity/Q87555428
 @end sign
 
 @sign |GA₂×LAM|
@@ -12318,8 +12192,8 @@
 @list	U+124C0
 @ucun	𒓀
 @uage	8.0
-@link eBL |GA₂×LAM| https://www.ebl.lmu.de/signs/|GA₂×LAM|
-@link Wikidata Q87557210 http://www.wikidata.org/entity/Q87557210
+@link	eBL |GA₂×LAM| https://www.ebl.lmu.de/signs/|GA₂×LAM|
+@link	Wikidata Q87557210 http://www.wikidata.org/entity/Q87557210
 @end sign
 
 @sign |GA₂×(LAM×KUR)|
@@ -12329,8 +12203,8 @@
 @list	U+124C1
 @ucun	𒓁
 @uage	8.0
-@link eBL |GA₂×(LAM×KUR)| https://www.ebl.lmu.de/signs/|GA₂×(LAM×KUR)|
-@link Wikidata Q87557213 http://www.wikidata.org/entity/Q87557213
+@link	eBL |GA₂×(LAM×KUR)| https://www.ebl.lmu.de/signs/|GA₂×(LAM×KUR)|
+@link	Wikidata Q87557213 http://www.wikidata.org/entity/Q87557213
 @end sign
 
 @sign |GA₂×LI|
@@ -12346,13 +12220,13 @@
 @list	U+124C2
 @ucun	𒓂
 @uage	8.0
-@link eBL |GA₂×LUH| https://www.ebl.lmu.de/signs/|GA₂×LUH|
-@link Wikidata Q87557215 http://www.wikidata.org/entity/Q87557215
+@link	eBL |GA₂×LUH| https://www.ebl.lmu.de/signs/|GA₂×LUH|
+@link	Wikidata Q87557215 http://www.wikidata.org/entity/Q87557215
 @end sign
 
 @sign |GA₂×ME|
-@oid o0038201
-@inote epsd2/admin/ur3
+@oid	o0038201
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign |GA₂×(ME.EN)|
@@ -12376,8 +12250,8 @@
 @v	min₇
 @v	tan₂
 @v	tanaₓ
-@link eBL |GA₂×(ME.EN)| https://www.ebl.lmu.de/signs/|GA₂×(ME.EN)|
-@link Wikidata Q87555430 http://www.wikidata.org/entity/Q87555430
+@link	eBL |GA₂×(ME.EN)| https://www.ebl.lmu.de/signs/|GA₂×(ME.EN)|
+@link	Wikidata Q87555430 http://www.wikidata.org/entity/Q87555430
 @form |GA₂×(EN.ME)|
 @oid	o0031764
 @@
@@ -12402,8 +12276,8 @@
 @v	itim
 @v	itima
 @v	utima
-@link eBL |GA₂×MI| https://www.ebl.lmu.de/signs/|GA₂×MI|
-@link Wikidata Q87555432 http://www.wikidata.org/entity/Q87555432
+@link	eBL |GA₂×MI| https://www.ebl.lmu.de/signs/|GA₂×MI|
+@link	Wikidata Q87555432 http://www.wikidata.org/entity/Q87555432
 @end sign
 
 @sign |GA₂×MUŠ|
@@ -12413,8 +12287,8 @@
 @list	U+124C3
 @ucun	𒓃
 @uage	8.0
-@link eBL |GA₂×MUŠ| https://www.ebl.lmu.de/signs/|GA₂×MUŠ|
-@link Wikidata Q87557217 http://www.wikidata.org/entity/Q87557217
+@link	eBL |GA₂×MUŠ| https://www.ebl.lmu.de/signs/|GA₂×MUŠ|
+@link	Wikidata Q87557217 http://www.wikidata.org/entity/Q87557217
 @end sign
 
 @sign |GA₂×NE|
@@ -12424,8 +12298,8 @@
 @list	U+124C4
 @ucun	𒓄
 @uage	8.0
-@link eBL |GA₂×NE| https://www.ebl.lmu.de/signs/|GA₂×NE|
-@link Wikidata Q87557219 http://www.wikidata.org/entity/Q87557219
+@link	eBL |GA₂×NE| https://www.ebl.lmu.de/signs/|GA₂×NE|
+@link	Wikidata Q87557219 http://www.wikidata.org/entity/Q87557219
 @end sign
 
 @sign |GA₂×(NE.E₂)|
@@ -12439,8 +12313,8 @@
 @uage	8.0
 @v	halubₓ
 @lit	Sallaberger Tell Beydar Subartu II 178
-@link eBL |GA₂×(NE.E₂)| https://www.ebl.lmu.de/signs/|GA₂×(NE.E₂)|
-@link Wikidata Q87557222 http://www.wikidata.org/entity/Q87557222
+@link	eBL |GA₂×(NE.E₂)| https://www.ebl.lmu.de/signs/|GA₂×(NE.E₂)|
+@link	Wikidata Q87557222 http://www.wikidata.org/entity/Q87557222
 @form |GA₂×(E₂.NE)|
 @oid	o0001257
 @@
@@ -12453,8 +12327,8 @@
 @list	U+124C6
 @ucun	𒓆
 @uage	8.0
-@link eBL |GA₂×(NE.GI)| https://www.ebl.lmu.de/signs/|GA₂×(NE.GI)|
-@link Wikidata Q87557224 http://www.wikidata.org/entity/Q87557224
+@link	eBL |GA₂×(NE.GI)| https://www.ebl.lmu.de/signs/|GA₂×(NE.GI)|
+@link	Wikidata Q87557224 http://www.wikidata.org/entity/Q87557224
 @end sign
 
 @sign |GA₂×NUN|
@@ -12474,8 +12348,8 @@
 @v	ŋanun
 @v	ušuš
 @inote	In {u₂}ušuš is u₂ a determinative or part of the compound sign?
-@link eBL |GA₂×NUN| https://www.ebl.lmu.de/signs/|GA₂×NUN|
-@link Wikidata Q87555433 http://www.wikidata.org/entity/Q87555433
+@link	eBL |GA₂×NUN| https://www.ebl.lmu.de/signs/|GA₂×NUN|
+@link	Wikidata Q87555433 http://www.wikidata.org/entity/Q87555433
 @form |LAGAB×NUN|
 @oid	o0027707
 @inote	P010918 o i' 6'
@@ -12503,7 +12377,7 @@
 @v	ur₃
 @v	ura₃
 @v	uru₁₂
-@link Wikidata Q87555435 http://www.wikidata.org/entity/Q87555435
+@link	Wikidata Q87555435 http://www.wikidata.org/entity/Q87555435
 @end sign
 
 @sign |GA₂×PA|
@@ -12532,8 +12406,8 @@
 @inote	needs collation but looks plausible on photo of P315388
 @v	sila₄
 @v	silaku
-@link eBL |GA₂×PA| https://www.ebl.lmu.de/signs/|GA₂×PA|
-@link Wikidata Q87555437 http://www.wikidata.org/entity/Q87555437
+@link	eBL |GA₂×PA| https://www.ebl.lmu.de/signs/|GA₂×PA|
+@link	Wikidata Q87555437 http://www.wikidata.org/entity/Q87555437
 @end sign
 
 @sign |GA₂×(PA.LAGAR)|
@@ -12563,8 +12437,8 @@
 @v	urhušₓ
 @v	uš₃
 @v	xₓ
-@link eBL |GA₂×SAL| https://www.ebl.lmu.de/signs/|GA₂×SAL|
-@link Wikidata Q87555439 http://www.wikidata.org/entity/Q87555439
+@link	eBL |GA₂×SAL| https://www.ebl.lmu.de/signs/|GA₂×SAL|
+@link	Wikidata Q87555439 http://www.wikidata.org/entity/Q87555439
 @end sign
 
 @sign |GA₂×(SAL.KUR)|
@@ -12577,6 +12451,13 @@
 @inote	gvl unknown compound
 @end sign
 
+@sign |GA₂×SANGA₂|
+@oid	o0031654
+@aka	|GA₂×LAK175|
+@inote	addx dcclt/ebla
+@v	šangaₓ
+@end sign
+
 @sign |GA₂×SAR|
 @oid	o0001323
 @list	MZL413
@@ -12586,8 +12467,8 @@
 @ucun	𒃤
 @uage	5.0
 @v	gazi₃
-@link eBL |GA₂×SAR| https://www.ebl.lmu.de/signs/|GA₂×SAR|
-@link Wikidata Q87555441 http://www.wikidata.org/entity/Q87555441
+@link	eBL |GA₂×SAR| https://www.ebl.lmu.de/signs/|GA₂×SAR|
+@link	Wikidata Q87555441 http://www.wikidata.org/entity/Q87555441
 @end sign
 
 @sign |GA₂×SILA₃|
@@ -12601,7 +12482,7 @@
 @inote	@uname-no-utf8	CUNEIFORM SIGN GA2 TIMES SILA3 PLUS ME
 @v	silaₓ
 @inote	Replaces silaₓ(LAK636) in Ebla (ED Food 33-37)
-@link eBL |GA₂×(SILA₃.ME)| https://www.ebl.lmu.de/signs/|GA₂×(SILA₃.ME)|
+@link	eBL |GA₂×(SILA₃.ME)| https://www.ebl.lmu.de/signs/|GA₂×(SILA₃.ME)|
 @form |GA×SILA₃|
 @oid	o0001243
 @inote	Tell Beydar; Subartu II, 178
@@ -12617,8 +12498,8 @@
 @ucun	𒃨
 @uage	5.0
 @v	gazi₂
-@link eBL |GA₂×SUM| https://www.ebl.lmu.de/signs/|GA₂×SUM|
-@link Wikidata Q87555447 http://www.wikidata.org/entity/Q87555447
+@link	eBL |GA₂×SUM| https://www.ebl.lmu.de/signs/|GA₂×SUM|
+@link	Wikidata Q87555447 http://www.wikidata.org/entity/Q87555447
 @end sign
 
 @sign |GA₂×ŠE|
@@ -12638,8 +12519,8 @@
 @v	esaŋ₂
 @v	usi
 @sys	Attinger ašaŋ₂ => esaŋ₂
-@link eBL |GA₂×ŠE| https://www.ebl.lmu.de/signs/|GA₂×ŠE|
-@link Wikidata Q87555442 http://www.wikidata.org/entity/Q87555442
+@link	eBL |GA₂×ŠE| https://www.ebl.lmu.de/signs/|GA₂×ŠE|
+@link	Wikidata Q87555442 http://www.wikidata.org/entity/Q87555442
 @end sign
 
 @sign |GA₂×(ŠE.TUR)|
@@ -12653,8 +12534,8 @@
 @uage	5.0
 @v	esagtur
 @v	esaŋtur
-@link eBL |GA₂×(ŠE.TUR)| https://www.ebl.lmu.de/signs/|GA₂×(ŠE.TUR)|
-@link Wikidata Q87555444 http://www.wikidata.org/entity/Q87555444
+@link	eBL |GA₂×(ŠE.TUR)| https://www.ebl.lmu.de/signs/|GA₂×(ŠE.TUR)|
+@link	Wikidata Q87555444 http://www.wikidata.org/entity/Q87555444
 @end sign
 
 @sign |GA₂×ŠID|
@@ -12666,8 +12547,8 @@
 @ucun	𒃧
 @uage	5.0
 @v	emedub₂
-@link eBL |GA₂×ŠID| https://www.ebl.lmu.de/signs/|GA₂×ŠID|
-@link Wikidata Q87555446 http://www.wikidata.org/entity/Q87555446
+@link	eBL |GA₂×ŠID| https://www.ebl.lmu.de/signs/|GA₂×ŠID|
+@link	Wikidata Q87555446 http://www.wikidata.org/entity/Q87555446
 @end sign
 
 @sign |GA₂×ŠIM|
@@ -12677,8 +12558,8 @@
 @list	U+124C7
 @ucun	𒓇
 @uage	8.0
-@link eBL |GA₂×ŠIM| https://www.ebl.lmu.de/signs/|GA₂×ŠIM|
-@link Wikidata Q87557226 http://www.wikidata.org/entity/Q87557226
+@link	eBL |GA₂×ŠIM| https://www.ebl.lmu.de/signs/|GA₂×ŠIM|
+@link	Wikidata Q87557226 http://www.wikidata.org/entity/Q87557226
 @end sign
 
 @sign |GA₂×ŠU|
@@ -12697,8 +12578,8 @@
 @uage	5.0
 @v	dan₃
 @v	tan₃
-@link eBL |GA₂×TAK₄| https://www.ebl.lmu.de/signs/|GA₂×TAK₄|
-@link Wikidata Q87555450 http://www.wikidata.org/entity/Q87555450
+@link	eBL |GA₂×TAK₄| https://www.ebl.lmu.de/signs/|GA₂×TAK₄|
+@link	Wikidata Q87555450 http://www.wikidata.org/entity/Q87555450
 @end sign
 
 @sign |GA₂×TE|
@@ -12723,8 +12604,8 @@
 @v	sabad
 @v	sad₂
 @v	ula₂
-@link eBL |GA₂×U| https://www.ebl.lmu.de/signs/|GA₂×U|
-@link Wikidata Q87555452 http://www.wikidata.org/entity/Q87555452
+@link	eBL |GA₂×U| https://www.ebl.lmu.de/signs/|GA₂×U|
+@link	Wikidata Q87555452 http://www.wikidata.org/entity/Q87555452
 @end sign
 
 @sign |GA₂×U₂|
@@ -12746,8 +12627,8 @@
 @v	erin₄
 @v	etam
 @v	karam
-@link eBL |GA₂×UD| https://www.ebl.lmu.de/signs/|GA₂×UD|
-@link Wikidata Q87555454 http://www.wikidata.org/entity/Q87555454
+@link	eBL |GA₂×UD| https://www.ebl.lmu.de/signs/|GA₂×UD|
+@link	Wikidata Q87555454 http://www.wikidata.org/entity/Q87555454
 @form |GA₂×ERIN₂|
 @oid	o0027865
 @inote	OB copy of ED source which has |GA₂×UD|; needs collation
@@ -12762,8 +12643,8 @@
 @ucun	𒃬
 @uage	5.0
 @v	xeₓ
-@link eBL |GA₂×(UD.DU)| https://www.ebl.lmu.de/signs/|GA₂×(UD.DU)|
-@link Wikidata Q87555456 http://www.wikidata.org/entity/Q87555456
+@link	eBL |GA₂×(UD.DU)| https://www.ebl.lmu.de/signs/|GA₂×(UD.DU)|
+@link	Wikidata Q87555456 http://www.wikidata.org/entity/Q87555456
 @end sign
 
 @compoundonly	|GA₂×UŠ|
@@ -12772,7 +12653,7 @@
 @sign |GA₂×X|
 @oid	o0001328
 @v	xriₓ
-@link eBL |GA₂×X| https://www.ebl.lmu.de/signs/|GA₂×X|
+@link	eBL |GA₂×X| https://www.ebl.lmu.de/signs/|GA₂×X|
 @end sign
 
 @sign |GA₂×ZIZ₂|
@@ -12785,8 +12666,8 @@
 @uage	8.0
 @v	gazaₓ
 @v	gazi
-@link eBL |GA₂×ZIZ₂| https://www.ebl.lmu.de/signs/|GA₂×ZIZ₂|
-@link Wikidata Q87557228 http://www.wikidata.org/entity/Q87557228
+@link	eBL |GA₂×ZIZ₂| https://www.ebl.lmu.de/signs/|GA₂×ZIZ₂|
+@link	Wikidata Q87557228 http://www.wikidata.org/entity/Q87557228
 @form |GA₂×PA|
 @oid	o0001321
 @list	ABZL097
@@ -12803,8 +12684,8 @@
 @list	U+120E2
 @ucun	𒃢
 @uage	5.0
-@link eBL |GA₂×PA| https://www.ebl.lmu.de/signs/|GA₂×PA|
-@link Wikidata Q87555437 http://www.wikidata.org/entity/Q87555437
+@link	eBL |GA₂×PA| https://www.ebl.lmu.de/signs/|GA₂×PA|
+@link	Wikidata Q87555437 http://www.wikidata.org/entity/Q87555437
 @@
 @end sign
 
@@ -12820,8 +12701,8 @@
 @ucun	𒃭
 @uage	5.0
 @v	lirumₓ
-@link eBL |GA₂&GA₂| https://www.ebl.lmu.de/signs/|GA₂&GA₂|
-@link Wikidata Q87555458 http://www.wikidata.org/entity/Q87555458
+@link	eBL |GA₂&GA₂| https://www.ebl.lmu.de/signs/|GA₂&GA₂|
+@link	Wikidata Q87555458 http://www.wikidata.org/entity/Q87555458
 @end sign
 
 @sign GABA
@@ -12850,8 +12731,16 @@
 @v	ṭah₂
 @v	ṭu₅
 @v	ṭuh
-@link eBL GABA https://www.ebl.lmu.de/signs/GABA
-@link Wikidata Q87555460 http://www.wikidata.org/entity/Q87555460
+@link	eBL GABA https://www.ebl.lmu.de/signs/GABA
+@link	Wikidata Q87555460 http://www.wikidata.org/entity/Q87555460
+@end sign
+
+@sign |4×GABA|
+@oid	o0000647
+@inote	@uname-no-utf8	CUNEIFORM SIGN GABA SQUARED
+@v	tuddahaₓ
+@ref	BE 1/2, 129 = cdli:P263651 o i 5', tu-ud-da-ha-a-ta = |4×GABA|-a-ta
+@link	eBL |4×GABA| https://www.ebl.lmu.de/signs/|4×GABA|
 @end sign
 
 @sign |GABA%GABA|
@@ -12860,8 +12749,8 @@
 @list	U+120EF
 @ucun	𒃯
 @uage	5.0
-@link eBL |GABA%GABA| https://www.ebl.lmu.de/signs/|GABA%GABA|
-@link Wikidata Q87555462 http://www.wikidata.org/entity/Q87555462
+@link	eBL |GABA%GABA| https://www.ebl.lmu.de/signs/|GABA%GABA|
+@link	Wikidata Q87555462 http://www.wikidata.org/entity/Q87555462
 @end sign
 
 @sign GABA@90
@@ -12874,14 +12763,14 @@
 @ref	OSP 1, 144 = cdli:P221641 o i 3
 @note	CUSAS 12, 6.1.3 o ii 12'
 @note	VE 951
-@link eBL GABA@90 https://www.ebl.lmu.de/signs/GABA@90
-@link Wikidata Q87557230 http://www.wikidata.org/entity/Q87557230
+@link	eBL GABA@90 https://www.ebl.lmu.de/signs/GABA@90
+@link	Wikidata Q87557230 http://www.wikidata.org/entity/Q87557230
 @end sign
 
 @sign GABA@t
 @oid	o0000192
 @inote	CDLI ed3b
-@link eBL GABA@t https://www.ebl.lmu.de/signs/GABA@t
+@link	eBL GABA@t https://www.ebl.lmu.de/signs/GABA@t
 @end sign
 
 @sign GAD
@@ -12919,8 +12808,8 @@
 @v	qaṭ₃
 @ref	EA 053 = amarna:P270922 64, {uru}qaṭ₃-na
 @v	qid₄?
-@link eBL GAD https://www.ebl.lmu.de/signs/GAD
-@link Wikidata Q87555464 http://www.wikidata.org/entity/Q87555464
+@link	eBL GAD https://www.ebl.lmu.de/signs/GAD
+@link	Wikidata Q87555464 http://www.wikidata.org/entity/Q87555464
 @end sign
 
 @sign |GAD.DUN₃|
@@ -12928,7 +12817,7 @@
 @useq	x120F0.x12085
 @ucun	𒃰𒂅
 @v	xₓ
-@link eBL |GAD.DUN₃| https://www.ebl.lmu.de/signs/|GAD.DUN₃|
+@link	eBL |GAD.DUN₃| https://www.ebl.lmu.de/signs/|GAD.DUN₃|
 @end sign
 
 @sign |(GAD.GAR)&(GAD.GAR)|
@@ -12956,7 +12845,7 @@
 @v	ašta
 @v	kil₄
 @v	talₓ
-@link eBL |GAD.TAK₄| https://www.ebl.lmu.de/signs/|GAD.TAK₄|
+@link	eBL |GAD.TAK₄| https://www.ebl.lmu.de/signs/|GAD.TAK₄|
 @end sign
 
 @sign |GAD.TAK₄.GIŠ|
@@ -12974,7 +12863,7 @@
 @v	urulla
 @v	xₓ
 @v	xgiₓ
-@link eBL |GAD.TAK₄.GIŠ| https://www.ebl.lmu.de/signs/|GAD.TAK₄.GIŠ|
+@link	eBL |GAD.TAK₄.GIŠ| https://www.ebl.lmu.de/signs/|GAD.TAK₄.GIŠ|
 @end sign
 
 @sign |GAD.TAK₄.SI|
@@ -12988,7 +12877,7 @@
 @ucun	𒃰𒋺𒋛
 @v	akkil
 @v	talₓ
-@link eBL |GAD.TAK₄.SI| https://www.ebl.lmu.de/signs/|GAD.TAK₄.SI|
+@link	eBL |GAD.TAK₄.SI| https://www.ebl.lmu.de/signs/|GAD.TAK₄.SI|
 @end sign
 
 @sign |GAD.TAK₄.SI.A|
@@ -12997,6 +12886,23 @@
 @useq	x120F0.x122FA.x122DB.x12000
 @ucun	𒃰𒋺𒋛𒀀
 @v	akkilₓ
+@end sign
+
+@sign |GAD+DIŠ×A|
+@oid	o0001184
+@inote	epsd2
+@useq	x120F0.X
+@ucun	𒃰X
+@v	šuaₓ
+@link	eBL |GAD+DIŠ×A| https://www.ebl.lmu.de/signs/|GAD+DIŠ×A|
+@end sign
+
+@sign |GAD+TAK₄.DUH|
+@oid	o0001186
+@inote	epsd2
+@useq	x120F0.x122FA.x12083
+@ucun	𒃰𒋺𒂃
+@link	eBL |GAD+TAK₄.DUH| https://www.ebl.lmu.de/signs/|GAD+TAK₄.DUH|
 @end sign
 
 @compoundonly	|GAD&GAD|
@@ -13012,30 +12918,13 @@
 @ucun	𒃱
 @uage	5.0
 @v	kinda
-@link eBL |GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|GAD&GAD.GAR&GAR|
-@link Wikidata Q87555465 http://www.wikidata.org/entity/Q87555465
+@link	eBL |GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|GAD&GAD.GAR&GAR|
+@link	Wikidata Q87555465 http://www.wikidata.org/entity/Q87555465
 @form |GAD.GAR|
 @oid	o0031539
 @useq	x120F0.x120FB
 @ucun	𒃰𒃻
 @@
-@end sign
-
-@sign |GAD+DIŠ×A|
-@oid	o0001184
-@inote	epsd2
-@useq	x120F0.X
-@ucun	𒃰X
-@v	šuaₓ
-@link eBL |GAD+DIŠ×A| https://www.ebl.lmu.de/signs/|GAD+DIŠ×A|
-@end sign
-
-@sign |GAD+TAK₄.DUH|
-@oid	o0001186
-@inote	epsd2
-@useq	x120F0.x122FA.x12083
-@ucun	𒃰𒋺𒂃
-@link eBL |GAD+TAK₄.DUH| https://www.ebl.lmu.de/signs/|GAD+TAK₄.DUH|
 @end sign
 
 @sign GAL
@@ -13064,8 +12953,8 @@
 @v	qal
 @v	rab₂
 @v	%elx rap₂
-@link eBL GAL https://www.ebl.lmu.de/signs/GAL
-@link Wikidata Q87555467 http://www.wikidata.org/entity/Q87555467
+@link	eBL GAL https://www.ebl.lmu.de/signs/GAL
+@link	Wikidata Q87555467 http://www.wikidata.org/entity/Q87555467
 @end sign
 
 @sign |GAL.AN.ZU|
@@ -13073,7 +12962,7 @@
 @useq	x120F2.x1202D.x1236A
 @ucun	𒃲𒀭𒍪
 @v	ereš₅
-@link eBL |GAL.AN.ZU| https://www.ebl.lmu.de/signs/|GAL.AN.ZU|
+@link	eBL |GAL.AN.ZU| https://www.ebl.lmu.de/signs/|GAL.AN.ZU|
 @end sign
 
 @sign |GAL.AŠGAB|
@@ -13081,7 +12970,7 @@
 @useq	x120F2.x1203F
 @ucun	𒃲𒀿
 @v	ašgabgalₓ
-@link eBL |GAL.AŠGAB| https://www.ebl.lmu.de/signs/|GAL.AŠGAB|
+@link	eBL |GAL.AŠGAB| https://www.ebl.lmu.de/signs/|GAL.AŠGAB|
 @end sign
 
 @sign |GAL.BAR.EDIN|
@@ -13089,7 +12978,7 @@
 @useq	x120F2.x12047.x12094
 @ucun	𒃲𒁇𒂔
 @v	bahargalₓ
-@link eBL |GAL.BAR.EDIN| https://www.ebl.lmu.de/signs/|GAL.BAR.EDIN|
+@link	eBL |GAL.BAR.EDIN| https://www.ebl.lmu.de/signs/|GAL.BAR.EDIN|
 @end sign
 
 @sign |GAL.BUR₂|
@@ -13097,7 +12986,7 @@
 @useq	x120F2.x12054
 @ucun	𒃲𒁔
 @v	ušumgal
-@link eBL |GAL.BUR₂| https://www.ebl.lmu.de/signs/|GAL.BUR₂|
+@link	eBL |GAL.BUR₂| https://www.ebl.lmu.de/signs/|GAL.BUR₂|
 @end sign
 
 @sign |GAL.DI|
@@ -13106,7 +12995,7 @@
 @ucun	𒃲𒁲
 @v	gal-di
 @v	galti
-@link eBL |GAL.DI| https://www.ebl.lmu.de/signs/|GAL.DI|
+@link	eBL |GAL.DI| https://www.ebl.lmu.de/signs/|GAL.DI|
 @end sign
 
 @sign |GAL.DIM|
@@ -13114,7 +13003,7 @@
 @useq	x120F2.x12074
 @ucun	𒃲𒁴
 @v	dimgal
-@link eBL |GAL.DIM| https://www.ebl.lmu.de/signs/|GAL.DIM|
+@link	eBL |GAL.DIM| https://www.ebl.lmu.de/signs/|GAL.DIM|
 @end sign
 
 @sign |GAL.DIM₂|
@@ -13122,7 +13011,7 @@
 @useq	x120F2.x12076
 @ucun	𒃲𒁶
 @v	šidimgalₓ
-@link eBL |GAL.DIM₂| https://www.ebl.lmu.de/signs/|GAL.DIM₂|
+@link	eBL |GAL.DIM₂| https://www.ebl.lmu.de/signs/|GAL.DIM₂|
 @end sign
 
 @sign |GAL.DUN₃@g@g|
@@ -13130,7 +13019,7 @@
 @useq	x120F2.x12087
 @ucun	𒃲𒂇
 @v	niŋirgalₓ
-@link eBL |GAL.DUN₃@g@g| https://www.ebl.lmu.de/signs/|GAL.DUN₃@g@g|
+@link	eBL |GAL.DUN₃@g@g| https://www.ebl.lmu.de/signs/|GAL.DUN₃@g@g|
 @end sign
 
 @sign |GAL.GAD&GAD.GAR&GAR|
@@ -13142,8 +13031,8 @@
 @uage	5.0
 @v	kindagal
 @v	kindaŋal
-@link eBL |GAL.GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|GAL.GAD&GAD.GAR&GAR|
-@link Wikidata Q87555470 http://www.wikidata.org/entity/Q87555470
+@link	eBL |GAL.GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|GAL.GAD&GAD.GAR&GAR|
+@link	Wikidata Q87555470 http://www.wikidata.org/entity/Q87555470
 @form |GAL.GAD.GAR|
 @oid	o0031540
 @useq	x120F2.x120F0.x120FB
@@ -13156,7 +13045,7 @@
 @useq	x120F2.x12111.x12306.x122FC.x12000.x1207A
 @ucun	𒃲𒄑𒌆𒋼𒀀𒁺
 @v	azlaggalₓ
-@link eBL |GAL.GIŠ.TUG₂.TE.A.DU| https://www.ebl.lmu.de/signs/|GAL.GIŠ.TUG₂.TE.A.DU|
+@link	eBL |GAL.GIŠ.TUG₂.TE.A.DU| https://www.ebl.lmu.de/signs/|GAL.GIŠ.TUG₂.TE.A.DU|
 @end sign
 
 @sign |GAL.LUH|
@@ -13164,7 +13053,7 @@
 @useq	x120F2.x1221B
 @ucun	𒃲𒈛
 @v	sukkalgalₓ
-@link eBL |GAL.LUH| https://www.ebl.lmu.de/signs/|GAL.LUH|
+@link	eBL |GAL.LUH| https://www.ebl.lmu.de/signs/|GAL.LUH|
 @end sign
 
 @sign |GAL.MUG@g|
@@ -13172,7 +13061,7 @@
 @useq	x120F2.x1222F
 @ucun	𒃲𒈯
 @v	zadimgalₓ
-@link eBL |GAL.MUG@g| https://www.ebl.lmu.de/signs/|GAL.MUG@g|
+@link	eBL |GAL.MUG@g| https://www.ebl.lmu.de/signs/|GAL.MUG@g|
 @end sign
 
 @sign |GAL.NAGAR|
@@ -13180,7 +13069,7 @@
 @useq	x120F2.x12244
 @ucun	𒃲𒉄
 @v	nagargalₓ
-@link eBL |GAL.NAGAR| https://www.ebl.lmu.de/signs/|GAL.NAGAR|
+@link	eBL |GAL.NAGAR| https://www.ebl.lmu.de/signs/|GAL.NAGAR|
 @end sign
 
 @sign |GAL.NI|
@@ -13191,7 +13080,7 @@
 @v	santana
 @v	šandan
 @v	šandana
-@link eBL |GAL.NI| https://www.ebl.lmu.de/signs/|GAL.NI|
+@link	eBL |GAL.NI| https://www.ebl.lmu.de/signs/|GAL.NI|
 @end sign
 
 @sign |GAL.ŠUBUR|
@@ -13200,7 +13089,7 @@
 @ucun	𒃲𒋚
 @v	ukra
 @v	ukur₂
-@link eBL |GAL.ŠUBUR| https://www.ebl.lmu.de/signs/|GAL.ŠUBUR|
+@link	eBL |GAL.ŠUBUR| https://www.ebl.lmu.de/signs/|GAL.ŠUBUR|
 @form |GAL.DUN|
 @oid	o0001199
 @useq	x120F2.x12084
@@ -13216,7 +13105,7 @@
 @ucun	𒃲𒋼
 @v	tiru
 @v	tirum
-@link eBL |GAL.TE| https://www.ebl.lmu.de/signs/|GAL.TE|
+@link	eBL |GAL.TE| https://www.ebl.lmu.de/signs/|GAL.TE|
 @end sign
 
 @sign |GAL.TE.LAL|
@@ -13224,7 +13113,7 @@
 @useq	x120F2.x122FC.x121F2
 @ucun	𒃲𒋼𒇲
 @v	gallagalₓ
-@link eBL |GAL.TE.LAL| https://www.ebl.lmu.de/signs/|GAL.TE.LAL|
+@link	eBL |GAL.TE.LAL| https://www.ebl.lmu.de/signs/|GAL.TE.LAL|
 @end sign
 
 @sign |GAL.UMUM|
@@ -13232,7 +13121,7 @@
 @useq	x120F2.x12323
 @ucun	𒃲𒌣
 @v	simuggalₓ
-@link eBL |GAL.UMUM| https://www.ebl.lmu.de/signs/|GAL.UMUM|
+@link	eBL |GAL.UMUM| https://www.ebl.lmu.de/signs/|GAL.UMUM|
 @end sign
 
 @sign |GAL.URI|
@@ -13240,7 +13129,7 @@
 @useq	x120F2.x12335
 @ucun	𒃲𒌵
 @v	kindagal₂
-@link eBL |GAL.URI| https://www.ebl.lmu.de/signs/|GAL.URI|
+@link	eBL |GAL.URI| https://www.ebl.lmu.de/signs/|GAL.URI|
 @end sign
 
 @sign |GAL.URU×BAR|
@@ -13250,7 +13139,7 @@
 @v	kiŋgal
 @v	kingal
 @sys	Attinger kiŋgal => kingal
-@link eBL |GAL.URU×BAR| https://www.ebl.lmu.de/signs/|GAL.URU×BAR|
+@link	eBL |GAL.URU×BAR| https://www.ebl.lmu.de/signs/|GAL.URU×BAR|
 @end sign
 
 @sign |GAL.ZU|
@@ -13260,7 +13149,7 @@
 @v	erištiₓ
 @v	gagazu?
 @v	gal-zu
-@link eBL |GAL.ZU| https://www.ebl.lmu.de/signs/|GAL.ZU|
+@link	eBL |GAL.ZU| https://www.ebl.lmu.de/signs/|GAL.ZU|
 @end sign
 
 @sign GALAM
@@ -13279,8 +13168,8 @@
 @v	sukuₓ
 @v	sukud
 @v	ubi
-@link eBL GALAM https://www.ebl.lmu.de/signs/GALAM
-@link Wikidata Q87555472 http://www.wikidata.org/entity/Q87555472
+@link	eBL GALAM https://www.ebl.lmu.de/signs/GALAM
+@link	Wikidata Q87555472 http://www.wikidata.org/entity/Q87555472
 @end sign
 
 @sign |GALAM.GALAM|
@@ -13289,7 +13178,7 @@
 @ucun	𒃴𒃴
 @v	gagalam
 @v	gibil₅
-@link eBL |GALAM.GALAM| https://www.ebl.lmu.de/signs/|GALAM.GALAM|
+@link	eBL |GALAM.GALAM| https://www.ebl.lmu.de/signs/|GALAM.GALAM|
 @end sign
 
 @sign GAM
@@ -13321,8 +13210,8 @@
 @v	gurum
 @v	qam
 @v	qur₃?
-@link eBL GAM https://www.ebl.lmu.de/signs/GAM
-@link Wikidata Q87555473 http://www.wikidata.org/entity/Q87555473
+@link	eBL GAM https://www.ebl.lmu.de/signs/GAM
+@link	Wikidata Q87555473 http://www.wikidata.org/entity/Q87555473
 @end sign
 
 @sign |GAM.GAM|
@@ -13330,7 +13219,7 @@
 @useq	x120F5.x120F5
 @ucun	𒃵𒃵
 @v	gigirum
-@link eBL |GAM.GAM| https://www.ebl.lmu.de/signs/|GAM.GAM|
+@link	eBL |GAM.GAM| https://www.ebl.lmu.de/signs/|GAM.GAM|
 @end sign
 
 @sign GAN
@@ -13366,8 +13255,8 @@
 @v	sig₁₆
 @v	šaganₓ
 @sys	Attinger saga₇ => sag₇
-@link eBL GAN https://www.ebl.lmu.de/signs/GAN
-@link Wikidata Q87555475 http://www.wikidata.org/entity/Q87555475
+@link	eBL GAN https://www.ebl.lmu.de/signs/GAN
+@link	Wikidata Q87555475 http://www.wikidata.org/entity/Q87555475
 @form |GAN×HI|
 @oid	o0021443
 @list	BAU048
@@ -13389,7 +13278,7 @@
 @oid	o0000198
 @list	LAK645
 @v	ganₓ
-@link eBL GAN@s https://www.ebl.lmu.de/signs/GAN@s
+@link	eBL GAN@s https://www.ebl.lmu.de/signs/GAN@s
 @form |GAN×KASKAL|
 @oid	o0021774
 @@
@@ -13438,8 +13327,8 @@
 @v	mulu₄
 @v	ul₈?
 @v	ululₓ
-@link eBL GAN₂ https://www.ebl.lmu.de/signs/GAN₂
-@link Wikidata Q87555477 http://www.wikidata.org/entity/Q87555477
+@link	eBL GAN₂ https://www.ebl.lmu.de/signs/GAN₂
+@link	Wikidata Q87555477 http://www.wikidata.org/entity/Q87555477
 @form GAN₂@c
 @oid	o0028134
 @v	iku@c
@@ -13453,7 +13342,7 @@
 @oid	o0000201
 @list	GCSL095
 @v	iku@t
-@link eBL GAN₂@t https://www.ebl.lmu.de/signs/GAN₂@t
+@link	eBL GAN₂@t https://www.ebl.lmu.de/signs/GAN₂@t
 @@
 @end sign
 
@@ -13465,7 +13354,7 @@
 @inote	dupfix MZL mulu₄(GAN₂)
 @v	mulu₄-bu
 @v	šanna
-@link eBL |GAN₂.BU| https://www.ebl.lmu.de/signs/|GAN₂.BU|
+@link	eBL |GAN₂.BU| https://www.ebl.lmu.de/signs/|GAN₂.BU|
 @end sign
 
 @sign |GAN₂×HI|
@@ -13482,8 +13371,8 @@
 @ucun	𒃹
 @uage	5.0
 @v	lirumₓ
-@link eBL |GAN₂&GAN₂| https://www.ebl.lmu.de/signs/|GAN₂&GAN₂|
-@link Wikidata Q87555481 http://www.wikidata.org/entity/Q87555481
+@link	eBL |GAN₂&GAN₂| https://www.ebl.lmu.de/signs/|GAN₂&GAN₂|
+@link	Wikidata Q87555481 http://www.wikidata.org/entity/Q87555481
 @end sign
 
 @sign |GAN₂%GAN₂|
@@ -13498,8 +13387,8 @@
 @v	alal₄?
 @v	girriₓ
 @v	ulul₂
-@link eBL |GAN₂%GAN₂| https://www.ebl.lmu.de/signs/|GAN₂%GAN₂|
-@link Wikidata Q87555483 http://www.wikidata.org/entity/Q87555483
+@link	eBL |GAN₂%GAN₂| https://www.ebl.lmu.de/signs/|GAN₂%GAN₂|
+@link	Wikidata Q87555483 http://www.wikidata.org/entity/Q87555483
 @end sign
 
 @sign GAN₂@g
@@ -13529,8 +13418,8 @@
 @v	kar₂
 @v	kara₂
 @v	kiri₂
-@link eBL GAN₂@t https://www.ebl.lmu.de/signs/GAN₂@t
-@link Wikidata Q87555480 http://www.wikidata.org/entity/Q87555480
+@link	eBL GAN₂@t https://www.ebl.lmu.de/signs/GAN₂@t
+@link	Wikidata Q87555480 http://www.wikidata.org/entity/Q87555480
 @end sign
 
 @sign |GAN₂@t.GAN₂@t|
@@ -13538,7 +13427,7 @@
 @useq	x120F8.x120F8
 @ucun	𒃸𒃸
 @v	gugru
-@link eBL |GAN₂@t.GAN₂@t| https://www.ebl.lmu.de/signs/|GAN₂@t.GAN₂@t|
+@link	eBL |GAN₂@t.GAN₂@t| https://www.ebl.lmu.de/signs/|GAN₂@t.GAN₂@t|
 @end sign
 
 @sign |GAN₂@t&GAN₂@t|
@@ -13602,8 +13491,8 @@
 @sys	Attinger niŋdanₓ => nindan
 @sys	Attinger niŋdanaₓ => nindan
 @sys	Attinger nindanaₓ => nindan
-@link eBL GAR https://www.ebl.lmu.de/signs/GAR
-@link Wikidata Q87555485 http://www.wikidata.org/entity/Q87555485
+@link	eBL GAR https://www.ebl.lmu.de/signs/GAR
+@link	Wikidata Q87555485 http://www.wikidata.org/entity/Q87555485
 @end sign
 
 @sign |GAR.GA₂×(A.IGI)|
@@ -13612,7 +13501,7 @@
 @useq	x120FB.x120BA
 @ucun	𒃻𒂺
 @v	gapi?
-@link eBL |GAR.GA₂×(A.IGI)| https://www.ebl.lmu.de/signs/|GAR.GA₂×(A.IGI)|
+@link	eBL |GAR.GA₂×(A.IGI)| https://www.ebl.lmu.de/signs/|GAR.GA₂×(A.IGI)|
 @end sign
 
 @sign |GAR.GAD.TAK₄.UR₂|
@@ -13620,7 +13509,7 @@
 @useq	x120FB.x120F0.x122FA.x1232B
 @ucun	𒃻𒃰𒋺𒌫
 @v	nisikiₓ
-@link eBL |GAR.GAD.TAK₄.UR₂| https://www.ebl.lmu.de/signs/|GAR.GAD.TAK₄.UR₂|
+@link	eBL |GAR.GAD.TAK₄.UR₂| https://www.ebl.lmu.de/signs/|GAR.GAD.TAK₄.UR₂|
 @end sign
 
 @sign |GAR.GAR|
@@ -13629,14 +13518,22 @@
 @useq	x120FB.x120FB
 @ucun	𒃻𒃻
 @v	arkabₓ
-@link eBL |GAR.GAR| https://www.ebl.lmu.de/signs/|GAR.GAR|
+@link	eBL |GAR.GAR| https://www.ebl.lmu.de/signs/|GAR.GAR|
 @end sign
 
 @sign |GAR.GU.SUR.NUN|
 @oid	o0001223
 @useq	x120FB.x12116.x122E9.x12263
 @ucun	𒃻𒄖𒋩𒉣
-@link eBL |GAR.GU.SUR.NUN| https://www.ebl.lmu.de/signs/|GAR.GU.SUR.NUN|
+@link	eBL |GAR.GU.SUR.NUN| https://www.ebl.lmu.de/signs/|GAR.GU.SUR.NUN|
+@end sign
+
+@sign |GAR.GUL.DA|
+@oid	o0038327
+@useq	x120FB.x12122.x12055
+@ucun	𒃻𒄢𒁕
+@v	gugₓ
+@inote	epsd2/royal
 @end sign
 
 @sign |GAR.IB|
@@ -13646,7 +13543,7 @@
 @v	argab
 @v	arkab
 @v	irkab
-@link eBL |GAR.IB| https://www.ebl.lmu.de/signs/|GAR.IB|
+@link	eBL |GAR.IB| https://www.ebl.lmu.de/signs/|GAR.IB|
 @end sign
 
 @sign |GAR.KINGUSILI.SILA₃|
@@ -13654,7 +13551,7 @@
 @useq	x120FB.x1245C.x122E1
 @ucun	𒃻𒑜𒋡
 @v	gideštaₓ?
-@link eBL |GAR.KINGUSILI.SILA₃| https://www.ebl.lmu.de/signs/|GAR.KINGUSILI.SILA₃|
+@link	eBL |GAR.KINGUSILI.SILA₃| https://www.ebl.lmu.de/signs/|GAR.KINGUSILI.SILA₃|
 @end sign
 
 @sign |GAR.LAGAB|
@@ -13663,7 +13560,7 @@
 @ucun	𒃻𒆸
 @v	kibsur
 @v	kibšur
-@link eBL |GAR.LAGAB| https://www.ebl.lmu.de/signs/|GAR.LAGAB|
+@link	eBL |GAR.LAGAB| https://www.ebl.lmu.de/signs/|GAR.LAGAB|
 @end sign
 
 @sign |GAR.LU₃|
@@ -13672,7 +13569,7 @@
 @ucun	𒃻𒈖
 @v	gug₃
 @v	gugina
-@link eBL |GAR.LU₃| https://www.ebl.lmu.de/signs/|GAR.LU₃|
+@link	eBL |GAR.LU₃| https://www.ebl.lmu.de/signs/|GAR.LU₃|
 @end sign
 
 @sign |GAR.PA.TE.SI|
@@ -13680,7 +13577,7 @@
 @useq	x120FB.x1227A.x122FC.x122DB
 @ucun	𒃻𒉺𒋼𒋛
 @v	ensiₓ
-@link eBL |GAR.PA.TE.SI| https://www.ebl.lmu.de/signs/|GAR.PA.TE.SI|
+@link	eBL |GAR.PA.TE.SI| https://www.ebl.lmu.de/signs/|GAR.PA.TE.SI|
 @end sign
 
 @sign |GAR.SAG.IL₂.EZEN.SAL|
@@ -13688,7 +13585,7 @@
 @useq	x120FB.x12295.x1214D.x120A1.x122A9
 @ucun	𒃻𒊕𒅍𒂡𒊩
 @v	balla₂
-@link eBL |GAR.SAG.IL₂.EZEN.SAL| https://www.ebl.lmu.de/signs/|GAR.SAG.IL₂.EZEN.SAL|
+@link	eBL |GAR.SAG.IL₂.EZEN.SAL| https://www.ebl.lmu.de/signs/|GAR.SAG.IL₂.EZEN.SAL|
 @end sign
 
 @sign |GAR.SAG.IL₂.EZEN.UŠ|
@@ -13696,7 +13593,7 @@
 @useq	x120FB.x12295.x1214D.x120A1.x12351
 @ucun	𒃻𒊕𒅍𒂡𒍑
 @v	balla
-@link eBL |GAR.SAG.IL₂.EZEN.UŠ| https://www.ebl.lmu.de/signs/|GAR.SAG.IL₂.EZEN.UŠ|
+@link	eBL |GAR.SAG.IL₂.EZEN.UŠ| https://www.ebl.lmu.de/signs/|GAR.SAG.IL₂.EZEN.UŠ|
 @end sign
 
 @sign |GAR.SAG.KEŠ₂.SAL|
@@ -13713,7 +13610,7 @@
 @useq	x120FB.x12295.x121F2.x122A9
 @ucun	𒃻𒊕𒇲𒊩
 @v	ballaₓ
-@link eBL |GAR.SAG.LAL.SAL| https://www.ebl.lmu.de/signs/|GAR.SAG.LAL.SAL|
+@link	eBL |GAR.SAG.LAL.SAL| https://www.ebl.lmu.de/signs/|GAR.SAG.LAL.SAL|
 @end sign
 
 @sign |GAR.SAG.SAL.LAL|
@@ -13722,7 +13619,7 @@
 @useq	x120FB.x12295.x122A9.x121F2
 @ucun	𒃻𒊕𒊩𒇲
 @v	ballaₓ
-@link eBL |GAR.SAG.SAL.LAL| https://www.ebl.lmu.de/signs/|GAR.SAG.SAL.LAL|
+@link	eBL |GAR.SAG.SAL.LAL| https://www.ebl.lmu.de/signs/|GAR.SAG.SAL.LAL|
 @end sign
 
 @sign |GAR.SAL.LAL.SAG|
@@ -13731,7 +13628,7 @@
 @useq	x120FB.x122A9.x121F2.x12295
 @ucun	𒃻𒊩𒇲𒊕
 @v	ballaₓ
-@link eBL |GAR.SAL.LAL.SAG| https://www.ebl.lmu.de/signs/|GAR.SAL.LAL.SAG|
+@link	eBL |GAR.SAL.LAL.SAG| https://www.ebl.lmu.de/signs/|GAR.SAL.LAL.SAG|
 @end sign
 
 @sign |GAR.SAL.SAG.LAL|
@@ -13740,7 +13637,7 @@
 @useq	x120FB.x122A9.x12295.x121F2
 @ucun	𒃻𒊩𒊕𒇲
 @v	ballaₓ
-@link eBL |GAR.SAL.SAG.LAL| https://www.ebl.lmu.de/signs/|GAR.SAL.SAG.LAL|
+@link	eBL |GAR.SAL.SAG.LAL| https://www.ebl.lmu.de/signs/|GAR.SAL.SAG.LAL|
 @end sign
 
 @sign |GAR.ŠA₃|
@@ -13748,7 +13645,7 @@
 @useq	x120FB.x122AE
 @ucun	𒃻𒊮
 @v	kadra₂?
-@link eBL |GAR.ŠA₃| https://www.ebl.lmu.de/signs/|GAR.ŠA₃|
+@link	eBL |GAR.ŠA₃| https://www.ebl.lmu.de/signs/|GAR.ŠA₃|
 @end sign
 
 @sign |GAR.ŠA₃.A|
@@ -13758,7 +13655,7 @@
 @v	kadra
 @v	kadri
 @v	kadru
-@link eBL |GAR.ŠA₃.A| https://www.ebl.lmu.de/signs/|GAR.ŠA₃.A|
+@link	eBL |GAR.ŠA₃.A| https://www.ebl.lmu.de/signs/|GAR.ŠA₃.A|
 @end sign
 
 @sign |GAR.ŠA₃×A|
@@ -13768,7 +13665,7 @@
 @v	kadra₃
 @v	kadri₃
 @v	kadru₃
-@link eBL |GAR.ŠA₃×A| https://www.ebl.lmu.de/signs/|GAR.ŠA₃×A|
+@link	eBL |GAR.ŠA₃×A| https://www.ebl.lmu.de/signs/|GAR.ŠA₃×A|
 @end sign
 
 @sign |GAR.ŠANABI.SILA₃|
@@ -13776,20 +13673,20 @@
 @useq	x120FB.x1245B.x122E1
 @ucun	𒃻𒑛𒋡
 @v	gideštaₓ?
-@link eBL |GAR.ŠANABI.SILA₃| https://www.ebl.lmu.de/signs/|GAR.ŠANABI.SILA₃|
+@link	eBL |GAR.ŠANABI.SILA₃| https://www.ebl.lmu.de/signs/|GAR.ŠANABI.SILA₃|
 @end sign
 
 @sign |GAR.ŠID|
 @oid	o0001240
 @useq	x120FB.x122C3
 @ucun	𒃻𒋃
-@v	sangaₓ
 @v	saŋŋaₓ
+@v	sangaₓ
 @v	uttuku
 @v	utugₓ
 @v	utuqₓ
 @v	uṭuku
-@link eBL |GAR.ŠID| https://www.ebl.lmu.de/signs/|GAR.ŠID|
+@link	eBL |GAR.ŠID| https://www.ebl.lmu.de/signs/|GAR.ŠID|
 @end sign
 
 @sign |GAR.ŠU.DUGUD|
@@ -13797,7 +13694,7 @@
 @useq	x120FB.x122D7.x12082
 @ucun	𒃻𒋗𒂂
 @v	immal₃
-@link eBL |GAR.ŠU.DUGUD| https://www.ebl.lmu.de/signs/|GAR.ŠU.DUGUD|
+@link	eBL |GAR.ŠU.DUGUD| https://www.ebl.lmu.de/signs/|GAR.ŠU.DUGUD|
 @end sign
 
 @sign |GAR.ŠUŠANA.SILA₃|
@@ -13805,7 +13702,7 @@
 @useq	x120FB.x1245A.x122E1
 @ucun	𒃻𒑚𒋡
 @v	gidešta?
-@link eBL |GAR.ŠUŠANA.SILA₃| https://www.ebl.lmu.de/signs/|GAR.ŠUŠANA.SILA₃|
+@link	eBL |GAR.ŠUŠANA.SILA₃| https://www.ebl.lmu.de/signs/|GAR.ŠUŠANA.SILA₃|
 @end sign
 
 @sign |GAR.TUG₂|
@@ -13815,7 +13712,7 @@
 @useq	x120FB.x12306
 @ucun	𒃻𒌆
 @v	šudulₓ
-@link eBL |GAR.TUG₂| https://www.ebl.lmu.de/signs/|GAR.TUG₂|
+@link	eBL |GAR.TUG₂| https://www.ebl.lmu.de/signs/|GAR.TUG₂|
 @end sign
 
 @sign |GAR×SAL|
@@ -13831,7 +13728,7 @@
 @sign GAR@g
 @oid	o0000203
 @inote	ed3a P010561
-@link eBL GAR@g https://www.ebl.lmu.de/signs/GAR@g
+@link	eBL GAR@g https://www.ebl.lmu.de/signs/GAR@g
 @end sign
 
 @sign GAR₃
@@ -13860,8 +13757,8 @@
 @v	kar₃
 @v	qar
 @v	qer₅
-@link eBL GAR₃ https://www.ebl.lmu.de/signs/GAR₃
-@link Wikidata Q87555487 http://www.wikidata.org/entity/Q87555487
+@link	eBL GAR₃ https://www.ebl.lmu.de/signs/GAR₃
+@link	Wikidata Q87555487 http://www.wikidata.org/entity/Q87555487
 @end sign
 
 @compoundonly	|GAR₃&GAR₃|
@@ -13879,8 +13776,8 @@
 @v	gašan
 @v	ugun₂
 @v	ugunu₂
-@link eBL GAŠAN https://www.ebl.lmu.de/signs/GAŠAN
-@link Wikidata Q87555489 http://www.wikidata.org/entity/Q87555489
+@link	eBL GAŠAN https://www.ebl.lmu.de/signs/GAŠAN
+@link	Wikidata Q87555489 http://www.wikidata.org/entity/Q87555489
 @end sign
 
 @sign GE₂₂
@@ -13907,8 +13804,33 @@
 @v	utak
 @v	uzalag
 @v	uzalak
-@link eBL GE₂₂ https://www.ebl.lmu.de/signs/GE₂₂
-@link Wikidata Q87556763 http://www.wikidata.org/entity/Q87556763
+@link	eBL GE₂₂ https://www.ebl.lmu.de/signs/GE₂₂
+@link	Wikidata Q87556763 http://www.wikidata.org/entity/Q87556763
+@end sign
+
+@sign GEŠMIN@c
+@oid	o0000861
+@aka	|AŠ&AŠ@180|
+@inote	ed3a number; descriptive name in @aka is bad--should be
+	|AŠ&AŠ@180|@90 because the AŠ are vertical not horizontal
+@inote	2024-07-28 move to GEŠMIN@c as conventional sign name. The CDLI
+	notation for gešmin is geš2@c@d where @d is presumably for
+	'doubled'. In Oracc GDL @d is used for discontinuous writings of
+	single graphemes, notably ANŠE in Elamite texts.
+@v	gešmin@c
+@v	1(gešmin@c)
+@v	1(ŋešmin@c)
+@link	eBL |AŠ&AŠ@180| https://www.ebl.lmu.de/signs/|AŠ&AŠ@180|
+@end sign
+
+@sign GEŠMINU@c
+@oid	o0000621
+@aka	|(AŠ&AŠ@180)×U|
+@inote	ed3a number; 2024-07-28 move to GEŠMINU@c as conventional sign name
+@v	gešminʾu@c
+@v	1(gešminʾu@c)
+@v	1(ŋešminʾu@c)
+@link	eBL |(AŠ&AŠ@180)×U| https://www.ebl.lmu.de/signs/|(AŠ&AŠ@180)×U|
 @end sign
 
 @sign GEŠTIN
@@ -13936,8 +13858,8 @@
 @v	ŋeštin
 @v	ŋeština
 @inote	MC: /mutin//
-@link eBL GEŠTIN https://www.ebl.lmu.de/signs/GEŠTIN
-@link Wikidata Q87555491 http://www.wikidata.org/entity/Q87555491
+@link	eBL GEŠTIN https://www.ebl.lmu.de/signs/GEŠTIN
+@link	Wikidata Q87555491 http://www.wikidata.org/entity/Q87555491
 @end sign
 
 @sign |GEŠTIN×KUR|
@@ -13954,8 +13876,8 @@
 @v-	adar₃
 @note	The value adar₃ is based on Liebermann, SLOB 136 no.27 who argues that ILDAG₀ is used to write the Akkadian equivalent of ildag (adarum) as a loan in Sumerian.
 @v	ildag₄
-@link eBL |GEŠTIN×KUR| https://www.ebl.lmu.de/signs/|GEŠTIN×KUR|
-@link Wikidata Q87555493 http://www.wikidata.org/entity/Q87555493
+@link	eBL |GEŠTIN×KUR| https://www.ebl.lmu.de/signs/|GEŠTIN×KUR|
+@link	Wikidata Q87555493 http://www.wikidata.org/entity/Q87555493
 @end sign
 
 @sign |GEŠTIN×U|
@@ -13965,65 +13887,24 @@
 @list	U+124CA
 @ucun	𒓊
 @uage	8.0
-@link eBL |GEŠTIN×U| https://www.ebl.lmu.de/signs/|GEŠTIN×U|
-@link Wikidata Q87557232 http://www.wikidata.org/entity/Q87557232
+@link	eBL |GEŠTIN×U| https://www.ebl.lmu.de/signs/|GEŠTIN×U|
+@link	Wikidata Q87557232 http://www.wikidata.org/entity/Q87557232
 @end sign
 
 @sign |GEŠU@c×KASKAL|
 @oid	o0025674
 @list	LAK824
-@inote P250936 = CUSAS 35, 457 suggests this sign is 600(=gešʾu) x
-       10(=×KASKAL), i.e., 6000
-@inote CDLI OAkk uses 1(gešʾu@v) etc as values for this sign.  In addition to the
-       LAK824 type, a mixed cuneiform/curviform version occurs which could be described as
-       |(1(AŠ)×KASKAL)×1(U@c)| (e.g., P329163); the sign sometimes has an
-       indistinct or missing 10 (as on P217632, essentially |AŠ×KASKAL|;
-       identification as gešʾu@v based on sequence).
-       Signs 1..7(GEŠU@c×KASKAL) are defined here but 5(GEŠU@c×KASKAL) is not attested yet.
+@inote	P250936 = CUSAS 35, 457 suggests this sign is 600(=gešʾu) x
+	10(=×KASKAL), i.e., 6000
+@inote	CDLI OAkk uses 1(gešʾu@v) etc as values for this sign.  In addition to the
+	LAK824 type, a mixed cuneiform/curviform version occurs which could be described as
+	|(1(AŠ)×KASKAL)×1(U@c)| (e.g., P329163); the sign sometimes has an
+	indistinct or missing 10 (as on P217632, essentially |AŠ×KASKAL|;
+	identification as gešʾu@v based on sequence).
+	Signs 1..7(GEŠU@c×KASKAL) are defined here but 5(GEŠU@c×KASKAL) is not attested yet.
 @v	1(gešʾu@v)
 @v	1(ŋešʾu@v)
-@inote Attested
-@end sign
-
-@sign 2(|GEŠU@c×KASKAL|)
-@oid  o0038252
-@v	2(gešʾu@v)
-@v	2(ŋešʾu@v)
-@inote Attested
-@end sign
-
-@sign 3(|GEŠU@c×KASKAL|)
-@oid  o0038254
-@v	3(gešʾu@v)
-@v	3(ŋešʾu@v)
-@inote Attested
-@end sign
-
-@sign 4(|GEŠU@c×KASKAL|)
-@oid  o0038256
-@v	4(gešʾu@v)
-@v	4(ŋešʾu@v)
-@inote Attested
-@end sign
-
-@sign 5(|GEŠU@c×KASKAL|)
-@oid  o0038258
-@v	5(gešʾu@v)
-@v	5(ŋešʾu@v)
-@end sign
-
-@sign 6(|GEŠU@c×KASKAL|)
-@oid  o0038260
-@v	6(gešʾu@v)
-@v	6(ŋešʾu@v)
-@inote Attested
-@end sign
-
-@sign 7(|GEŠU@c×KASKAL|)
-@oid  o0038262
-@v	7(gešʾu@v)
-@v	7(ŋešʾu@v)
-@inote Attested
+@inote	Attested
 @end sign
 
 @sign GI
@@ -14069,8 +13950,8 @@
 @note	Rebus writing (GI = târu); MZL p.461.
 @v	taru₅
 @note	Rebus writing (GI = târu); MZL p.461.
-@link eBL GI https://www.ebl.lmu.de/signs/GI
-@link Wikidata Q87555494 http://www.wikidata.org/entity/Q87555494
+@link	eBL GI https://www.ebl.lmu.de/signs/GI
+@link	Wikidata Q87555494 http://www.wikidata.org/entity/Q87555494
 @end sign
 
 @sign- |GI.KAK|
@@ -14087,7 +13968,7 @@
 @ucun	𒄀𒆤𒈤
 @v	muruₓ
 @inote	in {d}ama{+a-ma}-{+mu-ru}|GI.KID.MAH|; An = Anum 5
-@link eBL |GI.KID.MAH| https://www.ebl.lmu.de/signs/|GI.KID.MAH|
+@link	eBL |GI.KID.MAH| https://www.ebl.lmu.de/signs/|GI.KID.MAH|
 @form |KID.MA₂.MAH|
 @oid	o0025655
 @useq	x121A4.x12223.x12224
@@ -14117,7 +13998,7 @@
 @useq	x12100.x1223E.x1200A.x1230C
 @ucun	𒄀𒈾𒀊𒌌
 @v	šutum
-@link eBL |GI.NA.AB.U.GUD| https://www.ebl.lmu.de/signs/|GI.NA.AB.U.GUD|
+@link	eBL |GI.NA.AB.U.GUD| https://www.ebl.lmu.de/signs/|GI.NA.AB.U.GUD|
 @form |E₂.GI.NA.AB.HI|
 @oid	o0001141
 @useq	x1208D.x12100.x1223E.x1200A.x1212D
@@ -14169,8 +14050,8 @@
 @list	U+12101
 @ucun	𒄁
 @uage	5.0
-@link eBL |GI×E| https://www.ebl.lmu.de/signs/|GI×E|
-@link Wikidata Q87555496 http://www.wikidata.org/entity/Q87555496
+@link	eBL |GI×E| https://www.ebl.lmu.de/signs/|GI×E|
+@link	Wikidata Q87555496 http://www.wikidata.org/entity/Q87555496
 @end sign
 
 @sign |GI×TAK₄|
@@ -14178,7 +14059,7 @@
 @note	Civil, ARES 4, 101.
 @v	gitag
 @ref	EDPV-A = Q00293 210
-@link eBL |GI×TAK₄| https://www.ebl.lmu.de/signs/|GI×TAK₄|
+@link	eBL |GI×TAK₄| https://www.ebl.lmu.de/signs/|GI×TAK₄|
 @end sign
 
 @sign |GI×U|
@@ -14188,8 +14069,8 @@
 @ucun	𒄂
 @uage	5.0
 @v	henburₓ
-@link eBL |GI×U| https://www.ebl.lmu.de/signs/|GI×U|
-@link Wikidata Q87555499 http://www.wikidata.org/entity/Q87555499
+@link	eBL |GI×U| https://www.ebl.lmu.de/signs/|GI×U|
+@link	Wikidata Q87555499 http://www.wikidata.org/entity/Q87555499
 @end sign
 
 @sign |GI&GI|
@@ -14229,11 +14110,11 @@
 @v	qil₂
 @v	qili₂?
 @v	unu₁₀
-@link eBL |GI%GI| https://www.ebl.lmu.de/signs/|GI%GI|
-@link Wikidata Q87555501 http://www.wikidata.org/entity/Q87555501
+@link	eBL |GI%GI| https://www.ebl.lmu.de/signs/|GI%GI|
+@link	Wikidata Q87555501 http://www.wikidata.org/entity/Q87555501
 @form |GI₄%GI₄|
 @oid	o0001408
-@link eBL |GI₄%GI₄| https://www.ebl.lmu.de/signs/|GI₄%GI₄|
+@link	eBL |GI₄%GI₄| https://www.ebl.lmu.de/signs/|GI₄%GI₄|
 @@
 @end sign
 
@@ -14261,8 +14142,8 @@
 @v	ki₈
 @v	qe₄
 @v	qi₄
-@link eBL GI₄ https://www.ebl.lmu.de/signs/GI₄
-@link Wikidata Q87555503 http://www.wikidata.org/entity/Q87555503
+@link	eBL GI₄ https://www.ebl.lmu.de/signs/GI₄
+@link	Wikidata Q87555503 http://www.wikidata.org/entity/Q87555503
 @end sign
 
 @sign |GI₄.NA.AB.TUM|
@@ -14271,7 +14152,7 @@
 @useq	x12104.x1223E.x1200A.x12308
 @ucun	𒄄𒈾𒀊𒌈
 @v	šutumₓ
-@link eBL |GI₄.NA.AB.TUM| https://www.ebl.lmu.de/signs/|GI₄.NA.AB.TUM|
+@link	eBL |GI₄.NA.AB.TUM| https://www.ebl.lmu.de/signs/|GI₄.NA.AB.TUM|
 @end sign
 
 @sign |GI₄&GI₄|
@@ -14285,8 +14166,8 @@
 @ucun	𒄅
 @uage	5.0
 @v	kilₓ
-@link eBL |GI₄&GI₄| https://www.ebl.lmu.de/signs/|GI₄&GI₄|
-@link Wikidata Q87555504 http://www.wikidata.org/entity/Q87555504
+@link	eBL |GI₄&GI₄| https://www.ebl.lmu.de/signs/|GI₄&GI₄|
+@link	Wikidata Q87555504 http://www.wikidata.org/entity/Q87555504
 @end sign
 
 @sign |GI₄%GI₄|
@@ -14300,8 +14181,8 @@
 @uage	5.0
 @v	esir₅
 @v	gigi
-@link eBL |GI₄%GI₄| https://www.ebl.lmu.de/signs/|GI₄%GI₄|
-@link Wikidata Q87555508 http://www.wikidata.org/entity/Q87555508
+@link	eBL |GI₄%GI₄| https://www.ebl.lmu.de/signs/|GI₄%GI₄|
+@link	Wikidata Q87555508 http://www.wikidata.org/entity/Q87555508
 @end sign
 
 @sign GIDIM
@@ -14320,8 +14201,8 @@
 @v	kiteₓ
 @v	kitiₓ
 @v	kitim
-@link eBL GIDIM https://www.ebl.lmu.de/signs/GIDIM
-@link Wikidata Q87555510 http://www.wikidata.org/entity/Q87555510
+@link	eBL GIDIM https://www.ebl.lmu.de/signs/GIDIM
+@link	Wikidata Q87555510 http://www.wikidata.org/entity/Q87555510
 @form |SAG×TAB|
 @oid	o0031495
 @inote	sign form according to dcclt edition of P213482 = HSS 10 222; photo indistinct; requires collation
@@ -14329,7 +14210,7 @@
 @list	U+122A1
 @ucun	𒊡
 @uage	5.0
-@link Wikidata Q87556329 http://www.wikidata.org/entity/Q87556329
+@link	Wikidata Q87556329 http://www.wikidata.org/entity/Q87556329
 @@
 @end sign
 
@@ -14363,8 +14244,8 @@
 @inote	ED |MI.NUNUZ|
 @sys	Attinger geg => gig
 @sys	Attinger kib₃
-@link eBL GIG https://www.ebl.lmu.de/signs/GIG
-@link Wikidata Q87556765 http://www.wikidata.org/entity/Q87556765
+@link	eBL GIG https://www.ebl.lmu.de/signs/GIG
+@link	Wikidata Q87556765 http://www.wikidata.org/entity/Q87556765
 @end sign
 
 @sign GIR₂
@@ -14400,15 +14281,64 @@
 @v	miriₓ
 @v	patru
 @v	ukur?
-@link eBL GIR₂ https://www.ebl.lmu.de/signs/GIR₂
-@link Wikidata Q87555512 http://www.wikidata.org/entity/Q87555512
+@link	eBL GIR₂ https://www.ebl.lmu.de/signs/GIR₂
+@link	Wikidata Q87555512 http://www.wikidata.org/entity/Q87555512
 @form GIR₂@g
-@inote Support CCPo GIR₂(UL₄)
+@oid	o0000214
+@inote	Support CCPo GIR₂(UL₄)
 @@
 @end sign
 
 @sign |GIR₂×AŠGAB|
 @oid	o0221966
+@end sign
+
+@sign GIR₂@g
+@oid	o0000214
+@list	ABZL008
+@list	BAU004
+@list	BAU005
+@list	ELLES004
+@list	GCSL003
+@list	HZL006
+@list	KWU021
+@list	LAK007
+@list	MZL007
+@list	PTACE006
+@list	RSP339bis
+@list	SLLHA010
+@lit	Krebernik, OBO 160/1, 276
+@uname	CUNEIFORM SIGN GIR2 GUNU
+@list	U+12109
+@ucun	𒄉
+@uage	5.0
+@v	ad₂
+@v	adda₄
+@v	addu₃
+@v	ariₓ
+@v	at₂
+@v	aṭ₂
+@v	kiša₂
+@v	kišeg₂
+@v	kiši₁₇
+@v	kišig₂
+@v	kišik₂
+@v	tab₂
+@v	ul₄
+@link	eBL GIR₂@g https://www.ebl.lmu.de/signs/GIR₂@g
+@link	Wikidata Q87555514 http://www.wikidata.org/entity/Q87555514
+@form GIR₂
+@oid	o0000213
+@inote	Support Nisaba 25 UL₄(GIR₂)
+@inote	the distribution of values of GIR₂/GIR₂@g is confused over time
+	partly owing to scribal practice and partly owing to possible
+	issues in modern copies--a lot of collation is needed
+@@
+@end sign
+
+@sign |GIR₂@g×EŠ₂|
+@oid	o0031783
+@inote	dcclt/ebla
 @end sign
 
 @sign GIR₃
@@ -14460,8 +14390,8 @@
 @v	šakkan₂
 @v	wir
 @sys	Attinger irra => ir₉
-@link eBL GIR₃ https://www.ebl.lmu.de/signs/GIR₃
-@link Wikidata Q87555516 http://www.wikidata.org/entity/Q87555516
+@link	eBL GIR₃ https://www.ebl.lmu.de/signs/GIR₃
+@link	Wikidata Q87555516 http://www.wikidata.org/entity/Q87555516
 @form |GA₂×AN.GAN.KAK|
 @oid	o0031603
 @inote	Reading according to copy of K.4349+ iv 54a''; needs collation
@@ -14471,7 +14401,7 @@
 @form KIŠ
 @oid	o0000286
 @list	LAK248
-@link eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
+@link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
 @end sign
 
@@ -14487,10 +14417,10 @@
 @v	šakan₆
 @v	šakkan₆
 @v	šakkana
-@link eBL |GIR₃.ARAD| https://www.ebl.lmu.de/signs/|GIR₃.ARAD|
+@link	eBL |GIR₃.ARAD| https://www.ebl.lmu.de/signs/|GIR₃.ARAD|
 @form |ANŠE.ARAD|
 @oid	o0000831
-@link eBL |ANŠE.ARAD| https://www.ebl.lmu.de/signs/|ANŠE.ARAD|
+@link	eBL |ANŠE.ARAD| https://www.ebl.lmu.de/signs/|ANŠE.ARAD|
 @@
 @form |KIŠ.ARAD|
 @oid	o0001744
@@ -14512,7 +14442,7 @@
 @ucun	𒄊𒁇
 @v	kišer
 @v	šer₁₁
-@link eBL |GIR₃.BAR| https://www.ebl.lmu.de/signs/|GIR₃.BAR|
+@link	eBL |GIR₃.BAR| https://www.ebl.lmu.de/signs/|GIR₃.BAR|
 @end sign
 
 @sign |GIR₃.GA₂×PA.A.AN|
@@ -14520,7 +14450,7 @@
 @useq	x1210A.x120E2.x12000.x1202D
 @ucun	𒄊𒃢𒀀𒀭
 @v	sakkan₂
-@link eBL |GIR₃.GA₂×PA.A.AN| https://www.ebl.lmu.de/signs/|GIR₃.GA₂×PA.A.AN|
+@link	eBL |GIR₃.GA₂×PA.A.AN| https://www.ebl.lmu.de/signs/|GIR₃.GA₂×PA.A.AN|
 @end sign
 
 @sign |GIR₃.ŠU.IG|
@@ -14528,7 +14458,7 @@
 @useq	x1210A.x122D7.x12145
 @ucun	𒄊𒋗𒅅
 @v	hubud
-@link eBL |GIR₃.ŠU.IG| https://www.ebl.lmu.de/signs/|GIR₃.ŠU.IG|
+@link	eBL |GIR₃.ŠU.IG| https://www.ebl.lmu.de/signs/|GIR₃.ŠU.IG|
 @form |KA.ŠU.IG|
 @oid	o0001564
 @useq	x12157.x122D7.x12145
@@ -14542,7 +14472,7 @@
 @ucun	𒄊𒍞
 @v	girₓ
 @v	irgi
-@link eBL |GIR₃.ZA@t| https://www.ebl.lmu.de/signs/|GIR₃.ZA@t|
+@link	eBL |GIR₃.ZA@t| https://www.ebl.lmu.de/signs/|GIR₃.ZA@t|
 @end sign
 
 @sign |GIR₃×(A.IGI)|
@@ -14560,8 +14490,8 @@
 @uage	5.0
 @v	alim
 @v	alima
-@link eBL |GIR₃×(A.IGI)| https://www.ebl.lmu.de/signs/|GIR₃×(A.IGI)|
-@link Wikidata Q87555518 http://www.wikidata.org/entity/Q87555518
+@link	eBL |GIR₃×(A.IGI)| https://www.ebl.lmu.de/signs/|GIR₃×(A.IGI)|
+@link	Wikidata Q87555518 http://www.wikidata.org/entity/Q87555518
 @form |A.IGI.GIR₃|
 @oid	o0031528
 @useq	x12000.x12146.x1210A
@@ -14570,7 +14500,7 @@
 @form |GIR₃×IGI|
 @oid	o0001352
 @inote	This is the form in Gudea Cyl.
-@link eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
+@link	eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
 @@
 @form |IGI.KIŠ|
 @oid	o0031508
@@ -14582,7 +14512,7 @@
 @list	LAK248
 @v	alim⁻
 @sys	Attinger alim⁻ => alim
-@link eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
+@link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
 @end sign
 
@@ -14613,14 +14543,14 @@
 @v	girid₂
 @v	ŋiri₁₆
 @v	irₓ
-@link eBL |GIR₃×GAN₂@t| https://www.ebl.lmu.de/signs/|GIR₃×GAN₂@t|
-@link Wikidata Q87555520 http://www.wikidata.org/entity/Q87555520
+@link	eBL |GIR₃×GAN₂@t| https://www.ebl.lmu.de/signs/|GIR₃×GAN₂@t|
+@link	Wikidata Q87555520 http://www.wikidata.org/entity/Q87555520
 @form KIŠ
 @oid	o0000286
 @list	LAK248
 @v	giri₁₆⁻
 @sys	Attinger giri₁₆⁻ => giri₁₆
-@link eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
+@link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
 @end sign
 
@@ -14636,8 +14566,8 @@
 @ucun	𒄍
 @uage	5.0
 @v	alimₓ
-@link eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
-@link Wikidata Q87555522 http://www.wikidata.org/entity/Q87555522
+@link	eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
+@link	Wikidata Q87555522 http://www.wikidata.org/entity/Q87555522
 @end sign
 
 @sign |GIR₃×(LU.IGI)|
@@ -14653,8 +14583,8 @@
 @uage	5.0
 @v	lulim
 @v	lulima
-@link eBL |GIR₃×(LU.IGI)| https://www.ebl.lmu.de/signs/|GIR₃×(LU.IGI)|
-@link Wikidata Q87555524 http://www.wikidata.org/entity/Q87555524
+@link	eBL |GIR₃×(LU.IGI)| https://www.ebl.lmu.de/signs/|GIR₃×(LU.IGI)|
+@link	Wikidata Q87555524 http://www.wikidata.org/entity/Q87555524
 @form |GIR₃×(IGI.LU)|
 @oid	o0038011
 @list	GCSL168
@@ -14685,8 +14615,8 @@
 @ucun	𒄏
 @uage	5.0
 @v	anšeₓ
-@link eBL |GIR₃×PA| https://www.ebl.lmu.de/signs/|GIR₃×PA|
-@link Wikidata Q87555526 http://www.wikidata.org/entity/Q87555526
+@link	eBL |GIR₃×PA| https://www.ebl.lmu.de/signs/|GIR₃×PA|
+@link	Wikidata Q87555526 http://www.wikidata.org/entity/Q87555526
 @end sign
 
 @sign |GIR₃×ŠE|
@@ -14701,53 +14631,6 @@
 @sign |GIR₃×ZA@t|
 @oid	o0027980
 @inote	gvl unknown compound
-@end sign
-
-@sign GIR₂@g
-@oid	o0000214
-@list	ABZL008
-@list	BAU004
-@list	BAU005
-@list	ELLES004
-@list	GCSL003
-@list	HZL006
-@list	KWU021
-@list	LAK007
-@list	MZL007
-@list	PTACE006
-@list	RSP339bis
-@list	SLLHA010
-@lit	Krebernik, OBO 160/1, 276
-@uname	CUNEIFORM SIGN GIR2 GUNU
-@list	U+12109
-@ucun	𒄉
-@uage	5.0
-@v	ad₂
-@v	adda₄
-@v	addu₃
-@v	ariₓ
-@v	at₂
-@v	aṭ₂
-@v	kiša₂
-@v	kišeg₂
-@v	kiši₁₇
-@v	kišig₂
-@v	kišik₂
-@v	tab₂
-@v	ul₄
-@link eBL GIR₂@g https://www.ebl.lmu.de/signs/GIR₂@g
-@link Wikidata Q87555514 http://www.wikidata.org/entity/Q87555514
-@form GIR₂
-@inote Support Nisaba 25 UL₄(GIR₂)
-@inote the distribution of values of GIR₂/GIR₂@g is confused over time
-	partly owing to scribal practice and partly owing to possible
-	issues in modern copies--a lot of collation is needed
-@@
-@end sign
-
-@sign |GIR₂@g×EŠ₂|
-@oid	o0031783
-@inote	dcclt/ebla
 @end sign
 
 @sign GISAL
@@ -14771,14 +14654,14 @@
 @v	ŋisal
 @v	ŋizal
 @v	mizal
-@link eBL GISAL https://www.ebl.lmu.de/signs/GISAL
-@link Wikidata Q87555528 http://www.wikidata.org/entity/Q87555528
+@link	eBL GISAL https://www.ebl.lmu.de/signs/GISAL
+@link	Wikidata Q87555528 http://www.wikidata.org/entity/Q87555528
 @form |BI.GIŠ|
 @oid	o0000915
 @useq	x12049.x12111
 @ucun	𒁉𒄑
 @v	gisalₓ
-@link eBL |BI.GIŠ| https://www.ebl.lmu.de/signs/|BI.GIŠ|
+@link	eBL |BI.GIŠ| https://www.ebl.lmu.de/signs/|BI.GIŠ|
 @@
 @form GISAL
 @oid	o0000216
@@ -14789,7 +14672,7 @@
 @list	RSP217
 @list	RSP367
 @list	SLLHA226
-@link eBL GISAL https://www.ebl.lmu.de/signs/GISAL
+@link	eBL GISAL https://www.ebl.lmu.de/signs/GISAL
 @@
 @form |GUD.GIŠ|
 @oid	o0001416
@@ -14798,7 +14681,7 @@
 @@
 @form |GUD.GIŠ×TAK₄|
 @oid	o0001418
-@link eBL |GUD.GIŠ×TAK₄| https://www.ebl.lmu.de/signs/|GUD.GIŠ×TAK₄|
+@link	eBL |GUD.GIŠ×TAK₄| https://www.ebl.lmu.de/signs/|GUD.GIŠ×TAK₄|
 @@
 @end sign
 
@@ -14808,7 +14691,7 @@
 @useq	x12110.x120F0.x120FB.x12000.x122DB.x12000
 @ucun	𒄐𒃰𒃻𒀀𒋛𒀀
 @v	addirₓ
-@link eBL |GISAL.GAD.GAR.A.SI.A| https://www.ebl.lmu.de/signs/|GISAL.GAD.GAR.A.SI.A|
+@link	eBL |GISAL.GAD.GAR.A.SI.A| https://www.ebl.lmu.de/signs/|GISAL.GAD.GAR.A.SI.A|
 @end sign
 
 @sign |GISAL.PAD.A.SI|
@@ -14874,8 +14757,8 @@
 @v	neš₂
 @v	nis₂
 @v	niš₂
-@link eBL GIŠ https://www.ebl.lmu.de/signs/GIŠ
-@link Wikidata Q87555530 http://www.wikidata.org/entity/Q87555530
+@link	eBL GIŠ https://www.ebl.lmu.de/signs/GIŠ
+@link	Wikidata Q87555530 http://www.wikidata.org/entity/Q87555530
 @form GIŠ~v
 @oid	o0028997
 @aka	GIŠ~x
@@ -14888,7 +14771,7 @@
 @useq	x12111.x12041
 @ucun	𒄑𒁁
 @v	mišsun
-@link eBL |GIŠ.BAD| https://www.ebl.lmu.de/signs/|GIŠ.BAD|
+@link	eBL |GIŠ.BAD| https://www.ebl.lmu.de/signs/|GIŠ.BAD|
 @end sign
 
 @sign |GIŠ.BAR|
@@ -14896,7 +14779,7 @@
 @useq	x12111.x12047
 @ucun	𒄑𒁇
 @v	gira₂
-@link eBL |GIŠ.BAR| https://www.ebl.lmu.de/signs/|GIŠ.BAR|
+@link	eBL |GIŠ.BAR| https://www.ebl.lmu.de/signs/|GIŠ.BAR|
 @end sign
 
 @sign |GIŠ.DIN|
@@ -14905,7 +14788,7 @@
 @ucun	𒄑𒁷
 @v	geš-tin
 @v	wi₅
-@link eBL |GIŠ.DIN| https://www.ebl.lmu.de/signs/|GIŠ.DIN|
+@link	eBL |GIŠ.DIN| https://www.ebl.lmu.de/signs/|GIŠ.DIN|
 @end sign
 
 @sign |GIŠ.DUN₃@g.MAŠ|
@@ -14914,7 +14797,7 @@
 @ucun	𒄑𒂆𒈦
 @v	gilgames
 @v	gilgameš
-@link eBL |GIŠ.DUN₃@g.MAŠ| https://www.ebl.lmu.de/signs/|GIŠ.DUN₃@g.MAŠ|
+@link	eBL |GIŠ.DUN₃@g.MAŠ| https://www.ebl.lmu.de/signs/|GIŠ.DUN₃@g.MAŠ|
 @end sign
 
 @sign |GIŠ.GAR.UMBIN|
@@ -14922,7 +14805,7 @@
 @useq	x12111.x120FB.x12322
 @ucun	𒄑𒃻𒌢
 @v	nisikiₓ
-@link eBL |GIŠ.GAR.UMBIN| https://www.ebl.lmu.de/signs/|GIŠ.GAR.UMBIN|
+@link	eBL |GIŠ.GAR.UMBIN| https://www.ebl.lmu.de/signs/|GIŠ.GAR.UMBIN|
 @end sign
 
 @sign |GIŠ.KA.KAD₃|
@@ -14939,7 +14822,7 @@
 @ucun	𒄑𒅗𒆒
 @v	kageškaraₓ
 @v	kaŋeškaraₓ
-@link eBL |GIŠ.KA.KAD₄| https://www.ebl.lmu.de/signs/|GIŠ.KA.KAD₄|
+@link	eBL |GIŠ.KA.KAD₄| https://www.ebl.lmu.de/signs/|GIŠ.KA.KAD₄|
 @end sign
 
 @sign |GIŠ.KA.KAD₅|
@@ -14948,7 +14831,7 @@
 @ucun	𒄑𒅗𒆓
 @v	kageškaraₓ
 @v	kaŋeškaraₓ
-@link eBL |GIŠ.KA.KAD₅| https://www.ebl.lmu.de/signs/|GIŠ.KA.KAD₅|
+@link	eBL |GIŠ.KA.KAD₅| https://www.ebl.lmu.de/signs/|GIŠ.KA.KAD₅|
 @end sign
 
 @sign |GIŠ.KI.BI|
@@ -14956,7 +14839,7 @@
 @useq	x12111.x121A0.x12049
 @ucun	𒄑𒆠𒁉
 @v	gešbunₓ
-@link eBL |GIŠ.KI.BI| https://www.ebl.lmu.de/signs/|GIŠ.KI.BI|
+@link	eBL |GIŠ.KI.BI| https://www.ebl.lmu.de/signs/|GIŠ.KI.BI|
 @end sign
 
 @sign |GIŠ.KU|
@@ -14964,7 +14847,7 @@
 @useq	x12111.x121AA
 @ucun	𒄑𒆪
 @v	ŋeštukul₂
-@link eBL |GIŠ.KU| https://www.ebl.lmu.de/signs/|GIŠ.KU|
+@link	eBL |GIŠ.KU| https://www.ebl.lmu.de/signs/|GIŠ.KU|
 @end sign
 
 @sign |GIŠ.KUL|
@@ -14973,7 +14856,7 @@
 @ucun	𒄑𒆰
 @v	kulₓ
 @v	xₓ
-@link eBL |GIŠ.KUL| https://www.ebl.lmu.de/signs/|GIŠ.KUL|
+@link	eBL |GIŠ.KUL| https://www.ebl.lmu.de/signs/|GIŠ.KUL|
 @end sign
 
 @sign |GIŠ.KUŠU₂|
@@ -14984,7 +14867,14 @@
 @v	umma
 @v	ummenₓ
 @v	ummiₓ
-@link eBL |GIŠ.KUŠU₂| https://www.ebl.lmu.de/signs/|GIŠ.KUŠU₂|
+@link	eBL |GIŠ.KUŠU₂| https://www.ebl.lmu.de/signs/|GIŠ.KUŠU₂|
+@form |GIŠ.KI.KUŠU₂|
+@oid	o0038184
+@useq	x12111.x121A0.x121B5
+@ucun	𒄑𒆠𒆵
+@v	gešaₓ
+@v	ŋešaₓ
+@@
 @form |GIŠ.KUŠU₂×KASKAL|
 @oid	o0221867
 @useq	x12111.X
@@ -14992,12 +14882,6 @@
 @v	gešaₓ
 @v	ŋešaₓ
 @v	ummaₓ
-@@
-@form |GIŠ.KI.KUŠU₂|
-@oid	o0038184
-@useq x12111.x121A0.x121B5
-@v	gešaₓ
-@v	ŋešaₓ
 @@
 @end sign
 
@@ -15008,7 +14892,7 @@
 @v-	giriₓ
 @v	ŋešgiriₓ
 @note	use ŋeš-giriₓ(LU₂) instead.
-@link eBL |GIŠ.LU₂| https://www.ebl.lmu.de/signs/|GIŠ.LU₂|
+@link	eBL |GIŠ.LU₂| https://www.ebl.lmu.de/signs/|GIŠ.LU₂|
 @end sign
 
 @sign |GIŠ.MA₂.RA|
@@ -15016,7 +14900,7 @@
 @useq	x12111.x12223.x1228F
 @ucun	𒄑𒈣𒊏
 @v	amra
-@link eBL |GIŠ.MA₂.RA| https://www.ebl.lmu.de/signs/|GIŠ.MA₂.RA|
+@link	eBL |GIŠ.MA₂.RA| https://www.ebl.lmu.de/signs/|GIŠ.MA₂.RA|
 @end sign
 
 @sign |GIŠ.MI|
@@ -15037,7 +14921,7 @@
 @v	ubilla₂
 @sys	Attinger ŋessu => ŋissu
 @sys	Attinger ŋessun => ŋissu
-@link eBL |GIŠ.MI| https://www.ebl.lmu.de/signs/|GIŠ.MI|
+@link	eBL |GIŠ.MI| https://www.ebl.lmu.de/signs/|GIŠ.MI|
 @end sign
 
 @sign |GIŠ.NE|
@@ -15046,7 +14930,7 @@
 @ucun	𒄑𒉈
 @v	bil₄
 @v	pil₄
-@link eBL |GIŠ.NE| https://www.ebl.lmu.de/signs/|GIŠ.NE|
+@link	eBL |GIŠ.NE| https://www.ebl.lmu.de/signs/|GIŠ.NE|
 @end sign
 
 @sign |GIŠ.NE.GA.MES|
@@ -15055,7 +14939,7 @@
 @ucun	𒄑𒉈𒂵𒈩
 @v	gilgames₃
 @v	gilgameš₃
-@link eBL |GIŠ.NE.GA.MES| https://www.ebl.lmu.de/signs/|GIŠ.NE.GA.MES|
+@link	eBL |GIŠ.NE.GA.MES| https://www.ebl.lmu.de/signs/|GIŠ.NE.GA.MES|
 @form |GIŠ.GIŠ.NE@s.MES.GA|
 @oid	o0018575
 @useq	x12111.x12111.x1224B.x12229.x120B5
@@ -15118,7 +15002,7 @@
 @v	pil₃
 @v	šegₓ
 @v	ubilla
-@link eBL |GIŠ.NE@s| https://www.ebl.lmu.de/signs/|GIŠ.NE@s|
+@link	eBL |GIŠ.NE@s| https://www.ebl.lmu.de/signs/|GIŠ.NE@s|
 @form |GI.NE|
 @oid	o0021755
 @inote	P323750 CUSAS 19 066 o 5: needs collation--for GIŠ.NE?
@@ -15132,7 +15016,7 @@
 @useq	x12111.x1224B.x120B5.x1238C
 @ucun	𒄑𒉋𒂵𒎌
 @v	gilgameš₂
-@link eBL |GIŠ.NE@s.GA.ME.U.U.U| https://www.ebl.lmu.de/signs/|GIŠ.NE@s.GA.ME.U.U.U|
+@link	eBL |GIŠ.NE@s.GA.ME.U.U.U| https://www.ebl.lmu.de/signs/|GIŠ.NE@s.GA.ME.U.U.U|
 @end sign
 
 @sign |GIŠ.NU₁₁|
@@ -15140,7 +15024,7 @@
 @useq	x12111.x12262
 @ucun	𒄑𒉢
 @v	ŋeš-nu₁₁
-@link eBL |GIŠ.NU₁₁| https://www.ebl.lmu.de/signs/|GIŠ.NU₁₁|
+@link	eBL |GIŠ.NU₁₁| https://www.ebl.lmu.de/signs/|GIŠ.NU₁₁|
 @end sign
 
 @sign |GIŠ.PAP.PAP|
@@ -15165,7 +15049,7 @@
 @v	ŋeštug₃
 @v	ŋištu₃
 @v	ŋištug₃
-@link eBL |GIŠ.PI.TUG₂| https://www.ebl.lmu.de/signs/|GIŠ.PI.TUG₂|
+@link	eBL |GIŠ.PI.TUG₂| https://www.ebl.lmu.de/signs/|GIŠ.PI.TUG₂|
 @form |GIŠ.PI|
 @oid	o0018535
 @useq	x12111.x1227F
@@ -15185,7 +15069,7 @@
 @v	ŋešbuₓ?
 @v	ŋešpaₓ?
 @v	ŋešpuₓ?
-@link eBL |GIŠ.RU| https://www.ebl.lmu.de/signs/|GIŠ.RU|
+@link	eBL |GIŠ.RU| https://www.ebl.lmu.de/signs/|GIŠ.RU|
 @end sign
 
 @sign |GIŠ.SAL.KUR|
@@ -15193,7 +15077,7 @@
 @useq	x12111.x122A9.x121B3
 @ucun	𒄑𒊩𒆳
 @v	ummaₓ
-@link eBL |GIŠ.SAL.KUR| https://www.ebl.lmu.de/signs/|GIŠ.SAL.KUR|
+@link	eBL |GIŠ.SAL.KUR| https://www.ebl.lmu.de/signs/|GIŠ.SAL.KUR|
 @end sign
 
 @sign |GIŠ.ŠEŠ.KI|
@@ -15210,7 +15094,7 @@
 @ucun	𒄑𒋗𒇽
 @v-	giriₓ
 @note	read ŋeš-giri₁₉
-@link eBL |GIŠ.ŠU.LU₂| https://www.ebl.lmu.de/signs/|GIŠ.ŠU.LU₂|
+@link	eBL |GIŠ.ŠU.LU₂| https://www.ebl.lmu.de/signs/|GIŠ.ŠU.LU₂|
 @end sign
 
 @sign |GIŠ.TAR|
@@ -15218,7 +15102,7 @@
 @useq	x12111.x122FB
 @ucun	𒄑𒋻
 @v	mišhaš
-@link eBL |GIŠ.TAR| https://www.ebl.lmu.de/signs/|GIŠ.TAR|
+@link	eBL |GIŠ.TAR| https://www.ebl.lmu.de/signs/|GIŠ.TAR|
 @end sign
 
 @sign |GIŠ.TUG₂.DU|
@@ -15255,7 +15139,7 @@
 @v	ŋištug₂
 @v	muštuₓ
 @v	muštugₓ
-@link eBL |GIŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI|
+@link	eBL |GIŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI|
 @end sign
 
 @sign- |GIŠ.TUG₂.PI.BU@t.NUN|
@@ -15271,7 +15155,7 @@
 @ucun	𒄑𒌆𒉿𒉌
 @v	gizzalₓ
 @v	ŋizzalₓ
-@link eBL |GIŠ.TUG₂.PI.NI| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.NI|
+@link	eBL |GIŠ.TUG₂.PI.NI| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.NI|
 @end sign
 
 @sign |GIŠ.TUG₂.PI.NU₁₁@90.SILA₃|
@@ -15285,7 +15169,7 @@
 @v	ŋezzal
 @v	ŋizzal
 @v	misal
-@link eBL |GIŠ.TUG₂.PI.NU₁₁@90.SILA₃| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.NU₁₁@90.SILA₃|
+@link	eBL |GIŠ.TUG₂.PI.NU₁₁@90.SILA₃| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.NU₁₁@90.SILA₃|
 @form |GIŠ.PI.TUG₂.NU₁₁@90|
 @oid	o0022956
 @useq	x12111.x1227F.x12306.x12393
@@ -15357,7 +15241,7 @@
 @v	ašlag₅
 @v	azalag₅
 @v	azlag₅
-@link eBL |GIŠ.TUG₂.PI.TE.A| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.TE.A|
+@link	eBL |GIŠ.TUG₂.PI.TE.A| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.TE.A|
 @end sign
 
 @sign |GIŠ.TUG₂.PI.TE.A.DU|
@@ -15368,7 +15252,7 @@
 @v	ašlag₃
 @v	azalag₃
 @v	azlag₃
-@link eBL |GIŠ.TUG₂.PI.TE.A.DU| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.TE.A.DU|
+@link	eBL |GIŠ.TUG₂.PI.TE.A.DU| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.PI.TE.A.DU|
 @form |GIŠ.DU.TE.A.TUG₂|
 @oid	o0031482
 @useq	x12111.x1207A.x122FC.x12000.x12306
@@ -15394,7 +15278,7 @@
 @v	ašlag₆
 @v	azalag₆
 @v	azlag₆
-@link eBL |GIŠ.TUG₂.TE.A| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.TE.A|
+@link	eBL |GIŠ.TUG₂.TE.A| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.TE.A|
 @end sign
 
 @sign |GIŠ.TUG₂.TE.A.DU|
@@ -15404,7 +15288,7 @@
 @v	ašlag₄
 @v	azalag₄
 @v	azlag₄
-@link eBL |GIŠ.TUG₂.TE.A.DU| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.TE.A.DU|
+@link	eBL |GIŠ.TUG₂.TE.A.DU| https://www.ebl.lmu.de/signs/|GIŠ.TUG₂.TE.A.DU|
 @form |TUG₂.TE.A.DU|
 @oid	o0018567
 @useq	x12306.x122FC.x12000.x1207A
@@ -15434,8 +15318,8 @@
 @v	ŋešhar
 @v	ŋešhur
 @v	ziz₄
-@link eBL |GIŠ×BAD| https://www.ebl.lmu.de/signs/|GIŠ×BAD|
-@link Wikidata Q87555535 http://www.wikidata.org/entity/Q87555535
+@link	eBL |GIŠ×BAD| https://www.ebl.lmu.de/signs/|GIŠ×BAD|
+@link	Wikidata Q87555535 http://www.wikidata.org/entity/Q87555535
 @end sign
 
 @sign |GIŠ×ERIN₂|
@@ -15458,13 +15342,18 @@
 @ucun	𒓋
 @uage	8.0
 @v	ulₓ
-@link eBL |GIŠ×(GIŠ%GIŠ)| https://www.ebl.lmu.de/signs/|GIŠ×(GIŠ%GIŠ)|
-@link Wikidata Q87557234 http://www.wikidata.org/entity/Q87557234
+@link	eBL |GIŠ×(GIŠ%GIŠ)| https://www.ebl.lmu.de/signs/|GIŠ×(GIŠ%GIŠ)|
+@link	Wikidata Q87557234 http://www.wikidata.org/entity/Q87557234
 @end sign
 
 @sign |GIŠ×HI|
 @oid	o0027983
 @inote	gvl unknown compound
+@end sign
+
+@sign |GIŠ×ŠU|
+@oid	o0038213
+@inote	epsd2/admin/ur3 needs collation
 @end sign
 
 @sign |GIŠ×TAK₄|
@@ -15479,8 +15368,8 @@
 @v	šeₓ
 @v	terₓ
 @v	tirₓ
-@link eBL |GIŠ×TAK₄| https://www.ebl.lmu.de/signs/|GIŠ×TAK₄|
-@link Wikidata Q87555538 http://www.wikidata.org/entity/Q87555538
+@link	eBL |GIŠ×TAK₄| https://www.ebl.lmu.de/signs/|GIŠ×TAK₄|
+@link	Wikidata Q87555538 http://www.wikidata.org/entity/Q87555538
 @end sign
 
 @sign |GIŠ×X|
@@ -15539,8 +15428,8 @@
 @v	ul₃
 @v	ullu
 @v	ulul
-@link eBL |GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|GIŠ%GIŠ|
-@link Wikidata Q87555533 http://www.wikidata.org/entity/Q87555533
+@link	eBL |GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|GIŠ%GIŠ|
+@link	Wikidata Q87555533 http://www.wikidata.org/entity/Q87555533
 @end sign
 
 @compoundonly	|(GIŠ%GIŠ)@g|
@@ -15559,7 +15448,7 @@
 @useq	x12112.x1235D
 @ucun	𒄒𒍝
 @v	lirumₓ
-@link eBL |GIŠ%GIŠ.ZA| https://www.ebl.lmu.de/signs/|GIŠ%GIŠ.ZA|
+@link	eBL |GIŠ%GIŠ.ZA| https://www.ebl.lmu.de/signs/|GIŠ%GIŠ.ZA|
 @end sign
 
 @sign GIŠ@t
@@ -15574,8 +15463,8 @@
 @v	gur₁₇
 @v	guru₁₇
 @v	kana₇
-@link eBL GIŠ@t https://www.ebl.lmu.de/signs/GIŠ@t
-@link Wikidata Q87555540 http://www.wikidata.org/entity/Q87555540
+@link	eBL GIŠ@t https://www.ebl.lmu.de/signs/GIŠ@t
+@link	Wikidata Q87555540 http://www.wikidata.org/entity/Q87555540
 @end sign
 
 @sign GU
@@ -15600,8 +15489,8 @@
 @v	gumₓ?
 @v	ku₈
 @v	qu₃
-@link eBL GU https://www.ebl.lmu.de/signs/GU
-@link Wikidata Q87555542 http://www.wikidata.org/entity/Q87555542
+@link	eBL GU https://www.ebl.lmu.de/signs/GU
+@link	Wikidata Q87555542 http://www.wikidata.org/entity/Q87555542
 @end sign
 
 @sign |GU.GU|
@@ -15615,7 +15504,7 @@
 @oid	o0001413
 @useq	x12116.x122E9.x12263
 @ucun	𒄖𒋩𒉣
-@link eBL |GU.SUR.NUN| https://www.ebl.lmu.de/signs/|GU.SUR.NUN|
+@link	eBL |GU.SUR.NUN| https://www.ebl.lmu.de/signs/|GU.SUR.NUN|
 @end sign
 
 @sign |GU×GU@90|
@@ -15642,8 +15531,8 @@
 @v	suh₃
 @v	zaₓ
 @v	zih
-@link eBL |GU%GU| https://www.ebl.lmu.de/signs/|GU%GU|
-@link Wikidata Q87555544 http://www.wikidata.org/entity/Q87555544
+@link	eBL |GU%GU| https://www.ebl.lmu.de/signs/|GU%GU|
+@link	Wikidata Q87555544 http://www.wikidata.org/entity/Q87555544
 @form |GU&GU|
 @oid	o0022957
 @inote	dcclt !sg; collate
@@ -15655,7 +15544,7 @@
 @useq	x12117.x12117
 @ucun	𒄗𒄗
 @v	sishe
-@link eBL |GU%GU.GU%GU| https://www.ebl.lmu.de/signs/|GU%GU.GU%GU|
+@link	eBL |GU%GU.GU%GU| https://www.ebl.lmu.de/signs/|GU%GU.GU%GU|
 @end sign
 
 @compoundonly	GU@90
@@ -15687,8 +15576,8 @@
 @v	tik
 @v	tiq
 @v	usanₓ
-@link eBL GU₂ https://www.ebl.lmu.de/signs/GU₂
-@link Wikidata Q87555547 http://www.wikidata.org/entity/Q87555547
+@link	eBL GU₂ https://www.ebl.lmu.de/signs/GU₂
+@link	Wikidata Q87555547 http://www.wikidata.org/entity/Q87555547
 @end sign
 
 @sign |GU₂.GAR₃|
@@ -15705,7 +15594,7 @@
 @ref	TMH 5, 039 = P020453 o ii23, nin-dallaₓ(IDIGNA)
 @note	The distinction between IDIGNA (LAK063; KWU689) and DALLA (MAŠ.IDIGNA) is consistent throughout the third millennium, with few exceptions. For Old Babylonian see Mittermayer aBZL. Exceptions include P020453 o ii 23 (OAkk Nippur) P020600 o ii 8 (OAkk Nippur) and P102772 o i 12 (Ur III).
 @v	idigna
-@link eBL |GU₂.GAR₃| https://www.ebl.lmu.de/signs/|GU₂.GAR₃|
+@link	eBL |GU₂.GAR₃| https://www.ebl.lmu.de/signs/|GU₂.GAR₃|
 @form |MAŠ.NA₂|
 @oid	o0037809
 @useq	x12226.x1223F
@@ -15716,6 +15605,16 @@
 @v	idigna
 @inote	CDLI AbS transliterations; basis for idigna reading?
 @@
+@end sign
+
+@sign |GU₂.KALAM@g|
+@oid	o0001427
+@aka	|GU₂.UN|
+@useq	x12118.x12326
+@ucun	𒄘𒌦
+@v	biltu
+@v	gun
+@link	eBL |GU₂.UN| https://www.ebl.lmu.de/signs/|GU₂.UN|
 @end sign
 
 @sign |GU₂.KAM₄|
@@ -15731,17 +15630,7 @@
 @useq	x12118.x1226D
 @ucun	𒄘𒉭
 @v	nida
-@link eBL |GU₂.NUNUZ| https://www.ebl.lmu.de/signs/|GU₂.NUNUZ|
-@end sign
-
-@sign |GU₂.KALAM@g|
-@aka |GU₂.UN|
-@oid	o0001427
-@useq	x12118.x12326
-@ucun	𒄘𒌦
-@v	biltu
-@v	gun
-@link eBL |GU₂.UN| https://www.ebl.lmu.de/signs/|GU₂.UN|
+@link	eBL |GU₂.NUNUZ| https://www.ebl.lmu.de/signs/|GU₂.NUNUZ|
 @end sign
 
 @sign |GU₂×AŠ₂|
@@ -15774,8 +15663,8 @@
 @list	U+124CC
 @ucun	𒓌
 @uage	8.0
-@link eBL |GU₂×IGI@g| https://www.ebl.lmu.de/signs/|GU₂×IGI@g|
-@link Wikidata Q87557235 http://www.wikidata.org/entity/Q87557235
+@link	eBL |GU₂×IGI@g| https://www.ebl.lmu.de/signs/|GU₂×IGI@g|
+@link	Wikidata Q87557235 http://www.wikidata.org/entity/Q87557235
 @end sign
 
 @sign |GU₂×KAK|
@@ -15801,8 +15690,8 @@
 @v	ṭur
 @v	ṭuru
 @v	usan₆
-@link eBL |GU₂×KAK| https://www.ebl.lmu.de/signs/|GU₂×KAK|
-@link Wikidata Q87555549 http://www.wikidata.org/entity/Q87555549
+@link	eBL |GU₂×KAK| https://www.ebl.lmu.de/signs/|GU₂×KAK|
+@link	Wikidata Q87555549 http://www.wikidata.org/entity/Q87555549
 @form |GU₂.KAK|
 @oid	o0022958
 @inote	dcclt !sg
@@ -15821,7 +15710,7 @@
 @ucun	𒄙𒄒
 @v	duran?
 @v	turan?
-@link eBL |GU₂×KAK.GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|GU₂×KAK.GIŠ%GIŠ|
+@link	eBL |GU₂×KAK.GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|GU₂×KAK.GIŠ%GIŠ|
 @end sign
 
 @sign |GU₂×KAK×IGI|
@@ -15841,8 +15730,8 @@
 @ucun	𒄚
 @uage	5.0
 @v	ugurₓ
-@link eBL |GU₂×KAK×IGI@g| https://www.ebl.lmu.de/signs/|GU₂×KAK×IGI@g|
-@link Wikidata Q87555551 http://www.wikidata.org/entity/Q87555551
+@link	eBL |GU₂×KAK×IGI@g| https://www.ebl.lmu.de/signs/|GU₂×KAK×IGI@g|
+@link	Wikidata Q87555551 http://www.wikidata.org/entity/Q87555551
 @end sign
 
 @sign |GU₂×NUN|
@@ -15861,8 +15750,8 @@
 @v	usan
 @v	usian
 @v	ušen
-@link eBL |GU₂×NUN| https://www.ebl.lmu.de/signs/|GU₂×NUN|
-@link Wikidata Q87555552 http://www.wikidata.org/entity/Q87555552
+@link	eBL |GU₂×NUN| https://www.ebl.lmu.de/signs/|GU₂×NUN|
+@link	Wikidata Q87555552 http://www.wikidata.org/entity/Q87555552
 @form |GU₂.NUN|
 @oid	o0022959
 @inote	dcclt !sg
@@ -15891,8 +15780,14 @@
 @ucun	𒄜
 @uage	5.0
 @v	gueriši
-@link eBL |GU₂×(SAL.TUG₂)| https://www.ebl.lmu.de/signs/|GU₂×(SAL.TUG₂)|
-@link Wikidata Q87555554 http://www.wikidata.org/entity/Q87555554
+@link	eBL |GU₂×(SAL.TUG₂)| https://www.ebl.lmu.de/signs/|GU₂×(SAL.TUG₂)|
+@link	Wikidata Q87555554 http://www.wikidata.org/entity/Q87555554
+@end sign
+
+@sign |GU₂×(U.U.U)|
+@oid	o0038209
+@aka	|GU₂×EŠ|
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign GU₂@g
@@ -15911,8 +15806,8 @@
 @v	musub₄
 @v	usaₓ
 @v	usan₂
-@link eBL GU₂@g https://www.ebl.lmu.de/signs/GU₂@g
-@link Wikidata Q87555556 http://www.wikidata.org/entity/Q87555556
+@link	eBL GU₂@g https://www.ebl.lmu.de/signs/GU₂@g
+@link	Wikidata Q87555556 http://www.wikidata.org/entity/Q87555556
 @end sign
 
 @sign GU₂@s
@@ -15972,8 +15867,8 @@
 @v	zeb₃
 @v	zib₃
 @sys	Attinger aštub => eštub
-@link eBL GUD https://www.ebl.lmu.de/signs/GUD
-@link Wikidata Q87555559 http://www.wikidata.org/entity/Q87555559
+@link	eBL GUD https://www.ebl.lmu.de/signs/GUD
+@link	Wikidata Q87555559 http://www.wikidata.org/entity/Q87555559
 @end sign
 
 @sign |GUD.AN.NA|
@@ -15981,7 +15876,7 @@
 @useq	x1211E.x1202D.x1223E
 @ucun	𒄞𒀭𒈾
 @v	lium
-@link eBL |GUD.AN.NA| https://www.ebl.lmu.de/signs/|GUD.AN.NA|
+@link	eBL |GUD.AN.NA| https://www.ebl.lmu.de/signs/|GUD.AN.NA|
 @end sign
 
 @sign |GUD.GIŠ×TAK₄|
@@ -15992,8 +15887,8 @@
 @list	U+124CD
 @ucun	𒓍
 @uage	8.0
-@link eBL |GUD.GIŠ×TAK₄| https://www.ebl.lmu.de/signs/|GUD.GIŠ×TAK₄|
-@link Wikidata Q87557237 http://www.wikidata.org/entity/Q87557237
+@link	eBL |GUD.GIŠ×TAK₄| https://www.ebl.lmu.de/signs/|GUD.GIŠ×TAK₄|
+@link	Wikidata Q87557237 http://www.wikidata.org/entity/Q87557237
 @end sign
 
 @sign |GUD.KU|
@@ -16015,27 +15910,27 @@
 @ucun	𒄟
 @uage	5.0
 @v	ildag₂
-@link eBL |GUD×(A.KUR)| https://www.ebl.lmu.de/signs/|GUD×(A.KUR)|
-@link Wikidata Q87555560 http://www.wikidata.org/entity/Q87555560
+@link	eBL |GUD×(A.KUR)| https://www.ebl.lmu.de/signs/|GUD×(A.KUR)|
+@link	Wikidata Q87555560 http://www.wikidata.org/entity/Q87555560
 @form |A.GUD×KUR|
 @oid	o0000673
 @useq	x12000.x12120
 @ucun	𒀀𒄠
-@link eBL |A.GUD×KUR| https://www.ebl.lmu.de/signs/|A.GUD×KUR|
+@link	eBL |A.GUD×KUR| https://www.ebl.lmu.de/signs/|A.GUD×KUR|
 @@
 @end sign
 
 @sign |GUD×AŠ|
 @oid	o0001420
 @v	addaₓ
-@link eBL |GUD×AŠ| https://www.ebl.lmu.de/signs/|GUD×AŠ|
+@link	eBL |GUD×AŠ| https://www.ebl.lmu.de/signs/|GUD×AŠ|
 @end sign
 
 @sign |GUD×BAD|
 @oid	o0001421
 @list	ELLES068
 @v	addaₓ
-@link eBL |GUD×BAD| https://www.ebl.lmu.de/signs/|GUD×BAD|
+@link	eBL |GUD×BAD| https://www.ebl.lmu.de/signs/|GUD×BAD|
 @end sign
 
 @sign |GUD×DIŠ|
@@ -16076,8 +15971,8 @@
 @v	eldig
 @v	ildag₃
 @sys	Attinger eldig => ildag₃
-@link eBL |GUD×KUR| https://www.ebl.lmu.de/signs/|GUD×KUR|
-@link Wikidata Q87555563 http://www.wikidata.org/entity/Q87555563
+@link	eBL |GUD×KUR| https://www.ebl.lmu.de/signs/|GUD×KUR|
+@link	Wikidata Q87555563 http://www.wikidata.org/entity/Q87555563
 @end sign
 
 @compoundonly	|GUD×PAP|
@@ -16119,22 +16014,14 @@
 @v	bišebi₃?
 @v	kaššeba₃?
 @v	kaššebi₃?
-@link eBL |GUD&GUD.LUGAL| https://www.ebl.lmu.de/signs/|GUD&GUD.LUGAL|
-@link Wikidata Q87555565 http://www.wikidata.org/entity/Q87555565
+@link	eBL |GUD&GUD.LUGAL| https://www.ebl.lmu.de/signs/|GUD&GUD.LUGAL|
+@link	Wikidata Q87555565 http://www.wikidata.org/entity/Q87555565
 @end sign
 
 @sign GUD@s
 @oid	o0000223
 @inote	CDLI oakk
-@link eBL GUD@s https://www.ebl.lmu.de/signs/GUD@s
-@end sign
-
-@sign |GAR.GUL.DA|
-@oid  o0038327
-@useq x120FB.x12122.x12055
-@ucun 𒃻𒄢𒁕
-@v	gugₓ
-@inote epsd2/royal
+@link	eBL GUD@s https://www.ebl.lmu.de/signs/GUD@s
 @end sign
 
 @sign GUL
@@ -16169,8 +16056,8 @@
 @v	sun₂
 @v	suna₂
 @v	šun₃
-@link eBL GUL https://www.ebl.lmu.de/signs/GUL
-@link Wikidata Q87555566 http://www.wikidata.org/entity/Q87555566
+@link	eBL GUL https://www.ebl.lmu.de/signs/GUL
+@link	Wikidata Q87555566 http://www.wikidata.org/entity/Q87555566
 @form |GUL.ZA|
 @oid	o0018563
 @useq	x12122.x1235D
@@ -16214,8 +16101,8 @@
 @v	ša₉
 @v	šaqu₃?
 @sys	Attinger gaz⁻ => gaz
-@link eBL GUM https://www.ebl.lmu.de/signs/GUM
-@link Wikidata Q87555568 http://www.wikidata.org/entity/Q87555568
+@link	eBL GUM https://www.ebl.lmu.de/signs/GUM
+@link	Wikidata Q87555568 http://www.wikidata.org/entity/Q87555568
 @end sign
 
 @sign- |GUM×(GI.IDIM)|
@@ -16253,8 +16140,8 @@
 @v	naga₃
 @v	naŋ₃
 @v	naŋa₃
-@link eBL |GUM×ŠE| https://www.ebl.lmu.de/signs/|GUM×ŠE|
-@link Wikidata Q87555571 http://www.wikidata.org/entity/Q87555571
+@link	eBL |GUM×ŠE| https://www.ebl.lmu.de/signs/|GUM×ŠE|
+@link	Wikidata Q87555571 http://www.wikidata.org/entity/Q87555571
 @end sign
 
 @sign |GUM×X|
@@ -16288,13 +16175,13 @@
 @v	quru
 @v	tari
 @v	taru
-@link eBL GUR https://www.ebl.lmu.de/signs/GUR
-@link Wikidata Q87555573 http://www.wikidata.org/entity/Q87555573
+@link	eBL GUR https://www.ebl.lmu.de/signs/GUR
+@link	Wikidata Q87555573 http://www.wikidata.org/entity/Q87555573
 @end sign
 
 @sign |GUR×AŠ@c|
 @oid	o0021438
-@v gurₓ
+@v	gurₓ
 @end sign
 
 @sign GUR₇
@@ -16313,8 +16200,8 @@
 @v	guru₇
 @v	kara₆
 @v	kuru₁₃
-@link eBL GUR₇ https://www.ebl.lmu.de/signs/GUR₇
-@link Wikidata Q87555575 http://www.wikidata.org/entity/Q87555575
+@link	eBL GUR₇ https://www.ebl.lmu.de/signs/GUR₇
+@link	Wikidata Q87555575 http://www.wikidata.org/entity/Q87555575
 @form |SIK₂.LAM.HI×NUN.ME.GAM|
 @oid	o0002351
 @useq	x122E0.x121F4.x12134.x12228.x120F5
@@ -16364,8 +16251,8 @@
 @v	kurrunₓ
 @v	kurun₆
 @v	ludₓ
-@link eBL GURUN https://www.ebl.lmu.de/signs/GURUN
-@link Wikidata Q87555577 http://www.wikidata.org/entity/Q87555577
+@link	eBL GURUN https://www.ebl.lmu.de/signs/GURUN
+@link	Wikidata Q87555577 http://www.wikidata.org/entity/Q87555577
 @end sign
 
 @sign GURUŠ
@@ -16386,14 +16273,14 @@
 @v	ŋereš₂
 @v	ŋuruš
 @v	murušₓ
-@link eBL GURUŠ https://www.ebl.lmu.de/signs/GURUŠ
-@link Wikidata Q87555579 http://www.wikidata.org/entity/Q87555579
+@link	eBL GURUŠ https://www.ebl.lmu.de/signs/GURUŠ
+@link	Wikidata Q87555579 http://www.wikidata.org/entity/Q87555579
 @form KAL
 @oid	o0000270
 @list	GCSL293
 @list	LAK709b
 @v	giriₓ
-@link eBL KAL https://www.ebl.lmu.de/signs/KAL
+@link	eBL KAL https://www.ebl.lmu.de/signs/KAL
 @@
 @end sign
 
@@ -16424,8 +16311,8 @@
 @v	kua
 @v	peš₁₁
 @v	zahaₓ
-@link eBL HA https://www.ebl.lmu.de/signs/HA
-@link Wikidata Q87555581 http://www.wikidata.org/entity/Q87555581
+@link	eBL HA https://www.ebl.lmu.de/signs/HA
+@link	Wikidata Q87555581 http://www.wikidata.org/entity/Q87555581
 @form HA@g
 @oid	o0000233
 @list	BAU210
@@ -16436,7 +16323,7 @@
 @list	RSP182
 @v	ha⁺
 @sys	Attinger ha⁺ => ha
-@link eBL HA@g https://www.ebl.lmu.de/signs/HA@g
+@link	eBL HA@g https://www.ebl.lmu.de/signs/HA@g
 @@
 @end sign
 
@@ -16451,7 +16338,7 @@
 @v	saha₆
 @v	zah₂
 @v	zaha₂
-@link eBL |HA.A| https://www.ebl.lmu.de/signs/|HA.A|
+@link	eBL |HA.A| https://www.ebl.lmu.de/signs/|HA.A|
 @end sign
 
 @sign |HA.A.UR₂|
@@ -16474,7 +16361,7 @@
 @useq	x12129.x12244.x1204D
 @ucun	𒄩𒉄𒁍
 @v	dulluₓ
-@link eBL |HA.NAGAR.BU| https://www.ebl.lmu.de/signs/|HA.NAGAR.BU|
+@link	eBL |HA.NAGAR.BU| https://www.ebl.lmu.de/signs/|HA.NAGAR.BU|
 @end sign
 
 @sign |HA.ZAG|
@@ -16482,7 +16369,7 @@
 @useq	x12129.x12360
 @ucun	𒄩𒍠
 @v	enkuₓ
-@link eBL |HA.ZAG| https://www.ebl.lmu.de/signs/|HA.ZAG|
+@link	eBL |HA.ZAG| https://www.ebl.lmu.de/signs/|HA.ZAG|
 @end sign
 
 @sign HA@g
@@ -16527,8 +16414,8 @@
 @v	qiri
 @v	šegₓ
 @v	zahₓ
-@link eBL HA@g https://www.ebl.lmu.de/signs/HA@g
-@link Wikidata Q87555585 http://www.wikidata.org/entity/Q87555585
+@link	eBL HA@g https://www.ebl.lmu.de/signs/HA@g
+@link	Wikidata Q87555585 http://www.wikidata.org/entity/Q87555585
 @form HA
 @oid	o0000232
 @list	BAU207
@@ -16543,7 +16430,7 @@
 @sys	Attinger gir⁻ => gir
 @sys	Attinger kir⁻ => kir
 @sys	Attinger peš⁻ => peš
-@link eBL HA https://www.ebl.lmu.de/signs/HA
+@link	eBL HA https://www.ebl.lmu.de/signs/HA
 @@
 @end sign
 
@@ -16580,8 +16467,8 @@
 @v	zubₓ
 @v	zubud
 @v	zugud
-@link eBL HA@t https://www.ebl.lmu.de/signs/HA@t
-@link Wikidata Q87555583 http://www.wikidata.org/entity/Q87555583
+@link	eBL HA@t https://www.ebl.lmu.de/signs/HA@t
+@link	Wikidata Q87555583 http://www.wikidata.org/entity/Q87555583
 @form |PAN.GAM|
 @oid	o0235343
 @useq	x1227C.x120F5
@@ -16603,8 +16490,8 @@
 @uage	8.0
 @v	zenaₓ?
 @lit	Veldhuis 2004, 150 n.6
-@link eBL HA@t@g https://www.ebl.lmu.de/signs/HA@t@g
-@link Wikidata Q87557239 http://www.wikidata.org/entity/Q87557239
+@link	eBL HA@t@g https://www.ebl.lmu.de/signs/HA@t@g
+@link	Wikidata Q87557239 http://www.wikidata.org/entity/Q87557239
 @end sign
 
 @sign HAL
@@ -16630,8 +16517,8 @@
 @v	haₓ
 @v	hal
 @v	hala
-@link eBL HAL https://www.ebl.lmu.de/signs/HAL
-@link Wikidata Q87555588 http://www.wikidata.org/entity/Q87555588
+@link	eBL HAL https://www.ebl.lmu.de/signs/HAL
+@link	Wikidata Q87555588 http://www.wikidata.org/entity/Q87555588
 @end sign
 
 @sign HI
@@ -16672,8 +16559,8 @@
 @v	ṭa₃
 @v	ṭab₆
 @v	ṭibₓ
-@link eBL HI https://www.ebl.lmu.de/signs/HI
-@link Wikidata Q87555589 http://www.wikidata.org/entity/Q87555589
+@link	eBL HI https://www.ebl.lmu.de/signs/HI
+@link	Wikidata Q87555589 http://www.wikidata.org/entity/Q87555589
 @form DIN
 @oid	o0000144
 @list	GCSL118
@@ -16683,7 +16570,7 @@
 @inote	Borger's n633 TI₂ "abgeleitet aus n119 DIN" which has reference sign form HI in MZL and Unicode is behind this @form
 @inote	In OGSL terms it would probably have been better not to disunify but making DIN an @form of HI with value hi is
 @inote	the best we can do now.
-@link eBL DIN https://www.ebl.lmu.de/signs/DIN
+@link	eBL DIN https://www.ebl.lmu.de/signs/DIN
 @@
 @end sign
 
@@ -16693,7 +16580,7 @@
 @useq	x1212D.x12000
 @ucun	𒄭𒀀
 @v	ha₂
-@link eBL |HI.A| https://www.ebl.lmu.de/signs/|HI.A|
+@link	eBL |HI.A| https://www.ebl.lmu.de/signs/|HI.A|
 @end sign
 
 @sign |HI.GIR₃|
@@ -16712,8 +16599,8 @@
 @v	huša
 @v	hušuₓ
 @v	ruš?
-@link eBL |HI.GIR₃| https://www.ebl.lmu.de/signs/|HI.GIR₃|
-@link Wikidata Q87556767 http://www.wikidata.org/entity/Q87556767
+@link	eBL |HI.GIR₃| https://www.ebl.lmu.de/signs/|HI.GIR₃|
+@link	Wikidata Q87556767 http://www.wikidata.org/entity/Q87556767
 @form |GIR₃×HI|
 @oid	o0022954
 @list	KWU474
@@ -16730,7 +16617,7 @@
 @list	LAK248
 @v	huš⁻
 @sys	Attinger huš⁻
-@link eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
+@link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
 @form LAK240
 @oid	o0245336
@@ -16755,12 +16642,6 @@
 @ucun	𒄭𒋦
 @end sign
 
-@sign |(HI&HI).SUHUR|
-@oid	o0038302
-@useq	X.x122E6
-@ucun	X𒋦
-@end sign
-
 @sign |HI×AŠ|
 @oid	o0001447
 @list	ABZL278
@@ -16783,8 +16664,8 @@
 @v	ušša
 @v	zinanutu
 @v	ziz₃
-@link eBL |HI×AŠ| https://www.ebl.lmu.de/signs/|HI×AŠ|
-@link Wikidata Q87555592 http://www.wikidata.org/entity/Q87555592
+@link	eBL |HI×AŠ| https://www.ebl.lmu.de/signs/|HI×AŠ|
+@link	Wikidata Q87555592 http://www.wikidata.org/entity/Q87555592
 @form |HI.AŠ|
 @oid	o0022961
 @inote	dcclt !sg
@@ -16808,8 +16689,8 @@
 @list	U+124CF
 @ucun	𒓏
 @uage	8.0
-@link eBL |(HI×AŠ)&(HI×AŠ)| https://www.ebl.lmu.de/signs/|(HI×AŠ)&(HI×AŠ)|
-@link Wikidata Q87557241 http://www.wikidata.org/entity/Q87557241
+@link	eBL |(HI×AŠ)&(HI×AŠ)| https://www.ebl.lmu.de/signs/|(HI×AŠ)&(HI×AŠ)|
+@link	Wikidata Q87557241 http://www.wikidata.org/entity/Q87557241
 @end sign
 
 @sign |HI×AŠ₂|
@@ -16875,8 +16756,8 @@
 @v	ur₅
 @v	ura₅
 @v	uruₓ
-@link eBL |HI×AŠ₂| https://www.ebl.lmu.de/signs/|HI×AŠ₂|
-@link Wikidata Q87555594 http://www.wikidata.org/entity/Q87555594
+@link	eBL |HI×AŠ₂| https://www.ebl.lmu.de/signs/|HI×AŠ₂|
+@link	Wikidata Q87555594 http://www.wikidata.org/entity/Q87555594
 @form |HI.AŠ₂|
 @oid	o0022962
 @inote	dcclt !sg
@@ -16891,7 +16772,7 @@
 @ucun	𒄯𒁺
 @v	ur₅-ša₄
 @v	urša
-@link eBL |HI×AŠ₂.DU| https://www.ebl.lmu.de/signs/|HI×AŠ₂.DU|
+@link	eBL |HI×AŠ₂.DU| https://www.ebl.lmu.de/signs/|HI×AŠ₂.DU|
 @end sign
 
 @sign |HI×AŠ₂.HI×AŠ₂|
@@ -16904,7 +16785,7 @@
 @v	kikken₂
 @v	kikkin₂
 @v	kinkin₂
-@link eBL |HI×AŠ₂.HI×AŠ₂| https://www.ebl.lmu.de/signs/|HI×AŠ₂.HI×AŠ₂|
+@link	eBL |HI×AŠ₂.HI×AŠ₂| https://www.ebl.lmu.de/signs/|HI×AŠ₂.HI×AŠ₂|
 @end sign
 
 @sign |HI×AŠ₂.KA×GAR|
@@ -16913,7 +16794,7 @@
 @ucun	𒄯𒅥
 @v	ur₅-gu₇
 @v	urgu
-@link eBL |HI×AŠ₂.KA×GAR| https://www.ebl.lmu.de/signs/|HI×AŠ₂.KA×GAR|
+@link	eBL |HI×AŠ₂.KA×GAR| https://www.ebl.lmu.de/signs/|HI×AŠ₂.KA×GAR|
 @end sign
 
 @sign |HI×AŠ₂.SAG|
@@ -16923,7 +16804,7 @@
 @v	azubir
 @v	azugna
 @v	azukna
-@link eBL |HI×AŠ₂.SAG| https://www.ebl.lmu.de/signs/|HI×AŠ₂.SAG|
+@link	eBL |HI×AŠ₂.SAG| https://www.ebl.lmu.de/signs/|HI×AŠ₂.SAG|
 @form |HI+AŠ₂.SAG|
 @oid	o0031609
 @inote	NA sign of form used in DCCLT Nineveh transliterations
@@ -16956,8 +16837,8 @@
 @v	tu₇
 @v	udul₂?
 @v	utul₂
-@link eBL |HI×BAD| https://www.ebl.lmu.de/signs/|HI×BAD|
-@link Wikidata Q87555597 http://www.wikidata.org/entity/Q87555597
+@link	eBL |HI×BAD| https://www.ebl.lmu.de/signs/|HI×BAD|
+@link	Wikidata Q87555597 http://www.wikidata.org/entity/Q87555597
 @form |HI.AŠ|
 @oid	o0022961
 @inote	dcclt !sg
@@ -16974,7 +16855,7 @@
 @oid	o0001447
 @list	LAK361
 @list	PTACE174
-@link eBL |HI×AŠ| https://www.ebl.lmu.de/signs/|HI×AŠ|
+@link	eBL |HI×AŠ| https://www.ebl.lmu.de/signs/|HI×AŠ|
 @@
 @form |HI×AŠ@c|
 @oid	o0018536
@@ -16986,7 +16867,7 @@
 @@
 @form |HI×DIŠ|
 @oid	o0001454
-@link eBL |HI×DIŠ| https://www.ebl.lmu.de/signs/|HI×DIŠ|
+@link	eBL |HI×DIŠ| https://www.ebl.lmu.de/signs/|HI×DIŠ|
 @@
 @form |HI×MAŠ|
 @oid	o0001457
@@ -16995,7 +16876,7 @@
 @@
 @form |HI×U|
 @oid	o0001463
-@link eBL |HI×U| https://www.ebl.lmu.de/signs/|HI×U|
+@link	eBL |HI×U| https://www.ebl.lmu.de/signs/|HI×U|
 @@
 @form KAM@v
 @oid	o0000271
@@ -17025,8 +16906,8 @@
 @v	šarŋeš
 @v	umma₂?
 @v	utulₓ
-@link eBL |HI×DIŠ| https://www.ebl.lmu.de/signs/|HI×DIŠ|
-@link Wikidata Q87555599 http://www.wikidata.org/entity/Q87555599
+@link	eBL |HI×DIŠ| https://www.ebl.lmu.de/signs/|HI×DIŠ|
+@link	Wikidata Q87555599 http://www.wikidata.org/entity/Q87555599
 @end sign
 
 @sign |HI×GAD|
@@ -17042,8 +16923,8 @@
 @v	sargad
 @v	šargad
 @v	šargadu
-@link eBL |HI×GAD| https://www.ebl.lmu.de/signs/|HI×GAD|
-@link Wikidata Q87555601 http://www.wikidata.org/entity/Q87555601
+@link	eBL |HI×GAD| https://www.ebl.lmu.de/signs/|HI×GAD|
+@link	Wikidata Q87555601 http://www.wikidata.org/entity/Q87555601
 @end sign
 
 @sign |HI×HAL|
@@ -17069,8 +16950,8 @@
 @ucun	𒄳
 @uage	5.0
 @v	gukin₂
-@link eBL |HI×KIN| https://www.ebl.lmu.de/signs/|HI×KIN|
-@link Wikidata Q87555602 http://www.wikidata.org/entity/Q87555602
+@link	eBL |HI×KIN| https://www.ebl.lmu.de/signs/|HI×KIN|
+@link	Wikidata Q87555602 http://www.wikidata.org/entity/Q87555602
 @end sign
 
 @sign |HI×NUN|
@@ -17111,8 +16992,8 @@
 @v	umun₃
 @v	%akk upluₓ
 @ref	Ea 05 = dcclt:Q000157 107, up-lu |HI×NUN| up-lu
-@link eBL |HI×NUN| https://www.ebl.lmu.de/signs/|HI×NUN|
-@link Wikidata Q87555604 http://www.wikidata.org/entity/Q87555604
+@link	eBL |HI×NUN| https://www.ebl.lmu.de/signs/|HI×NUN|
+@link	Wikidata Q87555604 http://www.wikidata.org/entity/Q87555604
 @form |HI.AŠ.RI|
 @oid	o0031549
 @inote	Emar
@@ -17126,8 +17007,8 @@
 @ucun	𒄭𒉣
 @@
 @form |HI×(U.U.U)|
-@aka |HI×EŠ|
 @oid	o0023047
+@aka	|HI×EŠ|
 @v	uh
 @@
 @end sign
@@ -17137,12 +17018,12 @@
 @useq	x12134.x12134
 @ucun	𒄴𒄴
 @v	uhₓ
-@link eBL |HI×NUN.HI×NUN| https://www.ebl.lmu.de/signs/|HI×NUN.HI×NUN|
+@link	eBL |HI×NUN.HI×NUN| https://www.ebl.lmu.de/signs/|HI×NUN.HI×NUN|
 @end sign
 
 @sign |(HI×NUN.HI×NUN)&(HI×NUN.HI×NUN)|
 @oid	o0038104
-@inote Sum med tablet
+@inote	Sum med tablet
 @end sign
 
 @sign |HI×NUN.KASKAL|
@@ -17152,13 +17033,16 @@
 @useq	x12134.x1219C
 @ucun	𒄴𒆜
 @v	kiši₁₃
-@link eBL |HI×NUN.KASKAL| https://www.ebl.lmu.de/signs/|HI×NUN.KASKAL|
+@link	eBL |HI×NUN.KASKAL| https://www.ebl.lmu.de/signs/|HI×NUN.KASKAL|
 @form |HI.KASKAL|
 @oid	o0037814
 @useq	x1212D.x1219C
 @ucun	𒄭𒆜
 @@
 @end sign
+
+@compoundonly	|HI×(NUN.ME)|
+@inote	added during ogsl upgrade
 
 @sign |HI×NUN.ME|
 @oid	o0001461
@@ -17178,7 +17062,7 @@
 @v	gudu₄
 @v	gudug
 @v	šutug₂
-@link eBL |HI×NUN.ME| https://www.ebl.lmu.de/signs/|HI×NUN.ME|
+@link	eBL |HI×NUN.ME| https://www.ebl.lmu.de/signs/|HI×NUN.ME|
 @form |HI.AŠ.RI.ME|
 @oid	o0031547
 @useq	x1212D.x12038.x12291.x12228
@@ -17196,9 +17080,6 @@
 @ucun	𒄭𒉣𒈨
 @@
 @end sign
-
-@compoundonly	|HI×(NUN.ME)|
-@inote	added during ogsl upgrade
 
 @compoundonly	|HI×(NUN.ME.U)|
 @inote	added during ogsl upgrade
@@ -17246,17 +17127,17 @@
 @v	umunₓ
 @v	urₓ
 @v	zanzana
-@link eBL |HI×ŠE| https://www.ebl.lmu.de/signs/|HI×ŠE|
-@link Wikidata Q87555606 http://www.wikidata.org/entity/Q87555606
+@link	eBL |HI×ŠE| https://www.ebl.lmu.de/signs/|HI×ŠE|
+@link	Wikidata Q87555606 http://www.wikidata.org/entity/Q87555606
 @form |HI×KUR|
-@oid  o0038334
-@inote epsd2/royal; needs collation (read |HI×ŠE!| ?)
+@oid	o0038334
+@inote	epsd2/royal; needs collation (read |HI×ŠE!| ?)
 @@
 @end sign
 
 @sign |HI×U|
-@oid  o0001463
-@v 	ellaŋₓ
+@oid	o0001463
+@v	ellaŋₓ
 @end sign
 
 @sign |HI×X|
@@ -17265,10 +17146,23 @@
 @inote	For validating sign-lists
 @end sign
 
+@sign |HI×ZI₃|
+@oid	o0038311
+@inote	ED I-II Ur
+@end sign
+
+@compoundonly	|(HI&HI)|
+
+@sign |(HI&HI).SUHUR|
+@oid	o0038302
+@useq	X.x122E6
+@ucun	X𒋦
+@end sign
+
 @sign HI@g
 @oid	o0000238
 @inote	sjt: temporary entry to get ETCSRI to compile; probably has another name
-@link eBL HI@g https://www.ebl.lmu.de/signs/HI@g
+@link	eBL HI@g https://www.ebl.lmu.de/signs/HI@g
 @end sign
 
 @sign HU
@@ -17314,13 +17208,13 @@
 @v	u₁₁
 @v	usan₅
 @v	ušₓ
-@link eBL HU https://www.ebl.lmu.de/signs/HU
-@link Wikidata Q87555612 http://www.wikidata.org/entity/Q87555612
+@link	eBL HU https://www.ebl.lmu.de/signs/HU
+@link	Wikidata Q87555612 http://www.wikidata.org/entity/Q87555612
 @form RI
 @oid	o0000514
 @list	GCSL178a
 @list	PTACE064
-@link eBL RI https://www.ebl.lmu.de/signs/RI
+@link	eBL RI https://www.ebl.lmu.de/signs/RI
 @@
 @end sign
 
@@ -17342,7 +17236,7 @@
 @v	mut
 @v	muṭ
 @v	muṭuₓ?
-@link eBL |HU.HI| https://www.ebl.lmu.de/signs/|HU.HI|
+@link	eBL |HU.HI| https://www.ebl.lmu.de/signs/|HU.HI|
 @form |HI.HU|
 @oid	o0001445
 @useq	x1212D.x12137
@@ -17356,7 +17250,7 @@
 @ucun	𒄷𒆕
 @v	usanda
 @v	usandu
-@link eBL |HU.KAK| https://www.ebl.lmu.de/signs/|HU.KAK|
+@link	eBL |HU.KAK| https://www.ebl.lmu.de/signs/|HU.KAK|
 @end sign
 
 @sign |HU.MI.AN.IM|
@@ -17364,7 +17258,7 @@
 @useq	x12137.x1222A.x1202D.x1214E
 @ucun	𒄷𒈪𒀭𒅎
 @v	anzuₓ
-@link eBL |HU.MI.AN.IM| https://www.ebl.lmu.de/signs/|HU.MI.AN.IM|
+@link	eBL |HU.MI.AN.IM| https://www.ebl.lmu.de/signs/|HU.MI.AN.IM|
 @end sign
 
 @sign |HU.NA₂|
@@ -17382,7 +17276,7 @@
 @v	sa₄
 @v	ša₂₂
 @v	še₂₁
-@link eBL |HU.NA₂| https://www.ebl.lmu.de/signs/|HU.NA₂|
+@link	eBL |HU.NA₂| https://www.ebl.lmu.de/signs/|HU.NA₂|
 @form |NA₂.HU|
 @oid	o0002063
 @list	GCSL109
@@ -17404,7 +17298,7 @@
 @v	u₅
 @v-	ud₃
 @note	Value ud₃ is not recognized in MZL; it may derive from the gloss u₄ (ud) U₅ in P-Ea 128.
-@link eBL |HU.SI| https://www.ebl.lmu.de/signs/|HU.SI|
+@link	eBL |HU.SI| https://www.ebl.lmu.de/signs/|HU.SI|
 @form |KAD₂.U.SI|
 @oid	o0022973
 @useq	x12190.x1230B.x122DB
@@ -17455,8 +17349,8 @@
 @v	tukuₓ
 @v	tumₓ
 @v	tun₂
-@link eBL HUB₂ https://www.ebl.lmu.de/signs/HUB₂
-@link Wikidata Q87555613 http://www.wikidata.org/entity/Q87555613
+@link	eBL HUB₂ https://www.ebl.lmu.de/signs/HUB₂
+@link	Wikidata Q87555613 http://www.wikidata.org/entity/Q87555613
 @form |HUB₂×UD|
 @oid	o0001477
 @list	LAK476
@@ -17466,8 +17360,8 @@
 @uage	5.0
 @v	tu₁₁⁺
 @sys	Attinger tu₁₁⁺
-@link eBL |HUB₂×UD| https://www.ebl.lmu.de/signs/|HUB₂×UD|
-@link Wikidata Q87555624 http://www.wikidata.org/entity/Q87555624
+@link	eBL |HUB₂×UD| https://www.ebl.lmu.de/signs/|HUB₂×UD|
+@link	Wikidata Q87555624 http://www.wikidata.org/entity/Q87555624
 @@
 @end sign
 
@@ -17476,7 +17370,7 @@
 @useq	x12138.x1207A
 @ucun	𒄸𒁺
 @v	rig₉
-@link eBL |HUB₂.DU| https://www.ebl.lmu.de/signs/|HUB₂.DU|
+@link	eBL |HUB₂.DU| https://www.ebl.lmu.de/signs/|HUB₂.DU|
 @end sign
 
 @sign |HUB₂×AN|
@@ -17486,8 +17380,8 @@
 @list	U+12139
 @ucun	𒄹
 @uage	5.0
-@link eBL |HUB₂×AN| https://www.ebl.lmu.de/signs/|HUB₂×AN|
-@link Wikidata Q87555616 http://www.wikidata.org/entity/Q87555616
+@link	eBL |HUB₂×AN| https://www.ebl.lmu.de/signs/|HUB₂×AN|
+@link	Wikidata Q87555616 http://www.wikidata.org/entity/Q87555616
 @end sign
 
 @sign |HUB₂×HAL|
@@ -17496,8 +17390,8 @@
 @list	U+1213A
 @ucun	𒄺
 @uage	5.0
-@link eBL |HUB₂×HAL| https://www.ebl.lmu.de/signs/|HUB₂×HAL|
-@link Wikidata Q87555618 http://www.wikidata.org/entity/Q87555618
+@link	eBL |HUB₂×HAL| https://www.ebl.lmu.de/signs/|HUB₂×HAL|
+@link	Wikidata Q87555618 http://www.wikidata.org/entity/Q87555618
 @end sign
 
 @sign |HUB₂×KASKAL|
@@ -17508,8 +17402,8 @@
 @list	U+1213B
 @ucun	𒄻
 @uage	5.0
-@link eBL |HUB₂×KASKAL| https://www.ebl.lmu.de/signs/|HUB₂×KASKAL|
-@link Wikidata Q87555620 http://www.wikidata.org/entity/Q87555620
+@link	eBL |HUB₂×KASKAL| https://www.ebl.lmu.de/signs/|HUB₂×KASKAL|
+@link	Wikidata Q87555620 http://www.wikidata.org/entity/Q87555620
 @end sign
 
 @sign |HUB₂×LIŠ|
@@ -17518,8 +17412,8 @@
 @list	U+1213C
 @ucun	𒄼
 @uage	5.0
-@link eBL |HUB₂×LIŠ| https://www.ebl.lmu.de/signs/|HUB₂×LIŠ|
-@link Wikidata Q87555622 http://www.wikidata.org/entity/Q87555622
+@link	eBL |HUB₂×LIŠ| https://www.ebl.lmu.de/signs/|HUB₂×LIŠ|
+@link	Wikidata Q87555622 http://www.wikidata.org/entity/Q87555622
 @end sign
 
 @sign |HUB₂×UD|
@@ -17545,8 +17439,8 @@
 @v	tu₁₀
 @v	tumₓ
 @v	tun
-@link eBL |HUB₂×UD| https://www.ebl.lmu.de/signs/|HUB₂×UD|
-@link Wikidata Q87555624 http://www.wikidata.org/entity/Q87555624
+@link	eBL |HUB₂×UD| https://www.ebl.lmu.de/signs/|HUB₂×UD|
+@link	Wikidata Q87555624 http://www.wikidata.org/entity/Q87555624
 @end sign
 
 @sign HUL₂
@@ -17577,8 +17471,8 @@
 @note	kungal belongs to |LU.HUL₂|
 @v	kuš₈
 @v	ukuš₂
-@link eBL HUL₂ https://www.ebl.lmu.de/signs/HUL₂
-@link Wikidata Q87555626 http://www.wikidata.org/entity/Q87555626
+@link	eBL HUL₂ https://www.ebl.lmu.de/signs/HUL₂
+@link	Wikidata Q87555626 http://www.wikidata.org/entity/Q87555626
 @form |AN.HUL₂|
 @oid	o0031518
 @useq	x1202D.x1213E
@@ -17629,8 +17523,8 @@
 @v	i
 @v	nat₂
 @v	5(aš@v)
-@link eBL I https://www.ebl.lmu.de/signs/I
-@link Wikidata Q87555628 http://www.wikidata.org/entity/Q87555628
+@link	eBL I https://www.ebl.lmu.de/signs/I
+@link	Wikidata Q87555628 http://www.wikidata.org/entity/Q87555628
 @form I@t
 @oid	o0223473
 @v	i@t
@@ -17653,8 +17547,8 @@
 @v	ii
 @v	iu
 @v	yi₂
-@link eBL |I.A| https://www.ebl.lmu.de/signs/|I.A|
-@link Wikidata Q87555630 http://www.wikidata.org/entity/Q87555630
+@link	eBL |I.A| https://www.ebl.lmu.de/signs/|I.A|
+@link	Wikidata Q87555630 http://www.wikidata.org/entity/Q87555630
 @end sign
 
 @sign |I.DIB|
@@ -17663,7 +17557,7 @@
 @useq	x1213F.x12073
 @ucun	𒄿𒁳
 @v	kuŋₓ
-@link eBL |I.DIB| https://www.ebl.lmu.de/signs/|I.DIB|
+@link	eBL |I.DIB| https://www.ebl.lmu.de/signs/|I.DIB|
 @end sign
 
 @sign |I.LU|
@@ -17672,7 +17566,7 @@
 @ucun	𒄿𒇻
 @v	kuŋ₄
 @v	kun₄
-@link eBL |I.LU| https://www.ebl.lmu.de/signs/|I.LU|
+@link	eBL |I.LU| https://www.ebl.lmu.de/signs/|I.LU|
 @end sign
 
 @sign |I.LU₂@s.NA|
@@ -17680,7 +17574,7 @@
 @useq	x1213F.x12215.x1223E
 @ucun	𒄿𒈕𒈾
 @v	arinaₓ
-@link eBL |I.LU₂@s.NA| https://www.ebl.lmu.de/signs/|I.LU₂@s.NA|
+@link	eBL |I.LU₂@s.NA| https://www.ebl.lmu.de/signs/|I.LU₂@s.NA|
 @end sign
 
 @sign IB
@@ -17714,33 +17608,8 @@
 @v	ip
 @v	uraš
 @v	urta
-@link eBL IB https://www.ebl.lmu.de/signs/IB
-@link Wikidata Q87555632 http://www.wikidata.org/entity/Q87555632
-@end sign
-
-@sign |4×IDIM|
-@oid	o0000648
-@v	burₓ
-@v	buruₓ
-@v	gurinₓ
-@v	gurun₅
-@v	kurunₓ
-@link eBL |4×IDIM| https://www.ebl.lmu.de/signs/|4×IDIM|
-@end sign
-
-@sign |4×(IDIM&IDIM)|
-@oid	o0000645
-@uname	CUNEIFORM SIGN IDIM OVER IDIM SQUARED
-@list	U+12144
-@ucun	𒅄
-@uage	5.0
-@v	burₓ
-@v	buruₓ
-@v	gurinₓ
-@v	gurunₓ
-@v	kurunₓ
-@link eBL |4×(IDIM&IDIM)| https://www.ebl.lmu.de/signs/|4×(IDIM&IDIM)|
-@link Wikidata Q87555638 http://www.wikidata.org/entity/Q87555638
+@link	eBL IB https://www.ebl.lmu.de/signs/IB
+@link	Wikidata Q87555632 http://www.wikidata.org/entity/Q87555632
 @end sign
 
 @sign IDIM
@@ -17772,8 +17641,8 @@
 @v	tehi₄
 @v	uri₄
 @v	urumₓ
-@link eBL IDIM https://www.ebl.lmu.de/signs/IDIM
-@link Wikidata Q87555633 http://www.wikidata.org/entity/Q87555633
+@link	eBL IDIM https://www.ebl.lmu.de/signs/IDIM
+@link	Wikidata Q87555633 http://www.wikidata.org/entity/Q87555633
 @form BAD
 @oid	o0000114
 @list	BAU009
@@ -17786,8 +17655,33 @@
 @v	eše₃
 @ref	Ass 00523 = dcclt/signlists:P370411 o ii 1
 @inote	salgues
-@link eBL BAD https://www.ebl.lmu.de/signs/BAD
+@link	eBL BAD https://www.ebl.lmu.de/signs/BAD
 @@
+@end sign
+
+@sign |4×IDIM|
+@oid	o0000648
+@v	burₓ
+@v	buruₓ
+@v	gurinₓ
+@v	gurun₅
+@v	kurunₓ
+@link	eBL |4×IDIM| https://www.ebl.lmu.de/signs/|4×IDIM|
+@end sign
+
+@sign |4×(IDIM&IDIM)|
+@oid	o0000645
+@uname	CUNEIFORM SIGN IDIM OVER IDIM SQUARED
+@list	U+12144
+@ucun	𒅄
+@uage	5.0
+@v	burₓ
+@v	buruₓ
+@v	gurinₓ
+@v	gurunₓ
+@v	kurunₓ
+@link	eBL |4×(IDIM&IDIM)| https://www.ebl.lmu.de/signs/|4×(IDIM&IDIM)|
+@link	Wikidata Q87555638 http://www.wikidata.org/entity/Q87555638
 @end sign
 
 @compoundonly	|IDIM&IDIM|
@@ -17808,8 +17702,8 @@
 @v	gurunₓ
 @v	kiši₁₁
 @v	kurunₓ
-@link eBL |IDIM&IDIM.BUR| https://www.ebl.lmu.de/signs/|IDIM&IDIM.BUR|
-@link Wikidata Q87555636 http://www.wikidata.org/entity/Q87555636
+@link	eBL |IDIM&IDIM.BUR| https://www.ebl.lmu.de/signs/|IDIM&IDIM.BUR|
+@link	Wikidata Q87555636 http://www.wikidata.org/entity/Q87555636
 @end sign
 
 @sign IG
@@ -17849,8 +17743,8 @@
 @inote	MC:- /mal/
 @v-	mal₃
 @note	The verb ŋal₂ is ma-al in Emesal, but there is no evidence that IG should be read /mal/ in context.
-@link eBL IG https://www.ebl.lmu.de/signs/IG
-@link Wikidata Q87555640 http://www.wikidata.org/entity/Q87555640
+@link	eBL IG https://www.ebl.lmu.de/signs/IG
+@link	Wikidata Q87555640 http://www.wikidata.org/entity/Q87555640
 @end sign
 
 @sign IGI
@@ -17909,8 +17803,8 @@
 @v	si₁₇
 @v	še₂₀?
 @v	ši
-@link eBL IGI https://www.ebl.lmu.de/signs/IGI
-@link Wikidata Q87555641 http://www.wikidata.org/entity/Q87555641
+@link	eBL IGI https://www.ebl.lmu.de/signs/IGI
+@link	Wikidata Q87555641 http://www.wikidata.org/entity/Q87555641
 @end sign
 
 @sign |IGI.A|
@@ -17921,7 +17815,7 @@
 @v	imhur₄
 @v	uₓ
 @v	uhhur₃
-@link eBL |IGI.A| https://www.ebl.lmu.de/signs/|IGI.A|
+@link	eBL |IGI.A| https://www.ebl.lmu.de/signs/|IGI.A|
 @end sign
 
 @sign |IGI.BI|
@@ -17930,7 +17824,7 @@
 @ucun	𒅆𒁉
 @v	imhur₂
 @v	uhhur?
-@link eBL |IGI.BI| https://www.ebl.lmu.de/signs/|IGI.BI|
+@link	eBL |IGI.BI| https://www.ebl.lmu.de/signs/|IGI.BI|
 @end sign
 
 @sign |IGI.BU|
@@ -17938,7 +17832,7 @@
 @useq	x12146.x1204D
 @ucun	𒅆𒁍
 @v	igira?
-@link eBL |IGI.BU| https://www.ebl.lmu.de/signs/|IGI.BU|
+@link	eBL |IGI.BU| https://www.ebl.lmu.de/signs/|IGI.BU|
 @end sign
 
 @sign |IGI.BUR|
@@ -17965,8 +17859,8 @@
 @uage	5.0
 @v	ša₁₇
 @v	u₃
-@link eBL |IGI.DIB| https://www.ebl.lmu.de/signs/|IGI.DIB|
-@link Wikidata Q87555643 http://www.wikidata.org/entity/Q87555643
+@link	eBL |IGI.DIB| https://www.ebl.lmu.de/signs/|IGI.DIB|
+@link	Wikidata Q87555643 http://www.wikidata.org/entity/Q87555643
 @form |IGI.LU|
 @oid	o0001503
 @inote	K 135+ P274788 NA but third millennium LAK775 style LU
@@ -17987,7 +17881,7 @@
 @v	henzer
 @v	henzir
 @v	ubri₂
-@link eBL |IGI.DIM| https://www.ebl.lmu.de/signs/|IGI.DIM|
+@link	eBL |IGI.DIM| https://www.ebl.lmu.de/signs/|IGI.DIM|
 @end sign
 
 @sign |IGI.DU|
@@ -18004,7 +17898,7 @@
 @v	mahra
 @v	%akk mahruₓ
 @v	palil
-@link eBL |IGI.DU| https://www.ebl.lmu.de/signs/|IGI.DU|
+@link	eBL |IGI.DU| https://www.ebl.lmu.de/signs/|IGI.DU|
 @end sign
 
 @sign |IGI.DUB|
@@ -18033,7 +17927,7 @@
 @v	ŋiškim
 @v	iskim
 @v	izkim
-@link eBL |IGI.DUB| https://www.ebl.lmu.de/signs/|IGI.DUB|
+@link	eBL |IGI.DUB| https://www.ebl.lmu.de/signs/|IGI.DUB|
 @end sign
 
 @sign |IGI.DUN|
@@ -18042,7 +17936,7 @@
 @useq	x12146.x12084
 @ucun	𒅆𒂄
 @v	sigₓ
-@link eBL |IGI.DUN| https://www.ebl.lmu.de/signs/|IGI.DUN|
+@link	eBL |IGI.DUN| https://www.ebl.lmu.de/signs/|IGI.DUN|
 @end sign
 
 @sign |IGI.E₂|
@@ -18055,7 +17949,7 @@
 @ucun	𒅆𒂍
 @v	u₆
 @v	ug₆
-@link eBL |IGI.E₂| https://www.ebl.lmu.de/signs/|IGI.E₂|
+@link	eBL |IGI.E₂| https://www.ebl.lmu.de/signs/|IGI.E₂|
 @form |IGI.KID|
 @oid	o0031712
 @useq	x12146.x121A4
@@ -18093,12 +17987,7 @@
 @v	ša₁₅?
 @v	šiₓ
 @sys	Attinger saga₁₀ => sag₁₀
-@link eBL |IGI.ERIN₂| https://www.ebl.lmu.de/signs/|IGI.ERIN₂|
-@end sign
-
-@sign |EŠ₂×GAD|
-@oid o0038237
-@inote epsd2/admin/ur3; need collation
+@link	eBL |IGI.ERIN₂| https://www.ebl.lmu.de/signs/|IGI.ERIN₂|
 @end sign
 
 @sign |IGI.EŠ₂|
@@ -18114,7 +18003,7 @@
 @ucun	𒅆𒂠
 @v	libir
 @v	si₅
-@link eBL |IGI.EŠ₂| https://www.ebl.lmu.de/signs/|IGI.EŠ₂|
+@link	eBL |IGI.EŠ₂| https://www.ebl.lmu.de/signs/|IGI.EŠ₂|
 @form |IGI.LU|
 @oid	o0001503
 @list	KWU568
@@ -18128,7 +18017,7 @@
 @useq	x12146.x120A0.x1207A
 @ucun	𒅆𒂠𒁺
 @v	geštuₓ
-@link eBL |IGI.EŠ₂.DU| https://www.ebl.lmu.de/signs/|IGI.EŠ₂.DU|
+@link	eBL |IGI.EŠ₂.DU| https://www.ebl.lmu.de/signs/|IGI.EŠ₂.DU|
 @end sign
 
 @sign |IGI.EŠ₂.DU.ERIN₂|
@@ -18141,7 +18030,7 @@
 @v	ildumma
 @v	palil₂
 @v	pallilₓ
-@link eBL |IGI.EŠ₂.DU.ERIN₂| https://www.ebl.lmu.de/signs/|IGI.EŠ₂.DU.ERIN₂|
+@link	eBL |IGI.EŠ₂.DU.ERIN₂| https://www.ebl.lmu.de/signs/|IGI.EŠ₂.DU.ERIN₂|
 @end sign
 
 @sign |IGI.GA|
@@ -18150,7 +18039,7 @@
 @ucun	𒅆𒂵
 @v	imhur₃
 @v	uhhur₂?
-@link eBL |IGI.GA| https://www.ebl.lmu.de/signs/|IGI.GA|
+@link	eBL |IGI.GA| https://www.ebl.lmu.de/signs/|IGI.GA|
 @end sign
 
 @sign |IGI.GAN₂@t|
@@ -18172,7 +18061,7 @@
 @ucun	𒅆𒃻
 @v	gurumₓ
 @v	sikkuₓ
-@link eBL |IGI.GAR| https://www.ebl.lmu.de/signs/|IGI.GAR|
+@link	eBL |IGI.GAR| https://www.ebl.lmu.de/signs/|IGI.GAR|
 @end sign
 
 @sign |IGI.IB|
@@ -18195,7 +18084,7 @@
 @v	lilli
 @v	pabadₓ
 @v	papadₓ
-@link eBL |IGI.IGI| https://www.ebl.lmu.de/signs/|IGI.IGI|
+@link	eBL |IGI.IGI| https://www.ebl.lmu.de/signs/|IGI.IGI|
 @end sign
 
 @sign |IGI.KAK|
@@ -18208,7 +18097,7 @@
 @v	šukur
 @v	ubri
 @v	ubrim
-@link eBL |IGI.KAK| https://www.ebl.lmu.de/signs/|IGI.KAK|
+@link	eBL |IGI.KAK| https://www.ebl.lmu.de/signs/|IGI.KAK|
 @form |IGI.NI|
 @oid	o0001509
 @useq	x12146.x1224C
@@ -18225,7 +18114,7 @@
 @v	halib
 @v	hilib
 @v	xlukuₓ
-@link eBL |IGI.KUR| https://www.ebl.lmu.de/signs/|IGI.KUR|
+@link	eBL |IGI.KUR| https://www.ebl.lmu.de/signs/|IGI.KUR|
 @end sign
 
 @sign |IGI.KUR.ZA|
@@ -18234,7 +18123,7 @@
 @ucun	𒅆𒆳𒍝
 @v	ganzer
 @v	ganzir
-@link eBL |IGI.KUR.ZA| https://www.ebl.lmu.de/signs/|IGI.KUR.ZA|
+@link	eBL |IGI.KUR.ZA| https://www.ebl.lmu.de/signs/|IGI.KUR.ZA|
 @end sign
 
 @sign |IGI.LAGAB|
@@ -18250,7 +18139,7 @@
 @useq	x12146.x12225
 @ucun	𒅆𒈥
 @v	ubriₓ
-@link eBL |IGI.MAR| https://www.ebl.lmu.de/signs/|IGI.MAR|
+@link	eBL |IGI.MAR| https://www.ebl.lmu.de/signs/|IGI.MAR|
 @end sign
 
 @sign |IGI.MIN|
@@ -18259,7 +18148,7 @@
 @ucun	𒅆𒈫
 @v	ini₄
 @v	%akk/n īnu{II}
-@link eBL |IGI.MIN| https://www.ebl.lmu.de/signs/|IGI.MIN|
+@link	eBL |IGI.MIN| https://www.ebl.lmu.de/signs/|IGI.MIN|
 @end sign
 
 @sign |IGI.NAGAR|
@@ -18267,7 +18156,7 @@
 @useq	x12146.x12244
 @ucun	𒅆𒉄
 @v	ilduₓ
-@link eBL |IGI.NAGAR| https://www.ebl.lmu.de/signs/|IGI.NAGAR|
+@link	eBL |IGI.NAGAR| https://www.ebl.lmu.de/signs/|IGI.NAGAR|
 @form NAGAR
 @oid	o0000473
 @list	BAU408
@@ -18276,7 +18165,7 @@
 @list	PTACE222
 @list	RSP177
 @v	niŋinₓ
-@link eBL NAGAR https://www.ebl.lmu.de/signs/NAGAR
+@link	eBL NAGAR https://www.ebl.lmu.de/signs/NAGAR
 @@
 @end sign
 
@@ -18290,7 +18179,7 @@
 @v	ilduma₂
 @v	ildumma₂
 @sys	Attinger dulum => ildum₂
-@link eBL |IGI.NAGAR.BU| https://www.ebl.lmu.de/signs/|IGI.NAGAR.BU|
+@link	eBL |IGI.NAGAR.BU| https://www.ebl.lmu.de/signs/|IGI.NAGAR.BU|
 @end sign
 
 @sign |IGI.NAGAR.ŠIR|
@@ -18299,7 +18188,14 @@
 @useq	x12146.x12244.x122D3
 @ucun	𒅆𒉄𒋓
 @v	dulumaₓ
-@link eBL |IGI.NAGAR.ŠIR| https://www.ebl.lmu.de/signs/|IGI.NAGAR.ŠIR|
+@link	eBL |IGI.NAGAR.ŠIR| https://www.ebl.lmu.de/signs/|IGI.NAGAR.ŠIR|
+@end sign
+
+@sign |IGI.PA|
+@oid	o0038241
+@useq	x12146.x1227A
+@ucun	𒅆𒉺
+@v	paₓ
 @end sign
 
 @sign |IGI.RI|
@@ -18319,8 +18215,8 @@
 @uage	5.0
 @v	ar
 @v	ara₈
-@link eBL |IGI.RI| https://www.ebl.lmu.de/signs/|IGI.RI|
-@link Wikidata Q87555645 http://www.wikidata.org/entity/Q87555645
+@link	eBL |IGI.RI| https://www.ebl.lmu.de/signs/|IGI.RI|
+@link	Wikidata Q87555645 http://www.wikidata.org/entity/Q87555645
 @end sign
 
 @sign |IGI.RU|
@@ -18339,7 +18235,7 @@
 @ucun	𒅆𒊒
 @v	pa₃
 @v	pad₃
-@link eBL |IGI.RU| https://www.ebl.lmu.de/signs/|IGI.RU|
+@link	eBL |IGI.RU| https://www.ebl.lmu.de/signs/|IGI.RU|
 @end sign
 
 @sign |IGI.SUHUR|
@@ -18357,7 +18253,7 @@
 @v	ligim
 @v	ligima
 @v	ligin
-@link eBL |IGI.TUR.TUR| https://www.ebl.lmu.de/signs/|IGI.TUR.TUR|
+@link	eBL |IGI.TUR.TUR| https://www.ebl.lmu.de/signs/|IGI.TUR.TUR|
 @form |IGI.TUR|
 @oid	o0001513
 @useq	x12146.x12309
@@ -18383,7 +18279,7 @@
 @v	hul
 @v	hula
 @v	hulu
-@link eBL |IGI.UR| https://www.ebl.lmu.de/signs/|IGI.UR|
+@link	eBL |IGI.UR| https://www.ebl.lmu.de/signs/|IGI.UR|
 @end sign
 
 @sign |IGI.UR.RU.GAR|
@@ -18391,7 +18287,7 @@
 @useq	x12146.x12328.x12292.x120FB
 @ucun	𒅆𒌨𒊒𒃻
 @v	hulpad?
-@link eBL |IGI.UR.RU.GAR| https://www.ebl.lmu.de/signs/|IGI.UR.RU.GAR|
+@link	eBL |IGI.UR.RU.GAR| https://www.ebl.lmu.de/signs/|IGI.UR.RU.GAR|
 @end sign
 
 @sign |IGI.UR.SAR|
@@ -18410,7 +18306,7 @@
 @useq	x12146.x1232A
 @ucun	𒅆𒌪
 @v	hul₄
-@link eBL |IGI.UR@s| https://www.ebl.lmu.de/signs/|IGI.UR@s|
+@link	eBL |IGI.UR@s| https://www.ebl.lmu.de/signs/|IGI.UR@s|
 @end sign
 
 @sign |IGI.ZA.MUŠ₃@g|
@@ -18419,7 +18315,7 @@
 @ucun	𒅆𒍝𒈽
 @v	ištaranₓ
 @inote	An Anum 5 289
-@link eBL |IGI.ZA.MUŠ₃@g| https://www.ebl.lmu.de/signs/|IGI.ZA.MUŠ₃@g|
+@link	eBL |IGI.ZA.MUŠ₃@g| https://www.ebl.lmu.de/signs/|IGI.ZA.MUŠ₃@g|
 @end sign
 
 @sign |IGI.ZI|
@@ -18427,13 +18323,13 @@
 @useq	x12146.x12363
 @ucun	𒅆𒍣
 @v	agrigₓ
-@link eBL |IGI.ZI| https://www.ebl.lmu.de/signs/|IGI.ZI|
+@link	eBL |IGI.ZI| https://www.ebl.lmu.de/signs/|IGI.ZI|
 @end sign
 
 @sign |IGI×A|
 @oid	o0001523
 @v	šeₓ
-@link eBL |IGI×A| https://www.ebl.lmu.de/signs/|IGI×A|
+@link	eBL |IGI×A| https://www.ebl.lmu.de/signs/|IGI×A|
 @end sign
 
 @compoundonly	|IGI&IGI|
@@ -18448,8 +18344,8 @@
 @ucun	𒅉
 @uage	5.0
 @v	dimsar
-@link eBL |IGI&IGI.ŠIR&ŠIR.UD&UD| https://www.ebl.lmu.de/signs/|IGI&IGI.ŠIR&ŠIR.UD&UD|
-@link Wikidata Q87555648 http://www.wikidata.org/entity/Q87555648
+@link	eBL |IGI&IGI.ŠIR&ŠIR.UD&UD| https://www.ebl.lmu.de/signs/|IGI&IGI.ŠIR&ŠIR.UD&UD|
+@link	Wikidata Q87555648 http://www.wikidata.org/entity/Q87555648
 @end sign
 
 @sign IGI@g
@@ -18491,8 +18387,8 @@
 @v	ukur₅
 @v	zeₓ
 @v	ziₓ
-@link eBL IGI@g https://www.ebl.lmu.de/signs/IGI@g
-@link Wikidata Q87555649 http://www.wikidata.org/entity/Q87555649
+@link	eBL IGI@g https://www.ebl.lmu.de/signs/IGI@g
+@link	Wikidata Q87555649 http://www.wikidata.org/entity/Q87555649
 @end sign
 
 @sign |IGI@g.ALAN|
@@ -18509,7 +18405,7 @@
 @v	ulutim₂
 @v	ulutin₂
 @sys	Attinger uktim => uktin
-@link eBL |IGI@g.ALAN| https://www.ebl.lmu.de/signs/|IGI@g.ALAN|
+@link	eBL |IGI@g.ALAN| https://www.ebl.lmu.de/signs/|IGI@g.ALAN|
 @end sign
 
 @sign |IGI@g.IGI@g|
@@ -18519,7 +18415,7 @@
 @ucun	𒅊𒅊
 @v	immaₓ
 @v	ubriₓ
-@link eBL |IGI@g.IGI@g| https://www.ebl.lmu.de/signs/|IGI@g.IGI@g|
+@link	eBL |IGI@g.IGI@g| https://www.ebl.lmu.de/signs/|IGI@g.IGI@g|
 @end sign
 
 @sign |IGI@g.PAP|
@@ -18528,7 +18424,7 @@
 @useq	x1214A.x1227D
 @ucun	𒅊𒉽
 @v	kumₓ?
-@link eBL |IGI@g.PAP| https://www.ebl.lmu.de/signs/|IGI@g.PAP|
+@link	eBL |IGI@g.PAP| https://www.ebl.lmu.de/signs/|IGI@g.PAP|
 @end sign
 
 @sign |IGI@g.TAK₄.ALAN|
@@ -18540,7 +18436,7 @@
 @v	zermušku
 @v	zermuššu
 @v	zirmuššu?
-@link eBL |IGI@g.TAK₄.ALAN| https://www.ebl.lmu.de/signs/|IGI@g.TAK₄.ALAN|
+@link	eBL |IGI@g.TAK₄.ALAN| https://www.ebl.lmu.de/signs/|IGI@g.TAK₄.ALAN|
 @end sign
 
 @compoundonly	|IGI@g&IGI@g|
@@ -18565,8 +18461,8 @@
 @v	al₉
 @v	el₂
 @v	il
-@link eBL IL https://www.ebl.lmu.de/signs/IL
-@link Wikidata Q87555651 http://www.wikidata.org/entity/Q87555651
+@link	eBL IL https://www.ebl.lmu.de/signs/IL
+@link	Wikidata Q87555651 http://www.wikidata.org/entity/Q87555651
 @end sign
 
 @sign |IL×GAN₂@t|
@@ -18579,8 +18475,8 @@
 @uage	5.0
 @v	el₄
 @v	il₈
-@link eBL |IL×GAN₂@t| https://www.ebl.lmu.de/signs/|IL×GAN₂@t|
-@link Wikidata Q87555654 http://www.wikidata.org/entity/Q87555654
+@link	eBL |IL×GAN₂@t| https://www.ebl.lmu.de/signs/|IL×GAN₂@t|
+@link	Wikidata Q87555654 http://www.wikidata.org/entity/Q87555654
 @end sign
 
 @sign IL₂
@@ -18602,8 +18498,8 @@
 @v	agaₓ
 @v	dubsig
 @v	dubsik
-@v	dupsik
 @v	dunₓ
+@v	dupsik
 @v	dusi
 @v	dussu
 @v	dusu
@@ -18619,8 +18515,8 @@
 @v	ili₂
 @v	illalₓ
 @sys	Attinger dubsig => dubsik
-@link eBL IL₂ https://www.ebl.lmu.de/signs/IL₂
-@link Wikidata Q87555655 http://www.wikidata.org/entity/Q87555655
+@link	eBL IL₂ https://www.ebl.lmu.de/signs/IL₂
+@link	Wikidata Q87555655 http://www.wikidata.org/entity/Q87555655
 @form |KAD₄.SAG|
 @oid	o0031466
 @useq	x12192.x12295
@@ -18642,14 +18538,14 @@
 @useq	x1214D.x121A4.x12080
 @ucun	𒅍𒆤𒂀
 @v	saŋaₓ
-@link eBL |IL₂.KID.DUB₂| https://www.ebl.lmu.de/signs/|IL₂.KID.DUB₂|
+@link	eBL |IL₂.KID.DUB₂| https://www.ebl.lmu.de/signs/|IL₂.KID.DUB₂|
 @end sign
 
 @sign IL₂@n
 @oid	o0000253
 @inote	CDLI oakk
 @v	dupsikₓ
-@link eBL IL₂@n https://www.ebl.lmu.de/signs/IL₂@n
+@link	eBL IL₂@n https://www.ebl.lmu.de/signs/IL₂@n
 @end sign
 
 @sign ILIMMU
@@ -18662,30 +18558,14 @@
 @list	U+12446
 @ucun	𒑆
 @uage	5.0
-@v	9(diš)
 @v	ilimmu
-@link eBL ILIMMU https://www.ebl.lmu.de/signs/ILIMMU
-@link Wikidata Q87556989 http://www.wikidata.org/entity/Q87556989
+@v	9(diš)
+@link	eBL ILIMMU https://www.ebl.lmu.de/signs/ILIMMU
+@link	Wikidata Q87556989 http://www.wikidata.org/entity/Q87556989
 @form 9(DIŠ@c)
 @oid	o0223453
 @v	9(diš@c)
 @@
-@end sign
-
-@sign |4×IM|
-@oid	o0000649
-@list	SLLHA399xx
-@uname	CUNEIFORM SIGN IM SQUARED
-@list	U+12152
-@ucun	𒅒
-@uage	5.0
-@v	ahud
-@v	merimer₄
-@v	merimeri₄
-@v	mermer₄
-@v	mermeri₄
-@link eBL |4×IM| https://www.ebl.lmu.de/signs/|4×IM|
-@link Wikidata Q87555667 http://www.wikidata.org/entity/Q87555667
 @end sign
 
 @sign IM
@@ -18740,15 +18620,15 @@
 @v	tu₁₅
 @v	tum₉
 @v	tumu
-@link eBL IM https://www.ebl.lmu.de/signs/IM
-@link Wikidata Q87555658 http://www.wikidata.org/entity/Q87555658
+@link	eBL IM https://www.ebl.lmu.de/signs/IM
+@link	Wikidata Q87555658 http://www.wikidata.org/entity/Q87555658
 @form NI₂
 @oid	o0000486
 @list	BAU389
 @list	GCSL163
 @list	LAK377
 @inote	ur-{d}iškur(LAK377) in P250715 l.3
-@link eBL NI₂ https://www.ebl.lmu.de/signs/NI₂
+@link	eBL NI₂ https://www.ebl.lmu.de/signs/NI₂
 @@
 @end sign
 
@@ -18759,8 +18639,24 @@
 @ucun	𒅑
 @uage	5.0
 @v	dalhamunₓ
-@link eBL |IM@IM| https://www.ebl.lmu.de/signs/|IM@IM|
-@link Wikidata Q87555664 http://www.wikidata.org/entity/Q87555664
+@link	eBL |IM@IM| https://www.ebl.lmu.de/signs/|IM@IM|
+@link	Wikidata Q87555664 http://www.wikidata.org/entity/Q87555664
+@end sign
+
+@sign |4×IM|
+@oid	o0000649
+@list	SLLHA399xx
+@uname	CUNEIFORM SIGN IM SQUARED
+@list	U+12152
+@ucun	𒅒
+@uage	5.0
+@v	ahud
+@v	merimer₄
+@v	merimeri₄
+@v	mermer₄
+@v	mermeri₄
+@link	eBL |4×IM| https://www.ebl.lmu.de/signs/|4×IM|
+@link	Wikidata Q87555667 http://www.wikidata.org/entity/Q87555667
 @end sign
 
 @sign |IM.A|
@@ -18770,7 +18666,7 @@
 @ucun	𒅎𒀀
 @v	šegₓ
 @v	šeŋₓ
-@link eBL |IM.A| https://www.ebl.lmu.de/signs/|IM.A|
+@link	eBL |IM.A| https://www.ebl.lmu.de/signs/|IM.A|
 @end sign
 
 @sign |IM.A.A|
@@ -18779,7 +18675,7 @@
 @ucun	𒅎𒀀𒀀
 @v	šegₓ
 @v	šeŋₓ
-@link eBL |IM.A.A| https://www.ebl.lmu.de/signs/|IM.A.A|
+@link	eBL |IM.A.A| https://www.ebl.lmu.de/signs/|IM.A.A|
 @end sign
 
 @sign |IM.A.AN|
@@ -18788,7 +18684,7 @@
 @ucun	𒅎𒀀𒀭
 @v	šeg₁₄
 @v	šeŋ₁₄
-@link eBL |IM.A.AN| https://www.ebl.lmu.de/signs/|IM.A.AN|
+@link	eBL |IM.A.AN| https://www.ebl.lmu.de/signs/|IM.A.AN|
 @end sign
 
 @sign |IM.DUB₂|
@@ -18796,7 +18692,7 @@
 @useq	x1214E.x12080
 @ucun	𒅎𒂀
 @v	šerkan
-@link eBL |IM.DUB₂| https://www.ebl.lmu.de/signs/|IM.DUB₂|
+@link	eBL |IM.DUB₂| https://www.ebl.lmu.de/signs/|IM.DUB₂|
 @end sign
 
 @sign |IM.DUGUD|
@@ -18806,7 +18702,7 @@
 @v	agar₆
 @v	aŋar₆
 @v	muru₉
-@link eBL |IM.DUGUD| https://www.ebl.lmu.de/signs/|IM.DUGUD|
+@link	eBL |IM.DUGUD| https://www.ebl.lmu.de/signs/|IM.DUGUD|
 @end sign
 
 @sign |IM.DUN.DUN₃@g@g|
@@ -18814,7 +18710,7 @@
 @useq	x1214E.x12084.x12087
 @ucun	𒅎𒂄𒂇
 @v	suhul₃
-@link eBL |IM.DUN.DUN₃@g@g| https://www.ebl.lmu.de/signs/|IM.DUN.DUN₃@g@g|
+@link	eBL |IM.DUN.DUN₃@g@g| https://www.ebl.lmu.de/signs/|IM.DUN.DUN₃@g@g|
 @end sign
 
 @sign |IM.DUN₃@g@g.DUN|
@@ -18831,7 +18727,7 @@
 @v	uluba
 @v	ulubar
 @v	ulumaš
-@link eBL |IM.GAN₂.HI×NUN.ME.U| https://www.ebl.lmu.de/signs/|IM.GAN₂.HI×NUN.ME.U|
+@link	eBL |IM.GAN₂.HI×NUN.ME.U| https://www.ebl.lmu.de/signs/|IM.GAN₂.HI×NUN.ME.U|
 @end sign
 
 @sign |IM.HI×NUN.ME.U.GAN₂|
@@ -18841,7 +18737,7 @@
 @v	uluba₂
 @v	ulubar₂
 @v	ulumaš₂
-@link eBL |IM.HI×NUN.ME.U.GAN₂| https://www.ebl.lmu.de/signs/|IM.HI×NUN.ME.U.GAN₂|
+@link	eBL |IM.HI×NUN.ME.U.GAN₂| https://www.ebl.lmu.de/signs/|IM.HI×NUN.ME.U.GAN₂|
 @end sign
 
 @sign |IM.KAD₃|
@@ -18851,7 +18747,7 @@
 @v	tuk₈
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 52'
 @inote	salgues
-@link eBL |IM.KAD₃| https://www.ebl.lmu.de/signs/|IM.KAD₃|
+@link	eBL |IM.KAD₃| https://www.ebl.lmu.de/signs/|IM.KAD₃|
 @end sign
 
 @sign |IM.NE|
@@ -18866,7 +18762,7 @@
 @useq	x1214E.x1238E
 @ucun	𒅎𒎎
 @v	enaqa
-@link eBL |IM.NI.UD| https://www.ebl.lmu.de/signs/|IM.NI.UD|
+@link	eBL |IM.NI.UD| https://www.ebl.lmu.de/signs/|IM.NI.UD|
 @end sign
 
 @sign |IM.SI|
@@ -18875,7 +18771,7 @@
 @useq	x1214E.x122DB
 @ucun	𒅎𒋛
 @v	dunguₓ
-@link eBL |IM.SI| https://www.ebl.lmu.de/signs/|IM.SI|
+@link	eBL |IM.SI| https://www.ebl.lmu.de/signs/|IM.SI|
 @end sign
 
 @sign |IM.SI.A|
@@ -18886,7 +18782,7 @@
 @v	dungaₓ
 @v	dungu
 @sys	Attinger duggu => dungu
-@link eBL |IM.SI.A| https://www.ebl.lmu.de/signs/|IM.SI.A|
+@link	eBL |IM.SI.A| https://www.ebl.lmu.de/signs/|IM.SI.A|
 @end sign
 
 @sign |IM.ŠITA|
@@ -18894,7 +18790,7 @@
 @useq	x1214E.x122D6
 @ucun	𒅎𒋖
 @v	dalhamun
-@link eBL |IM.ŠITA| https://www.ebl.lmu.de/signs/|IM.ŠITA|
+@link	eBL |IM.ŠITA| https://www.ebl.lmu.de/signs/|IM.ŠITA|
 @end sign
 
 @sign |IM.ŠU₂|
@@ -18905,7 +18801,7 @@
 @ref	CUSAS 12 1.1.2 r i 53'
 @inote	salgues
 @v	uh₆
-@link eBL |IM.ŠU₂| https://www.ebl.lmu.de/signs/|IM.ŠU₂|
+@link	eBL |IM.ŠU₂| https://www.ebl.lmu.de/signs/|IM.ŠU₂|
 @end sign
 
 @sign |IM.UD|
@@ -18914,7 +18810,7 @@
 @ucun	𒅎𒌓
 @v	sidar
 @sys	Attinger sidar
-@link eBL |IM.UD| https://www.ebl.lmu.de/signs/|IM.UD|
+@link	eBL |IM.UD| https://www.ebl.lmu.de/signs/|IM.UD|
 @end sign
 
 @sign |IM×TAK₄|
@@ -18931,8 +18827,8 @@
 @v	kid₇
 @v	tug₇
 @v	tuk₇
-@link eBL |IM×TAK₄| https://www.ebl.lmu.de/signs/|IM×TAK₄|
-@link Wikidata Q87555660 http://www.wikidata.org/entity/Q87555660
+@link	eBL |IM×TAK₄| https://www.ebl.lmu.de/signs/|IM×TAK₄|
+@link	Wikidata Q87555660 http://www.wikidata.org/entity/Q87555660
 @form |IM.TAK₄|
 @oid	o0022966
 @inote	dcclt !sg
@@ -18950,7 +18846,7 @@
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 50'
 @inote	salgues
 @inote	sjt this sign and |IM@IM| should probably be subsumed under |IM%IM|
-@link eBL |IM&IM| https://www.ebl.lmu.de/signs/|IM&IM|
+@link	eBL |IM&IM| https://www.ebl.lmu.de/signs/|IM&IM|
 @end sign
 
 @sign |IM%IM|
@@ -18978,8 +18874,8 @@
 @v	zigkaru
 @v	zikara
 @v	zikaru
-@link eBL |IM%IM| https://www.ebl.lmu.de/signs/|IM%IM|
-@link Wikidata Q87555663 http://www.wikidata.org/entity/Q87555663
+@link	eBL |IM%IM| https://www.ebl.lmu.de/signs/|IM%IM|
+@link	Wikidata Q87555663 http://www.wikidata.org/entity/Q87555663
 @form |IM&IM|
 @oid	o0001530
 @v	aŋar₅
@@ -18988,7 +18884,7 @@
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 58'
 @v	mermeri₃
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342654 r i 57'
-@link eBL |IM&IM| https://www.ebl.lmu.de/signs/|IM&IM|
+@link	eBL |IM&IM| https://www.ebl.lmu.de/signs/|IM&IM|
 @@
 @end sign
 
@@ -19011,8 +18907,8 @@
 @v	imina
 @v	umun₇
 @v	umunaₓ
-@link eBL IMIN https://www.ebl.lmu.de/signs/IMIN
-@link Wikidata Q87555669 http://www.wikidata.org/entity/Q87555669
+@link	eBL IMIN https://www.ebl.lmu.de/signs/IMIN
+@link	Wikidata Q87555669 http://www.wikidata.org/entity/Q87555669
 @form 7(AŠ@c)@l
 @oid	o0018865
 @inote	this is 7 times 1(AŠ@c) in a single row (@l=linear)
@@ -19040,8 +18936,8 @@
 @v	in
 @v	ini
 @v	isin₂
-@link eBL IN https://www.ebl.lmu.de/signs/IN
-@link Wikidata Q87555671 http://www.wikidata.org/entity/Q87555671
+@link	eBL IN https://www.ebl.lmu.de/signs/IN
+@link	Wikidata Q87555671 http://www.wikidata.org/entity/Q87555671
 @form |ŠE&ŠE.NI|
 @oid	o0223332
 @list	RSP447
@@ -19077,8 +18973,8 @@
 @v	ire₁₄
 @v	iri₁₄
 @v	tirₓ
-@link eBL IR https://www.ebl.lmu.de/signs/IR
-@link Wikidata Q87555672 http://www.wikidata.org/entity/Q87555672
+@link	eBL IR https://www.ebl.lmu.de/signs/IR
+@link	Wikidata Q87555672 http://www.wikidata.org/entity/Q87555672
 @end sign
 
 @sign IŠ
@@ -19128,8 +19024,8 @@
 @v	šuš₃
 @v	ukum
 @sys	Attinger kukkušda
-@link eBL IŠ https://www.ebl.lmu.de/signs/IŠ
-@link Wikidata Q87555674 http://www.wikidata.org/entity/Q87555674
+@link	eBL IŠ https://www.ebl.lmu.de/signs/IŠ
+@link	Wikidata Q87555674 http://www.wikidata.org/entity/Q87555674
 @end sign
 
 @sign |IŠ.A.SUD|
@@ -19138,7 +19034,7 @@
 @ucun	𒅖𒀀𒋤
 @v	imₓ
 @ref	Diri 6 = dcclt:Q000151 B90
-@link eBL |IŠ.A.SUD| https://www.ebl.lmu.de/signs/|IŠ.A.SUD|
+@link	eBL |IŠ.A.SUD| https://www.ebl.lmu.de/signs/|IŠ.A.SUD|
 @end sign
 
 @sign |IŠ.UD.KA.BAR|
@@ -19147,7 +19043,7 @@
 @useq	x12156.x12313.x12157.x12047
 @ucun	𒅖𒌓𒅗𒁇
 @v	šenₓ
-@link eBL |IŠ.UD.KA.BAR| https://www.ebl.lmu.de/signs/|IŠ.UD.KA.BAR|
+@link	eBL |IŠ.UD.KA.BAR| https://www.ebl.lmu.de/signs/|IŠ.UD.KA.BAR|
 @form |URUDA.IŠ|
 @oid	o0002541
 @useq	x1234F.x12156
@@ -19166,13 +19062,13 @@
 @v	šeknu
 @v	šem₇
 @v	šen₅
-@link eBL |IŠ.URUDA| https://www.ebl.lmu.de/signs/|IŠ.URUDA|
+@link	eBL |IŠ.URUDA| https://www.ebl.lmu.de/signs/|IŠ.URUDA|
 @end sign
 
 @sign ITI@s
 @oid	o0000258
 @inote	CDLI ed3b
-@link eBL ITI@s https://www.ebl.lmu.de/signs/ITI@s
+@link	eBL ITI@s https://www.ebl.lmu.de/signs/ITI@s
 @end sign
 
 @sign |ITI@s×BAD|
@@ -19256,8 +19152,8 @@
 @v	zuh
 @sys	Attinger agu₂
 @sys	Attinger ugu₆
-@link eBL KA https://www.ebl.lmu.de/signs/KA
-@link Wikidata Q87555676 http://www.wikidata.org/entity/Q87555676
+@link	eBL KA https://www.ebl.lmu.de/signs/KA
+@link	Wikidata Q87555676 http://www.wikidata.org/entity/Q87555676
 @form |KA×U|
 @oid	o0001666
 @list	HZL141
@@ -19269,8 +19165,8 @@
 @uage	5.0
 @v	kaₓ
 @note	Hittite
-@link eBL |KA×U| https://www.ebl.lmu.de/signs/|KA×U|
-@link Wikidata Q87555770 http://www.wikidata.org/entity/Q87555770
+@link	eBL |KA×U| https://www.ebl.lmu.de/signs/|KA×U|
+@link	Wikidata Q87555770 http://www.wikidata.org/entity/Q87555770
 @@
 @form |KA×UD|
 @oid	o0001662
@@ -19282,8 +19178,8 @@
 @uage	5.0
 @v	sumₓ
 @v	zu₉
-@link eBL |KA×UD| https://www.ebl.lmu.de/signs/|KA×UD|
-@link Wikidata Q87555774 http://www.wikidata.org/entity/Q87555774
+@link	eBL |KA×UD| https://www.ebl.lmu.de/signs/|KA×UD|
+@link	Wikidata Q87555774 http://www.wikidata.org/entity/Q87555774
 @@
 @end sign
 
@@ -19304,7 +19200,7 @@
 @useq	x12157.x1202D.x1224C.x122DB
 @ucun	𒅗𒀭𒉌𒋛
 @v	kurku₂
-@link eBL |KA.AN.NI.SI| https://www.ebl.lmu.de/signs/|KA.AN.NI.SI|
+@link	eBL |KA.AN.NI.SI| https://www.ebl.lmu.de/signs/|KA.AN.NI.SI|
 @end sign
 
 @sign- |KA.AN.RA|
@@ -19321,7 +19217,7 @@
 @useq	x12157.x12046.x120B7.x122FC.x12000.x1207D.x1235D.x1223E
 @ucun	𒅗𒁆𒂷𒋼𒀀𒁽𒍝𒈾
 @v	bizaza
-@link eBL |KA.BALAG.GA₂.TE.A.DU@s.ZA.NA| https://www.ebl.lmu.de/signs/|KA.BALAG.GA₂.TE.A.DU@s.ZA.NA|
+@link	eBL |KA.BALAG.GA₂.TE.A.DU@s.ZA.NA| https://www.ebl.lmu.de/signs/|KA.BALAG.GA₂.TE.A.DU@s.ZA.NA|
 @end sign
 
 @sign |KA.DI|
@@ -19329,7 +19225,7 @@
 @useq	x12157.x12072
 @ucun	𒅗𒁲
 @v	ištaran
-@link eBL |KA.DI| https://www.ebl.lmu.de/signs/|KA.DI|
+@link	eBL |KA.DI| https://www.ebl.lmu.de/signs/|KA.DI|
 @end sign
 
 @sign |KA.EŠ₂|
@@ -19353,7 +19249,7 @@
 @v	dimmu
 @v	dimu
 @v	%akk/n ṭēmu
-@link eBL |KA.HI| https://www.ebl.lmu.de/signs/|KA.HI|
+@link	eBL |KA.HI| https://www.ebl.lmu.de/signs/|KA.HI|
 @end sign
 
 @sign |KA.HI.GA|
@@ -19362,7 +19258,7 @@
 @ucun	𒅗𒄭𒂵
 @v	munₓ
 @v	ummaₓ
-@link eBL |KA.HI.GA| https://www.ebl.lmu.de/signs/|KA.HI.GA|
+@link	eBL |KA.HI.GA| https://www.ebl.lmu.de/signs/|KA.HI.GA|
 @end sign
 
 @sign |KA.KA|
@@ -19370,7 +19266,7 @@
 @useq	x12157.x12157
 @ucun	𒅗𒅗
 @v	duṭu
-@link eBL |KA.KA| https://www.ebl.lmu.de/signs/|KA.KA|
+@link	eBL |KA.KA| https://www.ebl.lmu.de/signs/|KA.KA|
 @end sign
 
 @sign |KA.KAK|
@@ -19379,7 +19275,7 @@
 @ucun	𒅗𒆕
 @v	gug₆
 @v	pihu₃
-@link eBL |KA.KAK| https://www.ebl.lmu.de/signs/|KA.KAK|
+@link	eBL |KA.KAK| https://www.ebl.lmu.de/signs/|KA.KAK|
 @end sign
 
 @sign |KA.KAL|
@@ -19410,7 +19306,7 @@
 @ucun	𒅗𒋗
 @v	šudₓ
 @v	šuduₓ
-@link eBL |KA.ŠU| https://www.ebl.lmu.de/signs/|KA.ŠU|
+@link	eBL |KA.ŠU| https://www.ebl.lmu.de/signs/|KA.ŠU|
 @end sign
 
 @sign |KA.UD|
@@ -19456,8 +19352,8 @@
 @v	namₓ
 @v	naq
 @v	nik₅
-@link eBL |KA×A| https://www.ebl.lmu.de/signs/|KA×A|
-@link Wikidata Q87555678 http://www.wikidata.org/entity/Q87555678
+@link	eBL |KA×A| https://www.ebl.lmu.de/signs/|KA×A|
+@link	Wikidata Q87555678 http://www.wikidata.org/entity/Q87555678
 @end sign
 
 @sign |KA×A.A|
@@ -19466,7 +19362,7 @@
 @ucun	𒅘𒀀
 @v	pišₓ
 @ref	Msk 74247+ = dcclt:P271995 o v 3
-@link eBL |KA×A.A| https://www.ebl.lmu.de/signs/|KA×A.A|
+@link	eBL |KA×A.A| https://www.ebl.lmu.de/signs/|KA×A.A|
 @end sign
 
 @sign |KA×(A.LAL)|
@@ -19480,7 +19376,7 @@
 @oid	o0001592
 @inote	glossed e-me-en (cmp. immen₂) in Mousaief Ea
 @v	emenₓ
-@link eBL |KA×(A.ME)| https://www.ebl.lmu.de/signs/|KA×(A.ME)|
+@link	eBL |KA×(A.ME)| https://www.ebl.lmu.de/signs/|KA×(A.ME)|
 @end sign
 
 @sign |KA×(A.X)|
@@ -19495,8 +19391,8 @@
 @ucun	𒅙
 @uage	5.0
 @v	akₓ
-@link eBL |KA×AD| https://www.ebl.lmu.de/signs/|KA×AD|
-@link Wikidata Q87555679 http://www.wikidata.org/entity/Q87555679
+@link	eBL |KA×AD| https://www.ebl.lmu.de/signs/|KA×AD|
+@link	Wikidata Q87555679 http://www.wikidata.org/entity/Q87555679
 @end sign
 
 @sign |KA×(AD.KU₃)|
@@ -19510,8 +19406,8 @@
 @uage	5.0
 @v	nagiri
 @v	nigru
-@link eBL |KA×(AD.KU₃)| https://www.ebl.lmu.de/signs/|KA×(AD.KU₃)|
-@link Wikidata Q87555681 http://www.wikidata.org/entity/Q87555681
+@link	eBL |KA×(AD.KU₃)| https://www.ebl.lmu.de/signs/|KA×(AD.KU₃)|
+@link	Wikidata Q87555681 http://www.wikidata.org/entity/Q87555681
 @form |KA.AD.KU₃|
 @oid	o0022967
 @inote	dcclt !sg
@@ -19526,8 +19422,8 @@
 @list	U+1237E
 @ucun	𒍾
 @uage	7.0
-@link eBL |KA×ANŠE| https://www.ebl.lmu.de/signs/|KA×ANŠE|
-@link Wikidata Q87556769 http://www.wikidata.org/entity/Q87556769
+@link	eBL |KA×ANŠE| https://www.ebl.lmu.de/signs/|KA×ANŠE|
+@link	Wikidata Q87556769 http://www.wikidata.org/entity/Q87556769
 @end sign
 
 @sign |KA×AŠ|
@@ -19545,8 +19441,8 @@
 @ucun	𒅛
 @uage	5.0
 @v	ibira₂
-@link eBL |KA×AŠ₂| https://www.ebl.lmu.de/signs/|KA×AŠ₂|
-@link Wikidata Q87555683 http://www.wikidata.org/entity/Q87555683
+@link	eBL |KA×AŠ₂| https://www.ebl.lmu.de/signs/|KA×AŠ₂|
+@link	Wikidata Q87555683 http://www.wikidata.org/entity/Q87555683
 @end sign
 
 @sign |KA×BAD|
@@ -19562,8 +19458,8 @@
 @v	uh₄
 @v	uhhu
 @v	uš₁₁
-@link eBL |KA×BAD| https://www.ebl.lmu.de/signs/|KA×BAD|
-@link Wikidata Q87555684 http://www.wikidata.org/entity/Q87555684
+@link	eBL |KA×BAD| https://www.ebl.lmu.de/signs/|KA×BAD|
+@link	Wikidata Q87555684 http://www.wikidata.org/entity/Q87555684
 @end sign
 
 @sign |KA×BAL|
@@ -19591,8 +19487,8 @@
 @v	šiₓ
 @v	šidₓ
 @v	šigₓ
-@link eBL |KA×BALAG| https://www.ebl.lmu.de/signs/|KA×BALAG|
-@link Wikidata Q87555686 http://www.wikidata.org/entity/Q87555686
+@link	eBL |KA×BALAG| https://www.ebl.lmu.de/signs/|KA×BALAG|
+@link	Wikidata Q87555686 http://www.wikidata.org/entity/Q87555686
 @form KA
 @oid	o0000260
 @list	BAU233
@@ -19603,7 +19499,7 @@
 @list	RSP197
 @v	še₂₆⁻
 @sys	Attinger še₂₆⁻
-@link eBL KA https://www.ebl.lmu.de/signs/KA
+@link	eBL KA https://www.ebl.lmu.de/signs/KA
 @@
 @end sign
 
@@ -19613,8 +19509,8 @@
 @list	U+1215F
 @ucun	𒅟
 @uage	5.0
-@link eBL |KA×BI| https://www.ebl.lmu.de/signs/|KA×BI|
-@link Wikidata Q87555690 http://www.wikidata.org/entity/Q87555690
+@link	eBL |KA×BI| https://www.ebl.lmu.de/signs/|KA×BI|
+@link	Wikidata Q87555690 http://www.wikidata.org/entity/Q87555690
 @end sign
 
 @sign |KA×BU|
@@ -19624,26 +19520,13 @@
 @list	U+124D0
 @ucun	𒓐
 @uage	8.0
-@link eBL |KA×BU| https://www.ebl.lmu.de/signs/|KA×BU|
-@link Wikidata Q87557243 http://www.wikidata.org/entity/Q87557243
+@link	eBL |KA×BU| https://www.ebl.lmu.de/signs/|KA×BU|
+@link	Wikidata Q87557243 http://www.wikidata.org/entity/Q87557243
 @end sign
 
 @sign |KA×DIŠ|
 @oid	o0021756
 @inote	OAkk PN
-@end sign
-
-@sign |KA×6(DIŠ)|
-@oid	o0001608
-@aka	|KA×AŠ₃|
-@list	HZL150
-@list	MZL067
-@uname	CUNEIFORM SIGN KA TIMES ASH3
-@list	U+1237F
-@ucun	𒍿
-@uage	7.0
-@link eBL |KA×6(DIŠ)| https://www.ebl.lmu.de/signs/|KA×6(DIŠ)|
-@link Wikidata Q87556771 http://www.wikidata.org/entity/Q87556771
 @end sign
 
 @sign |KA×DU|
@@ -19655,7 +19538,7 @@
 @oid	o0001618
 @inote	@uname-no-utf8	CUNEIFORM SIGN KA TIMES DUB2
 @unote	Does this sign exist, separately from |KA×BALAG| = MZL47? ##CHECK which sign is incribed in P-Ea 332? MZL refers to Civil in AOAT 25, 105
-@link eBL |KA×DUB₂| https://www.ebl.lmu.de/signs/|KA×DUB₂|
+@link	eBL |KA×DUB₂| https://www.ebl.lmu.de/signs/|KA×DUB₂|
 @end sign
 
 @sign |KA×DUN|
@@ -19664,7 +19547,7 @@
 @list	U+12385
 @ucun	𒎅
 @uage	7.0
-@link Wikidata Q87556784 http://www.wikidata.org/entity/Q87556784
+@link	Wikidata Q87556784 http://www.wikidata.org/entity/Q87556784
 @end sign
 
 @sign |KA×EŠ₂|
@@ -19679,8 +19562,8 @@
 @v	ma₅
 @v	mu₃
 @v	sub₄
-@link eBL |KA×EŠ₂| https://www.ebl.lmu.de/signs/|KA×EŠ₂|
-@link Wikidata Q87555693 http://www.wikidata.org/entity/Q87555693
+@link	eBL |KA×EŠ₂| https://www.ebl.lmu.de/signs/|KA×EŠ₂|
+@link	Wikidata Q87555693 http://www.wikidata.org/entity/Q87555693
 @end sign
 
 @sign |KA×GA|
@@ -19695,8 +19578,8 @@
 @v	simₓ
 @v	sub
 @v	šubₓ
-@link eBL |KA×GA| https://www.ebl.lmu.de/signs/|KA×GA|
-@link Wikidata Q87555695 http://www.wikidata.org/entity/Q87555695
+@link	eBL |KA×GA| https://www.ebl.lmu.de/signs/|KA×GA|
+@link	Wikidata Q87555695 http://www.wikidata.org/entity/Q87555695
 @end sign
 
 @sign |KA×GA.SAG|
@@ -19704,14 +19587,14 @@
 @useq	x12162.x12295
 @ucun	𒅢𒊕
 @v	kulkul
-@link eBL |KA×GA.SAG| https://www.ebl.lmu.de/signs/|KA×GA.SAG|
+@link	eBL |KA×GA.SAG| https://www.ebl.lmu.de/signs/|KA×GA.SAG|
 @end sign
 
 @sign |KA×GA₂|
 @oid	o0001629
 @inote	epsd2
 @v	šeg₁₈
-@link eBL |KA×GA₂| https://www.ebl.lmu.de/signs/|KA×GA₂|
+@link	eBL |KA×GA₂| https://www.ebl.lmu.de/signs/|KA×GA₂|
 @end sign
 
 @sign |KA×GAL|
@@ -19721,8 +19604,8 @@
 @ucun	𒅣
 @uage	5.0
 @v	agal
-@link eBL |KA×GAL| https://www.ebl.lmu.de/signs/|KA×GAL|
-@link Wikidata Q87555697 http://www.wikidata.org/entity/Q87555697
+@link	eBL |KA×GAL| https://www.ebl.lmu.de/signs/|KA×GAL|
+@link	Wikidata Q87555697 http://www.wikidata.org/entity/Q87555697
 @form |KA×(A.GAL)|
 @oid	o0031816
 @@
@@ -19765,8 +19648,8 @@
 @v	puzur₅
 @v	tuₓ
 @v	tugure
-@link eBL |KA×GAN₂@t| https://www.ebl.lmu.de/signs/|KA×GAN₂@t|
-@link Wikidata Q87555699 http://www.wikidata.org/entity/Q87555699
+@link	eBL |KA×GAN₂@t| https://www.ebl.lmu.de/signs/|KA×GAN₂@t|
+@link	Wikidata Q87555699 http://www.wikidata.org/entity/Q87555699
 @form |KA×GAN₂|
 @oid	o0023052
 @list	RSP206
@@ -19779,7 +19662,7 @@
 @list	LAK323
 @list	RSP201
 @v	šudaₓ
-@link eBL |KA×ŠU| https://www.ebl.lmu.de/signs/|KA×ŠU|
+@link	eBL |KA×ŠU| https://www.ebl.lmu.de/signs/|KA×ŠU|
 @@
 @form |SAG×GAN₂@t|
 @oid	o0027890
@@ -19793,7 +19676,7 @@
 @v	buzur₄
 @v	%akk puzruₓ
 @v	puzur₄
-@link eBL |KA×GAN₂@t.ŠA| https://www.ebl.lmu.de/signs/|KA×GAN₂@t.ŠA|
+@link	eBL |KA×GAN₂@t.ŠA| https://www.ebl.lmu.de/signs/|KA×GAN₂@t.ŠA|
 @form |KA×(GAN₂@t.ŠA)|
 @oid	o0223329
 @list	RSP202
@@ -19830,8 +19713,8 @@
 @v	šaŋar
 @v	tukurₓ
 @inote	tukur[chew] collated from https://cdli.ucla.edu/dl/photo/P231774.jpg
-@link eBL |KA×GAR| https://www.ebl.lmu.de/signs/|KA×GAR|
-@link Wikidata Q87555700 http://www.wikidata.org/entity/Q87555700
+@link	eBL |KA×GAR| https://www.ebl.lmu.de/signs/|KA×GAR|
+@link	Wikidata Q87555700 http://www.wikidata.org/entity/Q87555700
 @form KA
 @oid	o0000260
 @list	BAU233
@@ -19844,7 +19727,7 @@
 @inote	OGSL doesn't allow gu₇(KA) and gu₃(KA) or guₓ(KA) so we have to use gu₃ here
 @v	gu₇⁻
 @sys	Attinger gu₇⁻
-@link eBL KA https://www.ebl.lmu.de/signs/KA
+@link	eBL KA https://www.ebl.lmu.de/signs/KA
 @@
 @form |KA.GAR|
 @oid	o0031727
@@ -19869,8 +19752,8 @@
 @v	meleₓ
 @v	meliₓ
 @ref	MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 20, me-li |KA×(GAR.ŠA3.A)| ne-em-lu-um
-@link eBL |KA×(GAR.ŠA₃.A)| https://www.ebl.lmu.de/signs/|KA×(GAR.ŠA₃.A)|
-@link Wikidata Q87555702 http://www.wikidata.org/entity/Q87555702
+@link	eBL |KA×(GAR.ŠA₃.A)| https://www.ebl.lmu.de/signs/|KA×(GAR.ŠA₃.A)|
+@link	Wikidata Q87555702 http://www.wikidata.org/entity/Q87555702
 @end sign
 
 @sign |KA×(GAR.X)|
@@ -19884,8 +19767,8 @@
 @list	U+12167
 @ucun	𒅧
 @uage	5.0
-@link eBL |KA×GI| https://www.ebl.lmu.de/signs/|KA×GI|
-@link Wikidata Q87555704 http://www.wikidata.org/entity/Q87555704
+@link	eBL |KA×GI| https://www.ebl.lmu.de/signs/|KA×GI|
+@link	Wikidata Q87555704 http://www.wikidata.org/entity/Q87555704
 @end sign
 
 @sign |KA×GIG|
@@ -19907,8 +19790,8 @@
 @v	emeₓ
 @inote	acc. to LAK only in Gudea B 14,2 - is that correct? ##CHECK
 @v	emeₓ-gir₂
-@link eBL |KA×GIR₂| https://www.ebl.lmu.de/signs/|KA×GIR₂|
-@link Wikidata Q87555705 http://www.wikidata.org/entity/Q87555705
+@link	eBL |KA×GIR₂| https://www.ebl.lmu.de/signs/|KA×GIR₂|
+@link	Wikidata Q87555705 http://www.wikidata.org/entity/Q87555705
 @end sign
 
 @sign |KA×GIŠ|
@@ -19919,8 +19802,8 @@
 @list	U+12380
 @ucun	𒎀
 @uage	7.0
-@link eBL |KA×GIŠ| https://www.ebl.lmu.de/signs/|KA×GIŠ|
-@link Wikidata Q87556773 http://www.wikidata.org/entity/Q87556773
+@link	eBL |KA×GIŠ| https://www.ebl.lmu.de/signs/|KA×GIŠ|
+@link	Wikidata Q87556773 http://www.wikidata.org/entity/Q87556773
 @end sign
 
 @sign |KA×(GIŠ.SAR)|
@@ -19932,8 +19815,8 @@
 @unote	Does this sign actually exist, or is it KAxSAR=gukiri?
 @uage	5.0
 @v	gukri
-@link eBL |KA×(GIŠ.SAR)| https://www.ebl.lmu.de/signs/|KA×(GIŠ.SAR)|
-@link Wikidata Q87555709 http://www.wikidata.org/entity/Q87555709
+@link	eBL |KA×(GIŠ.SAR)| https://www.ebl.lmu.de/signs/|KA×(GIŠ.SAR)|
+@link	Wikidata Q87555709 http://www.wikidata.org/entity/Q87555709
 @end sign
 
 @sign |KA×GIŠ%GIŠ|
@@ -19950,8 +19833,8 @@
 @v	irhandiₓ
 @v	nehandiₓ
 @v	tibira₂
-@link eBL |KA×GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|KA×GIŠ%GIŠ|
-@link Wikidata Q87555712 http://www.wikidata.org/entity/Q87555712
+@link	eBL |KA×GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|KA×GIŠ%GIŠ|
+@link	Wikidata Q87555712 http://www.wikidata.org/entity/Q87555712
 @form |KA.GIŠ%GIŠ|
 @oid	o0022968
 @inote	dcclt !sg
@@ -19968,8 +19851,8 @@
 @uage	5.0
 @v	guₓ
 @ref	Adab 0753 = dcclt:P333146 r 3', gu |KA×GU| ri-ig-mu-um
-@link eBL |KA×GU| https://www.ebl.lmu.de/signs/|KA×GU|
-@link Wikidata Q87555714 http://www.wikidata.org/entity/Q87555714
+@link	eBL |KA×GU| https://www.ebl.lmu.de/signs/|KA×GU|
+@link	Wikidata Q87555714 http://www.wikidata.org/entity/Q87555714
 @end sign
 
 @sign |KA×GUD|
@@ -19979,8 +19862,8 @@
 @list	U+12381
 @ucun	𒎁
 @uage	7.0
-@link eBL |KA×GUD| https://www.ebl.lmu.de/signs/|KA×GUD|
-@link Wikidata Q87556776 http://www.wikidata.org/entity/Q87556776
+@link	eBL |KA×GUD| https://www.ebl.lmu.de/signs/|KA×GUD|
+@link	Wikidata Q87556776 http://www.wikidata.org/entity/Q87556776
 @end sign
 
 @sign |KA×GUR₇|
@@ -19994,8 +19877,8 @@
 @v	kugereₓ
 @v	kugre
 @v	kugur
-@link eBL |KA×GUR₇| https://www.ebl.lmu.de/signs/|KA×GUR₇|
-@link Wikidata Q87555716 http://www.wikidata.org/entity/Q87555716
+@link	eBL |KA×GUR₇| https://www.ebl.lmu.de/signs/|KA×GUR₇|
+@link	Wikidata Q87555716 http://www.wikidata.org/entity/Q87555716
 @end sign
 
 @sign |KA×HI×AŠ₂|
@@ -20007,8 +19890,8 @@
 @ucun	𒎂
 @uage	7.0
 @v	murumₓ
-@link eBL |KA×HI×AŠ₂| https://www.ebl.lmu.de/signs/|KA×HI×AŠ₂|
-@link Wikidata Q87556777 http://www.wikidata.org/entity/Q87556777
+@link	eBL |KA×HI×AŠ₂| https://www.ebl.lmu.de/signs/|KA×HI×AŠ₂|
+@link	Wikidata Q87556777 http://www.wikidata.org/entity/Q87556777
 @end sign
 
 @sign |KA×(HU.SI)|
@@ -20039,8 +19922,8 @@
 @v	kiriₓ
 @v	tuₓ
 @v	urguₓ
-@link eBL |KA×IM| https://www.ebl.lmu.de/signs/|KA×IM|
-@link Wikidata Q87555719 http://www.wikidata.org/entity/Q87555719
+@link	eBL |KA×IM| https://www.ebl.lmu.de/signs/|KA×IM|
+@link	Wikidata Q87555719 http://www.wikidata.org/entity/Q87555719
 @form |KA.IM|
 @oid	o0031789
 @useq	x12157.x1214E
@@ -20062,8 +19945,8 @@
 @list	U+124D1
 @ucun	𒓑
 @uage	8.0
-@link eBL |KA×KA| https://www.ebl.lmu.de/signs/|KA×KA|
-@link Wikidata Q87557245 http://www.wikidata.org/entity/Q87557245
+@link	eBL |KA×KA| https://www.ebl.lmu.de/signs/|KA×KA|
+@link	Wikidata Q87557245 http://www.wikidata.org/entity/Q87557245
 @end sign
 
 @sign |KA×KAD₃|
@@ -20082,8 +19965,8 @@
 @uage	5.0
 @v	gugₓ
 @v	kir₁₄
-@link eBL |KA×KAK| https://www.ebl.lmu.de/signs/|KA×KAK|
-@link Wikidata Q87555722 http://www.wikidata.org/entity/Q87555722
+@link	eBL |KA×KAK| https://www.ebl.lmu.de/signs/|KA×KAK|
+@link	Wikidata Q87555722 http://www.wikidata.org/entity/Q87555722
 @end sign
 
 @sign |KA×KI|
@@ -20095,15 +19978,15 @@
 @list	U+12170
 @ucun	𒅰
 @uage	5.0
-@link eBL |KA×KI| https://www.ebl.lmu.de/signs/|KA×KI|
-@link Wikidata Q87555724 http://www.wikidata.org/entity/Q87555724
+@link	eBL |KA×KI| https://www.ebl.lmu.de/signs/|KA×KI|
+@link	Wikidata Q87555724 http://www.wikidata.org/entity/Q87555724
 @end sign
 
 @sign |KA×(KI.ŠU₂)|
 @oid	o0001597
 @v	gurušₓ
 @ref	MSL 02, 152-154 Anhang 3 = dcclt:P333146 o 23, gu-ru-uš |KA×(KI+ŠU2?)| ka-sa3-su2-um
-@link eBL |KA×(KI.ŠU₂)| https://www.ebl.lmu.de/signs/|KA×(KI.ŠU₂)|
+@link	eBL |KA×(KI.ŠU₂)| https://www.ebl.lmu.de/signs/|KA×(KI.ŠU₂)|
 @end sign
 
 @sign |KA×KID|
@@ -20118,8 +20001,8 @@
 @v	sulₓ
 @v	sumₓ
 @v	sunₓ
-@link eBL |KA×KID| https://www.ebl.lmu.de/signs/|KA×KID|
-@link Wikidata Q87555727 http://www.wikidata.org/entity/Q87555727
+@link	eBL |KA×KID| https://www.ebl.lmu.de/signs/|KA×KID|
+@link	Wikidata Q87555727 http://www.wikidata.org/entity/Q87555727
 @end sign
 
 @sign |KA×KU|
@@ -20160,8 +20043,8 @@
 @v	uš₇
 @v	zug₄
 @v	zuhₓ
-@link eBL |KA×LI| https://www.ebl.lmu.de/signs/|KA×LI|
-@link Wikidata Q87555730 http://www.wikidata.org/entity/Q87555730
+@link	eBL |KA×LI| https://www.ebl.lmu.de/signs/|KA×LI|
+@link	Wikidata Q87555730 http://www.wikidata.org/entity/Q87555730
 @form |KA.LI|
 @oid	o0031729
 @useq	x12157.x121F7
@@ -20175,7 +20058,7 @@
 @ucun	𒆀
 @uage	5.0
 @v	mu₁₃
-@link Wikidata Q87555759 http://www.wikidata.org/entity/Q87555759
+@link	Wikidata Q87555759 http://www.wikidata.org/entity/Q87555759
 @@
 @end sign
 
@@ -20185,7 +20068,7 @@
 @ucun	𒅲𒅲
 @v	mummun
 @v	mumun
-@link eBL |KA×LI.KA×LI| https://www.ebl.lmu.de/signs/|KA×LI.KA×LI|
+@link	eBL |KA×LI.KA×LI| https://www.ebl.lmu.de/signs/|KA×LI.KA×LI|
 @end sign
 
 @sign |KA×LU|
@@ -20195,8 +20078,8 @@
 @ucun	𒅳
 @uage	5.0
 @v	pu-udu
-@link eBL |KA×LU| https://www.ebl.lmu.de/signs/|KA×LU|
-@link Wikidata Q87555732 http://www.wikidata.org/entity/Q87555732
+@link	eBL |KA×LU| https://www.ebl.lmu.de/signs/|KA×LU|
+@link	Wikidata Q87555732 http://www.wikidata.org/entity/Q87555732
 @end sign
 
 @sign |KA×LUM|
@@ -20211,8 +20094,8 @@
 @ref	BM 36386 (AOAT 275, 246) = dcclt/signlists:P349431 r 2'
 @inote	salgues
 @inote	##CHECK MSL 14 308, 331
-@link eBL |KA×LUM| https://www.ebl.lmu.de/signs/|KA×LUM|
-@link Wikidata Q87556780 http://www.wikidata.org/entity/Q87556780
+@link	eBL |KA×LUM| https://www.ebl.lmu.de/signs/|KA×LUM|
+@link	Wikidata Q87556780 http://www.wikidata.org/entity/Q87556780
 @form |KA.LUM|
 @oid	o0023050
 @inote	dcclt !sg
@@ -20224,7 +20107,7 @@
 @sign |KA×MAŠ|
 @oid	o0028000
 @v	kabₓ
-@inote oakk
+@inote	oakk
 @end sign
 
 @sign |KA×ME|
@@ -20247,8 +20130,8 @@
 @v	eme
 @v	lišanₓ
 @v	uli
-@link eBL |KA×ME| https://www.ebl.lmu.de/signs/|KA×ME|
-@link Wikidata Q87555734 http://www.wikidata.org/entity/Q87555734
+@link	eBL |KA×ME| https://www.ebl.lmu.de/signs/|KA×ME|
+@link	Wikidata Q87555734 http://www.wikidata.org/entity/Q87555734
 @form |KA.ME|
 @oid	o0031731
 @useq	x12157.x12228
@@ -20266,22 +20149,22 @@
 @uage	5.0
 @v	medu
 @v	meša
-@link eBL |KA×(ME.DU)| https://www.ebl.lmu.de/signs/|KA×(ME.DU)|
-@link Wikidata Q87555736 http://www.wikidata.org/entity/Q87555736
+@link	eBL |KA×(ME.DU)| https://www.ebl.lmu.de/signs/|KA×(ME.DU)|
+@link	Wikidata Q87555736 http://www.wikidata.org/entity/Q87555736
 @end sign
 
 @sign |KA×(ME.GAR)|
 @oid	o0001599
 @pname	|KA×ME+GAR|
 @v	emeŋarₓ
-@link eBL |KA×(ME.GAR)| https://www.ebl.lmu.de/signs/|KA×(ME.GAR)|
+@link	eBL |KA×(ME.GAR)| https://www.ebl.lmu.de/signs/|KA×(ME.GAR)|
 @end sign
 
 @sign |KA×(ME.GAR.GAR.RA)|
 @oid	o0001600
 @pname	|KA×ME+GAR+GAR+RA|
 @v	emeŋarŋarₓ
-@link eBL |KA×(ME.GAR.GAR.RA)| https://www.ebl.lmu.de/signs/|KA×(ME.GAR.GAR.RA)|
+@link	eBL |KA×(ME.GAR.GAR.RA)| https://www.ebl.lmu.de/signs/|KA×(ME.GAR.GAR.RA)|
 @end sign
 
 @sign |KA×(ME.GI)|
@@ -20293,8 +20176,8 @@
 @ucun	𒅶
 @uage	5.0
 @v	emengi
-@link eBL |KA×(ME.GI)| https://www.ebl.lmu.de/signs/|KA×(ME.GI)|
-@link Wikidata Q87555739 http://www.wikidata.org/entity/Q87555739
+@link	eBL |KA×(ME.GI)| https://www.ebl.lmu.de/signs/|KA×(ME.GI)|
+@link	Wikidata Q87555739 http://www.wikidata.org/entity/Q87555739
 @end sign
 
 @sign |KA×(ME.ME)|
@@ -20302,7 +20185,7 @@
 @pname	|KA×ME+ME|
 @inote	@uname-no-utf8	CUNEIFORM SIGN KA TIMES ME PLUS ME
 @v	sibsib
-@link eBL |KA×(ME.ME)| https://www.ebl.lmu.de/signs/|KA×(ME.ME)|
+@link	eBL |KA×(ME.ME)| https://www.ebl.lmu.de/signs/|KA×(ME.ME)|
 @end sign
 
 @sign |KA×(ME.TE)|
@@ -20315,8 +20198,8 @@
 @ucun	𒅷
 @uage	5.0
 @v	imminte
-@link eBL |KA×(ME.TE)| https://www.ebl.lmu.de/signs/|KA×(ME.TE)|
-@link Wikidata Q87555741 http://www.wikidata.org/entity/Q87555741
+@link	eBL |KA×(ME.TE)| https://www.ebl.lmu.de/signs/|KA×(ME.TE)|
+@link	Wikidata Q87555741 http://www.wikidata.org/entity/Q87555741
 @end sign
 
 @sign |KA×MES|
@@ -20331,8 +20214,8 @@
 @list	U+12179
 @ucun	𒅹
 @uage	5.0
-@link eBL |KA×(MI.NUNUZ)| https://www.ebl.lmu.de/signs/|KA×(MI.NUNUZ)|
-@link Wikidata Q87555744 http://www.wikidata.org/entity/Q87555744
+@link	eBL |KA×(MI.NUNUZ)| https://www.ebl.lmu.de/signs/|KA×(MI.NUNUZ)|
+@link	Wikidata Q87555744 http://www.wikidata.org/entity/Q87555744
 @end sign
 
 @compoundonly	|KA×MU|
@@ -20364,14 +20247,19 @@
 @inote	salgues
 @v	murgu₃
 @v	urgu₂
-@link eBL |KA×NE| https://www.ebl.lmu.de/signs/|KA×NE|
-@link Wikidata Q87555747 http://www.wikidata.org/entity/Q87555747
+@link	eBL |KA×NE| https://www.ebl.lmu.de/signs/|KA×NE|
+@link	Wikidata Q87555747 http://www.wikidata.org/entity/Q87555747
 @form |KA.NE|
 @oid	o0022969
 @inote	dcclt !sg
 @useq	x12157.x12248
 @ucun	𒅗𒉈
 @@
+@end sign
+
+@sign |KA×NI|
+@oid	o0038205
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign |KA×NI₂|
@@ -20399,8 +20287,8 @@
 @v	nundum
 @v	nundun
 @inote	MC: /šumdum//
-@link eBL |KA×NUN| https://www.ebl.lmu.de/signs/|KA×NUN|
-@link Wikidata Q87555749 http://www.wikidata.org/entity/Q87555749
+@link	eBL |KA×NUN| https://www.ebl.lmu.de/signs/|KA×NUN|
+@link	Wikidata Q87555749 http://www.wikidata.org/entity/Q87555749
 @end sign
 
 @sign |KA×PA|
@@ -20411,8 +20299,8 @@
 @list	U+12384
 @ucun	𒎄
 @uage	7.0
-@link eBL |KA×PA| https://www.ebl.lmu.de/signs/|KA×PA|
-@link Wikidata Q87556782 http://www.wikidata.org/entity/Q87556782
+@link	eBL |KA×PA| https://www.ebl.lmu.de/signs/|KA×PA|
+@link	Wikidata Q87556782 http://www.wikidata.org/entity/Q87556782
 @end sign
 
 @sign |KA×(PA.LUGAL)|
@@ -20430,8 +20318,13 @@
 @v	terₓ
 @v	tirₓ
 @v	uš₁₄
-@link eBL |KA×PI| https://www.ebl.lmu.de/signs/|KA×PI|
-@link Wikidata Q87555752 http://www.wikidata.org/entity/Q87555752
+@link	eBL |KA×PI| https://www.ebl.lmu.de/signs/|KA×PI|
+@link	Wikidata Q87555752 http://www.wikidata.org/entity/Q87555752
+@end sign
+
+@sign |KA×RI|
+@oid	o0038278
+@inote	epsd2/oakk
 @end sign
 
 @sign |KA×RU|
@@ -20444,8 +20337,8 @@
 @uage	5.0
 @v	gilib₄
 @v	milibₓ
-@link eBL |KA×RU| https://www.ebl.lmu.de/signs/|KA×RU|
-@link Wikidata Q87555754 http://www.wikidata.org/entity/Q87555754
+@link	eBL |KA×RU| https://www.ebl.lmu.de/signs/|KA×RU|
+@link	Wikidata Q87555754 http://www.wikidata.org/entity/Q87555754
 @end sign
 
 @sign |KA×SA|
@@ -20469,8 +20362,8 @@
 @v	sum₄
 @v	sun₄
 @v	tunₓ
-@link eBL |KA×SA| https://www.ebl.lmu.de/signs/|KA×SA|
-@link Wikidata Q87555756 http://www.wikidata.org/entity/Q87555756
+@link	eBL |KA×SA| https://www.ebl.lmu.de/signs/|KA×SA|
+@link	Wikidata Q87555756 http://www.wikidata.org/entity/Q87555756
 @form |KA×GAN₂@t|
 @oid	o0001626
 @list	ABZL321
@@ -20485,8 +20378,8 @@
 @list	U+12164
 @ucun	𒅤
 @uage	5.0
-@link eBL |KA×GAN₂@t| https://www.ebl.lmu.de/signs/|KA×GAN₂@t|
-@link Wikidata Q87555699 http://www.wikidata.org/entity/Q87555699
+@link	eBL |KA×GAN₂@t| https://www.ebl.lmu.de/signs/|KA×GAN₂@t|
+@link	Wikidata Q87555699 http://www.wikidata.org/entity/Q87555699
 @@
 @form |KA×(U.U.U)|
 @oid	o0001605
@@ -20522,8 +20415,8 @@
 @v	kaₓ
 @v	ma₈
 @v	mu₁₁
-@link eBL |KA×SAR| https://www.ebl.lmu.de/signs/|KA×SAR|
-@link Wikidata Q87555757 http://www.wikidata.org/entity/Q87555757
+@link	eBL |KA×SAR| https://www.ebl.lmu.de/signs/|KA×SAR|
+@link	Wikidata Q87555757 http://www.wikidata.org/entity/Q87555757
 @form |KA.SAR|
 @oid	o0022970
 @useq	x12157.x122AC
@@ -20547,8 +20440,8 @@
 @uage	5.0
 @v	emesig
 @inote	This value is not recognized in MZL. P-Ea 334a has x-sig; read me?-sig in Civil's sign list. ##CHECK.
-@link eBL |KA×SIG| https://www.ebl.lmu.de/signs/|KA×SIG|
-@link Wikidata Q87555764 http://www.wikidata.org/entity/Q87555764
+@link	eBL |KA×SIG| https://www.ebl.lmu.de/signs/|KA×SIG|
+@link	Wikidata Q87555764 http://www.wikidata.org/entity/Q87555764
 @end sign
 
 @sign |KA×SUHUR|
@@ -20558,8 +20451,8 @@
 @ucun	𒆅
 @uage	5.0
 @v	munsubₓ
-@link eBL |KA×SUHUR| https://www.ebl.lmu.de/signs/|KA×SUHUR|
-@link Wikidata Q87555766 http://www.wikidata.org/entity/Q87555766
+@link	eBL |KA×SUHUR| https://www.ebl.lmu.de/signs/|KA×SUHUR|
+@link	Wikidata Q87555766 http://www.wikidata.org/entity/Q87555766
 @end sign
 
 @sign |KA×ŠAR₂|
@@ -20586,8 +20479,8 @@
 @v	šegₓ
 @v	tukur₂
 @v	tukureₓ
-@link eBL |KA×ŠE| https://www.ebl.lmu.de/signs/|KA×ŠE|
-@link Wikidata Q87555761 http://www.wikidata.org/entity/Q87555761
+@link	eBL |KA×ŠE| https://www.ebl.lmu.de/signs/|KA×ŠE|
+@link	Wikidata Q87555761 http://www.wikidata.org/entity/Q87555761
 @form |ŠE.KA|
 @oid	o0031716
 @useq	x122BA.x12157
@@ -20602,8 +20495,8 @@
 @list	U+1252F
 @ucun	𒔯
 @uage	8.0
-@link eBL |KA×ŠE@f| https://www.ebl.lmu.de/signs/|KA×ŠE@f|
-@link Wikidata Q87557438 http://www.wikidata.org/entity/Q87557438
+@link	eBL |KA×ŠE@f| https://www.ebl.lmu.de/signs/|KA×ŠE@f|
+@link	Wikidata Q87557438 http://www.wikidata.org/entity/Q87557438
 @end sign
 
 @sign |KA×ŠID|
@@ -20626,8 +20519,8 @@
 @v	šigₓ
 @v	šilig₆
 @v	šiq₄
-@link eBL |KA×ŠID| https://www.ebl.lmu.de/signs/|KA×ŠID|
-@link Wikidata Q87555762 http://www.wikidata.org/entity/Q87555762
+@link	eBL |KA×ŠID| https://www.ebl.lmu.de/signs/|KA×ŠID|
+@link	Wikidata Q87555762 http://www.wikidata.org/entity/Q87555762
 @end sign
 
 @sign |KA×ŠU|
@@ -20657,8 +20550,8 @@
 @v	šudu₃
 @v	šušudi
 @v	ušₓ
-@link eBL |KA×ŠU| https://www.ebl.lmu.de/signs/|KA×ŠU|
-@link Wikidata Q87555763 http://www.wikidata.org/entity/Q87555763
+@link	eBL |KA×ŠU| https://www.ebl.lmu.de/signs/|KA×ŠU|
+@link	Wikidata Q87555763 http://www.wikidata.org/entity/Q87555763
 @form |KA×GAN₂@t|
 @oid	o0001626
 @list	BAU234
@@ -20669,8 +20562,8 @@
 @list	U+12164
 @ucun	𒅤
 @uage	5.0
-@link eBL |KA×GAN₂@t| https://www.ebl.lmu.de/signs/|KA×GAN₂@t|
-@link Wikidata Q87555699 http://www.wikidata.org/entity/Q87555699
+@link	eBL |KA×GAN₂@t| https://www.ebl.lmu.de/signs/|KA×GAN₂@t|
+@link	Wikidata Q87555699 http://www.wikidata.org/entity/Q87555699
 @@
 @form |SAG×ŠU|
 @oid	o0031496
@@ -20681,14 +20574,14 @@
 @oid	o0001606
 @v	tahtaₓ
 @ref	CUSAS 12 1.3.1 = dcclt:P251887 o 18 ta-ah-ta = |KA×(ŠU.EŠ₂)|?
-@link eBL |KA×(ŠU.EŠ₂)| https://www.ebl.lmu.de/signs/|KA×(ŠU.EŠ₂)|
+@link	eBL |KA×(ŠU.EŠ₂)| https://www.ebl.lmu.de/signs/|KA×(ŠU.EŠ₂)|
 @end sign
 
 @sign |KA×(ŠU.X)|
 @oid	o0001607
 @v	atab
 @ref	CUSAS 12 1.3.1 = dcclt:P251887 o 17 a-ta-ab = |KA×(ŠU.X)|?
-@link eBL |KA×(ŠU.X)| https://www.ebl.lmu.de/signs/|KA×(ŠU.X)|
+@link	eBL |KA×(ŠU.X)| https://www.ebl.lmu.de/signs/|KA×(ŠU.X)|
 @end sign
 
 @sign |KA×TAB|
@@ -20709,8 +20602,8 @@
 @ucun	𒆆
 @uage	5.0
 @v	zukura
-@link eBL |KA×TAR| https://www.ebl.lmu.de/signs/|KA×TAR|
-@link Wikidata Q87555768 http://www.wikidata.org/entity/Q87555768
+@link	eBL |KA×TAR| https://www.ebl.lmu.de/signs/|KA×TAR|
+@link	Wikidata Q87555768 http://www.wikidata.org/entity/Q87555768
 @form |KA.TAR|
 @oid	o0022971
 @inote	dcclt !sg
@@ -20741,8 +20634,8 @@
 @list	U+12187
 @ucun	𒆇
 @uage	5.0
-@link eBL |KA×U| https://www.ebl.lmu.de/signs/|KA×U|
-@link Wikidata Q87555770 http://www.wikidata.org/entity/Q87555770
+@link	eBL |KA×U| https://www.ebl.lmu.de/signs/|KA×U|
+@link	Wikidata Q87555770 http://www.wikidata.org/entity/Q87555770
 @end sign
 
 @sign |KA×(U.U.U)|
@@ -20754,7 +20647,7 @@
 @list	U+124D2
 @ucun	𒓒
 @uage	8.0
-@link Wikidata Q87557247 http://www.wikidata.org/entity/Q87557247
+@link	Wikidata Q87557247 http://www.wikidata.org/entity/Q87557247
 @end sign
 
 @sign |KA×U₂|
@@ -20774,8 +20667,8 @@
 @v	tukur₃
 @v	usug₅
 @v	uzug₅
-@link eBL |KA×U₂| https://www.ebl.lmu.de/signs/|KA×U₂|
-@link Wikidata Q87555772 http://www.wikidata.org/entity/Q87555772
+@link	eBL |KA×U₂| https://www.ebl.lmu.de/signs/|KA×U₂|
+@link	Wikidata Q87555772 http://www.wikidata.org/entity/Q87555772
 @end sign
 
 @sign |KA×UD|
@@ -20800,8 +20693,8 @@
 @v	za₆
 @v	zu₉
 @v	zuliₓ
-@link eBL |KA×UD| https://www.ebl.lmu.de/signs/|KA×UD|
-@link Wikidata Q87555774 http://www.wikidata.org/entity/Q87555774
+@link	eBL |KA×UD| https://www.ebl.lmu.de/signs/|KA×UD|
+@link	Wikidata Q87555774 http://www.wikidata.org/entity/Q87555774
 @end sign
 
 @sign |KA×UD.BAR|
@@ -20813,7 +20706,7 @@
 @ucun	𒆉𒁇
 @v	zabar₃
 @v	zibar₃
-@link eBL |KA×UD.BAR| https://www.ebl.lmu.de/signs/|KA×UD.BAR|
+@link	eBL |KA×UD.BAR| https://www.ebl.lmu.de/signs/|KA×UD.BAR|
 @end sign
 
 @sign |KA×UMUM×PA|
@@ -20823,8 +20716,8 @@
 @ucun	𒆊
 @uage	5.0
 @v	gudedde
-@link eBL |KA×UMUM×PA| https://www.ebl.lmu.de/signs/|KA×UMUM×PA|
-@link Wikidata Q87555776 http://www.wikidata.org/entity/Q87555776
+@link	eBL |KA×UMUM×PA| https://www.ebl.lmu.de/signs/|KA×UMUM×PA|
+@link	Wikidata Q87555776 http://www.wikidata.org/entity/Q87555776
 @end sign
 
 @sign |KA×UR|
@@ -20834,8 +20727,8 @@
 @list	U+124D3
 @ucun	𒓓
 @uage	8.0
-@link eBL |KA×UR| https://www.ebl.lmu.de/signs/|KA×UR|
-@link Wikidata Q87557248 http://www.wikidata.org/entity/Q87557248
+@link	eBL |KA×UR| https://www.ebl.lmu.de/signs/|KA×UR|
+@link	Wikidata Q87557248 http://www.wikidata.org/entity/Q87557248
 @end sign
 
 @sign |KA×UR₂|
@@ -20846,8 +20739,8 @@
 @list	U+12387
 @ucun	𒎇
 @uage	7.0
-@link eBL |KA×UR₂| https://www.ebl.lmu.de/signs/|KA×UR₂|
-@link Wikidata Q87556789 http://www.wikidata.org/entity/Q87556789
+@link	eBL |KA×UR₂| https://www.ebl.lmu.de/signs/|KA×UR₂|
+@link	Wikidata Q87556789 http://www.wikidata.org/entity/Q87556789
 @end sign
 
 @sign |KA×URUDA|
@@ -20865,8 +20758,8 @@
 @uage	5.0
 @v	duriₓ
 @v	ugal
-@link eBL |KA×UŠ| https://www.ebl.lmu.de/signs/|KA×UŠ|
-@link Wikidata Q87555777 http://www.wikidata.org/entity/Q87555777
+@link	eBL |KA×UŠ| https://www.ebl.lmu.de/signs/|KA×UŠ|
+@link	Wikidata Q87555777 http://www.wikidata.org/entity/Q87555777
 @end sign
 
 @sign |KA×UZU|
@@ -20879,7 +20772,7 @@
 @v	hurₓ
 @v	širi
 @v	zukuraₓ
-@link eBL |KA×X| https://www.ebl.lmu.de/signs/|KA×X|
+@link	eBL |KA×X| https://www.ebl.lmu.de/signs/|KA×X|
 @form |KA.X|
 @oid	o0022972
 @useq	x12157.O
@@ -20904,8 +20797,21 @@
 @ucun	𒆌
 @uage	5.0
 @v	guziₓ
-@link eBL |KA×ZI| https://www.ebl.lmu.de/signs/|KA×ZI|
-@link Wikidata Q87555779 http://www.wikidata.org/entity/Q87555779
+@link	eBL |KA×ZI| https://www.ebl.lmu.de/signs/|KA×ZI|
+@link	Wikidata Q87555779 http://www.wikidata.org/entity/Q87555779
+@end sign
+
+@sign |KA×6(DIŠ)|
+@oid	o0001608
+@aka	|KA×AŠ₃|
+@list	HZL150
+@list	MZL067
+@uname	CUNEIFORM SIGN KA TIMES ASH3
+@list	U+1237F
+@ucun	𒍿
+@uage	7.0
+@link	eBL |KA×6(DIŠ)| https://www.ebl.lmu.de/signs/|KA×6(DIŠ)|
+@link	Wikidata Q87556771 http://www.wikidata.org/entity/Q87556771
 @end sign
 
 @sign |KA&KA|
@@ -20918,13 +20824,13 @@
 @v	nundumₓ
 @ref	OIP 99, 34 = dcclt:P010094 o v 8'?
 @note	Parallels KA.NU in SF 20
-@link eBL KA@180 https://www.ebl.lmu.de/signs/KA@180
+@link	eBL KA@180 https://www.ebl.lmu.de/signs/KA@180
 @end sign
 
 @sign KA@r
 @oid	o0000262
 @inote	CDLI oakk
-@link eBL KA@r https://www.ebl.lmu.de/signs/KA@r
+@link	eBL KA@r https://www.ebl.lmu.de/signs/KA@r
 @end sign
 
 @sign KA₂
@@ -20954,8 +20860,8 @@
 @v	kan₄
 @v	kankan
 @v	papa₂
-@link eBL KA₂ https://www.ebl.lmu.de/signs/KA₂
-@link Wikidata Q87555781 http://www.wikidata.org/entity/Q87555781
+@link	eBL KA₂ https://www.ebl.lmu.de/signs/KA₂
+@link	Wikidata Q87555781 http://www.wikidata.org/entity/Q87555781
 @end sign
 
 @sign |KA₂.AN|
@@ -20965,7 +20871,7 @@
 @v	babila
 @v	babilim
 @v	babilima
-@link eBL |KA₂.AN| https://www.ebl.lmu.de/signs/|KA₂.AN|
+@link	eBL |KA₂.AN| https://www.ebl.lmu.de/signs/|KA₂.AN|
 @end sign
 
 @sign |KA₂.AN.RA|
@@ -20975,7 +20881,7 @@
 @v	babila₂
 @v	babilim₂
 @v	babilima₂
-@link eBL |KA₂.AN.RA| https://www.ebl.lmu.de/signs/|KA₂.AN.RA|
+@link	eBL |KA₂.AN.RA| https://www.ebl.lmu.de/signs/|KA₂.AN.RA|
 @end sign
 
 @sign |KA₂.GAL|
@@ -20985,7 +20891,7 @@
 @v	abul
 @v	abula
 @v	abulla
-@link eBL |KA₂.GAL| https://www.ebl.lmu.de/signs/|KA₂.GAL|
+@link	eBL |KA₂.GAL| https://www.ebl.lmu.de/signs/|KA₂.GAL|
 @end sign
 
 @sign |KA₂%KA₂|
@@ -20995,8 +20901,8 @@
 @ucun	𒆎
 @uage	5.0
 @v	xₓ
-@link eBL |KA₂%KA₂| https://www.ebl.lmu.de/signs/|KA₂%KA₂|
-@link Wikidata Q87555784 http://www.wikidata.org/entity/Q87555784
+@link	eBL |KA₂%KA₂| https://www.ebl.lmu.de/signs/|KA₂%KA₂|
+@link	Wikidata Q87555784 http://www.wikidata.org/entity/Q87555784
 @end sign
 
 @sign KAB
@@ -21026,8 +20932,8 @@
 @v	kapa
 @v	qab₂
 @v	qap₂
-@link eBL KAB https://www.ebl.lmu.de/signs/KAB
-@link Wikidata Q87555785 http://www.wikidata.org/entity/Q87555785
+@link	eBL KAB https://www.ebl.lmu.de/signs/KAB
+@link	Wikidata Q87555785 http://www.wikidata.org/entity/Q87555785
 @form KAB@s
 @oid	o0000264
 @v	gab₂
@@ -21040,7 +20946,7 @@
 @useq	x1218F.x1204D
 @ucun	𒆏𒁍
 @v	gabuₓ
-@link eBL |KAB.BU| https://www.ebl.lmu.de/signs/|KAB.BU|
+@link	eBL |KAB.BU| https://www.ebl.lmu.de/signs/|KAB.BU|
 @end sign
 
 @sign |KAB.UŠ|
@@ -21048,7 +20954,7 @@
 @useq	x1218F.x12351
 @ucun	𒆏𒍑
 @v	ragab₃
-@link eBL |KAB.UŠ| https://www.ebl.lmu.de/signs/|KAB.UŠ|
+@link	eBL |KAB.UŠ| https://www.ebl.lmu.de/signs/|KAB.UŠ|
 @end sign
 
 @sign KAB@g
@@ -21071,8 +20977,8 @@
 @v	qad₆?
 @v	qat₆?
 @v	šid₂?
-@link eBL KAD₂ https://www.ebl.lmu.de/signs/KAD₂
-@link Wikidata Q87555788 http://www.wikidata.org/entity/Q87555788
+@link	eBL KAD₂ https://www.ebl.lmu.de/signs/KAD₂
+@link	Wikidata Q87555788 http://www.wikidata.org/entity/Q87555788
 @end sign
 
 @sign KAD₃
@@ -21092,8 +20998,8 @@
 @v	qat₇?
 @v	sedₓ
 @v	šed₄
-@link eBL KAD₃ https://www.ebl.lmu.de/signs/KAD₃
-@link Wikidata Q87555790 http://www.wikidata.org/entity/Q87555790
+@link	eBL KAD₃ https://www.ebl.lmu.de/signs/KAD₃
+@link	Wikidata Q87555790 http://www.wikidata.org/entity/Q87555790
 @end sign
 
 @sign |KAD₃.KAD₃|
@@ -21101,7 +21007,7 @@
 @useq	x12191.x12191
 @ucun	𒆑𒆑
 @v	šeššed₂
-@link eBL |KAD₃.KAD₃| https://www.ebl.lmu.de/signs/|KAD₃.KAD₃|
+@link	eBL |KAD₃.KAD₃| https://www.ebl.lmu.de/signs/|KAD₃.KAD₃|
 @end sign
 
 @sign KAD₄
@@ -21136,8 +21042,8 @@
 @v	qat₅
 @v	šed₅
 @v	unu₉
-@link eBL KAD₄ https://www.ebl.lmu.de/signs/KAD₄
-@link Wikidata Q87555792 http://www.wikidata.org/entity/Q87555792
+@link	eBL KAD₄ https://www.ebl.lmu.de/signs/KAD₄
+@link	Wikidata Q87555792 http://www.wikidata.org/entity/Q87555792
 @end sign
 
 @sign |KAD₄.KAD₄.KAD₅|
@@ -21145,7 +21051,7 @@
 @useq	x12192.x12192.x12193
 @ucun	𒆒𒆒𒆓
 @v	šeššed₃
-@link eBL |KAD₄.KAD₄.KAD₅| https://www.ebl.lmu.de/signs/|KAD₄.KAD₄.KAD₅|
+@link	eBL |KAD₄.KAD₄.KAD₅| https://www.ebl.lmu.de/signs/|KAD₄.KAD₄.KAD₅|
 @end sign
 
 @sign KAD₅
@@ -21176,8 +21082,8 @@
 @v	peš₆
 @v	piš₆
 @v	qat₈
-@link eBL KAD₅ https://www.ebl.lmu.de/signs/KAD₅
-@link Wikidata Q87555793 http://www.wikidata.org/entity/Q87555793
+@link	eBL KAD₅ https://www.ebl.lmu.de/signs/KAD₅
+@link	Wikidata Q87555793 http://www.wikidata.org/entity/Q87555793
 @end sign
 
 @sign |KAD₅.KAD₅|
@@ -21188,7 +21094,7 @@
 @v	šedšedₓ
 @v	tal₅
 @v	til₆
-@link eBL |KAD₅.KAD₅| https://www.ebl.lmu.de/signs/|KAD₅.KAD₅|
+@link	eBL |KAD₅.KAD₅| https://www.ebl.lmu.de/signs/|KAD₅.KAD₅|
 @end sign
 
 @sign |KAD₅&KAD₅|
@@ -21198,8 +21104,8 @@
 @ucun	𒆔
 @uage	5.0
 @v	esirₓ
-@link eBL |KAD₅&KAD₅| https://www.ebl.lmu.de/signs/|KAD₅&KAD₅|
-@link Wikidata Q87555795 http://www.wikidata.org/entity/Q87555795
+@link	eBL |KAD₅&KAD₅| https://www.ebl.lmu.de/signs/|KAD₅&KAD₅|
+@link	Wikidata Q87555795 http://www.wikidata.org/entity/Q87555795
 @end sign
 
 @sign |KAD₅&KAD₅.KAD₅&KAD₅|
@@ -21208,7 +21114,7 @@
 @ucun	𒆔𒆔
 @v	talₓ
 @v	tilₓ
-@link eBL |KAD₅&KAD₅.KAD₅&KAD₅| https://www.ebl.lmu.de/signs/|KAD₅&KAD₅.KAD₅&KAD₅|
+@link	eBL |KAD₅&KAD₅.KAD₅&KAD₅| https://www.ebl.lmu.de/signs/|KAD₅&KAD₅.KAD₅&KAD₅|
 @end sign
 
 @sign KAK
@@ -21230,7 +21136,7 @@
 @uage	5.0
 @v	ban₄
 @v	biₓ
-@inote CCPo
+@inote	CCPo
 @v	da₃
 @v	du₃
 @v	gag
@@ -21257,8 +21163,8 @@
 @v	tu₂₀
 @v	usanₓ
 @v	zarₓ
-@link eBL KAK https://www.ebl.lmu.de/signs/KAK
-@link Wikidata Q87555797 http://www.wikidata.org/entity/Q87555797
+@link	eBL KAK https://www.ebl.lmu.de/signs/KAK
+@link	Wikidata Q87555797 http://www.wikidata.org/entity/Q87555797
 @end sign
 
 @sign |KAK.GIŠ|
@@ -21268,7 +21174,7 @@
 @useq	x12195.x12111
 @ucun	𒆕𒄑
 @v	šitaₓ
-@link eBL |KAK.GIŠ| https://www.ebl.lmu.de/signs/|KAK.GIŠ|
+@link	eBL |KAK.GIŠ| https://www.ebl.lmu.de/signs/|KAK.GIŠ|
 @form |KAK+DIŠ|
 @oid	o0027769
 @inote	needs collation; OB Ura 2 615
@@ -21282,7 +21188,7 @@
 @useq	x12195.x122FB
 @ucun	𒆕𒋻
 @v	kuksu₂
-@link eBL |KAK.TAR| https://www.ebl.lmu.de/signs/|KAK.TAR|
+@link	eBL |KAK.TAR| https://www.ebl.lmu.de/signs/|KAK.TAR|
 @end sign
 
 @compoundonly	|KAK×IGI|
@@ -21293,8 +21199,8 @@
 @list	U+12196
 @ucun	𒆖
 @uage	5.0
-@link eBL |KAK×IGI@g| https://www.ebl.lmu.de/signs/|KAK×IGI@g|
-@link Wikidata Q87555799 http://www.wikidata.org/entity/Q87555799
+@link	eBL |KAK×IGI@g| https://www.ebl.lmu.de/signs/|KAK×IGI@g|
+@link	Wikidata Q87555799 http://www.wikidata.org/entity/Q87555799
 @end sign
 
 @sign |KAK&KAK|
@@ -21375,8 +21281,8 @@
 @v	ursub₂
 @v	zi₈?
 @v	zurzub₂
-@link eBL KAL https://www.ebl.lmu.de/signs/KAL
-@link Wikidata Q87555801 http://www.wikidata.org/entity/Q87555801
+@link	eBL KAL https://www.ebl.lmu.de/signs/KAL
+@link	Wikidata Q87555801 http://www.wikidata.org/entity/Q87555801
 @form GURUŠ
 @oid	o0000228
 @list	BAU308
@@ -21384,7 +21290,7 @@
 @list	LAK709a
 @v	lamma
 @inote	in SF 1 GURUŠ is used for lammar (col i et passim); KAL is used for KAL/RIB (col x 20-21)
-@link eBL GURUŠ https://www.ebl.lmu.de/signs/GURUŠ
+@link	eBL GURUŠ https://www.ebl.lmu.de/signs/GURUŠ
 @@
 @form KAL@v
 @oid	o0223477
@@ -21398,7 +21304,7 @@
 @ucun	𒆗𒂔
 @v	birdu
 @v	šarap
-@link eBL |KAL.EDIN| https://www.ebl.lmu.de/signs/|KAL.EDIN|
+@link	eBL |KAL.EDIN| https://www.ebl.lmu.de/signs/|KAL.EDIN|
 @end sign
 
 @sign |KAL×BAD|
@@ -21410,8 +21316,8 @@
 @ucun	𒆘
 @uage	5.0
 @v	alad
-@link eBL |KAL×BAD| https://www.ebl.lmu.de/signs/|KAL×BAD|
-@link Wikidata Q87555802 http://www.wikidata.org/entity/Q87555802
+@link	eBL |KAL×BAD| https://www.ebl.lmu.de/signs/|KAL×BAD|
+@link	Wikidata Q87555802 http://www.wikidata.org/entity/Q87555802
 @end sign
 
 @sign |KAL%KAL|
@@ -21424,8 +21330,64 @@
 @v	liri₇
 @v	liru₇
 @v	lirum₇
-@link eBL |KAL%KAL| https://www.ebl.lmu.de/signs/|KAL%KAL|
-@link Wikidata Q87555805 http://www.wikidata.org/entity/Q87555805
+@link	eBL |KAL%KAL| https://www.ebl.lmu.de/signs/|KAL%KAL|
+@link	Wikidata Q87555805 http://www.wikidata.org/entity/Q87555805
+@end sign
+
+@sign KALAM
+@oid	o0000574
+@list	ABZL169
+@list	BAU367
+@list	ELLES356
+@list	GCSL297
+@list	KWU849
+@list	LAK729
+@list	MZL500
+@list	PTACE300
+@list	RSP136
+@note	The characters CUNEIFORM SIGN UN and CUNEIFORM SIGN UN GUNU are affected
+	by a glyph erratum incorporated into Unicode 16.0: the glyphs are swapped
+	with respect to Unicode 5.0..15.1, and a formal alias corrects the name of
+	UN GUNU to KALAM.  Further review of the various lists is necessary and
+	most periods will need to treat KALAM and KALAM@g as a merger.
+@note	OSL uses a webfont which is a version of NotoSansCuneiform with
+	the KALAM/KALAM@g glyphs swapped by Robin Leroy to conform to
+	the new definition.
+@uname	CUNEIFORM SIGN UN GUNU
+@list	U+12327
+@ucun	𒌧
+@unote	This glyph may appear incorrect in the OSL source but should be correct in the web display which uses the swapped font.
+@uage	5.0
+@v	kalam
+@v	kalama
+@v	kanaŋ
+@v	kanam
+@link	eBL UN https://www.ebl.lmu.de/signs/UN
+@link	Wikidata Q87556578 http://www.wikidata.org/entity/Q87556578
+@end sign
+
+@sign KALAM@g
+@oid	o0000575
+@list	ABZL169
+@list	LAK730
+@list	MZL501
+@uname	CUNEIFORM SIGN UN
+@list	U+12326
+@ucun	𒌦
+@unote	This glyph may appear incorrect in the OSL source but should be correct in the web display which uses the swapped font.
+@uage	5.0
+@v	kalamₓ
+@v	u₁₂
+@v	ug₃
+@v-	uga₃
+@inote	MAYBE PROBLEM dupfix not in MZL; Attinger uga₃(NAGA)
+@v	uŋ₃
+@v	uku₃
+@v	umₓ
+@v	un
+@v	unu₄
+@link	eBL UN@g https://www.ebl.lmu.de/signs/UN@g
+@link	Wikidata Q87556580 http://www.wikidata.org/entity/Q87556580
 @end sign
 
 @sign KAM₂
@@ -21443,8 +21405,8 @@
 @v	udul₇
 @v	utul₇
 @inote	Borger MZL254 = KAM₂ ; MZL640=KAM(|HI.BAD|); MZL595 = KAM₂@t but Borger transliteration KAM@v or KAM*
-@link eBL KAM₂ https://www.ebl.lmu.de/signs/KAM₂
-@link Wikidata Q87555807 http://www.wikidata.org/entity/Q87555807
+@link	eBL KAM₂ https://www.ebl.lmu.de/signs/KAM₂
+@link	Wikidata Q87555807 http://www.wikidata.org/entity/Q87555807
 @end sign
 
 @sign KAM₄
@@ -21468,8 +21430,8 @@
 @lit	1980 Daniel Foxvog, Mesopotamia 8 (RAI 26) 73.
 @lit	1992 Piotr Steinkeller and J.N. Postgate, MC 4 16.
 @v	qamₓ
-@link eBL KAM₄ https://www.ebl.lmu.de/signs/KAM₄
-@link Wikidata Q87555809 http://www.wikidata.org/entity/Q87555809
+@link	eBL KAM₄ https://www.ebl.lmu.de/signs/KAM₄
+@link	Wikidata Q87555809 http://www.wikidata.org/entity/Q87555809
 @end sign
 
 @sign KAP₀
@@ -21479,8 +21441,8 @@
 @ucun	𒍯
 @uage	7.0
 @v	kap₀
-@link eBL KAP₀ https://www.ebl.lmu.de/signs/KAP₀
-@link Wikidata Q87556736 http://www.wikidata.org/entity/Q87556736
+@link	eBL KAP₀ https://www.ebl.lmu.de/signs/KAP₀
+@link	Wikidata Q87556736 http://www.wikidata.org/entity/Q87556736
 @end sign
 
 @sign KASKAL
@@ -21523,8 +21485,8 @@
 @v	rin₆
 @v	šubtumₓ
 @sys	Attinger irsaŋ
-@link eBL KASKAL https://www.ebl.lmu.de/signs/KASKAL
-@link Wikidata Q87555811 http://www.wikidata.org/entity/Q87555811
+@link	eBL KASKAL https://www.ebl.lmu.de/signs/KASKAL
+@link	Wikidata Q87555811 http://www.wikidata.org/entity/Q87555811
 @end sign
 
 @sign |KASKAL.BU|
@@ -21536,17 +21498,7 @@
 @ucun	𒆜𒁍
 @v	dana
 @v	danna
-@link eBL |KASKAL.BU| https://www.ebl.lmu.de/signs/|KASKAL.BU|
-@end sign
-
-@sign |KASKAL.6(DIŠ)|
-@oid	o0001582
-@list	MZL308
-@list	SLLHA166f
-@useq	x1219C.x1240B
-@ucun	𒆜𒐋
-@v	zikura
-@link eBL |KASKAL.6(DIŠ)| https://www.ebl.lmu.de/signs/|KASKAL.6(DIŠ)|
+@link	eBL |KASKAL.BU| https://www.ebl.lmu.de/signs/|KASKAL.BU|
 @end sign
 
 @sign |KASKAL.GA|
@@ -21559,7 +21511,7 @@
 @v	gaeš₂
 @v	gaiš₂
 @v	garaš₄
-@link eBL |KASKAL.GA| https://www.ebl.lmu.de/signs/|KASKAL.GA|
+@link	eBL |KASKAL.GA| https://www.ebl.lmu.de/signs/|KASKAL.GA|
 @end sign
 
 @sign |KASKAL.HI×NUN|
@@ -21569,7 +21521,7 @@
 @useq	x1219C.x12134
 @ucun	𒆜𒄴
 @v	kiši₁₅
-@link eBL |KASKAL.HI×NUN| https://www.ebl.lmu.de/signs/|KASKAL.HI×NUN|
+@link	eBL |KASKAL.HI×NUN| https://www.ebl.lmu.de/signs/|KASKAL.HI×NUN|
 @form |KASKAL.HI|
 @oid	o0037815
 @useq	x1219C.x1212D
@@ -21594,7 +21546,7 @@
 @ref	SpTU 4, 183 = CAMS:P348776 r 17
 @v	illat
 @v	%akk illatu
-@link eBL |KASKAL.KUR| https://www.ebl.lmu.de/signs/|KASKAL.KUR|
+@link	eBL |KASKAL.KUR| https://www.ebl.lmu.de/signs/|KASKAL.KUR|
 @end sign
 
 @sign |KASKAL.LAGAB|
@@ -21607,7 +21559,7 @@
 @inote	šubtu is a value-conflict with šubtu₃
 @v	šubtu₃
 @v	šubtum₃
-@link eBL |KASKAL.LAGAB| https://www.ebl.lmu.de/signs/|KASKAL.LAGAB|
+@link	eBL |KASKAL.LAGAB| https://www.ebl.lmu.de/signs/|KASKAL.LAGAB|
 @end sign
 
 @sign |KASKAL.LAGAB×U|
@@ -21616,7 +21568,7 @@
 @ucun	𒆜𒇥
 @v	šubtu₅
 @v	šubtum₅
-@link eBL |KASKAL.LAGAB×U| https://www.ebl.lmu.de/signs/|KASKAL.LAGAB×U|
+@link	eBL |KASKAL.LAGAB×U| https://www.ebl.lmu.de/signs/|KASKAL.LAGAB×U|
 @end sign
 
 @sign |(KASKAL.LAGAB×U)&(KASKAL.LAGAB×U)|
@@ -21628,8 +21580,8 @@
 @uage	5.0
 @v	šubtu₇
 @v	šubtum₇
-@link eBL |(KASKAL.LAGAB×U)&(KASKAL.LAGAB×U)| https://www.ebl.lmu.de/signs/|(KASKAL.LAGAB×U)&(KASKAL.LAGAB×U)|
-@link Wikidata Q87555814 http://www.wikidata.org/entity/Q87555814
+@link	eBL |(KASKAL.LAGAB×U)&(KASKAL.LAGAB×U)| https://www.ebl.lmu.de/signs/|(KASKAL.LAGAB×U)&(KASKAL.LAGAB×U)|
+@link	Wikidata Q87555814 http://www.wikidata.org/entity/Q87555814
 @end sign
 
 @sign |KASKAL.(LAGAB×U)&(LAGAB×U)|
@@ -21641,8 +21593,8 @@
 @uage	5.0
 @v	šubtu₆
 @v	šubtum₆
-@link eBL |KASKAL.(LAGAB×U)&(LAGAB×U)| https://www.ebl.lmu.de/signs/|KASKAL.(LAGAB×U)&(LAGAB×U)|
-@link Wikidata Q87555813 http://www.wikidata.org/entity/Q87555813
+@link	eBL |KASKAL.(LAGAB×U)&(LAGAB×U)| https://www.ebl.lmu.de/signs/|KASKAL.(LAGAB×U)&(LAGAB×U)|
+@link	Wikidata Q87555813 http://www.wikidata.org/entity/Q87555813
 @end sign
 
 @sign |KASKAL.LAGAB×X|
@@ -21667,7 +21619,17 @@
 @useq	x1219C.x1231A
 @ucun	𒆜𒌚
 @v	iti₃
-@link eBL |KASKAL.UD@s| https://www.ebl.lmu.de/signs/|KASKAL.UD@s|
+@link	eBL |KASKAL.UD@s| https://www.ebl.lmu.de/signs/|KASKAL.UD@s|
+@end sign
+
+@sign |KASKAL.6(DIŠ)|
+@oid	o0001582
+@list	MZL308
+@list	SLLHA166f
+@useq	x1219C.x1240B
+@ucun	𒆜𒐋
+@v	zikura
+@link	eBL |KASKAL.6(DIŠ)| https://www.ebl.lmu.de/signs/|KASKAL.6(DIŠ)|
 @end sign
 
 @compoundonly	|KASKAL&KASKAL|
@@ -21679,7 +21641,7 @@
 @ucun	XX
 @v	šubtu₄
 @v	šubtum₄
-@link eBL |KASKAL&KASKAL.LAGAB&LAGAB| https://www.ebl.lmu.de/signs/|KASKAL&KASKAL.LAGAB&LAGAB|
+@link	eBL |KASKAL&KASKAL.LAGAB&LAGAB| https://www.ebl.lmu.de/signs/|KASKAL&KASKAL.LAGAB&LAGAB|
 @form |KASKAL&KASKAL.DU&DU.BAD&BAD|
 @oid	o0048856
 @inote	dcclt !sg uncertain
@@ -21691,7 +21653,7 @@
 @sign KAŠ@g
 @oid	o0000276
 @inote	CDLI ed3b
-@link eBL KAŠ@g https://www.ebl.lmu.de/signs/KAŠ@g
+@link	eBL KAŠ@g https://www.ebl.lmu.de/signs/KAŠ@g
 @end sign
 
 @sign KEŠ₂
@@ -21722,8 +21684,8 @@
 @v	kirit
 @v	kiš₂
 @v	kiši₂
-@link eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
-@link Wikidata Q87555817 http://www.wikidata.org/entity/Q87555817
+@link	eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
+@link	Wikidata Q87555817 http://www.wikidata.org/entity/Q87555817
 @form EZEN
 @oid	o0000177
 @list	BAU298
@@ -21732,7 +21694,7 @@
 @list	LAK611
 @list	PTACE262
 @list	RSP284
-@link eBL EZEN https://www.ebl.lmu.de/signs/EZEN
+@link	eBL EZEN https://www.ebl.lmu.de/signs/EZEN
 @@
 @end sign
 
@@ -21774,8 +21736,8 @@
 @v	qi₂
 @v	sasₓ
 @v	ubdaₓ
-@link eBL KI https://www.ebl.lmu.de/signs/KI
-@link Wikidata Q87555819 http://www.wikidata.org/entity/Q87555819
+@link	eBL KI https://www.ebl.lmu.de/signs/KI
+@link	Wikidata Q87555819 http://www.wikidata.org/entity/Q87555819
 @end sign
 
 @sign |KI.A|
@@ -21784,7 +21746,7 @@
 @ucun	𒆠𒀀
 @v	peš₁₀
 @v	piš₁₀
-@link eBL |KI.A| https://www.ebl.lmu.de/signs/|KI.A|
+@link	eBL |KI.A| https://www.ebl.lmu.de/signs/|KI.A|
 @end sign
 
 @sign |KI.AN|
@@ -21799,7 +21761,7 @@
 @ucun	𒆠𒀭𒅎
 @v	kutra
 @v	qutra
-@link eBL |KI.AN.IM| https://www.ebl.lmu.de/signs/|KI.AN.IM|
+@link	eBL |KI.AN.IM| https://www.ebl.lmu.de/signs/|KI.AN.IM|
 @end sign
 
 @sign |KI.AN.ŠEŠ.KI|
@@ -21809,7 +21771,7 @@
 @v	munzer
 @v	munzur
 @v	musur
-@link eBL |KI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|KI.AN.ŠEŠ.KI|
+@link	eBL |KI.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|KI.AN.ŠEŠ.KI|
 @end sign
 
 @sign |KI.AN.UD|
@@ -21818,7 +21780,7 @@
 @ucun	𒆠𒀭𒌓
 @v	šakirₓ
 @v	šakira₂
-@link eBL |KI.AN.UD| https://www.ebl.lmu.de/signs/|KI.AN.UD|
+@link	eBL |KI.AN.UD| https://www.ebl.lmu.de/signs/|KI.AN.UD|
 @end sign
 
 @sign |KI.AŠ.AŠ|
@@ -21827,7 +21789,7 @@
 @ucun	𒆠𒀸𒀸
 @v	absin
 @v	gisbun
-@link eBL |KI.AŠ.AŠ| https://www.ebl.lmu.de/signs/|KI.AŠ.AŠ|
+@link	eBL |KI.AŠ.AŠ| https://www.ebl.lmu.de/signs/|KI.AŠ.AŠ|
 @end sign
 
 @sign |KI.BAD|
@@ -21835,7 +21797,7 @@
 @useq	x121A0.x12041
 @ucun	𒆠𒁁
 @v	garašaₓ
-@link eBL |KI.BAD| https://www.ebl.lmu.de/signs/|KI.BAD|
+@link	eBL |KI.BAD| https://www.ebl.lmu.de/signs/|KI.BAD|
 @end sign
 
 @sign |KI.BI|
@@ -21845,7 +21807,7 @@
 @v	gešbun₂
 @v	ŋešbun₂
 @v	ŋišbun₂
-@link eBL |KI.BI| https://www.ebl.lmu.de/signs/|KI.BI|
+@link	eBL |KI.BI| https://www.ebl.lmu.de/signs/|KI.BI|
 @form |BI.KI|
 @oid	o0027847
 @useq	x12049.x121A0
@@ -21864,7 +21826,7 @@
 @v	ŋišbum
 @v	ŋišbun
 @v	šubun
-@link eBL |KI.BI.GAR| https://www.ebl.lmu.de/signs/|KI.BI.GAR|
+@link	eBL |KI.BI.GAR| https://www.ebl.lmu.de/signs/|KI.BI.GAR|
 @form |BI.KI.GAR|
 @oid	o0027845
 @useq	x12049.x121A0.x120FB
@@ -21882,7 +21844,7 @@
 @useq	x121A0.x12049.x12195
 @ucun	𒆠𒁉𒆕
 @v	xgaₓ
-@link eBL |KI.BI.KAK| https://www.ebl.lmu.de/signs/|KI.BI.KAK|
+@link	eBL |KI.BI.KAK| https://www.ebl.lmu.de/signs/|KI.BI.KAK|
 @end sign
 
 @sign |KI.BI.NI|
@@ -21890,7 +21852,7 @@
 @useq	x121A0.x12049.x1224C
 @ucun	𒆠𒁉𒉌
 @v	kibini
-@link eBL |KI.BI.NI| https://www.ebl.lmu.de/signs/|KI.BI.NI|
+@link	eBL |KI.BI.NI| https://www.ebl.lmu.de/signs/|KI.BI.NI|
 @end sign
 
 @sign |KI.DIŠ.DIŠ.DIŠ|
@@ -21901,20 +21863,12 @@
 @ucun	𒆠𒁹𒁹𒁹
 @end sign
 
-@sign |KI.5(DIŠ)|
-@oid	o0038001
-@aka	|KI.IA₂|
-@inote	Late KI.MIN = 5th instance; form of IA₂ needs collation
-@useq	x121A0.x1240A
-@ucun	𒆠𒐊
-@end sign
-
 @sign |KI.DU.KAK|
 @oid	o0001691
 @useq	x121A0.x1207A.x12195
 @ucun	𒆠𒁺𒆕
 @v	šiten
-@link eBL |KI.DU.KAK| https://www.ebl.lmu.de/signs/|KI.DU.KAK|
+@link	eBL |KI.DU.KAK| https://www.ebl.lmu.de/signs/|KI.DU.KAK|
 @end sign
 
 @sign |KI.E.NE.DI|
@@ -21923,7 +21877,7 @@
 @ucun	𒆠𒂊𒉈𒁲
 @v	ešemen
 @v	ešemin
-@link eBL |KI.E.NE.DI| https://www.ebl.lmu.de/signs/|KI.E.NE.DI|
+@link	eBL |KI.E.NE.DI| https://www.ebl.lmu.de/signs/|KI.E.NE.DI|
 @end sign
 
 @sign |KI.E.NE.DI.AN.MUŠ₃|
@@ -21932,7 +21886,7 @@
 @ucun	𒆠𒂊𒉈𒁲𒀭𒈹
 @v	ešemen₂
 @v	ešemin₂
-@link eBL |KI.E.NE.DI.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|KI.E.NE.DI.AN.MUŠ₃|
+@link	eBL |KI.E.NE.DI.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|KI.E.NE.DI.AN.MUŠ₃|
 @end sign
 
 @sign |KI.EN.KAK|
@@ -21944,7 +21898,7 @@
 @v	mur₆
 @v	muru₆
 @v	murum₆
-@link eBL |KI.EN.KAK| https://www.ebl.lmu.de/signs/|KI.EN.KAK|
+@link	eBL |KI.EN.KAK| https://www.ebl.lmu.de/signs/|KI.EN.KAK|
 @end sign
 
 @sign |KI.GAL|
@@ -21952,7 +21906,7 @@
 @useq	x121A0.x120F2
 @ucun	𒆠𒃲
 @v	sur₆
-@link eBL |KI.GAL| https://www.ebl.lmu.de/signs/|KI.GAL|
+@link	eBL |KI.GAL| https://www.ebl.lmu.de/signs/|KI.GAL|
 @end sign
 
 @sign |KI.IB|
@@ -21962,7 +21916,7 @@
 @v	dudu
 @v	eššeb
 @v	uštuh
-@link eBL |KI.IB| https://www.ebl.lmu.de/signs/|KI.IB|
+@link	eBL |KI.IB| https://www.ebl.lmu.de/signs/|KI.IB|
 @end sign
 
 @sign |KI.KA.LU₂|
@@ -21970,7 +21924,7 @@
 @useq	x121A0.x12157.x121FD
 @ucun	𒆠𒅗𒇽
 @v	engarₓ
-@link eBL |KI.KA.LU₂| https://www.ebl.lmu.de/signs/|KI.KA.LU₂|
+@link	eBL |KI.KA.LU₂| https://www.ebl.lmu.de/signs/|KI.KA.LU₂|
 @end sign
 
 @sign |KI.KAK|
@@ -21978,7 +21932,7 @@
 @useq	x121A0.x12195
 @ucun	𒆠𒆕
 @v	sur₇
-@link eBL |KI.KAK| https://www.ebl.lmu.de/signs/|KI.KAK|
+@link	eBL |KI.KAK| https://www.ebl.lmu.de/signs/|KI.KAK|
 @end sign
 
 @sign |KI.KAL|
@@ -22002,7 +21956,7 @@
 @v	ulutim
 @v	ulutin
 @sys	Attinger hurin => hirin
-@link eBL |KI.KAL| https://www.ebl.lmu.de/signs/|KI.KAL|
+@link	eBL |KI.KAL| https://www.ebl.lmu.de/signs/|KI.KAL|
 @end sign
 
 @sign |KI.KAL.BAD.IDIM|
@@ -22011,7 +21965,7 @@
 @ucun	𒆠𒆗𒁁𒅂
 @v	garašₓ
 @v	karašₓ
-@link eBL |KI.KAL.BAD.IDIM| https://www.ebl.lmu.de/signs/|KI.KAL.BAD.IDIM|
+@link	eBL |KI.KAL.BAD.IDIM| https://www.ebl.lmu.de/signs/|KI.KAL.BAD.IDIM|
 @end sign
 
 @sign |KI.KAL×BAD|
@@ -22020,7 +21974,7 @@
 @ucun	𒆠𒆘
 @v	garaš₂
 @v	karaš
-@link eBL |KI.KAL×BAD| https://www.ebl.lmu.de/signs/|KI.KAL×BAD|
+@link	eBL |KI.KAL×BAD| https://www.ebl.lmu.de/signs/|KI.KAL×BAD|
 @form |KI.KAL.BAD|
 @oid	o0001701
 @useq	x121A0.x12197.x12041
@@ -22041,7 +21995,7 @@
 @v	utte
 @v	utu₄
 @v	uṭe
-@link eBL |KI.KI| https://www.ebl.lmu.de/signs/|KI.KI|
+@link	eBL |KI.KI| https://www.ebl.lmu.de/signs/|KI.KI|
 @end sign
 
 @sign |KI.KU|
@@ -22049,14 +22003,14 @@
 @useq	x121A0.x121AA
 @ucun	𒆠𒆪
 @v	idriₓ
-@link eBL |KI.KU| https://www.ebl.lmu.de/signs/|KI.KU|
+@link	eBL |KI.KU| https://www.ebl.lmu.de/signs/|KI.KU|
 @end sign
 
 @sign |KI.KU.LU₂|
 @oid	o0001705
 @useq	x121A0.x121AA.x121FD
 @ucun	𒆠𒆪𒇽
-@link eBL |KI.KU.LU₂| https://www.ebl.lmu.de/signs/|KI.KU.LU₂|
+@link	eBL |KI.KU.LU₂| https://www.ebl.lmu.de/signs/|KI.KU.LU₂|
 @end sign
 
 @sign |KI.KU.SAG|
@@ -22064,7 +22018,7 @@
 @useq	x121A0.x121AA.x12295
 @ucun	𒆠𒆪𒊕
 @v	zarahₓ
-@link eBL |KI.KU.SAG| https://www.ebl.lmu.de/signs/|KI.KU.SAG|
+@link	eBL |KI.KU.SAG| https://www.ebl.lmu.de/signs/|KI.KU.SAG|
 @end sign
 
 @sign |KI.LAL|
@@ -22073,7 +22027,7 @@
 @ucun	𒆠𒇲
 @v	uttu₆
 @v	uṭu₆
-@link eBL |KI.LAL| https://www.ebl.lmu.de/signs/|KI.LAL|
+@link	eBL |KI.LAL| https://www.ebl.lmu.de/signs/|KI.LAL|
 @end sign
 
 @sign |KI.LAM|
@@ -22086,7 +22040,7 @@
 @v	šakaka
 @v	šakanka
 @v	xbaₓ
-@link eBL |KI.LAM| https://www.ebl.lmu.de/signs/|KI.LAM|
+@link	eBL |KI.LAM| https://www.ebl.lmu.de/signs/|KI.LAM|
 @end sign
 
 @sign |KI.LAM×KUR|
@@ -22110,7 +22064,7 @@
 @useq	x121A0.x12217
 @ucun	𒆠𒈗
 @v	šitenₓ
-@link eBL |KI.LUGAL| https://www.ebl.lmu.de/signs/|KI.LUGAL|
+@link	eBL |KI.LUGAL| https://www.ebl.lmu.de/signs/|KI.LUGAL|
 @end sign
 
 @sign |KI.LUGAL.DU|
@@ -22120,9 +22074,9 @@
 @ucun	𒆠𒈗𒁺
 @v	alalₓ
 @form |LUGAL.KI.DU|
-@oid  o0038308
-@useq x12217.x121A0.x1207A
-@ucun 𒈗𒆠𒁺
+@oid	o0038308
+@useq	x12217.x121A0.x1207A
+@ucun	𒈗𒆠𒁺
 @@
 @end sign
 
@@ -22132,7 +22086,7 @@
 @ucun	𒆠𒈫
 @v	kimin
 @v	u₇
-@link eBL |KI.MIN| https://www.ebl.lmu.de/signs/|KI.MIN|
+@link	eBL |KI.MIN| https://www.ebl.lmu.de/signs/|KI.MIN|
 @end sign
 
 @sign |KI.MUŠ₃@g|
@@ -22140,7 +22094,7 @@
 @useq	x121A0.x1223D
 @ucun	𒆠𒈽
 @v	kukku₄
-@link eBL |KI.MUŠ₃@g| https://www.ebl.lmu.de/signs/|KI.MUŠ₃@g|
+@link	eBL |KI.MUŠ₃@g| https://www.ebl.lmu.de/signs/|KI.MUŠ₃@g|
 @end sign
 
 @sign- |KI.NA.AB.TUM|
@@ -22168,7 +22122,7 @@
 @v	nemur
 @v	nimur
 @v	zi₇
-@link eBL |KI.NE| https://www.ebl.lmu.de/signs/|KI.NE|
+@link	eBL |KI.NE| https://www.ebl.lmu.de/signs/|KI.NE|
 @form |KI.NE@s|
 @oid	o0001716
 @useq	x121A0.x1224B
@@ -22183,7 +22137,7 @@
 @useq	x121A0.x12248.x1202D.x12239
 @ucun	𒆠𒉈𒀭𒈹
 @v	digbir
-@link eBL |KI.NE.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|KI.NE.AN.MUŠ₃|
+@link	eBL |KI.NE.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|KI.NE.AN.MUŠ₃|
 @end sign
 
 @sign |KI.NE.DI|
@@ -22207,7 +22161,7 @@
 @ucun	𒆠𒊕
 @v	egi₃?
 @v	igi₃?
-@link eBL |KI.SAG| https://www.ebl.lmu.de/signs/|KI.SAG|
+@link	eBL |KI.SAG| https://www.ebl.lmu.de/signs/|KI.SAG|
 @end sign
 
 @sign |KI.SAG.DU|
@@ -22216,7 +22170,7 @@
 @ucun	𒆠𒊕𒁺
 @v	sulumₓ
 @v	sulummar
-@link eBL |KI.SAG.DU| https://www.ebl.lmu.de/signs/|KI.SAG.DU|
+@link	eBL |KI.SAG.DU| https://www.ebl.lmu.de/signs/|KI.SAG.DU|
 @end sign
 
 @sign |KI.SAG.SAL|
@@ -22226,7 +22180,7 @@
 @v	igira₂
 @v	igiru
 @v	zarahₓ
-@link eBL |KI.SAG.SAL| https://www.ebl.lmu.de/signs/|KI.SAG.SAL|
+@link	eBL |KI.SAG.SAL| https://www.ebl.lmu.de/signs/|KI.SAG.SAL|
 @form |KI.KA.SAL|
 @oid	o0001698
 @useq	x121A0.x12157.x122A9
@@ -22240,7 +22194,7 @@
 @useq	x121A0.x12294
 @ucun	𒆠𒊔
 @v	kišiₓ
-@link eBL |KI.SAG@n| https://www.ebl.lmu.de/signs/|KI.SAG@n|
+@link	eBL |KI.SAG@n| https://www.ebl.lmu.de/signs/|KI.SAG@n|
 @end sign
 
 @sign |KI.SAG@n.DU|
@@ -22259,12 +22213,12 @@
 @v	uŋnim
 @v	umman
 @v	%akk ummanu
-@link eBL |KI.SU.LU.EŠ₂.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.EŠ₂.GAR|
+@link	eBL |KI.SU.LU.EŠ₂.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.EŠ₂.GAR|
 @form |KI.LU.EŠ₂|
 @oid	o0001710
 @useq	x121A0.x121FB.x120A0
 @ucun	𒆠𒇻𒂠
-@link eBL |KI.LU.EŠ₂| https://www.ebl.lmu.de/signs/|KI.LU.EŠ₂|
+@link	eBL |KI.LU.EŠ₂| https://www.ebl.lmu.de/signs/|KI.LU.EŠ₂|
 @@
 @form |KI.LU.EŠ₂.GAR|
 @oid	o0031551
@@ -22290,13 +22244,13 @@
 @oid	o0001722
 @useq	x121A0.x122E2.x121FB.x120A0.x120FB.x121A0
 @ucun	𒆠𒋢𒇻𒂠𒃻𒆠
-@link eBL |KI.SU.LU.EŠ₂.GAR.KI| https://www.ebl.lmu.de/signs/|KI.SU.LU.EŠ₂.GAR.KI|
+@link	eBL |KI.SU.LU.EŠ₂.GAR.KI| https://www.ebl.lmu.de/signs/|KI.SU.LU.EŠ₂.GAR.KI|
 @@
 @form |KI.SU.LU.EŠ₂.GAR.RA|
 @oid	o0001723
 @useq	x121A0.x122E2.x121FB.x120A0.x120FB.x1228F
 @ucun	𒆠𒋢𒇻𒂠𒃻𒊏
-@link eBL |KI.SU.LU.EŠ₂.GAR.RA| https://www.ebl.lmu.de/signs/|KI.SU.LU.EŠ₂.GAR.RA|
+@link	eBL |KI.SU.LU.EŠ₂.GAR.RA| https://www.ebl.lmu.de/signs/|KI.SU.LU.EŠ₂.GAR.RA|
 @@
 @form |KI.SU.LU.EŠ₂.KI.GAR|
 @oid	o0152710
@@ -22307,7 +22261,7 @@
 @oid	o0001726
 @useq	x121A0.x122E2.x121FB.x120FB
 @ucun	𒆠𒋢𒇻𒃻
-@link eBL |KI.SU.LU.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.GAR|
+@link	eBL |KI.SU.LU.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.GAR|
 @@
 @form |KI.SU.LU.GAR.EŠ₂|
 @oid	o0031553
@@ -22318,58 +22272,58 @@
 @oid	o0001725
 @useq	x121A0.x122E2.x121FB.x120FB.x121A0
 @ucun	𒆠𒋢𒇻𒃻𒆠
-@link eBL |KI.SU.LU.GAR.KI| https://www.ebl.lmu.de/signs/|KI.SU.LU.GAR.KI|
+@link	eBL |KI.SU.LU.GAR.KI| https://www.ebl.lmu.de/signs/|KI.SU.LU.GAR.KI|
 @@
 @form |KI.SU.LU.KI.GAR|
 @oid	o0001727
 @useq	x121A0.x122E2.x121FB.x121A0.x120FB
 @ucun	𒆠𒋢𒇻𒆠𒃻
-@link eBL |KI.SU.LU.KI.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.KI.GAR|
+@link	eBL |KI.SU.LU.KI.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.KI.GAR|
 @@
 @form |KI.SU.LU.LAGAB×U.GAR|
 @oid	o0001728
 @useq	x121A0.x122E2.x121FB.x121E5.x120FB
 @ucun	𒆠𒋢𒇻𒇥𒃻
-@link eBL |KI.SU.LU.LAGAB×U.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.LAGAB×U.GAR|
+@link	eBL |KI.SU.LU.LAGAB×U.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.LAGAB×U.GAR|
 @@
 @form |KI.SU.LU.ŠU.GAR|
 @oid	o0001729
 @useq	x121A0.x122E2.x121FB.x122D7.x120FB
 @ucun	𒆠𒋢𒇻𒋗𒃻
-@link eBL |KI.SU.LU.ŠU.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.ŠU.GAR|
+@link	eBL |KI.SU.LU.ŠU.GAR| https://www.ebl.lmu.de/signs/|KI.SU.LU.ŠU.GAR|
 @@
 @form |KI.SU.ZA.LU.EŠ₂|
 @oid	o0001730
 @useq	x121A0.x122E2.x1235D.x121FB.x120A0
 @ucun	𒆠𒋢𒍝𒇻𒂠
-@link eBL |KI.SU.ZA.LU.EŠ₂| https://www.ebl.lmu.de/signs/|KI.SU.ZA.LU.EŠ₂|
+@link	eBL |KI.SU.ZA.LU.EŠ₂| https://www.ebl.lmu.de/signs/|KI.SU.ZA.LU.EŠ₂|
 @@
 @form |LU.EŠ₂.GAR.KI|
 @oid	o0001907
 @useq	x121FB.x120A0.x120FB.x121A0
 @ucun	𒇻𒂠𒃻𒆠
-@link eBL |LU.EŠ₂.GAR.KI| https://www.ebl.lmu.de/signs/|LU.EŠ₂.GAR.KI|
+@link	eBL |LU.EŠ₂.GAR.KI| https://www.ebl.lmu.de/signs/|LU.EŠ₂.GAR.KI|
 @@
 @form |SU.KI.LU.EŠ₂.KI|
 @oid	o0002370
 @useq	x122E2.x121A0.x121FB.x120A0.x121A0
 @ucun	𒋢𒆠𒇻𒂠𒆠
-@link eBL |SU.KI.LU.EŠ₂.KI| https://www.ebl.lmu.de/signs/|SU.KI.LU.EŠ₂.KI|
+@link	eBL |SU.KI.LU.EŠ₂.KI| https://www.ebl.lmu.de/signs/|SU.KI.LU.EŠ₂.KI|
 @@
 @form |SU.LU.EŠ₂.KI.GAR|
 @oid	o0152712
 @useq	x122E2.x121FB.x120A0.x121A0.x120FB
 @ucun	𒋢𒇻𒂠𒆠𒃻
 @@
-@form |SU.LU.ŠU.KI.GAR|
-@oid	o0022891
-@useq	x122E2.x121FB.x122D7.x121A0.x120FB
-@ucun	𒋢𒇻𒋗𒆠𒃻
-@@
 @form |SU.LU.EŠ₂.KI.GAR.RA|
 @oid	o0038195
 @useq	x122E2.x121FB.x120A0.x121A0.x120FB.x1228F
 @ucun	𒋢𒇻𒂠𒆠𒃻𒊏
+@@
+@form |SU.LU.ŠU.KI.GAR|
+@oid	o0022891
+@useq	x122E2.x121FB.x122D7.x121A0.x120FB
+@ucun	𒋢𒇻𒋗𒆠𒃻
 @@
 @end sign
 
@@ -22378,7 +22332,7 @@
 @useq	x121A0.x122C0.x12195
 @ucun	𒆠𒋀𒆕
 @v	kissa
-@link eBL |KI.ŠEŠ.KAK| https://www.ebl.lmu.de/signs/|KI.ŠEŠ.KAK|
+@link	eBL |KI.ŠEŠ.KAK| https://www.ebl.lmu.de/signs/|KI.ŠEŠ.KAK|
 @form |KI.ŠEŠ.KAK.A|
 @oid	o0022981
 @inote	dcclt !sg
@@ -22403,7 +22357,7 @@
 @v	kiŋalₓ
 @v	kislah
 @v	kizlah
-@link eBL |KI.UD| https://www.ebl.lmu.de/signs/|KI.UD|
+@link	eBL |KI.UD| https://www.ebl.lmu.de/signs/|KI.UD|
 @end sign
 
 @sign |KI.UD.A|
@@ -22411,7 +22365,7 @@
 @useq	x121A0.x12313.x12000
 @ucun	𒆠𒌓𒀀
 @v	kilahha
-@link eBL |KI.UD.A| https://www.ebl.lmu.de/signs/|KI.UD.A|
+@link	eBL |KI.UD.A| https://www.ebl.lmu.de/signs/|KI.UD.A|
 @end sign
 
 @sign |KI.URU×MIN|
@@ -22423,7 +22377,15 @@
 @v	dakan
 @v	dakkan
 @v	suku₄
-@link eBL |KI.URU×MIN| https://www.ebl.lmu.de/signs/|KI.URU×MIN|
+@link	eBL |KI.URU×MIN| https://www.ebl.lmu.de/signs/|KI.URU×MIN|
+@end sign
+
+@sign |KI.5(DIŠ)|
+@oid	o0038001
+@aka	|KI.IA₂|
+@inote	Late KI.MIN = 5th instance; form of IA₂ needs collation
+@useq	x121A0.x1240A
+@ucun	𒆠𒐊
 @end sign
 
 @sign |KI×BAD|
@@ -22437,8 +22399,8 @@
 @uage	5.0
 @v	habrud₂
 @v	habruda₂
-@link eBL |KI×BAD| https://www.ebl.lmu.de/signs/|KI×BAD|
-@link Wikidata Q87555821 http://www.wikidata.org/entity/Q87555821
+@link	eBL |KI×BAD| https://www.ebl.lmu.de/signs/|KI×BAD|
+@link	Wikidata Q87555821 http://www.wikidata.org/entity/Q87555821
 @end sign
 
 @sign |KI×U|
@@ -22454,8 +22416,8 @@
 @v	habruda
 @v	hanburuda
 @v	harₓ
-@link eBL |KI×U| https://www.ebl.lmu.de/signs/|KI×U|
-@link Wikidata Q87555823 http://www.wikidata.org/entity/Q87555823
+@link	eBL |KI×U| https://www.ebl.lmu.de/signs/|KI×U|
+@link	Wikidata Q87555823 http://www.wikidata.org/entity/Q87555823
 @end sign
 
 @sign |KI×UD|
@@ -22467,8 +22429,8 @@
 @ucun	𒆣
 @uage	5.0
 @v	kislah₂
-@link eBL |KI×UD| https://www.ebl.lmu.de/signs/|KI×UD|
-@link Wikidata Q87555826 http://www.wikidata.org/entity/Q87555826
+@link	eBL |KI×UD| https://www.ebl.lmu.de/signs/|KI×UD|
+@link	Wikidata Q87555826 http://www.wikidata.org/entity/Q87555826
 @end sign
 
 @sign |KI×X|
@@ -22479,7 +22441,7 @@
 @sign KIB@g
 @oid	o0000280
 @inote	sjt: temporary entry to get ETCSRI to compile; probably has another name
-@link eBL KIB@g https://www.ebl.lmu.de/signs/KIB@g
+@link	eBL KIB@g https://www.ebl.lmu.de/signs/KIB@g
 @end sign
 
 @sign KID
@@ -22529,8 +22491,8 @@
 @v	šah₃
 @v	ših₂
 @v	ṣah₂
-@link eBL KID https://www.ebl.lmu.de/signs/KID
-@link Wikidata Q87555828 http://www.wikidata.org/entity/Q87555828
+@link	eBL KID https://www.ebl.lmu.de/signs/KID
+@link	Wikidata Q87555828 http://www.wikidata.org/entity/Q87555828
 @form E₂
 @oid	o0000180
 @list	BAU365
@@ -22540,7 +22502,7 @@
 @list	PTACE295
 @list	RSP250
 @v	lil₂
-@link eBL E₂ https://www.ebl.lmu.de/signs/E₂
+@link	eBL E₂ https://www.ebl.lmu.de/signs/E₂
 @@
 @end sign
 
@@ -22549,7 +22511,7 @@
 @useq	x121A4.x12046
 @ucun	𒆤𒁆
 @v	tigiₓ
-@link eBL |KID.BALAG| https://www.ebl.lmu.de/signs/|KID.BALAG|
+@link	eBL |KID.BALAG| https://www.ebl.lmu.de/signs/|KID.BALAG|
 @form |BALAG.KID|
 @oid	o0027843
 @useq	x12046.x121A4
@@ -22568,7 +22530,7 @@
 @ucun	𒆤𒈤
 @v	amuru
 @v	muruₓ
-@link eBL |KID.MAH| https://www.ebl.lmu.de/signs/|KID.MAH|
+@link	eBL |KID.MAH| https://www.ebl.lmu.de/signs/|KID.MAH|
 @end sign
 
 @sign |KID.ŠU₂.MA₂|
@@ -22576,7 +22538,7 @@
 @useq	x121A4.x122D9.x12223
 @ucun	𒆤𒋙𒈣
 @v	muruₓ
-@link eBL |KID.ŠU₂.MA₂| https://www.ebl.lmu.de/signs/|KID.ŠU₂.MA₂|
+@link	eBL |KID.ŠU₂.MA₂| https://www.ebl.lmu.de/signs/|KID.ŠU₂.MA₂|
 @form |KID.MA₂.ŠU₂|
 @oid	o0023055
 @inote	dcclt !sg
@@ -22590,6 +22552,8 @@
 @ucun	𒆤𒈣𒋙𒀀
 @@
 @end sign
+
+@compoundonly	|KID&KID|
 
 @sign KIN
 @oid	o0000282
@@ -22631,8 +22595,8 @@
 @v	seg₁₈
 @v	sig₁₈
 @v	siga₁₈
-@link eBL KIN https://www.ebl.lmu.de/signs/KIN
-@link Wikidata Q87555831 http://www.wikidata.org/entity/Q87555831
+@link	eBL KIN https://www.ebl.lmu.de/signs/KIN
+@link	Wikidata Q87555831 http://www.wikidata.org/entity/Q87555831
 @end sign
 
 @sign |KIN.KIN|
@@ -22640,12 +22604,12 @@
 @useq	x121A5.x121A5
 @ucun	𒆥𒆥
 @v	kenke
-@link eBL |KIN.KIN| https://www.ebl.lmu.de/signs/|KIN.KIN|
+@link	eBL |KIN.KIN| https://www.ebl.lmu.de/signs/|KIN.KIN|
 @end sign
 
 @sign |KIN×UD|
 @oid	o0001739
-@link eBL |KIN×UD| https://www.ebl.lmu.de/signs/|KIN×UD|
+@link	eBL |KIN×UD| https://www.ebl.lmu.de/signs/|KIN×UD|
 @end sign
 
 @sign KINGUSILI
@@ -22656,17 +22620,17 @@
 @list	U+1245C
 @ucun	𒑜
 @uage	5.0
-@v	5/6(aš)
-@v	5/6(diš)
 @v	kingusila
 @v	kingusili
 @v	qimku
-@link eBL KINGUSILI https://www.ebl.lmu.de/signs/KINGUSILI
-@link Wikidata Q87557044 http://www.wikidata.org/entity/Q87557044
+@v	5/6(aš)
+@v	5/6(diš)
+@link	eBL KINGUSILI https://www.ebl.lmu.de/signs/KINGUSILI
+@link	Wikidata Q87557044 http://www.wikidata.org/entity/Q87557044
 @form 5/6(DIŠ@c)
 @oid	o0223431
-@v	5/6(diš@c)
 @v	5/6(aš@c)
+@v	5/6(diš@c)
 @@
 @end sign
 
@@ -22696,8 +22660,8 @@
 @v	lel₄?
 @v	par₄
 @sys	Attinger ŋepar => ŋiparₓ
-@link eBL KISAL https://www.ebl.lmu.de/signs/KISAL
-@link Wikidata Q87555835 http://www.wikidata.org/entity/Q87555835
+@link	eBL KISAL https://www.ebl.lmu.de/signs/KISAL
+@link	Wikidata Q87555835 http://www.wikidata.org/entity/Q87555835
 @end sign
 
 @sign |KISAL×PAP|
@@ -22721,8 +22685,8 @@
 @uage	5.0
 @v	kisim₅
 @v	kišim₅
-@link eBL KISIM₅ https://www.ebl.lmu.de/signs/KISIM₅
-@link Wikidata Q87555841 http://www.wikidata.org/entity/Q87555841
+@link	eBL KISIM₅ https://www.ebl.lmu.de/signs/KISIM₅
+@link	Wikidata Q87555841 http://www.wikidata.org/entity/Q87555841
 @end sign
 
 @compoundonly	|KISIM₅×(A.MAŠ)|
@@ -22824,8 +22788,8 @@
 @ucun	𒆩
 @uage	5.0
 @v	gingira?
-@link eBL |KISIM₅&KISIM₅| https://www.ebl.lmu.de/signs/|KISIM₅&KISIM₅|
-@link Wikidata Q87555843 http://www.wikidata.org/entity/Q87555843
+@link	eBL |KISIM₅&KISIM₅| https://www.ebl.lmu.de/signs/|KISIM₅&KISIM₅|
+@link	Wikidata Q87555843 http://www.wikidata.org/entity/Q87555843
 @end sign
 
 @sign KIŠ
@@ -22855,8 +22819,8 @@
 @v	qiš
 @sys	Attinger keše => keš
 @sys	Attinger kiše => kiš
-@link eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
-@link Wikidata Q87555836 http://www.wikidata.org/entity/Q87555836
+@link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
+@link	Wikidata Q87555836 http://www.wikidata.org/entity/Q87555836
 @end sign
 
 @sign |KIŠ.AB@g|
@@ -22883,13 +22847,13 @@
 @sign KIŠ@g
 @oid	o0000287
 @inote	in ED ŠAGINA KIŠ@g.ARAD; see Pettinato 1981a, 29.
-@link eBL KIŠ@g https://www.ebl.lmu.de/signs/KIŠ@g
+@link	eBL KIŠ@g https://www.ebl.lmu.de/signs/KIŠ@g
 @end sign
 
 @sign KIŠ@s
 @oid	o0000288
 @inote	CDLI ed3b
-@link eBL KIŠ@s https://www.ebl.lmu.de/signs/KIŠ@s
+@link	eBL KIŠ@s https://www.ebl.lmu.de/signs/KIŠ@s
 @end sign
 
 @sign KU
@@ -22950,8 +22914,8 @@
 @v	ugu₄
 @v	zap₂?
 @v	zuₓ
-@link eBL KU https://www.ebl.lmu.de/signs/KU
-@link Wikidata Q87555846 http://www.wikidata.org/entity/Q87555846
+@link	eBL KU https://www.ebl.lmu.de/signs/KU
+@link	Wikidata Q87555846 http://www.wikidata.org/entity/Q87555846
 @end sign
 
 @sign |KU.AN|
@@ -22971,7 +22935,7 @@
 @v	miṭa
 @v	%akk miṭṭu
 @v	miṭu
-@link eBL |KU.AN| https://www.ebl.lmu.de/signs/|KU.AN|
+@link	eBL |KU.AN| https://www.ebl.lmu.de/signs/|KU.AN|
 @end sign
 
 @sign |KU.AN.RA|
@@ -22980,7 +22944,7 @@
 @useq	x121AA.x1202D.x1228F
 @ucun	𒆪𒀭𒊏
 @v	metuₓ
-@link eBL |KU.AN.RA| https://www.ebl.lmu.de/signs/|KU.AN.RA|
+@link	eBL |KU.AN.RA| https://www.ebl.lmu.de/signs/|KU.AN.RA|
 @end sign
 
 @sign |KU.GAR|
@@ -22989,7 +22953,7 @@
 @ucun	𒆪𒃻
 @v	guza
 @v	guzza
-@link eBL |KU.GAR| https://www.ebl.lmu.de/signs/|KU.GAR|
+@link	eBL |KU.GAR| https://www.ebl.lmu.de/signs/|KU.GAR|
 @end sign
 
 @sign |KU.GIŠ%GIŠ|
@@ -23000,7 +22964,7 @@
 @v	dariₓ?
 @v	daruₓ?
 @v	duruₓ?
-@link eBL |KU.GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|KU.GIŠ%GIŠ|
+@link	eBL |KU.GIŠ%GIŠ| https://www.ebl.lmu.de/signs/|KU.GIŠ%GIŠ|
 @end sign
 
 @sign |KU.IDIM|
@@ -23018,7 +22982,7 @@
 @v	mitum₂
 @v	miṭa₂
 @v	miṭu₂
-@link eBL |KU.IDIM| https://www.ebl.lmu.de/signs/|KU.IDIM|
+@link	eBL |KU.IDIM| https://www.ebl.lmu.de/signs/|KU.IDIM|
 @end sign
 
 @sign |KU.KI.SAG|
@@ -23026,7 +22990,7 @@
 @useq	x121AA.x121A0.x12295
 @ucun	𒆪𒆠𒊕
 @v	zarahₓ
-@link eBL |KU.KI.SAG| https://www.ebl.lmu.de/signs/|KU.KI.SAG|
+@link	eBL |KU.KI.SAG| https://www.ebl.lmu.de/signs/|KU.KI.SAG|
 @end sign
 
 @sign |KU.KU|
@@ -23037,7 +23001,7 @@
 @v	durunaₓ
 @v	eh₃
 @inote	really DUR₂.DUR₂
-@link eBL |KU.KU| https://www.ebl.lmu.de/signs/|KU.KU|
+@link	eBL |KU.KU| https://www.ebl.lmu.de/signs/|KU.KU|
 @end sign
 
 @sign |KU.KU.KU|
@@ -23048,7 +23012,7 @@
 @v	eheh
 @v	ehehhe
 @sys	Attinger eheh => ehehhe
-@link eBL |KU.KU.KU| https://www.ebl.lmu.de/signs/|KU.KU.KU|
+@link	eBL |KU.KU.KU| https://www.ebl.lmu.de/signs/|KU.KU.KU|
 @end sign
 
 @sign |KU.NU|
@@ -23056,7 +23020,7 @@
 @useq	x121AA.x12261
 @ucun	𒆪𒉡
 @v	bula
-@link eBL |KU.NU| https://www.ebl.lmu.de/signs/|KU.NU|
+@link	eBL |KU.NU| https://www.ebl.lmu.de/signs/|KU.NU|
 @end sign
 
 @compoundonly	|KU&HI×AŠ₂|
@@ -23072,14 +23036,14 @@
 @v	merimeri₅
 @v	mermer₅
 @v	mermeri₅
-@link eBL |KU&HI×AŠ₂.KU&HI×AŠ₂| https://www.ebl.lmu.de/signs/|KU&HI×AŠ₂.KU&HI×AŠ₂|
-@link Wikidata Q87555847 http://www.wikidata.org/entity/Q87555847
+@link	eBL |KU&HI×AŠ₂.KU&HI×AŠ₂| https://www.ebl.lmu.de/signs/|KU&HI×AŠ₂.KU&HI×AŠ₂|
+@link	Wikidata Q87555847 http://www.wikidata.org/entity/Q87555847
 @end sign
 
 @sign KU@t
 @oid	o0000290
 @note	this sign appears a few times in P250826 = P250826.
-@link eBL KU@t https://www.ebl.lmu.de/signs/KU@t
+@link	eBL KU@t https://www.ebl.lmu.de/signs/KU@t
 @end sign
 
 @sign KU₃
@@ -23103,8 +23067,8 @@
 @v	kug
 @v	kuk
 @v	qu₅
-@link eBL KU₃ https://www.ebl.lmu.de/signs/KU₃
-@link Wikidata Q87555850 http://www.wikidata.org/entity/Q87555850
+@link	eBL KU₃ https://www.ebl.lmu.de/signs/KU₃
+@link	Wikidata Q87555850 http://www.wikidata.org/entity/Q87555850
 @end sign
 
 @sign |KU₃.AN|
@@ -23118,7 +23082,7 @@
 @v	azak
 @v	sagₓ
 @sys	Attinger aza₂ => azag
-@link eBL |KU₃.AN| https://www.ebl.lmu.de/signs/|KU₃.AN|
+@link	eBL |KU₃.AN| https://www.ebl.lmu.de/signs/|KU₃.AN|
 @end sign
 
 @sign |KU₃.GI|
@@ -23128,7 +23092,7 @@
 @ucun	𒆬𒄀
 @v	guškin
 @v	ku₃-sig₁₇
-@link eBL |KU₃.GI| https://www.ebl.lmu.de/signs/|KU₃.GI|
+@link	eBL |KU₃.GI| https://www.ebl.lmu.de/signs/|KU₃.GI|
 @end sign
 
 @sign |KU₃.UD|
@@ -23136,7 +23100,7 @@
 @useq	x121AC.x12313
 @ucun	𒆬𒌓
 @v	ku₃-babbar
-@link eBL |KU₃.UD| https://www.ebl.lmu.de/signs/|KU₃.UD|
+@link	eBL |KU₃.UD| https://www.ebl.lmu.de/signs/|KU₃.UD|
 @end sign
 
 @sign KU₄
@@ -23158,8 +23122,8 @@
 @v	kur₉
 @v	lilₓ
 @v	sunₓ
-@link eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
-@link Wikidata Q87555853 http://www.wikidata.org/entity/Q87555853
+@link	eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
+@link	Wikidata Q87555853 http://www.wikidata.org/entity/Q87555853
 @form LIL
 @oid	o0000426
 @list	GCSL054
@@ -23167,9 +23131,9 @@
 @list	LAK094
 @list	REC056
 @ucun	𒇸
-@link eBL LIL https://www.ebl.lmu.de/signs/LIL
-@v	kurₓ
 @v	kuₓ
+@v	kurₓ
+@link	eBL LIL https://www.ebl.lmu.de/signs/LIL
 @@
 @form REC145
 @oid	o0000298
@@ -23183,7 +23147,7 @@
 @uage	5.0
 @v	ku₄
 @v	kur₉
-@link Wikidata Q87555856 http://www.wikidata.org/entity/Q87555856
+@link	Wikidata Q87555856 http://www.wikidata.org/entity/Q87555856
 @@
 @end sign
 
@@ -23235,8 +23199,8 @@
 @v	šindilib
 @v	šindilimma
 @v	tubašin
-@link eBL KU₇ https://www.ebl.lmu.de/signs/KU₇
-@link Wikidata Q87555859 http://www.wikidata.org/entity/Q87555859
+@link	eBL KU₇ https://www.ebl.lmu.de/signs/KU₇
+@link	Wikidata Q87555859 http://www.wikidata.org/entity/Q87555859
 @end sign
 
 @sign |KU₇.KU₇|
@@ -23245,7 +23209,7 @@
 @ucun	𒆯𒆯
 @v	ku₇-ku₇
 @v	kukku
-@link eBL |KU₇.KU₇| https://www.ebl.lmu.de/signs/|KU₇.KU₇|
+@link	eBL |KU₇.KU₇| https://www.ebl.lmu.de/signs/|KU₇.KU₇|
 @end sign
 
 @sign KUL
@@ -23287,8 +23251,8 @@
 @v	zer
 @v	zir
 @v	ziri
-@link eBL KUL https://www.ebl.lmu.de/signs/KUL
-@link Wikidata Q87555860 http://www.wikidata.org/entity/Q87555860
+@link	eBL KUL https://www.ebl.lmu.de/signs/KUL
+@link	Wikidata Q87555860 http://www.wikidata.org/entity/Q87555860
 @form KUL@d
 @oid	o0223478
 @v	numun@d
@@ -23310,7 +23274,7 @@
 @ucun	𒆱
 @uage	5.0
 @v	tilₓ?
-@link Wikidata Q87555863 http://www.wikidata.org/entity/Q87555863
+@link	Wikidata Q87555863 http://www.wikidata.org/entity/Q87555863
 @end sign
 
 @sign KUN
@@ -23340,8 +23304,8 @@
 @v	qun
 @v	xnunnamxₓ
 @sys	Attinger kuŋ₂ => kun
-@link eBL KUN https://www.ebl.lmu.de/signs/KUN
-@link Wikidata Q87555865 http://www.wikidata.org/entity/Q87555865
+@link	eBL KUN https://www.ebl.lmu.de/signs/KUN
+@link	Wikidata Q87555865 http://www.wikidata.org/entity/Q87555865
 @form MAŠ₂
 @oid	o0000451
 @list	ABZL031
@@ -23358,8 +23322,8 @@
 @ucun	𒈧
 @uage	5.0
 @v	kun₈
-@link eBL MAŠ₂ https://www.ebl.lmu.de/signs/MAŠ₂
-@link Wikidata Q87556102 http://www.wikidata.org/entity/Q87556102
+@link	eBL MAŠ₂ https://www.ebl.lmu.de/signs/MAŠ₂
+@link	Wikidata Q87556102 http://www.wikidata.org/entity/Q87556102
 @@
 @end sign
 
@@ -23425,8 +23389,8 @@
 @v	zat
 @inote	W.G. Lambert, Babylonian Oracle Questions 2007, no. 23 (P480372) obv 5 uz-zat
 @v	zizanu
-@link eBL KUR https://www.ebl.lmu.de/signs/KUR
-@link Wikidata Q87555867 http://www.wikidata.org/entity/Q87555867
+@link	eBL KUR https://www.ebl.lmu.de/signs/KUR
+@link	Wikidata Q87555867 http://www.wikidata.org/entity/Q87555867
 @form LAK461a
 @oid	o0025780
 @list	ELLES241a
@@ -23449,8 +23413,8 @@
 @uage	5.0
 @v	gudibir₂
 @v	lamhu
-@link eBL |KUR@KUR| https://www.ebl.lmu.de/signs/|KUR@KUR|
-@link Wikidata Q87555868 http://www.wikidata.org/entity/Q87555868
+@link	eBL |KUR@KUR| https://www.ebl.lmu.de/signs/|KUR@KUR|
+@link	Wikidata Q87555868 http://www.wikidata.org/entity/Q87555868
 @end sign
 
 @sign |KUR.MUŠ₃@g.ZA.KI|
@@ -23458,7 +23422,7 @@
 @useq	x121B3.x1223D.x1235D.x121A0
 @ucun	𒆳𒈽𒍝𒆠
 @v	%akk namru
-@link eBL |KUR.MUŠ₃@g.ZA.KI| https://www.ebl.lmu.de/signs/|KUR.MUŠ₃@g.ZA.KI|
+@link	eBL |KUR.MUŠ₃@g.ZA.KI| https://www.ebl.lmu.de/signs/|KUR.MUŠ₃@g.ZA.KI|
 @end sign
 
 @sign |KUR.SI.A.GA|
@@ -23466,7 +23430,7 @@
 @useq	x121B3.x122DB.x12000.x120B5
 @ucun	𒆳𒋛𒀀𒂵
 @v	nenin
-@link eBL |KUR.SI.A.GA| https://www.ebl.lmu.de/signs/|KUR.SI.A.GA|
+@link	eBL |KUR.SI.A.GA| https://www.ebl.lmu.de/signs/|KUR.SI.A.GA|
 @end sign
 
 @sign |KUR.TI|
@@ -23474,7 +23438,7 @@
 @useq	x121B3.x122FE
 @ucun	𒆳𒋾
 @v	parsa
-@link eBL |KUR.TI| https://www.ebl.lmu.de/signs/|KUR.TI|
+@link	eBL |KUR.TI| https://www.ebl.lmu.de/signs/|KUR.TI|
 @end sign
 
 @sign |KUR.ZA.KUR.ZI|
@@ -23483,7 +23447,7 @@
 @useq	x121B3.x1235D.x121B3.x12363
 @ucun	𒆳𒍝𒆳𒍣
 @v	ganzerₓ
-@link eBL |KUR.ZA.KUR.ZI| https://www.ebl.lmu.de/signs/|KUR.ZA.KUR.ZI|
+@link	eBL |KUR.ZA.KUR.ZI| https://www.ebl.lmu.de/signs/|KUR.ZA.KUR.ZI|
 @end sign
 
 @sign KUŠU₂
@@ -23510,8 +23474,8 @@
 @v	kušu₂
 @v	kuwaₓ
 @v	uh₃
-@link eBL KUŠU₂ https://www.ebl.lmu.de/signs/KUŠU₂
-@link Wikidata Q87555871 http://www.wikidata.org/entity/Q87555871
+@link	eBL KUŠU₂ https://www.ebl.lmu.de/signs/KUŠU₂
+@link	Wikidata Q87555871 http://www.wikidata.org/entity/Q87555871
 @form LAK304@270
 @oid	o0025777
 @@
@@ -23523,7 +23487,7 @@
 @useq	x121B5.x1202D.x12239
 @ucun	𒆵𒀭𒈹
 @v	uruh
-@link eBL |KUŠU₂.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|KUŠU₂.AN.MUŠ₃|
+@link	eBL |KUŠU₂.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|KUŠU₂.AN.MUŠ₃|
 @form |KUŠU₂.AN.MUŠ₃@g|
 @oid	o0001763
 @useq	x121B5.x1202D.x1223D
@@ -23551,7 +23515,7 @@
 @oid	o0001766
 @list	LAK446
 @inote	@uname-no-utf8	CUNEIFORM SIGN KUSHU2 TIMES SAL
-@link eBL |KUŠU₂×SAL| https://www.ebl.lmu.de/signs/|KUŠU₂×SAL|
+@link	eBL |KUŠU₂×SAL| https://www.ebl.lmu.de/signs/|KUŠU₂×SAL|
 @end sign
 
 @sign- |KWU089.GAL|
@@ -23600,8 +23564,8 @@
 @ucun	𒆶
 @uage	5.0
 @v	hirinₓ
-@link eBL KWU318 https://www.ebl.lmu.de/signs/KWU318
-@link Wikidata Q87555874 http://www.wikidata.org/entity/Q87555874
+@link	eBL KWU318 https://www.ebl.lmu.de/signs/KWU318
+@link	Wikidata Q87555874 http://www.wikidata.org/entity/Q87555874
 @end sign
 
 @sign KWU442
@@ -23625,7 +23589,7 @@
 @lit	2005 M. Molina Nisaba 9 95.
 @inote	u3adm
 @v	amašₓ
-@link eBL KWU543 https://www.ebl.lmu.de/signs/KWU543
+@link	eBL KWU543 https://www.ebl.lmu.de/signs/KWU543
 @end sign
 
 @sign KWU672
@@ -23658,8 +23622,8 @@
 @sign KWU745
 @oid	o0025725
 @list	KWU745
-@v šimₓ
-@inote šimₓ in CDLI Ur3 admin P332425
+@v	šimₓ
+@inote	šimₓ in CDLI Ur3 admin P332425
 @end sign
 
 @sign KWU798
@@ -23670,7 +23634,7 @@
 @sign KWU822
 @oid	o0000303
 @v	kurušdaₓ
-@link eBL KWU822 https://www.ebl.lmu.de/signs/KWU822
+@link	eBL KWU822 https://www.ebl.lmu.de/signs/KWU822
 @end sign
 
 @sign KWU879
@@ -23683,25 +23647,7 @@
 @inote	u3adm
 @v	erenₓ
 @v	erinₓ
-@link eBL KWU896 https://www.ebl.lmu.de/signs/KWU896
-@end sign
-
-@sign |4×LAGAB|
-@oid	o0000650
-@list	MZL805
-@list	SLLHA530
-@uname	CUNEIFORM SIGN LAGAB SQUARED
-@list	U+121EB
-@ucun	𒇫
-@uage	5.0
-@v	buru₁₇
-@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o ii 67 
-@v	guru₂₂
-@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 37'
-@inote	salgues
-@v	gurun₄
-@link eBL |4×LAGAB| https://www.ebl.lmu.de/signs/|4×LAGAB|
-@link Wikidata Q87555984 http://www.wikidata.org/entity/Q87555984
+@link	eBL KWU896 https://www.ebl.lmu.de/signs/KWU896
 @end sign
 
 @sign LA
@@ -23725,8 +23671,13 @@
 @v	la
 @v	šikₓ
 @v	šika
-@link eBL LA https://www.ebl.lmu.de/signs/LA
-@link Wikidata Q87555876 http://www.wikidata.org/entity/Q87555876
+@link	eBL LA https://www.ebl.lmu.de/signs/LA
+@link	Wikidata Q87555876 http://www.wikidata.org/entity/Q87555876
+@end sign
+
+@sign |LA×KUR|
+@oid	o0038224
+@inote	epsd2/admin/ur3 needs collation
 @end sign
 
 @sign LA@n
@@ -23818,15 +23769,33 @@
 @v	suₓ
 @v	surₓ
 @v	tinₓ
-@inote CCPo
+@inote	CCPo
 @v	tuku₆
 @v	tukulₓ
 @v	tukur
 @v	tur₆
 @sys	Attinger gerin => girin
 @sys	Attinger niŋen₂ => niŋin₂
-@link eBL LAGAB https://www.ebl.lmu.de/signs/LAGAB
-@link Wikidata Q87555879 http://www.wikidata.org/entity/Q87555879
+@link	eBL LAGAB https://www.ebl.lmu.de/signs/LAGAB
+@link	Wikidata Q87555879 http://www.wikidata.org/entity/Q87555879
+@end sign
+
+@sign |4×LAGAB|
+@oid	o0000650
+@list	MZL805
+@list	SLLHA530
+@uname	CUNEIFORM SIGN LAGAB SQUARED
+@list	U+121EB
+@ucun	𒇫
+@uage	5.0
+@v	buru₁₇
+@ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o ii 67 
+@v	guru₂₂
+@ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 37'
+@inote	salgues
+@v	gurun₄
+@link	eBL |4×LAGAB| https://www.ebl.lmu.de/signs/|4×LAGAB|
+@link	Wikidata Q87555984 http://www.wikidata.org/entity/Q87555984
 @end sign
 
 @sign |LAGAB.LAGAB|
@@ -23862,14 +23831,14 @@
 @v	ninni₂
 @v	rin₃
 @sys	Attinger niŋen => niŋin
-@link eBL |LAGAB.LAGAB| https://www.ebl.lmu.de/signs/|LAGAB.LAGAB|
+@link	eBL |LAGAB.LAGAB| https://www.ebl.lmu.de/signs/|LAGAB.LAGAB|
 @end sign
 
 @sign |LAGAB.SAG@g|
 @oid	o0001773
 @useq	x121B8.x122A8
 @ucun	𒆸𒊨
-@link eBL |LAGAB.SAG@g| https://www.ebl.lmu.de/signs/|LAGAB.SAG@g|
+@link	eBL |LAGAB.SAG@g| https://www.ebl.lmu.de/signs/|LAGAB.SAG@g|
 @end sign
 
 @sign |LAGAB.U.KAK|
@@ -23877,7 +23846,7 @@
 @useq	x121B8.x1230B.x12195
 @ucun	𒆸𒌋𒆕
 @v	mud₄
-@link eBL |LAGAB.U.KAK| https://www.ebl.lmu.de/signs/|LAGAB.U.KAK|
+@link	eBL |LAGAB.U.KAK| https://www.ebl.lmu.de/signs/|LAGAB.U.KAK|
 @end sign
 
 @sign |LAGAB×A|
@@ -23937,8 +23906,8 @@
 @v	zug
 @v	zuk
 @v	zuq
-@link eBL |LAGAB×A| https://www.ebl.lmu.de/signs/|LAGAB×A|
-@link Wikidata Q87555881 http://www.wikidata.org/entity/Q87555881
+@link	eBL |LAGAB×A| https://www.ebl.lmu.de/signs/|LAGAB×A|
+@link	Wikidata Q87555881 http://www.wikidata.org/entity/Q87555881
 @form A
 @oid	o0000087
 @list	BAU416
@@ -23956,8 +23925,8 @@
 @ucun	𒀀
 @uage	5.0
 @v	buniŋₓ
-@link eBL A https://www.ebl.lmu.de/signs/A
-@link Wikidata Q87554995 http://www.wikidata.org/entity/Q87554995
+@link	eBL A https://www.ebl.lmu.de/signs/A
+@link	Wikidata Q87554995 http://www.wikidata.org/entity/Q87554995
 @@
 @form |A.LAGAB×A|
 @oid	o0000690
@@ -23965,7 +23934,7 @@
 @ucun	𒀀𒆹
 @v	buniŋₓ
 @v	buninₓ
-@link eBL |A.LAGAB×A| https://www.ebl.lmu.de/signs/|A.LAGAB×A|
+@link	eBL |A.LAGAB×A| https://www.ebl.lmu.de/signs/|A.LAGAB×A|
 @@
 @form |LAGAB×GAR|
 @oid	o0001808
@@ -23980,8 +23949,8 @@
 @v	bugin₂
 @v	buniŋ₂
 @v	bunin₂
-@link eBL |LAGAB×GAR| https://www.ebl.lmu.de/signs/|LAGAB×GAR|
-@link Wikidata Q87555908 http://www.wikidata.org/entity/Q87555908
+@link	eBL |LAGAB×GAR| https://www.ebl.lmu.de/signs/|LAGAB×GAR|
+@link	Wikidata Q87555908 http://www.wikidata.org/entity/Q87555908
 @@
 @form |LAGAB×HAL|
 @oid	o0001814
@@ -24003,8 +23972,8 @@
 @v	aŋarinₓ
 @v	bunig₃?
 @v	buniŋ₃?
-@link eBL |LAGAB×HAL| https://www.ebl.lmu.de/signs/|LAGAB×HAL|
-@link Wikidata Q87555914 http://www.wikidata.org/entity/Q87555914
+@link	eBL |LAGAB×HAL| https://www.ebl.lmu.de/signs/|LAGAB×HAL|
+@link	Wikidata Q87555914 http://www.wikidata.org/entity/Q87555914
 @@
 @form |LAGAB×KUL|
 @oid	o0001821
@@ -24019,8 +23988,8 @@
 @v	ešerₓ
 @v	isirₓ
 @v	kunin
-@link eBL |LAGAB×KUL| https://www.ebl.lmu.de/signs/|LAGAB×KUL|
-@link Wikidata Q87555935 http://www.wikidata.org/entity/Q87555935
+@link	eBL |LAGAB×KUL| https://www.ebl.lmu.de/signs/|LAGAB×KUL|
+@link	Wikidata Q87555935 http://www.wikidata.org/entity/Q87555935
 @@
 @form |LAGAB×ME|
 @oid	o0001829
@@ -24030,8 +23999,8 @@
 @uage	5.0
 @v	bugin₃?
 @v	bunin₃?
-@link eBL |LAGAB×ME| https://www.ebl.lmu.de/signs/|LAGAB×ME|
-@link Wikidata Q87555948 http://www.wikidata.org/entity/Q87555948
+@link	eBL |LAGAB×ME| https://www.ebl.lmu.de/signs/|LAGAB×ME|
+@link	Wikidata Q87555948 http://www.wikidata.org/entity/Q87555948
 @@
 @form |LAGAB×(U.A)|
 @oid	o0001786
@@ -24045,8 +24014,8 @@
 @uage	5.0
 @v	bugin₄
 @v	bunin₄
-@link eBL |LAGAB×(U.A)| https://www.ebl.lmu.de/signs/|LAGAB×(U.A)|
-@link Wikidata Q87555975 http://www.wikidata.org/entity/Q87555975
+@link	eBL |LAGAB×(U.A)| https://www.ebl.lmu.de/signs/|LAGAB×(U.A)|
+@link	Wikidata Q87555975 http://www.wikidata.org/entity/Q87555975
 @@
 @end sign
 
@@ -24059,8 +24028,8 @@
 @ucun	𒆺
 @uage	5.0
 @v	edakua₂
-@link eBL |LAGAB×(A.DA.HA)| https://www.ebl.lmu.de/signs/|LAGAB×(A.DA.HA)|
-@link Wikidata Q87555885 http://www.wikidata.org/entity/Q87555885
+@link	eBL |LAGAB×(A.DA.HA)| https://www.ebl.lmu.de/signs/|LAGAB×(A.DA.HA)|
+@link	Wikidata Q87555885 http://www.wikidata.org/entity/Q87555885
 @end sign
 
 @sign |LAGAB×(A.GAR)|
@@ -24073,8 +24042,8 @@
 @ucun	𒆻
 @uage	5.0
 @v	agar₃
-@link eBL |LAGAB×(A.GAR)| https://www.ebl.lmu.de/signs/|LAGAB×(A.GAR)|
-@link Wikidata Q87555886 http://www.wikidata.org/entity/Q87555886
+@link	eBL |LAGAB×(A.GAR)| https://www.ebl.lmu.de/signs/|LAGAB×(A.GAR)|
+@link	Wikidata Q87555886 http://www.wikidata.org/entity/Q87555886
 @end sign
 
 @sign |LAGAB×(A.LAL)|
@@ -24088,8 +24057,8 @@
 @uage	5.0
 @v	ablal
 @v	kinbur
-@link eBL |LAGAB×(A.LAL)| https://www.ebl.lmu.de/signs/|LAGAB×(A.LAL)|
-@link Wikidata Q87555888 http://www.wikidata.org/entity/Q87555888
+@link	eBL |LAGAB×(A.LAL)| https://www.ebl.lmu.de/signs/|LAGAB×(A.LAL)|
+@link	Wikidata Q87555888 http://www.wikidata.org/entity/Q87555888
 @end sign
 
 @sign |LAGAB×A.LUM|
@@ -24101,7 +24070,7 @@
 @v	sulumhi₄
 @v	zuluhu₄
 @v	zulumhi₄
-@link eBL |LAGAB×A.LUM| https://www.ebl.lmu.de/signs/|LAGAB×A.LUM|
+@link	eBL |LAGAB×A.LUM| https://www.ebl.lmu.de/signs/|LAGAB×A.LUM|
 @end sign
 
 @sign |LAGAB×A.TAR|
@@ -24109,7 +24078,7 @@
 @useq	x121B9.x122FB
 @ucun	𒆹𒋻
 @v	inda₂?
-@link eBL |LAGAB×A.TAR| https://www.ebl.lmu.de/signs/|LAGAB×A.TAR|
+@link	eBL |LAGAB×A.TAR| https://www.ebl.lmu.de/signs/|LAGAB×A.TAR|
 @end sign
 
 @sign |LAGAB×AL|
@@ -24122,8 +24091,8 @@
 @uage	5.0
 @v	gala₄
 @v	kala₄
-@link eBL |LAGAB×AL| https://www.ebl.lmu.de/signs/|LAGAB×AL|
-@link Wikidata Q87555891 http://www.wikidata.org/entity/Q87555891
+@link	eBL |LAGAB×AL| https://www.ebl.lmu.de/signs/|LAGAB×AL|
+@link	Wikidata Q87555891 http://www.wikidata.org/entity/Q87555891
 @end sign
 
 @sign |LAGAB×AN|
@@ -24137,8 +24106,8 @@
 @ucun	𒆾
 @uage	5.0
 @v	ama₆
-@link eBL |LAGAB×AN| https://www.ebl.lmu.de/signs/|LAGAB×AN|
-@link Wikidata Q87555894 http://www.wikidata.org/entity/Q87555894
+@link	eBL |LAGAB×AN| https://www.ebl.lmu.de/signs/|LAGAB×AN|
+@link	Wikidata Q87555894 http://www.wikidata.org/entity/Q87555894
 @end sign
 
 @sign |LAGAB×AŠ|
@@ -24146,7 +24115,7 @@
 @list	ZATU127
 @inote	dcclt/signlists
 @v	gigirₓ
-@link eBL |LAGAB×AŠ| https://www.ebl.lmu.de/signs/|LAGAB×AŠ|
+@link	eBL |LAGAB×AŠ| https://www.ebl.lmu.de/signs/|LAGAB×AŠ|
 @end sign
 
 @sign |LAGAB×AŠ@t|
@@ -24158,8 +24127,8 @@
 @ucun	𒇕
 @uage	5.0
 @v	gigir₃
-@link eBL |LAGAB×AŠ@t| https://www.ebl.lmu.de/signs/|LAGAB×AŠ@t|
-@link Wikidata Q87555942 http://www.wikidata.org/entity/Q87555942
+@link	eBL |LAGAB×AŠ@t| https://www.ebl.lmu.de/signs/|LAGAB×AŠ@t|
+@link	Wikidata Q87555942 http://www.wikidata.org/entity/Q87555942
 @form |LAGAB×LIŠ|
 @oid	o0001826
 @v	gigir₃
@@ -24176,8 +24145,8 @@
 @list	U+121BF
 @ucun	𒆿
 @uage	5.0
-@link eBL |LAGAB×AŠ@z| https://www.ebl.lmu.de/signs/|LAGAB×AŠ@z|
-@link Wikidata Q87555896 http://www.wikidata.org/entity/Q87555896
+@link	eBL |LAGAB×AŠ@z| https://www.ebl.lmu.de/signs/|LAGAB×AŠ@z|
+@link	Wikidata Q87555896 http://www.wikidata.org/entity/Q87555896
 @end sign
 
 @sign |LAGAB×AŠ₂|
@@ -24205,8 +24174,8 @@
 @v	pu₆
 @v	tul₈
 @sys	Attinger dulₓ => tul₈
-@link eBL |LAGAB×BAD| https://www.ebl.lmu.de/signs/|LAGAB×BAD|
-@link Wikidata Q87555898 http://www.wikidata.org/entity/Q87555898
+@link	eBL |LAGAB×BAD| https://www.ebl.lmu.de/signs/|LAGAB×BAD|
+@link	Wikidata Q87555898 http://www.wikidata.org/entity/Q87555898
 @form |LAGAB×UŠ₂|
 @oid	o0027871
 @@
@@ -24232,8 +24201,8 @@
 @ucun	𒇁
 @uage	5.0
 @v	kunin₃?
-@link eBL |LAGAB×BI| https://www.ebl.lmu.de/signs/|LAGAB×BI|
-@link Wikidata Q87555900 http://www.wikidata.org/entity/Q87555900
+@link	eBL |LAGAB×BI| https://www.ebl.lmu.de/signs/|LAGAB×BI|
+@link	Wikidata Q87555900 http://www.wikidata.org/entity/Q87555900
 @end sign
 
 @sign |LAGAB×DAR|
@@ -24250,14 +24219,20 @@
 @v	sidug
 @v	sidugga
 @v	šuduggaₓ
-@link eBL |LAGAB×DAR| https://www.ebl.lmu.de/signs/|LAGAB×DAR|
-@link Wikidata Q87555901 http://www.wikidata.org/entity/Q87555901
+@link	eBL |LAGAB×DAR| https://www.ebl.lmu.de/signs/|LAGAB×DAR|
+@link	Wikidata Q87555901 http://www.wikidata.org/entity/Q87555901
 @form |LAGAB.DAR|
 @oid	o0022985
 @inote	dcclt !sg
 @useq	x121B8.x1206F
 @ucun	𒆸𒁯
 @@
+@end sign
+
+@sign |LAGAB×(DIŠ.BAD&BAD)|
+@oid	o0038216
+@v	dibₓ
+@inote	epsd2/admin/ur3 needs collation
 @end sign
 
 @sign |LAGAB×EN|
@@ -24270,8 +24245,8 @@
 @uage	5.0
 @v	bara₅
 @v	para₅
-@link eBL |LAGAB×EN| https://www.ebl.lmu.de/signs/|LAGAB×EN|
-@link Wikidata Q87555903 http://www.wikidata.org/entity/Q87555903
+@link	eBL |LAGAB×EN| https://www.ebl.lmu.de/signs/|LAGAB×EN|
+@link	Wikidata Q87555903 http://www.wikidata.org/entity/Q87555903
 @end sign
 
 @sign |LAGAB×GA|
@@ -24285,8 +24260,8 @@
 @v	sidug₂
 @v	siduga₂
 @v	sidugga₂
-@link eBL |LAGAB×GA| https://www.ebl.lmu.de/signs/|LAGAB×GA|
-@link Wikidata Q87555905 http://www.wikidata.org/entity/Q87555905
+@link	eBL |LAGAB×GA| https://www.ebl.lmu.de/signs/|LAGAB×GA|
+@link	Wikidata Q87555905 http://www.wikidata.org/entity/Q87555905
 @end sign
 
 @sign |LAGAB×GAL|
@@ -24334,8 +24309,8 @@
 @v	tinur₃
 @v	umunₓ
 @v	zugₓ
-@link eBL |LAGAB×GAR| https://www.ebl.lmu.de/signs/|LAGAB×GAR|
-@link Wikidata Q87555908 http://www.wikidata.org/entity/Q87555908
+@link	eBL |LAGAB×GAR| https://www.ebl.lmu.de/signs/|LAGAB×GAR|
+@link	Wikidata Q87555908 http://www.wikidata.org/entity/Q87555908
 @end sign
 
 @sign |LAGAB×GI|
@@ -24345,8 +24320,8 @@
 @list	U+12388
 @ucun	𒎈
 @uage	7.0
-@link eBL |LAGAB×GI| https://www.ebl.lmu.de/signs/|LAGAB×GI|
-@link Wikidata Q87556791 http://www.wikidata.org/entity/Q87556791
+@link	eBL |LAGAB×GI| https://www.ebl.lmu.de/signs/|LAGAB×GI|
+@link	Wikidata Q87556791 http://www.wikidata.org/entity/Q87556791
 @end sign
 
 @sign |LAGAB×GUD|
@@ -24371,8 +24346,8 @@
 @v	uʾ₃
 @v	uaₓ
 @v	waₓ
-@link eBL |LAGAB×GUD| https://www.ebl.lmu.de/signs/|LAGAB×GUD|
-@link Wikidata Q87555910 http://www.wikidata.org/entity/Q87555910
+@link	eBL |LAGAB×GUD| https://www.ebl.lmu.de/signs/|LAGAB×GUD|
+@link	Wikidata Q87555910 http://www.wikidata.org/entity/Q87555910
 @end sign
 
 @sign |LAGAB×GUD.LU.HI.A|
@@ -24381,7 +24356,7 @@
 @ucun	𒇆𒇻𒄭𒀀
 @v	usduha
 @v	uzduha
-@link eBL |LAGAB×GUD.LU.HI.A| https://www.ebl.lmu.de/signs/|LAGAB×GUD.LU.HI.A|
+@link	eBL |LAGAB×GUD.LU.HI.A| https://www.ebl.lmu.de/signs/|LAGAB×GUD.LU.HI.A|
 @end sign
 
 @sign |LAGAB×(GUD&GUD)|
@@ -24423,8 +24398,8 @@
 @v	uwaₓ
 @v	uz₅
 @v	waₓ
-@link eBL |LAGAB×(GUD&GUD)| https://www.ebl.lmu.de/signs/|LAGAB×(GUD&GUD)|
-@link Wikidata Q87555911 http://www.wikidata.org/entity/Q87555911
+@link	eBL |LAGAB×(GUD&GUD)| https://www.ebl.lmu.de/signs/|LAGAB×(GUD&GUD)|
+@link	Wikidata Q87555911 http://www.wikidata.org/entity/Q87555911
 @end sign
 
 @sign |LAGAB×(GUD&GUD).A|
@@ -24439,9 +24414,9 @@
 @end sign
 
 @sign |LAGAB×(GUD&GUD)+HUL₂|
-@aka |U₈.HUL₂|
 @oid	o0235344
 @pname	|LAGAB×(GUD+GUD)+HUL₂|
+@aka	|U₈.HUL₂|
 @useq	x121C7.x1213E
 @ucun	𒇇𒄾
 @end sign
@@ -24462,8 +24437,8 @@
 @uage	5.0
 @v	elamkuš₃
 @v	ellamkuš₃
-@link eBL |LAGAB×HA| https://www.ebl.lmu.de/signs/|LAGAB×HA|
-@link Wikidata Q87555913 http://www.wikidata.org/entity/Q87555913
+@link	eBL |LAGAB×HA| https://www.ebl.lmu.de/signs/|LAGAB×HA|
+@link	Wikidata Q87555913 http://www.wikidata.org/entity/Q87555913
 @end sign
 
 @sign |LAGAB×HAL|
@@ -24500,8 +24475,8 @@
 @inote	CDLI
 @v	zikum
 @v	zikumuₓ
-@link eBL |LAGAB×HAL| https://www.ebl.lmu.de/signs/|LAGAB×HAL|
-@link Wikidata Q87555914 http://www.wikidata.org/entity/Q87555914
+@link	eBL |LAGAB×HAL| https://www.ebl.lmu.de/signs/|LAGAB×HAL|
+@link	Wikidata Q87555914 http://www.wikidata.org/entity/Q87555914
 @end sign
 
 @sign |LAGAB×HAL.A|
@@ -24509,7 +24484,7 @@
 @useq	x121C9.x12000
 @ucun	𒇉𒀀
 @v	iₓ
-@link eBL |LAGAB×HAL.A| https://www.ebl.lmu.de/signs/|LAGAB×HAL.A|
+@link	eBL |LAGAB×HAL.A| https://www.ebl.lmu.de/signs/|LAGAB×HAL.A|
 @end sign
 
 @sign |LAGAB×HI×NUN|
@@ -24521,8 +24496,8 @@
 @ucun	𒇊
 @uage	5.0
 @v	umun₆
-@link eBL |LAGAB×HI×NUN| https://www.ebl.lmu.de/signs/|LAGAB×HI×NUN|
-@link Wikidata Q87555917 http://www.wikidata.org/entity/Q87555917
+@link	eBL |LAGAB×HI×NUN| https://www.ebl.lmu.de/signs/|LAGAB×HI×NUN|
+@link	Wikidata Q87555917 http://www.wikidata.org/entity/Q87555917
 @end sign
 
 @sign |LAGAB×IGI|
@@ -24546,8 +24521,8 @@
 @v	immaₓ?
 @v	para₇
 @v	šara₂
-@link eBL |LAGAB×IGI@g| https://www.ebl.lmu.de/signs/|LAGAB×IGI@g|
-@link Wikidata Q87555919 http://www.wikidata.org/entity/Q87555919
+@link	eBL |LAGAB×IGI@g| https://www.ebl.lmu.de/signs/|LAGAB×IGI@g|
+@link	Wikidata Q87555919 http://www.wikidata.org/entity/Q87555919
 @form |LAGAB×IGI@g.ME|
 @oid	o0187967
 @inote	etcsri
@@ -24584,8 +24559,8 @@
 @v	tinuru
 @v	tunur
 @v	udunₓ
-@link eBL |LAGAB×IM| https://www.ebl.lmu.de/signs/|LAGAB×IM|
-@link Wikidata Q87555922 http://www.wikidata.org/entity/Q87555922
+@link	eBL |LAGAB×IM| https://www.ebl.lmu.de/signs/|LAGAB×IM|
+@link	Wikidata Q87555922 http://www.wikidata.org/entity/Q87555922
 @end sign
 
 @sign |LAGAB×(IM.HA)|
@@ -24598,8 +24573,8 @@
 @v	ellamkuš₅
 @ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 43
 @inote	salgues; ellamkuš₅ not in MZL so ellamkušₓ retired
-@link eBL |LAGAB×(IM.HA)| https://www.ebl.lmu.de/signs/|LAGAB×(IM.HA)|
-@link Wikidata Q87555923 http://www.wikidata.org/entity/Q87555923
+@link	eBL |LAGAB×(IM.HA)| https://www.ebl.lmu.de/signs/|LAGAB×(IM.HA)|
+@link	Wikidata Q87555923 http://www.wikidata.org/entity/Q87555923
 @end sign
 
 @sign |LAGAB×(IM.LU)|
@@ -24611,7 +24586,13 @@
 @uage	5.0
 @v	elamkušₓ
 @v	ellamkušₓ
-@link Wikidata Q87555925 http://www.wikidata.org/entity/Q87555925
+@link	Wikidata Q87555925 http://www.wikidata.org/entity/Q87555925
+@end sign
+
+@sign |LAGAB×KALAM@g|
+@oid	o0001837
+@aka	|LAGAB×UN|
+@link	eBL |LAGAB×UN| https://www.ebl.lmu.de/signs/|LAGAB×UN|
 @end sign
 
 @sign |LAGAB×KI|
@@ -24624,8 +24605,8 @@
 @uage	5.0
 @v	gala₅
 @v	kala₅
-@link eBL |LAGAB×KI| https://www.ebl.lmu.de/signs/|LAGAB×KI|
-@link Wikidata Q87555928 http://www.wikidata.org/entity/Q87555928
+@link	eBL |LAGAB×KI| https://www.ebl.lmu.de/signs/|LAGAB×KI|
+@link	Wikidata Q87555928 http://www.wikidata.org/entity/Q87555928
 @end sign
 
 @sign |LAGAB×KIN|
@@ -24639,8 +24620,8 @@
 @v	ablalₓ
 @v	gukin
 @v	udda
-@link eBL |LAGAB×KIN| https://www.ebl.lmu.de/signs/|LAGAB×KIN|
-@link Wikidata Q87555931 http://www.wikidata.org/entity/Q87555931
+@link	eBL |LAGAB×KIN| https://www.ebl.lmu.de/signs/|LAGAB×KIN|
+@link	Wikidata Q87555931 http://www.wikidata.org/entity/Q87555931
 @end sign
 
 @sign |LAGAB×KU₃|
@@ -24662,8 +24643,8 @@
 @v	tarim
 @ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 28
 @inote	salgues
-@link eBL |LAGAB×KU₃| https://www.ebl.lmu.de/signs/|LAGAB×KU₃|
-@link Wikidata Q87555934 http://www.wikidata.org/entity/Q87555934
+@link	eBL |LAGAB×KU₃| https://www.ebl.lmu.de/signs/|LAGAB×KU₃|
+@link	Wikidata Q87555934 http://www.wikidata.org/entity/Q87555934
 @end sign
 
 @sign |LAGAB×KUL|
@@ -24678,16 +24659,20 @@
 @v	esir₂
 @v	kunin
 @v	šukumₓ
-@link eBL |LAGAB×KUL| https://www.ebl.lmu.de/signs/|LAGAB×KUL|
-@link Wikidata Q87555935 http://www.wikidata.org/entity/Q87555935
+@link	eBL |LAGAB×KUL| https://www.ebl.lmu.de/signs/|LAGAB×KUL|
+@link	Wikidata Q87555935 http://www.wikidata.org/entity/Q87555935
 @form |LAGAB×ERIN₂|
 @oid	o0031555
 @inote	Emar
 @@
 @form |LAGAB×HAL|
-@list LAK768
 @oid	o0001814
+@list	LAK768
 @inote	TSŠ 302, needs collation; |LAGAB×HAL| is form in Gudea Cyl A xvi 8, three times
+@uname	CUNEIFORM SIGN LAGAB TIMES HAL
+@list	U+121C9
+@ucun	𒇉
+@uage	5.0
 @@
 @end sign
 
@@ -24702,8 +24687,8 @@
 @uage	5.0
 @v	esirha
 @v	esirhia
-@link eBL |LAGAB×(KUL.HI.A)| https://www.ebl.lmu.de/signs/|LAGAB×(KUL.HI.A)|
-@link Wikidata Q87555938 http://www.wikidata.org/entity/Q87555938
+@link	eBL |LAGAB×(KUL.HI.A)| https://www.ebl.lmu.de/signs/|LAGAB×(KUL.HI.A)|
+@link	Wikidata Q87555938 http://www.wikidata.org/entity/Q87555938
 @end sign
 
 @sign |LAGAB×LAGAB|
@@ -24714,15 +24699,15 @@
 @ucun	𒇔
 @uage	5.0
 @v	niginₓ
-@link eBL |LAGAB×LAGAB| https://www.ebl.lmu.de/signs/|LAGAB×LAGAB|
-@link Wikidata Q87555940 http://www.wikidata.org/entity/Q87555940
+@link	eBL |LAGAB×LAGAB| https://www.ebl.lmu.de/signs/|LAGAB×LAGAB|
+@link	Wikidata Q87555940 http://www.wikidata.org/entity/Q87555940
 @end sign
 
 @sign |LAGAB×LAGAR|
 @oid	o0001824
 @inote	dcclt/signlists
 @v	siduggaₓ
-@link eBL |LAGAB×LAGAR| https://www.ebl.lmu.de/signs/|LAGAB×LAGAR|
+@link	eBL |LAGAB×LAGAR| https://www.ebl.lmu.de/signs/|LAGAB×LAGAR|
 @end sign
 
 @sign |LAGAB×LU|
@@ -24737,8 +24722,8 @@
 @v	akkan₃
 @v	elamkuš₂
 @v	ellamkuš₂
-@link eBL |LAGAB×LU| https://www.ebl.lmu.de/signs/|LAGAB×LU|
-@link Wikidata Q87555944 http://www.wikidata.org/entity/Q87555944
+@link	eBL |LAGAB×LU| https://www.ebl.lmu.de/signs/|LAGAB×LU|
+@link	Wikidata Q87555944 http://www.wikidata.org/entity/Q87555944
 @form |LAGAB×(IM.LU)|
 @oid	o0023056
 @inote	dcclt !sg
@@ -24756,8 +24741,8 @@
 @v	bara₉
 @v	irib₂
 @v	para₉
-@link eBL |LAGAB×LUL| https://www.ebl.lmu.de/signs/|LAGAB×LUL|
-@link Wikidata Q87555946 http://www.wikidata.org/entity/Q87555946
+@link	eBL |LAGAB×LUL| https://www.ebl.lmu.de/signs/|LAGAB×LUL|
+@link	Wikidata Q87555946 http://www.wikidata.org/entity/Q87555946
 @end sign
 
 @sign |LAGAB×(ME.EN)|
@@ -24772,8 +24757,8 @@
 @v	bara₆
 @v	men₄
 @v	para₆
-@link eBL |LAGAB×(ME.EN)| https://www.ebl.lmu.de/signs/|LAGAB×(ME.EN)|
-@link Wikidata Q87555950 http://www.wikidata.org/entity/Q87555950
+@link	eBL |LAGAB×(ME.EN)| https://www.ebl.lmu.de/signs/|LAGAB×(ME.EN)|
+@link	Wikidata Q87555950 http://www.wikidata.org/entity/Q87555950
 @end sign
 
 @compoundonly	|LAGAB×MU|
@@ -24788,16 +24773,8 @@
 @ucun	𒇚
 @uage	5.0
 @v	muššagana
-@link eBL |LAGAB×MUŠ| https://www.ebl.lmu.de/signs/|LAGAB×MUŠ|
-@link Wikidata Q87555952 http://www.wikidata.org/entity/Q87555952
-@end sign
-
-@sign |LAGAB×1(N01)|
-@oid	o0027185
-@list	BAU268
-@list	LAK772
-@v	gigirₓ?
-@inote	|LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
+@link	eBL |LAGAB×MUŠ| https://www.ebl.lmu.de/signs/|LAGAB×MUŠ|
+@link	Wikidata Q87555952 http://www.wikidata.org/entity/Q87555952
 @end sign
 
 @sign |LAGAB×NE|
@@ -24809,8 +24786,8 @@
 @ucun	𒇛
 @uage	5.0
 @v	udub
-@link eBL |LAGAB×NE| https://www.ebl.lmu.de/signs/|LAGAB×NE|
-@link Wikidata Q87555953 http://www.wikidata.org/entity/Q87555953
+@link	eBL |LAGAB×NE| https://www.ebl.lmu.de/signs/|LAGAB×NE|
+@link	Wikidata Q87555953 http://www.wikidata.org/entity/Q87555953
 @end sign
 
 @sign |LAGAB×PA|
@@ -24864,15 +24841,15 @@
 @ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 o i 61'
 @inote	salgues
 @v	zur₄
-@link eBL |LAGAB×SUM| https://www.ebl.lmu.de/signs/|LAGAB×SUM|
-@link Wikidata Q87555965 http://www.wikidata.org/entity/Q87555965
+@link	eBL |LAGAB×SUM| https://www.ebl.lmu.de/signs/|LAGAB×SUM|
+@link	Wikidata Q87555965 http://www.wikidata.org/entity/Q87555965
 @end sign
 
 @sign |LAGAB×ŠE|
 @oid	o0001840
 @inote	epsd2
 @v	surₓ
-@link eBL |LAGAB×ŠE| https://www.ebl.lmu.de/signs/|LAGAB×ŠE|
+@link	eBL |LAGAB×ŠE| https://www.ebl.lmu.de/signs/|LAGAB×ŠE|
 @end sign
 
 @sign |LAGAB×(ŠE.SUM)|
@@ -24889,8 +24866,8 @@
 @v	zar₇
 @ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 30a
 @inote	salgues
-@link eBL |LAGAB×(ŠE.SUM)| https://www.ebl.lmu.de/signs/|LAGAB×(ŠE.SUM)|
-@link Wikidata Q87555956 http://www.wikidata.org/entity/Q87555956
+@link	eBL |LAGAB×(ŠE.SUM)| https://www.ebl.lmu.de/signs/|LAGAB×(ŠE.SUM)|
+@link	Wikidata Q87555956 http://www.wikidata.org/entity/Q87555956
 @end sign
 
 @sign |LAGAB×ŠITA|
@@ -24917,8 +24894,8 @@
 @v	muššagana₂?
 @v	sagdudu
 @v	saŋdudu
-@link eBL |LAGAB×(ŠITA@t.GIŠ)| https://www.ebl.lmu.de/signs/|LAGAB×(ŠITA@t.GIŠ)|
-@link Wikidata Q87555960 http://www.wikidata.org/entity/Q87555960
+@link	eBL |LAGAB×(ŠITA@t.GIŠ)| https://www.ebl.lmu.de/signs/|LAGAB×(ŠITA@t.GIŠ)|
+@link	Wikidata Q87555960 http://www.wikidata.org/entity/Q87555960
 @form |LAGAB×(ŠITA.GIŠ)|
 @oid	o0001792
 @v	me₉
@@ -24939,7 +24916,7 @@
 @v	meₓ
 @v	sagduduₓ
 @v	saŋduduₓ
-@link Wikidata Q87555958 http://www.wikidata.org/entity/Q87555958
+@link	Wikidata Q87555958 http://www.wikidata.org/entity/Q87555958
 @@
 @form |LAGAB×(ŠITA@t.GIŠ.ERIN₂)|
 @oid	o0023057
@@ -24964,8 +24941,8 @@
 @uage	5.0
 @v	šu₅
 @v	šuš₅
-@link eBL |LAGAB×ŠU₂| https://www.ebl.lmu.de/signs/|LAGAB×ŠU₂|
-@link Wikidata Q87555962 http://www.wikidata.org/entity/Q87555962
+@link	eBL |LAGAB×ŠU₂| https://www.ebl.lmu.de/signs/|LAGAB×ŠU₂|
+@link	Wikidata Q87555962 http://www.wikidata.org/entity/Q87555962
 @end sign
 
 @sign |LAGAB×(ŠU₂.ŠU₂)|
@@ -24979,8 +24956,8 @@
 @uage	5.0
 @v	šu₆
 @v	šuš₆
-@link eBL |LAGAB×(ŠU₂.ŠU₂)| https://www.ebl.lmu.de/signs/|LAGAB×(ŠU₂.ŠU₂)|
-@link Wikidata Q87555963 http://www.wikidata.org/entity/Q87555963
+@link	eBL |LAGAB×(ŠU₂.ŠU₂)| https://www.ebl.lmu.de/signs/|LAGAB×(ŠU₂.ŠU₂)|
+@link	Wikidata Q87555963 http://www.wikidata.org/entity/Q87555963
 @end sign
 
 @sign |LAGAB×TAG|
@@ -24993,8 +24970,8 @@
 @v	sidugga₃
 @ref	MAOG 11/1-2 99-109, pl. 1 VAT 10172 = dcclt/signlists:PP282497 o iii 23
 @inote	salgues
-@link eBL |LAGAB×TAG| https://www.ebl.lmu.de/signs/|LAGAB×TAG|
-@link Wikidata Q87555967 http://www.wikidata.org/entity/Q87555967
+@link	eBL |LAGAB×TAG| https://www.ebl.lmu.de/signs/|LAGAB×TAG|
+@link	Wikidata Q87555967 http://www.wikidata.org/entity/Q87555967
 @end sign
 
 @sign |LAGAB×TAK₄|
@@ -25011,8 +24988,8 @@
 @v	šara₃
 @v	šuru₂
 @v	šurun₂
-@link eBL |LAGAB×TAK₄| https://www.ebl.lmu.de/signs/|LAGAB×TAK₄|
-@link Wikidata Q87555968 http://www.wikidata.org/entity/Q87555968
+@link	eBL |LAGAB×TAK₄| https://www.ebl.lmu.de/signs/|LAGAB×TAK₄|
+@link	Wikidata Q87555968 http://www.wikidata.org/entity/Q87555968
 @end sign
 
 @sign |LAGAB×(TE.A.SU.NA)|
@@ -25025,8 +25002,8 @@
 @ucun	𒇤
 @uage	5.0
 @v	šedur
-@link eBL |LAGAB×(TE.A.SU.NA)| https://www.ebl.lmu.de/signs/|LAGAB×(TE.A.SU.NA)|
-@link Wikidata Q87555970 http://www.wikidata.org/entity/Q87555970
+@link	eBL |LAGAB×(TE.A.SU.NA)| https://www.ebl.lmu.de/signs/|LAGAB×(TE.A.SU.NA)|
+@link	Wikidata Q87555970 http://www.wikidata.org/entity/Q87555970
 @end sign
 
 @sign |LAGAB×TUK|
@@ -25068,12 +25045,8 @@
 @v	tul₂
 @v	ṭul
 @v	ub₄
-@link eBL |LAGAB×U| https://www.ebl.lmu.de/signs/|LAGAB×U|
-@link Wikidata Q87555973 http://www.wikidata.org/entity/Q87555973
-@form |LAGAB×1(N01)|
-@oid	o0027185
-@inote	P519405 iii 5 in PN tul₂-saŋ
-@@
+@link	eBL |LAGAB×U| https://www.ebl.lmu.de/signs/|LAGAB×U|
+@link	Wikidata Q87555973 http://www.wikidata.org/entity/Q87555973
 @form |LAGAB×TIL|
 @oid	o0001835
 @list	ELLES377
@@ -25081,7 +25054,11 @@
 @list	PTACE312
 @v	gigirₓ
 @v	pu₂
-@link eBL |LAGAB×TIL| https://www.ebl.lmu.de/signs/|LAGAB×TIL|
+@link	eBL |LAGAB×TIL| https://www.ebl.lmu.de/signs/|LAGAB×TIL|
+@@
+@form |LAGAB×1(N01)|
+@oid	o0027185
+@inote	P519405 iii 5 in PN tul₂-saŋ
 @@
 @end sign
 
@@ -25104,8 +25081,8 @@
 @v	umah
 @v	umuh
 @v	umun₅
-@link eBL |LAGAB×(U.A)| https://www.ebl.lmu.de/signs/|LAGAB×(U.A)|
-@link Wikidata Q87555975 http://www.wikidata.org/entity/Q87555975
+@link	eBL |LAGAB×(U.A)| https://www.ebl.lmu.de/signs/|LAGAB×(U.A)|
+@link	Wikidata Q87555975 http://www.wikidata.org/entity/Q87555975
 @form |LAGAB×(A.U)|
 @oid	o0022986
 @v	humuh
@@ -25142,8 +25119,8 @@
 @v	tuk₄
 @v	tuku₄
 @v	zansur
-@link eBL |LAGAB×(U.U.U)| https://www.ebl.lmu.de/signs/|LAGAB×(U.U.U)|
-@link Wikidata Q87555977 http://www.wikidata.org/entity/Q87555977
+@link	eBL |LAGAB×(U.U.U)| https://www.ebl.lmu.de/signs/|LAGAB×(U.U.U)|
+@link	Wikidata Q87555977 http://www.wikidata.org/entity/Q87555977
 @end sign
 
 @sign |LAGAB×(U.U.U).LAGAB×(U.U.U)|
@@ -25164,7 +25141,7 @@
 @v	tutke
 @v	tutki
 @v	tutku
-@link eBL |LAGAB×(U.U.U).LAGAB×(U.U.U)| https://www.ebl.lmu.de/signs/|LAGAB×(U.U.U).LAGAB×(U.U.U)|
+@link	eBL |LAGAB×(U.U.U).LAGAB×(U.U.U)| https://www.ebl.lmu.de/signs/|LAGAB×(U.U.U).LAGAB×(U.U.U)|
 @end sign
 
 @compoundonly	|(LAGAB×U)&(LAGAB×U)|
@@ -25182,8 +25159,8 @@
 @v	ugri
 @v	ušera
 @v	ušeri
-@link eBL |LAGAB×(U₂.AŠ)| https://www.ebl.lmu.de/signs/|LAGAB×(U₂.AŠ)|
-@link Wikidata Q87555978 http://www.wikidata.org/entity/Q87555978
+@link	eBL |LAGAB×(U₂.AŠ)| https://www.ebl.lmu.de/signs/|LAGAB×(U₂.AŠ)|
+@link	Wikidata Q87555978 http://www.wikidata.org/entity/Q87555978
 @end sign
 
 @sign |LAGAB×(U₂.AŠ@t)|
@@ -25201,14 +25178,8 @@
 @uage	5.0
 @v	umun₁₂?
 @v	umuna₁₂
-@link eBL |LAGAB×UD| https://www.ebl.lmu.de/signs/|LAGAB×UD|
-@link Wikidata Q87555980 http://www.wikidata.org/entity/Q87555980
-@end sign
-
-@sign |LAGAB×KALAM@g|
-@aka |LAGAB×UN|
-@oid	o0001837
-@link eBL |LAGAB×UN| https://www.ebl.lmu.de/signs/|LAGAB×UN|
+@link	eBL |LAGAB×UD| https://www.ebl.lmu.de/signs/|LAGAB×UD|
+@link	Wikidata Q87555980 http://www.wikidata.org/entity/Q87555980
 @end sign
 
 @sign |LAGAB×UŠ|
@@ -25223,8 +25194,8 @@
 @v	niŋimₓ
 @v	niŋin₁₁
 @v	nimenₓ
-@link eBL |LAGAB×UŠ| https://www.ebl.lmu.de/signs/|LAGAB×UŠ|
-@link Wikidata Q87555982 http://www.wikidata.org/entity/Q87555982
+@link	eBL |LAGAB×UŠ| https://www.ebl.lmu.de/signs/|LAGAB×UŠ|
+@link	Wikidata Q87555982 http://www.wikidata.org/entity/Q87555982
 @end sign
 
 @sign |LAGAB×X|
@@ -25244,8 +25215,16 @@
 @list	U+124D4
 @ucun	𒓔
 @uage	8.0
-@link eBL |LAGAB×(ZU&ZU)| https://www.ebl.lmu.de/signs/|LAGAB×(ZU&ZU)|
-@link Wikidata Q87557251 http://www.wikidata.org/entity/Q87557251
+@link	eBL |LAGAB×(ZU&ZU)| https://www.ebl.lmu.de/signs/|LAGAB×(ZU&ZU)|
+@link	Wikidata Q87557251 http://www.wikidata.org/entity/Q87557251
+@end sign
+
+@sign |LAGAB×1(N01)|
+@oid	o0027185
+@list	BAU268
+@list	LAK772
+@v	gigirₓ?
+@inote	|LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
 @end sign
 
 @compoundonly	|LAGAB&LAGAB|
@@ -25274,8 +25253,8 @@
 @v	lagal
 @v	lagar
 @v	nagal
-@link eBL LAGAR https://www.ebl.lmu.de/signs/LAGAR
-@link Wikidata Q87555985 http://www.wikidata.org/entity/Q87555985
+@link	eBL LAGAR https://www.ebl.lmu.de/signs/LAGAR
+@link	Wikidata Q87555985 http://www.wikidata.org/entity/Q87555985
 @end sign
 
 @sign |LAGAR.HUL₂|
@@ -25290,7 +25269,7 @@
 @useq	x121EC.x12141
 @ucun	𒇬𒅁
 @v	arkabₓ
-@link eBL |LAGAR.IB| https://www.ebl.lmu.de/signs/|LAGAR.IB|
+@link	eBL |LAGAR.IB| https://www.ebl.lmu.de/signs/|LAGAR.IB|
 @end sign
 
 @compoundonly	|LAGAR×GAR|
@@ -25302,7 +25281,7 @@
 @sign |LAGAR×SUM|
 @oid	o0001852
 @v	suₓ
-@link eBL |LAGAR×SUM| https://www.ebl.lmu.de/signs/|LAGAR×SUM|
+@link	eBL |LAGAR×SUM| https://www.ebl.lmu.de/signs/|LAGAR×SUM|
 @end sign
 
 @sign |LAGAR×ŠE|
@@ -25324,8 +25303,8 @@
 @v	sululₓ
 @v	sur₁₂
 @v	sura₁₂
-@link eBL |LAGAR×ŠE| https://www.ebl.lmu.de/signs/|LAGAR×ŠE|
-@link Wikidata Q87555987 http://www.wikidata.org/entity/Q87555987
+@link	eBL |LAGAR×ŠE| https://www.ebl.lmu.de/signs/|LAGAR×ŠE|
+@link	Wikidata Q87555987 http://www.wikidata.org/entity/Q87555987
 @end sign
 
 @sign |LAGAR×(ŠE.SUM)|
@@ -25341,8 +25320,8 @@
 @v	suhirim
 @v	suhirin
 @v	xbunₓ
-@link eBL |LAGAR×(ŠE.SUM)| https://www.ebl.lmu.de/signs/|LAGAR×(ŠE.SUM)|
-@link Wikidata Q87555989 http://www.wikidata.org/entity/Q87555989
+@link	eBL |LAGAR×(ŠE.SUM)| https://www.ebl.lmu.de/signs/|LAGAR×(ŠE.SUM)|
+@link	Wikidata Q87555989 http://www.wikidata.org/entity/Q87555989
 @end sign
 
 @compoundonly	|LAGAR×TAK₄|
@@ -25383,8 +25362,8 @@
 @v	tu₂₁
 @v	tul₅
 @v	ṭul₃
-@link eBL LAGAR@g https://www.ebl.lmu.de/signs/LAGAR@g
-@link Wikidata Q87555990 http://www.wikidata.org/entity/Q87555990
+@link	eBL LAGAR@g https://www.ebl.lmu.de/signs/LAGAR@g
+@link	Wikidata Q87555990 http://www.wikidata.org/entity/Q87555990
 @end sign
 
 @sign |LAGAR@g.DU|
@@ -25396,7 +25375,7 @@
 @v	e₁₁
 @v	ed₃
 @v	gigir₄?
-@link eBL |LAGAR@g.DU| https://www.ebl.lmu.de/signs/|LAGAR@g.DU|
+@link	eBL |LAGAR@g.DU| https://www.ebl.lmu.de/signs/|LAGAR@g.DU|
 @end sign
 
 @sign |LAGAR@g.DU@s|
@@ -25405,7 +25384,7 @@
 @ucun	𒇯𒁽
 @v	e₁₂
 @v	ed₄
-@link eBL |LAGAR@g.DU@s| https://www.ebl.lmu.de/signs/|LAGAR@g.DU@s|
+@link	eBL |LAGAR@g.DU@s| https://www.ebl.lmu.de/signs/|LAGAR@g.DU@s|
 @end sign
 
 @sign |LAGAR@g×ŠE|
@@ -25430,8 +25409,8 @@
 @v	sumunda
 @v	šumunₓ
 @v	šumunda
-@link eBL |LAGAR@g&LAGAR@g.ŠE| https://www.ebl.lmu.de/signs/|LAGAR@g&LAGAR@g.ŠE|
-@link Wikidata Q87555993 http://www.wikidata.org/entity/Q87555993
+@link	eBL |LAGAR@g&LAGAR@g.ŠE| https://www.ebl.lmu.de/signs/|LAGAR@g&LAGAR@g.ŠE|
+@link	Wikidata Q87555993 http://www.wikidata.org/entity/Q87555993
 @form |LAGAR@g&LAGAR@g|
 @oid	o0001848
 @@
@@ -25468,8 +25447,8 @@
 @v	luhšu
 @v	ulu₂
 @v-	utul₁₂
-@link eBL LAHŠU https://www.ebl.lmu.de/signs/LAHŠU
-@link Wikidata Q87555996 http://www.wikidata.org/entity/Q87555996
+@link	eBL LAHŠU https://www.ebl.lmu.de/signs/LAHŠU
+@link	Wikidata Q87555996 http://www.wikidata.org/entity/Q87555996
 @form |HI×NUN.ME.BAD|
 @oid	o0022964
 @inote	dcclt !sg
@@ -25483,7 +25462,7 @@
 @note	see MZL, p236.
 @useq	x12134.x12228.x1230B
 @ucun	𒄴𒈨𒌋
-@link eBL |HI×NUN.ME.U| https://www.ebl.lmu.de/signs/|HI×NUN.ME.U|
+@link	eBL |HI×NUN.ME.U| https://www.ebl.lmu.de/signs/|HI×NUN.ME.U|
 @@
 @form |MUŠ×PA|
 @oid	o0002034
@@ -25518,8 +25497,8 @@
 @v	šuruₓ
 @v	zur₅
 @v	zuru₅
-@link eBL LAL https://www.ebl.lmu.de/signs/LAL
-@link Wikidata Q87555998 http://www.wikidata.org/entity/Q87555998
+@link	eBL LAL https://www.ebl.lmu.de/signs/LAL
+@link	Wikidata Q87555998 http://www.wikidata.org/entity/Q87555998
 @form LAL@r
 @oid	o0028130
 @inote	dccmt
@@ -25547,7 +25526,7 @@
 @ucun	𒇲𒆕
 @v	laʾu₇
 @v	lalʾu₇
-@link eBL |LAL.KAK| https://www.ebl.lmu.de/signs/|LAL.KAK|
+@link	eBL |LAL.KAK| https://www.ebl.lmu.de/signs/|LAL.KAK|
 @end sign
 
 @sign |LAL.LAGAB|
@@ -25564,7 +25543,7 @@
 @v	usur₄
 @v	ušar₄
 @v	ušur₄
-@link eBL |LAL.LAGAB| https://www.ebl.lmu.de/signs/|LAL.LAGAB|
+@link	eBL |LAL.LAGAB| https://www.ebl.lmu.de/signs/|LAL.LAGAB|
 @end sign
 
 @sign |LAL.NI|
@@ -25574,7 +25553,7 @@
 @ucun	𒇲𒉌
 @v	laʾu₆
 @v	lalʾu₆
-@link eBL |LAL.NI| https://www.ebl.lmu.de/signs/|LAL.NI|
+@link	eBL |LAL.NI| https://www.ebl.lmu.de/signs/|LAL.NI|
 @end sign
 
 @sign |LAL.SAR|
@@ -25589,7 +25568,7 @@
 @v	usar₂
 @v	ušar₂
 @v	ušur₂
-@link eBL |LAL.SAR| https://www.ebl.lmu.de/signs/|LAL.SAR|
+@link	eBL |LAL.SAR| https://www.ebl.lmu.de/signs/|LAL.SAR|
 @end sign
 
 @sign |LAL×DIŠ|
@@ -25626,8 +25605,8 @@
 @v	lalla
 @v	lallal
 @v	papnun
-@link eBL LAL₂ https://www.ebl.lmu.de/signs/LAL₂
-@link Wikidata Q87556000 http://www.wikidata.org/entity/Q87556000
+@link	eBL LAL₂ https://www.ebl.lmu.de/signs/LAL₂
+@link	Wikidata Q87556000 http://www.wikidata.org/entity/Q87556000
 @form |LAL%LAL|
 @oid	o0031611
 @@
@@ -25639,7 +25618,7 @@
 @ucun	𒇳𒀀
 @v	laʾu₂
 @v	lalʾu₂
-@link eBL |LAL₂.A| https://www.ebl.lmu.de/signs/|LAL₂.A|
+@link	eBL |LAL₂.A| https://www.ebl.lmu.de/signs/|LAL₂.A|
 @end sign
 
 @sign |LAL₂.AŠ₂|
@@ -25658,7 +25637,7 @@
 @v	tukuₓ
 @v	uku₂
 @v	ukur₃
-@link eBL |LAL₂.DU| https://www.ebl.lmu.de/signs/|LAL₂.DU|
+@link	eBL |LAL₂.DU| https://www.ebl.lmu.de/signs/|LAL₂.DU|
 @form |LAL₂×DU|
 @oid	o0027630
 @list	LAK762
@@ -25678,7 +25657,7 @@
 @ucun	𒇳𒁺𒁺
 @v	uku₅
 @v	ukur₄
-@link eBL |LAL₂.DU.DU| https://www.ebl.lmu.de/signs/|LAL₂.DU.DU|
+@link	eBL |LAL₂.DU.DU| https://www.ebl.lmu.de/signs/|LAL₂.DU.DU|
 @end sign
 
 @sign |LAL₂.DUR₂|
@@ -25698,7 +25677,7 @@
 @v	halbu₄
 @v	halpiₓ
 @v	halpiaₓ
-@link eBL |LAL₂.HAL| https://www.ebl.lmu.de/signs/|LAL₂.HAL|
+@link	eBL |LAL₂.HAL| https://www.ebl.lmu.de/signs/|LAL₂.HAL|
 @form |LAL₂×HAL|
 @oid	o0027873
 @@
@@ -25710,7 +25689,7 @@
 @ucun	𒇳𒆕
 @v	laʾu₄
 @v	lalʾu₄
-@link eBL |LAL₂.KAK| https://www.ebl.lmu.de/signs/|LAL₂.KAK|
+@link	eBL |LAL₂.KAK| https://www.ebl.lmu.de/signs/|LAL₂.KAK|
 @end sign
 
 @sign |LAL₂.LAGAB|
@@ -25728,7 +25707,7 @@
 @v	ušar₃
 @v	ušur₃
 @sys	Attinger niŋen₅ => niŋin₆
-@link eBL |LAL₂.LAGAB| https://www.ebl.lmu.de/signs/|LAL₂.LAGAB|
+@link	eBL |LAL₂.LAGAB| https://www.ebl.lmu.de/signs/|LAL₂.LAGAB|
 @end sign
 
 @sign |LAL₂.NI|
@@ -25737,7 +25716,7 @@
 @ucun	𒇳𒉌
 @v	laʾu₃
 @v	lalʾu₃
-@link eBL |LAL₂.NI| https://www.ebl.lmu.de/signs/|LAL₂.NI|
+@link	eBL |LAL₂.NI| https://www.ebl.lmu.de/signs/|LAL₂.NI|
 @end sign
 
 @sign |LAL₂.SAR|
@@ -25755,7 +25734,7 @@
 @v	usur
 @v	ušar
 @v	ušur
-@link eBL |LAL₂.SAR| https://www.ebl.lmu.de/signs/|LAL₂.SAR|
+@link	eBL |LAL₂.SAR| https://www.ebl.lmu.de/signs/|LAL₂.SAR|
 @end sign
 
 @sign |LAL₂.TUG₂|
@@ -25765,7 +25744,7 @@
 @v	surₓ
 @v	usarₓ
 @v	ušurₓ
-@link eBL |LAL₂.TUG₂| https://www.ebl.lmu.de/signs/|LAL₂.TUG₂|
+@link	eBL |LAL₂.TUG₂| https://www.ebl.lmu.de/signs/|LAL₂.TUG₂|
 @form |LAL.TUG₂|
 @oid	o0221870
 @useq	x121F2.x12306
@@ -25790,7 +25769,7 @@
 @v	lalʾu₈
 @ref	CT 35, pl. 1-8, BM 108862 = dcclt/signlists:P453275 r i 45
 @inote	salgues
-@link eBL |LAL₂.U| https://www.ebl.lmu.de/signs/|LAL₂.U|
+@link	eBL |LAL₂.U| https://www.ebl.lmu.de/signs/|LAL₂.U|
 @end sign
 
 @sign |LAL₂.URU×MIN|
@@ -25805,7 +25784,7 @@
 @inote	salgues
 @v	halpi
 @v	halpia
-@link eBL |LAL₂.URU×MIN| https://www.ebl.lmu.de/signs/|LAL₂.URU×MIN|
+@link	eBL |LAL₂.URU×MIN| https://www.ebl.lmu.de/signs/|LAL₂.URU×MIN|
 @form |LAL₂.URU|
 @oid	o0023060
 @inote	dcclt !sg
@@ -25835,7 +25814,7 @@
 
 @sign |LAL₂×KU|
 @oid	o0038099
-@inote dsst P276688 o 5
+@inote	dsst P276688 o 5
 @end sign
 
 @sign |LAL₂×LAGAB|
@@ -25879,8 +25858,8 @@
 @v	lim₃
 @v	lugₓ
 @v	lum₄
-@link eBL LAM https://www.ebl.lmu.de/signs/LAM
-@link Wikidata Q87556001 http://www.wikidata.org/entity/Q87556001
+@link	eBL LAM https://www.ebl.lmu.de/signs/LAM
+@link	Wikidata Q87556001 http://www.wikidata.org/entity/Q87556001
 @end sign
 
 @sign |LAM.HI×DIŠ|
@@ -25889,7 +25868,7 @@
 @useq	x121F4.x12131
 @ucun	𒇴𒄱
 @v	arattaₓ
-@link eBL |LAM.HI×DIŠ| https://www.ebl.lmu.de/signs/|LAM.HI×DIŠ|
+@link	eBL |LAM.HI×DIŠ| https://www.ebl.lmu.de/signs/|LAM.HI×DIŠ|
 @end sign
 
 @sign |LAM.SAG|
@@ -25897,7 +25876,7 @@
 @useq	x121F4.x12295
 @ucun	𒇴𒊕
 @v	šubaₓ
-@link eBL |LAM.SAG| https://www.ebl.lmu.de/signs/|LAM.SAG|
+@link	eBL |LAM.SAG| https://www.ebl.lmu.de/signs/|LAM.SAG|
 @end sign
 
 @sign |LAM×KUR|
@@ -25919,8 +25898,8 @@
 @v	iš₁₁
 @v	kimₓ
 @v	lam₇?
-@link eBL |LAM×KUR| https://www.ebl.lmu.de/signs/|LAM×KUR|
-@link Wikidata Q87556003 http://www.wikidata.org/entity/Q87556003
+@link	eBL |LAM×KUR| https://www.ebl.lmu.de/signs/|LAM×KUR|
+@link	Wikidata Q87556003 http://www.wikidata.org/entity/Q87556003
 @end sign
 
 @sign |LAM×KUR.KI|
@@ -25946,8 +25925,8 @@
 @v	šurippak₂
 @v	šurupak₂
 @v	šuruppak₂
-@link eBL |LAM×(KUR.RU)| https://www.ebl.lmu.de/signs/|LAM×(KUR.RU)|
-@link Wikidata Q87556005 http://www.wikidata.org/entity/Q87556005
+@link	eBL |LAM×(KUR.RU)| https://www.ebl.lmu.de/signs/|LAM×(KUR.RU)|
+@link	Wikidata Q87556005 http://www.wikidata.org/entity/Q87556005
 @form |LAM.KUR.RU|
 @oid	o0023061
 @inote	dcclt !sg
@@ -25975,7 +25954,95 @@
 @useq	x121F5.x12292.x12055
 @ucun	𒇵𒊒𒁕
 @v	arattaₓ
-@link eBL |LAM×KUR.RU.DA| https://www.ebl.lmu.de/signs/|LAM×KUR.RU.DA|
+@link	eBL |LAM×KUR.RU.DA| https://www.ebl.lmu.de/signs/|LAM×KUR.RU.DA|
+@end sign
+
+@sign LAK3
+@oid	o0000349
+@list	LAK003
+@uname	CUNEIFORM SIGN LAK3
+@list	U+124D5
+@ucun	𒓕
+@uage	8.0
+@link	eBL LAK3 https://www.ebl.lmu.de/signs/LAK3
+@link	Wikidata Q87557253 http://www.wikidata.org/entity/Q87557253
+@end sign
+
+@sign LAK11
+@oid	o0000311
+@list	LAK011
+@note	delete
+@link	eBL LAK11 https://www.ebl.lmu.de/signs/LAK11
+@end sign
+
+@sign LAK13
+@oid	o0000313
+@list	LAK013
+@link	eBL LAK13 https://www.ebl.lmu.de/signs/LAK13
+@end sign
+
+@sign LAK20
+@oid	o0000321
+@list	ELLES013
+@list	LAK020
+@inote	@uname-no-utf8	CUNEIFORM SIGN LAK20
+@v	balaₓ
+@inote	ed12
+@v	megidaₓ
+@inote	megida(LAK20){zabar} in dcclt ED
+@link	eBL LAK20 https://www.ebl.lmu.de/signs/LAK20
+@end sign
+
+@sign LAK21
+@oid	o0000322
+@list	LAK021
+@uname	CUNEIFORM SIGN LAK21
+@list	U+124D6
+@ucun	𒓖
+@uage	8.0
+@link	eBL LAK21 https://www.ebl.lmu.de/signs/LAK21
+@link	Wikidata Q87557256 http://www.wikidata.org/entity/Q87557256
+@end sign
+
+@sign LAK25
+@oid	o0000338
+@list	BAU076
+@list	LAK025
+@uname	CUNEIFORM SIGN LAK25
+@list	U+124D7
+@ucun	𒓗
+@uage	8.0
+@link	eBL LAK25 https://www.ebl.lmu.de/signs/LAK25
+@link	Wikidata Q87557258 http://www.wikidata.org/entity/Q87557258
+@end sign
+
+@sign LAK27
+@oid	o0000344
+@list	LAK027
+@link	eBL LAK27 https://www.ebl.lmu.de/signs/LAK27
+@end sign
+
+@sign LAK28
+@oid	o0000345
+@list	LAK028
+@link	eBL LAK28 https://www.ebl.lmu.de/signs/LAK28
+@end sign
+
+@sign LAK30
+@oid	o0000350
+@list	LAK030
+@uname	CUNEIFORM SIGN LAK30
+@list	U+124D8
+@ucun	𒓘
+@uage	8.0
+@link	eBL LAK30 https://www.ebl.lmu.de/signs/LAK30
+@link	Wikidata Q87557259 http://www.wikidata.org/entity/Q87557259
+@end sign
+
+@sign LAK37
+@oid	o0000362
+@list	LAK037
+@link	eBL LAK37 https://www.ebl.lmu.de/signs/LAK37
 @end sign
 
 @sign LAK046@v
@@ -25989,6 +26056,18 @@
 @list	ELLES277
 @list	LAK046a
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+
+@sign LAK50
+@oid	o0000390
+@list	LAK050
+@uname	CUNEIFORM SIGN LAK50
+@list	U+124D9
+@ucun	𒓙
+@uage	8.0
+@v	gurₓ
+@link	eBL LAK50 https://www.ebl.lmu.de/signs/LAK50
+@link	Wikidata Q87557261 http://www.wikidata.org/entity/Q87557261
 @end sign
 
 @sign LAK079
@@ -26005,7 +26084,45 @@
 @list	U+124DC
 @ucun	𒓜
 @uage	8.0
-@link Wikidata Q87557266 http://www.wikidata.org/entity/Q87557266
+@link	Wikidata Q87557266 http://www.wikidata.org/entity/Q87557266
+@end sign
+
+@sign LAK80
+@oid	o0000418
+@list	LAK080
+@uname	CUNEIFORM SIGN LAK80
+@list	U+124DD
+@ucun	𒓝
+@uage	8.0
+@link	eBL LAK80 https://www.ebl.lmu.de/signs/LAK80
+@link	Wikidata Q87557268 http://www.wikidata.org/entity/Q87557268
+@end sign
+
+@sign LAK81
+@oid	o0027563
+@inote	for lak.atf
+@end sign
+
+@sign |LAK81&LAK81|
+@oid	o0001886
+@list	LAK081a
+@uname	CUNEIFORM SIGN LAK81 OVER LAK81
+@list	U+124DE
+@ucun	𒓞
+@uage	8.0
+@link	eBL |LAK81&LAK81| https://www.ebl.lmu.de/signs/|LAK81&LAK81|
+@link	Wikidata Q87557270 http://www.wikidata.org/entity/Q87557270
+@end sign
+
+@sign LAK92
+@oid	o0000421
+@list	LAK092
+@uname	CUNEIFORM SIGN LAK92
+@list	U+124DF
+@ucun	𒓟
+@uage	8.0
+@link	eBL LAK92 https://www.ebl.lmu.de/signs/LAK92
+@link	Wikidata Q87557273 http://www.wikidata.org/entity/Q87557273
 @end sign
 
 @sign LAK093
@@ -26013,26 +26130,13 @@
 @list	LAK093
 @list	RSP344
 @inote	epsd2
-@link eBL LAK093 https://www.ebl.lmu.de/signs/LAK093
-@end sign
-
-@sign LAK11
-@oid	o0000311
-@list	LAK011
-@note	delete
-@link eBL LAK11 https://www.ebl.lmu.de/signs/LAK11
+@link	eBL LAK093 https://www.ebl.lmu.de/signs/LAK093
 @end sign
 
 @sign LAK120
 @oid	o0000312
 @list	LAK120
-@link eBL LAK120 https://www.ebl.lmu.de/signs/LAK120
-@end sign
-
-@sign LAK13
-@oid	o0000313
-@list	LAK013
-@link eBL LAK13 https://www.ebl.lmu.de/signs/LAK13
+@link	eBL LAK120 https://www.ebl.lmu.de/signs/LAK120
 @end sign
 
 @sign LAK130
@@ -26042,14 +26146,14 @@
 @list	U+124E0
 @ucun	𒓠
 @uage	8.0
-@link eBL LAK130 https://www.ebl.lmu.de/signs/LAK130
-@link Wikidata Q87557274 http://www.wikidata.org/entity/Q87557274
+@link	eBL LAK130 https://www.ebl.lmu.de/signs/LAK130
+@link	Wikidata Q87557274 http://www.wikidata.org/entity/Q87557274
 @end sign
 
 @sign LAK132
 @oid	o0000315
 @list	LAK132
-@link eBL LAK132 https://www.ebl.lmu.de/signs/LAK132
+@link	eBL LAK132 https://www.ebl.lmu.de/signs/LAK132
 @end sign
 
 @sign LAK141
@@ -26065,15 +26169,15 @@
 @list	U+124E1
 @ucun	𒓡
 @uage	8.0
-@link eBL LAK142 https://www.ebl.lmu.de/signs/LAK142
-@link Wikidata Q87557276 http://www.wikidata.org/entity/Q87557276
+@link	eBL LAK142 https://www.ebl.lmu.de/signs/LAK142
+@link	Wikidata Q87557276 http://www.wikidata.org/entity/Q87557276
 @end sign
 
 @sign LAK151
 @oid	o0000317
 @list	LAK151
 @list	RSP365
-@link eBL LAK151 https://www.ebl.lmu.de/signs/LAK151
+@link	eBL LAK151 https://www.ebl.lmu.de/signs/LAK151
 @end sign
 
 @sign LAK171@s
@@ -26095,7 +26199,7 @@
 @v	talₓ
 @v	tilₓ
 @v	unuₓ
-@link eBL LAK171@s https://www.ebl.lmu.de/signs/LAK171@s
+@link	eBL LAK171@s https://www.ebl.lmu.de/signs/LAK171@s
 @end sign
 
 @sign LAK173
@@ -26104,7 +26208,7 @@
 @list	LAK173
 @list	RSP431
 @v	esirₓ
-@link eBL LAK173 https://www.ebl.lmu.de/signs/LAK173
+@link	eBL LAK173 https://www.ebl.lmu.de/signs/LAK173
 @end sign
 
 @compoundonly	LAK178
@@ -26113,19 +26217,7 @@
 @oid	o0000320
 @list	ELLES115
 @list	LAK195
-@link eBL LAK195 https://www.ebl.lmu.de/signs/LAK195
-@end sign
-
-@sign LAK20
-@oid	o0000321
-@list	ELLES013
-@list	LAK020
-@inote	@uname-no-utf8	CUNEIFORM SIGN LAK20
-@v	balaₓ
-@inote	ed12
-@v	megidaₓ
-@inote	megida(LAK20){zabar} in dcclt ED
-@link eBL LAK20 https://www.ebl.lmu.de/signs/LAK20
+@link	eBL LAK195 https://www.ebl.lmu.de/signs/LAK195
 @end sign
 
 @sign LAK202
@@ -26153,17 +26245,6 @@
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
-@sign LAK21
-@oid	o0000322
-@list	LAK021
-@uname	CUNEIFORM SIGN LAK21
-@list	U+124D6
-@ucun	𒓖
-@uage	8.0
-@link eBL LAK21 https://www.ebl.lmu.de/signs/LAK21
-@link Wikidata Q87557256 http://www.wikidata.org/entity/Q87557256
-@end sign
-
 @sign LAK210
 @oid	o0000323
 @list	LAK210
@@ -26171,14 +26252,14 @@
 @list	U+124E2
 @ucun	𒓢
 @uage	8.0
-@link eBL LAK210 https://www.ebl.lmu.de/signs/LAK210
-@link Wikidata Q87557278 http://www.wikidata.org/entity/Q87557278
+@link	eBL LAK210 https://www.ebl.lmu.de/signs/LAK210
+@link	Wikidata Q87557278 http://www.wikidata.org/entity/Q87557278
 @end sign
 
 @sign LAK213
 @oid	o0000325
 @list	LAK213
-@link eBL LAK213 https://www.ebl.lmu.de/signs/LAK213
+@link	eBL LAK213 https://www.ebl.lmu.de/signs/LAK213
 @end sign
 
 @sign LAK219
@@ -26189,8 +26270,8 @@
 @list	U+124E3
 @ucun	𒓣
 @uage	8.0
-@link eBL LAK219 https://www.ebl.lmu.de/signs/LAK219
-@link Wikidata Q87557280 http://www.wikidata.org/entity/Q87557280
+@link	eBL LAK219 https://www.ebl.lmu.de/signs/LAK219
+@link	Wikidata Q87557280 http://www.wikidata.org/entity/Q87557280
 @end sign
 
 @sign LAK220
@@ -26200,14 +26281,14 @@
 @list	U+124E4
 @ucun	𒓤
 @uage	8.0
-@link eBL LAK220 https://www.ebl.lmu.de/signs/LAK220
-@link Wikidata Q87557284 http://www.wikidata.org/entity/Q87557284
+@link	eBL LAK220 https://www.ebl.lmu.de/signs/LAK220
+@link	Wikidata Q87557284 http://www.wikidata.org/entity/Q87557284
 @end sign
 
 @sign LAK222
 @oid	o0000328
 @list	LAK222
-@link eBL LAK222 https://www.ebl.lmu.de/signs/LAK222
+@link	eBL LAK222 https://www.ebl.lmu.de/signs/LAK222
 @end sign
 
 @sign LAK225
@@ -26217,8 +26298,8 @@
 @list	U+124E5
 @ucun	𒓥
 @uage	8.0
-@link eBL LAK225 https://www.ebl.lmu.de/signs/LAK225
-@link Wikidata Q87557286 http://www.wikidata.org/entity/Q87557286
+@link	eBL LAK225 https://www.ebl.lmu.de/signs/LAK225
+@link	Wikidata Q87557286 http://www.wikidata.org/entity/Q87557286
 @end sign
 
 @sign LAK228
@@ -26228,14 +26309,14 @@
 @list	U+124E6
 @ucun	𒓦
 @uage	8.0
-@link eBL LAK228 https://www.ebl.lmu.de/signs/LAK228
-@link Wikidata Q87557289 http://www.wikidata.org/entity/Q87557289
+@link	eBL LAK228 https://www.ebl.lmu.de/signs/LAK228
+@link	Wikidata Q87557289 http://www.wikidata.org/entity/Q87557289
 @end sign
 
 @sign LAK231
 @oid	o0000331
 @list	LAK231
-@link eBL LAK231 https://www.ebl.lmu.de/signs/LAK231
+@link	eBL LAK231 https://www.ebl.lmu.de/signs/LAK231
 @end sign
 
 @sign LAK234
@@ -26255,20 +26336,20 @@
 @list	U+124E7
 @ucun	𒓧
 @uage	8.0
-@link eBL LAK238 https://www.ebl.lmu.de/signs/LAK238
-@link Wikidata Q87557292 http://www.wikidata.org/entity/Q87557292
+@link	eBL LAK238 https://www.ebl.lmu.de/signs/LAK238
+@link	Wikidata Q87557292 http://www.wikidata.org/entity/Q87557292
 @end sign
 
 @sign LAK241
 @oid	o0000334
 @list	LAK241
-@link eBL LAK241 https://www.ebl.lmu.de/signs/LAK241
+@link	eBL LAK241 https://www.ebl.lmu.de/signs/LAK241
 @end sign
 
 @sign LAK246
 @oid	o0000336
 @list	LAK246
-@link eBL LAK246 https://www.ebl.lmu.de/signs/LAK246
+@link	eBL LAK246 https://www.ebl.lmu.de/signs/LAK246
 @end sign
 
 @compoundonly	LAK248
@@ -26279,22 +26360,10 @@
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
-@sign LAK25
-@oid	o0000338
-@list	BAU076
-@list	LAK025
-@uname	CUNEIFORM SIGN LAK25
-@list	U+124D7
-@ucun	𒓗
-@uage	8.0
-@link eBL LAK25 https://www.ebl.lmu.de/signs/LAK25
-@link Wikidata Q87557258 http://www.wikidata.org/entity/Q87557258
-@end sign
-
 @sign LAK252
 @oid	o0000339
 @list	LAK252
-@link eBL LAK252 https://www.ebl.lmu.de/signs/LAK252
+@link	eBL LAK252 https://www.ebl.lmu.de/signs/LAK252
 @end sign
 
 @sign LAK256
@@ -26314,7 +26383,7 @@
 @oid	o0000340
 @list	ELLES148
 @list	LAK262
-@link eBL LAK262 https://www.ebl.lmu.de/signs/LAK262
+@link	eBL LAK262 https://www.ebl.lmu.de/signs/LAK262
 @end sign
 
 @sign LAK262@g
@@ -26335,8 +26404,8 @@
 @list	U+124E8
 @ucun	𒓨
 @uage	8.0
-@link eBL LAK265 https://www.ebl.lmu.de/signs/LAK265
-@link Wikidata Q87557293 http://www.wikidata.org/entity/Q87557293
+@link	eBL LAK265 https://www.ebl.lmu.de/signs/LAK265
+@link	Wikidata Q87557293 http://www.wikidata.org/entity/Q87557293
 @end sign
 
 @sign LAK266
@@ -26346,20 +26415,8 @@
 @list	U+124E9
 @ucun	𒓩
 @uage	8.0
-@link eBL LAK266 https://www.ebl.lmu.de/signs/LAK266
-@link Wikidata Q87557295 http://www.wikidata.org/entity/Q87557295
-@end sign
-
-@sign LAK27
-@oid	o0000344
-@list	LAK027
-@link eBL LAK27 https://www.ebl.lmu.de/signs/LAK27
-@end sign
-
-@sign LAK28
-@oid	o0000345
-@list	LAK028
-@link eBL LAK28 https://www.ebl.lmu.de/signs/LAK28
+@link	eBL LAK266 https://www.ebl.lmu.de/signs/LAK266
+@link	Wikidata Q87557295 http://www.wikidata.org/entity/Q87557295
 @end sign
 
 @sign LAK283a
@@ -26371,42 +26428,20 @@
 @sign LAK286
 @oid	o0000346
 @list	LAK286
-@link eBL LAK286 https://www.ebl.lmu.de/signs/LAK286
+@link	eBL LAK286 https://www.ebl.lmu.de/signs/LAK286
 @end sign
 
 @sign LAK287
 @oid	o0000347
 @list	ELLES168
 @list	LAK287
-@link eBL LAK287 https://www.ebl.lmu.de/signs/LAK287
+@link	eBL LAK287 https://www.ebl.lmu.de/signs/LAK287
 @end sign
 
 @sign LAK298
 @oid	o0000348
 @list	LAK298
-@link eBL LAK298 https://www.ebl.lmu.de/signs/LAK298
-@end sign
-
-@sign LAK3
-@oid	o0000349
-@list	LAK003
-@uname	CUNEIFORM SIGN LAK3
-@list	U+124D5
-@ucun	𒓕
-@uage	8.0
-@link eBL LAK3 https://www.ebl.lmu.de/signs/LAK3
-@link Wikidata Q87557253 http://www.wikidata.org/entity/Q87557253
-@end sign
-
-@sign LAK30
-@oid	o0000350
-@list	LAK030
-@uname	CUNEIFORM SIGN LAK30
-@list	U+124D8
-@ucun	𒓘
-@uage	8.0
-@link eBL LAK30 https://www.ebl.lmu.de/signs/LAK30
-@link Wikidata Q87557259 http://www.wikidata.org/entity/Q87557259
+@link	eBL LAK298 https://www.ebl.lmu.de/signs/LAK298
 @end sign
 
 @sign LAK304a
@@ -26425,13 +26460,13 @@
 @sign LAK315
 @oid	o0000351
 @list	LAK315
-@link eBL LAK315 https://www.ebl.lmu.de/signs/LAK315
+@link	eBL LAK315 https://www.ebl.lmu.de/signs/LAK315
 @end sign
 
 @sign LAK336
 @oid	o0000354
 @list	LAK336
-@link eBL LAK336 https://www.ebl.lmu.de/signs/LAK336
+@link	eBL LAK336 https://www.ebl.lmu.de/signs/LAK336
 @end sign
 
 @sign LAK340
@@ -26450,8 +26485,8 @@
 @ucun	𒓪
 @uage	8.0
 @v	lilₓ
-@link eBL LAK343 https://www.ebl.lmu.de/signs/LAK343
-@link Wikidata Q87557297 http://www.wikidata.org/entity/Q87557297
+@link	eBL LAK343 https://www.ebl.lmu.de/signs/LAK343
+@link	Wikidata Q87557297 http://www.wikidata.org/entity/Q87557297
 @end sign
 
 @sign LAK347
@@ -26461,8 +26496,8 @@
 @list	U+124EB
 @ucun	𒓫
 @uage	8.0
-@link eBL LAK347 https://www.ebl.lmu.de/signs/LAK347
-@link Wikidata Q87557299 http://www.wikidata.org/entity/Q87557299
+@link	eBL LAK347 https://www.ebl.lmu.de/signs/LAK347
+@link	Wikidata Q87557299 http://www.wikidata.org/entity/Q87557299
 @end sign
 
 @sign LAK348
@@ -26472,8 +26507,8 @@
 @list	U+124EC
 @ucun	𒓬
 @uage	8.0
-@link eBL LAK348 https://www.ebl.lmu.de/signs/LAK348
-@link Wikidata Q87557302 http://www.wikidata.org/entity/Q87557302
+@link	eBL LAK348 https://www.ebl.lmu.de/signs/LAK348
+@link	Wikidata Q87557302 http://www.wikidata.org/entity/Q87557302
 @end sign
 
 @sign LAK350@90
@@ -26496,20 +26531,14 @@
 @list	LAK368@s
 @lit	Brunke/Sallaberger Owen AV (2010), 50;  Civil ARES 4, 104; Krebernik OBO 160/1, 280 (under GUDU₄).
 @note	It seems likely that this sign has a kiši reading (see Civil) and that it is ultimately identical with |HI×NUN.KASKAL|.
-@link eBL LAK368@s https://www.ebl.lmu.de/signs/LAK368@s
+@link	eBL LAK368@s https://www.ebl.lmu.de/signs/LAK368@s
 @end sign
 
 @sign LAK369
 @oid	o0000361
 @list	LAK369
 @lit	Krebernik OBO 160/1, 280
-@link eBL LAK369 https://www.ebl.lmu.de/signs/LAK369
-@end sign
-
-@sign LAK37
-@oid	o0000362
-@list	LAK037
-@link eBL LAK37 https://www.ebl.lmu.de/signs/LAK37
+@link	eBL LAK369 https://www.ebl.lmu.de/signs/LAK369
 @end sign
 
 @sign LAK380
@@ -26525,14 +26554,14 @@
 @list	U+124ED
 @ucun	𒓭
 @uage	8.0
-@link eBL LAK383 https://www.ebl.lmu.de/signs/LAK383
-@link Wikidata Q87557303 http://www.wikidata.org/entity/Q87557303
+@link	eBL LAK383 https://www.ebl.lmu.de/signs/LAK383
+@link	Wikidata Q87557303 http://www.wikidata.org/entity/Q87557303
 @end sign
 
 @sign LAK387
 @oid	o0000366
 @list	LAK387
-@link eBL LAK387 https://www.ebl.lmu.de/signs/LAK387
+@link	eBL LAK387 https://www.ebl.lmu.de/signs/LAK387
 @end sign
 
 @sign LAK390
@@ -26545,8 +26574,8 @@
 @ucun	𒓯
 @uage	8.0
 @v	dugudₓ
-@link eBL LAK390 https://www.ebl.lmu.de/signs/LAK390
-@link Wikidata Q87557307 http://www.wikidata.org/entity/Q87557307
+@link	eBL LAK390 https://www.ebl.lmu.de/signs/LAK390
+@link	Wikidata Q87557307 http://www.wikidata.org/entity/Q87557307
 @end sign
 
 @compoundonly	LAK397
@@ -26561,19 +26590,19 @@
 @sign LAK408
 @oid	o0000370
 @list	LAK408
-@link eBL LAK408 https://www.ebl.lmu.de/signs/LAK408
+@link	eBL LAK408 https://www.ebl.lmu.de/signs/LAK408
 @end sign
 
 @sign LAK409
 @oid	o0000371
 @list	LAK409
-@link eBL LAK409 https://www.ebl.lmu.de/signs/LAK409
+@link	eBL LAK409 https://www.ebl.lmu.de/signs/LAK409
 @end sign
 
 @sign LAK410
 @oid	o0000372
 @list	LAK410
-@link eBL LAK410 https://www.ebl.lmu.de/signs/LAK410
+@link	eBL LAK410 https://www.ebl.lmu.de/signs/LAK410
 @end sign
 
 @sign LAK416
@@ -26595,8 +26624,8 @@
 @list	U+124F0
 @ucun	𒓰
 @uage	8.0
-@link eBL LAK441 https://www.ebl.lmu.de/signs/LAK441
-@link Wikidata Q87557309 http://www.wikidata.org/entity/Q87557309
+@link	eBL LAK441 https://www.ebl.lmu.de/signs/LAK441
+@link	Wikidata Q87557309 http://www.wikidata.org/entity/Q87557309
 @end sign
 
 @sign LAK444
@@ -26626,8 +26655,8 @@
 @list	U+124F2
 @ucun	𒓲
 @uage	8.0
-@link eBL |LAK449×GU| https://www.ebl.lmu.de/signs/|LAK449×GU|
-@link Wikidata Q87557312 http://www.wikidata.org/entity/Q87557312
+@link	eBL |LAK449×GU| https://www.ebl.lmu.de/signs/|LAK449×GU|
+@link	Wikidata Q87557312 http://www.wikidata.org/entity/Q87557312
 @end sign
 
 @sign |LAK449×IGI|
@@ -26637,8 +26666,8 @@
 @list	U+124F3
 @ucun	𒓳
 @uage	8.0
-@link eBL |LAK449×IGI| https://www.ebl.lmu.de/signs/|LAK449×IGI|
-@link Wikidata Q87557314 http://www.wikidata.org/entity/Q87557314
+@link	eBL |LAK449×IGI| https://www.ebl.lmu.de/signs/|LAK449×IGI|
+@link	Wikidata Q87557314 http://www.wikidata.org/entity/Q87557314
 @end sign
 
 @sign |LAK449×(PAP.LU₃)|
@@ -26648,8 +26677,8 @@
 @list	U+124F4
 @ucun	𒓴
 @uage	8.0
-@link eBL |LAK449×(PAP.LU₃)| https://www.ebl.lmu.de/signs/|LAK449×(PAP.LU₃)|
-@link Wikidata Q87557317 http://www.wikidata.org/entity/Q87557317
+@link	eBL |LAK449×(PAP.LU₃)| https://www.ebl.lmu.de/signs/|LAK449×(PAP.LU₃)|
+@link	Wikidata Q87557317 http://www.wikidata.org/entity/Q87557317
 @end sign
 
 @sign |LAK449×(PAP.PAP.LU₃)|
@@ -26660,8 +26689,8 @@
 @list	U+124F5
 @ucun	𒓵
 @uage	8.0
-@link eBL |LAK449×(PAP.PAP.LU₃)| https://www.ebl.lmu.de/signs/|LAK449×(PAP.PAP.LU₃)|
-@link Wikidata Q87557319 http://www.wikidata.org/entity/Q87557319
+@link	eBL |LAK449×(PAP.PAP.LU₃)| https://www.ebl.lmu.de/signs/|LAK449×(PAP.PAP.LU₃)|
+@link	Wikidata Q87557319 http://www.wikidata.org/entity/Q87557319
 @form |NUNUZ.AB₂×LU₃|
 @oid	o0221878
 @useq	x1226D.X
@@ -26672,7 +26701,7 @@
 @list	RSP353
 @useq	x1226D.X
 @ucun	𒉭X
-@link eBL |NUNUZ.AB₂×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×(LU₃.PAP.PAP)|
+@link	eBL |NUNUZ.AB₂×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×(LU₃.PAP.PAP)|
 @@
 @end sign
 
@@ -26691,8 +26720,8 @@
 @list	U+124F6
 @ucun	𒓶
 @uage	8.0
-@link eBL |LAK449×(U₂.BA)| https://www.ebl.lmu.de/signs/|LAK449×(U₂.BA)|
-@link Wikidata Q87557322 http://www.wikidata.org/entity/Q87557322
+@link	eBL |LAK449×(U₂.BA)| https://www.ebl.lmu.de/signs/|LAK449×(U₂.BA)|
+@link	Wikidata Q87557322 http://www.wikidata.org/entity/Q87557322
 @end sign
 
 @sign LAK449a
@@ -26716,7 +26745,7 @@
 @sign LAK453
 @oid	o0000376
 @list	LAK453
-@link eBL LAK453 https://www.ebl.lmu.de/signs/LAK453
+@link	eBL LAK453 https://www.ebl.lmu.de/signs/LAK453
 @end sign
 
 @sign LAK456
@@ -26733,8 +26762,8 @@
 @list	U+124F8
 @ucun	𒓸
 @uage	8.0
-@link eBL LAK457 https://www.ebl.lmu.de/signs/LAK457
-@link Wikidata Q87557325 http://www.wikidata.org/entity/Q87557325
+@link	eBL LAK457 https://www.ebl.lmu.de/signs/LAK457
+@link	Wikidata Q87557325 http://www.wikidata.org/entity/Q87557325
 @end sign
 
 @sign LAK470
@@ -26745,14 +26774,14 @@
 @list	U+124F9
 @ucun	𒓹
 @uage	8.0
-@link eBL LAK470 https://www.ebl.lmu.de/signs/LAK470
-@link Wikidata Q87557327 http://www.wikidata.org/entity/Q87557327
+@link	eBL LAK470 https://www.ebl.lmu.de/signs/LAK470
+@link	Wikidata Q87557327 http://www.wikidata.org/entity/Q87557327
 @end sign
 
 @sign LAK471
 @oid	o0000381
 @list	LAK471
-@link eBL LAK471 https://www.ebl.lmu.de/signs/LAK471
+@link	eBL LAK471 https://www.ebl.lmu.de/signs/LAK471
 @end sign
 
 @sign LAK483
@@ -26763,14 +26792,14 @@
 @ucun	𒓺
 @uage	8.0
 @v	tugₓ
-@link eBL LAK483 https://www.ebl.lmu.de/signs/LAK483
-@link Wikidata Q87557329 http://www.wikidata.org/entity/Q87557329
+@link	eBL LAK483 https://www.ebl.lmu.de/signs/LAK483
+@link	Wikidata Q87557329 http://www.wikidata.org/entity/Q87557329
 @end sign
 
 @sign LAK488
 @oid	o0000383
 @list	LAK488
-@link eBL LAK488 https://www.ebl.lmu.de/signs/LAK488
+@link	eBL LAK488 https://www.ebl.lmu.de/signs/LAK488
 @end sign
 
 @sign LAK490
@@ -26785,8 +26814,8 @@
 @v	gaʾar
 @v	gaʾurₓ
 @v	gamurₓ
-@link eBL LAK490 https://www.ebl.lmu.de/signs/LAK490
-@link Wikidata Q87557331 http://www.wikidata.org/entity/Q87557331
+@link	eBL LAK490 https://www.ebl.lmu.de/signs/LAK490
+@link	Wikidata Q87557331 http://www.wikidata.org/entity/Q87557331
 @end sign
 
 @sign |LAK490×KASKAL|
@@ -26815,8 +26844,8 @@
 @note	Krecher suggests that the sign is also used for kid₂, but the evidence for that is much weaker.
 @v	takaₓ
 @ref	Ebla Sign List = dcclt:Q000038 131, da-ga-um
-@link eBL LAK492 https://www.ebl.lmu.de/signs/LAK492
-@link Wikidata Q87557332 http://www.wikidata.org/entity/Q87557332
+@link	eBL LAK492 https://www.ebl.lmu.de/signs/LAK492
+@link	Wikidata Q87557332 http://www.wikidata.org/entity/Q87557332
 @end sign
 
 @sign LAK495
@@ -26826,8 +26855,8 @@
 @list	U+124FE
 @ucun	𒓾
 @uage	8.0
-@link eBL LAK495 https://www.ebl.lmu.de/signs/LAK495
-@link Wikidata Q87557336 http://www.wikidata.org/entity/Q87557336
+@link	eBL LAK495 https://www.ebl.lmu.de/signs/LAK495
+@link	Wikidata Q87557336 http://www.wikidata.org/entity/Q87557336
 @end sign
 
 @sign LAK496
@@ -26840,19 +26869,7 @@
 @sign LAK498
 @oid	o0000388
 @list	LAK498
-@link eBL LAK498 https://www.ebl.lmu.de/signs/LAK498
-@end sign
-
-@sign LAK50
-@oid	o0000390
-@list	LAK050
-@uname	CUNEIFORM SIGN LAK50
-@list	U+124D9
-@ucun	𒓙
-@uage	8.0
-@v	gurₓ
-@link eBL LAK50 https://www.ebl.lmu.de/signs/LAK50
-@link Wikidata Q87557261 http://www.wikidata.org/entity/Q87557261
+@link	eBL LAK498 https://www.ebl.lmu.de/signs/LAK498
 @end sign
 
 @sign LAK500
@@ -26860,7 +26877,7 @@
 @list	ELLES258
 @list	LAK500
 @v	ilₓ
-@link eBL LAK500 https://www.ebl.lmu.de/signs/LAK500
+@link	eBL LAK500 https://www.ebl.lmu.de/signs/LAK500
 @end sign
 
 @sign LAK508
@@ -26876,7 +26893,7 @@
 @inote	epsd2/royal, ed3b
 @v	meₓ
 @v	uriₓ
-@link eBL LAK526 https://www.ebl.lmu.de/signs/LAK526
+@link	eBL LAK526 https://www.ebl.lmu.de/signs/LAK526
 @end sign
 
 @sign |LAK526.MUŠ₃|
@@ -26887,17 +26904,10 @@
 @v	uruhₓ
 @end sign
 
-@sign |ERIN₂.A|
-@oid  o0038331
-@useq x1209F.x12000
-@v	uriₓ
-@inote epsd2/royal
-@end sign
-
 @sign LAK539
 @oid	o0000396
 @list	LAK539
-@link eBL LAK539 https://www.ebl.lmu.de/signs/LAK539
+@link	eBL LAK539 https://www.ebl.lmu.de/signs/LAK539
 @end sign
 
 @sign LAK546
@@ -26913,33 +26923,33 @@
 @list	U+124FF
 @ucun	𒓿
 @uage	8.0
-@link eBL LAK550 https://www.ebl.lmu.de/signs/LAK550
-@link Wikidata Q87557337 http://www.wikidata.org/entity/Q87557337
+@link	eBL LAK550 https://www.ebl.lmu.de/signs/LAK550
+@link	Wikidata Q87557337 http://www.wikidata.org/entity/Q87557337
 @end sign
 
 @sign LAK558
 @oid	o0000398
 @list	LAK558
-@link eBL LAK558 https://www.ebl.lmu.de/signs/LAK558
+@link	eBL LAK558 https://www.ebl.lmu.de/signs/LAK558
 @end sign
 
 @sign LAK605
 @oid	o0000399
 @list	LAK605
-@link eBL LAK605 https://www.ebl.lmu.de/signs/LAK605
+@link	eBL LAK605 https://www.ebl.lmu.de/signs/LAK605
 @end sign
 
 @sign LAK606
 @oid	o0000400
 @list	LAK606
-@link eBL LAK606 https://www.ebl.lmu.de/signs/LAK606
+@link	eBL LAK606 https://www.ebl.lmu.de/signs/LAK606
 @end sign
 
 @sign LAK607
 @oid	o0000401
 @list	ELLES298
 @list	LAK607
-@link eBL LAK607 https://www.ebl.lmu.de/signs/LAK607
+@link	eBL LAK607 https://www.ebl.lmu.de/signs/LAK607
 @end sign
 
 @sign LAK608
@@ -26949,8 +26959,8 @@
 @list	U+12500
 @ucun	𒔀
 @uage	8.0
-@link eBL LAK608 https://www.ebl.lmu.de/signs/LAK608
-@link Wikidata Q87557339 http://www.wikidata.org/entity/Q87557339
+@link	eBL LAK608 https://www.ebl.lmu.de/signs/LAK608
+@link	Wikidata Q87557339 http://www.wikidata.org/entity/Q87557339
 @end sign
 
 @sign LAK617
@@ -26962,8 +26972,8 @@
 @list	U+12501
 @ucun	𒔁
 @uage	8.0
-@link eBL LAK617 https://www.ebl.lmu.de/signs/LAK617
-@link Wikidata Q87557342 http://www.wikidata.org/entity/Q87557342
+@link	eBL LAK617 https://www.ebl.lmu.de/signs/LAK617
+@link	Wikidata Q87557342 http://www.wikidata.org/entity/Q87557342
 @end sign
 
 @sign |LAK617×AŠ|
@@ -26979,8 +26989,8 @@
 @inote	sign appears (only?) in TSŠ 46 vii 2' ##CHECK add reference
 @inote	also P010566 = SF 1 o vii 6 (Fara god list); Note |LAK611×AŠ| in SF 64 v 5
 @v	durumₓ
-@link eBL |LAK617×AŠ| https://www.ebl.lmu.de/signs/|LAK617×AŠ|
-@link Wikidata Q87557344 http://www.wikidata.org/entity/Q87557344
+@link	eBL |LAK617×AŠ| https://www.ebl.lmu.de/signs/|LAK617×AŠ|
+@link	Wikidata Q87557344 http://www.wikidata.org/entity/Q87557344
 @end sign
 
 @sign |LAK617×BAD|
@@ -26992,13 +27002,18 @@
 @list	U+12503
 @ucun	𒔃
 @uage	8.0
-@link eBL |LAK617×BAD| https://www.ebl.lmu.de/signs/|LAK617×BAD|
-@link Wikidata Q87557345 http://www.wikidata.org/entity/Q87557345
+@link	eBL |LAK617×BAD| https://www.ebl.lmu.de/signs/|LAK617×BAD|
+@link	Wikidata Q87557345 http://www.wikidata.org/entity/Q87557345
+@end sign
+
+@sign |LAK617×HI|
+@oid	o0038182
+@inote	P252810 = CUSAS 35, 407 
 @end sign
 
 @sign |LAK617×IGI|
 @oid	o0038329
-@inote epsd2/royal
+@inote	epsd2/royal
 @end sign
 
 @sign |LAK617×KU₃|
@@ -27008,8 +27023,8 @@
 @list	U+12505
 @ucun	𒔅
 @uage	8.0
-@link eBL |LAK617×KU₃| https://www.ebl.lmu.de/signs/|LAK617×KU₃|
-@link Wikidata Q87557349 http://www.wikidata.org/entity/Q87557349
+@link	eBL |LAK617×KU₃| https://www.ebl.lmu.de/signs/|LAK617×KU₃|
+@link	Wikidata Q87557349 http://www.wikidata.org/entity/Q87557349
 @end sign
 
 @sign |LAK617×LA|
@@ -27022,8 +27037,8 @@
 @ucun	𒔆
 @uage	8.0
 @v	gublagaₓ
-@link eBL |LAK617×LA| https://www.ebl.lmu.de/signs/|LAK617×LA|
-@link Wikidata Q87557350 http://www.wikidata.org/entity/Q87557350
+@link	eBL |LAK617×LA| https://www.ebl.lmu.de/signs/|LAK617×LA|
+@link	Wikidata Q87557350 http://www.wikidata.org/entity/Q87557350
 @end sign
 
 @sign |LAK617×LA@n|
@@ -27038,8 +27053,8 @@
 @list	U+12507
 @ucun	𒔇
 @uage	8.0
-@link eBL |LAK617×TAR| https://www.ebl.lmu.de/signs/|LAK617×TAR|
-@link Wikidata Q87557353 http://www.wikidata.org/entity/Q87557353
+@link	eBL |LAK617×TAR| https://www.ebl.lmu.de/signs/|LAK617×TAR|
+@link	Wikidata Q87557353 http://www.wikidata.org/entity/Q87557353
 @end sign
 
 @sign |LAK617×TE|
@@ -27049,8 +27064,8 @@
 @list	U+12508
 @ucun	𒔈
 @uage	8.0
-@link eBL |LAK617×TE| https://www.ebl.lmu.de/signs/|LAK617×TE|
-@link Wikidata Q87557355 http://www.wikidata.org/entity/Q87557355
+@link	eBL |LAK617×TE| https://www.ebl.lmu.de/signs/|LAK617×TE|
+@link	Wikidata Q87557355 http://www.wikidata.org/entity/Q87557355
 @end sign
 
 @sign |LAK617×U₂|
@@ -27060,8 +27075,8 @@
 @list	U+12509
 @ucun	𒔉
 @uage	8.0
-@link eBL |LAK617×U₂| https://www.ebl.lmu.de/signs/|LAK617×U₂|
-@link Wikidata Q87557358 http://www.wikidata.org/entity/Q87557358
+@link	eBL |LAK617×U₂| https://www.ebl.lmu.de/signs/|LAK617×U₂|
+@link	Wikidata Q87557358 http://www.wikidata.org/entity/Q87557358
 @end sign
 
 @sign |LAK617×UD|
@@ -27071,8 +27086,8 @@
 @list	U+1250A
 @ucun	𒔊
 @uage	8.0
-@link eBL |LAK617×UD| https://www.ebl.lmu.de/signs/|LAK617×UD|
-@link Wikidata Q87557359 http://www.wikidata.org/entity/Q87557359
+@link	eBL |LAK617×UD| https://www.ebl.lmu.de/signs/|LAK617×UD|
+@link	Wikidata Q87557359 http://www.wikidata.org/entity/Q87557359
 @end sign
 
 @sign |LAK617×URUDA|
@@ -27082,8 +27097,8 @@
 @list	U+1250B
 @ucun	𒔋
 @uage	8.0
-@link eBL |LAK617×URUDA| https://www.ebl.lmu.de/signs/|LAK617×URUDA|
-@link Wikidata Q87557362 http://www.wikidata.org/entity/Q87557362
+@link	eBL |LAK617×URUDA| https://www.ebl.lmu.de/signs/|LAK617×URUDA|
+@link	Wikidata Q87557362 http://www.wikidata.org/entity/Q87557362
 @end sign
 
 @sign LAK636
@@ -27097,8 +27112,8 @@
 @v	silaₓ
 @inote	Replaced by sila₁₁(ŠID) in later periods
 @inote	##CHECK add lit (Civil); merge with sila₁₁
-@link eBL LAK636 https://www.ebl.lmu.de/signs/LAK636
-@link Wikidata Q87557365 http://www.wikidata.org/entity/Q87557365
+@link	eBL LAK636 https://www.ebl.lmu.de/signs/LAK636
+@link	Wikidata Q87557365 http://www.wikidata.org/entity/Q87557365
 @end sign
 
 @sign |LAK636.LAK636|
@@ -27112,7 +27127,7 @@
 @sign LAK638
 @oid	o0000406
 @list	LAK638
-@link eBL LAK638 https://www.ebl.lmu.de/signs/LAK638
+@link	eBL LAK638 https://www.ebl.lmu.de/signs/LAK638
 @end sign
 
 @sign LAK643
@@ -27124,7 +27139,7 @@
 @sign LAK646
 @oid	o0000407
 @list	LAK646
-@link eBL LAK646 https://www.ebl.lmu.de/signs/LAK646
+@link	eBL LAK646 https://www.ebl.lmu.de/signs/LAK646
 @end sign
 
 @compoundonly	|LAK648×A|
@@ -27146,8 +27161,8 @@
 @uage	8.0
 @v	banšurₓ
 @inote	Krebernik ZA 1986 p201
-@link eBL |LAK648×DUB| https://www.ebl.lmu.de/signs/|LAK648×DUB|
-@link Wikidata Q87557370 http://www.wikidata.org/entity/Q87557370
+@link	eBL |LAK648×DUB| https://www.ebl.lmu.de/signs/|LAK648×DUB|
+@link	Wikidata Q87557370 http://www.wikidata.org/entity/Q87557370
 @end sign
 
 @sign |LAK648×GA|
@@ -27157,8 +27172,8 @@
 @list	U+1250F
 @ucun	𒔏
 @uage	8.0
-@link eBL |LAK648×GA| https://www.ebl.lmu.de/signs/|LAK648×GA|
-@link Wikidata Q87557372 http://www.wikidata.org/entity/Q87557372
+@link	eBL |LAK648×GA| https://www.ebl.lmu.de/signs/|LAK648×GA|
+@link	Wikidata Q87557372 http://www.wikidata.org/entity/Q87557372
 @end sign
 
 @sign |LAK648×IGI@g|
@@ -27168,8 +27183,13 @@
 @list	U+12511
 @ucun	𒔑
 @uage	8.0
-@link eBL |LAK648×IGI@g| https://www.ebl.lmu.de/signs/|LAK648×IGI@g|
-@link Wikidata Q87557377 http://www.wikidata.org/entity/Q87557377
+@link	eBL |LAK648×IGI@g| https://www.ebl.lmu.de/signs/|LAK648×IGI@g|
+@link	Wikidata Q87557377 http://www.wikidata.org/entity/Q87557377
+@end sign
+
+@sign |LAK648×LU₃|
+@oid	o0038180
+@inote	P252803 = CUSAS 35, 399 
 @end sign
 
 @sign |LAK648×NI|
@@ -27180,18 +27200,8 @@
 @ucun	𒔒
 @uage	8.0
 @v	šakirₓ
-@link eBL |LAK648×NI| https://www.ebl.lmu.de/signs/|LAK648×NI|
-@link Wikidata Q87557379 http://www.wikidata.org/entity/Q87557379
-@end sign
-
-@sign |LAK617×HI|
-@oid	o0038182
-@inote P252810 = CUSAS 35, 407 
-@end sign
-
-@sign |LAK648×LU₃|
-@oid	o0038180
-@inote P252803 = CUSAS 35, 399 
+@link	eBL |LAK648×NI| https://www.ebl.lmu.de/signs/|LAK648×NI|
+@link	Wikidata Q87557379 http://www.wikidata.org/entity/Q87557379
 @end sign
 
 @sign |LAK648×(PAP.PAP.LU₃)|
@@ -27201,8 +27211,8 @@
 @list	U+12513
 @ucun	𒔓
 @uage	8.0
-@link eBL |LAK648×(PAP.PAP.LU₃)| https://www.ebl.lmu.de/signs/|LAK648×(PAP.PAP.LU₃)|
-@link Wikidata Q87557381 http://www.wikidata.org/entity/Q87557381
+@link	eBL |LAK648×(PAP.PAP.LU₃)| https://www.ebl.lmu.de/signs/|LAK648×(PAP.PAP.LU₃)|
+@link	Wikidata Q87557381 http://www.wikidata.org/entity/Q87557381
 @end sign
 
 @sign |LAK648×(ŠEŠ.KI)|
@@ -27212,8 +27222,8 @@
 @list	U+12514
 @ucun	𒔔
 @uage	8.0
-@link eBL |LAK648×(ŠEŠ.KI)| https://www.ebl.lmu.de/signs/|LAK648×(ŠEŠ.KI)|
-@link Wikidata Q87557383 http://www.wikidata.org/entity/Q87557383
+@link	eBL |LAK648×(ŠEŠ.KI)| https://www.ebl.lmu.de/signs/|LAK648×(ŠEŠ.KI)|
+@link	Wikidata Q87557383 http://www.wikidata.org/entity/Q87557383
 @end sign
 
 @sign |LAK648×UD|
@@ -27223,14 +27233,14 @@
 @list	U+12515
 @ucun	𒔕
 @uage	8.0
-@link eBL |LAK648×UD| https://www.ebl.lmu.de/signs/|LAK648×UD|
-@link Wikidata Q87557384 http://www.wikidata.org/entity/Q87557384
+@link	eBL |LAK648×UD| https://www.ebl.lmu.de/signs/|LAK648×UD|
+@link	Wikidata Q87557384 http://www.wikidata.org/entity/Q87557384
 @end sign
 
 @sign LAK649
 @oid	o0000409
 @list	LAK649
-@link eBL LAK649 https://www.ebl.lmu.de/signs/LAK649
+@link	eBL LAK649 https://www.ebl.lmu.de/signs/LAK649
 @end sign
 
 @compoundonly	LAK668
@@ -27238,7 +27248,7 @@
 @sign LAK708
 @oid	o0000410
 @list	LAK708
-@link eBL LAK708 https://www.ebl.lmu.de/signs/LAK708
+@link	eBL LAK708 https://www.ebl.lmu.de/signs/LAK708
 @end sign
 
 @sign LAK712
@@ -27260,14 +27270,14 @@
 @list	U+12517
 @ucun	𒔗
 @uage	8.0
-@link eBL LAK724 https://www.ebl.lmu.de/signs/LAK724
-@link Wikidata Q87557388 http://www.wikidata.org/entity/Q87557388
+@link	eBL LAK724 https://www.ebl.lmu.de/signs/LAK724
+@link	Wikidata Q87557388 http://www.wikidata.org/entity/Q87557388
 @end sign
 
 @sign LAK748
 @oid	o0000414
 @list	LAK748
-@link eBL LAK748 https://www.ebl.lmu.de/signs/LAK748
+@link	eBL LAK748 https://www.ebl.lmu.de/signs/LAK748
 @end sign
 
 @sign LAK749
@@ -27278,14 +27288,14 @@
 @list	U+12518
 @ucun	𒔘
 @uage	8.0
-@link eBL LAK749 https://www.ebl.lmu.de/signs/LAK749
-@link Wikidata Q87557390 http://www.wikidata.org/entity/Q87557390
+@link	eBL LAK749 https://www.ebl.lmu.de/signs/LAK749
+@link	Wikidata Q87557390 http://www.wikidata.org/entity/Q87557390
 @end sign
 
 @sign LAK764
 @oid	o0000416
 @list	LAK764
-@link eBL LAK764 https://www.ebl.lmu.de/signs/LAK764
+@link	eBL LAK764 https://www.ebl.lmu.de/signs/LAK764
 @end sign
 
 @sign LAK765
@@ -27309,7 +27319,7 @@
 @sign LAK774
 @oid	o0000417
 @list	LAK774
-@link eBL LAK774 https://www.ebl.lmu.de/signs/LAK774
+@link	eBL LAK774 https://www.ebl.lmu.de/signs/LAK774
 @end sign
 
 @sign LAK776
@@ -27334,17 +27344,6 @@
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
-@sign LAK80
-@oid	o0000418
-@list	LAK080
-@uname	CUNEIFORM SIGN LAK80
-@list	U+124DD
-@ucun	𒓝
-@uage	8.0
-@link eBL LAK80 https://www.ebl.lmu.de/signs/LAK80
-@link Wikidata Q87557268 http://www.wikidata.org/entity/Q87557268
-@end sign
-
 @sign LAK804
 @oid	o0027557
 @list	LAK804
@@ -27363,49 +27362,22 @@
 @inote	for lak.atf
 @end sign
 
-@sign LAK81
-@oid	o0027563
-@inote	for lak.atf
-@end sign
-
-@sign |LAK81&LAK81|
-@oid	o0001886
-@list	LAK081a
-@uname	CUNEIFORM SIGN LAK81 OVER LAK81
-@list	U+124DE
-@ucun	𒓞
-@uage	8.0
-@link eBL |LAK81&LAK81| https://www.ebl.lmu.de/signs/|LAK81&LAK81|
-@link Wikidata Q87557270 http://www.wikidata.org/entity/Q87557270
-@end sign
-
 @sign LAK811
 @oid	o0000419
 @list	LAK811
-@link eBL LAK811 https://www.ebl.lmu.de/signs/LAK811
+@link	eBL LAK811 https://www.ebl.lmu.de/signs/LAK811
 @end sign
 
 @sign LAK812
 @oid	o0000420
 @list	LAK812
-@link eBL LAK812 https://www.ebl.lmu.de/signs/LAK812
+@link	eBL LAK812 https://www.ebl.lmu.de/signs/LAK812
 @end sign
 
 @sign LAK821
 @oid	o0025858
 @list	LAK821
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
-@sign LAK92
-@oid	o0000421
-@list	LAK092
-@uname	CUNEIFORM SIGN LAK92
-@list	U+124DF
-@ucun	𒓟
-@uage	8.0
-@link eBL LAK92 https://www.ebl.lmu.de/signs/LAK92
-@link Wikidata Q87557273 http://www.wikidata.org/entity/Q87557273
 @end sign
 
 @sign LI
@@ -27434,8 +27406,8 @@
 @v	li
 @v	ni₈
 @v	nu₉?
-@link eBL LI https://www.ebl.lmu.de/signs/LI
-@link Wikidata Q87556007 http://www.wikidata.org/entity/Q87556007
+@link	eBL LI https://www.ebl.lmu.de/signs/LI
+@link	Wikidata Q87556007 http://www.wikidata.org/entity/Q87556007
 @end sign
 
 @sign |LI&LI|
@@ -27465,10 +27437,11 @@
 @v	lil
 @v	sukuₓ
 @v	šaₓ
-@link eBL LIL https://www.ebl.lmu.de/signs/LIL
-@link Wikidata Q87556009 http://www.wikidata.org/entity/Q87556009
+@link	eBL LIL https://www.ebl.lmu.de/signs/LIL
+@link	Wikidata Q87556009 http://www.wikidata.org/entity/Q87556009
 @form REC145
 @oid	o0000298
+@aka	KU₄~a
 @list	KWU634
 @list	LAK208
 @list	REC145
@@ -27478,7 +27451,7 @@
 @list	U+121AE
 @ucun	𒆮
 @uage	5.0
-@link Wikidata Q87555856 http://www.wikidata.org/entity/Q87555856
+@link	Wikidata Q87555856 http://www.wikidata.org/entity/Q87555856
 @@
 @end sign
 
@@ -27492,13 +27465,13 @@
 @list	U+1243C
 @ucun	𒐼
 @uage	5.0
-@v	4(diš)@v
-@v	4(diš@c)@v
 @v	lammu
 @v	limmu
 @v	limu
-@link eBL LIMMU https://www.ebl.lmu.de/signs/LIMMU
-@link Wikidata Q87556965 http://www.wikidata.org/entity/Q87556965
+@v	4(diš)@v
+@v	4(diš@c)@v
+@link	eBL LIMMU https://www.ebl.lmu.de/signs/LIMMU
+@link	Wikidata Q87556965 http://www.wikidata.org/entity/Q87556965
 @end sign
 
 @sign LIMMU~a
@@ -27507,11 +27480,11 @@
 @list	U+1243E
 @ucun	𒐾
 @uage	5.0
+@v	limmuₓ
 @v	4(diš@v)
 @v	4(diš@v@c)
-@v	limmuₓ
-@link eBL LIMMU~a https://www.ebl.lmu.de/signs/LIMMU~a
-@link Wikidata Q87556970 http://www.wikidata.org/entity/Q87556970
+@link	eBL LIMMU~a https://www.ebl.lmu.de/signs/LIMMU~a
+@link	Wikidata Q87556970 http://www.wikidata.org/entity/Q87556970
 @end sign
 
 @sign LIMMU~b
@@ -27520,12 +27493,12 @@
 @list	U+1243F
 @ucun	𒐿
 @uage	5.0
-@v	4(diš@v)~b
-@v	4(diš@v@c)~b
 @v	limmuₓ
 @inote	FIXME: make LIMMU~b a form of LIMMU~a
-@link eBL LIMMU~b https://www.ebl.lmu.de/signs/LIMMU~b
-@link Wikidata Q87556973 http://www.wikidata.org/entity/Q87556973
+@v	4(diš@v)~b
+@v	4(diš@v@c)~b
+@link	eBL LIMMU~b https://www.ebl.lmu.de/signs/LIMMU~b
+@link	Wikidata Q87556973 http://www.wikidata.org/entity/Q87556973
 @end sign
 
 @sign LIMMU₂
@@ -27540,8 +27513,6 @@
 @uage	5.0
 @v	arba
 @v	arrap
-@v	4(diš)@v~b
-@v	4(diš@c)@v~b
 @v	erba
 @v	erbe
 @v	lam₄
@@ -27549,8 +27520,10 @@
 @v	lim₂
 @v	limmu₂
 @v	limu₂
-@link eBL LIMMU₂ https://www.ebl.lmu.de/signs/LIMMU₂
-@link Wikidata Q87556011 http://www.wikidata.org/entity/Q87556011
+@v	4(diš)@v~b
+@v	4(diš@c)@v~b
+@link	eBL LIMMU₂ https://www.ebl.lmu.de/signs/LIMMU₂
+@link	Wikidata Q87556011 http://www.wikidata.org/entity/Q87556011
 @end sign
 
 @sign LIŠ
@@ -27577,42 +27550,8 @@
 @v	liz
 @v	mal₄?
 @v	šil₄
-@link eBL LIŠ https://www.ebl.lmu.de/signs/LIŠ
-@link Wikidata Q87556012 http://www.wikidata.org/entity/Q87556012
-@end sign
-
-@sign |4×LU₂|
-@oid	o0000651
-@list	SLLHA330_60n2
-@uname	CUNEIFORM SIGN LU2 SQUARED
-@list	U+12214
-@ucun	𒈔
-@uage	5.0
-@v	daparaₓ
-@ref	Diri 6 B 33 = dcclt:Q000151 B33, da-pa-ra = |4×LU₂| ka-ma-ri
-@v	kamaru
-@v-	kapara₃
-@note	corrected reading da-pa-ra in MSL 15 Diri 6B 33.
-@v	karašₓ?
-@v	pagra₃
-@link eBL |4×LU₂| https://www.ebl.lmu.de/signs/|4×LU₂|
-@link Wikidata Q87556065 http://www.wikidata.org/entity/Q87556065
-@form |3×LU₂|
-@oid	o0023031
-@inote	dcclt !sg collate
-@@
-@form |LU₂.LU₂.LU₂.LU₂|
-@oid	o0001944
-@note	see MSL 15 Diri 6B 33 with notes.
-@useq	x121FD.x121FD.x121FD.x121FD
-@ucun	𒇽𒇽𒇽𒇽
-@link eBL |LU₂.LU₂.LU₂.LU₂| https://www.ebl.lmu.de/signs/|LU₂.LU₂.LU₂.LU₂|
-@@
-@end sign
-
-@sign |4×(LUGAL.X)|
-@oid	o0022934
-@inote	dcclt !sg
+@link	eBL LIŠ https://www.ebl.lmu.de/signs/LIŠ
+@link	Wikidata Q87556012 http://www.wikidata.org/entity/Q87556012
 @end sign
 
 @sign LU
@@ -27640,8 +27579,8 @@
 @v	nu₁₂
 @v	si₆
 @v	udu
-@link eBL LU https://www.ebl.lmu.de/signs/LU
-@link Wikidata Q87556014 http://www.wikidata.org/entity/Q87556014
+@link	eBL LU https://www.ebl.lmu.de/signs/LU
+@link	Wikidata Q87556014 http://www.wikidata.org/entity/Q87556014
 @form |LAGAB×PA|
 @oid	o0221968
 @v	dibₓ
@@ -27659,7 +27598,7 @@
 @sign |(LU.EŠ₂)&(LU.EŠ₂)|
 @oid	o0000627
 @v	lubₓ
-@link eBL |(LU.EŠ₂)&(LU.EŠ₂)| https://www.ebl.lmu.de/signs/|(LU.EŠ₂)&(LU.EŠ₂)|
+@link	eBL |(LU.EŠ₂)&(LU.EŠ₂)| https://www.ebl.lmu.de/signs/|(LU.EŠ₂)&(LU.EŠ₂)|
 @form |(LAGAR@g.SU.LU.EŠ₂)&(LAGAR@g.SU.LU.EŠ₂)|
 @oid	o0000626
 @@
@@ -27693,7 +27632,7 @@
 @v	kungal
 @v	kungalaₓ
 @sys	Attinger kuŋgala => gukkal
-@link eBL |LU.HUL₂| https://www.ebl.lmu.de/signs/|LU.HUL₂|
+@link	eBL |LU.HUL₂| https://www.ebl.lmu.de/signs/|LU.HUL₂|
 @end sign
 
 @sign |LU.KI.KAK|
@@ -27701,7 +27640,14 @@
 @useq	x121FB.x121A0.x12195
 @ucun	𒇻𒆠𒆕
 @v	zarah₂
-@link eBL |LU.KI.KAK| https://www.ebl.lmu.de/signs/|LU.KI.KAK|
+@link	eBL |LU.KI.KAK| https://www.ebl.lmu.de/signs/|LU.KI.KAK|
+@end sign
+
+@sign |LU.KU|
+@oid	o0038245
+@useq	x121FB.x121AA
+@ucun	𒇻𒆪
+@v	unuₓ
 @end sign
 
 @sign |LU.LU.EŠ₂.EŠ₂|
@@ -27727,8 +27673,8 @@
 @uage	5.0
 @v	ad₃
 @v	adda₂
-@link eBL |LU×BAD| https://www.ebl.lmu.de/signs/|LU×BAD|
-@link Wikidata Q87556017 http://www.wikidata.org/entity/Q87556017
+@link	eBL |LU×BAD| https://www.ebl.lmu.de/signs/|LU×BAD|
+@link	Wikidata Q87556017 http://www.wikidata.org/entity/Q87556017
 @form |LU.BAD|
 @oid	o0023062
 @inote	dcclt !sg
@@ -27768,9 +27714,9 @@
 @v	šagaₓ
 @v	šaŋaₓ
 @v	šuₓ
-@inote CCPo
-@link eBL LU₂ https://www.ebl.lmu.de/signs/LU₂
-@link Wikidata Q87556019 http://www.wikidata.org/entity/Q87556019
+@inote	CCPo
+@link	eBL LU₂ https://www.ebl.lmu.de/signs/LU₂
+@link	Wikidata Q87556019 http://www.wikidata.org/entity/Q87556019
 @form LU₂~v
 @oid	o0000442
 @inote	@ucode xe001
@@ -27796,8 +27742,8 @@
 @v	pagraₓ
 @v	urbigu₃
 @v	urbingu₃
-@link eBL |LU₂@LU₂| https://www.ebl.lmu.de/signs/|LU₂@LU₂|
-@link Wikidata Q87556063 http://www.wikidata.org/entity/Q87556063
+@link	eBL |LU₂@LU₂| https://www.ebl.lmu.de/signs/|LU₂@LU₂|
+@link	Wikidata Q87556063 http://www.wikidata.org/entity/Q87556063
 @form |LU₂.LU₂|
 @oid	o0001945
 @useq	x121FD.x121FD
@@ -27822,7 +27768,36 @@
 @v	urbingu₃
 @ref	VAT 9541 = dcclt/signlists:P345960 o ii 3'
 @inote	salgues
-@link Wikidata Q87556061 http://www.wikidata.org/entity/Q87556061
+@link	Wikidata Q87556061 http://www.wikidata.org/entity/Q87556061
+@@
+@end sign
+
+@sign |4×LU₂|
+@oid	o0000651
+@list	SLLHA330_60n2
+@uname	CUNEIFORM SIGN LU2 SQUARED
+@list	U+12214
+@ucun	𒈔
+@uage	5.0
+@v	daparaₓ
+@ref	Diri 6 B 33 = dcclt:Q000151 B33, da-pa-ra = |4×LU₂| ka-ma-ri
+@v	kamaru
+@v-	kapara₃
+@note	corrected reading da-pa-ra in MSL 15 Diri 6B 33.
+@v	karašₓ?
+@v	pagra₃
+@link	eBL |4×LU₂| https://www.ebl.lmu.de/signs/|4×LU₂|
+@link	Wikidata Q87556065 http://www.wikidata.org/entity/Q87556065
+@form |3×LU₂|
+@oid	o0023031
+@inote	dcclt !sg collate
+@@
+@form |LU₂.LU₂.LU₂.LU₂|
+@oid	o0001944
+@note	see MSL 15 Diri 6B 33 with notes.
+@useq	x121FD.x121FD.x121FD.x121FD
+@ucun	𒇽𒇽𒇽𒇽
+@link	eBL |LU₂.LU₂.LU₂.LU₂| https://www.ebl.lmu.de/signs/|LU₂.LU₂.LU₂.LU₂|
 @@
 @end sign
 
@@ -27832,7 +27807,7 @@
 @ucun	𒇽𒁹
 @v	gal₁₀
 @v	gala₁₀
-@link eBL |LU₂.DIŠ| https://www.ebl.lmu.de/signs/|LU₂.DIŠ|
+@link	eBL |LU₂.DIŠ| https://www.ebl.lmu.de/signs/|LU₂.DIŠ|
 @end sign
 
 @sign |(LU₂.DUR₂)&(LU₂.DUR₂)|
@@ -27845,7 +27820,7 @@
 @ucun	𒇽𒂗
 @v	daparaₓ
 @v	daparuₓ
-@link eBL |LU₂.EN| https://www.ebl.lmu.de/signs/|LU₂.EN|
+@link	eBL |LU₂.EN| https://www.ebl.lmu.de/signs/|LU₂.EN|
 @end sign
 
 @sign |LU₂.HI×BAD|
@@ -27853,7 +27828,7 @@
 @useq	x121FD.x12130
 @ucun	𒇽𒄰
 @v	kamaₓ
-@link eBL |LU₂.HI×BAD| https://www.ebl.lmu.de/signs/|LU₂.HI×BAD|
+@link	eBL |LU₂.HI×BAD| https://www.ebl.lmu.de/signs/|LU₂.HI×BAD|
 @end sign
 
 @sign |LU₂.KI|
@@ -27862,21 +27837,21 @@
 @ucun	𒇽𒆠
 @v	gurud₂
 @inote	not |LU₂×KI|
-@link eBL |LU₂.KI| https://www.ebl.lmu.de/signs/|LU₂.KI|
+@link	eBL |LU₂.KI| https://www.ebl.lmu.de/signs/|LU₂.KI|
 @end sign
 
 @sign |LU₂.LAGAB|
 @oid	o0001942
 @useq	x121FD.x121B8
 @ucun	𒇽𒆸
-@link eBL |LU₂.LAGAB| https://www.ebl.lmu.de/signs/|LU₂.LAGAB|
+@link	eBL |LU₂.LAGAB| https://www.ebl.lmu.de/signs/|LU₂.LAGAB|
 @end sign
 
 @sign |LU₂.LU₂.LU₂.LU₂|
 @oid	o0001944
 @useq	x121FD.x121FD.x121FD.x121FD
 @ucun	𒇽𒇽𒇽𒇽
-@link eBL |LU₂.LU₂.LU₂.LU₂| https://www.ebl.lmu.de/signs/|LU₂.LU₂.LU₂.LU₂|
+@link	eBL |LU₂.LU₂.LU₂.LU₂| https://www.ebl.lmu.de/signs/|LU₂.LU₂.LU₂.LU₂|
 @end sign
 
 @sign |LU₂.ME.EN|
@@ -27885,7 +27860,7 @@
 @ucun	𒇽𒈨𒂗
 @v	daparu
 @v	saparu?
-@link eBL |LU₂.ME.EN| https://www.ebl.lmu.de/signs/|LU₂.ME.EN|
+@link	eBL |LU₂.ME.EN| https://www.ebl.lmu.de/signs/|LU₂.ME.EN|
 @end sign
 
 @sign |LU₂.SU|
@@ -27895,7 +27870,7 @@
 @v	šimašgi
 @inote	CDLI
 @v	šimaški
-@link eBL |LU₂.SU| https://www.ebl.lmu.de/signs/|LU₂.SU|
+@link	eBL |LU₂.SU| https://www.ebl.lmu.de/signs/|LU₂.SU|
 @end sign
 
 @sign |LU₂.SU.A|
@@ -27905,14 +27880,14 @@
 @v	šimašgi₂
 @inote	CDLI
 @v	šimaški₂
-@link eBL |LU₂.SU.A| https://www.ebl.lmu.de/signs/|LU₂.SU.A|
+@link	eBL |LU₂.SU.A| https://www.ebl.lmu.de/signs/|LU₂.SU.A|
 @end sign
 
 @sign |LU₂.TUG₂|
 @oid	o0001950
 @useq	x121FD.x12306
 @ucun	𒇽𒌆
-@link eBL |LU₂.TUG₂| https://www.ebl.lmu.de/signs/|LU₂.TUG₂|
+@link	eBL |LU₂.TUG₂| https://www.ebl.lmu.de/signs/|LU₂.TUG₂|
 @end sign
 
 @sign |LU₂×AL|
@@ -27924,8 +27899,8 @@
 @ucun	𒇾
 @uage	5.0
 @v	dubal₅
-@link eBL |LU₂×AL| https://www.ebl.lmu.de/signs/|LU₂×AL|
-@link Wikidata Q87556020 http://www.wikidata.org/entity/Q87556020
+@link	eBL |LU₂×AL| https://www.ebl.lmu.de/signs/|LU₂×AL|
+@link	Wikidata Q87556020 http://www.wikidata.org/entity/Q87556020
 @form |LU₂.AL|
 @oid	o0023064
 @inote	dcclt !sg
@@ -27950,8 +27925,8 @@
 @v	ad₆
 @v	adaₓ
 @v	adda
-@link eBL |LU₂×BAD| https://www.ebl.lmu.de/signs/|LU₂×BAD|
-@link Wikidata Q87556023 http://www.wikidata.org/entity/Q87556023
+@link	eBL |LU₂×BAD| https://www.ebl.lmu.de/signs/|LU₂×BAD|
+@link	Wikidata Q87556023 http://www.wikidata.org/entity/Q87556023
 @form |LU₂.BAD|
 @oid	o0001931
 @useq	x121FD.x12041
@@ -27983,7 +27958,7 @@
 @useq	x121FF.x12041
 @ucun	𒇿𒁁
 @v	addaₓ
-@link eBL |LU₂×BAD.BAD| https://www.ebl.lmu.de/signs/|LU₂×BAD.BAD|
+@link	eBL |LU₂×BAD.BAD| https://www.ebl.lmu.de/signs/|LU₂×BAD.BAD|
 @end sign
 
 @sign |LU₂×BAD.BAD.A|
@@ -28002,8 +27977,8 @@
 @list	U+1251A
 @ucun	𒔚
 @uage	8.0
-@link eBL |LU₂×DIŠ| https://www.ebl.lmu.de/signs/|LU₂×DIŠ|
-@link Wikidata Q87557394 http://www.wikidata.org/entity/Q87557394
+@link	eBL |LU₂×DIŠ| https://www.ebl.lmu.de/signs/|LU₂×DIŠ|
+@link	Wikidata Q87557394 http://www.wikidata.org/entity/Q87557394
 @end sign
 
 @sign |LU₂×EŠ₂|
@@ -28016,8 +27991,8 @@
 @uage	5.0
 @v	erₓ
 @v	ereₓ
-@link eBL |LU₂×EŠ₂| https://www.ebl.lmu.de/signs/|LU₂×EŠ₂|
-@link Wikidata Q87556025 http://www.wikidata.org/entity/Q87556025
+@link	eBL |LU₂×EŠ₂| https://www.ebl.lmu.de/signs/|LU₂×EŠ₂|
+@link	Wikidata Q87556025 http://www.wikidata.org/entity/Q87556025
 @end sign
 
 @sign |LU₂×(EŠ₂.LAL)|
@@ -28032,7 +28007,7 @@
 @v	irₓ?
 @v	xₓ
 @v	xidₓ
-@link Wikidata Q87556795 http://www.wikidata.org/entity/Q87556795
+@link	Wikidata Q87556795 http://www.wikidata.org/entity/Q87556795
 @form |LU₂.EŠ₂.LAL|
 @oid	o0023065
 @inote	dcclt !sg
@@ -28053,8 +28028,8 @@
 @v	ere₁₃
 @v	eri₁₃
 @v	ir₁₃
-@link eBL |LU₂×EŠ₂@t| https://www.ebl.lmu.de/signs/|LU₂×EŠ₂@t|
-@link Wikidata Q87556027 http://www.wikidata.org/entity/Q87556027
+@link	eBL |LU₂×EŠ₂@t| https://www.ebl.lmu.de/signs/|LU₂×EŠ₂@t|
+@link	Wikidata Q87556027 http://www.wikidata.org/entity/Q87556027
 @form |LU₂.EŠ₂|
 @oid	o0001935
 @useq	x121FD.x120A0
@@ -28075,7 +28050,7 @@
 @@
 @form |LU₂×ŠU|
 @oid	o0001987
-@link eBL |LU₂×ŠU| https://www.ebl.lmu.de/signs/|LU₂×ŠU|
+@link	eBL |LU₂×ŠU| https://www.ebl.lmu.de/signs/|LU₂×ŠU|
 @@
 @end sign
 
@@ -28089,18 +28064,18 @@
 @ucun	𒈂
 @uage	5.0
 @v	adₓ
-@inote for cmawro--sfs could it be a heš₅/šaga instance instead?
+@inote	for cmawro--sfs could it be a heš₅/šaga instance instead?
 @v	heš₅
 @v	šaga
 @v	šaŋa
 @v	še₂₉
-@link eBL |LU₂×GAN₂@t| https://www.ebl.lmu.de/signs/|LU₂×GAN₂@t|
-@link Wikidata Q87556029 http://www.wikidata.org/entity/Q87556029
+@link	eBL |LU₂×GAN₂@t| https://www.ebl.lmu.de/signs/|LU₂×GAN₂@t|
+@link	Wikidata Q87556029 http://www.wikidata.org/entity/Q87556029
 @form |LU₂.GAN₂@t|
 @oid	o0001937
 @useq	x121FD.x120F8
 @ucun	𒇽𒃸
-@link eBL |LU₂.GAN₂@t| https://www.ebl.lmu.de/signs/|LU₂.GAN₂@t|
+@link	eBL |LU₂.GAN₂@t| https://www.ebl.lmu.de/signs/|LU₂.GAN₂@t|
 @@
 @form |LU₂.ŠA₃|
 @oid	o0001951
@@ -28113,7 +28088,7 @@
 @@
 @form |LU₂×EŠ₂|
 @oid	o0001971
-@link eBL |LU₂×EŠ₂| https://www.ebl.lmu.de/signs/|LU₂×EŠ₂|
+@link	eBL |LU₂×EŠ₂| https://www.ebl.lmu.de/signs/|LU₂×EŠ₂|
 @@
 @end sign
 
@@ -28124,8 +28099,8 @@
 @list	U+1251B
 @ucun	𒔛
 @uage	8.0
-@link eBL |LU₂×HAL| https://www.ebl.lmu.de/signs/|LU₂×HAL|
-@link Wikidata Q87557396 http://www.wikidata.org/entity/Q87557396
+@link	eBL |LU₂×HAL| https://www.ebl.lmu.de/signs/|LU₂×HAL|
+@link	Wikidata Q87557396 http://www.wikidata.org/entity/Q87557396
 @end sign
 
 @sign |LU₂×HI×BAD|
@@ -28137,8 +28112,8 @@
 @ucun	𒈃
 @uage	5.0
 @v	kama₅
-@link eBL |LU₂×HI×BAD| https://www.ebl.lmu.de/signs/|LU₂×HI×BAD|
-@link Wikidata Q87556032 http://www.wikidata.org/entity/Q87556032
+@link	eBL |LU₂×HI×BAD| https://www.ebl.lmu.de/signs/|LU₂×HI×BAD|
+@link	Wikidata Q87556032 http://www.wikidata.org/entity/Q87556032
 @form |LU₂.HI.BAD|
 @oid	o0001938
 @useq	x121FD.x1212D.x12041
@@ -28158,8 +28133,8 @@
 @ucun	𒈄
 @uage	5.0
 @v	xašₓ
-@link eBL |LU₂×IM| https://www.ebl.lmu.de/signs/|LU₂×IM|
-@link Wikidata Q87556034 http://www.wikidata.org/entity/Q87556034
+@link	eBL |LU₂×IM| https://www.ebl.lmu.de/signs/|LU₂×IM|
+@link	Wikidata Q87556034 http://www.wikidata.org/entity/Q87556034
 @end sign
 
 @sign |LU₂×IŠ|
@@ -28175,8 +28150,8 @@
 @ucun	𒈅
 @uage	5.0
 @v	dubal₃
-@link eBL |LU₂×KAD₂| https://www.ebl.lmu.de/signs/|LU₂×KAD₂|
-@link Wikidata Q87556036 http://www.wikidata.org/entity/Q87556036
+@link	eBL |LU₂×KAD₂| https://www.ebl.lmu.de/signs/|LU₂×KAD₂|
+@link	Wikidata Q87556036 http://www.wikidata.org/entity/Q87556036
 @form |LU₂×KAD₃|
 @oid	o0001978
 @uname	CUNEIFORM SIGN LU2 TIMES KAD3
@@ -28184,7 +28159,7 @@
 @ucun	𒈆
 @uage	5.0
 @v	dubal₄
-@link Wikidata Q87556038 http://www.wikidata.org/entity/Q87556038
+@link	Wikidata Q87556038 http://www.wikidata.org/entity/Q87556038
 @@
 @end sign
 
@@ -28196,8 +28171,8 @@
 @ucun	𒈇
 @uage	5.0
 @v	zanabal₂
-@link eBL |LU₂×(KAD₃.AŠ)| https://www.ebl.lmu.de/signs/|LU₂×(KAD₃.AŠ)|
-@link Wikidata Q87556039 http://www.wikidata.org/entity/Q87556039
+@link	eBL |LU₂×(KAD₃.AŠ)| https://www.ebl.lmu.de/signs/|LU₂×(KAD₃.AŠ)|
+@link	Wikidata Q87556039 http://www.wikidata.org/entity/Q87556039
 @end sign
 
 @sign |LU₂×KI|
@@ -28211,8 +28186,8 @@
 @v	dubal₆
 @v-	gurud₂
 @inote	gurud₂ belongs to LU₂.KI and is not attested with LU₂×KI
-@link eBL |LU₂×KI| https://www.ebl.lmu.de/signs/|LU₂×KI|
-@link Wikidata Q87556041 http://www.wikidata.org/entity/Q87556041
+@link	eBL |LU₂×KI| https://www.ebl.lmu.de/signs/|LU₂×KI|
+@link	Wikidata Q87556041 http://www.wikidata.org/entity/Q87556041
 @end sign
 
 @sign |LU₂×(LA.AŠ)|
@@ -28223,8 +28198,8 @@
 @ucun	𒈉
 @uage	5.0
 @v	zanabal
-@link eBL |LU₂×(LA.AŠ)| https://www.ebl.lmu.de/signs/|LU₂×(LA.AŠ)|
-@link Wikidata Q87556044 http://www.wikidata.org/entity/Q87556044
+@link	eBL |LU₂×(LA.AŠ)| https://www.ebl.lmu.de/signs/|LU₂×(LA.AŠ)|
+@link	Wikidata Q87556044 http://www.wikidata.org/entity/Q87556044
 @end sign
 
 @sign |LU₂×LAGAB|
@@ -28241,11 +28216,11 @@
 @v	hara₃
 @v	tešlug
 @inote	MC: /tešlug//
-@link eBL |LU₂×LAGAB| https://www.ebl.lmu.de/signs/|LU₂×LAGAB|
-@link Wikidata Q87556046 http://www.wikidata.org/entity/Q87556046
+@link	eBL |LU₂×LAGAB| https://www.ebl.lmu.de/signs/|LU₂×LAGAB|
+@link	Wikidata Q87556046 http://www.wikidata.org/entity/Q87556046
 @form |LU₂.LAGAB|
 @oid	o0001942
-@link eBL |LU₂.LAGAB| https://www.ebl.lmu.de/signs/|LU₂.LAGAB|
+@link	eBL |LU₂.LAGAB| https://www.ebl.lmu.de/signs/|LU₂.LAGAB|
 @@
 @end sign
 
@@ -28264,11 +28239,11 @@
 @ucun	𒈋
 @uage	5.0
 @v	dinig₂
-@link eBL |LU₂×(ME.EN)| https://www.ebl.lmu.de/signs/|LU₂×(ME.EN)|
-@link Wikidata Q87556047 http://www.wikidata.org/entity/Q87556047
+@link	eBL |LU₂×(ME.EN)| https://www.ebl.lmu.de/signs/|LU₂×(ME.EN)|
+@link	Wikidata Q87556047 http://www.wikidata.org/entity/Q87556047
 @form |LU₂.ME.EN|
 @oid	o0001946
-@link eBL |LU₂.ME.EN| https://www.ebl.lmu.de/signs/|LU₂.ME.EN|
+@link	eBL |LU₂.ME.EN| https://www.ebl.lmu.de/signs/|LU₂.ME.EN|
 @@
 @end sign
 
@@ -28282,13 +28257,13 @@
 @ucun	𒈌
 @uage	5.0
 @v	du₁₄
-@link eBL |LU₂×NE| https://www.ebl.lmu.de/signs/|LU₂×NE|
-@link Wikidata Q87556049 http://www.wikidata.org/entity/Q87556049
+@link	eBL |LU₂×NE| https://www.ebl.lmu.de/signs/|LU₂×NE|
+@link	Wikidata Q87556049 http://www.wikidata.org/entity/Q87556049
 @form |LU₂.NE|
 @oid	o0001947
 @useq	x121FD.x12248
 @ucun	𒇽𒉈
-@link eBL |LU₂.NE| https://www.ebl.lmu.de/signs/|LU₂.NE|
+@link	eBL |LU₂.NE| https://www.ebl.lmu.de/signs/|LU₂.NE|
 @@
 @end sign
 
@@ -28299,8 +28274,8 @@
 @ucun	𒈍
 @uage	5.0
 @v	xtalluₓ
-@link eBL |LU₂×NU| https://www.ebl.lmu.de/signs/|LU₂×NU|
-@link Wikidata Q87556051 http://www.wikidata.org/entity/Q87556051
+@link	eBL |LU₂×NU| https://www.ebl.lmu.de/signs/|LU₂×NU|
+@link	Wikidata Q87556051 http://www.wikidata.org/entity/Q87556051
 @form |LU₂.NU|
 @oid	o0023066
 @inote	dcclt !sg
@@ -28316,8 +28291,8 @@
 @list	U+1251C
 @ucun	𒔜
 @uage	8.0
-@link eBL |LU₂×PAP| https://www.ebl.lmu.de/signs/|LU₂×PAP|
-@link Wikidata Q87557398 http://www.wikidata.org/entity/Q87557398
+@link	eBL |LU₂×PAP| https://www.ebl.lmu.de/signs/|LU₂×PAP|
+@link	Wikidata Q87557398 http://www.wikidata.org/entity/Q87557398
 @end sign
 
 @sign |LU₂×(PAP.PAP.LU₃)|
@@ -28327,8 +28302,8 @@
 @list	U+1251D
 @ucun	𒔝
 @uage	8.0
-@link eBL |LU₂×(PAP.PAP.LU₃)| https://www.ebl.lmu.de/signs/|LU₂×(PAP.PAP.LU₃)|
-@link Wikidata Q87557400 http://www.wikidata.org/entity/Q87557400
+@link	eBL |LU₂×(PAP.PAP.LU₃)| https://www.ebl.lmu.de/signs/|LU₂×(PAP.PAP.LU₃)|
+@link	Wikidata Q87557400 http://www.wikidata.org/entity/Q87557400
 @end sign
 
 @sign |LU₂×(SI.AŠ)|
@@ -28339,8 +28314,8 @@
 @ucun	𒈎
 @uage	5.0
 @v	zanabal₃
-@link eBL |LU₂×(SI.AŠ)| https://www.ebl.lmu.de/signs/|LU₂×(SI.AŠ)|
-@link Wikidata Q87556053 http://www.wikidata.org/entity/Q87556053
+@link	eBL |LU₂×(SI.AŠ)| https://www.ebl.lmu.de/signs/|LU₂×(SI.AŠ)|
+@link	Wikidata Q87556053 http://www.wikidata.org/entity/Q87556053
 @end sign
 
 @sign |LU₂×(SIK₂.BU)|
@@ -28353,8 +28328,8 @@
 @ucun	𒈏
 @uage	5.0
 @v	xašₓ
-@link eBL |LU₂×(SIK₂.BU)| https://www.ebl.lmu.de/signs/|LU₂×(SIK₂.BU)|
-@link Wikidata Q87556054 http://www.wikidata.org/entity/Q87556054
+@link	eBL |LU₂×(SIK₂.BU)| https://www.ebl.lmu.de/signs/|LU₂×(SIK₂.BU)|
+@link	Wikidata Q87556054 http://www.wikidata.org/entity/Q87556054
 @form |LU₂×(SIK₂.SUD)|
 @oid	o0031823
 @inote	Lambert Iraq 38 BM 98946; copy clearly SUD--possible one or other of BU/SUD forms is to be corrected
@@ -28363,7 +28338,7 @@
 
 @sign |LU₂×ŠA₃|
 @oid	o0001986
-@link eBL |LU₂×ŠA₃| https://www.ebl.lmu.de/signs/|LU₂×ŠA₃|
+@link	eBL |LU₂×ŠA₃| https://www.ebl.lmu.de/signs/|LU₂×ŠA₃|
 @end sign
 
 @sign |LU₂×ŠU|
@@ -28374,8 +28349,8 @@
 @uage	7.0
 @v	erₓ
 @v	ereₓ
-@link eBL |LU₂×ŠU| https://www.ebl.lmu.de/signs/|LU₂×ŠU|
-@link Wikidata Q87556797 http://www.wikidata.org/entity/Q87556797
+@link	eBL |LU₂×ŠU| https://www.ebl.lmu.de/signs/|LU₂×ŠU|
+@link	Wikidata Q87556797 http://www.wikidata.org/entity/Q87556797
 @end sign
 
 @sign |LU₂×TAK₄|
@@ -28385,8 +28360,8 @@
 @list	U+1251E
 @ucun	𒔞
 @uage	8.0
-@link eBL |LU₂×TAK₄| https://www.ebl.lmu.de/signs/|LU₂×TAK₄|
-@link Wikidata Q87557402 http://www.wikidata.org/entity/Q87557402
+@link	eBL |LU₂×TAK₄| https://www.ebl.lmu.de/signs/|LU₂×TAK₄|
+@link	Wikidata Q87557402 http://www.wikidata.org/entity/Q87557402
 @end sign
 
 @sign |LU₂×TUG₂|
@@ -28401,8 +28376,8 @@
 @v	azalag₇
 @v	azlag₇
 @v	dubal₇
-@link eBL |LU₂×TUG₂| https://www.ebl.lmu.de/signs/|LU₂×TUG₂|
-@link Wikidata Q87556056 http://www.wikidata.org/entity/Q87556056
+@link	eBL |LU₂×TUG₂| https://www.ebl.lmu.de/signs/|LU₂×TUG₂|
+@link	Wikidata Q87556056 http://www.wikidata.org/entity/Q87556056
 @form |AL×TUG₂|
 @oid	o0000788
 @v	dubal₇
@@ -28428,68 +28403,6 @@
 @ucun	XX
 @end sign
 
-@sign LU₃
-@oid	o0000443
-@list	ABZL216
-@list	BAU288
-@list	ELLES386
-@list	GCSL067
-@list	KWU293
-@list	LAK790
-@list	MZL555
-@list	PTACE319
-@list	RSP257
-@list	SLLHA345
-@uname	CUNEIFORM SIGN LU3
-@list	U+12216
-@ucun	𒈖
-@uage	5.0
-@v	gadₓ
-@v	gar₅
-@v	gudₓ
-@v	gug₂
-@v	kuk₂
-@v	lu₃
-@link eBL LU₃ https://www.ebl.lmu.de/signs/LU₃
-@link Wikidata Q87556070 http://www.wikidata.org/entity/Q87556070
-@end sign
-
-@sign |LU₃.LU₃|
-@oid	o0031656
-@aka	|GUG₂.GUG₂|
-@inote	addx dcclt/ebla
-@useq	x12216.x12216
-@ucun	𒈖𒈖
-@v	gadaₓ
-@v	gaddaₓ
-@end sign
-
-@sign |LU₃.PAP.PAP|
-@oid	o0001988
-@useq	x12216.x1227D.x1227D
-@ucun	𒈖𒉽𒉽
-@v	titab₂
-@link eBL |LU₃.PAP.PAP| https://www.ebl.lmu.de/signs/|LU₃.PAP.PAP|
-@form |BARA₂.PAP.PAP|
-@oid	o0000909
-@useq	x12048.x1227D.x1227D
-@ucun	𒁈𒉽𒉽
-@v	bara₂-munu₅
-@v	titab
-@@
-@form |BARA₂.PAP.ŠE.PAP|
-@oid	o0000910
-@useq	x12048.x1227D.x122BA.x1227D
-@ucun	𒁈𒉽𒊺𒉽
-@link eBL |BARA₂.PAP.ŠE.PAP| https://www.ebl.lmu.de/signs/|BARA₂.PAP.ŠE.PAP|
-@@
-@form |PAP.PAP.LU₃|
-@oid	o0002229
-@useq	x1227D.x1227D.x12216
-@ucun	𒉽𒉽𒈖
-@@
-@end sign
-
 @sign LU₂@90
 @oid	o0021444
 @end sign
@@ -28504,7 +28417,7 @@
 @useq	X.x12357
 @ucun	X𒍗
 @v	addaₓ
-@link eBL |LU₂@g.UŠ₂| https://www.ebl.lmu.de/signs/|LU₂@g.UŠ₂|
+@link	eBL |LU₂@g.UŠ₂| https://www.ebl.lmu.de/signs/|LU₂@g.UŠ₂|
 @end sign
 
 @sign |LU₂@g×AŠ|
@@ -28516,8 +28429,8 @@
 @ucun	𒔙
 @uage	8.0
 @v	adₓ
-@link eBL |LU₂@g×AŠ| https://www.ebl.lmu.de/signs/|LU₂@g×AŠ|
-@link Wikidata Q87557392 http://www.wikidata.org/entity/Q87557392
+@link	eBL |LU₂@g×AŠ| https://www.ebl.lmu.de/signs/|LU₂@g×AŠ|
+@link	Wikidata Q87557392 http://www.wikidata.org/entity/Q87557392
 @end sign
 
 @sign LU₂@s
@@ -28543,19 +28456,19 @@
 @v	ug₈?
 @inote	Krebernik RlA s.v. U.GUR
 @sys	Attinger irina₃ => rin₅
-@link eBL LU₂@s https://www.ebl.lmu.de/signs/LU₂@s
-@link Wikidata Q87556068 http://www.wikidata.org/entity/Q87556068
+@link	eBL LU₂@s https://www.ebl.lmu.de/signs/LU₂@s
+@link	Wikidata Q87556068 http://www.wikidata.org/entity/Q87556068
 @form LAK349
 @oid	o0000358
 @list	LAK349
-@link eBL LAK349 https://www.ebl.lmu.de/signs/LAK349
+@link	eBL LAK349 https://www.ebl.lmu.de/signs/LAK349
 @@
 @form |LU₂.GAM|
 @oid	o0001936
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 21
 @useq	x121FD.x120F5
 @ucun	𒇽𒃵
-@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 21
-@link eBL |LU₂.GAM| https://www.ebl.lmu.de/signs/|LU₂.GAM|
+@link	eBL |LU₂.GAM| https://www.ebl.lmu.de/signs/|LU₂.GAM|
 @@
 @form |LU₂.GAN|
 @oid	o0031613
@@ -28582,7 +28495,15 @@
 @useq	x12215.x1223E
 @ucun	𒈕𒈾
 @v	arinaₓ
-@link eBL |LU₂@s.NA| https://www.ebl.lmu.de/signs/|LU₂@s.NA|
+@link	eBL |LU₂@s.NA| https://www.ebl.lmu.de/signs/|LU₂@s.NA|
+@end sign
+
+@sign |LU₂@s+GAM|
+@oid	o0027801
+@inote	addx
+@useq	x12215.x120F5
+@ucun	𒈕𒃵
+@v	rinₓ
 @end sign
 
 @sign |LU₂@s×BAD|
@@ -28598,22 +28519,14 @@
 @v-	adₓ
 @inote	since CDLI uses ad₈ we should deprecate this adₓ
 @v	addaₓ
-@link eBL |LU₂@s×BAD| https://www.ebl.lmu.de/signs/|LU₂@s×BAD|
-@link Wikidata Q87556792 http://www.wikidata.org/entity/Q87556792
+@link	eBL |LU₂@s×BAD| https://www.ebl.lmu.de/signs/|LU₂@s×BAD|
+@link	Wikidata Q87556792 http://www.wikidata.org/entity/Q87556792
 @end sign
 
 @sign |LU₂@s×TIL|
 @oid	o0221945
 @inote	admin/ed3b
 @v	adₓ
-@end sign
-
-@sign |LU₂@s+GAM|
-@oid	o0027801
-@inote	addx
-@useq	x12215.x120F5
-@ucun	𒈕𒃵
-@v	rinₓ
 @end sign
 
 @sign LU₂@t
@@ -28625,8 +28538,70 @@
 @ucun	𒈑
 @uage	5.0
 @v	lil₈
-@link eBL LU₂@t https://www.ebl.lmu.de/signs/LU₂@t
-@link Wikidata Q87556058 http://www.wikidata.org/entity/Q87556058
+@link	eBL LU₂@t https://www.ebl.lmu.de/signs/LU₂@t
+@link	Wikidata Q87556058 http://www.wikidata.org/entity/Q87556058
+@end sign
+
+@sign LU₃
+@oid	o0000443
+@list	ABZL216
+@list	BAU288
+@list	ELLES386
+@list	GCSL067
+@list	KWU293
+@list	LAK790
+@list	MZL555
+@list	PTACE319
+@list	RSP257
+@list	SLLHA345
+@uname	CUNEIFORM SIGN LU3
+@list	U+12216
+@ucun	𒈖
+@uage	5.0
+@v	gadₓ
+@v	gar₅
+@v	gudₓ
+@v	gug₂
+@v	kuk₂
+@v	lu₃
+@link	eBL LU₃ https://www.ebl.lmu.de/signs/LU₃
+@link	Wikidata Q87556070 http://www.wikidata.org/entity/Q87556070
+@end sign
+
+@sign |LU₃.LU₃|
+@oid	o0031656
+@aka	|GUG₂.GUG₂|
+@inote	addx dcclt/ebla
+@useq	x12216.x12216
+@ucun	𒈖𒈖
+@v	gadaₓ
+@v	gaddaₓ
+@end sign
+
+@sign |LU₃.PAP.PAP|
+@oid	o0001988
+@useq	x12216.x1227D.x1227D
+@ucun	𒈖𒉽𒉽
+@v	titab₂
+@link	eBL |LU₃.PAP.PAP| https://www.ebl.lmu.de/signs/|LU₃.PAP.PAP|
+@form |BARA₂.PAP.PAP|
+@oid	o0000909
+@useq	x12048.x1227D.x1227D
+@ucun	𒁈𒉽𒉽
+@v	bara₂-munu₅
+@v	titab
+@@
+@form |BARA₂.PAP.ŠE.PAP|
+@oid	o0000910
+@useq	x12048.x1227D.x122BA.x1227D
+@ucun	𒁈𒉽𒊺𒉽
+@link	eBL |BARA₂.PAP.ŠE.PAP| https://www.ebl.lmu.de/signs/|BARA₂.PAP.ŠE.PAP|
+@@
+@form |PAP.PAP.LU₃|
+@oid	o0002229
+@useq	x1227D.x1227D.x12216
+@ucun	𒉽𒉽𒈖
+@@
 @end sign
 
 @sign LUGAL
@@ -28670,15 +28645,20 @@
 @v	šarru
 @v	šarrum
 @v	šugur
-@link eBL LUGAL https://www.ebl.lmu.de/signs/LUGAL
-@link Wikidata Q87556071 http://www.wikidata.org/entity/Q87556071
+@link	eBL LUGAL https://www.ebl.lmu.de/signs/LUGAL
+@link	Wikidata Q87556071 http://www.wikidata.org/entity/Q87556071
+@end sign
+
+@sign |4×(LUGAL.X)|
+@oid	o0022934
+@inote	dcclt !sg
 @end sign
 
 @sign |LUGAL.GAL|
 @oid	o0001913
 @useq	x12217.x120F2
 @ucun	𒈗𒃲
-@link eBL |LUGAL.GAL| https://www.ebl.lmu.de/signs/|LUGAL.GAL|
+@link	eBL |LUGAL.GAL| https://www.ebl.lmu.de/signs/|LUGAL.GAL|
 @end sign
 
 @sign |LUGAL.GAM|
@@ -28686,7 +28666,7 @@
 @useq	x12217.x120F5
 @ucun	𒈗𒃵
 @v	dimₓ
-@link eBL |LUGAL.GAM| https://www.ebl.lmu.de/signs/|LUGAL.GAM|
+@link	eBL |LUGAL.GAM| https://www.ebl.lmu.de/signs/|LUGAL.GAM|
 @end sign
 
 @sign |LUGAL.GAN|
@@ -28697,7 +28677,7 @@
 @ucun	𒈗𒃶
 @v	dim₉
 @v	kamad₂
-@link eBL |LUGAL.GAN| https://www.ebl.lmu.de/signs/|LUGAL.GAN|
+@link	eBL |LUGAL.GAN| https://www.ebl.lmu.de/signs/|LUGAL.GAN|
 @end sign
 
 @sign |LUGAL.HI×BAD|
@@ -28705,7 +28685,7 @@
 @useq	x12217.x12130
 @ucun	𒈗𒄰
 @v	dim₁₁
-@link eBL |LUGAL.HI×BAD| https://www.ebl.lmu.de/signs/|LUGAL.HI×BAD|
+@link	eBL |LUGAL.HI×BAD| https://www.ebl.lmu.de/signs/|LUGAL.HI×BAD|
 @end sign
 
 @sign |LUGAL&LUGAL|
@@ -28721,8 +28701,8 @@
 @v	gug₅
 @ref	CUSAS 12.1.1.2 = dcclt/signlists:P342645 o ii 39
 @v	kukuₓ
-@link eBL |LUGAL&LUGAL| https://www.ebl.lmu.de/signs/|LUGAL&LUGAL|
-@link Wikidata Q87556073 http://www.wikidata.org/entity/Q87556073
+@link	eBL |LUGAL&LUGAL| https://www.ebl.lmu.de/signs/|LUGAL&LUGAL|
+@link	Wikidata Q87556073 http://www.wikidata.org/entity/Q87556073
 @form |LUGAL@LUGAL|
 @oid	o0001917
 @list	MZL268
@@ -28735,8 +28715,8 @@
 @v	adamenₓ
 @v	eₓ
 @v	gug₅
-@link eBL |LUGAL@LUGAL| https://www.ebl.lmu.de/signs/|LUGAL@LUGAL|
-@link Wikidata Q87556076 http://www.wikidata.org/entity/Q87556076
+@link	eBL |LUGAL@LUGAL| https://www.ebl.lmu.de/signs/|LUGAL@LUGAL|
+@link	Wikidata Q87556076 http://www.wikidata.org/entity/Q87556076
 @@
 @form |LUGAL%LUGAL|
 @oid	o0001911
@@ -28756,8 +28736,8 @@
 @ucun	𒈚
 @uage	5.0
 @v	dimₓ
-@link eBL LUGAL@s https://www.ebl.lmu.de/signs/LUGAL@s
-@link Wikidata Q87556078 http://www.wikidata.org/entity/Q87556078
+@link	eBL LUGAL@s https://www.ebl.lmu.de/signs/LUGAL@s
+@link	Wikidata Q87556078 http://www.wikidata.org/entity/Q87556078
 @end sign
 
 @sign LUH
@@ -28795,8 +28775,8 @@
 @v	sukkal
 @v	šukal
 @v	šukkal
-@link eBL LUH https://www.ebl.lmu.de/signs/LUH
-@link Wikidata Q87556079 http://www.wikidata.org/entity/Q87556079
+@link	eBL LUH https://www.ebl.lmu.de/signs/LUH
+@link	Wikidata Q87556079 http://www.wikidata.org/entity/Q87556079
 @end sign
 
 @sign LUH@180
@@ -28878,15 +28858,15 @@
 @ref	CUSAS 12, 1.1.2 = dcclt:P342645 r ii 64
 @inote	salgues
 @v	zulug
-@link eBL LUL https://www.ebl.lmu.de/signs/LUL
-@link Wikidata Q87556081 http://www.wikidata.org/entity/Q87556081
+@link	eBL LUL https://www.ebl.lmu.de/signs/LUL
+@link	Wikidata Q87556081 http://www.wikidata.org/entity/Q87556081
 @form LAK244
 @oid	o0000335
 @list	ELLES138
 @list	LAK244
 @list	RSP468ter
 @v	hamunzirₓ
-@link eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
+@link	eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
 @@
 @form RSP468bis
 @oid	o0221921
@@ -28902,7 +28882,7 @@
 @v	ka₁₀
 @v	libₓ
 @v	lulₓ
-@link eBL |LUL.A| https://www.ebl.lmu.de/signs/|LUL.A|
+@link	eBL |LUL.A| https://www.ebl.lmu.de/signs/|LUL.A|
 @end sign
 
 @sign |LUL.AŠ|
@@ -28919,7 +28899,7 @@
 @v	tegi₂
 @v	tigi₂
 @v	tigu₂
-@link eBL |LUL.BALAG| https://www.ebl.lmu.de/signs/|LUL.BALAG|
+@link	eBL |LUL.BALAG| https://www.ebl.lmu.de/signs/|LUL.BALAG|
 @end sign
 
 @sign |LUL.DIN.LIŠ|
@@ -28936,22 +28916,23 @@
 @useq	x1221C.x1208D.x12046
 @ucun	𒈜𒂍𒁆
 @v	tigiₓ
-@link eBL |LUL.E₂.BALAG| https://www.ebl.lmu.de/signs/|LUL.E₂.BALAG|
-@end sign
-
-@sign |LUL×3(DIŠ@t)|
-@oid	o0031487
-@inote	See AOAT 319, 75-76 and Steinkeller ZA 94; previous description |NAR×ŠAG₄| but ×3(DIŠ@t) better based on Krebernik's copy on CDLI.
+@link	eBL |LUL.E₂.BALAG| https://www.ebl.lmu.de/signs/|LUL.E₂.BALAG|
 @end sign
 
 @sign |LUL×A|
-@inote CCPo
+@oid	o0038081
+@inote	CCPo
 @end sign
 
 @sign |LUL×ŠE|
 @oid	o0001922
 @inote	u3adm
-@link eBL |LUL×ŠE| https://www.ebl.lmu.de/signs/|LUL×ŠE|
+@link	eBL |LUL×ŠE| https://www.ebl.lmu.de/signs/|LUL×ŠE|
+@end sign
+
+@sign |LUL×3(DIŠ@t)|
+@oid	o0031487
+@inote	See AOAT 319, 75-76 and Steinkeller ZA 94; previous description |NAR×ŠAG₄| but ×3(DIŠ@t) better based on Krebernik's copy on CDLI.
 @end sign
 
 @sign LUM
@@ -28987,7 +28968,7 @@
 @v	hum
 @v	humu
 @v	hunₓ
-@inote CCPo
+@inote	CCPo
 @v	hus
 @v	huz?
 @v	kuŋₓ?
@@ -29004,8 +28985,8 @@
 @v	nu₄
 @v	num₂
 @v	qum₃
-@link eBL LUM https://www.ebl.lmu.de/signs/LUM
-@link Wikidata Q87556083 http://www.wikidata.org/entity/Q87556083
+@link	eBL LUM https://www.ebl.lmu.de/signs/LUM
+@link	Wikidata Q87556083 http://www.wikidata.org/entity/Q87556083
 @end sign
 
 @sign |LUM.LUM|
@@ -29014,7 +28995,7 @@
 @ucun	𒈝𒈝
 @v	gugumu
 @v	luhum?
-@link eBL |LUM.LUM| https://www.ebl.lmu.de/signs/|LUM.LUM|
+@link	eBL |LUM.LUM| https://www.ebl.lmu.de/signs/|LUM.LUM|
 @end sign
 
 @sign |LUM&LUM|
@@ -29027,8 +29008,8 @@
 @uage	5.0
 @v	gum₂-gum₂
 @v	gumgum
-@link eBL |LUM&LUM| https://www.ebl.lmu.de/signs/|LUM&LUM|
-@link Wikidata Q87556085 http://www.wikidata.org/entity/Q87556085
+@link	eBL |LUM&LUM| https://www.ebl.lmu.de/signs/|LUM&LUM|
+@link	Wikidata Q87556085 http://www.wikidata.org/entity/Q87556085
 @form |LUM%LUM|
 @oid	o0022988
 @inote	dcclt !sg collate
@@ -29041,7 +29022,7 @@
 @ucun	𒈞𒁽
 @v	gum₂-gum₂-kaš₄
 @v	gumgumₓ
-@link eBL |LUM&LUM.DU@s| https://www.ebl.lmu.de/signs/|LUM&LUM.DU@s|
+@link	eBL |LUM&LUM.DU@s| https://www.ebl.lmu.de/signs/|LUM&LUM.DU@s|
 @end sign
 
 @sign |LUM&LUM.GAR&GAR|
@@ -29053,8 +29034,8 @@
 @ucun	𒈟
 @uage	5.0
 @v	lugud₃
-@link eBL |LUM&LUM.GAR&GAR| https://www.ebl.lmu.de/signs/|LUM&LUM.GAR&GAR|
-@link Wikidata Q87556087 http://www.wikidata.org/entity/Q87556087
+@link	eBL |LUM&LUM.GAR&GAR| https://www.ebl.lmu.de/signs/|LUM&LUM.GAR&GAR|
+@link	Wikidata Q87556087 http://www.wikidata.org/entity/Q87556087
 @end sign
 
 @sign |LUM&LUM.ŠU₂|
@@ -29066,7 +29047,7 @@
 @v	guhšu₂
 @v	gum₂-gum₂-šu₂
 @v	gumgumšu
-@link eBL |LUM&LUM.ŠU₂| https://www.ebl.lmu.de/signs/|LUM&LUM.ŠU₂|
+@link	eBL |LUM&LUM.ŠU₂| https://www.ebl.lmu.de/signs/|LUM&LUM.ŠU₂|
 @end sign
 
 @sign MA
@@ -29091,8 +29072,8 @@
 @v	peš₃
 @v	pešše
 @v	wa₆
-@link eBL MA https://www.ebl.lmu.de/signs/MA
-@link Wikidata Q87556088 http://www.wikidata.org/entity/Q87556088
+@link	eBL MA https://www.ebl.lmu.de/signs/MA
+@link	Wikidata Q87556088 http://www.wikidata.org/entity/Q87556088
 @end sign
 
 @sign |MA×GAN₂@t|
@@ -29100,13 +29081,13 @@
 @inote	ed3b, collated from photo P225807; GAN₂@t runs SW to NE not NW to SE, i.e., is rotated -90 degrees
 @end sign
 
-@sign |MA×2(N57)|
-@oid	o0027476
+@sign |MA×X|
+@oid	o0027478
 @inote	UET II, provisional
 @end sign
 
-@sign |MA×X|
-@oid	o0027478
+@sign |MA×2(N57)|
+@oid	o0027476
 @inote	UET II, provisional
 @end sign
 
@@ -29127,8 +29108,8 @@
 @uage	5.0
 @v	durba
 @v	hašhur
-@link eBL MA@g https://www.ebl.lmu.de/signs/MA@g
-@link Wikidata Q87556093 http://www.wikidata.org/entity/Q87556093
+@link	eBL MA@g https://www.ebl.lmu.de/signs/MA@g
+@link	Wikidata Q87556093 http://www.wikidata.org/entity/Q87556093
 @form |MA×GAN₂@t|
 @oid	o0021456
 @inote	See sign form in MEE15 pl VIII o 6
@@ -29142,8 +29123,8 @@
 @ucun	𒈡
 @uage	5.0
 @v	širₓ
-@link eBL |MA@g×TAK₄| https://www.ebl.lmu.de/signs/|MA@g×TAK₄|
-@link Wikidata Q87556090 http://www.wikidata.org/entity/Q87556090
+@link	eBL |MA@g×TAK₄| https://www.ebl.lmu.de/signs/|MA@g×TAK₄|
+@link	Wikidata Q87556090 http://www.wikidata.org/entity/Q87556090
 @end sign
 
 @sign MA₂
@@ -29164,13 +29145,8 @@
 @uage	5.0
 @v	huₓ
 @v	ma₂
-@link eBL MA₂ https://www.ebl.lmu.de/signs/MA₂
-@link Wikidata Q87556095 http://www.wikidata.org/entity/Q87556095
-@end sign
-
-@sign |MA₂×EŠ₂|
-@oid	o0038178
-@inote P252707 = CUSAS 35, 230 (also in 231)
+@link	eBL MA₂ https://www.ebl.lmu.de/signs/MA₂
+@link	Wikidata Q87556095 http://www.wikidata.org/entity/Q87556095
 @end sign
 
 @sign |MA₂.HU|
@@ -29195,7 +29171,7 @@
 @v	sura₁₀
 @v	surru₂
 @v	zur₃
-@link eBL |MA₂.IGI@g| https://www.ebl.lmu.de/signs/|MA₂.IGI@g|
+@link	eBL |MA₂.IGI@g| https://www.ebl.lmu.de/signs/|MA₂.IGI@g|
 @form |MA₂.IGI|
 @oid	o0027875
 @inote	uncertain; P271567 three times
@@ -29213,21 +29189,21 @@
 @v	dimgulₓ
 @v	dirgulₓ
 @v	targulₓ
-@link eBL |MA₂.KAK| https://www.ebl.lmu.de/signs/|MA₂.KAK|
+@link	eBL |MA₂.KAK| https://www.ebl.lmu.de/signs/|MA₂.KAK|
 @end sign
 
 @sign |MA₂.KASKAL.IGI@g|
 @oid	o0002005
 @useq	x12223.x1219C.x1214A
 @ucun	𒈣𒆜𒅊
-@link eBL |MA₂.KASKAL.IGI@g| https://www.ebl.lmu.de/signs/|MA₂.KASKAL.IGI@g|
+@link	eBL |MA₂.KASKAL.IGI@g| https://www.ebl.lmu.de/signs/|MA₂.KASKAL.IGI@g|
 @end sign
 
 @sign |MA₂.KASKAL.IGI@g&IGI@g|
 @oid	o0002004
 @useq	x12223.x1219C.X
 @ucun	𒈣𒆜X
-@link eBL |MA₂.KASKAL.IGI@g&IGI@g| https://www.ebl.lmu.de/signs/|MA₂.KASKAL.IGI@g&IGI@g|
+@link	eBL |MA₂.KASKAL.IGI@g&IGI@g| https://www.ebl.lmu.de/signs/|MA₂.KASKAL.IGI@g&IGI@g|
 @end sign
 
 @sign |MA₂.LIŠ|
@@ -29257,7 +29233,7 @@
 @v	dirgul
 @v	durgul
 @v	targul
-@link eBL |MA₂.MUG| https://www.ebl.lmu.de/signs/|MA₂.MUG|
+@link	eBL |MA₂.MUG| https://www.ebl.lmu.de/signs/|MA₂.MUG|
 @end sign
 
 @sign |MA₂.SAL.DIŠ|
@@ -29266,7 +29242,7 @@
 @useq	x12223.x122A9.x12079
 @ucun	𒈣𒊩𒁹
 @v	šilamₓ
-@link eBL |MA₂.SAL.DIŠ| https://www.ebl.lmu.de/signs/|MA₂.SAL.DIŠ|
+@link	eBL |MA₂.SAL.DIŠ| https://www.ebl.lmu.de/signs/|MA₂.SAL.DIŠ|
 @end sign
 
 @sign |MA₂.X|
@@ -29274,6 +29250,11 @@
 @useq	x12223.O
 @ucun	𒈣O
 @v	nirₓ
+@end sign
+
+@sign |MA₂×EŠ₂|
+@oid	o0038178
+@inote	P252707 = CUSAS 35, 230 (also in 231)
 @end sign
 
 @sign MAH
@@ -29297,8 +29278,8 @@
 @v	meh
 @v	mih
 @v	šutur
-@link eBL MAH https://www.ebl.lmu.de/signs/MAH
-@link Wikidata Q87556097 http://www.wikidata.org/entity/Q87556097
+@link	eBL MAH https://www.ebl.lmu.de/signs/MAH
+@link	Wikidata Q87556097 http://www.wikidata.org/entity/Q87556097
 @form MAH@v
 @oid	o0223479
 @v	mah@v
@@ -29309,10 +29290,8 @@
 @sign MAH@g
 @oid	o0000447
 @inote	CDLI ed3b
-@link eBL MAH@g https://www.ebl.lmu.de/signs/MAH@g
+@link	eBL MAH@g https://www.ebl.lmu.de/signs/MAH@g
 @end sign
-
-@compoundonly |(HI&HI)|
 
 @sign MAR
 @oid	o0000448
@@ -29337,8 +29316,8 @@
 @v	mara
 @v	muraₓ
 @v	war₂
-@link eBL MAR https://www.ebl.lmu.de/signs/MAR
-@link Wikidata Q87556098 http://www.wikidata.org/entity/Q87556098
+@link	eBL MAR https://www.ebl.lmu.de/signs/MAR
+@link	Wikidata Q87556098 http://www.wikidata.org/entity/Q87556098
 @end sign
 
 @sign |MAR.TU|
@@ -29346,7 +29325,7 @@
 @useq	x12225.x12305
 @ucun	𒈥𒌅
 @v	amurrum
-@link eBL |MAR.TU| https://www.ebl.lmu.de/signs/|MAR.TU|
+@link	eBL |MAR.TU| https://www.ebl.lmu.de/signs/|MAR.TU|
 @end sign
 
 @sign MAŠ
@@ -29369,10 +29348,6 @@
 @uage	5.0
 @v	ba₇
 @v-	baš
-@v	1/2(aš)
-@inote 1/2(aš) used by CDLI with GUR measures
-@v	1/2(ban₂)
-@v	1/2(diš)
 @v	ma₇
 @v	mas
 @v	%akk maś
@@ -29386,23 +29361,27 @@
 @v-	waš
 @v	zapahₓ
 @v	zipah
-@link eBL MAŠ https://www.ebl.lmu.de/signs/MAŠ
-@link Wikidata Q87556100 http://www.wikidata.org/entity/Q87556100
+@v	1/2(aš)
+@inote	1/2(aš) used by CDLI with GUR measures
+@v	1/2(ban₂)
+@v	1/2(diš)
+@link	eBL MAŠ https://www.ebl.lmu.de/signs/MAŠ
+@link	Wikidata Q87556100 http://www.wikidata.org/entity/Q87556100
+@form MAŠ@t
+@oid	o0000450
+@v	maš
+@ref	SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t
+@@
 @form 1/2(DIŠ@c)
 @oid	o0223387
 @list	LAK838
 @list	RSP036
 @inote	@ucode	xebca
-@v	1/2(diš@c)
 @v	1/2(aš@c)
-@inote I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
+@inote	I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
+@v	1/2(diš@c)
 @v	1/4(diš@c)
-@inote  This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP/036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this.
-@@
-@form MAŠ@t
-@oid	o0000450
-@v	maš
-@ref	SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t
+@inote	This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP/036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this.
 @@
 @end sign
 
@@ -29411,7 +29390,7 @@
 @pname	|MAŠ+EN|
 @useq	x12226.x12097
 @ucun	𒈦𒂗
-@link eBL |MAŠ.EN| https://www.ebl.lmu.de/signs/|MAŠ.EN|
+@link	eBL |MAŠ.EN| https://www.ebl.lmu.de/signs/|MAŠ.EN|
 @end sign
 
 @sign |MAŠ.EN.KAK|
@@ -29421,7 +29400,7 @@
 @v	mašda₂
 @v	mašgagen
 @sys	Attinger mašgagen => mašda₂
-@link eBL |MAŠ.EN.KAK| https://www.ebl.lmu.de/signs/|MAŠ.EN.KAK|
+@link	eBL |MAŠ.EN.KAK| https://www.ebl.lmu.de/signs/|MAŠ.EN.KAK|
 @end sign
 
 @sign |MAŠ.GU₂.GAR₃|
@@ -29442,7 +29421,7 @@
 @note	Reading dal₂ is based on MSL 2, iii 21 but see the new edition in MSL 14, 135.
 @v	dalla
 @v	zubₓ
-@link eBL |MAŠ.GU₂.GAR₃| https://www.ebl.lmu.de/signs/|MAŠ.GU₂.GAR₃|
+@link	eBL |MAŠ.GU₂.GAR₃| https://www.ebl.lmu.de/signs/|MAŠ.GU₂.GAR₃|
 @form |PAP.GU₂.GAR₃|
 @oid	o0022997
 @inote	dcclt !sg
@@ -29456,7 +29435,7 @@
 @useq	x12226.x12195
 @ucun	𒈦𒆕
 @v	mašda
-@link eBL |MAŠ.KAK| https://www.ebl.lmu.de/signs/|MAŠ.KAK|
+@link	eBL |MAŠ.KAK| https://www.ebl.lmu.de/signs/|MAŠ.KAK|
 @end sign
 
 @sign |MAŠ.KAK.EN|
@@ -29464,7 +29443,7 @@
 @useq	x12226.x12195.x12097
 @ucun	𒈦𒆕𒂗
 @v	mašda₃
-@link eBL |MAŠ.KAK.EN| https://www.ebl.lmu.de/signs/|MAŠ.KAK.EN|
+@link	eBL |MAŠ.KAK.EN| https://www.ebl.lmu.de/signs/|MAŠ.KAK.EN|
 @end sign
 
 @sign |MAŠ.KAM₄|
@@ -29488,7 +29467,7 @@
 @useq	x12226.x1227A
 @ucun	𒈦𒉺
 @v	maš₃
-@link eBL |MAŠ.PA| https://www.ebl.lmu.de/signs/|MAŠ.PA|
+@link	eBL |MAŠ.PA| https://www.ebl.lmu.de/signs/|MAŠ.PA|
 @end sign
 
 @sign |MAŠ.U|
@@ -29499,7 +29478,7 @@
 @ucun	𒈦𒌋
 @v	gidim₂
 @v	giguru₂
-@link eBL |MAŠ.U| https://www.ebl.lmu.de/signs/|MAŠ.U|
+@link	eBL |MAŠ.U| https://www.ebl.lmu.de/signs/|MAŠ.U|
 @end sign
 
 @sign |MAŠ.U.U|
@@ -29517,7 +29496,7 @@
 @note	The gloss is a conflation of gidim₂(|MAŠ.U|) and saŋmin(|MAŠ.U.U|)
 @v	saŋman
 @v	saŋmin
-@link eBL |MAŠ.U.U| https://www.ebl.lmu.de/signs/|MAŠ.U.U|
+@link	eBL |MAŠ.U.U| https://www.ebl.lmu.de/signs/|MAŠ.U.U|
 @end sign
 
 @sign |MAŠ.U.U.U|
@@ -29526,7 +29505,7 @@
 @ucun	𒈦𒌍
 @v	saŋeš
 @ref	CUSAS 12, JON 38 = dcclt:P414356 ii 12', |MAŠ.U.U.U| = tak-su-u?
-@link eBL |MAŠ.U.U.U| https://www.ebl.lmu.de/signs/|MAŠ.U.U.U|
+@link	eBL |MAŠ.U.U.U| https://www.ebl.lmu.de/signs/|MAŠ.U.U.U|
 @end sign
 
 @sign |MAŠ.X|
@@ -29535,7 +29514,7 @@
 @ucun	𒈦X
 @v	emaš
 @v	eriₓ
-@link eBL |MAŠ.X| https://www.ebl.lmu.de/signs/|MAŠ.X|
+@link	eBL |MAŠ.X| https://www.ebl.lmu.de/signs/|MAŠ.X|
 @end sign
 
 @sign MAŠ₂
@@ -29559,8 +29538,8 @@
 @note	Unclear where the value mašaku comes from.
 @v-	maz₂
 @note	Unclear where the value maz₂ comes from
-@link eBL MAŠ₂ https://www.ebl.lmu.de/signs/MAŠ₂
-@link Wikidata Q87556102 http://www.wikidata.org/entity/Q87556102
+@link	eBL MAŠ₂ https://www.ebl.lmu.de/signs/MAŠ₂
+@link	Wikidata Q87556102 http://www.wikidata.org/entity/Q87556102
 @end sign
 
 @sign |MAŠ₂.MI|
@@ -29617,8 +29596,8 @@
 @v	šib
 @v	šip
 @v	tuba
-@link eBL ME https://www.ebl.lmu.de/signs/ME
-@link Wikidata Q87556104 http://www.wikidata.org/entity/Q87556104
+@link	eBL ME https://www.ebl.lmu.de/signs/ME
+@link	Wikidata Q87556104 http://www.wikidata.org/entity/Q87556104
 @end sign
 
 @sign |ME.AD.KU₃|
@@ -29627,7 +29606,7 @@
 @useq	x12228.x1201C.x121AC
 @ucun	𒈨𒀜𒆬
 @v	šennuₓ
-@link eBL |ME.AD.KU₃| https://www.ebl.lmu.de/signs/|ME.AD.KU₃|
+@link	eBL |ME.AD.KU₃| https://www.ebl.lmu.de/signs/|ME.AD.KU₃|
 @end sign
 
 @sign |ME.AN.ŠE.NAGA|
@@ -29635,7 +29614,7 @@
 @useq	x12228.x1202D.x122BA.x12240
 @ucun	𒈨𒀭𒊺𒉀
 @v	kurku
-@link eBL |ME.AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|ME.AN.ŠE.NAGA|
+@link	eBL |ME.AN.ŠE.NAGA| https://www.ebl.lmu.de/signs/|ME.AN.ŠE.NAGA|
 @end sign
 
 @sign |ME.NUN.TAG|
@@ -29643,7 +29622,7 @@
 @useq	x12228.x12263.x122F3
 @ucun	𒈨𒉣𒋳
 @v	gašamₓ
-@link eBL |ME.NUN.TAG| https://www.ebl.lmu.de/signs/|ME.NUN.TAG|
+@link	eBL |ME.NUN.TAG| https://www.ebl.lmu.de/signs/|ME.NUN.TAG|
 @form |TAG.NUN|
 @oid	o0187972
 @@
@@ -29662,7 +29641,7 @@
 @v	meš
 @v	miš₂
 @v	wiš?
-@link Wikidata Q87556799 http://www.wikidata.org/entity/Q87556799
+@link	Wikidata Q87556799 http://www.wikidata.org/entity/Q87556799
 @end sign
 
 @sign MES
@@ -29697,8 +29676,8 @@
 @v	rid
 @v	rit
 @v	riṭ
-@link eBL MES https://www.ebl.lmu.de/signs/MES
-@link Wikidata Q87556105 http://www.wikidata.org/entity/Q87556105
+@link	eBL MES https://www.ebl.lmu.de/signs/MES
+@link	Wikidata Q87556105 http://www.wikidata.org/entity/Q87556105
 @end sign
 
 @sign |MES.RU|
@@ -29706,7 +29685,7 @@
 @useq	x12229.x12292
 @ucun	𒈩𒊒
 @v	rig₁₁
-@link eBL |MES.RU| https://www.ebl.lmu.de/signs/|MES.RU|
+@link	eBL |MES.RU| https://www.ebl.lmu.de/signs/|MES.RU|
 @end sign
 
 @sign MI
@@ -29763,8 +29742,8 @@
 @v	zilₓ
 @sys	Attinger geg₂ => gig₂
 @sys	Attinger gegge => giggi
-@link eBL MI https://www.ebl.lmu.de/signs/MI
-@link Wikidata Q87556107 http://www.wikidata.org/entity/Q87556107
+@link	eBL MI https://www.ebl.lmu.de/signs/MI
+@link	Wikidata Q87556107 http://www.wikidata.org/entity/Q87556107
 @end sign
 
 @sign |MI.MI|
@@ -29773,7 +29752,7 @@
 @ucun	𒈪𒈪
 @v	kukku₂
 @v	kukkug₂
-@link eBL |MI.MI| https://www.ebl.lmu.de/signs/|MI.MI|
+@link	eBL |MI.MI| https://www.ebl.lmu.de/signs/|MI.MI|
 @end sign
 
 @sign- |MI.NA.AB.U.GUD|
@@ -29792,8 +29771,8 @@
 @list	U+1251F
 @ucun	𒔟
 @uage	8.0
-@link eBL |MI.ZA₇| https://www.ebl.lmu.de/signs/|MI.ZA₇|
-@link Wikidata Q87557404 http://www.wikidata.org/entity/Q87557404
+@link	eBL |MI.ZA₇| https://www.ebl.lmu.de/signs/|MI.ZA₇|
+@link	Wikidata Q87557404 http://www.wikidata.org/entity/Q87557404
 @end sign
 
 @sign |MI&MI|
@@ -29813,14 +29792,14 @@
 @list	U+1222B
 @ucun	𒈫
 @uage	5.0
-@v	2(diš)
 @v	menₓ
 @v	min
 @v	mina
 @v	šin₂?
 @v	šina
-@link eBL MIN https://www.ebl.lmu.de/signs/MIN
-@link Wikidata Q87556110 http://www.wikidata.org/entity/Q87556110
+@v	2(diš)
+@link	eBL MIN https://www.ebl.lmu.de/signs/MIN
+@link	Wikidata Q87556110 http://www.wikidata.org/entity/Q87556110
 @form 2(DIŠ@c)
 @oid	o0223390
 @inote	@ucode	xebc3
@@ -29874,8 +29853,8 @@
 @v	tah₃
 @v	tuh₃
 @v	wu₄
-@link eBL MU https://www.ebl.lmu.de/signs/MU
-@link Wikidata Q87556112 http://www.wikidata.org/entity/Q87556112
+@link	eBL MU https://www.ebl.lmu.de/signs/MU
+@link	Wikidata Q87556112 http://www.wikidata.org/entity/Q87556112
 @end sign
 
 @sign |MU.BU|
@@ -29885,7 +29864,7 @@
 @v	mudra₆
 @v	mudru₆
 @v	munzerₓ
-@link eBL |MU.BU| https://www.ebl.lmu.de/signs/|MU.BU|
+@link	eBL |MU.BU| https://www.ebl.lmu.de/signs/|MU.BU|
 @end sign
 
 @sign |MU.ME.U.U.U|
@@ -29894,7 +29873,7 @@
 @ucun	𒈬𒎌
 @v	šumati
 @v	šuwati
-@link eBL |MU.ME.U.U.U| https://www.ebl.lmu.de/signs/|MU.ME.U.U.U|
+@link	eBL |MU.ME.U.U.U| https://www.ebl.lmu.de/signs/|MU.ME.U.U.U|
 @end sign
 
 @sign |MU.UŠ.TUG₂.PI|
@@ -29903,7 +29882,7 @@
 @ucun	𒈬𒍑𒌆𒉿
 @v	muštu₂
 @v	muštug₂
-@link eBL |MU.UŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|MU.UŠ.TUG₂.PI|
+@link	eBL |MU.UŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|MU.UŠ.TUG₂.PI|
 @end sign
 
 @sign |MU&MU|
@@ -29927,8 +29906,8 @@
 @v	taha
 @v	tuh₂
 @v	ṭah
-@link eBL |MU&MU| https://www.ebl.lmu.de/signs/|MU&MU|
-@link Wikidata Q87556114 http://www.wikidata.org/entity/Q87556114
+@link	eBL |MU&MU| https://www.ebl.lmu.de/signs/|MU&MU|
+@link	Wikidata Q87556114 http://www.wikidata.org/entity/Q87556114
 @form |MU.MU|
 @oid	o0031772
 @inote	MEE 15 41+ r iii' 10'
@@ -29942,8 +29921,8 @@
 @list	U+12532
 @ucun	𒔲
 @uage	8.0
-@link eBL |ŠE&ŠE| https://www.ebl.lmu.de/signs/|ŠE&ŠE|
-@link Wikidata Q87557446 http://www.wikidata.org/entity/Q87557446
+@link	eBL |ŠE&ŠE| https://www.ebl.lmu.de/signs/|ŠE&ŠE|
+@link	Wikidata Q87557446 http://www.wikidata.org/entity/Q87557446
 @@
 @end sign
 
@@ -29986,8 +29965,8 @@
 @v	uttu₄
 @v	wuk
 @v	zadimₓ
-@link eBL MUG https://www.ebl.lmu.de/signs/MUG
-@link Wikidata Q87556115 http://www.wikidata.org/entity/Q87556115
+@link	eBL MUG https://www.ebl.lmu.de/signs/MUG
+@link	Wikidata Q87556115 http://www.wikidata.org/entity/Q87556115
 @form |MUG.DIŠ|
 @oid	o0021749
 @useq	x1222E.x12079
@@ -30011,8 +29990,8 @@
 @inote	sjt uttu₄ to uttuₓ because uttu₄ is already MUG
 @v	uṭu₄
 @v	zadim
-@link eBL MUG@g https://www.ebl.lmu.de/signs/MUG@g
-@link Wikidata Q87556117 http://www.wikidata.org/entity/Q87556117
+@link	eBL MUG@g https://www.ebl.lmu.de/signs/MUG@g
+@link	Wikidata Q87556117 http://www.wikidata.org/entity/Q87556117
 @end sign
 
 @sign MUNSUB
@@ -30034,8 +30013,8 @@
 @v	šuduyuₓ
 @v	ušₓ
 @inote	OSP 1 43 iii 1 clearly has LAK672b where context suggests ušₓ; MUNSUB in OBO 160/1 p.277 could be described as LAK672@s
-@link eBL MUNSUB https://www.ebl.lmu.de/signs/MUNSUB
-@link Wikidata Q87556119 http://www.wikidata.org/entity/Q87556119
+@link	eBL MUNSUB https://www.ebl.lmu.de/signs/MUNSUB
+@link	Wikidata Q87556119 http://www.wikidata.org/entity/Q87556119
 @form |PA.MUNSUB|
 @oid	o0021453
 @useq	x1227A.x12230
@@ -30047,12 +30026,12 @@
 @oid	o0002359
 @useq	x122E0.x122E6
 @ucun	𒋠𒋦
-@link eBL |SIK₂.SUHUR| https://www.ebl.lmu.de/signs/|SIK₂.SUHUR|
+@link	eBL |SIK₂.SUHUR| https://www.ebl.lmu.de/signs/|SIK₂.SUHUR|
 @@
 @form UŠX
 @oid	o0000597
 @list	LAK672a
-@link eBL UŠX https://www.ebl.lmu.de/signs/UŠX
+@link	eBL UŠX https://www.ebl.lmu.de/signs/UŠX
 @@
 @end sign
 
@@ -30078,8 +30057,8 @@
 @v	murgu₂
 @sys	Attinger ŋur₂₄ => mur₇
 @sys	Attinger ŋurgu₂ => murgu₂
-@link eBL MURGU₂ https://www.ebl.lmu.de/signs/MURGU₂
-@link Wikidata Q87556121 http://www.wikidata.org/entity/Q87556121
+@link	eBL MURGU₂ https://www.ebl.lmu.de/signs/MURGU₂
+@link	Wikidata Q87556121 http://www.wikidata.org/entity/Q87556121
 @form SIG₄
 @oid	o0000528
 @list	BAU206
@@ -30095,7 +30074,7 @@
 @v	murgu
 @sys	Attinger ŋur₂₃
 @sys	Attinger ŋurgu => murgu
-@link eBL SIG₄ https://www.ebl.lmu.de/signs/SIG₄
+@link	eBL SIG₄ https://www.ebl.lmu.de/signs/SIG₄
 @@
 @end sign
 
@@ -30110,7 +30089,7 @@
 @v	muri
 @v	muru₂
 @v	murub₄
-@link eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
+@link	eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
 @end sign
 
 @sign MURUB₄@g
@@ -30161,8 +30140,8 @@
 @v	wuš
 @v	zer₃
 @v	zir₃
-@link eBL MUŠ https://www.ebl.lmu.de/signs/MUŠ
-@link Wikidata Q87556122 http://www.wikidata.org/entity/Q87556122
+@link	eBL MUŠ https://www.ebl.lmu.de/signs/MUŠ
+@link	Wikidata Q87556122 http://www.wikidata.org/entity/Q87556122
 @form BAU153
 @oid	o0018505
 @list	BAU153
@@ -30178,7 +30157,7 @@
 @useq	x12232.x12077.x12301.x12046
 @ucun	𒈲𒁷𒌁𒁆
 @v	irhanₓ
-@link eBL |MUŠ.DIN.ŠE.NUN&NUN.BALAG| https://www.ebl.lmu.de/signs/|MUŠ.DIN.ŠE.NUN&NUN.BALAG|
+@link	eBL |MUŠ.DIN.ŠE.NUN&NUN.BALAG| https://www.ebl.lmu.de/signs/|MUŠ.DIN.ŠE.NUN&NUN.BALAG|
 @form |BALAG.DIN.AN.MUŠ|
 @oid	o0027768
 @useq	x12046.x12077.x1202D.x12232
@@ -30234,7 +30213,7 @@
 @useq	x12232.x122AD
 @ucun	𒈲𒊭
 @v	šubaₓ
-@link eBL |MUŠ.ŠA| https://www.ebl.lmu.de/signs/|MUŠ.ŠA|
+@link	eBL |MUŠ.ŠA| https://www.ebl.lmu.de/signs/|MUŠ.ŠA|
 @end sign
 
 @sign |MUŠ×A|
@@ -30244,8 +30223,8 @@
 @ucun	𒈳
 @uage	5.0
 @v	šeₓ
-@link eBL |MUŠ×A| https://www.ebl.lmu.de/signs/|MUŠ×A|
-@link Wikidata Q87556124 http://www.wikidata.org/entity/Q87556124
+@link	eBL |MUŠ×A| https://www.ebl.lmu.de/signs/|MUŠ×A|
+@link	Wikidata Q87556124 http://www.wikidata.org/entity/Q87556124
 @end sign
 
 @sign |MUŠ×ERIN₂|
@@ -30266,8 +30245,8 @@
 @ucun	𒈴
 @uage	5.0
 @v	girₓ
-@link eBL |MUŠ×KUR| https://www.ebl.lmu.de/signs/|MUŠ×KUR|
-@link Wikidata Q87556127 http://www.wikidata.org/entity/Q87556127
+@link	eBL |MUŠ×KUR| https://www.ebl.lmu.de/signs/|MUŠ×KUR|
+@link	Wikidata Q87556127 http://www.wikidata.org/entity/Q87556127
 @end sign
 
 @sign |MUŠ×ZA|
@@ -30277,8 +30256,8 @@
 @ucun	𒈵
 @uage	5.0
 @v	šeₓ
-@link eBL |MUŠ×ZA| https://www.ebl.lmu.de/signs/|MUŠ×ZA|
-@link Wikidata Q87556129 http://www.wikidata.org/entity/Q87556129
+@link	eBL |MUŠ×ZA| https://www.ebl.lmu.de/signs/|MUŠ×ZA|
+@link	Wikidata Q87556129 http://www.wikidata.org/entity/Q87556129
 @end sign
 
 @sign |MUŠ&MUŠ|
@@ -30293,8 +30272,8 @@
 @uage	5.0
 @v	arinaₓ
 @v	mušₓ
-@link eBL |MUŠ&MUŠ| https://www.ebl.lmu.de/signs/|MUŠ&MUŠ|
-@link Wikidata Q87556130 http://www.wikidata.org/entity/Q87556130
+@link	eBL |MUŠ&MUŠ| https://www.ebl.lmu.de/signs/|MUŠ&MUŠ|
+@link	Wikidata Q87556130 http://www.wikidata.org/entity/Q87556130
 @end sign
 
 @sign |MUŠ&MUŠ.A.NA|
@@ -30302,7 +30281,7 @@
 @useq	x12236.x12000.x1223E
 @ucun	𒈶𒀀𒈾
 @v	arinaₓ
-@link eBL |MUŠ&MUŠ.A.NA| https://www.ebl.lmu.de/signs/|MUŠ&MUŠ.A.NA|
+@link	eBL |MUŠ&MUŠ.A.NA| https://www.ebl.lmu.de/signs/|MUŠ&MUŠ.A.NA|
 @end sign
 
 @sign |(MUŠ&MUŠ)×(A.NA)|
@@ -30315,7 +30294,7 @@
 @ucun	𒈷
 @uage	5.0
 @v	arinaₓ
-@link Wikidata Q87556132 http://www.wikidata.org/entity/Q87556132
+@link	Wikidata Q87556132 http://www.wikidata.org/entity/Q87556132
 @end sign
 
 @sign |(MUŠ&MUŠ)×AB|
@@ -30331,8 +30310,8 @@
 @list	U+12520
 @ucun	𒔠
 @uage	8.0
-@link eBL |(MUŠ&MUŠ)×GA| https://www.ebl.lmu.de/signs/|(MUŠ&MUŠ)×GA|
-@link Wikidata Q87557406 http://www.wikidata.org/entity/Q87557406
+@link	eBL |(MUŠ&MUŠ)×GA| https://www.ebl.lmu.de/signs/|(MUŠ&MUŠ)×GA|
+@link	Wikidata Q87557406 http://www.wikidata.org/entity/Q87557406
 @end sign
 
 @sign |(MUŠ&MUŠ)×KAK|
@@ -30342,8 +30321,8 @@
 @list	U+12521
 @ucun	𒔡
 @uage	8.0
-@link eBL |(MUŠ&MUŠ)×KAK| https://www.ebl.lmu.de/signs/|(MUŠ&MUŠ)×KAK|
-@link Wikidata Q87557408 http://www.wikidata.org/entity/Q87557408
+@link	eBL |(MUŠ&MUŠ)×KAK| https://www.ebl.lmu.de/signs/|(MUŠ&MUŠ)×KAK|
+@link	Wikidata Q87557408 http://www.wikidata.org/entity/Q87557408
 @form |MUŠ%MUŠ.HI|
 @oid	o0027746
 @inote	P484014 possibly OB miscopy for |MUŠ%MUŠ.KAK|
@@ -30380,8 +30359,8 @@
 @v	re₈
 @v	ri₈
 @v	rin₄
-@link eBL |MUŠ%MUŠ| https://www.ebl.lmu.de/signs/|MUŠ%MUŠ|
-@link Wikidata Q87556134 http://www.wikidata.org/entity/Q87556134
+@link	eBL |MUŠ%MUŠ| https://www.ebl.lmu.de/signs/|MUŠ%MUŠ|
+@link	Wikidata Q87556134 http://www.wikidata.org/entity/Q87556134
 @form |BU.BU|
 @oid	o0021773
 @useq	x1204D.x1204D
@@ -30396,7 +30375,7 @@
 @@
 @form |MUŠ&MUŠ|
 @oid	o0002024
-@link eBL |MUŠ&MUŠ| https://www.ebl.lmu.de/signs/|MUŠ&MUŠ|
+@link	eBL |MUŠ&MUŠ| https://www.ebl.lmu.de/signs/|MUŠ&MUŠ|
 @@
 @form |(PAP.PAP)&(PAP.PAP)|
 @oid	o0027742
@@ -30411,7 +30390,7 @@
 @v	arina
 @v	erina₈
 @v	irina
-@link eBL |MUŠ%MUŠ.A.NA| https://www.ebl.lmu.de/signs/|MUŠ%MUŠ.A.NA|
+@link	eBL |MUŠ%MUŠ.A.NA| https://www.ebl.lmu.de/signs/|MUŠ%MUŠ.A.NA|
 @form |(MUŠ%MUŠ)×(A.NA)|
 @oid	o0031582
 @aka	|MUŠ%MUŠ×(A.NA)|
@@ -30427,13 +30406,13 @@
 @sign MUŠ@90
 @oid	o0000464
 @inote	CDLI ed3b
-@link eBL MUŠ@90 https://www.ebl.lmu.de/signs/MUŠ@90
+@link	eBL MUŠ@90 https://www.ebl.lmu.de/signs/MUŠ@90
 @end sign
 
 @sign MUŠ@t
 @oid	o0000465
 @inote	CDLI ed3b
-@link eBL MUŠ@t https://www.ebl.lmu.de/signs/MUŠ@t
+@link	eBL MUŠ@t https://www.ebl.lmu.de/signs/MUŠ@t
 @end sign
 
 @sign MUŠ₃
@@ -30483,23 +30462,13 @@
 @v	zanaru
 @v	zannaru
 @sys	Attinger subi₄ => šuba₄
-@link eBL MUŠ₃ https://www.ebl.lmu.de/signs/MUŠ₃
-@link Wikidata Q87556136 http://www.wikidata.org/entity/Q87556136
+@link	eBL MUŠ₃ https://www.ebl.lmu.de/signs/MUŠ₃
+@link	Wikidata Q87556136 http://www.wikidata.org/entity/Q87556136
 @form MUŠ₃@g
 @oid	o0000467
 @v	inana
-@link eBL MUŠ₃@g https://www.ebl.lmu.de/signs/MUŠ₃@g
+@link	eBL MUŠ₃@g https://www.ebl.lmu.de/signs/MUŠ₃@g
 @@
-@end sign
-
-@sign |MUŠ₃×AN|
-@oid  o0038271
-@inote epsd2/oakk; requires collation no photo on CDLI (check Banca d'Italia)
-@end sign
-
-@sign |TA×KASKAL|
-@oid  o0038273
-@inote epsd2/oakk; possibly read GUR₈!
 @end sign
 
 @sign |MUŠ₃.AB|
@@ -30509,7 +30478,7 @@
 @v	sugal₅
 @v	zabala₅
 @v	zabalam₅
-@link eBL |MUŠ₃.AB| https://www.ebl.lmu.de/signs/|MUŠ₃.AB|
+@link	eBL |MUŠ₃.AB| https://www.ebl.lmu.de/signs/|MUŠ₃.AB|
 @end sign
 
 @sign |MUŠ₃.AB@g|
@@ -30519,7 +30488,7 @@
 @v	sugal₃
 @v	zabala₃
 @v	zabalam₃
-@link eBL |MUŠ₃.AB@g| https://www.ebl.lmu.de/signs/|MUŠ₃.AB@g|
+@link	eBL |MUŠ₃.AB@g| https://www.ebl.lmu.de/signs/|MUŠ₃.AB@g|
 @end sign
 
 @sign |MUŠ₃.AB@g.ZA|
@@ -30527,7 +30496,7 @@
 @useq	x12239.x12015.x1235D
 @ucun	𒈹𒀕𒍝
 @v	zabalaₓ
-@link eBL |MUŠ₃.AB@g.ZA| https://www.ebl.lmu.de/signs/|MUŠ₃.AB@g.ZA|
+@link	eBL |MUŠ₃.AB@g.ZA| https://www.ebl.lmu.de/signs/|MUŠ₃.AB@g.ZA|
 @end sign
 
 @sign |MUŠ₃.BU|
@@ -30536,7 +30505,7 @@
 @ucun	𒈹𒁍
 @v	susbu₃
 @v	suzbu₃
-@link eBL |MUŠ₃.BU| https://www.ebl.lmu.de/signs/|MUŠ₃.BU|
+@link	eBL |MUŠ₃.BU| https://www.ebl.lmu.de/signs/|MUŠ₃.BU|
 @end sign
 
 @sign |MUŠ₃.DI|
@@ -30553,7 +30522,7 @@
 @v	sedi₄
 @v	še₁₇
 @v	šed₁₀
-@link eBL |MUŠ₃.DI| https://www.ebl.lmu.de/signs/|MUŠ₃.DI|
+@link	eBL |MUŠ₃.DI| https://www.ebl.lmu.de/signs/|MUŠ₃.DI|
 @form |A.MUŠ₃|
 @oid	o0000711
 @list	RSP099
@@ -30621,8 +30590,8 @@
 @uage	5.0
 @v	šeₓ
 @v	šedₓ
-@link eBL |MUŠ₃×A| https://www.ebl.lmu.de/signs/|MUŠ₃×A|
-@link Wikidata Q87556138 http://www.wikidata.org/entity/Q87556138
+@link	eBL |MUŠ₃×A| https://www.ebl.lmu.de/signs/|MUŠ₃×A|
+@link	Wikidata Q87556138 http://www.wikidata.org/entity/Q87556138
 @@
 @form |MUŠ₃×(A.DI)|
 @oid	o0002048
@@ -30644,8 +30613,8 @@
 @v	sid
 @v	še₄
 @v	šed₇
-@link eBL |MUŠ₃×(A.DI)| https://www.ebl.lmu.de/signs/|MUŠ₃×(A.DI)|
-@link Wikidata Q87556139 http://www.wikidata.org/entity/Q87556139
+@link	eBL |MUŠ₃×(A.DI)| https://www.ebl.lmu.de/signs/|MUŠ₃×(A.DI)|
+@link	Wikidata Q87556139 http://www.wikidata.org/entity/Q87556139
 @@
 @form |MUŠ₃×DI|
 @oid	o0002050
@@ -30659,7 +30628,7 @@
 @v	seₓ
 @v	sedₓ
 @v	šeₓ
-@link Wikidata Q87556141 http://www.wikidata.org/entity/Q87556141
+@link	Wikidata Q87556141 http://www.wikidata.org/entity/Q87556141
 @@
 @form |MUŠ₃@g.DI|
 @oid	o0002046
@@ -30714,7 +30683,7 @@
 @sys	Attinger susin => šušin
 @sys	Attinger susina => šušin
 @sys	Attinger šušun => šušum
-@link eBL |MUŠ₃.EREN| https://www.ebl.lmu.de/signs/|MUŠ₃.EREN|
+@link	eBL |MUŠ₃.EREN| https://www.ebl.lmu.de/signs/|MUŠ₃.EREN|
 @form |MUŠ₃.ŠEŠ₂|
 @oid	o0002044
 @useq	x12239.x122C1
@@ -30765,7 +30734,7 @@
 @v	subi₃
 @v	šuba₃
 @sys	Attinger subi₃ => šuba₃
-@link eBL |MUŠ₃.ZA| https://www.ebl.lmu.de/signs/|MUŠ₃.ZA|
+@link	eBL |MUŠ₃.ZA| https://www.ebl.lmu.de/signs/|MUŠ₃.ZA|
 @form |MUŠ₃.ZA₇|
 @oid	o0221902
 @useq	x12239.x12541
@@ -30780,7 +30749,12 @@
 @v	sugal₄
 @v	zabala₄
 @v	zabalam₄
-@link eBL |MUŠ₃.ZA.AB@g| https://www.ebl.lmu.de/signs/|MUŠ₃.ZA.AB@g|
+@link	eBL |MUŠ₃.ZA.AB@g| https://www.ebl.lmu.de/signs/|MUŠ₃.ZA.AB@g|
+@end sign
+
+@sign |MUŠ₃×AN|
+@oid	o0038271
+@inote	epsd2/oakk; requires collation no photo on CDLI (check Banca d'Italia)
 @end sign
 
 @sign |MUŠ₃×MUŠ₃|
@@ -30830,8 +30804,8 @@
 @v	šusbu
 @v	šušinakₓ
 @v	tišpak
-@link eBL MUŠ₃@g https://www.ebl.lmu.de/signs/MUŠ₃@g
-@link Wikidata Q87556143 http://www.wikidata.org/entity/Q87556143
+@link	eBL MUŠ₃@g https://www.ebl.lmu.de/signs/MUŠ₃@g
+@link	Wikidata Q87556143 http://www.wikidata.org/entity/Q87556143
 @end sign
 
 @sign |MUŠ₃@g.BU|
@@ -30840,7 +30814,7 @@
 @ucun	𒈽𒁍
 @v	susbu
 @v	suzbu
-@link eBL |MUŠ₃@g.BU| https://www.ebl.lmu.de/signs/|MUŠ₃@g.BU|
+@link	eBL |MUŠ₃@g.BU| https://www.ebl.lmu.de/signs/|MUŠ₃@g.BU|
 @end sign
 
 @sign |MUŠ₃@g.SIK₂.LAM|
@@ -30848,7 +30822,7 @@
 @useq	x1223D.x122E0.x121F4
 @ucun	𒈽𒋠𒇴
 @v	šušuₓ
-@link eBL |MUŠ₃@g.SIK₂.LAM| https://www.ebl.lmu.de/signs/|MUŠ₃@g.SIK₂.LAM|
+@link	eBL |MUŠ₃@g.SIK₂.LAM| https://www.ebl.lmu.de/signs/|MUŠ₃@g.SIK₂.LAM|
 @end sign
 
 @sign N/3(DIŠ)
@@ -30859,7 +30833,7 @@
 @sign N
 @oid	o0000468
 @v	n
-@link eBL N https://www.ebl.lmu.de/signs/N
+@link	eBL N https://www.ebl.lmu.de/signs/N
 @end sign
 
 @sign N01
@@ -31062,13 +31036,13 @@
 @inote	UET II
 @end sign
 
-@sign N8
-@oid	o0025703
+@sign |N8×DIŠ|
+@oid	o0025707
 @inote	for ed3b
 @end sign
 
-@sign |N8×DIŠ|
-@oid	o0025707
+@sign N8
+@oid	o0025703
 @inote	for ed3b
 @end sign
 
@@ -31093,8 +31067,8 @@
 @v	na
 @v	ne₆
 @v	nu₈
-@link eBL NA https://www.ebl.lmu.de/signs/NA
-@link Wikidata Q87556145 http://www.wikidata.org/entity/Q87556145
+@link	eBL NA https://www.ebl.lmu.de/signs/NA
+@link	Wikidata Q87556145 http://www.wikidata.org/entity/Q87556145
 @end sign
 
 @sign- |NA.RU|
@@ -31136,8 +31110,8 @@
 @v	šedₓ
 @v	timuaₓ
 @sys	Attinger ŋešnu₃ => nud
-@link eBL NA₂ https://www.ebl.lmu.de/signs/NA₂
-@link Wikidata Q87556146 http://www.wikidata.org/entity/Q87556146
+@link	eBL NA₂ https://www.ebl.lmu.de/signs/NA₂
+@link	Wikidata Q87556146 http://www.wikidata.org/entity/Q87556146
 @end sign
 
 @sign |NA₂.X|
@@ -31145,7 +31119,7 @@
 @useq	x1223F.O
 @ucun	𒈿X
 @v	ni-ir
-@link eBL |NA₂.X| https://www.ebl.lmu.de/signs/|NA₂.X|
+@link	eBL |NA₂.X| https://www.ebl.lmu.de/signs/|NA₂.X|
 @end sign
 
 @sign NAGA
@@ -31183,8 +31157,8 @@
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 42
 @inote	salgues
 @sys	Attinger uga₃
-@link eBL NAGA https://www.ebl.lmu.de/signs/NAGA
-@link Wikidata Q87556148 http://www.wikidata.org/entity/Q87556148
+@link	eBL NAGA https://www.ebl.lmu.de/signs/NAGA
+@link	Wikidata Q87556148 http://www.wikidata.org/entity/Q87556148
 @form |ŠE.NAGA|
 @oid	o0002722
 @list	GCSL106
@@ -31200,7 +31174,7 @@
 @v	naŋa
 @ref	CBS 157 = dcclt/signlists:P257722 r ii 16'
 @inote	salgues
-@link eBL |ŠE.NAGA| https://www.ebl.lmu.de/signs/|ŠE.NAGA|
+@link	eBL |ŠE.NAGA| https://www.ebl.lmu.de/signs/|ŠE.NAGA|
 @@
 @end sign
 
@@ -31213,8 +31187,8 @@
 @uage	5.0
 @v	dalhamun₇
 @v	hamun
-@link eBL |NAGA@NAGA| https://www.ebl.lmu.de/signs/|NAGA@NAGA|
-@link Wikidata Q87556154 http://www.wikidata.org/entity/Q87556154
+@link	eBL |NAGA@NAGA| https://www.ebl.lmu.de/signs/|NAGA@NAGA|
+@link	Wikidata Q87556154 http://www.wikidata.org/entity/Q87556154
 @form |4×(AN.ŠE.NAGA)|
 @oid	o0022933
 @v	dalhamun₇
@@ -31249,7 +31223,7 @@
 @oid	o0002056
 @lit	G. Pettinato MEE 3, p.89
 @note	Some sources of ED Metals (Abu-Salabikh; Sargonic Nippur) distinguish between NAGA×DIŠ (lines 89-90) and NAGA (lines 115-116)
-@link eBL |NAGA×DIŠ| https://www.ebl.lmu.de/signs/|NAGA×DIŠ|
+@link	eBL |NAGA×DIŠ| https://www.ebl.lmu.de/signs/|NAGA×DIŠ|
 @end sign
 
 @sign |NAGA×ŠU@t|
@@ -31261,8 +31235,8 @@
 @ucun	𒉂
 @uage	5.0
 @v	tu₂₃
-@link eBL |NAGA×ŠU@t| https://www.ebl.lmu.de/signs/|NAGA×ŠU@t|
-@link Wikidata Q87556151 http://www.wikidata.org/entity/Q87556151
+@link	eBL |NAGA×ŠU@t| https://www.ebl.lmu.de/signs/|NAGA×ŠU@t|
+@link	Wikidata Q87556151 http://www.wikidata.org/entity/Q87556151
 @end sign
 
 @sign NAGA@180
@@ -31274,8 +31248,8 @@
 @ucun	𒉁
 @uage	5.0
 @v	teme₂
-@link eBL NAGA@180 https://www.ebl.lmu.de/signs/NAGA@180
-@link Wikidata Q87556150 http://www.wikidata.org/entity/Q87556150
+@link	eBL NAGA@180 https://www.ebl.lmu.de/signs/NAGA@180
+@link	Wikidata Q87556150 http://www.wikidata.org/entity/Q87556150
 @form NAGA@t
 @oid	o0000472
 @v	temeₓ
@@ -31311,8 +31285,8 @@
 @v	naŋar
 @v	niminₓ?
 @sys	Attinger naŋar => nagar
-@link eBL NAGAR https://www.ebl.lmu.de/signs/NAGAR
-@link Wikidata Q87556156 http://www.wikidata.org/entity/Q87556156
+@link	eBL NAGAR https://www.ebl.lmu.de/signs/NAGAR
+@link	Wikidata Q87556156 http://www.wikidata.org/entity/Q87556156
 @end sign
 
 @sign |NAGAR.BU|
@@ -31325,7 +31299,7 @@
 @v	ilduma₃
 @v	ildumma₃
 @sys	Attinger dulum₂ => ildum₃
-@link eBL |NAGAR.BU| https://www.ebl.lmu.de/signs/|NAGAR.BU|
+@link	eBL |NAGAR.BU| https://www.ebl.lmu.de/signs/|NAGAR.BU|
 @form |BU.NAGAR|
 @oid	o0031480
 @useq	x1204D.x12244
@@ -31340,7 +31314,7 @@
 @ucun	𒉄𒁹
 @v	kušaₓ
 @inote	link to UD.KUŠ<U
-@link eBL |NAGAR.DIŠ| https://www.ebl.lmu.de/signs/|NAGAR.DIŠ|
+@link	eBL |NAGAR.DIŠ| https://www.ebl.lmu.de/signs/|NAGAR.DIŠ|
 @end sign
 
 @sign |NAGAR.ZA@t|
@@ -31352,7 +31326,7 @@
 @v	dubulₓ
 @v	tugul
 @v	tuhul
-@link eBL |NAGAR.ZA@t| https://www.ebl.lmu.de/signs/|NAGAR.ZA@t|
+@link	eBL |NAGAR.ZA@t| https://www.ebl.lmu.de/signs/|NAGAR.ZA@t|
 @form |ZA@t.NAGAR|
 @oid	o0018844
 @useq	x1235E.x12244
@@ -31397,8 +31371,8 @@
 @ref	RA 33 104 24
 @inote	(empty note)
 @v	šim₂
-@link eBL NAM https://www.ebl.lmu.de/signs/NAM
-@link Wikidata Q87556160 http://www.wikidata.org/entity/Q87556160
+@link	eBL NAM https://www.ebl.lmu.de/signs/NAM
+@link	Wikidata Q87556160 http://www.wikidata.org/entity/Q87556160
 @end sign
 
 @sign |NAM.EN|
@@ -31406,7 +31380,7 @@
 @useq	x12246.x12097
 @ucun	𒉆𒂗
 @v	pala₂
-@link eBL |NAM.EN| https://www.ebl.lmu.de/signs/|NAM.EN|
+@link	eBL |NAM.EN| https://www.ebl.lmu.de/signs/|NAM.EN|
 @end sign
 
 @sign |NAM.EN.NA|
@@ -31415,7 +31389,7 @@
 @useq	x12246.x12097.x1223E
 @ucun	𒉆𒂗𒈾
 @v	palaₓ
-@link eBL |NAM.EN.NA| https://www.ebl.lmu.de/signs/|NAM.EN.NA|
+@link	eBL |NAM.EN.NA| https://www.ebl.lmu.de/signs/|NAM.EN.NA|
 @end sign
 
 @sign |NAM.LUGAL|
@@ -31423,7 +31397,7 @@
 @useq	x12246.x12217
 @ucun	𒉆𒈗
 @v	pala
-@link eBL |NAM.LUGAL| https://www.ebl.lmu.de/signs/|NAM.LUGAL|
+@link	eBL |NAM.LUGAL| https://www.ebl.lmu.de/signs/|NAM.LUGAL|
 @form |TUG₂.NAM.LUGAL|
 @oid	o0027894
 @inote	in {d}pala? OB Diri
@@ -31437,7 +31411,7 @@
 @useq	x12246.x1238F
 @ucun	𒉆𒎏
 @v	pala₃
-@link eBL |NAM.SAL.TUG₂| https://www.ebl.lmu.de/signs/|NAM.SAL.TUG₂|
+@link	eBL |NAM.SAL.TUG₂| https://www.ebl.lmu.de/signs/|NAM.SAL.TUG₂|
 @end sign
 
 @sign |NAM.SU|
@@ -31445,7 +31419,7 @@
 @useq	x12246.x122E2
 @ucun	𒉆𒋢
 @v	rug₂
-@link eBL |NAM.SU| https://www.ebl.lmu.de/signs/|NAM.SU|
+@link	eBL |NAM.SU| https://www.ebl.lmu.de/signs/|NAM.SU|
 @end sign
 
 @sign NAM₂
@@ -31458,8 +31432,8 @@
 @ucun	𒉇
 @uage	5.0
 @v	nam₂
-@link eBL NAM₂ https://www.ebl.lmu.de/signs/NAM₂
-@link Wikidata Q87556162 http://www.wikidata.org/entity/Q87556162
+@link	eBL NAM₂ https://www.ebl.lmu.de/signs/NAM₂
+@link	Wikidata Q87556162 http://www.wikidata.org/entity/Q87556162
 @end sign
 
 @sign NAM₂@g@t
@@ -31551,8 +31525,8 @@
 @v	ziₓ
 @sys	Attinger ibbi₂
 @sys	Attinger šar₉
-@link eBL NE https://www.ebl.lmu.de/signs/NE
-@link Wikidata Q87556164 http://www.wikidata.org/entity/Q87556164
+@link	eBL NE https://www.ebl.lmu.de/signs/NE
+@link	Wikidata Q87556164 http://www.wikidata.org/entity/Q87556164
 @end sign
 
 @sign |NE.GI|
@@ -31564,7 +31538,7 @@
 @v	gir₁₈
 @v	gira₃
 @v	girra
-@link eBL |NE.GI| https://www.ebl.lmu.de/signs/|NE.GI|
+@link	eBL |NE.GI| https://www.ebl.lmu.de/signs/|NE.GI|
 @end sign
 
 @sign |NE.RU|
@@ -31580,7 +31554,7 @@
 @v	riₓ
 @v	rim₃
 @v	rum₂
-@link eBL |NE.RU| https://www.ebl.lmu.de/signs/|NE.RU|
+@link	eBL |NE.RU| https://www.ebl.lmu.de/signs/|NE.RU|
 @end sign
 
 @sign |NE.SI.A|
@@ -31591,7 +31565,7 @@
 @v	ganzer₂
 @v	ganzir₂
 @v	udub₃
-@link eBL |NE.SI.A| https://www.ebl.lmu.de/signs/|NE.SI.A|
+@link	eBL |NE.SI.A| https://www.ebl.lmu.de/signs/|NE.SI.A|
 @end sign
 
 @sign |NE.SI@g|
@@ -31600,7 +31574,7 @@
 @ucun	𒉈𒋜
 @v	lisi
 @v	lisin
-@link eBL |NE.SI@g| https://www.ebl.lmu.de/signs/|NE.SI@g|
+@link	eBL |NE.SI@g| https://www.ebl.lmu.de/signs/|NE.SI@g|
 @end sign
 
 @sign |NE×A|
@@ -31614,8 +31588,8 @@
 @v	enten
 @v	entena
 @v	eš₁₃
-@link eBL |NE×A| https://www.ebl.lmu.de/signs/|NE×A|
-@link Wikidata Q87556166 http://www.wikidata.org/entity/Q87556166
+@link	eBL |NE×A| https://www.ebl.lmu.de/signs/|NE×A|
+@link	Wikidata Q87556166 http://www.wikidata.org/entity/Q87556166
 @end sign
 
 @sign |NE×UD|
@@ -31628,8 +31602,8 @@
 @uage	5.0
 @v	emeš₂
 @v	eš₁₂
-@link eBL |NE×UD| https://www.ebl.lmu.de/signs/|NE×UD|
-@link Wikidata Q87556168 http://www.wikidata.org/entity/Q87556168
+@link	eBL |NE×UD| https://www.ebl.lmu.de/signs/|NE×UD|
+@link	Wikidata Q87556168 http://www.wikidata.org/entity/Q87556168
 @end sign
 
 @sign NE@s
@@ -31663,8 +31637,8 @@
 @v	ne₈
 @v	pel₂
 @v	pil₂
-@link eBL NE@s https://www.ebl.lmu.de/signs/NE@s
-@link Wikidata Q87556169 http://www.wikidata.org/entity/Q87556169
+@link	eBL NE@s https://www.ebl.lmu.de/signs/NE@s
+@link	Wikidata Q87556169 http://www.wikidata.org/entity/Q87556169
 @form |GIŠ.NE.PAP|
 @oid	o0018857
 @useq	x12111.x12248.x1227D
@@ -31692,14 +31666,6 @@
 @v	bilₓ
 @inote	ed12
 @@
-@form |NE.PAP.GIŠ~v|
-@aka |GIŠ.PAP.BAU377|
-@oid	o0018519
-@useq	x12248.x1227D.X
-@ucun	𒉈𒉽X
-@v	bilₓ
-@inote	ed12
-@@
 @form |NE.PAP|
 @oid	o0022991
 @inote	dcclt !sg
@@ -31719,6 +31685,14 @@
 @ucun	𒉈𒉽𒄑
 @v	bilₓ
 @inote	ed3a
+@@
+@form |NE.PAP.GIŠ~v|
+@oid	o0018519
+@aka	|GIŠ.PAP.BAU377|
+@useq	x12248.x1227D.X
+@ucun	𒉈𒉽X
+@v	bilₓ
+@inote	ed12
 @@
 @form |NE×KASKAL|
 @oid	o0027632
@@ -31760,15 +31734,7 @@
 @useq	x1224B.x12100
 @ucun	𒉋𒄀
 @v	gibilₓ
-@link eBL |NE@s.GI| https://www.ebl.lmu.de/signs/|NE@s.GI|
-@end sign
-
-@sign |4×NI|
-@oid	o0000652
-@v	šaršari
-@ref	SpTU 3, 116 = dcclt:P348714 o ii 31
-@inote	also in MAH 16068 = P424009 o ii 9' (Cavigneaux in FS Attinger)
-@link eBL |4×NI| https://www.ebl.lmu.de/signs/|4×NI|
+@link	eBL |NE@s.GI| https://www.ebl.lmu.de/signs/|NE@s.GI|
 @end sign
 
 @sign NI
@@ -31836,8 +31802,16 @@
 @v	zanga
 @v	zar₂
 @sys	Attinger u₂₄
-@link eBL NI https://www.ebl.lmu.de/signs/NI
-@link Wikidata Q87556171 http://www.wikidata.org/entity/Q87556171
+@link	eBL NI https://www.ebl.lmu.de/signs/NI
+@link	Wikidata Q87556171 http://www.wikidata.org/entity/Q87556171
+@end sign
+
+@sign |4×NI|
+@oid	o0000652
+@v	šaršari
+@ref	SpTU 3, 116 = dcclt:P348714 o ii 31
+@inote	also in MAH 16068 = P424009 o ii 9' (Cavigneaux in FS Attinger)
+@link	eBL |4×NI| https://www.ebl.lmu.de/signs/|4×NI|
 @end sign
 
 @sign |NI.GIŠ|
@@ -31848,7 +31822,7 @@
 @v-	par₄
 @inote	par₄ also a value of KISAL
 @v	para₄
-@link eBL |NI.GIŠ| https://www.ebl.lmu.de/signs/|NI.GIŠ|
+@link	eBL |NI.GIŠ| https://www.ebl.lmu.de/signs/|NI.GIŠ|
 @end sign
 
 @sign |NI.HUB₂|
@@ -31870,7 +31844,7 @@
 @v	libₓ
 @v	libiₓ
 @v	ligiₓ
-@link eBL |NI.LU| https://www.ebl.lmu.de/signs/|NI.LU|
+@link	eBL |NI.LU| https://www.ebl.lmu.de/signs/|NI.LU|
 @end sign
 
 @sign |NI.NI|
@@ -31878,7 +31852,7 @@
 @useq	x1224C.x1224C
 @ucun	𒉌𒉌
 @v	%akk/n ilī
-@link eBL |NI.NI| https://www.ebl.lmu.de/signs/|NI.NI|
+@link	eBL |NI.NI| https://www.ebl.lmu.de/signs/|NI.NI|
 @end sign
 
 @sign |NI.TUK|
@@ -31896,7 +31870,7 @@
 @v	dilmuna
 @v	telmun
 @v	tilmun
-@link eBL |NI.TUK| https://www.ebl.lmu.de/signs/|NI.TUK|
+@link	eBL |NI.TUK| https://www.ebl.lmu.de/signs/|NI.TUK|
 @form |SAL.TUK|
 @oid	o0002324
 @useq	x122A9.x12307
@@ -31904,7 +31878,7 @@
 @v	dilmun@v
 @inote	eBL BM.77952; Oracc uses dilmunₓ
 @v	dilmunₓ
-@link eBL |SAL.TUK| https://www.ebl.lmu.de/signs/|SAL.TUK|
+@link	eBL |SAL.TUK| https://www.ebl.lmu.de/signs/|SAL.TUK|
 @@
 @end sign
 
@@ -31933,7 +31907,7 @@
 @v	na₄
 @v	ya₄
 @v	za₂
-@link Wikidata Q87556803 http://www.wikidata.org/entity/Q87556803
+@link	Wikidata Q87556803 http://www.wikidata.org/entity/Q87556803
 @form |UD.NI|
 @oid	o0002507
 @useq	x12313.x1224C
@@ -31943,7 +31917,7 @@
 @v	naₓ
 @v	yaₓ
 @v	zaₓ
-@link eBL |UD.NI| https://www.ebl.lmu.de/signs/|UD.NI|
+@link	eBL |UD.NI| https://www.ebl.lmu.de/signs/|UD.NI|
 @@
 @end sign
 
@@ -31952,7 +31926,7 @@
 @useq	x1238E.x12097
 @ucun	𒎎𒂗
 @v	enna
-@link eBL |NI.UD.EN| https://www.ebl.lmu.de/signs/|NI.UD.EN|
+@link	eBL |NI.UD.EN| https://www.ebl.lmu.de/signs/|NI.UD.EN|
 @end sign
 
 @sign |NI.UD.KI|
@@ -31960,7 +31934,7 @@
 @useq	x1238E.x121A0
 @ucun	𒎎𒆠
 @v	atum
-@link eBL |NI.UD.KI| https://www.ebl.lmu.de/signs/|NI.UD.KI|
+@link	eBL |NI.UD.KI| https://www.ebl.lmu.de/signs/|NI.UD.KI|
 @end sign
 
 @sign |NI.UD.KISIM₅×(U₂.GIR₂)|
@@ -31979,8 +31953,8 @@
 @list	U+1224D
 @ucun	𒉍
 @uage	5.0
-@link eBL |NI×E| https://www.ebl.lmu.de/signs/|NI×E|
-@link Wikidata Q87556173 http://www.wikidata.org/entity/Q87556173
+@link	eBL |NI×E| https://www.ebl.lmu.de/signs/|NI×E|
+@link	Wikidata Q87556173 http://www.wikidata.org/entity/Q87556173
 @end sign
 
 @sign |NI×GIŠ|
@@ -32004,8 +31978,8 @@
 @uage	5.0
 @v	me₁₀?
 @v	ni₂
-@link eBL NI₂ https://www.ebl.lmu.de/signs/NI₂
-@link Wikidata Q87556176 http://www.wikidata.org/entity/Q87556176
+@link	eBL NI₂ https://www.ebl.lmu.de/signs/NI₂
+@link	Wikidata Q87556176 http://www.wikidata.org/entity/Q87556176
 @end sign
 
 @sign NIGIDAEŠ
@@ -32017,17 +31991,17 @@
 @list	U+12457
 @ucun	𒑗
 @uage	5.0
-@v	3(barig)
-@v	3(bariga)
 @v	nigidaeš
 @inote	#old nieš
-@link eBL NIGIDAEŠ https://www.ebl.lmu.de/signs/NIGIDAEŠ
-@link Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
+@v	3(barig)
+@v	3(bariga)
+@link	eBL NIGIDAEŠ https://www.ebl.lmu.de/signs/NIGIDAEŠ
+@link	Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
 @form NIGIDAEŠ@c
 @oid	o0223339
 @list	RSP038
 @v	3/4(aš@c)
-@inote as 3/4 gur
+@inote	as 3/4 gur
 @v	3(barig@c)
 @v	3(bariga@c)
 @@
@@ -32042,13 +32016,13 @@
 @list	U+12456
 @ucun	𒑖
 @uage	5.0
-@v	2(barig)
-@v	2(bariga)
 @v	nigidamin
 @v-	nimin₃
 @inote	nimin₃ is an old value
-@link eBL NIGIDAMIN https://www.ebl.lmu.de/signs/NIGIDAMIN
-@link Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
+@v	2(barig)
+@v	2(bariga)
+@link	eBL NIGIDAMIN https://www.ebl.lmu.de/signs/NIGIDAMIN
+@link	Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
 @form NIGIDAMIN@c
 @oid	o0223340
 @list	RSP037
@@ -32098,8 +32072,8 @@
 @v	tu₈
 @v	tum₄
 @v	tumu₄
-@link eBL NIM https://www.ebl.lmu.de/signs/NIM
-@link Wikidata Q87556177 http://www.wikidata.org/entity/Q87556177
+@link	eBL NIM https://www.ebl.lmu.de/signs/NIM
+@link	Wikidata Q87556177 http://www.wikidata.org/entity/Q87556177
 @end sign
 
 @sign |NIM×GA|
@@ -32128,8 +32102,8 @@
 @v	tu₂₅
 @v	tum₃
 @v	tumu₃
-@link eBL |NIM×GAN₂@t| https://www.ebl.lmu.de/signs/|NIM×GAN₂@t|
-@link Wikidata Q87556179 http://www.wikidata.org/entity/Q87556179
+@link	eBL |NIM×GAN₂@t| https://www.ebl.lmu.de/signs/|NIM×GAN₂@t|
+@link	Wikidata Q87556179 http://www.wikidata.org/entity/Q87556179
 @form NIM
 @oid	o0000482
 @list	BAU141?
@@ -32140,7 +32114,7 @@
 @list	RSP390
 @v	tum₃⁻
 @sys	Attinger tum₃⁻
-@link eBL NIM https://www.ebl.lmu.de/signs/NIM
+@link	eBL NIM https://www.ebl.lmu.de/signs/NIM
 @@
 @form |NIM×GAN₂|
 @oid	o0027877
@@ -32158,8 +32132,8 @@
 @uage	5.0
 @v	kir₇
 @v	tum₁₁
-@link eBL |NIM×(GAR.GAN₂@t)| https://www.ebl.lmu.de/signs/|NIM×(GAR.GAN₂@t)|
-@link Wikidata Q87556181 http://www.wikidata.org/entity/Q87556181
+@link	eBL |NIM×(GAR.GAN₂@t)| https://www.ebl.lmu.de/signs/|NIM×(GAR.GAN₂@t)|
+@link	Wikidata Q87556181 http://www.wikidata.org/entity/Q87556181
 @end sign
 
 @sign NINDA₂
@@ -32184,8 +32158,8 @@
 @v	ugu₇
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 2
 @inote	salgues
-@link eBL NINDA₂ https://www.ebl.lmu.de/signs/NINDA₂
-@link Wikidata Q87556183 http://www.wikidata.org/entity/Q87556183
+@link	eBL NINDA₂ https://www.ebl.lmu.de/signs/NINDA₂
+@link	Wikidata Q87556183 http://www.wikidata.org/entity/Q87556183
 @end sign
 
 @sign |NINDA₂@NINDA₂|
@@ -32207,8 +32181,8 @@
 @v	san₃
 @v	šam₃
 @v	šan
-@link eBL |NINDA₂×AN| https://www.ebl.lmu.de/signs/|NINDA₂×AN|
-@link Wikidata Q87556184 http://www.wikidata.org/entity/Q87556184
+@link	eBL |NINDA₂×AN| https://www.ebl.lmu.de/signs/|NINDA₂×AN|
+@link	Wikidata Q87556184 http://www.wikidata.org/entity/Q87556184
 @end sign
 
 @sign |NINDA₂×AŠ|
@@ -32226,8 +32200,8 @@
 @v	šurum₇
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 4
 @inote	salgues
-@link eBL |NINDA₂×AŠ| https://www.ebl.lmu.de/signs/|NINDA₂×AŠ|
-@link Wikidata Q87556186 http://www.wikidata.org/entity/Q87556186
+@link	eBL |NINDA₂×AŠ| https://www.ebl.lmu.de/signs/|NINDA₂×AŠ|
+@link	Wikidata Q87556186 http://www.wikidata.org/entity/Q87556186
 @end sign
 
 @sign |NINDA₂×(AŠ.AŠ)|
@@ -32246,8 +32220,8 @@
 @v	šušurum
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 5
 @inote	salgues
-@link eBL |NINDA₂×(AŠ.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(AŠ.AŠ)|
-@link Wikidata Q87556188 http://www.wikidata.org/entity/Q87556188
+@link	eBL |NINDA₂×(AŠ.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(AŠ.AŠ)|
+@link	Wikidata Q87556188 http://www.wikidata.org/entity/Q87556188
 @form |NINDA₂.AŠ.AŠ|
 @oid	o0027878
 @useq	x12252.x12038.x12038
@@ -32272,23 +32246,6 @@
 @inote	gvl unknown compound
 @end sign
 
-@sign |NINDA₂×2(AŠ@c)|
-@oid	o0038269
-@v	saₓ
-@inote epsd2/oakk; ebla; not in LAK 
-@end sign
-
-@sign |NINDA₂×3(AŠ)|
-@oid	o0028037
-@inote	gvl unknown compound
-@end sign
-
-@sign |NINDA₂×3(AŠ@c)|
-@oid	o0027636
-@list	LAK100
-@inote	missing compounds for lak.atf
-@end sign
-
 @sign |NINDA₂×BAL|
 @oid	o0002097
 @uname	CUNEIFORM SIGN NINDA2 TIMES BAL
@@ -32298,8 +32255,8 @@
 @v	gur₂₃
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 9
 @inote	salgues
-@link eBL |NINDA₂×BAL| https://www.ebl.lmu.de/signs/|NINDA₂×BAL|
-@link Wikidata Q87556810 http://www.wikidata.org/entity/Q87556810
+@link	eBL |NINDA₂×BAL| https://www.ebl.lmu.de/signs/|NINDA₂×BAL|
+@link	Wikidata Q87556810 http://www.wikidata.org/entity/Q87556810
 @end sign
 
 @sign |NINDA₂×DIM@g|
@@ -32309,8 +32266,8 @@
 @list	U+12522
 @ucun	𒔢
 @uage	8.0
-@link eBL |NINDA₂×DIM@g| https://www.ebl.lmu.de/signs/|NINDA₂×DIM@g|
-@link Wikidata Q87557410 http://www.wikidata.org/entity/Q87557410
+@link	eBL |NINDA₂×DIM@g| https://www.ebl.lmu.de/signs/|NINDA₂×DIM@g|
+@link	Wikidata Q87557410 http://www.wikidata.org/entity/Q87557410
 @end sign
 
 @sign |NINDA₂×DIŠ@c|
@@ -32318,21 +32275,11 @@
 @inote	gvl unknown compound
 @end sign
 
-@sign |NINDA₂×2(DIŠ)|
-@oid	o0027883
-@form |NINDA₂×2(DIŠ@c)|
-@oid	o0027634
-@list	ELLES059
-@list	LAK101
-@inote	missing compounds for lak.atf
-@@
-@end sign
-
 @sign |NINDA₂×DUB|
 @oid	o0002099
 @v	bariga
 @ref	CUSAS 12, 1.1.2 = dcclt:P342645 o i 11, ba-ri₂-ga |NINDA₂×DUB|
-@link eBL |NINDA₂×DUB| https://www.ebl.lmu.de/signs/|NINDA₂×DUB|
+@link	eBL |NINDA₂×DUB| https://www.ebl.lmu.de/signs/|NINDA₂×DUB|
 @end sign
 
 @sign |NINDA₂×GAR₃|
@@ -32348,8 +32295,8 @@
 @uage	7.0
 @v	giguruₓ
 @inote	dcclt !sg writing for giguru[container] = pānu[basket] ?
-@link eBL |NINDA₂×GI| https://www.ebl.lmu.de/signs/|NINDA₂×GI|
-@link Wikidata Q87556811 http://www.wikidata.org/entity/Q87556811
+@link	eBL |NINDA₂×GI| https://www.ebl.lmu.de/signs/|NINDA₂×GI|
+@link	Wikidata Q87556811 http://www.wikidata.org/entity/Q87556811
 @end sign
 
 @sign |NINDA₂×GI.IDIM|
@@ -32358,7 +32305,7 @@
 @useq	x12392.x12142
 @ucun	𒎒𒅂
 @v	gidimₓ
-@link eBL |NINDA₂×GI.IDIM| https://www.ebl.lmu.de/signs/|NINDA₂×GI.IDIM|
+@link	eBL |NINDA₂×GI.IDIM| https://www.ebl.lmu.de/signs/|NINDA₂×GI.IDIM|
 @end sign
 
 @sign |NINDA₂×GIŠ|
@@ -32368,8 +32315,8 @@
 @list	U+12523
 @ucun	𒔣
 @uage	8.0
-@link eBL |NINDA₂×GIŠ| https://www.ebl.lmu.de/signs/|NINDA₂×GIŠ|
-@link Wikidata Q87557411 http://www.wikidata.org/entity/Q87557411
+@link	eBL |NINDA₂×GIŠ| https://www.ebl.lmu.de/signs/|NINDA₂×GIŠ|
+@link	Wikidata Q87557411 http://www.wikidata.org/entity/Q87557411
 @end sign
 
 @sign |NINDA₂×(GIŠ.DAR)|
@@ -32388,8 +32335,8 @@
 @uage	5.0
 @v	indagara
 @v	indagra
-@link eBL |NINDA₂×GUD| https://www.ebl.lmu.de/signs/|NINDA₂×GUD|
-@link Wikidata Q87556190 http://www.wikidata.org/entity/Q87556190
+@link	eBL |NINDA₂×GUD| https://www.ebl.lmu.de/signs/|NINDA₂×GUD|
+@link	Wikidata Q87556190 http://www.wikidata.org/entity/Q87556190
 @form |NINDA₂.GUD|
 @oid	o0031774
 @useq	x12252.x1211E
@@ -32404,8 +32351,8 @@
 @list	U+12524
 @ucun	𒔤
 @uage	8.0
-@link eBL |NINDA₂×GUL| https://www.ebl.lmu.de/signs/|NINDA₂×GUL|
-@link Wikidata Q87557413 http://www.wikidata.org/entity/Q87557413
+@link	eBL |NINDA₂×GUL| https://www.ebl.lmu.de/signs/|NINDA₂×GUL|
+@link	Wikidata Q87557413 http://www.wikidata.org/entity/Q87557413
 @end sign
 
 @sign |NINDA₂×HI|
@@ -32416,8 +32363,8 @@
 @list	U+12525
 @ucun	𒔥
 @uage	8.0
-@link eBL |NINDA₂×HI| https://www.ebl.lmu.de/signs/|NINDA₂×HI|
-@link Wikidata Q87557416 http://www.wikidata.org/entity/Q87557416
+@link	eBL |NINDA₂×HI| https://www.ebl.lmu.de/signs/|NINDA₂×HI|
+@link	Wikidata Q87557416 http://www.wikidata.org/entity/Q87557416
 @end sign
 
 @sign |NINDA₂×KEŠ₂|
@@ -32427,8 +32374,8 @@
 @list	U+12526
 @ucun	𒔦
 @uage	8.0
-@link eBL |NINDA₂×KEŠ₂| https://www.ebl.lmu.de/signs/|NINDA₂×KEŠ₂|
-@link Wikidata Q87557418 http://www.wikidata.org/entity/Q87557418
+@link	eBL |NINDA₂×KEŠ₂| https://www.ebl.lmu.de/signs/|NINDA₂×KEŠ₂|
+@link	Wikidata Q87557418 http://www.wikidata.org/entity/Q87557418
 @end sign
 
 @sign |NINDA₂×KUL|
@@ -32446,8 +32393,8 @@
 @list	U+12527
 @ucun	𒔧
 @uage	8.0
-@link eBL |NINDA₂×LAK50| https://www.ebl.lmu.de/signs/|NINDA₂×LAK50|
-@link Wikidata Q87557420 http://www.wikidata.org/entity/Q87557420
+@link	eBL |NINDA₂×LAK50| https://www.ebl.lmu.de/signs/|NINDA₂×LAK50|
+@link	Wikidata Q87557420 http://www.wikidata.org/entity/Q87557420
 @end sign
 
 @sign |NINDA₂×MAŠ|
@@ -32460,8 +32407,8 @@
 @v	gurmi
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 13
 @inote	salgues
-@link eBL |NINDA₂×MAŠ| https://www.ebl.lmu.de/signs/|NINDA₂×MAŠ|
-@link Wikidata Q87557423 http://www.wikidata.org/entity/Q87557423
+@link	eBL |NINDA₂×MAŠ| https://www.ebl.lmu.de/signs/|NINDA₂×MAŠ|
+@link	Wikidata Q87557423 http://www.wikidata.org/entity/Q87557423
 @end sign
 
 @sign |NINDA₂×(ME.GAN₂@t)|
@@ -32476,26 +32423,15 @@
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 8
 @inote	salgues
 @v	nindamekar
-@link eBL |NINDA₂×(ME.GAN₂@t)| https://www.ebl.lmu.de/signs/|NINDA₂×(ME.GAN₂@t)|
-@link Wikidata Q87556192 http://www.wikidata.org/entity/Q87556192
+@link	eBL |NINDA₂×(ME.GAN₂@t)| https://www.ebl.lmu.de/signs/|NINDA₂×(ME.GAN₂@t)|
+@link	Wikidata Q87556192 http://www.wikidata.org/entity/Q87556192
 @end sign
 
 @sign |NINDA₂×MI|
 @oid	o0002108
 @v	gurgig
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 14
-@link eBL |NINDA₂×MI| https://www.ebl.lmu.de/signs/|NINDA₂×MI|
-@end sign
-
-@sign |NINDA₂×2(N01)|
-@oid	o0027699
-@list	ELLES058
-@inote	missing compounds for elles.atf
-@end sign
-
-@sign |NINDA₂×1(N06)|
-@oid	o0027488
-@inote	UET II, provisional
+@link	eBL |NINDA₂×MI| https://www.ebl.lmu.de/signs/|NINDA₂×MI|
 @end sign
 
 @sign |NINDA₂×NE|
@@ -32532,8 +32468,8 @@
 @v	ram
 @v	rama
 @v	ugₓ
-@link eBL |NINDA₂×NE| https://www.ebl.lmu.de/signs/|NINDA₂×NE|
-@link Wikidata Q87556193 http://www.wikidata.org/entity/Q87556193
+@link	eBL |NINDA₂×NE| https://www.ebl.lmu.de/signs/|NINDA₂×NE|
+@link	Wikidata Q87556193 http://www.wikidata.org/entity/Q87556193
 @end sign
 
 @sign |NINDA₂×NUN|
@@ -32545,20 +32481,20 @@
 @list	U+12259
 @ucun	𒉙
 @uage	5.0
-@link eBL |NINDA₂×NUN| https://www.ebl.lmu.de/signs/|NINDA₂×NUN|
-@link Wikidata Q87556195 http://www.wikidata.org/entity/Q87556195
+@link	eBL |NINDA₂×NUN| https://www.ebl.lmu.de/signs/|NINDA₂×NUN|
+@link	Wikidata Q87556195 http://www.wikidata.org/entity/Q87556195
 @end sign
 
 @sign |NINDA₂×(PAP.PAP)|
-@aka |NINDA₂×BULUG₃|
 @oid	o0002086
+@aka	|NINDA₂×BULUG₃|
 @list	LAK113
 @uname	CUNEIFORM SIGN NINDA2 TIMES PAP PLUS PAP
 @list	U+12529
 @ucun	𒔩
 @uage	8.0
-@link eBL |NINDA₂×(PAP.PAP)| https://www.ebl.lmu.de/signs/|NINDA₂×(PAP.PAP)|
-@link Wikidata Q87557425 http://www.wikidata.org/entity/Q87557425
+@link	eBL |NINDA₂×(PAP.PAP)| https://www.ebl.lmu.de/signs/|NINDA₂×(PAP.PAP)|
+@link	Wikidata Q87557425 http://www.wikidata.org/entity/Q87557425
 @end sign
 
 @sign |NINDA₂×ŠE|
@@ -32579,8 +32515,8 @@
 @v	sa₁₀
 @v	sam₂
 @v	šam₂
-@link eBL |NINDA₂×ŠE| https://www.ebl.lmu.de/signs/|NINDA₂×ŠE|
-@link Wikidata Q87556197 http://www.wikidata.org/entity/Q87556197
+@link	eBL |NINDA₂×ŠE| https://www.ebl.lmu.de/signs/|NINDA₂×ŠE|
+@link	Wikidata Q87556197 http://www.wikidata.org/entity/Q87556197
 @form |NINDA₂×(DIŠ.ŠE.A.AN)|
 @oid	o0002084
 @@
@@ -32588,15 +32524,6 @@
 @oid	o0002117
 @useq	x1225A.x12000
 @ucun	𒉚𒀀
-@@
-@form |NINDA₂×(ŠE.A.AN)|
-@oid	o0002091
-@pname	|NINDA₂×ŠE+A+AN|
-@@
-@form |NINDA₂×ŠE.A.AN|
-@oid	o0002116
-@useq	x1225A.x12000.x1202D
-@ucun	𒉚𒀀𒀭
 @@
 @form |NINDA₂×(ŠE.A).AN|
 @oid	o0002089
@@ -32606,7 +32533,16 @@
 @list	U+1225B
 @ucun	𒉛
 @uage	5.0
-@link Wikidata Q87556198 http://www.wikidata.org/entity/Q87556198
+@link	Wikidata Q87556198 http://www.wikidata.org/entity/Q87556198
+@@
+@form |NINDA₂×(ŠE.A.AN)|
+@oid	o0002091
+@pname	|NINDA₂×ŠE+A+AN|
+@@
+@form |NINDA₂×ŠE.A.AN|
+@oid	o0002116
+@useq	x1225A.x12000.x1202D
+@ucun	𒉚𒀀𒀭
 @@
 @form |NINDA₂×(ŠE.AN)|
 @oid	o0002092
@@ -32642,59 +32578,59 @@
 @list	U+1225C
 @ucun	𒉜
 @uage	5.0
-@v	1/3(|NINDA₂×(ŠE.AŠ)|)
-@v	1/3(|NINDA₂×(ŠE.1(AŠ))|)
-@inote any values of the 1/3(|NINDA₂.xxx|) kind have to be special-cased in the asl lexer;
-       @aka doesn't work with these
-@v	1/3(aš@v)
-@inote 1/3(aš@v) is an ePSD2 transliteration coined from CDLI's 1/3(aš@c@v)
 @v	saₓ
-@link eBL |NINDA₂×(ŠE.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ)|
-@link Wikidata Q87556201 http://www.wikidata.org/entity/Q87556201
+@v	1/3(aš@v)
+@inote	1/3(aš@v) is an ePSD2 transliteration coined from CDLI's 1/3(aš@c@v)
+@v	1/3(|NINDA₂×(ŠE.1(AŠ))|)
+@inote	any values of the 1/3(|NINDA₂.xxx|) kind have to be special-cased in the asl lexer;
+	@aka doesn't work with these
+@v	1/3(|NINDA₂×(ŠE.AŠ)|)
+@link	eBL |NINDA₂×(ŠE.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ)|
+@link	Wikidata Q87556201 http://www.wikidata.org/entity/Q87556201
 @form |NINDA₂×(ŠE.AŠ@c)|
-@aka |NINDA₂×(ŠE.1(AŠ@c))|
-@aka |NINDA₂×ŠUŠANA@c|
 @oid	o0223482
+@aka	|NINDA₂×(ŠE.1(AŠ@c))|
+@aka	|NINDA₂×ŠUŠANA@c|
 @list	LAK106
 @list	LAK869
-@inote LAK lists twice
 @list	RSP106
-@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP106 and LAK869b
+@inote	LAK lists twice
+@note	Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP106 and LAK869b
 @inote	@ucode	xebce
 @v	1/3(aš@c@v)
-@inote 1/3(aš@c@v) is a CDLI transliteration
+@inote	1/3(aš@c@v) is a CDLI transliteration
 @@
 @end sign
 
 @sign |NINDA₂×(ŠE.AŠ.AŠ)|
-@aka |NINDA₂×(ŠE.2(AŠ))|
 @oid	o0002094
 @pname	|NINDA₂×ŠE+AŠ+AŠ|
+@aka	|NINDA₂×(ŠE.2(AŠ))|
 @list	MZL332
 @list	SLLHA186b
 @uname	CUNEIFORM SIGN NINDA2 TIMES SHE PLUS ASH PLUS ASH
 @list	U+1225D
 @ucun	𒉝
 @uage	5.0
-@v	2/3(|NINDA₂×(ŠE.AŠ.AŠ)|)
-@v	2/3(|NINDA₂×(ŠE.2(AŠ))|)
-@v	2/3(aš@v)
-@inote 2/3(aš@v) is an ePSD2 transliteration coined from CDLI's 2/3(aš@c@v)
 @v	saₓ
-@link eBL |NINDA₂×(ŠE.AŠ.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ.AŠ)|
-@link Wikidata Q87556203 http://www.wikidata.org/entity/Q87556203
+@v	2/3(aš@v)
+@inote	2/3(aš@v) is an ePSD2 transliteration coined from CDLI's 2/3(aš@c@v)
+@v	2/3(|NINDA₂×(ŠE.2(AŠ))|)
+@v	2/3(|NINDA₂×(ŠE.AŠ.AŠ)|)
+@link	eBL |NINDA₂×(ŠE.AŠ.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ.AŠ)|
+@link	Wikidata Q87556203 http://www.wikidata.org/entity/Q87556203
 @form |NINDA₂×(ŠE.AŠ@c.AŠ@c)|
-@aka |NINDA₂×(ŠE.2(AŠ@c))|
-@aka |NINDA₂×ŠANABI@c|
 @oid	o0223483
+@aka	|NINDA₂×(ŠE.2(AŠ@c))|
+@aka	|NINDA₂×ŠANABI@c|
 @list	LAK107
 @list	LAK870
-@inote LAK lists twice
 @list	RSP107
-@note Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP107 and LAK870b
+@inote	LAK lists twice
+@note	Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP107 and LAK870b
 @inote	@ucode	xebcf
 @v	2/3(aš@c@v)
-@inote 2/3(aš@c@v) is a CDLI transliteration
+@inote	2/3(aš@c@v) is a CDLI transliteration
 @@
 @end sign
 
@@ -32703,7 +32639,7 @@
 @v	gurmedub
 @ref	CUSAS 12, 1.1.2 = dcclt/signlists:P342645 o i 10
 @inote	salgues
-@link eBL |NINDA₂×ŠID| https://www.ebl.lmu.de/signs/|NINDA₂×ŠID|
+@link	eBL |NINDA₂×ŠID| https://www.ebl.lmu.de/signs/|NINDA₂×ŠID|
 @end sign
 
 @sign |NINDA₂×ŠIM|
@@ -32724,12 +32660,12 @@
 @ucun	𒔪
 @uage	8.0
 @v	udugabaₓ
-@link eBL |NINDA₂×U| https://www.ebl.lmu.de/signs/|NINDA₂×U|
-@link Wikidata Q87557427 http://www.wikidata.org/entity/Q87557427
+@link	eBL |NINDA₂×U| https://www.ebl.lmu.de/signs/|NINDA₂×U|
+@link	Wikidata Q87557427 http://www.wikidata.org/entity/Q87557427
 @form |NINDA₂×U@c|
+@oid	o0028041
 @list	ELLES060
 @list	LAK102
-@oid	o0028041
 @@
 @end sign
 
@@ -32745,17 +32681,17 @@
 @ucun	𒔫
 @uage	8.0
 @v	minudugabaₓ
-@link eBL |NINDA₂×(U.U)| https://www.ebl.lmu.de/signs/|NINDA₂×(U.U)|
-@link Wikidata Q87557429 http://www.wikidata.org/entity/Q87557429
+@link	eBL |NINDA₂×(U.U)| https://www.ebl.lmu.de/signs/|NINDA₂×(U.U)|
+@link	Wikidata Q87557429 http://www.wikidata.org/entity/Q87557429
 @form |NINDA₂×(U@c.U@c)|
-@list	LAK103
 @oid	o0027882
+@list	LAK103
 @@
 @end sign
 
 @sign |NINDA₂×U₂|
 @oid	o0002115
-@link eBL |NINDA₂×U₂| https://www.ebl.lmu.de/signs/|NINDA₂×U₂|
+@link	eBL |NINDA₂×U₂| https://www.ebl.lmu.de/signs/|NINDA₂×U₂|
 @end sign
 
 @sign |NINDA₂×(U₂.AŠ)|
@@ -32778,8 +32714,8 @@
 @v	urum
 @v	ušbar₆
 @v	ušbur₆
-@link eBL |NINDA₂×(U₂.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(U₂.AŠ)|
-@link Wikidata Q87556204 http://www.wikidata.org/entity/Q87556204
+@link	eBL |NINDA₂×(U₂.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(U₂.AŠ)|
+@link	Wikidata Q87556204 http://www.wikidata.org/entity/Q87556204
 @form |NINDA₂.AŠ|
 @oid	o0002082
 @useq	x12252.x12038
@@ -32795,8 +32731,8 @@
 @list	U+1252C
 @ucun	𒔬
 @uage	8.0
-@link eBL |NINDA₂×URUDA| https://www.ebl.lmu.de/signs/|NINDA₂×URUDA|
-@link Wikidata Q87557432 http://www.wikidata.org/entity/Q87557432
+@link	eBL |NINDA₂×URUDA| https://www.ebl.lmu.de/signs/|NINDA₂×URUDA|
+@link	Wikidata Q87557432 http://www.wikidata.org/entity/Q87557432
 @end sign
 
 @sign |NINDA₂×UŠ|
@@ -32806,8 +32742,8 @@
 @ucun	𒉟
 @uage	5.0
 @v	suhušₓ
-@link eBL |NINDA₂×UŠ| https://www.ebl.lmu.de/signs/|NINDA₂×UŠ|
-@link Wikidata Q87556206 http://www.wikidata.org/entity/Q87556206
+@link	eBL |NINDA₂×UŠ| https://www.ebl.lmu.de/signs/|NINDA₂×UŠ|
+@link	Wikidata Q87556206 http://www.wikidata.org/entity/Q87556206
 @end sign
 
 @sign |NINDA₂×X|
@@ -32817,6 +32753,44 @@
 
 @sign |NINDA₂×(X.MAŠ)|
 @oid	o0027486
+@inote	UET II, provisional
+@end sign
+
+@sign |NINDA₂×3(AŠ)|
+@oid	o0028037
+@inote	gvl unknown compound
+@end sign
+
+@sign |NINDA₂×2(AŠ@c)|
+@oid	o0038269
+@v	saₓ
+@inote	epsd2/oakk; ebla; not in LAK 
+@end sign
+
+@sign |NINDA₂×3(AŠ@c)|
+@oid	o0027636
+@list	LAK100
+@inote	missing compounds for lak.atf
+@end sign
+
+@sign |NINDA₂×2(DIŠ)|
+@oid	o0027883
+@form |NINDA₂×2(DIŠ@c)|
+@oid	o0027634
+@list	ELLES059
+@list	LAK101
+@inote	missing compounds for lak.atf
+@@
+@end sign
+
+@sign |NINDA₂×2(N01)|
+@oid	o0027699
+@list	ELLES058
+@inote	missing compounds for elles.atf
+@end sign
+
+@sign |NINDA₂×1(N06)|
+@oid	o0027488
 @inote	UET II, provisional
 @end sign
 
@@ -32845,14 +32819,14 @@
 @v	saₓ
 @v	sag₆
 @inote	dupfix MZL sag₅(ŠID)
-@inote  2024-06-30 introduce value sag₆/saŋ₆ for NISAG versus sag₅/saŋ₅ for ŠID and update ePSD2 to match; collation/fixing of DCCLT etc to do.
+@inote	2024-06-30 introduce value sag₆/saŋ₆ for NISAG versus sag₅/saŋ₅ for ŠID and update ePSD2 to match; collation/fixing of DCCLT etc to do.
 @v	saŋ₆
 @inote	dupfix MZL saŋ₅(ŠID)
 @v	zaₓ
 @v	zag₃
 @v	zaŋ₃
-@link eBL NISAG https://www.ebl.lmu.de/signs/NISAG
-@link Wikidata Q87556208 http://www.wikidata.org/entity/Q87556208
+@link	eBL NISAG https://www.ebl.lmu.de/signs/NISAG
+@link	Wikidata Q87556208 http://www.wikidata.org/entity/Q87556208
 @end sign
 
 @sign DN
@@ -32917,8 +32891,8 @@
 @v	surₓ?
 @v	šir₅?
 @v	ul₂
-@link eBL NU https://www.ebl.lmu.de/signs/NU
-@link Wikidata Q87556210 http://www.wikidata.org/entity/Q87556210
+@link	eBL NU https://www.ebl.lmu.de/signs/NU
+@link	Wikidata Q87556210 http://www.wikidata.org/entity/Q87556210
 @end sign
 
 @sign |NU.SAG|
@@ -32961,7 +32935,7 @@
 @ucun	𒉢
 @uage	5.0
 @v-	duri?
-@inote deprecated duri? because it's already questionable and eCUT uses duri(BAD₃)
+@inote	deprecated duri? because it's already questionable and eCUT uses duri(BAD₃)
 @v	enšab
 @v	gešnu?
 @v	gišnu?
@@ -32976,8 +32950,8 @@
 @v	sakarₓ
 @v	sudₓ
 @sys	Attinger ŋešnu => ŋešnu
-@link eBL NU₁₁ https://www.ebl.lmu.de/signs/NU₁₁
-@link Wikidata Q87556211 http://www.wikidata.org/entity/Q87556211
+@link	eBL NU₁₁ https://www.ebl.lmu.de/signs/NU₁₁
+@link	Wikidata Q87556211 http://www.wikidata.org/entity/Q87556211
 @form |NU₁₁.GIŠ|
 @oid	o0002166
 @inote	dupfix converted to @form to resolve ŋešnu conflict
@@ -32986,7 +32960,7 @@
 @ucun	𒉢𒄑
 @v	ŋešnu
 @v	ŋišnu
-@link eBL |NU₁₁.GIŠ| https://www.ebl.lmu.de/signs/|NU₁₁.GIŠ|
+@link	eBL |NU₁₁.GIŠ| https://www.ebl.lmu.de/signs/|NU₁₁.GIŠ|
 @@
 @end sign
 
@@ -32999,7 +32973,7 @@
 @v	gasₓ
 @v	lagašₓ
 @v	ugaₓ
-@link eBL |NU₁₁.BUR| https://www.ebl.lmu.de/signs/|NU₁₁.BUR|
+@link	eBL |NU₁₁.BUR| https://www.ebl.lmu.de/signs/|NU₁₁.BUR|
 @form |BUR.NU₁₁|
 @oid	o0221863
 @@
@@ -33042,7 +33016,7 @@
 @v	lagasa
 @v	lagaš
 @v	lagaša
-@link eBL |NU₁₁.BUR.LA| https://www.ebl.lmu.de/signs/|NU₁₁.BUR.LA|
+@link	eBL |NU₁₁.BUR.LA| https://www.ebl.lmu.de/signs/|NU₁₁.BUR.LA|
 @form |NU₁₁.BUR.HU|
 @oid	o0018544
 @useq	x12262.x12053.x12137
@@ -33078,7 +33052,7 @@
 @v	ŋešnu₂
 @v	ŋišnu₂
 @v-	sirru
-@link eBL |NU₁₁.IR| https://www.ebl.lmu.de/signs/|NU₁₁.IR|
+@link	eBL |NU₁₁.IR| https://www.ebl.lmu.de/signs/|NU₁₁.IR|
 @end sign
 
 @compoundonly	|NU₁₁&NU₁₁|
@@ -33092,8 +33066,8 @@
 @uage	5.0
 @v	numma
 @ref	CBS 11319+ = dcclt:P225766 r i 12', @atf{nu-um-ma |NU₁₁&NU₁₁.BUR&BUR| zi-i-ba-am}
-@link eBL |NU₁₁&NU₁₁.BUR&BUR| https://www.ebl.lmu.de/signs/|NU₁₁&NU₁₁.BUR&BUR|
-@link Wikidata Q87556426 http://www.wikidata.org/entity/Q87556426
+@link	eBL |NU₁₁&NU₁₁.BUR&BUR| https://www.ebl.lmu.de/signs/|NU₁₁&NU₁₁.BUR&BUR|
+@link	Wikidata Q87556426 http://www.wikidata.org/entity/Q87556426
 @end sign
 
 @sign NU₁₁@90
@@ -33105,8 +33079,8 @@
 @list	U+12393
 @ucun	𒎓
 @uage	7.0
-@link eBL NU₁₁@90 https://www.ebl.lmu.de/signs/NU₁₁@90
-@link Wikidata Q87556813 http://www.wikidata.org/entity/Q87556813
+@link	eBL NU₁₁@90 https://www.ebl.lmu.de/signs/NU₁₁@90
+@link	Wikidata Q87556813 http://www.wikidata.org/entity/Q87556813
 @form NU₁₁@t
 @oid	o0000493
 @list	ABZL464
@@ -33118,7 +33092,7 @@
 @ucun	𒋔
 @unote	Formerly CUNEIFORM SIGN SHIR TENU
 @uage	5.0
-@link Wikidata Q87556424 http://www.wikidata.org/entity/Q87556424
+@link	Wikidata Q87556424 http://www.wikidata.org/entity/Q87556424
 @@
 @end sign
 
@@ -33178,8 +33152,8 @@
 @v	zalₓ?
 @v	zel
 @v	zil
-@link eBL NUN https://www.ebl.lmu.de/signs/NUN
-@link Wikidata Q87556213 http://www.wikidata.org/entity/Q87556213
+@link	eBL NUN https://www.ebl.lmu.de/signs/NUN
+@link	Wikidata Q87556213 http://www.wikidata.org/entity/Q87556213
 @end sign
 
 @sign |NUN.LAGAR|
@@ -33207,7 +33181,7 @@
 @v-	šurumₓ
 @v	tur₃
 @v	ummalₓ
-@link eBL |NUN.LAGAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR|
+@link	eBL |NUN.LAGAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR|
 @form LAK077
 @oid	o0021460
 @list	ELLES048
@@ -33230,8 +33204,8 @@
 @v	gagaₓ
 @v	galgaₓ
 @v	ŋalgaₓ
-@link eBL |NUN.LAGAR×GAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR×GAR|
-@link Wikidata Q87556215 http://www.wikidata.org/entity/Q87556215
+@link	eBL |NUN.LAGAR×GAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR×GAR|
+@link	Wikidata Q87556215 http://www.wikidata.org/entity/Q87556215
 @form |NUN.LA.GA₂×GAR|
 @oid	o0027805
 @useq	x12263.x121B7.x120CC
@@ -33264,11 +33238,11 @@
 @v	turₓ
 @ref	UET 6, 126+:6-7 = epsd2/literary/P346211
 @v	uš₅
-@link eBL |NUN.LAGAR×SAL| https://www.ebl.lmu.de/signs/|NUN.LAGAR×SAL|
-@link Wikidata Q87556218 http://www.wikidata.org/entity/Q87556218
+@link	eBL |NUN.LAGAR×SAL| https://www.ebl.lmu.de/signs/|NUN.LAGAR×SAL|
+@link	Wikidata Q87556218 http://www.wikidata.org/entity/Q87556218
 @form |DIŠ+NUN.LAGAR|
-@aka	|DIŠ+(NUN.LAGAR)|
 @oid	o0069957
+@aka	|DIŠ+(NUN.LAGAR)|
 @useq	x12079.x12263.x121EC
 @ucun	𒁹𒉣𒇬
 @v	immal
@@ -33285,7 +33259,7 @@
 @v	šilam⁻
 @inote	sjt there is also a separate |NUN.LAGAR| sign with value šilamₓ
 @sys	Attinger šilam⁻
-@link eBL |NUN.LAGAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR|
+@link	eBL |NUN.LAGAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR|
 @@
 @form |NUN.LAGAR×MAŠ|
 @oid	o0002127
@@ -33301,8 +33275,8 @@
 @v	šilam₂
 @v	turₓ
 @v	uš₆
-@link eBL |NUN.LAGAR×MAŠ| https://www.ebl.lmu.de/signs/|NUN.LAGAR×MAŠ|
-@link Wikidata Q87556216 http://www.wikidata.org/entity/Q87556216
+@link	eBL |NUN.LAGAR×MAŠ| https://www.ebl.lmu.de/signs/|NUN.LAGAR×MAŠ|
+@link	Wikidata Q87556216 http://www.wikidata.org/entity/Q87556216
 @@
 @end sign
 
@@ -33315,8 +33289,8 @@
 @uage	5.0
 @v	akarₓ
 @v	akraₓ
-@link eBL |(NUN.LAGAR×SAL)&(NUN.LAGAR×SAL)| https://www.ebl.lmu.de/signs/|(NUN.LAGAR×SAL)&(NUN.LAGAR×SAL)|
-@link Wikidata Q87556220 http://www.wikidata.org/entity/Q87556220
+@link	eBL |(NUN.LAGAR×SAL)&(NUN.LAGAR×SAL)| https://www.ebl.lmu.de/signs/|(NUN.LAGAR×SAL)&(NUN.LAGAR×SAL)|
+@link	Wikidata Q87556220 http://www.wikidata.org/entity/Q87556220
 @end sign
 
 @sign |NUN.LAGAR×TAK₄|
@@ -33336,8 +33310,8 @@
 @ucun	𒉨
 @uage	5.0
 @v	xrigₓ
-@link eBL |NUN.LAGAR×UŠ| https://www.ebl.lmu.de/signs/|NUN.LAGAR×UŠ|
-@link Wikidata Q87556222 http://www.wikidata.org/entity/Q87556222
+@link	eBL |NUN.LAGAR×UŠ| https://www.ebl.lmu.de/signs/|NUN.LAGAR×UŠ|
+@link	Wikidata Q87556222 http://www.wikidata.org/entity/Q87556222
 @form |NUN.LA.GA₂×UŠ|
 @oid	o0027885
 @useq	x12263.x121B7.X
@@ -33350,7 +33324,7 @@
 @useq	x12263.x12228
 @ucun	𒉣𒈨
 @v	abgal
-@link eBL |NUN.ME| https://www.ebl.lmu.de/signs/|NUN.ME|
+@link	eBL |NUN.ME| https://www.ebl.lmu.de/signs/|NUN.ME|
 @form |NUN.ME.KA×GAN₂@t|
 @oid	o0002133
 @list	RSP095
@@ -33373,14 +33347,20 @@
 @useq	x12263.x12228.x1207A
 @ucun	𒉣𒈨𒁺
 @v	abrig
-@link eBL |NUN.ME.DU| https://www.ebl.lmu.de/signs/|NUN.ME.DU|
+@link	eBL |NUN.ME.DU| https://www.ebl.lmu.de/signs/|NUN.ME.DU|
+@form |AB₂.NUN.ME|
+@oid	o0038094
+@useq	x12016.x12263.x12228
+@ucun	𒀖𒉣𒈨
+@v	abrig₂
+@@
 @form |AB₂.NUN.ME.DU|
 @oid	o0000760
 @useq	x12016.x12263.x12228.x1207A
 @ucun	𒀖𒉣𒈨𒁺
 @v	{+ab₂}abrig
 @v	abrig₂
-@link eBL |AB₂.NUN.ME.DU| https://www.ebl.lmu.de/signs/|AB₂.NUN.ME.DU|
+@link	eBL |AB₂.NUN.ME.DU| https://www.ebl.lmu.de/signs/|AB₂.NUN.ME.DU|
 @@
 @form |ME.NUN.DU|
 @oid	o0031489
@@ -33397,12 +33377,6 @@
 @oid	o0002131
 @useq	x12263.x12228.x12016.x1207A
 @ucun	𒉣𒈨𒀖𒁺
-@v	abrig₂
-@@
-@form |AB₂.NUN.ME|
-@oid	o0038094
-@useq	x12016.x12263.x12228
-@ucun	𒀖𒉣𒈨
 @v	abrig₂
 @@
 @end sign
@@ -33423,7 +33397,7 @@
 @ucun	𒉣𒈨𒋳
 @v	gašam
 @v	gaššu
-@link eBL |NUN.ME.TAG| https://www.ebl.lmu.de/signs/|NUN.ME.TAG|
+@link	eBL |NUN.ME.TAG| https://www.ebl.lmu.de/signs/|NUN.ME.TAG|
 @form |NUN.ME.TAG.GA|
 @oid	o0002135
 @useq	x12263.x12228.x122F3.x120B5
@@ -33444,7 +33418,7 @@
 @ucun	𒉣𒊺
 @v	kiši₁₂
 @v	zixₓ
-@link eBL |NUN.ŠE| https://www.ebl.lmu.de/signs/|NUN.ŠE|
+@link	eBL |NUN.ŠE| https://www.ebl.lmu.de/signs/|NUN.ŠE|
 @end sign
 
 @sign |NUN&NUN|
@@ -33477,8 +33451,8 @@
 @v	šer₇
 @v	tirₓ?
 @inote	Abbreviation for tir = |ŠE.NUN&NUN|; not found so far.
-@link eBL |NUN&NUN| https://www.ebl.lmu.de/signs/|NUN&NUN|
-@link Wikidata Q87556225 http://www.wikidata.org/entity/Q87556225
+@link	eBL |NUN&NUN| https://www.ebl.lmu.de/signs/|NUN&NUN|
+@link	Wikidata Q87556225 http://www.wikidata.org/entity/Q87556225
 @form |NUN.NUN|
 @oid	o0028045
 @useq	x12263.x12263
@@ -33487,8 +33461,8 @@
 @end sign
 
 @sign |(NUN&NUN)&(NUN&NUN)|
-@aka |NIR&NIR|
 @oid	o0221961
+@aka	|NIR&NIR|
 @end sign
 
 @sign |NUN%NUN|
@@ -33511,8 +33485,8 @@
 @v	šeššed
 @v	šid₃
 @v	urgilim
-@link eBL |NUN%NUN| https://www.ebl.lmu.de/signs/|NUN%NUN|
-@link Wikidata Q87556227 http://www.wikidata.org/entity/Q87556227
+@link	eBL |NUN%NUN| https://www.ebl.lmu.de/signs/|NUN%NUN|
+@link	Wikidata Q87556227 http://www.wikidata.org/entity/Q87556227
 @end sign
 
 @sign |NUN%NUN.LAGAR&LAGAR|
@@ -33524,8 +33498,8 @@
 @uage	5.0
 @v	akar
 @v	ega₂
-@link eBL |NUN%NUN.LAGAR&LAGAR| https://www.ebl.lmu.de/signs/|NUN%NUN.LAGAR&LAGAR|
-@link Wikidata Q87556229 http://www.wikidata.org/entity/Q87556229
+@link	eBL |NUN%NUN.LAGAR&LAGAR| https://www.ebl.lmu.de/signs/|NUN%NUN.LAGAR&LAGAR|
+@link	Wikidata Q87556229 http://www.wikidata.org/entity/Q87556229
 @form |(NUN.LAGAR)&(NUN.LAGAR)|
 @oid	o0022931
 @inote	dcclt !sg
@@ -33546,11 +33520,12 @@
 @v	garₓ
 @inote	see a-garₓ(NUN@t)-garₓ(NUN@t){ku₆} in Home of the Fish
 @v	%akk nappilu
-@link eBL NUN@t https://www.ebl.lmu.de/signs/NUN@t
-@link Wikidata Q87556224 http://www.wikidata.org/entity/Q87556224
+@link	eBL NUN@t https://www.ebl.lmu.de/signs/NUN@t
+@link	Wikidata Q87556224 http://www.wikidata.org/entity/Q87556224
 @form NUN
 @oid	o0000488
-@inote dsst P251917 9 = Bird and Fish 117
+@inote	dsst P251917 9 = Bird and Fish 117
+@@
 @end sign
 
 @sign |NUN@t.KI|
@@ -33567,7 +33542,7 @@
 @v	kuruda
 @v	nunpe
 @v	zilpe
-@link eBL |NUN@t.KI| https://www.ebl.lmu.de/signs/|NUN@t.KI|
+@link	eBL |NUN@t.KI| https://www.ebl.lmu.de/signs/|NUN@t.KI|
 @form |NUN.KI|
 @oid	o0002124
 @useq	x12263.x121A0
@@ -33582,7 +33557,7 @@
 @useq	x12269.x122BA
 @ucun	𒉩𒊺
 @v	zixₓ
-@link eBL |NUN@t.ŠE| https://www.ebl.lmu.de/signs/|NUN@t.ŠE|
+@link	eBL |NUN@t.ŠE| https://www.ebl.lmu.de/signs/|NUN@t.ŠE|
 @end sign
 
 @sign NUNUZ
@@ -33610,8 +33585,8 @@
 @v	sug₉?
 @inote	Default form is the one transliterated as NUNUZ~c in CDLI archsigns
 @inote	BAU082a is not exactly this form.  LAK364/KWU532 exactly this form, |(HI×1(N58))&(HI×1(N58))|
-@link eBL NUNUZ https://www.ebl.lmu.de/signs/NUNUZ
-@link Wikidata Q87556231 http://www.wikidata.org/entity/Q87556231
+@link	eBL NUNUZ https://www.ebl.lmu.de/signs/NUNUZ
+@link	Wikidata Q87556231 http://www.wikidata.org/entity/Q87556231
 @form |AB₂%AB₂|
 @oid	o0037818
 @@
@@ -33631,7 +33606,7 @@
 @useq	x1226D.x12016
 @ucun	𒉭𒀖
 @v	nisagga
-@link eBL |NUNUZ.AB₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂|
+@link	eBL |NUNUZ.AB₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂|
 @form LAK449b
 @oid	o0025778
 @list	LAK449b
@@ -33661,8 +33636,8 @@
 @v	usansuruₓ
 @v	usun
 @v	uzunₓ
-@link eBL |NUNUZ.AB₂×AŠGAB| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×AŠGAB|
-@link Wikidata Q87556233 http://www.wikidata.org/entity/Q87556233
+@link	eBL |NUNUZ.AB₂×AŠGAB| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×AŠGAB|
+@link	Wikidata Q87556233 http://www.wikidata.org/entity/Q87556233
 @end sign
 
 @sign |NUNUZ.AB₂×BI|
@@ -33677,15 +33652,15 @@
 @v	hubur
 @v	mud₃
 @v	pihu₂
-@link eBL |NUNUZ.AB₂×BI| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×BI|
-@link Wikidata Q87556235 http://www.wikidata.org/entity/Q87556235
+@link	eBL |NUNUZ.AB₂×BI| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×BI|
+@link	Wikidata Q87556235 http://www.wikidata.org/entity/Q87556235
 @form LAK449
 @oid	o0000374
 @uname	CUNEIFORM SIGN LAK449
 @list	U+124F1
 @ucun	𒓱
 @uage	8.0
-@link Wikidata Q87557310 http://www.wikidata.org/entity/Q87557310
+@link	Wikidata Q87557310 http://www.wikidata.org/entity/Q87557310
 @@
 @form |NUNUZ.AB₂×NI|
 @oid	o0031520
@@ -33702,12 +33677,11 @@
 @end sign
 
 @sign |NUNUZ.AB₂×(BI.SILA₃)|
-@oid 	o0038232
-@useq x1226D.X
-@inote epsd2/admin/ur; CDLI "|KWU475×BI|"; sign clear on photo P250637
+@oid	o0038232
+@inote	epsd2/admin/ur; CDLI "|KWU475×BI|"; sign clear on photo P250637
+@useq	x1226D.X
+@ucun	𒉭X
 @end sign
-
-@compoundonly |AB₂×(BI.SILA₃)|
 
 @sign |NUNUZ.AB₂×(BUR₂.LU₃)|
 @oid	o0002143
@@ -33726,8 +33700,8 @@
 @ucun	𒉰
 @uage	5.0
 @v	lahtan₅
-@link eBL |NUNUZ.AB₂×DUG| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×DUG|
-@link Wikidata Q87556238 http://www.wikidata.org/entity/Q87556238
+@link	eBL |NUNUZ.AB₂×DUG| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×DUG|
+@link	Wikidata Q87556238 http://www.wikidata.org/entity/Q87556238
 @end sign
 
 @sign |NUNUZ.AB₂×GU|
@@ -33747,8 +33721,8 @@
 @uage	5.0
 @v	usagₓ
 @v	usanₓ
-@link eBL |NUNUZ.AB₂×GUD| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×GUD|
-@link Wikidata Q87556239 http://www.wikidata.org/entity/Q87556239
+@link	eBL |NUNUZ.AB₂×GUD| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×GUD|
+@link	Wikidata Q87556239 http://www.wikidata.org/entity/Q87556239
 @end sign
 
 @sign |NUNUZ.AB₂×IGI@g|
@@ -33760,8 +33734,8 @@
 @ucun	𒉲
 @uage	5.0
 @v	pihu₆
-@link eBL |NUNUZ.AB₂×IGI@g| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×IGI@g|
-@link Wikidata Q87556242 http://www.wikidata.org/entity/Q87556242
+@link	eBL |NUNUZ.AB₂×IGI@g| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×IGI@g|
+@link	Wikidata Q87556242 http://www.wikidata.org/entity/Q87556242
 @end sign
 
 @sign |NUNUZ.AB₂×KAD₃|
@@ -33773,8 +33747,8 @@
 @ucun	𒉳
 @uage	5.0
 @v	mud₈
-@link eBL |NUNUZ.AB₂×KAD₃| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×KAD₃|
-@link Wikidata Q87556244 http://www.wikidata.org/entity/Q87556244
+@link	eBL |NUNUZ.AB₂×KAD₃| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×KAD₃|
+@link	Wikidata Q87556244 http://www.wikidata.org/entity/Q87556244
 @end sign
 
 @sign |NUNUZ.AB₂×LA|
@@ -33791,8 +33765,8 @@
 @v	lahtan
 @v	mudₓ
 @v	usagₓ
-@link eBL |NUNUZ.AB₂×LA| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×LA|
-@link Wikidata Q87556246 http://www.wikidata.org/entity/Q87556246
+@link	eBL |NUNUZ.AB₂×LA| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×LA|
+@link	Wikidata Q87556246 http://www.wikidata.org/entity/Q87556246
 @form LAK450
 @oid	o0000375
 @list	LAK450
@@ -33800,8 +33774,8 @@
 @list	U+124F7
 @ucun	𒓷
 @uage	8.0
-@link eBL LAK450 https://www.ebl.lmu.de/signs/LAK450
-@link Wikidata Q87557323 http://www.wikidata.org/entity/Q87557323
+@link	eBL LAK450 https://www.ebl.lmu.de/signs/LAK450
+@link	Wikidata Q87557323 http://www.wikidata.org/entity/Q87557323
 @@
 @end sign
 
@@ -33822,8 +33796,8 @@
 @ucun	𒉵
 @uage	5.0
 @v	lahtan₄
-@link eBL |NUNUZ.AB₂×NE| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×NE|
-@link Wikidata Q87556248 http://www.wikidata.org/entity/Q87556248
+@link	eBL |NUNUZ.AB₂×NE| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×NE|
+@link	Wikidata Q87556248 http://www.wikidata.org/entity/Q87556248
 @end sign
 
 @sign |NUNUZ.AB₂×SILA₃|
@@ -33837,8 +33811,8 @@
 @ucun	𒉶
 @uage	5.0
 @v	lahtan₂
-@link eBL |NUNUZ.AB₂×SILA₃| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×SILA₃|
-@link Wikidata Q87556250 http://www.wikidata.org/entity/Q87556250
+@link	eBL |NUNUZ.AB₂×SILA₃| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×SILA₃|
+@link	Wikidata Q87556250 http://www.wikidata.org/entity/Q87556250
 @end sign
 
 @sign |NUNUZ.AB₂×TAB|
@@ -33865,8 +33839,8 @@
 @ucun	𒉷
 @uage	5.0
 @v	harubₓ
-@link eBL |NUNUZ.AB₂×U₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×U₂|
-@link Wikidata Q87556252 http://www.wikidata.org/entity/Q87556252
+@link	eBL |NUNUZ.AB₂×U₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×U₂|
+@link	Wikidata Q87556252 http://www.wikidata.org/entity/Q87556252
 @end sign
 
 @sign |NUNUZ.AB₂×X|
@@ -33881,7 +33855,7 @@
 @v	mudₓ
 @v	xdiₓ
 @v	xgidaₓ
-@link eBL |NUNUZ.AB₂×X| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×X|
+@link	eBL |NUNUZ.AB₂×X| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×X|
 @end sign
 
 @sign |NUNUZ.DIM₂|
@@ -33889,7 +33863,7 @@
 @useq	x1226D.x12076
 @ucun	𒉭𒁶
 @v	nigi₃
-@link eBL |NUNUZ.DIM₂| https://www.ebl.lmu.de/signs/|NUNUZ.DIM₂|
+@link	eBL |NUNUZ.DIM₂| https://www.ebl.lmu.de/signs/|NUNUZ.DIM₂|
 @end sign
 
 @sign |NUNUZ.DUH.A|
@@ -33905,7 +33879,7 @@
 @useq	x1226D.x121A8
 @ucun	𒉭𒆨
 @v	nisaga
-@link eBL |NUNUZ.KISIM₅| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅|
+@link	eBL |NUNUZ.KISIM₅| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅|
 @end sign
 
 @sign |NUNUZ.KISIM₅×AŠGAB|
@@ -33914,7 +33888,7 @@
 @useq	x1226D.X
 @ucun	𒉭X
 @v	lahtanₓ
-@link eBL |NUNUZ.KISIM₅×AŠGAB| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×AŠGAB|
+@link	eBL |NUNUZ.KISIM₅×AŠGAB| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×AŠGAB|
 @end sign
 
 @sign |NUNUZ.KISIM₅×BI|
@@ -33924,8 +33898,8 @@
 @ucun	𒉸
 @uage	5.0
 @v	haraₓ
-@link eBL |NUNUZ.KISIM₅×BI| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×BI|
-@link Wikidata Q87556254 http://www.wikidata.org/entity/Q87556254
+@link	eBL |NUNUZ.KISIM₅×BI| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×BI|
+@link	Wikidata Q87556254 http://www.wikidata.org/entity/Q87556254
 @end sign
 
 @sign |NUNUZ.KISIM₅×BI.U|
@@ -33937,17 +33911,17 @@
 @ucun	𒉹
 @uage	5.0
 @v	lahtan₃
-@link eBL |NUNUZ.KISIM₅×BI.U| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×BI.U|
-@link Wikidata Q87556256 http://www.wikidata.org/entity/Q87556256
+@link	eBL |NUNUZ.KISIM₅×BI.U| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×BI.U|
+@link	Wikidata Q87556256 http://www.wikidata.org/entity/Q87556256
 @end sign
 
 @sign |NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
-@aka |NUNUZ.(KISIM₅×(GUG₂.MUNU₄))|
 @oid	o0002159
 @pname	|NUNUZ.KISIM₅×LU₃+PAP+PAP|
+@aka	|NUNUZ.(KISIM₅×(GUG₂.MUNU₄))|
 @useq	x1226D.X
 @ucun	𒉭X
-@link eBL |NUNUZ.KISIM₅×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
+@link	eBL |NUNUZ.KISIM₅×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
 @end sign
 
 @sign |NUNUZ.KISIM₅×(TUG₂.HI)|
@@ -33981,7 +33955,7 @@
 @ucun	 
 @uage	0
 @v	o
-@link eBL O https://www.ebl.lmu.de/signs/O
+@link	eBL O https://www.ebl.lmu.de/signs/O
 @end sign
 
 @sign ON
@@ -33998,7 +33972,7 @@
 @v	oo
 @note	The notation oo or <oo> is used to transliterate space left to indicate zero (oo)
 	or a place where there should have been space left to indicate zero (<oo>).
-@link eBL OO https://www.ebl.lmu.de/signs/OO
+@link	eBL OO https://www.ebl.lmu.de/signs/OO
 @end sign
 
 @sign P₁
@@ -34009,8 +33983,8 @@
 @uage	5.0
 @v	/
 @v	p₁
-@link eBL P₁ https://www.ebl.lmu.de/signs/P₁
-@link Wikidata Q87557082 http://www.wikidata.org/entity/Q87557082
+@link	eBL P₁ https://www.ebl.lmu.de/signs/P₁
+@link	Wikidata Q87557082 http://www.wikidata.org/entity/Q87557082
 @end sign
 
 @sign P₂
@@ -34028,45 +34002,45 @@
 @inote	For use in Luwian {𒑱}
 @v	:
 @v	p₂
-@link eBL P₂ https://www.ebl.lmu.de/signs/P₂
-@link Wikidata Q87557084 http://www.wikidata.org/entity/Q87557084
+@link	eBL P₂ https://www.ebl.lmu.de/signs/P₂
+@link	Wikidata Q87557084 http://www.wikidata.org/entity/Q87557084
 @form AŠ@z
 @oid	o0000108
 @inote	Amarna
-@link eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
+@link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
 @@
 @form DIŠ
 @oid	o0000145
 @inote	Amarna
-@link eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
+@link	eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
+@@
+@form GAM
+@oid	o0000196
+@list	GCSL091
+@inote	Amarna
+@link	eBL GAM https://www.ebl.lmu.de/signs/GAM
+@@
+@form GE₂₂
+@oid	o0000209
+@inote	Amarna
+@link	eBL GE₂₂ https://www.ebl.lmu.de/signs/GE₂₂
+@@
+@form U
+@oid	o0000561
+@list	GCSL176
+@inote	Amarna
+@link	eBL U https://www.ebl.lmu.de/signs/U
+@@
+@form |U.U|
+@oid	o0002475
+@inote	Amarna
+@link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @@
 @form |9(DIŠ~b)+9(DIŠ~b)|
 @oid	o0038007
 @note	P363689 TCL 06 16, o 14 and r 29, possibly to be understood as 6(U) in a variant stacking pattern.
 @useq	x12448.x12448
 @ucun	𒑈𒑈
-@@
-@form GAM
-@oid	o0000196
-@list	GCSL091
-@inote	Amarna
-@link eBL GAM https://www.ebl.lmu.de/signs/GAM
-@@
-@form GE₂₂
-@oid	o0000209
-@inote	Amarna
-@link eBL GE₂₂ https://www.ebl.lmu.de/signs/GE₂₂
-@@
-@form U
-@oid	o0000561
-@list	GCSL176
-@inote	Amarna
-@link eBL U https://www.ebl.lmu.de/signs/U
-@@
-@form |U.U|
-@oid	o0002475
-@inote	Amarna
-@link eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @@
 @end sign
 
@@ -34078,8 +34052,8 @@
 @uage	5.0
 @v	:"
 @v	p₃
-@link eBL P₃ https://www.ebl.lmu.de/signs/P₃
-@link Wikidata Q87557086 http://www.wikidata.org/entity/Q87557086
+@link	eBL P₃ https://www.ebl.lmu.de/signs/P₃
+@link	Wikidata Q87557086 http://www.wikidata.org/entity/Q87557086
 @end sign
 
 @sign P₄
@@ -34090,8 +34064,8 @@
 @uage	5.0
 @v	:.
 @v	p₄
-@link eBL P₄ https://www.ebl.lmu.de/signs/P₄
-@link Wikidata Q87557088 http://www.wikidata.org/entity/Q87557088
+@link	eBL P₄ https://www.ebl.lmu.de/signs/P₄
+@link	Wikidata Q87557088 http://www.wikidata.org/entity/Q87557088
 @end sign
 
 @sign P₅
@@ -34102,7 +34076,7 @@
 @uage	7.0
 @v	::
 @v	p₅
-@link eBL P₅ https://www.ebl.lmu.de/signs/P₅
+@link	eBL P₅ https://www.ebl.lmu.de/signs/P₅
 @end sign
 
 @sign PA
@@ -34190,8 +34164,8 @@
 @v	zag₂
 @v	zak₂
 @v	zaq₂
-@link eBL PA https://www.ebl.lmu.de/signs/PA
-@link Wikidata Q87556257 http://www.wikidata.org/entity/Q87556257
+@link	eBL PA https://www.ebl.lmu.de/signs/PA
+@link	Wikidata Q87556257 http://www.wikidata.org/entity/Q87556257
 @end sign
 
 @sign |PA.AL|
@@ -34201,7 +34175,7 @@
 @ucun	𒉺𒀠
 @v	šabra
 @v	šapra
-@link eBL |PA.AL| https://www.ebl.lmu.de/signs/|PA.AL|
+@link	eBL |PA.AL| https://www.ebl.lmu.de/signs/|PA.AL|
 @form |AL.PA|
 @oid	o0031475
 @useq	x12020.x1227A
@@ -34221,7 +34195,7 @@
 @v	ŋarza
 @v	ŋarzu
 @v	kuš₄
-@link eBL |PA.AN| https://www.ebl.lmu.de/signs/|PA.AN|
+@link	eBL |PA.AN| https://www.ebl.lmu.de/signs/|PA.AN|
 @end sign
 
 @sign |PA.DAG.KISIM₅×GA|
@@ -34237,7 +34211,7 @@
 @ucun	𒉺𒁟
 @v	udul₁₁
 @v	utul₁₁
-@link eBL |PA.DAG.KISIM₅×GUD| https://www.ebl.lmu.de/signs/|PA.DAG.KISIM₅×GUD|
+@link	eBL |PA.DAG.KISIM₅×GUD| https://www.ebl.lmu.de/signs/|PA.DAG.KISIM₅×GUD|
 @end sign
 
 @sign |PA.DAG.KISIM₅×KAK|
@@ -34253,7 +34227,7 @@
 @v	sirig
 @v	udul₉
 @v	utul₉
-@link eBL |PA.DAG.KISIM₅×KAK| https://www.ebl.lmu.de/signs/|PA.DAG.KISIM₅×KAK|
+@link	eBL |PA.DAG.KISIM₅×KAK| https://www.ebl.lmu.de/signs/|PA.DAG.KISIM₅×KAK|
 @form |PA.DAG.KISIM₅×PAP|
 @oid	o0031806
 @useq	x1227A.x12056.X
@@ -34277,7 +34251,7 @@
 @ucun	𒉺𒁦
 @v	udul₄
 @v	utul₄
-@link eBL |PA.DAG.KISIM₅×(LU.MAŠ₂)| https://www.ebl.lmu.de/signs/|PA.DAG.KISIM₅×(LU.MAŠ₂)|
+@link	eBL |PA.DAG.KISIM₅×(LU.MAŠ₂)| https://www.ebl.lmu.de/signs/|PA.DAG.KISIM₅×(LU.MAŠ₂)|
 @form |PA.DAG.KISIM₅×LU|
 @oid	o0002175
 @useq	x1227A.x12065
@@ -34291,7 +34265,7 @@
 @useq	x1227A.x1207A
 @ucun	𒉺𒁺
 @v	maškim₃
-@link eBL |PA.DU| https://www.ebl.lmu.de/signs/|PA.DU|
+@link	eBL |PA.DU| https://www.ebl.lmu.de/signs/|PA.DU|
 @end sign
 
 @sign |PA.DU@g|
@@ -34299,7 +34273,7 @@
 @useq	x1227A.x1207C
 @ucun	𒉺𒁼
 @v	maškim₂
-@link eBL |PA.DU@g| https://www.ebl.lmu.de/signs/|PA.DU@g|
+@link	eBL |PA.DU@g| https://www.ebl.lmu.de/signs/|PA.DU@g|
 @end sign
 
 @sign |PA.DU@s|
@@ -34311,7 +34285,7 @@
 @v	maškim
 @v	parimₓ
 @inote	sjt: barimₓ and parimₓ were here as barim/parim dups of DU@s
-@link eBL |PA.DU@s| https://www.ebl.lmu.de/signs/|PA.DU@s|
+@link	eBL |PA.DU@s| https://www.ebl.lmu.de/signs/|PA.DU@s|
 @end sign
 
 @sign |PA.DU@s.HUB₂|
@@ -34336,7 +34310,7 @@
 @v	hursag
 @v	hursaŋ
 @note	Civil OrAn 22, 1-2.
-@link eBL |PA.DUN₃| https://www.ebl.lmu.de/signs/|PA.DUN₃|
+@link	eBL |PA.DUN₃| https://www.ebl.lmu.de/signs/|PA.DUN₃|
 @end sign
 
 @sign |PA.E₂|
@@ -34345,7 +34319,7 @@
 @ucun	𒉺𒂍
 @v	šabra₂
 @v	šapra₂
-@link eBL |PA.E₂| https://www.ebl.lmu.de/signs/|PA.E₂|
+@link	eBL |PA.E₂| https://www.ebl.lmu.de/signs/|PA.E₂|
 @end sign
 
 @sign |PA.EL.BU@g|
@@ -34354,11 +34328,17 @@
 @ucun	𒉺𒂖X
 @v	suₓ
 @v	sugₓ
-@link eBL |PA.EL.BU@g| https://www.ebl.lmu.de/signs/|PA.EL.BU@g|
+@link	eBL |PA.EL.BU@g| https://www.ebl.lmu.de/signs/|PA.EL.BU@g|
 @form |EL.SUD|
 @oid	o0021767
 @useq	x12096.x122E4
 @ucun	𒂖𒋤
+@@
+@form |PA.BU.EL|
+@oid	o0038317
+@useq	x1227A.x1204D.x12096
+@ucun	𒉺𒁍𒂖
+@v	susugₓ
 @@
 @form |PA.EL|
 @oid	o0025685
@@ -34371,12 +34351,6 @@
 @useq	x1227A.x12096.x122E4
 @ucun	𒉺𒂖𒋤
 @@
-@form |PA.BU.EL|
-@oid	o0038317
-@useq	x1227A.x1204D.x12096
-@ucun	𒉺𒁍𒂖
-@v	susugₓ
-@@
 @end sign
 
 @sign |PA.GA₂|
@@ -34385,7 +34359,7 @@
 @ucun	𒉺𒂷
 @v	luga
 @v	luŋa
-@link eBL |PA.GA₂| https://www.ebl.lmu.de/signs/|PA.GA₂|
+@link	eBL |PA.GA₂| https://www.ebl.lmu.de/signs/|PA.GA₂|
 @end sign
 
 @sign |PA.GAN|
@@ -34396,7 +34370,7 @@
 @v	seg₁₁
 @v	sig₁₁
 @v	sikiₓ
-@link eBL |PA.GAN| https://www.ebl.lmu.de/signs/|PA.GAN|
+@link	eBL |PA.GAN| https://www.ebl.lmu.de/signs/|PA.GAN|
 @end sign
 
 @sign |PA.GI|
@@ -34405,7 +34379,7 @@
 @ucun	𒉺𒄀
 @v	sigₓ
 @v	zigₓ
-@link eBL |PA.GI| https://www.ebl.lmu.de/signs/|PA.GI|
+@link	eBL |PA.GI| https://www.ebl.lmu.de/signs/|PA.GI|
 @end sign
 
 @sign |PA.GISAL.PAD|
@@ -34415,7 +34389,7 @@
 @v	addir₃
 @inote	addir(|A.PA.GISAL.PAD.SI.A|) corresponds to {+a}addir₃{+dir} in Attinger's system
 @sys	Attinger addir₃
-@link eBL |PA.GISAL.PAD| https://www.ebl.lmu.de/signs/|PA.GISAL.PAD|
+@link	eBL |PA.GISAL.PAD| https://www.ebl.lmu.de/signs/|PA.GISAL.PAD|
 @end sign
 
 @sign |PA.GISAL.SI.KAL.RU|
@@ -34424,7 +34398,7 @@
 @useq	x1227A.x12110.x122DB.x12197.x12292
 @ucun	𒉺𒄐𒋛𒆗𒊒
 @v	addirₓ
-@link eBL |PA.GISAL.SI.KAL.RU| https://www.ebl.lmu.de/signs/|PA.GISAL.SI.KAL.RU|
+@link	eBL |PA.GISAL.SI.KAL.RU| https://www.ebl.lmu.de/signs/|PA.GISAL.SI.KAL.RU|
 @end sign
 
 @sign |PA.GU₂@g|
@@ -34432,7 +34406,7 @@
 @useq	x1227A.x1211D
 @ucun	𒉺𒄝
 @v	munsubₓ
-@link eBL |PA.GU₂@g| https://www.ebl.lmu.de/signs/|PA.GU₂@g|
+@link	eBL |PA.GU₂@g| https://www.ebl.lmu.de/signs/|PA.GU₂@g|
 @form |PA.GU₂×NUN|
 @oid	o0002190
 @useq	x1227A.x1211B
@@ -34447,7 +34421,7 @@
 @useq	x1227A.x12138
 @ucun	𒉺𒄸
 @v	rig₈
-@link eBL |PA.HUB₂| https://www.ebl.lmu.de/signs/|PA.HUB₂|
+@link	eBL |PA.HUB₂| https://www.ebl.lmu.de/signs/|PA.HUB₂|
 @end sign
 
 @sign |PA.HUB₂.DU|
@@ -34457,7 +34431,7 @@
 @useq	x1227A.x12138.x1207A
 @ucun	𒉺𒄸𒁺
 @v	rig₇
-@link eBL |PA.HUB₂.DU| https://www.ebl.lmu.de/signs/|PA.HUB₂.DU|
+@link	eBL |PA.HUB₂.DU| https://www.ebl.lmu.de/signs/|PA.HUB₂.DU|
 @end sign
 
 @sign |PA.IB|
@@ -34483,7 +34457,7 @@
 @v	šub₃
 @v	šup₃
 @sys	Attinger saba => sab
-@link eBL |PA.IB| https://www.ebl.lmu.de/signs/|PA.IB|
+@link	eBL |PA.IB| https://www.ebl.lmu.de/signs/|PA.IB|
 @end sign
 
 @sign |PA.KAK|
@@ -34492,19 +34466,19 @@
 @ucun	𒉺𒆕
 @v	hudbu
 @v	%akk hutpu
-@link eBL |PA.KAK| https://www.ebl.lmu.de/signs/|PA.KAK|
+@link	eBL |PA.KAK| https://www.ebl.lmu.de/signs/|PA.KAK|
 @end sign
 
 @sign |PA.LAGAB×(GUD&GUD)|
-@aka |PA+(LAGAB×GUD&GUD)|
-@aka |PA.(LAGAB×GUD&GUD)|
 @oid	o0002195
 @pname	|PA.LAGAB×GUD+GUD|
+@aka	|PA+(LAGAB×GUD&GUD)|
+@aka	|PA.(LAGAB×GUD&GUD)|
 @useq	x1227A.x121C7
 @ucun	𒉺𒇇
 @v	muatiₓ
 @inote	check
-@link eBL |PA.LAGAB×(GUD&GUD)| https://www.ebl.lmu.de/signs/|PA.LAGAB×(GUD&GUD)|
+@link	eBL |PA.LAGAB×(GUD&GUD)| https://www.ebl.lmu.de/signs/|PA.LAGAB×(GUD&GUD)|
 @end sign
 
 @sign |PA.LU|
@@ -34534,7 +34508,7 @@
 @v	šab₅
 @v	šap₅
 @v	zip₃
-@link eBL |PA.LU| https://www.ebl.lmu.de/signs/|PA.LU|
+@link	eBL |PA.LU| https://www.ebl.lmu.de/signs/|PA.LU|
 @form |PA.EŠ₂|
 @oid	o0027887
 @useq	x1227A.x120A0
@@ -34547,7 +34521,7 @@
 @inote	DCCLT
 @useq	x1227A.x121FB.x122EB
 @ucun	𒉺𒇻𒋫
-@link eBL |PA.LU.TA| https://www.ebl.lmu.de/signs/|PA.LU.TA|
+@link	eBL |PA.LU.TA| https://www.ebl.lmu.de/signs/|PA.LU.TA|
 @end sign
 
 @sign |PA.LU₂|
@@ -34564,7 +34538,7 @@
 @v	garza₂
 @v	girza
 @v	ŋarza₂
-@link eBL |PA.LUGAL| https://www.ebl.lmu.de/signs/|PA.LUGAL|
+@link	eBL |PA.LUGAL| https://www.ebl.lmu.de/signs/|PA.LUGAL|
 @end sign
 
 @sign |PA.ME.U.U.U|
@@ -34572,7 +34546,7 @@
 @useq	x1227A.x1238C
 @ucun	𒉺𒎌
 @v	ari₅?
-@link eBL |PA.ME.U.U.U| https://www.ebl.lmu.de/signs/|PA.ME.U.U.U|
+@link	eBL |PA.ME.U.U.U| https://www.ebl.lmu.de/signs/|PA.ME.U.U.U|
 @end sign
 
 @sign |PA.NUN.LAGAR|
@@ -34581,7 +34555,7 @@
 @ucun	𒉺𒉣𒇬
 @v	udulₓ
 @v	utulₓ
-@link eBL |PA.NUN.LAGAR| https://www.ebl.lmu.de/signs/|PA.NUN.LAGAR|
+@link	eBL |PA.NUN.LAGAR| https://www.ebl.lmu.de/signs/|PA.NUN.LAGAR|
 @end sign
 
 @sign |PA.PA|
@@ -34614,7 +34588,7 @@
 @list	PTACE236
 @list	RSP369
 @v	rigₓ
-@link eBL DU https://www.ebl.lmu.de/signs/DU
+@link	eBL DU https://www.ebl.lmu.de/signs/DU
 @@
 @form |SAL.HUB₂.DU|
 @oid	o0221872
@@ -34644,7 +34618,7 @@
 @useq	x1227A.x122E2
 @ucun	𒉺𒋢
 @v	%akk tertu
-@link eBL |PA.SU| https://www.ebl.lmu.de/signs/|PA.SU|
+@link	eBL |PA.SU| https://www.ebl.lmu.de/signs/|PA.SU|
 @end sign
 
 @sign |PA.SUD.EL|
@@ -34652,7 +34626,7 @@
 @useq	x1227A.x122E4.x12096
 @ucun	𒉺𒋤𒂖
 @v	sugₓ
-@link eBL |PA.SUD.EL| https://www.ebl.lmu.de/signs/|PA.SUD.EL|
+@link	eBL |PA.SUD.EL| https://www.ebl.lmu.de/signs/|PA.SUD.EL|
 @end sign
 
 @sign |PA.ŠA₆|
@@ -34666,7 +34640,7 @@
 @ref	CUSAS 12, JON 38 = dcclt:P414356 r i 4'
 @v	šanga₇
 @v	tidimₓ
-@link eBL |PA.ŠA₆| https://www.ebl.lmu.de/signs/|PA.ŠA₆|
+@link	eBL |PA.ŠA₆| https://www.ebl.lmu.de/signs/|PA.ŠA₆|
 @end sign
 
 @sign |PA.ŠE|
@@ -34677,7 +34651,7 @@
 @v	isina
 @v	išin
 @sys	Attinger isina => isin
-@link eBL |PA.ŠE| https://www.ebl.lmu.de/signs/|PA.ŠE|
+@link	eBL |PA.ŠE| https://www.ebl.lmu.de/signs/|PA.ŠE|
 @end sign
 
 @sign |PA.TAR|
@@ -34686,7 +34660,7 @@
 @ucun	𒉺𒋻
 @v	gugₓ
 @ref	K 2039 = dcclt/nineveh:P394154 o i 19'
-@link eBL |PA.TAR| https://www.ebl.lmu.de/signs/|PA.TAR|
+@link	eBL |PA.TAR| https://www.ebl.lmu.de/signs/|PA.TAR|
 @end sign
 
 @sign |PA.TE|
@@ -34695,7 +34669,7 @@
 @ucun	𒉺𒋼
 @v	en₅
 @v	ninₓ
-@link eBL |PA.TE| https://www.ebl.lmu.de/signs/|PA.TE|
+@link	eBL |PA.TE| https://www.ebl.lmu.de/signs/|PA.TE|
 @end sign
 
 @sign |PA.TE.SI|
@@ -34706,7 +34680,7 @@
 @v	ensag
 @v	ensi₂
 @v	ensik
-@link eBL |PA.TE.SI| https://www.ebl.lmu.de/signs/|PA.TE.SI|
+@link	eBL |PA.TE.SI| https://www.ebl.lmu.de/signs/|PA.TE.SI|
 @end sign
 
 @sign |PA.TE.SI.GAR|
@@ -34714,7 +34688,7 @@
 @useq	x1227A.x122FC.x122DB.x120FB
 @ucun	𒉺𒋼𒋛𒃻
 @v	ensiₓ
-@link eBL |PA.TE.SI.GAR| https://www.ebl.lmu.de/signs/|PA.TE.SI.GAR|
+@link	eBL |PA.TE.SI.GAR| https://www.ebl.lmu.de/signs/|PA.TE.SI.GAR|
 @form |PA.GAR.TE.SI|
 @oid	o0018564
 @useq	x1227A.x120FB.x122FC.x122DB
@@ -34735,12 +34709,12 @@
 @v	nuska
 @v	nusku
 @v	nuška
-@link eBL |PA.TUG₂| https://www.ebl.lmu.de/signs/|PA.TUG₂|
+@link	eBL |PA.TUG₂| https://www.ebl.lmu.de/signs/|PA.TUG₂|
 @form |PA.LU|
 @oid	o0002198
 @list	GCSL057
 @list	RSP057
-@link eBL |PA.LU| https://www.ebl.lmu.de/signs/|PA.LU|
+@link	eBL |PA.LU| https://www.ebl.lmu.de/signs/|PA.LU|
 @@
 @form |PA.NAM₂|
 @oid	o0021747
@@ -34754,7 +34728,7 @@
 @useq	x1227A.x12307.x1207A
 @ucun	𒉺𒌇𒁺
 @v	rigₓ
-@link eBL |PA.TUK.DU| https://www.ebl.lmu.de/signs/|PA.TUK.DU|
+@link	eBL |PA.TUK.DU| https://www.ebl.lmu.de/signs/|PA.TUK.DU|
 @end sign
 
 @sign |PA.URU×MIN|
@@ -34765,13 +34739,13 @@
 @ref	CUSAS 12, JON 38 = dcclt:P414356 r i 7'
 @v	zililiₓ
 @v	zilulu
-@link eBL |PA.URU×MIN| https://www.ebl.lmu.de/signs/|PA.URU×MIN|
+@link	eBL |PA.URU×MIN| https://www.ebl.lmu.de/signs/|PA.URU×MIN|
 @form |PA.URU|
 @oid	o0002210
 @note	CUSAS 12, JON 38 = dcclt:P414356 r i 7'
 @useq	x1227A.x12337
 @ucun	𒉺𒌷
-@link eBL |PA.URU| https://www.ebl.lmu.de/signs/|PA.URU|
+@link	eBL |PA.URU| https://www.ebl.lmu.de/signs/|PA.URU|
 @@
 @end sign
 
@@ -34786,7 +34760,7 @@
 @v	tud₂
 @v	tudu
 @v	tunda
-@link eBL |PA.UZU| https://www.ebl.lmu.de/signs/|PA.UZU|
+@link	eBL |PA.UZU| https://www.ebl.lmu.de/signs/|PA.UZU|
 @end sign
 
 @compoundonly	|PA&PA|
@@ -34832,8 +34806,8 @@
 @v	šukur₂
 @v	šuq
 @v	šutug
-@link eBL PAD https://www.ebl.lmu.de/signs/PAD
-@link Wikidata Q87556259 http://www.wikidata.org/entity/Q87556259
+@link	eBL PAD https://www.ebl.lmu.de/signs/PAD
+@link	Wikidata Q87556259 http://www.wikidata.org/entity/Q87556259
 @form |PAD.UD|
 @oid	o0002220
 @note	See Lugalbanda I A 296; Lugal-e 126 and CAD šutukku 1.b-c. perhaps read šutug{ug₄}.
@@ -34854,7 +34828,7 @@
 @v	ninni₇
 @v	ninnim₇
 @sys	Attinger niŋdaba => nindaba
-@link eBL |PAD.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|PAD.AN.MUŠ₃|
+@link	eBL |PAD.AN.MUŠ₃| https://www.ebl.lmu.de/signs/|PAD.AN.MUŠ₃|
 @end sign
 
 @sign |PAD.AN.MUŠ₃@g|
@@ -34870,7 +34844,7 @@
 @useq	x1227B.x12110.x122DB
 @ucun	𒉻𒄐𒋛
 @v	addirₓ
-@link eBL |PAD.GISAL.SI| https://www.ebl.lmu.de/signs/|PAD.GISAL.SI|
+@link	eBL |PAD.GISAL.SI| https://www.ebl.lmu.de/signs/|PAD.GISAL.SI|
 @end sign
 
 @sign |PAD.MUŠ₃|
@@ -34883,7 +34857,7 @@
 @v	ninniₓ
 @v	ninnimₓ
 @sys	Attinger niŋdaba₂ => nindabaₓ
-@link eBL |PAD.MUŠ₃| https://www.ebl.lmu.de/signs/|PAD.MUŠ₃|
+@link	eBL |PAD.MUŠ₃| https://www.ebl.lmu.de/signs/|PAD.MUŠ₃|
 @form |MUŠ₃.PAD|
 @oid	o0018850
 @useq	x12239.x1227B
@@ -34913,8 +34887,8 @@
 @v	pan
 @v	pana
 @v	tir₅
-@link eBL PAN https://www.ebl.lmu.de/signs/PAN
-@link Wikidata Q87556261 http://www.wikidata.org/entity/Q87556261
+@link	eBL PAN https://www.ebl.lmu.de/signs/PAN
+@link	Wikidata Q87556261 http://www.wikidata.org/entity/Q87556261
 @end sign
 
 @compoundonly	|(PAN&PAN)|
@@ -34954,8 +34928,8 @@
 @v	pap
 @v	qur₄
 @v	tabₓ
-@link eBL PAP https://www.ebl.lmu.de/signs/PAP
-@link Wikidata Q87556262 http://www.wikidata.org/entity/Q87556262
+@link	eBL PAP https://www.ebl.lmu.de/signs/PAP
+@link	Wikidata Q87556262 http://www.wikidata.org/entity/Q87556262
 @end sign
 
 @sign |PAP.E|
@@ -34967,7 +34941,7 @@
 @ucun	𒉽𒂊
 @v	pa₅
 @v	pad₅
-@link eBL |PAP.E| https://www.ebl.lmu.de/signs/|PAP.E|
+@link	eBL |PAP.E| https://www.ebl.lmu.de/signs/|PAP.E|
 @end sign
 
 @sign |PAP.HAL|
@@ -34978,7 +34952,7 @@
 @useq	x1227D.x1212C
 @ucun	𒉽𒄬
 @v	puš₂
-@link eBL |PAP.HAL| https://www.ebl.lmu.de/signs/|PAP.HAL|
+@link	eBL |PAP.HAL| https://www.ebl.lmu.de/signs/|PAP.HAL|
 @end sign
 
 @sign |PAP.IGI@g|
@@ -34990,7 +34964,7 @@
 @v	isimu
 @v	isimud
 @v	pap-ugur₂
-@link eBL |PAP.IGI@g| https://www.ebl.lmu.de/signs/|PAP.IGI@g|
+@link	eBL |PAP.IGI@g| https://www.ebl.lmu.de/signs/|PAP.IGI@g|
 @end sign
 
 @sign |PAP.IGI@g.NUN.ME|
@@ -34999,7 +34973,7 @@
 @ucun	𒉽𒅊𒉣𒈨
 @v	isimu₄
 @v	isimud₄
-@link eBL |PAP.IGI@g.NUN.ME| https://www.ebl.lmu.de/signs/|PAP.IGI@g.NUN.ME|
+@link	eBL |PAP.IGI@g.NUN.ME| https://www.ebl.lmu.de/signs/|PAP.IGI@g.NUN.ME|
 @form |IGI@g.PAP.NUN.ME|
 @oid	o0031726
 @useq	x1214A.x1227D.x12263.x12228
@@ -35022,7 +34996,7 @@
 @ucun	𒉽𒅖
 @v	pa₆
 @v	pad₆
-@link eBL |PAP.IŠ| https://www.ebl.lmu.de/signs/|PAP.IŠ|
+@link	eBL |PAP.IŠ| https://www.ebl.lmu.de/signs/|PAP.IŠ|
 @end sign
 
 @sign- |PAP.NA₂|
@@ -35040,7 +35014,7 @@
 @useq	x1227D.x12263.x12228.x120A1
 @ucun	𒉽𒉣𒈨𒂡
 @v	isimudₓ
-@link eBL |PAP.NUN.ME.EZEN| https://www.ebl.lmu.de/signs/|PAP.NUN.ME.EZEN|
+@link	eBL |PAP.NUN.ME.EZEN| https://www.ebl.lmu.de/signs/|PAP.NUN.ME.EZEN|
 @end sign
 
 @sign |PAP.PAP|
@@ -35068,13 +35042,13 @@
 @v	munₓ
 @v	munu₄
 @v	pur₁₃
-@link eBL |PAP.PAP| https://www.ebl.lmu.de/signs/|PAP.PAP|
+@link	eBL |PAP.PAP| https://www.ebl.lmu.de/signs/|PAP.PAP|
 @end sign
 
 @sign |(PAP.PAP)@t|
 @oid	o0000631
 @note	See P250713 = MS 1952/40
-@link eBL |(PAP.PAP)@t| https://www.ebl.lmu.de/signs/|(PAP.PAP)@t|
+@link	eBL |(PAP.PAP)@t| https://www.ebl.lmu.de/signs/|(PAP.PAP)@t|
 @end sign
 
 @sign |PAP.PAP.4×IDIM|
@@ -35084,7 +35058,7 @@
 @v	šušru
 @ref	Antagal G = dcclt/nineveh:P365399 r ii 30
 @v-	šuššub
-@link eBL |PAP.PAP.4×IDIM| https://www.ebl.lmu.de/signs/|PAP.PAP.4×IDIM|
+@link	eBL |PAP.PAP.4×IDIM| https://www.ebl.lmu.de/signs/|PAP.PAP.4×IDIM|
 @end sign
 
 @sign |PAP.PAP×ŠE|
@@ -35096,14 +35070,14 @@
 @useq	x1227D.X
 @ucun	𒉽X
 @v	munuₓ
-@link eBL |PAP.PAP×ŠE| https://www.ebl.lmu.de/signs/|PAP.PAP×ŠE|
+@link	eBL |PAP.PAP×ŠE| https://www.ebl.lmu.de/signs/|PAP.PAP×ŠE|
 @end sign
 
 @sign |PAP.SAG|
 @oid	o0002233
 @useq	x1227D.x12295
 @ucun	𒉽𒊕
-@link eBL |PAP.SAG| https://www.ebl.lmu.de/signs/|PAP.SAG|
+@link	eBL |PAP.SAG| https://www.ebl.lmu.de/signs/|PAP.SAG|
 @end sign
 
 @sign |PAP.ŠE.PAP|
@@ -35111,7 +35085,7 @@
 @useq	x1227D.x122BA.x1227D
 @ucun	𒉽𒊺𒉽
 @v	munu₅
-@link eBL |PAP.ŠE.PAP| https://www.ebl.lmu.de/signs/|PAP.ŠE.PAP|
+@link	eBL |PAP.ŠE.PAP| https://www.ebl.lmu.de/signs/|PAP.ŠE.PAP|
 @form |PAP.PAP.ŠE|
 @oid	o0002230
 @useq	x1227D.x1227D.x122BA
@@ -35150,11 +35124,11 @@
 @v	nika
 @v	peš₂
 @v	piš₂
-@link eBL PEŠ₂ https://www.ebl.lmu.de/signs/PEŠ₂
-@link Wikidata Q87556264 http://www.wikidata.org/entity/Q87556264
+@link	eBL PEŠ₂ https://www.ebl.lmu.de/signs/PEŠ₂
+@link	Wikidata Q87556264 http://www.wikidata.org/entity/Q87556264
 @form LAK244
 @oid	o0000335
-@link eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
+@link	eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
 @@
 @form LAK247
 @oid	o0000337
@@ -35163,7 +35137,7 @@
 @list	PTACE137
 @list	RSP460bis
 @v	kilim
-@link eBL LAK247 https://www.ebl.lmu.de/signs/LAK247
+@link	eBL LAK247 https://www.ebl.lmu.de/signs/LAK247
 @@
 @end sign
 
@@ -35176,7 +35150,7 @@
 @list	U+12394
 @ucun	𒎔
 @uage	7.0
-@link Wikidata Q87556815 http://www.wikidata.org/entity/Q87556815
+@link	Wikidata Q87556815 http://www.wikidata.org/entity/Q87556815
 @end sign
 
 @sign PI
@@ -35254,8 +35228,8 @@
 @v	ye
 @v	yi
 @v	yu
-@link eBL PI https://www.ebl.lmu.de/signs/PI
-@link Wikidata Q87556267 http://www.wikidata.org/entity/Q87556267
+@link	eBL PI https://www.ebl.lmu.de/signs/PI
+@link	Wikidata Q87556267 http://www.wikidata.org/entity/Q87556267
 @end sign
 
 @sign |PI.GIŠ.TUG₂|
@@ -35263,7 +35237,7 @@
 @useq	x1227F.x12111.x12306
 @ucun	𒉿𒄑𒌆
 @v	ŋeštuₓ
-@link eBL |PI.GIŠ.TUG₂| https://www.ebl.lmu.de/signs/|PI.GIŠ.TUG₂|
+@link	eBL |PI.GIŠ.TUG₂| https://www.ebl.lmu.de/signs/|PI.GIŠ.TUG₂|
 @end sign
 
 @sign |PI×A|
@@ -35275,8 +35249,8 @@
 @ucun	𒊀
 @uage	5.0
 @v	wa₄
-@link eBL |PI×A| https://www.ebl.lmu.de/signs/|PI×A|
-@link Wikidata Q87556269 http://www.wikidata.org/entity/Q87556269
+@link	eBL |PI×A| https://www.ebl.lmu.de/signs/|PI×A|
+@link	Wikidata Q87556269 http://www.wikidata.org/entity/Q87556269
 @end sign
 
 @sign |PI×AB|
@@ -35287,8 +35261,8 @@
 @list	U+12281
 @ucun	𒊁
 @uage	5.0
-@link eBL |PI×AB| https://www.ebl.lmu.de/signs/|PI×AB|
-@link Wikidata Q87556270 http://www.wikidata.org/entity/Q87556270
+@link	eBL |PI×AB| https://www.ebl.lmu.de/signs/|PI×AB|
+@link	Wikidata Q87556270 http://www.wikidata.org/entity/Q87556270
 @end sign
 
 @sign |PI×BI|
@@ -35299,8 +35273,8 @@
 @list	U+12282
 @ucun	𒊂
 @uage	5.0
-@link eBL |PI×BI| https://www.ebl.lmu.de/signs/|PI×BI|
-@link Wikidata Q87556272 http://www.wikidata.org/entity/Q87556272
+@link	eBL |PI×BI| https://www.ebl.lmu.de/signs/|PI×BI|
+@link	Wikidata Q87556272 http://www.wikidata.org/entity/Q87556272
 @end sign
 
 @sign |PI×BU|
@@ -35311,8 +35285,8 @@
 @list	U+12283
 @ucun	𒊃
 @uage	5.0
-@link eBL |PI×BU| https://www.ebl.lmu.de/signs/|PI×BU|
-@link Wikidata Q87556274 http://www.wikidata.org/entity/Q87556274
+@link	eBL |PI×BU| https://www.ebl.lmu.de/signs/|PI×BU|
+@link	Wikidata Q87556274 http://www.wikidata.org/entity/Q87556274
 @end sign
 
 @sign |PI×E|
@@ -35324,8 +35298,8 @@
 @ucun	𒊄
 @uage	5.0
 @v	we₂
-@link eBL |PI×E| https://www.ebl.lmu.de/signs/|PI×E|
-@link Wikidata Q87556275 http://www.wikidata.org/entity/Q87556275
+@link	eBL |PI×E| https://www.ebl.lmu.de/signs/|PI×E|
+@link	Wikidata Q87556275 http://www.wikidata.org/entity/Q87556275
 @end sign
 
 @sign |PI×I|
@@ -35337,8 +35311,8 @@
 @ucun	𒊅
 @uage	5.0
 @v	wi₂
-@link eBL |PI×I| https://www.ebl.lmu.de/signs/|PI×I|
-@link Wikidata Q87556277 http://www.wikidata.org/entity/Q87556277
+@link	eBL |PI×I| https://www.ebl.lmu.de/signs/|PI×I|
+@link	Wikidata Q87556277 http://www.wikidata.org/entity/Q87556277
 @end sign
 
 @sign |PI×IB|
@@ -35349,8 +35323,8 @@
 @list	U+12286
 @ucun	𒊆
 @uage	5.0
-@link eBL |PI×IB| https://www.ebl.lmu.de/signs/|PI×IB|
-@link Wikidata Q87556279 http://www.wikidata.org/entity/Q87556279
+@link	eBL |PI×IB| https://www.ebl.lmu.de/signs/|PI×IB|
+@link	Wikidata Q87556279 http://www.wikidata.org/entity/Q87556279
 @end sign
 
 @sign |PI×U|
@@ -35362,8 +35336,8 @@
 @ucun	𒊇
 @uage	5.0
 @v	wu₂
-@link eBL |PI×U| https://www.ebl.lmu.de/signs/|PI×U|
-@link Wikidata Q87556282 http://www.wikidata.org/entity/Q87556282
+@link	eBL |PI×U| https://www.ebl.lmu.de/signs/|PI×U|
+@link	Wikidata Q87556282 http://www.wikidata.org/entity/Q87556282
 @end sign
 
 @sign |PI×U₂|
@@ -35373,8 +35347,8 @@
 @ucun	𒊈
 @uage	5.0
 @v	wu₃
-@link eBL |PI×U₂| https://www.ebl.lmu.de/signs/|PI×U₂|
-@link Wikidata Q87556284 http://www.wikidata.org/entity/Q87556284
+@link	eBL |PI×U₂| https://www.ebl.lmu.de/signs/|PI×U₂|
+@link	Wikidata Q87556284 http://www.wikidata.org/entity/Q87556284
 @end sign
 
 @sign |PI%PI|
@@ -35386,8 +35360,8 @@
 @ucun	𒊉
 @uage	5.0
 @v	taltal
-@link eBL |PI%PI| https://www.ebl.lmu.de/signs/|PI%PI|
-@link Wikidata Q87556286 http://www.wikidata.org/entity/Q87556286
+@link	eBL |PI%PI| https://www.ebl.lmu.de/signs/|PI%PI|
+@link	Wikidata Q87556286 http://www.wikidata.org/entity/Q87556286
 @end sign
 
 @sign PIR₂
@@ -35406,8 +35380,8 @@
 @v	pir₂
 @v	tam₅
 @v	udaₓ
-@link eBL PIR₂ https://www.ebl.lmu.de/signs/PIR₂
-@link Wikidata Q87556818 http://www.wikidata.org/entity/Q87556818
+@link	eBL PIR₂ https://www.ebl.lmu.de/signs/PIR₂
+@link	Wikidata Q87556818 http://www.wikidata.org/entity/Q87556818
 @end sign
 
 @sign PIRIG
@@ -35435,8 +35409,8 @@
 @v	surₓ
 @v	ug₂
 @v	uŋ₂
-@link eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
-@link Wikidata Q87556288 http://www.wikidata.org/entity/Q87556288
+@link	eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
+@link	Wikidata Q87556288 http://www.wikidata.org/entity/Q87556288
 @form |PIRIG×UD|
 @oid	o0002244
 @list	GCSL132
@@ -35448,8 +35422,8 @@
 @v	dešₓ
 @v	piriŋ⁺
 @sys	Attinger piriŋ⁺
-@link eBL |PIRIG×UD| https://www.ebl.lmu.de/signs/|PIRIG×UD|
-@link Wikidata Q87556291 http://www.wikidata.org/entity/Q87556291
+@link	eBL |PIRIG×UD| https://www.ebl.lmu.de/signs/|PIRIG×UD|
+@link	Wikidata Q87556291 http://www.wikidata.org/entity/Q87556291
 @@
 @end sign
 
@@ -35461,8 +35435,8 @@
 @ucun	𒊎
 @uage	5.0
 @v	tidnum
-@link eBL |PIRIG@PIRIG| https://www.ebl.lmu.de/signs/|PIRIG@PIRIG|
-@link Wikidata Q87556295 http://www.wikidata.org/entity/Q87556295
+@link	eBL |PIRIG@PIRIG| https://www.ebl.lmu.de/signs/|PIRIG@PIRIG|
+@link	Wikidata Q87556295 http://www.wikidata.org/entity/Q87556295
 @form |GIR₃@GIR₃|
 @oid	o0031607
 @@
@@ -35499,7 +35473,7 @@
 @useq	x1228A.x1200D
 @ucun	𒊊𒀍
 @v	nergalₓ
-@link eBL |PIRIG.AB×GAL| https://www.ebl.lmu.de/signs/|PIRIG.AB×GAL|
+@link	eBL |PIRIG.AB×GAL| https://www.ebl.lmu.de/signs/|PIRIG.AB×GAL|
 @end sign
 
 @sign |PIRIG.AB@g.GAL|
@@ -35508,7 +35482,7 @@
 @ucun	𒊊𒀕𒃲
 @v	nergal
 @v	nerigal
-@link eBL |PIRIG.AB@g.GAL| https://www.ebl.lmu.de/signs/|PIRIG.AB@g.GAL|
+@link	eBL |PIRIG.AB@g.GAL| https://www.ebl.lmu.de/signs/|PIRIG.AB@g.GAL|
 @form |GIR₃.AB@g.GAL|
 @oid	o0031605
 @useq	x1210A.x12015.x120F2
@@ -35523,7 +35497,7 @@
 @v	nemur₂
 @v	nimurₓ
 @sys	Attinger nemur₂ => nimurₓ
-@link eBL |PIRIG.TUR| https://www.ebl.lmu.de/signs/|PIRIG.TUR|
+@link	eBL |PIRIG.TUR| https://www.ebl.lmu.de/signs/|PIRIG.TUR|
 @end sign
 
 @sign |PIRIG×KAL|
@@ -35536,8 +35510,8 @@
 @ucun	𒊋
 @uage	5.0
 @v	nib
-@link eBL |PIRIG×KAL| https://www.ebl.lmu.de/signs/|PIRIG×KAL|
-@link Wikidata Q87556289 http://www.wikidata.org/entity/Q87556289
+@link	eBL |PIRIG×KAL| https://www.ebl.lmu.de/signs/|PIRIG×KAL|
+@link	Wikidata Q87556289 http://www.wikidata.org/entity/Q87556289
 @end sign
 
 @compoundonly	|PIRIG×PA|
@@ -35580,8 +35554,8 @@
 @v	uk
 @v	uku₄
 @v	uq
-@link eBL |PIRIG×UD| https://www.ebl.lmu.de/signs/|PIRIG×UD|
-@link Wikidata Q87556291 http://www.wikidata.org/entity/Q87556291
+@link	eBL |PIRIG×UD| https://www.ebl.lmu.de/signs/|PIRIG×UD|
+@link	Wikidata Q87556291 http://www.wikidata.org/entity/Q87556291
 @form PIRIG
 @oid	o0000503
 @list	BAU162
@@ -35591,7 +35565,7 @@
 @list	RSP460
 @v	ug⁻
 @sys	Attinger ug⁻
-@link eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
+@link	eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
 @@
 @form |SU.PIRIG|
 @oid	o0002373
@@ -35635,8 +35609,8 @@
 @v	us₄
 @v	uṣ₄
 @v	uz₄
-@link eBL |PIRIG×ZA| https://www.ebl.lmu.de/signs/|PIRIG×ZA|
-@link Wikidata Q87556293 http://www.wikidata.org/entity/Q87556293
+@link	eBL |PIRIG×ZA| https://www.ebl.lmu.de/signs/|PIRIG×ZA|
+@link	Wikidata Q87556293 http://www.wikidata.org/entity/Q87556293
 @form PIRIG
 @oid	o0000503
 @list	BAU162
@@ -35646,7 +35620,7 @@
 @list	RSP460
 @v	az⁻
 @sys	Attinger az⁻
-@link eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
+@link	eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
 @@
 @form |ZA.LAK247|
 @oid	o0028101
@@ -35679,8 +35653,8 @@
 @uage	5.0
 @v	ra
 @v	rah₂
-@link eBL RA https://www.ebl.lmu.de/signs/RA
-@link Wikidata Q87556297 http://www.wikidata.org/entity/Q87556297
+@link	eBL RA https://www.ebl.lmu.de/signs/RA
+@link	Wikidata Q87556297 http://www.wikidata.org/entity/Q87556297
 @end sign
 
 @sign |RA.RA|
@@ -35688,7 +35662,7 @@
 @useq	x1228F.x1228F
 @ucun	𒊏𒊏
 @v	kutu₂?
-@link eBL |RA.RA| https://www.ebl.lmu.de/signs/|RA.RA|
+@link	eBL |RA.RA| https://www.ebl.lmu.de/signs/|RA.RA|
 @end sign
 
 @sign RAB
@@ -35704,8 +35678,8 @@
 @v	rab
 @v	raba
 @v	rap
-@link eBL RAB https://www.ebl.lmu.de/signs/RAB
-@link Wikidata Q87556298 http://www.wikidata.org/entity/Q87556298
+@link	eBL RAB https://www.ebl.lmu.de/signs/RAB
+@link	Wikidata Q87556298 http://www.wikidata.org/entity/Q87556298
 @end sign
 
 @sign |RAB.GAL|
@@ -35715,7 +35689,7 @@
 @v	gušur₂
 @v	ŋušur₂
 @v	ur₁₃?
-@link eBL |RAB.GAL| https://www.ebl.lmu.de/signs/|RAB.GAL|
+@link	eBL |RAB.GAL| https://www.ebl.lmu.de/signs/|RAB.GAL|
 @end sign
 
 @sign |RAB.GAN|
@@ -35725,7 +35699,7 @@
 @useq	x12290.x120F6
 @ucun	𒊐𒃶
 @v	dim₈
-@link eBL |RAB.GAN| https://www.ebl.lmu.de/signs/|RAB.GAN|
+@link	eBL |RAB.GAN| https://www.ebl.lmu.de/signs/|RAB.GAN|
 @end sign
 
 @sign |RAB.HI×BAD|
@@ -35733,7 +35707,7 @@
 @useq	x12290.x12130
 @ucun	𒊐𒄰
 @v	dim₁₀
-@link eBL |RAB.HI×BAD| https://www.ebl.lmu.de/signs/|RAB.HI×BAD|
+@link	eBL |RAB.HI×BAD| https://www.ebl.lmu.de/signs/|RAB.HI×BAD|
 @end sign
 
 @sign |RAB.MAH|
@@ -35742,7 +35716,7 @@
 @ucun	𒊐𒈤
 @v	gušurₓ
 @v	ŋušurₓ
-@link eBL |RAB.MAH| https://www.ebl.lmu.de/signs/|RAB.MAH|
+@link	eBL |RAB.MAH| https://www.ebl.lmu.de/signs/|RAB.MAH|
 @end sign
 
 @sign |RAB.TUR.TUR|
@@ -35751,14 +35725,14 @@
 @ucun	𒊐𒌉𒌉
 @v	gušurₓ
 @v	ŋušurₓ
-@link eBL |RAB.TUR.TUR| https://www.ebl.lmu.de/signs/|RAB.TUR.TUR|
+@link	eBL |RAB.TUR.TUR| https://www.ebl.lmu.de/signs/|RAB.TUR.TUR|
 @end sign
 
 @sign REC107
 @oid	o0000512
 @v	sangaₓ
 @inote	check LAK etc., etc.; merge with SANGA₂?
-@link eBL REC107 https://www.ebl.lmu.de/signs/REC107
+@link	eBL REC107 https://www.ebl.lmu.de/signs/REC107
 @end sign
 
 @sign REC169
@@ -35766,7 +35740,7 @@
 @list	LAK274
 @inote	CDLI oakk referencing CUSAS 27
 @v	uštil
-@link eBL REC169 https://www.ebl.lmu.de/signs/REC169
+@link	eBL REC169 https://www.ebl.lmu.de/signs/REC169
 @end sign
 
 @sign REC344
@@ -35813,14 +35787,14 @@
 @v	tal
 @v	tala
 @v	ṭal
-@link eBL RI https://www.ebl.lmu.de/signs/RI
-@link Wikidata Q87556300 http://www.wikidata.org/entity/Q87556300
+@link	eBL RI https://www.ebl.lmu.de/signs/RI
+@link	Wikidata Q87556300 http://www.wikidata.org/entity/Q87556300
 @form HU
 @oid	o0000239
 @list	GCSL031
 @list	PTACE040
 @note	In some phases of cuneiform the sign RI may stand for HU and vv. The sign values of HU are not repeated here.
-@link eBL HU https://www.ebl.lmu.de/signs/HU
+@link	eBL HU https://www.ebl.lmu.de/signs/HU
 @@
 @end sign
 
@@ -35909,8 +35883,8 @@
 @v	šub
 @v	šuba₅
 @v	šup
-@link eBL RU https://www.ebl.lmu.de/signs/RU
-@link Wikidata Q87556302 http://www.wikidata.org/entity/Q87556302
+@link	eBL RU https://www.ebl.lmu.de/signs/RU
+@link	Wikidata Q87556302 http://www.wikidata.org/entity/Q87556302
 @end sign
 
 @sign |RU.NE|
@@ -35918,7 +35892,7 @@
 @useq	x12292.x12248
 @ucun	𒊒𒉈
 @v	rimₓ
-@link eBL |RU.NE| https://www.ebl.lmu.de/signs/|RU.NE|
+@link	eBL |RU.NE| https://www.ebl.lmu.de/signs/|RU.NE|
 @end sign
 
 @sign |RU×KUR|
@@ -35946,8 +35920,8 @@
 @v	sa
 @v	%akk śa
 @v	ša₁₀
-@link eBL SA https://www.ebl.lmu.de/signs/SA
-@link Wikidata Q87556305 http://www.wikidata.org/entity/Q87556305
+@link	eBL SA https://www.ebl.lmu.de/signs/SA
+@link	Wikidata Q87556305 http://www.wikidata.org/entity/Q87556305
 @form SA@v
 @oid	o0223480
 @v	sa@v
@@ -35960,7 +35934,7 @@
 @useq	x12293.x12135.x12195
 @ucun	𒊓𒄵𒆕
 @v	ellandu
-@link eBL |SA.HI×ŠE.KAK| https://www.ebl.lmu.de/signs/|SA.HI×ŠE.KAK|
+@link	eBL |SA.HI×ŠE.KAK| https://www.ebl.lmu.de/signs/|SA.HI×ŠE.KAK|
 @end sign
 
 @sign SAG
@@ -36012,8 +35986,8 @@
 @v	šegₓ
 @v	zugₓ
 @inote	dupfix MZL zug₃(|SAG×U₂|)
-@link eBL SAG https://www.ebl.lmu.de/signs/SAG
-@link Wikidata Q87556308 http://www.wikidata.org/entity/Q87556308
+@link	eBL SAG https://www.ebl.lmu.de/signs/SAG
+@link	Wikidata Q87556308 http://www.wikidata.org/entity/Q87556308
 @end sign
 
 @sign |SAG.AN|
@@ -36021,7 +35995,7 @@
 @useq	x12295.x1202D
 @ucun	𒊕𒀭
 @v	tirigi?
-@link eBL |SAG.AN| https://www.ebl.lmu.de/signs/|SAG.AN|
+@link	eBL |SAG.AN| https://www.ebl.lmu.de/signs/|SAG.AN|
 @end sign
 
 @sign |SAG.DUN₃|
@@ -36029,7 +36003,7 @@
 @useq	x12295.x12085
 @ucun	𒊕𒂅
 @v	šasuk
-@link eBL |SAG.DUN₃| https://www.ebl.lmu.de/signs/|SAG.DUN₃|
+@link	eBL |SAG.DUN₃| https://www.ebl.lmu.de/signs/|SAG.DUN₃|
 @end sign
 
 @sign |SAG.EZEN|
@@ -36037,7 +36011,7 @@
 @useq	x12295.x120A1
 @ucun	𒊕𒂡
 @v	durme
-@link eBL |SAG.EZEN| https://www.ebl.lmu.de/signs/|SAG.EZEN|
+@link	eBL |SAG.EZEN| https://www.ebl.lmu.de/signs/|SAG.EZEN|
 @form |SAG.KEŠ₂|
 @oid	o0023074
 @inote	dcclt !sg
@@ -36061,7 +36035,7 @@
 @useq	x12295.x121F2.x122A9
 @ucun	𒊕𒇲𒊩
 @v	ballaₓ
-@link eBL |SAG.LAL.SAL| https://www.ebl.lmu.de/signs/|SAG.LAL.SAL|
+@link	eBL |SAG.LAL.SAL| https://www.ebl.lmu.de/signs/|SAG.LAL.SAL|
 @end sign
 
 @sign |SAG.PA.LAGAB|
@@ -36069,7 +36043,7 @@
 @useq	x12295.x1227A.x121B8
 @ucun	𒊕𒉺𒆸
 @v	zarah
-@link eBL |SAG.PA.LAGAB| https://www.ebl.lmu.de/signs/|SAG.PA.LAGAB|
+@link	eBL |SAG.PA.LAGAB| https://www.ebl.lmu.de/signs/|SAG.PA.LAGAB|
 @end sign
 
 @sign |SAG.SAL|
@@ -36079,7 +36053,7 @@
 @v	eru₂
 @v	erum₂
 @v	igiraₓ
-@link eBL |SAG.SAL| https://www.ebl.lmu.de/signs/|SAG.SAL|
+@link	eBL |SAG.SAL| https://www.ebl.lmu.de/signs/|SAG.SAL|
 @end sign
 
 @sign |SAG×A|
@@ -36091,8 +36065,8 @@
 @ucun	𒊖
 @uage	5.0
 @v	kabₓ
-@link eBL |SAG×A| https://www.ebl.lmu.de/signs/|SAG×A|
-@link Wikidata Q87556309 http://www.wikidata.org/entity/Q87556309
+@link	eBL |SAG×A| https://www.ebl.lmu.de/signs/|SAG×A|
+@link	Wikidata Q87556309 http://www.wikidata.org/entity/Q87556309
 @end sign
 
 @sign |SAG×DU|
@@ -36109,8 +36083,8 @@
 @inote	muhhuₓ need checking
 @v	sagdu
 @v	saŋdu
-@link eBL |SAG×DU| https://www.ebl.lmu.de/signs/|SAG×DU|
-@link Wikidata Q87556311 http://www.wikidata.org/entity/Q87556311
+@link	eBL |SAG×DU| https://www.ebl.lmu.de/signs/|SAG×DU|
+@link	Wikidata Q87556311 http://www.wikidata.org/entity/Q87556311
 @form |SAG.DU|
 @oid	o0027737
 @useq	x12295.x1207A
@@ -36127,8 +36101,8 @@
 @uage	5.0
 @v	uru₁₀
 @v	urum₃
-@link eBL |SAG×DUB| https://www.ebl.lmu.de/signs/|SAG×DUB|
-@link Wikidata Q87556313 http://www.wikidata.org/entity/Q87556313
+@link	eBL |SAG×DUB| https://www.ebl.lmu.de/signs/|SAG×DUB|
+@link	Wikidata Q87556313 http://www.wikidata.org/entity/Q87556313
 @end sign
 
 @sign |SAG×EN|
@@ -36138,8 +36112,8 @@
 @list	U+1252E
 @ucun	𒔮
 @uage	8.0
-@link eBL |SAG×EN| https://www.ebl.lmu.de/signs/|SAG×EN|
-@link Wikidata Q87557436 http://www.wikidata.org/entity/Q87557436
+@link	eBL |SAG×EN| https://www.ebl.lmu.de/signs/|SAG×EN|
+@link	Wikidata Q87557436 http://www.wikidata.org/entity/Q87557436
 @end sign
 
 @sign |SAG×GAR|
@@ -36161,8 +36135,8 @@
 @v	haₓ
 @v	huₓ
 @v	hulumₓ?
-@link eBL |SAG×HA| https://www.ebl.lmu.de/signs/|SAG×HA|
-@link Wikidata Q87556315 http://www.wikidata.org/entity/Q87556315
+@link	eBL |SAG×HA| https://www.ebl.lmu.de/signs/|SAG×HA|
+@link	Wikidata Q87556315 http://www.wikidata.org/entity/Q87556315
 @end sign
 
 @sign |SAG×IG|
@@ -36184,8 +36158,8 @@
 @list	U+12396
 @ucun	𒎖
 @uage	7.0
-@link eBL |SAG×IGI@g| https://www.ebl.lmu.de/signs/|SAG×IGI@g|
-@link Wikidata Q87556820 http://www.wikidata.org/entity/Q87556820
+@link	eBL |SAG×IGI@g| https://www.ebl.lmu.de/signs/|SAG×IGI@g|
+@link	Wikidata Q87556820 http://www.wikidata.org/entity/Q87556820
 @end sign
 
 @sign |SAG×KAK|
@@ -36203,8 +36177,8 @@
 @v	muh₂
 @v	%akk/n muhhuₓ
 @v	muhhumₓ
-@link eBL |SAG×KAK| https://www.ebl.lmu.de/signs/|SAG×KAK|
-@link Wikidata Q87556316 http://www.wikidata.org/entity/Q87556316
+@link	eBL |SAG×KAK| https://www.ebl.lmu.de/signs/|SAG×KAK|
+@link	Wikidata Q87556316 http://www.wikidata.org/entity/Q87556316
 @form |SAG.NI|
 @oid	o0027888
 @inote	Emar P271337
@@ -36218,7 +36192,7 @@
 @useq	x1229A.x120EE
 @ucun	𒊚𒃮
 @v	xₓ
-@link eBL |SAG×KAK.GABA| https://www.ebl.lmu.de/signs/|SAG×KAK.GABA|
+@link	eBL |SAG×KAK.GABA| https://www.ebl.lmu.de/signs/|SAG×KAK.GABA|
 @end sign
 
 @sign |SAG×KU|
@@ -36233,8 +36207,8 @@
 @ucun	𒊛
 @uage	5.0
 @v	xgukinₓ
-@link eBL |SAG×KUR| https://www.ebl.lmu.de/signs/|SAG×KUR|
-@link Wikidata Q87556318 http://www.wikidata.org/entity/Q87556318
+@link	eBL |SAG×KUR| https://www.ebl.lmu.de/signs/|SAG×KUR|
+@link	Wikidata Q87556318 http://www.wikidata.org/entity/Q87556318
 @end sign
 
 @sign |SAG×LAM|
@@ -36252,8 +36226,8 @@
 @uage	5.0
 @v	hulum₂
 @v	%akk/n muhhuₓ
-@link eBL |SAG×LUM| https://www.ebl.lmu.de/signs/|SAG×LUM|
-@link Wikidata Q87556320 http://www.wikidata.org/entity/Q87556320
+@link	eBL |SAG×LUM| https://www.ebl.lmu.de/signs/|SAG×LUM|
+@link	Wikidata Q87556320 http://www.wikidata.org/entity/Q87556320
 @end sign
 
 @sign |SAG×MAŠ|
@@ -36271,8 +36245,8 @@
 @uage	5.0
 @v	kan₃
 @v	kana₃
-@link eBL |SAG×MI| https://www.ebl.lmu.de/signs/|SAG×MI|
-@link Wikidata Q87556322 http://www.wikidata.org/entity/Q87556322
+@link	eBL |SAG×MI| https://www.ebl.lmu.de/signs/|SAG×MI|
+@link	Wikidata Q87556322 http://www.wikidata.org/entity/Q87556322
 @form |KA×MI|
 @oid	o0001649
 @uname	CUNEIFORM SIGN KA TIMES MI
@@ -36282,8 +36256,8 @@
 @v	ganaₓ
 @v	kan₅
 @v	kana₅
-@link eBL |KA×MI| https://www.ebl.lmu.de/signs/|KA×MI|
-@link Wikidata Q87555742 http://www.wikidata.org/entity/Q87555742
+@link	eBL |KA×MI| https://www.ebl.lmu.de/signs/|KA×MI|
+@link	Wikidata Q87555742 http://www.wikidata.org/entity/Q87555742
 @@
 @end sign
 
@@ -36325,8 +36299,8 @@
 @ucun	𒊞
 @uage	5.0
 @v	dilib₄
-@link eBL |SAG×NUN| https://www.ebl.lmu.de/signs/|SAG×NUN|
-@link Wikidata Q87556323 http://www.wikidata.org/entity/Q87556323
+@link	eBL |SAG×NUN| https://www.ebl.lmu.de/signs/|SAG×NUN|
+@link	Wikidata Q87556323 http://www.wikidata.org/entity/Q87556323
 @end sign
 
 @sign |SAG×PAP|
@@ -36346,8 +36320,8 @@
 @v	eru₃
 @v	erum₃
 @v	zarahₓ
-@link eBL |SAG×SAL| https://www.ebl.lmu.de/signs/|SAG×SAL|
-@link Wikidata Q87556325 http://www.wikidata.org/entity/Q87556325
+@link	eBL |SAG×SAL| https://www.ebl.lmu.de/signs/|SAG×SAL|
+@link	Wikidata Q87556325 http://www.wikidata.org/entity/Q87556325
 @end sign
 
 @sign |SAG×SAR|
@@ -36366,8 +36340,8 @@
 @ucun	𒊠
 @uage	5.0
 @v	dilib₃
-@link eBL |SAG×ŠID| https://www.ebl.lmu.de/signs/|SAG×ŠID|
-@link Wikidata Q87556327 http://www.wikidata.org/entity/Q87556327
+@link	eBL |SAG×ŠID| https://www.ebl.lmu.de/signs/|SAG×ŠID|
+@link	Wikidata Q87556327 http://www.wikidata.org/entity/Q87556327
 @end sign
 
 @sign |SAG×TAK₄|
@@ -36382,8 +36356,8 @@
 @lit	Kienast FS Sjöberg, 543-544
 @ref	OIP 99, 61 = dcclt:P010102 o xii 9
 @note	CUSAS 12, 6.1.2 r iii' 3-7; OIP 99, 69 r xi' 8'
-@link eBL |SAG×TAK₄| https://www.ebl.lmu.de/signs/|SAG×TAK₄|
-@link Wikidata Q87557441 http://www.wikidata.org/entity/Q87557441
+@link	eBL |SAG×TAK₄| https://www.ebl.lmu.de/signs/|SAG×TAK₄|
+@link	Wikidata Q87557441 http://www.wikidata.org/entity/Q87557441
 @end sign
 
 @sign |SAG×TAK₄@f|
@@ -36393,8 +36367,8 @@
 @list	U+12539
 @ucun	𒔹
 @uage	8.0
-@link eBL |SAG×TAK₄@f| https://www.ebl.lmu.de/signs/|SAG×TAK₄@f|
-@link Wikidata Q87557462 http://www.wikidata.org/entity/Q87557462
+@link	eBL |SAG×TAK₄@f| https://www.ebl.lmu.de/signs/|SAG×TAK₄@f|
+@link	Wikidata Q87557462 http://www.wikidata.org/entity/Q87557462
 @end sign
 
 @sign |SAG×U₂|
@@ -36409,8 +36383,8 @@
 @v	usug₃
 @v	uzug₃
 @v	zug₃
-@link eBL |SAG×U₂| https://www.ebl.lmu.de/signs/|SAG×U₂|
-@link Wikidata Q87556331 http://www.wikidata.org/entity/Q87556331
+@link	eBL |SAG×U₂| https://www.ebl.lmu.de/signs/|SAG×U₂|
+@link	Wikidata Q87556331 http://www.wikidata.org/entity/Q87556331
 @form |U₂.SAG|
 @oid	o0002635
 @useq	x12311.x12295
@@ -36418,7 +36392,7 @@
 @v	muzug
 @v	uzug₃
 @v	zug₃
-@link eBL |U₂.SAG| https://www.ebl.lmu.de/signs/|U₂.SAG|
+@link	eBL |U₂.SAG| https://www.ebl.lmu.de/signs/|U₂.SAG|
 @@
 @end sign
 
@@ -36431,8 +36405,8 @@
 @ucun	𒊣
 @uage	5.0
 @v	muh₃
-@link eBL |SAG×UB| https://www.ebl.lmu.de/signs/|SAG×UB|
-@link Wikidata Q87556333 http://www.wikidata.org/entity/Q87556333
+@link	eBL |SAG×UB| https://www.ebl.lmu.de/signs/|SAG×UB|
+@link	Wikidata Q87556333 http://www.wikidata.org/entity/Q87556333
 @end sign
 
 @sign |SAG×UM|
@@ -36444,8 +36418,8 @@
 @ucun	𒊤
 @uage	5.0
 @v	lib₅?
-@link eBL |SAG×UM| https://www.ebl.lmu.de/signs/|SAG×UM|
-@link Wikidata Q87556335 http://www.wikidata.org/entity/Q87556335
+@link	eBL |SAG×UM| https://www.ebl.lmu.de/signs/|SAG×UM|
+@link	Wikidata Q87556335 http://www.wikidata.org/entity/Q87556335
 @end sign
 
 @sign |SAG×UR|
@@ -36459,8 +36433,8 @@
 @v	gud₂
 @v	guda₃
 @v	gudu₂
-@link eBL |SAG×UR| https://www.ebl.lmu.de/signs/|SAG×UR|
-@link Wikidata Q87556337 http://www.wikidata.org/entity/Q87556337
+@link	eBL |SAG×UR| https://www.ebl.lmu.de/signs/|SAG×UR|
+@link	Wikidata Q87556337 http://www.wikidata.org/entity/Q87556337
 @end sign
 
 @sign |SAG×UŠ|
@@ -36472,8 +36446,8 @@
 @ucun	𒊦
 @uage	5.0
 @v	dilib₅
-@link eBL |SAG×UŠ| https://www.ebl.lmu.de/signs/|SAG×UŠ|
-@link Wikidata Q87556339 http://www.wikidata.org/entity/Q87556339
+@link	eBL |SAG×UŠ| https://www.ebl.lmu.de/signs/|SAG×UŠ|
+@link	Wikidata Q87556339 http://www.wikidata.org/entity/Q87556339
 @end sign
 
 @sign |SAG×X|
@@ -36497,8 +36471,8 @@
 @uage	5.0
 @v	sagminₓ
 @v	saŋminₓ
-@link eBL |SAG&SAG| https://www.ebl.lmu.de/signs/|SAG&SAG|
-@link Wikidata Q87556342 http://www.wikidata.org/entity/Q87556342
+@link	eBL |SAG&SAG| https://www.ebl.lmu.de/signs/|SAG&SAG|
+@link	Wikidata Q87556342 http://www.wikidata.org/entity/Q87556342
 @end sign
 
 @sign SAG@g
@@ -36536,8 +36510,8 @@
 @v	%akk/n ṣalmu
 @v	ugu₅
 @sys	Attinger dil₂
-@link eBL SAG@g https://www.ebl.lmu.de/signs/SAG@g
-@link Wikidata Q87556344 http://www.wikidata.org/entity/Q87556344
+@link	eBL SAG@g https://www.ebl.lmu.de/signs/SAG@g
+@link	Wikidata Q87556344 http://www.wikidata.org/entity/Q87556344
 @form SAG
 @oid	o0000518
 @list	BAU228
@@ -36557,7 +36531,7 @@
 @sys	Attinger dil₂⁻
 @sys	Attinger sumur⁻
 @sys	Attinger sur₂⁻
-@link eBL SAG https://www.ebl.lmu.de/signs/SAG
+@link	eBL SAG https://www.ebl.lmu.de/signs/SAG
 @@
 @end sign
 
@@ -36568,8 +36542,8 @@
 @list	U+1252D
 @ucun	𒔭
 @uage	8.0
-@link eBL |SAG@g×HA| https://www.ebl.lmu.de/signs/|SAG@g×HA|
-@link Wikidata Q87557434 http://www.wikidata.org/entity/Q87557434
+@link	eBL |SAG@g×HA| https://www.ebl.lmu.de/signs/|SAG@g×HA|
+@link	Wikidata Q87557434 http://www.wikidata.org/entity/Q87557434
 @end sign
 
 @sign |SAG@g×MIN|
@@ -36590,8 +36564,8 @@
 @v	kiše₄
 @v	kiši₄
 @sys	Attinger kiše₄ => kiši₄
-@link eBL SAG@n https://www.ebl.lmu.de/signs/SAG@n
-@link Wikidata Q87556306 http://www.wikidata.org/entity/Q87556306
+@link	eBL SAG@n https://www.ebl.lmu.de/signs/SAG@n
+@link	Wikidata Q87556306 http://www.wikidata.org/entity/Q87556306
 @end sign
 
 @sign SAG@n@g
@@ -36600,7 +36574,7 @@
 @list	REC193
 @v	uguₓ
 @inote	UET II = CDLI archsigns SAG@g; this gunu is inside head and resembles SAG×KAR₂
-@link eBL SAG@n@g https://www.ebl.lmu.de/signs/SAG@n@g
+@link	eBL SAG@n@g https://www.ebl.lmu.de/signs/SAG@n@g
 @end sign
 
 @sign SAL
@@ -36621,7 +36595,6 @@
 @list	U+122A9
 @ucun	𒊩
 @uage	5.0
-@v	f
 @v	gal₄
 @v	galaₓ
 @v	galla₄
@@ -36655,9 +36628,10 @@
 @v	šal
 @v	šel₄
 @v	ṣalₓ
+@v	f
 @sys	Attinger galla₄ => gal₄
-@link eBL SAL https://www.ebl.lmu.de/signs/SAL
-@link Wikidata Q87556346 http://www.wikidata.org/entity/Q87556346
+@link	eBL SAL https://www.ebl.lmu.de/signs/SAL
+@link	Wikidata Q87556346 http://www.wikidata.org/entity/Q87556346
 @end sign
 
 @sign |SAL.AL|
@@ -36666,7 +36640,7 @@
 @ucun	𒊩𒀠
 @v	eme₇
 @v	sukkal₃
-@link eBL |SAL.AL| https://www.ebl.lmu.de/signs/|SAL.AL|
+@link	eBL |SAL.AL| https://www.ebl.lmu.de/signs/|SAL.AL|
 @end sign
 
 @sign |SAL.ANŠE|
@@ -36674,7 +36648,7 @@
 @useq	x122A9.x12032
 @ucun	𒊩𒀲
 @v	eme₃
-@link eBL |SAL.ANŠE| https://www.ebl.lmu.de/signs/|SAL.ANŠE|
+@link	eBL |SAL.ANŠE| https://www.ebl.lmu.de/signs/|SAL.ANŠE|
 @end sign
 
 @sign- |SAL.ARAD.DAM|
@@ -36702,7 +36676,7 @@
 @useq	x122A9.x1203E.x120FC
 @ucun	𒊩𒀾𒃼
 @v	{munus}aš₂-gar₃
-@link eBL |SAL.AŠ₂.GAR₃| https://www.ebl.lmu.de/signs/|SAL.AŠ₂.GAR₃|
+@link	eBL |SAL.AŠ₂.GAR₃| https://www.ebl.lmu.de/signs/|SAL.AŠ₂.GAR₃|
 @end sign
 
 @sign |SAL.BAR|
@@ -36710,7 +36684,7 @@
 @useq	x122A9.x12047
 @ucun	𒊩𒁇
 @v	rak₀
-@link eBL |SAL.BAR| https://www.ebl.lmu.de/signs/|SAL.BAR|
+@link	eBL |SAL.BAR| https://www.ebl.lmu.de/signs/|SAL.BAR|
 @end sign
 
 @sign |SAL.EN|
@@ -36718,7 +36692,7 @@
 @useq	x122A9.x12097
 @ucun	𒊩𒂗
 @v	emeₓ
-@link eBL |SAL.EN| https://www.ebl.lmu.de/signs/|SAL.EN|
+@link	eBL |SAL.EN| https://www.ebl.lmu.de/signs/|SAL.EN|
 @end sign
 
 @sign |SAL.EŠ₂|
@@ -36732,7 +36706,7 @@
 @v	egi₂
 @v	egir₃
 @v	ninₓ
-@link eBL |SAL.EŠ₂| https://www.ebl.lmu.de/signs/|SAL.EŠ₂|
+@link	eBL |SAL.EŠ₂| https://www.ebl.lmu.de/signs/|SAL.EŠ₂|
 @end sign
 
 @sign |SAL.GA₂×PA|
@@ -36741,7 +36715,7 @@
 @ucun	𒊩𒃢
 @v	kir₁₁
 @v	mirₓ
-@link eBL |SAL.GA₂×PA| https://www.ebl.lmu.de/signs/|SAL.GA₂×PA|
+@link	eBL |SAL.GA₂×PA| https://www.ebl.lmu.de/signs/|SAL.GA₂×PA|
 @end sign
 
 @sign |SAL.HU.BA|
@@ -36763,7 +36737,7 @@
 @v	lagar₃
 @v	rigₓ
 @v	sukkal₂
-@link eBL |SAL.HUB₂| https://www.ebl.lmu.de/signs/|SAL.HUB₂|
+@link	eBL |SAL.HUB₂| https://www.ebl.lmu.de/signs/|SAL.HUB₂|
 @form |SAL.HUB₂.AL|
 @oid	o0031498
 @useq	x122A9.x12138.x12020
@@ -36783,7 +36757,7 @@
 @list	SLLHA391
 @useq	x12313.x122A9.x12138
 @ucun	𒌓𒊩𒄸
-@link eBL |UD.SAL.HUB₂| https://www.ebl.lmu.de/signs/|UD.SAL.HUB₂|
+@link	eBL |UD.SAL.HUB₂| https://www.ebl.lmu.de/signs/|UD.SAL.HUB₂|
 @@
 @end sign
 
@@ -36803,7 +36777,7 @@
 @ucun	𒊩𒆏
 @v	emerahₓ
 @v	nigₓ
-@link eBL |SAL.KAB| https://www.ebl.lmu.de/signs/|SAL.KAB|
+@link	eBL |SAL.KAB| https://www.ebl.lmu.de/signs/|SAL.KAB|
 @end sign
 
 @sign |SAL.KU|
@@ -36821,8 +36795,8 @@
 @v	e₁₃?
 @v	nen₉
 @v	nin₉
-@link eBL |SAL.KU| https://www.ebl.lmu.de/signs/|SAL.KU|
-@link Wikidata Q87556808 http://www.wikidata.org/entity/Q87556808
+@link	eBL |SAL.KU| https://www.ebl.lmu.de/signs/|SAL.KU|
+@link	Wikidata Q87556808 http://www.wikidata.org/entity/Q87556808
 @end sign
 
 @sign |SAL.KUR|
@@ -36847,7 +36821,7 @@
 @v	gi₁₂
 @v	gim₃
 @v	gin₅
-@link eBL |SAL.KUR| https://www.ebl.lmu.de/signs/|SAL.KUR|
+@link	eBL |SAL.KUR| https://www.ebl.lmu.de/signs/|SAL.KUR|
 @form |SAL×KUR|
 @oid	o0023005
 @list	ELLES276
@@ -36864,7 +36838,7 @@
 @v	kušₓ
 @v	kušuₓ
 @v	kuyaₓ
-@link eBL |SAL.KUŠU₂| https://www.ebl.lmu.de/signs/|SAL.KUŠU₂|
+@link	eBL |SAL.KUŠU₂| https://www.ebl.lmu.de/signs/|SAL.KUŠU₂|
 @end sign
 
 @sign |SAL.LA|
@@ -36875,7 +36849,7 @@
 @v	gala₂
 @v	galla₂
 @v	kala₂
-@link eBL |SAL.LA| https://www.ebl.lmu.de/signs/|SAL.LA|
+@link	eBL |SAL.LA| https://www.ebl.lmu.de/signs/|SAL.LA|
 @end sign
 
 @sign |SAL.LAGAB|
@@ -36884,7 +36858,7 @@
 @ucun	𒊩𒆸
 @v	emeziₓ
 @v	murubₓ
-@link eBL |SAL.LAGAB| https://www.ebl.lmu.de/signs/|SAL.LAGAB|
+@link	eBL |SAL.LAGAB| https://www.ebl.lmu.de/signs/|SAL.LAGAB|
 @end sign
 
 @sign- |SAL.LAGAB×AŠ₂|
@@ -36897,7 +36871,7 @@
 @list	U+122AA
 @ucun	𒊪
 @uage	5.0
-@link Wikidata Q87556347 http://www.wikidata.org/entity/Q87556347
+@link	Wikidata Q87556347 http://www.wikidata.org/entity/Q87556347
 @end sign
 
 @sign |SAL.LAGAB×(GUD&GUD)|
@@ -36922,7 +36896,7 @@
 @v	murub₂
 @v	umahₓ?
 @v	usuh?
-@link eBL |SAL.LAGAR| https://www.ebl.lmu.de/signs/|SAL.LAGAR|
+@link	eBL |SAL.LAGAR| https://www.ebl.lmu.de/signs/|SAL.LAGAR|
 @form |SAL×LAGAR|
 @oid	o0031556
 @@
@@ -36935,7 +36909,7 @@
 @v	mam₃
 @v	mim-ma
 @v	mim₄
-@link eBL |SAL.MA| https://www.ebl.lmu.de/signs/|SAL.MA|
+@link	eBL |SAL.MA| https://www.ebl.lmu.de/signs/|SAL.MA|
 @end sign
 
 @sign |SAL.ME|
@@ -36946,7 +36920,7 @@
 @ucun	𒊩𒈨
 @v	lagar₂
 @v	lukur
-@link eBL |SAL.ME| https://www.ebl.lmu.de/signs/|SAL.ME|
+@link	eBL |SAL.ME| https://www.ebl.lmu.de/signs/|SAL.ME|
 @form |ŠITA.GIŠ.ME|
 @oid	o0031739
 @aka	|ŠITA₂.ME|
@@ -36976,7 +36950,7 @@
 @useq	x122A9.x122E0
 @ucun	𒊩𒋠
 @v	nin₁₀
-@link eBL |SAL.SIK₂| https://www.ebl.lmu.de/signs/|SAL.SIK₂|
+@link	eBL |SAL.SIK₂| https://www.ebl.lmu.de/signs/|SAL.SIK₂|
 @end sign
 
 @sign |SAL.TAB.KUN|
@@ -36984,7 +36958,7 @@
 @useq	x122A9.x122F0.x121B2
 @ucun	𒊩𒋰𒆲
 @v	megidaₓ?
-@link eBL |SAL.TAB.KUN| https://www.ebl.lmu.de/signs/|SAL.TAB.KUN|
+@link	eBL |SAL.TAB.KUN| https://www.ebl.lmu.de/signs/|SAL.TAB.KUN|
 @end sign
 
 @sign |SAL.TAK₄|
@@ -36992,7 +36966,7 @@
 @useq	x122A9.x122FA
 @ucun	𒊩𒋺
 @v	kid₈
-@link eBL |SAL.TAK₄| https://www.ebl.lmu.de/signs/|SAL.TAK₄|
+@link	eBL |SAL.TAK₄| https://www.ebl.lmu.de/signs/|SAL.TAK₄|
 @end sign
 
 @sign |SAL.TUG₂|
@@ -37024,8 +36998,8 @@
 @v	nina₃
 @v	nunₓ
 @v	urušₓ
-@link eBL |SAL.TUG₂| https://www.ebl.lmu.de/signs/|SAL.TUG₂|
-@link Wikidata Q87556805 http://www.wikidata.org/entity/Q87556805
+@link	eBL |SAL.TUG₂| https://www.ebl.lmu.de/signs/|SAL.TUG₂|
+@link	Wikidata Q87556805 http://www.wikidata.org/entity/Q87556805
 @end sign
 
 @sign |SAL.TUG₂.BAHAR₂|
@@ -37040,7 +37014,7 @@
 @inote	epsd2
 @useq	x1238F.x12154.x1207E
 @ucun	𒎏𒅔𒁾
-@link eBL |SAL.TUG₂.IN.DUB| https://www.ebl.lmu.de/signs/|SAL.TUG₂.IN.DUB|
+@link	eBL |SAL.TUG₂.IN.DUB| https://www.ebl.lmu.de/signs/|SAL.TUG₂.IN.DUB|
 @end sign
 
 @sign |SAL.TUG₂.KU₃.GI|
@@ -37058,7 +37032,7 @@
 @ucun	𒎏𒉽𒂊𒅊𒉣𒈨𒂬
 @v	nenkumₓ
 @v	ninkumₓ
-@link eBL |SAL.TUG₂.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|SAL.TUG₂.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
+@link	eBL |SAL.TUG₂.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|SAL.TUG₂.PAP.E.IGI@g.NUN.ME.EZEN×KASKAL|
 @end sign
 
 @sign |SAL.TUG₂.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
@@ -37067,7 +37041,7 @@
 @ucun	𒎏𒉽𒅊𒉣𒈨𒂬
 @v	nenkum
 @v	ninkum
-@link eBL |SAL.TUG₂.PAP.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|SAL.TUG₂.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
+@link	eBL |SAL.TUG₂.PAP.IGI@g.NUN.ME.EZEN×KASKAL| https://www.ebl.lmu.de/signs/|SAL.TUG₂.PAP.IGI@g.NUN.ME.EZEN×KASKAL|
 @form |SAL.TUG₂.IGI@g.NUN.ME.EZEN×KASKAL|
 @oid	o0031472
 @useq	x1238F.x1214A.x12263.x12228.x120AC
@@ -37111,7 +37085,7 @@
 @useq	x122A9.x12313
 @ucun	𒊩𒌓
 @v	eribₓ
-@link eBL |SAL.UD| https://www.ebl.lmu.de/signs/|SAL.UD|
+@link	eBL |SAL.UD| https://www.ebl.lmu.de/signs/|SAL.UD|
 @end sign
 
 @sign |SAL.UD.EDIN|
@@ -37121,7 +37095,7 @@
 @v	muru₅
 @v	murub₅
 @v	murum₅
-@link eBL |SAL.UD.EDIN| https://www.ebl.lmu.de/signs/|SAL.UD.EDIN|
+@link	eBL |SAL.UD.EDIN| https://www.ebl.lmu.de/signs/|SAL.UD.EDIN|
 @end sign
 
 @sign |SAL.UR|
@@ -37136,7 +37110,7 @@
 @v	niŋ
 @v	nik
 @v	niq
-@link eBL |SAL.UR| https://www.ebl.lmu.de/signs/|SAL.UR|
+@link	eBL |SAL.UR| https://www.ebl.lmu.de/signs/|SAL.UR|
 @end sign
 
 @sign |SAL.UŠ|
@@ -37167,7 +37141,7 @@
 @sys	Attinger ŋešdana₄ => ŋidlam₄
 @sys	Attinger ŋeštan₄ => ŋidlam₄
 @sys	Attinger ŋeštana₄ => ŋidlam₄
-@link eBL |SAL.UŠ| https://www.ebl.lmu.de/signs/|SAL.UŠ|
+@link	eBL |SAL.UŠ| https://www.ebl.lmu.de/signs/|SAL.UŠ|
 @end sign
 
 @sign |SAL.UŠ.DAM|
@@ -37193,14 +37167,13 @@
 @sys	Attinger ŋešdana => ŋidlam
 @sys	Attinger ŋeštan => ŋidlam
 @sys	Attinger ŋeštana => ŋidlam
-@link eBL |SAL.UŠ.DAM| https://www.ebl.lmu.de/signs/|SAL.UŠ.DAM|
+@link	eBL |SAL.UŠ.DAM| https://www.ebl.lmu.de/signs/|SAL.UŠ.DAM|
 @form |SAL.UŠ.DI.DAM|
-@oid  o0038333
-@useq x122A9.x12351.x12072.x1206E
+@oid	o0038333
+@useq	x122A9.x12351.x12072.x1206E
+@ucun	𒊩𒍑𒁲𒁮
 @@
 @end sign
-
-@compoundonly |(TAG×NE)|
 
 @sign |SAL.UŠ.DI|
 @oid	o0002331
@@ -37212,7 +37185,7 @@
 @v	gamu
 @v	munussa
 @v	mussa
-@link eBL |SAL.UŠ.DI| https://www.ebl.lmu.de/signs/|SAL.UŠ.DI|
+@link	eBL |SAL.UŠ.DI| https://www.ebl.lmu.de/signs/|SAL.UŠ.DI|
 @form |SAL.DI.UŠ|
 @oid	o0152716
 @useq	x122A9.x12072.x12351
@@ -37283,8 +37256,8 @@
 @v	hirinₓ
 @v	saŋa₂
 @v	sanga₂
-@link eBL SANGA₂ https://www.ebl.lmu.de/signs/SANGA₂
-@link Wikidata Q87556349 http://www.wikidata.org/entity/Q87556349
+@link	eBL SANGA₂ https://www.ebl.lmu.de/signs/SANGA₂
+@link	Wikidata Q87556349 http://www.wikidata.org/entity/Q87556349
 @form |GA.BALAG|
 @oid	o0001164
 @useq	x120B5.x12046
@@ -37308,7 +37281,7 @@
 @v	saŋŋa₆
 @v	sanga₆
 @v	sangu₆
-@link eBL |GA.MA₂.IGI@g| https://www.ebl.lmu.de/signs/|GA.MA₂.IGI@g|
+@link	eBL |GA.MA₂.IGI@g| https://www.ebl.lmu.de/signs/|GA.MA₂.IGI@g|
 @@
 @form |GA.UZ₃|
 @oid	o0001180
@@ -37333,7 +37306,7 @@
 @v	saŋŋa₅
 @v	sanga₅
 @v	sangu₅
-@link eBL |GA.UZ₃.IGI@g| https://www.ebl.lmu.de/signs/|GA.UZ₃.IGI@g|
+@link	eBL |GA.UZ₃.IGI@g| https://www.ebl.lmu.de/signs/|GA.UZ₃.IGI@g|
 @@
 @form |IL₂.DUB₂|
 @oid	o0001525
@@ -37344,7 +37317,7 @@
 @v	saŋŋa₄
 @v	sanga₄
 @v	sangu₄
-@link eBL |IL₂.DUB₂| https://www.ebl.lmu.de/signs/|IL₂.DUB₂|
+@link	eBL |IL₂.DUB₂| https://www.ebl.lmu.de/signs/|IL₂.DUB₂|
 @@
 @form |IL₂.MA₂.DUB₂|
 @oid	o0001527
@@ -37353,7 +37326,7 @@
 @v	sagga₂
 @v	saŋŋa₂
 @v	sangu₂
-@link eBL |IL₂.MA₂.DUB₂| https://www.ebl.lmu.de/signs/|IL₂.MA₂.DUB₂|
+@link	eBL |IL₂.MA₂.DUB₂| https://www.ebl.lmu.de/signs/|IL₂.MA₂.DUB₂|
 @@
 @form |IL₂.MA₂.IGI@g|
 @oid	o0001528
@@ -37364,11 +37337,11 @@
 @v	saŋŋa₃
 @v	sanga₃
 @v	sangu₃
-@link eBL |IL₂.MA₂.IGI@g| https://www.ebl.lmu.de/signs/|IL₂.MA₂.IGI@g|
+@link	eBL |IL₂.MA₂.IGI@g| https://www.ebl.lmu.de/signs/|IL₂.MA₂.IGI@g|
 @@
 @form |LAGAB×SANGA₂|
-@aka |LAGAB×LAK175|
 @oid	o0001825
+@aka	|LAGAB×LAK175|
 @v	saŋaₓ
 @@
 @end sign
@@ -37425,8 +37398,8 @@
 @v	šara₇
 @v	šer₉
 @v	šir₉
-@link eBL SAR https://www.ebl.lmu.de/signs/SAR
-@link Wikidata Q87556352 http://www.wikidata.org/entity/Q87556352
+@link	eBL SAR https://www.ebl.lmu.de/signs/SAR
+@link	Wikidata Q87556352 http://www.wikidata.org/entity/Q87556352
 @form SAR@90
 @oid	o0223481
 @v	sar@90
@@ -37439,12 +37412,12 @@
 @useq	x122AC.x122AC
 @ucun	𒊬𒊬
 @v	sarsa
-@link eBL |SAR.SAR| https://www.ebl.lmu.de/signs/|SAR.SAR|
+@link	eBL |SAR.SAR| https://www.ebl.lmu.de/signs/|SAR.SAR|
 @end sign
 
 @sign |SAR×(GIŠ%GIŠ)|
-@oid  o0038285
-@inote epsd2/oakk legible on photo and clear on copied collation
+@oid	o0038285
+@inote	epsd2/oakk legible on photo and clear on copied collation
 @end sign
 
 @sign |SAR×ŠE|
@@ -37454,8 +37427,8 @@
 @list	U+12535
 @ucun	𒔵
 @uage	8.0
-@link eBL |SAR×ŠE| https://www.ebl.lmu.de/signs/|SAR×ŠE|
-@link Wikidata Q87557452 http://www.wikidata.org/entity/Q87557452
+@link	eBL |SAR×ŠE| https://www.ebl.lmu.de/signs/|SAR×ŠE|
+@link	Wikidata Q87557452 http://www.wikidata.org/entity/Q87557452
 @end sign
 
 @sign |SAR×U₂|
@@ -37509,8 +37482,8 @@
 @v	ši₂
 @v	ṣi₃
 @v	uₓ
-@link eBL SI https://www.ebl.lmu.de/signs/SI
-@link Wikidata Q87556437 http://www.wikidata.org/entity/Q87556437
+@link	eBL SI https://www.ebl.lmu.de/signs/SI
+@link	Wikidata Q87556437 http://www.wikidata.org/entity/Q87556437
 @end sign
 
 @sign |SI.A|
@@ -37540,7 +37513,7 @@
 @v	ṭir
 @v	uš₁₅
 @v	ušub
-@link eBL |SI.A| https://www.ebl.lmu.de/signs/|SI.A|
+@link	eBL |SI.A| https://www.ebl.lmu.de/signs/|SI.A|
 @form |A.SI|
 @oid	o0031706
 @list	ELLES051
@@ -37555,7 +37528,7 @@
 @useq	x122DB.x12000.x12054
 @ucun	𒋛𒀀𒁔
 @v	sabu
-@link eBL |SI.A.BUR₂| https://www.ebl.lmu.de/signs/|SI.A.BUR₂|
+@link	eBL |SI.A.BUR₂| https://www.ebl.lmu.de/signs/|SI.A.BUR₂|
 @end sign
 
 @sign |SI.A.GAR.X|
@@ -37570,21 +37543,21 @@
 @oid	o0002340
 @useq	x122DB.x1211E
 @ucun	𒋛𒄞
-@link eBL |SI.GUD| https://www.ebl.lmu.de/signs/|SI.GUD|
+@link	eBL |SI.GUD| https://www.ebl.lmu.de/signs/|SI.GUD|
 @end sign
 
 @sign |SI.GUD.AŠ|
 @oid	o0002339
 @useq	x122DB.x1211E.x12038
 @ucun	𒋛𒄞𒀸
-@link eBL |SI.GUD.AŠ| https://www.ebl.lmu.de/signs/|SI.GUD.AŠ|
+@link	eBL |SI.GUD.AŠ| https://www.ebl.lmu.de/signs/|SI.GUD.AŠ|
 @end sign
 
 @sign |SI.GUD×AŠ|
 @oid	o0002341
 @useq	x122DB.X
 @ucun	𒋛X
-@link eBL |SI.GUD×AŠ| https://www.ebl.lmu.de/signs/|SI.GUD×AŠ|
+@link	eBL |SI.GUD×AŠ| https://www.ebl.lmu.de/signs/|SI.GUD×AŠ|
 @end sign
 
 @sign |SI×TAK₄|
@@ -37596,8 +37569,8 @@
 @uage	8.0
 @v	giriₓ
 @lit	OBO 160/1, 275; Biggs 1971 ZA 61, 206
-@link eBL |SI×TAK₄| https://www.ebl.lmu.de/signs/|SI×TAK₄|
-@link Wikidata Q87557460 http://www.wikidata.org/entity/Q87557460
+@link	eBL |SI×TAK₄| https://www.ebl.lmu.de/signs/|SI×TAK₄|
+@link	Wikidata Q87557460 http://www.wikidata.org/entity/Q87557460
 @end sign
 
 @sign SI@g
@@ -37623,8 +37596,8 @@
 @v	%akk śu₂
 @v	šiₓ
 @v	usan₄
-@link eBL SI@g https://www.ebl.lmu.de/signs/SI@g
-@link Wikidata Q87556439 http://www.wikidata.org/entity/Q87556439
+@link	eBL SI@g https://www.ebl.lmu.de/signs/SI@g
+@link	Wikidata Q87556439 http://www.wikidata.org/entity/Q87556439
 @end sign
 
 @sign |SI@g.A|
@@ -37635,7 +37608,7 @@
 @inote	reinstated because this is still in dcclt/fm-EA3-composite.atf Ea 3,
 	200 su₉ " [su-u] ~ |[SI@g].A| = %sb sa-a-mu; it may well no longer
 	be correct but the dcclt ref needs fixing before this gets removed from OGSL.
-@link eBL |SI@g.A| https://www.ebl.lmu.de/signs/|SI@g.A|
+@link	eBL |SI@g.A| https://www.ebl.lmu.de/signs/|SI@g.A|
 @end sign
 
 @sign SIG
@@ -37686,8 +37659,8 @@
 @v	zig₂
 @v	zik₂
 @v	ziq₂
-@link eBL SIG https://www.ebl.lmu.de/signs/SIG
-@link Wikidata Q87556442 http://www.wikidata.org/entity/Q87556442
+@link	eBL SIG https://www.ebl.lmu.de/signs/SIG
+@link	Wikidata Q87556442 http://www.wikidata.org/entity/Q87556442
 @end sign
 
 @sign |SIG.MU.BU|
@@ -37696,7 +37669,7 @@
 @ucun	𒋝𒈬𒁍
 @v	mudraₓ
 @v	munzerₓ
-@link eBL |SIG.MU.BU| https://www.ebl.lmu.de/signs/|SIG.MU.BU|
+@link	eBL |SIG.MU.BU| https://www.ebl.lmu.de/signs/|SIG.MU.BU|
 @end sign
 
 @sign SIG₄
@@ -37732,8 +37705,8 @@
 @v	šeb₄
 @v	šed₁₆
 @v	šeg₁₂
-@link eBL SIG₄ https://www.ebl.lmu.de/signs/SIG₄
-@link Wikidata Q87556443 http://www.wikidata.org/entity/Q87556443
+@link	eBL SIG₄ https://www.ebl.lmu.de/signs/SIG₄
+@link	Wikidata Q87556443 http://www.wikidata.org/entity/Q87556443
 @form LUM
 @oid	o0000438
 @list	BAU123
@@ -37744,7 +37717,7 @@
 @list	RSP138
 @v	gar₈
 @inote	P273880 c ii 12 e₂-gar₈(LUM) ma₂
-@link eBL LUM https://www.ebl.lmu.de/signs/LUM
+@link	eBL LUM https://www.ebl.lmu.de/signs/LUM
 @@
 @end sign
 
@@ -37754,7 +37727,7 @@
 @useq	x122DE.x12032
 @ucun	𒋞𒀲
 @v	amaraₓ
-@link eBL |SIG₄.ANŠE| https://www.ebl.lmu.de/signs/|SIG₄.ANŠE|
+@link	eBL |SIG₄.ANŠE| https://www.ebl.lmu.de/signs/|SIG₄.ANŠE|
 @end sign
 
 @sign |SIG₄.IDIM|
@@ -37764,7 +37737,7 @@
 @v	banda₅
 @v	uru₉
 @v	urumₓ?
-@link eBL |SIG₄.IDIM| https://www.ebl.lmu.de/signs/|SIG₄.IDIM|
+@link	eBL |SIG₄.IDIM| https://www.ebl.lmu.de/signs/|SIG₄.IDIM|
 @end sign
 
 @sign |SIG₄.SIG₄.ŠU₂|
@@ -37772,7 +37745,7 @@
 @useq	x122DE.x122DE.x122D9
 @ucun	𒋞𒋞𒋙
 @v	lahhušuₓ
-@link eBL |SIG₄.SIG₄.ŠU₂| https://www.ebl.lmu.de/signs/|SIG₄.SIG₄.ŠU₂|
+@link	eBL |SIG₄.SIG₄.ŠU₂| https://www.ebl.lmu.de/signs/|SIG₄.SIG₄.ŠU₂|
 @end sign
 
 @compoundonly	|SIG₄&SIG₄|
@@ -37789,8 +37762,8 @@
 @v	hiₓ
 @v	lahhušu
 @v	šikahara
-@link eBL |SIG₄&SIG₄.ŠU₂| https://www.ebl.lmu.de/signs/|SIG₄&SIG₄.ŠU₂|
-@link Wikidata Q87556445 http://www.wikidata.org/entity/Q87556445
+@link	eBL |SIG₄&SIG₄.ŠU₂| https://www.ebl.lmu.de/signs/|SIG₄&SIG₄.ŠU₂|
+@link	Wikidata Q87556445 http://www.wikidata.org/entity/Q87556445
 @form |SIG₄%SIG₄.ŠU₂|
 @oid	o0023007
 @inote	dcclt !sg
@@ -37829,8 +37802,8 @@
 @v	šiq₂
 @v	uₓ
 @v	uaₓ
-@link eBL SIK₂ https://www.ebl.lmu.de/signs/SIK₂
-@link Wikidata Q87556447 http://www.wikidata.org/entity/Q87556447
+@link	eBL SIK₂ https://www.ebl.lmu.de/signs/SIK₂
+@link	Wikidata Q87556447 http://www.wikidata.org/entity/Q87556447
 @end sign
 
 @sign- |SIK₂.AŠ|
@@ -37865,7 +37838,7 @@
 @v	sulumhi₂
 @v	zuluhu₂
 @v	zulumhi₂
-@link eBL |SIK₂.BU| https://www.ebl.lmu.de/signs/|SIK₂.BU|
+@link	eBL |SIK₂.BU| https://www.ebl.lmu.de/signs/|SIK₂.BU|
 @end sign
 
 @sign |SIK₂.HI×NUN.AŠ.U|
@@ -37874,7 +37847,7 @@
 @useq	x122E0.x12134.x12038.x1230B
 @ucun	𒋠𒄴𒀸𒌋
 @v	guruₓ
-@link eBL |SIK₂.HI×NUN.AŠ.U| https://www.ebl.lmu.de/signs/|SIK₂.HI×NUN.AŠ.U|
+@link	eBL |SIK₂.HI×NUN.AŠ.U| https://www.ebl.lmu.de/signs/|SIK₂.HI×NUN.AŠ.U|
 @end sign
 
 @sign |SIK₂.HI×(NUN.ME)|
@@ -37902,7 +37875,7 @@
 @v	šikin₃
 @v	šušuₓ
 @v	udkinₓ?
-@link eBL |SIK₂.LAM| https://www.ebl.lmu.de/signs/|SIK₂.LAM|
+@link	eBL |SIK₂.LAM| https://www.ebl.lmu.de/signs/|SIK₂.LAM|
 @end sign
 
 @sign |SIK₂.LAM.SUHUR|
@@ -37915,7 +37888,7 @@
 @v	musub₂
 @v	muzer?
 @v	muzir?
-@link eBL |SIK₂.LAM.SUHUR| https://www.ebl.lmu.de/signs/|SIK₂.LAM.SUHUR|
+@link	eBL |SIK₂.LAM.SUHUR| https://www.ebl.lmu.de/signs/|SIK₂.LAM.SUHUR|
 @end sign
 
 @sign |SIK₂.MU.BU|
@@ -37925,7 +37898,7 @@
 @v	sagmunzer
 @v	sagmunzir
 @inote	this saŋ munzer business needs looking at; is this really sik2 munzer // saj munzer?
-@link eBL |SIK₂.MU.BU| https://www.ebl.lmu.de/signs/|SIK₂.MU.BU|
+@link	eBL |SIK₂.MU.BU| https://www.ebl.lmu.de/signs/|SIK₂.MU.BU|
 @end sign
 
 @sign |SIK₂.PA.IB|
@@ -37935,7 +37908,7 @@
 @v	hamanzerₓ
 @v	hamanzirₓ
 @v	humunzerₓ
-@link eBL |SIK₂.PA.IB| https://www.ebl.lmu.de/signs/|SIK₂.PA.IB|
+@link	eBL |SIK₂.PA.IB| https://www.ebl.lmu.de/signs/|SIK₂.PA.IB|
 @end sign
 
 @sign |SIK₂.SAG.PA.IB|
@@ -37943,7 +37916,7 @@
 @useq	x122E0.x12295.x1227A.x12141
 @ucun	𒋠𒊕𒉺𒅁
 @v	hamanzerₓ
-@link eBL |SIK₂.SAG.PA.IB| https://www.ebl.lmu.de/signs/|SIK₂.SAG.PA.IB|
+@link	eBL |SIK₂.SAG.PA.IB| https://www.ebl.lmu.de/signs/|SIK₂.SAG.PA.IB|
 @end sign
 
 @sign |SIK₂.SUD|
@@ -37954,7 +37927,7 @@
 @v	sulumhi
 @v	zuluhu
 @v	zulumhi
-@link eBL |SIK₂.SUD| https://www.ebl.lmu.de/signs/|SIK₂.SUD|
+@link	eBL |SIK₂.SUD| https://www.ebl.lmu.de/signs/|SIK₂.SUD|
 @form |SIK₂.BU|
 @oid	o0002349
 @useq	x122E0.x1204D
@@ -37962,7 +37935,7 @@
 @v	zulumhi⁻
 @inote	also transliterated as zulumhi₂
 @sys	Attinger zulumhi⁻
-@link eBL |SIK₂.BU| https://www.ebl.lmu.de/signs/|SIK₂.BU|
+@link	eBL |SIK₂.BU| https://www.ebl.lmu.de/signs/|SIK₂.BU|
 @@
 @end sign
 
@@ -37971,12 +37944,12 @@
 @useq	x122E0.x122E6
 @ucun	𒋠𒋦
 @v	munsubₓ
-@link eBL |SIK₂.SUHUR| https://www.ebl.lmu.de/signs/|SIK₂.SUHUR|
+@link	eBL |SIK₂.SUHUR| https://www.ebl.lmu.de/signs/|SIK₂.SUHUR|
 @end sign
 
 @sign |SIK₂×NUN|
 @oid	o0002360
-@link eBL |SIK₂×NUN| https://www.ebl.lmu.de/signs/|SIK₂×NUN|
+@link	eBL |SIK₂×NUN| https://www.ebl.lmu.de/signs/|SIK₂×NUN|
 @end sign
 
 @sign SILA₃
@@ -38004,8 +37977,8 @@
 @v	sil₃
 @v	sila₃
 @v	šal₂
-@link eBL SILA₃ https://www.ebl.lmu.de/signs/SILA₃
-@link Wikidata Q87556449 http://www.wikidata.org/entity/Q87556449
+@link	eBL SILA₃ https://www.ebl.lmu.de/signs/SILA₃
+@link	Wikidata Q87556449 http://www.wikidata.org/entity/Q87556449
 @end sign
 
 @sign |SILA₃.ŠU.GABA|
@@ -38015,7 +37988,7 @@
 @v	sagi
 @v	sagiaₓ
 @v	šagia
-@link eBL |SILA₃.ŠU.GABA| https://www.ebl.lmu.de/signs/|SILA₃.ŠU.GABA|
+@link	eBL |SILA₃.ŠU.GABA| https://www.ebl.lmu.de/signs/|SILA₃.ŠU.GABA|
 @form |GABA.ŠU.SILA₃|
 @oid	o0018526
 @useq	x120EE.x122D7.x122E1
@@ -38044,7 +38017,7 @@
 @form |SILA₃.ŠU.GABA|
 @oid	o0002364
 @v	šagia
-@link eBL |SILA₃.ŠU.GABA| https://www.ebl.lmu.de/signs/|SILA₃.ŠU.GABA|
+@link	eBL |SILA₃.ŠU.GABA| https://www.ebl.lmu.de/signs/|SILA₃.ŠU.GABA|
 @@
 @form |SILA₃.ŠU.GABA.A|
 @oid	o0002363
@@ -38086,6 +38059,10 @@
 @inote	UET II, provisional
 @end sign
 
+@sign |SILA₃×5(DIŠ)|
+@oid	o0038300
+@end sign
+
 @sign SU
 @oid	o0000531
 @list	BAU226
@@ -38111,8 +38088,8 @@
 @v	sum₃
 @v	%akk śu
 @v	šu₁₁
-@link eBL SU https://www.ebl.lmu.de/signs/SU
-@link Wikidata Q87556450 http://www.wikidata.org/entity/Q87556450
+@link	eBL SU https://www.ebl.lmu.de/signs/SU
+@link	Wikidata Q87556450 http://www.wikidata.org/entity/Q87556450
 @end sign
 
 @sign |SU.A|
@@ -38120,11 +38097,13 @@
 @useq	x122E2.x12000
 @ucun	𒋢𒀀
 @v	aktum₂
-@link eBL |SU.A| https://www.ebl.lmu.de/signs/|SU.A|
+@link	eBL |SU.A| https://www.ebl.lmu.de/signs/|SU.A|
 @form |A.ZU|
-@oid o0038236
-@useq x12000.x1236A
-@v aktumₓ
+@oid	o0038236
+@useq	x12000.x1236A
+@ucun	𒀀𒍪
+@v	aktumₓ
+@@
 @end sign
 
 @sign |SU.EDIN|
@@ -38133,7 +38112,7 @@
 @ucun	𒋢𒂔
 @v	suburₓ
 @sys	Attinger suburₓ
-@link eBL |SU.EDIN| https://www.ebl.lmu.de/signs/|SU.EDIN|
+@link	eBL |SU.EDIN| https://www.ebl.lmu.de/signs/|SU.EDIN|
 @end sign
 
 @sign |SU.GAN|
@@ -38150,7 +38129,7 @@
 @useq	x122E2.x121B3
 @ucun	𒋢𒆳
 @v	sudₓ
-@link eBL |SU.KUR| https://www.ebl.lmu.de/signs/|SU.KUR|
+@link	eBL |SU.KUR| https://www.ebl.lmu.de/signs/|SU.KUR|
 @end sign
 
 @sign |SU.KUR.RU|
@@ -38165,30 +38144,13 @@
 @v	šurupak
 @v	šuruppag
 @v	šuruppak
-@link eBL |SU.KUR.RU| https://www.ebl.lmu.de/signs/|SU.KUR.RU|
+@link	eBL |SU.KUR.RU| https://www.ebl.lmu.de/signs/|SU.KUR.RU|
 @form |SU.LAM.KUR.RU|
 @oid	o0021753
 @useq	x122E2.x121F4.x121B3.x12292
 @ucun	𒋢𒇴𒆳𒊒
 @v	šuruppakₓ
 @@
-@end sign
-
-@sign |GU₂×(U.U.U)|
-@aka |GU₂×EŠ|
-@oid o0038209
-@inote epsd2/admin/ur3
-@end sign
-
-@sign |SU×KUR|
-@oid o0038211	
-@end sign
-
-@sign |SU×KUR.RU|
-@oid o0038207
-@useq X.x12292
-@v sudₓ
-@inote epsd2/admin/ur3
 @end sign
 
 @compoundonly	|(SU.LU.EŠ₂.GAR)&(SU.LU.EŠ₂.GAR)|
@@ -38211,7 +38173,19 @@
 @ucun	𒋢X
 @v	sudₓ
 @v	šuruppakₓ
-@link eBL |SU.RU×KUR| https://www.ebl.lmu.de/signs/|SU.RU×KUR|
+@link	eBL |SU.RU×KUR| https://www.ebl.lmu.de/signs/|SU.RU×KUR|
+@end sign
+
+@sign |SU×KUR|
+@oid	o0038211
+@end sign
+
+@sign |SU×KUR.RU|
+@oid	o0038207
+@useq	X.x12292
+@ucun	X𒊒
+@v	sudₓ
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign |SU×U@c|
@@ -38226,14 +38200,14 @@
 @ucun	𒋣
 @uage	5.0
 @v	e₆
-@link eBL |SU&SU| https://www.ebl.lmu.de/signs/|SU&SU|
-@link Wikidata Q87556452 http://www.wikidata.org/entity/Q87556452
+@link	eBL |SU&SU| https://www.ebl.lmu.de/signs/|SU&SU|
+@link	Wikidata Q87556452 http://www.wikidata.org/entity/Q87556452
 @form SU
 @oid	o0000531
 @list	GCSL137
 @list	PTACE120
 @inote	Bonecchi reading of VE-1019
-@link eBL SU https://www.ebl.lmu.de/signs/SU
+@link	eBL SU https://www.ebl.lmu.de/signs/SU
 @@
 @end sign
 
@@ -38243,7 +38217,7 @@
 @useq	x122E3.x12000
 @ucun	𒋣𒀀
 @v	e₆-a
-@link eBL |SU&SU.A| https://www.ebl.lmu.de/signs/|SU&SU.A|
+@link	eBL |SU&SU.A| https://www.ebl.lmu.de/signs/|SU&SU.A|
 @end sign
 
 @sign |SU&SU.SAR|
@@ -38288,8 +38262,8 @@
 @v	šuz
 @v	zir₄
 @v	zu₆
-@link eBL SUD https://www.ebl.lmu.de/signs/SUD
-@link Wikidata Q87556455 http://www.wikidata.org/entity/Q87556455
+@link	eBL SUD https://www.ebl.lmu.de/signs/SUD
+@link	Wikidata Q87556455 http://www.wikidata.org/entity/Q87556455
 @form BU
 @oid	o0000124
 @list	BAU148
@@ -38302,7 +38276,7 @@
 @v	sud⁻
 @sys	Attinger su₃⁻
 @sys	Attinger sud⁻
-@link eBL BU https://www.ebl.lmu.de/signs/BU
+@link	eBL BU https://www.ebl.lmu.de/signs/BU
 @@
 @form BU@g
 @oid	o0000126
@@ -38310,7 +38284,7 @@
 @list	LAK233
 @list	PTACE124
 @inote	in |PA.EL.BU@g|
-@link eBL BU@g https://www.ebl.lmu.de/signs/BU@g
+@link	eBL BU@g https://www.ebl.lmu.de/signs/BU@g
 @@
 @form LAK233@g
 @oid	o0025773
@@ -38323,7 +38297,7 @@
 @useq	x122E4.x1227A.x12096
 @ucun	𒋤𒉺𒂖
 @v	sugₓ
-@link eBL |SUD.PA.EL| https://www.ebl.lmu.de/signs/|SUD.PA.EL|
+@link	eBL |SUD.PA.EL| https://www.ebl.lmu.de/signs/|SUD.PA.EL|
 @end sign
 
 @compoundonly	|SUD&SUD|
@@ -38332,7 +38306,7 @@
 @sign SUD@90
 @oid	o0000533
 @inote	CDLI ed3b
-@link eBL SUD@90 https://www.ebl.lmu.de/signs/SUD@90
+@link	eBL SUD@90 https://www.ebl.lmu.de/signs/SUD@90
 @end sign
 
 @sign SUD@g
@@ -38378,8 +38352,8 @@
 @v	zusu
 @sys	Attinger šitan => šita₃
 @sys	Attinger šitenₓ => šita₃
-@link eBL SUD₂ https://www.ebl.lmu.de/signs/SUD₂
-@link Wikidata Q87556457 http://www.wikidata.org/entity/Q87556457
+@link	eBL SUD₂ https://www.ebl.lmu.de/signs/SUD₂
+@link	Wikidata Q87556457 http://www.wikidata.org/entity/Q87556457
 @end sign
 
 @sign SUHUR
@@ -38405,8 +38379,8 @@
 @v	ubi₂
 @v	ugab
 @v	zidₓ
-@link eBL SUHUR https://www.ebl.lmu.de/signs/SUHUR
-@link Wikidata Q87556460 http://www.wikidata.org/entity/Q87556460
+@link	eBL SUHUR https://www.ebl.lmu.de/signs/SUHUR
+@link	Wikidata Q87556460 http://www.wikidata.org/entity/Q87556460
 @end sign
 
 @sign SUM
@@ -38446,8 +38420,8 @@
 @v	šun₄
 @v	zar₃
 @inote	MC: /zeŋ//
-@link eBL SUM https://www.ebl.lmu.de/signs/SUM
-@link Wikidata Q87556461 http://www.wikidata.org/entity/Q87556461
+@link	eBL SUM https://www.ebl.lmu.de/signs/SUM
+@link	Wikidata Q87556461 http://www.wikidata.org/entity/Q87556461
 @form |SUM×DIŠ|
 @oid	o0018582
 @list	LAK198
@@ -38472,8 +38446,8 @@
 @v	sumaš
 @v	ušbar₄?
 @v	ušbur₄
-@link eBL SUMAŠ https://www.ebl.lmu.de/signs/SUMAŠ
-@link Wikidata Q87556465 http://www.wikidata.org/entity/Q87556465
+@link	eBL SUMAŠ https://www.ebl.lmu.de/signs/SUMAŠ
+@link	Wikidata Q87556465 http://www.wikidata.org/entity/Q87556465
 @end sign
 
 @sign |SUMAŠ.MAŠ|
@@ -38481,7 +38455,7 @@
 @useq	x122E8.x12226
 @ucun	𒋨𒈦
 @v	ušbarₓ
-@link eBL |SUMAŠ.MAŠ| https://www.ebl.lmu.de/signs/|SUMAŠ.MAŠ|
+@link	eBL |SUMAŠ.MAŠ| https://www.ebl.lmu.de/signs/|SUMAŠ.MAŠ|
 @end sign
 
 @sign |SUMAŠ.ME|
@@ -38491,13 +38465,13 @@
 @v	gudu₁₁
 @v	gudug₂
 @v	luhšaₓ
-@link eBL |SUMAŠ.ME| https://www.ebl.lmu.de/signs/|SUMAŠ.ME|
+@link	eBL |SUMAŠ.ME| https://www.ebl.lmu.de/signs/|SUMAŠ.ME|
 @end sign
 
 @sign SUMAŠ@g
 @oid	o0000538
 @inote	CDLI oakk
-@link eBL SUMAŠ@g https://www.ebl.lmu.de/signs/SUMAŠ@g
+@link	eBL SUMAŠ@g https://www.ebl.lmu.de/signs/SUMAŠ@g
 @end sign
 
 @sign SUR
@@ -38524,8 +38498,8 @@
 @v	šarₓ
 @v	šur
 @v	ṭir₃
-@link eBL SUR https://www.ebl.lmu.de/signs/SUR
-@link Wikidata Q87556466 http://www.wikidata.org/entity/Q87556466
+@link	eBL SUR https://www.ebl.lmu.de/signs/SUR
+@link	Wikidata Q87556466 http://www.wikidata.org/entity/Q87556466
 @end sign
 
 @compoundonly	|SUR&SUR|
@@ -38543,8 +38517,8 @@
 @v	sura₉
 @v	surru
 @v	zur₂
-@link eBL SUR₉ https://www.ebl.lmu.de/signs/SUR₉
-@link Wikidata Q87556468 http://www.wikidata.org/entity/Q87556468
+@link	eBL SUR₉ https://www.ebl.lmu.de/signs/SUR₉
+@link	Wikidata Q87556468 http://www.wikidata.org/entity/Q87556468
 @form |UZ₃.IGI@g|
 @oid	o0018523
 @useq	x1235A.x1214A
@@ -38582,8 +38556,8 @@
 @v	sa₂₀
 @v	ša
 @v	zur₈
-@link eBL ŠA https://www.ebl.lmu.de/signs/ŠA
-@link Wikidata Q87556353 http://www.wikidata.org/entity/Q87556353
+@link	eBL ŠA https://www.ebl.lmu.de/signs/ŠA
+@link	Wikidata Q87556353 http://www.wikidata.org/entity/Q87556353
 @end sign
 
 @sign |ŠA.PI|
@@ -38626,8 +38600,8 @@
 @v	šab₂
 @v	šag₄
 @v	šalambi
-@link eBL ŠA₃ https://www.ebl.lmu.de/signs/ŠA₃
-@link Wikidata Q87556356 http://www.wikidata.org/entity/Q87556356
+@link	eBL ŠA₃ https://www.ebl.lmu.de/signs/ŠA₃
+@link	Wikidata Q87556356 http://www.wikidata.org/entity/Q87556356
 @end sign
 
 @sign |ŠA₃.A|
@@ -38635,7 +38609,7 @@
 @useq	x122AE.x12000
 @ucun	𒊮𒀀
 @v	kadraₓ
-@link eBL |ŠA₃.A| https://www.ebl.lmu.de/signs/|ŠA₃.A|
+@link	eBL |ŠA₃.A| https://www.ebl.lmu.de/signs/|ŠA₃.A|
 @end sign
 
 @sign |ŠA₃.DIŠ|
@@ -38644,7 +38618,7 @@
 @ucun	𒊮𒁹
 @v	lidₓ
 @v	lidda₂
-@link eBL |ŠA₃.DIŠ| https://www.ebl.lmu.de/signs/|ŠA₃.DIŠ|
+@link	eBL |ŠA₃.DIŠ| https://www.ebl.lmu.de/signs/|ŠA₃.DIŠ|
 @end sign
 
 @sign |ŠA₃.GI|
@@ -38655,7 +38629,7 @@
 @v	buglu
 @v	hanzalub
 @v	puglu
-@link eBL |ŠA₃.GI| https://www.ebl.lmu.de/signs/|ŠA₃.GI|
+@link	eBL |ŠA₃.GI| https://www.ebl.lmu.de/signs/|ŠA₃.GI|
 @form |GI.ŠA₃.GI|
 @oid	o0001343
 @useq	x12100.x122AE.x12100
@@ -38670,7 +38644,7 @@
 @useq	x122AE.x12111.x122AC
 @ucun	𒊮𒄑𒊬
 @v	šalambiₓ
-@link eBL |ŠA₃.GIŠ.SAR| https://www.ebl.lmu.de/signs/|ŠA₃.GIŠ.SAR|
+@link	eBL |ŠA₃.GIŠ.SAR| https://www.ebl.lmu.de/signs/|ŠA₃.GIŠ.SAR|
 @end sign
 
 @sign |ŠA₃.LAGAB|
@@ -38678,7 +38652,7 @@
 @useq	x122AE.x121B8
 @ucun	𒊮𒆸
 @v	išhara₂
-@link eBL |ŠA₃.LAGAB| https://www.ebl.lmu.de/signs/|ŠA₃.LAGAB|
+@link	eBL |ŠA₃.LAGAB| https://www.ebl.lmu.de/signs/|ŠA₃.LAGAB|
 @end sign
 
 @sign |ŠA₃.MIN.DI|
@@ -38688,7 +38662,7 @@
 @v-	tibula₃
 @inote	reading /tibula/ is obsolete; see Civil NABU 1987/48
 @v	tigidla₃
-@link eBL |ŠA₃.MIN.DI| https://www.ebl.lmu.de/signs/|ŠA₃.MIN.DI|
+@link	eBL |ŠA₃.MIN.DI| https://www.ebl.lmu.de/signs/|ŠA₃.MIN.DI|
 @end sign
 
 @sign |ŠA₃.MIN.KASKAL|
@@ -38698,7 +38672,7 @@
 @v-	tibula₂
 @inote	reading /tibula/ is obsolete; see Civil NABU 1987/48
 @v	tigidla₂
-@link eBL |ŠA₃.MIN.KASKAL| https://www.ebl.lmu.de/signs/|ŠA₃.MIN.KASKAL|
+@link	eBL |ŠA₃.MIN.KASKAL| https://www.ebl.lmu.de/signs/|ŠA₃.MIN.KASKAL|
 @end sign
 
 @sign |ŠA₃.MIN.TAR|
@@ -38708,7 +38682,7 @@
 @v-	tibula
 @inote	reading /tibula/ is obsolete; see Civil NABU 1987/48
 @v	tigidlaₓ
-@link eBL |ŠA₃.MIN.TAR| https://www.ebl.lmu.de/signs/|ŠA₃.MIN.TAR|
+@link	eBL |ŠA₃.MIN.TAR| https://www.ebl.lmu.de/signs/|ŠA₃.MIN.TAR|
 @end sign
 
 @sign |ŠA₃.SAR|
@@ -38716,7 +38690,7 @@
 @useq	x122AE.x122AC
 @ucun	𒊮𒊬
 @v	lambi
-@link eBL |ŠA₃.SAR| https://www.ebl.lmu.de/signs/|ŠA₃.SAR|
+@link	eBL |ŠA₃.SAR| https://www.ebl.lmu.de/signs/|ŠA₃.SAR|
 @end sign
 
 @sign |ŠA₃.TAR|
@@ -38724,7 +38698,7 @@
 @useq	x122AE.x122FB
 @ucun	𒊮𒋻
 @v	tigidla
-@link eBL |ŠA₃.TAR| https://www.ebl.lmu.de/signs/|ŠA₃.TAR|
+@link	eBL |ŠA₃.TAR| https://www.ebl.lmu.de/signs/|ŠA₃.TAR|
 @end sign
 
 @sign |ŠA₃.U.U|
@@ -38763,11 +38737,11 @@
 @v	piš₄
 @v	sur₄
 @sys	Attinger isla => išla
-@link eBL |ŠA₃×A| https://www.ebl.lmu.de/signs/|ŠA₃×A|
-@link Wikidata Q87556358 http://www.wikidata.org/entity/Q87556358
+@link	eBL |ŠA₃×A| https://www.ebl.lmu.de/signs/|ŠA₃×A|
+@link	Wikidata Q87556358 http://www.wikidata.org/entity/Q87556358
 @form |ŠA₃.A|
 @oid	o0002683
-@link eBL |ŠA₃.A| https://www.ebl.lmu.de/signs/|ŠA₃.A|
+@link	eBL |ŠA₃.A| https://www.ebl.lmu.de/signs/|ŠA₃.A|
 @@
 @form |ŠA₃×(U.A)|
 @oid	o0002694
@@ -38775,8 +38749,8 @@
 @list	U+122B6
 @ucun	𒊶
 @uage	5.0
-@link eBL |ŠA₃×(U.A)| https://www.ebl.lmu.de/signs/|ŠA₃×(U.A)|
-@link Wikidata Q87556370 http://www.wikidata.org/entity/Q87556370
+@link	eBL |ŠA₃×(U.A)| https://www.ebl.lmu.de/signs/|ŠA₃×(U.A)|
+@link	Wikidata Q87556370 http://www.wikidata.org/entity/Q87556370
 @@
 @end sign
 
@@ -38792,8 +38766,8 @@
 @v	habrud₃
 @v	habruda₃
 @v	nanam₂
-@link eBL |ŠA₃×BAD| https://www.ebl.lmu.de/signs/|ŠA₃×BAD|
-@link Wikidata Q87556360 http://www.wikidata.org/entity/Q87556360
+@link	eBL |ŠA₃×BAD| https://www.ebl.lmu.de/signs/|ŠA₃×BAD|
+@link	Wikidata Q87556360 http://www.wikidata.org/entity/Q87556360
 @end sign
 
 @sign |ŠA₃×GIŠ|
@@ -38804,8 +38778,8 @@
 @list	U+122B1
 @ucun	𒊱
 @uage	5.0
-@link eBL |ŠA₃×GIŠ| https://www.ebl.lmu.de/signs/|ŠA₃×GIŠ|
-@link Wikidata Q87556361 http://www.wikidata.org/entity/Q87556361
+@link	eBL |ŠA₃×GIŠ| https://www.ebl.lmu.de/signs/|ŠA₃×GIŠ|
+@link	Wikidata Q87556361 http://www.wikidata.org/entity/Q87556361
 @end sign
 
 @sign |ŠA₃×NE|
@@ -38820,8 +38794,8 @@
 @v	nanam
 @v	nenim
 @v	ninim
-@link eBL |ŠA₃×NE| https://www.ebl.lmu.de/signs/|ŠA₃×NE|
-@link Wikidata Q87556363 http://www.wikidata.org/entity/Q87556363
+@link	eBL |ŠA₃×NE| https://www.ebl.lmu.de/signs/|ŠA₃×NE|
+@link	Wikidata Q87556363 http://www.wikidata.org/entity/Q87556363
 @form |NE.NE|
 @oid	o0023069
 @inote	dcclt !sg
@@ -38834,7 +38808,7 @@
 @oid	o0002699
 @list	ELLES231
 @v	pešₓ
-@link eBL |ŠA₃×SAL| https://www.ebl.lmu.de/signs/|ŠA₃×SAL|
+@link	eBL |ŠA₃×SAL| https://www.ebl.lmu.de/signs/|ŠA₃×SAL|
 @end sign
 
 @sign |ŠA₃×ŠU₂|
@@ -38849,13 +38823,13 @@
 @v	ša₂₆
 @ref	VAT 9541 = dcclt/signlists:P345960 o ii 22'
 @inote	salgues
-@link eBL |ŠA₃×ŠU₂| https://www.ebl.lmu.de/signs/|ŠA₃×ŠU₂|
-@link Wikidata Q87556365 http://www.wikidata.org/entity/Q87556365
+@link	eBL |ŠA₃×ŠU₂| https://www.ebl.lmu.de/signs/|ŠA₃×ŠU₂|
+@link	Wikidata Q87556365 http://www.wikidata.org/entity/Q87556365
 @end sign
 
 @sign |ŠA₃×TAR|
 @oid	o0002700
-@link eBL |ŠA₃×TAR| https://www.ebl.lmu.de/signs/|ŠA₃×TAR|
+@link	eBL |ŠA₃×TAR| https://www.ebl.lmu.de/signs/|ŠA₃×TAR|
 @end sign
 
 @sign |ŠA₃×TUR|
@@ -38868,8 +38842,8 @@
 @ucun	𒊴
 @uage	5.0
 @v	peš₁₃
-@link eBL |ŠA₃×TUR| https://www.ebl.lmu.de/signs/|ŠA₃×TUR|
-@link Wikidata Q87556366 http://www.wikidata.org/entity/Q87556366
+@link	eBL |ŠA₃×TUR| https://www.ebl.lmu.de/signs/|ŠA₃×TUR|
+@link	Wikidata Q87556366 http://www.wikidata.org/entity/Q87556366
 @form |ŠA₃.TUR|
 @oid	o0023022
 @useq	x122AE.x12309
@@ -38890,8 +38864,8 @@
 @v	habburudaₓ
 @v	habrud₄
 @v	habruda₄
-@link eBL |ŠA₃×U| https://www.ebl.lmu.de/signs/|ŠA₃×U|
-@link Wikidata Q87556368 http://www.wikidata.org/entity/Q87556368
+@link	eBL |ŠA₃×U| https://www.ebl.lmu.de/signs/|ŠA₃×U|
+@link	Wikidata Q87556368 http://www.wikidata.org/entity/Q87556368
 @end sign
 
 @sign |ŠA₃×(U.A)|
@@ -38905,8 +38879,8 @@
 @uage	5.0
 @v	ber₆
 @v	bir₆
-@link eBL |ŠA₃×(U.A)| https://www.ebl.lmu.de/signs/|ŠA₃×(U.A)|
-@link Wikidata Q87556370 http://www.wikidata.org/entity/Q87556370
+@link	eBL |ŠA₃×(U.A)| https://www.ebl.lmu.de/signs/|ŠA₃×(U.A)|
+@link	Wikidata Q87556370 http://www.wikidata.org/entity/Q87556370
 @end sign
 
 @sign |ŠA₃×X|
@@ -38953,8 +38927,8 @@
 @v	ša₆
 @v	šag₅
 @sys	Attinger ŋešninbar => ŋešnimbar
-@link eBL ŠA₆ https://www.ebl.lmu.de/signs/ŠA₆
-@link Wikidata Q87556372 http://www.wikidata.org/entity/Q87556372
+@link	eBL ŠA₆ https://www.ebl.lmu.de/signs/ŠA₆
+@link	Wikidata Q87556372 http://www.wikidata.org/entity/Q87556372
 @form |SIK₂.E|
 @oid	o0028111
 @useq	x122E0.x1208A
@@ -38967,7 +38941,7 @@
 @useq	x122B7.x12309
 @ucun	𒊷𒌉
 @v	suhuš₂
-@link eBL |ŠA₆.TUR| https://www.ebl.lmu.de/signs/|ŠA₆.TUR|
+@link	eBL |ŠA₆.TUR| https://www.ebl.lmu.de/signs/|ŠA₆.TUR|
 @form |TUR.ŠA₆|
 @oid	o0002440
 @useq	x12309.x122B7
@@ -38982,8 +38956,8 @@
 @list	U+12531
 @ucun	𒔱
 @uage	8.0
-@link eBL ŠA₆@t https://www.ebl.lmu.de/signs/ŠA₆@t
-@link Wikidata Q87557443 http://www.wikidata.org/entity/Q87557443
+@link	eBL ŠA₆@t https://www.ebl.lmu.de/signs/ŠA₆@t
+@link	Wikidata Q87557443 http://www.wikidata.org/entity/Q87557443
 @end sign
 
 @sign ŠAB₆
@@ -38994,8 +38968,8 @@
 @uage	5.0
 @v	šab₆
 @v	šap₆
-@link eBL ŠAB₆ https://www.ebl.lmu.de/signs/ŠAB₆
-@link Wikidata Q87556375 http://www.wikidata.org/entity/Q87556375
+@link	eBL ŠAB₆ https://www.ebl.lmu.de/signs/ŠAB₆
+@link	Wikidata Q87556375 http://www.wikidata.org/entity/Q87556375
 @end sign
 
 @sign ŠANABI
@@ -39007,29 +38981,29 @@
 @list	U+1245B
 @ucun	𒑛
 @uage	5.0
-@v	2/3(aš)
-@v	2/3(diš)
 @v	šanaba
 @v	šanabi
 @v	šanapi
 @v	šudaminₓ?
-@link eBL ŠANABI https://www.ebl.lmu.de/signs/ŠANABI
-@link Wikidata Q87557042 http://www.wikidata.org/entity/Q87557042
-@form ŠANABI@v
-@oid	o0038144
-@v	2/3(diš@v)
-@inote P010528 = OIP 014, 049 o i 3: this variant has a cuneiform frame
-       with a curved central stroke--presumably a hybrid 2/3(diš)
-@@
-@form ŠANABI@t
-@oid	o0038243
-@v 2/3(diš@t)
-@inote minor graphic variant in Lagash II
-@@
+@v	2/3(aš)
+@v	2/3(diš)
+@link	eBL ŠANABI https://www.ebl.lmu.de/signs/ŠANABI
+@link	Wikidata Q87557042 http://www.wikidata.org/entity/Q87557042
 @form ŠANABI@c
 @oid	o0027578
 @v	2/3(aš@c@90)
-@inote ŠU₂.2(N08) = ŠU₂.2(AŠ@c@90) = ŠU₂.2(DIŠ@c)
+@inote	ŠU₂.2(N08) = ŠU₂.2(AŠ@c@90) = ŠU₂.2(DIŠ@c)
+@@
+@form ŠANABI@t
+@oid	o0038243
+@v	2/3(diš@t)
+@inote	minor graphic variant in Lagash II
+@@
+@form ŠANABI@v
+@oid	o0038144
+@v	2/3(diš@v)
+@inote	P010528 = OIP 014, 049 o i 3: this variant has a cuneiform frame
+	with a curved central stroke--presumably a hybrid 2/3(diš)
 @@
 @end sign
 
@@ -39049,12 +39023,12 @@
 @v	sara₂
 @v	sare₂
 @v	šar₂
-@v	1(šar₂)
 @v	šara₆
 @v	šargal
+@v	1(šar₂)
 @v	1(šargal)
-@link eBL ŠAR₂ https://www.ebl.lmu.de/signs/ŠAR₂
-@link Wikidata Q87556376 http://www.wikidata.org/entity/Q87556376
+@link	eBL ŠAR₂ https://www.ebl.lmu.de/signs/ŠAR₂
+@link	Wikidata Q87556376 http://www.wikidata.org/entity/Q87556376
 @form ŠAR₂@c
 @oid	o0223485
 @list	RSP030
@@ -39094,8 +39068,8 @@
 @ucun	𒐲
 @uage	5.0
 @v	šargaldiš
-@link eBL |ŠAR₂×(GAL.DIŠ)| https://www.ebl.lmu.de/signs/|ŠAR₂×(GAL.DIŠ)|
-@link Wikidata Q87556941 http://www.wikidata.org/entity/Q87556941
+@link	eBL |ŠAR₂×(GAL.DIŠ)| https://www.ebl.lmu.de/signs/|ŠAR₂×(GAL.DIŠ)|
+@link	Wikidata Q87556941 http://www.wikidata.org/entity/Q87556941
 @end sign
 
 @sign |ŠAR₂×(GAL.MIN)|
@@ -39108,12 +39082,8 @@
 @ucun	𒐳
 @uage	5.0
 @v	šargalmin
-@link eBL |ŠAR₂×(GAL.MIN)| https://www.ebl.lmu.de/signs/|ŠAR₂×(GAL.MIN)|
-@link Wikidata Q87556943 http://www.wikidata.org/entity/Q87556943
-@end sign
-
-@sign |ŠAR₂×1(GEŠ₂)|
-@oid	o0028121
+@link	eBL |ŠAR₂×(GAL.MIN)| https://www.ebl.lmu.de/signs/|ŠAR₂×(GAL.MIN)|
+@link	Wikidata Q87556943 http://www.wikidata.org/entity/Q87556943
 @end sign
 
 @sign |ŠAR₂×HA|
@@ -39145,10 +39115,10 @@
 @inote	@v	šaru
 @inote	@v	šarʾu
 @inote	@v	1(šarʾu)
-@inote  Moved to |HI×U| because all other ellag₀ are HI× compounds
-@inote  @v	ellaŋₓ
-@link eBL |ŠAR₂×U| https://www.ebl.lmu.de/signs/|ŠAR₂×U|
-@link Wikidata Q87555609 http://www.wikidata.org/entity/Q87555609
+@inote	Moved to |HI×U| because all other ellag₀ are HI× compounds
+@inote	@v	ellaŋₓ
+@link	eBL |ŠAR₂×U| https://www.ebl.lmu.de/signs/|ŠAR₂×U|
+@link	Wikidata Q87555609 http://www.wikidata.org/entity/Q87555609
 @end sign
 
 @sign |ŠAR₂×(U.U)|
@@ -39171,6 +39141,10 @@
 @sign |ŠAR₂×U@g|
 @oid	o0027734
 @inote	etcsri
+@end sign
+
+@sign |ŠAR₂×1(GEŠ₂)|
+@oid	o0028121
 @end sign
 
 @sign |ŠAR₂×4(U)|
@@ -39214,8 +39188,8 @@
 @v	še
 @v	šiₓ
 @v	u₂₀
-@link eBL ŠE https://www.ebl.lmu.de/signs/ŠE
-@link Wikidata Q87556378 http://www.wikidata.org/entity/Q87556378
+@link	eBL ŠE https://www.ebl.lmu.de/signs/ŠE
+@link	Wikidata Q87556378 http://www.wikidata.org/entity/Q87556378
 @end sign
 
 @sign |ŠE.AB₂.GUD|
@@ -39292,7 +39266,7 @@
 @useq	x122BA.x12051
 @ucun	𒊺𒁑
 @v	munu₆
-@link eBL |ŠE.BULUG| https://www.ebl.lmu.de/signs/|ŠE.BULUG|
+@link	eBL |ŠE.BULUG| https://www.ebl.lmu.de/signs/|ŠE.BULUG|
 @end sign
 
 @sign |ŠE.DIM|
@@ -39343,8 +39317,8 @@
 @v	uz
 @v	uza
 @v	uzu₃
-@link eBL |ŠE.HU| https://www.ebl.lmu.de/signs/|ŠE.HU|
-@link Wikidata Q87556380 http://www.wikidata.org/entity/Q87556380
+@link	eBL |ŠE.HU| https://www.ebl.lmu.de/signs/|ŠE.HU|
+@link	Wikidata Q87556380 http://www.wikidata.org/entity/Q87556380
 @end sign
 
 @sign |ŠE.HU.TUR|
@@ -39355,7 +39329,7 @@
 @v	bibad
 @v	bibe
 @sys	Attinger bebad => bibad
-@link eBL |ŠE.HU.TUR| https://www.ebl.lmu.de/signs/|ŠE.HU.TUR|
+@link	eBL |ŠE.HU.TUR| https://www.ebl.lmu.de/signs/|ŠE.HU.TUR|
 @end sign
 
 @sign |ŠE.IGI.TUR|
@@ -39363,7 +39337,7 @@
 @useq	x122BA.x12146.x12309
 @ucun	𒊺𒅆𒌉
 @v	isinₓ
-@link eBL |ŠE.IGI.TUR| https://www.ebl.lmu.de/signs/|ŠE.IGI.TUR|
+@link	eBL |ŠE.IGI.TUR| https://www.ebl.lmu.de/signs/|ŠE.IGI.TUR|
 @end sign
 
 @sign |ŠE.KAK|
@@ -39371,7 +39345,7 @@
 @useq	x122BA.x12195
 @ucun	𒊺𒆕
 @v	henbur₂
-@link eBL |ŠE.KAK| https://www.ebl.lmu.de/signs/|ŠE.KAK|
+@link	eBL |ŠE.KAK| https://www.ebl.lmu.de/signs/|ŠE.KAK|
 @end sign
 
 @sign |ŠE.KAK.A|
@@ -39386,7 +39360,7 @@
 @useq	x122BA.x12197
 @ucun	𒊺𒆗
 @v	tirₓ
-@link eBL |ŠE.KAL| https://www.ebl.lmu.de/signs/|ŠE.KAL|
+@link	eBL |ŠE.KAL| https://www.ebl.lmu.de/signs/|ŠE.KAL|
 @end sign
 
 @sign |ŠE.KIN|
@@ -39397,7 +39371,7 @@
 @v	kinₓ
 @v	sagaₓ
 @v	sigₓ
-@link eBL |ŠE.KIN| https://www.ebl.lmu.de/signs/|ŠE.KIN|
+@link	eBL |ŠE.KIN| https://www.ebl.lmu.de/signs/|ŠE.KIN|
 @end sign
 
 @sign |ŠE.KIN.KIN|
@@ -39406,7 +39380,7 @@
 @ucun	𒊺𒆥𒆥
 @v	gurₓ
 @v	sagaₓ
-@link eBL |ŠE.KIN.KIN| https://www.ebl.lmu.de/signs/|ŠE.KIN.KIN|
+@link	eBL |ŠE.KIN.KIN| https://www.ebl.lmu.de/signs/|ŠE.KIN.KIN|
 @end sign
 
 @sign |ŠE.LUGAL|
@@ -39414,7 +39388,7 @@
 @useq	x122BA.x12217
 @ucun	𒊺𒈗
 @v	šesag
-@link eBL |ŠE.LUGAL| https://www.ebl.lmu.de/signs/|ŠE.LUGAL|
+@link	eBL |ŠE.LUGAL| https://www.ebl.lmu.de/signs/|ŠE.LUGAL|
 @end sign
 
 @sign |ŠE.NAGA|
@@ -39426,7 +39400,7 @@
 @v	nidaba
 @v	nisaba
 @v	tuₓ
-@link eBL |ŠE.NAGA| https://www.ebl.lmu.de/signs/|ŠE.NAGA|
+@link	eBL |ŠE.NAGA| https://www.ebl.lmu.de/signs/|ŠE.NAGA|
 @form |ŠE.NAGA×A|
 @oid	o0002723
 @useq	x122BA.X
@@ -39437,8 +39411,10 @@
 @end sign
 
 @sign |ŠE.NAGA@180|
-@useq x122BA.x12241
-@inote epsd2 admin/names FN; variant of ŠE.NAGA?
+@oid	o0038091
+@inote	epsd2 admin/names FN; variant of ŠE.NAGA?
+@useq	x122BA.x12241
+@ucun	𒊺𒉁
 @end sign
 
 @sign |ŠE.NAM₂|
@@ -39448,7 +39424,7 @@
 @v	susₓ
 @v	šušₓ
 @v	šušinₓ
-@link eBL |ŠE.NAM₂| https://www.ebl.lmu.de/signs/|ŠE.NAM₂|
+@link	eBL |ŠE.NAM₂| https://www.ebl.lmu.de/signs/|ŠE.NAM₂|
 @form |ŠE@v+NAM₂|
 @oid	o0002733
 @lit	MSL 12, 12
@@ -39456,7 +39432,7 @@
 @list	U+12534
 @ucun	𒔴
 @uage	8.0
-@link Wikidata Q87557451 http://www.wikidata.org/entity/Q87557451
+@link	Wikidata Q87557451 http://www.wikidata.org/entity/Q87557451
 @@
 @end sign
 
@@ -39503,8 +39479,8 @@
 @v	ṭer₅
 @v	ṭir₅
 @sys	Attinger ezinam₃ => ezina₃
-@link eBL |ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|ŠE.NUN&NUN|
-@link Wikidata Q87556503 http://www.wikidata.org/entity/Q87556503
+@link	eBL |ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|ŠE.NUN&NUN|
+@link	Wikidata Q87556503 http://www.wikidata.org/entity/Q87556503
 @end sign
 
 @compoundonly	|ŠE.NUN&NUN.LAGAB|
@@ -39517,8 +39493,8 @@
 @uage	5.0
 @v	ezinaₓ
 @v	ezinuₓ
-@link eBL |(ŠE.NUN&NUN)×TAK₄| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)×TAK₄|
-@link Wikidata Q87556504 http://www.wikidata.org/entity/Q87556504
+@link	eBL |(ŠE.NUN&NUN)×TAK₄| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)×TAK₄|
+@link	Wikidata Q87556504 http://www.wikidata.org/entity/Q87556504
 @end sign
 
 @sign |(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
@@ -39532,8 +39508,8 @@
 @v	karadin₆?
 @v	nenni₅
 @v	ninni₅
-@link eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN)| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
-@link Wikidata Q87556506 http://www.wikidata.org/entity/Q87556506
+@link	eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN)| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN)|
+@link	Wikidata Q87556506 http://www.wikidata.org/entity/Q87556506
 @form |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).U₂|
 @oid	o0221925
 @v	ninniₓ
@@ -39572,8 +39548,8 @@
 @uage	5.0
 @v	garadin
 @v	karadin
-@link eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR|
-@link Wikidata Q87556508 http://www.wikidata.org/entity/Q87556508
+@link	eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR|
+@link	Wikidata Q87556508 http://www.wikidata.org/entity/Q87556508
 @form |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD|
 @oid	o0022932
 @useq	x12303.X
@@ -39596,7 +39572,7 @@
 @ucun	𒌃𒆸𒆸
 @v	garadin₄
 @v	karadin₄
-@link eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB.LAGAB| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB.LAGAB|
+@link	eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB.LAGAB| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB.LAGAB|
 @form |(ŠE.NUN&NUN.LAGAB)&(ŠE.NUN&NUN.LAGAB)|
 @oid	o0028138
 @@
@@ -39604,7 +39580,7 @@
 @oid	o0000638
 @useq	x12303.x121B8
 @ucun	𒌃𒆸
-@link eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB|
+@link	eBL |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB| https://www.ebl.lmu.de/signs/|(ŠE.NUN&NUN)&(ŠE.NUN&NUN).LAGAB|
 @@
 @end sign
 
@@ -39633,7 +39609,7 @@
 @useq	x122BA.x1227D.x1227D
 @ucun	𒊺𒉽𒉽
 @v	munuₓ
-@link eBL |ŠE.PAP.PAP| https://www.ebl.lmu.de/signs/|ŠE.PAP.PAP|
+@link	eBL |ŠE.PAP.PAP| https://www.ebl.lmu.de/signs/|ŠE.PAP.PAP|
 @end sign
 
 @sign |ŠE.SIK₂|
@@ -39650,7 +39626,7 @@
 @useq	x122BA.x122E6
 @ucun	𒊺𒋦
 @v	ubiₓ
-@link eBL |ŠE.SUHUR| https://www.ebl.lmu.de/signs/|ŠE.SUHUR|
+@link	eBL |ŠE.SUHUR| https://www.ebl.lmu.de/signs/|ŠE.SUHUR|
 @end sign
 
 @sign |ŠE.ŠE.KIN|
@@ -39659,7 +39635,7 @@
 @ucun	𒊺𒊺𒆥
 @v	gurₓ
 @v	sagaₓ
-@link eBL |ŠE.ŠE.KIN| https://www.ebl.lmu.de/signs/|ŠE.ŠE.KIN|
+@link	eBL |ŠE.ŠE.KIN| https://www.ebl.lmu.de/signs/|ŠE.ŠE.KIN|
 @end sign
 
 @sign |ŠE.ŠE.NUN&NUN|
@@ -39677,7 +39653,7 @@
 @v	ezinu₂
 @sys	Attinger ezinam₂ => ezina₂
 @sys	Attinger ezinan₂ => ezina₂
-@link eBL |ŠE.ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|ŠE.ŠE.NUN&NUN|
+@link	eBL |ŠE.ŠE.NUN&NUN| https://www.ebl.lmu.de/signs/|ŠE.ŠE.NUN&NUN|
 @end sign
 
 @sign |ŠE.ŠEŠ|
@@ -39685,7 +39661,7 @@
 @useq	x122BA.x122C0
 @ucun	𒊺𒋀
 @v	šemuš
-@link eBL |ŠE.ŠEŠ| https://www.ebl.lmu.de/signs/|ŠE.ŠEŠ|
+@link	eBL |ŠE.ŠEŠ| https://www.ebl.lmu.de/signs/|ŠE.ŠEŠ|
 @end sign
 
 @sign |ŠE.UR₄|
@@ -39694,115 +39670,7 @@
 @useq	x122BA.x12334
 @ucun	𒊺𒌴
 @v	gurₓ
-@link eBL |ŠE.UR₄| https://www.ebl.lmu.de/signs/|ŠE.UR₄|
-@end sign
-
-@sign |ŠE×DIŠ|
-@oid	o0028078
-@inote	gvl unknown compound
-@end sign
-
-@compoundonly	|(ŠE&ŠE)|
-@inote	added during ogsl upgrade
-
-@sign |ŠE&ŠE|
-@oid	o0002709
-@list	LAK200
-@uname	CUNEIFORM SIGN SHE OVER SHE
-@list	U+12532
-@ucun	𒔲
-@uage	8.0
-@link eBL |ŠE&ŠE| https://www.ebl.lmu.de/signs/|ŠE&ŠE|
-@link Wikidata Q87557446 http://www.wikidata.org/entity/Q87557446
-@end sign
-
-@sign |U&U.GAD&GAD.GAR&GAR|
-@aka  |(U.KINDA)&(U.KINDA)|
-@oid	o0038218
-@useq X.x120F1
-@end sign
-
-@sign |ŠE&ŠE.GAD&GAD.GAR&GAR|
-@oid	o0002705
-@list	SLLHA369
-@uname	CUNEIFORM SIGN SHE OVER SHE GAD OVER GAD GAR OVER GAR
-@list	U+122BC
-@ucun	𒊼
-@uage	5.0
-@v	garadin₂
-@v	karadin₂
-@link eBL |ŠE&ŠE.GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.GAD&GAD.GAR&GAR|
-@link Wikidata Q87556382 http://www.wikidata.org/entity/Q87556382
-@end sign
-
-@sign |ŠE&ŠE.GAR&GAR|
-@oid	o0002706
-@useq	x12532.X
-@ucun	𒔲X
-@v	garadin₈
-@v	karadin₈
-@link eBL |ŠE&ŠE.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.GAR&GAR|
-@end sign
-
-@sign |(ŠE&ŠE).HUB₂|
-@oid	o0000634
-@list	LAK207
-@uname	CUNEIFORM SIGN SHE OVER SHE PLUS HUB2
-@list	U+12533
-@ucun	𒔳
-@uage	8.0
-@link eBL |(ŠE&ŠE).HUB₂| https://www.ebl.lmu.de/signs/|(ŠE&ŠE).HUB₂|
-@link Wikidata Q87557448 http://www.wikidata.org/entity/Q87557448
-@end sign
-
-@sign |ŠE&ŠE.KIN|
-@oid	o0221954
-@inote	admin/ed3b
-@useq	x12532.x121A5
-@ucun	𒔲𒆥
-@v	gurₓ
-@end sign
-
-@sign |(ŠE&ŠE).KIN|
-@oid	o0221924
-@inote	admin/ed3b
-@useq	X.x121A5
-@ucun	X𒆥
-@v	gurₓ
-@end sign
-
-@sign |ŠE&ŠE.PA&PA.GAR&GAR|
-@oid	o0002707
-@useq	x12532.X.X
-@ucun	𒔲XX
-@v	garadin₇
-@v	karadin₇
-@link eBL |ŠE&ŠE.PA&PA.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.PA&PA.GAR&GAR|
-@end sign
-
-@sign |ŠE&ŠE.TAB&TAB.GAR&GAR|
-@oid	o0002708
-@list	ABZL389
-@list	SLLHA370
-@uname	CUNEIFORM SIGN SHE OVER SHE TAB OVER TAB GAR OVER GAR
-@list	U+122BD
-@ucun	𒊽
-@uage	5.0
-@v	garadin₃
-@v	karadin₃
-@link eBL |ŠE&ŠE.TAB&TAB.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.TAB&TAB.GAR&GAR|
-@link Wikidata Q87556384 http://www.wikidata.org/entity/Q87556384
-@end sign
-
-@compoundonly	|(ŠE%ŠE)|
-@inote	added during ogsl upgrade
-
-@sign |(ŠE%ŠE).KIN|
-@oid	o0221923
-@inote	admin/ed3b
-@useq	X.x121A5
-@ucun	X𒆥
-@v	gurₓ
+@link	eBL |ŠE.UR₄| https://www.ebl.lmu.de/signs/|ŠE.UR₄|
 @end sign
 
 @sign |ŠE+KIN|
@@ -39829,6 +39697,108 @@
 @useq	x1212D.x122BA.x122AC.X
 @ucun	𒄭𒊺𒊬X
 @@
+@end sign
+
+@sign |ŠE×DIŠ|
+@oid	o0028078
+@inote	gvl unknown compound
+@end sign
+
+@compoundonly	|(ŠE&ŠE)|
+@inote	added during ogsl upgrade
+
+@sign |ŠE&ŠE|
+@oid	o0002709
+@list	LAK200
+@uname	CUNEIFORM SIGN SHE OVER SHE
+@list	U+12532
+@ucun	𒔲
+@uage	8.0
+@link	eBL |ŠE&ŠE| https://www.ebl.lmu.de/signs/|ŠE&ŠE|
+@link	Wikidata Q87557446 http://www.wikidata.org/entity/Q87557446
+@end sign
+
+@sign |ŠE&ŠE.GAD&GAD.GAR&GAR|
+@oid	o0002705
+@list	SLLHA369
+@uname	CUNEIFORM SIGN SHE OVER SHE GAD OVER GAD GAR OVER GAR
+@list	U+122BC
+@ucun	𒊼
+@uage	5.0
+@v	garadin₂
+@v	karadin₂
+@link	eBL |ŠE&ŠE.GAD&GAD.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.GAD&GAD.GAR&GAR|
+@link	Wikidata Q87556382 http://www.wikidata.org/entity/Q87556382
+@end sign
+
+@sign |ŠE&ŠE.GAR&GAR|
+@oid	o0002706
+@useq	x12532.X
+@ucun	𒔲X
+@v	garadin₈
+@v	karadin₈
+@link	eBL |ŠE&ŠE.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.GAR&GAR|
+@end sign
+
+@sign |(ŠE&ŠE).HUB₂|
+@oid	o0000634
+@list	LAK207
+@uname	CUNEIFORM SIGN SHE OVER SHE PLUS HUB2
+@list	U+12533
+@ucun	𒔳
+@uage	8.0
+@link	eBL |(ŠE&ŠE).HUB₂| https://www.ebl.lmu.de/signs/|(ŠE&ŠE).HUB₂|
+@link	Wikidata Q87557448 http://www.wikidata.org/entity/Q87557448
+@end sign
+
+@sign |(ŠE&ŠE).KIN|
+@oid	o0221924
+@inote	admin/ed3b
+@useq	X.x121A5
+@ucun	X𒆥
+@v	gurₓ
+@end sign
+
+@sign |ŠE&ŠE.KIN|
+@oid	o0221954
+@inote	admin/ed3b
+@useq	x12532.x121A5
+@ucun	𒔲𒆥
+@v	gurₓ
+@end sign
+
+@sign |ŠE&ŠE.PA&PA.GAR&GAR|
+@oid	o0002707
+@useq	x12532.X.X
+@ucun	𒔲XX
+@v	garadin₇
+@v	karadin₇
+@link	eBL |ŠE&ŠE.PA&PA.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.PA&PA.GAR&GAR|
+@end sign
+
+@sign |ŠE&ŠE.TAB&TAB.GAR&GAR|
+@oid	o0002708
+@list	ABZL389
+@list	SLLHA370
+@uname	CUNEIFORM SIGN SHE OVER SHE TAB OVER TAB GAR OVER GAR
+@list	U+122BD
+@ucun	𒊽
+@uage	5.0
+@v	garadin₃
+@v	karadin₃
+@link	eBL |ŠE&ŠE.TAB&TAB.GAR&GAR| https://www.ebl.lmu.de/signs/|ŠE&ŠE.TAB&TAB.GAR&GAR|
+@link	Wikidata Q87556384 http://www.wikidata.org/entity/Q87556384
+@end sign
+
+@compoundonly	|(ŠE%ŠE)|
+@inote	added during ogsl upgrade
+
+@sign |(ŠE%ŠE).KIN|
+@oid	o0221923
+@inote	admin/ed3b
+@useq	X.x121A5
+@ucun	X𒆥
+@v	gurₓ
 @end sign
 
 @compoundonly	ŠE@f
@@ -39870,8 +39840,8 @@
 @v	šeŋbar?
 @v	šenₓ
 @v	šenbar?
-@link eBL ŠEG₉ https://www.ebl.lmu.de/signs/ŠEG₉
-@link Wikidata Q87556385 http://www.wikidata.org/entity/Q87556385
+@link	eBL ŠEG₉ https://www.ebl.lmu.de/signs/ŠEG₉
+@link	Wikidata Q87556385 http://www.wikidata.org/entity/Q87556385
 @form LAK263
 @oid	o0000341
 @list	ELLES149
@@ -39879,7 +39849,7 @@
 @v	armanuₓ
 @v	mašdaₓ
 @v	šegbarₓ
-@link eBL LAK263 https://www.ebl.lmu.de/signs/LAK263
+@link	eBL LAK263 https://www.ebl.lmu.de/signs/LAK263
 @@
 @end sign
 
@@ -39888,7 +39858,7 @@
 @useq	x122BE.x12047
 @ucun	𒊾𒁇
 @v	sabar
-@link eBL |ŠEG₉.BAR| https://www.ebl.lmu.de/signs/|ŠEG₉.BAR|
+@link	eBL |ŠEG₉.BAR| https://www.ebl.lmu.de/signs/|ŠEG₉.BAR|
 @end sign
 
 @sign ŠEN
@@ -39919,8 +39889,8 @@
 @v	šin
 @v	šun
 @v	zin
-@link eBL ŠEN https://www.ebl.lmu.de/signs/ŠEN
-@link Wikidata Q87556387 http://www.wikidata.org/entity/Q87556387
+@link	eBL ŠEN https://www.ebl.lmu.de/signs/ŠEN
+@link	Wikidata Q87556387 http://www.wikidata.org/entity/Q87556387
 @form |SU×A|
 @oid	o0002381
 @@
@@ -39968,8 +39938,8 @@
 @v	šiz
 @v	zaₓ
 @v	zahₓ
-@link eBL ŠEŠ https://www.ebl.lmu.de/signs/ŠEŠ
-@link Wikidata Q87556389 http://www.wikidata.org/entity/Q87556389
+@link	eBL ŠEŠ https://www.ebl.lmu.de/signs/ŠEŠ
+@link	Wikidata Q87556389 http://www.wikidata.org/entity/Q87556389
 @end sign
 
 @sign |ŠEŠ.AB|
@@ -39982,7 +39952,7 @@
 @v	urim₅
 @v	uru₁₅
 @v	urum₆
-@link eBL |ŠEŠ.AB| https://www.ebl.lmu.de/signs/|ŠEŠ.AB|
+@link	eBL |ŠEŠ.AB| https://www.ebl.lmu.de/signs/|ŠEŠ.AB|
 @form |AB.ŠEŠ|
 @oid	o0025697
 @useq	x1200A.x122C0
@@ -40002,7 +39972,7 @@
 @v	urim₂
 @v	uru₁₄
 @v	urum₅
-@link eBL |ŠEŠ.AB@g| https://www.ebl.lmu.de/signs/|ŠEŠ.AB@g|
+@link	eBL |ŠEŠ.AB@g| https://www.ebl.lmu.de/signs/|ŠEŠ.AB@g|
 @end sign
 
 @sign |ŠEŠ.HU.HU|
@@ -40010,7 +39980,7 @@
 @useq	x122C0.x12137.x12137
 @ucun	𒋀𒄷𒄷
 @v	urinₓ
-@link eBL |ŠEŠ.HU.HU| https://www.ebl.lmu.de/signs/|ŠEŠ.HU.HU|
+@link	eBL |ŠEŠ.HU.HU| https://www.ebl.lmu.de/signs/|ŠEŠ.HU.HU|
 @end sign
 
 @sign |ŠEŠ.IB|
@@ -40020,7 +39990,7 @@
 @ucun	𒋀𒅁
 @v	duₓ
 @v	dugₓ
-@link eBL |ŠEŠ.IB| https://www.ebl.lmu.de/signs/|ŠEŠ.IB|
+@link	eBL |ŠEŠ.IB| https://www.ebl.lmu.de/signs/|ŠEŠ.IB|
 @end sign
 
 @sign |ŠEŠ.KI|
@@ -40033,7 +40003,7 @@
 @ucun	𒋀𒆠
 @v	nan₂
 @v	nanna
-@link eBL |ŠEŠ.KI| https://www.ebl.lmu.de/signs/|ŠEŠ.KI|
+@link	eBL |ŠEŠ.KI| https://www.ebl.lmu.de/signs/|ŠEŠ.KI|
 @form |ŠEŠ.NA|
 @oid	o0018524
 @list	BAU012
@@ -40050,7 +40020,7 @@
 @useq	x122C0.x121A0.x12075
 @ucun	𒋀𒆠𒁵
 @v	munzerₓ
-@link eBL |ŠEŠ.KI.DIM×ŠE| https://www.ebl.lmu.de/signs/|ŠEŠ.KI.DIM×ŠE|
+@link	eBL |ŠEŠ.KI.DIM×ŠE| https://www.ebl.lmu.de/signs/|ŠEŠ.KI.DIM×ŠE|
 @end sign
 
 @sign ŠEŠ₂
@@ -40068,12 +40038,12 @@
 @v	še₈
 @v	šeš₂
 @v	šiš₂
-@link eBL ŠEŠ₂ https://www.ebl.lmu.de/signs/ŠEŠ₂
-@link Wikidata Q87556391 http://www.wikidata.org/entity/Q87556391
+@link	eBL ŠEŠ₂ https://www.ebl.lmu.de/signs/ŠEŠ₂
+@link	Wikidata Q87556391 http://www.wikidata.org/entity/Q87556391
 @form |SIK₂.LAM|
 @oid	o0002353
 @inote	Emar
-@link eBL |SIK₂.LAM| https://www.ebl.lmu.de/signs/|SIK₂.LAM|
+@link	eBL |SIK₂.LAM| https://www.ebl.lmu.de/signs/|SIK₂.LAM|
 @@
 @end sign
 
@@ -40094,8 +40064,8 @@
 @v	šešlam
 @ref	2R47 = P395521 o ii27, {še-eš-lam}ŠEŠLAM = kib-ra-a-tu
 @note	The only attestation of this sign seems to be 2R47 o ii27 (K 4387)
-@link eBL ŠEŠLAM https://www.ebl.lmu.de/signs/ŠEŠLAM
-@link Wikidata Q87556393 http://www.wikidata.org/entity/Q87556393
+@link	eBL ŠEŠLAM https://www.ebl.lmu.de/signs/ŠEŠLAM
+@link	Wikidata Q87556393 http://www.wikidata.org/entity/Q87556393
 @end sign
 
 @sign ŠID
@@ -40201,8 +40171,8 @@
 @v	zandar
 @v	zandara
 @sys	Attinger giri₁₃ => gir₁₃
-@link eBL ŠID https://www.ebl.lmu.de/signs/ŠID
-@link Wikidata Q87556395 http://www.wikidata.org/entity/Q87556395
+@link	eBL ŠID https://www.ebl.lmu.de/signs/ŠID
+@link	Wikidata Q87556395 http://www.wikidata.org/entity/Q87556395
 @form LAK636
 @oid	o0000405
 @list	LAK636
@@ -40210,8 +40180,8 @@
 @ucun	𒔌
 @uage	8.0
 @v	silaₓ
-@link eBL LAK636 https://www.ebl.lmu.de/signs/LAK636
-@link Wikidata Q87557365 http://www.wikidata.org/entity/Q87557365
+@link	eBL LAK636 https://www.ebl.lmu.de/signs/LAK636
+@link	Wikidata Q87557365 http://www.wikidata.org/entity/Q87557365
 @@
 @end sign
 
@@ -40219,9 +40189,9 @@
 @oid	o0002741
 @useq	x122C3.x120FB
 @ucun	𒋃𒃻
-@v	sangaₓ
 @v	saŋŋaₓ
-@link eBL |ŠID.GAR| https://www.ebl.lmu.de/signs/|ŠID.GAR|
+@v	sangaₓ
+@link	eBL |ŠID.GAR| https://www.ebl.lmu.de/signs/|ŠID.GAR|
 @end sign
 
 @sign |ŠID.NUN|
@@ -40237,7 +40207,7 @@
 @useq	x122C3.x12292
 @ucun	𒋃𒊒
 @v	rigₓ
-@link eBL |ŠID.RU| https://www.ebl.lmu.de/signs/|ŠID.RU|
+@link	eBL |ŠID.RU| https://www.ebl.lmu.de/signs/|ŠID.RU|
 @end sign
 
 @sign |ŠID×A|
@@ -40277,8 +40247,8 @@
 @v	ubisag₂
 @v	umbisag₂
 @v	umbisaŋ₂
-@link eBL |ŠID×A| https://www.ebl.lmu.de/signs/|ŠID×A|
-@link Wikidata Q87556397 http://www.wikidata.org/entity/Q87556397
+@link	eBL |ŠID×A| https://www.ebl.lmu.de/signs/|ŠID×A|
+@link	Wikidata Q87556397 http://www.wikidata.org/entity/Q87556397
 @end sign
 
 @sign |ŠID×AŠ@t|
@@ -40295,8 +40265,8 @@
 @ucun	𒋅
 @uage	5.0
 @v	hubhub₂
-@link eBL |ŠID×IM| https://www.ebl.lmu.de/signs/|ŠID×IM|
-@link Wikidata Q87556398 http://www.wikidata.org/entity/Q87556398
+@link	eBL |ŠID×IM| https://www.ebl.lmu.de/signs/|ŠID×IM|
+@link	Wikidata Q87556398 http://www.wikidata.org/entity/Q87556398
 @end sign
 
 @sign |ŠID×ZA|
@@ -40358,8 +40328,8 @@
 @v	šimbi₂
 @v	šimbizi
 @sys	Attinger babir₂ => bappir₂
-@link eBL ŠIM https://www.ebl.lmu.de/signs/ŠIM
-@link Wikidata Q87556400 http://www.wikidata.org/entity/Q87556400
+@link	eBL ŠIM https://www.ebl.lmu.de/signs/ŠIM
+@link	Wikidata Q87556400 http://www.wikidata.org/entity/Q87556400
 @end sign
 
 @sign |ŠIM.AN.MAŠ|
@@ -40367,7 +40337,7 @@
 @useq	x122C6.x1202D.x12226
 @ucun	𒋆𒀭𒈦
 @v	ligidba₂
-@link eBL |ŠIM.AN.MAŠ| https://www.ebl.lmu.de/signs/|ŠIM.AN.MAŠ|
+@link	eBL |ŠIM.AN.MAŠ| https://www.ebl.lmu.de/signs/|ŠIM.AN.MAŠ|
 @end sign
 
 @sign |ŠIM.AN.SAL.TUG₂.IB|
@@ -40375,7 +40345,7 @@
 @useq	x122C6.x1202D.x1238F.x12141
 @ucun	𒋆𒀭𒎏𒅁
 @v	ligidba
-@link eBL |ŠIM.AN.SAL.TUG₂.IB| https://www.ebl.lmu.de/signs/|ŠIM.AN.SAL.TUG₂.IB|
+@link	eBL |ŠIM.AN.SAL.TUG₂.IB| https://www.ebl.lmu.de/signs/|ŠIM.AN.SAL.TUG₂.IB|
 @end sign
 
 @sign |ŠIM.BAL|
@@ -40383,7 +40353,7 @@
 @useq	x122C6.x12044
 @ucun	𒋆𒁄
 @v	šembulugₓ
-@link eBL |ŠIM.BAL| https://www.ebl.lmu.de/signs/|ŠIM.BAL|
+@link	eBL |ŠIM.BAL| https://www.ebl.lmu.de/signs/|ŠIM.BAL|
 @end sign
 
 @sign |ŠIM.GA|
@@ -40401,12 +40371,6 @@
 @ucun	𒋆𒆪
 @end sign
 
-@sign |ŠIM×X₁|
-@oid  o0038306
-@inote This is the specific sign in &P215682 = MVN 03, 024 o 6;
-       ŠIM×(EŠ₂?.GAR) or ŠIM×BUR!
-@end sign
-
 @sign |ŠIM×A|
 @oid	o0002748
 @list	MZL372
@@ -40422,8 +40386,8 @@
 @v	nungi₂
 @v	siraš₂
 @v	siris₂
-@link eBL |ŠIM×A| https://www.ebl.lmu.de/signs/|ŠIM×A|
-@link Wikidata Q87556402 http://www.wikidata.org/entity/Q87556402
+@link	eBL |ŠIM×A| https://www.ebl.lmu.de/signs/|ŠIM×A|
+@link	Wikidata Q87556402 http://www.wikidata.org/entity/Q87556402
 @end sign
 
 @sign |ŠIM×BAL|
@@ -40437,8 +40401,8 @@
 @v	nugₓ
 @v	šembulug₄
 @v	šimbulug₄
-@link eBL |ŠIM×BAL| https://www.ebl.lmu.de/signs/|ŠIM×BAL|
-@link Wikidata Q87556404 http://www.wikidata.org/entity/Q87556404
+@link	eBL |ŠIM×BAL| https://www.ebl.lmu.de/signs/|ŠIM×BAL|
+@link	Wikidata Q87556404 http://www.wikidata.org/entity/Q87556404
 @end sign
 
 @sign |ŠIM×BULUG|
@@ -40453,8 +40417,8 @@
 @v	šemmug
 @v	šimbulug₅
 @v	šimmug
-@link eBL |ŠIM×BULUG| https://www.ebl.lmu.de/signs/|ŠIM×BULUG|
-@link Wikidata Q87556405 http://www.wikidata.org/entity/Q87556405
+@link	eBL |ŠIM×BULUG| https://www.ebl.lmu.de/signs/|ŠIM×BULUG|
+@link	Wikidata Q87556405 http://www.wikidata.org/entity/Q87556405
 @form |ŠIM.BULUG|
 @oid	o0023080
 @inote	dcclt !sg
@@ -40472,8 +40436,8 @@
 @ucun	𒋊
 @uage	5.0
 @v	nug₂
-@link eBL |ŠIM×DIN| https://www.ebl.lmu.de/signs/|ŠIM×DIN|
-@link Wikidata Q87556407 http://www.wikidata.org/entity/Q87556407
+@link	eBL |ŠIM×DIN| https://www.ebl.lmu.de/signs/|ŠIM×DIN|
+@link	Wikidata Q87556407 http://www.wikidata.org/entity/Q87556407
 @end sign
 
 @sign |ŠIM×GAR|
@@ -40506,8 +40470,8 @@
 @v	siris₃
 @v	šinₓ
 @sys	Attinger babir => bappir
-@link eBL |ŠIM×GAR| https://www.ebl.lmu.de/signs/|ŠIM×GAR|
-@link Wikidata Q87556408 http://www.wikidata.org/entity/Q87556408
+@link	eBL |ŠIM×GAR| https://www.ebl.lmu.de/signs/|ŠIM×GAR|
+@link	Wikidata Q87556408 http://www.wikidata.org/entity/Q87556408
 @form |ŠIM.GAR|
 @oid	o0023081
 @inote	dcclt !sg
@@ -40545,8 +40509,8 @@
 @uage	5.0
 @v	šembulug₃
 @v	šimbulug₃
-@link eBL |ŠIM×IGI| https://www.ebl.lmu.de/signs/|ŠIM×IGI|
-@link Wikidata Q87556410 http://www.wikidata.org/entity/Q87556410
+@link	eBL |ŠIM×IGI| https://www.ebl.lmu.de/signs/|ŠIM×IGI|
+@link	Wikidata Q87556410 http://www.wikidata.org/entity/Q87556410
 @end sign
 
 @sign |ŠIM×IGI@g|
@@ -40561,28 +40525,25 @@
 @uage	5.0
 @v	šembi
 @v	šimbi
-@link eBL |ŠIM×IGI@g| https://www.ebl.lmu.de/signs/|ŠIM×IGI@g|
-@link Wikidata Q87556412 http://www.wikidata.org/entity/Q87556412
+@link	eBL |ŠIM×IGI@g| https://www.ebl.lmu.de/signs/|ŠIM×IGI@g|
+@link	Wikidata Q87556412 http://www.wikidata.org/entity/Q87556412
 @form |DUG×IGI@g|
 @oid	o0001021
 @list	ELLES292
 @list	LAK586
+@lit	Civil Ebla 1975-1985, 155
 @uname	CUNEIFORM SIGN DUG TIMES IGI GUNU
 @list	U+12499
 @ucun	𒒙
 @uage	8.0
-@lit	Civil Ebla 1975-1985, 155
-@link Wikidata Q87557135 http://www.wikidata.org/entity/Q87557135
-@@
-@form |TA×IGI@g|
-@oid	o0221885
-@v	šembiₓ
-@@
-@form |GU₂×IGI@g|
+@link	Wikidata Q87557135 http://www.wikidata.org/entity/Q87557135
 @@
 @form |GU₂×IGI|
-@oid o0038322
-@inote Fara form
+@oid	o0038322
+@inote	Fara form
+@@
+@form |GU₂×IGI@g|
+@oid	o0001429
 @@
 @form ŠIM
 @oid	o0002838
@@ -40593,7 +40554,11 @@
 @list	RSP422
 @v	šembi⁻
 @sys	Attinger šembi⁻
-@link eBL ŠIM https://www.ebl.lmu.de/signs/ŠIM
+@link	eBL ŠIM https://www.ebl.lmu.de/signs/ŠIM
+@@
+@form |TA×IGI@g|
+@oid	o0221885
+@v	šembiₓ
 @@
 @end sign
 
@@ -40611,8 +40576,8 @@
 @v	šembulugₓ
 @note	see Brunke and Sallaberger FS Owen
 @v	šimbulugₓ
-@link eBL |ŠIM×KUŠU₂| https://www.ebl.lmu.de/signs/|ŠIM×KUŠU₂|
-@link Wikidata Q87556414 http://www.wikidata.org/entity/Q87556414
+@link	eBL |ŠIM×KUŠU₂| https://www.ebl.lmu.de/signs/|ŠIM×KUŠU₂|
+@link	Wikidata Q87556414 http://www.wikidata.org/entity/Q87556414
 @end sign
 
 @sign |ŠIM×KUŠU₂+KASKAL|
@@ -40621,12 +40586,12 @@
 @useq	x122CE.x1219C
 @ucun	𒋎𒆜
 @v	bulugₓ
-@inote double check this--is it really |ŠIM×(KUŠU₂.KASKAL)| ?
+@inote	double check this--is it really |ŠIM×(KUŠU₂.KASKAL)| ?
 @end sign
 
 @sign |ŠIM×(LAM.GAR)|
-@oid  o0038250
-@inote CDLI P217628 photo not very clear
+@oid	o0038250
+@inote	CDLI P217628 photo not very clear
 @end sign
 
 @sign |ŠIM×LUL|
@@ -40641,8 +40606,8 @@
 @v	šaqa₂
 @v	šaqu₂
 @v	šuquₓ
-@link eBL |ŠIM×LUL| https://www.ebl.lmu.de/signs/|ŠIM×LUL|
-@link Wikidata Q87556415 http://www.wikidata.org/entity/Q87556415
+@link	eBL |ŠIM×LUL| https://www.ebl.lmu.de/signs/|ŠIM×LUL|
+@link	Wikidata Q87556415 http://www.wikidata.org/entity/Q87556415
 @end sign
 
 @sign |ŠIM×MUG|
@@ -40655,8 +40620,8 @@
 @uage	5.0
 @v	nug
 @v	šimbulug₂?
-@link eBL |ŠIM×MUG| https://www.ebl.lmu.de/signs/|ŠIM×MUG|
-@link Wikidata Q87556417 http://www.wikidata.org/entity/Q87556417
+@link	eBL |ŠIM×MUG| https://www.ebl.lmu.de/signs/|ŠIM×MUG|
+@link	Wikidata Q87556417 http://www.wikidata.org/entity/Q87556417
 @form |ŠIM.MUG|
 @oid	o0023082
 @inote	dcclt !sg
@@ -40670,7 +40635,7 @@
 @list	GCSL281
 @list	LAK657
 @v	šembiₓ
-@link eBL |ŠIM×PI| https://www.ebl.lmu.de/signs/|ŠIM×PI|
+@link	eBL |ŠIM×PI| https://www.ebl.lmu.de/signs/|ŠIM×PI|
 @end sign
 
 @sign |ŠIM×SAL|
@@ -40687,8 +40652,8 @@
 @v	šimešal
 @v	šimeššal
 @v	šimmešla
-@link eBL |ŠIM×SAL| https://www.ebl.lmu.de/signs/|ŠIM×SAL|
-@link Wikidata Q87556419 http://www.wikidata.org/entity/Q87556419
+@link	eBL |ŠIM×SAL| https://www.ebl.lmu.de/signs/|ŠIM×SAL|
+@link	Wikidata Q87556419 http://www.wikidata.org/entity/Q87556419
 @form |ŠIM.SAL|
 @oid	o0027911
 @useq	x122C6.x122A9
@@ -40699,6 +40664,12 @@
 @sign |ŠIM×ŠE|
 @oid	o0028085
 @inote	gvl unknown compound
+@end sign
+
+@sign |ŠIM×X₁|
+@oid	o0038306
+@inote	This is the specific sign in &P215682 = MVN 03, 024 o 6;
+	ŠIM×(EŠ₂?.GAR) or ŠIM×BUR!
 @end sign
 
 @sign ŠIM@g
@@ -40737,8 +40708,8 @@
 @v	šeneg
 @v	šinig
 @sys	Attinger šeneg => šinig
-@link eBL ŠINIG https://www.ebl.lmu.de/signs/ŠINIG
-@link Wikidata Q87556420 http://www.wikidata.org/entity/Q87556420
+@link	eBL ŠINIG https://www.ebl.lmu.de/signs/ŠINIG
+@link	Wikidata Q87556420 http://www.wikidata.org/entity/Q87556420
 @form |GAD.NAGA|
 @oid	o0023039
 @inote	dcclt !sg
@@ -40778,8 +40749,8 @@
 @v	šir
 @v	šur₃
 @sys	Attinger ašgi₂ => aš₇
-@link eBL ŠIR https://www.ebl.lmu.de/signs/ŠIR
-@link Wikidata Q87556422 http://www.wikidata.org/entity/Q87556422
+@link	eBL ŠIR https://www.ebl.lmu.de/signs/ŠIR
+@link	Wikidata Q87556422 http://www.wikidata.org/entity/Q87556422
 @end sign
 
 @sign |ŠIR.GI₄|
@@ -40789,7 +40760,7 @@
 @v	aš₇-gi₄
 @v-	ašgi
 @inote	dupfix MZL use aš₇-gi₄
-@link eBL |ŠIR.GI₄| https://www.ebl.lmu.de/signs/|ŠIR.GI₄|
+@link	eBL |ŠIR.GI₄| https://www.ebl.lmu.de/signs/|ŠIR.GI₄|
 @end sign
 
 @sign |ŠIR.LU.SU&ŠIR.LU.SU|
@@ -40842,8 +40813,8 @@
 @v	nuₓ
 @v	šita
 @v	tišdanₓ
-@link eBL ŠITA https://www.ebl.lmu.de/signs/ŠITA
-@link Wikidata Q87556427 http://www.wikidata.org/entity/Q87556427
+@link	eBL ŠITA https://www.ebl.lmu.de/signs/ŠITA
+@link	Wikidata Q87556427 http://www.wikidata.org/entity/Q87556427
 @form ŠITA~a
 @oid	o0028106
 @list	LAK503a
@@ -40900,7 +40871,7 @@
 @v	i₉
 @ref	Ass 00523 = dcclt/signlists:P370411 o i 36
 @inote	salgues
-@link eBL |ŠITA.GIŠ.TUG₂| https://www.ebl.lmu.de/signs/|ŠITA.GIŠ.TUG₂|
+@link	eBL |ŠITA.GIŠ.TUG₂| https://www.ebl.lmu.de/signs/|ŠITA.GIŠ.TUG₂|
 @form |ŠITA.GIŠ.NAM₂|
 @oid	o0018862
 @list	BAU391
@@ -40916,26 +40887,14 @@
 @@
 @end sign
 
-@sign |HI×ZI₃|
-@oid	o0038311
-@inote ED I-II Ur
-@end sign
-
 @sign |ŠITA×HI|
 @oid	o0038309
-@inote ED I-II Ur
-@end sign
-
-@sign |2(N57)+E₂|
-@oid	o0038313
-@useq X.x1208D
-@ucun X.𒂍
-@inote ED I-II Ur
+@inote	ED I-II Ur
 @end sign
 
 @sign ŠITA@t
 @oid	o0002843
-@link eBL ŠITA@t https://www.ebl.lmu.de/signs/ŠITA@t
+@link	eBL ŠITA@t https://www.ebl.lmu.de/signs/ŠITA@t
 @end sign
 
 @sign ŠU
@@ -40963,10 +40922,10 @@
 @v	qata
 @v	sagiₓ
 @v	šu
-@v	1(šu)
 @v	takaₓ
-@link eBL ŠU https://www.ebl.lmu.de/signs/ŠU
-@link Wikidata Q87556429 http://www.wikidata.org/entity/Q87556429
+@v	1(šu)
+@link	eBL ŠU https://www.ebl.lmu.de/signs/ŠU
+@link	Wikidata Q87556429 http://www.wikidata.org/entity/Q87556429
 @form ŠU@c
 @oid	o0223487
 @v	šu@c
@@ -40979,7 +40938,7 @@
 @useq	x122D7.x1202D
 @ucun	𒋗𒀭
 @v	giri₂₀
-@link eBL |ŠU.AN| https://www.ebl.lmu.de/signs/|ŠU.AN|
+@link	eBL |ŠU.AN| https://www.ebl.lmu.de/signs/|ŠU.AN|
 @end sign
 
 @sign |ŠU.BAD|
@@ -40990,7 +40949,7 @@
 @v	uš₁₆?
 @v	zapah
 @v	zipah₂
-@link eBL |ŠU.BAD| https://www.ebl.lmu.de/signs/|ŠU.BAD|
+@link	eBL |ŠU.BAD| https://www.ebl.lmu.de/signs/|ŠU.BAD|
 @form |ŠU.KAK|
 @oid	o0002787
 @useq	x122D7.x12195
@@ -41014,14 +40973,14 @@
 @v	dubul
 @v	dulu
 @v	ul₇
-@link eBL |ŠU.BU| https://www.ebl.lmu.de/signs/|ŠU.BU|
+@link	eBL |ŠU.BU| https://www.ebl.lmu.de/signs/|ŠU.BU|
 @end sign
 
 @sign |ŠU.DI|
 @oid	o0002770
 @useq	x122D7.x12072
 @ucun	𒋗𒁲
-@link eBL |ŠU.DI| https://www.ebl.lmu.de/signs/|ŠU.DI|
+@link	eBL |ŠU.DI| https://www.ebl.lmu.de/signs/|ŠU.DI|
 @end sign
 
 @sign |ŠU.DI.U.U.U|
@@ -41032,7 +40991,7 @@
 @v	suhub₄
 @v	šahab₂
 @v	šuhub₄
-@link eBL |ŠU.DI.U.U.U| https://www.ebl.lmu.de/signs/|ŠU.DI.U.U.U|
+@link	eBL |ŠU.DI.U.U.U| https://www.ebl.lmu.de/signs/|ŠU.DI.U.U.U|
 @form |ŠU.U.U.U.DI|
 @oid	o0002804
 @useq	x122D7.x1230D.x12072
@@ -41046,7 +41005,7 @@
 @useq	x122D7.x12076
 @ucun	𒋗𒁶
 @v	girah
-@link eBL |ŠU.DIM₂| https://www.ebl.lmu.de/signs/|ŠU.DIM₂|
+@link	eBL |ŠU.DIM₂| https://www.ebl.lmu.de/signs/|ŠU.DIM₂|
 @end sign
 
 @sign |ŠU.DIŠ|
@@ -41056,7 +41015,7 @@
 @v	sahab
 @v	suhub₃
 @v	šahab
-@link eBL |ŠU.DIŠ| https://www.ebl.lmu.de/signs/|ŠU.DIŠ|
+@link	eBL |ŠU.DIŠ| https://www.ebl.lmu.de/signs/|ŠU.DIŠ|
 @end sign
 
 @sign |ŠU.EREN.ME|
@@ -41064,7 +41023,7 @@
 @useq	x122D7.x1209E.x12228
 @ucun	𒋗𒂞𒈨
 @v	šurmenₓ
-@link eBL |ŠU.EREN.ME| https://www.ebl.lmu.de/signs/|ŠU.EREN.ME|
+@link	eBL |ŠU.EREN.ME| https://www.ebl.lmu.de/signs/|ŠU.EREN.ME|
 @end sign
 
 @sign |ŠU.GA|
@@ -41072,7 +41031,7 @@
 @useq	x122D7.x120B5
 @ucun	𒋗𒂵
 @v	suhub₅
-@link eBL |ŠU.GA| https://www.ebl.lmu.de/signs/|ŠU.GA|
+@link	eBL |ŠU.GA| https://www.ebl.lmu.de/signs/|ŠU.GA|
 @end sign
 
 @sign |ŠU.GAN|
@@ -41080,7 +41039,7 @@
 @useq	x122D7.x120F6
 @ucun	𒋗𒃶
 @v	peš₈?
-@link eBL |ŠU.GAN| https://www.ebl.lmu.de/signs/|ŠU.GAN|
+@link	eBL |ŠU.GAN| https://www.ebl.lmu.de/signs/|ŠU.GAN|
 @end sign
 
 @sign |ŠU.GAN₂@t|
@@ -41091,7 +41050,7 @@
 @v	šukra
 @v	šunigin
 @v	šuniŋin
-@link eBL |ŠU.GAN₂@t| https://www.ebl.lmu.de/signs/|ŠU.GAN₂@t|
+@link	eBL |ŠU.GAN₂@t| https://www.ebl.lmu.de/signs/|ŠU.GAN₂@t|
 @end sign
 
 @sign |ŠU.GAR.TUR.LAL|
@@ -41100,7 +41059,7 @@
 @ucun	𒋗𒃻𒌉𒇲
 @v	tukum
 @v	tukun
-@link eBL |ŠU.GAR.TUR.LAL| https://www.ebl.lmu.de/signs/|ŠU.GAR.TUR.LAL|
+@link	eBL |ŠU.GAR.TUR.LAL| https://www.ebl.lmu.de/signs/|ŠU.GAR.TUR.LAL|
 @form |GAR.ŠU.TUR|
 @oid	o0018574
 @useq	x120FB.x122D7.x12309
@@ -41138,7 +41097,7 @@
 @ucun	𒋗𒃻𒌉𒇲𒁉
 @v	tukumbi
 @v	tukunbi
-@link eBL |ŠU.GAR.TUR.LAL.BI| https://www.ebl.lmu.de/signs/|ŠU.GAR.TUR.LAL.BI|
+@link	eBL |ŠU.GAR.TUR.LAL.BI| https://www.ebl.lmu.de/signs/|ŠU.GAR.TUR.LAL.BI|
 @form |ŠU.GAR.TUR|
 @oid	o0152709
 @useq	x122D7.x120FB.x12309
@@ -41167,7 +41126,7 @@
 @useq	x122D7.x12100
 @ucun	𒋗𒄀
 @v	šu-gi
-@link eBL |ŠU.GI| https://www.ebl.lmu.de/signs/|ŠU.GI|
+@link	eBL |ŠU.GI| https://www.ebl.lmu.de/signs/|ŠU.GI|
 @end sign
 
 @sign |ŠU.GI%GI|
@@ -41175,14 +41134,14 @@
 @useq	x122D7.x12103
 @ucun	𒋗𒄃
 @v	šugi
-@link eBL |ŠU.GI%GI| https://www.ebl.lmu.de/signs/|ŠU.GI%GI|
+@link	eBL |ŠU.GI%GI| https://www.ebl.lmu.de/signs/|ŠU.GI%GI|
 @end sign
 
 @sign |ŠU.GIR₂@g|
 @oid	o0002782
 @useq	x122D7.x12109
 @ucun	𒋗𒄉
-@link eBL |ŠU.GIR₂@g| https://www.ebl.lmu.de/signs/|ŠU.GIR₂@g|
+@link	eBL |ŠU.GIR₂@g| https://www.ebl.lmu.de/signs/|ŠU.GIR₂@g|
 @end sign
 
 @sign |ŠU.HA|
@@ -41193,7 +41152,7 @@
 @v	šukud₂
 @sys	Attinger šuku₂
 @sys	Attinger šukud₂
-@link eBL |ŠU.HA| https://www.ebl.lmu.de/signs/|ŠU.HA|
+@link	eBL |ŠU.HA| https://www.ebl.lmu.de/signs/|ŠU.HA|
 @form |ŠU.HA@g|
 @oid	o0002784
 @useq	x122D7.x1212B
@@ -41210,7 +41169,7 @@
 @useq	x122D7.x12192
 @ucun	𒋗𒆒
 @v	peš₁₄
-@link eBL |ŠU.KAD₄| https://www.ebl.lmu.de/signs/|ŠU.KAD₄|
+@link	eBL |ŠU.KAD₄| https://www.ebl.lmu.de/signs/|ŠU.KAD₄|
 @form |ŠU.KAD₅|
 @oid	o0027738
 @useq	x122D7.x12193
@@ -41228,7 +41187,7 @@
 @v	šugbar?
 @v	šugmaš?
 @v	šukbar?
-@link eBL |ŠU.KAL| https://www.ebl.lmu.de/signs/|ŠU.KAL|
+@link	eBL |ŠU.KAL| https://www.ebl.lmu.de/signs/|ŠU.KAL|
 @end sign
 
 @sign |ŠU.KUL.UŠ.MAŠ|
@@ -41244,7 +41203,7 @@
 @useq	x122D7.x121B8
 @ucun	𒋗𒆸
 @v	tinurₓ
-@link eBL |ŠU.LAGAB| https://www.ebl.lmu.de/signs/|ŠU.LAGAB|
+@link	eBL |ŠU.LAGAB| https://www.ebl.lmu.de/signs/|ŠU.LAGAB|
 @end sign
 
 @sign |ŠU.LAGAB.NA|
@@ -41259,7 +41218,7 @@
 @v	durun₃
 @v	duruna₃
 @v	tinur₂
-@link eBL |ŠU.LAGAB.NA| https://www.ebl.lmu.de/signs/|ŠU.LAGAB.NA|
+@link	eBL |ŠU.LAGAB.NA| https://www.ebl.lmu.de/signs/|ŠU.LAGAB.NA|
 @end sign
 
 @sign |ŠU.LU₂|
@@ -41267,7 +41226,7 @@
 @useq	x122D7.x121FD
 @ucun	𒋗𒇽
 @v	giri₁₉
-@link eBL |ŠU.LU₂| https://www.ebl.lmu.de/signs/|ŠU.LU₂|
+@link	eBL |ŠU.LU₂| https://www.ebl.lmu.de/signs/|ŠU.LU₂|
 @end sign
 
 @sign |ŠU.LUGAL|
@@ -41275,7 +41234,7 @@
 @useq	x122D7.x12217
 @ucun	𒋗𒈗
 @v	giri₂₁
-@link eBL |ŠU.LUGAL| https://www.ebl.lmu.de/signs/|ŠU.LUGAL|
+@link	eBL |ŠU.LUGAL| https://www.ebl.lmu.de/signs/|ŠU.LUGAL|
 @end sign
 
 @sign |ŠU.LUL|
@@ -41283,7 +41242,7 @@
 @useq	x122D7.x1221C
 @ucun	𒋗𒈜
 @v	suslug
-@link eBL |ŠU.LUL| https://www.ebl.lmu.de/signs/|ŠU.LUL|
+@link	eBL |ŠU.LUL| https://www.ebl.lmu.de/signs/|ŠU.LUL|
 @end sign
 
 @sign |ŠU.ME.EREN|
@@ -41292,7 +41251,7 @@
 @ucun	𒋗𒈨𒂞
 @v	šurmen
 @v	šurmin
-@link eBL |ŠU.ME.EREN| https://www.ebl.lmu.de/signs/|ŠU.ME.EREN|
+@link	eBL |ŠU.ME.EREN| https://www.ebl.lmu.de/signs/|ŠU.ME.EREN|
 @end sign
 
 @sign |ŠU.MIN|
@@ -41302,7 +41261,7 @@
 @v	qa₄
 @v	qad₂
 @v	qat₂
-@link eBL |ŠU.MIN| https://www.ebl.lmu.de/signs/|ŠU.MIN|
+@link	eBL |ŠU.MIN| https://www.ebl.lmu.de/signs/|ŠU.MIN|
 @end sign
 
 @sign |ŠU.MIN.ME.U.U.U|
@@ -41310,7 +41269,7 @@
 @useq	x122D7.x1222B.x1238C
 @ucun	𒋗𒈫𒎌
 @v	qati
-@link eBL |ŠU.MIN.ME.U.U.U| https://www.ebl.lmu.de/signs/|ŠU.MIN.ME.U.U.U|
+@link	eBL |ŠU.MIN.ME.U.U.U| https://www.ebl.lmu.de/signs/|ŠU.MIN.ME.U.U.U|
 @end sign
 
 @sign |ŠU.NAGA|
@@ -41320,7 +41279,7 @@
 @useq	x122D7.x12240
 @ucun	𒋗𒉀
 @v	tu₅
-@link eBL |ŠU.NAGA| https://www.ebl.lmu.de/signs/|ŠU.NAGA|
+@link	eBL |ŠU.NAGA| https://www.ebl.lmu.de/signs/|ŠU.NAGA|
 @form |ŠU.SUM.KAK|
 @oid	o0031568
 @inote	Emar
@@ -41334,15 +41293,15 @@
 @useq	x122D7.x1227D.x1227D
 @ucun	𒋗𒉽𒉽
 @v	gešba₂
-@v	gešpaₓ
 @v	gešbu₂
+@v	gešpaₓ
 @v	gešpu₂
 @v	ŋešba₂
-@v	ŋešpaₓ
 @v	ŋešbu₂
+@v	ŋešpaₓ
 @v	ŋešpu₂
 @sys	Attinger ŋešba₂
-@link eBL |ŠU.PAP.PAP| https://www.ebl.lmu.de/signs/|ŠU.PAP.PAP|
+@link	eBL |ŠU.PAP.PAP| https://www.ebl.lmu.de/signs/|ŠU.PAP.PAP|
 @end sign
 
 @sign |ŠU.SI.DI|
@@ -41350,7 +41309,7 @@
 @useq	x122D7.x122DB.x12072
 @ucun	𒋗𒋛𒁲
 @v	sahabₓ
-@link eBL |ŠU.SI.DI| https://www.ebl.lmu.de/signs/|ŠU.SI.DI|
+@link	eBL |ŠU.SI.DI| https://www.ebl.lmu.de/signs/|ŠU.SI.DI|
 @end sign
 
 @sign |ŠU.U|
@@ -41358,7 +41317,7 @@
 @useq	x122D7.x1230B
 @ucun	𒋗𒌋
 @v	šu-u
-@link eBL |ŠU.U| https://www.ebl.lmu.de/signs/|ŠU.U|
+@link	eBL |ŠU.U| https://www.ebl.lmu.de/signs/|ŠU.U|
 @end sign
 
 @sign |ŠU&ŠU@180|
@@ -41372,13 +41331,13 @@
 @inote	admin/names
 @v	šuₓ
 @inote	better ŠU&ŠU@h because the lower sign is reflected about the horizontal axis not rotated 180
-@link eBL |ŠU&ŠU@180| https://www.ebl.lmu.de/signs/|ŠU&ŠU@180|
-@link Wikidata Q87556431 http://www.wikidata.org/entity/Q87556431
+@link	eBL |ŠU&ŠU@180| https://www.ebl.lmu.de/signs/|ŠU&ŠU@180|
+@link	Wikidata Q87556431 http://www.wikidata.org/entity/Q87556431
 @end sign
 
 @sign ŠU@180
 @oid	o0002846
-@link eBL ŠU@180 https://www.ebl.lmu.de/signs/ŠU@180
+@link	eBL ŠU@180 https://www.ebl.lmu.de/signs/ŠU@180
 @end sign
 
 @sign ŠU@s
@@ -41388,7 +41347,7 @@
 
 @sign ŠU@t
 @oid	o0002847
-@link eBL ŠU@t https://www.ebl.lmu.de/signs/ŠU@t
+@link	eBL ŠU@t https://www.ebl.lmu.de/signs/ŠU@t
 @end sign
 
 @sign ŠU₂
@@ -41407,65 +41366,8 @@
 @v	šu₂
 @v	šubartin
 @v	šuš₂
-@link eBL ŠU₂ https://www.ebl.lmu.de/signs/ŠU₂
-@link Wikidata Q87556433 http://www.wikidata.org/entity/Q87556433
-@end sign
-
-@sign |ŠU₂.3×AN|
-@oid	o0002809
-@list	ABZL424
-@list	MZL872
-@list	SLLHA547
-@lit	Civil, Farmer's Instructions, 140-147𒋙𒀯
-@note	The values kunga and kungi originally belong to |BAR.AN| (and variants) = kunga₂ and are only associated with |ŠU₂.3×AN| in post-OB writing.
-@useq	x122D9.x1202F
-@ucun	𒋙𒀯
-@v	iši₂
-@v	kunga
-@v	kungi
-@v	suhub
-@v	suhul
-@v	sulgar
-@v	šuhub
-@link eBL |ŠU₂.3×AN| https://www.ebl.lmu.de/signs/|ŠU₂.3×AN|
-@form |3×AN|
-@oid	o0000642
-@list	BAU008
-@list	ELLES006b
-@list	GCSL051
-@list	KWU025
-@list	LAK010
-@list	MZL247
-@list	PTACE009
-@list	RSP082
-@uname	CUNEIFORM SIGN AN THREE TIMES
-@list	U+1202F
-@ucun	𒀯
-@uage	5.0
-@v	suhub₂
-@v	šuhub₂
-@link eBL |3×AN| https://www.ebl.lmu.de/signs/|3×AN|
-@link Wikidata Q87555091 http://www.wikidata.org/entity/Q87555091
-@@
-@form |3×AN.BAR|
-@oid	o0000641
-@note	SF 81 (ED Animals A). Order of signs is insignificant here.
-@useq	x1202F.x12047
-@ucun	𒀯𒁇
-@v	suhub
-@v	šuhub
-@ref	SF 81 = dcclt:P010677 o i 10, ab₂ 3×AN.BAR
-@@
-@form |BAR.3×AN|
-@oid	o0000905
-@note	The sign |BAR.3×AN| is a third millennium/OB variant of |ŠU₂.3×AN| and is thus not associated with kunga.
-@useq	x12047.x1202F
-@ucun	𒁇𒀯
-@v-	kungaₓ
-@v	suhub
-@v	šuhub
-@inote	cp "BAR MUL"--written more like BAR×MUL i 4' in P000299 Archaic Animals
-@@
+@link	eBL ŠU₂ https://www.ebl.lmu.de/signs/ŠU₂
+@link	Wikidata Q87556433 http://www.wikidata.org/entity/Q87556433
 @end sign
 
 @sign |ŠU₂.AN|
@@ -41488,14 +41390,71 @@
 @v-	sulgar
 @v	še₉
 @v-	šuhub
-@link eBL |ŠU₂.AN| https://www.ebl.lmu.de/signs/|ŠU₂.AN|
+@link	eBL |ŠU₂.AN| https://www.ebl.lmu.de/signs/|ŠU₂.AN|
 @form |BAR.AN|
 @oid	o0000906
 @list	MZL123
 @list	SLLHA074_182
 @useq	x12047.x1202D
 @ucun	𒁇𒀭
-@link eBL |BAR.AN| https://www.ebl.lmu.de/signs/|BAR.AN|
+@link	eBL |BAR.AN| https://www.ebl.lmu.de/signs/|BAR.AN|
+@@
+@end sign
+
+@sign |ŠU₂.3×AN|
+@oid	o0002809
+@list	ABZL424
+@list	MZL872
+@list	SLLHA547
+@lit	Civil, Farmer's Instructions, 140-147𒋙𒀯
+@note	The values kunga and kungi originally belong to |BAR.AN| (and variants) = kunga₂ and are only associated with |ŠU₂.3×AN| in post-OB writing.
+@useq	x122D9.x1202F
+@ucun	𒋙𒀯
+@v	iši₂
+@v	kunga
+@v	kungi
+@v	suhub
+@v	suhul
+@v	sulgar
+@v	šuhub
+@link	eBL |ŠU₂.3×AN| https://www.ebl.lmu.de/signs/|ŠU₂.3×AN|
+@form |3×AN|
+@oid	o0000642
+@list	BAU008
+@list	ELLES006b
+@list	GCSL051
+@list	KWU025
+@list	LAK010
+@list	MZL247
+@list	PTACE009
+@list	RSP082
+@uname	CUNEIFORM SIGN AN THREE TIMES
+@list	U+1202F
+@ucun	𒀯
+@uage	5.0
+@v	suhub₂
+@v	šuhub₂
+@link	eBL |3×AN| https://www.ebl.lmu.de/signs/|3×AN|
+@link	Wikidata Q87555091 http://www.wikidata.org/entity/Q87555091
+@@
+@form |3×AN.BAR|
+@oid	o0000641
+@note	SF 81 (ED Animals A). Order of signs is insignificant here.
+@useq	x1202F.x12047
+@ucun	𒀯𒁇
+@v	suhub
+@v	šuhub
+@ref	SF 81 = dcclt:P010677 o i 10, ab₂ 3×AN.BAR
+@@
+@form |BAR.3×AN|
+@oid	o0000905
+@note	The sign |BAR.3×AN| is a third millennium/OB variant of |ŠU₂.3×AN| and is thus not associated with kunga.
+@useq	x12047.x1202F
+@ucun	𒁇𒀯
+@v-	kungaₓ
+@v	suhub
+@v	šuhub
+@inote	cp "BAR MUL"--written more like BAR×MUL i 4' in P000299 Archaic Animals
 @@
 @end sign
 
@@ -41512,7 +41471,7 @@
 @v	keš₃
 @v	keši₃
 @v	kiši₃
-@link eBL |ŠU₂.AN.HI×GAD| https://www.ebl.lmu.de/signs/|ŠU₂.AN.HI×GAD|
+@link	eBL |ŠU₂.AN.HI×GAD| https://www.ebl.lmu.de/signs/|ŠU₂.AN.HI×GAD|
 @form |AN.HI×GAD|
 @oid	o0021752
 @useq	x1202D.x12132
@@ -41525,7 +41484,7 @@
 @useq	x122D9.x1202D
 @ucun	𒋙𒀭
 @v	keš₃
-@link eBL |ŠU₂.AN| https://www.ebl.lmu.de/signs/|ŠU₂.AN|
+@link	eBL |ŠU₂.AN| https://www.ebl.lmu.de/signs/|ŠU₂.AN|
 @@
 @form |ŠU₂.AN.HI.GAD|
 @oid	o0048852
@@ -41552,7 +41511,7 @@
 @v	keš₃
 @@
 @form |U.AN.HI×GAD|
-@oid 	o0038079
+@oid	o0038079
 @useq	x1230B.x1202D.x12132
 @ucun	𒌋𒀭𒄲
 @v	keš₃
@@ -41570,7 +41529,7 @@
 @v	gibir
 @v	kibir₂
 @v	kungaₓ
-@link eBL |ŠU₂.AŠ₂| https://www.ebl.lmu.de/signs/|ŠU₂.AŠ₂|
+@link	eBL |ŠU₂.AŠ₂| https://www.ebl.lmu.de/signs/|ŠU₂.AŠ₂|
 @form |ŠU₂.ZIB|
 @oid	o0023030
 @aka	|ŠU₂.(AŠ@z&AŠ@z&AŠ@z&AŠ@z)|
@@ -41585,7 +41544,7 @@
 @useq	x122D9.x12041
 @ucun	𒋙𒁁
 @v	zipahₓ
-@link eBL |ŠU₂.BAD| https://www.ebl.lmu.de/signs/|ŠU₂.BAD|
+@link	eBL |ŠU₂.BAD| https://www.ebl.lmu.de/signs/|ŠU₂.BAD|
 @end sign
 
 @sign |ŠU₂.DUG×NI|
@@ -41595,8 +41554,8 @@
 @list	U+12536
 @ucun	𒔶
 @uage	8.0
-@link eBL |ŠU₂.DUG×NI| https://www.ebl.lmu.de/signs/|ŠU₂.DUG×NI|
-@link Wikidata Q87557455 http://www.wikidata.org/entity/Q87557455
+@link	eBL |ŠU₂.DUG×NI| https://www.ebl.lmu.de/signs/|ŠU₂.DUG×NI|
+@link	Wikidata Q87557455 http://www.wikidata.org/entity/Q87557455
 @end sign
 
 @sign |ŠU₂.DUN₃|
@@ -41641,8 +41600,8 @@
 @list	U+12537
 @ucun	𒔷
 @uage	8.0
-@link eBL |ŠU₂.(E₂×AN)| https://www.ebl.lmu.de/signs/|ŠU₂.(E₂×AN)|
-@link Wikidata Q87557458 http://www.wikidata.org/entity/Q87557458
+@link	eBL |ŠU₂.(E₂×AN)| https://www.ebl.lmu.de/signs/|ŠU₂.(E₂×AN)|
+@link	Wikidata Q87557458 http://www.wikidata.org/entity/Q87557458
 @end sign
 
 @sign |ŠU₂.IG|
@@ -41651,13 +41610,6 @@
 @ucun	𒋙𒅅
 @v	galₓ
 @v	ŋalₓ
-@end sign
-
-@sign |ŠU₂.2(N57)|
-@oid	o0027498
-@inote	UET II, provisional
-@useq	x122D9.X
-@ucun	𒋙X
 @end sign
 
 @sign |ŠU₂.NAGA|
@@ -41670,7 +41622,7 @@
 @v	sa₁₇
 @v	sigaₓ
 @v	šeg₈
-@link eBL |ŠU₂.NAGA| https://www.ebl.lmu.de/signs/|ŠU₂.NAGA|
+@link	eBL |ŠU₂.NAGA| https://www.ebl.lmu.de/signs/|ŠU₂.NAGA|
 @end sign
 
 @sign |ŠU₂.NE|
@@ -41682,7 +41634,7 @@
 @v	lal₆?
 @v	lil₅
 @v	ne₄
-@link eBL |ŠU₂.NE| https://www.ebl.lmu.de/signs/|ŠU₂.NE|
+@link	eBL |ŠU₂.NE| https://www.ebl.lmu.de/signs/|ŠU₂.NE|
 @end sign
 
 @sign |ŠU₂.SA|
@@ -41690,14 +41642,14 @@
 @useq	x122D9.x12293
 @ucun	𒋙𒊓
 @v	saₓ
-@inote P253776 ii 8, CUSAS 35 no. 479
+@inote	P253776 ii 8, CUSAS 35 no. 479
 @end sign
 
 @sign |ŠU₂.ŠE.KU.KAK|
 @oid	o0002822
 @useq	x122D9.x122BA.x121AA.x12195
 @ucun	𒋙𒊺𒆪𒆕
-@link eBL |ŠU₂.ŠE.KU.KAK| https://www.ebl.lmu.de/signs/|ŠU₂.ŠE.KU.KAK|
+@link	eBL |ŠU₂.ŠE.KU.KAK| https://www.ebl.lmu.de/signs/|ŠU₂.ŠE.KU.KAK|
 @end sign
 
 @sign |ŠU₂.U.U.U|
@@ -41706,7 +41658,7 @@
 @ucun	𒋙𒌍
 @v	lal₅?
 @v	lil₃
-@link eBL |ŠU₂.U.U.U| https://www.ebl.lmu.de/signs/|ŠU₂.U.U.U|
+@link	eBL |ŠU₂.U.U.U| https://www.ebl.lmu.de/signs/|ŠU₂.U.U.U|
 @end sign
 
 @sign |ŠU₂.UR@s|
@@ -41717,7 +41669,7 @@
 @v	šudul₃
 @v	šudun₃
 @v	šutul₃
-@link eBL |ŠU₂.UR@s| https://www.ebl.lmu.de/signs/|ŠU₂.UR@s|
+@link	eBL |ŠU₂.UR@s| https://www.ebl.lmu.de/signs/|ŠU₂.UR@s|
 @end sign
 
 @sign |ŠU₂.ZI₃|
@@ -41726,14 +41678,21 @@
 @lit	M. Civil OA 21, 9
 @useq	x122D9.x12365
 @ucun	𒋙𒍥
-@link eBL |ŠU₂.ZI₃| https://www.ebl.lmu.de/signs/|ŠU₂.ZI₃|
+@link	eBL |ŠU₂.ZI₃| https://www.ebl.lmu.de/signs/|ŠU₂.ZI₃|
+@end sign
+
+@sign |ŠU₂.2(N57)|
+@oid	o0027498
+@inote	UET II, provisional
+@useq	x122D9.X
+@ucun	𒋙X
 @end sign
 
 @sign |ŠU₂×(A.DIŠ)|
 @oid	o0002823
 @v	šuaₓ
 @ref	Msk 731030 = dcclt:P271301 r i 17
-@link eBL |ŠU₂×(A.DIŠ)| https://www.ebl.lmu.de/signs/|ŠU₂×(A.DIŠ)|
+@link	eBL |ŠU₂×(A.DIŠ)| https://www.ebl.lmu.de/signs/|ŠU₂×(A.DIŠ)|
 @end sign
 
 @sign ŠUBUR
@@ -41770,8 +41729,8 @@
 @v	zeh₂
 @v	zih₂
 @sys	Attinger saha => šah
-@link eBL ŠUBUR https://www.ebl.lmu.de/signs/ŠUBUR
-@link Wikidata Q87556435 http://www.wikidata.org/entity/Q87556435
+@link	eBL ŠUBUR https://www.ebl.lmu.de/signs/ŠUBUR
+@link	Wikidata Q87556435 http://www.wikidata.org/entity/Q87556435
 @end sign
 
 @sign ŠUŠANA
@@ -41784,15 +41743,15 @@
 @list	U+1245A
 @ucun	𒑚
 @uage	5.0
-@v	1/3(aš)
-@v	1/3(diš)
-@v	1/3(iku)
 @v	igišŋalₓ
 @v	šudaₓ?
 @v	šušana
 @v	šuššanₓ
-@link eBL ŠUŠANA https://www.ebl.lmu.de/signs/ŠUŠANA
-@link Wikidata Q87557041 http://www.wikidata.org/entity/Q87557041
+@v	1/3(aš)
+@v	1/3(diš)
+@v	1/3(iku)
+@link	eBL ŠUŠANA https://www.ebl.lmu.de/signs/ŠUŠANA
+@link	Wikidata Q87557041 http://www.wikidata.org/entity/Q87557041
 @form |ŠU₂.ŠA|
 @oid	o0031798
 @useq	x122D9.x122AD
@@ -41803,38 +41762,8 @@
 @oid	o0027584
 @list	LAK817
 @v	1/3(aš@c@90)
-@inote |ŠU₂.N8| = |ŠU₂.AŠ@c@90| = |ŠU₂.DIŠ@c|
+@inote	|ŠU₂.N8| = |ŠU₂.AŠ@c@90| = |ŠU₂.DIŠ@c|
 @@
-@end sign
-
-@sign |LU.KU|
-@oid o0038245
-@useq x121FB.x121AA
-@ucun 𒇻𒆪
-@v unuₓ
-@end sign
-
-@sign |4×TAB|
-@oid	o0000653
-@list	ABZL109
-@list	HZL090
-@list	SLLHA127
-@inote	#CHECK is this the same as |4×(IDIM&IDIM)|?
-@uname	CUNEIFORM SIGN TAB SQUARED
-@list	U+122F2
-@ucun	𒋲
-@uage	5.0
-@v	burₓ
-@v	buruₓ
-@v	gurinₓ
-@v	gurunₓ
-@v	kurunₓ
-@link eBL |4×TAB| https://www.ebl.lmu.de/signs/|4×TAB|
-@end sign
-
-@sign |4×(TAR.LIMMU₂)|
-@oid	o0022935
-@inote	dcclt !sg
 @end sign
 
 @sign TA
@@ -41857,16 +41786,19 @@
 @v	da₂
 @v	ta
 @v	ṭa₂
-@link eBL TA https://www.ebl.lmu.de/signs/TA
-@link Wikidata Q87556470 http://www.wikidata.org/entity/Q87556470
+@link	eBL TA https://www.ebl.lmu.de/signs/TA
+@link	Wikidata Q87556470 http://www.wikidata.org/entity/Q87556470
 @end sign
 
 @sign |TA×GAR|
 @oid	o0002406
 @inote	CDLI ed3b
 @v	lungaₓ
-@link eBL |TA×GAR| https://www.ebl.lmu.de/signs/|TA×GAR|
+@link	eBL |TA×GAR| https://www.ebl.lmu.de/signs/|TA×GAR|
 @end sign
+
+@compoundonly	|(TA×HI)|
+@inote	added during ogsl upgrade
 
 @sign |TA×HI|
 @oid	o0002407
@@ -41885,16 +41817,18 @@
 @v	alamuš
 @v	lal₃
 @v	ru₈
-@link eBL |TA×HI| https://www.ebl.lmu.de/signs/|TA×HI|
-@link Wikidata Q87556473 http://www.wikidata.org/entity/Q87556473
+@link	eBL |TA×HI| https://www.ebl.lmu.de/signs/|TA×HI|
+@link	Wikidata Q87556473 http://www.wikidata.org/entity/Q87556473
 @end sign
-
-@compoundonly	|(TA×HI)|
-@inote	added during ogsl upgrade
 
 @sign |TA×IGI@g|
 @oid	o0221885
 @v	sukudₓ
+@end sign
+
+@sign |TA×KASKAL|
+@oid	o0038273
+@inote	epsd2/oakk; possibly read GUR₈!
 @end sign
 
 @sign |TA×KUR|
@@ -41910,15 +41844,15 @@
 @ucun	𒋮
 @uage	5.0
 @v	gansisₓ
-@link eBL |TA×MI| https://www.ebl.lmu.de/signs/|TA×MI|
-@link Wikidata Q87556475 http://www.wikidata.org/entity/Q87556475
+@link	eBL |TA×MI| https://www.ebl.lmu.de/signs/|TA×MI|
+@link	Wikidata Q87556475 http://www.wikidata.org/entity/Q87556475
 @end sign
 
 @sign |TA×ŠE|
 @oid	o0002409
 @list	RSP211
 @v	sukudₓ
-@link eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
+@link	eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
 @end sign
 
 @sign |TA×U|
@@ -41938,8 +41872,8 @@
 @v	ganzerₓ
 @v	kabta
 @v	taₓ
-@link eBL TA@g https://www.ebl.lmu.de/signs/TA@g
-@link Wikidata Q87556477 http://www.wikidata.org/entity/Q87556477
+@link	eBL TA@g https://www.ebl.lmu.de/signs/TA@g
+@link	Wikidata Q87556477 http://www.wikidata.org/entity/Q87556477
 @form LAK654a
 @oid	o0025784
 @list	LAK654a
@@ -41960,8 +41894,8 @@
 @list	U+122EC
 @ucun	𒋬
 @uage	5.0
-@link eBL TA@v https://www.ebl.lmu.de/signs/TA@v
-@link Wikidata Q87556471 http://www.wikidata.org/entity/Q87556471
+@link	eBL TA@v https://www.ebl.lmu.de/signs/TA@v
+@link	Wikidata Q87556471 http://www.wikidata.org/entity/Q87556471
 @end sign
 
 @sign TAB
@@ -41988,15 +41922,33 @@
 @v	tapa
 @v	ṭab
 @v	ṭap
-@link eBL TAB https://www.ebl.lmu.de/signs/TAB
-@link Wikidata Q87556478 http://www.wikidata.org/entity/Q87556478
+@link	eBL TAB https://www.ebl.lmu.de/signs/TAB
+@link	Wikidata Q87556478 http://www.wikidata.org/entity/Q87556478
 @form TAB@t
 @oid	o0000545
 @v	tab@t
 @inote	ed3b
 @inote	Need to resolve this vs sign TAB@t = tab₄
-@link eBL TAB@t https://www.ebl.lmu.de/signs/TAB@t
+@link	eBL TAB@t https://www.ebl.lmu.de/signs/TAB@t
 @@
+@end sign
+
+@sign |4×TAB|
+@oid	o0000653
+@list	ABZL109
+@list	HZL090
+@list	SLLHA127
+@inote	#CHECK is this the same as |4×(IDIM&IDIM)|?
+@uname	CUNEIFORM SIGN TAB SQUARED
+@list	U+122F2
+@ucun	𒋲
+@uage	5.0
+@v	burₓ
+@v	buruₓ
+@v	gurinₓ
+@v	gurunₓ
+@v	kurunₓ
+@link	eBL |4×TAB| https://www.ebl.lmu.de/signs/|4×TAB|
 @end sign
 
 @sign |TAB.GAR.ŠE|
@@ -42005,7 +41957,7 @@
 @useq	x122F0.x120FB.x122BA
 @ucun	𒋰𒃻𒊺
 @v	garadinₓ
-@link eBL |TAB.GAR.ŠE| https://www.ebl.lmu.de/signs/|TAB.GAR.ŠE|
+@link	eBL |TAB.GAR.ŠE| https://www.ebl.lmu.de/signs/|TAB.GAR.ŠE|
 @end sign
 
 @sign |TAB.KUN|
@@ -42016,7 +41968,7 @@
 @ucun	𒋰𒆲
 @v	megida₂
 @v	megidda₂
-@link eBL |TAB.KUN| https://www.ebl.lmu.de/signs/|TAB.KUN|
+@link	eBL |TAB.KUN| https://www.ebl.lmu.de/signs/|TAB.KUN|
 @end sign
 
 @sign |TAB.PI|
@@ -42032,7 +41984,7 @@
 @useq	x122F0.x122F0.x12038
 @ucun	𒋰𒋰𒀸
 @v	ia₇
-@link eBL |TAB.TAB.AŠ| https://www.ebl.lmu.de/signs/|TAB.TAB.AŠ|
+@link	eBL |TAB.TAB.AŠ| https://www.ebl.lmu.de/signs/|TAB.TAB.AŠ|
 @end sign
 
 @sign |TAB.TAB.TAB|
@@ -42040,7 +41992,7 @@
 @useq	x122F0.x122F0.x122F0
 @ucun	𒋰𒋰𒋰
 @v	aš₄
-@link eBL |TAB.TAB.TAB| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB|
+@link	eBL |TAB.TAB.TAB| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB|
 @end sign
 
 @sign |TAB.TAB.TAB.AŠ|
@@ -42050,7 +42002,7 @@
 @v	imin₂
 @v	imina₂
 @v	umun₈
-@link eBL |TAB.TAB.TAB.AŠ| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB.AŠ|
+@link	eBL |TAB.TAB.TAB.AŠ| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB.AŠ|
 @end sign
 
 @sign |TAB.TAB.TAB.TAB|
@@ -42059,7 +42011,7 @@
 @ucun	𒋰𒋰𒋰𒋰
 @v	ussa₂
 @v	ussu₂
-@link eBL |TAB.TAB.TAB.TAB| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB.TAB|
+@link	eBL |TAB.TAB.TAB.TAB| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB.TAB|
 @end sign
 
 @sign |TAB.TAB.TAB.TAB.AŠ|
@@ -42067,7 +42019,7 @@
 @useq	x122F0.x122F0.x122F0.x122F0.x12038
 @ucun	𒋰𒋰𒋰𒋰𒀸
 @v	ilimmu₂
-@link eBL |TAB.TAB.TAB.TAB.AŠ| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB.TAB.AŠ|
+@link	eBL |TAB.TAB.TAB.TAB.AŠ| https://www.ebl.lmu.de/signs/|TAB.TAB.TAB.TAB.AŠ|
 @end sign
 
 @sign |TAB.TI|
@@ -42078,7 +42030,14 @@
 @ucun	𒋰𒋾
 @v	megida
 @v	megidda
-@link eBL |TAB.TI| https://www.ebl.lmu.de/signs/|TAB.TI|
+@link	eBL |TAB.TI| https://www.ebl.lmu.de/signs/|TAB.TI|
+@end sign
+
+@sign |TAB+ERIN₂×(U.U.U)|
+@oid	o0027892
+@inote	gvl dcclt Emar
+@useq	x122F0.X
+@ucun	𒋰X
 @end sign
 
 @sign |TAB&TAB|
@@ -42101,15 +42060,8 @@
 @v	ubišaga
 @ref	K 4386 = dcclt/nineveh:P365399 r ii 31?
 @note	Presumably, this is an attempt to write an archaizing form of UMBISAG₂; see An = Anum 1, 158.
-@link eBL |TAB&TAB.NI&NI.DIŠ&DIŠ| https://www.ebl.lmu.de/signs/|TAB&TAB.NI&NI.DIŠ&DIŠ|
-@link Wikidata Q87556480 http://www.wikidata.org/entity/Q87556480
-@end sign
-
-@sign |TAB+ERIN₂×(U.U.U)|
-@oid	o0027892
-@inote	gvl dcclt Emar
-@useq	x122F0.X
-@ucun	𒋰X
+@link	eBL |TAB&TAB.NI&NI.DIŠ&DIŠ| https://www.ebl.lmu.de/signs/|TAB&TAB.NI&NI.DIŠ&DIŠ|
+@link	Wikidata Q87556480 http://www.wikidata.org/entity/Q87556480
 @end sign
 
 @sign TAB@t
@@ -42119,7 +42071,7 @@
 @v	tab₄
 @ref	Ass 00523 = dcclt/signlists:P370411 r 2 48
 @inote	salgues
-@link eBL TAB@t https://www.ebl.lmu.de/signs/TAB@t
+@link	eBL TAB@t https://www.ebl.lmu.de/signs/TAB@t
 @end sign
 
 @sign TAG
@@ -42167,8 +42119,8 @@
 @v	tuku₅
 @v	uttuₓ
 @v	zil₂
-@link eBL TAG https://www.ebl.lmu.de/signs/TAG
-@link Wikidata Q87556484 http://www.wikidata.org/entity/Q87556484
+@link	eBL TAG https://www.ebl.lmu.de/signs/TAG
+@link	Wikidata Q87556484 http://www.wikidata.org/entity/Q87556484
 @end sign
 
 @sign |TAG.GAM.ME|
@@ -42176,7 +42128,7 @@
 @useq	x122F3.x120F5.x12228
 @ucun	𒋳𒃵𒈨
 @v	šumgamme
-@link eBL |TAG.GAM.ME| https://www.ebl.lmu.de/signs/|TAG.GAM.ME|
+@link	eBL |TAG.GAM.ME| https://www.ebl.lmu.de/signs/|TAG.GAM.ME|
 @end sign
 
 @sign |TAG.NUN|
@@ -42197,7 +42149,7 @@
 @useq	x122F3.x122F3
 @ucun	𒋳𒋳
 @v	ziz₅
-@link eBL |TAG.TAG| https://www.ebl.lmu.de/signs/|TAG.TAG|
+@link	eBL |TAG.TAG| https://www.ebl.lmu.de/signs/|TAG.TAG|
 @end sign
 
 @sign |TAG.TUG₂|
@@ -42206,7 +42158,7 @@
 @ucun	𒋳𒌆
 @v	šeraₓ
 @v	šerimₓ
-@link eBL |TAG.TUG₂| https://www.ebl.lmu.de/signs/|TAG.TUG₂|
+@link	eBL |TAG.TUG₂| https://www.ebl.lmu.de/signs/|TAG.TUG₂|
 @form |TAG.LU|
 @oid	o0027771
 @useq	x122F3.x121FB
@@ -42221,7 +42173,7 @@
 @ucun	𒋴
 @uage	5.0
 @v	tibirₓ
-@link eBL |TAG×BI| https://www.ebl.lmu.de/signs/|TAG×BI|
+@link	eBL |TAG×BI| https://www.ebl.lmu.de/signs/|TAG×BI|
 @end sign
 
 @sign |TAG×GUD|
@@ -42235,9 +42187,11 @@
 @uage	5.0
 @v	silig₄
 @v	tibir₅
-@link eBL |TAG×GUD| https://www.ebl.lmu.de/signs/|TAG×GUD|
-@link Wikidata Q87556487 http://www.wikidata.org/entity/Q87556487
+@link	eBL |TAG×GUD| https://www.ebl.lmu.de/signs/|TAG×GUD|
+@link	Wikidata Q87556487 http://www.wikidata.org/entity/Q87556487
 @end sign
+
+@compoundonly	|(TAG×NE)|
 
 @sign |TAG×ŠE|
 @oid	o0002400
@@ -42246,11 +42200,11 @@
 @ucun	𒋶
 @uage	5.0
 @v	tibirₓ
-@link eBL |TAG×ŠE| https://www.ebl.lmu.de/signs/|TAG×ŠE|
-@link Wikidata Q87556488 http://www.wikidata.org/entity/Q87556488
+@link	eBL |TAG×ŠE| https://www.ebl.lmu.de/signs/|TAG×ŠE|
+@link	Wikidata Q87556488 http://www.wikidata.org/entity/Q87556488
 @form |(TAG×NE)&(TAG×ŠE)|
-@oid  o0038335
-@inote epsd2/royal; needs collation
+@oid	o0038335
+@inote	epsd2/royal; needs collation
 @@
 @end sign
 
@@ -42264,8 +42218,8 @@
 @ucun	𒋷
 @uage	5.0
 @v	tibir₂
-@link eBL |TAG×ŠU| https://www.ebl.lmu.de/signs/|TAG×ŠU|
-@link Wikidata Q87556489 http://www.wikidata.org/entity/Q87556489
+@link	eBL |TAG×ŠU| https://www.ebl.lmu.de/signs/|TAG×ŠU|
+@link	Wikidata Q87556489 http://www.wikidata.org/entity/Q87556489
 @form |ŠU.TAG|
 @oid	o0018570
 @useq	x122D7.x122F3
@@ -42296,8 +42250,8 @@
 @v	uttu
 @v	utuₓ
 @v	uṭu
-@link eBL |TAG×TUG₂| https://www.ebl.lmu.de/signs/|TAG×TUG₂|
-@link Wikidata Q87556490 http://www.wikidata.org/entity/Q87556490
+@link	eBL |TAG×TUG₂| https://www.ebl.lmu.de/signs/|TAG×TUG₂|
+@link	Wikidata Q87556490 http://www.wikidata.org/entity/Q87556490
 @form |ŠIM.TUG₂|
 @oid	o0027913
 @inote	Assur NA lex; needs collation
@@ -42307,7 +42261,7 @@
 @form |TAG.TUG₂|
 @oid	o0002394
 @v	uttu
-@link eBL |TAG.TUG₂| https://www.ebl.lmu.de/signs/|TAG.TUG₂|
+@link	eBL |TAG.TUG₂| https://www.ebl.lmu.de/signs/|TAG.TUG₂|
 @@
 @form |TAG×KU|
 @oid	o0002397
@@ -42315,7 +42269,7 @@
 @inote	@uname-no-utf8	CUNEIFORM SIGN TAG TIMES KU
 @unote	if encoded in Unicode it should be noted that it is homographous to TAG TIMES TUG₂; if both are encoded TAG TIMES KU should be deprecated
 @v-	uttuₓ
-@link eBL |TAG×KU| https://www.ebl.lmu.de/signs/|TAG×KU|
+@link	eBL |TAG×KU| https://www.ebl.lmu.de/signs/|TAG×KU|
 @@
 @form |TUG₂.TAG|
 @oid	o0031621
@@ -42336,8 +42290,8 @@
 @uage	5.0
 @v	silig₂
 @v	tibir₃
-@link eBL |TAG×UD| https://www.ebl.lmu.de/signs/|TAG×UD|
-@link Wikidata Q87556491 http://www.wikidata.org/entity/Q87556491
+@link	eBL |TAG×UD| https://www.ebl.lmu.de/signs/|TAG×UD|
+@link	Wikidata Q87556491 http://www.wikidata.org/entity/Q87556491
 @form |TAG.UD|
 @oid	o0023075
 @inote	dcclt !sg
@@ -42389,8 +42343,8 @@
 @v	tukₓ
 @v	ṭat
 @v	urₓ
-@link eBL TAK₄ https://www.ebl.lmu.de/signs/TAK₄
-@link Wikidata Q87556492 http://www.wikidata.org/entity/Q87556492
+@link	eBL TAK₄ https://www.ebl.lmu.de/signs/TAK₄
+@link	Wikidata Q87556492 http://www.wikidata.org/entity/Q87556492
 @end sign
 
 @sign |TAK₄.ALAN|
@@ -42399,7 +42353,7 @@
 @ucun	𒋺𒀩
 @v	alanₓ
 @v	zermuškuₓ
-@link eBL |TAK₄.ALAN| https://www.ebl.lmu.de/signs/|TAK₄.ALAN|
+@link	eBL |TAK₄.ALAN| https://www.ebl.lmu.de/signs/|TAK₄.ALAN|
 @end sign
 
 @sign |TAK₄.IM|
@@ -42408,7 +42362,7 @@
 @useq	x122FA.x1214E
 @ucun	𒋺𒅎
 @v	kidₓ
-@link eBL |TAK₄.IM| https://www.ebl.lmu.de/signs/|TAK₄.IM|
+@link	eBL |TAK₄.IM| https://www.ebl.lmu.de/signs/|TAK₄.IM|
 @end sign
 
 @sign |TAK₄.TAK₄|
@@ -42417,7 +42371,7 @@
 @ucun	𒋺𒋺
 @v	dadda
 @v	tatge
-@link eBL |TAK₄.TAK₄| https://www.ebl.lmu.de/signs/|TAK₄.TAK₄|
+@link	eBL |TAK₄.TAK₄| https://www.ebl.lmu.de/signs/|TAK₄.TAK₄|
 @end sign
 
 @compoundonly	TAK₄@f
@@ -42482,8 +42436,13 @@
 @v	ursagsim
 @v	ursaŋsim
 @v	zil₃
-@link eBL TAR https://www.ebl.lmu.de/signs/TAR
-@link Wikidata Q87556493 http://www.wikidata.org/entity/Q87556493
+@link	eBL TAR https://www.ebl.lmu.de/signs/TAR
+@link	Wikidata Q87556493 http://www.wikidata.org/entity/Q87556493
+@end sign
+
+@sign |4×(TAR.LIMMU₂)|
+@oid	o0022935
+@inote	dcclt !sg
 @end sign
 
 @sign |TAR.TAR|
@@ -42498,7 +42457,7 @@
 @sign TAR@v
 @oid	o0000549
 @inote	CDLI ed3b
-@link eBL TAR@v https://www.ebl.lmu.de/signs/TAR@v
+@link	eBL TAR@v https://www.ebl.lmu.de/signs/TAR@v
 @end sign
 
 @sign TE
@@ -42538,13 +42497,15 @@
 @v	ṭe₄
 @v	ṭi₄
 @v	unuₓ
-@link eBL TE https://www.ebl.lmu.de/signs/TE
-@link Wikidata Q87556494 http://www.wikidata.org/entity/Q87556494
+@link	eBL TE https://www.ebl.lmu.de/signs/TE
+@link	Wikidata Q87556494 http://www.wikidata.org/entity/Q87556494
 @form |HI×AŠ|
-@inote AbS form
+@oid	o0001447
+@inote	AbS form
 @@
 @form |HI×DIŠ|
-@inote Fara form
+@oid	o0001454
+@inote	Fara form
 @@
 @end sign
 
@@ -42570,7 +42531,7 @@
 @v	kir₈
 @v	qar₂
 @v	unuₓ
-@link eBL |TE.A| https://www.ebl.lmu.de/signs/|TE.A|
+@link	eBL |TE.A| https://www.ebl.lmu.de/signs/|TE.A|
 @end sign
 
 @sign |TE.AB|
@@ -42580,7 +42541,7 @@
 @ucun	𒋼𒀊
 @v	unu₆
 @v	unug₃
-@link eBL |TE.AB| https://www.ebl.lmu.de/signs/|TE.AB|
+@link	eBL |TE.AB| https://www.ebl.lmu.de/signs/|TE.AB|
 @form |AB.TE|
 @oid	o0031708
 @useq	x1200A.x122FC
@@ -42595,7 +42556,7 @@
 @v	unₓ
 @v	unu₂
 @v	unug₂
-@link eBL |TE.AB@g| https://www.ebl.lmu.de/signs/|TE.AB@g|
+@link	eBL |TE.AB@g| https://www.ebl.lmu.de/signs/|TE.AB@g|
 @end sign
 
 @sign |TE.LAL|
@@ -42610,7 +42571,7 @@
 @v	mullaₓ
 @sys	Attinger ŋulla => gulla
 @sys	Attinger mullaₓ
-@link eBL |TE.LAL| https://www.ebl.lmu.de/signs/|TE.LAL|
+@link	eBL |TE.LAL| https://www.ebl.lmu.de/signs/|TE.LAL|
 @end sign
 
 @sign |TE.ME|
@@ -42620,7 +42581,7 @@
 @useq	x122FC.x12228
 @ucun	𒋼𒈨
 @v	mete
-@link eBL |TE.ME| https://www.ebl.lmu.de/signs/|TE.ME|
+@link	eBL |TE.ME| https://www.ebl.lmu.de/signs/|TE.ME|
 @end sign
 
 @sign |TE.MUŠ₃|
@@ -42628,7 +42589,7 @@
 @useq	x122FC.x12239
 @ucun	𒋼𒈹
 @v	unuₓ
-@link eBL |TE.MUŠ₃| https://www.ebl.lmu.de/signs/|TE.MUŠ₃|
+@link	eBL |TE.MUŠ₃| https://www.ebl.lmu.de/signs/|TE.MUŠ₃|
 @end sign
 
 @sign |TE&TE|
@@ -42666,18 +42627,18 @@
 @v	ur₁₂
 @v	uru₅
 @sys	Attinger maru => ru₁₀
-@link eBL TE@g https://www.ebl.lmu.de/signs/TE@g
-@link Wikidata Q87556495 http://www.wikidata.org/entity/Q87556495
+@link	eBL TE@g https://www.ebl.lmu.de/signs/TE@g
+@link	Wikidata Q87556495 http://www.wikidata.org/entity/Q87556495
 @form LAK051
-@aka LAK51
 @oid	o0031506
+@aka	LAK51
 @list	LAK051
 @uname	CUNEIFORM SIGN LAK51
 @list	U+124DA
 @ucun	𒓚
 @uage	8.0
 @v	gurₓ
-@link Wikidata Q87557263 http://www.wikidata.org/entity/Q87557263
+@link	Wikidata Q87557263 http://www.wikidata.org/entity/Q87557263
 @@
 @form RSP329
 @oid	o0221893
@@ -42693,7 +42654,7 @@
 @list	RSP310
 @v	maru⁻
 @sys	Attinger maru⁻
-@link eBL TE https://www.ebl.lmu.de/signs/TE
+@link	eBL TE https://www.ebl.lmu.de/signs/TE
 @@
 @end sign
 
@@ -42703,13 +42664,13 @@
 @ucun	𒋽𒀕
 @v	unu₇
 @v	unug₄
-@link eBL |TE@g.AB@g| https://www.ebl.lmu.de/signs/|TE@g.AB@g|
+@link	eBL |TE@g.AB@g| https://www.ebl.lmu.de/signs/|TE@g.AB@g|
 @end sign
 
 @sign TE@s
 @oid	o0000552
 @inote	CDLI ed3b
-@link eBL TE@s https://www.ebl.lmu.de/signs/TE@s
+@link	eBL TE@s https://www.ebl.lmu.de/signs/TE@s
 @end sign
 
 @sign TI
@@ -42743,8 +42704,8 @@
 @v	ṭe₆
 @v	ṭi₃
 @sys	Attinger tel₃ => til₃
-@link eBL TI https://www.ebl.lmu.de/signs/TI
-@link Wikidata Q87556496 http://www.wikidata.org/entity/Q87556496
+@link	eBL TI https://www.ebl.lmu.de/signs/TI
+@link	Wikidata Q87556496 http://www.wikidata.org/entity/Q87556496
 @end sign
 
 @sign TI@t
@@ -42759,8 +42720,8 @@
 @inote	dupfix MZL tana(KAL)
 @v	%akk/n tibnu
 @note	The value tibnu is assigned to TI@t, but it is not impossible that it belongs to TI.
-@link eBL TI@t https://www.ebl.lmu.de/signs/TI@t
-@link Wikidata Q87556498 http://www.wikidata.org/entity/Q87556498
+@link	eBL TI@t https://www.ebl.lmu.de/signs/TI@t
+@link	Wikidata Q87556498 http://www.wikidata.org/entity/Q87556498
 @end sign
 
 @sign TI₂
@@ -42777,7 +42738,7 @@
 @v	ti₂
 @v	ṭe₂
 @v	ṭi₂
-@link Wikidata Q87556822 http://www.wikidata.org/entity/Q87556822
+@link	Wikidata Q87556822 http://www.wikidata.org/entity/Q87556822
 @end sign
 
 @sign TIL
@@ -42800,8 +42761,8 @@
 @v	til
 @v	ug₇
 @v	uš₂
-@link eBL TIL https://www.ebl.lmu.de/signs/TIL
-@link Wikidata Q87556501 http://www.wikidata.org/entity/Q87556501
+@link	eBL TIL https://www.ebl.lmu.de/signs/TIL
+@link	Wikidata Q87556501 http://www.wikidata.org/entity/Q87556501
 @end sign
 
 @sign |TIL×AŠ|
@@ -42849,15 +42810,15 @@
 @v	tum₁₂
 @v	tur₅
 @v	ṭu₂
-@link eBL TU https://www.ebl.lmu.de/signs/TU
-@link Wikidata Q87556511 http://www.wikidata.org/entity/Q87556511
+@link	eBL TU https://www.ebl.lmu.de/signs/TU
+@link	Wikidata Q87556511 http://www.wikidata.org/entity/Q87556511
 @form KU₄
 @oid	o0000297
 @list	GCSL105
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r ii 19
 @v	namšeše
 @inote	salgues
-@link eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
+@link	eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
 @@
 @form |ŠU×ŠE|
 @oid	o0031747
@@ -42918,8 +42879,8 @@
 @v	uš₄
 @sys	Attinger dašgari => taškarin
 @sys	Attinger tuba₄ => tug₂
-@link eBL TUG₂ https://www.ebl.lmu.de/signs/TUG₂
-@link Wikidata Q87556512 http://www.wikidata.org/entity/Q87556512
+@link	eBL TUG₂ https://www.ebl.lmu.de/signs/TUG₂
+@link	Wikidata Q87556512 http://www.wikidata.org/entity/Q87556512
 @end sign
 
 @sign |TUG₂.DU@s|
@@ -42927,7 +42888,7 @@
 @useq	x12306.x1207D
 @ucun	𒌆𒁽
 @v	tugir
-@link eBL |TUG₂.DU@s| https://www.ebl.lmu.de/signs/|TUG₂.DU@s|
+@link	eBL |TUG₂.DU@s| https://www.ebl.lmu.de/signs/|TUG₂.DU@s|
 @end sign
 
 @sign |TUG₂.PI.PI|
@@ -42936,7 +42897,7 @@
 @useq	x12306.x1227F.x1227F
 @ucun	𒌆𒉿𒉿
 @v	ŋeštugₓ
-@link eBL |TUG₂.PI.PI| https://www.ebl.lmu.de/signs/|TUG₂.PI.PI|
+@link	eBL |TUG₂.PI.PI| https://www.ebl.lmu.de/signs/|TUG₂.PI.PI|
 @end sign
 
 @sign |TUG₂.PI.TE.A.RA|
@@ -42945,7 +42906,7 @@
 @useq	x12306.x1227F.x122FC.x12000.x1228F
 @ucun	𒌆𒉿𒋼𒀀𒊏
 @v	azlagₓ
-@link eBL |TUG₂.PI.TE.A.RA| https://www.ebl.lmu.de/signs/|TUG₂.PI.TE.A.RA|
+@link	eBL |TUG₂.PI.TE.A.RA| https://www.ebl.lmu.de/signs/|TUG₂.PI.TE.A.RA|
 @end sign
 
 @sign |TUG₂.UD|
@@ -42955,7 +42916,7 @@
 @v	ašlag
 @v	azalag
 @v	azlag
-@link eBL |TUG₂.UD| https://www.ebl.lmu.de/signs/|TUG₂.UD|
+@link	eBL |TUG₂.UD| https://www.ebl.lmu.de/signs/|TUG₂.UD|
 @end sign
 
 @compoundonly	|TUG₂&TUG₂|
@@ -42990,8 +42951,8 @@
 @v	tuku
 @v	tuq
 @inote	Steinkeller BiOr 52 ad ZATU277 LAK473 an allograph of LAK474 so KAB and TUK not distinguished in ED.
-@link eBL TUK https://www.ebl.lmu.de/signs/TUK
-@link Wikidata Q87556515 http://www.wikidata.org/entity/Q87556515
+@link	eBL TUK https://www.ebl.lmu.de/signs/TUK
+@link	Wikidata Q87556515 http://www.wikidata.org/entity/Q87556515
 @end sign
 
 @sign |TUK.TUK|
@@ -43000,7 +42961,11 @@
 @ucun	𒌇𒌇
 @v	duddu
 @v	duttu
-@link eBL |TUK.TUK| https://www.ebl.lmu.de/signs/|TUK.TUK|
+@link	eBL |TUK.TUK| https://www.ebl.lmu.de/signs/|TUK.TUK|
+@end sign
+
+@sign |TUK×HAL|
+@oid	o0038324
 @end sign
 
 @sign |TUK×UD|
@@ -43053,8 +43018,8 @@
 @v	ṭum
 @v	zibₓ
 @sys	Attinger egur₄ => egir₄
-@link eBL TUM https://www.ebl.lmu.de/signs/TUM
-@link Wikidata Q87556517 http://www.wikidata.org/entity/Q87556517
+@link	eBL TUM https://www.ebl.lmu.de/signs/TUM
+@link	Wikidata Q87556517 http://www.wikidata.org/entity/Q87556517
 @form LAK496
 @oid	o0221890
 @list	GCSL228
@@ -43069,16 +43034,16 @@
 @end sign
 
 @sign |TUM×(DIŠ.DIŠ.DIŠ)|
-@aka |TUM×3(DIŠ)|
 @oid	o0002428
+@aka	|TUM×3(DIŠ)|
 @list	LAK497a
 @inote	Do the TUM group need further specification of whether the waist is "gunified" or not?
 @uname	CUNEIFORM SIGN TUM TIMES DISH PLUS DISH PLUS DISH
 @list	U+1253B
 @ucun	𒔻
 @uage	8.0
-@link eBL |TUM×(DIŠ.DIŠ.DIŠ)| https://www.ebl.lmu.de/signs/|TUM×(DIŠ.DIŠ.DIŠ)|
-@link Wikidata Q87557466 http://www.wikidata.org/entity/Q87557466
+@link	eBL |TUM×(DIŠ.DIŠ.DIŠ)| https://www.ebl.lmu.de/signs/|TUM×(DIŠ.DIŠ.DIŠ)|
+@link	Wikidata Q87557466 http://www.wikidata.org/entity/Q87557466
 @end sign
 
 @sign |TUM×GAN₂@t|
@@ -43091,8 +43056,8 @@
 @uage	8.0
 @v	egirₓ
 @v	tumₓ
-@link eBL |TUM×GAN₂@t| https://www.ebl.lmu.de/signs/|TUM×GAN₂@t|
-@link Wikidata Q87557463 http://www.wikidata.org/entity/Q87557463
+@link	eBL |TUM×GAN₂@t| https://www.ebl.lmu.de/signs/|TUM×GAN₂@t|
+@link	Wikidata Q87557463 http://www.wikidata.org/entity/Q87557463
 @end sign
 
 @sign |TUM×SAL|
@@ -43150,8 +43115,8 @@
 @v	ṭur₃
 @v	zerₓ
 @sys	Attinger de₁₀ => di₄
-@link eBL TUR https://www.ebl.lmu.de/signs/TUR
-@link Wikidata Q87556519 http://www.wikidata.org/entity/Q87556519
+@link	eBL TUR https://www.ebl.lmu.de/signs/TUR
+@link	Wikidata Q87556519 http://www.wikidata.org/entity/Q87556519
 @end sign
 
 @sign |TUR.ARAD|
@@ -43159,7 +43124,7 @@
 @useq	x12309.x12034
 @ucun	𒌉𒀴
 @v	ibila₂
-@link eBL |TUR.ARAD| https://www.ebl.lmu.de/signs/|TUR.ARAD|
+@link	eBL |TUR.ARAD| https://www.ebl.lmu.de/signs/|TUR.ARAD|
 @end sign
 
 @sign |TUR.DIŠ|
@@ -43177,7 +43142,7 @@
 @v	hibis
 @v	hibiz
 @v	ibilaₓ
-@link eBL |TUR.DIŠ| https://www.ebl.lmu.de/signs/|TUR.DIŠ|
+@link	eBL |TUR.DIŠ| https://www.ebl.lmu.de/signs/|TUR.DIŠ|
 @end sign
 
 @sign |TUR.EŠ₂|
@@ -43187,7 +43152,7 @@
 @v	dumu-gi₇
 @v	kuŋ₅
 @v	kun₅
-@link eBL |TUR.EŠ₂| https://www.ebl.lmu.de/signs/|TUR.EŠ₂|
+@link	eBL |TUR.EŠ₂| https://www.ebl.lmu.de/signs/|TUR.EŠ₂|
 @end sign
 
 @sign |TUR.NE|
@@ -43203,7 +43168,7 @@
 @useq	x12309.x12295
 @ucun	𒌉𒊕
 @v	ibila₃
-@link eBL |TUR.SAG| https://www.ebl.lmu.de/signs/|TUR.SAG|
+@link	eBL |TUR.SAG| https://www.ebl.lmu.de/signs/|TUR.SAG|
 @end sign
 
 @sign |TUR.SAL.TUR.TUR|
@@ -43211,7 +43176,7 @@
 @useq	x12309.x122A9.x12309.x12309
 @ucun	𒌉𒊩𒌉𒌉
 @v	murumₓ
-@link eBL |TUR.SAL.TUR.TUR| https://www.ebl.lmu.de/signs/|TUR.SAL.TUR.TUR|
+@link	eBL |TUR.SAL.TUR.TUR| https://www.ebl.lmu.de/signs/|TUR.SAL.TUR.TUR|
 @end sign
 
 @sign |TUR.TUR|
@@ -43224,7 +43189,7 @@
 @v	du₁₃-du₁₃
 @v	tilₓ
 @v	tur-tur
-@link eBL |TUR.TUR| https://www.ebl.lmu.de/signs/|TUR.TUR|
+@link	eBL |TUR.TUR| https://www.ebl.lmu.de/signs/|TUR.TUR|
 @end sign
 
 @sign |TUR.TUR.LAL|
@@ -43241,7 +43206,7 @@
 @ucun	𒌉𒍑
 @v	ibila
 @v	suhušₓ
-@link eBL |TUR.UŠ| https://www.ebl.lmu.de/signs/|TUR.UŠ|
+@link	eBL |TUR.UŠ| https://www.ebl.lmu.de/signs/|TUR.UŠ|
 @end sign
 
 @sign |TUR×ARAD|
@@ -43277,8 +43242,8 @@
 @v	zezna
 @v	zizₓ
 @v	zizna
-@link eBL |TUR&TUR.ZA&ZA| https://www.ebl.lmu.de/signs/|TUR&TUR.ZA&ZA|
-@link Wikidata Q87556520 http://www.wikidata.org/entity/Q87556520
+@link	eBL |TUR&TUR.ZA&ZA| https://www.ebl.lmu.de/signs/|TUR&TUR.ZA&ZA|
+@link	Wikidata Q87556520 http://www.wikidata.org/entity/Q87556520
 @form |TUR.ZA|
 @oid	o0023012
 @useq	x12309.x1235D
@@ -43300,7 +43265,7 @@
 @v	zaznaₓ
 @v	zeznaₓ
 @v	ziznaₓ
-@link eBL |TUR&TUR.ZA&ZA.TUR&TUR.ZA&ZA| https://www.ebl.lmu.de/signs/|TUR&TUR.ZA&ZA.TUR&TUR.ZA&ZA|
+@link	eBL |TUR&TUR.ZA&ZA.TUR&TUR.ZA&ZA| https://www.ebl.lmu.de/signs/|TUR&TUR.ZA&ZA.TUR&TUR.ZA&ZA|
 @end sign
 
 @sign U
@@ -43321,7 +43286,6 @@
 @v	barₓ
 @v	bu₁₂
 @v	bur₃
-@v	1(bur₃)
 @v	buru₃
 @v	burudₓ
 @v	buzur
@@ -43340,7 +43304,6 @@
 @v	šu₄
 @v	šuš
 @v	u
-@v	1(u)
 @v	ubuₓ
 @v	umun
 @v	un₂
@@ -43348,8 +43311,10 @@
 @v	ušur₅
 @v	utahₓ
 @v	utuₓ
-@link eBL U https://www.ebl.lmu.de/signs/U
-@link Wikidata Q87556522 http://www.wikidata.org/entity/Q87556522
+@v	1(bur₃)
+@v	1(u)
+@link	eBL U https://www.ebl.lmu.de/signs/U
+@link	Wikidata Q87556522 http://www.wikidata.org/entity/Q87556522
 @form BUR₃@v
 @oid	o0223333
 @v	bur₃@v
@@ -43362,8 +43327,8 @@
 @list	RSP029
 @inote	@ucode	xeb8b
 @v	bur₃@c
-@v	1(bur₃@c)
 @v	u@c
+@v	1(bur₃@c)
 @v	1(u@c)
 @@
 @form U@f
@@ -43392,7 +43357,7 @@
 @v	isimu₃
 @v	kir₁₃
 @v	kiriₓ
-@link eBL |U.AD| https://www.ebl.lmu.de/signs/|U.AD|
+@link	eBL |U.AD| https://www.ebl.lmu.de/signs/|U.AD|
 @form AD
 @oid	o0000092
 @list	BAU311
@@ -43402,7 +43367,7 @@
 @list	PTACE249
 @list	RSP227
 @inote	P010982 = WF 025  = EDATS no. 116 r ii 9
-@link eBL AD https://www.ebl.lmu.de/signs/AD
+@link	eBL AD https://www.ebl.lmu.de/signs/AD
 @@
 @form |ŠU₂.AD|
 @oid	o0002810
@@ -43432,7 +43397,7 @@
 @v	u-gun₃
 @v	ugun?
 @v	ugunu
-@link eBL |U.DAR| https://www.ebl.lmu.de/signs/|U.DAR|
+@link	eBL |U.DAR| https://www.ebl.lmu.de/signs/|U.DAR|
 @end sign
 
 @sign |U.DIM|
@@ -43445,7 +43410,7 @@
 @v	gakkul₃
 @v	kakkul₃
 @v	mun₆
-@link eBL |U.DIM| https://www.ebl.lmu.de/signs/|U.DIM|
+@link	eBL |U.DIM| https://www.ebl.lmu.de/signs/|U.DIM|
 @end sign
 
 @sign |U.DIM×ŠE|
@@ -43457,26 +43422,7 @@
 @v	gakkul
 @v	kakkul
 @v	mun₅
-@link eBL |U.DIM×ŠE| https://www.ebl.lmu.de/signs/|U.DIM×ŠE|
-@end sign
-
-@sign |U.5(DIŠ)|
-@oid	o0002445
-@list	MZL747
-@list	SLLHA470
-@useq	x1230B.x1240A
-@ucun	𒌋𒐊
-@v	sarₓ
-@v	udilia
-@v	udiliyaₓ
-@v	uia
-@v	uya
-@link eBL |U.5(DIŠ)| https://www.ebl.lmu.de/signs/|U.5(DIŠ)|
-@form 15
-@oid	o0018499
-@v	sarₓ
-@inote	hack for eCUT
-@@
+@link	eBL |U.DIM×ŠE| https://www.ebl.lmu.de/signs/|U.DIM×ŠE|
 @end sign
 
 @sign |U.EDIN|
@@ -43484,7 +43430,7 @@
 @useq	x1230B.x12094
 @ucun	𒌋𒂔
 @v	bahar₃
-@link eBL |U.EDIN| https://www.ebl.lmu.de/signs/|U.EDIN|
+@link	eBL |U.EDIN| https://www.ebl.lmu.de/signs/|U.EDIN|
 @form |U.BAHAR₂|
 @oid	o0031474
 @inote	bahar₂/bahar₃ with EDIN vs. BAHAR₂ all need collation.
@@ -43498,7 +43444,7 @@
 @inote	u3adm
 @useq	x1230B.x12097
 @ucun	𒌋𒂗
-@link eBL |U.EN| https://www.ebl.lmu.de/signs/|U.EN|
+@link	eBL |U.EN| https://www.ebl.lmu.de/signs/|U.EN|
 @end sign
 
 @sign |U.EN×GAN₂@t|
@@ -43516,7 +43462,7 @@
 @v	šibir
 @v	ušbar₅?
 @v	ušbur₅
-@link eBL |U.EN×GAN₂@t| https://www.ebl.lmu.de/signs/|U.EN×GAN₂@t|
+@link	eBL |U.EN×GAN₂@t| https://www.ebl.lmu.de/signs/|U.EN×GAN₂@t|
 @end sign
 
 @sign |U.GA|
@@ -43539,7 +43485,7 @@
 @v	utu₂
 @v	zagₓ
 @v	zahan₂
-@link eBL |U.GA| https://www.ebl.lmu.de/signs/|U.GA|
+@link	eBL |U.GA| https://www.ebl.lmu.de/signs/|U.GA|
 @end sign
 
 @sign |U.GA.HI|
@@ -43547,7 +43493,7 @@
 @useq	x1230B.x120B5.x1212D
 @ucun	𒌋𒂵𒄭
 @v	zahan
-@link eBL |U.GA.HI| https://www.ebl.lmu.de/signs/|U.GA.HI|
+@link	eBL |U.GA.HI| https://www.ebl.lmu.de/signs/|U.GA.HI|
 @end sign
 
 @sign |U.GABA%GABA|
@@ -43576,7 +43522,7 @@
 @v	šakkan
 @inote	CDLI
 @v	šaman₂
-@link eBL |U.GAN| https://www.ebl.lmu.de/signs/|U.GAN|
+@link	eBL |U.GAN| https://www.ebl.lmu.de/signs/|U.GAN|
 @form |AŠ.GAN|
 @oid	o0018530
 @list	ELLES038
@@ -43586,8 +43532,8 @@
 @list	U+124DB
 @ucun	𒓛
 @uage	8.0
-@link Wikidata Q87557264 http://www.wikidata.org/entity/Q87557264
 @v	šakan
+@link	Wikidata Q87557264 http://www.wikidata.org/entity/Q87557264
 @@
 @form |U.GAN@s|
 @oid	o0002455
@@ -43633,8 +43579,8 @@
 @v	ullu₃
 @v	ulu
 @v	ur₆?
-@link eBL |U.GUD| https://www.ebl.lmu.de/signs/|U.GUD|
-@link Wikidata Q87556524 http://www.wikidata.org/entity/Q87556524
+@link	eBL |U.GUD| https://www.ebl.lmu.de/signs/|U.GUD|
+@link	Wikidata Q87556524 http://www.wikidata.org/entity/Q87556524
 @form |ŠU₂.GUD|
 @oid	o0018853
 @inote	Fara form.
@@ -43651,7 +43597,7 @@
 @ucun	𒌋𒄥
 @v	nergalₓ
 @v	ugur
-@link eBL |U.GUR| https://www.ebl.lmu.de/signs/|U.GUR|
+@link	eBL |U.GUR| https://www.ebl.lmu.de/signs/|U.GUR|
 @end sign
 
 @sign |U.KA|
@@ -43672,7 +43618,7 @@
 @v	saŋdulₓ
 @v	ugu
 @v	ugun₃
-@link eBL |U.KA| https://www.ebl.lmu.de/signs/|U.KA|
+@link	eBL |U.KA| https://www.ebl.lmu.de/signs/|U.KA|
 @form |U.SAG×PAP|
 @oid	o0031626
 @useq	x1230B.X
@@ -43694,7 +43640,7 @@
 @v	šita₄
 @v	šudul₆
 @v	šutul₆
-@link eBL |U.KID| https://www.ebl.lmu.de/signs/|U.KID|
+@link	eBL |U.KID| https://www.ebl.lmu.de/signs/|U.KID|
 @form |U.GA₂|
 @oid	o0023013
 @inote	dcclt !sg
@@ -43708,7 +43654,7 @@
 @useq	x1230B.x12226.x1218F
 @ucun	𒌋𒈦𒆏
 @v	gira
-@link eBL |U.MAŠ.KAB| https://www.ebl.lmu.de/signs/|U.MAŠ.KAB|
+@link	eBL |U.MAŠ.KAB| https://www.ebl.lmu.de/signs/|U.MAŠ.KAB|
 @end sign
 
 @sign |U.MU|
@@ -43725,7 +43671,7 @@
 @v	umun₁₀?
 @v	utul₈
 @v	utun
-@link eBL |U.MU| https://www.ebl.lmu.de/signs/|U.MU|
+@link	eBL |U.MU| https://www.ebl.lmu.de/signs/|U.MU|
 @form |U.KUL|
 @oid	o0031525
 @inote	P247858 r ii final lines
@@ -43742,7 +43688,7 @@
 @v	kuš₅
 @v	kušu
 @v	kušum₄
-@link eBL |U.PIRIG| https://www.ebl.lmu.de/signs/|U.PIRIG|
+@link	eBL |U.PIRIG| https://www.ebl.lmu.de/signs/|U.PIRIG|
 @end sign
 
 @sign |U.SAG|
@@ -43768,7 +43714,7 @@
 @v	saŋturₓ
 @v	saŋtušₓ
 @v	uguₓ
-@link eBL |U.SAG| https://www.ebl.lmu.de/signs/|U.SAG|
+@link	eBL |U.SAG| https://www.ebl.lmu.de/signs/|U.SAG|
 @form |SAG.ŠU₂|
 @oid	o0031714
 @useq	x12295.x122D9
@@ -43795,7 +43741,7 @@
 @v	bakiru
 @v	bakirum
 @v	mahar₂?
-@link eBL |U.SAR| https://www.ebl.lmu.de/signs/|U.SAR|
+@link	eBL |U.SAR| https://www.ebl.lmu.de/signs/|U.SAR|
 @end sign
 
 @sign |U.ŠA|
@@ -43809,7 +43755,7 @@
 @v	urum₇
 @v	usagₓ
 @v	zaₓ
-@link eBL |U.ŠA| https://www.ebl.lmu.de/signs/|U.ŠA|
+@link	eBL |U.ŠA| https://www.ebl.lmu.de/signs/|U.ŠA|
 @form LAK384
 @oid	o0000364
 @list	ELLES209
@@ -43823,8 +43769,8 @@
 @v	sagₓ
 @v	saŋₓ
 @v	utuₓ
-@link eBL LAK384 https://www.ebl.lmu.de/signs/LAK384
-@link Wikidata Q87557305 http://www.wikidata.org/entity/Q87557305
+@link	eBL LAK384 https://www.ebl.lmu.de/signs/LAK384
+@link	Wikidata Q87557305 http://www.wikidata.org/entity/Q87557305
 @@
 @end sign
 
@@ -43845,7 +43791,7 @@
 @v	šutul₂
 @v	tul
 @v	uduₓ
-@link eBL |U.TUG₂| https://www.ebl.lmu.de/signs/|U.TUG₂|
+@link	eBL |U.TUG₂| https://www.ebl.lmu.de/signs/|U.TUG₂|
 @end sign
 
 @sign |U.U|
@@ -43861,7 +43807,6 @@
 @ucun	𒎙
 @uage	8.0
 @v	amna₂
-@v	2(bur₃)
 @v	buzur₂
 @v	gešₓ
 @v	gišₓ
@@ -43889,11 +43834,12 @@
 @v	šušanaku
 @v-	tab₄
 @inote	tab₄ now listed under TAB@t; see Borger MZL593 and MZL209
-@v	2(u)
 @v	utu₃
 @v	wan
-@link eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
-@link Wikidata Q87556828 http://www.wikidata.org/entity/Q87556828
+@v	2(bur₃)
+@v	2(u)
+@link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
+@link	Wikidata Q87556828 http://www.wikidata.org/entity/Q87556828
 @form 2(U@c)
 @oid	o0223394
 @inote	@ucode	xeb8c
@@ -43908,7 +43854,7 @@
 @useq	x12399.x12138
 @ucun	𒎙𒄸
 @v	emerahₓ
-@link eBL |U.U.HUB₂| https://www.ebl.lmu.de/signs/|U.U.HUB₂|
+@link	eBL |U.U.HUB₂| https://www.ebl.lmu.de/signs/|U.U.HUB₂|
 @end sign
 
 @sign |U.U.U|
@@ -43924,7 +43870,6 @@
 @uage	5.0
 @v	ba₃
 @v	batu
-@v	3(bur₃)
 @v	es₂
 @v	eš
 @v	eša₂
@@ -43936,27 +43881,28 @@
 @v	šib₀
 @v	šip₀
 @v	ṣin
-@v	3(u)
 @v	uš₁₈
 @v	ušu₃
 @v	uzₓ
-@link eBL |U.U.U| https://www.ebl.lmu.de/signs/|U.U.U|
-@link Wikidata Q87556527 http://www.wikidata.org/entity/Q87556527
+@v	3(bur₃)
+@v	3(u)
+@link	eBL |U.U.U| https://www.ebl.lmu.de/signs/|U.U.U|
+@link	Wikidata Q87556527 http://www.wikidata.org/entity/Q87556527
 @form 3(AŠ@t)
 @oid	o0000021
+@@
+@form 3(U@c)
+@oid	o0223406
+@inote	@ucode	xeb8d
+@v	eše@c
+@v	3(bur₃@c)
+@v	1(eše@c)
+@v	3(u@c)
 @@
 @form 3(U@c)@v
 @oid	o0223407
 @inote	@ucode	xeb8e
 @v	3(u@c)@v
-@@
-@form 3(U@c)
-@oid	o0223406
-@inote	@ucode	xeb8d
-@v	3(bur₃@c)
-@v	eše@c
-@v	1(eše@c)
-@v	3(u@c)
 @@
 @end sign
 
@@ -43987,7 +43933,7 @@
 @v	šu₁₆
 @v	ušu₂
 @v	uzu₅
-@link eBL |U.UD| https://www.ebl.lmu.de/signs/|U.UD|
+@link	eBL |U.UD| https://www.ebl.lmu.de/signs/|U.UD|
 @form |UD×DIŠ|
 @oid	o0223330
 @list	RSP328
@@ -44014,10 +43960,10 @@
 @v	nimgin₃?
 @v	ningin₃
 @sys	Attinger nimar => niŋar
-@link eBL |U.UD.KID| https://www.ebl.lmu.de/signs/|U.UD.KID|
+@link	eBL |U.UD.KID| https://www.ebl.lmu.de/signs/|U.UD.KID|
 @form |U.KID|
 @oid	o0002462
-@link eBL |U.KID| https://www.ebl.lmu.de/signs/|U.KID|
+@link	eBL |U.KID| https://www.ebl.lmu.de/signs/|U.KID|
 @@
 @end sign
 
@@ -44032,7 +43978,7 @@
 @useq	x1230B.x1232A
 @ucun	𒌋𒌪
 @v	šutulₓ
-@link eBL |U.UR@s| https://www.ebl.lmu.de/signs/|U.UR@s|
+@link	eBL |U.UR@s| https://www.ebl.lmu.de/signs/|U.UR@s|
 @end sign
 
 @sign |U.ZAG|
@@ -44041,12 +43987,38 @@
 @ucun	𒌋𒍠
 @v	buzur₃
 @v	puzur₃
-@link eBL |U.ZAG| https://www.ebl.lmu.de/signs/|U.ZAG|
+@link	eBL |U.ZAG| https://www.ebl.lmu.de/signs/|U.ZAG|
+@end sign
+
+@sign |U.5(DIŠ)|
+@oid	o0002445
+@list	MZL747
+@list	SLLHA470
+@useq	x1230B.x1240A
+@ucun	𒌋𒐊
+@v	sarₓ
+@v	udilia
+@v	udiliyaₓ
+@v	uia
+@v	uya
+@link	eBL |U.5(DIŠ)| https://www.ebl.lmu.de/signs/|U.5(DIŠ)|
+@form 15
+@oid	o0018499
+@v	sarₓ
+@inote	hack for eCUT
+@@
 @end sign
 
 @sign |U&U|
 @oid	o0027830
 @inote	gvl dcclt amp-adds
+@end sign
+
+@sign |U&U.GAD&GAD.GAR&GAR|
+@oid	o0038218
+@aka	|(U.KINDA)&(U.KINDA)|
+@useq	X.x120F1
+@ucun	X𒃱
 @end sign
 
 @sign |U&U.GAR₃&GAR₃|
@@ -44067,8 +44039,8 @@
 @uage	5.0
 @v	garadin₁₀
 @v	karadin₁₀
-@link eBL |U&U.PA&PA.GAR&GAR| https://www.ebl.lmu.de/signs/|U&U.PA&PA.GAR&GAR|
-@link Wikidata Q87556530 http://www.wikidata.org/entity/Q87556530
+@link	eBL |U&U.PA&PA.GAR&GAR| https://www.ebl.lmu.de/signs/|U&U.PA&PA.GAR&GAR|
+@link	Wikidata Q87556530 http://www.wikidata.org/entity/Q87556530
 @end sign
 
 @sign |U&U.SUR&SUR|
@@ -44082,8 +44054,8 @@
 @uage	5.0
 @v	garadin₉
 @v	karadin₉
-@link eBL |U&U.SUR&SUR| https://www.ebl.lmu.de/signs/|U&U.SUR&SUR|
-@link Wikidata Q87556531 http://www.wikidata.org/entity/Q87556531
+@link	eBL |U&U.SUR&SUR| https://www.ebl.lmu.de/signs/|U&U.SUR&SUR|
+@link	Wikidata Q87556531 http://www.wikidata.org/entity/Q87556531
 @end sign
 
 @sign- |U&U.U&U.U|
@@ -44101,8 +44073,8 @@
 @uage	5.0
 @v	bargi?
 @v	mašgi?
-@link eBL |U&U.U@v&U@v| https://www.ebl.lmu.de/signs/|U&U.U@v&U@v|
-@link Wikidata Q87556534 http://www.wikidata.org/entity/Q87556534
+@link	eBL |U&U.U@v&U@v| https://www.ebl.lmu.de/signs/|U&U.U@v&U@v|
+@link	Wikidata Q87556534 http://www.wikidata.org/entity/Q87556534
 @end sign
 
 @sign U@g
@@ -44118,8 +44090,14 @@
 @uage	5.0
 @v	burʾu
 @v	1(burʾu)
-@link eBL U@g https://www.ebl.lmu.de/signs/U@g
-@link Wikidata Q87556945 http://www.wikidata.org/entity/Q87556945
+@link	eBL U@g https://www.ebl.lmu.de/signs/U@g
+@link	Wikidata Q87556945 http://www.wikidata.org/entity/Q87556945
+@form |U×KASKAL|
+@oid	o0002603
+@inote	#old bur'uₓ
+@v	burʾuₓ
+@inote	does U×KASKAL ever occur or is it always U@c×KASKAL?
+@@
 @form 1(BURU@c)
 @oid	o0223372
 @list	RSP034
@@ -44128,17 +44106,11 @@
 @v	burʾu@c
 @v	1(burʾu@c)
 @@
-@form |U×KASKAL|
-@oid	o0002603
-@inote	#old bur'uₓ
-@v	burʾuₓ
-@inote	does U×KASKAL ever occur or is it always U@c×KASKAL?
-@@
 @end sign
 
 @sign U@v
 @oid	o0000563
-@link eBL U@v https://www.ebl.lmu.de/signs/U@v
+@link	eBL U@v https://www.ebl.lmu.de/signs/U@v
 @end sign
 
 @compoundonly	|U@v&U@v|
@@ -44188,8 +44160,8 @@
 @v	ugaₓ
 @v	wa₃
 @v	wuₓ
-@link eBL U₂ https://www.ebl.lmu.de/signs/U₂
-@link Wikidata Q87556536 http://www.wikidata.org/entity/Q87556536
+@link	eBL U₂ https://www.ebl.lmu.de/signs/U₂
+@link	Wikidata Q87556536 http://www.wikidata.org/entity/Q87556536
 @end sign
 
 @sign |U₂.A.LAGAB×HAL|
@@ -44198,7 +44170,7 @@
 @useq	x12311.x12000.x121C9
 @ucun	𒌑𒀀𒇉
 @v	azadₓ
-@link eBL |U₂.A.LAGAB×HAL| https://www.ebl.lmu.de/signs/|U₂.A.LAGAB×HAL|
+@link	eBL |U₂.A.LAGAB×HAL| https://www.ebl.lmu.de/signs/|U₂.A.LAGAB×HAL|
 @end sign
 
 @sign |U₂.GA₂×X|
@@ -44230,12 +44202,12 @@
 @v	kiši₁₆
 @v	kišig
 @v	kišik
-@link eBL |U₂.GIR₂@g| https://www.ebl.lmu.de/signs/|U₂.GIR₂@g|
+@link	eBL |U₂.GIR₂@g| https://www.ebl.lmu.de/signs/|U₂.GIR₂@g|
 @form GIR₂
 @oid	o0000213
 @list	GCSL002
 @list	PTACE005
-@link eBL GIR₂ https://www.ebl.lmu.de/signs/GIR₂
+@link	eBL GIR₂ https://www.ebl.lmu.de/signs/GIR₂
 @@
 @form |U₂.GIR₂|
 @oid	o0023078
@@ -44251,7 +44223,7 @@
 @ucun	𒌑𒄑𒈪
 @v	dimmuš
 @v	dimuš
-@link eBL |U₂.GIŠ.MI| https://www.ebl.lmu.de/signs/|U₂.GIŠ.MI|
+@link	eBL |U₂.GIŠ.MI| https://www.ebl.lmu.de/signs/|U₂.GIŠ.MI|
 @end sign
 
 @sign |U₂.GIŠ.SAR|
@@ -44259,7 +44231,7 @@
 @useq	x12311.x12111.x122AC
 @ucun	𒌑𒄑𒊬
 @v	muthum
-@link eBL |U₂.GIŠ.SAR| https://www.ebl.lmu.de/signs/|U₂.GIŠ.SAR|
+@link	eBL |U₂.GIŠ.SAR| https://www.ebl.lmu.de/signs/|U₂.GIŠ.SAR|
 @end sign
 
 @sign |U₂.KA|
@@ -44270,7 +44242,7 @@
 @v	muzug₂
 @v	usug₂
 @v	uzug₂
-@link eBL |U₂.KA| https://www.ebl.lmu.de/signs/|U₂.KA|
+@link	eBL |U₂.KA| https://www.ebl.lmu.de/signs/|U₂.KA|
 @form |KA.U₂|
 @oid	o0001563
 @useq	x12157.x12311
@@ -44284,7 +44256,7 @@
 @ucun	𒌑𒅲
 @v	muzug₆
 @sys	Attinger muzug₆
-@link eBL |U₂.KA×LI| https://www.ebl.lmu.de/signs/|U₂.KA×LI|
+@link	eBL |U₂.KA×LI| https://www.ebl.lmu.de/signs/|U₂.KA×LI|
 @end sign
 
 @sign |U₂.KI.SUM.GA|
@@ -44292,11 +44264,13 @@
 @useq	x12311.x121A0.x122E7.x120B5
 @ucun	𒌑𒆠𒋧𒂵
 @v	gud₃
-@link eBL |U₂.KI.SUM.GA| https://www.ebl.lmu.de/signs/|U₂.KI.SUM.GA|
+@link	eBL |U₂.KI.SUM.GA| https://www.ebl.lmu.de/signs/|U₂.KI.SUM.GA|
 @form |U₂.KI.SUM|
 @oid	o0038101
+@inote	dsst P252266 ii 1 = Bird and Fish 110
 @useq	x12311.x121A0.x122E7
-@inote dsst P252266 ii 1 = Bird and Fish 110
+@ucun	𒌑𒆠𒋧
+@@
 @end sign
 
 @sign |U₂.KUR.NI.TUK.KI|
@@ -44307,7 +44281,7 @@
 @v	muzug₄
 @v	usug₄
 @v	uzug₄
-@link eBL |U₂.KUR.NI.TUK.KI| https://www.ebl.lmu.de/signs/|U₂.KUR.NI.TUK.KI|
+@link	eBL |U₂.KUR.NI.TUK.KI| https://www.ebl.lmu.de/signs/|U₂.KUR.NI.TUK.KI|
 @form |U₂.KUR.SAL.TUK|
 @oid	o0023019
 @inote	dcclt !sg
@@ -44322,7 +44296,7 @@
 @ucun	𒌑𒆳𒊏
 @v	šembirida
 @v	šimbirida
-@link eBL |U₂.KUR.RA| https://www.ebl.lmu.de/signs/|U₂.KUR.RA|
+@link	eBL |U₂.KUR.RA| https://www.ebl.lmu.de/signs/|U₂.KUR.RA|
 @form |KUR.RA|
 @oid	o0027908
 @useq	x121B3.x1228F
@@ -44342,7 +44316,7 @@
 @v	namri
 @v	%akk/n namruₓ
 @inote	namruₓ need checking
-@link eBL |U₂.KUR.ZA.MUŠ₃@g.KI| https://www.ebl.lmu.de/signs/|U₂.KUR.ZA.MUŠ₃@g.KI|
+@link	eBL |U₂.KUR.ZA.MUŠ₃@g.KI| https://www.ebl.lmu.de/signs/|U₂.KUR.ZA.MUŠ₃@g.KI|
 @form |KUR.MUŠ₃|
 @oid	o0048849
 @inote	end form
@@ -44362,14 +44336,14 @@
 @oid	o0002629
 @useq	x12311.x12240.x1202D.x12038.x122D3
 @ucun	𒌑𒉀𒀭𒀸𒋓
-@link eBL |U₂.NAGA.AN.AŠ.ŠIR| https://www.ebl.lmu.de/signs/|U₂.NAGA.AN.AŠ.ŠIR|
+@link	eBL |U₂.NAGA.AN.AŠ.ŠIR| https://www.ebl.lmu.de/signs/|U₂.NAGA.AN.AŠ.ŠIR|
 @end sign
 
 @sign |U₂.NAGA.AN.ŠIR|
 @oid	o0002630
 @useq	x12311.x12240.x1202D.x122D3
 @ucun	𒌑𒉀𒀭𒋓
-@link eBL |U₂.NAGA.AN.ŠIR| https://www.ebl.lmu.de/signs/|U₂.NAGA.AN.ŠIR|
+@link	eBL |U₂.NAGA.AN.ŠIR| https://www.ebl.lmu.de/signs/|U₂.NAGA.AN.ŠIR|
 @end sign
 
 @sign |U₂.NAGA.GA|
@@ -44378,7 +44352,7 @@
 @ucun	𒌑𒉀𒂵
 @v	buruₓ
 @v	uga
-@link eBL |U₂.NAGA.GA| https://www.ebl.lmu.de/signs/|U₂.NAGA.GA|
+@link	eBL |U₂.NAGA.GA| https://www.ebl.lmu.de/signs/|U₂.NAGA.GA|
 @form |GA.NAGA|
 @oid	o0031464
 @useq	x120B5.x12240
@@ -44411,7 +44385,7 @@
 @ucun	𒌑𒊓
 @v-	didaₓ
 @v-	pihuₓ
-@link eBL |U₂.SA| https://www.ebl.lmu.de/signs/|U₂.SA|
+@link	eBL |U₂.SA| https://www.ebl.lmu.de/signs/|U₂.SA|
 @end sign
 
 @sign |U₂.SA.KA.KAK|
@@ -44419,7 +44393,7 @@
 @useq	x12311.x12293.x12157.x12195
 @ucun	𒌑𒊓𒅗𒆕
 @v-	pihuₓ
-@link eBL |U₂.SA.KA.KAK| https://www.ebl.lmu.de/signs/|U₂.SA.KA.KAK|
+@link	eBL |U₂.SA.KA.KAK| https://www.ebl.lmu.de/signs/|U₂.SA.KA.KAK|
 @end sign
 
 @sign |U₂.UR₂|
@@ -44427,7 +44401,7 @@
 @useq	x12311.x1232B
 @ucun	𒌑𒌫
 @v	ušbarₓ
-@link eBL |U₂.UR₂| https://www.ebl.lmu.de/signs/|U₂.UR₂|
+@link	eBL |U₂.UR₂| https://www.ebl.lmu.de/signs/|U₂.UR₂|
 @end sign
 
 @sign |U₂.ZA.MUŠ₃|
@@ -44437,7 +44411,7 @@
 @v	namruₓ
 @v	šubaₓ?
 @v	šubuₓ
-@link eBL |U₂.ZA.MUŠ₃| https://www.ebl.lmu.de/signs/|U₂.ZA.MUŠ₃|
+@link	eBL |U₂.ZA.MUŠ₃| https://www.ebl.lmu.de/signs/|U₂.ZA.MUŠ₃|
 @end sign
 
 @sign |U₂&U₂|
@@ -44475,8 +44449,8 @@
 @v	ubu₂
 @v	up
 @v	warₓ
-@link eBL UB https://www.ebl.lmu.de/signs/UB
-@link Wikidata Q87556538 http://www.wikidata.org/entity/Q87556538
+@link	eBL UB https://www.ebl.lmu.de/signs/UB
+@link	Wikidata Q87556538 http://www.wikidata.org/entity/Q87556538
 @end sign
 
 @sign |UB.ME|
@@ -44484,7 +44458,7 @@
 @useq	x12312.x12228
 @ucun	𒌒𒈨
 @v	ummaₓ
-@link eBL |UB.ME| https://www.ebl.lmu.de/signs/|UB.ME|
+@link	eBL |UB.ME| https://www.ebl.lmu.de/signs/|UB.ME|
 @end sign
 
 @sign |UB.RI|
@@ -44492,7 +44466,7 @@
 @useq	x12312.x12291
 @ucun	𒌒𒊑
 @v	zamin
-@link eBL |UB.RI| https://www.ebl.lmu.de/signs/|UB.RI|
+@link	eBL |UB.RI| https://www.ebl.lmu.de/signs/|UB.RI|
 @end sign
 
 @sign UD
@@ -44588,8 +44562,8 @@
 @v	zalah
 @v	zalaqaₓ
 @sys	Attinger šara₉ => šarag
-@link eBL UD https://www.ebl.lmu.de/signs/UD
-@link Wikidata Q87556540 http://www.wikidata.org/entity/Q87556540
+@link	eBL UD https://www.ebl.lmu.de/signs/UD
+@link	Wikidata Q87556540 http://www.wikidata.org/entity/Q87556540
 @end sign
 
 @sign |UD.A|
@@ -44597,7 +44571,7 @@
 @inote	#old peš₉
 @useq	x12313.x12000
 @ucun	𒌓𒀀
-@link eBL |UD.A| https://www.ebl.lmu.de/signs/|UD.A|
+@link	eBL |UD.A| https://www.ebl.lmu.de/signs/|UD.A|
 @end sign
 
 @sign |UD.AB|
@@ -44609,7 +44583,7 @@
 @v	ararma₂
 @v	larsa₂
 @v	larsam₂
-@link eBL |UD.AB| https://www.ebl.lmu.de/signs/|UD.AB|
+@link	eBL |UD.AB| https://www.ebl.lmu.de/signs/|UD.AB|
 @form ARARMA₂~a
 @oid	o0027166
 @list	ZATU034
@@ -44622,7 +44596,7 @@
 @pname	|UD.AB×U+U+U|
 @useq	x12313.x12014
 @ucun	𒌓𒀔
-@link eBL |UD.AB×(U.U.U)| https://www.ebl.lmu.de/signs/|UD.AB×(U.U.U)|
+@link	eBL |UD.AB×(U.U.U)| https://www.ebl.lmu.de/signs/|UD.AB×(U.U.U)|
 @end sign
 
 @sign |UD.AB×(U.U.U).ŠIR.LAGAB.A|
@@ -44641,7 +44615,7 @@
 @v	ararma
 @v	larsa
 @v	larsam
-@link eBL |UD.AB@g| https://www.ebl.lmu.de/signs/|UD.AB@g|
+@link	eBL |UD.AB@g| https://www.ebl.lmu.de/signs/|UD.AB@g|
 @end sign
 
 @sign |UD.AN.ŠEŠ.KI|
@@ -44653,7 +44627,7 @@
 @v	itaₓ
 @v	iti₆?
 @v	itudₓ
-@link eBL |UD.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|UD.AN.ŠEŠ.KI|
+@link	eBL |UD.AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|UD.AN.ŠEŠ.KI|
 @end sign
 
 @sign |UD.AN.UD|
@@ -44661,12 +44635,12 @@
 @useq	x12313.x1202D.x12313
 @ucun	𒌓𒀭𒌓
 @v	šerrida
-@link eBL |UD.AN.UD| https://www.ebl.lmu.de/signs/|UD.AN.UD|
+@link	eBL |UD.AN.UD| https://www.ebl.lmu.de/signs/|UD.AN.UD|
 @form |AN.UD.AN.UD|
 @oid	o0000825
 @useq	x1202D.x12313.x1202D.x12313
 @ucun	𒀭𒌓𒀭𒌓
-@link eBL |AN.UD.AN.UD| https://www.ebl.lmu.de/signs/|AN.UD.AN.UD|
+@link	eBL |AN.UD.AN.UD| https://www.ebl.lmu.de/signs/|AN.UD.AN.UD|
 @@
 @end sign
 
@@ -44687,7 +44661,7 @@
 @v	saguš
 @v	saŋus
 @v	saŋuš
-@link eBL |UD.DU| https://www.ebl.lmu.de/signs/|UD.DU|
+@link	eBL |UD.DU| https://www.ebl.lmu.de/signs/|UD.DU|
 @form |LAGAR@g×DU×KASKAL|
 @oid	o0021764
 @aka	|DU₆×DU×KASKAL|
@@ -44701,7 +44675,7 @@
 @useq	x12313.x1207A.x1204D
 @ucun	𒌓𒁺𒁍
 @v	a₁₂-ra₂-bu
-@link eBL |UD.DU.BU| https://www.ebl.lmu.de/signs/|UD.DU.BU|
+@link	eBL |UD.DU.BU| https://www.ebl.lmu.de/signs/|UD.DU.BU|
 @end sign
 
 @sign |UD.DU.UD.DU|
@@ -44718,7 +44692,7 @@
 @useq	x12313.x120F6
 @ucun	𒌓𒃶
 @v	gidi₆
-@link eBL |UD.GAN| https://www.ebl.lmu.de/signs/|UD.GAN|
+@link	eBL |UD.GAN| https://www.ebl.lmu.de/signs/|UD.GAN|
 @end sign
 
 @sign |UD.GIŠ%GIŠ.NUN|
@@ -44732,17 +44706,18 @@
 @v	burununa
 @v	sippar
 @v	zibbir
-@sys	Attinger zibbir => zimbir
 @v	zimbir
-@link eBL |UD.GIŠ%GIŠ.NUN| https://www.ebl.lmu.de/signs/|UD.GIŠ%GIŠ.NUN|
+@sys	Attinger zibbir => zimbir
+@link	eBL |UD.GIŠ%GIŠ.NUN| https://www.ebl.lmu.de/signs/|UD.GIŠ%GIŠ.NUN|
+@form |A.GIŠ%GIŠ.NUN|
+@oid	o0038095
+@useq	x12000.x12112.x12263
+@ucun	𒀀𒄒𒉣
+@@
 @form |GIŠ%GIŠ.NUN|
 @oid	o0001361
 @useq	x12112.x12263
 @ucun	𒄒𒉣
-@@
-@form |A.GIŠ%GIŠ.NUN|
-@oid	o0038095
-@useq	x12000.x12112.x12263
 @@
 @form |NUN.GIŠ%GIŠ|
 @oid	o0221904
@@ -44768,18 +44743,18 @@
 @ucun	𒌓𒄒𒉣𒆠
 @v	buranunₓ
 @@
+@form |UD.LAM.NUN|
+@oid	o0038135
+@useq	x12313.x121F4.x12263
+@ucun	𒌓𒇴𒉣
+@v	zimbir
+@@
 @form |UD.NUN.GIŠ%GIŠ|
 @oid	o0221913
 @useq	x12313.x12263.x12112
 @ucun	𒌓𒉣𒄒
 @v	buranunₓ
 @v	zimbirₓ
-@@
-@form |UD.LAM.NUN|
-@oid	o0038135
-@useq	x12313.x121F4.x12263
-@ucun	𒌓𒇴𒉣
-@v	zimbir
 @@
 @end sign
 
@@ -44788,7 +44763,7 @@
 @useq	x12313.x1212F
 @ucun	𒌓𒄯
 @v	kaz₉?
-@link eBL |UD.HI×AŠ₂| https://www.ebl.lmu.de/signs/|UD.HI×AŠ₂|
+@link	eBL |UD.HI×AŠ₂| https://www.ebl.lmu.de/signs/|UD.HI×AŠ₂|
 @end sign
 
 @sign |UD.HU.HI.NUN|
@@ -44799,7 +44774,7 @@
 @v	abbununnu
 @v	adabₓ
 @v	ibbanunna
-@link eBL |UD.HU.HI.NUN| https://www.ebl.lmu.de/signs/|UD.HU.HI.NUN|
+@link	eBL |UD.HU.HI.NUN| https://www.ebl.lmu.de/signs/|UD.HU.HI.NUN|
 @form |UD.HI.HU.HI.NUN.NA|
 @oid	o0002491
 @useq	x12313.x1212D.x12137.x1212D.x12263.x1223E
@@ -44845,7 +44820,7 @@
 @v	sipar
 @v	zabar
 @v	zibar
-@link eBL |UD.KA.BAR| https://www.ebl.lmu.de/signs/|UD.KA.BAR|
+@link	eBL |UD.KA.BAR| https://www.ebl.lmu.de/signs/|UD.KA.BAR|
 @form |KA.BAR|
 @oid	o0221940
 @useq	x12157.x12047
@@ -44879,7 +44854,7 @@
 @useq	x12313.x121A4
 @ucun	𒌓𒆤
 @v	niginₓ
-@link eBL |UD.KID| https://www.ebl.lmu.de/signs/|UD.KID|
+@link	eBL |UD.KID| https://www.ebl.lmu.de/signs/|UD.KID|
 @end sign
 
 @sign |UD.KUŠU₂|
@@ -44909,12 +44884,12 @@
 @v	uʾ₄
 @v	uh₂
 @v	uhu₂
-@link eBL |UD.KUŠU₂| https://www.ebl.lmu.de/signs/|UD.KUŠU₂|
-@link Wikidata Q87556541 http://www.wikidata.org/entity/Q87556541
+@link	eBL |UD.KUŠU₂| https://www.ebl.lmu.de/signs/|UD.KUŠU₂|
+@link	Wikidata Q87556541 http://www.wikidata.org/entity/Q87556541
 @form KUŠU₂
 @oid	o0000295
 @list	PTACE162
-@link eBL KUŠU₂ https://www.ebl.lmu.de/signs/KUŠU₂
+@link	eBL KUŠU₂ https://www.ebl.lmu.de/signs/KUŠU₂
 @@
 @form |UD×KUŠU₂|
 @oid	o0223331
@@ -44935,7 +44910,7 @@
 @useq	x12313.x12223.x1200F
 @ucun	𒌓𒈣𒀏
 @v	sirara₄
-@link eBL |UD.MA₂.AB×HA| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA|
+@link	eBL |UD.MA₂.AB×HA| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA|
 @end sign
 
 @sign |UD.MA₂.AB×HA.KI.TAG|
@@ -44943,7 +44918,7 @@
 @useq	x12313.x12223.x1200F.x121A0.x122F3
 @ucun	𒌓𒈣𒀏𒆠𒋳
 @v	sirara₆
-@link eBL |UD.MA₂.AB×HA.KI.TAG| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA.KI.TAG|
+@link	eBL |UD.MA₂.AB×HA.KI.TAG| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA.KI.TAG|
 @end sign
 
 @sign |UD.MA₂.AB×HA.ŠIR|
@@ -44952,7 +44927,7 @@
 @ucun	𒌓𒈣𒀏𒋓
 @v	sirara₂
 @inote	sjt ŠIR or NU₁₁ here?
-@link eBL |UD.MA₂.AB×HA.ŠIR| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA.ŠIR|
+@link	eBL |UD.MA₂.AB×HA.ŠIR| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA.ŠIR|
 @end sign
 
 @sign |UD.MA₂.AB×HA.TAG|
@@ -44961,7 +44936,7 @@
 @useq	x12313.x12223.x1200F.x122F3
 @ucun	𒌓𒈣𒀏𒋳
 @v	sirara₃
-@link eBL |UD.MA₂.AB×HA.TAG| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA.TAG|
+@link	eBL |UD.MA₂.AB×HA.TAG| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×HA.TAG|
 @end sign
 
 @sign |UD.MA₂.AB×(U.U.U).ŠIR|
@@ -44969,14 +44944,14 @@
 @useq	x12313.x12223.x12014.x122D3
 @ucun	𒌓𒈣𒀔𒋓
 @v	siraraₓ
-@link eBL |UD.MA₂.AB×(U.U.U).ŠIR| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×(U.U.U).ŠIR|
+@link	eBL |UD.MA₂.AB×(U.U.U).ŠIR| https://www.ebl.lmu.de/signs/|UD.MA₂.AB×(U.U.U).ŠIR|
 @end sign
 
 @sign |UD.MI|
 @oid	o0002506
 @useq	x12313.x1222A
 @ucun	𒌓𒈪
-@link eBL |UD.MI| https://www.ebl.lmu.de/signs/|UD.MI|
+@link	eBL |UD.MI| https://www.ebl.lmu.de/signs/|UD.MI|
 @end sign
 
 @sign |UD.NUN|
@@ -44997,7 +44972,7 @@
 @v	surungal
 @v	turungal
 @v	usab
-@link eBL |UD.NUN| https://www.ebl.lmu.de/signs/|UD.NUN|
+@link	eBL |UD.NUN| https://www.ebl.lmu.de/signs/|UD.NUN|
 @form ADAB~a
 @oid	o0027165
 @list	ZATU019
@@ -45015,7 +44990,7 @@
 @v	algames
 @v	algameš
 @v	algamis
-@link eBL |UD.SAL.HUB₂| https://www.ebl.lmu.de/signs/|UD.SAL.HUB₂|
+@link	eBL |UD.SAL.HUB₂| https://www.ebl.lmu.de/signs/|UD.SAL.HUB₂|
 @end sign
 
 @sign |UD.SAL.KAB|
@@ -45032,7 +45007,7 @@
 @v	šaraₓ
 @v	šaragₓ
 @v	u₄-sakar
-@link eBL |UD.SAR| https://www.ebl.lmu.de/signs/|UD.SAR|
+@link	eBL |UD.SAR| https://www.ebl.lmu.de/signs/|UD.SAR|
 @end sign
 
 @sign |UD.ŠEŠ.KI|
@@ -45041,7 +45016,7 @@
 @ucun	𒌓𒋀𒆠
 @v	idₓ
 @v	itiₓ
-@link eBL |UD.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|UD.ŠEŠ.KI|
+@link	eBL |UD.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|UD.ŠEŠ.KI|
 @end sign
 
 @sign |UD.UD|
@@ -45057,7 +45032,7 @@
 @v	huhud
 @v	larag₂
 @v	tatam
-@link eBL |UD.UD| https://www.ebl.lmu.de/signs/|UD.UD|
+@link	eBL |UD.UD| https://www.ebl.lmu.de/signs/|UD.UD|
 @end sign
 
 @sign |UD.UD.AK|
@@ -45065,7 +45040,7 @@
 @useq	x12313.x12313.x1201D
 @ucun	𒌓𒌓𒀝
 @v	larag
-@link eBL |UD.UD.AK| https://www.ebl.lmu.de/signs/|UD.UD.AK|
+@link	eBL |UD.UD.AK| https://www.ebl.lmu.de/signs/|UD.UD.AK|
 @end sign
 
 @sign |UD×BAD|
@@ -45076,8 +45051,8 @@
 @uage	5.0
 @v	itiₓ
 @v	itudₓ
-@link eBL |UD×BAD| https://www.ebl.lmu.de/signs/|UD×BAD|
-@link Wikidata Q87556544 http://www.wikidata.org/entity/Q87556544
+@link	eBL |UD×BAD| https://www.ebl.lmu.de/signs/|UD×BAD|
+@link	Wikidata Q87556544 http://www.wikidata.org/entity/Q87556544
 @form |UD×DIŠ|
 @oid	o0223330
 @list	RSP328
@@ -45087,9 +45062,9 @@
 @list	ELLES207
 @@
 @form |UD@g×BAD|
-@oid o0038284
-@v itiₓ
-@inote needs collation; no photo
+@oid	o0038284
+@v	itiₓ
+@inote	needs collation; no photo
 @@
 @end sign
 
@@ -45108,31 +45083,15 @@
 @uage	5.0
 @v	itima₂
 @v	utima₂
-@link eBL |UD×MI| https://www.ebl.lmu.de/signs/|UD×MI|
-@link Wikidata Q87556546 http://www.wikidata.org/entity/Q87556546
+@link	eBL |UD×MI| https://www.ebl.lmu.de/signs/|UD×MI|
+@link	Wikidata Q87556546 http://www.wikidata.org/entity/Q87556546
 @form |UD.MI|
 @oid	o0002506
 @inote	dcclt !sg
 @useq	x12313.x1222A
 @ucun	𒌓𒈪
-@link eBL |UD.MI| https://www.ebl.lmu.de/signs/|UD.MI|
+@link	eBL |UD.MI| https://www.ebl.lmu.de/signs/|UD.MI|
 @@
-@end sign
-
-@sign |UD×1(N01)|
-@oid	o0027195
-@list	BAU199
-@inote	possibly ITI?
-@end sign
-
-@sign |UD×1(N01@f)|
-@oid	o0027501
-@inote	UET II, provisional
-@end sign
-
-@sign |UD×3(N57)|
-@oid	o0027503
-@inote	UET II, provisional
 @end sign
 
 @sign |UD×TIL|
@@ -45163,8 +45122,8 @@
 @v	itu
 @v	itud
 @v	u₂₂
-@link eBL |UD×(U.U.U)| https://www.ebl.lmu.de/signs/|UD×(U.U.U)|
-@link Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
+@link	eBL |UD×(U.U.U)| https://www.ebl.lmu.de/signs/|UD×(U.U.U)|
+@link	Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
 @end sign
 
 @sign |UD×(U.U.U)@g|
@@ -45185,8 +45144,8 @@
 @v	nisaŋₓ
 @v	saŋₓ
 @v	zaŋₓ
-@link eBL |UD×(U.U.U)@g| https://www.ebl.lmu.de/signs/|UD×(U.U.U)@g|
-@link Wikidata Q87556549 http://www.wikidata.org/entity/Q87556549
+@link	eBL |UD×(U.U.U)@g| https://www.ebl.lmu.de/signs/|UD×(U.U.U)@g|
+@link	Wikidata Q87556549 http://www.wikidata.org/entity/Q87556549
 @end sign
 
 @sign |UD×(U.U.U).AN.ŠEŠ.KI|
@@ -45195,7 +45154,7 @@
 @useq	x12317.x1202D.x122C0.x121A0
 @ucun	𒌗𒀭𒋀𒆠
 @v	iti₇?
-@link eBL |UD×(U.U.U).AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|UD×(U.U.U).AN.ŠEŠ.KI|
+@link	eBL |UD×(U.U.U).AN.ŠEŠ.KI| https://www.ebl.lmu.de/signs/|UD×(U.U.U).AN.ŠEŠ.KI|
 @end sign
 
 @sign |UD×(U.U.U).DU|
@@ -45203,7 +45162,7 @@
 @pname	|UD×U+U+U.DU|
 @useq	x12317.x1207A
 @ucun	𒌗𒁺
-@link eBL |UD×(U.U.U).DU| https://www.ebl.lmu.de/signs/|UD×(U.U.U).DU|
+@link	eBL |UD×(U.U.U).DU| https://www.ebl.lmu.de/signs/|UD×(U.U.U).DU|
 @end sign
 
 @sign- |UD×(U.U.U)×(U.U.U)@g|
@@ -45216,6 +45175,22 @@
 @inote	For validating sign-lists
 @end sign
 
+@sign |UD×1(N01)|
+@oid	o0027195
+@list	BAU199
+@inote	possibly ITI?
+@end sign
+
+@sign |UD×1(N01@f)|
+@oid	o0027501
+@inote	UET II, provisional
+@end sign
+
+@sign |UD×3(N57)|
+@oid	o0027503
+@inote	UET II, provisional
+@end sign
+
 @sign |UD&UD|
 @oid	o0027832
 @inote	gvl dcclt amp-adds
@@ -45225,7 +45200,7 @@
 @oid	o0000566
 @inote	@uname-no-utf8	CUNEIFORM SIGN UD INVERTED
 @note	MEE 3 44 o v 6
-@link eBL UD@180 https://www.ebl.lmu.de/signs/UD@180
+@link	eBL UD@180 https://www.ebl.lmu.de/signs/UD@180
 @end sign
 
 @sign UD@g
@@ -45243,14 +45218,14 @@
 @v	nesag₃?
 @v	nisag₃?
 @v	sagₓ
-@link eBL UD@g https://www.ebl.lmu.de/signs/UD@g
-@link Wikidata Q87556552 http://www.wikidata.org/entity/Q87556552
+@link	eBL UD@g https://www.ebl.lmu.de/signs/UD@g
+@link	Wikidata Q87556552 http://www.wikidata.org/entity/Q87556552
 @end sign
 
 @sign UD@g@v
 @oid	o0000568
 @inote	CDLI oakk
-@link eBL UD@g@v https://www.ebl.lmu.de/signs/UD@g@v
+@link	eBL UD@g@v https://www.ebl.lmu.de/signs/UD@g@v
 @end sign
 
 @sign UD@s
@@ -45261,8 +45236,8 @@
 @uage	5.0
 @v	itiₓ
 @v	itudₓ
-@link eBL UD@s https://www.ebl.lmu.de/signs/UD@s
-@link Wikidata Q87556554 http://www.wikidata.org/entity/Q87556554
+@link	eBL UD@s https://www.ebl.lmu.de/signs/UD@s
+@link	Wikidata Q87556554 http://www.wikidata.org/entity/Q87556554
 @end sign
 
 @sign |UD@s.KID|
@@ -45271,7 +45246,7 @@
 @ucun	𒌚𒆤
 @v	ni₁₁
 @v	nigin₁₀
-@link eBL |UD@s.KID| https://www.ebl.lmu.de/signs/|UD@s.KID|
+@link	eBL |UD@s.KID| https://www.ebl.lmu.de/signs/|UD@s.KID|
 @end sign
 
 @sign |UD@s.KUŠU₂|
@@ -45279,7 +45254,7 @@
 @useq	x1231A.x121B5
 @ucun	𒌚𒆵
 @v	akšak₃?
-@link eBL |UD@s.KUŠU₂| https://www.ebl.lmu.de/signs/|UD@s.KUŠU₂|
+@link	eBL |UD@s.KUŠU₂| https://www.ebl.lmu.de/signs/|UD@s.KUŠU₂|
 @end sign
 
 @sign |UD@s×BAD|
@@ -45296,8 +45271,8 @@
 @v	itid₂
 @v	itu₂
 @v	itud₂
-@link eBL |UD@s×BAD| https://www.ebl.lmu.de/signs/|UD@s×BAD|
-@link Wikidata Q87556556 http://www.wikidata.org/entity/Q87556556
+@link	eBL |UD@s×BAD| https://www.ebl.lmu.de/signs/|UD@s×BAD|
+@link	Wikidata Q87556556 http://www.wikidata.org/entity/Q87556556
 @form |UD@s×U|
 @oid	o0025699
 @inote	epsd2/admin/oakk; needs in person collation; is U a partially obscured BAD?
@@ -45319,8 +45294,8 @@
 @v	uduₓ
 @v	udug
 @v	utug
-@link eBL UDUG https://www.ebl.lmu.de/signs/UDUG
-@link Wikidata Q87556558 http://www.wikidata.org/entity/Q87556558
+@link	eBL UDUG https://www.ebl.lmu.de/signs/UDUG
+@link	Wikidata Q87556558 http://www.wikidata.org/entity/Q87556558
 @end sign
 
 @sign UM
@@ -45351,8 +45326,8 @@
 @v	u₁₆
 @v	um
 @v	umu
-@link eBL UM https://www.ebl.lmu.de/signs/UM
-@link Wikidata Q87556559 http://www.wikidata.org/entity/Q87556559
+@link	eBL UM https://www.ebl.lmu.de/signs/UM
+@link	Wikidata Q87556559 http://www.wikidata.org/entity/Q87556559
 @end sign
 
 @sign |UM.LAGAB|
@@ -45361,7 +45336,7 @@
 @ucun	𒌝𒆸
 @v	samagₓ
 @v	sumugₓ
-@link eBL |UM.LAGAB| https://www.ebl.lmu.de/signs/|UM.LAGAB|
+@link	eBL |UM.LAGAB| https://www.ebl.lmu.de/signs/|UM.LAGAB|
 @end sign
 
 @sign |UM.MA|
@@ -45379,7 +45354,7 @@
 @v	emeda
 @v	um-me-da
 @v	ummeda
-@link eBL |UM.ME| https://www.ebl.lmu.de/signs/|UM.ME|
+@link	eBL |UM.ME| https://www.ebl.lmu.de/signs/|UM.ME|
 @form |DUB.ME|
 @oid	o0022947
 @inote	dcclt !sg
@@ -45414,8 +45389,8 @@
 @uage	5.0
 @v	samag₅
 @v	sumug₅
-@link eBL |UM×LAGAB| https://www.ebl.lmu.de/signs/|UM×LAGAB|
-@link Wikidata Q87556561 http://www.wikidata.org/entity/Q87556561
+@link	eBL |UM×LAGAB| https://www.ebl.lmu.de/signs/|UM×LAGAB|
+@link	Wikidata Q87556561 http://www.wikidata.org/entity/Q87556561
 @end sign
 
 @sign |UM×ME|
@@ -45427,7 +45402,7 @@
 @list	U+12398
 @ucun	𒎘
 @uage	7.0
-@link Wikidata Q87556824 http://www.wikidata.org/entity/Q87556824
+@link	Wikidata Q87556824 http://www.wikidata.org/entity/Q87556824
 @end sign
 
 @sign |UM×(ME.DA)|
@@ -45441,8 +45416,8 @@
 @uage	5.0
 @v	emeda₃
 @v	ummeda₂
-@link eBL |UM×(ME.DA)| https://www.ebl.lmu.de/signs/|UM×(ME.DA)|
-@link Wikidata Q87556563 http://www.wikidata.org/entity/Q87556563
+@link	eBL |UM×(ME.DA)| https://www.ebl.lmu.de/signs/|UM×(ME.DA)|
+@link	Wikidata Q87556563 http://www.wikidata.org/entity/Q87556563
 @end sign
 
 @sign |UM×ŠA₃|
@@ -45453,13 +45428,13 @@
 @uage	5.0
 @v	samag₂
 @v	sumug₂
-@link eBL |UM×ŠA₃| https://www.ebl.lmu.de/signs/|UM×ŠA₃|
-@link Wikidata Q87556565 http://www.wikidata.org/entity/Q87556565
+@link	eBL |UM×ŠA₃| https://www.ebl.lmu.de/signs/|UM×ŠA₃|
+@link	Wikidata Q87556565 http://www.wikidata.org/entity/Q87556565
 @form |DUB×ŠA₃|
 @oid	o0031584
 @list	MZL244
 @inote	NA sign form according to Borger's collation s.v. MZL 244
-@link eBL |DUB×ŠA₃| https://www.ebl.lmu.de/signs/|DUB×ŠA₃|
+@link	eBL |DUB×ŠA₃| https://www.ebl.lmu.de/signs/|DUB×ŠA₃|
 @@
 @end sign
 
@@ -45474,8 +45449,8 @@
 @v	samag₃
 @v	simigₓ
 @v	sumug₃
-@link eBL |UM×U| https://www.ebl.lmu.de/signs/|UM×U|
-@link Wikidata Q87556568 http://www.wikidata.org/entity/Q87556568
+@link	eBL |UM×U| https://www.ebl.lmu.de/signs/|UM×U|
+@link	Wikidata Q87556568 http://www.wikidata.org/entity/Q87556568
 @end sign
 
 @sign |UM×U.LAGAB|
@@ -45484,7 +45459,7 @@
 @ucun	𒌡𒆸
 @v	samag₄
 @v	sumug₄
-@link eBL |UM×U.LAGAB| https://www.ebl.lmu.de/signs/|UM×U.LAGAB|
+@link	eBL |UM×U.LAGAB| https://www.ebl.lmu.de/signs/|UM×U.LAGAB|
 @end sign
 
 @sign UMBIN
@@ -45503,8 +45478,8 @@
 @uage	5.0
 @v	sigₓ
 @v	umbin
-@link eBL UMBIN https://www.ebl.lmu.de/signs/UMBIN
-@link Wikidata Q87556570 http://www.wikidata.org/entity/Q87556570
+@link	eBL UMBIN https://www.ebl.lmu.de/signs/UMBIN
+@link	Wikidata Q87556570 http://www.wikidata.org/entity/Q87556570
 @form |GAD.TAK₄.UR₂|
 @oid	o0022951
 @inote	dcclt !sg
@@ -45521,14 +45496,14 @@
 @oid	o0002594
 @aka	|UR₂×KID₂|
 @v	umbinₓ
-@inote umbin or umbinₓ?
+@inote	umbin or umbinₓ?
 @@
 @end sign
 
 @sign |UMBIN×LU|
 @oid	o0002525
 @v	umbinₓ
-@link eBL |UMBIN×LU| https://www.ebl.lmu.de/signs/|UMBIN×LU|
+@link	eBL |UMBIN×LU| https://www.ebl.lmu.de/signs/|UMBIN×LU|
 @form |UMBIN×MAŠ|
 @oid	o0002526
 @lit	2014 Manuel Molina, SCTRAH 221
@@ -45554,8 +45529,8 @@
 @v	simug
 @v	umum
 @v	umun₂
-@link eBL UMUM https://www.ebl.lmu.de/signs/UMUM
-@link Wikidata Q87556573 http://www.wikidata.org/entity/Q87556573
+@link	eBL UMUM https://www.ebl.lmu.de/signs/UMUM
+@link	Wikidata Q87556573 http://www.wikidata.org/entity/Q87556573
 @form |UMUM×KASKAL|
 @oid	o0002529
 @list	LAK156b
@@ -45564,10 +45539,11 @@
 @list	U+12324
 @ucun	𒌤
 @uage	5.0
-@link eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
-@link Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
+@link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
+@link	Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
 @@
 @form UMUM@s
+@oid	o0036120
 @@
 @end sign
 
@@ -45582,7 +45558,7 @@
 @v	agarinₓ
 @v	aŋarinₓ
 @lit	Civil 2008 ARES 4, 78
-@link eBL |UMUM×DUN₃@g| https://www.ebl.lmu.de/signs/|UMUM×DUN₃@g|
+@link	eBL |UMUM×DUN₃@g| https://www.ebl.lmu.de/signs/|UMUM×DUN₃@g|
 @end sign
 
 @sign |UMUM×HA|
@@ -45592,7 +45568,7 @@
 @v	agarinₓ
 @lit	Civil 2008 ARES 4, 78
 @v	aŋarinₓ
-@link eBL |UMUM×HA| https://www.ebl.lmu.de/signs/|UMUM×HA|
+@link	eBL |UMUM×HA| https://www.ebl.lmu.de/signs/|UMUM×HA|
 @end sign
 
 @sign |UMUM×PA|
@@ -45606,64 +45582,8 @@
 @uage	5.0
 @v	deₓ
 @v	simugₓ
-@link eBL |UMUM×PA| https://www.ebl.lmu.de/signs/|UMUM×PA|
-@link Wikidata Q87556577 http://www.wikidata.org/entity/Q87556577
-@end sign
-
-@sign KALAM
-@note The characters CUNEIFORM SIGN UN and CUNEIFORM SIGN UN GUNU are affected
-      by a glyph erratum incorporated into Unicode 16.0: the glyphs are swapped
-      with respect to Unicode 5.0..15.1, and a formal alias corrects the name of
-      UN GUNU to KALAM.  Further review of the various lists is necessary and
-      most periods will need to treat KALAM and KALAM@g as a merger.
-@note OSL uses a webfont which is a version of NotoSansCuneiform with
-      the KALAM/KALAM@g glyphs swapped by Robin Leroy to conform to
-      the new definition.
-@oid	o0000574
-@list	ABZL169
-@list	BAU367
-@list	ELLES356
-@list	GCSL297
-@list	KWU849
-@list	LAK729
-@list	MZL500
-@list	PTACE300
-@list	RSP136
-@uname	CUNEIFORM SIGN UN GUNU
-@list	U+12327
-@ucun	𒌧
-@unote This glyph may appear incorrect in the OSL source but should be correct in the web display which uses the swapped font.
-@uage	5.0
-@v	kalam
-@v	kalama
-@v	kanaŋ
-@v	kanam
-@link eBL UN https://www.ebl.lmu.de/signs/UN
-@link Wikidata Q87556578 http://www.wikidata.org/entity/Q87556578
-@end sign
-
-@sign KALAM@g
-@oid	o0000575
-@list	ABZL169
-@list	LAK730
-@list	MZL501
-@uname	CUNEIFORM SIGN UN
-@list	U+12326
-@ucun	𒌦
-@unote This glyph may appear incorrect in the OSL source but should be correct in the web display which uses the swapped font.
-@uage	5.0
-@v	kalamₓ
-@v	u₁₂
-@v	ug₃
-@v-	uga₃
-@inote	MAYBE PROBLEM dupfix not in MZL; Attinger uga₃(NAGA)
-@v	uŋ₃
-@v	uku₃
-@v	umₓ
-@v	un
-@v	unu₄
-@link eBL UN@g https://www.ebl.lmu.de/signs/UN@g
-@link Wikidata Q87556580 http://www.wikidata.org/entity/Q87556580
+@link	eBL |UMUM×PA| https://www.ebl.lmu.de/signs/|UMUM×PA|
+@link	Wikidata Q87556577 http://www.wikidata.org/entity/Q87556577
 @end sign
 
 @sign UR
@@ -45720,8 +45640,8 @@
 @v	ur
 @v	ura
 @v	uru₁₃
-@link eBL UR https://www.ebl.lmu.de/signs/UR
-@link Wikidata Q87556582 http://www.wikidata.org/entity/Q87556582
+@link	eBL UR https://www.ebl.lmu.de/signs/UR
+@link	Wikidata Q87556582 http://www.wikidata.org/entity/Q87556582
 @end sign
 
 @sign |UR.A.EDIN|
@@ -45737,19 +45657,19 @@
 @useq	x12328.x12224
 @ucun	𒌨𒈤
 @v	neša
-@link eBL |UR.MAH| https://www.ebl.lmu.de/signs/|UR.MAH|
+@link	eBL |UR.MAH| https://www.ebl.lmu.de/signs/|UR.MAH|
 @end sign
 
 @sign |UR×A|
 @oid	o0002581
 @v	dulₓ
-@link eBL |UR×A| https://www.ebl.lmu.de/signs/|UR×A|
+@link	eBL |UR×A| https://www.ebl.lmu.de/signs/|UR×A|
 @end sign
 
 @sign |UR×AL|
 @oid	o0002580
 @v	suhušₓ
-@link eBL |UR×AL| https://www.ebl.lmu.de/signs/|UR×AL|
+@link	eBL |UR×AL| https://www.ebl.lmu.de/signs/|UR×AL|
 @end sign
 
 @sign |UR×DIŠ|
@@ -45769,7 +45689,7 @@
 @sign |UR×MIN|
 @oid	o0002582
 @v	dulₓ
-@link eBL |UR×MIN| https://www.ebl.lmu.de/signs/|UR×MIN|
+@link	eBL |UR×MIN| https://www.ebl.lmu.de/signs/|UR×MIN|
 @end sign
 
 @sign |UR×SAG|
@@ -45802,8 +45722,8 @@
 @v-	ur-ur
 @v	urbigu
 @v	urbingu
-@link eBL |UR%UR| https://www.ebl.lmu.de/signs/|UR%UR|
-@link Wikidata Q87556584 http://www.wikidata.org/entity/Q87556584
+@link	eBL |UR%UR| https://www.ebl.lmu.de/signs/|UR%UR|
+@link	Wikidata Q87556584 http://www.wikidata.org/entity/Q87556584
 @form |UR&UR|
 @oid	o0002537
 @v	lirum₈
@@ -45815,7 +45735,7 @@
 @oid	o0000577
 @inote	@uname-no-utf8	CUNEIFORM SIGN UR INVERTED
 @inote	[CBS 2146 = dcclt:P227871 o 7', lu₂ UR@180]
-@link eBL UR@180 https://www.ebl.lmu.de/signs/UR@180
+@link	eBL UR@180 https://www.ebl.lmu.de/signs/UR@180
 @end sign
 
 @sign UR@s
@@ -45837,8 +45757,8 @@
 @v	ṭul₄
 @ref	VAT 9541 = dcclt/signlists:P345960 ii 9'
 @inote	salgues
-@link eBL UR@s https://www.ebl.lmu.de/signs/UR@s
-@link Wikidata Q87556586 http://www.wikidata.org/entity/Q87556586
+@link	eBL UR@s https://www.ebl.lmu.de/signs/UR@s
+@link	Wikidata Q87556586 http://www.wikidata.org/entity/Q87556586
 @end sign
 
 @sign UR₂
@@ -45860,8 +45780,8 @@
 @uage	5.0
 @v	ur₂
 @v	uru₈
-@link eBL UR₂ https://www.ebl.lmu.de/signs/UR₂
-@link Wikidata Q87556588 http://www.wikidata.org/entity/Q87556588
+@link	eBL UR₂ https://www.ebl.lmu.de/signs/UR₂
+@link	Wikidata Q87556588 http://www.wikidata.org/entity/Q87556588
 @end sign
 
 @sign |UR₂.U₂|
@@ -45876,7 +45796,7 @@
 @oid	o0002589
 @v	arinaₓ
 @v	urumₓ
-@link eBL |UR₂×A| https://www.ebl.lmu.de/signs/|UR₂×A|
+@link	eBL |UR₂×A| https://www.ebl.lmu.de/signs/|UR₂×A|
 @form |UR₂×AŠ|
 @oid	o0027197
 @list	ZATU589
@@ -45895,8 +45815,8 @@
 @ucun	𒌬
 @uage	5.0
 @v	urum₉
-@link eBL |UR₂×(A.HA)| https://www.ebl.lmu.de/signs/|UR₂×(A.HA)|
-@link Wikidata Q87556591 http://www.wikidata.org/entity/Q87556591
+@link	eBL |UR₂×(A.HA)| https://www.ebl.lmu.de/signs/|UR₂×(A.HA)|
+@link	Wikidata Q87556591 http://www.wikidata.org/entity/Q87556591
 @form |UR₂×(HA.A)|
 @oid	o0221973
 @@
@@ -45909,8 +45829,8 @@
 @list	U+1232D
 @ucun	𒌭
 @uage	5.0
-@link eBL |UR₂×(A.NA)| https://www.ebl.lmu.de/signs/|UR₂×(A.NA)|
-@link Wikidata Q87556594 http://www.wikidata.org/entity/Q87556594
+@link	eBL |UR₂×(A.NA)| https://www.ebl.lmu.de/signs/|UR₂×(A.NA)|
+@link	Wikidata Q87556594 http://www.wikidata.org/entity/Q87556594
 @end sign
 
 @sign |UR₂×AL|
@@ -45924,8 +45844,8 @@
 @v	šuhuš₂
 @ref	VAT 9541 = dcclt/signlists:P345960 o ii 15'
 @inote	salgues
-@link eBL |UR₂×AL| https://www.ebl.lmu.de/signs/|UR₂×AL|
-@link Wikidata Q87556596 http://www.wikidata.org/entity/Q87556596
+@link	eBL |UR₂×AL| https://www.ebl.lmu.de/signs/|UR₂×AL|
+@link	Wikidata Q87556596 http://www.wikidata.org/entity/Q87556596
 @end sign
 
 @sign |UR₂×AŠ₂|
@@ -45943,14 +45863,14 @@
 @inote	epsd2
 @v	umbinₓ
 @v	ušbarₓ
-@link eBL |UR₂×GAN₂@t| https://www.ebl.lmu.de/signs/|UR₂×GAN₂@t|
+@link	eBL |UR₂×GAN₂@t| https://www.ebl.lmu.de/signs/|UR₂×GAN₂@t|
 @end sign
 
 @sign |UR₂×(GI.IDIM)|
 @oid	o0002585
 @v	gidimₓ
 @note	Ur III incantations HS 1474+ (P273889) and HS 1573 (P273898).
-@link eBL |UR₂×(GI.IDIM)| https://www.ebl.lmu.de/signs/|UR₂×(GI.IDIM)|
+@link	eBL |UR₂×(GI.IDIM)| https://www.ebl.lmu.de/signs/|UR₂×(GI.IDIM)|
 @end sign
 
 @sign |UR₂×HA|
@@ -45967,14 +45887,14 @@
 @v	erin₉
 @v	uruₓ
 @v	urum₄
-@link eBL |UR₂×HA| https://www.ebl.lmu.de/signs/|UR₂×HA|
-@link Wikidata Q87556599 http://www.wikidata.org/entity/Q87556599
+@link	eBL |UR₂×HA| https://www.ebl.lmu.de/signs/|UR₂×HA|
+@link	Wikidata Q87556599 http://www.wikidata.org/entity/Q87556599
 @end sign
 
 @sign |UR₂×KAL|
 @oid	o0002592
 @inote	epsd2
-@link eBL |UR₂×KAL| https://www.ebl.lmu.de/signs/|UR₂×KAL|
+@link	eBL |UR₂×KAL| https://www.ebl.lmu.de/signs/|UR₂×KAL|
 @end sign
 
 @sign |UR₂×NUN|
@@ -45988,15 +45908,15 @@
 @uage	5.0
 @v	ušbar
 @v	ušbur
-@link eBL |UR₂×NUN| https://www.ebl.lmu.de/signs/|UR₂×NUN|
-@link Wikidata Q87556601 http://www.wikidata.org/entity/Q87556601
+@link	eBL |UR₂×NUN| https://www.ebl.lmu.de/signs/|UR₂×NUN|
+@link	Wikidata Q87556601 http://www.wikidata.org/entity/Q87556601
 @end sign
 
 @sign |UR₂×PA|
-@oid o0038194
-@inote epsd2/admin/ur3 ; requires collation; is this different from UR₂×GAD??
+@oid	o0038194
+@inote	epsd2/admin/ur3 ; requires collation; is this different from UR₂×GAD??
 @end sign
- 
+
 @sign |UR₂×TAK₄.SU|
 @oid	o0002593
 @aka	|UR₂×KID₂.SU|
@@ -46007,18 +45927,8 @@
 @end sign
 
 @sign |UR₂×U|
-@oid o0038202
-@inote epsd2/admin/ur3
-@end sign
-
-@sign |UR₂×ZI|
-@oid	o0038203
-@inote epsd2/admin/ur3
-@end sign
-
-@sign |KA×NI|
-@oid o0038205
-@inote epsd2/admin/ur3
+@oid	o0038202
+@inote	epsd2/admin/ur3
 @end sign
 
 @sign |UR₂×U₂|
@@ -46036,8 +45946,8 @@
 @v	urum₈
 @v	ušbar₇
 @v	ušbur₇
-@link eBL |UR₂×U₂| https://www.ebl.lmu.de/signs/|UR₂×U₂|
-@link Wikidata Q87556603 http://www.wikidata.org/entity/Q87556603
+@link	eBL |UR₂×U₂| https://www.ebl.lmu.de/signs/|UR₂×U₂|
+@link	Wikidata Q87556603 http://www.wikidata.org/entity/Q87556603
 @end sign
 
 @sign |UR₂×(U₂.AŠ)|
@@ -46057,8 +45967,8 @@
 @v	ušbar₃
 @v	ušbur₃
 @v	ušuburₓ
-@link eBL |UR₂×(U₂.AŠ)| https://www.ebl.lmu.de/signs/|UR₂×(U₂.AŠ)|
-@link Wikidata Q87556606 http://www.wikidata.org/entity/Q87556606
+@link	eBL |UR₂×(U₂.AŠ)| https://www.ebl.lmu.de/signs/|UR₂×(U₂.AŠ)|
+@link	Wikidata Q87556606 http://www.wikidata.org/entity/Q87556606
 @end sign
 
 @sign |UR₂×(U₂.BI)|
@@ -46069,8 +45979,8 @@
 @ucun	𒌳
 @uage	5.0
 @v	arxₓ
-@link eBL |UR₂×(U₂.BI)| https://www.ebl.lmu.de/signs/|UR₂×(U₂.BI)|
-@link Wikidata Q87556607 http://www.wikidata.org/entity/Q87556607
+@link	eBL |UR₂×(U₂.BI)| https://www.ebl.lmu.de/signs/|UR₂×(U₂.BI)|
+@link	Wikidata Q87556607 http://www.wikidata.org/entity/Q87556607
 @end sign
 
 @sign |UR₂×UD|
@@ -46080,13 +45990,38 @@
 @list	U+1253D
 @ucun	𒔽
 @uage	8.0
-@link eBL |UR₂×UD| https://www.ebl.lmu.de/signs/|UR₂×UD|
-@link Wikidata Q87557469 http://www.wikidata.org/entity/Q87557469
+@link	eBL |UR₂×UD| https://www.ebl.lmu.de/signs/|UR₂×UD|
+@link	Wikidata Q87557469 http://www.wikidata.org/entity/Q87557469
 @end sign
 
 @sign |UR₂×X|
 @oid	o0002598
-@link eBL |UR₂×X| https://www.ebl.lmu.de/signs/|UR₂×X|
+@link	eBL |UR₂×X| https://www.ebl.lmu.de/signs/|UR₂×X|
+@end sign
+
+@sign |UR₂×ZI|
+@oid	o0038203
+@inote	epsd2/admin/ur3
+@end sign
+
+@sign UR₂@g
+@oid	o0000586
+@list	KWU737
+@v	ur₂@g
+@inote	ed3b
+@note	Ur III; may be a variant of |UR₂×(A.HA)| etc.
+@link	eBL UR₂@g https://www.ebl.lmu.de/signs/UR₂@g
+@end sign
+
+@sign UR₂@h
+@oid	o0000587
+@note	P221788 = BiMes 3, 15 rev. 2 line 5
+@uname	CUNEIFORM SIGN UR2 INVERTED
+@list	U+1253C
+@ucun	𒔼
+@uage	8.0
+@link	eBL UR₂@h https://www.ebl.lmu.de/signs/UR₂@h
+@link	Wikidata Q87557468 http://www.wikidata.org/entity/Q87557468
 @end sign
 
 @sign UR₄
@@ -46107,28 +46042,8 @@
 @v	gur₁₅
 @v	ur₄
 @v	ura₄
-@link eBL UR₄ https://www.ebl.lmu.de/signs/UR₄
-@link Wikidata Q87556610 http://www.wikidata.org/entity/Q87556610
-@end sign
-
-@sign UR₂@g
-@oid	o0000586
-@list	KWU737
-@v	ur₂@g
-@inote	ed3b
-@note	Ur III; may be a variant of |UR₂×(A.HA)| etc.
-@link eBL UR₂@g https://www.ebl.lmu.de/signs/UR₂@g
-@end sign
-
-@sign UR₂@h
-@oid	o0000587
-@note	P221788 = BiMes 3, 15 rev. 2 line 5
-@uname	CUNEIFORM SIGN UR2 INVERTED
-@list	U+1253C
-@ucun	𒔼
-@uage	8.0
-@link eBL UR₂@h https://www.ebl.lmu.de/signs/UR₂@h
-@link Wikidata Q87557468 http://www.wikidata.org/entity/Q87557468
+@link	eBL UR₄ https://www.ebl.lmu.de/signs/UR₄
+@link	Wikidata Q87556610 http://www.wikidata.org/entity/Q87556610
 @end sign
 
 @sign URI
@@ -46156,15 +46071,8 @@
 @v	ur₁₀
 @v	uri
 @v	uru₁₉
-@link eBL URI https://www.ebl.lmu.de/signs/URI
-@link Wikidata Q87556612 http://www.wikidata.org/entity/Q87556612
-@form URI@n
-@oid	o0000580
-@list	LAK125
-@inote	CDLI ed3b
-@link eBL URI@n https://www.ebl.lmu.de/signs/URI@n
-@v	uriₓ
-@@
+@link	eBL URI https://www.ebl.lmu.de/signs/URI
+@link	Wikidata Q87556612 http://www.wikidata.org/entity/Q87556612
 @form LAK647
 @oid	o0025783
 @list	LAK647
@@ -46174,6 +46082,13 @@
 @oid	o0021454
 @list	RSP380bis
 @inote	cp LAK576 which is similar but not identical
+@@
+@form URI@n
+@oid	o0000580
+@list	LAK125
+@inote	CDLI ed3b
+@v	uriₓ
+@link	eBL URI@n https://www.ebl.lmu.de/signs/URI@n
 @@
 @end sign
 
@@ -46193,8 +46108,8 @@
 @v	urin
 @v	uru₃
 @v	urun
-@link eBL URI₃ https://www.ebl.lmu.de/signs/URI₃
-@link Wikidata Q87556614 http://www.wikidata.org/entity/Q87556614
+@link	eBL URI₃ https://www.ebl.lmu.de/signs/URI₃
+@link	Wikidata Q87556614 http://www.wikidata.org/entity/Q87556614
 @end sign
 
 @sign URU
@@ -46233,8 +46148,8 @@
 @v	ulu₄
 @v	uru
 @v	urumₓ
-@link eBL URU https://www.ebl.lmu.de/signs/URU
-@link Wikidata Q87556617 http://www.wikidata.org/entity/Q87556617
+@link	eBL URU https://www.ebl.lmu.de/signs/URU
+@link	Wikidata Q87556617 http://www.wikidata.org/entity/Q87556617
 @end sign
 
 @sign |URU.ME.U.U.U|
@@ -46242,7 +46157,7 @@
 @useq	x12337.x1238C
 @ucun	𒌷𒎌
 @v	ala₂?
-@link eBL |URU.ME.U.U.U| https://www.ebl.lmu.de/signs/|URU.ME.U.U.U|
+@link	eBL |URU.ME.U.U.U| https://www.ebl.lmu.de/signs/|URU.ME.U.U.U|
 @end sign
 
 @sign |URU×A|
@@ -46263,8 +46178,8 @@
 @v	ru₁₄
 @v	uru₁₈
 @v	urua
-@link eBL |URU×A| https://www.ebl.lmu.de/signs/|URU×A|
-@link Wikidata Q87556618 http://www.wikidata.org/entity/Q87556618
+@link	eBL |URU×A| https://www.ebl.lmu.de/signs/|URU×A|
+@link	Wikidata Q87556618 http://www.wikidata.org/entity/Q87556618
 @form |URU.A|
 @oid	o0021770
 @useq	x12337.x12000
@@ -46287,13 +46202,13 @@
 @list	U+12339
 @ucun	𒌹
 @uage	5.0
-@link eBL |URU×AŠGAB| https://www.ebl.lmu.de/signs/|URU×AŠGAB|
-@link Wikidata Q87556621 http://www.wikidata.org/entity/Q87556621
+@link	eBL |URU×AŠGAB| https://www.ebl.lmu.de/signs/|URU×AŠGAB|
+@link	Wikidata Q87556621 http://www.wikidata.org/entity/Q87556621
 @end sign
 
 @sign |URU×BAD|
 @oid	o0038267
-@inote epsd2/oakk
+@inote	epsd2/oakk
 @end sign
 
 @sign |URU×BAR|
@@ -46318,8 +46233,8 @@
 @v	ukkin
 @v	unken
 @v	unkin
-@link eBL |URU×BAR| https://www.ebl.lmu.de/signs/|URU×BAR|
-@link Wikidata Q87556623 http://www.wikidata.org/entity/Q87556623
+@link	eBL |URU×BAR| https://www.ebl.lmu.de/signs/|URU×BAR|
+@link	Wikidata Q87556623 http://www.wikidata.org/entity/Q87556623
 @form |KA×BAR|
 @oid	o0001615
 @uname	CUNEIFORM SIGN KA TIMES BAR
@@ -46327,8 +46242,8 @@
 @ucun	𒅞
 @uage	5.0
 @v	unkinₓ
-@link eBL |KA×BAR| https://www.ebl.lmu.de/signs/|KA×BAR|
-@link Wikidata Q87555688 http://www.wikidata.org/entity/Q87555688
+@link	eBL |KA×BAR| https://www.ebl.lmu.de/signs/|KA×BAR|
+@link	Wikidata Q87555688 http://www.wikidata.org/entity/Q87555688
 @@
 @end sign
 
@@ -46352,8 +46267,8 @@
 @list	U+1253E
 @ucun	𒔾
 @uage	8.0
-@link eBL |URU×DARA₃| https://www.ebl.lmu.de/signs/|URU×DARA₃|
-@link Wikidata Q87557471 http://www.wikidata.org/entity/Q87557471
+@link	eBL |URU×DARA₃| https://www.ebl.lmu.de/signs/|URU×DARA₃|
+@link	Wikidata Q87557471 http://www.wikidata.org/entity/Q87557471
 @end sign
 
 @sign |URU×DUN|
@@ -46363,8 +46278,8 @@
 @list	U+1233B
 @ucun	𒌻
 @uage	5.0
-@link eBL |URU×DUN| https://www.ebl.lmu.de/signs/|URU×DUN|
-@link Wikidata Q87556626 http://www.wikidata.org/entity/Q87556626
+@link	eBL |URU×DUN| https://www.ebl.lmu.de/signs/|URU×DUN|
+@link	Wikidata Q87556626 http://www.wikidata.org/entity/Q87556626
 @end sign
 
 @sign |URU×GA|
@@ -46379,16 +46294,16 @@
 @v	šakir₃
 @v	šakira₃
 @v	šikira₃
-@link eBL |URU×GA| https://www.ebl.lmu.de/signs/|URU×GA|
-@link Wikidata Q87556628 http://www.wikidata.org/entity/Q87556628
+@link	eBL |URU×GA| https://www.ebl.lmu.de/signs/|URU×GA|
+@link	Wikidata Q87556628 http://www.wikidata.org/entity/Q87556628
 @form |LAK648×GA|
 @oid	o0001878
 @list	LAK714
 @list	U+1250F
 @ucun	𒔏
 @uage	8.0
-@link eBL |LAK648×GA| https://www.ebl.lmu.de/signs/|LAK648×GA|
-@link Wikidata Q87557372 http://www.wikidata.org/entity/Q87557372
+@link	eBL |LAK648×GA| https://www.ebl.lmu.de/signs/|LAK648×GA|
+@link	Wikidata Q87557372 http://www.wikidata.org/entity/Q87557372
 @@
 @form |URU×GA@g|
 @oid	o0002559
@@ -46410,8 +46325,8 @@
 @uage	5.0
 @v	araliₓ
 @v	urugalₓ
-@link eBL |URU×GAL| https://www.ebl.lmu.de/signs/|URU×GAL|
-@link Wikidata Q87556629 http://www.wikidata.org/entity/Q87556629
+@link	eBL |URU×GAL| https://www.ebl.lmu.de/signs/|URU×GAL|
+@link	Wikidata Q87556629 http://www.wikidata.org/entity/Q87556629
 @end sign
 
 @sign |URU×GAN₂@t|
@@ -46433,8 +46348,8 @@
 @v	urub
 @v	urutamga
 @inote	##CHECK where does ubₓ come from? RGTC 2, 229ff and Sollberger ZA 54,9.
-@link eBL |URU×GAN₂@t| https://www.ebl.lmu.de/signs/|URU×GAN₂@t|
-@link Wikidata Q87556631 http://www.wikidata.org/entity/Q87556631
+@link	eBL |URU×GAN₂@t| https://www.ebl.lmu.de/signs/|URU×GAN₂@t|
+@link	Wikidata Q87556631 http://www.wikidata.org/entity/Q87556631
 @end sign
 
 @sign |URU×GAR|
@@ -46452,8 +46367,8 @@
 @v	erin₃
 @v	irimma
 @sys	Attinger irimma => erim₃
-@link eBL |URU×GAR| https://www.ebl.lmu.de/signs/|URU×GAR|
-@link Wikidata Q87556634 http://www.wikidata.org/entity/Q87556634
+@link	eBL |URU×GAR| https://www.ebl.lmu.de/signs/|URU×GAR|
+@link	Wikidata Q87556634 http://www.wikidata.org/entity/Q87556634
 @end sign
 
 @sign |URU×GU|
@@ -46479,8 +46394,8 @@
 @v	šegₓ
 @v	šigₓ
 @v	šurumₓ
-@link eBL |URU×GU| https://www.ebl.lmu.de/signs/|URU×GU|
-@link Wikidata Q87556636 http://www.wikidata.org/entity/Q87556636
+@link	eBL |URU×GU| https://www.ebl.lmu.de/signs/|URU×GU|
+@link	Wikidata Q87556636 http://www.wikidata.org/entity/Q87556636
 @form |KA×GU|
 @oid	o0001635
 @uname	CUNEIFORM SIGN KA TIMES GU
@@ -46491,8 +46406,8 @@
 @v	gur₅
 @v	guru₅
 @v	šakir
-@link eBL |KA×GU| https://www.ebl.lmu.de/signs/|KA×GU|
-@link Wikidata Q87555714 http://www.wikidata.org/entity/Q87555714
+@link	eBL |KA×GU| https://www.ebl.lmu.de/signs/|KA×GU|
+@link	Wikidata Q87555714 http://www.wikidata.org/entity/Q87555714
 @@
 @form |URU×(MIN.GU)|
 @oid	o0023017
@@ -46512,8 +46427,8 @@
 @v	irišeb
 @v	urušeb
 @v	urušib
-@link eBL |URU×HA| https://www.ebl.lmu.de/signs/|URU×HA|
-@link Wikidata Q87556638 http://www.wikidata.org/entity/Q87556638
+@link	eBL |URU×HA| https://www.ebl.lmu.de/signs/|URU×HA|
+@link	Wikidata Q87556638 http://www.wikidata.org/entity/Q87556638
 @end sign
 
 @sign |URU×HI|
@@ -46547,8 +46462,8 @@
 @v	%akk/n nūr-ili
 @v	silig
 @v	šilig
-@link eBL |URU×IGI| https://www.ebl.lmu.de/signs/|URU×IGI|
-@link Wikidata Q87556640 http://www.wikidata.org/entity/Q87556640
+@link	eBL |URU×IGI| https://www.ebl.lmu.de/signs/|URU×IGI|
+@link	Wikidata Q87556640 http://www.wikidata.org/entity/Q87556640
 @form |KA×IGI|
 @oid	o0001637
 @uname	CUNEIFORM SIGN KA TIMES IGI
@@ -46558,11 +46473,23 @@
 @v	asalₓ
 @v	silig₇
 @v	šilig₇
-@link eBL |KA×IGI| https://www.ebl.lmu.de/signs/|KA×IGI|
-@link Wikidata Q87555718 http://www.wikidata.org/entity/Q87555718
+@link	eBL |KA×IGI| https://www.ebl.lmu.de/signs/|KA×IGI|
+@link	Wikidata Q87555718 http://www.wikidata.org/entity/Q87555718
+@@
+@form |LAK648×IGI|
+@oid	o0001880
+@inote	for ePSD2 banšur pending further investigation
 @@
 @form |URU×(MIN.IGI)|
 @oid	o0002547
+@@
+@form |URU×MIN+AŠ|
+@oid	o0031751
+@aka	|GIŠGAL+AŠ|
+@list	ELLES317a
+@inote	See drawing by Pettinato MEE 4 p97 ad r III 8 and ELLES318a
+@useq	x12347.x12038
+@ucun	𒍇𒀸
 @@
 @form |URU×MIN×IGI|
 @oid	o0028113
@@ -46576,18 +46503,8 @@
 @list	U+12510
 @ucun	𒔐
 @uage	8.0
-@link Wikidata Q87557373 http://www.wikidata.org/entity/Q87557373
+@link	Wikidata Q87557373 http://www.wikidata.org/entity/Q87557373
 @@
-@form |URU×MIN+AŠ|
-@oid	o0031751
-@aka	|GIŠGAL+AŠ|
-@list	ELLES317a
-@inote	See drawing by Pettinato MEE 4 p97 ad r III 8 and ELLES318a
-@useq	x12347.x12038
-@ucun	𒍇𒀸
-@@
-@form |LAK648×IGI|
-@inote for ePSD2 banšur pending further investigation
 @end sign
 
 @sign |URU×IGI@g|
@@ -46602,8 +46519,8 @@
 @ucun	𒍃
 @uage	5.0
 @v	bunₓ
-@link eBL |URU×IM| https://www.ebl.lmu.de/signs/|URU×IM|
-@link Wikidata Q87556641 http://www.wikidata.org/entity/Q87556641
+@link	eBL |URU×IM| https://www.ebl.lmu.de/signs/|URU×IM|
+@link	Wikidata Q87556641 http://www.wikidata.org/entity/Q87556641
 @end sign
 
 @sign |URU×IŠ|
@@ -46613,8 +46530,8 @@
 @list	U+12344
 @ucun	𒍄
 @uage	5.0
-@link eBL |URU×IŠ| https://www.ebl.lmu.de/signs/|URU×IŠ|
-@link Wikidata Q87556643 http://www.wikidata.org/entity/Q87556643
+@link	eBL |URU×IŠ| https://www.ebl.lmu.de/signs/|URU×IŠ|
+@link	Wikidata Q87556643 http://www.wikidata.org/entity/Q87556643
 @end sign
 
 @sign |URU×KI|
@@ -46623,8 +46540,8 @@
 @list	U+12345
 @ucun	𒍅
 @uage	5.0
-@link eBL |URU×KI| https://www.ebl.lmu.de/signs/|URU×KI|
-@link Wikidata Q87556645 http://www.wikidata.org/entity/Q87556645
+@link	eBL |URU×KI| https://www.ebl.lmu.de/signs/|URU×KI|
+@link	Wikidata Q87556645 http://www.wikidata.org/entity/Q87556645
 @end sign
 
 @sign |URU×KUR|
@@ -46639,8 +46556,8 @@
 @list	U+1253F
 @ucun	𒔿
 @uage	8.0
-@link eBL |URU×LAK668| https://www.ebl.lmu.de/signs/|URU×LAK668|
-@link Wikidata Q87557473 http://www.wikidata.org/entity/Q87557473
+@link	eBL |URU×LAK668| https://www.ebl.lmu.de/signs/|URU×LAK668|
+@link	Wikidata Q87557473 http://www.wikidata.org/entity/Q87557473
 @end sign
 
 @sign |URU×LUM|
@@ -46649,8 +46566,8 @@
 @list	U+12346
 @ucun	𒍆
 @uage	5.0
-@link eBL |URU×LUM| https://www.ebl.lmu.de/signs/|URU×LUM|
-@link Wikidata Q87556648 http://www.wikidata.org/entity/Q87556648
+@link	eBL |URU×LUM| https://www.ebl.lmu.de/signs/|URU×LUM|
+@link	Wikidata Q87556648 http://www.wikidata.org/entity/Q87556648
 @end sign
 
 @sign |URU×MAŠ|
@@ -46686,8 +46603,8 @@
 @v	uru₁₇
 @v	zik₃
 @sys	Attinger ŋešgal => ŋišgal
-@link eBL |URU×MIN| https://www.ebl.lmu.de/signs/|URU×MIN|
-@link Wikidata Q87556650 http://www.wikidata.org/entity/Q87556650
+@link	eBL |URU×MIN| https://www.ebl.lmu.de/signs/|URU×MIN|
+@link	Wikidata Q87556650 http://www.wikidata.org/entity/Q87556650
 @form |IM.LAK648|
 @oid	o0221884
 @useq	x1214E.x1250D
@@ -46700,7 +46617,7 @@
 @list	U+1250D
 @ucun	𒔍
 @uage	8.0
-@link Wikidata Q87557368 http://www.wikidata.org/entity/Q87557368
+@link	Wikidata Q87557368 http://www.wikidata.org/entity/Q87557368
 @@
 @form |LAK648×IM|
 @oid	o0001881
@@ -46722,7 +46639,7 @@
 @sys	Attinger lu₇⁻
 @sys	Attinger ulu₃⁻
 @sys	Attinger uru₁₇⁻
-@link eBL URU https://www.ebl.lmu.de/signs/URU
+@link	eBL URU https://www.ebl.lmu.de/signs/URU
 @@
 @form |URU×(MIN.IM)|
 @oid	o0002548
@@ -46736,7 +46653,7 @@
 @oid	o0002546
 @inote	epsd2
 @v	šakirₓ
-@link eBL |URU×(MIN.GA)| https://www.ebl.lmu.de/signs/|URU×(MIN.GA)|
+@link	eBL |URU×(MIN.GA)| https://www.ebl.lmu.de/signs/|URU×(MIN.GA)|
 @end sign
 
 @sign |URU×(MIN.NI.GA)|
@@ -46744,7 +46661,7 @@
 @pname	|URU×MIN+NI+GA|
 @v	šakirₓ
 @v	šakiraₓ
-@link eBL |URU×(MIN.NI.GA)| https://www.ebl.lmu.de/signs/|URU×(MIN.NI.GA)|
+@link	eBL |URU×(MIN.NI.GA)| https://www.ebl.lmu.de/signs/|URU×(MIN.NI.GA)|
 @form |URU×(MIN.NI)|
 @oid	o0002549
 @@
@@ -46757,8 +46674,13 @@
 @list	U+12348
 @ucun	𒍈
 @uage	5.0
-@link eBL |URU×PA| https://www.ebl.lmu.de/signs/|URU×PA|
-@link Wikidata Q87556653 http://www.wikidata.org/entity/Q87556653
+@link	eBL |URU×PA| https://www.ebl.lmu.de/signs/|URU×PA|
+@link	Wikidata Q87556653 http://www.wikidata.org/entity/Q87556653
+@end sign
+
+@sign |URU×PIRIG|
+@oid	o0038318
+@inote	AbS 327 clear on photo and copy
 @end sign
 
 @sign |URU×SAL|
@@ -46773,8 +46695,8 @@
 @list	U+1234A
 @ucun	𒍊
 @uage	5.0
-@link eBL |URU×SIG₄| https://www.ebl.lmu.de/signs/|URU×SIG₄|
-@link Wikidata Q87556658 http://www.wikidata.org/entity/Q87556658
+@link	eBL |URU×SIG₄| https://www.ebl.lmu.de/signs/|URU×SIG₄|
+@link	Wikidata Q87556658 http://www.wikidata.org/entity/Q87556658
 @end sign
 
 @sign |URU×ŠA₃|
@@ -46790,8 +46712,8 @@
 @uage	5.0
 @v	šegₓ
 @v	šigₓ
-@link eBL |URU×ŠE| https://www.ebl.lmu.de/signs/|URU×ŠE|
-@link Wikidata Q87556655 http://www.wikidata.org/entity/Q87556655
+@link	eBL |URU×ŠE| https://www.ebl.lmu.de/signs/|URU×ŠE|
+@link	Wikidata Q87556655 http://www.wikidata.org/entity/Q87556655
 @end sign
 
 @sign |URU×ŠEŠ₂|
@@ -46815,16 +46737,16 @@
 @v	sigₓ
 @v	šeg₅
 @v	šig₅
-@link eBL |URU×TU| https://www.ebl.lmu.de/signs/|URU×TU|
-@link Wikidata Q87556660 http://www.wikidata.org/entity/Q87556660
+@link	eBL |URU×TU| https://www.ebl.lmu.de/signs/|URU×TU|
+@link	Wikidata Q87556660 http://www.wikidata.org/entity/Q87556660
 @form |KA×TU|
 @oid	o0001660
 @uname	CUNEIFORM SIGN KA TIMES TU
 @list	U+12386
 @ucun	𒎆
 @uage	7.0
-@link eBL |KA×TU| https://www.ebl.lmu.de/signs/|KA×TU|
-@link Wikidata Q87556786 http://www.wikidata.org/entity/Q87556786
+@link	eBL |KA×TU| https://www.ebl.lmu.de/signs/|KA×TU|
+@link	Wikidata Q87556786 http://www.wikidata.org/entity/Q87556786
 @@
 @end sign
 
@@ -46833,16 +46755,16 @@
 @useq	x1234B.x1234B
 @ucun	𒍋𒍋
 @v	šeššeg
-@link eBL |URU×TU.URU×TU| https://www.ebl.lmu.de/signs/|URU×TU.URU×TU|
-@end sign
-
-@sign |URU×TU&TU|
-@oid	o0028071
-@inote	gvl unknown compound
+@link	eBL |URU×TU.URU×TU| https://www.ebl.lmu.de/signs/|URU×TU.URU×TU|
 @end sign
 
 @sign |URU×(TU&TU)|
 @oid	o0028067
+@inote	gvl unknown compound
+@end sign
+
+@sign |URU×TU&TU|
+@oid	o0028071
 @inote	gvl unknown compound
 @end sign
 
@@ -46856,8 +46778,8 @@
 @list	U+1234C
 @ucun	𒍌
 @uage	5.0
-@link eBL |URU×(U.GUD)| https://www.ebl.lmu.de/signs/|URU×(U.GUD)|
-@link Wikidata Q87556662 http://www.wikidata.org/entity/Q87556662
+@link	eBL |URU×(U.GUD)| https://www.ebl.lmu.de/signs/|URU×(U.GUD)|
+@link	Wikidata Q87556662 http://www.wikidata.org/entity/Q87556662
 @end sign
 
 @sign |URU×(U.U.U)|
@@ -46892,8 +46814,8 @@
 @v	ururim
 @v	urušibₓ?
 @v	urutamga₂
-@link eBL |URU×UD| https://www.ebl.lmu.de/signs/|URU×UD|
-@link Wikidata Q87556664 http://www.wikidata.org/entity/Q87556664
+@link	eBL |URU×UD| https://www.ebl.lmu.de/signs/|URU×UD|
+@link	Wikidata Q87556664 http://www.wikidata.org/entity/Q87556664
 @end sign
 
 @sign |URU×URUDA|
@@ -46917,8 +46839,8 @@
 @v	šilig₅
 @v	uruₓ
 @sys	Attinger pansur => banšur
-@link eBL |URU×URUDA| https://www.ebl.lmu.de/signs/|URU×URUDA|
-@link Wikidata Q87556666 http://www.wikidata.org/entity/Q87556666
+@link	eBL |URU×URUDA| https://www.ebl.lmu.de/signs/|URU×URUDA|
+@link	Wikidata Q87556666 http://www.wikidata.org/entity/Q87556666
 @form |LAK648×URUDA|
 @oid	o0001884
 @list	ELLES318
@@ -46929,7 +46851,7 @@
 @list	U+12516
 @ucun	𒔖
 @uage	8.0
-@link Wikidata Q87557386 http://www.wikidata.org/entity/Q87557386
+@link	Wikidata Q87557386 http://www.wikidata.org/entity/Q87557386
 @@
 @form |URU.URUDA|
 @oid	o0031564
@@ -46961,8 +46883,8 @@
 @list	U+12540
 @ucun	𒕀
 @uage	8.0
-@link eBL URU@g https://www.ebl.lmu.de/signs/URU@g
-@link Wikidata Q87557476 http://www.wikidata.org/entity/Q87557476
+@link	eBL URU@g https://www.ebl.lmu.de/signs/URU@g
+@link	Wikidata Q87557476 http://www.wikidata.org/entity/Q87557476
 @end sign
 
 @sign URUDA
@@ -46991,8 +46913,8 @@
 @v	urud
 @v	uruda
 @v	urudu
-@link eBL URUDA https://www.ebl.lmu.de/signs/URUDA
-@link Wikidata Q87556667 http://www.wikidata.org/entity/Q87556667
+@link	eBL URUDA https://www.ebl.lmu.de/signs/URUDA
+@link	Wikidata Q87556667 http://www.wikidata.org/entity/Q87556667
 @end sign
 
 @sign |URUDA×ŠU|
@@ -47009,8 +46931,8 @@
 @uage	5.0
 @v	samagₓ
 @v	sumugₓ
-@link eBL |URUDA×U| https://www.ebl.lmu.de/signs/|URUDA×U|
-@link Wikidata Q87556670 http://www.wikidata.org/entity/Q87556670
+@link	eBL |URUDA×U| https://www.ebl.lmu.de/signs/|URUDA×U|
+@link	Wikidata Q87556670 http://www.wikidata.org/entity/Q87556670
 @end sign
 
 @sign |URUDA×U.LAGAB|
@@ -47019,7 +46941,7 @@
 @ucun	𒍐𒆸
 @v	samagₓ
 @v	sumugₓ
-@link eBL |URUDA×U.LAGAB| https://www.ebl.lmu.de/signs/|URUDA×U.LAGAB|
+@link	eBL |URUDA×U.LAGAB| https://www.ebl.lmu.de/signs/|URUDA×U.LAGAB|
 @end sign
 
 @sign |URUDA×U.U|
@@ -47027,7 +46949,7 @@
 @useq	x12350.x1230B
 @ucun	𒍐𒌋
 @v	samagₓ
-@link eBL |URUDA×U.U| https://www.ebl.lmu.de/signs/|URUDA×U.U|
+@link	eBL |URUDA×U.U| https://www.ebl.lmu.de/signs/|URUDA×U.U|
 @form |URUDA×U.U.UM|
 @oid	o0023016
 @inote	dcclt !sg
@@ -47051,11 +46973,11 @@
 @list	U+12445
 @ucun	𒑅
 @uage	5.0
+@v	ussu₃
 @v	8(aš@v)
 @v	8(aš@v@c)
-@v	ussu₃
-@link eBL USSU₃ https://www.ebl.lmu.de/signs/USSU₃
-@link Wikidata Q87556986 http://www.wikidata.org/entity/Q87556986
+@link	eBL USSU₃ https://www.ebl.lmu.de/signs/USSU₃
+@link	Wikidata Q87556986 http://www.wikidata.org/entity/Q87556986
 @end sign
 
 @sign UŠ
@@ -47107,8 +47029,8 @@
 @v	uš
 @v	uṣ₂
 @v	uz₂
-@link eBL UŠ https://www.ebl.lmu.de/signs/UŠ
-@link Wikidata Q87556672 http://www.wikidata.org/entity/Q87556672
+@link	eBL UŠ https://www.ebl.lmu.de/signs/UŠ
+@link	Wikidata Q87556672 http://www.wikidata.org/entity/Q87556672
 @end sign
 
 @sign |UŠ.ANŠE|
@@ -47117,7 +47039,7 @@
 @useq	x12351.x12032
 @ucun	𒍑𒀲
 @v	durₓ
-@link eBL |UŠ.ANŠE| https://www.ebl.lmu.de/signs/|UŠ.ANŠE|
+@link	eBL |UŠ.ANŠE| https://www.ebl.lmu.de/signs/|UŠ.ANŠE|
 @end sign
 
 @sign |UŠ.BAR|
@@ -47126,7 +47048,7 @@
 @ucun	𒍑𒁇
 @v	uttu₅
 @v	uṭu₅
-@link eBL |UŠ.BAR| https://www.ebl.lmu.de/signs/|UŠ.BAR|
+@link	eBL |UŠ.BAR| https://www.ebl.lmu.de/signs/|UŠ.BAR|
 @end sign
 
 @sign |UŠ.BU.DA|
@@ -47134,7 +47056,7 @@
 @useq	x12351.x1204D.x12055
 @ucun	𒍑𒁍𒁕
 @v	arahₓ
-@link eBL |UŠ.BU.DA| https://www.ebl.lmu.de/signs/|UŠ.BU.DA|
+@link	eBL |UŠ.BU.DA| https://www.ebl.lmu.de/signs/|UŠ.BU.DA|
 @end sign
 
 @sign |UŠ.DAM|
@@ -47159,7 +47081,7 @@
 @sys	Attinger ŋešdana₂ => ŋidlam₂
 @sys	Attinger ŋeštan₂ => ŋidlam₂
 @sys	Attinger ŋeštana₂ => ŋidlam₂
-@link eBL |UŠ.DAM| https://www.ebl.lmu.de/signs/|UŠ.DAM|
+@link	eBL |UŠ.DAM| https://www.ebl.lmu.de/signs/|UŠ.DAM|
 @end sign
 
 @sign |UŠ.GA|
@@ -47168,7 +47090,7 @@
 @ucun	𒍑𒂵
 @v	bunga
 @v	bungu
-@link eBL |UŠ.GA| https://www.ebl.lmu.de/signs/|UŠ.GA|
+@link	eBL |UŠ.GA| https://www.ebl.lmu.de/signs/|UŠ.GA|
 @form |UŠ.GA₂|
 @oid	o0002609
 @useq	x12351.x120B7
@@ -47185,7 +47107,7 @@
 @v	galₓ
 @v	gala
 @v	nitaₓ
-@link eBL |UŠ.KU| https://www.ebl.lmu.de/signs/|UŠ.KU|
+@link	eBL |UŠ.KU| https://www.ebl.lmu.de/signs/|UŠ.KU|
 @form |LU₂.KU|
 @oid	o0001941
 @useq	x121FD.x121AA
@@ -47199,7 +47121,7 @@
 @ucun	𒍑𒊓
 @v-	dida₂
 @v-	pihu₅
-@link eBL |UŠ.SA| https://www.ebl.lmu.de/signs/|UŠ.SA|
+@link	eBL |UŠ.SA| https://www.ebl.lmu.de/signs/|UŠ.SA|
 @end sign
 
 @sign |UŠ.SAL.DAM|
@@ -47222,7 +47144,7 @@
 @sys	Attinger ŋešdana₃ => ŋidlam₃
 @sys	Attinger ŋeštan₃ => ŋidlam₃
 @sys	Attinger ŋeštana₃ => ŋidlam₃
-@link eBL |UŠ.SAL.DAM| https://www.ebl.lmu.de/signs/|UŠ.SAL.DAM|
+@link	eBL |UŠ.SAL.DAM| https://www.ebl.lmu.de/signs/|UŠ.SAL.DAM|
 @end sign
 
 @sign |UŠ.TUG₂.PI|
@@ -47231,7 +47153,7 @@
 @ucun	𒍑𒌆𒉿
 @v	uštu₂
 @v	uštug₂
-@link eBL |UŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|UŠ.TUG₂.PI|
+@link	eBL |UŠ.TUG₂.PI| https://www.ebl.lmu.de/signs/|UŠ.TUG₂.PI|
 @end sign
 
 @sign |UŠ×A|
@@ -47245,8 +47167,8 @@
 @uage	5.0
 @v	kaš₃
 @v	kisi
-@link eBL |UŠ×A| https://www.ebl.lmu.de/signs/|UŠ×A|
-@link Wikidata Q87556673 http://www.wikidata.org/entity/Q87556673
+@link	eBL |UŠ×A| https://www.ebl.lmu.de/signs/|UŠ×A|
+@link	Wikidata Q87556673 http://www.wikidata.org/entity/Q87556673
 @end sign
 
 @sign |UŠ×KU|
@@ -47258,8 +47180,8 @@
 @ucun	𒍓
 @uage	5.0
 @v	galaₓ
-@link eBL |UŠ×KU| https://www.ebl.lmu.de/signs/|UŠ×KU|
-@link Wikidata Q87556675 http://www.wikidata.org/entity/Q87556675
+@link	eBL |UŠ×KU| https://www.ebl.lmu.de/signs/|UŠ×KU|
+@link	Wikidata Q87556675 http://www.wikidata.org/entity/Q87556675
 @end sign
 
 @sign |UŠ×KUR|
@@ -47271,8 +47193,8 @@
 @uage	5.0
 @v	aradₓ
 @v	gešₓ
-@link eBL |UŠ×KUR| https://www.ebl.lmu.de/signs/|UŠ×KUR|
-@link Wikidata Q87556677 http://www.wikidata.org/entity/Q87556677
+@link	eBL |UŠ×KUR| https://www.ebl.lmu.de/signs/|UŠ×KUR|
+@link	Wikidata Q87556677 http://www.wikidata.org/entity/Q87556677
 @end sign
 
 @sign |UŠ×TAK₄|
@@ -47292,8 +47214,8 @@
 @v	dan₆
 @v	danaₓ
 @v	tan₆
-@link eBL |UŠ×TAK₄| https://www.ebl.lmu.de/signs/|UŠ×TAK₄|
-@link Wikidata Q87556679 http://www.wikidata.org/entity/Q87556679
+@link	eBL |UŠ×TAK₄| https://www.ebl.lmu.de/signs/|UŠ×TAK₄|
+@link	Wikidata Q87556679 http://www.wikidata.org/entity/Q87556679
 @end sign
 
 @sign |UŠ×TAR|
@@ -47320,8 +47242,8 @@
 @list	U+12357
 @ucun	𒍗
 @uage	5.0
-@link eBL UŠ₂ https://www.ebl.lmu.de/signs/UŠ₂
-@link Wikidata Q87556685 http://www.wikidata.org/entity/Q87556685
+@link	eBL UŠ₂ https://www.ebl.lmu.de/signs/UŠ₂
+@link	Wikidata Q87556685 http://www.wikidata.org/entity/Q87556685
 @end sign
 
 @sign- UŠUMX
@@ -47332,7 +47254,7 @@
 @ucun	𒍘
 @uage	5.0
 @v-	ušumₓ
-@link Wikidata Q87556687 http://www.wikidata.org/entity/Q87556687
+@link	Wikidata Q87556687 http://www.wikidata.org/entity/Q87556687
 @end sign
 
 @sign UŠX
@@ -47349,8 +47271,8 @@
 @inote	this is LAK672 without the sheshig
 @v	ušₓ
 @ref	Ebla Sign List = dcclt:Q000038 61, u₃-šum₂
-@link eBL UŠX https://www.ebl.lmu.de/signs/UŠX
-@link Wikidata Q87556683 http://www.wikidata.org/entity/Q87556683
+@link	eBL UŠX https://www.ebl.lmu.de/signs/UŠX
+@link	Wikidata Q87556683 http://www.wikidata.org/entity/Q87556683
 @end sign
 
 @sign UTUKI
@@ -47363,8 +47285,8 @@
 @uage	5.0
 @v	utudi?
 @v	utuki?
-@link eBL UTUKI https://www.ebl.lmu.de/signs/UTUKI
-@link Wikidata Q87556689 http://www.wikidata.org/entity/Q87556689
+@link	eBL UTUKI https://www.ebl.lmu.de/signs/UTUKI
+@link	Wikidata Q87556689 http://www.wikidata.org/entity/Q87556689
 @end sign
 
 @sign UZ₃
@@ -47393,8 +47315,8 @@
 @v	uz₃
 @v	uza₃
 @v	uzud
-@link eBL UZ₃ https://www.ebl.lmu.de/signs/UZ₃
-@link Wikidata Q87556692 http://www.wikidata.org/entity/Q87556692
+@link	eBL UZ₃ https://www.ebl.lmu.de/signs/UZ₃
+@link	Wikidata Q87556692 http://www.wikidata.org/entity/Q87556692
 @end sign
 
 @sign |UZ₃.KASKAL|
@@ -47402,14 +47324,14 @@
 @useq	x1235A.x1219C
 @ucun	𒍚𒆜
 @v	guana
-@link eBL |UZ₃.KASKAL| https://www.ebl.lmu.de/signs/|UZ₃.KASKAL|
+@link	eBL |UZ₃.KASKAL| https://www.ebl.lmu.de/signs/|UZ₃.KASKAL|
 @end sign
 
 @sign |UZ₃×BALAG|
 @oid	o0002601
 @inote	epsd2
 @v	surₓ
-@link eBL |UZ₃×BALAG| https://www.ebl.lmu.de/signs/|UZ₃×BALAG|
+@link	eBL |UZ₃×BALAG| https://www.ebl.lmu.de/signs/|UZ₃×BALAG|
 @form |UZ₃.BALAG|
 @oid	o0002599
 @useq	x1235A.x12046
@@ -47428,8 +47350,8 @@
 @v	gablumₓ
 @v	meₓ
 @v	%akk/n qablu
-@link eBL |UZ₃×KASKAL| https://www.ebl.lmu.de/signs/|UZ₃×KASKAL|
-@link Wikidata Q87556695 http://www.wikidata.org/entity/Q87556695
+@link	eBL |UZ₃×KASKAL| https://www.ebl.lmu.de/signs/|UZ₃×KASKAL|
+@link	Wikidata Q87556695 http://www.wikidata.org/entity/Q87556695
 @end sign
 
 @sign UZU
@@ -47460,8 +47382,8 @@
 @v	usu₃
 @v	uzu
 @sys	Attinger usu₃ => uzu
-@link eBL UZU https://www.ebl.lmu.de/signs/UZU
-@link Wikidata Q87556696 http://www.wikidata.org/entity/Q87556696
+@link	eBL UZU https://www.ebl.lmu.de/signs/UZU
+@link	Wikidata Q87556696 http://www.wikidata.org/entity/Q87556696
 @form UZU@90
 @oid	o0000593
 @ref	OIP 099, 495 = epsd2/admin/ed3a/P010424 r 7
@@ -47482,13 +47404,13 @@
 @v	surruₓ
 @v	x
 @v	zeₓ
-@link eBL X https://www.ebl.lmu.de/signs/X
+@link	eBL X https://www.ebl.lmu.de/signs/X
 @end sign
 
 @sign X₁
 @oid	o0000602
 @v	gurₓ
-@link eBL X₁ https://www.ebl.lmu.de/signs/X₁
+@link	eBL X₁ https://www.ebl.lmu.de/signs/X₁
 @end sign
 
 @sign X₂
@@ -47521,24 +47443,6 @@
 @inote	P010093 r ii 3' il-su₃-ERIN₂-X₃
 @end sign
 
-@compoundonly	|4×ZA|
-
-@sign |(4×ZA)×KUR|
-@oid	o0000619
-@list	MZL855
-@uname	CUNEIFORM SIGN ZA SQUARED TIMES KUR
-@list	U+1235F
-@ucun	𒍟
-@uage	5.0
-@v	geštae
-@v	gištaʾe
-@v	gištaʾi
-@v	gištae
-@v	ŋeštae
-@link eBL |(4×ZA)×KUR| https://www.ebl.lmu.de/signs/|(4×ZA)×KUR|
-@link Wikidata Q87556702 http://www.wikidata.org/entity/Q87556702
-@end sign
-
 @sign ZA
 @oid	o0000603
 @list	BAU082a
@@ -47560,8 +47464,26 @@
 @v	zamₓ
 @v	ze₄
 @sys	Attinger ze₄ => za
-@link eBL ZA https://www.ebl.lmu.de/signs/ZA
-@link Wikidata Q87556699 http://www.wikidata.org/entity/Q87556699
+@link	eBL ZA https://www.ebl.lmu.de/signs/ZA
+@link	Wikidata Q87556699 http://www.wikidata.org/entity/Q87556699
+@end sign
+
+@compoundonly	|4×ZA|
+
+@sign |(4×ZA)×KUR|
+@oid	o0000619
+@list	MZL855
+@uname	CUNEIFORM SIGN ZA SQUARED TIMES KUR
+@list	U+1235F
+@ucun	𒍟
+@uage	5.0
+@v	geštae
+@v	gištaʾe
+@v	gištaʾi
+@v	gištae
+@v	ŋeštae
+@link	eBL |(4×ZA)×KUR| https://www.ebl.lmu.de/signs/|(4×ZA)×KUR|
+@link	Wikidata Q87556702 http://www.wikidata.org/entity/Q87556702
 @end sign
 
 @sign |ZA.AN.MUŠ₃@g|
@@ -47570,15 +47492,15 @@
 @ucun	𒍝𒀭𒈽
 @v	šubaₓ
 @v	zannaruₓ
-@link eBL |ZA.AN.MUŠ₃@g| https://www.ebl.lmu.de/signs/|ZA.AN.MUŠ₃@g|
+@link	eBL |ZA.AN.MUŠ₃@g| https://www.ebl.lmu.de/signs/|ZA.AN.MUŠ₃@g|
 @form |MUŠ₃×ZA|
 @oid	o0018588
 @uname	CUNEIFORM SIGN MUSH3 TIMES ZA
 @list	U+1238D
 @ucun	𒎍
 @uage	7.0
-@link eBL |MUŠ₃×ZA| https://www.ebl.lmu.de/signs/|MUŠ₃×ZA|
-@link Wikidata Q87556800 http://www.wikidata.org/entity/Q87556800
+@link	eBL |MUŠ₃×ZA| https://www.ebl.lmu.de/signs/|MUŠ₃×ZA|
+@link	Wikidata Q87556800 http://www.wikidata.org/entity/Q87556800
 @@
 @end sign
 
@@ -47587,7 +47509,7 @@
 @useq	x1235D.x12086
 @ucun	𒍝𒂆
 @v	nir₂
-@link eBL |ZA.DUN₃@g| https://www.ebl.lmu.de/signs/|ZA.DUN₃@g|
+@link	eBL |ZA.DUN₃@g| https://www.ebl.lmu.de/signs/|ZA.DUN₃@g|
 @end sign
 
 @sign |ZA.DUN₃@g@g|
@@ -47595,7 +47517,7 @@
 @useq	x1235D.x12087
 @ucun	𒍝𒂇
 @v	nir₇
-@link eBL |ZA.DUN₃@g@g| https://www.ebl.lmu.de/signs/|ZA.DUN₃@g@g|
+@link	eBL |ZA.DUN₃@g@g| https://www.ebl.lmu.de/signs/|ZA.DUN₃@g@g|
 @end sign
 
 @sign |ZA.GUL|
@@ -47611,7 +47533,7 @@
 @v	gagₓ
 @v	gug
 @v	guq
-@link eBL |ZA.GUL| https://www.ebl.lmu.de/signs/|ZA.GUL|
+@link	eBL |ZA.GUL| https://www.ebl.lmu.de/signs/|ZA.GUL|
 @end sign
 
 @sign |ZA.IB|
@@ -47619,7 +47541,7 @@
 @useq	x1235D.x12141
 @ucun	𒍝𒅁
 @v	nir₅
-@link eBL |ZA.IB| https://www.ebl.lmu.de/signs/|ZA.IB|
+@link	eBL |ZA.IB| https://www.ebl.lmu.de/signs/|ZA.IB|
 @end sign
 
 @sign |ZA.KUR|
@@ -47633,7 +47555,7 @@
 @ref	VAT 10259 =dcclt/signlists:P283541 o 7
 @inote	salgues
 @v	nira₂
-@link eBL |ZA.KUR| https://www.ebl.lmu.de/signs/|ZA.KUR|
+@link	eBL |ZA.KUR| https://www.ebl.lmu.de/signs/|ZA.KUR|
 @end sign
 
 @sign |ZA.KUR.A|
@@ -47641,7 +47563,7 @@
 @useq	x1235D.x121B3.x12000
 @ucun	𒍝𒆳𒀀
 @v	zagindur
-@link eBL |ZA.KUR.A| https://www.ebl.lmu.de/signs/|ZA.KUR.A|
+@link	eBL |ZA.KUR.A| https://www.ebl.lmu.de/signs/|ZA.KUR.A|
 @end sign
 
 @sign |ZA.MUŠ₃|
@@ -47657,7 +47579,7 @@
 @v	zanaru₂
 @v	zannaru₂
 @sys	Attinger subi₂ => šuba₂
-@link eBL |ZA.MUŠ₃| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃|
+@link	eBL |ZA.MUŠ₃| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃|
 @form |ZA.AN.MUŠ₃|
 @oid	o0002640
 @useq	x1235D.x1202D.x12239
@@ -47687,12 +47609,12 @@
 @v	sugal₂
 @v	zabala₂
 @v	zabalam₂
-@link eBL |ZA.MUŠ₃.AB@g| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃.AB@g|
+@link	eBL |ZA.MUŠ₃.AB@g| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃.AB@g|
 @form |ZA.MUŠ₃|
 @oid	o0002654
 @useq	x1235D.x12239
 @ucun	𒍝𒈹
-@link eBL |ZA.MUŠ₃| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃|
+@link	eBL |ZA.MUŠ₃| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃|
 @@
 @form |ZA.MUŠ₃@g.AB×(U.U.U)|
 @oid	o0002650
@@ -47719,7 +47641,7 @@
 @v	šuba
 @v	zannaruₓ
 @inote	dupfix MZL zannaru(MUŠ₃)
-@link eBL |ZA.MUŠ₃@g| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃@g|
+@link	eBL |ZA.MUŠ₃@g| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃@g|
 @end sign
 
 @sign |ZA.MUŠ₃@g.AB@g|
@@ -47731,7 +47653,7 @@
 @v	unu₁₁
 @v	zabala
 @v	zabalam
-@link eBL |ZA.MUŠ₃@g.AB@g| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃@g.AB@g|
+@link	eBL |ZA.MUŠ₃@g.AB@g| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃@g.AB@g|
 @end sign
 
 @sign |ZA.MUŠ₃@g.EREN|
@@ -47739,7 +47661,7 @@
 @useq	x1235D.x1223D.x1209E
 @ucun	𒍝𒈽𒂞
 @v	šušuₓ
-@link eBL |ZA.MUŠ₃@g.EREN| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃@g.EREN|
+@link	eBL |ZA.MUŠ₃@g.EREN| https://www.ebl.lmu.de/signs/|ZA.MUŠ₃@g.EREN|
 @end sign
 
 @sign |ZA.NIM|
@@ -47748,7 +47670,7 @@
 @ucun	𒍝𒉏
 @v	nir₃
 @v	nira₃
-@link eBL |ZA.NIM| https://www.ebl.lmu.de/signs/|ZA.NIM|
+@link	eBL |ZA.NIM| https://www.ebl.lmu.de/signs/|ZA.NIM|
 @end sign
 
 @sign |ZA.SU|
@@ -47756,7 +47678,7 @@
 @useq	x1235D.x122E2
 @ucun	𒍝𒋢
 @v	nir₄
-@link eBL |ZA.SU| https://www.ebl.lmu.de/signs/|ZA.SU|
+@link	eBL |ZA.SU| https://www.ebl.lmu.de/signs/|ZA.SU|
 @end sign
 
 @compoundonly	|ZA&ZA|
@@ -47773,12 +47695,12 @@
 @v	ad₄
 @v	addaₓ
 @v	addu₄
-@link eBL ZA@t https://www.ebl.lmu.de/signs/ZA@t
-@link Wikidata Q87556700 http://www.wikidata.org/entity/Q87556700
+@link	eBL ZA@t https://www.ebl.lmu.de/signs/ZA@t
+@link	Wikidata Q87556700 http://www.wikidata.org/entity/Q87556700
 @form |GAM.GAM|
 @oid	o0001215
 @v	ad₄
-@link eBL |GAM.GAM| https://www.ebl.lmu.de/signs/|GAM.GAM|
+@link	eBL |GAM.GAM| https://www.ebl.lmu.de/signs/|GAM.GAM|
 @@
 @end sign
 
@@ -47790,8 +47712,8 @@
 @ucun	𒕁
 @uage	8.0
 @v	za₇
-@link eBL ZA₇ https://www.ebl.lmu.de/signs/ZA₇
-@link Wikidata Q87557478 http://www.wikidata.org/entity/Q87557478
+@link	eBL ZA₇ https://www.ebl.lmu.de/signs/ZA₇
+@link	Wikidata Q87557478 http://www.wikidata.org/entity/Q87557478
 @end sign
 
 @sign ZAG
@@ -47828,8 +47750,8 @@
 @v	zak
 @v	zaq
 @v	zik₀
-@link eBL ZAG https://www.ebl.lmu.de/signs/ZAG
-@link Wikidata Q87556705 http://www.wikidata.org/entity/Q87556705
+@link	eBL ZAG https://www.ebl.lmu.de/signs/ZAG
+@link	Wikidata Q87556705 http://www.wikidata.org/entity/Q87556705
 @end sign
 
 @sign |ZAG.AN|
@@ -47838,7 +47760,7 @@
 @ucun	𒍠𒀭
 @v	usug
 @v	uzug
-@link eBL |ZAG.AN| https://www.ebl.lmu.de/signs/|ZAG.AN|
+@link	eBL |ZAG.AN| https://www.ebl.lmu.de/signs/|ZAG.AN|
 @end sign
 
 @sign |ZAG.GA|
@@ -47847,7 +47769,7 @@
 @ucun	𒍠𒂵
 @v-	%akk/n būdu
 @inote	deprecated pending collation; typo for ZAG.HA??
-@link eBL |ZAG.GA| https://www.ebl.lmu.de/signs/|ZAG.GA|
+@link	eBL |ZAG.GA| https://www.ebl.lmu.de/signs/|ZAG.GA|
 @end sign
 
 @sign |ZAG.HA|
@@ -47861,13 +47783,13 @@
 @v	essad
 @v	ešsad
 @v	eššad
-@link eBL |ZAG.HA| https://www.ebl.lmu.de/signs/|ZAG.HA|
+@link	eBL |ZAG.HA| https://www.ebl.lmu.de/signs/|ZAG.HA|
 @end sign
 
 @sign ZAX
 @oid	o0000606
 @v	zaₓ
-@link eBL ZAX https://www.ebl.lmu.de/signs/ZAX
+@link	eBL ZAX https://www.ebl.lmu.de/signs/ZAX
 @end sign
 
 @sign ZE₂
@@ -47891,8 +47813,8 @@
 @v	ṣi
 @v	ze₂
 @v	zi₂
-@link eBL ZE₂ https://www.ebl.lmu.de/signs/ZE₂
-@link Wikidata Q87556711 http://www.wikidata.org/entity/Q87556711
+@link	eBL ZE₂ https://www.ebl.lmu.de/signs/ZE₂
+@link	Wikidata Q87556711 http://www.wikidata.org/entity/Q87556711
 @end sign
 
 @sign ZI
@@ -47920,8 +47842,8 @@
 @v	zi
 @v	zid
 @v	zig₃
-@link eBL ZI https://www.ebl.lmu.de/signs/ZI
-@link Wikidata Q87556712 http://www.wikidata.org/entity/Q87556712
+@link	eBL ZI https://www.ebl.lmu.de/signs/ZI
+@link	Wikidata Q87556712 http://www.wikidata.org/entity/Q87556712
 @end sign
 
 @sign |ZI.LAGAB&ZI.LAGAB|
@@ -47961,7 +47883,7 @@
 @v	zukum₂
 @v	zuluhu₃
 @v	zulumhi₃
-@link eBL |ZI&ZI.A| https://www.ebl.lmu.de/signs/|ZI&ZI.A|
+@link	eBL |ZI&ZI.A| https://www.ebl.lmu.de/signs/|ZI&ZI.A|
 @form |ZI.ZI|
 @oid	o0031762
 @inote	Read as suluhu₃ in Picchioni, Ešbarkin; not collatable
@@ -47987,8 +47909,8 @@
 @uage	5.0
 @v	sukumₓ
 @v	šuₓ
-@link eBL |ZI&ZI| https://www.ebl.lmu.de/signs/|ZI&ZI|
-@link Wikidata Q87556715 http://www.wikidata.org/entity/Q87556715
+@link	eBL |ZI&ZI| https://www.ebl.lmu.de/signs/|ZI&ZI|
+@link	Wikidata Q87556715 http://www.wikidata.org/entity/Q87556715
 @@
 @end sign
 
@@ -48002,14 +47924,14 @@
 @v	šub₅
 @inote	Heimpel, CUSAS 5, 211-212
 @v	zukumₓ
-@link eBL |ZI&ZI.EŠ₂| https://www.ebl.lmu.de/signs/|ZI&ZI.EŠ₂|
+@link	eBL |ZI&ZI.EŠ₂| https://www.ebl.lmu.de/signs/|ZI&ZI.EŠ₂|
 @form |ZI&ZI.LAGAB|
 @oid	o0002665
 @useq	x12364.x121B8
 @ucun	𒍤𒆸
 @v	šub₅
 @sys	Attinger šub₅
-@link eBL |ZI&ZI.LAGAB| https://www.ebl.lmu.de/signs/|ZI&ZI.LAGAB|
+@link	eBL |ZI&ZI.LAGAB| https://www.ebl.lmu.de/signs/|ZI&ZI.LAGAB|
 @@
 @form |ZI&ZI.LAGAB×AŠ|
 @oid	o0023021
@@ -48024,7 +47946,7 @@
 @useq	x12364.x120A0.x122BA
 @ucun	𒍤𒂠𒊺
 @v	numunₓ
-@link eBL |ZI&ZI.EŠ₂.ŠE| https://www.ebl.lmu.de/signs/|ZI&ZI.EŠ₂.ŠE|
+@link	eBL |ZI&ZI.EŠ₂.ŠE| https://www.ebl.lmu.de/signs/|ZI&ZI.EŠ₂.ŠE|
 @end sign
 
 @sign |ZI&ZI.LAGAB|
@@ -48054,7 +47976,7 @@
 @note	value zuluhu₃ has been re-assigned to |ZI&ZI.A|; merges with |ZI&ZI.LAGAB| in OB
 @v-	zulumhi₃
 @note	value zulumhi₃ has been re-assigned to |ZI&ZI.A|; merges with |ZI&ZI.LAGAB| in OB
-@link eBL |ZI&ZI.LAGAB| https://www.ebl.lmu.de/signs/|ZI&ZI.LAGAB|
+@link	eBL |ZI&ZI.LAGAB| https://www.ebl.lmu.de/signs/|ZI&ZI.LAGAB|
 @form |ZI&ZI|
 @oid	o0002666
 @list	BAU259
@@ -48069,8 +47991,8 @@
 @uage	5.0
 @v-	gugₓ
 @v	sumₓ
-@link eBL |ZI&ZI| https://www.ebl.lmu.de/signs/|ZI&ZI|
-@link Wikidata Q87556715 http://www.wikidata.org/entity/Q87556715
+@link	eBL |ZI&ZI| https://www.ebl.lmu.de/signs/|ZI&ZI|
+@link	Wikidata Q87556715 http://www.wikidata.org/entity/Q87556715
 @@
 @form |ZI&ZI.LAGAB&LAGAB|
 @oid	o0027896
@@ -48085,16 +48007,16 @@
 @@
 @end sign
 
-@sign |(ZI&ZI)×U|
-@aka |ZI&ZI+U|
-@oid  o0038297
-@end sign
-
 @sign |ZI&ZI.LAGAB.ŠE|
 @oid	o0002664
 @useq	x12364.x121B8.x122BA
 @ucun	𒍤𒆸𒊺
-@link eBL |ZI&ZI.LAGAB.ŠE| https://www.ebl.lmu.de/signs/|ZI&ZI.LAGAB.ŠE|
+@link	eBL |ZI&ZI.LAGAB.ŠE| https://www.ebl.lmu.de/signs/|ZI&ZI.LAGAB.ŠE|
+@end sign
+
+@sign |(ZI&ZI)×U|
+@oid	o0038297
+@aka	|ZI&ZI+U|
 @end sign
 
 @sign |ZI%ZI|
@@ -48103,7 +48025,7 @@
 @v	sissigₓ
 @ref	P478860 ii 4, kug-|ZI%ZI|
 @inote	FLP Inanna Hymn, Sjoberg JCS
-@link eBL |ZI%ZI| https://www.ebl.lmu.de/signs/|ZI%ZI|
+@link	eBL |ZI%ZI| https://www.ebl.lmu.de/signs/|ZI%ZI|
 @end sign
 
 @sign ZI₃
@@ -48122,13 +48044,13 @@
 @v	zi₃
 @v	zid₂
 @v	zuₓ
-@link eBL ZI₃ https://www.ebl.lmu.de/signs/ZI₃
-@link Wikidata Q87556717 http://www.wikidata.org/entity/Q87556717
+@link	eBL ZI₃ https://www.ebl.lmu.de/signs/ZI₃
+@link	Wikidata Q87556717 http://www.wikidata.org/entity/Q87556717
 @form KU
 @oid	o0000289
 @list	GCSL242a
 @inote	a placeholder to think about how to represent things like ZI₃ = zi₃@t but post-ED written with EŠ₂ and post-OB written with "KU"
-@link eBL KU https://www.ebl.lmu.de/signs/KU
+@link	eBL KU https://www.ebl.lmu.de/signs/KU
 @@
 @form ZI₃@t
 @oid	o0223488
@@ -48143,7 +48065,7 @@
 @useq	x12365.x12216
 @ucun	𒍥𒈖
 @v	titabₓ
-@link eBL |ZI₃.LU₃| https://www.ebl.lmu.de/signs/|ZI₃.LU₃|
+@link	eBL |ZI₃.LU₃| https://www.ebl.lmu.de/signs/|ZI₃.LU₃|
 @end sign
 
 @sign ZIB
@@ -48168,7 +48090,7 @@
 @v	zib
 @v	zip
 @v	zub₂
-@link Wikidata Q87556719 http://www.wikidata.org/entity/Q87556719
+@link	Wikidata Q87556719 http://www.wikidata.org/entity/Q87556719
 @form ZIB@k
 @oid	o0000610
 @inote	form ZIB@k only attested in MA Ea VAT 9541 iii20' with gloss su-um (= sum₅)
@@ -48195,8 +48117,8 @@
 @v	zik
 @v	ziq
 @v	ziqi
-@link eBL ZIG https://www.ebl.lmu.de/signs/ZIG
-@link Wikidata Q87556723 http://www.wikidata.org/entity/Q87556723
+@link	eBL ZIG https://www.ebl.lmu.de/signs/ZIG
+@link	Wikidata Q87556723 http://www.wikidata.org/entity/Q87556723
 @form |NINDA₂×(U.U.U)|
 @oid	o0028109
 @@
@@ -48241,8 +48163,8 @@
 @uage	5.0
 @v	ulušinₓ
 @v	ziz₂
-@link eBL ZIZ₂ https://www.ebl.lmu.de/signs/ZIZ₂
-@link Wikidata Q87556726 http://www.wikidata.org/entity/Q87556726
+@link	eBL ZIZ₂ https://www.ebl.lmu.de/signs/ZIZ₂
+@link	Wikidata Q87556726 http://www.wikidata.org/entity/Q87556726
 @end sign
 
 @sign |ZIZ₂.A|
@@ -48253,7 +48175,7 @@
 @v	imŋaŋaₓ
 @v	ud₂-duru₅
 @v	udraₓ
-@link eBL |ZIZ₂.A| https://www.ebl.lmu.de/signs/|ZIZ₂.A|
+@link	eBL |ZIZ₂.A| https://www.ebl.lmu.de/signs/|ZIZ₂.A|
 @end sign
 
 @sign |ZIZ₂.A.AN|
@@ -48267,12 +48189,12 @@
 @v	udra
 @v	udru
 @v	ulušin
-@link eBL |ZIZ₂.A.AN| https://www.ebl.lmu.de/signs/|ZIZ₂.A.AN|
+@link	eBL |ZIZ₂.A.AN| https://www.ebl.lmu.de/signs/|ZIZ₂.A.AN|
 @end sign
 
 @sign |ZIZ₂.AN|
-@aka |AŠ₂.AN|
 @oid	o0002670
+@aka	|AŠ₂.AN|
 @useq	x12369.x1202D
 @ucun	𒍩𒀭
 @v	imgaga₃
@@ -48280,8 +48202,7 @@
 @v	kirašiₓ
 @v	udra₃
 @v	ulušin₃
-@link eBL |ZIZ₂.AN| https://www.ebl.lmu.de/signs/|ZIZ₂.AN|
-
+@link	eBL |ZIZ₂.AN| https://www.ebl.lmu.de/signs/|ZIZ₂.AN|
 @end sign
 
 @sign |ZIZ₂.AN.AN|
@@ -48306,7 +48227,7 @@
 @v	kirašiₓ
 @v	udra₂
 @v	ulušin₂
-@link eBL |ZIZ₂.AN.NA| https://www.ebl.lmu.de/signs/|ZIZ₂.AN.NA|
+@link	eBL |ZIZ₂.AN.NA| https://www.ebl.lmu.de/signs/|ZIZ₂.AN.NA|
 @end sign
 
 @sign ZU
@@ -48333,8 +48254,8 @@
 @v	ṣu₂
 @v	zaₓ
 @v	zu
-@link eBL ZU https://www.ebl.lmu.de/signs/ZU
-@link Wikidata Q87556728 http://www.wikidata.org/entity/Q87556728
+@link	eBL ZU https://www.ebl.lmu.de/signs/ZU
+@link	Wikidata Q87556728 http://www.wikidata.org/entity/Q87556728
 @end sign
 
 @sign |ZU.AB|
@@ -48348,7 +48269,7 @@
 @ucun	𒍪𒀊
 @v	absu
 @v	abzu
-@link eBL |ZU.AB| https://www.ebl.lmu.de/signs/|ZU.AB|
+@link	eBL |ZU.AB| https://www.ebl.lmu.de/signs/|ZU.AB|
 @form DE₂
 @oid	o0000138
 @list	GCSL071
@@ -48364,12 +48285,12 @@
 @uage	5.0
 @v	abzu₂
 @lit	1987 A. Cavigneaux, ASJ 9 46-47.
-@link eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
-@link Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
+@link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
+@link	Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
 @@
 @form |ZU×AB|
 @oid	o0038097
-@inote cmawro
+@inote	cmawro
 @@
 @end sign
 
@@ -48386,8 +48307,8 @@
 @ucun	𒕂
 @uage	8.0
 @v	lumₓ?
-@link eBL |ZU&ZU.SAR| https://www.ebl.lmu.de/signs/|ZU&ZU.SAR|
-@link Wikidata Q87557481 http://www.wikidata.org/entity/Q87557481
+@link	eBL |ZU&ZU.SAR| https://www.ebl.lmu.de/signs/|ZU&ZU.SAR|
+@link	Wikidata Q87557481 http://www.wikidata.org/entity/Q87557481
 @end sign
 
 @sign |ZU&ZU.ŠE|
@@ -48411,8 +48332,8 @@
 @ucun	𒍫
 @uage	5.0
 @v	zu₅
-@link eBL ZU₅ https://www.ebl.lmu.de/signs/ZU₅
-@link Wikidata Q87556729 http://www.wikidata.org/entity/Q87556729
+@link	eBL ZU₅ https://www.ebl.lmu.de/signs/ZU₅
+@link	Wikidata Q87556729 http://www.wikidata.org/entity/Q87556729
 @end sign
 
 @sign |ZU₅.A|
@@ -48436,8 +48357,8 @@
 @v	ušbur₂
 @v	uzu₂
 @v	zuₓ
-@link eBL |ZU₅×A| https://www.ebl.lmu.de/signs/|ZU₅×A|
-@link Wikidata Q87556731 http://www.wikidata.org/entity/Q87556731
+@link	eBL |ZU₅×A| https://www.ebl.lmu.de/signs/|ZU₅×A|
+@link	Wikidata Q87556731 http://www.wikidata.org/entity/Q87556731
 @form |URUDA×NUN|
 @oid	o0031566
 @inote	Emar P271567 r iv 20
@@ -48447,7 +48368,7 @@
 @list	ELLES062
 @list	LAK117
 @v	azu
-@link eBL ZU₅ https://www.ebl.lmu.de/signs/ZU₅
+@link	eBL ZU₅ https://www.ebl.lmu.de/signs/ZU₅
 @@
 @end sign
 
@@ -48458,8 +48379,8 @@
 @list	U+12543
 @ucun	𒕃
 @uage	8.0
-@link eBL |ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)| https://www.ebl.lmu.de/signs/|ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)|
-@link Wikidata Q87557483 http://www.wikidata.org/entity/Q87557483
+@link	eBL |ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)| https://www.ebl.lmu.de/signs/|ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)|
+@link	Wikidata Q87557483 http://www.wikidata.org/entity/Q87557483
 @end sign
 
 @sign ZUBI
@@ -48472,11 +48393,11 @@
 @v	zub
 @v	zubi
 @v	zubu
-@link eBL ZUBI https://www.ebl.lmu.de/signs/ZUBI
+@link	eBL ZUBI https://www.ebl.lmu.de/signs/ZUBI
 @form LAK460
 @oid	o0000379
 @list	LAK460
-@link eBL LAK460 https://www.ebl.lmu.de/signs/LAK460
+@link	eBL LAK460 https://www.ebl.lmu.de/signs/LAK460
 @@
 @form |PAP.NA₂|
 @oid	o0002226
@@ -48493,8 +48414,8 @@
 @uage	5.0
 @v	zabar₂
 @v	zubur
-@link eBL ZUBUR https://www.ebl.lmu.de/signs/ZUBUR
-@link Wikidata Q87556733 http://www.wikidata.org/entity/Q87556733
+@link	eBL ZUBUR https://www.ebl.lmu.de/signs/ZUBUR
+@link	Wikidata Q87556733 http://www.wikidata.org/entity/Q87556733
 @end sign
 
 @sign ZUM
@@ -48537,8 +48458,8 @@
 @v	zu₃
 @v	zum
 @sys	Attinger gariŋ₂ => garig
-@link eBL ZUM https://www.ebl.lmu.de/signs/ZUM
-@link Wikidata Q87556735 http://www.wikidata.org/entity/Q87556735
+@link	eBL ZUM https://www.ebl.lmu.de/signs/ZUM
+@link	Wikidata Q87556735 http://www.wikidata.org/entity/Q87556735
 @end sign
 
 @sign- |ZUM.LAGAB|
@@ -48559,7 +48480,7 @@
 @inote	epsd2/royal; also in marguzum ed3b
 @v	garigₓ
 @v	guzumₓ
-@link eBL |ZUM×LAGAB| https://www.ebl.lmu.de/signs/|ZUM×LAGAB|
+@link	eBL |ZUM×LAGAB| https://www.ebl.lmu.de/signs/|ZUM×LAGAB|
 @end sign
 
 @sign |ZUM×TUG₂|
@@ -48582,251 +48503,279 @@
 @@
 @end sign
 
-@sign 2(AŠ)
-@oid	o0000009
-@list	HZL001
-@list	MZL002
-@list	SLLHA002
-@uname	CUNEIFORM NUMERIC SIGN TWO ASH
-@list	U+12400
-@ucun	𒐀
+@sign |2(GEŠMIN@c)×AŠ|
+@oid	o0038114
+@end sign
+
+@sign |4(GEŠMIN@c)×AŠ|
+@oid	o0038116
+@end sign
+
+@sign 2(GEŠMIN@c)
+@oid	o0038105
+@v	2(gešmin@c)
+@v	2(ŋešmin@c)
+@end sign
+
+@sign 3(GEŠMIN@c)
+@oid	o0038107
+@v	3(gešmin@c)
+@v	3(ŋešmin@c)
+@end sign
+
+@sign 4(GEŠMIN@c)
+@oid	o0038109
+@v	4(gešmin@c)
+@v	4(ŋešmin@c)
+@end sign
+
+@sign 5(GEŠMIN@c)
+@oid	o0038111
+@v	5(gešmin@c)
+@v	5(ŋešmin@c)
+@end sign
+
+@sign 6(GEŠMIN@c)
+@oid	o0038112
+@v	6(gešmin@c)
+@v	6(ŋešmin@c)
+@note	This sign is so far unattested.
+@end sign
+
+@sign 7(GEŠMIN@c)
+@oid	o0038113
+@v	7(gešmin@c)
+@v	7(ŋešmin@c)
+@end sign
+
+@sign 3(ŠARU@v)
+@oid	o0000031
+@uname	CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM
+@list	U+1242F
+@ucun	𒐯
 @uage	5.0
-@v	2(aš)
-@v	2(iku)
-@link Wikidata Q87556830 http://www.wikidata.org/entity/Q87556830
-@form 2(AŠ@c)
-@oid	o0223388
-@inote	@ucode	xeb81
-@v	2(aš@c)
-@v	2(iku@c)
+@v	3(šarʾu)@v
+@v	3(šaru)@v
+@link	Wikidata Q87556934 http://www.wikidata.org/entity/Q87556934
+@form 3(ŠARU@c)@v
+@oid	o0223379
+@inote	@ucode	xebb4
+@v	3(šarʾu@c)@v
+@v	3(šaru@c)@v
 @@
 @end sign
 
-@sign 3(AŠ)
-@oid	o0000020
-@list	ABZL002
-@list	MZL004
-@list	SLLHA002a
-@uname	CUNEIFORM NUMERIC SIGN THREE ASH
-@list	U+12401
-@ucun	𒐁
+@sign 1/2(GUR)
+@oid	o0031987
+@uname	CUNEIFORM NUMERIC SIGN ONE HALF GUR
+@list	U+12464
+@ucun	𒑤
+@uage	7.0
+@end sign
+
+@sign 1/4(GUR)
+@oid	o0031991
+@uname	CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
+@list	U+12463
+@ucun	𒑣
+@uage	7.0
+@end sign
+
+@sign 6(GEŠU@c)
+@oid	o0038276
+@v	6(gešʾu@c)
+@v	6(ŋešʾu@c)
+@end sign
+
+@sign 10(U@c)
+@oid	o0038282
+@v	10(bur₃@c)
+@inote	10(bur₃@c) in epsd/oakk
+@end sign
+
+@sign 1(EŠE₃)
+@oid	o0000005
+@list	ABZL025
+@list	HZL013
+@list	MZL114
+@list	SLLHA069
+@uname	CUNEIFORM NUMERIC SIGN ONE ESHE3
+@list	U+12458
+@ucun	𒑘
 @uage	5.0
-@v	3(aš)
-@v	eš₆
-@v	3(iku)
-@link Wikidata Q87556833 http://www.wikidata.org/entity/Q87556833
-@form 3(AŠ@c)
-@oid	o0223396
-@inote	@ucode	xeb82
-@v	3(aš@c)
-@v	3(iku@c)
+@v	1(eše₃)
+@link	Wikidata Q87557027 http://www.wikidata.org/entity/Q87557027
+@form 1(EŠE₃@c)
+@oid	o0223386
+@inote	@ucode	xebc7
+@v	eše₃@c
+@v	1(eše₃@c)
 @@
 @end sign
 
-@sign 3(AŠ~b)
-@oid	o0000023
-@list	MZL210
-@list	SLLHA124a
-@inote	alias |TAB.AŠ|
-@uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH21
-@list	U+1243B
-@ucun	𒐻
+@sign 2(EŠE₃)
+@oid	o0000015
+@list	MZL359
+@list	SLLHA214
+@uname	CUNEIFORM NUMERIC SIGN TWO ESHE3
+@list	U+12459
+@ucun	𒑙
 @uage	5.0
-@v	3(aš)@v
-@link Wikidata Q87556963 http://www.wikidata.org/entity/Q87556963
-@form 3(AŠ@c)@v
-@oid	o0223397
-@inote	@ucode	xeb83
-@v	3(aš@c)@v
-@v	eš₂₁
-@v	3(iku)@v
+@v	2(eše₃)
+@link	Wikidata Q87557029 http://www.wikidata.org/entity/Q87557029
+@form 2(EŠE₃@c)
+@oid	o0223391
+@inote	@ucode	xebc8
+@v	2(eše₃@c)
 @@
 @end sign
 
-@sign 4(AŠ)
-@oid	o0000034
-@uname	CUNEIFORM NUMERIC SIGN FOUR ASH
-@list	U+12402
-@ucun	𒐂
+@sign 3(EŠE₃)
+@oid	o0038279
+@v	3(eše₃)
+@end sign
+
+@sign 2(ŠAR₂)
+@oid	o0000019
+@uname	CUNEIFORM NUMERIC SIGN TWO SHAR2
+@list	U+12423
+@ucun	𒐣
 @uage	5.0
-@v	4(aš)
-@v	4(iku)
-@v	limmuₓ
-@link Wikidata Q87556835 http://www.wikidata.org/entity/Q87556835
-@form 4(AŠ@c)
-@oid	o0223411
-@inote	@ucode	xeb84
-@v	4(aš@c)
-@v	4(iku@c)
+@v	2(šar₂)
+@v	2(šargal)
+@link	Wikidata Q87556910 http://www.wikidata.org/entity/Q87556910
+@form 2(ŠAR₂@c)
+@oid	o0223395
+@inote	@ucode	xeba8
+@v	2(šar₂@c)
 @@
 @end sign
 
-@sign 4(AŠ~a)
-@oid	o0000036
-@list	MZL506
-@list	SLLHA325b
-@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU4
-@list	U+1243D
-@ucun	𒐽
+@sign 3(ŠAR₂)
+@oid	o0000032
+@uname	CUNEIFORM NUMERIC SIGN THREE SHAR2
+@list	U+12424
+@ucun	𒐤
 @uage	5.0
-@v	4(aš@v)
-@v	limmu₄
-@link Wikidata Q87556968 http://www.wikidata.org/entity/Q87556968
-@form 4(AŠ@c)@v
-@oid	o0223412
-@inote	@ucode	xeb85
-@v	4(aš@v@c)
+@v	3(šar₂)
+@v	3(šargal)
+@link	Wikidata Q87556912 http://www.wikidata.org/entity/Q87556912
+@form 3(ŠAR₂@c)
+@oid	o0223409
+@inote	@ucode	xeba9
+@v	3(šar₂@c)
 @@
 @end sign
 
-@sign 5(AŠ)
-@oid	o0000047
-@list	MZL216
-@list	SLLHA125b
-@uname	CUNEIFORM NUMERIC SIGN FIVE ASH
-@list	U+12403
-@ucun	𒐃
+@sign 3(ŠAR₂)@v
+@oid	o0000033
+@uname	CUNEIFORM NUMERIC SIGN THREE SHAR2 VARIANT FORM
+@list	U+12425
+@ucun	𒐥
 @uage	5.0
-@v	5(aš)
-@v	5(iku)
-@link Wikidata Q87556838 http://www.wikidata.org/entity/Q87556838
-@form 5(AŠ@c)
-@oid	o0223423
-@inote	@ucode	xeb86
-@v	5(aš@c)
-@v	5(iku@c)
+@v	3(šar₂)@v
+@link	Wikidata Q87556914 http://www.wikidata.org/entity/Q87556914
+@form 3(ŠAR₂@c)@v
+@oid	o0223410
+@inote	@ucode	xebaa
+@v	3(šar₂@c)@v
 @@
 @end sign
 
-@sign 6(AŠ)
-@oid	o0000059
-@list	MZL217
-@list	SLLHA125c
-@uname	CUNEIFORM NUMERIC SIGN SIX ASH
-@list	U+12404
-@ucun	𒐄
+@sign 4(ŠAR₂)
+@oid	o0000046
+@uname	CUNEIFORM NUMERIC SIGN FOUR SHAR2
+@list	U+12426
+@ucun	𒐦
 @uage	5.0
-@v	6(aš)
-@v	6(iku)
-@link Wikidata Q87556840 http://www.wikidata.org/entity/Q87556840
-@form 6(AŠ@c)
-@oid	o0223432
-@inote	@ucode	xeb87
-@v	6(aš@c)
-@v	6(iku@c)
+@v	4(šar₂)
+@v	4(šargal)
+@link	Wikidata Q87556916 http://www.wikidata.org/entity/Q87556916
+@form 4(ŠAR₂@c)
+@oid	o0223422
+@inote	@ucode	xebab
+@v	4(šar₂@c)
 @@
 @end sign
 
-@sign 6(AŠ~a)
-@oid	o0000061
-@list	LAK134
-@list	MZL536
-@list	SLLHA331a
-@uname	CUNEIFORM NUMERIC SIGN SIX VARIANT FORM ASH9
-@list	U+12440
-@ucun	𒑀
+@sign 5(ŠAR₂)
+@oid	o0000058
+@uname	CUNEIFORM NUMERIC SIGN FIVE SHAR2
+@list	U+12427
+@ucun	𒐧
 @uage	5.0
-@v	6(aš@v)
-@link Wikidata Q87556974 http://www.wikidata.org/entity/Q87556974
-@form 6(AŠ@c)@v
-@oid	o0223433
-@v	aš₉
-@v	6(aš@v@c)
+@v	5(šar₂)
+@v	5(šargal)
+@link	Wikidata Q87556917 http://www.wikidata.org/entity/Q87556917
+@form 5(ŠAR₂@c)
+@oid	o0223430
+@inote	@ucode	xebac
+@v	5(šar₂@c)
 @@
 @end sign
 
-@sign 7(AŠ)
-@oid	o0000066
-@list	MZL218
-@list	SLLHA125d
-@uname	CUNEIFORM NUMERIC SIGN SEVEN ASH
-@list	U+12405
-@ucun	𒐅
+@sign 6(ŠAR₂)
+@oid	o0000065
+@uname	CUNEIFORM NUMERIC SIGN SIX SHAR2
+@list	U+12428
+@ucun	𒐨
 @uage	5.0
-@v	7(aš)
-@v	7(iku)
-@link Wikidata Q87556841 http://www.wikidata.org/entity/Q87556841
-@form 7(AŠ@c)
-@oid	o0223438
-@inote	@ucode	xeb88
-@v	7(aš@c)
-@v	7(iku@c)
+@v	6(šar₂)
+@v	6(šargal)
+@link	Wikidata Q87556919 http://www.wikidata.org/entity/Q87556919
+@form 6(ŠAR₂@c)
+@oid	o0223437
+@inote	@ucode	xebad
+@v	6(šar₂@c)
 @@
 @end sign
 
-@sign |LAGAB×(DIŠ.BAD&BAD)|
-@oid	o0038216
-@v  dibₓ
-@inote epsd2/admin/ur3 needs collation
-@end sign
-
-@sign 7(AŠ~a)
-@oid	o0000067
-@list	MZL537
-@list	SLLHA331b
-@uname	CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN3
-@list	U+12441
-@ucun	𒑁
+@sign 7(ŠAR₂)
+@oid	o0000073
+@uname	CUNEIFORM NUMERIC SIGN SEVEN SHAR2
+@list	U+12429
+@ucun	𒐩
 @uage	5.0
-@v	7(aš@v)
-@link Wikidata Q87556978 http://www.wikidata.org/entity/Q87556978
-@form 7(AŠ@c)@v
-@oid	o0223439
-@v	7(aš@v@c)
-@v	imin₃
+@v	7(šar₂)
+@v	7(šargal)
+@link	Wikidata Q87556921 http://www.wikidata.org/entity/Q87556921
+@form 7(ŠAR₂@c)
+@oid	o0223445
+@inote	@ucode	xebae
+@v	7(šar₂@c)
 @@
 @end sign
 
-@sign 8(AŠ)
-@oid	o0000074
-@list	MZL219
-@list	SLLHA125e
-@uname	CUNEIFORM NUMERIC SIGN EIGHT ASH
-@list	U+12406
-@ucun	𒐆
+@sign 8(ŠAR₂)
+@oid	o0000078
+@uname	CUNEIFORM NUMERIC SIGN EIGHT SHAR2
+@list	U+1242A
+@ucun	𒐪
 @uage	5.0
-@v	8(aš)
-@link Wikidata Q87556843 http://www.wikidata.org/entity/Q87556843
-@form 8(AŠ@c)
-@oid	o0223446
-@inote	@ucode	xeb89
-@v	8(aš@c)
+@v	8(šar₂)
+@v	8(šargal)
+@link	Wikidata Q87556923 http://www.wikidata.org/entity/Q87556923
+@form 8(ŠAR₂@c)
+@oid	o0223450
+@inote	@ucode	xebaf
+@v	8(šar₂@c)
 @@
 @end sign
 
-@sign 9(AŠ)
-@oid	o0000079
-@list	MZL220
-@list	SLLHA125f
-@uname	CUNEIFORM NUMERIC SIGN NINE ASH
-@list	U+12407
-@ucun	𒐇
+@sign 9(ŠAR₂)
+@oid	o0000086
+@uname	CUNEIFORM NUMERIC SIGN NINE SHAR2
+@list	U+1242B
+@ucun	𒐫
 @uage	5.0
-@v	9(aš)
-@link Wikidata Q87556845 http://www.wikidata.org/entity/Q87556845
-@form 9(AŠ@c)
-@oid	o0223451
-@inote	@ucode	xeb8a
-@v	9(aš@c)
-@@
-@form 9(AŠ@c@90)
-@oid	o0223452
-@v	9(aš@c@90)
-@@
-@end sign
-
-@sign 3(BURU@v)
-@oid	o0000026
-@uname	CUNEIFORM NUMERIC SIGN THREE BURU VARIANT FORM
-@list	U+12437
-@ucun	𒐷
-@uage	5.0
-@v	3(burʾu)@v
-@link Wikidata Q87556954 http://www.wikidata.org/entity/Q87556954
-@form 3(BURU@c)@v
-@oid	o0223378
-@inote	@ucode	xebba
-@v	3(burʾu@c)@v
+@v	9(šar₂)
+@v	9(šargal)
+@inote	9(šargal) P102004
+@link	Wikidata Q87556926 http://www.wikidata.org/entity/Q87556926
+@form 9(ŠAR₂@c)
+@oid	o0223460
+@inote	@ucode	xebb0
+@v	9(šar₂@c)
 @@
 @end sign
 
@@ -48836,9 +48785,9 @@
 @list	U+12435
 @ucun	𒐵
 @uage	5.0
-@v	2(burʾu)
 @v	nišₓ
-@link Wikidata Q87556949 http://www.wikidata.org/entity/Q87556949
+@v	2(burʾu)
+@link	Wikidata Q87556949 http://www.wikidata.org/entity/Q87556949
 @form 2(BURU@c)
 @oid	o0223375
 @inote	@ucode	xebb8
@@ -48852,9 +48801,9 @@
 @list	U+12436
 @ucun	𒐶
 @uage	5.0
-@v	3(burʾu)
 @v	ušuₓ
-@link Wikidata Q87556951 http://www.wikidata.org/entity/Q87556951
+@v	3(burʾu)
+@link	Wikidata Q87556951 http://www.wikidata.org/entity/Q87556951
 @form 3(BURU@c)
 @oid	o0223377
 @inote	@ucode	xebb9
@@ -48868,9 +48817,9 @@
 @list	U+12438
 @ucun	𒐸
 @uage	5.0
-@v	4(burʾu)
 @v	niminₓ
-@link Wikidata Q87556955 http://www.wikidata.org/entity/Q87556955
+@v	4(burʾu)
+@link	Wikidata Q87556955 http://www.wikidata.org/entity/Q87556955
 @form 4(BURU@c)
 @oid	o0223380
 @inote	@ucode	xebbb
@@ -48884,10 +48833,10 @@
 @list	U+12439
 @ucun	𒐹
 @uage	5.0
-@v	5(burʾu)
 @v	buriaₓ
 @v	ninnuₓ
-@link Wikidata Q87556959 http://www.wikidata.org/entity/Q87556959
+@v	5(burʾu)
+@link	Wikidata Q87556959 http://www.wikidata.org/entity/Q87556959
 @form 5(BURU@c)
 @oid	o0223382
 @inote	@ucode	xebbc
@@ -48895,255 +48844,13 @@
 @@
 @end sign
 
-@sign 1(GEŠU)
-@oid	o0000006
-@list	RSP021
-@uname	CUNEIFORM NUMERIC SIGN ONE GESHU
-@list	U+1241E
-@ucun	𒐞
-@uage	5.0
-@v	deššuₓ
-@v	gešʾu
-@v	1(gešʾu)
-@v	gešu
-@v	1(gešu)
-@v	ŋešʾu
-@link Wikidata Q87556890 http://www.wikidata.org/entity/Q87556890
-@form GEŠU@c
-@oid	o0223467
-@list	RSP027
-@inote	@ucode	xeba1
-@v	gešʾu@c
-@v	1(gešʾu@c)
-@v	1(gešu@c)
-@v	ŋešʾu@c
-@@
-@form GEŠU@v
-@oid	o0223468
-@v	gešʾu@v
-@@
-@end sign
-
-@sign 2(GEŠU)
-@oid	o0000016
-@uname	CUNEIFORM NUMERIC SIGN TWO GESHU
-@list	U+1241F
-@ucun	𒐟
-@uage	5.0
-@v	2(gešʾu)
-@v	2(gešu)
-@link Wikidata Q87556891 http://www.wikidata.org/entity/Q87556891
-@form 2(GEŠU@c)
-@oid	o0223392
-@inote	@ucode	xeba2
-@v	2(gešʾu@c)
-@v	2(gešu@c)
-@@
-@end sign
-
-@sign 3(GEŠU)
-@oid	o0000028
-@uname	CUNEIFORM NUMERIC SIGN THREE GESHU
-@list	U+12420
-@ucun	𒐠
-@uage	5.0
-@v	3(gešʾu)
-@v	3(gešu)
-@link Wikidata Q87556893 http://www.wikidata.org/entity/Q87556893
-@form 3(GEŠU@c)
-@oid	o0223402
-@inote	@ucode	xeba3
-@v	3(gešʾu@c)
-@v	3(gešu@c)
-@@
-@form 3(GEŠU@c)@v
-@oid	o0223403
-@inote	@ucode	xeba4
-@v	3(gešʾu@c)@v
-@v	3(gešu@c)@v
-@@
-@end sign
-
-@sign 4(GEŠU)
-@oid	o0000041
-@uname	CUNEIFORM NUMERIC SIGN FOUR GESHU
-@list	U+12421
-@ucun	𒐡
-@uage	5.0
-@v	4(gešʾu)
-@v	4(gešu)
-@link Wikidata Q87556895 http://www.wikidata.org/entity/Q87556895
-@form 4(GEŠU@c)
-@oid	o0223416
-@inote	@ucode	xeba5
-@v	4(gešʾu@c)
-@v	4(gešu@c)
-@@
-@form 4(GEŠU@c)@v
-@oid	o0223417
-@v	4(gešʾu@c)@v
-@v	4(gešu@c)@v
-@@
-@end sign
-
-@sign 5(GEŠU)
-@oid	o0000053
-@uname	CUNEIFORM NUMERIC SIGN FIVE GESHU
-@list	U+12422
-@ucun	𒐢
-@uage	5.0
-@v	5(gešʾu)
-@v	5(gešu)
-@link Wikidata Q87556896 http://www.wikidata.org/entity/Q87556896
-@form 5(GEŠU@c)
-@oid	o0223427
-@inote	@ucode	xeba6
-@v	5(gešʾu@c)
-@v	5(gešu@c)
-@@
-@end sign
-
-@sign |KA×RI|
-@oid o0038278
-@inote epsd2/oakk
-@end sign
-
-@sign 6(GEŠU@c)
-@oid	o0038276
-@v	6(gešʾu@c)
-@v	6(ŋešʾu@c)
-@end sign
-
-@sign 7(GEŠU)
-@oid  o0038286
-@v	7(gešʾu)
-@v	7(ŋešʾu)
-@form 7(GEŠU@c)
-@oid	o0038263
-@v	7(gešʾu@c)
-@v	7(ŋešʾu@c)
-@@
-@end sign
-
-@sign 2(AŠ@t)
-@oid	o0000010
-@list	ELLES109
-@list	GCSL094
-@list	LAK185
-@list	MZL593
-@list	SLLHA124n2
-@uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
-@list	U+1244A
-@ucun	𒑊
-@uage	5.0
-@v	2(aš@t)
-@link Wikidata Q87556997 http://www.wikidata.org/entity/Q87556997
-@form 2(AŠ@t@c)
-@oid	o0223352
-@v	2(aš@t@c)
-@@
-@end sign
-
-@sign 3(AŠ@t)
-@oid	o0000021
-@list	LAK191
-@list	MZL629
-@list	SLLHA325an
-@uname	CUNEIFORM NUMERIC SIGN THREE ASH TENU
-@list	U+1244B
-@ucun	𒑋
-@uage	5.0
-@v	3(aš@t)
-@link Wikidata Q87557000 http://www.wikidata.org/entity/Q87557000
-@form 3(AŠ@t@c)
-@oid	o0223353
-@v	3(aš@t@c)
-@@
-@end sign
-
-@sign 4(AŠ@t)
-@oid	o0000035
-@uname	CUNEIFORM NUMERIC SIGN FOUR ASH TENU
-@list	U+1244C
-@ucun	𒑌
-@uage	5.0
-@v	4(aš@t)
-@link Wikidata Q87557002 http://www.wikidata.org/entity/Q87557002
-@form 4(AŠ@t@c)
-@oid	o0223354
-@v	4(aš@t@c)
-@@
-@end sign
-
-@sign 5(AŠ@t)
-@oid	o0000048
-@list	LAK193
-@list	RSP119
-@uname	CUNEIFORM NUMERIC SIGN FIVE ASH TENU
-@list	U+1244D
-@ucun	𒑍
-@uage	5.0
-@v	5(aš@t)
-@v	murguₓ
-@link Wikidata Q87557005 http://www.wikidata.org/entity/Q87557005
-@form 5(AŠ@t@c)
-@oid	o0223355
-@v	5(aš@t@c)
-@@
-@end sign
-
-@sign 6(AŠ@t)
-@oid	o0000060
-@list	RSP118
-@uname	CUNEIFORM NUMERIC SIGN SIX ASH TENU
-@list	U+1244E
-@ucun	𒑎
-@uage	5.0
-@v	6(aš@t)
-@link Wikidata Q87557007 http://www.wikidata.org/entity/Q87557007
-@form 6(AŠ@t@c)
-@oid	o0223356
-@v	6(aš@t@c)
-@@
-@end sign
-
-@sign |1(DIŠ).1(BAN₂)|
-@useq x12079.x1244F
-@v 7(ban₂)
-@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
-@end sign
-
-@sign |1(DIŠ).2(BAN₂)|
-@useq x12079.x12450
-@v 8(ban₂)
-@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
-@end sign
-
-@sign |1(DIŠ).3(BAN₂)|
-@useq x12079.x12451
-@v 9(ban₂)
-@note For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
-@end sign
-
-@sign 1(U@90)
-@end sign
-
-@sign 2(U@90)
-@end sign
-
-@sign |DIŠ×1(U@90)|
-@end sign
-
-@sign |DIŠ×2(U@90)|
-@end sign
-
 @sign 2(DIŠ@t)
 @oid	o0000014
 @list	RSP039
+@v-	tabₓ
+@inote	deprecated because we use TAB@t=tab₄ for this sign/value
 @v	2(diš@t)
 @v	2(diš@t@c)
-@v-	tabₓ
-@inote deprecated because we use TAB@t=tab₄ for this sign/value
 @end sign
 
 @sign 3(DIŠ@t)
@@ -49170,341 +48877,455 @@
 @v	6(diš@t@c)
 @end sign
 
-@sign 4(U)
-@oid	o0000043
-@list	ABZL374
-@list	HZL335
-@list	MZL712
-@list	SLLHA473
-@uname	CUNEIFORM NUMERIC SIGN FOUR U
-@list	U+1240F
-@ucun	𒐏
+@sign 2(AŠ@t)
+@oid	o0000010
+@list	ELLES109
+@list	GCSL094
+@list	LAK185
+@list	MZL593
+@list	SLLHA124n2
+@uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
+@list	U+1244A
+@ucun	𒑊
 @uage	5.0
-@v	4(bur₃)
-@v	limmu₃
-@v	limu₃
-@v	nimin
-@v	nimina
-@v	nin₅
-@v	nina₄
-@v	šanabaku₂
-@v	šanabi₂
-@v	4(u)
-@link Wikidata Q87556861 http://www.wikidata.org/entity/Q87556861
-@form 4(U@c)
-@oid	o0223420
-@inote	@ucode	xeb8f
-@v	4(bur₃@c)
-@v	4(u@c)
-@@
-@form 4(U@c)@v
-@oid	o0223421
-@inote	@ucode	xeb90
-@v	4(u@c)@v
+@v	2(aš@t)
+@link	Wikidata Q87556997 http://www.wikidata.org/entity/Q87556997
+@form 2(AŠ@t@c)
+@oid	o0223352
+@v	2(aš@t@c)
 @@
 @end sign
 
-@sign 4(U)~v
-@oid	o0031993
-@uname	CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM
-@list	U+12469
-@ucun	𒑩
-@uage	7.0
-@end sign
-
-@sign 4(U)@v
-@oid	o0000044
-@uname	CUNEIFORM NUMERIC SIGN ELAMITE FORTY
-@list	U+12467
-@ucun	𒑧
-@uage	7.0
-@v	4(u)@v
-@end sign
-
-@sign 5(U)@v
-@oid	o0000056
-@uname	CUNEIFORM NUMERIC SIGN ELAMITE FIFTY
-@list	U+12468
-@ucun	𒑨
-@uage	7.0
-@v	5(u)@v
-@end sign
-
-@sign 5(U)
-@oid	o0000055
-@aka	|U&U.U&U.U|
-@list	ABZL376
-@list	GCSL217
-@list	MZL714
-@list	SLLHA475
-@uname	CUNEIFORM NUMERIC SIGN FIVE U
-@list	U+12410
-@ucun	𒐐
+@sign 3(AŠ@t)
+@oid	o0000021
+@list	LAK191
+@list	MZL629
+@list	SLLHA325an
+@uname	CUNEIFORM NUMERIC SIGN THREE ASH TENU
+@list	U+1244B
+@ucun	𒑋
 @uage	5.0
-@v	5(bur₃)
-@v	illil₂
-@v	kingusila₂
-@ref	Ass 00523 = dcclt/signlist:P370411 r i 6
-@inote	salgues
-@v	kingusili₂
-@v	mullil
-@v	ninniₓ
-@v	ninnu
-@v	ninuₓ
-@v	5(u)
-@link Wikidata Q87556863 http://www.wikidata.org/entity/Q87556863
-@form 5(U@c)
-@oid	o0223429
-@inote	@ucode	xeb91
-@v	5(bur₃@c)
-@v	5(u@c)
+@v	3(aš@t)
+@link	Wikidata Q87557000 http://www.wikidata.org/entity/Q87557000
+@form 3(AŠ@t@c)
+@oid	o0223353
+@v	3(aš@t@c)
 @@
 @end sign
 
-@sign 5(U)~v
-@oid	o0031995
-@uname	CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM
-@list	U+1246A
-@ucun	𒑪
-@uage	7.0
-@end sign
-
-@sign 6(U)~v
-@oid	o0031997
-@uname	CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM
-@list	U+1246B
-@ucun	𒑫
-@uage	7.0
-@end sign
-
-@sign 6(U)
-@oid	o0000064
-@list	MZL715
-@list	SLLHA476
-@uname	CUNEIFORM NUMERIC SIGN SIX U
-@list	U+12411
-@ucun	𒐑
+@sign 4(AŠ@t)
+@oid	o0000035
+@uname	CUNEIFORM NUMERIC SIGN FOUR ASH TENU
+@list	U+1244C
+@ucun	𒑌
 @uage	5.0
-@v	ašₓ
-@v	6(bur₃)
-@v	6(u)
-@link Wikidata Q87556865 http://www.wikidata.org/entity/Q87556865
-@form 6(U@c)
-@oid	o0223436
-@inote	@ucode	xeb92
-@v	6(bur₃@c)
-@v	6(u@c)
+@v	4(aš@t)
+@link	Wikidata Q87557002 http://www.wikidata.org/entity/Q87557002
+@form 4(AŠ@t@c)
+@oid	o0223354
+@v	4(aš@t@c)
 @@
 @end sign
 
-@sign 7(U)~v
-@oid	o0031999
-@uname	CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM
-@list	U+1246C
-@ucun	𒑬
-@uage	7.0
-@end sign
-
-@sign 7(U)
-@oid	o0000072
-@list	MZL716
-@list	SLLHA477
-@uname	CUNEIFORM NUMERIC SIGN SEVEN U
-@list	U+12412
-@ucun	𒐒
+@sign 5(AŠ@t)
+@oid	o0000048
+@list	LAK193
+@list	RSP119
+@uname	CUNEIFORM NUMERIC SIGN FIVE ASH TENU
+@list	U+1244D
+@ucun	𒑍
 @uage	5.0
-@v	7(bur₃)
-@v	7(u)
-@v	umunₓ
-@link Wikidata Q87556867 http://www.wikidata.org/entity/Q87556867
-@form 7(U@c)
-@oid	o0223444
-@inote	@ucode	xeb93
-@v	7(bur₃@c)
-@v	7(u@c)
+@v	murguₓ
+@v	5(aš@t)
+@link	Wikidata Q87557005 http://www.wikidata.org/entity/Q87557005
+@form 5(AŠ@t@c)
+@oid	o0223355
+@v	5(aš@t@c)
 @@
 @end sign
 
-@sign 8(U)
-@oid	o0000077
-@list	MZL717
-@list	SLLHA478
-@uname	CUNEIFORM NUMERIC SIGN EIGHT U
-@list	U+12413
-@ucun	𒐓
+@sign 6(AŠ@t)
+@oid	o0000060
+@list	RSP118
+@uname	CUNEIFORM NUMERIC SIGN SIX ASH TENU
+@list	U+1244E
+@ucun	𒑎
 @uage	5.0
-@v	8(bur₃)
-@v	8(u)
-@v	ussuₓ
-@link Wikidata Q87556868 http://www.wikidata.org/entity/Q87556868
-@form 8(U@c)
-@oid	o0223449
-@inote	@ucode	xeb94
-@v	8(bur₃@c)
-@v	8(u@c)
+@v	6(aš@t)
+@link	Wikidata Q87557007 http://www.wikidata.org/entity/Q87557007
+@form 6(AŠ@t@c)
+@oid	o0223356
+@v	6(aš@t@c)
 @@
 @end sign
 
-@sign 8(U)~v
-@oid	o0032001
-@uname	CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM
-@list	U+1246D
-@ucun	𒑭
-@uage	7.0
-@end sign
-
-@sign 9(U)~v
-@oid	o0032003
-@uname	CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM
-@list	U+1246E
-@ucun	𒑮
-@uage	7.0
-@end sign
-
-@sign 9(U)
-@oid	o0000085
-@list	MZL718
-@list	SLLHA479
-@uname	CUNEIFORM NUMERIC SIGN NINE U
-@list	U+12414
-@ucun	𒐔
+@sign 1(GEŠU)
+@oid	o0000006
+@list	RSP021
+@uname	CUNEIFORM NUMERIC SIGN ONE GESHU
+@list	U+1241E
+@ucun	𒐞
 @uage	5.0
-@v	9(bur₃)
-@v	ilimmuₓ
-@v	9(u)
-@link Wikidata Q87556870 http://www.wikidata.org/entity/Q87556870
-@form 9(U@c)
-@oid	o0223459
-@inote	@ucode	xeb95
-@v	9(bur₃@c)
-@v	9(u@c)
+@v	deššuₓ
+@v	gešʾu
+@v	gešu
+@v	ŋešʾu
+@v	1(gešʾu)
+@v	1(gešu)
+@link	Wikidata Q87556890 http://www.wikidata.org/entity/Q87556890
+@form GEŠU@c
+@oid	o0223467
+@list	RSP027
+@inote	@ucode	xeba1
+@v	gešʾu@c
+@v	ŋešʾu@c
+@v	1(gešʾu@c)
+@v	1(gešu@c)
+@@
+@form GEŠU@v
+@oid	o0223468
+@v	gešʾu@v
 @@
 @end sign
 
-@sign 10(U@c)
-@oid  o0038282
-@v 10(bur₃@c)
-@inote 10(bur₃@c) in epsd/oakk
-@end sign
-
-@sign 1(ŠARU)
-@oid	o0000008
-@list	ABZL284
-@list	MZL653
-@list	SLLHA409
-@uname	CUNEIFORM NUMERIC SIGN ONE SHARU
-@list	U+1242C
-@ucun	𒐬
+@sign 2(GEŠU)
+@oid	o0000016
+@uname	CUNEIFORM NUMERIC SIGN TWO GESHU
+@list	U+1241F
+@ucun	𒐟
 @uage	5.0
-@v	šarʾu
-@v	1(šarʾu)
-@v	šaru
-@v	1(šaru)
-@link Wikidata Q87556927 http://www.wikidata.org/entity/Q87556927
-@form 1(ŠARU@c)
-@oid	o0223373
-@list	RSP032
-@inote	@ucode	xebb1
-@v	šarʾu@c
-@v	1(šarʾu@c)
-@v	šaru@c
-@v	1(šaru@c)
-@@
-@form 1(ŠARU@v)
-@oid	o0223374
-@v	šarʾu@v
-@v	1(šarʾu@v)
-@inote	cdli lagash2
-@v	šaru@v
+@v	2(gešʾu)
+@v	2(gešu)
+@link	Wikidata Q87556891 http://www.wikidata.org/entity/Q87556891
+@form 2(GEŠU@c)
+@oid	o0223392
+@inote	@ucode	xeba2
+@v	2(gešʾu@c)
+@v	2(gešu@c)
 @@
 @end sign
 
-@sign 2(ŠARU)
-@oid	o0000018
-@list	ABZL285
-@list	MZL655
-@list	SLLHA409a
-@uname	CUNEIFORM NUMERIC SIGN TWO SHARU
-@list	U+1242D
-@ucun	𒐭
+@sign 3(GEŠU)
+@oid	o0000028
+@uname	CUNEIFORM NUMERIC SIGN THREE GESHU
+@list	U+12420
+@ucun	𒐠
 @uage	5.0
-@v	2(šarʾu)
-@v	2(šaru)
-@link Wikidata Q87556931 http://www.wikidata.org/entity/Q87556931
-@form 2(ŠARU@c)
-@oid	o0223376
-@inote	@ucode	xebb2
-@v	2(šarʾu@c)
-@v	2(šaru@c)
+@v	3(gešʾu)
+@v	3(gešu)
+@link	Wikidata Q87556893 http://www.wikidata.org/entity/Q87556893
+@form 3(GEŠU@c)
+@oid	o0223402
+@inote	@ucode	xeba3
+@v	3(gešʾu@c)
+@v	3(gešu@c)
 @@
-@form 2(ŠARU@v)
-@oid	o0038246
-@v	2(šarʾu@v)
-@inote	cdli lagash2
+@form 3(GEŠU@c)@v
+@oid	o0223403
+@inote	@ucode	xeba4
+@v	3(gešʾu@c)@v
+@v	3(gešu@c)@v
 @@
 @end sign
 
-@sign 3(ŠARU)
-@oid	o0000030
-@list	ABZL286
-@list	MZL656
-@list	SLLHA409b
-@uname	CUNEIFORM NUMERIC SIGN THREE SHARU
-@list	U+1242E
-@ucun	𒐮
+@sign 4(GEŠU)
+@oid	o0000041
+@uname	CUNEIFORM NUMERIC SIGN FOUR GESHU
+@list	U+12421
+@ucun	𒐡
 @uage	5.0
-@v	3(šarʾu)
-@v	3(šaru)
-@link Wikidata Q87556932 http://www.wikidata.org/entity/Q87556932
-@form 3(ŠARU@c)
-@oid	o0223408
-@inote	@ucode	xebb3
-@v	3(šarʾu@c)
-@v	3(šaru@c)
+@v	4(gešʾu)
+@v	4(gešu)
+@link	Wikidata Q87556895 http://www.wikidata.org/entity/Q87556895
+@form 4(GEŠU@c)
+@oid	o0223416
+@inote	@ucode	xeba5
+@v	4(gešʾu@c)
+@v	4(gešu@c)
+@@
+@form 4(GEŠU@c)@v
+@oid	o0223417
+@v	4(gešʾu@c)@v
+@v	4(gešu@c)@v
 @@
 @end sign
 
-@sign 4(ŠARU)
-@oid	o0000045
-@list	MZL657
-@list	SLLHA409c
-@uname	CUNEIFORM NUMERIC SIGN FOUR SHARU
-@list	U+12430
-@ucun	𒐰
+@sign 5(GEŠU)
+@oid	o0000053
+@uname	CUNEIFORM NUMERIC SIGN FIVE GESHU
+@list	U+12422
+@ucun	𒐢
 @uage	5.0
-@v	4(šarʾu)
-@v	4(šaru)
-@link Wikidata Q87556936 http://www.wikidata.org/entity/Q87556936
-@form 4(ŠARU@c)
-@oid	o0223381
-@inote	@ucode	xebb5
-@v	4(šarʾu@c)
-@v	4(šaru@c)
+@v	5(gešʾu)
+@v	5(gešu)
+@link	Wikidata Q87556896 http://www.wikidata.org/entity/Q87556896
+@form 5(GEŠU@c)
+@oid	o0223427
+@inote	@ucode	xeba6
+@v	5(gešʾu@c)
+@v	5(gešu@c)
 @@
 @end sign
 
-@sign 5(ŠARU)
-@oid	o0000057
-@list	MZL658
-@list	SLLHA409d
-@uname	CUNEIFORM NUMERIC SIGN FIVE SHARU
-@list	U+12431
-@ucun	𒐱
+@sign 7(GEŠU)
+@oid	o0038286
+@v	7(gešʾu)
+@v	7(ŋešʾu)
+@form 7(GEŠU@c)
+@oid	o0038263
+@v	7(gešʾu@c)
+@v	7(ŋešʾu@c)
+@@
+@end sign
+
+@sign 1(GEŠ₂)
+@oid	o0000007
+@list	RSP003
+@uname	CUNEIFORM NUMERIC SIGN ONE GESH2
+@list	U+12415
+@ucun	𒐕
 @uage	5.0
-@v	5(šarʾu)
-@v	5(šaru)
-@link Wikidata Q87556939 http://www.wikidata.org/entity/Q87556939
-@form 5(ŠARU@c)
-@oid	o0223383
-@inote	@ucode	xebb6
-@v	5(šarʾu@c)
-@v	5(šaru@c)
+@v	geš₂
+@v	gešta
+@v	gi₃?
+@v	giš₂
+@v	ŋeš₂
+@v	ŋiš₂
+@v	1(geš₂)
+@v	1(ŋeš₂)
+@link	Wikidata Q87556872 http://www.wikidata.org/entity/Q87556872
+@form GEŠ₂@c
+@oid	o0223469
+@list	RSP025
+@inote	@ucode	xeb96
+@v	geš₂@c
+@v	ŋeš₂@c
+@v	1(geš₂@c)
 @@
-@form 5(ŠARU@v)
-@oid	o0038248
-@v	5(šarʾu@v)
-@inote	cdli lagash2
+@form GEŠ₂@c@90
+@oid	o0223470
+@v	geš₂@c@90
+@v	ŋeš₂@c@90
+@v	1(geš₂@c@90)
+@v	1(ŋeš₂@c@90)
+@inote	used in context with gešmin@c where geš₂@c@90 is half a gešmin@c, i.e., 60
+@inote	also used to count rams in P271231 where geš₂@c is used for ewes
 @@
+@form GEŠ₂@c@v
+@oid	o0223471
+@v	geš₂@c@v
+@v	ŋeš₂@c@v
+@@
+@form GEŠ₂@t
+@oid	o0223472
+@v	geš₂@t
+@v	1(geš₂@t)
+@@
+@end sign
+
+@sign 2(GEŠ₂)
+@oid	o0000017
+@uname	CUNEIFORM NUMERIC SIGN TWO GESH2
+@list	U+12416
+@ucun	𒐖
+@uage	5.0
+@v	2(geš₂)
+@v	2(ŋeš₂)
+@link	Wikidata Q87556874 http://www.wikidata.org/entity/Q87556874
+@form 2(GEŠ₂@c)
+@oid	o0223393
+@inote	@ucode	xeb97
+@v	2(geš₂@c)
+@@
+@form 2(GEŠ₂@t)
+@oid	o0038151
+@v	2(geš₂@t)
+@@
+@end sign
+
+@sign 3(GEŠ₂)
+@oid	o0000029
+@uname	CUNEIFORM NUMERIC SIGN THREE GESH2
+@list	U+12417
+@ucun	𒐗
+@uage	5.0
+@v	3(geš₂)
+@v	3(ŋeš₂)
+@link	Wikidata Q87556876 http://www.wikidata.org/entity/Q87556876
+@form 3(GEŠ₂@c)
+@oid	o0223404
+@inote	@ucode	xeb98
+@v	3(geš₂@c)
+@@
+@form 3(GEŠ₂@c)@v
+@oid	o0223405
+@inote	@ucode	xeb99
+@v	3(geš₂@c)@v
+@@
+@form 3(GEŠ₂@c@90)
+@oid	o0038290
+@v	3(geš₂@c@90)
+@@
+@form 3(GEŠ₂@t)
+@oid	o0038153
+@v	3(geš₂@t)
+@@
+@end sign
+
+@sign 4(GEŠ₂)
+@oid	o0000042
+@uname	CUNEIFORM NUMERIC SIGN FOUR GESH2
+@list	U+12418
+@ucun	𒐘
+@uage	5.0
+@v	4(geš₂)
+@v	4(ŋeš₂)
+@link	Wikidata Q87556879 http://www.wikidata.org/entity/Q87556879
+@form 4(GEŠ₂@c)
+@oid	o0223418
+@inote	@ucode	xeb9a
+@v	4(geš₂@c)
+@@
+@form 4(GEŠ₂@c)@v
+@oid	o0223419
+@inote	@ucode	xeb9b
+@v	4(geš₂@c)@v
+@@
+@form 4(GEŠ₂@c@90)
+@oid	o0038292
+@v	4(geš₂@c@90)
+@@
+@form 4(GEŠ₂@t)
+@oid	o0038155
+@v	4(geš₂@t)
+@@
+@end sign
+
+@sign 5(GEŠ₂)
+@oid	o0000054
+@uname	CUNEIFORM NUMERIC SIGN FIVE GESH2
+@list	U+12419
+@ucun	𒐙
+@uage	5.0
+@v	5(geš₂)
+@v	5(ŋeš₂)
+@link	Wikidata Q87556881 http://www.wikidata.org/entity/Q87556881
+@form 5(GEŠ₂@c)
+@oid	o0223428
+@inote	@ucode	xeb9c
+@v	5(geš₂@c)
+@@
+@form 5(GEŠ₂@t)
+@oid	o0038157
+@v	5(geš₂@t)
+@@
+@end sign
+
+@sign 6(GEŠ₂)
+@oid	o0000063
+@uname	CUNEIFORM NUMERIC SIGN SIX GESH2
+@list	U+1241A
+@ucun	𒐚
+@uage	5.0
+@v	6(geš₂)
+@v	6(ŋeš₂)
+@link	Wikidata Q87556882 http://www.wikidata.org/entity/Q87556882
+@form 6(GEŠ₂@c)
+@oid	o0223435
+@inote	@ucode	xeb9d
+@v	6(geš₂@c)
+@@
+@form 6(GEŠ₂@t)
+@oid	o0038159
+@v	6(geš₂@t)
+@@
+@end sign
+
+@sign 7(GEŠ₂)
+@oid	o0000071
+@uname	CUNEIFORM NUMERIC SIGN SEVEN GESH2
+@list	U+1241B
+@ucun	𒐛
+@uage	5.0
+@v	7(geš₂)
+@v	7(ŋeš₂)
+@link	Wikidata Q87556884 http://www.wikidata.org/entity/Q87556884
+@form 7(GEŠ₂@c)
+@oid	o0223443
+@inote	@ucode	xeb9e
+@v	7(geš₂@c)
+@@
+@form 7(GEŠ₂@t)
+@oid	o0038161
+@v	7(geš₂@t)
+@@
+@end sign
+
+@sign 8(GEŠ₂)
+@oid	o0000076
+@uname	CUNEIFORM NUMERIC SIGN EIGHT GESH2
+@list	U+1241C
+@ucun	𒐜
+@uage	5.0
+@v	8(geš₂)
+@v	8(ŋeš₂)
+@link	Wikidata Q87556886 http://www.wikidata.org/entity/Q87556886
+@form 8(GEŠ₂@c)
+@oid	o0223448
+@inote	@ucode	xeb9f
+@v	8(geš₂@c)
+@@
+@end sign
+
+@sign 9(GEŠ₂)
+@oid	o0000084
+@uname	CUNEIFORM NUMERIC SIGN NINE GESH2
+@list	U+1241D
+@ucun	𒐝
+@uage	5.0
+@v	9(geš₂)
+@v	9(ŋeš₂)
+@link	Wikidata Q87556888 http://www.wikidata.org/entity/Q87556888
+@form 9(GEŠ₂@c)
+@oid	o0223458
+@inote	@ucode	xeba0
+@v	9(geš₂@c)
+@@
+@end sign
+
+@sign 2(GEŠMINU@c)
+@oid	o0038118
+@v	2(gešminʾu@c)
+@v	2(ŋešminʾu@c)
+@note	This sign is so far unattested.
+@end sign
+
+@sign 3(GEŠMINU@c)
+@oid	o0038120
+@v	3(gešminʾu@c)
+@v	3(ŋešminʾu@c)
+@end sign
+
+@sign 4(GEŠMINU@c)
+@oid	o0038122
+@v	4(gešminʾu@c)
+@v	4(ŋešminʾu@c)
+@end sign
+
+@sign 3(EŠE₃@c)
+@oid	o0038281
+@v	3(eše₃@c)
+@end sign
+
+@sign 4(EŠE₃@c)
+@oid	o0038133
+@inote	P010063 iv 15 collated (ED3a)
+@v	4(eše₃@c)
+@end sign
+
+@sign 1(DIŠ)
+@oid	o0000004
+@note	see CUNEIFORM SIGN DIŠ
 @end sign
 
 @sign 1/3(DIŠ)~e
@@ -49515,9 +49336,28 @@
 @uage	7.0
 @end sign
 
-@sign 1(DIŠ)
-@oid	o0000004
-@note	see CUNEIFORM SIGN DIŠ
+@sign |1(DIŠ).1(BAN₂)|
+@oid	o0038083
+@useq	x12079.x1244F
+@ucun	𒁹𒑏
+@v	7(ban₂)
+@note	For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
+@end sign
+
+@sign |1(DIŠ).2(BAN₂)|
+@oid	o0038085
+@useq	x12079.x12450
+@ucun	𒁹𒑐
+@v	8(ban₂)
+@note	For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
+@end sign
+
+@sign |1(DIŠ).3(BAN₂)|
+@oid	o0038087
+@useq	x12079.x12451
+@ucun	𒁹𒑑
+@v	9(ban₂)
+@note	For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @end sign
 
 @sign 2(DIŠ)
@@ -49544,17 +49384,17 @@
 @ucun	𒐈
 @uage	5.0
 @v	3(diš)
-@link Wikidata Q87556848 http://www.wikidata.org/entity/Q87556848
-@form 3(DIŠ@c)@v
-@oid	o0223401
-@inote	@ucode	xebc5
-@v	3(diš@c)@v
-@@
+@link	Wikidata Q87556848 http://www.wikidata.org/entity/Q87556848
 @form 3(DIŠ@c)
 @oid	o0223400
 @inote	@ucode	xebc4
 @v	3(aš@c@90)
 @v	3(diš@c)
+@@
+@form 3(DIŠ@c)@v
+@oid	o0223401
+@inote	@ucode	xebc5
+@v	3(diš@c)@v
 @@
 @end sign
 
@@ -49564,16 +49404,16 @@
 @list	U+12409
 @ucun	𒐉
 @uage	5.0
-@v	4(barig)
-@v	4(bariga)
-@inote	#old nilimmu
-@v	4(diš)
 @v	limₓ
 @v	limmu₅
 @v	limu₅
 @v	nigidalimmu
-@link eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
-@link Wikidata Q87556849 http://www.wikidata.org/entity/Q87556849
+@v	4(barig)
+@v	4(bariga)
+@inote	#old nilimmu
+@v	4(diš)
+@link	eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
+@link	Wikidata Q87556849 http://www.wikidata.org/entity/Q87556849
 @form 4(DIŠ@c)
 @oid	o0223415
 @inote	@ucode	xebc6
@@ -49595,10 +49435,10 @@
 @list	U+1240A
 @ucun	𒐊
 @uage	5.0
-@v	5(diš)
 @v	i₂
 @v	ia₂
-@link Wikidata Q87556851 http://www.wikidata.org/entity/Q87556851
+@v	5(diš)
+@link	Wikidata Q87556851 http://www.wikidata.org/entity/Q87556851
 @form 5(DIŠ@c)
 @oid	o0223426
 @v	5(aš@c@90)
@@ -49623,10 +49463,10 @@
 @v	aša₃
 @v	ašša₃
 @v	dešaₓ
-@v	6(diš)
 @v	iₓ
-@link eBL 6(DIŠ) https://www.ebl.lmu.de/signs/6(DIŠ)
-@link Wikidata Q87556853 http://www.wikidata.org/entity/Q87556853
+@v	6(diš)
+@link	eBL 6(DIŠ) https://www.ebl.lmu.de/signs/6(DIŠ)
+@link	Wikidata Q87556853 http://www.wikidata.org/entity/Q87556853
 @form 6(DIŠ@c)
 @oid	o0223434
 @v	6(aš@c@90)
@@ -49641,16 +49481,16 @@
 @list	U+1240C
 @ucun	𒐌
 @uage	5.0
-@v	7(diš)
 @v	umunₓ
-@link Wikidata Q87556855 http://www.wikidata.org/entity/Q87556855
+@v	7(diš)
+@link	Wikidata Q87556855 http://www.wikidata.org/entity/Q87556855
 @form 7(DIŠ@c)
 @oid	o0223440
 @v	7(aš@c@90)
 @v	7(barig@c)
 @v	7(diš@c)
 @@
-@form	7(DIŠ@t)
+@form 7(DIŠ@t)
 @oid	o0038129
 @v	7(diš@t)
 @@
@@ -49666,9 +49506,9 @@
 @list	U+12442
 @ucun	𒑂
 @uage	5.0
-@v	7(diš)@v
 @v	iminₓ
-@link Wikidata Q87556980 http://www.wikidata.org/entity/Q87556980
+@v	7(diš)@v
+@link	Wikidata Q87556980 http://www.wikidata.org/entity/Q87556980
 @form 7(DIŠ@c)@v
 @oid	o0223441
 @v	7(diš@c)@v
@@ -49682,9 +49522,9 @@
 @list	U+12443
 @ucun	𒑃
 @uage	5.0
-@v	7(diš)@v~b
 @v	iminₓ
-@link Wikidata Q87556982 http://www.wikidata.org/entity/Q87556982
+@v	7(diš)@v~b
+@link	Wikidata Q87556982 http://www.wikidata.org/entity/Q87556982
 @form 7(DIŠ@c)@v~b
 @oid	o0223442
 @v	7(diš@c)@v~b
@@ -49701,14 +49541,10 @@
 @list	U+1240D
 @ucun	𒐍
 @uage	5.0
-@v	8(diš)
 @v	usa
 @v	ussu
-@link Wikidata Q87556857 http://www.wikidata.org/entity/Q87556857
-@form 8(DIŠ@c)
-@oid	o0223447
-@v	8(diš@c)
-@@
+@v	8(diš)
+@link	Wikidata Q87556857 http://www.wikidata.org/entity/Q87556857
 @form USSU
 @oid	o0000589
 @list	HZL374
@@ -49718,12 +49554,16 @@
 @list	U+12444
 @ucun	𒑄
 @uage	5.0
-@v	8(diš)@v
 @v	ussu
-@link eBL USSU https://www.ebl.lmu.de/signs/USSU
-@link Wikidata Q87556984 http://www.wikidata.org/entity/Q87556984
+@v	8(diš)@v
+@link	eBL USSU https://www.ebl.lmu.de/signs/USSU
+@link	Wikidata Q87556984 http://www.wikidata.org/entity/Q87556984
 @@
-@form	8(DIŠ@t)
+@form 8(DIŠ@c)
+@oid	o0223447
+@v	8(diš@c)
+@@
+@form 8(DIŠ@t)
 @oid	o0038127
 @v	8(diš@t)
 @@
@@ -49735,16 +49575,16 @@
 @list	U+1240E
 @ucun	𒐎
 @uage	5.0
-@v	9(diš)~d
 @v	elimmuₓ
 @v	ilimₓ
 @v	ilimmuₓ
-@link Wikidata Q87556858 http://www.wikidata.org/entity/Q87556858
+@v	9(diš)~d
+@link	Wikidata Q87556858 http://www.wikidata.org/entity/Q87556858
 @form 9(DIŠ@c)~d
 @oid	o0223456
 @v	9(diš@c)~d
 @@
-@form	9(DIŠ@t)
+@form 9(DIŠ@t)
 @oid	o0038126
 @v	9(diš@t)
 @@
@@ -49758,19 +49598,19 @@
 @list	U+12447
 @ucun	𒑇
 @uage	5.0
-@v	9(diš)@v~a
 @v	ilimmu₃
-@link Wikidata Q87556990 http://www.wikidata.org/entity/Q87556990
-@form 9(DIŠ@c)@v~a
-@oid	o0223455
-@v	9(diš@c)@v~a
-@@
+@v	9(diš)@v~a
+@link	Wikidata Q87556990 http://www.wikidata.org/entity/Q87556990
 @form ILIMMU3
 @oid	o0000251
 @unote	check stacking pattern identity because of duplicate value ilimmu₃
+@v	ilimmu₃
 @v	9(aš@v)
 @v	9(aš@v@c)
-@v	ilimmu₃
+@@
+@form 9(DIŠ@c)@v~a
+@oid	o0223455
+@v	9(diš@c)@v~a
 @@
 @end sign
 
@@ -49783,11 +49623,11 @@
 @ucun	𒑈
 @uage	5.0
 @v	9(diš)@v
-@link Wikidata Q87556993 http://www.wikidata.org/entity/Q87556993
+@link	Wikidata Q87556993 http://www.wikidata.org/entity/Q87556993
 @form 9(DIŠ@c)@v
 @oid	o0223454
-@v	9(diš@c)@v
 @v	ilimmu₄
+@v	9(diš@c)@v
 @@
 @end sign
 
@@ -49799,116 +49639,424 @@
 @list	U+12449
 @ucun	𒑉
 @uage	5.0
-@v	9(diš@v)
 @v	ilimmuₓ
-@link Wikidata Q87556995 http://www.wikidata.org/entity/Q87556995
+@v	9(diš@v)
+@link	Wikidata Q87556995 http://www.wikidata.org/entity/Q87556995
 @form 9(DIŠ@v@c)
 @oid	o0223457
 @v	9(diš@v@c)
 @@
 @end sign
 
-@sign 1/2(GUR)
-@oid	o0031987
-@uname	CUNEIFORM NUMERIC SIGN ONE HALF GUR
-@list	U+12464
-@ucun	𒑤
-@uage	7.0
+@sign 1(IKU@t)
+@oid	o0038164
+@inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	1(iku@t)
 @end sign
 
-@sign 1/4(GUR)
-@oid	o0031991
-@uname	CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
-@list	U+12463
-@ucun	𒑣
-@uage	7.0
+@sign 2(IKU@t)
+@oid	o0038166
+@inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	2(iku@t)
 @end sign
 
-@sign 3(ŠARU@v)
-@oid	o0000031
-@uname	CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM
-@list	U+1242F
-@ucun	𒐯
+@sign 3(IKU@t)
+@oid	o0038168
+@inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	3(iku@t)
+@end sign
+
+@sign 4(IKU@t)
+@oid	o0038169
+@inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	4(iku@t)
+@end sign
+
+@sign 5(IKU@t)
+@oid	o0038171
+@inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
+@v	5(iku@t)
+@end sign
+
+@sign 4(BAN₂@v)
+@oid	o0000038
+@list	SLLHA340
+@uname	CUNEIFORM NUMERIC SIGN FOUR BAN2 VARIANT FORM
+@list	U+12453
+@ucun	𒑓
 @uage	5.0
-@v	3(šarʾu)@v
-@v	3(šaru)@v
-@link Wikidata Q87556934 http://www.wikidata.org/entity/Q87556934
-@form 3(ŠARU@c)@v
-@oid	o0223379
-@inote	@ucode	xebb4
-@v	3(šarʾu@c)@v
-@v	3(šaru@c)@v
+@v	4(ban₂)@v
+@v	4(ban₂@v)
+@link	Wikidata Q87557017 http://www.wikidata.org/entity/Q87557017
+@form 4(BAN₂@c)@v
+@oid	o0223414
+@v	4(ban₂@c)@v
+@v	4(ban₂@v@c)
 @@
 @end sign
 
-@sign 1(|AŠ×DIŠ@t|)
-@aka	1(|AŠ×AŠ@t|)
-@oid	o0223341
-@list	RSP093
-@form 1(|BAD×DIŠ@t|)
-@aka 1(|BAD×AŠ@t|)
-@oid	o0038143
-@inote This sign is unattested but is needed to handle n(|BAD×AŠ@t|) which occurs in ED3b
-@end sign
-
-@sign 2(|AŠ×DIŠ@t|)
-@aka	2(|AŠ×AŠ@t|)
-@oid	o0223342
-@list	RSP093
-@end sign
-
-@sign 3(|AŠ×DIŠ@t|)
-@aka	3(|AŠ×AŠ@t|)
-@oid	o0223343
-@list	RSP093
-@end sign
-
-@sign 4(|AŠ×DIŠ@t|)
-@aka	4(|AŠ×AŠ@t|)
-@oid	o0223344
-@list	RSP093
-@end sign
-
-@sign 5(|AŠ×DIŠ@t|)
-@aka	5(|AŠ×AŠ@t|)
-@oid	o0223345
-@list	RSP093
-@end sign
-
-@sign 6(|AŠ×DIŠ@t|)
-@aka	6(|AŠ×AŠ@t|)
-@oid	o0223346
-@list	RSP093
-@form 6(|BAD×DIŠ@t|)
-@aka 6(|BAD×AŠ@t|)
-@oid	o0038174
+@sign 5(BAN₂@v)
+@oid	o0000050
+@list	SLLHA341
+@uname	CUNEIFORM NUMERIC SIGN FIVE BAN2 VARIANT FORM
+@list	U+12455
+@ucun	𒑕
+@uage	5.0
+@v	5(ban₂)@v
+@v	5(ban₂@v)
+@link	Wikidata Q87557022 http://www.wikidata.org/entity/Q87557022
+@form 5(BAN₂@c)@v
+@oid	o0223425
+@v	5(ban₂@c)@v
+@v	5(ban₂@v@c)
 @@
 @end sign
 
-@sign 7(|AŠ×DIŠ@t|)
-@aka	7(|AŠ×AŠ@t|)
-@oid	o0223347
-@list	RSP093
-@form 7(|BAD×DIŠ@t|)
-@aka 7(|BAD×AŠ@t|)
-@oid	o0038141
+@sign 2(AŠ)
+@oid	o0000009
+@list	HZL001
+@list	MZL002
+@list	SLLHA002
+@uname	CUNEIFORM NUMERIC SIGN TWO ASH
+@list	U+12400
+@ucun	𒐀
+@uage	5.0
+@v	2(aš)
+@v	2(iku)
+@link	Wikidata Q87556830 http://www.wikidata.org/entity/Q87556830
+@form 2(AŠ@c)
+@oid	o0223388
+@inote	@ucode	xeb81
+@v	2(aš@c)
+@v	2(iku@c)
 @@
 @end sign
 
-@sign 8(|AŠ×DIŠ@t|)
-@aka	8(|AŠ×AŠ@t|)
-@oid	o0223348
-@list	RSP093
-@form 8(|BAD×DIŠ@t|)
-@aka 8(|BAD×AŠ@t|)
-@oid	o0038293
+@sign 3(AŠ)
+@oid	o0000020
+@list	ABZL002
+@list	MZL004
+@list	SLLHA002a
+@uname	CUNEIFORM NUMERIC SIGN THREE ASH
+@list	U+12401
+@ucun	𒐁
+@uage	5.0
+@v	eš₆
+@v	3(aš)
+@v	3(iku)
+@link	Wikidata Q87556833 http://www.wikidata.org/entity/Q87556833
+@form 3(AŠ@c)
+@oid	o0223396
+@inote	@ucode	xeb82
+@v	3(aš@c)
+@v	3(iku@c)
 @@
 @end sign
 
-@sign 9(|AŠ×DIŠ@t|)
-@aka	9(|AŠ×AŠ@t|)
-@oid	o0223349
-@list	RSP093
+@sign 4(AŠ)
+@oid	o0000034
+@uname	CUNEIFORM NUMERIC SIGN FOUR ASH
+@list	U+12402
+@ucun	𒐂
+@uage	5.0
+@v	limmuₓ
+@v	4(aš)
+@v	4(iku)
+@link	Wikidata Q87556835 http://www.wikidata.org/entity/Q87556835
+@form 4(AŠ@c)
+@oid	o0223411
+@inote	@ucode	xeb84
+@v	4(aš@c)
+@v	4(iku@c)
+@@
+@end sign
+
+@sign 5(AŠ)
+@oid	o0000047
+@list	MZL216
+@list	SLLHA125b
+@uname	CUNEIFORM NUMERIC SIGN FIVE ASH
+@list	U+12403
+@ucun	𒐃
+@uage	5.0
+@v	5(aš)
+@v	5(iku)
+@link	Wikidata Q87556838 http://www.wikidata.org/entity/Q87556838
+@form 5(AŠ@c)
+@oid	o0223423
+@inote	@ucode	xeb86
+@v	5(aš@c)
+@v	5(iku@c)
+@@
+@end sign
+
+@sign 6(AŠ)
+@oid	o0000059
+@list	MZL217
+@list	SLLHA125c
+@uname	CUNEIFORM NUMERIC SIGN SIX ASH
+@list	U+12404
+@ucun	𒐄
+@uage	5.0
+@v	6(aš)
+@v	6(iku)
+@link	Wikidata Q87556840 http://www.wikidata.org/entity/Q87556840
+@form 6(AŠ@c)
+@oid	o0223432
+@inote	@ucode	xeb87
+@v	6(aš@c)
+@v	6(iku@c)
+@@
+@end sign
+
+@sign 7(AŠ)
+@oid	o0000066
+@list	MZL218
+@list	SLLHA125d
+@uname	CUNEIFORM NUMERIC SIGN SEVEN ASH
+@list	U+12405
+@ucun	𒐅
+@uage	5.0
+@v	7(aš)
+@v	7(iku)
+@link	Wikidata Q87556841 http://www.wikidata.org/entity/Q87556841
+@form 7(AŠ@c)
+@oid	o0223438
+@inote	@ucode	xeb88
+@v	7(aš@c)
+@v	7(iku@c)
+@@
+@end sign
+
+@sign 8(AŠ)
+@oid	o0000074
+@list	MZL219
+@list	SLLHA125e
+@uname	CUNEIFORM NUMERIC SIGN EIGHT ASH
+@list	U+12406
+@ucun	𒐆
+@uage	5.0
+@v	8(aš)
+@link	Wikidata Q87556843 http://www.wikidata.org/entity/Q87556843
+@form 8(AŠ@c)
+@oid	o0223446
+@inote	@ucode	xeb89
+@v	8(aš@c)
+@@
+@end sign
+
+@sign 9(AŠ)
+@oid	o0000079
+@list	MZL220
+@list	SLLHA125f
+@uname	CUNEIFORM NUMERIC SIGN NINE ASH
+@list	U+12407
+@ucun	𒐇
+@uage	5.0
+@v	9(aš)
+@link	Wikidata Q87556845 http://www.wikidata.org/entity/Q87556845
+@form 9(AŠ@c)
+@oid	o0223451
+@inote	@ucode	xeb8a
+@v	9(aš@c)
+@@
+@form 9(AŠ@c@90)
+@oid	o0223452
+@v	9(aš@c@90)
+@@
+@end sign
+
+@sign 4(AŠ~a)
+@oid	o0000036
+@list	MZL506
+@list	SLLHA325b
+@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU4
+@list	U+1243D
+@ucun	𒐽
+@uage	5.0
+@v	limmu₄
+@v	4(aš@v)
+@link	Wikidata Q87556968 http://www.wikidata.org/entity/Q87556968
+@form 4(AŠ@c)@v
+@oid	o0223412
+@inote	@ucode	xeb85
+@v	4(aš@v@c)
+@@
+@end sign
+
+@sign 6(AŠ~a)
+@oid	o0000061
+@list	LAK134
+@list	MZL536
+@list	SLLHA331a
+@uname	CUNEIFORM NUMERIC SIGN SIX VARIANT FORM ASH9
+@list	U+12440
+@ucun	𒑀
+@uage	5.0
+@v	6(aš@v)
+@link	Wikidata Q87556974 http://www.wikidata.org/entity/Q87556974
+@form 6(AŠ@c)@v
+@oid	o0223433
+@v	aš₉
+@v	6(aš@v@c)
+@@
+@end sign
+
+@sign 7(AŠ~a)
+@oid	o0000067
+@list	MZL537
+@list	SLLHA331b
+@uname	CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN3
+@list	U+12441
+@ucun	𒑁
+@uage	5.0
+@v	7(aš@v)
+@link	Wikidata Q87556978 http://www.wikidata.org/entity/Q87556978
+@form 7(AŠ@c)@v
+@oid	o0223439
+@v	imin₃
+@v	7(aš@v@c)
+@@
+@end sign
+
+@sign 3(AŠ~b)
+@oid	o0000023
+@list	MZL210
+@list	SLLHA124a
+@inote	alias |TAB.AŠ|
+@uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH21
+@list	U+1243B
+@ucun	𒐻
+@uage	5.0
+@v	3(aš)@v
+@link	Wikidata Q87556963 http://www.wikidata.org/entity/Q87556963
+@form 3(AŠ@c)@v
+@oid	o0223397
+@inote	@ucode	xeb83
+@v	eš₂₁
+@v	3(aš@c)@v
+@v	3(iku)@v
+@@
+@end sign
+
+@sign 1(ŠARU)
+@oid	o0000008
+@list	ABZL284
+@list	MZL653
+@list	SLLHA409
+@uname	CUNEIFORM NUMERIC SIGN ONE SHARU
+@list	U+1242C
+@ucun	𒐬
+@uage	5.0
+@v	šarʾu
+@v	šaru
+@v	1(šarʾu)
+@v	1(šaru)
+@link	Wikidata Q87556927 http://www.wikidata.org/entity/Q87556927
+@form 1(ŠARU@c)
+@oid	o0223373
+@list	RSP032
+@inote	@ucode	xebb1
+@v	šarʾu@c
+@v	šaru@c
+@v	1(šarʾu@c)
+@v	1(šaru@c)
+@@
+@form 1(ŠARU@v)
+@oid	o0223374
+@v	šarʾu@v
+@v	šaru@v
+@v	1(šarʾu@v)
+@inote	cdli lagash2
+@@
+@end sign
+
+@sign 2(ŠARU)
+@oid	o0000018
+@list	ABZL285
+@list	MZL655
+@list	SLLHA409a
+@uname	CUNEIFORM NUMERIC SIGN TWO SHARU
+@list	U+1242D
+@ucun	𒐭
+@uage	5.0
+@v	2(šarʾu)
+@v	2(šaru)
+@link	Wikidata Q87556931 http://www.wikidata.org/entity/Q87556931
+@form 2(ŠARU@c)
+@oid	o0223376
+@inote	@ucode	xebb2
+@v	2(šarʾu@c)
+@v	2(šaru@c)
+@@
+@form 2(ŠARU@v)
+@oid	o0038246
+@v	2(šarʾu@v)
+@inote	cdli lagash2
+@@
+@end sign
+
+@sign 3(ŠARU)
+@oid	o0000030
+@list	ABZL286
+@list	MZL656
+@list	SLLHA409b
+@uname	CUNEIFORM NUMERIC SIGN THREE SHARU
+@list	U+1242E
+@ucun	𒐮
+@uage	5.0
+@v	3(šarʾu)
+@v	3(šaru)
+@link	Wikidata Q87556932 http://www.wikidata.org/entity/Q87556932
+@form 3(ŠARU@c)
+@oid	o0223408
+@inote	@ucode	xebb3
+@v	3(šarʾu@c)
+@v	3(šaru@c)
+@@
+@end sign
+
+@sign 4(ŠARU)
+@oid	o0000045
+@list	MZL657
+@list	SLLHA409c
+@uname	CUNEIFORM NUMERIC SIGN FOUR SHARU
+@list	U+12430
+@ucun	𒐰
+@uage	5.0
+@v	4(šarʾu)
+@v	4(šaru)
+@link	Wikidata Q87556936 http://www.wikidata.org/entity/Q87556936
+@form 4(ŠARU@c)
+@oid	o0223381
+@inote	@ucode	xebb5
+@v	4(šarʾu@c)
+@v	4(šaru@c)
+@@
+@end sign
+
+@sign 5(ŠARU)
+@oid	o0000057
+@list	MZL658
+@list	SLLHA409d
+@uname	CUNEIFORM NUMERIC SIGN FIVE SHARU
+@list	U+12431
+@ucun	𒐱
+@uage	5.0
+@v	5(šarʾu)
+@v	5(šaru)
+@link	Wikidata Q87556939 http://www.wikidata.org/entity/Q87556939
+@form 5(ŠARU@c)
+@oid	o0223383
+@inote	@ucode	xebb6
+@v	5(šarʾu@c)
+@v	5(šaru@c)
+@@
+@form 5(ŠARU@v)
+@oid	o0038248
+@v	5(šarʾu@v)
+@inote	cdli lagash2
+@@
 @end sign
 
 @sign 1(BAN₂)
@@ -49923,12 +50071,12 @@
 @ucun	𒑏
 @uage	5.0
 @v	ban₂
-@v	1(ban₂)
 @v	banda₂
 @v	sutₓ
 @v	sutu
-@link eBL 1(BAN₂) https://www.ebl.lmu.de/signs/1(BAN₂)
-@link Wikidata Q87557009 http://www.wikidata.org/entity/Q87557009
+@v	1(ban₂)
+@link	eBL 1(BAN₂) https://www.ebl.lmu.de/signs/1(BAN₂)
+@link	Wikidata Q87557009 http://www.wikidata.org/entity/Q87557009
 @form BAN₂@v
 @oid	o0223465
 @v	ban₂@v
@@ -49954,9 +50102,9 @@
 @uage	5.0
 @v	bamen
 @v	bamin
-@v	2(ban₂)
 @v	banmin
-@link Wikidata Q87557010 http://www.wikidata.org/entity/Q87557010
+@v	2(ban₂)
+@link	Wikidata Q87557010 http://www.wikidata.org/entity/Q87557010
 @form 2(BAN₂@c)
 @oid	o0223389
 @list	RSP036bis
@@ -49975,7 +50123,7 @@
 @ucun	𒑑
 @uage	5.0
 @v	3(ban₂)
-@link Wikidata Q87557012 http://www.wikidata.org/entity/Q87557012
+@link	Wikidata Q87557012 http://www.wikidata.org/entity/Q87557012
 @form 3(BAN₂@c)
 @oid	o0223398
 @list	RSP036bis
@@ -49998,7 +50146,7 @@
 @ucun	𒑒
 @uage	5.0
 @v	4(ban₂)
-@link Wikidata Q87557016 http://www.wikidata.org/entity/Q87557016
+@link	Wikidata Q87557016 http://www.wikidata.org/entity/Q87557016
 @form 4(BAN₂@c)
 @oid	o0223413
 @list	RSP036bis
@@ -50017,7 +50165,7 @@
 @ucun	𒑔
 @uage	5.0
 @v	5(ban₂)
-@link Wikidata Q87557019 http://www.wikidata.org/entity/Q87557019
+@link	Wikidata Q87557019 http://www.wikidata.org/entity/Q87557019
 @form 5(BAN₂@c)
 @oid	o0223424
 @list	RSP036bis
@@ -50026,306 +50174,399 @@
 @@
 @end sign
 
-@sign 4(BAN₂@v)
-@oid	o0000038
-@list	SLLHA340
-@uname	CUNEIFORM NUMERIC SIGN FOUR BAN2 VARIANT FORM
-@list	U+12453
-@ucun	𒑓
+@sign 4(U)
+@oid	o0000043
+@list	ABZL374
+@list	HZL335
+@list	MZL712
+@list	SLLHA473
+@uname	CUNEIFORM NUMERIC SIGN FOUR U
+@list	U+1240F
+@ucun	𒐏
 @uage	5.0
-@v	4(ban₂)@v
-@v	4(ban₂@v)
-@link Wikidata Q87557017 http://www.wikidata.org/entity/Q87557017
-@form 4(BAN₂@c)@v
-@oid	o0223414
-@v	4(ban₂@c)@v
-@v	4(ban₂@v@c)
+@v	limmu₃
+@v	limu₃
+@v	nimin
+@v	nimina
+@v	nin₅
+@v	nina₄
+@v	šanabaku₂
+@v	šanabi₂
+@v	4(bur₃)
+@v	4(u)
+@link	Wikidata Q87556861 http://www.wikidata.org/entity/Q87556861
+@form 4(U@c)
+@oid	o0223420
+@inote	@ucode	xeb8f
+@v	4(bur₃@c)
+@v	4(u@c)
+@@
+@form 4(U@c)@v
+@oid	o0223421
+@inote	@ucode	xeb90
+@v	4(u@c)@v
 @@
 @end sign
 
-@sign 5(BAN₂@v)
-@oid	o0000050
-@list	SLLHA341
-@uname	CUNEIFORM NUMERIC SIGN FIVE BAN2 VARIANT FORM
-@list	U+12455
-@ucun	𒑕
+@sign 4(U)@v
+@oid	o0000044
+@uname	CUNEIFORM NUMERIC SIGN ELAMITE FORTY
+@list	U+12467
+@ucun	𒑧
+@uage	7.0
+@v	4(u)@v
+@end sign
+
+@sign 4(U)~v
+@oid	o0031993
+@uname	CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM
+@list	U+12469
+@ucun	𒑩
+@uage	7.0
+@end sign
+
+@sign 5(U)
+@oid	o0000055
+@aka	|U&U.U&U.U|
+@list	ABZL376
+@list	GCSL217
+@list	MZL714
+@list	SLLHA475
+@uname	CUNEIFORM NUMERIC SIGN FIVE U
+@list	U+12410
+@ucun	𒐐
 @uage	5.0
-@v	5(ban₂)@v
-@v	5(ban₂@v)
-@link Wikidata Q87557022 http://www.wikidata.org/entity/Q87557022
-@form 5(BAN₂@c)@v
-@oid	o0223425
-@v	5(ban₂@c)@v
-@v	5(ban₂@v@c)
+@v	illil₂
+@v	kingusila₂
+@ref	Ass 00523 = dcclt/signlist:P370411 r i 6
+@inote	salgues
+@v	kingusili₂
+@v	mullil
+@v	ninniₓ
+@v	ninnu
+@v	ninuₓ
+@v	5(bur₃)
+@v	5(u)
+@link	Wikidata Q87556863 http://www.wikidata.org/entity/Q87556863
+@form 5(U@c)
+@oid	o0223429
+@inote	@ucode	xeb91
+@v	5(bur₃@c)
+@v	5(u@c)
 @@
 @end sign
 
-@sign 1(EŠE₃)
-@oid	o0000005
-@list	ABZL025
-@list	HZL013
-@list	MZL114
-@list	SLLHA069
-@uname	CUNEIFORM NUMERIC SIGN ONE ESHE3
-@list	U+12458
-@ucun	𒑘
+@sign 5(U)@v
+@oid	o0000056
+@uname	CUNEIFORM NUMERIC SIGN ELAMITE FIFTY
+@list	U+12468
+@ucun	𒑨
+@uage	7.0
+@v	5(u)@v
+@end sign
+
+@sign 5(U)~v
+@oid	o0031995
+@uname	CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM
+@list	U+1246A
+@ucun	𒑪
+@uage	7.0
+@end sign
+
+@sign 6(U)
+@oid	o0000064
+@list	MZL715
+@list	SLLHA476
+@uname	CUNEIFORM NUMERIC SIGN SIX U
+@list	U+12411
+@ucun	𒐑
 @uage	5.0
-@v	1(eše₃)
-@link Wikidata Q87557027 http://www.wikidata.org/entity/Q87557027
-@form 1(EŠE₃@c)
-@oid	o0223386
-@inote	@ucode	xebc7
-@v	eše₃@c
-@v	1(eše₃@c)
+@v	ašₓ
+@v	6(bur₃)
+@v	6(u)
+@link	Wikidata Q87556865 http://www.wikidata.org/entity/Q87556865
+@form 6(U@c)
+@oid	o0223436
+@inote	@ucode	xeb92
+@v	6(bur₃@c)
+@v	6(u@c)
 @@
 @end sign
 
-@sign 2(EŠE₃)
-@oid	o0000015
-@list	MZL359
-@list	SLLHA214
-@uname	CUNEIFORM NUMERIC SIGN TWO ESHE3
-@list	U+12459
-@ucun	𒑙
+@sign 6(U)~v
+@oid	o0031997
+@uname	CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM
+@list	U+1246B
+@ucun	𒑫
+@uage	7.0
+@end sign
+
+@sign 7(U)
+@oid	o0000072
+@list	MZL716
+@list	SLLHA477
+@uname	CUNEIFORM NUMERIC SIGN SEVEN U
+@list	U+12412
+@ucun	𒐒
 @uage	5.0
-@v	2(eše₃)
-@link Wikidata Q87557029 http://www.wikidata.org/entity/Q87557029
-@form 2(EŠE₃@c)
-@oid	o0223391
-@inote	@ucode	xebc8
-@v	2(eše₃@c)
+@v	umunₓ
+@v	7(bur₃)
+@v	7(u)
+@link	Wikidata Q87556867 http://www.wikidata.org/entity/Q87556867
+@form 7(U@c)
+@oid	o0223444
+@inote	@ucode	xeb93
+@v	7(bur₃@c)
+@v	7(u@c)
 @@
 @end sign
 
-@sign 3(EŠE₃)
-@oid	o0038279
-@v	3(eše₃)
+@sign 7(U)~v
+@oid	o0031999
+@uname	CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM
+@list	U+1246C
+@ucun	𒑬
+@uage	7.0
 @end sign
 
-@sign 3(EŠE₃@c)
-@oid	o0038281
-@v	3(eše₃@c)
-@end sign
-
-@sign 4(EŠE₃@c)
-@oid	o0038133
-@inote P010063 iv 15 collated (ED3a)
-@v	4(eše₃@c)
-@end sign
-
-@sign 1(GEŠ₂)
-@oid	o0000007
-@list	RSP003
-@uname	CUNEIFORM NUMERIC SIGN ONE GESH2
-@list	U+12415
-@ucun	𒐕
+@sign 8(U)
+@oid	o0000077
+@list	MZL717
+@list	SLLHA478
+@uname	CUNEIFORM NUMERIC SIGN EIGHT U
+@list	U+12413
+@ucun	𒐓
 @uage	5.0
-@v	geš₂
-@v	1(geš₂)
-@v	gešta
-@v	gi₃?
-@v	giš₂
-@v	ŋeš₂
-@v	1(ŋeš₂)
-@v	ŋiš₂
-@link Wikidata Q87556872 http://www.wikidata.org/entity/Q87556872
-@form GEŠ₂@c
-@oid	o0223469
-@list	RSP025
-@inote	@ucode	xeb96
-@v	geš₂@c
-@v	1(geš₂@c)
-@v	ŋeš₂@c
-@@
-@form GEŠ₂@c@90
-@oid	o0223470
-@v	geš₂@c@90
-@v	ŋeš₂@c@90
-@v	1(geš₂@c@90)
-@v	1(ŋeš₂@c@90)
-@inote used in context with gešmin@c where geš₂@c@90 is half a gešmin@c, i.e., 60
-@inote also used to count rams in P271231 where geš₂@c is used for ewes
-@@
-@form GEŠ₂@c@v
-@oid	o0223471
-@v	geš₂@c@v
-@v	ŋeš₂@c@v
-@@
-@form GEŠ₂@t
-@oid	o0223472
-@v	geš₂@t
-@v	1(geš₂@t)
+@v	ussuₓ
+@v	8(bur₃)
+@v	8(u)
+@link	Wikidata Q87556868 http://www.wikidata.org/entity/Q87556868
+@form 8(U@c)
+@oid	o0223449
+@inote	@ucode	xeb94
+@v	8(bur₃@c)
+@v	8(u@c)
 @@
 @end sign
 
-@sign 2(GEŠ₂)
-@oid	o0000017
-@uname	CUNEIFORM NUMERIC SIGN TWO GESH2
-@list	U+12416
-@ucun	𒐖
+@sign 8(U)~v
+@oid	o0032001
+@uname	CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM
+@list	U+1246D
+@ucun	𒑭
+@uage	7.0
+@end sign
+
+@sign 9(U)
+@oid	o0000085
+@list	MZL718
+@list	SLLHA479
+@uname	CUNEIFORM NUMERIC SIGN NINE U
+@list	U+12414
+@ucun	𒐔
 @uage	5.0
-@v	2(geš₂)
-@v	2(ŋeš₂)
-@link Wikidata Q87556874 http://www.wikidata.org/entity/Q87556874
-@form 2(GEŠ₂@c)
-@oid	o0223393
-@inote	@ucode	xeb97
-@v	2(geš₂@c)
-@@
-@form 2(GEŠ₂@t)
-@oid	o0038151
-@v	2(geš₂@t)
+@v	ilimmuₓ
+@v	9(bur₃)
+@v	9(u)
+@link	Wikidata Q87556870 http://www.wikidata.org/entity/Q87556870
+@form 9(U@c)
+@oid	o0223459
+@inote	@ucode	xeb95
+@v	9(bur₃@c)
+@v	9(u@c)
 @@
 @end sign
 
-@sign 3(GEŠ₂)
-@oid	o0000029
-@uname	CUNEIFORM NUMERIC SIGN THREE GESH2
-@list	U+12417
-@ucun	𒐗
+@sign 9(U)~v
+@oid	o0032003
+@uname	CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM
+@list	U+1246E
+@ucun	𒑮
+@uage	7.0
+@end sign
+
+@sign 3(BURU@v)
+@oid	o0000026
+@uname	CUNEIFORM NUMERIC SIGN THREE BURU VARIANT FORM
+@list	U+12437
+@ucun	𒐷
 @uage	5.0
-@v	3(geš₂)
-@v	3(ŋeš₂)
-@link Wikidata Q87556876 http://www.wikidata.org/entity/Q87556876
-@form 3(GEŠ₂@c)@v
-@oid	o0223405
-@inote	@ucode	xeb99
-@v	3(geš₂@c)@v
-@@
-@form 3(GEŠ₂@c)
-@oid	o0223404
-@inote	@ucode	xeb98
-@v	3(geš₂@c)
-@@
-@form 3(GEŠ₂@t)
-@oid	o0038153
-@v	3(geš₂@t)
-@@
-@form 3(GEŠ₂@c@90)
-@oid	o0038290
-@v	3(geš₂@c@90)
+@v	3(burʾu)@v
+@link	Wikidata Q87556954 http://www.wikidata.org/entity/Q87556954
+@form 3(BURU@c)@v
+@oid	o0223378
+@inote	@ucode	xebba
+@v	3(burʾu@c)@v
 @@
 @end sign
 
-@sign 4(GEŠ₂)
-@oid	o0000042
-@uname	CUNEIFORM NUMERIC SIGN FOUR GESH2
-@list	U+12418
-@ucun	𒐘
-@uage	5.0
-@v	4(geš₂)
-@v	4(ŋeš₂)
-@link Wikidata Q87556879 http://www.wikidata.org/entity/Q87556879
-@form 4(GEŠ₂@c)@v
-@oid	o0223419
-@inote	@ucode	xeb9b
-@v	4(geš₂@c)@v
-@@
-@form 4(GEŠ₂@c)
-@oid	o0223418
-@inote	@ucode	xeb9a
-@v	4(geš₂@c)
-@@
-@form 4(GEŠ₂@t)
-@oid	o0038155
-@v	4(geš₂@t)
-@@
-@form 4(GEŠ₂@c@90)
-@oid	o0038292
-@v	4(geš₂@c@90)
+@sign 1(|AŠ×DIŠ@t|)
+@oid	o0223341
+@aka	1(|AŠ×AŠ@t|)
+@list	RSP093
+@form 1(|BAD×DIŠ@t|)
+@oid	o0038143
+@aka	1(|BAD×AŠ@t|)
+@inote	This sign is unattested but is needed to handle n(|BAD×AŠ@t|) which occurs in ED3b
 @@
 @end sign
 
-@sign 5(GEŠ₂)
-@oid	o0000054
-@uname	CUNEIFORM NUMERIC SIGN FIVE GESH2
-@list	U+12419
-@ucun	𒐙
-@uage	5.0
-@v	5(geš₂)
-@v	5(ŋeš₂)
-@link Wikidata Q87556881 http://www.wikidata.org/entity/Q87556881
-@form 5(GEŠ₂@c)
-@oid	o0223428
-@inote	@ucode	xeb9c
-@v	5(geš₂@c)
-@@
-@form 5(GEŠ₂@t)
-@oid	o0038157
-@v	5(geš₂@t)
+@sign 2(|AŠ×DIŠ@t|)
+@oid	o0223342
+@aka	2(|AŠ×AŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 3(|AŠ×DIŠ@t|)
+@oid	o0223343
+@aka	3(|AŠ×AŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 4(|AŠ×DIŠ@t|)
+@oid	o0223344
+@aka	4(|AŠ×AŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 5(|AŠ×DIŠ@t|)
+@oid	o0223345
+@aka	5(|AŠ×AŠ@t|)
+@list	RSP093
+@end sign
+
+@sign 6(|AŠ×DIŠ@t|)
+@oid	o0223346
+@aka	6(|AŠ×AŠ@t|)
+@list	RSP093
+@form 6(|BAD×DIŠ@t|)
+@oid	o0038174
+@aka	6(|BAD×AŠ@t|)
 @@
 @end sign
 
-@sign 6(GEŠ₂)
-@oid	o0000063
-@uname	CUNEIFORM NUMERIC SIGN SIX GESH2
-@list	U+1241A
-@ucun	𒐚
-@uage	5.0
-@v	6(geš₂)
-@v	6(ŋeš₂)
-@link Wikidata Q87556882 http://www.wikidata.org/entity/Q87556882
-@form 6(GEŠ₂@c)
-@oid	o0223435
-@inote	@ucode	xeb9d
-@v	6(geš₂@c)
-@@
-@form 6(GEŠ₂@t)
-@oid	o0038159 
-@v	6(geš₂@t)
+@sign 7(|AŠ×DIŠ@t|)
+@oid	o0223347
+@aka	7(|AŠ×AŠ@t|)
+@list	RSP093
+@form 7(|BAD×DIŠ@t|)
+@oid	o0038141
+@aka	7(|BAD×AŠ@t|)
 @@
 @end sign
 
-@sign 7(GEŠ₂)
-@oid	o0000071
-@uname	CUNEIFORM NUMERIC SIGN SEVEN GESH2
-@list	U+1241B
-@ucun	𒐛
-@uage	5.0
-@v	7(geš₂)
-@v	7(ŋeš₂)
-@link Wikidata Q87556884 http://www.wikidata.org/entity/Q87556884
-@form 7(GEŠ₂@c)
-@oid	o0223443
-@inote	@ucode	xeb9e
-@v	7(geš₂@c)
-@@
-@form 7(GEŠ₂@t)
-@oid	o0038161
-@v	7(geš₂@t)
+@sign 8(|AŠ×DIŠ@t|)
+@oid	o0223348
+@aka	8(|AŠ×AŠ@t|)
+@list	RSP093
+@form 8(|BAD×DIŠ@t|)
+@oid	o0038293
+@aka	8(|BAD×AŠ@t|)
 @@
 @end sign
 
-@sign 8(GEŠ₂)
-@oid	o0000076
-@uname	CUNEIFORM NUMERIC SIGN EIGHT GESH2
-@list	U+1241C
-@ucun	𒐜
-@uage	5.0
-@v	8(geš₂)
-@v	8(ŋeš₂)
-@link Wikidata Q87556886 http://www.wikidata.org/entity/Q87556886
-@form 8(GEŠ₂@c)
-@oid	o0223448
-@inote	@ucode	xeb9f
-@v	8(geš₂@c)
-@@
+@sign 9(|AŠ×DIŠ@t|)
+@oid	o0223349
+@aka	9(|AŠ×AŠ@t|)
+@list	RSP093
 @end sign
 
-@sign 9(GEŠ₂)
-@oid	o0000084
-@uname	CUNEIFORM NUMERIC SIGN NINE GESH2
-@list	U+1241D
-@ucun	𒐝
-@uage	5.0
-@v	9(geš₂)
-@v	9(ŋeš₂)
-@link Wikidata Q87556888 http://www.wikidata.org/entity/Q87556888
-@form 9(GEŠ₂@c)
-@oid	o0223458
-@inote	@ucode	xeba0
-@v	9(geš₂@c)
-@@
+@sign 6(|ŠAR₂×KASKAL|)
+@oid	o0028128
+@inote	dccmt
+@v	6(šarʾu)@v
+@end sign
+
+@sign 2(|GEŠU@c×KASKAL|)
+@oid	o0038252
+@v	2(gešʾu@v)
+@v	2(ŋešʾu@v)
+@inote	Attested
+@end sign
+
+@sign 3(|GEŠU@c×KASKAL|)
+@oid	o0038254
+@v	3(gešʾu@v)
+@v	3(ŋešʾu@v)
+@inote	Attested
+@end sign
+
+@sign 4(|GEŠU@c×KASKAL|)
+@oid	o0038256
+@v	4(gešʾu@v)
+@v	4(ŋešʾu@v)
+@inote	Attested
+@end sign
+
+@sign 5(|GEŠU@c×KASKAL|)
+@oid	o0038258
+@v	5(gešʾu@v)
+@v	5(ŋešʾu@v)
+@end sign
+
+@sign 6(|GEŠU@c×KASKAL|)
+@oid	o0038260
+@v	6(gešʾu@v)
+@v	6(ŋešʾu@v)
+@inote	Attested
+@end sign
+
+@sign 7(|GEŠU@c×KASKAL|)
+@oid	o0038262
+@v	7(gešʾu@v)
+@v	7(ŋešʾu@v)
+@inote	Attested
+@end sign
+
+@sign 1(N01)
+@oid	o0027232
+@list	LAK002
+@inote	UET II
+@end sign
+
+@sign 2(N01)
+@oid	o0027292
+@inote	UET II
+@end sign
+
+@sign 3(N01)
+@oid	o0027325
+@inote	UET II
+@end sign
+
+@sign 4(N01)
+@oid	o0027346
+@inote	UET II
+@end sign
+
+@sign 5(N01)
+@oid	o0027374
+@inote	UET II
+@end sign
+
+@sign 6(N01)
+@oid	o0027395
+@inote	UET II
+@end sign
+
+@sign 7(N01)
+@oid	o0027409
+@inote	UET II
+@end sign
+
+@sign 8(N01)
+@oid	o0027419
+@inote	UET II
+@end sign
+
+@sign 9(N01)
+@oid	o0027433
+@inote	UET II
+@end sign
+
+@sign 10(N01)
+@oid	o0027288
+@inote	UET II
 @end sign
 
 @sign 1(N01@f)
@@ -50382,77 +50623,6 @@
 @v	9(aš@f)
 @end sign
 
-@sign 1(N01)
-@oid	o0027232
-@list	LAK002
-@inote	UET II
-@end sign
-
-@sign 2(N01)
-@oid	o0027292
-@inote	UET II
-@end sign
-
-@sign 3(N01)
-@oid	o0027325
-@inote	UET II
-@end sign
-
-@sign 4(N01)
-@oid	o0027346
-@inote	UET II
-@end sign
-
-@sign 5(N01)
-@oid	o0027374
-@inote	UET II
-@end sign
-
-@sign 6(N01)
-@oid	o0027395
-@inote	UET II
-@end sign
-
-@sign 7(N01)
-@oid	o0027409
-@inote	UET II
-@end sign
-
-@sign 8(N01)
-@oid	o0027419
-@inote	UET II
-@end sign
-
-@sign 9(N01)
-@oid	o0027433
-@inote	UET II
-@end sign
-
-@sign 10(N01)
-@oid	o0027288
-@inote	UET II
-@end sign
-
-@sign 1(N04)
-@oid	o0027236
-@inote	UET II
-@end sign
-
-@sign 2(N04)
-@oid	o0027296
-@inote	UET II
-@end sign
-
-@sign 3(N04)
-@oid	o0027329
-@inote	UET II
-@end sign
-
-@sign 4(N04)
-@oid	o0027349
-@inote	UET II
-@end sign
-
 @sign 1(N04@f)
 @oid	o0027238
 @inote	UET II
@@ -50478,17 +50648,27 @@
 @inote	UET II
 @end sign
 
-@compoundonly	1(N06)
-
-@sign 1(N08)
-@oid	o0027240
+@sign 1(N04)
+@oid	o0027236
 @inote	UET II
 @end sign
 
-@sign 2(N08)
-@oid	o0031167
-@inote UET II
+@sign 2(N04)
+@oid	o0027296
+@inote	UET II
 @end sign
+
+@sign 3(N04)
+@oid	o0027329
+@inote	UET II
+@end sign
+
+@sign 4(N04)
+@oid	o0027349
+@inote	UET II
+@end sign
+
+@compoundonly	1(N06)
 
 @sign 1(N08@f)
 @oid	o0027242
@@ -50500,53 +50680,13 @@
 @inote	UET II, provisional
 @end sign
 
-@sign 1(N14)
-@oid	o0027244
+@sign 1(N08)
+@oid	o0027240
 @inote	UET II
 @end sign
 
-@sign 2(N14)
-@oid	o0027299
-@inote	UET II
-@end sign
-
-@sign 3(N14)
-@oid	o0027333
-@inote	UET II
-@end sign
-
-@sign 4(N14)
-@oid	o0027353
-@inote	UET II
-@end sign
-
-@sign 5(N14)
-@oid	o0027379
-@inote	UET II
-@end sign
-
-@sign 6(N14)
-@oid	o0027399
-@inote	UET II
-@end sign
-
-@sign 7(N14)
-@oid	o0027413
-@inote	UET II
-@end sign
-
-@sign 8(N14)
-@oid	o0027423
-@inote	UET II
-@end sign
-
-@sign 9(N14)
-@oid	o0027437
-@inote	UET II
-@end sign
-
-@sign 10(N14)
-@oid	o0027289
+@sign 2(N08)
+@oid	o0031167
 @inote	UET II
 @end sign
 
@@ -50603,38 +50743,53 @@
 @inote	UET II
 @end sign
 
-@sign 1(N19)
-@oid	o0027248
+@sign 1(N14)
+@oid	o0027244
 @inote	UET II
 @end sign
 
-@sign 2(N19)
-@oid	o0027301
+@sign 2(N14)
+@oid	o0027299
 @inote	UET II
 @end sign
 
-@sign 3(N19)
-@oid	o0027336
+@sign 3(N14)
+@oid	o0027333
 @inote	UET II
 @end sign
 
-@sign 4(N19)
-@oid	o0027357
+@sign 4(N14)
+@oid	o0027353
 @inote	UET II
 @end sign
 
-@sign 5(N19)
-@oid	o0027383
+@sign 5(N14)
+@oid	o0027379
 @inote	UET II
 @end sign
 
-@sign 6(N19)
-@oid	o0027403
+@sign 6(N14)
+@oid	o0027399
 @inote	UET II
 @end sign
 
-@sign 8(N19)
-@oid	o0027427
+@sign 7(N14)
+@oid	o0027413
+@inote	UET II
+@end sign
+
+@sign 8(N14)
+@oid	o0027423
+@inote	UET II
+@end sign
+
+@sign 9(N14)
+@oid	o0027437
+@inote	UET II
+@end sign
+
+@sign 10(N14)
+@oid	o0027289
 @inote	UET II
 @end sign
 
@@ -50673,13 +50828,38 @@
 @inote	UET II
 @end sign
 
-@sign 1(N22)
-@oid	o0027251
+@sign 1(N19)
+@oid	o0027248
 @inote	UET II
 @end sign
 
-@sign 2(N22)
-@oid	o0027305
+@sign 2(N19)
+@oid	o0027301
+@inote	UET II
+@end sign
+
+@sign 3(N19)
+@oid	o0027336
+@inote	UET II
+@end sign
+
+@sign 4(N19)
+@oid	o0027357
+@inote	UET II
+@end sign
+
+@sign 5(N19)
+@oid	o0027383
+@inote	UET II
+@end sign
+
+@sign 6(N19)
+@oid	o0027403
+@inote	UET II
+@end sign
+
+@sign 8(N19)
+@oid	o0027427
 @inote	UET II
 @end sign
 
@@ -50693,8 +50873,23 @@
 @inote	UET II
 @end sign
 
+@sign 1(N22)
+@oid	o0027251
+@inote	UET II
+@end sign
+
+@sign 2(N22)
+@oid	o0027305
+@inote	UET II
+@end sign
+
 @sign 1(N24)
 @oid	o0027255
+@inote	UET II
+@end sign
+
+@sign 1(N34@f@t)
+@oid	o0031114
 @inote	UET II
 @end sign
 
@@ -50715,11 +50910,6 @@
 
 @sign 4(N34)
 @oid	o0027361
-@inote	UET II
-@end sign
-
-@sign 1(N34@f@t)
-@oid	o0031114
 @inote	UET II
 @end sign
 
@@ -50763,6 +50953,11 @@
 @inote	UET II
 @end sign
 
+@sign 1(N36@f)
+@oid	o0027264
+@inote	UET II
+@end sign
+
 @sign 1(N36)
 @oid	o0027262
 @inote	UET II
@@ -50778,8 +50973,13 @@
 @inote	UET II
 @end sign
 
-@sign 1(N36@f)
-@oid	o0027264
+@sign 1(N45@f)
+@oid	o0027268
+@inote	UET II
+@end sign
+
+@sign 2(N45@f)
+@oid	o0027316
 @inote	UET II
 @end sign
 
@@ -50803,16 +51003,6 @@
 @inote	UET II
 @end sign
 
-@sign 1(N45@f)
-@oid	o0027268
-@inote	UET II
-@end sign
-
-@sign 2(N45@f)
-@oid	o0027316
-@inote	UET II
-@end sign
-
 @sign 1(N46)
 @oid	o0027270
 @inote	UET II
@@ -50823,13 +51013,13 @@
 @inote	UET II
 @end sign
 
-@sign 1(N48)
-@oid	o0027272
+@sign 1(N48@f)
+@oid	o0027274
 @inote	UET II
 @end sign
 
-@sign 1(N48@f)
-@oid	o0027274
+@sign 1(N48)
+@oid	o0027272
 @inote	UET II
 @end sign
 
@@ -50913,17 +51103,24 @@
 @inote	UET II
 @end sign
 
-@sign 1(N57)
-@oid	o0027284
-@inote	UET II
-@end sign
-
 @sign |1(N57).DUN|
 @oid	o0027474
 @aka	|1(N57).ŠAH₂|
 @inote	UET II, provisional
 @useq	X.x12084
 @ucun	X𒂄
+@end sign
+
+@sign |2(N57)+E₂|
+@oid	o0038313
+@inote	ED I-II Ur
+@useq	X.x1208D
+@ucun	X.𒂍
+@end sign
+
+@sign 1(N57)
+@oid	o0027284
+@inote	UET II
 @end sign
 
 @sign |1(N57).1(N57)|
@@ -50948,168 +51145,10 @@
 @inote	UET II
 @end sign
 
-@sign 2(ŠAR₂)
-@oid	o0000019
-@uname	CUNEIFORM NUMERIC SIGN TWO SHAR2
-@list	U+12423
-@ucun	𒐣
-@uage	5.0
-@v	2(šar₂)
-@v	2(šargal)
-@link Wikidata Q87556910 http://www.wikidata.org/entity/Q87556910
-@form 2(ŠAR₂@c)
-@oid	o0223395
-@inote	@ucode	xeba8
-@v	2(šar₂@c)
-@@
+@sign 1(U@90)
+@oid	o0038228
 @end sign
 
-@sign 3(ŠAR₂)
-@oid	o0000032
-@uname	CUNEIFORM NUMERIC SIGN THREE SHAR2
-@list	U+12424
-@ucun	𒐤
-@uage	5.0
-@v	3(šar₂)
-@v	3(šargal)
-@link Wikidata Q87556912 http://www.wikidata.org/entity/Q87556912
-@form 3(ŠAR₂@c)
-@oid	o0223409
-@inote	@ucode	xeba9
-@v	3(šar₂@c)
-@@
+@sign 2(U@90)
+@oid	o0038230
 @end sign
-
-@sign 3(ŠAR₂)@v
-@oid	o0000033
-@uname	CUNEIFORM NUMERIC SIGN THREE SHAR2 VARIANT FORM
-@list	U+12425
-@ucun	𒐥
-@uage	5.0
-@v	3(šar₂)@v
-@link Wikidata Q87556914 http://www.wikidata.org/entity/Q87556914
-@form 3(ŠAR₂@c)@v
-@oid	o0223410
-@inote	@ucode	xebaa
-@v	3(šar₂@c)@v
-@@
-@end sign
-
-@sign 4(ŠAR₂)
-@oid	o0000046
-@uname	CUNEIFORM NUMERIC SIGN FOUR SHAR2
-@list	U+12426
-@ucun	𒐦
-@uage	5.0
-@v	4(šar₂)
-@v	4(šargal)
-@link Wikidata Q87556916 http://www.wikidata.org/entity/Q87556916
-@form 4(ŠAR₂@c)
-@oid	o0223422
-@inote	@ucode	xebab
-@v	4(šar₂@c)
-@@
-@end sign
-
-@sign 5(ŠAR₂)
-@oid	o0000058
-@uname	CUNEIFORM NUMERIC SIGN FIVE SHAR2
-@list	U+12427
-@ucun	𒐧
-@uage	5.0
-@v	5(šar₂)
-@v	5(šargal)
-@link Wikidata Q87556917 http://www.wikidata.org/entity/Q87556917
-@form 5(ŠAR₂@c)
-@oid	o0223430
-@inote	@ucode	xebac
-@v	5(šar₂@c)
-@@
-@end sign
-
-@sign 6(ŠAR₂)
-@oid	o0000065
-@uname	CUNEIFORM NUMERIC SIGN SIX SHAR2
-@list	U+12428
-@ucun	𒐨
-@uage	5.0
-@v	6(šar₂)
-@v	6(šargal)
-@link Wikidata Q87556919 http://www.wikidata.org/entity/Q87556919
-@form 6(ŠAR₂@c)
-@oid	o0223437
-@inote	@ucode	xebad
-@v	6(šar₂@c)
-@@
-@end sign
-
-@sign 7(ŠAR₂)
-@oid	o0000073
-@uname	CUNEIFORM NUMERIC SIGN SEVEN SHAR2
-@list	U+12429
-@ucun	𒐩
-@uage	5.0
-@v	7(šar₂)
-@v	7(šargal)
-@link Wikidata Q87556921 http://www.wikidata.org/entity/Q87556921
-@form 7(ŠAR₂@c)
-@oid	o0223445
-@inote	@ucode	xebae
-@v	7(šar₂@c)
-@@
-@end sign
-
-@sign 8(ŠAR₂)
-@oid	o0000078
-@uname	CUNEIFORM NUMERIC SIGN EIGHT SHAR2
-@list	U+1242A
-@ucun	𒐪
-@uage	5.0
-@v	8(šar₂)
-@v	8(šargal)
-@link Wikidata Q87556923 http://www.wikidata.org/entity/Q87556923
-@form 8(ŠAR₂@c)
-@oid	o0223450
-@inote	@ucode	xebaf
-@v	8(šar₂@c)
-@@
-@end sign
-
-@sign 9(ŠAR₂)
-@oid	o0000086
-@uname	CUNEIFORM NUMERIC SIGN NINE SHAR2
-@list	U+1242B
-@ucun	𒐫
-@uage	5.0
-@v	9(šar₂)
-@v	9(šargal)
-@inote 9(šargal) P102004
-@link Wikidata Q87556926 http://www.wikidata.org/entity/Q87556926
-@form 9(ŠAR₂@c)
-@oid	o0223460
-@inote	@ucode	xebb0
-@v	9(šar₂@c)
-@@
-@end sign
-
-@sign 6(|ŠAR₂×KASKAL|)
-@oid	o0028128
-@inote	dccmt
-@v	6(šarʾu)@v
-@end sign
-
-@sign |URU×PIRIG|
-@oid  o0038318
-@inote AbS 327 clear on photo and copy
-@end sign
-
-@sign |AB.KID&KID|
-@oid o0038321
-@useq x1200A.X
-@end sign
-
-@sign |TUK×HAL|
-@oid o0038324
-@end sign
-
-@compoundonly |KID&KID|
