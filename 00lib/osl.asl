@@ -491,6 +491,12 @@
 @v	hurinₓ
 @link	eBL BU https://www.ebl.lmu.de/signs/BU
 @@
+@form |A.BU.HA.DA|
+@oid	o0038346
+@useq	x12000.x1204D.x12129.x12055
+@ucun	𒀀𒁍𒄩𒁕
+@inote needs collation; DU!?
+@@
 @form |HA.A.DU|
 @oid	o0021758
 @useq	x12129.x12000.x1207A
@@ -516,6 +522,11 @@
 @oid	o0019051
 @useq	x12129.x12232.x1207A
 @ucun	𒄩𒈲𒁺
+@@
+@form |HA.MUŠ.A.DU|
+@oid	o0038344
+@useq	x12129.x12232.x12000.x1207A
+@ucun	𒄩𒈲𒀀𒁺
 @@
 @form |HA.TAR.A.DU|
 @oid	o0001438
@@ -545,10 +556,25 @@
 @useq	x12232.x12000.x12129.x1207A
 @ucun	𒈲𒀀𒄩𒁺
 @@
+@form |MUŠ.HA.A.DU|
+@oid	o0038338
+@useq	x12232.x12129.x12000.x1207A
+@ucun	𒈲𒄩𒀀𒁺
+@@
+@form |MUŠ.DU.HA.A|
+@oid	o0038342
+@useq	x12232.x1207A.x12129.x12000
+@ucun	𒈲𒁺𒄩𒀀
+@@
 @form |MUŠ.DU.A.HA|
 @oid	o0002030
 @useq	x12232.x1207A.x12000.x12129
 @ucun	𒈲𒁺𒀀𒄩
+@@
+@form |DU.MUŠ.A.HA|
+@oid	o0038340
+@useq	x1207A.x12232.x12000.x12129
+@ucun	𒁺𒈲𒀀𒄩
 @@
 @form |TAR.A.DU|
 @oid	o0002405
