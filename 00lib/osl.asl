@@ -429,6 +429,11 @@
 @useq	x12000.x1204D.x1207A
 @ucun	𒀀𒁍𒁺
 @@
+@form |A.BU.HA|
+@oid	o0038356
+@useq	x12000.x1204D.x12129
+@ucun	𒀀𒁍𒄩
+@@
 @form |A.BU.HA.DU|
 @oid	o0000659
 @useq	x12000.x1204D.x12129.x1207A
@@ -442,6 +447,11 @@
 @form |A.HA|
 @oid	o0000683
 @link	eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
+@@
+@form |A.HA.A.DU|
+@oid	o0038354
+@useq	x12000.x12129.x12000.x1207A
+@ucun	𒀀𒄩𒀀𒁺
 @@
 @form |A.HA.BU.DU|
 @oid	o0000676
@@ -469,6 +479,11 @@
 @oid	o0000680
 @useq	x12000.x12129.x12232.x1207A
 @ucun	𒀀𒄩𒈲𒁺
+@@
+@form |A.HA.TAR.A.DU|
+@oid	o0038358
+@useq	x12000.x12129.x122FB.x12000.x1207A
+@ucun	𒀀𒄩𒋻𒀀𒁺
 @@
 @form |A.HA.TAR.UD.DU|
 @oid	o0000682
@@ -511,6 +526,11 @@
 @oid	o0001435
 @useq	x12129.x12000.x122FB
 @ucun	𒄩𒀀𒋻
+@@
+@form |A.TAR|
+@oid	o0038353
+@useq	x12000.x122FB
+@ucun	𒀀𒋻
 @@
 @form |HA.A.TAR.DU|
 @oid	o0001434
@@ -1968,6 +1988,7 @@
 @oid	o0025711
 @list	REC349
 @v	mahₓ
+@v	iriₓ
 @inote	ed3b P112975 v 9
 @link	eBL |AB×U| https://www.ebl.lmu.de/signs/|AB×U|
 @end sign
@@ -40328,6 +40349,8 @@
 @v	bappira₂
 @v	bappiruₓ
 @v	birₓ
+@v	girimₓ
+@inote sfs
 @v	lumgi
 @v	lunga
 @v	mud₅
@@ -45889,6 +45912,11 @@
 @inote	hapax in Ur III Umma text in Istanbul with no photo/copy available P117909 = MVN 14, 0228
 @end sign
 
+@sign |UR₂×BAR|
+@oid	o0038351
+@inote	incantations; needs collation
+@end sign
+
 @sign |UR₂×GAD|
 @oid	o0199006
 @inote	admin/names
@@ -46546,6 +46574,8 @@
 @sign |URU×IGI@g|
 @oid	o0018552
 @inote	ed3a
+@v	asalₓ
+@inote 	in Asalluhi
 @end sign
 
 @sign |URU×IM|
