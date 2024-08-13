@@ -41149,6 +41149,12 @@
 @v	tukumₓ
 @v	tukumbiₓ
 @@
+@form |ŠU.ME.GAR.BI|
+@oid o0038349
+@useq x122D7.x12228.x120FB.x12049
+@ucun 𒋗𒈨𒃻𒁉
+@v    tukumbi
+@@
 @end sign
 
 @sign |ŠU.GI|
