@@ -497,6 +497,11 @@
 @ucun	𒀀𒁍𒄩𒁕
 @inote needs collation; DU!?
 @@
+@form |BU.HA.DU|
+@oid	o0038348
+@useq	x1204D.x12129.x1207A
+@ucun	𒀀𒁍𒄩𒁺
+@@
 @form |HA.A.DU|
 @oid	o0021758
 @useq	x12129.x12000.x1207A
@@ -46679,6 +46684,7 @@
 @inote	epsd2
 @v	šakirₓ
 @link	eBL |URU×(MIN.GA)| https://www.ebl.lmu.de/signs/|URU×(MIN.GA)|
+@inote Civil Fs Reiner on šakir
 @end sign
 
 @sign |URU×(MIN.NI.GA)|
