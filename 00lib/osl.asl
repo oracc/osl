@@ -27441,7 +27441,6 @@
 @link	Wikidata Q87556009 http://www.wikidata.org/entity/Q87556009
 @form REC145
 @oid	o0000298
-@aka	KU₄~a
 @list	KWU634
 @list	LAK208
 @list	REC145
