@@ -69,3 +69,12 @@ PCSL and OSL will list the ACN number-signs as follows:
      @sign 1(AŠ@c)
      @sys PCSL 1(N01)
 
+     For PCSL signs that have no ED+ counterpart, e.g., the @f
+     sequence, ASL will use a new tag, @pcsl, to indicate that the
+     sign name belongs to the pc domain but should be included in sl
+     validation data:
+
+     @pcsl 1(N01@f)
+     ...unicode data ...
+     @end pcsl
+

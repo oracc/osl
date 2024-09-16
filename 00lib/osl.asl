@@ -105,6 +105,7 @@
 	Pp. 58-103 in Glossaire sumérien–français principalement des textes littéraires
 	paléobabyloniens (Wiesbaden 2021).
 @inote	Presently incomplete.
+
 @inote	@images 00etc/im-lak-svg.tab
 @inote	@images 00etc/im-lak-a-z.tab
 
@@ -8407,7 +8408,8 @@
 @v	ṭur₂
 @link	eBL DUR₂ https://www.ebl.lmu.de/signs/DUR₂
 @link	Wikidata Q87555269 http://www.wikidata.org/entity/Q87555269
-@form |LAGAB×1(N01)|
+@form |LAGAB×AŠ@c|
+@inote formerly |LAGAB×1(N01)|
 @oid	o0027185
 @list	BAU268
 @list	LAK772
@@ -17364,12 +17366,6 @@
 @@
 @end sign
 
-@sign |HU×2(N57)|
-@oid	o0027482
-@aka	|MUŠEN×2(N57)|
-@inote	UET II, provisional
-@end sign
-
 @sign HU@g
 @oid	o0027540
 @list	ELLES042
@@ -25108,7 +25104,7 @@
 @v	pu₂
 @link	eBL |LAGAB×TIL| https://www.ebl.lmu.de/signs/|LAGAB×TIL|
 @@
-@form |LAGAB×1(N01)|
+@form |LAGAB×AŠ@c|
 @oid	o0027185
 @inote	P519405 iii 5 in PN tul₂-saŋ
 @@
@@ -25269,14 +25265,6 @@
 @uage	8.0
 @link	eBL |LAGAB×(ZU&ZU)| https://www.ebl.lmu.de/signs/|LAGAB×(ZU&ZU)|
 @link	Wikidata Q87557251 http://www.wikidata.org/entity/Q87557251
-@end sign
-
-@sign |LAGAB×1(N01)|
-@oid	o0027185
-@list	BAU268
-@list	LAK772
-@v	gigirₓ?
-@inote	|LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
 @end sign
 
 @compoundonly	|LAGAB&LAGAB|
@@ -29137,11 +29125,6 @@
 @inote	UET II, provisional
 @end sign
 
-@sign |MA×2(N57)|
-@oid	o0027476
-@inote	UET II, provisional
-@end sign
-
 @sign MA@g
 @oid	o0000445
 @list	ABZL218
@@ -32832,17 +32815,6 @@
 @list	LAK101
 @inote	missing compounds for lak.atf
 @@
-@end sign
-
-@sign |NINDA₂×2(N01)|
-@oid	o0027699
-@list	ELLES058
-@inote	missing compounds for elles.atf
-@end sign
-
-@sign |NINDA₂×1(N06)|
-@oid	o0027488
-@inote	UET II, provisional
 @end sign
 
 @compoundonly	|NINDA₂@180×ZA|
@@ -37286,12 +37258,6 @@
 @useq	x122A9.O
 @ucun	𒊩X
 @v	emeₓ
-@end sign
-
-@sign |SAL×1(N58)|
-@oid	o0027191
-@list	BAU400
-@inote	description provisional, follows CDLI transliteration of UET II
 @end sign
 
 @sign SANGA₂
@@ -41740,13 +41706,6 @@
 @link	eBL |ŠU₂.ZI₃| https://www.ebl.lmu.de/signs/|ŠU₂.ZI₃|
 @end sign
 
-@sign |ŠU₂.2(N57)|
-@oid	o0027498
-@inote	UET II, provisional
-@useq	x122D9.X
-@ucun	𒋙X
-@end sign
-
 @sign |ŠU₂×(A.DIŠ)|
 @oid	o0002823
 @v	šuaₓ
@@ -45232,22 +45191,6 @@
 @sign |UD×X|
 @oid	o0022925
 @inote	For validating sign-lists
-@end sign
-
-@sign |UD×1(N01)|
-@oid	o0027195
-@list	BAU199
-@inote	possibly ITI?
-@end sign
-
-@sign |UD×1(N01@f)|
-@oid	o0027501
-@inote	UET II, provisional
-@end sign
-
-@sign |UD×3(N57)|
-@oid	o0027503
-@inote	UET II, provisional
 @end sign
 
 @sign |UD&UD|
@@ -50583,633 +50526,6 @@
 @v	7(gešʾu@v)
 @v	7(ŋešʾu@v)
 @inote	Attested
-@end sign
-
-@sign 1(N01)
-@oid	o0027232
-@list	LAK002
-@inote	UET II
-@end sign
-
-@sign 2(N01)
-@oid	o0027292
-@inote	UET II
-@end sign
-
-@sign 3(N01)
-@oid	o0027325
-@inote	UET II
-@end sign
-
-@sign 4(N01)
-@oid	o0027346
-@inote	UET II
-@end sign
-
-@sign 5(N01)
-@oid	o0027374
-@inote	UET II
-@end sign
-
-@sign 6(N01)
-@oid	o0027395
-@inote	UET II
-@end sign
-
-@sign 7(N01)
-@oid	o0027409
-@inote	UET II
-@end sign
-
-@sign 8(N01)
-@oid	o0027419
-@inote	UET II
-@end sign
-
-@sign 9(N01)
-@oid	o0027433
-@inote	UET II
-@end sign
-
-@sign 10(N01)
-@oid	o0027288
-@inote	UET II
-@end sign
-
-@sign 1(N01@f)
-@oid	o0027234
-@inote	UET II
-@v	1(aš@f)
-@end sign
-
-@sign 2(N01@f)
-@oid	o0027294
-@inote	UET II
-@v	2(aš@f)
-@end sign
-
-@sign 3(N01@f)
-@oid	o0027327
-@inote	UET II
-@v	3(aš@f)
-@end sign
-
-@sign 4(N01@f)
-@oid	o0027348
-@inote	UET II
-@v	4(aš@f)
-@end sign
-
-@sign 5(N01@f)
-@oid	o0027376
-@inote	UET II
-@v	5(aš@f)
-@end sign
-
-@sign 6(N01@f)
-@oid	o0027397
-@inote	UET II
-@v	6(aš@f)
-@end sign
-
-@sign 7(N01@f)
-@oid	o0027411
-@inote	UET II
-@v	7(aš@f)
-@end sign
-
-@sign 8(N01@f)
-@oid	o0027421
-@inote	UET II
-@v	8(aš@f)
-@end sign
-
-@sign 9(N01@f)
-@oid	o0027435
-@inote	UET II
-@v	9(aš@f)
-@end sign
-
-@sign 1(N04@f)
-@oid	o0027238
-@inote	UET II
-@end sign
-
-@sign 2(N04@f)
-@oid	o0027297
-@inote	UET II
-@end sign
-
-@sign 3(N04@f)
-@oid	o0027331
-@inote	UET II
-@end sign
-
-@sign 4(N04@f)
-@oid	o0027351
-@inote	UET II
-@end sign
-
-@sign 5(N04@f)
-@oid	o0027378
-@inote	UET II
-@end sign
-
-@sign 1(N04)
-@oid	o0027236
-@inote	UET II
-@end sign
-
-@sign 2(N04)
-@oid	o0027296
-@inote	UET II
-@end sign
-
-@sign 3(N04)
-@oid	o0027329
-@inote	UET II
-@end sign
-
-@sign 4(N04)
-@oid	o0027349
-@inote	UET II
-@end sign
-
-@compoundonly	1(N06)
-
-@sign 1(N08@f)
-@oid	o0027242
-@inote	UET II
-@end sign
-
-@sign |1(N08@f)×1(N57)|
-@oid	o0027470
-@inote	UET II, provisional
-@end sign
-
-@sign 1(N08)
-@oid	o0027240
-@inote	UET II
-@end sign
-
-@sign 2(N08)
-@oid	o0031167
-@inote	UET II
-@end sign
-
-@sign 1(N14@f)
-@oid	o0027246
-@inote	UET II
-@v	1(u@f)
-@end sign
-
-@sign 2(N14@f)
-@oid	o0027300
-@inote	UET II
-@v	2(u@f)
-@end sign
-
-@sign 3(N14@f)
-@oid	o0027335
-@inote	UET II
-@v	3(u@f)
-@end sign
-
-@sign 4(N14@f)
-@oid	o0027355
-@inote	UET II
-@end sign
-
-@sign 5(N14@f)
-@oid	o0027381
-@inote	UET II
-@end sign
-
-@sign 6(N14@f)
-@oid	o0027401
-@inote	UET II
-@end sign
-
-@sign 7(N14@f)
-@oid	o0027415
-@inote	UET II
-@end sign
-
-@sign 8(N14@f)
-@oid	o0027425
-@inote	UET II
-@end sign
-
-@sign 9(N14@f)
-@oid	o0027439
-@inote	UET II
-@end sign
-
-@sign 10(N14@f)
-@oid	o0027291
-@inote	UET II
-@end sign
-
-@sign 1(N14)
-@oid	o0027244
-@inote	UET II
-@end sign
-
-@sign 2(N14)
-@oid	o0027299
-@inote	UET II
-@end sign
-
-@sign 3(N14)
-@oid	o0027333
-@inote	UET II
-@end sign
-
-@sign 4(N14)
-@oid	o0027353
-@inote	UET II
-@end sign
-
-@sign 5(N14)
-@oid	o0027379
-@inote	UET II
-@end sign
-
-@sign 6(N14)
-@oid	o0027399
-@inote	UET II
-@end sign
-
-@sign 7(N14)
-@oid	o0027413
-@inote	UET II
-@end sign
-
-@sign 8(N14)
-@oid	o0027423
-@inote	UET II
-@end sign
-
-@sign 9(N14)
-@oid	o0027437
-@inote	UET II
-@end sign
-
-@sign 10(N14)
-@oid	o0027289
-@inote	UET II
-@end sign
-
-@sign 1(N19@f)
-@oid	o0027250
-@inote	UET II
-@end sign
-
-@sign 2(N19@f)
-@oid	o0027303
-@inote	UET II
-@end sign
-
-@sign 3(N19@f)
-@oid	o0027338
-@inote	UET II
-@end sign
-
-@sign 4(N19@f)
-@oid	o0027359
-@inote	UET II
-@end sign
-
-@sign 5(N19@f)
-@oid	o0027385
-@inote	UET II
-@end sign
-
-@sign 6(N19@f)
-@oid	o0027405
-@inote	UET II
-@end sign
-
-@sign 7(N19@f)
-@oid	o0027417
-@inote	UET II
-@end sign
-
-@sign 1(N19)
-@oid	o0027248
-@inote	UET II
-@end sign
-
-@sign 2(N19)
-@oid	o0027301
-@inote	UET II
-@end sign
-
-@sign 3(N19)
-@oid	o0027336
-@inote	UET II
-@end sign
-
-@sign 4(N19)
-@oid	o0027357
-@inote	UET II
-@end sign
-
-@sign 5(N19)
-@oid	o0027383
-@inote	UET II
-@end sign
-
-@sign 6(N19)
-@oid	o0027403
-@inote	UET II
-@end sign
-
-@sign 8(N19)
-@oid	o0027427
-@inote	UET II
-@end sign
-
-@sign 1(N22@f)
-@oid	o0027253
-@inote	UET II
-@end sign
-
-@sign 2(N22@f)
-@oid	o0027307
-@inote	UET II
-@end sign
-
-@sign 1(N22)
-@oid	o0027251
-@inote	UET II
-@end sign
-
-@sign 2(N22)
-@oid	o0027305
-@inote	UET II
-@end sign
-
-@sign 1(N24)
-@oid	o0027255
-@inote	UET II
-@end sign
-
-@sign 1(N34@f@t)
-@oid	o0031114
-@inote	UET II
-@end sign
-
-@sign 1(N34)
-@oid	o0027257
-@inote	UET II
-@end sign
-
-@sign 2(N34)
-@oid	o0027309
-@inote	UET II
-@end sign
-
-@sign 3(N34)
-@oid	o0027340
-@inote	UET II
-@end sign
-
-@sign 4(N34)
-@oid	o0027361
-@inote	UET II
-@end sign
-
-@sign 1(N34@f)
-@oid	o0027259
-@inote	UET II
-@end sign
-
-@sign 2(N34@f)
-@oid	o0027311
-@inote	UET II
-@end sign
-
-@sign 3(N34@f)
-@oid	o0027342
-@inote	UET II
-@end sign
-
-@sign 4(N34@f)
-@oid	o0027363
-@inote	UET II
-@end sign
-
-@sign 5(N34@f)
-@oid	o0027387
-@inote	UET II
-@end sign
-
-@sign 6(N34@f)
-@oid	o0027407
-@inote	UET II
-@end sign
-
-@sign 8(N34@f)
-@oid	o0027429
-@inote	UET II
-@end sign
-
-@sign 9(N34@f)
-@oid	o0027441
-@inote	UET II
-@end sign
-
-@sign 1(N36@f)
-@oid	o0027264
-@inote	UET II
-@end sign
-
-@sign 1(N36)
-@oid	o0027262
-@inote	UET II
-@end sign
-
-@sign 2(N36)
-@oid	o0027313
-@inote	UET II
-@end sign
-
-@sign 4(N36)
-@oid	o0027365
-@inote	UET II
-@end sign
-
-@sign 1(N45@f)
-@oid	o0027268
-@inote	UET II
-@end sign
-
-@sign 2(N45@f)
-@oid	o0027316
-@inote	UET II
-@end sign
-
-@sign 1(N45)
-@oid	o0027266
-@inote	UET II
-@end sign
-
-@sign 2(N45)
-@oid	o0027314
-@inote	UET II
-@end sign
-
-@sign 4(N45)
-@oid	o0027367
-@inote	UET II
-@end sign
-
-@sign 5(N45)
-@oid	o0027388
-@inote	UET II
-@end sign
-
-@sign 1(N46)
-@oid	o0027270
-@inote	UET II
-@end sign
-
-@sign 2(N46@f)
-@oid	o0027318
-@inote	UET II
-@end sign
-
-@sign 1(N48@f)
-@oid	o0027274
-@inote	UET II
-@end sign
-
-@sign 1(N48)
-@oid	o0027272
-@inote	UET II
-@end sign
-
-@sign 1(N50)
-@oid	o0027276
-@inote	UET II
-@end sign
-
-@sign 2(N50)
-@oid	o0027320
-@inote	UET II
-@end sign
-
-@sign 4(N50)
-@oid	o0027369
-@inote	UET II
-@end sign
-
-@sign 5(N50)
-@oid	o0027390
-@inote	UET II
-@end sign
-
-@sign 1(N51@f)
-@oid	o0027280
-@inote	UET II
-@end sign
-
-@sign 2(N51@f)
-@oid	o0027324
-@inote	UET II
-@end sign
-
-@sign 3(N51@f)
-@oid	o0027343
-@inote	UET II
-@end sign
-
-@sign 4(N51@f)
-@oid	o0027373
-@inote	UET II
-@end sign
-
-@sign 5(N51@f)
-@oid	o0027393
-@inote	UET II
-@end sign
-
-@sign 8(N51@f)
-@oid	o0027431
-@inote	UET II
-@end sign
-
-@sign 9(N51@f)
-@oid	o0027443
-@inote	UET II
-@end sign
-
-@sign 1(N51)
-@oid	o0027278
-@inote	UET II
-@end sign
-
-@sign 2(N51)
-@oid	o0027322
-@inote	UET II
-@end sign
-
-@sign 4(N51)
-@oid	o0027371
-@inote	UET II
-@end sign
-
-@sign 5(N51)
-@oid	o0027391
-@inote	UET II
-@end sign
-
-@sign 1(N54)
-@oid	o0027282
-@inote	UET II
-@end sign
-
-@sign |1(N57).DUN|
-@oid	o0027474
-@aka	|1(N57).ŠAH₂|
-@inote	UET II, provisional
-@useq	X.x12084
-@ucun	X𒂄
-@end sign
-
-@sign |2(N57)+E₂|
-@oid	o0038313
-@inote	ED I-II Ur
-@useq	X.x1208D
-@ucun	X.𒂍
-@end sign
-
-@sign 1(N57)
-@oid	o0027284
-@inote	UET II
-@end sign
-
-@sign |1(N57).1(N57)|
-@oid	o0027472
-@inote	UET II, provisional
-@useq	X.X
-@ucun	XX
-@end sign
-
-@sign 2(N57)
-@oid	o0018502
-@inote	UET II
-@end sign
-
-@sign 3(N57)
-@oid	o0027344
-@inote	UET II
-@end sign
-
-@sign 1(N58)
-@oid	o0027286
-@inote	UET II
 @end sign
 
 @sign 1(U@90)
