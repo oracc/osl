@@ -12,11 +12,8 @@ use Getopt::Long;
 GetOptions(
     );
 
-my %osl = ();
-my %pcsl = ();
-
-my @osl = `cat osl.sign`; chomp @osl; @osl{@osl} = ();
-my @pcsl = `cat pcsl.sign`; chomp @pcsl; @pcsl{@pcsl} = ();
+my %osl = load_asl('../00lib/osl.asl');
+my %pcsl = load_asl('../../pcsl/00lib/pcsl.asl');
 
 my %n = (
     ONE=>'1',
@@ -28,6 +25,13 @@ my %n = (
     SEVEN=>'7',
     EIGHT=>'8',
     NINE=>'9',
+    );
+
+my %fixed = (
+    '1/8(IKU@c)'=>'F₃@c',
+    '1/8(IKU@c@v)'=>'F₃@c@v',
+    '1/4(IKU@c@v)'=>'F₄@c@v',
+    '1/2(IKU@c@v)'=>'F₈',
     );
 
 #
@@ -50,14 +54,17 @@ while (<N>) {
 	$uname =~ s/\s+FLAT/\@f/;
 	$uname =~ s/\s+TENU/\@t/;
 	$uname =~ s/\s+REVERSED/\@r/;
+	$uname =~ s/BAN2/BAN₂/;
 	my $sn = "$n{$n}\($uname\)";
 	$sn =~ s#1\(EIGHTH\s+#1/8(#;
 	$sn =~ s#1\(HALF\s+#1/2(#;
 	$sn =~ s#1\(QUARTER\s+#1/4(#;
-	if (exists($osl{$sn})) {
-	    print "o\t$sn\t$orig\n";
-	} elsif (exists($pcsl{$sn})) {
-	    print "p\t$sn\t$orig\n";
+	if (exists($pcsl{$sn})) {
+	    print "p\t$sn\t$pcsl{$sn}\t$orig\n";
+	} elsif (exists($osl{$sn})) {
+	    print "o\t$sn\t$osl{$sn}\t$orig\n";
+	} elsif ($fixed{$sn}) {
+	    print "o\t$sn\t$fixed{$sn}\t$orig\n";
 	} else {
 	    print "n\t$sn\t$orig\n";
 	} 
@@ -65,6 +72,25 @@ while (<N>) {
     } else {
 	warn
     }
+}
+
+############################################################################
+
+sub load_asl {
+    my %a = ();
+    my $s = '';
+    open(A,$_[0]) || die "load_asl: failed on $_[0]\n";
+    while (<A>) {
+	if (/^\@sign\s+(\S+)\s*/) {
+	    $s = $a{$1} = $1;
+	} elsif (/^\@form\s+(\S+)\s*$/) {
+	    $a{$1} = "f$s";
+	} elsif (/^\@aka\s+(\S+)\s*$/) {
+	    $a{$1} = "=$s";
+	}
+    }
+    close(A);
+    %a;
 }
 
 
