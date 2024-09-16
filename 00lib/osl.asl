@@ -13953,7 +13953,7 @@
 	|(1(AŠ)×KASKAL)×1(U@c)| (e.g., P329163); the sign sometimes has an
 	indistinct or missing 10 (as on P217632, essentially |AŠ×KASKAL|;
 	identification as gešʾu@v based on sequence).
-	Signs 1..7(GEŠU@c×KASKAL) are defined here but 5(GEŠU@c×KASKAL) is not attested yet.
+	Signs 1..7(GEŠU@c×KASKAL) are defined here but 5(GEŠU@c×KASKAL) is so far unattested.
 @v	1(gešʾu@v)
 @v	1(ŋešʾu@v)
 @inote	Attested
@@ -48606,7 +48606,7 @@
 @oid	o0038112
 @v	6(gešmin@c)
 @v	6(ŋešmin@c)
-@note	This sign is so far unattested.
+@note	This sign is so far unattested but PC 6(N51) is.
 @end sign
 
 @sign 7(GEŠMIN@c)
@@ -49364,7 +49364,7 @@
 @oid	o0038118
 @v	2(gešminʾu@c)
 @v	2(ŋešminʾu@c)
-@note	This sign is so far unattested.
+@note	This sign is so far unattested in ED but 2(N54) is attested in PC.
 @end sign
 
 @sign 3(GEŠMINU@c)

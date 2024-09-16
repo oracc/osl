@@ -1,0 +1,71 @@
+
+		OSL/PCSL/OID NUMBER ARCHITECTURE
+
+Introduction
+============
+
+The Oracc Sign List (OSL) and the Proto-Cuneiform Sign List (PCSL)
+provide separate coverage of Cuneiform and Proto-Cuneiform signs,
+respectively.  Each corresponds to a domain of the Oracc ID (OID)
+system: OSL corresponds to the 'sl' domain; PCSL to the 'pc' domain.
+OIDs are unique across all domains, but OID::NAME correspondences are
+unique only within domains: this means that sl A and pc A can have
+different OIDs but the same name.
+
+Temporally, PCSL covers signs from Archaic Uruk periods; OSL covers
+Early Dynastic onward.  For ideographic signs, Unicode follows this
+division (or vice-versa), with PC signs encoded separately from later
+cuneiform signs.
+
+A new proposal for "Archaic Cuneiform Numbers" (ACN), however,
+acknowledges the continuity of certain Archaic number signs into the
+Early Dynastic (and later; ED+ in the following) periods and unifies
+the numbers across time in a way that cuts across PCSL and OSL.
+
+This document describes how the unified PC/ED+ numbers in Unicode
+U+125XX-U+126XX will be handled by OSL/PCSL and the OID system, where
+each sign can only have one OID, which must be in either the 'pc' or
+'sl' domain, but needs to appear in both sign lists in their respective
+avatars.
+
+
+
+Names
+=====
+
+Existing practice in PC transliteration assigns a simple set of labels
+to number-signs which have the basic form:
+
+   REPEATER '(' 'N' NUMBER-TYPE ')'
+
+Existing practice in ED+ is to use the basic form:
+
+   REPEATER '(' SIGN-NAME ')'
+
+Thus, PC 1(N01) is ED+ 1(AŠ@c).
+
+
+
+Listings
+========
+
+PCSL and OSL will list the ACN number-signs as follows:
+
+  1) Signs that occur only in PC will only be in PCSL
+  
+  2) Signs that occur only in ED+ will only be in OSL
+  
+  3) Signs that continue from PC into ED+ will be listed in PCSL under
+     their PC-style name and in OSL under their ED+-style name. Both
+     listings will have the same Unicode data.  Cross-references
+     between the sign lists will be handled using the @sys feature,
+     with mutually referential @sys entries, e.g.:
+
+     @sign 1(N01)
+     @sys OSL 1(AŠ@c)
+
+     ...
+
+     @sign 1(AŠ@c)
+     @sys PCSL 1(N01)
+
