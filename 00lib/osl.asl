@@ -48568,6 +48568,18 @@
 @v	7(ŋešmin@c)
 @end sign
 
+@sign 8(GEŠMIN@c)
+@oid	o0038362
+@v	8(gešmin@c)
+@v	8(ŋešmin@c)
+@end sign
+
+@sign 9(GEŠMIN@c)
+@oid	o0038364
+@v	9(gešmin@c)
+@v	9(ŋešmin@c)
+@end sign
+
 @sign 3(ŠARU@v)
 @oid	o0000031
 @uname	CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM
@@ -49330,6 +49342,12 @@
 @oid	o0038122
 @v	4(gešminʾu@c)
 @v	4(ŋešminʾu@c)
+@end sign
+
+@sign 5(GEŠMINU@c)
+@oid	o0038360
+@v	5(gešminʾu@c)
+@v	5(ŋešminʾu@c)
 @end sign
 
 @sign 3(EŠE₃@c)
