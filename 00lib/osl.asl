@@ -89,7 +89,9 @@
 @lit	F. Ellermeier and M. Studt, Handbuch Assur [HA; via
 	https://en.wikipedia.org/wiki/List_of_cuneiform_signs]
 
-@listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
+@listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
+	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
+	 0x12550-0x12686
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -105,6 +107,14 @@
 	Pp. 58-103 in Glossaire sumérien–français principalement des textes littéraires
 	paléobabyloniens (Wiesbaden 2021).
 @inote	Presently incomplete.
+
+@sysdef acn Xsux signs proposed for encoding in ACN.
+@lit	ACN=R. Leroy, et al., Archaic Cuneiform Numbers.
+	Unicode data for these signs is based on the draft proposal and may be subject to change.
+
+@sysdef pcun Pcun names for Xsux characters unified in ACN
+@lit	ACN=R. Leroy, et al., Archaic Cuneiform Numbers.
+	Unicode data for these signs is based on the draft proposal and may be subject to change.
 
 @inote	@images 00etc/im-lak-svg.tab
 @inote	@images 00etc/im-lak-a-z.tab
@@ -11032,7 +11042,7 @@
 @form F₈@t
 @oid	o0038163
 @v	1/6(diš)
-@inote	This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study
+@inote	This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study; compare U+12463
 @v	1/2(iku@t)
 @@
 @end sign
