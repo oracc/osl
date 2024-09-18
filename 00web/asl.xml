@@ -62,7 +62,7 @@ ASL.</p>
 	signref 	= @sref SIGN-NAME '=&gt;' SIGN-NAME , notes
 	signblock 	= sign , names? , list* , notes? , unicode? ,
 			  value* , system*, formblock* , end
-	sign		= @sign '-'? SIGN-NAME
+	sign		= (@sign | @xsux | @pcun) '-'? SIGN-NAME
 	end		= @end 'sign'
 	names		= aka+ , pname?
 	aka		= @aka SIGN-NAME
@@ -153,10 +153,11 @@ to the corpus.</p>
 
 <esp:sh>Signs</esp:sh>
 
-<p>The bulk of a signlist is a collection of @sign entries.  A sign is
-referenced by a SIGN-NAME which is a modern, conventional labelling of
-the sign usually based on a common reading of the sign, on a
-description of the composition of the sign, or on a LIST-NUM.</p>
+<p>The bulk of a signlist is a collection of @sign entries (for @xsux
+and @pcun see 'Minor Features' below).  A sign is referenced by a
+SIGN-NAME which is a modern, conventional labelling of the sign
+usually based on a common reading of the sign, on a description of the
+composition of the sign, or on a LIST-NUM.</p>
 
 <p>The rules for constructing a SIGN-NAME are given in the <esp:link
 url="https://build-oracc.museum.upenn.edu/ns/gdl/1.0/">GDL
@@ -454,6 +455,20 @@ experienced by readers.</p>
   @merge IM
   @end sign
 </pre>
+
+<h4>Using Signs from Other Writing Systems</h4>
+
+<p>A signlist is generally defined for a specific writing system,
+either Proto-Cuneiform (ISO 15924 Pcun, 019) or Sumero-Akkadian
+Cuneiform (ISO 15924 Xsux, 020).  Two tags are provided that allow
+inclusion of signs from the other system: @pcun ... @end pcun and
+@xsux ... @end xsux.</p>
+
+<p>Both tags behave like the @sign tag and are defined to have the
+same content. Not that the Oracc signlist tool, sx, does not do any
+actual importation of data--any data that should be accessible to
+products derived from the signlist should be included in the
+@pcun/@xsux blocks.</p>
 
 </body></html>
 </esp:page>

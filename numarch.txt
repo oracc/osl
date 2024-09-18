@@ -12,6 +12,10 @@ OIDs are unique across all domains, but OID::NAME correspondences are
 unique only within domains: this means that sl A and pc A can have
 different OIDs but the same name.
 
+[[OSL/PCSL/OID should move to use Xsux instead of sl and Pcun instead
+of pc but that will take some work; for now sl can be understood as an
+alias for Xsux, and pc as an alias for Pcun]]
+
 Temporally, PCSL covers signs from Archaic Uruk periods; OSL covers
 Early Dynastic onward.  For ideographic signs, Unicode follows this
 division (or vice-versa), with PC signs encoded separately from later
@@ -62,19 +66,19 @@ PCSL and OSL will list the ACN number-signs as follows:
      with mutually referential @sys entries, e.g.:
 
      @sign 1(N01)
-     @sys OSL 1(AŠ@c)
+     @sys xsux 1(AŠ@c)
 
      ...
 
      @sign 1(AŠ@c)
-     @sys PCSL 1(N01)
+     @sys pcun 1(N01)
 
      For PCSL signs that have no ED+ counterpart, e.g., the @f
-     sequence, ASL will use a new tag, @pcsl, to indicate that the
+     sequence, ASL will use a new tag, @pcun, to indicate that the
      sign name belongs to the pc domain but should be included in sl
      validation data:
 
-     @pcsl 1(N01@f)
+     @pcun 1(N01@f)
      ...unicode data ...
-     @end pcsl
+     @end pcun
 
