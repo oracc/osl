@@ -66,6 +66,10 @@ while (($sf,$end) = get_sign_or_form($sf)) {
     ++$end unless $o[$end] =~ /^\@form/;
 }
 
+foreach my $k (sort keys %data) {
+    warn "never found $k\n" unless $seen{$k};
+}
+
 print_osl();
 
 #######################################################################

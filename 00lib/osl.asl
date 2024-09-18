@@ -10952,11 +10952,6 @@
 @form 2(DIŠ@c)
 @oid	o0223390
 @inote	ED3a variant of NIGIDAMIN@c
-@sys pcun 2(N08)
-@list U+1255A
-@uname CUNEIFORM NUMERIC SIGN TWO N08
-@uage ACN
-@ucun 𒕚
 @@
 @end sign
 
@@ -10976,21 +10971,11 @@
 @oid	o0223358
 @list	RSP033
 @v	1/8(iku@c)
-@sys acn 1/8(IKU@c)
-@list U+12587
-@uname CUNEIFORM NUMERIC SIGN ONE EIGHTH IKU CURVED
-@uage ACN
-@ucun 𒖇
 @@
 @form F₃@c@v
 @oid	o0038149
 @v	1/8(iku@c@v)
 @inote	This form can be described as |1(DIŠ@c)&1(U@c)|
-@sys acn 1/8(IKU@c@v)
-@list U+12588
-@uname CUNEIFORM NUMERIC SIGN ONE EIGHTH IKU CURVED VARIANT FORM
-@uage ACN
-@ucun 𒖈
 @@
 @end sign
 
@@ -11014,11 +10999,6 @@
 @oid	o0038146
 @v	1/4(iku@c@v)
 @inote	This variant can be described as |1(AŠ@c)×1(AŠ)|
-@sys acn 1/4(IKU@c@v)
-@list U+1258A
-@uname CUNEIFORM NUMERIC SIGN ONE QUARTER IKU CURVED VARIANT FORM
-@uage ACN
-@ucun 𒖊
 @@
 @end sign
 
@@ -11059,11 +11039,6 @@
 @v	1/2(barig@c)
 @inote	This form can be described as |1(DIŠ@c)×1(DIŠ)|
 @v	1/2(iku@c@v)
-@sys acn 1/2(IKU@c@v)
-@list U+1258B
-@uname CUNEIFORM NUMERIC SIGN ONE HALF IKU CURVED VARIANT FORM
-@uage ACN
-@ucun 𒖋
 @form F₈@t
 @oid	o0038163
 @v	1/6(diš)
@@ -18648,11 +18623,6 @@
 @form 9(DIŠ@c)
 @oid	o0223453
 @v	9(diš@c)
-@sys pcun 9(N08)
-@list U+12561
-@uname CUNEIFORM NUMERIC SIGN NINE N08
-@uage ACN
-@ucun 𒕡
 @@
 @end sign
 
@@ -29879,11 +29849,6 @@
 @inote	@ucode	xebc3
 @v	2(aš@c@90)
 @v	2(diš@c)
-@sys pcun 2(N08)
-@list U+1255A
-@uname CUNEIFORM NUMERIC SIGN TWO N08
-@uage ACN
-@ucun 𒕚
 @@
 @end sign
 
@@ -32678,11 +32643,6 @@
 @inote	@ucode	xebce
 @v	1/3(aš@c@v)
 @inote	1/3(aš@c@v) is a CDLI transliteration
-@sys acn |NINDA₂×(ŠE.AŠ@c)|
-@list U+12598
-@uname CUNEIFORM NUMERIC SIGN NINDA2 TIMES SHE PLUS ONE ASH CURVED
-@uage ACN
-@ucun 𒖘
 @@
 @end sign
 
@@ -32715,11 +32675,6 @@
 @inote	@ucode	xebcf
 @v	2/3(aš@c@v)
 @inote	2/3(aš@c@v) is a CDLI transliteration
-@sys acn |NINDA₂×(ŠE.AŠ@c.AŠ@c)|
-@list U+12599
-@uname CUNEIFORM NUMERIC SIGN NINDA2 TIMES SHE PLUS TWO ASH CURVED
-@uage ACN
-@ucun 𒖙
 @@
 @end sign
 
@@ -43918,11 +43873,6 @@
 @inote	@ucode	xeb8c
 @v	2(bur₃@c)
 @v	2(u@c)
-@sys pcun 2(N14)
-@list U+12563
-@uname CUNEIFORM NUMERIC SIGN TWO N14
-@uage ACN
-@ucun 𒕣
 @@
 @end sign
 
@@ -43976,11 +43926,6 @@
 @v	3(bur₃@c)
 @v	1(eše@c)
 @v	3(u@c)
-@sys pcun 3(N14)
-@list U+12564
-@uname CUNEIFORM NUMERIC SIGN THREE N14
-@uage ACN
-@ucun 𒕤
 @@
 @form 3(U@c)@v
 @oid	o0223407
@@ -44188,11 +44133,6 @@
 @inote	this is the new OGSL name for U@c×KASKAL
 @v	burʾu@c
 @v	1(burʾu@c)
-@sys acn 1(BURU@c)
-@list U+1258E
-@uname CUNEIFORM NUMERIC SIGN ONE BURU CURVED
-@uage ACN
-@ucun 𒖎
 @@
 @end sign
 
@@ -48595,44 +48535,24 @@
 @oid	o0038105
 @v	2(gešmin@c)
 @v	2(ŋešmin@c)
-@sys pcun 2(N51)
-@list U+1259B
-@uname CUNEIFORM NUMERIC SIGN TWO N51
-@uage ACN
-@ucun 𒖛
 @end sign
 
 @sign 3(GEŠMIN@c)
 @oid	o0038107
 @v	3(gešmin@c)
 @v	3(ŋešmin@c)
-@sys pcun 3(N51)
-@list U+1259C
-@uname CUNEIFORM NUMERIC SIGN THREE N51
-@uage ACN
-@ucun 𒖜
 @end sign
 
 @sign 4(GEŠMIN@c)
 @oid	o0038109
 @v	4(gešmin@c)
 @v	4(ŋešmin@c)
-@sys pcun 4(N51)
-@list U+1259D
-@uname CUNEIFORM NUMERIC SIGN FOUR N51
-@uage ACN
-@ucun 𒖝
 @end sign
 
 @sign 5(GEŠMIN@c)
 @oid	o0038111
 @v	5(gešmin@c)
 @v	5(ŋešmin@c)
-@sys pcun 5(N51)
-@list U+1259E
-@uname CUNEIFORM NUMERIC SIGN FIVE N51
-@uage ACN
-@ucun 𒖞
 @end sign
 
 @sign 6(GEŠMIN@c)
@@ -48640,22 +48560,12 @@
 @v	6(gešmin@c)
 @v	6(ŋešmin@c)
 @note	This sign is so far unattested but PC 6(N51) is.
-@sys pcun 6(N51)
-@list U+1259F
-@uname CUNEIFORM NUMERIC SIGN SIX N51
-@uage ACN
-@ucun 𒖟
 @end sign
 
 @sign 7(GEŠMIN@c)
 @oid	o0038113
 @v	7(gešmin@c)
 @v	7(ŋešmin@c)
-@sys pcun 7(N51)
-@list U+125A0
-@uname CUNEIFORM NUMERIC SIGN SEVEN N51
-@uage ACN
-@ucun 𒖠
 @end sign
 
 @sign 3(ŠARU@v)
@@ -48720,11 +48630,6 @@
 @inote	@ucode	xebc7
 @v	eše₃@c
 @v	1(eše₃@c)
-@sys pcun 1(N22)
-@list U+1258C
-@uname CUNEIFORM NUMERIC SIGN ONE N22
-@uage ACN
-@ucun 𒖌
 @@
 @end sign
 
@@ -48742,11 +48647,6 @@
 @oid	o0223391
 @inote	@ucode	xebc8
 @v	2(eše₃@c)
-@sys pcun 2(N22)
-@list U+1258D
-@uname CUNEIFORM NUMERIC SIGN TWO N22
-@uage ACN
-@ucun 𒖍
 @@
 @end sign
 
@@ -48768,11 +48668,6 @@
 @oid	o0223395
 @inote	@ucode	xeba8
 @v	2(šar₂@c)
-@sys pcun 2(N45)
-@list U+1257A
-@uname CUNEIFORM NUMERIC SIGN TWO N45
-@uage ACN
-@ucun 𒕺
 @@
 @end sign
 
@@ -48789,11 +48684,6 @@
 @oid	o0223409
 @inote	@ucode	xeba9
 @v	3(šar₂@c)
-@sys pcun 3(N45)
-@list U+1257B
-@uname CUNEIFORM NUMERIC SIGN THREE N45
-@uage ACN
-@ucun 𒕻
 @@
 @end sign
 
@@ -48825,11 +48715,6 @@
 @oid	o0223422
 @inote	@ucode	xebab
 @v	4(šar₂@c)
-@sys pcun 4(N45)
-@list U+1257C
-@uname CUNEIFORM NUMERIC SIGN FOUR N45
-@uage ACN
-@ucun 𒕼
 @@
 @end sign
 
@@ -48846,11 +48731,6 @@
 @oid	o0223430
 @inote	@ucode	xebac
 @v	5(šar₂@c)
-@sys pcun 5(N45)
-@list U+1257D
-@uname CUNEIFORM NUMERIC SIGN FIVE N45
-@uage ACN
-@ucun 𒕽
 @@
 @end sign
 
@@ -48867,11 +48747,6 @@
 @oid	o0223437
 @inote	@ucode	xebad
 @v	6(šar₂@c)
-@sys pcun 6(N45)
-@list U+1257E
-@uname CUNEIFORM NUMERIC SIGN SIX N45
-@uage ACN
-@ucun 𒕾
 @@
 @end sign
 
@@ -48888,11 +48763,6 @@
 @oid	o0223445
 @inote	@ucode	xebae
 @v	7(šar₂@c)
-@sys pcun 7(N45)
-@list U+1257F
-@uname CUNEIFORM NUMERIC SIGN SEVEN N45
-@uage ACN
-@ucun 𒕿
 @@
 @end sign
 
@@ -48909,11 +48779,6 @@
 @oid	o0223450
 @inote	@ucode	xebaf
 @v	8(šar₂@c)
-@sys pcun 8(N45)
-@list U+12580
-@uname CUNEIFORM NUMERIC SIGN EIGHT N45
-@uage ACN
-@ucun 𒖀
 @@
 @end sign
 
@@ -48931,11 +48796,6 @@
 @oid	o0223460
 @inote	@ucode	xebb0
 @v	9(šar₂@c)
-@sys pcun 9(N45)
-@list U+12581
-@uname CUNEIFORM NUMERIC SIGN NINE N45
-@uage ACN
-@ucun 𒖁
 @@
 @end sign
 
@@ -48952,11 +48812,6 @@
 @oid	o0223375
 @inote	@ucode	xebb8
 @v	2(burʾu@c)
-@sys acn 2(BURU@c)
-@list U+1258F
-@uname CUNEIFORM NUMERIC SIGN TWO BURU CURVED
-@uage ACN
-@ucun 𒖏
 @@
 @end sign
 
@@ -48973,11 +48828,6 @@
 @oid	o0223377
 @inote	@ucode	xebb9
 @v	3(burʾu@c)
-@sys acn 3(BURU@c)
-@list U+12590
-@uname CUNEIFORM NUMERIC SIGN THREE BURU CURVED
-@uage ACN
-@ucun 𒖐
 @@
 @end sign
 
@@ -48994,11 +48844,6 @@
 @oid	o0223380
 @inote	@ucode	xebbb
 @v	4(burʾu@c)
-@sys acn 4(BURU@c)
-@list U+12591
-@uname CUNEIFORM NUMERIC SIGN FOUR BURU CURVED
-@uage ACN
-@ucun 𒖑
 @@
 @end sign
 
@@ -49016,11 +48861,6 @@
 @oid	o0223382
 @inote	@ucode	xebbc
 @v	5(burʾu@c)
-@sys acn 5(BURU@c)
-@list U+12592
-@uname CUNEIFORM NUMERIC SIGN FIVE BURU CURVED
-@uage ACN
-@ucun 𒖒
 @@
 @end sign
 
@@ -49316,11 +49156,6 @@
 @oid	o0223393
 @inote	@ucode	xeb97
 @v	2(geš₂@c)
-@sys pcun 2(N34)
-@list U+1256C
-@uname CUNEIFORM NUMERIC SIGN TWO N34
-@uage ACN
-@ucun 𒕬
 @@
 @form 2(GEŠ₂@t)
 @oid	o0038151
@@ -49341,11 +49176,6 @@
 @oid	o0223404
 @inote	@ucode	xeb98
 @v	3(geš₂@c)
-@sys pcun 3(N34)
-@list U+1256D
-@uname CUNEIFORM NUMERIC SIGN THREE N34
-@uage ACN
-@ucun 𒕭
 @@
 @form 3(GEŠ₂@c)@v
 @oid	o0223405
@@ -49375,11 +49205,6 @@
 @oid	o0223418
 @inote	@ucode	xeb9a
 @v	4(geš₂@c)
-@sys pcun 4(N34)
-@list U+1256E
-@uname CUNEIFORM NUMERIC SIGN FOUR N34
-@uage ACN
-@ucun 𒕮
 @@
 @form 4(GEŠ₂@c)@v
 @oid	o0223419
@@ -49409,11 +49234,6 @@
 @oid	o0223428
 @inote	@ucode	xeb9c
 @v	5(geš₂@c)
-@sys pcun 5(N34)
-@list U+1256F
-@uname CUNEIFORM NUMERIC SIGN FIVE N34
-@uage ACN
-@ucun 𒕯
 @@
 @form 5(GEŠ₂@t)
 @oid	o0038157
@@ -49434,11 +49254,6 @@
 @oid	o0223435
 @inote	@ucode	xeb9d
 @v	6(geš₂@c)
-@sys pcun 6(N34)
-@list U+12570
-@uname CUNEIFORM NUMERIC SIGN SIX N34
-@uage ACN
-@ucun 𒕰
 @@
 @form 6(GEŠ₂@t)
 @oid	o0038159
@@ -49459,11 +49274,6 @@
 @oid	o0223443
 @inote	@ucode	xeb9e
 @v	7(geš₂@c)
-@sys pcun 7(N34)
-@list U+12571
-@uname CUNEIFORM NUMERIC SIGN SEVEN N34
-@uage ACN
-@ucun 𒕱
 @@
 @form 7(GEŠ₂@t)
 @oid	o0038161
@@ -49484,11 +49294,6 @@
 @oid	o0223448
 @inote	@ucode	xeb9f
 @v	8(geš₂@c)
-@sys pcun 8(N34)
-@list U+12572
-@uname CUNEIFORM NUMERIC SIGN EIGHT N34
-@uage ACN
-@ucun 𒕲
 @@
 @end sign
 
@@ -49505,11 +49310,6 @@
 @oid	o0223458
 @inote	@ucode	xeba0
 @v	9(geš₂@c)
-@sys pcun 9(N34)
-@list U+12573
-@uname CUNEIFORM NUMERIC SIGN NINE N34
-@uage ACN
-@ucun 𒕳
 @@
 @end sign
 
@@ -49610,11 +49410,6 @@
 @inote	@ucode	xebc4
 @v	3(aš@c@90)
 @v	3(diš@c)
-@sys pcun 3(N08)
-@list U+1255B
-@uname CUNEIFORM NUMERIC SIGN THREE N08
-@uage ACN
-@ucun 𒕛
 @@
 @form 3(DIŠ@c)@v
 @oid	o0223401
@@ -49646,11 +49441,6 @@
 @v	4(barig@c)
 @v	4(bariga@c)
 @v	4(diš@c)
-@sys pcun 4(N08)
-@list U+1255C
-@uname CUNEIFORM NUMERIC SIGN FOUR N08
-@uage ACN
-@ucun 𒕜
 @@
 @end sign
 
@@ -49674,11 +49464,6 @@
 @v	5(aš@c@90)
 @v	5(barig@c)
 @v	5(diš@c)
-@sys pcun 5(N08)
-@list U+1255D
-@uname CUNEIFORM NUMERIC SIGN FIVE N08
-@uage ACN
-@ucun 𒕝
 @@
 @end sign
 
@@ -49707,11 +49492,6 @@
 @v	6(aš@c@90)
 @v	6(barig@c)
 @v	6(diš@c)
-@sys pcun 6(N08)
-@list U+1255E
-@uname CUNEIFORM NUMERIC SIGN SIX N08
-@uage ACN
-@ucun 𒕞
 @@
 @end sign
 
@@ -49729,11 +49509,6 @@
 @v	7(aš@c@90)
 @v	7(barig@c)
 @v	7(diš@c)
-@sys pcun 7(N08)
-@list U+1255F
-@uname CUNEIFORM NUMERIC SIGN SEVEN N08
-@uage ACN
-@ucun 𒕟
 @@
 @form 7(DIŠ@t)
 @oid	o0038129
@@ -49807,11 +49582,6 @@
 @form 8(DIŠ@c)
 @oid	o0223447
 @v	8(diš@c)
-@sys pcun 8(N08)
-@list U+12560
-@uname CUNEIFORM NUMERIC SIGN EIGHT N08
-@uage ACN
-@ucun 𒕠
 @@
 @form 8(DIŠ@t)
 @oid	o0038127
@@ -49979,11 +49749,6 @@
 @inote	@ucode	xeb81
 @v	2(aš@c)
 @v	2(iku@c)
-@sys pcun 2(N01)
-@list U+12551
-@uname CUNEIFORM NUMERIC SIGN TWO N01
-@uage ACN
-@ucun 𒕑
 @@
 @end sign
 
@@ -50005,11 +49770,6 @@
 @inote	@ucode	xeb82
 @v	3(aš@c)
 @v	3(iku@c)
-@sys pcun 3(N01)
-@list U+12552
-@uname CUNEIFORM NUMERIC SIGN THREE N01
-@uage ACN
-@ucun 𒕒
 @@
 @end sign
 
@@ -50028,11 +49788,6 @@
 @inote	@ucode	xeb84
 @v	4(aš@c)
 @v	4(iku@c)
-@sys pcun 4(N01)
-@list U+12553
-@uname CUNEIFORM NUMERIC SIGN FOUR N01
-@uage ACN
-@ucun 𒕓
 @@
 @end sign
 
@@ -50052,11 +49807,6 @@
 @inote	@ucode	xeb86
 @v	5(aš@c)
 @v	5(iku@c)
-@sys pcun 5(N01)
-@list U+12554
-@uname CUNEIFORM NUMERIC SIGN FIVE N01
-@uage ACN
-@ucun 𒕔
 @@
 @end sign
 
@@ -50076,11 +49826,6 @@
 @inote	@ucode	xeb87
 @v	6(aš@c)
 @v	6(iku@c)
-@sys pcun 6(N01)
-@list U+12555
-@uname CUNEIFORM NUMERIC SIGN SIX N01
-@uage ACN
-@ucun 𒕕
 @@
 @end sign
 
@@ -50100,11 +49845,6 @@
 @inote	@ucode	xeb88
 @v	7(aš@c)
 @v	7(iku@c)
-@sys pcun 7(N01)
-@list U+12556
-@uname CUNEIFORM NUMERIC SIGN SEVEN N01
-@uage ACN
-@ucun 𒕖
 @@
 @end sign
 
@@ -50122,11 +49862,6 @@
 @oid	o0223446
 @inote	@ucode	xeb89
 @v	8(aš@c)
-@sys pcun 8(N01)
-@list U+12557
-@uname CUNEIFORM NUMERIC SIGN EIGHT N01
-@uage ACN
-@ucun 𒕗
 @@
 @end sign
 
@@ -50144,11 +49879,6 @@
 @oid	o0223451
 @inote	@ucode	xeb8a
 @v	9(aš@c)
-@sys pcun 9(N01)
-@list U+12558
-@uname CUNEIFORM NUMERIC SIGN NINE N01
-@uage ACN
-@ucun 𒕘
 @@
 @form 9(AŠ@c@90)
 @oid	o0223452
@@ -50377,11 +50107,6 @@
 @inote	@ucode	xebbd
 @v	ban₂@c
 @v	1(ban₂@c)
-@sys acn 1(BAN₂@c)
-@list U+12593
-@uname CUNEIFORM NUMERIC SIGN ONE BAN2 CURVED
-@uage ACN
-@ucun 𒖓
 @@
 @end sign
 
@@ -50405,11 +50130,6 @@
 @list	RSP036bis
 @inote	@ucode	xebbe
 @v	2(ban₂@c)
-@sys acn 2(BAN₂@c)
-@list U+12594
-@uname CUNEIFORM NUMERIC SIGN TWO BAN2 CURVED
-@uage ACN
-@ucun 𒖔
 @@
 @end sign
 
@@ -50429,11 +50149,6 @@
 @list	RSP036bis
 @inote	@ucode	xebbf
 @v	3(ban₂@c)
-@sys acn 3(BAN₂@c)
-@list U+12595
-@uname CUNEIFORM NUMERIC SIGN THREE BAN2 CURVED
-@uage ACN
-@ucun 𒖕
 @@
 @form 3(BAN₂@c)@v
 @oid	o0223399
@@ -50457,11 +50172,6 @@
 @list	RSP036bis
 @inote	@ucode	xebc0
 @v	4(ban₂@c)
-@sys acn 4(BAN₂@c)
-@list U+12596
-@uname CUNEIFORM NUMERIC SIGN FOUR BAN2 CURVED
-@uage ACN
-@ucun 𒖖
 @@
 @end sign
 
@@ -50481,11 +50191,6 @@
 @list	RSP036bis
 @inote	@ucode	xebc1
 @v	5(ban₂@c)
-@sys acn 5(BAN₂@c)
-@list U+12597
-@uname CUNEIFORM NUMERIC SIGN FIVE BAN2 CURVED
-@uage ACN
-@ucun 𒖗
 @@
 @end sign
 
@@ -50515,11 +50220,6 @@
 @inote	@ucode	xeb8f
 @v	4(bur₃@c)
 @v	4(u@c)
-@sys pcun 4(N14)
-@list U+12565
-@uname CUNEIFORM NUMERIC SIGN FOUR N14
-@uage ACN
-@ucun 𒕥
 @@
 @form 4(U@c)@v
 @oid	o0223421
@@ -50573,11 +50273,6 @@
 @inote	@ucode	xeb91
 @v	5(bur₃@c)
 @v	5(u@c)
-@sys pcun 5(N14)
-@list U+12566
-@uname CUNEIFORM NUMERIC SIGN FIVE N14
-@uage ACN
-@ucun 𒕦
 @@
 @end sign
 
@@ -50615,11 +50310,6 @@
 @inote	@ucode	xeb92
 @v	6(bur₃@c)
 @v	6(u@c)
-@sys pcun 6(N14)
-@list U+12567
-@uname CUNEIFORM NUMERIC SIGN SIX N14
-@uage ACN
-@ucun 𒕧
 @@
 @end sign
 
@@ -50648,11 +50338,6 @@
 @inote	@ucode	xeb93
 @v	7(bur₃@c)
 @v	7(u@c)
-@sys pcun 7(N14)
-@list U+12568
-@uname CUNEIFORM NUMERIC SIGN SEVEN N14
-@uage ACN
-@ucun 𒕨
 @@
 @end sign
 
@@ -50681,11 +50366,6 @@
 @inote	@ucode	xeb94
 @v	8(bur₃@c)
 @v	8(u@c)
-@sys pcun 8(N14)
-@list U+12569
-@uname CUNEIFORM NUMERIC SIGN EIGHT N14
-@uage ACN
-@ucun 𒕩
 @@
 @end sign
 
@@ -50714,11 +50394,6 @@
 @inote	@ucode	xeb95
 @v	9(bur₃@c)
 @v	9(u@c)
-@sys pcun 9(N14)
-@list U+1256A
-@uname CUNEIFORM NUMERIC SIGN NINE N14
-@uage ACN
-@ucun 𒕪
 @@
 @end sign
 
