@@ -11077,6 +11077,7 @@
 @sign F₈
 @oid	o0038147
 @v	1/2(barig@c)
+@v	1/2(bariga@c)
 @inote	This form can be described as |1(DIŠ@c)×1(DIŠ)|
 @v	1/2(iku@c@v)
 @sys acn 1/2(IKU@c@v)
@@ -13941,6 +13942,7 @@
 @oid	o0000621
 @aka	|(AŠ&AŠ@180)×U|
 @inote	ed3a number; 2024-07-28 move to GEŠMINU@c as conventional sign name
+@v	gešminu@c
 @v	gešminʾu@c
 @v	1(gešminʾu@c)
 @v	1(ŋešminʾu@c)
@@ -14021,6 +14023,7 @@
 	indistinct or missing 10 (as on P217632, essentially |AŠ×KASKAL|;
 	identification as gešʾu@v based on sequence).
 	Signs 1..7(GEŠU@c×KASKAL) are defined here but 5(GEŠU@c×KASKAL) is so far unattested.
+@v	gešu@v
 @v	1(gešʾu@v)
 @v	1(ŋešʾu@v)
 @inote	Attested
@@ -44014,7 +44017,8 @@
 @inote	@ucode	xeb8d
 @v	eše@c
 @v	3(bur₃@c)
-@v	1(eše@c)
+@v-	1(eše@c)
+@inote this is deprecated unless it turns out not to be a typo for 1(eše₃)@c
 @v	3(u@c)
 @sys pcun 3(N14)
 @list U+12564
@@ -49791,6 +49795,7 @@
 @oid	o0223426
 @v	5(aš@c@90)
 @v	5(barig@c)
+@v	5(bariga@c)
 @v	5(diš@c)
 @sys pcun 5(N08)
 @list U+1255D
@@ -49824,6 +49829,7 @@
 @oid	o0223434
 @v	6(aš@c@90)
 @v	6(barig@c)
+@v	6(bariga@c)
 @v	6(diš@c)
 @sys pcun 6(N08)
 @list U+1255E
@@ -49846,6 +49852,7 @@
 @oid	o0223440
 @v	7(aš@c@90)
 @v	7(barig@c)
+@v	7(bariga@c)
 @v	7(diš@c)
 @sys pcun 7(N08)
 @list U+1255F
