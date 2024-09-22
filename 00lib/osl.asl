@@ -27571,7 +27571,8 @@
 @v	limmu
 @v	limu
 @v	4(diš)@v
-@v	4(diš@c)@v
+@v-	4(diš@c)@v
+@inote nonsense duplicate@c
 @link	eBL LIMMU https://www.ebl.lmu.de/signs/LIMMU
 @link	Wikidata Q87556965 http://www.wikidata.org/entity/Q87556965
 @end sign
@@ -27584,7 +27585,8 @@
 @uage	5.0
 @v	limmuₓ
 @v	4(diš@v)
-@v	4(diš@v@c)
+@v-	4(diš@v@c)
+@inote nonsense duplicate@c
 @link	eBL LIMMU~a https://www.ebl.lmu.de/signs/LIMMU~a
 @link	Wikidata Q87556970 http://www.wikidata.org/entity/Q87556970
 @end sign
@@ -49716,7 +49718,8 @@
 @v	3(aš@c@90)
 @v	3(diš@c)
 @@
-@form 3(DIŠ@c)@v
+@form- 3(DIŠ@c)@v
+@inote doubtful that this exists
 @oid	o0223401
 @inote	@ucode	xebc5
 @v	3(diš@c)@v
@@ -49857,7 +49860,8 @@
 @v	iminₓ
 @v	7(diš)@v
 @link	Wikidata Q87556980 http://www.wikidata.org/entity/Q87556980
-@form 7(DIŠ@c)@v
+@form- 7(DIŠ@c)@v
+@inote doubtful that this exists
 @oid	o0223441
 @v	7(diš@c)@v
 @@
@@ -49873,7 +49877,8 @@
 @v	iminₓ
 @v	7(diš)@v~b
 @link	Wikidata Q87556982 http://www.wikidata.org/entity/Q87556982
-@form 7(DIŠ@c)@v~b
+@form- 7(DIŠ@c)@v~b
+@inote doubtful that this exists
 @oid	o0223442
 @v	7(diš@c)@v~b
 @@
@@ -49961,7 +49966,8 @@
 @v	9(aš@v)
 @v	9(aš@v@c)
 @@
-@form 9(DIŠ@c)@v~a
+@form- 9(DIŠ@c)@v~a
+@inote doubtful that this exists
 @oid	o0223455
 @v	9(diš@c)@v~a
 @@
@@ -49977,7 +49983,8 @@
 @uage	5.0
 @v	9(diš)@v
 @link	Wikidata Q87556993 http://www.wikidata.org/entity/Q87556993
-@form 9(DIŠ@c)@v
+@form- 9(DIŠ@c)@v
+@inote doubtful that this exists
 @oid	o0223454
 @v	ilimmu₄
 @v	9(diš@c)@v
