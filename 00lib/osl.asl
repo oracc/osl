@@ -50270,7 +50270,8 @@
 @v	limmu₄
 @v	4(aš@v)
 @link	Wikidata Q87556968 http://www.wikidata.org/entity/Q87556968
-@form 4(AŠ@c)@v
+@form- 4(AŠ@c)@v
+@inote Removed until proved attested.
 @oid	o0223412
 @inote	@ucode	xeb85
 @v	4(aš@v@c)
@@ -50288,7 +50289,8 @@
 @uage	5.0
 @v	6(aš@v)
 @link	Wikidata Q87556974 http://www.wikidata.org/entity/Q87556974
-@form 6(AŠ@c)@v
+@form- 6(AŠ@c)@v
+@inote Removed until proved attested.
 @oid	o0223433
 @v	aš₉
 @v	6(aš@v@c)
@@ -50305,7 +50307,8 @@
 @uage	5.0
 @v	7(aš@v)
 @link	Wikidata Q87556978 http://www.wikidata.org/entity/Q87556978
-@form 7(AŠ@c)@v
+@form- 7(AŠ@c)@v
+@inote Removed until proved attested.
 @oid	o0223439
 @v	imin₃
 @v	7(aš@v@c)
@@ -50323,7 +50326,8 @@
 @uage	5.0
 @v	3(aš)@v
 @link	Wikidata Q87556963 http://www.wikidata.org/entity/Q87556963
-@form 3(AŠ@c)@v
+@form- 3(AŠ@c)@v
+@inote Removed until proved attested.
 @oid	o0223397
 @inote	@ucode	xeb83
 @v	eš₂₁
