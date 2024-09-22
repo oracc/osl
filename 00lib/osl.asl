@@ -4210,36 +4210,23 @@
 @end sign
 
 @sign AŠ@t
-@oid	o0223363
-@list	ELLES104
-@list	GCSL188a
-@list	LAK178
-@v	aš@t
-@v	uzaraₓ
-@inote	For sign form LAK178 LAK notes passim in FARA for later U and later for AŠ, DIŠ, or U.
-@v	1(aš@t)
-@form 1(AŠ@t@c)
-@oid	o0223351
-@list	RSP035
-@v	1(aš@t@c)
-@v	1/2(iku@c)
-@@
-@end sign
-
-@sign AŠ@z
+@aka AŠ@z
+@inote Moving aš@t value, etc., to sign AŠ@t was a mistake; AŠ@t and AŠ@z unified.
 @oid	o0000108
 @aka	GE₂₃
+@list	ELLES104
+@list	GCSL188a
 @list	KWU333
+@list	LAK178
 @list	MZL575
 @list	SLLHA360
 @note	This sign is variously described as AŠ-tenû (MSL) or DIŠ-tenû (MZL 575) in the literature. AŠ sign with head to the left, sloping down to the right.
-@inote	Moved to AŠ@t
-@inote	@v	1(aš@t)
-@inote	@v	aš@t
 @uname	CUNEIFORM SIGN ASH ZIDA TENU
 @list	U+12039
 @ucun	𒀹
 @uage	5.0
+@v	1(aš@t)
+@inote	For sign form LAK178 LAK notes passim in FARA for later U and later for AŠ, DIŠ, or U.
 @v	aš₁₁
 @v	del₄
 @v	dele₄
@@ -4261,9 +4248,16 @@
 @v	upaₓ
 @v	upuₓ
 @v	uzaglal
+@v	uzaraₓ
 @v	1/2(iku)
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
 @link	Wikidata Q87555112 http://www.wikidata.org/entity/Q87555112
+@form 1(AŠ@t@c)
+@oid	o0223351
+@list	RSP035
+@v	1(aš@t@c)
+@v	1/2(iku@c)
+@@
 @end sign
 
 @sign AŠ₂
@@ -10972,11 +10966,6 @@
 @form 2(DIŠ@c)
 @oid	o0223390
 @inote	ED3a variant of NIGIDAMIN@c
-@sys pcun 2(N08)
-@list U+1255A
-@uname CUNEIFORM NUMERIC SIGN TWO N08
-@uage ACN
-@ucun 𒕚
 @@
 @end sign
 
@@ -29479,17 +29468,6 @@
 @v	maš
 @ref	SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t
 @@
-@form 1/2(DIŠ@c)
-@oid	o0223387
-@list	LAK838
-@list	RSP036
-@inote	@ucode	xebca
-@v	1/2(aš@c)
-@inote	I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
-@v	1/2(diš@c)
-@v	1/4(diš@c)
-@inote	This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP/036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this.
-@@
 @end sign
 
 @sign |MAŠ.EN|
@@ -29912,12 +29890,6 @@
 @inote	@ucode	xebc3
 @v	2(aš@c@90)
 @v	2(diš@c)
-@sys pcun 2(N08)
-@list U+1255A
-@uname CUNEIFORM NUMERIC SIGN TWO N08
-@uage ACN
-@ucun 𒕚
-@@
 @end sign
 
 @sign |MIN.MIN|
@@ -32116,6 +32088,11 @@
 @inote	as 3/4 gur
 @v	3(barig@c)
 @v	3(bariga@c)
+@sys pcun 3(N08)
+@list U+1255B
+@uname CUNEIFORM NUMERIC SIGN THREE N08
+@uage ACN
+@ucun 𒕛
 @@
 @end sign
 
@@ -32142,6 +32119,11 @@
 @inote	CDLI as 1/2 gur written 2(barig@c)--is this really necessary?
 @v	2(barig@c)
 @v	2(bariga@c)
+@sys pcun 2(N08)
+@list U+1255A
+@uname CUNEIFORM NUMERIC SIGN TWO N08
+@uage ACN
+@ucun 𒕚
 @@
 @end sign
 
@@ -49732,11 +49714,6 @@
 @inote	@ucode	xebc4
 @v	3(aš@c@90)
 @v	3(diš@c)
-@sys pcun 3(N08)
-@list U+1255B
-@uname CUNEIFORM NUMERIC SIGN THREE N08
-@uage ACN
-@ucun 𒕛
 @@
 @form 3(DIŠ@c)@v
 @oid	o0223401
@@ -50523,10 +50500,17 @@
 @@
 @form 1(BAN₂@c)
 @oid	o0223385
+@list	LAK838
+@list	RSP036
 @list	RSP036bis
-@inote	@ucode	xebbd
+@inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
 @v	ban₂@c
 @v	1(ban₂@c)
+@v	1/2(aš@c)
+@inote	I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
+@v	1/2(diš@c)
+@v	1/4(diš@c)
+@inote	This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this.
 @sys acn 1(BAN₂@c)
 @list U+12593
 @uname CUNEIFORM NUMERIC SIGN ONE BAN2 CURVED
