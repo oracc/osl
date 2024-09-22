@@ -22737,8 +22737,9 @@
 @v	5/6(diš)
 @link	eBL KINGUSILI https://www.ebl.lmu.de/signs/KINGUSILI
 @link	Wikidata Q87557044 http://www.wikidata.org/entity/Q87557044
-@form 5/6(DIŠ@c)
+@form- 5/6(DIŠ@c)
 @oid	o0223431
+@inote Removed until proved attested.
 @v	5/6(aš@c)
 @v	5/6(diš@c)
 @@
