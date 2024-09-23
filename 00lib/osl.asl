@@ -3980,10 +3980,11 @@
 @oid	o0223462
 @v	aš@c@v
 @@
-@form AŠ@f
+@form- AŠ@f
 @oid	o0223463
 @v	aš@f
 @inote	"flat" aš, mostly Archaic Ur but also at Fara P480579
+@inote Now to be imported from Archaic Cuneiform Numerals, 1(N01@f) etc.
 @@
 @form AŠ@t
 @oid	o0223363
@@ -3994,6 +3995,10 @@
 @oid	o0223464
 @v	aš@v
 @v	1(aš@v)
+@note This transliteration is restricted to P480577 = Fs Krecher 346-347 15 where it is
+      described as a light impression of a geš₂ stylus.  Possibly simply 1(aš@c).
+@v	1(aš@c~a)
+@inote This transliteration is a contrivance to get the sign to appear in the AŠ@c set in OSL
 @@
 @end sign
 
@@ -4101,7 +4106,8 @@
 @v	eš₁₆
 @v	šušur
 @v	3(aš@v)
-@v	3(aš@v@c)
+@v-	3(aš@v@c)
+@inote nonsense duplicate@c
 @link	eBL |AŠ&AŠ&AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ|
 @link	Wikidata Q87555117 http://www.wikidata.org/entity/Q87555117
 @form |AŠ@z&AŠ@z&AŠ@z|
@@ -17627,6 +17633,7 @@
 @uage	5.0
 @v	i
 @v	nat₂
+@v	5(aš@~a)
 @v	5(aš@v)
 @link	eBL I https://www.ebl.lmu.de/signs/I
 @link	Wikidata Q87555628 http://www.wikidata.org/entity/Q87555628
@@ -27600,7 +27607,8 @@
 @v	limmuₓ
 @inote	FIXME: make LIMMU~b a form of LIMMU~a
 @v	4(diš@v)~b
-@v	4(diš@v@c)~b
+@v-	4(diš@v@c)~b
+@inote nonsense duplicate@c
 @link	eBL LIMMU~b https://www.ebl.lmu.de/signs/LIMMU~b
 @link	Wikidata Q87556973 http://www.wikidata.org/entity/Q87556973
 @end sign
@@ -47084,7 +47092,8 @@
 @uage	5.0
 @v	ussu₃
 @v	8(aš@v)
-@v	8(aš@v@c)
+@v-	8(aš@v@c)
+@inote nonsense duplicate@c
 @link	eBL USSU₃ https://www.ebl.lmu.de/signs/USSU₃
 @link	Wikidata Q87556986 http://www.wikidata.org/entity/Q87556986
 @end sign
@@ -49938,7 +49947,8 @@
 @v	ilimmuₓ
 @v	9(diš)~d
 @link	Wikidata Q87556858 http://www.wikidata.org/entity/Q87556858
-@form 9(DIŠ@c)~d
+@form- 9(DIŠ@c)~d
+@inote doubtful that this exists
 @oid	o0223456
 @v	9(diš@c)~d
 @@
@@ -49957,14 +49967,17 @@
 @ucun	𒑇
 @uage	5.0
 @v	ilimmu₃
+@v	9(diš~a)
 @v	9(diš)@v~a
 @link	Wikidata Q87556990 http://www.wikidata.org/entity/Q87556990
-@form ILIMMU3
+@form- ILIMMU3
+@inote removed because this is a duplicate of its parent.
 @oid	o0000251
 @unote	check stacking pattern identity because of duplicate value ilimmu₃
 @v	ilimmu₃
 @v	9(aš@v)
-@v	9(aš@v@c)
+@v-	9(aš@v@c)
+@inote nonsense duplicate@c
 @@
 @form- 9(DIŠ@c)@v~a
 @inote doubtful that this exists
@@ -50002,7 +50015,8 @@
 @v	ilimmuₓ
 @v	9(diš@v)
 @link	Wikidata Q87556995 http://www.wikidata.org/entity/Q87556995
-@form 9(DIŠ@v@c)
+@form- 9(DIŠ@v@c)
+@inote Nonexistent
 @oid	o0223457
 @v	9(diš@v@c)
 @@
