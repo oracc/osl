@@ -27610,6 +27610,7 @@
 @uage	5.0
 @v	limmuₓ
 @v	4(diš@v)
+@v	4(diš)~a
 @v-	4(diš@v@c)
 @inote nonsense duplicate@c
 @link	eBL LIMMU~a https://www.ebl.lmu.de/signs/LIMMU~a
@@ -27625,6 +27626,7 @@
 @v	limmuₓ
 @inote	FIXME: make LIMMU~b a form of LIMMU~a
 @v	4(diš@v)~b
+@v	4(diš)~b
 @v-	4(diš@v@c)~b
 @inote nonsense duplicate@c
 @link	eBL LIMMU~b https://www.ebl.lmu.de/signs/LIMMU~b
@@ -39121,6 +39123,7 @@
 @form ŠANABI@v
 @oid	o0038144
 @v	2/3(diš@v)
+@v	2/3(diš)~a
 @inote	P010528 = OIP 014, 049 o i 3: this variant has a cuneiform frame
 	with a curved central stroke--presumably a hybrid 2/3(diš)
 @@
