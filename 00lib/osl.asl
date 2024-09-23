@@ -3962,6 +3962,7 @@
 @link	Wikidata Q87555110 http://www.wikidata.org/entity/Q87555110
 @form AŠ@c
 @oid	o0221914
+@list	LAK820
 @list	RSP024
 @inote	@ucode	xeb80
 @v	aš@c
@@ -10943,30 +10944,38 @@
 @end sign
 
 @sign F₁
+@aka ŠUŠANA@c
 @oid	o0000181
+@list	LAK817
 @list	RSP009
 @uname	CUNEIFORM NUMERIC SIGN ONE THIRD VARIANT FORM A
 @list	U+1245D
 @ucun	𒑝
 @uage	5.0
+@v	1/3(aš@c@90)
 @v	1/3(aš@c)
 @inote	CDLI in quantities of silver--but 1/3(diš@c) may be better in those contexts
 @v	1/3(diš@c)
+@inote	|ŠU₂.N8| = |ŠU₂.AŠ@c@90| = |ŠU₂.DIŠ@c|
 @link	eBL F₁ https://www.ebl.lmu.de/signs/F₁
 @link	Wikidata Q87557046 http://www.wikidata.org/entity/Q87557046
 @end sign
 
 @sign F₂
+@aka ŠANABI@c
 @oid	o0000182
+@list	LAK818
 @list	RSP010
 @uname	CUNEIFORM NUMERIC SIGN TWO THIRDS VARIANT FORM A
 @list	U+1245E
 @ucun	𒑞
 @uage	5.0
+@v	2/3(aš@c@90)
 @v	2/3(aš@c)
 @v	2/3(diš@c)
 @link	eBL F₂ https://www.ebl.lmu.de/signs/F₂
 @link	Wikidata Q87557048 http://www.wikidata.org/entity/Q87557048
+@inote	ŠU₂.2(N08) = ŠU₂.2(AŠ@c@90) = ŠU₂.2(DIŠ@c)
 @form NIGIDAMIN@c
 @oid	o0223340
 @inote	ED3a abbreviated form of F₂
@@ -18678,6 +18687,7 @@
 @link	Wikidata Q87556989 http://www.wikidata.org/entity/Q87556989
 @form 9(DIŠ@c)
 @oid	o0223453
+@v	9(aš@c@90)
 @v	9(diš@c)
 @sys pcun 9(N08)
 @list U+12561
@@ -22733,6 +22743,7 @@
 
 @sign KINGUSILI
 @oid	o0000283
+@list	LAK819
 @list	MZL838
 @list	SLLHA573
 @uname	CUNEIFORM NUMERIC SIGN FIVE SIXTHS DISH
@@ -39091,11 +39102,6 @@
 @v	2/3(diš)
 @link	eBL ŠANABI https://www.ebl.lmu.de/signs/ŠANABI
 @link	Wikidata Q87557042 http://www.wikidata.org/entity/Q87557042
-@form ŠANABI@c
-@oid	o0027578
-@v	2/3(aš@c@90)
-@inote	ŠU₂.2(N08) = ŠU₂.2(AŠ@c@90) = ŠU₂.2(DIŠ@c)
-@@
 @form ŠANABI@t
 @oid	o0038243
 @v	2/3(diš@t)
@@ -41865,12 +41871,6 @@
 @useq	x122D9.x122AD
 @ucun	𒋙𒊭
 @v	šušanaₓ
-@@
-@form ŠUŠANA@c
-@oid	o0027584
-@list	LAK817
-@v	1/3(aš@c@90)
-@inote	|ŠU₂.N8| = |ŠU₂.AŠ@c@90| = |ŠU₂.DIŠ@c|
 @@
 @end sign
 
@@ -49922,6 +49922,7 @@
 @form 8(DIŠ@c)
 @oid	o0223447
 @v	8(diš@c)
+@v	8(aš@c@90)
 @sys pcun 8(N08)
 @list U+12560
 @uname CUNEIFORM NUMERIC SIGN EIGHT N08
@@ -50272,10 +50273,6 @@
 @uage ACN
 @ucun 𒕘
 @@
-@form 9(AŠ@c@90)
-@oid	o0223452
-@v	9(aš@c@90)
-@@
 @end sign
 
 @sign 4(AŠ~a)
@@ -50504,6 +50501,7 @@
 @oid	o0000003
 @list	ABZL029
 @list	HZL020
+@list	LAK816
 @list	MZL122
 @list	RSP019bis
 @list	SLLHA074
