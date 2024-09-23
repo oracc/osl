@@ -32891,10 +32891,10 @@
 @inote	missing compounds for lak.atf
 @end sign
 
-@sign |NINDA₂×NIGIDAMIN@c|
-@aka |NINDA₂×2(DIŠ)|
+@sign |NINDA₂×2(DIŠ)|
 @oid	o0027883
-@form |NINDA₂×2(DIŠ@c)|
+@form |NINDA₂×NIGIDAMIN@c|
+@aka |NINDA₂×2(DIŠ@c)|
 @oid	o0027634
 @list	ELLES059
 @list	LAK101
