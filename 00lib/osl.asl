@@ -49680,7 +49680,8 @@
 @v	4(eše₃@c)
 @end sign
 
-@sign 1(DIŠ)
+@sign- 1(DIŠ)
+@inote redundant because DIŠ is 1(diš)
 @oid	o0000004
 @note	see CUNEIFORM SIGN DIŠ
 @end sign
@@ -49717,7 +49718,8 @@
 @note	For 6(ban₂) etc., see J.N. Postgate, 50 Neo-Assyrian Legal Documents p.68.
 @end sign
 
-@sign 2(DIŠ)
+@sign- 2(DIŠ)
+@inote redundant because MIN is 2(diš)
 @oid	o0000013
 @note	see CUNEIFORM SIGN MIN
 @end sign
