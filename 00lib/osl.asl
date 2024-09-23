@@ -3994,11 +3994,13 @@
 @form AŠ@v
 @oid	o0223464
 @v	aš@v
-@v	1(aš@v)
+@v-	1(aš@v)
+@v	1(aš@c~a)
+@umap	AŠ@c
 @note This transliteration is restricted to P480577 = Fs Krecher 346-347 15 where it is
       described as a light impression of a geš₂ stylus.  Possibly simply 1(aš@c).
-@v	1(aš@c~a)
-@inote This transliteration is a contrivance to get the sign to appear in the AŠ@c set in OSL
+      The transliteration form 1(aš@v) as used in CDLI is removed in OSL in favour
+      of 1(aš@c~a) which is a better description of the sign. Doubtful encodability.
 @@
 @end sign
 
@@ -10969,9 +10971,9 @@
 @oid	o0223340
 @inote	ED3a abbreviated form of F₂
 @@
-@form 2(DIŠ@c)
+@form 2(DIŠ@c)~a
 @oid	o0223390
-@inote	ED3a variant of NIGIDAMIN@c
+@inote	ED3a variant of NIGIDAMIN@c; this is N01@90.N01@90, not N01@90&N01@90
 @@
 @end sign
 
@@ -27633,7 +27635,8 @@
 @v	limmu₂
 @v	limu₂
 @v	4(diš)@v~b
-@v	4(diš@c)@v~b
+@v-	4(diš@c)@v~b
+@inote nonsense duplicate@c
 @link	eBL LIMMU₂ https://www.ebl.lmu.de/signs/LIMMU₂
 @link	Wikidata Q87556011 http://www.wikidata.org/entity/Q87556011
 @end sign
@@ -29896,11 +29899,6 @@
 @v	2(diš)
 @link	eBL MIN https://www.ebl.lmu.de/signs/MIN
 @link	Wikidata Q87556110 http://www.wikidata.org/entity/Q87556110
-@form 2(DIŠ@c)
-@oid	o0223390
-@inote	@ucode	xebc3
-@v	2(aš@c@90)
-@v	2(diš@c)
 @end sign
 
 @sign |MIN.MIN|
@@ -32097,8 +32095,11 @@
 @list	RSP038
 @v	3/4(aš@c)
 @inote	as 3/4 gur
+@v	3(aš@c@90)
 @v	3(barig@c)
 @v	3(bariga@c)
+@v	3(diš@c)
+@@
 @sys pcun 3(N08)
 @list U+1255B
 @uname CUNEIFORM NUMERIC SIGN THREE N08
@@ -32128,8 +32129,10 @@
 @list	RSP037
 @v	2/4(aš@c)
 @inote	CDLI as 1/2 gur written 2(barig@c)--is this really necessary?
+@v	2(aš@c@90)
 @v	2(barig@c)
 @v	2(bariga@c)
+@v	2(diš@c)
 @sys pcun 2(N08)
 @list U+1255A
 @uname CUNEIFORM NUMERIC SIGN TWO N08
@@ -49721,12 +49724,6 @@
 @uage	5.0
 @v	3(diš)
 @link	Wikidata Q87556848 http://www.wikidata.org/entity/Q87556848
-@form 3(DIŠ@c)
-@oid	o0223400
-@inote	@ucode	xebc4
-@v	3(aš@c@90)
-@v	3(diš@c)
-@@
 @form- 3(DIŠ@c)@v
 @inote doubtful that this exists
 @oid	o0223401
