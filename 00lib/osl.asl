@@ -7009,7 +7009,8 @@
 @v	barig@c
 @v	bariga@c
 @v	diš@c
-@v	1/4(aš@c)
+@v-	1/4(aš@c)
+@inote in donkey texts to indicate "1 donkey"; use 1(diš@c) instead
 @v	1(aš@c@90)
 @v	1/2(aš@c@90)
 @v	1(barig@c)
@@ -29494,7 +29495,7 @@
 @inote	1/2(aš) used by CDLI with GUR measures
 @v-	1/2(ban₂)
 @inote Removed because it makes no sense for this to be 1/2(ban₂) given that the same form is
-	also 1(ban₂) (disunified, see sign 1(BAN₂)
+	also 1(ban₂) (disunified, see sign 1(BAN₂))
 @v	1/2(diš)
 @link	eBL MAŠ https://www.ebl.lmu.de/signs/MAŠ
 @link	Wikidata Q87556100 http://www.wikidata.org/entity/Q87556100
@@ -32114,8 +32115,8 @@
 @form NIGIDAEŠ@c
 @oid	o0223339
 @list	RSP038
-@v	3/4(aš@c)
-@inote	as 3/4 gur
+@v-	3/4(aš@c)
+@inote	in donkey texts to mean "3 donkeys"; use 3(diš@c) instead
 @v	3(aš@c@90)
 @v	3(barig@c)
 @v	3(bariga@c)
@@ -32148,8 +32149,8 @@
 @form NIGIDAMIN@c
 @oid	o0223340
 @list	RSP037
-@v	2/4(aš@c)
-@inote	CDLI as 1/2 gur written 2(barig@c)--is this really necessary?
+@v-	2/4(aš@c)
+@inote in donkey texts to indicate "2 (donkeys)"; use 2(diš@c) instead
 @v	2(aš@c@90)
 @v	2(barig@c)
 @v	2(bariga@c)
@@ -48757,13 +48758,6 @@
 @list	U+12464
 @ucun	𒑤
 @uage	7.0
-@form 1/2(GUR@c)
-@oid o0038365
-@list	LAK838
-@v	1/2(aš@c)
-@v-	1/2(gur@c)
-@inote this is distinct from 1(BAN₂@c); LAK829 and LAK838 are distinct sign forms.
-	Should this be unified with 1(BAN₂@c) or not? 1/2(gur) is an hommage to LAK838.
 @end sign
 
 @sign 1/4(GUR)
@@ -50560,10 +50554,12 @@
 @form 1(BAN₂@c)
 @oid	o0223385
 @list	LAK829
-@inote need LAK838=1/2(gur)
+@list	LAK838
 @list	RSP036
 @list	RSP036bis
 @inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
+@v	1/2(aš@c)
+@inote 1/2(aš@c) is CDLI for 1/2(gur@); also note that there is no 1/2(aš@c@90) though if there were this would be it
 @v	ban₂@c
 @v	1(ban₂@c)
 @v	1/2(diš@c)
