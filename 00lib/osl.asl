@@ -48750,6 +48750,7 @@
 @ucun	𒑤
 @uage	7.0
 @form 1/2(GUR@c)
+@oid o0038365
 @list	LAK838
 @v	1/2(aš@c)
 @v-	1/2(gur@c)
