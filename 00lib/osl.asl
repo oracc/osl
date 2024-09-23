@@ -4263,11 +4263,10 @@
 @v	1/2(iku)
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
 @link	Wikidata Q87555112 http://www.wikidata.org/entity/Q87555112
-@form 1(AŠ@t@c)
+@form- 1(AŠ@t@c)
 @oid	o0223351
 @list	RSP035
 @v	1(aš@t@c)
-@v	1/2(iku@c)
 @@
 @end sign
 
@@ -7016,6 +7015,7 @@
 @v	1(barig@c)
 @v	1(bariga@c)
 @v	1(diš@c)
+@v	1/2(iku@c)
 @sys pcun 1(N08)
 @list U+12559
 @uname CUNEIFORM NUMERIC SIGN ONE N08
@@ -49113,31 +49113,31 @@
 @v-	tabₓ
 @inote	deprecated because we use TAB@t=tab₄ for this sign/value
 @v	2(diš@t)
-@v	2(diš@t@c)
+@v-	2(diš@t@c)
 @end sign
 
 @sign 3(DIŠ@t)
 @oid	o0221886
 @v	3(diš@t)
-@v	3(diš@t@c)
+@v-	3(diš@t@c)
 @end sign
 
 @sign 4(DIŠ@t)
 @oid	o0221887
 @v	4(diš@t)
-@v	4(diš@t@c)
+@v-	4(diš@t@c)
 @end sign
 
 @sign 5(DIŠ@t)
 @oid	o0221888
 @v	5(diš@t)
-@v	5(diš@t@c)
+@v-	5(diš@t@c)
 @end sign
 
 @sign 6(DIŠ@t)
 @oid	o0221889
 @v	6(diš@t)
-@v	6(diš@t@c)
+@v-	6(diš@t@c)
 @end sign
 
 @sign 2(AŠ@t)
@@ -49153,7 +49153,7 @@
 @uage	5.0
 @v	2(aš@t)
 @link	Wikidata Q87556997 http://www.wikidata.org/entity/Q87556997
-@form 2(AŠ@t@c)
+@form- 2(AŠ@t@c)
 @oid	o0223352
 @v	2(aš@t@c)
 @@
@@ -49170,7 +49170,7 @@
 @uage	5.0
 @v	3(aš@t)
 @link	Wikidata Q87557000 http://www.wikidata.org/entity/Q87557000
-@form 3(AŠ@t@c)
+@form- 3(AŠ@t@c)
 @oid	o0223353
 @v	3(aš@t@c)
 @@
@@ -49184,7 +49184,7 @@
 @uage	5.0
 @v	4(aš@t)
 @link	Wikidata Q87557002 http://www.wikidata.org/entity/Q87557002
-@form 4(AŠ@t@c)
+@form- 4(AŠ@t@c)
 @oid	o0223354
 @v	4(aš@t@c)
 @@
@@ -49201,7 +49201,7 @@
 @v	murguₓ
 @v	5(aš@t)
 @link	Wikidata Q87557005 http://www.wikidata.org/entity/Q87557005
-@form 5(AŠ@t@c)
+@form- 5(AŠ@t@c)
 @oid	o0223355
 @v	5(aš@t@c)
 @@
@@ -49216,7 +49216,7 @@
 @uage	5.0
 @v	6(aš@t)
 @link	Wikidata Q87557007 http://www.wikidata.org/entity/Q87557007
-@form 6(AŠ@t@c)
+@form- 6(AŠ@t@c)
 @oid	o0223356
 @v	6(aš@t@c)
 @@
