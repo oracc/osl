@@ -51056,10 +51056,6 @@
 @inote	Attested
 @end sign
 
-@sign 1(U@90)
-@oid	o0038228
-@end sign
+@compoundonly 1(U@90)
 
-@sign 2(U@90)
-@oid	o0038230
-@end sign
+@compoundonly 2(U@90)
