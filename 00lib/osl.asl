@@ -3968,6 +3968,7 @@
 @inote	@ucode	xeb80
 @v	aš@c
 @v	1(aš@c)
+@v	1(iku@c)
 @sys pcun 1(N01)
 @list U+12550
 @uname CUNEIFORM NUMERIC SIGN ONE N01
@@ -11038,6 +11039,11 @@
 @oid	o0223359
 @list	RSP026
 @v	1/4(iku@c)
+@sys acn 1/4(IKU@c)
+@list U+12589
+@uname CUNEIFORM NUMERIC SIGN ONE QUARTER IKU CURVED
+@uage ACN
+@ucun 𒖉
 @@
 @form F₄@c@v
 @oid	o0038146
@@ -13448,7 +13454,8 @@
 @v	ululₓ
 @link	eBL GAN₂ https://www.ebl.lmu.de/signs/GAN₂
 @link	Wikidata Q87555477 http://www.wikidata.org/entity/Q87555477
-@form GAN₂@c
+@form- GAN₂@c
+@inote This is surely a non-standard notation for 1(aš@c) for 1(iku@c)
 @oid	o0028134
 @v	iku@c
 @v	1(iku@c)
