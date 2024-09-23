@@ -4110,6 +4110,7 @@
 @v	eš₁₆
 @v	šušur
 @v	3(aš@v)
+@v	3(aš~a)
 @v-	3(aš@v@c)
 @inote nonsense duplicate@c
 @link	eBL |AŠ&AŠ&AŠ| https://www.ebl.lmu.de/signs/|AŠ&AŠ&AŠ|
@@ -47101,6 +47102,7 @@
 @ucun	𒑅
 @uage	5.0
 @v	ussu₃
+@v	8(aš~a)
 @v	8(aš@v)
 @v-	8(aš@v@c)
 @inote nonsense duplicate@c
@@ -49972,7 +49974,9 @@
 @@
 @end sign
 
-@sign 9(DIŠ~a)
+@sign	ILIMMU₃
+@aka	9(DIŠ~a)
+@inote DIŠ is wrong for this sign so the name 9(DIŠ~a) is deprecated
 @oid	o0000081
 @list	MZL539
 @list	SLLHA331d
@@ -49981,8 +49985,9 @@
 @ucun	𒑇
 @uage	5.0
 @v	ilimmu₃
-@v	9(diš~a)
-@v	9(diš)@v~a
+@v	9(aš~a)
+@v-	9(diš~a)
+@v-	9(diš)@v~a
 @link	Wikidata Q87556990 http://www.wikidata.org/entity/Q87556990
 @form- ILIMMU3
 @inote removed because this is a duplicate of its parent.
