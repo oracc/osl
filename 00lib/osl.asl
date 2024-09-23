@@ -29487,7 +29487,9 @@
 @v	zipah
 @v	1/2(aš)
 @inote	1/2(aš) used by CDLI with GUR measures
-@v	1/2(ban₂)
+@v-	1/2(ban₂)
+@inote Removed because it makes no sense for this to be 1/2(ban₂) given that the same form is
+	also 1(ban₂) (disunified, see sign 1(BAN₂)
 @v	1/2(diš)
 @link	eBL MAŠ https://www.ebl.lmu.de/signs/MAŠ
 @link	Wikidata Q87556100 http://www.wikidata.org/entity/Q87556100
