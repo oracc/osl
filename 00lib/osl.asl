@@ -3963,6 +3963,7 @@
 @form AŠ@c
 @oid	o0221914
 @list	LAK820
+@list	LAK839
 @list	RSP024
 @inote	@ucode	xeb80
 @v	aš@c
@@ -16317,6 +16318,8 @@
 @list	ABZL396
 @list	GCSL070
 @list	KWU926
+@list	LAK195
+@list	LAK843
 @list	MZL819
 @list	RSP437
 @list	SLLHA542
@@ -43431,6 +43434,7 @@
 @@
 @form U@c
 @oid	o0223334
+@list	LAK840
 @list	RSP028
 @list	RSP029
 @inote	@ucode	xeb8b
@@ -48745,6 +48749,12 @@
 @list	U+12464
 @ucun	𒑤
 @uage	7.0
+@form 1/2(GUR@c)
+@list	LAK838
+@v	1/2(aš@c)
+@v-	1/2(gur@c)
+@inote this is distinct from 1(BAN₂@c); LAK829 and LAK838 are distinct sign forms.
+	Should this be unified with 1(BAN₂@c) or not? 1/2(gur) is an hommage to LAK838.
 @end sign
 
 @sign 1/4(GUR)
@@ -49205,6 +49215,7 @@
 
 @sign 1(GEŠU)
 @oid	o0000006
+@list	LAK842
 @list	RSP021
 @uname	CUNEIFORM NUMERIC SIGN ONE GESHU
 @list	U+1241E
@@ -49349,6 +49360,7 @@
 
 @sign 1(GEŠ₂)
 @oid	o0000007
+@list	LAK841
 @list	RSP003
 @uname	CUNEIFORM NUMERIC SIGN ONE GESH2
 @list	U+12415
@@ -50059,7 +50071,7 @@
 @ucun	𒑓
 @uage	5.0
 @v	4(ban₂)@v
-@v	4(ban₂@v)
+@v-	4(ban₂@v)
 @link	Wikidata Q87557017 http://www.wikidata.org/entity/Q87557017
 @form- 4(BAN₂@c)@v
 @inote non-existent
@@ -50077,7 +50089,7 @@
 @ucun	𒑕
 @uage	5.0
 @v	5(ban₂)@v
-@v	5(ban₂@v)
+@v-	5(ban₂@v)
 @link	Wikidata Q87557022 http://www.wikidata.org/entity/Q87557022
 @form- 5(BAN₂@c)@v
 @inote non-existent
@@ -50531,8 +50543,6 @@
 @inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
 @v	ban₂@c
 @v	1(ban₂@c)
-@v	1/2(aš@c)
-@inote	I'm not ready to do it yet but we may need to deprecate 1/2(diš@c) for compatibility with CDLI. CDLI's 1/2(aš@c) is used with GUR units, hence their use of AŠ even though the AŠ@c is vertical (i.e., DIŠ@c or AŠ@c@90).  The usage of this sign needs double-checking to see if it is occurs in other than GUR contexts.
 @v	1/2(diš@c)
 @v	1/4(diš@c)
 @inote	This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this.
