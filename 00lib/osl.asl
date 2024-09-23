@@ -27630,7 +27630,8 @@
 @link	Wikidata Q87556973 http://www.wikidata.org/entity/Q87556973
 @end sign
 
-@sign LIMMU₂
+@sign- LIMMU₂
+@inote double-encoded in Unicode 5.0 as both LIMMU2 and NUMERIC FOUR ASH
 @oid	o0000430
 @list	ABZL110
 @list	LAK091
@@ -27640,6 +27641,7 @@
 @list	U+121F9
 @ucun	𒇹
 @uage	5.0
+@unote Should be deprecated in favour of 4(AŠ).
 @v	arba
 @v	arrap
 @v	erba
@@ -50168,9 +50170,18 @@
 @list	U+12402
 @ucun	𒐂
 @uage	5.0
-@v	limmuₓ
 @v	4(aš)
 @v	4(iku)
+@v	arba
+@v	arrap
+@v	erba
+@v	erbe
+@v	lam₄
+@v	lammu₂
+@v	lim₂
+@v	limmu₂
+@v	limu₂
+@v-	limmuₓ
 @link	Wikidata Q87556835 http://www.wikidata.org/entity/Q87556835
 @form 4(AŠ@c)
 @oid	o0223411
