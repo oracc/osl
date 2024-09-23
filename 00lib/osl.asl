@@ -50061,7 +50061,8 @@
 @v	4(ban₂)@v
 @v	4(ban₂@v)
 @link	Wikidata Q87557017 http://www.wikidata.org/entity/Q87557017
-@form 4(BAN₂@c)@v
+@form- 4(BAN₂@c)@v
+@inote non-existent
 @oid	o0223414
 @v	4(ban₂@c)@v
 @v	4(ban₂@v@c)
@@ -50078,7 +50079,8 @@
 @v	5(ban₂)@v
 @v	5(ban₂@v)
 @link	Wikidata Q87557022 http://www.wikidata.org/entity/Q87557022
-@form 5(BAN₂@c)@v
+@form- 5(BAN₂@c)@v
+@inote non-existent
 @oid	o0223425
 @v	5(ban₂@c)@v
 @v	5(ban₂@v@c)
@@ -50522,7 +50524,8 @@
 @@
 @form 1(BAN₂@c)
 @oid	o0223385
-@list	LAK838
+@list	LAK829
+@inote need LAK838=1/2(gur)
 @list	RSP036
 @list	RSP036bis
 @inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
@@ -50558,6 +50561,7 @@
 @link	Wikidata Q87557010 http://www.wikidata.org/entity/Q87557010
 @form 2(BAN₂@c)
 @oid	o0223389
+@list	LAK830
 @list	RSP036bis
 @inote	@ucode	xebbe
 @v	2(ban₂@c)
@@ -50582,6 +50586,7 @@
 @link	Wikidata Q87557012 http://www.wikidata.org/entity/Q87557012
 @form 3(BAN₂@c)
 @oid	o0223398
+@list	LAK831
 @list	RSP036bis
 @inote	@ucode	xebbf
 @v	3(ban₂@c)
@@ -50591,7 +50596,8 @@
 @uage ACN
 @ucun 𒖕
 @@
-@form 3(BAN₂@c)@v
+@form- 3(BAN₂@c)@v
+@inote non-existent
 @oid	o0223399
 @v	3(ban₂@c)@v
 @@
@@ -50610,6 +50616,7 @@
 @link	Wikidata Q87557016 http://www.wikidata.org/entity/Q87557016
 @form 4(BAN₂@c)
 @oid	o0223413
+@list	LAK832
 @list	RSP036bis
 @inote	@ucode	xebc0
 @v	4(ban₂@c)
@@ -50634,6 +50641,7 @@
 @link	Wikidata Q87557019 http://www.wikidata.org/entity/Q87557019
 @form 5(BAN₂@c)
 @oid	o0223424
+@list	LAK833
 @list	RSP036bis
 @inote	@ucode	xebc1
 @v	5(ban₂@c)
