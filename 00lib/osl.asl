@@ -27649,7 +27649,9 @@
 @v	lim₂
 @v	limmu₂
 @v	limu₂
-@v	4(diš)@v~b
+@v	4(aš~b)
+@v-	4(diš)@v~b
+@inote This is an AŠ not a DIŠ
 @v-	4(diš@c)@v~b
 @inote nonsense duplicate@c
 @link	eBL LIMMU₂ https://www.ebl.lmu.de/signs/LIMMU₂
