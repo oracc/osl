@@ -17633,7 +17633,7 @@
 @uage	5.0
 @v	i
 @v	nat₂
-@v	5(aš@~a)
+@v	5(aš~a)
 @v	5(aš@v)
 @link	eBL I https://www.ebl.lmu.de/signs/I
 @link	Wikidata Q87555628 http://www.wikidata.org/entity/Q87555628
