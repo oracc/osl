@@ -3990,12 +3990,6 @@
 @inote	"flat" aš, mostly Archaic Ur but also at Fara P480579
 @inote Now to be imported from Archaic Cuneiform Numerals, 1(N01@f) etc.
 @@
-@form- AŠ@t
-@inote now under its own sign
-@oid	o0223363
-@list	GCSL188a
-@v	aš@t
-@@
 @form AŠ@v
 @oid	o0223464
 @v	aš@v
@@ -11106,12 +11100,6 @@
 @uname CUNEIFORM NUMERIC SIGN ONE HALF IKU CURVED VARIANT FORM
 @uage ACN
 @ucun 𒖋
-@form F₈@t
-@oid	o0038163
-@v	1/6(diš)
-@inote	This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study; compare U+12463
-@v	1/2(iku@t)
-@@
 @end sign
 
 @sign F₉
@@ -48778,12 +48766,15 @@
 @end sign
 
 @sign 1/4(GUR)
+@aka F₈@t
 @aka |DIŠ×1(U@90)|
 @oid	o0031991
 @uname	CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
 @list	U+12463
 @ucun	𒑣
 @uage	7.0
+@v	1/6(diš)
+@inote	This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study; compare U+12463
 @v	1/2(iku@t)
 @inote Possibly disunify 1/4(GUR) and 1/2(iku@t) but they are very similar in form.
 @end sign
