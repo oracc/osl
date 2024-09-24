@@ -4224,6 +4224,7 @@
 @sign AŠ@t
 @aka AŠ@z
 @inote Moving aš@t value, etc., to sign AŠ@t was a mistake; AŠ@t and AŠ@z unified.
+@inote New 20240923 aš@t and diš@t considered synonyms and all diš@t moved to corresponding aš@t.
 @oid	o0000108
 @aka	GE₂₃
 @list	ELLES104
@@ -49111,7 +49112,7 @@
 @@
 @end sign
 
-@sign 2(DIŠ@t)
+@sign- 2(DIŠ@t)
 @oid	o0000014
 @list	RSP039
 @v-	tabₓ
@@ -49120,25 +49121,25 @@
 @v-	2(diš@t@c)
 @end sign
 
-@sign 3(DIŠ@t)
+@sign- 3(DIŠ@t)
 @oid	o0221886
 @v	3(diš@t)
 @v-	3(diš@t@c)
 @end sign
 
-@sign 4(DIŠ@t)
+@sign- 4(DIŠ@t)
 @oid	o0221887
 @v	4(diš@t)
 @v-	4(diš@t@c)
 @end sign
 
-@sign 5(DIŠ@t)
+@sign- 5(DIŠ@t)
 @oid	o0221888
 @v	5(diš@t)
 @v-	5(diš@t@c)
 @end sign
 
-@sign 6(DIŠ@t)
+@sign- 6(DIŠ@t)
 @oid	o0221889
 @v	6(diš@t)
 @v-	6(diš@t@c)
@@ -49156,6 +49157,7 @@
 @ucun	𒑊
 @uage	5.0
 @v	2(aš@t)
+@v	2(diš@t)
 @link	Wikidata Q87556997 http://www.wikidata.org/entity/Q87556997
 @form- 2(AŠ@t@c)
 @oid	o0223352
@@ -49173,6 +49175,7 @@
 @ucun	𒑋
 @uage	5.0
 @v	3(aš@t)
+@v	3(diš@t)
 @link	Wikidata Q87557000 http://www.wikidata.org/entity/Q87557000
 @form- 3(AŠ@t@c)
 @oid	o0223353
@@ -49187,6 +49190,7 @@
 @ucun	𒑌
 @uage	5.0
 @v	4(aš@t)
+@v	4(diš@t)
 @link	Wikidata Q87557002 http://www.wikidata.org/entity/Q87557002
 @form- 4(AŠ@t@c)
 @oid	o0223354
@@ -49204,6 +49208,7 @@
 @uage	5.0
 @v	murguₓ
 @v	5(aš@t)
+@v	5(diš@t)
 @link	Wikidata Q87557005 http://www.wikidata.org/entity/Q87557005
 @form- 5(AŠ@t@c)
 @oid	o0223355
@@ -49219,6 +49224,7 @@
 @ucun	𒑎
 @uage	5.0
 @v	6(aš@t)
+@v	6(diš@t)
 @link	Wikidata Q87557007 http://www.wikidata.org/entity/Q87557007
 @form- 6(AŠ@t@c)
 @oid	o0223356
@@ -49875,7 +49881,7 @@
 @uage ACN
 @ucun 𒕟
 @@
-@form 7(DIŠ@t)
+@form- 7(DIŠ@t)
 @oid	o0038129
 @v	7(diš@t)
 @@
@@ -49956,7 +49962,7 @@
 @uage ACN
 @ucun 𒕠
 @@
-@form 8(DIŠ@t)
+@form- 8(DIŠ@t)
 @oid	o0038127
 @v	8(diš@t)
 @@
@@ -49978,7 +49984,7 @@
 @oid	o0223456
 @v	9(diš@c)~d
 @@
-@form 9(DIŠ@t)
+@form- 9(DIŠ@t)
 @oid	o0038126
 @v	9(diš@t)
 @@
@@ -50270,6 +50276,12 @@
 @uage ACN
 @ucun 𒕖
 @@
+@form 7(AŠ@t)
+@aka 7(DIŠ@t)
+@oid o0038129
+@v 7(aš@t)
+@v 7(diš@t)
+@@
 @end sign
 
 @sign 8(AŠ)
@@ -50292,6 +50304,12 @@
 @uage ACN
 @ucun 𒕗
 @@
+@form 8(AŠ@t)
+@aka 8(DIŠ@t)
+@oid o0038127
+@v 8(aš@t)
+@v 8(diš@t)
+@@
 @end sign
 
 @sign 9(AŠ)
@@ -50313,6 +50331,12 @@
 @uname CUNEIFORM NUMERIC SIGN NINE N01
 @uage ACN
 @ucun 𒕘
+@@
+@form 9(AŠ@t)
+@aka 9(DIŠ@t)
+@oid o0038126
+@v 9(aš@t)
+@v 9(diš@t)
 @@
 @end sign
 
