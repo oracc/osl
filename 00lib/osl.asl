@@ -39221,12 +39221,6 @@
 @inote	missing compounds for lak.atf
 @end sign
 
-@sign |ŠAR₂×KASKAL|
-@oid	o0027733
-@inote	etcsri, dccmt
-@v	1(šarʾu)@v
-@end sign
-
 @sign |ŠAR₂×U|
 @oid	o0028114
 @aka	|ŠAR₂×1(U)|
@@ -43444,7 +43438,7 @@
 @aka BUR₃@v
 @oid	o0223333
 @v	bur₃@v
-@v	1(bur₃~a)
+@v	1(bur₃)~a
 @v	1(bur₃@v)
 @inote	ed3b hapax in P221565 = BIN 08, 082 ii 12; sign form
 @@
@@ -48744,7 +48738,7 @@
 @ucun 𒖢
 @end sign
 
-@sign 3(ŠARU@v)
+@sign 3(ŠARU)@v
 @oid	o0000031
 @uname	CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM
 @list	U+1242F
@@ -48890,6 +48884,7 @@
 @end sign
 
 @sign 3(ŠAR₂)@v
+@inote 20240924 rename to 3(ŠAR₂)@v because this belongs in the ŠAR₂ set
 @oid	o0000033
 @uname	CUNEIFORM NUMERIC SIGN THREE SHAR2 VARIANT FORM
 @list	U+12425
@@ -50447,7 +50442,7 @@
 @v	šarʾu@v
 @v	šaru@v
 @v	1(šarʾu@v)
-@inote	cdli lagash2
+@inote	cdli lagash2 notation for HI(i.e.ŠAR₂)×BURU sequence
 @@
 @end sign
 
@@ -50504,6 +50499,12 @@
 @uage ACN
 @ucun 𒖄
 @@
+@form 3(ŠARU@v)
+@oid	o0038246
+@v	3(šaru@v)
+@v	3(šarʾu@v)
+@inote	cdli lagash2
+@@
 @end sign
 
 @sign 4(ŠARU)
@@ -50517,6 +50518,12 @@
 @v	4(šarʾu)
 @v	4(šaru)
 @link	Wikidata Q87556936 http://www.wikidata.org/entity/Q87556936
+@form 4(ŠARU@v)
+@oid	o0038248
+@v	4(šaru@v)
+@v	4(šarʾu@v)
+@inote	cdli lagash2
+@@
 @form 4(ŠARU@c)
 @oid	o0223381
 @inote	@ucode	xebb5
@@ -50554,10 +50561,27 @@
 @@
 @form 5(ŠARU@v)
 @oid	o0038248
+@v	5(šaru@v)
 @v	5(šarʾu@v)
 @inote	cdli lagash2
 @@
 @end sign
+
+@sign |ŠAR₂×KASKAL|
+@oid	o0027733
+@inote	etcsri, dccmt
+@v	1(šarʾu@v)
+@inote value now has @v inside paren because ŠAR₂×KASKAL it its own series
+@end sign
+
+@sign	6(ŠARU@v)
+@aka 	6(|ŠAR₂×KASKAL|)
+@oid	o0028128
+@inote	dccmt
+@v	6(šaru@v)
+@v	6(šarʾu@v)
+@end sign
+
 
 @sign 1(BAN₂)
 @oid	o0000003
@@ -51038,12 +51062,6 @@
 @oid	o0223349
 @aka	9(|AŠ×AŠ@t|)
 @list	RSP093
-@end sign
-
-@sign 6(|ŠAR₂×KASKAL|)
-@oid	o0028128
-@inote	dccmt
-@v	6(šarʾu)@v
 @end sign
 
 @sign 2(|GEŠU@c×KASKAL|)
