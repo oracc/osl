@@ -51091,7 +51091,3 @@
 @v	7(ŋešʾu@v)
 @inote	Attested
 @end sign
-
-@compoundonly 1(U@90)
-
-@compoundonly 2(U@90)
