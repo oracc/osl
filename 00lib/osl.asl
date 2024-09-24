@@ -41057,7 +41057,8 @@
 @v	1(šu)
 @link	eBL ŠU https://www.ebl.lmu.de/signs/ŠU
 @link	Wikidata Q87556429 http://www.wikidata.org/entity/Q87556429
-@form ŠU@c
+@form- ŠU@c
+@inote nonsense duplicate@c
 @oid	o0223487
 @v	šu@c
 @v	1(šu@c)
