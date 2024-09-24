@@ -10,9 +10,12 @@ use lib "$ENV{'ORACC_BUILDS'}/lib";
 use Getopt::Long;
 
 my $asl = '../00lib/osl.asl';
+my $flat = 0;
+my @flat = ();
 
 GetOptions(
     'asl:s'=>\$asl,
+    flat=>\$flat,
     );
 
 #
@@ -39,6 +42,15 @@ if ($ARGV[0]) {
 } else {
     warn "removing\n";
     $removing = 1;
+}
+
+if ($flat) {
+    if ($adding) {
+	add_flat();
+    } else {
+	rem_flat();
+    }
+    exit 0;
 }
 
 my %data = (); load_data($ARGV[0]) if $adding;
@@ -118,16 +130,22 @@ sub load_data {
 	my($ws,$usn,$map,$slsn,$uhex,$uname) = split(/\t/,$_);
 	my $ucun = chr(hex($uhex));
 	my $udata = "\@list U+$uhex\n\@uname $uname\n\@uage ACN\n\@ucun $ucun";
-	if ($ws eq 'p' && $map) {
-	    my $val = "\@sys pcun $usn\n$udata";
-	    # warn "$map => $val";
-	    $data{$map} = $val;
-	} elsif ($ws eq 'o') {
-	    my $sn = $usn;
-	    $sn = $slsn unless $slsn =~ /^f/;
-	    my $val = "\@sys acn $usn\n$udata";
-	    # warn "$sn => $val";
-	    $data{$sn} = $val;
+	if ($flat) {
+	    if ($usn =~ /\@f/) {
+		push @flat, "\@pcun $usn\n$udata\n\@end pcun\n\n";
+	    }
+	} else {
+	    if ($ws eq 'p' && $map) {
+		my $val = "\@sys pcun $usn\n$udata";
+		# warn "$map => $val";
+		$data{$map} = $val;
+	    } elsif ($ws eq 'o') {
+		my $sn = $usn;
+		$sn = $slsn unless $slsn =~ /^f/;
+		my $val = "\@sys acn $usn\n$udata";
+		# warn "$sn => $val";
+		$data{$sn} = $val;
+	    }
 	}
     }
     close(D);
@@ -149,6 +167,15 @@ sub rem_data {
 	++$i;
 	$o[$p] = undef;
     }
+}
+
+### FLAT NUMS ###
+
+sub add_flat {
+    load_data($ARGV[0]);
+    system 'cat', $asl;
+    print "\n";
+    print @flat;
 }
 
 1;
