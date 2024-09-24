@@ -49881,10 +49881,6 @@
 @uage ACN
 @ucun 𒕟
 @@
-@form- 7(DIŠ@t)
-@oid	o0038129
-@v	7(diš@t)
-@@
 @end sign
 
 @sign 7(DIŠ)~a
@@ -49962,10 +49958,6 @@
 @uage ACN
 @ucun 𒕠
 @@
-@form- 8(DIŠ@t)
-@oid	o0038127
-@v	8(diš@t)
-@@
 @end sign
 
 @sign 9(DIŠ)
@@ -49983,10 +49975,6 @@
 @inote doubtful that this exists
 @oid	o0223456
 @v	9(diš@c)~d
-@@
-@form- 9(DIŠ@t)
-@oid	o0038126
-@v	9(diš@t)
 @@
 @end sign
 
