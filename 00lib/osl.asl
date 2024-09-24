@@ -43440,11 +43440,13 @@
 @v	1(u)
 @link	eBL U https://www.ebl.lmu.de/signs/U
 @link	Wikidata Q87556522 http://www.wikidata.org/entity/Q87556522
-@form BUR₃@v
+@form U@90
+@aka BUR₃@v
 @oid	o0223333
 @v	bur₃@v
+@v	1(bur₃~a)
 @v	1(bur₃@v)
-@inote	ed3b
+@inote	ed3b hapax in P221565 = BIN 08, 082 ii 12; sign form
 @@
 @form U@c
 @oid	o0223334
@@ -43462,7 +43464,8 @@
 @uage ACN
 @ucun 𒕢
 @@
-@form U@f
+@form- U@f
+@inote moved to ACN and imported to OSL via @pcun
 @oid	o0223335
 @v	u@f
 @inote	"flat" u, mostly Archaic Ur but also at Fara P011104
