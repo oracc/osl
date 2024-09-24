@@ -3984,12 +3984,14 @@
 @v	aš@c@v
 @@
 @form- AŠ@f
+@inote now under 1(N01@f) etc.
 @oid	o0223463
 @v	aš@f
 @inote	"flat" aš, mostly Archaic Ur but also at Fara P480579
 @inote Now to be imported from Archaic Cuneiform Numerals, 1(N01@f) etc.
 @@
-@form AŠ@t
+@form- AŠ@t
+@inote now under its own sign
 @oid	o0223363
 @list	GCSL188a
 @v	aš@t
@@ -4263,6 +4265,7 @@
 @v	uzaglal
 @v	uzaraₓ
 @v	1/2(iku)
+@v	1(iku@t)
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
 @link	Wikidata Q87555112 http://www.wikidata.org/entity/Q87555112
 @form- 1(AŠ@t@c)
@@ -7146,11 +7149,13 @@
 @compoundonly	|DIŠ×A|
 @inote	added during ogsl upgrade
 
-@sign |DIŠ×1(U@90)|
+@sign- |DIŠ×1(U@90)|
+@inote merged with 1/4(GUR)
 @oid	o0038220
 @end sign
 
-@sign |DIŠ×2(U@90)|
+@sign- |DIŠ×2(U@90)|
+@inote merged with 1/2(GUR)
 @oid	o0038222
 @end sign
 
@@ -11113,6 +11118,7 @@
 @oid	o0038173
 @v	1/4(iku@t)
 @inote	This form is a NW to SE slanted cuneiform DIŠ with a horizontal; P392107
+@inote  In other words it could be described as AŠ×1(DIŠ@t).
 @end sign
 
 @sign GA
@@ -48772,11 +48778,14 @@
 @end sign
 
 @sign 1/4(GUR)
+@aka |DIŠ×1(U@90)|
 @oid	o0031991
 @uname	CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
 @list	U+12463
 @ucun	𒑣
 @uage	7.0
+@v	1/2(iku@t)
+@inote Possibly disunify 1/4(GUR) and 1/2(iku@t) but they are very similar in form.
 @end sign
 
 @sign 6(GEŠU@c)
@@ -49158,6 +49167,7 @@
 @uage	5.0
 @v	2(aš@t)
 @v	2(diš@t)
+@v	2(iku@t)
 @link	Wikidata Q87556997 http://www.wikidata.org/entity/Q87556997
 @form- 2(AŠ@t@c)
 @oid	o0223352
@@ -49176,6 +49186,7 @@
 @uage	5.0
 @v	3(aš@t)
 @v	3(diš@t)
+@v	3(iku@t)
 @link	Wikidata Q87557000 http://www.wikidata.org/entity/Q87557000
 @form- 3(AŠ@t@c)
 @oid	o0223353
@@ -49191,6 +49202,7 @@
 @uage	5.0
 @v	4(aš@t)
 @v	4(diš@t)
+@v	4(iku@t)
 @link	Wikidata Q87557002 http://www.wikidata.org/entity/Q87557002
 @form- 4(AŠ@t@c)
 @oid	o0223354
@@ -49209,6 +49221,7 @@
 @v	murguₓ
 @v	5(aš@t)
 @v	5(diš@t)
+@v	5(iku@t)
 @link	Wikidata Q87557005 http://www.wikidata.org/entity/Q87557005
 @form- 5(AŠ@t@c)
 @oid	o0223355
@@ -50045,31 +50058,32 @@
 @@
 @end sign
 
-@sign 1(IKU@t)
+@sign- 1(IKU@t)
+@inote Merged with AŠ@t series
 @oid	o0038164
 @inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
 @v	1(iku@t)
 @end sign
 
-@sign 2(IKU@t)
+@sign- 2(IKU@t)
 @oid	o0038166
 @inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
 @v	2(iku@t)
 @end sign
 
-@sign 3(IKU@t)
+@sign- 3(IKU@t)
 @oid	o0038168
 @inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
 @v	3(iku@t)
 @end sign
 
-@sign 4(IKU@t)
+@sign- 4(IKU@t)
 @oid	o0038169
 @inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
 @v	4(iku@t)
 @end sign
 
-@sign 5(IKU@t)
+@sign- 5(IKU@t)
 @oid	o0038171
 @inote	Restricted distribution; formally similar to left-leaning cuneiform DIŠ-signs
 @v	5(iku@t)
