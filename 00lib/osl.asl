@@ -49687,7 +49687,8 @@
 @ucun 𒖧
 @end sign
 
-@sign 3(EŠE₃@c)
+@sign- 3(EŠE₃@c)
+@inote Does not exist; collation indicates 2(eše₃@c) 2(iku@c).
 @oid	o0038281
 @v	3(eše₃@c)
 @end sign
