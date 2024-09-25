@@ -35,7 +35,7 @@
 
 @listdef LAK 1-870 024b 046@v 046a 063b 072b 079a 081a 156b 162a 162b 171@s 207a 248@g 248b
 	256@g 262@g 278a 278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
-	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a 791a
+	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a 791a 827a 827b
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
 
 @listdef MZL 1-907 113b 115a 115b 146' 146" 527'
@@ -39154,27 +39154,26 @@
 @link	eBL ŠAR₂ https://www.ebl.lmu.de/signs/ŠAR₂
 @link	Wikidata Q87556376 http://www.wikidata.org/entity/Q87556376
 @form ŠAR₂@c
+@aka ŠARGAL@c
 @oid	o0223485
 @list	RSP030
 @list	RSP031
 @inote	@ucode	xeba7
+@note P241764 = TM.75.G.02200 ŠAR₂ GAL; apparently a hapax in the curved form.
 @v	šar₂@c
 @v	1(šar₂@c)
+@v	šargal@c
+@v	1(šargal@c)
 @sys pcun 1(N45)
 @list U+12579
 @uname CUNEIFORM NUMERIC SIGN ONE N45
 @uage ACN
 @ucun 𒕹
 @@
-@form ŠAR₂@c@v
+@form- ŠAR₂@c@v
+@inote deprecated until identified; possibly an unused alias for šarʾu₂@c@v
 @oid	o0223486
 @v	1(šar₂@c@v)
-@@
-@form ŠARGAL@c
-@oid	o0223484
-@inote	Is this šargal really good (curved and not)? or is this only with GAL?
-@v	šargal@c
-@v	1(šargal@c)
 @@
 @end sign
 
@@ -43440,7 +43439,7 @@
 @v	bur₃@v
 @v	1(bur₃)~a
 @v	1(bur₃@v)
-@inote	ed3b hapax in P221565 = BIN 08, 082 ii 12; sign form
+@inote	ed3b hapax in P221565 = BIN 08, 082 ii 12
 @@
 @form U@c
 @oid	o0223334
@@ -49426,6 +49425,8 @@
 @@
 @form GEŠ₂@t
 @oid	o0223472
+@inote All GEŠ₂@t from 1..7 are in P221564 = BIN 08, 081; despite copy collation from photo
+	indicates barely any difference in size between geš₂@t and diš@t on this tablet.
 @v	geš₂@t
 @v	1(geš₂@t)
 @@
@@ -50439,10 +50440,17 @@
 @@
 @form 1(ŠARU@v)
 @oid	o0223374
+@list LAK827b
 @v	šarʾu@v
 @v	šaru@v
+@v	1(šaru@v)
 @v	1(šarʾu@v)
 @inote	cdli lagash2 notation for HI(i.e.ŠAR₂)×BURU sequence
+@@
+@form ŠARU@v@c
+@list LAK827a
+@v	1(šaru@v@c)
+@v	1(šarʾu@v@c)
 @@
 @end sign
 
