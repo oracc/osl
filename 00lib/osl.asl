@@ -33,7 +33,7 @@
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
-@listdef LAK 1-870 024b 046@v 046a 063b 072b 079a 081a 156b 162a 162b 171@s 207a 248@g 248b
+@listdef LAK 1-826 828-870 024b 046@v 046a 063b 072b 079a 081a 156b 162a 162b 171@s 207a 248@g 248b
 	256@g 262@g 278a 278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
 	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a 791a 827a 827b
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
