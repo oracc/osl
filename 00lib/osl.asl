@@ -3992,6 +3992,9 @@
 @@
 @form AŠ@v
 @oid	o0223464
+@upua	U+F0009
+@ucun	󰀉
+@uage	9.1
 @v	aš@v
 @v-	1(aš@v)
 @v	1(aš@c~a)
@@ -10987,6 +10990,9 @@
 @form 2(DIŠ@c)~a
 @oid	o0223390
 @inote	ED3a variant of NIGIDAMIN@c; this is N01@90.N01@90, not N01@90&N01@90
+@upua	U+F0017
+@ucun	󰀗
+@uage	9.1
 @@
 @end sign
 
@@ -11104,6 +11110,9 @@
 
 @sign F₉
 @oid	o0038173
+@upua	U+F0015
+@ucun	󰀕
+@uage	9.1
 @v	1/4(iku@t)
 @inote	This form is a NW to SE slanted cuneiform DIŠ with a horizontal; P392107
 @inote  In other words it could be described as AŠ×1(DIŠ@t).
@@ -14034,6 +14043,9 @@
 	indistinct or missing 10 (as on P217632, essentially |AŠ×KASKAL|;
 	identification as gešʾu@v based on sequence).
 	Signs 1..7(GEŠU@c×KASKAL) are defined here but 5(GEŠU@c×KASKAL) is so far unattested.
+@upua	U+F002B
+@ucun	󰀫
+@uage	9.1
 @v	gešu@v
 @v	1(gešʾu@v)
 @v	1(ŋešʾu@v)
@@ -19049,6 +19061,9 @@
 @oid	o0018865
 @inote	this is 7 times 1(AŠ@c) in a single row (@l=linear)
 @inote	ED DN AbS 83 r "xii" 6
+@upua	U+F000A
+@ucun	󰀊
+@uage	9.1
 @@
 @end sign
 
@@ -39124,6 +39139,9 @@
 @@
 @form ŠANABI@v
 @oid	o0038144
+@upua	U+F0016
+@ucun	󰀖
+@uage	9.1
 @v	2/3(diš@v)
 @v	2/3(diš)~a
 @inote	P010528 = OIP 014, 049 o i 3: this variant has a cuneiform frame
@@ -43436,6 +43454,9 @@
 @form U@90
 @aka BUR₃@v
 @oid	o0223333
+@upua	U+F0012
+@ucun	󰀒
+@uage	9.1
 @v	bur₃@v
 @v	1(bur₃)~a
 @v	1(bur₃@v)
@@ -44040,6 +44061,9 @@
 @form 3(U@c)@v
 @oid	o0223407
 @inote	@ucode	xeb8e
+@upua	U+F003B
+@ucun	󰀻
+@uage	9.1
 @v	3(u@c)@v
 @@
 @end sign
@@ -48749,6 +48773,9 @@
 @form 3(ŠARU@c)@v
 @oid	o0223379
 @inote	@ucode	xebb4
+@upua	U+F0034
+@ucun	󰀴
+@uage	9.1
 @v	3(šarʾu@c)@v
 @v	3(šaru@c)@v
 @@
@@ -48778,12 +48805,18 @@
 
 @sign 6(GEŠU@c)
 @oid	o0038276
+@upua	U+F0029
+@ucun	󰀩
+@uage	9.1
 @v	6(gešʾu@c)
 @v	6(ŋešʾu@c)
 @end sign
 
 @sign 10(U@c)
 @oid	o0038282
+@upua	U+F0013
+@ucun	󰀓
+@uage	9.1
 @v	10(bur₃@c)
 @inote	10(bur₃@c) in epsd/oakk
 @end sign
@@ -48837,6 +48870,9 @@
 
 @sign 3(EŠE₃)
 @oid	o0038279
+@upua	U+F0018
+@ucun	󰀘
+@uage	9.1
 @v	3(eše₃)
 @end sign
 
@@ -48894,6 +48930,9 @@
 @form 3(ŠAR₂@c)@v
 @oid	o0223410
 @inote	@ucode	xebaa
+@upua	U+F0032
+@ucun	󰀲
+@uage	9.1
 @v	3(šar₂@c)@v
 @@
 @end sign
@@ -49314,6 +49353,9 @@
 @form 3(GEŠU@c)@v
 @oid	o0223403
 @inote	@ucode	xeba4
+@upua	U+F0027
+@ucun	󰀧
+@uage	9.1
 @v	3(gešʾu@c)@v
 @v	3(gešu@c)@v
 @@
@@ -49341,6 +49383,9 @@
 @@
 @form 4(GEŠU@c)@v
 @oid	o0223417
+@upua	U+F0028
+@ucun	󰀨
+@uage	9.1
 @v	4(gešʾu@c)@v
 @v	4(gešu@c)@v
 @@
@@ -49370,10 +49415,16 @@
 
 @sign 7(GEŠU)
 @oid	o0038286
+@upua	U+F0026
+@ucun	󰀦
+@uage	9.1
 @v	7(gešʾu)
 @v	7(ŋešʾu)
 @form 7(GEŠU@c)
 @oid	o0038263
+@upua	U+F002A
+@ucun	󰀪
+@uage	9.1
 @v	7(gešʾu@c)
 @v	7(ŋešʾu@c)
 @@
@@ -49411,6 +49462,9 @@
 @@
 @form GEŠ₂@c@90
 @oid	o0223470
+@upua	U+F001C
+@ucun	󰀜
+@uage	9.1
 @v	geš₂@c@90
 @v	ŋeš₂@c@90
 @v	1(geš₂@c@90)
@@ -49427,6 +49481,9 @@
 @oid	o0223472
 @inote All GEŠ₂@t from 1..7 are in P221564 = BIN 08, 081; despite copy collation from photo
 	indicates barely any difference in size between geš₂@t and diš@t on this tablet.
+@upua	U+F001F
+@ucun	󰀟
+@uage	9.1
 @v	geš₂@t
 @v	1(geš₂@t)
 @@
@@ -49453,6 +49510,9 @@
 @@
 @form 2(GEŠ₂@t)
 @oid	o0038151
+@upua	U+F0020
+@ucun	󰀠
+@uage	9.1
 @v	2(geš₂@t)
 @@
 @end sign
@@ -49479,14 +49539,23 @@
 @form 3(GEŠ₂@c)@v
 @oid	o0223405
 @inote	@ucode	xeb99
+@upua	U+F001A
+@ucun	󰀚
+@uage	9.1
 @v	3(geš₂@c)@v
 @@
 @form 3(GEŠ₂@c@90)
 @oid	o0038290
+@upua	U+F001D
+@ucun	󰀝
+@uage	9.1
 @v	3(geš₂@c@90)
 @@
 @form 3(GEŠ₂@t)
 @oid	o0038153
+@upua	U+F0021
+@ucun	󰀡
+@uage	9.1
 @v	3(geš₂@t)
 @@
 @end sign
@@ -49513,14 +49582,23 @@
 @form 4(GEŠ₂@c)@v
 @oid	o0223419
 @inote	@ucode	xeb9b
+@upua	U+F001B
+@ucun	󰀛
+@uage	9.1
 @v	4(geš₂@c)@v
 @@
 @form 4(GEŠ₂@c@90)
 @oid	o0038292
+@upua	U+F001E
+@ucun	󰀞
+@uage	9.1
 @v	4(geš₂@c@90)
 @@
 @form 4(GEŠ₂@t)
 @oid	o0038155
+@upua	U+F0022
+@ucun	󰀢
+@uage	9.1
 @v	4(geš₂@t)
 @@
 @end sign
@@ -49546,6 +49624,9 @@
 @@
 @form 5(GEŠ₂@t)
 @oid	o0038157
+@upua	U+F0023
+@ucun	󰀣
+@uage	9.1
 @v	5(geš₂@t)
 @@
 @end sign
@@ -49571,6 +49652,9 @@
 @@
 @form 6(GEŠ₂@t)
 @oid	o0038159
+@upua	U+F0024
+@ucun	󰀤
+@uage	9.1
 @v	6(geš₂@t)
 @@
 @end sign
@@ -49596,6 +49680,9 @@
 @@
 @form 7(GEŠ₂@t)
 @oid	o0038161
+@upua	U+F0025
+@ucun	󰀥
+@uage	9.1
 @v	7(geš₂@t)
 @@
 @end sign
@@ -49696,6 +49783,9 @@
 @sign 4(EŠE₃@c)
 @oid	o0038133
 @inote	P010063 iv 15 collated (ED3a)
+@upua	U+F0019
+@ucun	󰀙
+@uage	9.1
 @v	4(eše₃@c)
 @end sign
 
@@ -50273,6 +50363,9 @@
 @form 7(AŠ@t)
 @aka 7(DIŠ@t)
 @oid o0038129
+@upua	U+F000B
+@ucun	󰀋
+@uage	9.1
 @v 7(aš@t)
 @v 7(diš@t)
 @@
@@ -50301,6 +50394,9 @@
 @form 8(AŠ@t)
 @aka 8(DIŠ@t)
 @oid o0038127
+@upua	U+F000C
+@ucun	󰀌
+@uage	9.1
 @v 8(aš@t)
 @v 8(diš@t)
 @@
@@ -50329,6 +50425,9 @@
 @form 9(AŠ@t)
 @aka 9(DIŠ@t)
 @oid o0038126
+@upua	U+F000D
+@ucun	󰀍
+@uage	9.1
 @v 9(aš@t)
 @v 9(diš@t)
 @@
@@ -50442,6 +50541,9 @@
 @form 1(ŠARU@v)
 @oid	o0223374
 @list LAK827b
+@upua	U+F0035
+@ucun	󰀵
+@uage	9.1
 @v	šarʾu@v
 @v	šaru@v
 @v	1(šaru@v)
@@ -50450,6 +50552,9 @@
 @@
 @form ŠARU@v@c
 @list LAK827a
+@upua	U+F0033
+@ucun	󰀳
+@uage	9.1
 @v	1(šaru@v@c)
 @v	1(šarʾu@v@c)
 @@
@@ -50480,6 +50585,9 @@
 @@
 @form 2(ŠARU@v)
 @oid	o0038246
+@upua	U+F0036
+@ucun	󰀶
+@uage	9.1
 @v	2(šarʾu@v)
 @inote	cdli lagash2
 @@
@@ -50509,7 +50617,10 @@
 @ucun 𒖄
 @@
 @form 3(ŠARU@v)
-@oid	o0038246
+@oid	o0245338
+@upua	U+F0037
+@ucun	󰀷
+@uage	9.1
 @v	3(šaru@v)
 @v	3(šarʾu@v)
 @inote	cdli lagash2
@@ -50528,7 +50639,10 @@
 @v	4(šaru)
 @link	Wikidata Q87556936 http://www.wikidata.org/entity/Q87556936
 @form 4(ŠARU@v)
-@oid	o0038248
+@oid	o0245339
+@upua	U+F0038
+@ucun	󰀸
+@uage	9.1
 @v	4(šaru@v)
 @v	4(šarʾu@v)
 @inote	cdli lagash2
@@ -50570,6 +50684,9 @@
 @@
 @form 5(ŠARU@v)
 @oid	o0038248
+@upua	U+F0039
+@ucun	󰀹
+@uage	9.1
 @v	5(šaru@v)
 @v	5(šarʾu@v)
 @inote	cdli lagash2
@@ -50587,6 +50704,9 @@
 @aka 	6(|ŠAR₂×KASKAL|)
 @oid	o0028128
 @inote	dccmt
+@upua	U+F003A
+@ucun	󰀺
+@uage	9.1
 @v	6(šaru@v)
 @v	6(šarʾu@v)
 @end sign
@@ -50781,6 +50901,9 @@
 @form 4(U@c)@v
 @oid	o0223421
 @inote	@ucode	xeb90
+@upua	U+F0033
+@ucun	󰀳
+@uage	9.1
 @v	4(u@c)@v
 @@
 @end sign
@@ -50998,6 +51121,9 @@
 @form 3(BURU@c)@v
 @oid	o0223378
 @inote	@ucode	xebba
+@upua	U+F0014
+@ucun	󰀔
+@uage	9.1
 @v	3(burʾu@c)@v
 @@
 @end sign
@@ -51006,10 +51132,16 @@
 @oid	o0223341
 @aka	1(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0000
+@ucun	󰀀
+@uage	9.1
 @form 1(|BAD×DIŠ@t|)
 @oid	o0038143
 @aka	1(|BAD×AŠ@t|)
 @inote	This sign is unattested but is needed to handle n(|BAD×AŠ@t|) which occurs in ED3b
+@upua	U+F000E
+@ucun	󰀎
+@uage	9.1
 @@
 @end sign
 
@@ -51017,33 +51149,51 @@
 @oid	o0223342
 @aka	2(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0001
+@ucun	󰀁
+@uage	9.1
 @end sign
 
 @sign 3(|AŠ×DIŠ@t|)
 @oid	o0223343
 @aka	3(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0002
+@ucun	󰀂
+@uage	9.1
 @end sign
 
 @sign 4(|AŠ×DIŠ@t|)
 @oid	o0223344
 @aka	4(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0003
+@ucun	󰀃
+@uage	9.1
 @end sign
 
 @sign 5(|AŠ×DIŠ@t|)
 @oid	o0223345
 @aka	5(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0004
+@ucun	󰀄
+@uage	9.1
 @end sign
 
 @sign 6(|AŠ×DIŠ@t|)
 @oid	o0223346
 @aka	6(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0005
+@ucun	󰀅
+@uage	9.1
 @form 6(|BAD×DIŠ@t|)
 @oid	o0038174
 @aka	6(|BAD×AŠ@t|)
+@upua	U+F000F
+@ucun	󰀏
+@uage	9.1
 @@
 @end sign
 
@@ -51051,9 +51201,15 @@
 @oid	o0223347
 @aka	7(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0006
+@ucun	󰀆
+@uage	9.1
 @form 7(|BAD×DIŠ@t|)
 @oid	o0038141
 @aka	7(|BAD×AŠ@t|)
+@upua	U+F0010
+@ucun	󰀐
+@uage	9.1
 @@
 @end sign
 
@@ -51061,9 +51217,15 @@
 @oid	o0223348
 @aka	8(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0007
+@ucun	󰀇
+@uage	9.1
 @form 8(|BAD×DIŠ@t|)
 @oid	o0038293
 @aka	8(|BAD×AŠ@t|)
+@upua	U+F0011
+@ucun	󰀑
+@uage	9.1
 @@
 @end sign
 
@@ -51071,10 +51233,16 @@
 @oid	o0223349
 @aka	9(|AŠ×AŠ@t|)
 @list	RSP093
+@upua	U+F0008
+@ucun	󰀈
+@uage	9.1
 @end sign
 
 @sign 2(|GEŠU@c×KASKAL|)
 @oid	o0038252
+@upua	U+F002C
+@ucun	󰀬
+@uage	9.1
 @v	2(gešʾu@v)
 @v	2(ŋešʾu@v)
 @inote	Attested
@@ -51082,6 +51250,9 @@
 
 @sign 3(|GEŠU@c×KASKAL|)
 @oid	o0038254
+@upua	U+F002D
+@ucun	󰀭
+@uage	9.1
 @v	3(gešʾu@v)
 @v	3(ŋešʾu@v)
 @inote	Attested
@@ -51089,6 +51260,9 @@
 
 @sign 4(|GEŠU@c×KASKAL|)
 @oid	o0038256
+@upua	U+F002E
+@ucun	󰀮
+@uage	9.1
 @v	4(gešʾu@v)
 @v	4(ŋešʾu@v)
 @inote	Attested
@@ -51096,12 +51270,18 @@
 
 @sign 5(|GEŠU@c×KASKAL|)
 @oid	o0038258
+@upua	U+F002F
+@ucun	󰀯
+@uage	9.1
 @v	5(gešʾu@v)
 @v	5(ŋešʾu@v)
 @end sign
 
 @sign 6(|GEŠU@c×KASKAL|)
 @oid	o0038260
+@upua	U+F0030
+@ucun	󰀰
+@uage	9.1
 @v	6(gešʾu@v)
 @v	6(ŋešʾu@v)
 @inote	Attested
@@ -51109,6 +51289,9 @@
 
 @sign 7(|GEŠU@c×KASKAL|)
 @oid	o0038262
+@upua	U+F0031
+@ucun	󰀱
+@uage	9.1
 @v	7(gešʾu@v)
 @v	7(ŋešʾu@v)
 @inote	Attested
