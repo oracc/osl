@@ -17051,6 +17051,7 @@
 @v	šardiš?
 @v	šargalₓ
 @v	šarŋeš
+@v	1(šargal~a)
 @v	umma₂?
 @v	utulₓ
 @link	eBL |HI×DIŠ| https://www.ebl.lmu.de/signs/|HI×DIŠ|
@@ -39177,7 +39178,7 @@
 @list	RSP030
 @list	RSP031
 @inote	@ucode	xeba7
-@note P241764 = TM.75.G.02200 ŠAR₂ GAL; apparently a hapax in the curved form.
+@note P241764 = TM.75.G.02200 ŠAR₂ GAL; see also CDLI refs
 @v	šar₂@c
 @v	1(šar₂@c)
 @v	šargal@c
@@ -39267,15 +39268,19 @@
 @aka	|ŠAR₂×2(U)|
 @inote	|HI×(U.U)|
 @inote	@uname-no-utf8	CUNEIFORM SIGN HI TIMES U PLUS U
+@list LAK862
 @v	šarniš
 @v	šaruminₓ
+@v	2(šaru)~a
 @end sign
 
 @sign |ŠAR₂×(U.U.U)|
 @oid	o0028116
 @aka	|ŠAR₂×3(U)|
 @inote	|HI×(U.U.U)|
+@list LAK863
 @v	šarušu
+@v	3(šaru)~a
 @end sign
 
 @sign |ŠAR₂×U@g|
@@ -39285,18 +39290,23 @@
 
 @sign |ŠAR₂×1(GEŠ₂)|
 @oid	o0028121
+@v	6(šaru)~a
 @end sign
 
 @sign |ŠAR₂×4(U)|
 @oid	o0028118
 @inote	|HI×4(U)|
+@list LAK864
 @v	šarnimin
+@v	4(šaru)~a
 @end sign
 
 @sign |ŠAR₂×5(U)|
 @oid	o0028119
 @inote	|HI×5(U)|
+@list LAK865
 @v	šarninnu
+@v	5(šaru)~a
 @end sign
 
 @sign ŠE
@@ -50511,6 +50521,7 @@
 @end sign
 
 @sign 1(ŠARU)
+@aka |ŠAR₂×1(U)|
 @oid	o0000008
 @list	ABZL284
 @list	MZL653
@@ -50532,6 +50543,9 @@
 @v	šaru@c
 @v	1(šarʾu@c)
 @v	1(šaru@c)
+@v	1(šaruʾgal@c)
+@v	1(šarugal@c)
+@inote MCTS 1, Appendix 7: P274845, e.g., iv 1 in notation 1(šarugal@c) 6(šargal@c) {gal}
 @sys pcun 1(N50)
 @list U+12582
 @uname CUNEIFORM NUMERIC SIGN ONE N50

@@ -58,7 +58,11 @@ o0245339	4(ŠARU@v)	F0038	Xsux	9.1
 o0038248	5(ŠARU@v)	F0039	Xsux	9.1
 o0028128	6(ŠARU@v)	F003A	Xsux	9.1
 o0223407	3(U@c)@v	F003B	Xsux	9.1
-o0223421	4(U@c)@v	F0033	Xsux	9.1
+o0223421	4(U@c)@v	F003C	Xsux	9.1
+o0028115	|ŠAR₂×(U.U)|	F003D	Xsux	9.1
+o0028116	|ŠAR₂×(U.U.U)|	F003E	Xsux	9.1
+o0028118	|ŠAR₂×4(U)|	F003F	Xsux	9.1
+o0028119	|ŠAR₂×5(U)|	F0040	Xsux	9.1
 tcl8:e~a	e~a	F1000	gudea/tcl8
 tcl8:gara2~a	gara₂~a	F1001	gudea/tcl8
 tcl8:ne~a	ne~a	F1002	gudea/tcl8
