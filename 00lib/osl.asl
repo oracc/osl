@@ -39269,6 +39269,9 @@
 @inote	|HI×(U.U)|
 @inote	@uname-no-utf8	CUNEIFORM SIGN HI TIMES U PLUS U
 @list LAK862
+@upua	U+F003D
+@ucun	󰀽
+@uage	9.1
 @v	šarniš
 @v	šaruminₓ
 @v	2(šaru)~a
@@ -39279,6 +39282,9 @@
 @aka	|ŠAR₂×3(U)|
 @inote	|HI×(U.U.U)|
 @list LAK863
+@upua	U+F003E
+@ucun	󰀾
+@uage	9.1
 @v	šarušu
 @v	3(šaru)~a
 @end sign
@@ -39297,6 +39303,9 @@
 @oid	o0028118
 @inote	|HI×4(U)|
 @list LAK864
+@upua	U+F003F
+@ucun	󰀿
+@uage	9.1
 @v	šarnimin
 @v	4(šaru)~a
 @end sign
@@ -39305,6 +39314,9 @@
 @oid	o0028119
 @inote	|HI×5(U)|
 @list LAK865
+@upua	U+F0040
+@ucun	󰁀
+@uage	9.1
 @v	šarninnu
 @v	5(šaru)~a
 @end sign
