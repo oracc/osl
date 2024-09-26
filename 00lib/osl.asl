@@ -50533,7 +50533,6 @@
 @end sign
 
 @sign 1(ŠARU)
-@aka |ŠAR₂×1(U)|
 @oid	o0000008
 @list	ABZL284
 @list	MZL653
