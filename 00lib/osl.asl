@@ -51392,6 +51392,7 @@
 @end sign
 
 @pcun 1(N01@f)
+@oid	o0027234
 @list U+1264C
 @uname CUNEIFORM NUMERIC SIGN ONE N01 FLAT
 @uage ACN
@@ -51470,6 +51471,7 @@
 @end pcun
 
 @pcun 2(N14@f)
+@oid o0027300
 @list U+12657
 @uname CUNEIFORM NUMERIC SIGN TWO N14 FLAT
 @uage ACN
@@ -51478,6 +51480,7 @@
 @end pcun
 
 @pcun 3(N14@f)
+@oid o0027335
 @list U+12658
 @uname CUNEIFORM NUMERIC SIGN THREE N14 FLAT
 @uage ACN
