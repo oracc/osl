@@ -4241,6 +4241,7 @@
 @v	1(aš@t)
 @inote	For sign form LAK178 LAK notes passim in FARA for later U and later for AŠ, DIŠ, or U.
 @v	aš₁₁
+@v	aš@t
 @v	del₄
 @v	dele₄
 @v	deš₅
@@ -11057,6 +11058,8 @@
 @@
 @form F₄@c@v
 @oid	o0038146
+@v	1/4(aš@c)
+@inote not only GAN₂; also used in GUR measure e.g., OrAnt 18, 225 (P221806) i 1
 @v	1/4(iku@c@v)
 @inote	This variant can be described as |1(AŠ@c)×1(AŠ)|
 @sys acn 1/4(IKU@c@v)
