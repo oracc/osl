@@ -6989,6 +6989,7 @@
 @link	eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
 @link	Wikidata Q87555241 http://www.wikidata.org/entity/Q87555241
 @form AŠ@c
+@aka 1(N01)
 @oid	o0221914
 @inote	dcclt *() punctuation qualifier
 @sys pcun 1(N01)
@@ -7008,6 +7009,7 @@
 @link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @@
 @form DIŠ@c
+@aka 1(N08)
 @oid	o0223336
 @aka	N8
 @inote	@ucode	xebc2
@@ -7061,6 +7063,7 @@
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @@
 @form U@c
+@aka 1(N14)
 @oid	o0223334
 @inote	dcclt *() punctuation qualifier
 @sys pcun 1(N14)
@@ -13934,6 +13937,7 @@
 @end sign
 
 @sign GEŠMIN@c
+@aka 1(N51)
 @oid	o0000861
 @aka	|AŠ&AŠ@180|
 @inote	ed3a number; descriptive name in @aka is bad--should be
@@ -13954,6 +13958,7 @@
 @end sign
 
 @sign GEŠMINU@c
+@aka 1(N54)
 @oid	o0000621
 @aka	|(AŠ&AŠ@180)×U|
 @inote	ed3a number; 2024-07-28 move to GEŠMINU@c as conventional sign name
@@ -17054,8 +17059,6 @@
 @link	Wikidata Q87555599 http://www.wikidata.org/entity/Q87555599
 @end sign
 
-@end sign
-
 @sign |HI×GAD|
 @oid	o0001455
 @list	GCSL158
@@ -18704,6 +18707,7 @@
 @link	eBL ILIMMU https://www.ebl.lmu.de/signs/ILIMMU
 @link	Wikidata Q87556989 http://www.wikidata.org/entity/Q87556989
 @form 9(DIŠ@c)
+@aka 9(N08)
 @oid	o0223453
 @v	9(aš@c@90)
 @v	9(diš@c)
@@ -29531,8 +29535,6 @@
 	it is normally a synonym for aš@t.
 @end sign
 
-@end sign
-
 @sign |MAŠ.EN|
 @oid	o0001992
 @pname	|MAŠ+EN|
@@ -32140,6 +32142,7 @@
 @link	eBL NIGIDAEŠ https://www.ebl.lmu.de/signs/NIGIDAEŠ
 @link	Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
 @form NIGIDAEŠ@c
+@aka 3(N08)
 @oid	o0223339
 @list	RSP038
 @v-	3/4(aš@c)
@@ -32174,6 +32177,7 @@
 @link	eBL NIGIDAMIN https://www.ebl.lmu.de/signs/NIGIDAMIN
 @link	Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
 @form NIGIDAMIN@c
+@aka 2(N08)
 @oid	o0223340
 @list	RSP037
 @v-	2/4(aš@c)
@@ -39180,6 +39184,7 @@
 @link	eBL ŠAR₂ https://www.ebl.lmu.de/signs/ŠAR₂
 @link	Wikidata Q87556376 http://www.wikidata.org/entity/Q87556376
 @form ŠAR₂@c
+@aka 1(N45)
 @aka ŠARGAL@c
 @oid	o0223485
 @list	RSP030
@@ -44013,6 +44018,7 @@
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @link	Wikidata Q87556828 http://www.wikidata.org/entity/Q87556828
 @form 2(U@c)
+@aka 2(N14)
 @oid	o0223394
 @inote	@ucode	xeb8c
 @v	2(bur₃@c)
@@ -44069,6 +44075,7 @@
 @oid	o0000021
 @@
 @form 3(U@c)
+@aka 3(N14)
 @oid	o0223406
 @inote	@ucode	xeb8d
 @v	eše@c
@@ -48697,6 +48704,7 @@
 @end sign
 
 @sign 2(GEŠMIN@c)
+@aka 2(N51)
 @oid	o0038105
 @v	2(gešmin@c)
 @v	2(ŋešmin@c)
@@ -48708,6 +48716,7 @@
 @end sign
 
 @sign 3(GEŠMIN@c)
+@aka 3(N51)
 @oid	o0038107
 @v	3(gešmin@c)
 @v	3(ŋešmin@c)
@@ -48719,6 +48728,7 @@
 @end sign
 
 @sign 4(GEŠMIN@c)
+@aka 4(N51)
 @oid	o0038109
 @v	4(gešmin@c)
 @v	4(ŋešmin@c)
@@ -48730,6 +48740,7 @@
 @end sign
 
 @sign 5(GEŠMIN@c)
+@aka 5(N51)
 @oid	o0038111
 @v	5(gešmin@c)
 @v	5(ŋešmin@c)
@@ -48741,6 +48752,7 @@
 @end sign
 
 @sign 6(GEŠMIN@c)
+@aka 6(N51)
 @oid	o0038112
 @v	6(gešmin@c)
 @v	6(ŋešmin@c)
@@ -48753,6 +48765,7 @@
 @end sign
 
 @sign 7(GEŠMIN@c)
+@aka 7(N51)
 @oid	o0038113
 @v	7(gešmin@c)
 @v	7(ŋešmin@c)
@@ -48764,6 +48777,7 @@
 @end sign
 
 @sign 8(GEŠMIN@c)
+@aka 8(N51)
 @oid	o0038362
 @v	8(gešmin@c)
 @v	8(ŋešmin@c)
@@ -48775,6 +48789,7 @@
 @end sign
 
 @sign 9(GEŠMIN@c)
+@aka 9(N51)
 @oid	o0038364
 @v	9(gešmin@c)
 @v	9(ŋešmin@c)
@@ -48858,6 +48873,7 @@
 @v	1(eše₃)
 @link	Wikidata Q87557027 http://www.wikidata.org/entity/Q87557027
 @form 1(EŠE₃@c)
+@aka 1(N22)
 @oid	o0223386
 @inote	@ucode	xebc7
 @v	eše₃@c
@@ -48881,6 +48897,7 @@
 @v	2(eše₃)
 @link	Wikidata Q87557029 http://www.wikidata.org/entity/Q87557029
 @form 2(EŠE₃@c)
+@aka 2(N22)
 @oid	o0223391
 @inote	@ucode	xebc8
 @v	2(eše₃@c)
@@ -48910,6 +48927,7 @@
 @v	2(šargal)
 @link	Wikidata Q87556910 http://www.wikidata.org/entity/Q87556910
 @form 2(ŠAR₂@c)
+@aka 2(N45)
 @oid	o0223395
 @inote	@ucode	xeba8
 @v	2(šar₂@c)
@@ -48931,6 +48949,7 @@
 @v	3(šargal)
 @link	Wikidata Q87556912 http://www.wikidata.org/entity/Q87556912
 @form 3(ŠAR₂@c)
+@aka 3(N45)
 @oid	o0223409
 @inote	@ucode	xeba9
 @v	3(šar₂@c)
@@ -48971,6 +48990,7 @@
 @v	4(šargal)
 @link	Wikidata Q87556916 http://www.wikidata.org/entity/Q87556916
 @form 4(ŠAR₂@c)
+@aka 4(N45)
 @oid	o0223422
 @inote	@ucode	xebab
 @v	4(šar₂@c)
@@ -48992,6 +49012,7 @@
 @v	5(šargal)
 @link	Wikidata Q87556917 http://www.wikidata.org/entity/Q87556917
 @form 5(ŠAR₂@c)
+@aka 5(N45)
 @oid	o0223430
 @inote	@ucode	xebac
 @v	5(šar₂@c)
@@ -49013,6 +49034,7 @@
 @v	6(šargal)
 @link	Wikidata Q87556919 http://www.wikidata.org/entity/Q87556919
 @form 6(ŠAR₂@c)
+@aka 6(N45)
 @oid	o0223437
 @inote	@ucode	xebad
 @v	6(šar₂@c)
@@ -49034,6 +49056,7 @@
 @v	7(šargal)
 @link	Wikidata Q87556921 http://www.wikidata.org/entity/Q87556921
 @form 7(ŠAR₂@c)
+@aka 7(N45)
 @oid	o0223445
 @inote	@ucode	xebae
 @v	7(šar₂@c)
@@ -49055,6 +49078,7 @@
 @v	8(šargal)
 @link	Wikidata Q87556923 http://www.wikidata.org/entity/Q87556923
 @form 8(ŠAR₂@c)
+@aka 8(N45)
 @oid	o0223450
 @inote	@ucode	xebaf
 @v	8(šar₂@c)
@@ -49077,6 +49101,7 @@
 @inote	9(šargal) P102004
 @link	Wikidata Q87556926 http://www.wikidata.org/entity/Q87556926
 @form 9(ŠAR₂@c)
+@aka 9(N45)
 @oid	o0223460
 @inote	@ucode	xebb0
 @v	9(šar₂@c)
@@ -49313,6 +49338,7 @@
 @v	1(gešu)
 @link	Wikidata Q87556890 http://www.wikidata.org/entity/Q87556890
 @form GEŠU@c
+@aka 1(N48)
 @oid	o0223467
 @list	RSP027
 @inote	@ucode	xeba1
@@ -49342,6 +49368,7 @@
 @v	2(gešu)
 @link	Wikidata Q87556891 http://www.wikidata.org/entity/Q87556891
 @form 2(GEŠU@c)
+@aka 2(N48)
 @oid	o0223392
 @inote	@ucode	xeba2
 @v	2(gešʾu@c)
@@ -49364,6 +49391,7 @@
 @v	3(gešu)
 @link	Wikidata Q87556893 http://www.wikidata.org/entity/Q87556893
 @form 3(GEŠU@c)
+@aka 3(N48)
 @oid	o0223402
 @inote	@ucode	xeba3
 @v	3(gešʾu@c)
@@ -49395,6 +49423,7 @@
 @v	4(gešu)
 @link	Wikidata Q87556895 http://www.wikidata.org/entity/Q87556895
 @form 4(GEŠU@c)
+@aka 4(N48)
 @oid	o0223416
 @inote	@ucode	xeba5
 @v	4(gešʾu@c)
@@ -49425,6 +49454,7 @@
 @v	5(gešu)
 @link	Wikidata Q87556896 http://www.wikidata.org/entity/Q87556896
 @form 5(GEŠU@c)
+@aka 5(N48)
 @oid	o0223427
 @inote	@ucode	xeba6
 @v	5(gešʾu@c)
@@ -49472,6 +49502,7 @@
 @v	1(ŋeš₂)
 @link	Wikidata Q87556872 http://www.wikidata.org/entity/Q87556872
 @form GEŠ₂@c
+@aka 1(N34)
 @oid	o0223469
 @list	RSP025
 @inote	@ucode	xeb96
@@ -49523,6 +49554,7 @@
 @v	2(ŋeš₂)
 @link	Wikidata Q87556874 http://www.wikidata.org/entity/Q87556874
 @form 2(GEŠ₂@c)
+@aka 2(N34)
 @oid	o0223393
 @inote	@ucode	xeb97
 @v	2(geš₂@c)
@@ -49551,6 +49583,7 @@
 @v	3(ŋeš₂)
 @link	Wikidata Q87556876 http://www.wikidata.org/entity/Q87556876
 @form 3(GEŠ₂@c)
+@aka 3(N34)
 @oid	o0223404
 @inote	@ucode	xeb98
 @v	3(geš₂@c)
@@ -49594,6 +49627,7 @@
 @v	4(ŋeš₂)
 @link	Wikidata Q87556879 http://www.wikidata.org/entity/Q87556879
 @form 4(GEŠ₂@c)
+@aka 4(N34)
 @oid	o0223418
 @inote	@ucode	xeb9a
 @v	4(geš₂@c)
@@ -49637,6 +49671,7 @@
 @v	5(ŋeš₂)
 @link	Wikidata Q87556881 http://www.wikidata.org/entity/Q87556881
 @form 5(GEŠ₂@c)
+@aka 5(N34)
 @oid	o0223428
 @inote	@ucode	xeb9c
 @v	5(geš₂@c)
@@ -49665,6 +49700,7 @@
 @v	6(ŋeš₂)
 @link	Wikidata Q87556882 http://www.wikidata.org/entity/Q87556882
 @form 6(GEŠ₂@c)
+@aka 6(N34)
 @oid	o0223435
 @inote	@ucode	xeb9d
 @v	6(geš₂@c)
@@ -49693,6 +49729,7 @@
 @v	7(ŋeš₂)
 @link	Wikidata Q87556884 http://www.wikidata.org/entity/Q87556884
 @form 7(GEŠ₂@c)
+@aka 7(N34)
 @oid	o0223443
 @inote	@ucode	xeb9e
 @v	7(geš₂@c)
@@ -49721,6 +49758,7 @@
 @v	8(ŋeš₂)
 @link	Wikidata Q87556886 http://www.wikidata.org/entity/Q87556886
 @form 8(GEŠ₂@c)
+@aka 8(N34)
 @oid	o0223448
 @inote	@ucode	xeb9f
 @v	8(geš₂@c)
@@ -49742,6 +49780,7 @@
 @v	9(ŋeš₂)
 @link	Wikidata Q87556888 http://www.wikidata.org/entity/Q87556888
 @form 9(GEŠ₂@c)
+@aka 9(N34)
 @oid	o0223458
 @inote	@ucode	xeba0
 @v	9(geš₂@c)
@@ -49754,6 +49793,7 @@
 @end sign
 
 @sign 2(GEŠMINU@c)
+@aka 2(N54)
 @oid	o0038118
 @v	2(gešminʾu@c)
 @v	2(ŋešminʾu@c)
@@ -49766,6 +49806,7 @@
 @end sign
 
 @sign 3(GEŠMINU@c)
+@aka 3(N54)
 @oid	o0038120
 @v	3(gešminʾu@c)
 @v	3(ŋešminʾu@c)
@@ -49777,6 +49818,7 @@
 @end sign
 
 @sign 4(GEŠMINU@c)
+@aka 4(N54)
 @oid	o0038122
 @v	4(gešminʾu@c)
 @v	4(ŋešminʾu@c)
@@ -49788,6 +49830,7 @@
 @end sign
 
 @sign 5(GEŠMINU@c)
+@aka 5(N54)
 @oid	o0038360
 @v	5(gešminʾu@c)
 @v	5(ŋešminʾu@c)
@@ -49902,6 +49945,7 @@
 @link	eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
 @link	Wikidata Q87556849 http://www.wikidata.org/entity/Q87556849
 @form 4(DIŠ@c)
+@aka 4(N08)
 @oid	o0223415
 @inote	@ucode	xebc6
 @v	4(aš@c@90)
@@ -49932,6 +49976,7 @@
 @v	5(diš)
 @link	Wikidata Q87556851 http://www.wikidata.org/entity/Q87556851
 @form 5(DIŠ@c)
+@aka 5(N08)
 @oid	o0223426
 @v	5(aš@c@90)
 @v	5(barig@c)
@@ -49966,6 +50011,7 @@
 @link	eBL 6(DIŠ) https://www.ebl.lmu.de/signs/6(DIŠ)
 @link	Wikidata Q87556853 http://www.wikidata.org/entity/Q87556853
 @form 6(DIŠ@c)
+@aka 6(N08)
 @oid	o0223434
 @v	6(aš@c@90)
 @v	6(barig@c)
@@ -49989,6 +50035,7 @@
 @v	7(diš)
 @link	Wikidata Q87556855 http://www.wikidata.org/entity/Q87556855
 @form 7(DIŠ@c)
+@aka 7(N08)
 @oid	o0223440
 @v	7(aš@c@90)
 @v	7(barig@c)
@@ -50068,6 +50115,7 @@
 @link	Wikidata Q87556984 http://www.wikidata.org/entity/Q87556984
 @@
 @form 8(DIŠ@c)
+@aka 8(N08)
 @oid	o0223447
 @v	8(diš@c)
 @v	8(aš@c@90)
@@ -50244,6 +50292,7 @@
 @v	2(iku)
 @link	Wikidata Q87556830 http://www.wikidata.org/entity/Q87556830
 @form 2(AŠ@c)
+@aka 2(N01)
 @oid	o0223388
 @inote	@ucode	xeb81
 @v	2(aš@c)
@@ -50270,6 +50319,7 @@
 @v	3(iku)
 @link	Wikidata Q87556833 http://www.wikidata.org/entity/Q87556833
 @form 3(AŠ@c)
+@aka 3(N01)
 @oid	o0223396
 @inote	@ucode	xeb82
 @v	3(aš@c)
@@ -50302,6 +50352,7 @@
 @v-	limmuₓ
 @link	Wikidata Q87556835 http://www.wikidata.org/entity/Q87556835
 @form 4(AŠ@c)
+@aka 4(N01)
 @oid	o0223411
 @inote	@ucode	xeb84
 @v	4(aš@c)
@@ -50326,6 +50377,7 @@
 @v	5(iku)
 @link	Wikidata Q87556838 http://www.wikidata.org/entity/Q87556838
 @form 5(AŠ@c)
+@aka 5(N01)
 @oid	o0223423
 @inote	@ucode	xeb86
 @v	5(aš@c)
@@ -50350,6 +50402,7 @@
 @v	6(iku)
 @link	Wikidata Q87556840 http://www.wikidata.org/entity/Q87556840
 @form 6(AŠ@c)
+@aka 6(N01)
 @oid	o0223432
 @inote	@ucode	xeb87
 @v	6(aš@c)
@@ -50374,6 +50427,7 @@
 @v	7(iku)
 @link	Wikidata Q87556841 http://www.wikidata.org/entity/Q87556841
 @form 7(AŠ@c)
+@aka 7(N01)
 @oid	o0223438
 @inote	@ucode	xeb88
 @v	7(aš@c)
@@ -50406,6 +50460,7 @@
 @v	8(aš)
 @link	Wikidata Q87556843 http://www.wikidata.org/entity/Q87556843
 @form 8(AŠ@c)
+@aka 8(N01)
 @oid	o0223446
 @inote	@ucode	xeb89
 @v	8(aš@c)
@@ -50437,6 +50492,7 @@
 @v	9(aš)
 @link	Wikidata Q87556845 http://www.wikidata.org/entity/Q87556845
 @form 9(AŠ@c)
+@aka 9(N01)
 @oid	o0223451
 @inote	@ucode	xeb8a
 @v	9(aš@c)
@@ -50549,6 +50605,7 @@
 @v	1(šaru)
 @link	Wikidata Q87556927 http://www.wikidata.org/entity/Q87556927
 @form 1(ŠARU@c)
+@aka 1(N50)
 @oid	o0223373
 @list	RSP032
 @inote	@ucode	xebb1
@@ -50600,6 +50657,7 @@
 @v	2(šaru)
 @link	Wikidata Q87556931 http://www.wikidata.org/entity/Q87556931
 @form 2(ŠARU@c)
+@aka 2(N50)
 @oid	o0223376
 @inote	@ucode	xebb2
 @v	2(šarʾu@c)
@@ -50633,6 +50691,7 @@
 @v	3(šaru)
 @link	Wikidata Q87556932 http://www.wikidata.org/entity/Q87556932
 @form 3(ŠARU@c)
+@aka 3(N50)
 @oid	o0223408
 @inote	@ucode	xebb3
 @v	3(šarʾu@c)
@@ -50675,6 +50734,7 @@
 @inote	cdli lagash2
 @@
 @form 4(ŠARU@c)
+@aka 4(N50)
 @oid	o0223381
 @inote	@ucode	xebb5
 @v	4(šarʾu@c)
@@ -50699,6 +50759,7 @@
 @v	5(šaru)
 @link	Wikidata Q87556939 http://www.wikidata.org/entity/Q87556939
 @form 5(ŠARU@c)
+@aka 5(N50)
 @oid	o0223383
 @inote	@ucode	xebb6
 @v	5(šarʾu@c)
@@ -50915,6 +50976,7 @@
 @v	4(u)
 @link	Wikidata Q87556861 http://www.wikidata.org/entity/Q87556861
 @form 4(U@c)
+@aka 4(N14)
 @oid	o0223420
 @inote	@ucode	xeb8f
 @v	4(bur₃@c)
@@ -50976,6 +51038,7 @@
 @v	5(u)
 @link	Wikidata Q87556863 http://www.wikidata.org/entity/Q87556863
 @form 5(U@c)
+@aka 5(N14)
 @oid	o0223429
 @inote	@ucode	xeb91
 @v	5(bur₃@c)
@@ -51018,6 +51081,7 @@
 @v	6(u)
 @link	Wikidata Q87556865 http://www.wikidata.org/entity/Q87556865
 @form 6(U@c)
+@aka 6(N14)
 @oid	o0223436
 @inote	@ucode	xeb92
 @v	6(bur₃@c)
@@ -51051,6 +51115,7 @@
 @v	7(u)
 @link	Wikidata Q87556867 http://www.wikidata.org/entity/Q87556867
 @form 7(U@c)
+@aka 7(N14)
 @oid	o0223444
 @inote	@ucode	xeb93
 @v	7(bur₃@c)
@@ -51084,6 +51149,7 @@
 @v	8(u)
 @link	Wikidata Q87556868 http://www.wikidata.org/entity/Q87556868
 @form 8(U@c)
+@aka 8(N14)
 @oid	o0223449
 @inote	@ucode	xeb94
 @v	8(bur₃@c)
@@ -51117,6 +51183,7 @@
 @v	9(u)
 @link	Wikidata Q87556870 http://www.wikidata.org/entity/Q87556870
 @form 9(U@c)
+@aka 9(N14)
 @oid	o0223459
 @inote	@ucode	xeb95
 @v	9(bur₃@c)
@@ -51329,6 +51396,7 @@
 @uname CUNEIFORM NUMERIC SIGN ONE N01 FLAT
 @uage ACN
 @ucun 𒙌
+@v	1(aš@f)
 @end pcun
 
 @pcun 2(N01@f)
@@ -51406,6 +51474,7 @@
 @uname CUNEIFORM NUMERIC SIGN TWO N14 FLAT
 @uage ACN
 @ucun 𒙗
+@v	2(u@f)
 @end pcun
 
 @pcun 3(N14@f)
@@ -51413,6 +51482,7 @@
 @uname CUNEIFORM NUMERIC SIGN THREE N14 FLAT
 @uage ACN
 @ucun 𒙘
+@v	3(u@f)
 @end pcun
 
 @pcun 4(N14@f)

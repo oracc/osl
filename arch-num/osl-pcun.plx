@@ -12,10 +12,15 @@ use Getopt::Long;
 my $asl = '../00lib/osl.asl';
 my $flat = 0;
 my @flat = ();
+my $list = '';
+my @list = ();
+my %list = ();
+my %listseen = ();
 
 GetOptions(
     'asl:s'=>\$asl,
     flat=>\$flat,
+    'list:s'=>\$list,
     );
 
 #
@@ -48,7 +53,14 @@ if ($flat) {
     if ($adding) {
 	add_flat();
     } else {
-	rem_flat();
+	rem_flat(); # not yet implemented
+    }
+    exit 0;
+} elsif ($list) {
+    if ($adding) {
+	add_list();
+    } else {
+	rem_list(); # not yet implemented
     }
     exit 0;
 }
@@ -68,14 +80,17 @@ while (($sf,$end) = get_sign_or_form($sf)) {
 	    rem_data($p,$sf,$end);
 	}
     } else {
-	my $head = $o[$sf]; $head =~ s/^.*?\s+//; $head =~ s/\s*$//;
-	if ($data{$head}) {
-	    add_data($head,$sf,$end);
-	    ++$seen{$head};
+	my $head = $o[$sf];
+	if ($head) {
+	    $head =~ s/^.*?\s+//; $head =~ s/\s*$//;
+	    if ($data{$head}) {
+		add_data($head,$sf,$end);
+		++$seen{$head};
+	    }
 	}
     }
     $sf = $end;
-    ++$end unless $o[$end] =~ /^\@form/;
+    ++$end unless $o[$end] && $o[$end] =~ /^\@form/;
 }
 
 foreach my $k (sort keys %data) {
@@ -134,6 +149,11 @@ sub load_data {
 	    if ($usn =~ /\@f/) {
 		push @flat, "\@pcun $usn\n$udata\n\@end pcun\n\n";
 	    }
+	} elsif ($list) {
+	    if (exists $list{$usn}) {
+		push @list, "\@pcun $usn\n$udata\n\@end pcun\n\n";
+		++$listseen{$usn};
+	    }
 	} else {
 	    if ($ws eq 'p' && $map) {
 		my $val = "\@sys pcun $usn\n$udata";
@@ -176,6 +196,29 @@ sub add_flat {
     system 'cat', $asl;
     print "\n";
     print @flat;
+}
+
+### ADD/REM LIST
+#
+# one name per line, e.g.,
+#
+# 1(N01)
+# 2(N01)
+# etc.
+
+sub add_list {
+    load_list();
+    load_data($ARGV[0]);
+    system 'cat', $asl;
+    print "\n";
+    print @list;
+    foreach (keys %list) {
+	warn "$_ not found in $ARGV[0]\n" unless $listseen{$_};
+    }
+}
+
+sub load_list {
+    my @l = `cat $list`; chomp @l; @list{@l} = ();
 }
 
 1;
