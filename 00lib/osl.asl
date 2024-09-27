@@ -51810,3 +51810,5 @@
 @ucun 𒚆
 @end pcun
 
+@pcun |2(N57)+E₂|
+@end pcun
