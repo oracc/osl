@@ -7017,7 +7017,7 @@
 @v	barig@c
 @v	bariga@c
 @v	diš@c
-@v-	1/4(aš@c)
+@inote @v-	1/4(aš@c)
 @inote in donkey texts to indicate "1 donkey"; use 1(diš@c) instead
 @v	1(aš@c@90)
 @v	1/2(aš@c@90)
