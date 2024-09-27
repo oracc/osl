@@ -51812,3 +51812,5 @@
 
 @pcun |2(N57)+E₂|
 @end pcun
+
+@compoundonly 2(N57)
