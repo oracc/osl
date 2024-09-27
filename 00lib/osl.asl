@@ -7121,6 +7121,9 @@
 @link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @form 3(DIŠ)~a
 @oid	o0038367
+@upua	U+F0042
+@ucun	󰁂
+@uage	9.1
 @v	3(diš)~a
 @inote see note to 1/2(diš)~a
 @@
@@ -29531,6 +29534,9 @@
 @@
 @sign F₇
 @oid	o0038137
+@upua	U+F0041
+@ucun	󰁁
+@uage	9.1
 @v	1/2(diš@t)~a
 @inote	P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ
 	and F₇ is a NE to SW slanted cuneiform DIŠ with a horizontal indicating the half value as
@@ -39149,6 +39155,9 @@
 @link	Wikidata Q87557042 http://www.wikidata.org/entity/Q87557042
 @form ŠANABI@t
 @oid	o0038243
+@upua	U+F0043
+@ucun	󰁃
+@uage	9.1
 @v	2/3(diš@t)
 @inote	minor graphic variant in Lagash II; https://cdli.mpiwg-berlin.mpg.de/artifacts/100852/reader/7798
 @@
@@ -50787,6 +50796,9 @@
 @sign |ŠAR₂×KASKAL|
 @oid	o0027733
 @inote	etcsri, dccmt
+@upua	U+F0044
+@ucun	󰁄
+@uage	9.1
 @v	1(šarʾu@v)
 @inote value now has @v inside paren because ŠAR₂×KASKAL it its own series
 @end sign
@@ -50831,6 +50843,9 @@
 @form 1(BAN₂@t)
 @oid	o0038369
 @inote Not the same as ED IIIa MAŠ@t
+@upua	U+F0045
+@ucun	󰁅
+@uage	9.1
 @v	1/2(aš@t)
 @v	1/2(diš@t)
 @inote needed for P216905
