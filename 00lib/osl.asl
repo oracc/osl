@@ -50829,9 +50829,11 @@
 @v	ban₂@v
 @@
 @form 1(BAN₂@t)
+@oid	o0038369
 @inote Not the same as ED IIIa MAŠ@t
 @v	1/2(aš@t)
 @v	1/2(diš@t)
+@inote needed for P216905
 @@
 @form 1(BAN₂@c)
 @oid	o0223385
