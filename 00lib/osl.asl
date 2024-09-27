@@ -4222,6 +4222,7 @@
 
 @sign AŠ@t
 @aka AŠ@z
+@aka DIŠ@t
 @inote Moving aš@t value, etc., to sign AŠ@t was a mistake; AŠ@t and AŠ@z unified.
 @inote New 20240923 aš@t and diš@t considered synonyms and all diš@t moved to corresponding aš@t.
 @oid	o0000108
@@ -4245,6 +4246,8 @@
 @v	deš₅
 @v	dil₄
 @v	dili₄
+@v	diš@t
+@v	1(diš@t)
 @v	eš₁₈
 @v	ge₂₃
 @v	iš₈
@@ -7112,6 +7115,10 @@
 @v	eš₅
 @v	eša₅
 @link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
+@form 3(DIŠ)~a
+@v	3(diš)~a
+@inote see note to 1/2(diš)~a
+@@
 @end sign
 
 @sign |DIŠ.DIŠ.DIŠ.U.U|
@@ -7173,13 +7180,6 @@
 @ref	VAT 9541 = dcclt:PP345960 o iii 12', ba-ak DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k = %a šu-šu-ru
 @v	bak₂
 @link	eBL |DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k| https://www.ebl.lmu.de/signs/|DIŠ@k.DIŠ@k.DIŠ@k.DIŠ@k|
-@end sign
-
-@sign DIŠ@t
-@oid	o0000147
-@v	diš@t
-@v	1(diš@t)
-@link	eBL DIŠ@t https://www.ebl.lmu.de/signs/DIŠ@t
 @end sign
 
 @sign DU
@@ -11087,12 +11087,6 @@
 @uage	5.0
 @link	eBL F₆ https://www.ebl.lmu.de/signs/F₆
 @link	Wikidata Q87557055 http://www.wikidata.org/entity/Q87557055
-@end sign
-
-@sign F₇
-@oid	o0038137
-@v	1/2(diš@t)
-@inote	P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ and F₇ is a NE to SW slanted cuneiform DIŠ with a horizontal indicating the half value as with 1/2(aš@c)
 @end sign
 
 @sign F₈
@@ -17052,10 +17046,13 @@
 @v	šargalₓ
 @v	šarŋeš
 @v	1(šargal~a)
+@v	6(šaru)~a
 @v	umma₂?
 @v	utulₓ
 @link	eBL |HI×DIŠ| https://www.ebl.lmu.de/signs/|HI×DIŠ|
 @link	Wikidata Q87555599 http://www.wikidata.org/entity/Q87555599
+@end sign
+
 @end sign
 
 @sign |HI×GAD|
@@ -29524,6 +29521,15 @@
 @v	maš
 @ref	SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t
 @@
+@sign F₇
+@oid	o0038137
+@v	1/2(diš@t)~a
+@inote	P480578 = Fs Krecher 349-350 17; the unit numbers on this tablet are slanted cuneiform DIŠ
+	and F₇ is a NE to SW slanted cuneiform DIŠ with a horizontal indicating the half value as
+	with 1/2(aš@c). This tablet is one of very few where diš@t means 'slanting NE to SW';
+	it is normally a synonym for aš@t.
+@end sign
+
 @end sign
 
 @sign |MAŠ.EN|
@@ -39136,7 +39142,7 @@
 @form ŠANABI@t
 @oid	o0038243
 @v	2/3(diš@t)
-@inote	minor graphic variant in Lagash II
+@inote	minor graphic variant in Lagash II; https://cdli.mpiwg-berlin.mpg.de/artifacts/100852/reader/7798
 @@
 @form ŠANABI@v
 @oid	o0038144
@@ -39292,11 +39298,6 @@
 @sign |ŠAR₂×U@g|
 @oid	o0027734
 @inote	etcsri
-@end sign
-
-@sign |ŠAR₂×1(GEŠ₂)|
-@oid	o0028121
-@v	6(šaru)~a
 @end sign
 
 @sign |ŠAR₂×4(U)|

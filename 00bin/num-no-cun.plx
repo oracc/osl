@@ -37,7 +37,7 @@ for (my $i = 0; $i < $#osl; ++$i) {
     } elsif ($osl[$i] =~ /^\@v\s+(\S+)\s*$/) {
 	my $v = $1;
 	unless ($ignoring) {
-	    if ($v =~ /\(/) {
+	    if ($v =~ /[0-9]\(/ && $v !~ /^[nN]/) {
 		warn "$i: $curr: $v\n"
 		    unless $ucun{$curr};
 	    }
