@@ -7116,6 +7116,7 @@
 @v	eša₅
 @link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @form 3(DIŠ)~a
+@oid	o0038367
 @v	3(diš)~a
 @inote see note to 1/2(diš)~a
 @@
