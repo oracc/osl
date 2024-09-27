@@ -29516,8 +29516,6 @@
 @v-	waš
 @v	zapahₓ
 @v	zipah
-@v	1/2(aš)
-@inote	1/2(aš) used by CDLI with GUR measures
 @v-	1/2(ban₂)
 @inote Removed because it makes no sense for this to be 1/2(ban₂) given that the same form is
 	also 1(ban₂) (disunified, see sign 1(BAN₂))
@@ -29528,6 +29526,8 @@
 @oid	o0000450
 @v	maš
 @ref	SF 16 = dcclt:P010588 o iv 7, su-la₂ MAŠ@t
+@inote This MAŠ@t is rotated 45 degrees counterclockwise in the gestalt of KUR₂.
+	It's the goat-MAŠ in a Fara lexical animal sequence
 @@
 @sign F₇
 @oid	o0038137
@@ -50820,11 +50820,18 @@
 @v	sutₓ
 @v	sutu
 @v	1(ban₂)
+@v	1/2(aš)
+@inote	1/2(aš) used by CDLI with GUR measures
 @link	eBL 1(BAN₂) https://www.ebl.lmu.de/signs/1(BAN₂)
 @link	Wikidata Q87557009 http://www.wikidata.org/entity/Q87557009
 @form BAN₂@v
 @oid	o0223465
 @v	ban₂@v
+@@
+@form 1(BAN₂@t)
+@inote Not the same as ED IIIa MAŠ@t
+@v	1/2(aš@t)
+@v	1/2(diš@t)
 @@
 @form 1(BAN₂@c)
 @oid	o0223385
@@ -50839,7 +50846,7 @@
 @v	1(ban₂@c)
 @v	1/2(diš@c)
 @v	1/4(diš@c)
-@inote	This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this.
+@inote	This value used by CDLI transliteration for CUSAS 33, 142 r ii 3 etc. The transliteration ad loc uses "1/4?(DIŠc×AŠ)" but there is no photo or copy.  The description fits LAK838/RSP036 but the value should be treated as uncertain. See also P251643 = CUSAS 35, 379 o ii 2 where photo confirms this. We should probably use a different transliteration for the 1/4 value (e.g., 1/4(diš@c@v)) because it's incongruent to have a single sign mean 1/4 and 1/2 in the same system.
 @sys acn 1(BAN₂@c)
 @list U+12593
 @uname CUNEIFORM NUMERIC SIGN ONE BAN2 CURVED
