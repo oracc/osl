@@ -13938,6 +13938,8 @@
 @v	utak
 @v	uzalag
 @v	uzalak
+@v	3/4(iku)
+@inote in OB tabular account P412465 = BM 085205 o 12 cell #5 http://oracc.org/obta/P412465
 @link	eBL GE₂₂ https://www.ebl.lmu.de/signs/GE₂₂
 @link	Wikidata Q87556763 http://www.wikidata.org/entity/Q87556763
 @end sign
