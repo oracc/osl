@@ -51886,6 +51886,7 @@
 
 @pcun |2(N57)+E₂|
 @useq xF0047.x1208D
+@ucun 󰁇𒂍
 @end pcun
 
 @sign 2(N57)
