@@ -37891,6 +37891,7 @@
 @v	ŋar₈
 @v	kulla
 @v	kulluₓ
+@v	rimₓ
 @v	seg₄
 @v	sig₄
 @v	še₂₇
@@ -50083,6 +50084,7 @@
 @list	U+1240C
 @ucun	𒐌
 @uage	5.0
+@v	iminₓ
 @v	umunₓ
 @v	7(diš)
 @link	Wikidata Q87556855 http://www.wikidata.org/entity/Q87556855
