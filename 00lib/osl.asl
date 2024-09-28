@@ -50198,12 +50198,12 @@
 @list	U+12448
 @ucun	𒑈
 @uage	5.0
+@v	ilimmu₄
 @v	9(diš)@v
 @link	Wikidata Q87556993 http://www.wikidata.org/entity/Q87556993
 @form- 9(DIŠ@c)@v
 @inote doubtful that this exists
 @oid	o0223454
-@v	ilimmu₄
 @v	9(diš@c)@v
 @@
 @end sign
