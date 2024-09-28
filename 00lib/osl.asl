@@ -14034,6 +14034,7 @@
 @end sign
 
 @sign |GEŠU@c×KASKAL|
+@aka	GEŠU@v
 @oid	o0025674
 @list	LAK824
 @list	LAK845
@@ -43085,6 +43086,7 @@
 @v	tuk₂
 @v	tuku₂
 @v	tumušₓ
+@v	tuqₓ
 @v	umuš
 @v	uš₄
 @sys	Attinger dašgari => taškarin
