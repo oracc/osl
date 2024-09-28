@@ -31178,6 +31178,9 @@
 @inote @fake	1
 @inote temp in here while waiting for N57 in Anshu's pcun
 @inote	UET II
+@upua	U+F0046
+@ucun	󰁆
+@uage	9.1
 @end sign
 
 @sign N58
@@ -32150,6 +32153,9 @@
 @link	Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
 @form NIGIDAEŠ~a
 @list LAK836d
+@upua	U+F0050
+@ucun	󰁐
+@uage	9.1
 @v	3(barig)~a
 @v	3(bariga)~a
 @@
@@ -32172,6 +32178,9 @@
 @@
 @form NIGIDAEŠ@c~a
 @list	LAK836b
+@upua	U+F0048
+@ucun	󰁈
+@uage	9.1
 @v	3(barig@c)~a
 @v	3(bariga@c)~a
 @v	3(diš@c)~a
@@ -32196,6 +32205,9 @@
 @link	Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
 @form NIGIDAMIN~a
 @list 	LAK835c
+@upua	U+F0049
+@ucun	󰁉
+@uage	9.1
 @v	2(barig)~a
 @v	2(bariga)~a
 @@
@@ -51048,8 +51060,8 @@
 @form 4(U@c)@v
 @oid	o0223421
 @inote	@ucode	xeb90
-@upua	U+F0033
-@ucun	󰀳
+@upua	U+F003C
+@ucun	󰀼
 @uage	9.1
 @v	4(u@c)@v
 @@
@@ -51869,10 +51881,14 @@
 @end pcun
 
 @pcun |2(N57)+E₂|
+@useq xF0047.x1208D
 @end pcun
 
 @sign 2(N57)
 @inote This is a temporary entry until we can @pcun it
 @oid o0018502
+@upua	U+F0047
+@ucun	󰁇
+@uage	9.1
 @end sign
 
