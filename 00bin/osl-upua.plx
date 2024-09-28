@@ -41,6 +41,7 @@ for (my $i = 0; $i <= $#osl; ++$i) {
 			}
 		    }
 		}
+		warn "00lib/osl:$i: $n: adding Unicode data\n";
 		$osl[$i] .= $addme{$n};
 	    } else {
 		warn "00lib/osl.asl:$i: $n: Unicode data present; skipping PUA data\n";

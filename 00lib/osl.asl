@@ -33,11 +33,11 @@
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
-@listdef LAK 1-826 828-835 837-857 859-870 024b 046@v 046a 063b 072b 079a 081a
+@listdef LAK 1-826 828-834 838-857 859-870 024b 046@v 046a 063b 072b 079a 081a
 	156b 162a 162b 171@s 207a 248@g 248b 256@g 262@g 278a 278b
 	283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
 	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a
-	791a 827a 827b 836a 836b 836c 836d 858a 858b
+	791a 827a 827b 835a 835b 835c 836a 836b 836c 836d 837a 837b 858a 858b
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
 
 @listdef MZL 1-907 113b 115a 115b 146' 146" 527'
@@ -31175,7 +31175,8 @@
 
 @sign N57
 @oid	o0025701
-@fake	1
+@inote @fake	1
+@inote temp in here while waiting for N57 in Anshu's pcun
 @inote	UET II
 @end sign
 
@@ -32201,7 +32202,7 @@
 @form NIGIDAMIN@c
 @aka 2(N08)
 @oid	o0223340
-@list	LAK835
+@list	LAK835a
 @list	RSP037
 @v-	2/4(aš@c)
 @inote in donkey texts to indicate "2 (donkeys)"; use 2(diš@c) instead
@@ -43541,11 +43542,6 @@
 @v	u@c
 @v	1(bur₃@c)
 @v	1(u@c)
-@sys pcun 1(N14)
-@list U+12562
-@uname CUNEIFORM NUMERIC SIGN ONE N14
-@uage ACN
-@ucun 𒕢
 @@
 @form- U@f
 @inote moved to ACN and imported to OSL via @pcun
@@ -51875,4 +51871,8 @@
 @pcun |2(N57)+E₂|
 @end pcun
 
-@compoundonly 2(N57)
+@sign 2(N57)
+@inote This is a temporary entry until we can @pcun it
+@oid o0018502
+@end sign
+
