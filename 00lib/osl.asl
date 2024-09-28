@@ -33,9 +33,11 @@
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
-@listdef LAK 1-826 828-870 024b 046@v 046a 063b 072b 079a 081a 156b 162a 162b 171@s 207a 248@g 248b
-	256@g 262@g 278a 278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
-	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a 791a 827a 827b
+@listdef LAK 1-826 828-835 837-857 859-870 024b 046@v 046a 063b 072b 079a 081a
+	156b 162a 162b 171@s 207a 248@g 248b 256@g 262@g 278a 278b
+	283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
+	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a
+	791a 827a 827b 836a 836b 836c 836d 858a 858b
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
 
 @listdef MZL 1-907 113b 115a 115b 146' 146" 527'
@@ -7013,6 +7015,7 @@
 @aka 1(N08)
 @oid	o0223336
 @aka	N8
+@list	LAK834
 @inote	@ucode	xebc2
 @v	barig@c
 @v	bariga@c
@@ -7062,16 +7065,6 @@
 @oid	o0002475
 @inote	00atf/sptu_3_089.atf:153 *() punctuation qualifier
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
-@@
-@form U@c
-@aka 1(N14)
-@oid	o0223334
-@inote	dcclt *() punctuation qualifier
-@sys pcun 1(N14)
-@list U+12562
-@uname CUNEIFORM NUMERIC SIGN ONE N14
-@uage ACN
-@ucun 𒕢
 @@
 @form USSU
 @oid	o0000589
@@ -14043,6 +14036,7 @@
 @sign |GEŠU@c×KASKAL|
 @oid	o0025674
 @list	LAK824
+@list	LAK845
 @inote	P250936 = CUSAS 35, 457 suggests this sign is 600(=gešʾu) x
 	10(=×KASKAL), i.e., 6000
 @inote	CDLI OAkk uses 1(gešʾu@v) etc as values for this sign.  In addition to the
@@ -32139,6 +32133,7 @@
 
 @sign NIGIDAEŠ
 @oid	o0000480
+@list	LAK836c
 @list	MZL850
 @list	RSP023
 @list	SLLHA585c
@@ -32152,9 +32147,15 @@
 @v	3(bariga)
 @link	eBL NIGIDAEŠ https://www.ebl.lmu.de/signs/NIGIDAEŠ
 @link	Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
+@form NIGIDAEŠ~a
+@list LAK836d
+@v	3(barig)~a
+@v	3(bariga)~a
+@@
 @form NIGIDAEŠ@c
 @aka 3(N08)
 @oid	o0223339
+@list	LAK836a
 @list	RSP038
 @v-	3/4(aš@c)
 @inote	in donkey texts to mean "3 donkeys"; use 3(diš@c) instead
@@ -32162,18 +32163,23 @@
 @v	3(barig@c)
 @v	3(bariga@c)
 @v	3(diš@c)
-@@
 @sys pcun 3(N08)
 @list U+1255B
 @uname CUNEIFORM NUMERIC SIGN THREE N08
 @uage ACN
 @ucun 𒕛
 @@
+@form NIGIDAEŠ@c~a
+@list	LAK836b
+@v	3(barig@c)~a
+@v	3(bariga@c)~a
+@v	3(diš@c)~a
 @end sign
 
 @sign NIGIDAMIN
 @oid	o0000481
 @list	MZL848
+@list	LAK835b
 @list	RSP022
 @list	SLLHA585a
 @uname	CUNEIFORM NUMERIC SIGN NIGIDAMIN
@@ -32187,9 +32193,15 @@
 @v	2(bariga)
 @link	eBL NIGIDAMIN https://www.ebl.lmu.de/signs/NIGIDAMIN
 @link	Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
+@form NIGIDAMIN~a
+@list 	LAK835c
+@v	2(barig)~a
+@v	2(bariga)~a
+@@
 @form NIGIDAMIN@c
 @aka 2(N08)
 @oid	o0223340
+@list	LAK835
 @list	RSP037
 @v-	2/4(aš@c)
 @inote in donkey texts to indicate "2 (donkeys)"; use 2(diš@c) instead
@@ -39181,6 +39193,7 @@
 @list	ELLES397
 @list	HZL335
 @list	LAK809
+@list	LAK828
 @list	MZL632
 @list	SLLHA396
 @uname	CUNEIFORM NUMERIC SIGN SHAR2
@@ -39201,6 +39214,8 @@
 @aka 1(N45)
 @aka ŠARGAL@c
 @oid	o0223485
+@list	LAK825
+@list	LAK844
 @list	RSP030
 @list	RSP031
 @inote	@ucode	xeba7
@@ -39269,6 +39284,8 @@
 @oid	o0028114
 @aka	|ŠAR₂×1(U)|
 @list	ABZL284
+@list	LAK846
+@list	LAK860
 @list	MZL688
 @inote	|HI×U|
 @inote	#old bur'uₓ
@@ -39294,7 +39311,8 @@
 @aka	|ŠAR₂×2(U)|
 @inote	|HI×(U.U)|
 @inote	@uname-no-utf8	CUNEIFORM SIGN HI TIMES U PLUS U
-@list LAK862
+@list	LAK847
+@list	LAK862
 @upua	U+F003D
 @ucun	󰀽
 @uage	9.1
@@ -43506,11 +43524,19 @@
 @inote	ed3b hapax in P221565 = BIN 08, 082 ii 12
 @@
 @form U@c
+@aka 1(N14)
 @oid	o0223334
 @list	LAK840
+@list 	LAK821
+@list 	LAK840
+@list 	LAK857
 @list	RSP028
 @list	RSP029
-@inote	@ucode	xeb8b
+@sys pcun 1(N14)
+@list U+12562
+@uname CUNEIFORM NUMERIC SIGN ONE N14
+@uage ACN
+@ucun 𒕢
 @v	bur₃@c
 @v	u@c
 @v	1(bur₃@c)
@@ -44288,6 +44314,7 @@
 @oid	o0000562
 @list	HZL261
 @list	LAK808
+@list 	LAK858b
 @list	MZL662
 @list	SLLHA350_8
 @uname	CUNEIFORM NUMERIC SIGN ONE BURU
@@ -44299,14 +44326,15 @@
 @v	1(burʾu)
 @link	eBL U@g https://www.ebl.lmu.de/signs/U@g
 @link	Wikidata Q87556945 http://www.wikidata.org/entity/Q87556945
-@form |U×KASKAL|
+@form- |U×KASKAL|
+@inote	removed; does U×KASKAL ever occur or is it always U@c×KASKAL?
 @oid	o0002603
 @inote	#old bur'uₓ
 @v	burʾuₓ
-@inote	does U×KASKAL ever occur or is it always U@c×KASKAL?
 @@
 @form 1(BURU@c)
 @oid	o0223372
+@list	LAK858a
 @list	RSP034
 @inote	@ucode	xebb7
 @inote	this is the new OGSL name for U@c×KASKAL
@@ -49354,6 +49382,7 @@
 @form GEŠU@c
 @aka 1(N48)
 @oid	o0223467
+@list	LAK823
 @list	RSP027
 @inote	@ucode	xeba1
 @v	gešʾu@c
@@ -49518,6 +49547,7 @@
 @form GEŠ₂@c
 @aka 1(N34)
 @oid	o0223469
+@list	LAK822
 @list	RSP025
 @inote	@ucode	xeb96
 @v	geš₂@c
@@ -49944,6 +49974,7 @@
 
 @sign 4(DIŠ)
 @oid	o0000040
+@list	LAK837b
 @uname	CUNEIFORM NUMERIC SIGN FOUR DISH
 @list	U+12409
 @ucun	𒐉
@@ -49961,6 +49992,7 @@
 @form 4(DIŠ@c)
 @aka 4(N08)
 @oid	o0223415
+@list	LAK837a
 @inote	@ucode	xebc6
 @v	4(aš@c@90)
 @v	4(barig@c)
@@ -50621,6 +50653,7 @@
 @form 1(ŠARU@c)
 @aka 1(N50)
 @oid	o0223373
+@list	LAK826
 @list	RSP032
 @inote	@ucode	xebb1
 @v	šarʾu@c
