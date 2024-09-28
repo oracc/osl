@@ -32153,8 +32153,8 @@
 @link	Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
 @form NIGIDAEŠ~a
 @list LAK836d
-@upua	U+F0050
-@ucun	󰁐
+@upua	U+F004B
+@ucun	󰁋
 @uage	9.1
 @v	3(barig)~a
 @v	3(bariga)~a
@@ -32178,8 +32178,8 @@
 @@
 @form NIGIDAEŠ@c~a
 @list	LAK836b
-@upua	U+F0048
-@ucun	󰁈
+@upua	U+F0049
+@ucun	󰁉
 @uage	9.1
 @v	3(barig@c)~a
 @v	3(bariga@c)~a
@@ -32205,8 +32205,8 @@
 @link	Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
 @form NIGIDAMIN~a
 @list 	LAK835c
-@upua	U+F0049
-@ucun	󰁉
+@upua	U+F004A
+@ucun	󰁊
 @uage	9.1
 @v	2(barig)~a
 @v	2(bariga)~a

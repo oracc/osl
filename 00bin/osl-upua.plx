@@ -10,9 +10,11 @@ use lib "$ENV{'ORACC_BUILDS'}/lib";
 use Getopt::Long;
 
 my $uage = '';
+my $verbose = 0;
 
 GetOptions(
-    'age:s'=>\$uage
+    'age:s'=>\$uage,
+    verbose=>\$verbose,
     );
 
 my %addme = ();
@@ -44,7 +46,8 @@ for (my $i = 0; $i <= $#osl; ++$i) {
 		warn "00lib/osl:$i: $n: adding Unicode data\n";
 		$osl[$i] .= $addme{$n};
 	    } else {
-		warn "00lib/osl.asl:$i: $n: Unicode data present; skipping PUA data\n";
+		warn "00lib/osl.asl:$i: $n: Unicode data present; skipping PUA data\n"
+		    if $verbose;
 	    }
 	}
     }
