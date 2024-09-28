@@ -7061,6 +7061,10 @@
 @inote	dcclt *() punctuation qualifier
 @link	eBL U https://www.ebl.lmu.de/signs/U
 @@
+@form U@c
+@oid	o0223334
+@inote	dcclt *() punctuation qualifier
+@@
 @form |U.U|
 @oid	o0002475
 @inote	00atf/sptu_3_089.atf:153 *() punctuation qualifier
