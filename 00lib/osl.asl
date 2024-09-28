@@ -49403,10 +49403,6 @@
 @uage ACN
 @ucun 𒕴
 @@
-@form GEŠU@v
-@oid	o0223468
-@v	gešʾu@v
-@@
 @end sign
 
 @sign 2(GEŠU)
