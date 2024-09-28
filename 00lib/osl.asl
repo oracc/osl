@@ -2645,6 +2645,7 @@
 @oid	o0000094
 @list	ABZL108
 @list	BAU310
+@list	ELLES065a
 @list	ELLES269
 @list	GCSL271
 @list	HZL183
@@ -5053,6 +5054,7 @@
 @list	BAU344
 @list	BAU350
 @list	BAU351
+@list	ELLES312
 @list	GCSL277
 @list	HZL153
 @list	KWU749
@@ -5060,6 +5062,20 @@
 @list	MZL358
 @list	RSP218
 @list	SLLHA214
+@inote	The references for ELLES312 are consistently read as 𒁉 in MEE 3, but the
+	ones that are transliterated in dcclt are all read as something else:
+	— 𒂁 DUG in 43 v(erso) II 3′, read
+		— an-zu-me-ru sa₁₂-du₅-kaš in MEE 3,
+		— an-zu-me-ru saŋ-du₅ dug in http://oracc.org/dcclt/P242176.233 (r ii 6;
+			note that this is a witness to kaš in http://oracc.org/dcclt/Q000010.232)
+	— 𒁊 |BI×A| or BI in 44 r(ecto) IX 3, read
+		— kaš-erén:erén in MEE 3,
+		— LAK642?-GAM.GAM:GAM.GAM in http://oracc.org/dcclt/P241092.
+	— 𒋫 TA in 51 v(erso) V 10, read
+		— bi in MEE 3,
+		— TA in http://oracc.org/dcclt/P240957.135.
+	— 72 r(ecto) 5, read o an-ki-bi-da in MEE 3, not transliterated in http://oracc.org/dcclt/ebla/P241764;
+		also read 1(szar2@c) an-ki-bi-da on CDLI.
 @uname	CUNEIFORM SIGN BI
 @list	U+12049
 @ucun	𒁉
@@ -6485,6 +6501,7 @@
 @sign DE₂
 @oid	o0000138
 @aka	UMUM@s
+@list	ELLES179
 @list	GCSL071
 @list	KWU309
 @list	SLLHA338n1
@@ -6751,6 +6768,7 @@
 @form DIM@g
 @oid	o0000142
 @list	ELLES033b
+@list	ELLES307b
 @list	GCSL019
 @list	LAK056
 @list	PTACE063
@@ -7719,6 +7737,7 @@
 @list	BAU348
 @list	BAU349
 @list	BAU352
+@list	ELLES313
 @list	GCSL278
 @list	HZL162
 @list	KWU746
@@ -9083,129 +9102,31 @@
 @link	Wikidata Q87555293 http://www.wikidata.org/entity/Q87555293
 @end sign
 
-@sign ELLES065a
-@oid	o0027659
-@list	ELLES065a
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES092
-@oid	o0027661
-@list	ELLES092
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES151
-@oid	o0027663
-@list	ELLES151
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES163
-@oid	o0027664
-@list	ELLES163
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES164
-@oid	o0027666
-@list	ELLES164
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES177
-@oid	o0027668
-@list	ELLES177
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES179
-@oid	o0027670
-@list	ELLES179
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES185
-@oid	o0027672
-@list	ELLES185
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES189
-@oid	o0027674
-@list	ELLES189
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
 @compoundonly	ELLES214
-
-@sign ELLES257
-@oid	o0025799
-@end sign
 
 @sign ELLES270
 @oid	o0025800
 @list	ELLES270
+@ref	MEE 3 44 = dcclt:P241092 o v 3
 @end sign
 
 @sign ELLES278
 @oid	o0025802
 @list	ELLES278
-@end sign
-
-@sign ELLES296
-@oid	o0027676
-@list	ELLES296
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES301
-@oid	o0027678
-@list	ELLES301
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES307b
-@oid	o0027680
-@list	ELLES307b
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES312
-@oid	o0027682
-@list	ELLES312
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES313
-@oid	o0027684
-@list	ELLES313
-@inote	Ebla sign in ELLES not yet identified
+@ref	MEE 3 44 = dcclt:P241092 o v 4, 6
 @end sign
 
 @sign ELLES316
 @oid	o0000171
 @list	ELLES316
-@inote	Ebla sign in ELLES not yet identified
+@ref	MEE 3 51 = dcclt:P240957 r v 8, http://oracc.org/dcclt/P240957.133
 @link	eBL ELLES316 https://www.ebl.lmu.de/signs/ELLES316
 @end sign
 
-@sign ELLES324
-@oid	o0027686
-@list	ELLES324
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES330
-@oid	o0027688
-@list	ELLES330
-@inote	Ebla sign in ELLES not yet identified
-@end sign
-
-@sign ELLES358
+@sign- ELLES358
 @oid	o0027690
 @list	ELLES358
-@inote	Ebla sign in ELLES not yet identified
+@note	ELLES358 cites MEE 3 50 = dcclt:P218312 o i 14, transliterated SA+ḪI in MEE 3 and e₂!(SA) nun ḪI in http://oracc.org/dcclt/P218312.16.
 @end sign
 
 @sign ELLES396
@@ -9812,6 +9733,8 @@
 
 @sign |EREN×KASKAL|
 @oid	o0027953
+@list	ELLES151
+@ref	MEE 3 45 = dcclt:P241395 r ii 7, http://oracc.org/dcclt/P241395.280
 @inote	gvl unknown compound
 @end sign
 
@@ -11275,6 +11198,7 @@
 @oid	o0000206
 @list	ABZL093
 @list	BAU317
+@list	ELLES092
 @list	ELLES332
 @list	GCSL287
 @list	HZL056
@@ -16174,6 +16098,7 @@
 @list	ABZL343
 @list	BAU172
 @list	ELLES211
+@list	ELLES301
 @list	GCSL207
 @list	HZL271
 @list	KWU546
@@ -20498,6 +20423,7 @@
 @sign |KA×SA|
 @oid	o0001656
 @list	ABZL316
+@list	ELLES185
 @list	HZL136
 @list	KWU429
 @list	LAK333
@@ -28214,6 +28140,7 @@
 @sign |LU₂×GAN₂@t|
 @oid	o0001973
 @list	ABZL258
+@list	ELLES189
 @list	MZL521
 @list	SLLHA330_7
 @uname	CUNEIFORM SIGN LU2 TIMES GAN2 TENU
@@ -29270,11 +29197,14 @@
 
 @sign |MA@g×TAK₄|
 @oid	o0001989
+@list	ELLES164
 @uname	CUNEIFORM SIGN MA GUNU TIMES TAK4
 @list	U+12221
 @ucun	𒈡
 @uage	5.0
 @v	širₓ
+@ref MEE 3 51 = dcclt:P240957 o iii 10, http://oracc.org/dcclt/P240957.38
+@ref MEE 3 52 = dcclt:P218313 o iv 14, http://oracc.org/dcclt/P218313.67
 @link	eBL |MA@g×TAK₄| https://www.ebl.lmu.de/signs/|MA@g×TAK₄|
 @link	Wikidata Q87556090 http://www.wikidata.org/entity/Q87556090
 @end sign
@@ -36507,6 +36437,7 @@
 
 @sign |SAG×TAK₄|
 @oid	o0002286
+@list	ELLES163
 @uname	CUNEIFORM SIGN SAG TIMES TAK4
 @list	U+12530
 @ucun	𒔰
@@ -36516,6 +36447,7 @@
 @v	burₓ
 @lit	Kienast FS Sjöberg, 543-544
 @ref	OIP 99, 61 = dcclt:P010102 o xii 9
+@ref	MEE 3 68 = dcclt:P241212 o ii 3, http://oracc.org/dcclt/P241212.13
 @note	CUSAS 12, 6.1.2 r iii' 3-7; OIP 99, 69 r xi' 8'
 @link	eBL |SAG×TAK₄| https://www.ebl.lmu.de/signs/|SAG×TAK₄|
 @link	Wikidata Q87557441 http://www.wikidata.org/entity/Q87557441
@@ -37770,6 +37702,7 @@
 @oid	o0000527
 @list	ABZL437
 @list	BAU202
+@list	ELLES177
 @list	GCSL196
 @list	HZL255
 @list	KWU342
@@ -43228,6 +43161,8 @@
 @sign |TUM×SAL|
 @oid	o0027701
 @list	ELLES257
+@ref	MEE 3 44 = dcclt:P241092 o iv 4
+@ref	MEE 3 59 = dcclt:P241581 o v 3 http://oracc.org/dcclt/P241581.42
 @inote	missing compounds for elles.atf
 @end sign
 
@@ -45381,7 +45316,7 @@
 @sign UD@180
 @oid	o0000566
 @inote	@uname-no-utf8	CUNEIFORM SIGN UD INVERTED
-@note	MEE 3 44 o v 6
+@note	MEE 3 44 = dcclt:P241092 o v 6
 @link	eBL UD@180 https://www.ebl.lmu.de/signs/UD@180
 @end sign
 
@@ -46216,12 +46151,14 @@
 @list	ABZL448
 @list	BAU285
 @list	ELLES247
+@list	ELLES324
 @list	KWU922
 @list	LAK472
 @list	MZL835
 @list	PTACE271
 @list	RSP393
 @list	SLLHA594
+@inote	ELLES324 cites MEE 3 53 r(ecto) IX 17 which is transliterated “ELLes, n. 247” in MEE 3 itself.  See also http://oracc.org/dcclt/P241823.
 @uname	CUNEIFORM SIGN UR4
 @list	U+12334
 @ucun	𒌴
@@ -46561,6 +46498,7 @@
 @sign |URU×GU|
 @oid	o0002564
 @list	ABZL185
+@list	ELLES296
 @list	GCSL257
 @list	KWU771
 @list	LAK602
@@ -47452,6 +47390,7 @@
 @sign UŠX
 @oid	o0000597
 @list	ELLES328
+@list	ELLES330
 @list	KWU089
 @list	LAK672a
 @uname	CUNEIFORM SIGN USHX
@@ -47461,6 +47400,7 @@
 @v	usₓ
 @lit	Krebernik OBO 160/1 277
 @inote	this is LAK672 without the sheshig
+@inote	ELLES330 cites MEE 3 51 v. I 1 = http://oracc.org/dcclt/P240957.70 and MEE 3 52 v. I 1 = http://oracc.org/dcclt/P218313.128, both ušₓ, but the second one looks šeššig in ELLes.
 @v	ušₓ
 @ref	Ebla Sign List = dcclt:Q000038 61, u₃-šum₂
 @link	eBL UŠX https://www.ebl.lmu.de/signs/UŠX
