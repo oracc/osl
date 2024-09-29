@@ -16618,6 +16618,7 @@
 @ucun	𒄪
 @uage	5.0
 @v	bandurₓ
+@v	kuₓ
 @v	zubₓ
 @v	zubud
 @v	zugud
