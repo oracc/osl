@@ -6602,10 +6602,15 @@
 
 @sign DIB
 @oid	o0000140
+@aka	|LAGAB×PA|
 @list	ABZL419
-@list	GCSL186a
+@list	BAU264
+@list	ELLES381
+@list	GCSL318
 @list	HZL210?
+@list	LAK780
 @list	MZL813
+@list	PTACE316
 @list	RSP262
 @list	SLLHA537
 @uname	CUNEIFORM SIGN DIB
@@ -24952,14 +24957,6 @@
 @v	udub
 @link	eBL |LAGAB×NE| https://www.ebl.lmu.de/signs/|LAGAB×NE|
 @link	Wikidata Q87555953 http://www.wikidata.org/entity/Q87555953
-@end sign
-
-@sign |LAGAB×PA|
-@oid	o0221968
-@list	BAU264
-@list	ELLES381
-@list	GCSL318
-@list	LAK780
 @end sign
 
 @sign |LAGAB×PAP|
