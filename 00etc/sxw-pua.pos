@@ -13,7 +13,7 @@
     <body>
 
       <sxw:page-o-signs format="list"> <!-- or "grid" -->
-	<xi:include href="00etc/oracc-pua-pos.txt" parse="text"/>
+	<xi:include href="sxw-pos-9.1.txt" parse="text"/>
       </sxw:page-o-signs>
       
     </body>
