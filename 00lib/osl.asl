@@ -48884,6 +48884,8 @@
 @list	U+12464
 @ucun	𒑤
 @uage	7.0
+@v	2(barig@v)
+@v	2(bariga)@v
 @end sign
 
 @sign 1/4(GUR)
@@ -48897,7 +48899,18 @@
 @v	1/6(diš)
 @inote	This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study; compare U+12463
 @v	1/2(iku@t)
+@v	1(barig@v)
+@v	1(bariga)@v
 @inote Possibly disunify 1/4(GUR) and 1/2(iku@t) but they are very similar in form.
+@note M. Sigrist and U. Gabbay, "Eighteen Cuneiform Inscriptions from the Ur III and Old-Babylonian Periods." Pp. 283-315 in Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas. Budapest, 2014. Esp. p.284.
+@end sign
+
+@sign 3/4(GUR)
+@oid	o0038376
+@useq x12464.x12463
+@ucun	𒑤𒑣
+@v	3(barig@v)
+@v	3(bariga)@v
 @end sign
 
 @sign 6(GEŠU@c)
