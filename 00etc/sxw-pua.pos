@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page
+    xmlns:esp="http://oracc.org/ns/esp/1.0"
+    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:xh="http://www.w3.org/1999/xhtml"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:sxw="http://oracc.org/ns/1.0/sxweb"
+    >
+  <esp:name>Oracc PUA</esp:name>
+  <esp:title>Oracc Plane 15 PUA</esp:title>
+  <html>
+    <head/>
+    <body>
+
+      <sxw:page-o-signs format="list"> <!-- or "grid" -->
+	<xi:include href="00etc/oracc-pua-pos.txt" parse="text"/>
+      </sxw:page-o-signs>
+      
+    </body>
+  </html>
+</esp:page>
