@@ -4,7 +4,7 @@
   <html>
     <head/>
     <body>
-<p>Oracc uses the Plan 15 PUA from F0000-FFFFD as a space to create
+<p>Oracc uses the Plane 15 PUA from F0000-FFFFD as a space to create
 signs pending possible encoding, and to maintain variant forms of
 signs that do not merit separate encoding. All management of the Oracc
 PUA is consolidated in the OSL project.</p>
@@ -36,17 +36,22 @@ OID|KEY        SIGN-NAME      PUA-CODE      SCRIPT|FONT-KEY      ORACC-PUA-BLOCK
 
 <p>SCRIPT|FONT-KEY is either a script code--Xsux, Pcun--or a font name
 which can be used (perhaps with additional metadata outside the scope
-of pua-used.txt) to locate the font that uses the relevant PUA
+of oracc-pua.tab) to locate the font that uses the relevant PUA
 character.</p>
 
 <p>ORACC-PUA-BLOCK is an indicator of groups of characters added to
 the Oracc PUA; by convention these are numbered 9.x.</p>
 
+<esp:ssh>Block 9.1</esp:ssh>
+
+<p>This block was created in Sept/Oct 2024 for number signs and
+variants that were not encoded at that point.</p>
+
 <esp:sh>Data Integrity and the PUA</esp:sh>
 
 <p>In some cases the use of characters in the PUA could subvert data
 integrity--the selection of an alternative stacking pattern for a
-number would not carry with it the semantics of the encoding stacking
+number would not carry with it the semantics of the encoded stacking
 pattern.  It is likely that the Oracc PUA will address this by using a
 mechanism such as Ideographic Variation Selectors (IVS) to create font
 ligatures that enable the correct base character, with its appropriate
