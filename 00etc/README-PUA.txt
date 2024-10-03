@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-pua.tab
+
 				OSL Use of PUA
 				==============
 

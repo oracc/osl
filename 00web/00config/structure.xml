@@ -9,6 +9,7 @@
   <struct:page file="about.xml" id="about" type="page"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
   <struct:page file="sort.xml" id="sort" type="page"/>
+  <struct:page file="pua.xml" id="pua" type="page"/>
   <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>
   <struct:page file="oiv.xml" id="oiv" type="page" hide-menu-link="yes"/>
 </struct:page>
