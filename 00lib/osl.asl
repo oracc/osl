@@ -9212,6 +9212,8 @@
 @sign ELLES396
 @oid	o0000172
 @list	ELLES396
+@list	LAK304a
+@list	PTACE162
 @uname	CUNEIFORM SIGN ZAMX
 @list	U+12361
 @ucun	𒍡
@@ -23624,7 +23626,6 @@
 @list	KWU794
 @list	LAK304
 @list	MZL896
-@list	PTACE162
 @list	SLLHA562
 @uname	CUNEIFORM SIGN KUSHU2
 @list	U+121B5
@@ -26601,13 +26602,6 @@
 @oid	o0000348
 @list	LAK298
 @link	eBL LAK298 https://www.ebl.lmu.de/signs/LAK298
-@end sign
-
-@sign LAK304a
-@oid	o0025835
-@list	LAK304a
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@v	zamₓ
 @end sign
 
 @sign LAK309a
@@ -45147,7 +45141,6 @@
 @link	Wikidata Q87556541 http://www.wikidata.org/entity/Q87556541
 @form KUŠU₂
 @oid	o0000295
-@list	PTACE162
 @link	eBL KUŠU₂ https://www.ebl.lmu.de/signs/KUŠU₂
 @@
 @form |UD×KUŠU₂|
