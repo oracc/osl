@@ -6502,16 +6502,18 @@
 @end sign
 
 @sign DE₂
-@oid	o0000138
-@aka	UMUM@s
-@list	ELLES179
-@list	GCSL071
-@list	KWU309
-@list	SLLHA338n1
-@umap	|UMUM×KASKAL|
-@unote	The reference glyph for DE₂ should be UMUM@s (UMUM SHESHIG); 
-	ideally that should be encoded as its own codepoint but for 
-	now we map to |UMUM×KASKAL|.
+@aka	|UMUM×KASKAL|
+@oid	o0002529
+@list	KWU309b
+@list	LAK156b
+@list	RSP361bis
+@uname	CUNEIFORM SIGN UMUM TIMES KASKAL
+@list	U+12324
+@ucun	𒌤
+@uage	5.0
+@link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
+@link	Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
+@@
 @v	da₉
 @v	de₂
 @v	di₈
@@ -6524,6 +6526,17 @@
 @v	siu
 @v	ṭe₅
 @v	ṭiₓ
+@form UMUM@s
+@oid	o0000138
+@list	ELLES179
+@list	GCSL071
+@list	KWU309
+@list	SLLHA338n1
+@umap	|UMUM×KASKAL|
+@inote	The reference glyph for DE₂ should be UMUM@s (UMUM SHESHIG); 
+	ideally that should be encoded as its own codepoint but for 
+	now we map to |UMUM×KASKAL|. 2024-10-03: UMUM@s to be handled another way.
+@@
 @form UMUM
 @oid	o0000573
 @list	BAU093
@@ -6533,19 +6546,7 @@
 @list	RSP361
 @link	eBL UMUM https://www.ebl.lmu.de/signs/UMUM
 @@
-@form |UMUM×KASKAL|
-@oid	o0002529
-@list	KWU309b
-@list	LAK156b
-@list	RSP361bis
-@uname	CUNEIFORM SIGN UMUM TIMES KASKAL
-@list	U+12324
-@ucun	𒌤
-@uage	5.0
-@link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
-@link	Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
-@@
-@end sign
+@form @end sign
 
 @sign DI
 @oid	o0000139
