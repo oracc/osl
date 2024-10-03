@@ -2,4 +2,5 @@
   <struct:page file="signlist-x-list-data.xml" id="listdata" type="page"/>
   <struct:page file="signlist-x-u-data.xml" id="udata" type="page"/>
   <struct:page file="signlist-x-sortorder.xml" id="sortorder" type="page"/>
+  <struct:page file="signlist-x-pua.xml" id="pua" type="page"/>  
 </wrapper>
