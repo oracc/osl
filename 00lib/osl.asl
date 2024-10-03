@@ -11074,11 +11074,13 @@
 @oid	o0000185
 @list	MZL630
 @list	SLLHA395an
-@inote	@v- 1/6
 @uname	CUNEIFORM NUMERIC SIGN OLD ASSYRIAN ONE SIXTH
 @list	U+12461
 @ucun	𒑡
 @uage	5.0
+@inote	@v- 1/6
+@v 1/6(diš)
+@inote this is the most common 1/6; CDLI uses 1/6(disz) for this and for 1/4(GUR) as 1/6; OSL uses 1/6(diš)@v for the latter
 @link	eBL F₅ https://www.ebl.lmu.de/signs/F₅
 @link	Wikidata Q87557054 http://www.wikidata.org/entity/Q87557054
 @end sign
@@ -11088,6 +11090,7 @@
 @list	MZL594
 @list	SLLHA378an
 @inote	@v- 1/4
+@v 1/4(diš)
 @uname	CUNEIFORM NUMERIC SIGN OLD ASSYRIAN ONE QUARTER
 @list	U+12462
 @ucun	𒑢
@@ -48897,7 +48900,7 @@
 @list	U+12463
 @ucun	𒑣
 @uage	7.0
-@v	1/6(diš)
+@v	1/6(diš)@v
 @inote	This form is something like BAD@90. P221565 i 4; usage as 1/6(diš) subject to further study; compare U+12463
 @v	1/2(iku@t)
 @v	1(barig@v)
