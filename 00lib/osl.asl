@@ -48891,6 +48891,7 @@
 @sign 1/4(GUR)
 @aka F₈@t
 @aka |DIŠ×1(U@90)|
+@note M. Sigrist and U. Gabbay, "Eighteen Cuneiform Inscriptions from the Ur III and Old-Babylonian Periods." Pp. 283-315 in Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas. Budapest, 2014. Esp. p.284.
 @oid	o0031991
 @uname	CUNEIFORM NUMERIC SIGN ONE QUARTER GUR
 @list	U+12463
@@ -48902,7 +48903,6 @@
 @v	1(barig@v)
 @v	1(bariga)@v
 @inote Possibly disunify 1/4(GUR) and 1/2(iku@t) but they are very similar in form.
-@note M. Sigrist and U. Gabbay, "Eighteen Cuneiform Inscriptions from the Ur III and Old-Babylonian Periods." Pp. 283-315 in Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas. Budapest, 2014. Esp. p.284.
 @end sign
 
 @sign 3/4(GUR)
