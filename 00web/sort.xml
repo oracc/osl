@@ -54,8 +54,11 @@
 
 	<dt>INDEX</dt><dd>The grapheme index, if any.</dd>
 
-	<dt>REPEAT</dt><dd>The repeat count for a number as an
-	integer; -1 is a flag value for no repeater.</dd>
+	<dt>REPEAT</dt><dd>The repeat count for a number, stored as a
+	double; -1 is a flag value for no repeater.  Fractional
+	repeaters such as 1/4(diš) are internalized as floating point
+	numbers, e.g., 0.25.  This ensures that fractions sort as
+	expected.</dd>
 
 	<dt>SUFFIX</dt><dd>For list-patterned graphemes only; see
 	<esp:link bookmark="h_listygraphemes">the description
