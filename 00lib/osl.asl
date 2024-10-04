@@ -27668,7 +27668,8 @@
 @form DIB
 @list LAK780
 @oid	o0221968
-@v	dibₓ
+@inote @v	dibₓ
+@inote DIB value dib can't also be dibₓ
 @@
 @end sign
 
