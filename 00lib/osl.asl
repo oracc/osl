@@ -27665,7 +27665,8 @@
 @v	udu
 @link	eBL LU https://www.ebl.lmu.de/signs/LU
 @link	Wikidata Q87556014 http://www.wikidata.org/entity/Q87556014
-@form |LAGAB×PA|
+@form DIB
+@list LAK780
 @oid	o0221968
 @v	dibₓ
 @@
