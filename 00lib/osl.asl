@@ -32084,6 +32084,7 @@
 @link	Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
 @form NIGIDAEŠ~a
 @list LAK836d
+@oid	o0038373
 @upua	U+F004B
 @ucun	󰁋
 @uage	9.1
@@ -32135,6 +32136,7 @@
 @link	eBL NIGIDAMIN https://www.ebl.lmu.de/signs/NIGIDAMIN
 @link	Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
 @form NIGIDAMIN~a
+@oid	o0038371
 @list 	LAK835c
 @upua	U+F004A
 @ucun	󰁊
@@ -50636,6 +50638,7 @@
 @@
 @form ŠARU@v@c
 @list LAK827a
+@oid	o0245340
 @upua	U+F0033
 @ucun	󰀳
 @uage	9.1
@@ -51416,6 +51419,7 @@
 @end pcun
 
 @pcun 2(N01@f)
+@oid	o0027294
 @list U+1264D
 @uname CUNEIFORM NUMERIC SIGN TWO N01 FLAT
 @uage ACN
@@ -51423,6 +51427,7 @@
 @end pcun
 
 @pcun 3(N01@f)
+@oid	o0027327
 @list U+1264E
 @uname CUNEIFORM NUMERIC SIGN THREE N01 FLAT
 @uage ACN
@@ -51430,6 +51435,7 @@
 @end pcun
 
 @pcun 4(N01@f)
+@oid	o0027348
 @list U+1264F
 @uname CUNEIFORM NUMERIC SIGN FOUR N01 FLAT
 @uage ACN
@@ -51437,6 +51443,7 @@
 @end pcun
 
 @pcun 5(N01@f)
+@oid	o0027376
 @list U+12650
 @uname CUNEIFORM NUMERIC SIGN FIVE N01 FLAT
 @uage ACN
@@ -51444,6 +51451,7 @@
 @end pcun
 
 @pcun 6(N01@f)
+@oid	o0027397
 @list U+12651
 @uname CUNEIFORM NUMERIC SIGN SIX N01 FLAT
 @uage ACN
@@ -51451,6 +51459,7 @@
 @end pcun
 
 @pcun 7(N01@f)
+@oid	o0027411
 @list U+12652
 @uname CUNEIFORM NUMERIC SIGN SEVEN N01 FLAT
 @uage ACN
@@ -51458,6 +51467,7 @@
 @end pcun
 
 @pcun 8(N01@f)
+@oid	o0027421
 @list U+12653
 @uname CUNEIFORM NUMERIC SIGN EIGHT N01 FLAT
 @uage ACN
@@ -51465,6 +51475,7 @@
 @end pcun
 
 @pcun 9(N01@f)
+@oid	o0027435
 @list U+12654
 @uname CUNEIFORM NUMERIC SIGN NINE N01 FLAT
 @uage ACN
@@ -51472,6 +51483,7 @@
 @end pcun
 
 @pcun 1(N08@f)
+@oid	o0027242
 @list U+12655
 @uname CUNEIFORM NUMERIC SIGN ONE N08 FLAT
 @uage ACN
@@ -51479,6 +51491,7 @@
 @end pcun
 
 @pcun 1(N14@f)
+@oid	o0027246
 @list U+12656
 @uname CUNEIFORM NUMERIC SIGN ONE N14 FLAT
 @uage ACN
@@ -51486,7 +51499,7 @@
 @end pcun
 
 @pcun 2(N14@f)
-@oid o0027300
+@oid	o0027300
 @list U+12657
 @uname CUNEIFORM NUMERIC SIGN TWO N14 FLAT
 @uage ACN
@@ -51495,7 +51508,7 @@
 @end pcun
 
 @pcun 3(N14@f)
-@oid o0027335
+@oid	o0027335
 @list U+12658
 @uname CUNEIFORM NUMERIC SIGN THREE N14 FLAT
 @uage ACN
@@ -51504,6 +51517,7 @@
 @end pcun
 
 @pcun 4(N14@f)
+@oid	o0027355
 @list U+12659
 @uname CUNEIFORM NUMERIC SIGN FOUR N14 FLAT
 @uage ACN
@@ -51511,6 +51525,7 @@
 @end pcun
 
 @pcun 5(N14@f)
+@oid	o0027381
 @list U+1265A
 @uname CUNEIFORM NUMERIC SIGN FIVE N14 FLAT
 @uage ACN
@@ -51518,6 +51533,7 @@
 @end pcun
 
 @pcun 6(N14@f)
+@oid	o0027401
 @list U+1265B
 @uname CUNEIFORM NUMERIC SIGN SIX N14 FLAT
 @uage ACN
@@ -51525,6 +51541,7 @@
 @end pcun
 
 @pcun 7(N14@f)
+@oid	o0027415
 @list U+1265C
 @uname CUNEIFORM NUMERIC SIGN SEVEN N14 FLAT
 @uage ACN
@@ -51532,6 +51549,7 @@
 @end pcun
 
 @pcun 8(N14@f)
+@oid	o0027425
 @list U+1265D
 @uname CUNEIFORM NUMERIC SIGN EIGHT N14 FLAT
 @uage ACN
@@ -51539,6 +51557,7 @@
 @end pcun
 
 @pcun 9(N14@f)
+@oid	o0027439
 @list U+1265E
 @uname CUNEIFORM NUMERIC SIGN NINE N14 FLAT
 @uage ACN
@@ -51546,6 +51565,7 @@
 @end pcun
 
 @pcun 1(N34@f)
+@oid	o0027259
 @list U+1265F
 @uname CUNEIFORM NUMERIC SIGN ONE N34 FLAT
 @uage ACN
@@ -51553,6 +51573,7 @@
 @end pcun
 
 @pcun 2(N34@f)
+@oid	o0027311
 @list U+12660
 @uname CUNEIFORM NUMERIC SIGN TWO N34 FLAT
 @uage ACN
@@ -51560,6 +51581,7 @@
 @end pcun
 
 @pcun 3(N34@f)
+@oid	o0027342
 @list U+12661
 @uname CUNEIFORM NUMERIC SIGN THREE N34 FLAT
 @uage ACN
@@ -51567,6 +51589,7 @@
 @end pcun
 
 @pcun 4(N34@f)
+@oid	o0027363
 @list U+12662
 @uname CUNEIFORM NUMERIC SIGN FOUR N34 FLAT
 @uage ACN
@@ -51574,6 +51597,7 @@
 @end pcun
 
 @pcun 5(N34@f)
+@oid	o0027387
 @list U+12663
 @uname CUNEIFORM NUMERIC SIGN FIVE N34 FLAT
 @uage ACN
@@ -51581,6 +51605,7 @@
 @end pcun
 
 @pcun 6(N34@f)
+@oid	o0027407
 @list U+12664
 @uname CUNEIFORM NUMERIC SIGN SIX N34 FLAT
 @uage ACN
@@ -51588,6 +51613,7 @@
 @end pcun
 
 @pcun 7(N34@f)
+@oid	o0031402
 @list U+12665
 @uname CUNEIFORM NUMERIC SIGN SEVEN N34 FLAT
 @uage ACN
@@ -51595,6 +51621,7 @@
 @end pcun
 
 @pcun 8(N34@f)
+@oid	o0027429
 @list U+12666
 @uname CUNEIFORM NUMERIC SIGN EIGHT N34 FLAT
 @uage ACN
@@ -51602,6 +51629,7 @@
 @end pcun
 
 @pcun 9(N34@f)
+@oid	o0027441
 @list U+12667
 @uname CUNEIFORM NUMERIC SIGN NINE N34 FLAT
 @uage ACN
@@ -51609,6 +51637,7 @@
 @end pcun
 
 @pcun 1(N45@f)
+@oid	o0027268
 @list U+12668
 @uname CUNEIFORM NUMERIC SIGN ONE N45 FLAT
 @uage ACN
@@ -51616,6 +51645,7 @@
 @end pcun
 
 @pcun 2(N45@f)
+@oid	o0027316
 @list U+12669
 @uname CUNEIFORM NUMERIC SIGN TWO N45 FLAT
 @uage ACN
@@ -51623,6 +51653,7 @@
 @end pcun
 
 @pcun 1(N22@f)
+@oid	o0027253
 @list U+1266A
 @uname CUNEIFORM NUMERIC SIGN ONE N22 FLAT
 @uage ACN
@@ -51630,6 +51661,7 @@
 @end pcun
 
 @pcun 2(N22@f)
+@oid	o0027307
 @list U+1266B
 @uname CUNEIFORM NUMERIC SIGN TWO N22 FLAT
 @uage ACN
@@ -51637,6 +51669,7 @@
 @end pcun
 
 @pcun 1(N51@f)
+@oid	o0027280
 @list U+1266C
 @uname CUNEIFORM NUMERIC SIGN ONE N51 FLAT
 @uage ACN
@@ -51644,6 +51677,7 @@
 @end pcun
 
 @pcun 2(N51@f)
+@oid	o0027324
 @list U+1266D
 @uname CUNEIFORM NUMERIC SIGN TWO N51 FLAT
 @uage ACN
@@ -51651,6 +51685,7 @@
 @end pcun
 
 @pcun 3(N51@f)
+@oid	o0027343
 @list U+1266E
 @uname CUNEIFORM NUMERIC SIGN THREE N51 FLAT
 @uage ACN
@@ -51658,6 +51693,7 @@
 @end pcun
 
 @pcun 4(N51@f)
+@oid	o0027373
 @list U+1266F
 @uname CUNEIFORM NUMERIC SIGN FOUR N51 FLAT
 @uage ACN
@@ -51665,6 +51701,7 @@
 @end pcun
 
 @pcun 5(N51@f)
+@oid	o0027393
 @list U+12670
 @uname CUNEIFORM NUMERIC SIGN FIVE N51 FLAT
 @uage ACN
@@ -51672,6 +51709,7 @@
 @end pcun
 
 @pcun 6(N51@f)
+@oid	o0031384
 @list U+12671
 @uname CUNEIFORM NUMERIC SIGN SIX N51 FLAT
 @uage ACN
@@ -51679,6 +51717,7 @@
 @end pcun
 
 @pcun 7(N51@f)
+@oid	o0031414
 @list U+12672
 @uname CUNEIFORM NUMERIC SIGN SEVEN N51 FLAT
 @uage ACN
@@ -51686,6 +51725,7 @@
 @end pcun
 
 @pcun 8(N51@f)
+@oid	o0027431
 @list U+12673
 @uname CUNEIFORM NUMERIC SIGN EIGHT N51 FLAT
 @uage ACN
@@ -51693,6 +51733,7 @@
 @end pcun
 
 @pcun 9(N51@f)
+@oid	o0027443
 @list U+12674
 @uname CUNEIFORM NUMERIC SIGN NINE N51 FLAT
 @uage ACN
@@ -51700,6 +51741,7 @@
 @end pcun
 
 @pcun 1(N34@f@t)
+@oid	o0031114
 @list U+12675
 @uname CUNEIFORM NUMERIC SIGN ONE N34 FLAT TENU
 @uage ACN
@@ -51707,6 +51749,7 @@
 @end pcun
 
 @pcun 1(N04@f)
+@oid	o0027238
 @list U+12676
 @uname CUNEIFORM NUMERIC SIGN ONE N04 FLAT
 @uage ACN
@@ -51714,6 +51757,7 @@
 @end pcun
 
 @pcun 2(N04@f)
+@oid	o0027297
 @list U+12677
 @uname CUNEIFORM NUMERIC SIGN TWO N04 FLAT
 @uage ACN
@@ -51721,6 +51765,7 @@
 @end pcun
 
 @pcun 3(N04@f)
+@oid	o0027331
 @list U+12678
 @uname CUNEIFORM NUMERIC SIGN THREE N04 FLAT
 @uage ACN
@@ -51728,6 +51773,7 @@
 @end pcun
 
 @pcun 4(N04@f)
+@oid	o0027351
 @list U+12679
 @uname CUNEIFORM NUMERIC SIGN FOUR N04 FLAT
 @uage ACN
@@ -51735,6 +51781,7 @@
 @end pcun
 
 @pcun 5(N04@f)
+@oid	o0027378
 @list U+1267A
 @uname CUNEIFORM NUMERIC SIGN FIVE N04 FLAT
 @uage ACN
@@ -51742,6 +51789,7 @@
 @end pcun
 
 @pcun 1(N19@f)
+@oid	o0027250
 @list U+1267B
 @uname CUNEIFORM NUMERIC SIGN ONE N19 FLAT
 @uage ACN
@@ -51749,6 +51797,7 @@
 @end pcun
 
 @pcun 2(N19@f)
+@oid	o0027303
 @list U+1267C
 @uname CUNEIFORM NUMERIC SIGN TWO N19 FLAT
 @uage ACN
@@ -51756,6 +51805,7 @@
 @end pcun
 
 @pcun 3(N19@f)
+@oid	o0027338
 @list U+1267D
 @uname CUNEIFORM NUMERIC SIGN THREE N19 FLAT
 @uage ACN
@@ -51763,6 +51813,7 @@
 @end pcun
 
 @pcun 4(N19@f)
+@oid	o0027359
 @list U+1267E
 @uname CUNEIFORM NUMERIC SIGN FOUR N19 FLAT
 @uage ACN
@@ -51770,6 +51821,7 @@
 @end pcun
 
 @pcun 5(N19@f)
+@oid	o0027385
 @list U+1267F
 @uname CUNEIFORM NUMERIC SIGN FIVE N19 FLAT
 @uage ACN
@@ -51777,6 +51829,7 @@
 @end pcun
 
 @pcun 6(N19@f)
+@oid	o0027405
 @list U+12680
 @uname CUNEIFORM NUMERIC SIGN SIX N19 FLAT
 @uage ACN
@@ -51784,6 +51837,7 @@
 @end pcun
 
 @pcun 7(N19@f)
+@oid	o0027417
 @list U+12681
 @uname CUNEIFORM NUMERIC SIGN SEVEN N19 FLAT
 @uage ACN
@@ -51791,6 +51845,7 @@
 @end pcun
 
 @pcun 8(N19@f)
+@oid	o0031424
 @list U+12682
 @uname CUNEIFORM NUMERIC SIGN EIGHT N19 FLAT
 @uage ACN
@@ -51798,6 +51853,7 @@
 @end pcun
 
 @pcun 9(N19@f)
+@oid	o0031444
 @list U+12683
 @uname CUNEIFORM NUMERIC SIGN NINE N19 FLAT
 @uage ACN
@@ -51805,6 +51861,7 @@
 @end pcun
 
 @pcun 1(N46@f)
+@oid	o0031135
 @list U+12684
 @uname CUNEIFORM NUMERIC SIGN ONE N46 FLAT
 @uage ACN
@@ -51812,6 +51869,7 @@
 @end pcun
 
 @pcun 2(N46@f)
+@oid	o0027318
 @list U+12685
 @uname CUNEIFORM NUMERIC SIGN TWO N46 FLAT
 @uage ACN
@@ -51819,6 +51877,7 @@
 @end pcun
 
 @pcun 1(N36@f)
+@oid	o0027264
 @list U+12686
 @uname CUNEIFORM NUMERIC SIGN ONE N36 FLAT
 @uage ACN
@@ -51826,6 +51885,7 @@
 @end pcun
 
 @pcun |2(N57)+E₂|
+@oid	o0038313
 @useq xF0047.x1208D
 @ucun 󰁇𒂍
 @end pcun
