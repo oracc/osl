@@ -4228,7 +4228,7 @@
 @aka DIŠ@t
 @inote Moving aš@t value, etc., to sign AŠ@t was a mistake; AŠ@t and AŠ@z unified.
 @inote New 20240923 aš@t and diš@t considered synonyms and all diš@t moved to corresponding aš@t.
-@oid	o0000108
+@oid	o0223363
 @aka	GE₂₃
 @list	ELLES104
 @list	GCSL188a
@@ -6503,7 +6503,7 @@
 
 @sign DE₂
 @aka	|UMUM×KASKAL|
-@oid	o0002529
+@oid	o0000138
 @list	KWU309b
 @list	LAK156b
 @list	RSP361bis
@@ -13876,7 +13876,7 @@
 
 @sign GEŠMIN@c
 @aka 1(N51)
-@oid	o0000861
+@oid	o0027278
 @aka	|AŠ&AŠ@180|
 @inote	ed3a number; descriptive name in @aka is bad--should be
 	|AŠ&AŠ@180|@90 because the AŠ are vertical not horizontal
@@ -13897,7 +13897,7 @@
 
 @sign GEŠMINU@c
 @aka 1(N54)
-@oid	o0000621
+@oid	o0027282
 @aka	|(AŠ&AŠ@180)×U|
 @inote	ed3a number; 2024-07-28 move to GEŠMINU@c as conventional sign name
 @v	gešminu@c
