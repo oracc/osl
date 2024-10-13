@@ -30912,6 +30912,7 @@
 
 @sign N
 @oid	o0000468
+@fake	1
 @v	n
 @link	eBL N https://www.ebl.lmu.de/signs/N
 @end sign
@@ -47580,6 +47581,7 @@
 
 @sign X
 @oid	o0000601
+@fake 	1
 @v	baniaₓ
 @v	eriₓ
 @v	lugudₓ
