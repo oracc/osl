@@ -90,7 +90,7 @@ ASL.</p>
 	merge		= @merge SIGN-NAME(S)
 	formblock	= form , names? , list* , notes? , unicode? ,
 			  value* , endform
-	form		= @form '-'? SIGN-NAME
+	form		= @form ('-'|'+')? SIGN-NAME '?'?
 	endform		= '@@'
 </pre>
 
@@ -248,8 +248,48 @@ that set; SIGN-NAMEs of @form tags must be unique within each
 individual sign, but may occur as forms of more than one sign, or
 occur as signs.</p>
 
-<p>Values belonging to forms must be unique within the form, may occur
-more than once across the signlist, under different forms and/or under a
+<p>If a @form does not also exist as a @sign an ambiguity occurs if
+the @form occurs as a child of more than one @sign.  This ambiguity is
+reported by sx and must be resolved either by creating a @sign or by
+marking one of the @form instances as default by adding a '+' after
+@form:</p>
+
+<pre class="cookbook">
+  @sign |ZI&amp;ZI.A|
+  ...
+  @form |ZI&amp;ZI|
+  @@
+  @end sign
+
+  @sign |ZI&amp;ZI.LAGAB|
+  ...
+  @form |ZI&amp;ZI|
+  @@
+  @end sign</pre>
+
+<p>In this case it is preferable to create @sign |ZI&amp;ZI|, because
+then independent instances of |ZI&amp;ZI| in texts will not be forced
+into one interpretation.</p>
+
+<p>In the following it is preferable to make U@c default to being a
+child of U; where it occurs as punctuation it will be explicitly
+marked as, e.g., *(U@c).:</p>
+
+<pre class="cookbook">
+  @sign P₁
+  ...
+  @form U@c
+  @@
+  @end sign
+
+  @sign U
+  ...
+  @form+ U@c
+  @@
+  @end sign</pre>
+
+<p>Values belonging to forms must be unique within the form, but may occur
+more than once across the signlist under different forms and/or under a
 sign.</p>
 
 <p>Forms have two kinds of values: explicit and inherited.  Explicit

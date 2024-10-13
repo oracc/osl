@@ -1100,6 +1100,12 @@
 @@
 @end sign
 
+@sign |A.BU|
+@oid	o0000661
+@useq	x12000.x1204D
+@ucun	𒀀𒁍
+@end sign
+
 @sign |A.SUD|
 @oid	o0000720
 @useq	x12000.x122E4
@@ -3644,6 +3650,12 @@
 @@
 @end sign
 
+@sign LAK240
+@oid	o0245336
+@list	GCSL119
+@list	LAK240
+@end sign
+
 @sign |ANŠE.IGI.EŠ₂|
 @oid	o0000833
 @useq	x12032.x12146.x120A0
@@ -3963,7 +3975,7 @@
 @inote	notation {mul}1(IKU){gana₂} in cams/gkab
 @link	eBL AŠ https://www.ebl.lmu.de/signs/AŠ
 @link	Wikidata Q87555110 http://www.wikidata.org/entity/Q87555110
-@form AŠ@c
+@form+ AŠ@c
 @oid	o0221914
 @list	LAK820
 @list	LAK839
@@ -6525,7 +6537,7 @@
 @v	siu
 @v	ṭe₅
 @v	ṭiₓ
-@form UMUM@s
+@form+ UMUM@s
 @oid	o0000138
 @list	ELLES179
 @list	GCSL071
@@ -7023,7 +7035,7 @@
 @uage ACN
 @ucun 𒕐
 @@
-@form AŠ@z
+@form AŠ@t
 @oid	o0000108
 @inote	dcclt *() punctuation qualifier
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
@@ -8477,13 +8489,19 @@
 @link	eBL DUR₂ https://www.ebl.lmu.de/signs/DUR₂
 @link	Wikidata Q87555269 http://www.wikidata.org/entity/Q87555269
 @form |LAGAB×AŠ@c|
-@inote formerly |LAGAB×1(N01)|
 @oid	o0027185
 @list	BAU268
 @list	LAK772
 @v	dur₂?
 @inote	|LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
 @@
+@end sign
+
+@sign |LAGAB×AŠ@c|
+@inote formerly |LAGAB×1(N01)|
+@oid	o0027185
+@list	BAU268
+@list	LAK772
 @end sign
 
 @sign |DUR₂.DUR₂|
@@ -16755,7 +16773,7 @@
 @v	ziz₃
 @link	eBL |HI×AŠ| https://www.ebl.lmu.de/signs/|HI×AŠ|
 @link	Wikidata Q87555592 http://www.wikidata.org/entity/Q87555592
-@form |HI.AŠ|
+@form+ |HI.AŠ|
 @oid	o0022961
 @inote	dcclt !sg
 @useq	x1212D.x12038
@@ -16971,6 +16989,12 @@
 @oid	o0000271
 @v	kam@v
 @@
+@end sign
+
+@sign |HI×MAŠ|
+@oid	o0001457
+@list	ELLES199
+@list	RSP312
 @end sign
 
 @sign |HI×BAD×U|
@@ -17947,7 +17971,7 @@
 @v	u₃
 @link	eBL |IGI.DIB| https://www.ebl.lmu.de/signs/|IGI.DIB|
 @link	Wikidata Q87555643 http://www.wikidata.org/entity/Q87555643
-@form |IGI.LU|
+@form+ |IGI.LU|
 @oid	o0001503
 @inote	K 135+ P274788 NA but third millennium LAK775 style LU
 @useq	x12146.x121FB
@@ -23236,14 +23260,10 @@
 @@
 @form REC145
 @oid	o0000298
-@aka	KU₄~a
 @list	KWU634
 @list	LAK208
 @list	REC145
-@uname	CUNEIFORM SIGN KU4 VARIANT FORM
-@list	U+121AE
 @ucun	𒆮
-@uage	5.0
 @v	ku₄
 @v	kur₉
 @link	Wikidata Q87555856 http://www.wikidata.org/entity/Q87555856
@@ -27519,14 +27539,23 @@
 @list	KWU634
 @list	LAK208
 @list	REC145
+@ucun	𒆮
 @inote	@aka KU₄~a (repeated @aka KU₄ is redundant and not allowed)
+@lit	Krecher 1973 https://doi.org/10.1515/zava.1973.63.2.145 p. 232
+@link	Wikidata Q87555856 http://www.wikidata.org/entity/Q87555856
+@@
+@end sign
+
+@sign REC145
+@oid	o0000298
+@list	KWU634
+@list	LAK208
+@list	REC145
 @lit	Krecher 1973 https://doi.org/10.1515/zava.1973.63.2.145 p. 232
 @uname	CUNEIFORM SIGN KU4 VARIANT FORM
 @list	U+121AE
 @ucun	𒆮
 @uage	5.0
-@link	Wikidata Q87555856 http://www.wikidata.org/entity/Q87555856
-@@
 @end sign
 
 @sign LIMMU
@@ -32145,7 +32174,7 @@
 @v	2(barig)~a
 @v	2(bariga)~a
 @@
-@form NIGIDAMIN@c
+@form+ NIGIDAMIN@c
 @aka 2(N08)
 @oid	o0223340
 @list	LAK835a
@@ -33807,6 +33836,13 @@
 @@
 @end sign
 
+@sign |NUNUZ.KISIM₅×KAK|
+@oid	o0221883
+@inote	P228840 ii 2
+@useq	x1226D.X
+@ucun	𒉭X
+@end sign
+
 @sign |NUNUZ.AB₂×(BI.SILA₃)|
 @oid	o0038232
 @inote	epsd2/admin/ur; CDLI "|KWU475×BI|"; sign clear on photo P250637
@@ -34135,7 +34171,7 @@
 @v	p₂
 @link	eBL P₂ https://www.ebl.lmu.de/signs/P₂
 @link	Wikidata Q87557084 http://www.wikidata.org/entity/Q87557084
-@form AŠ@z
+@form AŠ@t
 @oid	o0000108
 @inote	Amarna
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
@@ -35270,6 +35306,13 @@
 @v	kilim
 @link	eBL LAK247 https://www.ebl.lmu.de/signs/LAK247
 @@
+@end sign
+
+@sign LAK244
+@oid	o0000335
+@list	ELLES138
+@list	LAK244
+@list	RSP468ter
 @end sign
 
 @sign PEŠ₂~v
@@ -43477,7 +43520,7 @@
 @v	1(bur₃@v)
 @inote	ed3b hapax in P221565 = BIN 08, 082 ii 12
 @@
-@form U@c
+@form+ U@c
 @aka 1(N14)
 @oid	o0223334
 @list	LAK840
@@ -44300,6 +44343,11 @@
 @sign U@v
 @oid	o0000563
 @link	eBL U@v https://www.ebl.lmu.de/signs/U@v
+@end sign
+
+@sign |UD×DIŠ|
+@oid	o0223330
+@list	RSP328
 @end sign
 
 @compoundonly	|U@v&U@v|
@@ -45703,7 +45751,7 @@
 @v	umun₂
 @link	eBL UMUM https://www.ebl.lmu.de/signs/UMUM
 @link	Wikidata Q87556573 http://www.wikidata.org/entity/Q87556573
-@form |UMUM×KASKAL|
+@form DE₂
 @oid	o0002529
 @list	LAK156b
 @list	RSP361bis
@@ -46825,6 +46873,10 @@
 @v	uluₓ
 @inote	deprecated; sign is really LAK648×IM
 @@
+@end sign
+
+@sign |LAK648×IM|
+@oid	o0001881
 @end sign
 
 @sign |URU×(MIN.GA)|
@@ -48086,16 +48138,24 @@
 @list	KWU127
 @list	LAK469
 @list	RSP456
-@note	abbreviated variant
-@uname	CUNEIFORM SIGN ZI OVER ZI
-@list	U+12364
-@ucun	𒍤
-@uage	5.0
 @v	sukumₓ
 @v	šuₓ
 @link	eBL |ZI&ZI| https://www.ebl.lmu.de/signs/|ZI&ZI|
 @link	Wikidata Q87556715 http://www.wikidata.org/entity/Q87556715
 @@
+@end sign
+
+@sign |ZI&ZI|
+@oid	o0002666
+@list	BAU259
+@list	KWU127
+@list	LAK469
+@list	RSP456
+@note	abbreviated variant
+@uname	CUNEIFORM SIGN ZI OVER ZI
+@list	U+12364
+@ucun	𒍤
+@uage	5.0
 @end sign
 
 @sign |ZI&ZI.EŠ₂|
@@ -48169,10 +48229,6 @@
 @list	RSP456
 @note	abbreviated variant of NUMUN₂?
 @lit	MSL 14, 49 note at line 453.
-@uname	CUNEIFORM SIGN ZI OVER ZI
-@list	U+12364
-@ucun	𒍤
-@uage	5.0
 @v-	gugₓ
 @v	sumₓ
 @link	eBL |ZI&ZI| https://www.ebl.lmu.de/signs/|ZI&ZI|
@@ -48457,10 +48513,6 @@
 @form DE₂
 @oid	o0000138
 @list	GCSL071
-@v	abzu₂
-@@
-@form |UMUM×KASKAL|
-@oid	o0002529
 @list	LAK156b
 @list	RSP361bis
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
@@ -50103,7 +50155,7 @@
 @v	ussu
 @v	8(diš)
 @link	Wikidata Q87556857 http://www.wikidata.org/entity/Q87556857
-@form USSU
+@form+ USSU
 @oid	o0000589
 @list	HZL374
 @list	MZL867
