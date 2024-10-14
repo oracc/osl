@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'Noto Sans Cuneiform';
+   src: url('/Users/stinney/oracc2/lib/fonts/Noto-SansCuneiform-OSLx.ttf');
+}
+
+.oslx {
+   font-family: "Noto Sans Cuneiform";
+}
+
+.ss01 {
+    font-feature-settings: "ss01";
+}
+
+.salt1 {
+    font-feature-settings: "salt";
+}
