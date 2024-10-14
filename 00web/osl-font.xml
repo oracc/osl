@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>The OSL Font</esp:name>
+  <esp:title>The OSL Font</esp:title>
+  <html>
+    <head/>
+    <body>
+
+      <!--note: this is a preliminary design document; implementation
+           experience may result in revisions-->
+      
+      <p>OSL provides an OpenType font based on Cuneiform Noto which
+      covers all of the OSL sign repertoire, some of which are located
+      in the Unicode Private Use Area in plane 15 (U+F0000–U+FFFFD)
+      and supports sign-mergers and variants by using the OpenType
+      Stylistic Variation and SALT features, as well as ligatures
+      implemented using Unicode Ideographic Variation Selectors in the
+      range U+E0100 to U+E01EF.</p>
+
+      <p>The current FontLab source for the OSL font is available as
+      <esp:link
+      url="https://github.com/oracc/oracc2/raw/refs/heads/main/lib/fonts/Noto-SansCuneiform-OSL.vfc">Noto-SansCuneiform-OSL.vfc</esp:link>. The
+      OpenType version is delivered as a web font which means it is
+      not necessary for individual users to download it; it is
+      available as <esp:link
+      url="https://github.com/oracc/oracc2/raw/refs/heads/main/lib/fonts/Noto-SansCuneiform-OSL.ttf">Noto-SansCuneiform-OSL.ttf</esp:link>
+      for use with other applications.</p>
+
+      <esp:sh>OSL Script Concepts</esp:sh>
+
+      <p>OSL script variation is accessible in various ways. Common
+      sets of variants are grouped into named script-styles which
+      correspond to OpenType Stylistic Sets. These script-styles
+      implement general variations such as the common merger of IM
+      with NI₂ but are not intended to capture individual
+      manuscript-level variation. A script-style may have individual
+      character variants in addition to the Stylistic Set.</p>
+      
+      <p>The following script-styles are presently defined:</p>
+
+      <table class="pretty">
+	<tr><td>Script-style</td><td>OT Stylistic Set</td></tr>
+	<tr><td>Default</td><td>(none)</td><td>Selects standard font glyphs.</td></tr>
+	<tr><td>Early</td><td>ss01</td><td>Selects Early Dynastic glyph forms.</td></tr>
+	<tr><td>Middle</td><td>ss02</td><td>Selects Ur III/OB glyph forms.</td></tr>
+	<tr><td>Late</td><td>ss03</td><td>Selects later mergers.</td></tr>
+	<tr><td>Gudea</td><td>ss02</td><td>Selects Ur III/OB glyphs
+	along with de₂=UMUM@s.</td></tr>
+      </table>
+
+      <p>OSL script-styles can be selected in a project configuration
+      file or in an ATF protocol.</p>
+
+      <p>Configuration file:</p>
+
+      <pre>&lt;option name="osl-script-style" value="gudea"/></pre>
+
+      <p>ATF protocol:</p>
+
+      <pre>#atf: script gudea</pre>
+
+      <p>Individual character variants may be automatically selected
+      via transliteration based on the value or sign/form name or they
+      may be selectable using a graphetic suffix, e.g., de₂\s might
+      select the UMUM@s version of DE₂ which would be an alternative
+      to transliterating as de₂(UMUM@s).</p>
+      
+      <esp:sh>OSL Script-style Definitions</esp:sh>
+
+      <p>Script-styles are defined in osl.asl.  A script-style label
+      is defined using @scriptdef:</p>
+
+      <pre>@scriptdef gudea ss03</pre>
+
+      <p>Script-style information is added to signs and forms with
+      @script, which must be repeated for each script-style that is
+      required for a given sign.</p>
+
+      <p>The first argument to @script must be a script-style label as
+      defined with @scriptdef, followed by a colon. The following
+      arguments are a semi-colon-separated list of directives ending
+      with a period.</p>
+
+      <p>The following directives are supported:</p>
+
+      <dl>
+	<dt>ivs U+[IVSCODE]</dt><dd>The ivs directive specifies an IVS
+	codepoint which can be paired with the current sign's @ucun to
+	create a ligature that will select the appropriate variant for
+	the sign in the given script-style.</dd>
+	
+	<dt>merge > [SIGN]</dt><dd>The merge directive indicates that
+	the current sign merges with the SIGN given after the '>';
+	e.g., <code>@script gudea: merge >NI₂</code>.  This is not
+	used by the font technology, but is used when building
+	period-specific sub-signlists.
+      </dd>
+
+	<dt>salt [NUMBER]</dt><dd>The salt directive indicates that
+	the current sign should be replaced by the script-alternative
+	sign specified by [NUMBER].  Note that [NUMBER] must be
+	specified even if it is '1'.</dd>
+      </dl>
+
+      <esp:sh>ATF and Script-styles</esp:sh>
+
+      <p>The OSL processor, sx, generates script-style data that can
+      be used by the ATF processor.  If a script-style is
+      given in the project configuration file it is output in the
+      osl-script attribute of all texts in the project.  If a
+      script-style is given in an ATF protocol, it is output in the
+      osl-script attribute of the current text; both methods can be
+      used, with the protocol overriding the configuration file.</p>
+
+      <p>If salt or ivs directives are given for a sign, corresponding
+      attributes are added on grapheme nodes besides the utf8
+      attribute.  For salt the attribute value is the number; for ivs
+      the attribute value is the Unicode cuneiform sequence consisting
+      of the base sign and the IVS, given in UTF-8 encoding.</p>
+      
+    </body>
+  </html>
+</esp:page>
