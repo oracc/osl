@@ -10,5 +10,8 @@ font-feature-settings: "salt"; -- selects alternate 1
 
 font-feature-settings: "salt" 2; -- selects alternate 2
 
-For ligatures; Font->Build Glyphs->Ligature/Custom name with component chars, e.g., u12324_uE0100 will sub the two chars for the glyph
+For ligatures; Font->Build Glyphs->Ligature/Custom name with component
+chars, e.g., u12324_uE0100 will sub the two chars for the glyph
 
+For PUA chars define in PUA then use PUA char with Glyph->Add
+Component to reference PUA char in salt/ss01 or ligature
