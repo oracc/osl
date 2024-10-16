@@ -85,23 +85,36 @@
       <p>The following directives are supported:</p>
 
       <dl>
-	<dt>ivs U+[IVSCODE]</dt><dd>The ivs directive specifies an IVS
+	<dt>ivs [IVSCODE]</dt><dd>The ivs directive specifies an IVS
 	codepoint which can be paired with the current sign's @ucun to
 	create a ligature that will select the appropriate variant for
-	the sign in the given script-style.</dd>
+	the sign in the given script-style.  The format matches the
+	OSL distinction between individual codepoints, specified as,
+	e.g., U+12000, and sequences, specified as x12000.x12000.</dd>
 	
-	<dt>merge > [SIGN]</dt><dd>The merge directive indicates that
-	the current sign merges with the SIGN given after the '>';
-	e.g., <code>@script gudea: merge >NI₂</code>.  This is not
+	<dt>merge [SIGN]</dt><dd>The merge directive indicates that
+	the current sign merges with the SIGN given after 'merge';
+	e.g., <code>@script gudea: merge NI₂</code>.  This is not
 	used by the font technology, but is used when building
-	period-specific sub-signlists.
-      </dd>
+	period-specific sub-signlists.</dd>
 
 	<dt>salt [NUMBER]</dt><dd>The salt directive indicates that
 	the current sign should be replaced by the script-alternative
 	sign specified by [NUMBER].  Note that [NUMBER] must be
 	specified even if it is '1'.</dd>
+
+	<dt>sset [STYLISTIC-SET-CODE</dt><dd>The sset directive
+	enables style-set selection for the current sign to override
+	the style-set selection for the script-style; e.g., if
+	@scriptdef late usually selects ss03, @script late: ss01
+	selects style-set ss01 for this sign.</dd>
       </dl>
+
+      <p>@script can be used both with encoded characters and with
+      sequences.  For sequences, the font-related selectors SALT and
+      Stylistic Set are not relevant.  IVS can be used, however, to
+      select custom ligatures of the sequence that may be defined in
+      the font.</p>
 
       <esp:sh>ATF and Script-styles</esp:sh>
 
