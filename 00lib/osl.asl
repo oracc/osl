@@ -118,6 +118,12 @@
 @lit	ACN=R. Leroy, et al., Archaic Cuneiform Numbers.
 	Unicode data for these signs is based on the draft proposal and may be subject to change.
 
+@scriptdef early ss01
+@scriptdef middle ss02
+@scriptdef late ss03
+@scriptdef ed12 ss04
+@scriptdef gudea =middle
+
 @inote	@images 00etc/im-lak-svg.tab
 @inote	@images 00etc/im-lak-a-z.tab
 
@@ -6523,6 +6529,7 @@
 @list	U+12324
 @ucun	𒌤
 @uage	5.0
+@script gudea: salt 1; ivs E0100.
 @link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
 @link	Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
 @v	da₉
@@ -6538,14 +6545,12 @@
 @v	ṭe₅
 @v	ṭiₓ
 @form+ UMUM@s
-@oid	o0000138
+@oid	o0036120
+@upua	U+F004C
 @list	ELLES179
 @list	GCSL071
 @list	KWU309
 @list	SLLHA338n1
-@inote	The reference glyph for DE₂ should be UMUM@s (UMUM SHESHIG); 
-	ideally that should be encoded as its own codepoint but for 
-	now we map to |UMUM×KASKAL|. 2024-10-03: UMUM@s to be handled another way.
 @@
 @form UMUM
 @oid	o0000573
@@ -39194,6 +39199,7 @@
 @list	U+122B9
 @ucun	𒊹
 @uage	5.0
+@script middle,late: merge HI.
 @v	sar₂
 @v	sara₂
 @v	sare₂
@@ -39225,7 +39231,7 @@
 @ucun 𒕹
 @@
 @form- ŠAR₂@c@v
-@inote deprecated until identified; possibly an unused alias for šarʾu₂@c@v
+@inote deprecated until identified; possibly an unused alias for šarʾu@c@v
 @oid	o0223486
 @v	1(šar₂@c@v)
 @@
