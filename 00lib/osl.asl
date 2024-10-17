@@ -93,7 +93,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x12686 0xF0000-0xF004B
+	 0x12550-0x12686 0xF0000-0xF004C
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -7047,6 +7047,7 @@
 @@
 @form |DIŠ.DIŠ.DIŠ|
 @oid	o0000986
+@useq	x12079.x12079.x12079
 @inote	dcclt *() punctuation qualifier
 @link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @@
@@ -12768,6 +12769,7 @@
 @list	RSP243
 @list	SLLHA252
 @list	U+120E2
+@uname	CUNEIFORM SIGN GA2 TIMES PA
 @ucun	𒃢
 @uage	5.0
 @link	eBL |GA₂×PA| https://www.ebl.lmu.de/signs/|GA₂×PA|
@@ -14528,6 +14530,7 @@
 @link	eBL |GIR₃.ARAD| https://www.ebl.lmu.de/signs/|GIR₃.ARAD|
 @form |ANŠE.ARAD|
 @oid	o0000831
+@useq	x12032.x12034
 @link	eBL |ANŠE.ARAD| https://www.ebl.lmu.de/signs/|ANŠE.ARAD|
 @@
 @form |KIŠ.ARAD|
@@ -19299,6 +19302,7 @@
 @list	MZL051
 @list	SLLHA028
 @list	U+12189
+@uname	CUNEIFORM SIGN KA TIMES UD
 @ucun	𒆉
 @uage	5.0
 @v	sumₓ
@@ -34884,6 +34888,7 @@
 @link	eBL |PA.TUG₂| https://www.ebl.lmu.de/signs/|PA.TUG₂|
 @form |PA.LU|
 @oid	o0002198
+@useq	x1227A.x121FB
 @list	GCSL057
 @list	RSP057
 @link	eBL |PA.LU| https://www.ebl.lmu.de/signs/|PA.LU|
@@ -35596,6 +35601,7 @@
 @list	GCSL133
 @list	LAK259
 @list	U+1228C
+@uname	CUNEIFORM SIGN PIRIG TIMES UD
 @ucun	𒊌
 @uage	5.0
 @v	dešₓ

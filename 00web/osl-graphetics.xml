@@ -107,7 +107,6 @@ content--most often on a g:v node:</p>
    any tag that does not parse as a salt/sset/script</dd>
 </dl>
 
-
 <esp:sh>IMPLEMENTATION NOTE 2: BACKSPACE OVERLOADING</esp:sh>
 
 <p>In ATF the '\' has historically had two distinct meanings.  In
