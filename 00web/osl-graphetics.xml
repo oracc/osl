@@ -13,14 +13,15 @@ Parpola's graphetics tags were retained in the ATF form '\'[a-z]+,
 i.e., backslash (reverse solidus) followed by one or more lowercase
 letters.</p>
 
-<p>Oracc uses this notation to liaise between ATF and OSL in order to
-allow selection of variant character forms to be integrated into the
-text stream.</p>
+<p>Oracc extends this notation to liaise between ATF and OSL in order
+to allow selection of variant character forms to be integrated into
+the text stream.</p>
 
 <p>Oracc/OSL does not use the following tags because they are used in
 SAAo:</p>
 
-      <pre>\d \dd \ddm \dm \dp \dpm \dt \dtm \dtp \dy \dym \illaja \illaya
+<pre>
+      \d \dd \ddm \dm \dp \dpm \dt \dtm \dtp \dy \dym \illaja \illaya
       \m \md \mm \mp \my \p \pd \pm \pp \ppmm \ppp \t \td \tdm \tdp
       \tdym \tm \tp \tt \ttd \ty \tyd \tym \y \yd \ydm \ydp \ym \yp
       \yt \yy</pre>
@@ -37,17 +38,19 @@ Oracc script-style on a per-character basis:</p>
 upper/lower/digits) to allow additional script-style tags to be used,
 e.g.:</p>
 
-<pre>      \Gudea - gudea
+<pre>
+      \Gudea - gudea
       \ED12 - ed12</pre>
 
 <p>Oracc defines some symbolic tags which are mapped to common sets of
 variations--these are contrived to avoid SAA usage:</p>
 
-<pre>	\pap - pap-modified form
-	\k - kaskal-modified form
-	\s - sheshig-modified form
-	\w - wedge (cuneiform) shaped numbers
-	\v - curviform numbers</pre>
+<pre>
+      \pap - pap-modified form
+      \k - kaskal-modified form
+      \s - sheshig-modified form
+      \w - wedge (cuneiform) shaped numbers
+      \v - curviform numbers</pre>
 
 <p>These are defined within OSL and the OSL font, and should be
 implemented in fonts other than the OSL font, with the same semantics,
@@ -82,7 +85,7 @@ character variations:</p>
 
 <p>Selects character variant one for the DE₂ sign in the current font;
 the same issues of sign form definition apply to SALT tags as to
-Stylistic Set tags--their behavious is defined within the realm of OSL
+Stylistic Set tags--their behaviour is defined within the realm of OSL
 and the OSL font, but may vary with fonts outside of that realm.</p>
 
 <p>Graphetics tags may be given on sign values or sign names--the Oracc
@@ -91,7 +94,7 @@ the processing.</p>
 
 <esp:sh>IMPLEMENTATION NOTE 1: XTF ATTRIBUTES</esp:sh>
 
-<p>The following attributes may be set on an ATF node related to grapheme
+<p>The following attributes may be set on an XTF node related to grapheme
 content--most often on a g:v node:</p>
 
 <dl>
@@ -124,12 +127,13 @@ grammatical interpretations of a single form (disambiguator):</p>
 		#lem: lugal[king]\a  (.a = locative)</pre>
 
 <p>The ATF processor relocates the \ak or \a from the lemmatization onto
-the form, which results in glossaries/lemmatization tablets having
+the form, which results in glossaries/lemmatization tables having
 distinct forms lugal-la\ak and lugal-la\a and these distinct forms can
 then have distinct morphology:</p>
 
-<pre>@form lugal-la\ak /lugal +-la=l.a #~,ak
-     @form lugal-la\a /lugal +-la=l.a #~,a</pre>
+<pre>
+      @form lugal-la\ak /lugal +-la=l.a #~,ak
+      @form lugal-la\a /lugal +-la=l.a #~,a</pre>
 
 <p>The human interface via #lem lines certainly does not need to
 change.</p>

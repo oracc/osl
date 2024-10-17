@@ -10,9 +10,9 @@
   <struct:page file="asl.xml" id="asl" type="page"/>
   <struct:page file="sort.xml" id="sort" type="page"/>
   <struct:page file="pua.xml" id="pua" type="page"/>
-  <struct:page file="osl-font" id="osl-font" type="page"/>
-  <struct:page file="osl-graphetics" id="osl-graphetics" type="page"/>
-  <struct:page file="osl-demo" id="osl-demo" type="page"/>
+  <struct:page file="osl-font.xml" id="osl-font" type="page"/>
+  <struct:page file="osl-graphetics.xml" id="osl-graphetics" type="page"/>
+  <struct:page file="osl-demo.xml" id="osl-demo" type="page"/>
   <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>
   <struct:page file="oiv.xml" id="oiv" type="page" hide-menu-link="yes"/>
 </struct:page>
