@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>The OSL Font Demo</esp:name>
+  <esp:title>The OSL Font Demo</esp:title>
+  <html>
+    <head>
+      <link rel="stylesheet" href="/css/fonts.css"/>
+    </head>
+    <body>
+    <p>DE₂ qua UMUM×KASKAL u12324 = <span class="osl">𒌤</span></p>
+
+    <p>UMUM@s qua u12324.1 via CSS <span style="font-family: monospace;">font-feature-settings: "salt1";</span> = <span class="osl salt1">𒌤</span></p>
+    
+    <p>UMUM@s qua U+F004C = <span class="osl">󰁌</span></p>
+
+    <p>UMUM@s qua ligature U+12324_U+E0100 = <span class="osl ss01">𒌤󠄀</span></p>
+
+    <p>GURUŠ <span class="osl">𒄨</span> qua U12128.ss01 via CSS <span style="font-family: monospace;">font-feature-settings: "ss01";</span> = <span class="osl ss01">𒄨</span></p>
+    
+    <p>ŠAR₂ qua U+122B9 = <span class="osl">𒊹</span></p>
+
+    <p>ŠAR₂ qua U+122B9.ss02 via CSS <span style="font-family: monospace;">font-feature-settings: "ss02";</span> = <span class="osl ss02">𒊹</span></p>
+
+    <p>GURUŠ <span class="osl">𒄨</span> qua U12128.ss01 via CSS <span style="font-family: monospace;">font-feature-settings: "ss012";</span> = <span class="osl ss012">𒄨</span></p>
+    
+    <p>ŠAR₂ qua U+122B9.ss02 via CSS <span style="font-family: monospace;">font-feature-settings: "ss012";</span> = <span class="osl ss012">𒊹</span></p>
+    
+    </body>
+    </html>󠄀
+</esp:page>

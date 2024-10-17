@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>OSL Graphetics</esp:name>
+  <esp:title>OSL Graphetics</esp:title>
+  <html>
+    <head/>
+    <body>
+
+<p>Sign variation at the handwriting-level was tagged by Simo Parpola in
+the SAA corpus and this level of analysis was termed by him
+'graphetics'.  When the Oracc version of the SAA corpus was created,
+Parpola's graphetics tags were retained in the ATF form '\'[a-z]+,
+i.e., backslash (reverse solidus) followed by one or more lowercase
+letters.</p>
+
+<p>Oracc uses this notation to liaise between ATF and OSL in order to
+allow selection of variant character forms to be integrated into the
+text stream.</p>
+
+<p>Oracc/OSL does not use the following tags because they are used in
+SAAo:</p>
+
+      <pre>\d \dd \ddm \dm \dp \dpm \dt \dtm \dtp \dy \dym \illaja \illaya
+      \m \md \mm \mp \my \p \pd \pm \pp \ppmm \ppp \t \td \tdm \tdp
+      \tdym \tm \tp \tt \ttd \ty \tyd \tym \y \yd \ydm \ydp \ym \yp
+      \yt \yy</pre>
+
+<p>Oracc reserves three upper case tags which can be used to specify an
+Oracc script-style on a per-character basis:</p>
+
+<pre>
+      \E - early
+      \M - middle
+      \L - late</pre>
+
+<p>Oracc reserves mixed-case sequences (upper followed by
+upper/lower/digits) to allow additional script-style tags to be used,
+e.g.:</p>
+
+<pre>      \Gudea - gudea
+      \ED12 - ed12</pre>
+
+<p>Oracc defines some symbolic tags which are mapped to common sets of
+variations--these are contrived to avoid SAA usage:</p>
+
+<pre>	\pap - pap-modified form
+	\k - kaskal-modified form
+	\s - sheshig-modified form
+	\w - wedge (cuneiform) shaped numbers
+	\v - curviform numbers</pre>
+
+<p>These are defined within OSL and the OSL font, and should be
+implemented in fonts other than the OSL font, with the same semantics,
+where it makes sense to do so.  In the OSL font these are implemented
+only for a few characters where it is useful to be able to annotate
+the specific form, e.g., šar₂\v versus šar₂\w; de₂\k versus de₂\s.</p>
+
+<p>In a font which has no characters that vary according to their
+construction with kaskal or sheshig, there is no need for these
+modifiers; in a font where curviform numbers are not there
+is similarly no need to implement \v and \w modifiers.</p>
+
+<p>Oracc defines sequences consisting of 'ss' followed by two digits as
+accessors for OpenType stylistic set codes, e.g.:</p>
+
+<pre>      \ss01 - select stylistic set ss01</pre>
+
+<p>While early/middle/late are defined by OSL and are in part aliases
+for the Stylistic Sets defined in the OSL font, the significance of
+\ss01 etc., is dependent on individual font definitions and thus
+allows for flexibility to define Stylistic Sets for particular script
+types outside of the OSL font.</p>
+
+<p>This means that while the sign form accessed by \E in OSL using the
+OSL font is defined, the signform accessed by \ss01 could vary from
+font to font.</p>
+
+<p>Oracc reserves numeric tags to access SALT values, i.e., individual
+character variations:</p>
+
+<pre>      de₂\1</pre>
+
+<p>Selects character variant one for the DE₂ sign in the current font;
+the same issues of sign form definition apply to SALT tags as to
+Stylistic Set tags--their behavious is defined within the realm of OSL
+and the OSL font, but may vary with fonts outside of that realm.</p>
+
+<p>Graphetics tags may be given on sign values or sign names--the Oracc
+tools automatically take care of applying them at the proper point in
+the processing.</p>
+
+<esp:sh>IMPLEMENTATION NOTE 1: XTF ATTRIBUTES</esp:sh>
+
+<p>The following attributes may be set on an ATF node related to grapheme
+content--most often on a g:v node:</p>
+
+<dl>
+   <dt>g:oivs</dt><dd>the IVS of an @script ... ivs ..., rendered as UTF-8</dd>
+   <dt>g:salt</dt><dd>content of, e.g., \1 without the \</dd>
+   <dt>g:sset</dt><dd>content of, e.g., \ss01 without the \</dd>
+   <dt>g:script</dt><dd>content of, e.g., \M or \Middle = middle<br/>
+   	    -- for g:script the value is mapped to the name</dd>
+   <dt>g:gtag</dt><dd>content of, e.g., \s without the \; this is used for
+   any tag that does not parse as a salt/sset/script</dd>
+</dl>
+
+
+<esp:sh>IMPLEMENTATION NOTE 2: BACKSPACE OVERLOADING</esp:sh>
+
+<p>In ATF the '\' has historically had two distinct meanings.  In
+transliterated texts it is the graphetics tag as described above
+(formvar). When transliterated words are turned into orthographic
+forms for lemmatization, formvar tags are dropped by design because
+the handwriting variants are not considered to be semantically
+meaningful.</p>
+
+<p>In lemmatization lines, the '\' is used to annotate different
+grammatical interpretations of a single form (disambiguator):</p>
+
+<pre>
+		1. lugal-la
+		#lem: lugal[king]\ak (.ak = genitive)
+	or
+		#lem: lugal[king]\a  (.a = locative)</pre>
+
+<p>The ATF processor relocates the \ak or \a from the lemmatization onto
+the form, which results in glossaries/lemmatization tablets having
+distinct forms lugal-la\ak and lugal-la\a and these distinct forms can
+then have distinct morphology:</p>
+
+<pre>@form lugal-la\ak /lugal +-la=l.a #~,ak
+     @form lugal-la\a /lugal +-la=l.a #~,a</pre>
+
+<p>The human interface via #lem lines certainly does not need to
+change.</p>
+
+<p>While graphetics tags were restricted to SAAo this was never an
+issue; because @form is parsed using GDL some care may need to be
+taken to ensure that graphetics/formvars and @form-disambiguators are
+each understood in their own way.  This can probably be controlled at
+the level of the tool being used; the transliterations tool can assume
+'\' is formvar; the glossary tool can assume '\' is disambiguator.</p>
+
+<p>If this does cause a problem one possibility would be to change the
+notation for disambiguators because this is already processed by
+appending it to the form.  The new notation for form-variants could be
+'\\', for example, or \=: @form lugal-la\=ak, say.  It may not be a
+problem, though.</p>
+
+</body>
+</html>
+</esp:page>
