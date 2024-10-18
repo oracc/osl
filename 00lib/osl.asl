@@ -23627,6 +23627,19 @@
 @useq	x121B5.x12239
 @ucun	𒆵𒈹
 @@
+@form |MUŠ₃.KUŠU₂|
+@oid	o0001765
+@useq	x121B5.x12239
+@ucun	𒈹𒆵
+@v	uruhₓ
+@@
+@form |LAK526.MUŠ₃|
+@oid	o0031670
+@inote	addx dcclt/ebla
+@useq	X.x12239
+@ucun	X𒈹
+@v	uruhₓ
+@@
 @end sign
 
 @sign |KUŠU₂.HI×DIŠ|
@@ -24142,6 +24155,7 @@
 @ucun	𒇦
 @uage	5.0
 @v	bugin₄
+@v	buniŋₓ
 @v	bunin₄
 @link	eBL |LAGAB×(U.A)| https://www.ebl.lmu.de/signs/|LAGAB×(U.A)|
 @link	Wikidata Q87555975 http://www.wikidata.org/entity/Q87555975
@@ -27000,14 +27014,6 @@
 @v	meₓ
 @v	uriₓ
 @link	eBL LAK526 https://www.ebl.lmu.de/signs/LAK526
-@end sign
-
-@sign |LAK526.MUŠ₃|
-@oid	o0031670
-@inote	addx dcclt/ebla
-@useq	X.x12239
-@ucun	X𒈹
-@v	uruhₓ
 @end sign
 
 @sign LAK539
@@ -30818,14 +30824,6 @@
 @useq	x1223D.x122C1
 @ucun	𒈽𒋁
 @@
-@end sign
-
-@sign |MUŠ₃.KUŠU₂|
-@oid	o0221946
-@inote	admin/ed3b
-@useq	x12239.x121B5
-@ucun	𒈹𒆵
-@v	uruhₓ
 @end sign
 
 @sign |MUŠ₃.SIK₂.LAM|
