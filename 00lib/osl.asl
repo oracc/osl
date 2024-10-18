@@ -93,7 +93,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x12686 0xF0000-0xF004C
+	 0x12550-0x12686 0xF0000-0xF0051
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -17475,6 +17475,7 @@
 @list	LAK476
 @list	RSP425
 @list	U+1213D
+@uname CUNEIFORM SIGN HUB2 TIMES UD
 @ucun	𒄽
 @uage	5.0
 @v	tu₁₁⁺
