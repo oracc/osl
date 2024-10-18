@@ -23626,6 +23626,7 @@
 @oid	o0001765
 @useq	x121B5.x12239
 @ucun	𒆵𒈹
+@v	uruhₓ
 @@
 @form |MUŠ₃.KUŠU₂|
 @oid	o0001765
