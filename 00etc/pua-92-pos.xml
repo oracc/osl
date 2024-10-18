@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page
+    xmlns:esp="http://oracc.org/ns/esp/1.0"
+    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:xh="http://www.w3.org/1999/xhtml"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:sxw="http://oracc.org/ns/sxweb/1.0"
+    >
+  <esp:name>Oracc PUA 9.2</esp:name>
+  <esp:title>Oracc PUA 9.2</esp:title>
+  <html>
+    <head/>
+    <body>
+      <p>This page gives the Oracc PUA signs in Oracc PUA section 9.2 which contains non-numerica signs occurring in third millenia corpora but not yet encoded in Unicode.</p>
+      
+      <!-- or "grid" -->
+      <sxw:page-o-signs
+	  format="list"
+	  codepoints="yes"
+	  ><xi:include href="sxw-pos-9.2.txt" parse="text"
+	  /></sxw:page-o-signs>
+
+    </body>
+  </html>
+</esp:page>

@@ -1773,6 +1773,7 @@
 
 @sign |AB×A|
 @oid	o0000744
+@upua	U+F004E
 @link	eBL |AB×A| https://www.ebl.lmu.de/signs/|AB×A|
 @end sign
 
@@ -8826,6 +8827,7 @@
 
 @sign |E₂×AŠ@t|
 @oid	o0021192
+@upua	U+F004F
 @list	ELLES360
 @list	KWU713
 @list	KWU844
@@ -36757,6 +36759,7 @@
 
 @sign SAG@n@g
 @oid	o0000521
+@upua	F0050
 @list	BAU234
 @list	REC193
 @v	uguₓ
@@ -40841,6 +40844,7 @@
 
 @sign |ŠIM×PI|
 @oid	o0002758
+@upua	U+F0051
 @list	GCSL281
 @list	LAK657
 @v	šembiₓ
@@ -48722,6 +48726,7 @@
 
 @sign |ZUM×LAGAB|
 @oid	o0002678
+@upua	U+F004D
 @inote	epsd2/royal; also in marguzum ed3b
 @v	garigₓ
 @v	guzumₓ
