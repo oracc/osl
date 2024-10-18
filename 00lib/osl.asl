@@ -36759,7 +36759,7 @@
 
 @sign SAG@n@g
 @oid	o0000521
-@upua	F0050
+@upua	U+F0050
 @list	BAU234
 @list	REC193
 @v	uguₓ
