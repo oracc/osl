@@ -465,6 +465,8 @@
 @@
 @form |A.HA|
 @oid	o0000683
+@useq	x12000.x12129
+@ucun	𒀀𒄩
 @link	eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
 @@
 @form |A.HA.A.DU|
