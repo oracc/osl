@@ -23629,8 +23629,8 @@
 @v	uruhₓ
 @@
 @form |MUŠ₃.KUŠU₂|
-@oid	o0001765
-@useq	x121B5.x12239
+@oid	o0038378
+@useq	x12239.x121B5
 @ucun	𒈹𒆵
 @v	uruhₓ
 @@
