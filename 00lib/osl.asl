@@ -25564,10 +25564,13 @@
 @end sign
 
 @sign LAHŠU
+@aka |MUŠ×PA|
 @oid	o0000309
 @list	ELLES229
+@list	KWU482a
 @list	LAK442
 @list	RSP333
+@note	Krebernik OBO 160/1, 279; signform KWU482a drawn as |MUŠ×GAD|.
 @uname	CUNEIFORM SIGN LAHSHU
 @list	U+121F1
 @ucun	𒇱
@@ -25594,11 +25597,6 @@
 @useq	x12134.x12228.x1230B
 @ucun	𒄴𒈨𒌋
 @link	eBL |HI×NUN.ME.U| https://www.ebl.lmu.de/signs/|HI×NUN.ME.U|
-@@
-@form |MUŠ×PA|
-@oid	o0002034
-@list	KWU482a
-@note	Krebernik OBO 160/1, 279; signform KWU482a drawn as |MUŠ×GAD| and needs collation.
 @@
 @end sign
 
