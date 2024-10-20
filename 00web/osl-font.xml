@@ -46,7 +46,8 @@
 	<tr><td>Late</td><td>ss03</td><td>Selects later mergers.</td></tr>
 	<tr><td>Gudea</td><td>ss02</td><td>Selects Ur III/OB glyphs
 	along with de₂=UMUM@s.</td></tr>
-	<tr><td>ed12</td><td>ss04</td><td>Selects UET II+ glyphs</td></tr>
+	<tr><td>ED12</td><td>ss04</td><td>Selects UET II+ glyphs</td></tr>
+	<tr><td>Fara</td><td>ss05</td><td>Selects Fara glyphs</td></tr>
       </table>
 
       <p>OSL script-styles can be selected in a project configuration

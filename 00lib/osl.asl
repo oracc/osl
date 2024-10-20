@@ -93,7 +93,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x12686 0xF0000-0xF004C
+	 0x12550-0x12686 0xF0000-0xF0051
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -465,6 +465,8 @@
 @@
 @form |A.HA|
 @oid	o0000683
+@useq	x12000.x12129
+@ucun	𒀀𒄩
 @link	eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
 @@
 @form |A.HA.A.DU|
@@ -17480,6 +17482,7 @@
 @list	LAK476
 @list	RSP425
 @list	U+1213D
+@uname CUNEIFORM SIGN HUB2 TIMES UD
 @ucun	𒄽
 @uage	5.0
 @v	tu₁₁⁺
@@ -23631,6 +23634,20 @@
 @oid	o0001765
 @useq	x121B5.x12239
 @ucun	𒆵𒈹
+@v	uruhₓ
+@@
+@form |MUŠ₃.KUŠU₂|
+@oid	o0038378
+@useq	x12239.x121B5
+@ucun	𒈹𒆵
+@v	uruhₓ
+@@
+@form |LAK526.MUŠ₃|
+@oid	o0031670
+@inote	addx dcclt/ebla
+@useq	X.x12239
+@ucun	X𒈹
+@v	uruhₓ
 @@
 @end sign
 
@@ -24147,6 +24164,7 @@
 @ucun	𒇦
 @uage	5.0
 @v	bugin₄
+@v	buniŋₓ
 @v	bunin₄
 @link	eBL |LAGAB×(U.A)| https://www.ebl.lmu.de/signs/|LAGAB×(U.A)|
 @link	Wikidata Q87555975 http://www.wikidata.org/entity/Q87555975
@@ -25551,10 +25569,13 @@
 @end sign
 
 @sign LAHŠU
+@aka |MUŠ×PA|
 @oid	o0000309
 @list	ELLES229
+@list	KWU482a
 @list	LAK442
 @list	RSP333
+@note	Krebernik OBO 160/1, 279; signform KWU482a drawn as |MUŠ×GAD|.
 @uname	CUNEIFORM SIGN LAHSHU
 @list	U+121F1
 @ucun	𒇱
@@ -25581,11 +25602,6 @@
 @useq	x12134.x12228.x1230B
 @ucun	𒄴𒈨𒌋
 @link	eBL |HI×NUN.ME.U| https://www.ebl.lmu.de/signs/|HI×NUN.ME.U|
-@@
-@form |MUŠ×PA|
-@oid	o0002034
-@list	KWU482a
-@note	Krebernik OBO 160/1, 279; signform KWU482a drawn as |MUŠ×GAD| and needs collation.
 @@
 @end sign
 
@@ -27005,14 +27021,6 @@
 @v	meₓ
 @v	uriₓ
 @link	eBL LAK526 https://www.ebl.lmu.de/signs/LAK526
-@end sign
-
-@sign |LAK526.MUŠ₃|
-@oid	o0031670
-@inote	addx dcclt/ebla
-@useq	X.x12239
-@ucun	X𒈹
-@v	uruhₓ
 @end sign
 
 @sign LAK539
@@ -30825,14 +30833,6 @@
 @@
 @end sign
 
-@sign |MUŠ₃.KUŠU₂|
-@oid	o0038378
-@inote	admin/ed3b
-@useq	x12239.x121B5
-@ucun	𒈹𒆵
-@v	uruhₓ
-@end sign
-
 @sign |MUŠ₃.SIK₂.LAM|
 @oid	o0023068
 @inote	epsd2; dcclt !sg
@@ -34135,6 +34135,7 @@
 
 @sign O
 @oid	o0000494
+@fake	1
 @useq	xA0
 @ucun	 
 @uage	0
@@ -36765,7 +36766,7 @@
 
 @sign SAG@n@g
 @oid	o0000521
-@upua	F0050
+@upua	U+F0050
 @list	BAU234
 @list	REC193
 @v	uguₓ

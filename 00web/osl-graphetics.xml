@@ -39,6 +39,8 @@ upper/lower/digits) to allow additional script-style tags to be used,
 e.g.:</p>
 
 <pre>
+      \F - Fara
+      \G - Gudea
       \Gudea - gudea
       \ED12 - ed12</pre>
 
@@ -48,9 +50,10 @@ variations--these are contrived to avoid SAA usage:</p>
 <pre>
       \pap - pap-modified form
       \k - kaskal-modified form
+      \l - linear number (all elements in single horizontal row)
       \s - sheshig-modified form
       \w - wedge (cuneiform) shaped numbers
-      \v - curviform numbers</pre>
+      \v - curviform numbers (not clear that \w and \v are necessary)</pre>
 
 <p>These are defined within OSL and the OSL font, and should be
 implemented in fonts other than the OSL font, with the same semantics,
@@ -59,9 +62,9 @@ only for a few characters where it is useful to be able to annotate
 the specific form, e.g., šar₂\v versus šar₂\w; de₂\k versus de₂\s.</p>
 
 <p>In a font which has no characters that vary according to their
-construction with kaskal or sheshig, there is no need for these
-modifiers; in a font where curviform numbers are not there
-is similarly no need to implement \v and \w modifiers.</p>
+construction with pap/kaskal/sheshig, there is no need for these
+modifiers; in a font where curviform numbers are not there is
+similarly no need to implement \v and \w modifiers.</p>
 
 <p>Oracc defines sequences consisting of 'ss' followed by two digits as
 accessors for OpenType stylistic set codes, e.g.:</p>
