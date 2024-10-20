@@ -4,6 +4,8 @@ use Window->Panels->Features->Hamburger->Add Auto Features
 
 N.B. Use Update Auto Features to ensure that new additions get added
 
+ Use + and Character Variant to add cv to features; then Update Auto again to get cv01 added to aalt
+
 font-feature-settings: "ss01";
 
 font-feature-settings: "salt"; -- selects alternate 1
