@@ -40552,6 +40552,12 @@
 @sys	Attinger babir₂ => bappir₂
 @link	eBL ŠIM https://www.ebl.lmu.de/signs/ŠIM
 @link	Wikidata Q87556400 http://www.wikidata.org/entity/Q87556400
+@form ŠIM@g
+@oid	o0027582
+@list	GCSL280
+@list	LAK660
+@inote	for lak.atf and Gudea
+@@
 @end sign
 
 @sign |ŠIM.AN.MAŠ|
@@ -40895,11 +40901,11 @@
 	ŠIM×(EŠ₂?.GAR) or ŠIM×BUR!
 @end sign
 
-@sign ŠIM@g
-@oid	o0027582
-@list	GCSL280
-@list	LAK660
-@inote	for lak.atf
+@sign |ŠIM@g×GAR|
+@oid	o0027655
+@list	GCSL282
+@list	LAK661
+@inote	missing compounds for lak.atf
 @end sign
 
 @sign |ŠIM@g×KUŠU₂|

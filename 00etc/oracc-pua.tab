@@ -79,6 +79,11 @@ o0000744	|AB×A|	F004E	Xsux	9.2
 o0021192	|E₂×AŠ@t|	F004F	Xsux	9.2
 o0000521	SAG@n@g	F0050	Xsux	9.2
 o0002758	|ŠIM×PI|	F0051	Xsux	9.2
+o0027582	|ŠIM@g|	F0052	Xsux	9.2
+o0027653	|ŠIM@g×GAR|	F0053	Xsux	9.2
+o0027653	|ŠIM@g×KUŠU₂|	F0054	Xsux	9.2
+o0027655	|ŠIM@g×PI|	F0055	Xsux	9.2
+o0187962	|EZEN×HAL|	F0056	Xsux	9.2
 tcl8:e~a	e~a	F1000	gudea/tcl8
 tcl8:gara2~a	gara₂~a	F1001	gudea/tcl8
 tcl8:ne~a	ne~a	F1002	gudea/tcl8
@@ -96,9 +101,3 @@ o0023027	|ŠITA.GIŠ|	F1447	gudea/tcl8
 o0002464	|U.MU|	F14B5	gudea/tcl8
 o0002468	|U.TUG₂|	F14BA	gudea/tcl8
 o0002674	|ZU.AB|	F1534	gudea/tcl8
-o0000138	DE₂	F17B0	gudea/tcl8
-o0002758	|ŠIM×PI|	F18B2	gudea/tcl8
-o0021192	|E₂×AŠ@t|	F18E3	gudea/tcl8
-o0027653	|ŠIM@g×KUŠU₂|	F1A80	gudea/tcl8
-o0027655	|ŠIM@g×PI|	F1A81	gudea/tcl8
-o0187962	|EZEN×HAL|	F1BFD	gudea/tcl8
