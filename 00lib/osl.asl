@@ -16385,6 +16385,7 @@
 @list	U+12128
 @ucun	𒄨
 @uage	5.0
+@script early,middle,late: merge KAL.
 @v	gireš₂
 @v	giriš₂
 @v	guruš
@@ -18713,6 +18714,7 @@
 @list	U+1214E
 @ucun	𒅎
 @uage	5.0
+@script early,middle,late: merge NI₂.
 @v	adad
 @v	anegi
 @v	anig
@@ -23008,6 +23010,7 @@
 @list	U+121AA
 @ucun	𒆪
 @uage	5.0
+@script middle,late: merge DUR₂.
 @v	be₅
 @v	bed₃
 @v	bet₃
@@ -42959,6 +42962,7 @@
 @list	U+12300
 @ucun	𒌀
 @uage	5.0
+@script middle,late: merge BAD.
 @v	sumun
 @v	sun
 @v	suna
@@ -48290,6 +48294,7 @@
 @list	U+12365
 @ucun	𒍥
 @uage	5.0
+@script early,middle,late: merge EŠ₂.
 @v	gurₓ
 @v	guruₓ
 @v	karₓ
@@ -48417,6 +48422,7 @@
 @list	U+12369
 @ucun	𒍩
 @uage	5.0
+@script early,middle,late: merge AŠ₂.
 @v	ulušinₓ
 @v	ziz₂
 @link	eBL ZIZ₂ https://www.ebl.lmu.de/signs/ZIZ₂
