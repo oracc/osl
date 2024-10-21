@@ -3657,6 +3657,11 @@
 @useq	X.x12034
 @ucun	X𒀴
 @@
+@form |ANŠE.ARAD×KUR|
+@oid	o0038380
+@useq	x12032.x12035
+@ucun	𒀲𒀵
+@@
 @end sign
 
 @sign LAK240
@@ -23635,7 +23640,7 @@
 @v	uruhₓ
 @@
 @form |MUŠ₃.KUŠU₂|
-@oid	o0221946
+@oid	o0038378
 @useq	x12239.x121B5
 @ucun	𒈹𒆵
 @v	uruhₓ
@@ -33151,35 +33156,6 @@
 @form |BUR.NU₁₁|
 @oid	o0221863
 @@
-@form |BUR.NU₁₁.LA|
-@oid	o0031534
-@useq	x12053.x12262.x121B7
-@ucun	𒁓𒉢𒆷
-@@
-@form |BUR.NU₁₁.LA.HU|
-@oid	o0021771
-@useq	x12053.x12262.x121B7.x12137
-@ucun	𒁓𒉢𒆷𒄷
-@v	lagašₓ
-@@
-@form |LA.NU₁₁.BUR|
-@oid	o0018590
-@useq	x121B7.x12262.x12053
-@ucun	𒆷𒉢𒁓
-@v	lagašₓ
-@@
-@form |NU₁₁.BUR.SU.HU.LA|
-@oid	o0221905
-@useq	x12262.x12053.x122E2.x12137.x121B7
-@ucun	𒉢𒁓𒋢𒄷𒆷
-@v	lagašₓ
-@@
-@form |NU₁₁.LA.HU|
-@oid	o0221906
-@useq	x12262.x121B7.x12137
-@ucun	𒉢𒆷𒄷
-@v	lagašₓ
-@@
 @end sign
 
 @sign |NU₁₁.BUR.LA|
@@ -33211,6 +33187,36 @@
 @list	RSP342
 @useq	x12262.x121B7.x12053
 @ucun	𒉢𒆷𒁓
+@@
+@form |LA.NU₁₁.BUR|
+@oid	o0018590
+@useq	x121B7.x12262.x12053
+@ucun	𒆷𒉢𒁓
+@v	lagašₓ
+@@
+@form |BUR.NU₁₁.LA|
+@oid	o0031534
+@useq	x12053.x12262.x121B7
+@ucun	𒁓𒉢𒆷
+@v	lagašₓ
+@@
+@form |BUR.NU₁₁.LA.HU|
+@oid	o0021771
+@useq	x12053.x12262.x121B7.x12137
+@ucun	𒁓𒉢𒆷𒄷
+@v	lagašₓ
+@@
+@form |NU₁₁.BUR.SU.HU.LA|
+@oid	o0221905
+@useq	x12262.x12053.x122E2.x12137.x121B7
+@ucun	𒉢𒁓𒋢𒄷𒆷
+@v	lagašₓ
+@@
+@form |NU₁₁.LA.HU|
+@oid	o0221906
+@useq	x12262.x121B7.x12137
+@ucun	𒉢𒆷𒄷
+@v	lagašₓ
 @@
 @end sign
 
@@ -34132,6 +34138,7 @@
 
 @sign O
 @oid	o0000494
+@fake	1
 @useq	xA0
 @ucun	 
 @uage	0
