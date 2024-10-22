@@ -30222,6 +30222,7 @@
 
 @sign MURUB₄
 @oid	o0000462
+@script early,middle,late: merge NISAG.
 @list	LAK157
 @note	MURUB₄(LAK157) merges with NISAG(LAK159)
 @umap	NISAG
@@ -49948,12 +49949,6 @@
 @ucun	󰀙
 @uage	9.1
 @v	4(eše₃@c)
-@end sign
-
-@sign- 1(DIŠ)
-@inote redundant because DIŠ is 1(diš)
-@oid	o0000004
-@note	see CUNEIFORM SIGN DIŠ
 @end sign
 
 @sign 1/3(DIŠ)~e
