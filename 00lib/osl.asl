@@ -30223,24 +30223,41 @@
 @end sign
 
 @sign MURUB₄
+@aka UD@g
 @oid	o0000462
-@script middle,late: merge NISAG.
 @list	LAK157
-@note	MURUB₄(LAK157) merges with NISAG(LAK159)
-@upua	U+F0058
-@ucun	󰁘
+@list	KWU257
+@list	MZL542
+@list	SLLHA337xn1
+@uname	CUNEIFORM SIGN UD GUNU
+@list	U+12319
+@ucun	𒌙
+@uage	5.0
+@script late: merge NISAG.
 @v	mur₂
 @v	muri
 @v	muru₂
 @v	murub₄
+@v-	murₓ
+@v-	muru₁₃
+@v-	murub₆
+@v-	nesag₃?
+@v-	nisag₃?
+@v-	sagₓ
+@note MZL542 UD@g is LAK157 is MURUB₄, so the values associated with
+	MZL542 are deprecated and the /murub/-related values of NISAG
+	have been moved to MURUB₄ aka UD@g.
 @link	eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
-@form MURUB₄@g
+@link	eBL UD@g https://www.ebl.lmu.de/signs/UD@g
+@link	Wikidata Q87556552 http://www.wikidata.org/entity/Q87556552
+@end sign
+
+@sign MURUB₄@g
 @oid	o0027570
-@upua	U+F0059
-@ucun	󰁙
+@upua	U+F0058
+@ucun	󰁘
 @list	LAK158
-@inote	for lak.atf
-@@
+@inote	for lak.atf; could this be a graphic variant of NISAG, LAK159
 @end sign
 
 @sign MUŠ
@@ -45471,25 +45488,6 @@
 @inote	@uname-no-utf8	CUNEIFORM SIGN UD INVERTED
 @note	MEE 3 44 = dcclt:P241092 o v 6
 @link	eBL UD@180 https://www.ebl.lmu.de/signs/UD@180
-@end sign
-
-@sign UD@g
-@oid	o0000567
-@list	KWU257
-@list	MZL542
-@list	SLLHA337xn1
-@uname	CUNEIFORM SIGN UD GUNU
-@list	U+12319
-@ucun	𒌙
-@uage	5.0
-@v	murₓ
-@v	muru₁₃
-@v	murub₆
-@v	nesag₃?
-@v	nisag₃?
-@v	sagₓ
-@link	eBL UD@g https://www.ebl.lmu.de/signs/UD@g
-@link	Wikidata Q87556552 http://www.wikidata.org/entity/Q87556552
 @end sign
 
 @sign UD@g@v
