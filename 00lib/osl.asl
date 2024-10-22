@@ -15725,6 +15725,12 @@
 @v	idigna
 @inote	CDLI AbS transliterations; basis for idigna reading?
 @@
+@form IDIGNA
+@inote This is a hook for attaching early sign forms that cannot reasonably be described as |GU₂.GAR₃|
+@oid	o0038382
+@upua	U+F0057
+@ucun	󰁗
+@@
 @end sign
 
 @sign |GU₂.KALAM@g|

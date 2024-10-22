@@ -10,7 +10,15 @@ signs that do not merit separate encoding. All management of the Oracc
 PUA is consolidated in the OSL project.</p>
 
 <p>The region from F0000-F0FFF is used for core Oracc additions; the
-region from F1000 and up is used for font-specific additions.</p>
+region from F1000 and up may be used for font-specific additions.</p>
+
+<p>Adding characters to the PUA is only one of several possible
+strategies for managing glyph variation of encoded characters or
+sequences.  Individual glyphs can be assigned SALT or CVNN codes in
+fonts and ligatures can be defined for sequences without the need for
+additional PUA characters (unless the sequence contains one or more
+unencoded characters).  These approaches are described, with examples,
+on the XXX and YYY pages.</p>
 
 <esp:sh>Retention Policy</esp:sh>
 
@@ -26,18 +34,15 @@ url="https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-p
 <p>The data format for this table is:</p>
 
 <pre>
-OID|KEY        SIGN-NAME      PUA-CODE      SCRIPT|FONT-KEY      ORACC-PUA-BLOCK
+OID        SIGN-NAME      PUA-CODE      SCRIPT     ORACC-PUA-BLOCK
 </pre>
 
-<p>A KEY is a namespace for a sign, e.g., tcl8, where there is a variant
-'e' form, named tcl8:e~a.</p>
+<p>An OID must be assigned in Oracc's OID table for any character that
+is being added to the Oracc PUA.</p>
 
 <p>PUA-CODE is the uppercase hex codepoint in Plane 15.</p>
 
-<p>SCRIPT|FONT-KEY is either a script code--Xsux, Pcun--or a font name
-which can be used (perhaps with additional metadata outside the scope
-of oracc-pua.tab) to locate the font that uses the relevant PUA
-character.</p>
+<p>SCRIPT is one of the script codes Xsux, Pcun, Pelm.</p>
 
 <p>ORACC-PUA-BLOCK is an indicator of groups of characters added to
 the Oracc PUA; by convention these are numbered 9.x.</p>
@@ -47,13 +52,19 @@ the Oracc PUA; by convention these are numbered 9.x.</p>
 <p>This block was created in Sept/Oct 2024 for number signs and
 variants that were not encoded at that point.</p>
 
+<esp:ssh>Block 9.2</esp:ssh>
+
+<p>This block was created in Oct 2024 for non-numerical signs and
+variants that were not encoded at that point.</p>
+
 <esp:sh>Data Integrity and the PUA</esp:sh>
 
 <p>In some cases the use of characters in the PUA could subvert data
 integrity--the selection of an alternative stacking pattern for a
 number would not carry with it the semantics of the encoded stacking
 pattern.  It is likely that the Oracc PUA will address this by using a
-mechanism such as Ideographic Variation Selectors (IVS) to create font
+mechanism such as SALT, Stylistic Sets (SS00), Character Variants
+(CVNN), and Ideographic Variation Selectors (IVS) to create font
 ligatures that enable the correct base character, with its appropriate
 semantics, to be morphed into the character in the PUA via the
 combination of BASE+IVS.  This requires further
