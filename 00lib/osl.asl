@@ -93,7 +93,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x12686 0xF0000-0xF0051
+	 0x12550-0x12686 0xF0000-0xF0059
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -10559,6 +10559,8 @@
 
 @sign |EZEN×HAL|
 @oid	o0187962
+@upua	U+F0056
+@ucun	󰁖
 @list	LAK614
 @v	ubₓ
 @inote	etcsri
@@ -30225,20 +30227,20 @@
 @script early,middle,late: merge NISAG.
 @list	LAK157
 @note	MURUB₄(LAK157) merges with NISAG(LAK159)
-@umap	NISAG
-@unote	Temporary mapping to NISAG pending addition of MURUB₄
-@uage	9
+@upua	U+F0058
+@ucun	󰁘
 @v	mur₂
 @v	muri
 @v	muru₂
 @v	murub₄
 @link	eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
-@end sign
-
-@sign MURUB₄@g
+@form MURUB₄@g
 @oid	o0027570
+@upua	U+F0059
+@ucun	󰁙
 @list	LAK158
 @inote	for lak.atf
+@@
 @end sign
 
 @sign MUŠ
@@ -40561,6 +40563,8 @@
 @link	Wikidata Q87556400 http://www.wikidata.org/entity/Q87556400
 @form ŠIM@g
 @oid	o0027582
+@upua	U+F0052
+@ucun	󰁒
 @list	GCSL280
 @list	LAK660
 @inote	for lak.atf and Gudea
@@ -40909,7 +40913,9 @@
 @end sign
 
 @sign |ŠIM@g×GAR|
-@oid	o0027655
+@oid	o0038380
+@upua	U+F0053
+@ucun	󰁓
 @list	GCSL282
 @list	LAK661
 @inote	missing compounds for lak.atf
@@ -40917,12 +40923,16 @@
 
 @sign |ŠIM@g×KUŠU₂|
 @oid	o0027653
+@upua	U+F0054
+@ucun	󰁔
 @list	LAK662
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |ŠIM@g×PI|
 @oid	o0027655
+@upua	U+F0055
+@ucun	󰁕
 @list	GCSL282
 @list	LAK661
 @inote	missing compounds for lak.atf
