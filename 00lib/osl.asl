@@ -30224,7 +30224,7 @@
 
 @sign MURUB₄
 @oid	o0000462
-@script early,middle,late: merge NISAG.
+@script middle,late: merge NISAG.
 @list	LAK157
 @note	MURUB₄(LAK157) merges with NISAG(LAK159)
 @upua	U+F0058
@@ -40913,7 +40913,7 @@
 @end sign
 
 @sign |ŠIM@g×GAR|
-@oid	o0038380
+@oid	o0038382
 @upua	U+F0053
 @ucun	󰁓
 @list	GCSL282
