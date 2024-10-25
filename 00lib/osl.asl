@@ -33,13 +33,15 @@
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
-@listdef LAK 1-161 163-277 279-496 498-671 673-708 710-826 828-834 838-857
-	859-870 024b 046@v 046a 063b 072b 079a 081a 156b 162a 162b
-	171@s 207a 248@g 248b 256@g 262@g 278a 278b 283a 304a 309a
-	340a 340b 350@90 368@s 407b 449b 455a 461a 490@90 497a 497b
-	503a 503b 654a 672a 672b 709a 709b 772b 784a 791a 827a 827b
-	835a 835b 835c 836a 836b 836c 836d 837a 837b 858a 858b
-@lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
+@listdef LAK 1-161 163-277 279-496 498-671 673-708 710-711 713-826
+	828-834 838-851 856-857 859-870 024b 046@v 046a 063b 072b 079a
+	081a 156b 162a 162b 171@s 207a 248@g 248b 256@g 262@g 278a
+	278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
+	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 712a 712b
+	772b 784a 791a 827a 827b 835a 835b 835c 836a 836b 836c 836d
+	837a 837b 852a 852b 853a 853b 854a 854b 855a 855b 858a 858b
+@lit A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40;
+	Berlin 1922)
 
 @listdef MZL 1-907 113b 115a 115b 146' 146" 527'
 @lit	R. Borger, Mesopotamisches Zeichenlexikon (AOAT 305; Ugarit-Verlag 2003; second edition 2010)
@@ -3933,6 +3935,7 @@
 @list	GCSL001
 @list	HZL001
 @list	LAK001
+@list	LAK855b
 @list	MZL001
 @list	PTACE001
 @list	RSP001
@@ -3996,6 +3999,7 @@
 @list LAK002
 @list	LAK820
 @list	LAK839
+@list	LAK855a
 @list	RSP024
 @inote	@ucode	xeb80
 @v	aš@c
@@ -6981,6 +6985,7 @@
 @list	ABZL390
 @list	HZL356
 @list	MZL748
+@list	LAK854b
 @list	RSP005
 @list	RSP011
 @list	SLLHA480
@@ -7067,6 +7072,7 @@
 @oid	o0223336
 @aka	N8
 @list	LAK834
+@list	LAK854a
 @inote	@ucode	xebc2
 @v	barig@c
 @v	bariga@c
@@ -10970,6 +10976,7 @@
 
 @sign F₃
 @oid	o0000183
+@list	LAK852b
 @list	RSP020
 @list	SLLHA545a
 @inote	@v- 1/8
@@ -10985,6 +10992,7 @@
 @list	RSP033
 @v	1/8(iku@c)
 @sys acn 1/8(IKU@c)
+@list LAK852a
 @list U+12587
 @uname CUNEIFORM NUMERIC SIGN ONE EIGHTH IKU CURVED
 @uage ACN
@@ -11007,6 +11015,7 @@
 @list	RSP004
 @inote	@v- 1/4
 @uname	CUNEIFORM NUMERIC SIGN ONE QUARTER ASH
+@list	LAK853b
 @list	U+12460
 @ucun	𒑠
 @uage	5.0
@@ -11018,6 +11027,7 @@
 @list	RSP026
 @v	1/4(iku@c)
 @sys acn 1/4(IKU@c)
+@list	LAK853a
 @list U+12589
 @uname CUNEIFORM NUMERIC SIGN ONE QUARTER IKU CURVED
 @uage ACN
@@ -15733,7 +15743,7 @@
 @@
 @form IDIGNA
 @inote This is a hook for attaching early sign forms that cannot reasonably be described as |GU₂.GAR₃|
-@oid	o0038382
+@oid	o0029097
 @upua	U+F0057
 @ucun	󰁗
 @@
@@ -18338,6 +18348,8 @@
 @sign |IGI.NISAG|
 @oid	o0038392
 @list LAK430
+@useq x12146.x12260
+@ucun 𒅆𒉠
 @end sign
 
 @sign |IGI.PA|
@@ -18414,6 +18426,8 @@
 @sign |IGI.UD|
 @oid o0038390
 @list LAK425
+@useq x12146.x12313
+@ucun 𒅆𒌓
 @end sign
 
 @sign |IGI.UR|
@@ -26147,7 +26161,7 @@
 @lref LAK815
 @note Subject to further study; possibly a numeric sign
 
-@lref LAK867
+@lref LAK868
 @note LAK entry for igi ... ŋal₂
 
 @sign LAK3
@@ -39474,7 +39488,7 @@
 @sign |ŠAR₂×5(U)|
 @oid	o0028119
 @inote	|HI×5(U)|
-@list LAK849
+@list LAK850
 @list LAK865
 @upua	U+F0040
 @ucun	󰁀
@@ -49060,6 +49074,8 @@
 @form 1(EŠE₃@c)
 @aka 1(N22)
 @oid	o0223386
+@list	LAK856
+@inote LAK856b = 1(eše₃) in body of row not in left square.
 @inote	@ucode	xebc7
 @v	eše₃@c
 @v	1(eše₃@c)
@@ -50817,6 +50833,7 @@
 @@
 @form ŠARU@v@c
 @list LAK827a
+@list LAK861
 @oid	o0245340
 @upua	U+F0033
 @ucun	󰀳
