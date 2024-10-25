@@ -33,11 +33,13 @@
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
-@listdef LAK 1-826 828-834 838-857 859-870 024b 046@v 046a 063b 072b 079a 081a
-	156b 162a 162b 171@s 207a 248@g 248b 256@g 262@g 278a 278b
-	283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
-	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 772b 784a
-	791a 827a 827b 835a 835b 835c 836a 836b 836c 836d 837a 837b 858a 858b
+@listdef LAK 1-161 163-277 279-496 498-671 673-708 710-826 828-834 838-857
+	859-870 024b 046@v 046a 063b 072b 079a 081a 156b 162a 162b
+	171@s 207a 248@g 248b 256@g 262@g 278a 278b 283a 304a 309a
+	340a 340b 350@90 368@s 407b 449b 455a 461a 490@90 497a 497b
+	503a 503b 654a 672a 672b 709a 709b 772b 784a 791a 827a 827b
+	835a 835b 835c 836a 836b 836c 836d 837a 837b 858a 858b
+	
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
 
 @listdef MZL 1-907 113b 115a 115b 146' 146" 527'
@@ -2233,6 +2235,7 @@
 @v	zeₓ
 @link	eBL |AB₂.ŠA₃| https://www.ebl.lmu.de/signs/|AB₂.ŠA₃|
 @form LAK386
+@list LAK386
 @oid	o0000365
 @link	eBL LAK386 https://www.ebl.lmu.de/signs/LAK386
 @@
@@ -3991,6 +3994,7 @@
 @link	Wikidata Q87555110 http://www.wikidata.org/entity/Q87555110
 @form+ AŠ@c
 @oid	o0221914
+@list LAK002
 @list	LAK820
 @list	LAK839
 @list	RSP024
@@ -11372,7 +11376,8 @@
 @@
 @form |LAGAB×(HA.A)|
 @oid	o0018538
-@inote	See, e.g., P427626 o 5
+@list	LAK784
+@inote	See, e.g., P427626 o 5; LAK784 sign form is LAGAB×(HA.ZA)
 @@
 @form |LAGAB×HA.A|
 @oid	o0018557
@@ -18089,6 +18094,7 @@
 @link	eBL |IGI.E₂| https://www.ebl.lmu.de/signs/|IGI.E₂|
 @form |IGI.KID|
 @oid	o0031712
+@list	LAK429
 @useq	x12146.x121A4
 @ucun	𒅆𒆤
 @@
@@ -18103,6 +18109,7 @@
 @oid	o0001492
 @list	GCSL182
 @list	KWU559
+@list	LAK424
 @list	MZL730
 @list	SLLHA454
 @useq	x12146.x1209F
@@ -18181,6 +18188,7 @@
 
 @sign |IGI.GAN₂@t|
 @oid	o0221938
+@list	LAK426
 @inote	admin/ed3b
 @useq	x12146.x120F8
 @ucun	𒅆𒃸
@@ -18328,6 +18336,11 @@
 @link	eBL |IGI.NAGAR.ŠIR| https://www.ebl.lmu.de/signs/|IGI.NAGAR.ŠIR|
 @end sign
 
+@sign |IGI.NISAG|
+@oid	o0038392
+@list LAK430
+@end sign
+
 @sign |IGI.PA|
 @oid	o0038241
 @useq	x12146.x1227A
@@ -18397,6 +18410,11 @@
 @ucun	𒅆𒌉
 @v	ligimaₓ
 @@
+@end sign
+
+@sign |IGI.UD|
+@oid o0038390
+@list LAK425
 @end sign
 
 @sign |IGI.UR|
@@ -26102,6 +26120,33 @@
 @link	eBL |LAM×KUR.RU.DA| https://www.ebl.lmu.de/signs/|LAM×KUR.RU.DA|
 @end sign
 
+@lref LAK067
+@note Sequence u₅-a.
+
+@lref LAK179
+@note Sequence AŠ@t-DAR
+
+@lref LAK192
+@note Sequence eš-bar
+
+@lref LAK436
+@note No drawn sign; some references
+
+@lref LAK448
+@note Sequence PI A
+
+@lref LAK751
+@note Sequence ME TE
+
+@lref LAK802
+@note Unidentified sign
+
+@lref LAK803
+@note Unidentified sign
+
+@lref LAK815
+@note Subject to further study; possibly a numeric sign
+
 @sign LAK3
 @oid	o0000349
 @list	LAK003
@@ -26244,8 +26289,9 @@
 @end sign
 
 @sign LAK81
+@list LAK081
 @oid	o0027563
-@inote	for lak.atf
+@inote	for lak.atf; not drawn in LAK but referenced as R&R-ud
 @end sign
 
 @sign |LAK81&LAK81|
@@ -26465,6 +26511,7 @@
 @end sign
 
 @sign LAK234
+@list LAK234
 @oid	o0025731
 @inote	possibly just a simple form of MUŠ
 @end sign
@@ -26716,6 +26763,16 @@
 @link	Wikidata Q87557307 http://www.wikidata.org/entity/Q87557307
 @end sign
 
+@sign LAK395
+@oid o0038384
+@list LAK395
+@end sign
+
+@sign LAK399
+@oid o0038386
+@list LAK399
+@end sign
+
 @compoundonly	LAK397
 
 @sign LAK407
@@ -26741,6 +26798,11 @@
 @oid	o0000372
 @list	LAK410
 @link	eBL LAK410 https://www.ebl.lmu.de/signs/LAK410
+@end sign
+
+@sign LAK415
+@oid o0038388
+@list LAK415
 @end sign
 
 @sign LAK416
@@ -27379,12 +27441,19 @@
 @oid	o0000410
 @list	LAK708
 @link	eBL LAK708 https://www.ebl.lmu.de/signs/LAK708
+@inote No drawn sign.
 @end sign
 
-@sign LAK712
+@sign LAK712a
 @oid	o0025852
-@list	LAK712
-@inote	LAK712(a) is probably a form of LAK648 used as a container; LAK712b is ŠEN without the ×A
+@list	LAK712a
+@inote	LAK712a is probably a form of LAK648 used as a container
+@end sign
+
+@sign LAK712b
+@oid	o0038394
+@list LAK712b
+@inote LAK712b is ŠEN without the ×A
 @end sign
 
 @sign LAK722
@@ -44211,6 +44280,7 @@
 @sign |U.UD|
 @oid	o0002473
 @list	KWU511
+@list	LAK401
 @list	MZL706
 @list	RSP328
 @list	SLLHA447
@@ -46886,6 +46956,7 @@
 @v	ulu₃
 @@
 @form LAK648
+@list LAK648
 @oid	o0000408
 @uname	CUNEIFORM SIGN LAK648
 @list	U+1250D
