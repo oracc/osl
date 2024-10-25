@@ -39,7 +39,6 @@
 	340a 340b 350@90 368@s 407b 449b 455a 461a 490@90 497a 497b
 	503a 503b 654a 672a 672b 709a 709b 772b 784a 791a 827a 827b
 	835a 835b 835c 836a 836b 836c 836d 837a 837b 858a 858b
-	
 @lit	A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922)
 
 @listdef MZL 1-907 113b 115a 115b 146' 146" 527'
@@ -25643,6 +25642,7 @@
 @list	HZL358
 @list	KWU654
 @list	LAK756
+@list	LAK867
 @list	MZL750
 @list	PTACE304
 @list	RSP040
@@ -26146,6 +26146,9 @@
 
 @lref LAK815
 @note Subject to further study; possibly a numeric sign
+
+@lref LAK867
+@note LAK entry for igi ... ŋal₂
 
 @sign LAK3
 @oid	o0000349
@@ -39307,6 +39310,9 @@
 @list	HZL335
 @list	LAK809
 @list	LAK828
+@list	LAK851
+@list	LAK859
+@list	LAK866
 @list	MZL632
 @list	SLLHA396
 @uname	CUNEIFORM NUMERIC SIGN SHAR2
@@ -39439,6 +39445,7 @@
 @oid	o0028116
 @aka	|ŠAR₂×3(U)|
 @inote	|HI×(U.U.U)|
+@list LAK848
 @list LAK863
 @upua	U+F003E
 @ucun	󰀾
@@ -39455,6 +39462,7 @@
 @sign |ŠAR₂×4(U)|
 @oid	o0028118
 @inote	|HI×4(U)|
+@list LAK849
 @list LAK864
 @upua	U+F003F
 @ucun	󰀿
@@ -39466,6 +39474,7 @@
 @sign |ŠAR₂×5(U)|
 @oid	o0028119
 @inote	|HI×5(U)|
+@list LAK849
 @list LAK865
 @upua	U+F0040
 @ucun	󰁀
@@ -40999,7 +41008,7 @@
 @end sign
 
 @sign |ŠIM@g×GAR|
-@oid	o0038382
+@oid	o0038396
 @upua	U+F0053
 @ucun	󰁓
 @list	GCSL282
