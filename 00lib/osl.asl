@@ -130,6 +130,8 @@
 @inote	@images 00etc/im-lak-svg.tab
 @inote	@images 00etc/im-lak-a-z.tab
 
+@images im-ofs-oobf.tab
+
 @sign A
 @oid	o0000087
 @list	BAU416
