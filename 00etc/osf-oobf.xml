@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml">
+
+  <esp:name>OOBF</esp:name>
+  <esp:title>Oracc OB-Freie Regular</esp:title>
+
+  <html>
+    <head/>
+    <body>
+
+      <esp:sh>About</esp:sh>
+
+      <p>Oracc OB-Freie Regular is a minor adaptation of Corvin
+      Ziegeler's OB-Freie Regular font. The sign forms are based on
+      C. Mittermayer, Altbabylonische Zeichenliste der
+      sumerisch-literarischen Texte, listed in OSL as ABZL.</p>
+      
+      <esp:sh>Original Font</esp:sh>
+
+      <p>The original font was obtained from <esp:link
+      url="https://github.com/crzfub/OB-Freie/blob/main/OBFreie">https://github.com/crzfub/OB-Freie/blob/main/OBFreie</esp:link>
+      in October 2024.</p>
+
+      <esp:sh>License</esp:sh>
+
+      <p>Oracc OB-Freie Regular is licensed under the SIL Open Font
+      License, Version 1.1 as required by the licensing terms of
+      OB-Freie.</p>
+
+      <esp:sh>Download</esp:sh>
+
+      <p>All of the Oracc fonts are downloadable from the <esp:link
+      url="https://github.com/oracc/oracc2">Oracc II GitHub
+      repository.</esp:link></p>
+      
+      <dl>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-Assyrian.ttf">Oracc-Assyrian.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-Assyrian.ttf">Oracc-Assyrian.ttf</esp:link></dd>
+      </dl>
+      
+      <esp:sh>CSS</esp:sh>
+
+      <p>In Oracc projects the font is selected with the CSS class <code>osf-oobf</code>.</p>
+
+      <esp:sh>Contents</esp:sh>
+      
+      <!--NOTE: The last three closers must be on the same line-->
+</body></html></esp:page>

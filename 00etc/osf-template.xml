@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml">
+  
+  <esp:name></esp:name>
+  <esp:title></esp:title>
+
+  <html>
+    <head/>
+    <body>
+
+      <esp:sh>About</esp:sh>
+
+      <p></p>
+      
+      <esp:sh>Original Font</esp:sh>
+
+      <p></p>
+
+      <esp:sh>License</esp:sh>
+
+      <p></p>
+
+      <esp:sh>Download</esp:sh>
+
+      <p>All of the Oracc fonts are downloadable from the <esp:link
+      url="https://github.com/oracc/oracc2">Oracc II GitHub
+      repository.</esp:link></p>
+      
+      <dl>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/XXX.ttf">Oracc-Assyrian.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/XXX.ttf">Oracc-Assyrian.ttf</esp:link></dd>
+      </dl>
+      
+      <esp:sh>CSS</esp:sh>
+
+      <p>In Oracc projects the font is selected with the CSS class <code></code>.</p>
+
+      <esp:sh>Contents</esp:sh>
+      
+      <!--NOTE: The last three closers must be on the same line-->
+</body></html></esp:page>
