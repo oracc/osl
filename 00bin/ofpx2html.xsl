@@ -20,14 +20,16 @@
     <tr>
       <td><xsl:value-of select="@n"/></td>
       <td><xsl:value-of select="@xml:id"/></td>
-      <td><span class="{$css} ofs-150"><xsl:value-of select="@utf8"/></span></td>
+      <td><p><span class="{$css} ofs-150"><xsl:value-of select="@utf8"/></span></p></td>
       <td>
 	<xsl:if test="@l">
-	  <xsl:text>(</xsl:text>
-	  <xsl:value-of select="@l"/>
-	  <xsl:text> = </xsl:text>
-	  <span class="{$css} ofs-150"><xsl:value-of select="zwnj"/></span>
-	  <xsl:text>)</xsl:text>
+	  <p>
+	    <xsl:text>(</xsl:text>
+	    <xsl:value-of select="@l"/>
+	    <xsl:text> = </xsl:text>
+	    <span class="{$css} ofs-150"><xsl:value-of select="@zwnj"/></span>
+	    <xsl:text>)</xsl:text>
+	  </p>
 	</xsl:if>
       </td>
     </tr>
