@@ -4,7 +4,8 @@
 	       xmlns="http://www.w3.org/1999/xhtml"
 	       version="1.0">
 
-  <xsl:output method="xml" encoding="UTF-8" omit-xml-declaration="yes"/>
+  <xsl:output method="xml" encoding="UTF-8"
+	      omit-xml-declaration="yes" indent="yes"/>
   <xsl:param name="css"/>
   
   <xsl:template match="o:ofp">
@@ -17,7 +18,7 @@
     <tr>
       <td><xsl:value-of select="@n"/></td>
       <td><xsl:value-of select="@xml:id"/></td>
-      <td><span class="{$css}"><xsl:value-of select="@utf8"/></span></td>
+      <td><span class="{$css} ofs-150"><xsl:value-of select="@utf8"/></span></td>
     </tr>
   </xsl:template>
   

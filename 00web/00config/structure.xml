@@ -14,7 +14,7 @@
   <struct:page file="osl-graphetics.xml" id="osl-graphetics" type="page"/>
   <struct:page file="osl-demo.xml" id="osl-demo" type="page"/>
   <struct:page file="fonts.xml" id="fonts" type="page">
-    <struct:page file="fonts/osf-oobf.xml" id="osf-oobf" type="page"/>
+    <struct:page file="fonts/ofs-oobf.xml" id="ofs-oobf" type="page"/>
   </struct:page>
   <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>
   <struct:page file="oiv.xml" id="oiv" type="page" hide-menu-link="yes"/>

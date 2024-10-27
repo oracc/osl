@@ -24,5 +24,5 @@ fi
 mkdir -p 00web/fonts
 x=00web/fonts/$c.xml
 grep -v '</body>' $h >$x
-xsltproc 00bin/ofpx2html.xsl $o >>$x
+xsltproc -stringparam css $c 00bin/ofpx2html.xsl $o >>$x
 tail -1 $h >>$x
