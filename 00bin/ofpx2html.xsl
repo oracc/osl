@@ -10,7 +10,9 @@
   
   <xsl:template match="o:ofp">
     <table class="pretty">
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="*[@oid]">
+	<xsl:sort select="@sort" data-type="number"/>
+      </xsl:apply-templates>
     </table>
   </xsl:template>
 
@@ -19,6 +21,15 @@
       <td><xsl:value-of select="@n"/></td>
       <td><xsl:value-of select="@xml:id"/></td>
       <td><span class="{$css} ofs-150"><xsl:value-of select="@utf8"/></span></td>
+      <td>
+	<xsl:if test="@l">
+	  <xsl:text>(</xsl:text>
+	  <xsl:value-of select="@l"/>
+	  <xsl:text> = </xsl:text>
+	  <span class="{$css} ofs-150"><xsl:value-of select="zwnj"/></span>
+	  <xsl:text>)</xsl:text>
+	</xsl:if>
+      </td>
     </tr>
   </xsl:template>
   
