@@ -40,7 +40,7 @@
 	<td><xsl:value-of select="@list"/></td>
 	<td class="ofs-feat-r">sset</td>
 	<td><xsl:value-of select="."/></td>
-	<td><p><span class="{$css} {.} ofs-150"><xsl:value-of select="@utf8"/></span></p></td>
+	<td><p><span class="{$css} {.} ofs-150"><xsl:value-of select="ancestor::o:sign/@utf8"/></span></p></td>
 	<td>
 	  <xsl:if test="@l">
 	    <p>
