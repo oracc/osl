@@ -36,8 +36,8 @@
       repository.</esp:link></p>
       
       <dl>
-	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-Assyrian.ttf">Oracc-Assyrian.vfc</esp:link></dd>
-	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-Assyrian.ttf">Oracc-Assyrian.ttf</esp:link></dd>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.ttf</esp:link></dd>
       </dl>
       
       <esp:sh>CSS</esp:sh>
