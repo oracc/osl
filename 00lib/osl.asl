@@ -6,8 +6,12 @@
 @inote	@listdef ABZ 1-598
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
 
-@listdef ABZL 1-480 021a 021b 112a 112b 207a 207a/207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b 401a 401b
-@lit	C. Mittermayer, Altbabylonische Zeichenliste der sumerisch-literarischen Texte. (Fribourg, 2006).
+@listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
+	 240-290 292-400 402-480 021a 021b 112a 112b 152a 152b 152c
+	 207a 207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
+	 401a 401b
+@lit C. Mittermayer, Altbabylonische Zeichenliste der
+	 sumerisch-literarischen Texte. (Fribourg, 2006).
 
 @listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 385a 385b 385c 386a 386b 387a 417a
 @lit	E. Burrows, Archaic Texts (UET 2; London 1935)
@@ -134,6 +138,7 @@
 
 @sign A
 @oid	o0000087
+@list	ABZL470
 @list	BAU416
 @list	ELLES393
 @list	GCSL324
@@ -1780,6 +1785,7 @@
 
 @sign |AB×A|
 @oid	o0000744
+@list	ABZL130
 @upua	U+F004E
 @link	eBL |AB×A| https://www.ebl.lmu.de/signs/|AB×A|
 @end sign
@@ -2556,6 +2562,7 @@
 
 @sign AK
 @oid	o0000093
+@list	ABZL052
 @list	BAU062
 @list	ELLES053
 @list	GCSL045
@@ -3080,6 +3087,7 @@
 
 @sign |3×AN|
 @oid	o0000642
+@list	ABZL010
 @list	BAU008
 @list	ELLES006b
 @list	GCSL051
@@ -4661,6 +4669,7 @@
 
 @sign BAHAR₂
 @oid	o0000117
+@list	ABZL086
 @list	BAU370
 @list	ELLES364
 @list	LAK742
@@ -5701,6 +5710,7 @@
 
 @sign BURU₅
 @oid	o0000130
+@list	ABZL043
 @list	ELLES044
 @list	GCSL039
 @list	LAK072
@@ -5958,6 +5968,7 @@
 
 @sign |DAG.KISIM₅×GA|
 @oid	o0000953
+@list	ABZL171
 @list	LAK744
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES GA
 @list	U+1205B
@@ -6564,6 +6575,7 @@
 @form+ UMUM@s
 @oid	o0036120
 @upua	U+F004C
+@list	ABZL215
 @list	ELLES179
 @list	GCSL071
 @list	KWU309
@@ -7248,6 +7260,7 @@
 
 @sign DU
 @oid	o0000149
+@list	ABZL064
 @list	BAU374
 @list	ELLES252
 @list	GCSL224
@@ -7385,6 +7398,7 @@
 
 @sign |DU&DU|
 @oid	o0000989
+@list	ABZL197
 @list	KWU706
 @list	SLLHA206a
 @uname	CUNEIFORM SIGN DU OVER DU
@@ -8242,6 +8256,7 @@
 
 @sign DUN
 @oid	o0000158
+@list	ABZL438
 @list	BAU019
 @list	ELLES025
 @list	GCSL189
@@ -8404,7 +8419,6 @@
 @sign DUN₃@g@g
 @oid	o0000162
 @list	ABZL219a
-@list	ABZL219b
 @list	ELLES084
 @list	GCSL072
 @list	HZL096
@@ -8434,6 +8448,17 @@
 @v	uku
 @link	eBL DUN₃@g@g https://www.ebl.lmu.de/signs/DUN₃@g@g
 @link	Wikidata Q87555265 http://www.wikidata.org/entity/Q87555265
+@form MIR~a
+@oid	o0029464
+@list	ABZL219b
+@v	migir
+@v	mir
+@v	miri
+@v	nigir
+@v	niŋir
+@v	nimgir
+@v	nimirₓ
+@@
 @end sign
 
 @sign |DUN₃@g@g.UŠ|
@@ -9901,6 +9926,7 @@
 
 @sign EŠ₂
 @oid	o0000178
+@list	ABZL420
 @list	BAU386a
 @list	ELLES392
 @list	GCSL323
@@ -10283,6 +10309,7 @@
 
 @sign EZEN
 @oid	o0000177
+@list	ABZL152a
 @list	BAU298
 @list	ELLES303
 @list	GCSL261
@@ -10312,10 +10339,10 @@
 @v	izin
 @v	izun
 @v	ser₃
-@v	sidra
-@v	silₓ
 @v	sir₃
+@v	sidra
 @v	sirda
+@v	silₓ
 @v	sirim₂
 @v	šer₃
 @v	šir₃
@@ -10333,6 +10360,14 @@
 @v	sir₃
 @inote	to support sir(KEŠ₂)-re in Nippur Nigga Q000052 228, even though it needs collation
 @link	eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
+@@
+@form ŠIR₃~a
+@oid	o0038406
+@list	ABZL152b
+@v	ser₃
+@v	sir₃
+@v	šer₃
+@v	šir₃
 @@
 @end sign
 
@@ -10678,6 +10713,7 @@
 @@
 @form |EZEN×GUD|
 @oid	o0001107
+@list	ABZL155
 @list	MZL278
 @uname	CUNEIFORM SIGN EZEN TIMES GUD
 @list	U+12377
@@ -12445,6 +12481,11 @@
 @link	Wikidata Q87557224 http://www.wikidata.org/entity/Q87557224
 @end sign
 
+@sign |GA₂×NU|
+@oid	o0038400
+@list	ABZL095
+@end sign
+
 @sign |GA₂×NUN|
 @oid	o0001320
 @list	ABZL096
@@ -12679,6 +12720,11 @@
 @sign |GA₂×ŠU|
 @oid	o0018842
 @inote	epsd2/admin/ur3 P374170 	BM 093618A Nisaba 17, 041 needs collation
+@end sign
+
+@sign |GA₂×ŠU₂|
+@oid	o0038402
+@list	ABZL103
 @end sign
 
 @sign |GA₂×TAK₄|
@@ -13269,6 +13315,7 @@
 
 @sign GALAM
 @oid	o0000195
+@list	ABZL210
 @list	MZL338
 @list	RSP179
 @list	RSP180
@@ -13280,11 +13327,16 @@
 @v	gaₓ
 @v	galam
 @v	gud₅
+@link	eBL GALAM https://www.ebl.lmu.de/signs/GALAM
+@link	Wikidata Q87555472 http://www.wikidata.org/entity/Q87555472
+@form SUKUD
+@list	ABZL133
+@oid	o0029926
 @v	sukuₓ
 @v	sukud
 @v	ubi
-@link	eBL GALAM https://www.ebl.lmu.de/signs/GALAM
-@link	Wikidata Q87555472 http://www.wikidata.org/entity/Q87555472
+@inote ABZL splits GALAM and SUKUD; not clear how to handle this. Not clear where /ubi/ goes.
+@@
 @end sign
 
 @sign |GALAM.GALAM|
@@ -16964,6 +17016,7 @@
 
 @sign |HI×BAD|
 @oid	o0001453
+@list	ABZL279
 @list	GCSL152
 @list	KWU452
 @list	LAK366
@@ -17444,6 +17497,7 @@
 
 @sign |HU.SI|
 @oid	o0001470
+@list	ABZL033
 @list	ELLES041
 @list	GCSL035
 @list	KWU114
@@ -18118,6 +18172,7 @@
 
 @sign |IGI.ERIN₂|
 @oid	o0001492
+@list	ABZL238
 @list	GCSL182
 @list	KWU559
 @list	LAK424
@@ -21769,6 +21824,7 @@
 
 @sign |KASKAL.(LAGAB×U)&(LAGAB×U)|
 @oid	o0001581
+@list	ABZL272
 @list	SLLHA166ee
 @uname	CUNEIFORM SIGN KASKAL LAGAB TIMES U OVER LAGAB TIMES U
 @list	U+1219D
@@ -21841,6 +21897,7 @@
 
 @sign KEŠ₂
 @oid	o0000278
+@list	ABZL152c
 @list	BAU307
 @list	ELLES300
 @list	GCSL264
@@ -25810,6 +25867,7 @@
 
 @sign |LAL₂.DU|
 @oid	o0001893
+@list	ABZL466
 @useq	x121F3.x1207A
 @ucun	𒇳𒁺
 @v	nangaₓ
@@ -25873,6 +25931,7 @@
 
 @sign |LAL₂.LAGAB|
 @oid	o0001896
+@list	ABZL468
 @list	BAU293
 @useq	x121F3.x121B8
 @ucun	𒇳𒆸
@@ -25887,6 +25946,7 @@
 @v	ušur₃
 @sys	Attinger niŋen₅ => niŋin₆
 @link	eBL |LAL₂.LAGAB| https://www.ebl.lmu.de/signs/|LAL₂.LAGAB|
+@inote Described in ABZL468 as |LAL₂×LAGAB|.
 @end sign
 
 @sign |LAL₂.NI|
@@ -25900,6 +25960,7 @@
 
 @sign |LAL₂.SAR|
 @oid	o0001898
+@list	ABZL467
 @list	LAK761
 @list	RSP042
 @useq	x121F3.x122AC
@@ -28651,6 +28712,13 @@
 @inote	for lak.atf
 @end sign
 
+@sign LU₂@g@s
+@oid	o0038408
+@list	ABZL200
+@v	adₓ
+@v	addaₓ
+@end sign
+
 @sign |LU₂@g.UŠ₂|
 @oid	o0001954
 @useq	X.x12357
@@ -28674,6 +28742,7 @@
 
 @sign LU₂@s
 @oid	o0000440
+@list	ABZL254
 @list	BAU277
 @list	KWU081
 @list	MZL516
@@ -30228,6 +30297,7 @@
 
 @sign MUNSUB
 @oid	o0000460
+@list	ABZL397
 @list	ELLES329
 @list	LAK672b
 @list	MZL820
@@ -30313,6 +30383,7 @@
 @sign MURUB₄
 @aka UD@g
 @oid	o0000462
+@list	ABZL207a
 @list	LAK157
 @list	KWU257
 @list	MZL542
@@ -30834,6 +30905,7 @@
 @@
 @form |MUŠ₃×A|
 @oid	o0002049
+@list	ABZL046
 @uname	CUNEIFORM SIGN MUSH3 TIMES A
 @list	U+1223A
 @ucun	𒈺
@@ -31488,6 +31560,7 @@
 
 @sign NAGA@180
 @oid	o0000471
+@list	ABZL298
 @list	MZL293
 @list	SLLHA165n1
 @uname	CUNEIFORM SIGN NAGA INVERTED
@@ -32120,6 +32193,7 @@
 @link	eBL |NI.TUK| https://www.ebl.lmu.de/signs/|NI.TUK|
 @form |SAL.TUK|
 @oid	o0002324
+@list	ABZL462
 @useq	x122A9.x12307
 @ucun	𒊩𒌇
 @v	dilmun@v
@@ -32792,6 +32866,7 @@
 
 @sign |NINDA₂×ŠE|
 @oid	o0002118
+@list	ABZL137
 @list	BAU066
 @list	KWU160
 @list	LAK105
@@ -35947,7 +36022,7 @@
 
 @sign RA
 @oid	o0000510
-@list	ABZL192
+@list	ABZL194
 @list	BAU273
 @list	ELLES350
 @list	GCSL294
@@ -37629,6 +37704,7 @@
 @@
 @form |IL₂.MA₂.DUB₂|
 @oid	o0001527
+@list	ABZL205
 @useq	x1214D.x12223.x12080
 @ucun	𒅍𒈣𒂀
 @v	sagga₂
@@ -39641,6 +39717,7 @@
 
 @sign |ŠE.HU|
 @oid	o0002714
+@list	ABZL379
 @list	BAU035
 @list	KWU639
 @list	LAK070
@@ -39733,6 +39810,7 @@
 
 @sign |ŠE.NAGA|
 @oid	o0002722
+@list	ABZL383
 @list	GCSL106
 @list	KWU642
 @useq	x122BA.x12240
@@ -39963,6 +40041,7 @@
 @sign |ŠE.SUHUR|
 @oid	o0002728
 @pname	|ŠE+SUHUR|
+@list	ABZL387
 @useq	x122BA.x122E6
 @ucun	𒊺𒋦
 @v	ubiₓ
@@ -40335,6 +40414,7 @@
 
 @sign |ŠEŠ.KI|
 @oid	o0002740
+@list	ABZL022
 @list	GCSL008
 @list	KWU033
 @list	LAK033
@@ -40410,6 +40490,7 @@
 
 @sign ŠID
 @oid	o0002837
+@list	ABZL212
 @list	BAU371
 @list	ELLES351
 @list	HZL231
@@ -41023,8 +41104,15 @@
 	ŠIM×(EŠ₂?.GAR) or ŠIM×BUR!
 @end sign
 
+@sign |ŠIM×X₂|
+@oid	o0038398
+@list ABZL084
+@note ABZL084 includes several sign forms in this heading.  At least one of them is likely |ŠIM@g×PI|.
+@end sign
+
 @sign |ŠIM@g×GAR|
 @oid	o0038396
+@list ABZL084
 @upua	U+F0053
 @ucun	󰁓
 @list	GCSL282
@@ -41188,6 +41276,7 @@
 
 @sign |ŠITA.GIŠ|
 @oid	o0023027
+@list	ABZL460
 @list	GCSL233
 @list	LAK489
 @list	ZATU147
@@ -42153,6 +42242,7 @@
 
 @sign |TA×HI|
 @oid	o0002407
+@list	ABZL124
 @list	BAU345
 @list	GCSL255
 @list	KWU757
@@ -42427,7 +42517,7 @@
 
 @sign TAG
 @oid	o0000546
-@list	ABZL122
+@list	ABZL121
 @list	BAU356
 @list	ELLES307
 @list	GCSL267
@@ -42708,12 +42798,14 @@
 @end sign
 
 @sign |TAK₄.IM|
+@list	ABZL059
 @oid	o0002403
 @inote	epsd2
 @useq	x122FA.x1214E
 @ucun	𒋺𒅎
 @v	kidₓ
 @link	eBL |TAK₄.IM| https://www.ebl.lmu.de/signs/|TAK₄.IM|
+@note Described as KID₂×IM in ABZL059.
 @end sign
 
 @sign |TAK₄.TAK₄|
@@ -43026,6 +43118,7 @@
 
 @sign TI
 @oid	o0000553
+@list	ABZL023
 @list	BAU023
 @list	ELLES011
 @list	GCSL014
@@ -43819,6 +43912,7 @@
 
 @sign |U.EN×GAN₂@t|
 @oid	o0002453
+@list	ABZL341
 @useq	x1230B.x12099
 @ucun	𒌋𒂙
 @v	ešgarₓ
@@ -44052,6 +44146,7 @@
 
 @sign |U.PIRIG|
 @oid	o0002465
+@list	ABZL347
 @useq	x1230B.x1228A
 @ucun	𒌋𒊊
 @v	kiši₁₀
@@ -45527,7 +45622,7 @@
 @sign |UD×(U.U.U)@g|
 @oid	o0002519
 @pname	|UD×U+U+U@g|
-@list	ABZL207a/207b
+@list	ABZL207b
 @list	HZL110
 @list	MZL545
 @list	SLLHA337
@@ -45711,6 +45806,7 @@
 
 @sign |UM.ME|
 @oid	o0002524
+@list	ABZL114
 @useq	x1231D.x12228
 @ucun	𒌝𒈨
 @v	eme₂
@@ -45875,7 +45971,6 @@
 
 @sign UMUM
 @oid	o0000573
-@list	ABZL215
 @list	BAU093
 @list	BAU094
 @list	ELLES085
@@ -47825,6 +47920,7 @@
 
 @sign ZA
 @oid	o0000603
+@list	ABZL474
 @list	BAU082a
 @list	BAU082b
 @list	ELLES395
