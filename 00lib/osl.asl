@@ -134,6 +134,8 @@
 @inote	@images 00etc/im-lak-svg.tab
 @inote	@images 00etc/im-lak-a-z.tab
 
+@images im-ofs-gudea.tab
+
 @images im-ofs-oobf.tab
 
 @sign A
@@ -5827,6 +5829,7 @@
 
 @sign DAG
 @oid	o0000133
+@list	ABZL168
 @list	BAU362
 @list	ELLES363
 @list	GCSL304
@@ -6357,7 +6360,6 @@
 
 @sign |DAG.KISIM₅×X|
 @oid	o0000968
-@list	ABZL168
 @list	HZL243
 @list	MZL438
 @list	SLLHA280
@@ -8522,6 +8524,7 @@
 
 @sign DUR₂
 @oid	o0000165
+@list	ABZL415
 @list	ELLES388
 @list	LAK791
 @list	RSP254
@@ -35282,6 +35285,7 @@
 
 @sign PAP
 @oid	o0000500
+@list	ABZL249
 @list	BAU126
 @list	ELLES129
 @list	GCSL113
@@ -35441,7 +35445,6 @@
 
 @sign |PAP.PAP×ŠE|
 @oid	o0002232
-@list	ABZL249
 @list	HZL256(1)
 @list	MZL092
 @list	SLLHA060
@@ -38451,6 +38454,7 @@
 
 @sign SU
 @oid	o0000531
+@list	ABZL305
 @list	BAU226
 @list	ELLES172
 @list	GCSL137
@@ -38552,7 +38556,6 @@
 
 @sign |SU.RU×KUR|
 @oid	o0002374
-@list	ABZL305
 @list	HZL213
 @list	SLLHA007v
 @useq	x122E2.X
