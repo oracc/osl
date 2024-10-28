@@ -9,9 +9,11 @@
 @listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
 	 240-290 292-400 402-480 021a 021b 112a 112b 152a 152b 152c
 	 207a 207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
-	 401a 401b
+	 401a 401b 900
 @lit C. Mittermayer, Altbabylonische Zeichenliste der
 	 sumerisch-literarischen Texte. (Fribourg, 2006).
+@note	Numbers 900 and above are used for characters in Corvin Ziegeler's
+	OB-Freie font which are not listed independently in ABZL.
 
 @listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 385a 385b 385c 386a 386b 387a 417a
 @lit	E. Burrows, Archaic Texts (UET 2; London 1935)
@@ -30383,37 +30385,6 @@
 @@
 @end sign
 
-@sign MURUB₄
-@aka UD@g
-@oid	o0000462
-@list	ABZL207a
-@list	LAK157
-@list	KWU257
-@list	MZL542
-@list	SLLHA337xn1
-@uname	CUNEIFORM SIGN UD GUNU
-@list	U+12319
-@ucun	𒌙
-@uage	5.0
-@script late: merge NISAG.
-@v	mur₂
-@v	muri
-@v	muru₂
-@v	murub₄
-@v-	murₓ
-@v-	muru₁₃
-@v-	murub₆
-@v-	nesag₃?
-@v-	nisag₃?
-@v-	sagₓ
-@note MZL542 UD@g is LAK157 is MURUB₄, so the values associated with
-	MZL542 are deprecated and the /murub/-related values of NISAG
-	have been moved to MURUB₄ aka UD@g.
-@link	eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
-@link	eBL UD@g https://www.ebl.lmu.de/signs/UD@g
-@link	Wikidata Q87556552 http://www.wikidata.org/entity/Q87556552
-@end sign
-
 @sign MURUB₄@g
 @oid	o0027570
 @upua	U+F0058
@@ -41808,6 +41779,7 @@
 
 @sign ŠU₂
 @oid	o0002850
+@list	ABZL422
 @list	ELLES210
 @list	KWU898
 @list	LAK385
@@ -42023,7 +41995,6 @@
 
 @sign |ŠU₂.DUN₄|
 @oid	o0002816
-@list	ABZL422
 @list	HZL251
 @list	KWU503
 @list	KWU570
@@ -45622,26 +45593,45 @@
 @link	Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
 @end sign
 
-@sign |UD×(U.U.U)@g|
+@sign UD@g
+@uname	CUNEIFORM SIGN UD GUNU
+@list	LAK157
+@list	KWU257
+@list	MZL542
+@list	U+12319
+@ucun	𒌙
+@uage	5.0
+@note	UD@g is simply the early form of MURUB₄.
+@end sign
+
+@sign	MURUB₄
+@aka	|UD×(U.U.U)@g|
 @oid	o0002519
 @pname	|UD×U+U+U@g|
 @list	ABZL207b
 @list	HZL110
 @list	MZL545
 @list	SLLHA337
+@list	SLLHA337xn1
+@inote Check out what this n1 in SLLHA337 says ...
+@script late: merge NISAG.
 @uname	CUNEIFORM SIGN UD TIMES U PLUS U PLUS U GUNU
 @list	U+12318
 @ucun	𒌘
 @uage	5.0
-@v	murₓ
-@v	muruₓ
-@v	murubₓ
-@v	nesaŋₓ
-@v	nisaŋₓ
-@v	saŋₓ
-@v	zaŋₓ
+@v	mur₂
+@v	muri
+@v	muru₂
+@v	murub₄
 @link	eBL |UD×(U.U.U)@g| https://www.ebl.lmu.de/signs/|UD×(U.U.U)@g|
 @link	Wikidata Q87556549 http://www.wikidata.org/entity/Q87556549
+@note 	The early form of MURUB₄ is LAK157=UD@g; the Unicode reference glyph
+	UD@g×EŠ (i.e., |UD×(U.U.U)@g|) reflects a later form.
+@form UD@g
+@list	LAK157
+@list	KWU257
+@list	MZL542
+@@
 @end sign
 
 @sign |UD×(U.U.U).AN.ŠEŠ.KI|
@@ -48377,6 +48367,7 @@
 @@
 @form |ZI&ZI|
 @oid	o0002666
+@list	ABZL900
 @list	BAU259
 @list	KWU127
 @list	LAK469
@@ -48390,6 +48381,7 @@
 
 @sign |ZI&ZI|
 @oid	o0002666
+@list	ABZL900
 @list	BAU259
 @list	KWU127
 @list	LAK469
@@ -48399,6 +48391,7 @@
 @list	U+12364
 @ucun	𒍤
 @uage	5.0
+@inote ABZL compound only
 @end sign
 
 @sign |ZI&ZI.EŠ₂|
