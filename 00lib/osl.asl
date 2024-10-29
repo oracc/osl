@@ -45594,6 +45594,7 @@
 @end sign
 
 @sign UD@g
+@oid	o0038384
 @uname	CUNEIFORM SIGN UD GUNU
 @list	LAK157
 @list	KWU257
@@ -45606,7 +45607,7 @@
 
 @sign	MURUB₄
 @aka	|UD×(U.U.U)@g|
-@oid	o0002519
+@oid	o000462
 @pname	|UD×U+U+U@g|
 @list	ABZL207b
 @list	HZL110
