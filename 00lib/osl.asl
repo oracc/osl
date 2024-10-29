@@ -45594,7 +45594,7 @@
 @end sign
 
 @sign UD@g
-@oid	o0038384
+@oid	o0038409
 @uname	CUNEIFORM SIGN UD GUNU
 @list	LAK157
 @list	KWU257
