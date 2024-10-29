@@ -45607,7 +45607,7 @@
 
 @sign	MURUB₄
 @aka	|UD×(U.U.U)@g|
-@oid	o000462
+@oid	o0000462
 @pname	|UD×U+U+U@g|
 @list	ABZL207b
 @list	HZL110
