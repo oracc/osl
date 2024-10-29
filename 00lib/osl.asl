@@ -45629,6 +45629,7 @@
 @note 	The early form of MURUB₄ is LAK157=UD@g; the Unicode reference glyph
 	UD@g×EŠ (i.e., |UD×(U.U.U)@g|) reflects a later form.
 @form UD@g
+@oid	o0038409
 @list	LAK157
 @list	KWU257
 @list	MZL542
