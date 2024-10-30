@@ -7,7 +7,7 @@
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
 
 @listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
-	 240-290 292-400 402-480 021a 021b 63a 63b 112a 112b 152a 152b 152c
+	 240-290 292-400 402-480 021a 021b 063a 063b 112a 112b 152a 152b 152c
 	 207a 207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
 	 374a 376a 401a 401b 900-903
 @lit C. Mittermayer, Altbabylonische Zeichenliste der
