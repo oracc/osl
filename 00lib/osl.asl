@@ -3657,8 +3657,6 @@
 @@
 @end sign
 
-@end sign
-
 @sign |ANŠE.AN|
 @oid	o0000830
 @useq	x12032.x1202D
