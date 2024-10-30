@@ -18793,7 +18793,7 @@
 @ucun	𒑆
 @uage	5.0
 @v	ilimmu
-@v	9(diš)
+@v	9(diš)~a
 @link	eBL ILIMMU https://www.ebl.lmu.de/signs/ILIMMU
 @link	Wikidata Q87556989 http://www.wikidata.org/entity/Q87556989
 @form 9(DIŠ@c)
@@ -50427,7 +50427,7 @@
 @v	elimmuₓ
 @v	ilimₓ
 @v	ilimmuₓ
-@v	9(diš)~d
+@v	9(diš)
 @link	Wikidata Q87556858 http://www.wikidata.org/entity/Q87556858
 @form- 9(DIŠ@c)~d
 @inote doubtful that this exists
