@@ -9,7 +9,7 @@
 @listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
 	 240-290 292-400 402-480 021a 021b 112a 112b 152a 152b 152c
 	 207a 207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
-	 401a 401b 900
+	 374a 376a 401a 401b 900-903
 @lit C. Mittermayer, Altbabylonische Zeichenliste der
 	 sumerisch-literarischen Texte. (Fribourg, 2006).
 @note	Numbers 900 and above are used for characters in Corvin Ziegeler's
@@ -3643,6 +3643,20 @@
 @oid	o0025828
 @list	LAK248b
 @@
+@form |GIR₃×PA|
+@oid	o0001353
+@list	ABZL292
+@list	LAK255
+@uname	CUNEIFORM SIGN GIR3 TIMES PA
+@list	U+1210F
+@ucun	𒄏
+@uage	5.0
+@v	anšeₓ
+@link	eBL |GIR₃×PA| https://www.ebl.lmu.de/signs/|GIR₃×PA|
+@link	Wikidata Q87555526 http://www.wikidata.org/entity/Q87555526
+@@
+@end sign
+
 @end sign
 
 @sign |ANŠE.AN|
@@ -4277,6 +4291,7 @@
 @inote New 20240923 aš@t and diš@t considered synonyms and all diš@t moved to corresponding aš@t.
 @oid	o0223363
 @aka	GE₂₃
+@list	ABZL901
 @list	ELLES104
 @list	GCSL188a
 @list	KWU333
@@ -6554,6 +6569,7 @@
 @sign DE₂
 @aka	|UMUM×KASKAL|
 @oid	o0000138
+@list	ABZL215
 @list	KWU309b
 @list	LAK156b
 @list	RSP361bis
@@ -9632,7 +9648,7 @@
 
 @sign |EN×GAN₂|
 @oid	o0001079
-@list	ABZL063
+@list	ABZL063a
 @list	HZL274
 @list	MZL165
 @list	SLLHA054
@@ -9651,6 +9667,7 @@
 @list	LAK531
 @list	SLLHA054v
 @uname	CUNEIFORM SIGN EN TIMES GAN2 TENU
+@list	ABZL063b
 @list	U+12099
 @ucun	𒂙
 @uage	5.0
@@ -12873,6 +12890,7 @@
 
 @sign GABA
 @oid	o0000190
+@list	ABZL141
 @list	ELLES064
 @list	LAK119
 @list	PTACE117
@@ -14800,18 +14818,6 @@
 @useq	x121FB.x12146.x12032
 @ucun	𒇻𒅆𒀲
 @@
-@end sign
-
-@sign |GIR₃×PA|
-@oid	o0001353
-@list	LAK255
-@uname	CUNEIFORM SIGN GIR3 TIMES PA
-@list	U+1210F
-@ucun	𒄏
-@uage	5.0
-@v	anšeₓ
-@link	eBL |GIR₃×PA| https://www.ebl.lmu.de/signs/|GIR₃×PA|
-@link	Wikidata Q87555526 http://www.wikidata.org/entity/Q87555526
 @end sign
 
 @sign |GIR₃×ŠE|
@@ -19131,7 +19137,7 @@
 @inote	UET II 143 i 3 = CDLI archsigns IM~a@g; description uncertain
 @end sign
 
-@sign IMIN
+@sign- IMIN
 @oid	o0000255
 @list	ABZL478
 @list	HZL373
@@ -19141,20 +19147,13 @@
 @list	U+12153
 @ucun	𒅓
 @uage	5.0
-@v	imin
-@v	imina
-@v	umun₇
-@v	umunaₓ
+@v-	imin
+@v-	imina
+@v-	umun₇
+@v-	umunaₓ
 @link	eBL IMIN https://www.ebl.lmu.de/signs/IMIN
 @link	Wikidata Q87555669 http://www.wikidata.org/entity/Q87555669
-@form 7(AŠ@c)@l
-@oid	o0018865
-@inote	this is 7 times 1(AŠ@c) in a single row (@l=linear)
-@inote	ED DN AbS 83 r "xii" 6
-@upua	U+F000A
-@ucun	󰀊
-@uage	9.1
-@@
+@note Deprecated; use 7(DIŠ) U+1240C instead.
 @end sign
 
 @sign IN
@@ -25825,6 +25824,7 @@
 
 @sign LAL₂
 @oid	o0000423
+@list	ABZL902
 @list	ELLES371
 @list	HZL362
 @list	KWU662
@@ -27801,10 +27801,6 @@
 @sign- LIMMU₂
 @inote double-encoded in Unicode 5.0 as both LIMMU2 and NUMERIC FOUR ASH
 @oid	o0000430
-@list	ABZL110
-@list	LAK091
-@list	MZL215
-@list	SLLHA124_42
 @uname	CUNEIFORM NUMERIC SIGN LIMMU2
 @list	U+121F9
 @ucun	𒇹
@@ -29491,18 +29487,6 @@
 @@
 @end sign
 
-@sign |MA₂.KAK|
-@oid	o0002003
-@useq	x12223.x12195
-@ucun	𒈣𒆕
-@v	delluₓ?
-@v	dilurₓ
-@v	dimgulₓ
-@v	dirgulₓ
-@v	targulₓ
-@link	eBL |MA₂.KAK| https://www.ebl.lmu.de/signs/|MA₂.KAK|
-@end sign
-
 @sign |MA₂.KASKAL.IGI@g|
 @oid	o0002005
 @useq	x12223.x1219C.x1214A
@@ -29531,7 +29515,6 @@
 
 @sign |MA₂.MUG|
 @oid	o0002006
-@list	ABZL051
 @list	MZL202
 @list	SLLHA122a
 @useq	x12223.x1222E
@@ -29545,6 +29528,16 @@
 @v	durgul
 @v	targul
 @link	eBL |MA₂.MUG| https://www.ebl.lmu.de/signs/|MA₂.MUG|
+@form |MA₂.KAK|
+@oid	o0002003
+@list	ABZL051
+@useq	x12223.x12195
+@ucun	𒈣𒆕
+@link	eBL |MA₂.KAK| https://www.ebl.lmu.de/signs/|MA₂.KAK|
+@note Described as |MA₂×KAK| in ABZL051 referencing MZL202,
+      DIMGUL("MA₂-MUG") with values as in MZL202.  Treated in OSL as
+      |MA₂.KAK| with ligaturing as illustrated sub ABZL051.
+@@
 @end sign
 
 @sign |MA₂.SAL.DIŠ|
@@ -29942,6 +29935,7 @@
 
 @sign |ME.U.U.U|
 @oid	o0002011
+@list	ABZL903
 @list	HZL360
 @list	MZL754
 @uname	CUNEIFORM SIGN MESH
@@ -32840,7 +32834,6 @@
 
 @sign |NINDA₂×ŠE|
 @oid	o0002118
-@list	ABZL137
 @list	BAU066
 @list	KWU160
 @list	LAK105
@@ -32870,6 +32863,7 @@
 @form |NINDA₂×(ŠE.A).AN|
 @oid	o0002089
 @pname	|NINDA₂×ŠE+A.AN|
+@list	ABZL137
 @list	SLLHA187v1
 @uname	CUNEIFORM SIGN NINDA2 TIMES SHE PLUS A AN
 @list	U+1225B
@@ -33905,6 +33899,7 @@
 
 @sign NUNUZ
 @oid	o0000490
+@list	ABZL371
 @list	BAU082a
 @list	ELLES200
 @list	GCSL214
@@ -34195,7 +34190,6 @@
 
 @sign |NUNUZ.AB₂×X|
 @oid	o0002156
-@list	ABZL371
 @list	HZL328
 @list	MZL614
 @list	SLLHA394
@@ -37091,6 +37085,7 @@
 
 @sign |SAL.HUB₂|
 @oid	o0002302
+@list	ABZL463
 @list	KWU795
 @useq	x122A9.x12138
 @ucun	𒊩𒄸
@@ -37115,7 +37110,6 @@
 @@
 @form |UD.SAL.HUB₂|
 @oid	o0002509
-@list	ABZL463
 @list	MZL610
 @list	SLLHA391
 @useq	x12313.x122A9.x12138
@@ -37602,6 +37596,7 @@
 
 @sign SANGA₂
 @oid	o0000523
+@list	ABZL205
 @list	ELLES102
 @list	LAK175
 @list	RSP276
@@ -45966,6 +45961,7 @@
 
 @sign UMUM
 @oid	o0000573
+@list	ABZL215
 @list	BAU093
 @list	BAU094
 @list	ELLES085
@@ -46618,6 +46614,7 @@
 
 @sign |URU×A|
 @oid	o0002553
+@list	ABZL190
 @list	BAU337
 @list	GCSL258
 @list	LAK597
@@ -46874,7 +46871,6 @@
 
 @sign |URU×HA|
 @oid	o0002565
-@list	ABZL190
 @list	MZL082
 @list	SLLHA047
 @uname	CUNEIFORM SIGN URU TIMES HA
@@ -50322,8 +50318,12 @@
 @list	U+1240C
 @ucun	𒐌
 @uage	5.0
-@v	iminₓ
-@v	umunₓ
+@v	imin
+@v	imina
+@v	umun₇
+@v	umunaₓ
+@v-	iminₓ
+@v-	umunₓ
 @v	7(diš)
 @link	Wikidata Q87556855 http://www.wikidata.org/entity/Q87556855
 @form 7(DIŠ@c)
@@ -50422,6 +50422,7 @@
 @sign 9(DIŠ)
 @oid	o0000080
 @uname	CUNEIFORM NUMERIC SIGN NINE DISH
+@list	ABZL480
 @list	U+1240E
 @ucun	𒐎
 @uage	5.0
@@ -50626,6 +50627,10 @@
 
 @sign 4(AŠ)
 @oid	o0000034
+@list	ABZL110
+@list	LAK091
+@list	MZL215
+@list	SLLHA124_42
 @uname	CUNEIFORM NUMERIC SIGN FOUR ASH
 @list	U+12402
 @ucun	𒐂
@@ -50729,6 +50734,14 @@
 @uname CUNEIFORM NUMERIC SIGN SEVEN N01
 @uage ACN
 @ucun 𒕖
+@@
+@form 7(AŠ@c)@l
+@oid	o0018865
+@inote	this is 7 times 1(AŠ@c) in a single row (@l=linear)
+@inote	ED DN AbS 83 r "xii" 6
+@upua	U+F000A
+@ucun	󰀊
+@uage	9.1
 @@
 @form 7(AŠ@t)
 @aka 7(DIŠ@t)
@@ -51318,6 +51331,7 @@
 
 @sign 4(U)~v
 @oid	o0031993
+@list	ABZL374a
 @uname	CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM
 @list	U+12469
 @ucun	𒑩
@@ -51372,6 +51386,7 @@
 
 @sign 5(U)~v
 @oid	o0031995
+@list	ABZL376a
 @uname	CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM
 @list	U+1246A
 @ucun	𒑪
