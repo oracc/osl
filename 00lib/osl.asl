@@ -50312,6 +50312,10 @@
 
 @sign 7(DIŠ)
 @oid	o0000068
+@list	ABZL478
+@list	HZL373
+@list	MZL863
+@list	SLLHA598n1
 @uname	CUNEIFORM NUMERIC SIGN SEVEN DISH
 @list	U+1240C
 @ucun	𒐌
