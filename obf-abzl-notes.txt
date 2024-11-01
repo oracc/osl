@@ -14,5 +14,25 @@ essentially ŠIM×PI! where PI is slightly mis-organized--the sign
 following it is |ŠIM@g×PI|.  I would suggest either adding a PUA sign
 for the reference form or making it a ligature of ŠIM+PI.
 
-ABZL472 LIMMU should be U+12409 not U+12345
+In Signlist_aBZL_OBF.pdf ABZL472 LIMMU the Noto column is displayed as
+U+12409 but it should be U+1243C; I don't know if this is also the
+case for Santakku.
 
+SZIBIR.liga has incorrect composition:
+
+  sub u1210B u1230B by SZIBIR.liga;
+
+should be
+
+  sub u1230B u12099 by SZIBIR.liga;
+
+map:
+
+ unie0000	uF0059
+ unie0001	uF005A
+ unie0002	uF004E
+ unie0003	uF005B
+ unie0004	uF005C
+ unie0005	uF005D
+ 
+ ŠIMxX.liga	uF00FE

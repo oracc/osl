@@ -7,7 +7,7 @@
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
 
 @listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
-	 240-290 292-400 402-480 021a 021b 063a 063b 112a 112b 152a 152b 152c
+	 240-290 292-400 402-480 021a 021b 063a 063b 084a 112a 112b 152a 152b 152c
 	 207a 207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
 	 374a 376a 401a 401b 900-903
 @lit C. Mittermayer, Altbabylonische Zeichenliste der
@@ -102,7 +102,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x12686 0xF0000-0xF0059
+	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF005E
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -8436,7 +8436,7 @@
 
 @sign DUN₃@g@g
 @oid	o0000162
-@list	ABZL219a
+@list	ABZL219b
 @list	ELLES084
 @list	GCSL072
 @list	HZL096
@@ -8466,16 +8466,11 @@
 @v	uku
 @link	eBL DUN₃@g@g https://www.ebl.lmu.de/signs/DUN₃@g@g
 @link	Wikidata Q87555265 http://www.wikidata.org/entity/Q87555265
-@form MIR~a
-@oid	o0029464
-@list	ABZL219b
-@v	migir
-@v	mir
-@v	miri
-@v	nigir
-@v	niŋir
-@v	nimgir
-@v	nimirₓ
+@form AGA~a
+@oid	o0038411
+@list	ABZL219a
+@upua	U+F005C
+@v	aga
 @@
 @end sign
 
@@ -12504,6 +12499,7 @@
 @sign |GA₂×NU|
 @oid	o0038400
 @list	ABZL095
+@upua	U+F0059
 @end sign
 
 @sign |GA₂×NUN|
@@ -12745,6 +12741,7 @@
 @sign |GA₂×ŠU₂|
 @oid	o0038402
 @list	ABZL103
+@upua	U+F005A
 @end sign
 
 @sign |GA₂×TAK₄|
@@ -13353,6 +13350,7 @@
 @form SUKUD
 @list	ABZL133
 @oid	o0029926
+@upua	U+F005B
 @v	sukuₓ
 @v	sukud
 @v	ubi
@@ -28714,8 +28712,10 @@
 @sign LU₂@g@s
 @oid	o0038408
 @list	ABZL200
+@upua	U+F005D
 @v	adₓ
 @v	addaₓ
+@inote Could also be described as LUGAL@s but not the same sign as LUGAL@s=U+1221A=LAK166.
 @end sign
 
 @sign |LU₂@g.UŠ₂|
@@ -41075,6 +41075,7 @@
 @oid	o0038398
 @list ABZL084
 @note ABZL084 includes several sign forms in this heading.  At least one of them is likely |ŠIM@g×PI|.
+@upua	U+F005E
 @end sign
 
 @sign |ŠIM@g×GAR|
@@ -41097,6 +41098,7 @@
 
 @sign |ŠIM@g×PI|
 @oid	o0027655
+@list	ABZL084a
 @upua	U+F0055
 @ucun	󰁕
 @list	GCSL282
