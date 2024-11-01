@@ -5,7 +5,7 @@ U+12132 HI×GAD is a shown as a variant form of U+1212F; HI×GAD not in ABZL
 ABZL022 ŠEŠ.KI is wrongly defined as ŠEŠ_NA -- it is shown in
 Noto/Santakku as ŠEŠ NA rather than ŠEŠ KI
 
-ABZL087 ŠIM.X is defined as a ligature of ŠIM.GA, which is not
+ABZL084 ŠIM.X is defined as a ligature of ŠIM.GA, which is not
 attested.  One of the sign forms in ABZL087 is certainly ŠIM-gunu×PI,
 which occurs in Gudea Cylinders.  In this Gudea context ŠIM and
 ŠIM-gunu are differentiated, so I have added PUA signs to OSL to

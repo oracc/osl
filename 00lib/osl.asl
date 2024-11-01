@@ -8,7 +8,7 @@
 
 @listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
 	 240-290 292-400 402-480 021a 021b 063a 063b 084a 112a 112b 152a 152b 152c
-	 207a 207b 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
+	 207a 207b 215a 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
 	 374a 376a 401a 401b 900-903
 @lit C. Mittermayer, Altbabylonische Zeichenliste der
 	 sumerisch-literarischen Texte. (Fribourg, 2006).
@@ -45961,7 +45961,7 @@
 
 @sign UMUM
 @oid	o0000573
-@list	ABZL215
+@list	ABZL215a
 @list	BAU093
 @list	BAU094
 @list	ELLES085
@@ -50215,6 +50215,7 @@
 
 @sign 4(DIŠ)
 @oid	o0000040
+@list	ABZL474
 @list	LAK837b
 @uname	CUNEIFORM NUMERIC SIGN FOUR DISH
 @list	U+12409
