@@ -44,9 +44,8 @@
       Oracc-OBF removes the ligature and puts the OBF ŠIM×X.liga <span
       class="ofs-oobf ofs-150">󰁞</span> in U+F005E.  The Šulgi X sign
       form <span class="ofs-oobf ofs-150">󰁕</span> from ABZL084 is
-      LAK661 = |ŠIM@g×PI| = Oracc-PUA U+F0055 <span
-      class="ofs-gudea">󰁕</span> so this glyph/codepoint has been
-      added to Oracc-OBF.</p>
+      LAK661 = |ŠIM@g×PI| = 󰁕 / <span class="ofs-gudea ofs-150">󰁕</span>
+      U+F0055 so this glyph/codepoint has been added to Oracc-OBF.</p>
       
       <esp:ssh>ABZL 215 UMUM/DE₂</esp:ssh>
 
@@ -62,7 +61,7 @@
       <p>OBF has a variant form of ABZL281 = U+1212F <span
       class="ofs-noto">𒄯</span> in u12132 = |HI×GAD| <span
       class="ofs-noto">𒄲</span>. Oracc-OBF moves the variant <span
-      class="ofs-oobf ofs-150">𒄲</span> to u1212F.ss01 and deletes u12132.</p>
+      class="ofs-oobf ofs-ss01 ofs-150"𒄯></span> to u1212F.ss01 and deletes u12132.</p>
       
       <esp:ssh>ABZL341 SZIBIR.liga</esp:ssh>
 
