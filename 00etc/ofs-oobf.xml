@@ -59,9 +59,11 @@
       <esp:ssh>ABZL281 HAR</esp:ssh>
 
       <p>OBF has a variant form of ABZL281 = U+1212F <span
-      class="ofs-noto">𒄯</span> in u12132 = |HI×GAD| <span
-      class="ofs-noto">𒄲</span>. Oracc-OBF moves the variant <span
-      class="ofs-oobf ofs-ss01 ofs-150">𒄯</span> to u1212F.ss01 and deletes u12132.</p>
+      class="ofs-noto">𒄯</span>, <span class="ofs-oobf
+      ofs-150">𒄯</span> in u12132 = |HI×GAD| <span
+      class="ofs-noto">𒄲</span>, OBF u12132=<span class="ofs-oobf ss01
+      ofs-150">𒄯</span>. Oracc-OBF moves <span class="ofs-oobf ss01
+      ofs-150">𒄯</span> to u1212F.ss01 and deletes u12132.</p>
       
       <esp:ssh>ABZL341 SZIBIR.liga</esp:ssh>
 
@@ -137,7 +139,10 @@
       
       <esp:sh>CSS</esp:sh>
 
-      <p>In Oracc projects the font is selected with the CSS class <code>ofs-oobf ofs-150</code>.</p>
+      <p>In Oracc projects the font is selected with the CSS class
+      <code>ofs-oobf</code>.  Because the design size of Oracc-OBF is
+      slightly smaller than Oracc-Noto this page also uses
+      <code>ofs-150</code> to enlarge the Oracc-OBF characters.</p>
 
       <esp:sh>Contents</esp:sh>
       
