@@ -44,7 +44,7 @@
       Oracc-OBF removes the ligature and puts the OBF ŠIM×X.liga <span
       class="ofs-oobf ofs-150">󰁞</span> in U+F005E.  The Šulgi X sign
       form <span class="ofs-oobf ofs-150">󰁕</span> from ABZL084 is
-      LAK661 = |ŠIM@g×PI| = 󰁕 / <span class="ofs-gudea ofs-150">󰁕</span>
+      LAK661 = |ŠIM@g×PI| =  <span class="ofs-noto">󰁕</span> , <span class="ofs-gudea ofs-150">󰁕</span>
       U+F0055 so this glyph/codepoint has been added to Oracc-OBF.</p>
       
       <esp:ssh>ABZL 215 UMUM/DE₂</esp:ssh>
