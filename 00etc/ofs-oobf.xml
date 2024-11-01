@@ -84,13 +84,13 @@
       url="https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-pua.tab"/>.
       OBF's PUA characters have been mapped as follows:</p>
 
-      <table class="pretty" width="20%" style="margin-left: 3em; text-align: center;">
-	<tr><td>unie0000</td><td>uF0059</td></tr>
-	<tr><td>unie0001</td><td>uF005A</td></tr>
-	<tr><td>unie0002</td><td>uF004E</td></tr>
-	<tr><td>unie0003</td><td>uF005B</td></tr>
-	<tr><td>unie0004</td><td>uF005C</td></tr>
-	<tr><td>unie0005</td><td>uF005D</td></tr>
+      <table class="pretty" width="30%" style="margin-left: 3em; text-align: center;">
+	<tr><td><span class="ofs-oobf ofs-150">󰁙</span></td><td>unie0000</td><td>uF0059</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">󰁚</span></td><td>unie0001</td><td>uF005A</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">󰁎</span></td><td>unie0002</td><td>uF004E</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">󰁛</span></td><td>unie0003</td><td>uF005B</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">󰁜</span></td><td>unie0004</td><td>uF005C</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">󰁝</span></td><td>unie0005</td><td>uF005D</td></tr>
       </table>
 
       <esp:ssh>Mergers</esp:ssh>
