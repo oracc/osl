@@ -40,10 +40,10 @@
       <esp:ssh>ABZL084 ŠIM×X</esp:ssh>
 
       <p>OSL calls ABZL084 |ŠIM×X₂|. OBF handles ŠIM×X <span
-      class="ofs-oobf">󰁞</span> as a ligature of ŠIM+GA; Oracc-OBF
+      class="ofs-oobf ofs-150">󰁞</span> as a ligature of ŠIM+GA; Oracc-OBF
       removes the ligature and puts the OBF ŠIM×X.liga <span
-      class="ofs-oobf">󰁞</span> in U+F005E.  The Šulgi X sign form
-      <span class="ofs-oobf">󰁕</span> from ABZL084 is LAK661 =
+      class="ofs-oobf ofs-150">󰁞</span> in U+F005E.  The Šulgi X sign form
+      <span class="ofs-oobf ofs-150">󰁕</span> from ABZL084 is LAK661 =
       |ŠIM@g×PI| = Oracc-PUA U+F0055 so this glyph/codepoint has been
       added to Oracc-OBF.</p>
       
@@ -51,9 +51,9 @@
 
       <p>ABZL215 merges UMUM (U+12323 <span class="ofs-noto">𒌣</span>)
       and DE₂ (U+12324 <span class="ofs-noto">𒌤</span>). OBF has DE₂
-      (UMUM@s <span class="ofs-oobf">𒌤</span>) in U+12323.  Oracc-OBF
-      puts DE₂ <span class="ofs-oobf">𒌤</span> in U+12324 and puts UMUM
-      (<span class="ofs-oobf">𒌣</span>, the last instance drawn in
+      (UMUM@s <span class="ofs-oobf ofs-150">𒌤</span>) in U+12323.  Oracc-OBF
+      puts DE₂ <span class="ofs-oobf ofs-150">𒌤</span> in U+12324 and puts UMUM
+      (<span class="ofs-oobf ofs-150">𒌣</span>, the last instance drawn in
       ABZL215) in U+12323.</p>
 
       <esp:ssh>ABZL281 HAR</esp:ssh>
@@ -61,7 +61,7 @@
       <p>OBF has a variant form of ABZL281 = U+1212F <span
       class="ofs-noto">𒄯</span> in u12132 = |HI×GAD| <span
       class="ofs-noto">𒄲</span>. Oracc-OBF moves the variant <span
-      class="ofs-noto">𒄲</span> to u1212F.ss01 and deletes u12132.</p>
+      class="ofs-oobf ofs-150">𒄲</span> to u1212F.ss01 and deletes u12132.</p>
       
       <esp:ssh>ABZL341 SZIBIR.liga</esp:ssh>
 
@@ -71,10 +71,10 @@
 
       <esp:ssh>ABZL472/ABZL474</esp:ssh>
 
-      <p>OBF has the same glyph <span class="ofs-oobf">𒐼</span> in
+      <p>OBF has the same glyph <span class="ofs-oobf ofs-150">𒐼</span> in
       U+1243C (ABZL472) and U+12409 (ABZL474); Oracc-OBF replaces the
       glyph in U+12409 with the ABZL474 form <span
-      class="ofs-oobf">𒐉</span>.</p>
+      class="ofs-oobf ofs-150">𒐉</span>.</p>
 
       <esp:ssh>Private Use Mappings</esp:ssh>
 
@@ -84,7 +84,7 @@
       url="https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-pua.tab"/>.
       OBF's PUA characters have been mapped as follows:</p>
 
-      <table class="pretty" width="20%" style="margin-left: 3em;">
+      <table class="pretty" width="20%" style="margin-left: 3em; text-align: center;">
 	<tr><td>unie0000</td><td>uF0059</td></tr>
 	<tr><td>unie0001</td><td>uF005A</td></tr>
 	<tr><td>unie0002</td><td>uF004E</td></tr>
@@ -99,13 +99,13 @@
       column one has been added from the codepoint in column two as a
       component of the codepoint in column three:</p>
 
-      <table class="pretty" width="20%" style="margin-left: 3em;">
-	<tr><td><span class="ofs-oobf">𒆪</span></td><td>u121AA</td><td>u12089</td></tr>
-	<tr><td><span class="ofs-oobf">𒄉</span></td><td>u12109</td><td>u12108</td></tr>
-	<tr><td><span class="ofs-oobf">𒄭</span></td><td>u1212D</td><td>u122B9</td></tr>
-	<tr><td><span class="ofs-oobf"></span></td><td></td><td></td></tr>
-	<tr><td><span class="ofs-oobf"></span></td><td></td><td></td></tr>
-	<tr><td><span class="ofs-oobf"></span></td><td></td><td></td></tr>
+      <table class="pretty" width="30%" style="margin-left: 3em; text-align: center;">
+	<tr><td><span class="ofs-oobf ofs-150">𒄉</span></td><td>u12109</td><td>u12108</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">𒄭</span></td><td>u1212D</td><td>u122B9</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">𒆪</span></td><td>u121AA</td><td>u12089</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">𒉺</span></td><td>u1227A</td><td></td>u12450</tr>
+	<tr><td><span class="ofs-oobf ofs-150"></span></td><td></td><td></td></tr>
+	<tr><td><span class="ofs-oobf ofs-150"></span></td><td></td><td></td></tr>
       </table>      
       
       <esp:ssh>Ghosts</esp:ssh>
@@ -127,7 +127,7 @@
       
       <esp:sh>CSS</esp:sh>
 
-      <p>In Oracc projects the font is selected with the CSS class <code>ofs-oobf</code>.</p>
+      <p>In Oracc projects the font is selected with the CSS class <code>ofs-oobf ofs-150</code>.</p>
 
       <esp:sh>Contents</esp:sh>
       
