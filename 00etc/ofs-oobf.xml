@@ -114,6 +114,14 @@
 
       <pre>u12014 u1202A u12253 u1231A u12402 u12403 u12405 u12407 u12450 u12456 u12457 u1245C</pre>
 
+      <esp:ssh>Squatter</esp:ssh>
+
+      <p>The double-encoded character 𒐂 U+121F9 CUNEIFORM SIGN LIMMU2 is
+      defined in OBF but does not belong because 𒐂 U+12402 CUNEIFORM
+      NUMERIC SIGN 4 ASH is preferred.  U+12402 is also in OBF
+      and is the number referenced in Signlist_aBZL_OBF.pdf. The glyph
+      u121F9 is deleted in Oracc-OBF.</p>
+      
       <esp:sh>Download</esp:sh>
 
       <p>All of the Oracc fonts are downloadable from the <esp:link
