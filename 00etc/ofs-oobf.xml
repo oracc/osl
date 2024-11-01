@@ -40,11 +40,12 @@
       <esp:ssh>ABZL084 ŠIM×X</esp:ssh>
 
       <p>OSL calls ABZL084 |ŠIM×X₂|. OBF handles ŠIM×X <span
-      class="ofs-oobf ofs-150">󰁞</span> as a ligature of ŠIM+GA; Oracc-OBF
-      removes the ligature and puts the OBF ŠIM×X.liga <span
-      class="ofs-oobf ofs-150">󰁞</span> in U+F005E.  The Šulgi X sign form
-      <span class="ofs-oobf ofs-150">󰁕</span> from ABZL084 is LAK661 =
-      |ŠIM@g×PI| = Oracc-PUA U+F0055 so this glyph/codepoint has been
+      class="ofs-oobf ofs-150">󰁞</span> as a ligature of ŠIM+GA;
+      Oracc-OBF removes the ligature and puts the OBF ŠIM×X.liga <span
+      class="ofs-oobf ofs-150">󰁞</span> in U+F005E.  The Šulgi X sign
+      form <span class="ofs-oobf ofs-150">󰁕</span> from ABZL084 is
+      LAK661 = |ŠIM@g×PI| = Oracc-PUA U+F0055 <span
+      class="ofs-gudea">󰁕</span> so this glyph/codepoint has been
       added to Oracc-OBF.</p>
       
       <esp:ssh>ABZL 215 UMUM/DE₂</esp:ssh>
@@ -103,18 +104,20 @@
 	<tr><td><span class="ofs-oobf ofs-150">𒄉</span></td><td>u12109</td><td>u12108</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒄭</span></td><td>u1212D</td><td>u122B9</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒆪</span></td><td>u121AA</td><td>u12089</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒉺</span></td><td>u1227A</td><td></td>u12450</tr>
+	<tr><td><span class="ofs-oobf ofs-150">𒉺</span></td><td>u1227A</td><td>u12450</td></tr>
+	<!--
 	<tr><td><span class="ofs-oobf ofs-150"></span></td><td></td><td></td></tr>
 	<tr><td><span class="ofs-oobf ofs-150"></span></td><td></td><td></td></tr>
+	-->
       </table>      
       
       <esp:ssh>Ghosts</esp:ssh>
 
       <p>The following characters are ghosts--they are present in OBF but are blank and are not in ABZL.</p>
 
-      <pre>u12014 u1202A u12253 u1231A u12402 u12403 u12405 u12407 u12450 u12456 u12457 u1245C</pre>
+      <pre>u12014 u1202A u12253 u1231A u12402 u12403 u12405 u12407 u12456 u12457 u1245C</pre>
 
-      <esp:ssh>Squatter</esp:ssh>
+      <esp:ssh>Deletion</esp:ssh>
 
       <p>The double-encoded character 𒐂 U+121F9 CUNEIFORM SIGN LIMMU2 is
       defined in OBF but does not belong because 𒐂 U+12402 CUNEIFORM
