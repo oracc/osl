@@ -13,9 +13,10 @@
       <esp:sh>About</esp:sh>
 
       <p>Oracc OB-Freie Regular (Oracc-OBF) is a minor adaptation of
-      Corvin Ziegeler's OB-Freie Regular font (OBF). The sign forms
-      are based on C. Mittermayer, Altbabylonische Zeichenliste der
-      sumerisch-literarischen Texte, listed in OSL as ABZL.</p>
+      the No-Latin version of Corvin Ziegeler's OB-Freie Regular font
+      (OBF). The sign forms are based on C. Mittermayer,
+      Altbabylonische Zeichenliste der sumerisch-literarischen Texte,
+      listed in OSL as ABZL.</p>
       
       <esp:sh>Original Font</esp:sh>
 
@@ -33,28 +34,40 @@
       
       <esp:ssh>ABZL022 NANNA</esp:ssh>
       
-      <p>ABZL022 ŠEŠ.KI is defined in OBF as a ligature of ŠEŠ+NA;
-      Oracc-OBF defines the ligature as ŠEŠ+KI.</p>
+      <p>ABZL022 ŠEŠ.KI 𒋀𒆠 is defined in OBF as a ligature of ŠEŠ+NA
+      𒋀𒈾; Oracc-OBF defines the ligature as ŠEŠ+KI.</p>
 
       <esp:ssh>ABZL084 ŠIM×X</esp:ssh>
 
-      <p>OSL calls ABZL084 |ŠIM×X₂|. OBF handles ŠIM×X as a ligature
-      of ŠIM+GA; Oracc-OBF removes the ligature and puts the OBF
-      ŠIM×X.liga in U+F005E.  The Šulgi X sign form from ABZL084 is
-      LAK661 = |ŠIM@g×PI| = Oracc-PUA U+F0055 so this glyph/codepoint
-      has been added to Oracc-OBF.</p>
+      <p>OSL calls ABZL084 |ŠIM×X₂|. OBF handles ŠIM×X <span
+      class="osf-oobf">󰁞</span> as a ligature of ŠIM+GA; Oracc-OBF
+      removes the ligature and puts the OBF ŠIM×X.liga <span
+      class="osf-oobf">󰁞</span> in U+F005E.  The Šulgi X sign form
+      <span class="osf-oobf">󰁕</span> from ABZL084 is LAK661 =
+      |ŠIM@g×PI| = Oracc-PUA U+F0055 so this glyph/codepoint has been
+      added to Oracc-OBF.</p>
       
       <esp:ssh>ABZL 215 UMUM/DE₂</esp:ssh>
 
-      <p>ABZL215 merges UMUM (U+12323) and DE₂ (U+12324). OBF has DE₂
-      (UMUM@s) in U+12323.  Oracc-OBF puts DE₂ in U+12324 and puts
-      UMUM (the last instance drawn in ABZL215) in U+12323.</p>
+      <p>ABZL215 merges UMUM (U+12323 <span class="osf-noto">𒌣</span>)
+      and DE₂ (U+12324 <span class="osf-noto">𒌤</span>). OBF has DE₂
+      (UMUM@s <span class="osf-oobf">𒌤</span>) in U+12323.  Oracc-OBF
+      puts DE₂ <span class="osf-oobf">𒌤</span> in U+12324 and puts UMUM
+      (<span class="osf-oobf">𒌣</span>, the last instance drawn in
+      ABZL215) in U+12323.</p>
+
+      <esp:ssh>ABZL341 SZIBIR.liga</esp:ssh>
+
+      <p>OBF has gsub <code>sub u1210B u1230B by SZIBIR.liga;</code>
+      Oracc-OBF corrects this to <code>sub u1230B u12099 by
+      SZIBIR.liga;</code>.</p>
 
       <esp:ssh>ABZL472/ABZL474</esp:ssh>
 
-      <p>OBF has the same glyph in U+1243C (ABZL472) and U+12409
-      (ABZL474); Oracc-OBF replaces the glyph in U+12409 with the
-      ABZL474 form.</p>
+      <p>OBF has the same glyph <span class="ofs-oobf">𒐼</span> in
+      U+1243C (ABZL472) and U+12409 (ABZL474); Oracc-OBF replaces the
+      glyph in U+12409 with the ABZL474 form <span
+      class="ofs-oobf">𒐉</span>.</p>
 
       <esp:ssh>Private Use Mappings</esp:ssh>
 
@@ -64,7 +77,7 @@
       url="https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-pua.tab"/>.
       OBF's PUA characters have been mapped as follows:</p>
 
-      <table class="pretty">
+      <table class="pretty" width="20%" style="margin-left: 3em;">
 	<tr><td>unie0000</td><td>uF0059</td></tr>
 	<tr><td>unie0001</td><td>uF005A</td></tr>
 	<tr><td>unie0002</td><td>uF004E</td></tr>
