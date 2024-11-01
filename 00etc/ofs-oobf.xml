@@ -40,22 +40,29 @@
       <esp:ssh>ABZL084 ŠIM×X</esp:ssh>
 
       <p>OSL calls ABZL084 |ŠIM×X₂|. OBF handles ŠIM×X <span
-      class="osf-oobf">󰁞</span> as a ligature of ŠIM+GA; Oracc-OBF
+      class="ofs-oobf">󰁞</span> as a ligature of ŠIM+GA; Oracc-OBF
       removes the ligature and puts the OBF ŠIM×X.liga <span
-      class="osf-oobf">󰁞</span> in U+F005E.  The Šulgi X sign form
-      <span class="osf-oobf">󰁕</span> from ABZL084 is LAK661 =
+      class="ofs-oobf">󰁞</span> in U+F005E.  The Šulgi X sign form
+      <span class="ofs-oobf">󰁕</span> from ABZL084 is LAK661 =
       |ŠIM@g×PI| = Oracc-PUA U+F0055 so this glyph/codepoint has been
       added to Oracc-OBF.</p>
       
       <esp:ssh>ABZL 215 UMUM/DE₂</esp:ssh>
 
-      <p>ABZL215 merges UMUM (U+12323 <span class="osf-noto">𒌣</span>)
-      and DE₂ (U+12324 <span class="osf-noto">𒌤</span>). OBF has DE₂
-      (UMUM@s <span class="osf-oobf">𒌤</span>) in U+12323.  Oracc-OBF
-      puts DE₂ <span class="osf-oobf">𒌤</span> in U+12324 and puts UMUM
-      (<span class="osf-oobf">𒌣</span>, the last instance drawn in
+      <p>ABZL215 merges UMUM (U+12323 <span class="ofs-noto">𒌣</span>)
+      and DE₂ (U+12324 <span class="ofs-noto">𒌤</span>). OBF has DE₂
+      (UMUM@s <span class="ofs-oobf">𒌤</span>) in U+12323.  Oracc-OBF
+      puts DE₂ <span class="ofs-oobf">𒌤</span> in U+12324 and puts UMUM
+      (<span class="ofs-oobf">𒌣</span>, the last instance drawn in
       ABZL215) in U+12323.</p>
 
+      <esp:ssh>ABZL281 HAR</esp:ssh>
+
+      <p>OBF has a variant form of ABZL281 = U+1212F <span
+      class="ofs-noto">𒄯</span> in u12132 = |HI×GAD| <span
+      class="ofs-noto">𒄲</span>. Oracc-OBF moves the variant <span
+      class="ofs-noto">𒄲</span> to u1212F.ss01 and deletes u12132.</p>
+      
       <esp:ssh>ABZL341 SZIBIR.liga</esp:ssh>
 
       <p>OBF has gsub <code>sub u1210B u1230B by SZIBIR.liga;</code>
@@ -85,7 +92,28 @@
 	<tr><td>unie0004</td><td>uF005C</td></tr>
 	<tr><td>unie0005</td><td>uF005D</td></tr>
       </table>
+
+      <esp:ssh>Mergers</esp:ssh>
+
+      <p>The following characters are mergers for which the glyph in
+      column one has been added from the codepoint in column two as a
+      component of the codepoint in column three:</p>
+
+      <table class="pretty" width="20%" style="margin-left: 3em;">
+	<tr><td><span class="ofs-oobf">𒆪</span></td><td>u121AA</td><td>u12089</td></tr>
+	<tr><td><span class="ofs-oobf">𒄉</span></td><td>u12109</td><td>u12108</td></tr>
+	<tr><td><span class="ofs-oobf">𒄭</span></td><td>u1212D</td><td>u122B9</td></tr>
+	<tr><td><span class="ofs-oobf"></span></td><td></td><td></td></tr>
+	<tr><td><span class="ofs-oobf"></span></td><td></td><td></td></tr>
+	<tr><td><span class="ofs-oobf"></span></td><td></td><td></td></tr>
+      </table>      
       
+      <esp:ssh>Ghosts</esp:ssh>
+
+      <p>The following characters are ghosts--they are present in OBF but are blank and are not in ABZL.</p>
+
+      <pre>u12014 u1202A u12253 u1231A u12402 u12403 u12405 u12407 u12450 u12456 u12457 u1245C</pre>
+
       <esp:sh>Download</esp:sh>
 
       <p>All of the Oracc fonts are downloadable from the <esp:link
