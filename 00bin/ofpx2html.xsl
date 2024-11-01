@@ -18,8 +18,25 @@
   </xsl:template>
 
   <xsl:template match="o:sign">
+    <xsl:call-template name="sign-or-liga"/>
+    <xsl:for-each select="o:ligas/*">
+      <xsl:call-template name="sign-or-liga">
+	<xsl:with-param name="liga" select="true()"/>
+      </xsl:call-template>
+    </xsl:for-each>
+  </xsl:template>
+  
+  <xsl:template name = "sign-or-liga">
+    <xsl:param name="liga" select="false()"/>
     <tr>
-      <td><xsl:value-of select="@list"/></td>
+      <td>
+	<xsl:choose>
+	  <xsl:when test="$liga"/>
+	  <xsl:otherwise>
+	    <xsl:value-of select="@list"/>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </td>
       <td><xsl:value-of select="@n"/></td>
       <td><xsl:value-of select="@xml:id"/></td>
       <td><p><span class="{$css} ofs-150"><xsl:value-of select="@utf8"/></span></p></td>
