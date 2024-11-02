@@ -155,6 +155,7 @@
 @list	PTACE328
 @list	RSP051
 @list	RSP349
+@list	SYA274
 @uname	CUNEIFORM SIGN A
 @list	U+12000
 @ucun	𒀀
@@ -192,6 +193,7 @@
 
 @sign |A.A|
 @oid	o0000656
+@list	SYA277
 @useq	x12000.x12000
 @ucun	𒀀𒀀
 @v	ai
@@ -234,6 +236,7 @@
 @oid	o0000655
 @list	KWU902
 @list	RSP053
+@list	SYA275
 @useq	x12000.x1202D
 @ucun	𒀀𒀭
 @v	a₄
@@ -666,6 +669,7 @@
 @oid	o0000685
 @list	KWU903
 @list	RSP052
+@list	SYA276
 @useq	x12000.x12146
 @ucun	𒀀𒅆
 @v	er₂
@@ -6473,6 +6477,7 @@
 @list	PTACE233
 @list	RSP191
 @list	SLLHA557
+@list	SYA265
 @uname	CUNEIFORM SIGN DAM
 @list	U+1206E
 @ucun	𒁮
@@ -6734,6 +6739,7 @@
 @list	PTACE316
 @list	RSP262
 @list	SLLHA537
+@list	SYA258
 @uname	CUNEIFORM SIGN DIB
 @list	U+12073
 @ucun	𒁳
@@ -7066,6 +7072,7 @@
 @list	RSP005
 @list	RSP011
 @list	SLLHA480
+@list	SYA242
 @uname	CUNEIFORM NUMERIC SIGN DISH
 @list	U+12079
 @ucun	𒁹
@@ -8404,6 +8411,7 @@
 @list	MZL836
 @list	RSP306
 @list	SLLHA595
+@list	SYA282
 @uname	CUNEIFORM SIGN DUN3
 @list	U+12085
 @ucun	𒂅
@@ -8598,6 +8606,7 @@
 @list	ELLES388
 @list	LAK791
 @list	RSP254
+@list	SYA254
 @uname	CUNEIFORM SIGN DUR2
 @list	U+12089
 @ucun	𒂉
@@ -9235,6 +9244,7 @@
 @list	PTACE229
 @list	RSP155
 @list	SLLHA564
+@list	SYA270
 @uname	CUNEIFORM SIGN EL
 @list	U+12096
 @ucun	𒂖
@@ -10011,6 +10021,7 @@
 @list	LAK794
 @list	PTACE325
 @list	RSP256
+@list	SYA256
 @uname	CUNEIFORM SIGN ESH2
 @list	U+120A0
 @ucun	𒂠
@@ -13707,6 +13718,7 @@
 @list	RSP152
 @list	RSP254
 @list	SLLHA597
+@list	SYA283
 @uname	CUNEIFORM SIGN GAR
 @list	U+120FB
 @ucun	𒃻
@@ -15756,6 +15768,7 @@
 @list	PTACE221
 @list	RSP176
 @list	SLLHA559
+@list	SYA266
 @uname	CUNEIFORM SIGN GU
 @list	U+12116
 @ucun	𒄖
@@ -16590,6 +16603,7 @@
 @list	PTACE187
 @list	RSP181
 @list	SLLHA589
+@list	SYA279
 @uname	CUNEIFORM SIGN HA
 @list	U+12129
 @ucun	𒄩
@@ -17907,6 +17921,7 @@
 @list	PTACE309
 @list	RSP103
 @list	SLLHA535
+@list	SYA253
 @uname	CUNEIFORM SIGN IB
 @list	U+12141
 @ucun	𒅁
@@ -22943,6 +22958,7 @@
 @list	PTACE084
 @list	RSP394
 @list	SLLHA538
+@list	SYA259
 @uname	CUNEIFORM SIGN KIN
 @list	U+121A5
 @ucun	𒆥
@@ -23244,6 +23260,7 @@
 @list	MZL808
 @list	RSP253
 @list	SLLHA536
+@list	SYA254
 @uname	CUNEIFORM SIGN KU
 @list	U+121AA
 @ucun	𒆪
@@ -23837,6 +23854,7 @@
 @list	LAK304
 @list	MZL896
 @list	SLLHA562
+@list	SYA268
 @uname	CUNEIFORM SIGN KUSHU2
 @list	U+121B5
 @ucun	𒆵
@@ -24098,6 +24116,7 @@
 @list	PTACE311
 @list	RSP229
 @list	SLLHA483
+@list	SYA245
 @uname	CUNEIFORM SIGN LAGAB
 @list	U+121B8
 @ucun	𒆸
@@ -24256,6 +24275,7 @@
 @list	PTACE322
 @list	RSP263
 @list	SLLHA522
+@list	SYA250
 @uname	CUNEIFORM SIGN LAGAB TIMES A
 @list	U+121B9
 @ucun	𒆹
@@ -24723,6 +24743,7 @@
 @list	ABZL407
 @list	MZL772
 @list	SLLHA493
+@list	SYA247
 @uname	CUNEIFORM SIGN LAGAB TIMES GUD
 @list	U+121C6
 @ucun	𒇆
@@ -25207,6 +25228,7 @@
 @list	MZL767
 @list	RSP268
 @list	SLLHA491
+@list	SYA246
 @uname	CUNEIFORM SIGN LAGAB TIMES SUM
 @list	U+121E1
 @ucun	𒇡
@@ -25409,6 +25431,7 @@
 @list	PTACE321
 @list	RSP259
 @list	SLLHA511
+@list	SYA248
 @uname	CUNEIFORM SIGN LAGAB TIMES U
 @list	U+121E5
 @ucun	𒇥
@@ -25482,6 +25505,7 @@
 @list	ABZL411
 @list	MZL788
 @list	SLLHA515
+@list	SYA249
 @uname	CUNEIFORM SIGN LAGAB TIMES U PLUS U PLUS U
 @list	U+121E7
 @ucun	𒇧
@@ -25861,6 +25885,7 @@
 @list	PTACE304
 @list	RSP040
 @list	SLLHA481
+@list	SYA243
 @uname	CUNEIFORM SIGN LAL
 @list	U+121F2
 @ucun	𒇲
@@ -25970,6 +25995,7 @@
 @list	MZL751
 @list	PTACE305
 @list	SLLHA482
+@list	SYA244
 @uname	CUNEIFORM SIGN LAL TIMES LAL
 @list	U+121F3
 @ucun	𒇳
@@ -28006,6 +28032,7 @@
 @list	PTACE314
 @list	RSP260
 @list	SLLHA537
+@list	SYA257
 @uname	CUNEIFORM SIGN LU
 @list	U+121FB
 @ucun	𒇻
@@ -29402,6 +29429,7 @@
 @list	PTACE213
 @list	RSP138
 @list	SLLHA565
+@list	SYA271
 @uname	CUNEIFORM SIGN LUM
 @list	U+1221D
 @ucun	𒈝
@@ -30024,6 +30052,7 @@
 @list	PTACE303
 @list	RSP045
 @list	SLLHA532
+@list	SYA251
 @uname	CUNEIFORM SIGN ME
 @list	U+12228
 @ucun	𒈨
@@ -30088,6 +30117,7 @@
 @list	ABZL903
 @list	HZL360
 @list	MZL754
+@list	SYA252
 @uname	CUNEIFORM SIGN MESH
 @list	U+1238C
 @ucun	𒎌
@@ -37135,6 +37165,7 @@
 @list	PTACE228
 @list	RSP153
 @list	SLLHA554
+@list	SYA262
 @uname	CUNEIFORM SIGN SAL
 @list	U+122A9
 @ucun	𒊩
@@ -37353,6 +37384,7 @@
 @list	MZL890
 @list	RSP173
 @list	SLLHA558
+@list	SYA267
 @useq	x122A9.x121B3
 @ucun	𒊩𒆳
 @v	amat
@@ -37526,6 +37558,7 @@
 @list	PTACE232
 @list	RSP190
 @list	SLLHA556
+@list	SYA264
 @uname	CUNEIFORM SIGN NIN
 @list	U+1238F
 @ucun	𒎏
@@ -37648,6 +37681,7 @@
 @list	LAK521
 @list	MZL898
 @list	SLLHA563
+@list	SYA269
 @useq	x122A9.x12328
 @ucun	𒊩𒌨
 @v	nig
@@ -38169,6 +38203,7 @@
 @list	REC256
 @list	RSP317
 @list	SLLHA592
+@list	SYA281
 @uname	CUNEIFORM SIGN SIG
 @list	U+122DD
 @ucun	𒋝
@@ -38333,6 +38368,7 @@
 @list	PTACE320
 @list	RSP266
 @list	SLLHA539
+@list	SYA260
 @uname	CUNEIFORM SIGN SIK2
 @list	U+122E0
 @ucun	𒋠
@@ -41990,6 +42026,7 @@
 @list	KWU898
 @list	LAK385
 @list	PTACE149
+@list	SYA261
 @uname	CUNEIFORM SIGN SHU2
 @list	U+122D9
 @ucun	𒋙
@@ -43488,6 +43525,7 @@
 @list	MZL809
 @list	RSP255
 @list	SLLHA536
+@list	SYA255
 @uname	CUNEIFORM SIGN TUG2
 @list	U+12306
 @ucun	𒌆
@@ -43573,6 +43611,7 @@
 @list	PTACE270
 @list	RSP392
 @list	SLLHA574
+@list	SYA272
 @uname	CUNEIFORM SIGN TUK
 @list	U+12307
 @ucun	𒌇
@@ -44536,6 +44575,7 @@
 @list	HZL331
 @list	MZL711
 @list	SLLHA472
+@list	SYA241
 @uname	CUNEIFORM SIGN U U U
 @list	U+1230D
 @ucun	𒌍
@@ -46283,6 +46323,7 @@
 @list	PTACE272
 @list	RSP238
 @list	SLLHA575
+@list	SYA273
 @uname	CUNEIFORM SIGN UR
 @list	U+12328
 @ucun	𒌨
@@ -48165,6 +48206,7 @@
 @list	MZL853
 @list	RSP077
 @list	SLLHA586
+@list	SYA278
 @uname	CUNEIFORM SIGN ZA
 @list	U+1235D
 @ucun	𒍝
@@ -48240,6 +48282,7 @@
 @list	PTACE261
 @list	RSP078
 @list	SLLHA591
+@list	SYA280
 @useq	x1235D.x12122
 @ucun	𒍝𒄢
 @v	gagₓ
@@ -49149,6 +49192,7 @@
 @list	PTACE230
 @list	RSP175
 @list	SLLHA555
+@list	SYA263
 @uname	CUNEIFORM SIGN ZUM
 @list	U+1236E
 @ucun	𒍮
@@ -50505,6 +50549,7 @@
 @list	HZL371
 @list	MZL861
 @list	SLLHA598a
+@list	SYA284
 @uname	CUNEIFORM NUMERIC SIGN FIVE DISH
 @list	U+1240A
 @ucun	𒐊
@@ -50536,6 +50581,7 @@
 @list	HZL372
 @list	MZL862
 @list	SLLHA598b
+@list	SYA285
 @uname	CUNEIFORM NUMERIC SIGN SIX DISH
 @list	U+1240B
 @ucun	𒐋
