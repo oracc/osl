@@ -48932,6 +48932,7 @@
 
 @sign ZIZ₂
 @oid	o0000612
+@list	ABZL211
 @list	LAK162b
 @list	RSP216
 @lit	M. krebernik, OBO 160/1, 277
