@@ -3104,7 +3104,7 @@
 @v	za₅
 @link	eBL AN https://www.ebl.lmu.de/signs/AN
 @link	Wikidata Q87555087 http://www.wikidata.org/entity/Q87555087
-@liga	AN+EN x1202D.x200D.x12097 𒀭‍𒂗
+@liga	AN+EN u1202D_u200D_u12097 𒀭‍𒂗
 @end sign
 
 @sign |3×AN|
@@ -41345,7 +41345,7 @@
 
 @sign |ŠIM@g×PI|
 @oid	o0027655
-@list	ABZL084a
+@list	ABZL084^a
 @upua	U+F0055
 @ucun	󰁕
 @list	GCSL282
