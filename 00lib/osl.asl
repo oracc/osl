@@ -29676,7 +29676,7 @@
 @inote This MAŠ@t is rotated 45 degrees counterclockwise in the gestalt of KUR₂.
 	It's the goat-MAŠ in a Fara lexical animal sequence
 @@
-@sign F₇
+@form F₇
 @oid	o0038137
 @upua	U+F0041
 @ucun	󰁁
@@ -29686,6 +29686,7 @@
 	and F₇ is a NE to SW slanted cuneiform DIŠ with a horizontal indicating the half value as
 	with 1/2(aš@c). This tablet is one of very few where diš@t means 'slanting NE to SW';
 	it is normally a synonym for aš@t.
+@@
 @end sign
 
 @sign |MAŠ.EN|
@@ -32319,6 +32320,7 @@
 @v	3(barig@c)~a
 @v	3(bariga@c)~a
 @v	3(diš@c)~a
+@@
 @end sign
 
 @sign NIGIDAMIN
