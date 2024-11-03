@@ -5,7 +5,16 @@
   <html>
     <head/>
     <body>
-      <p>Oracc Fonts ...</p>
+      <p>Oracc supports several cuneiform fonts each of which has its own documentation page:</p>
+
+      <dl>
+	<dt><esp:link url="/osl/Fonts/Oracc-LAK">Oracc-LAK</esp:link></dt>
+	<dd>Oracc LAK, for an overview of Early Dynastic sign forms.</dd>
+	<dt><esp:link url="/osl/Fonts/Oracc-Gudea">Oracc-gudea</esp:link></dt>
+	<dd>Oracc Gudea, for Gudea sign forms.</dd>
+	<dt><esp:link url="/osl/Fonts/Oracc-OBF">Oracc-OBF</esp:link></dt>
+	<dd>Oracc OB-Freie, for Old Babylonian sign forms.</dd>
+      </dl>
     </body>
   </html>
 </esp:page>

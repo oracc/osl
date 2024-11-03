@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml">
+  
+  <esp:name></esp:name>
+  <esp:title></esp:title>
+
+  <html>
+    <head/>
+    <body>
+
+      <esp:h>About</esp:h>
+
+      <p>Oracc LAK is a fontification of A. Deimel, Liste der
+      archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922).</p>
+      
+      <esp:h>Original Font</esp:h>
+
+      <p>PNG files of individual LAK signs were excerpted from a
+      scanned copy by Steve Tinney.  They were turned into SVG files
+      by Vijay Kethana and are available at <esp:link
+      url="https://github.com/vkethana/cuneiform_convert">https://github.com/vkethana/cuneiform_convert</esp:link>.</p>
+
+      <p>Steve Tinney aligned the SVG filenames with Unicode and
+      created an initial TrueType font from the SVG files.  This font
+      is still under development: it has been roughly resized and
+      recentered but requires further tuning.</p>
+
+      <esp:h>License</esp:h>
+
+      <p>Oracc LAK is licensed under the SIL Open Font License,
+      Version 1.1.</p>
+
+      <esp:h>Download</esp:h>
+
+      <p>All of the Oracc fonts are downloadable from the <esp:link
+      url="https://github.com/oracc/oracc2">Oracc II GitHub
+      repository.</esp:link></p>
+      
+      <dl>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-LAK.ttf">Oracc-LAK.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-LAK.ttf">Oracc-LAK.ttf</esp:link></dd>
+      </dl>
+      
+      <esp:h>CSS</esp:h>
+
+      <p>In Oracc projects the font is selected with the CSS class <code>ofs-olak</code>.</p>
+
+      <esp:h>Contents</esp:h>
+      
+      <!--NOTE: The last three closers must be on the same line-->
+</body></html></esp:page>

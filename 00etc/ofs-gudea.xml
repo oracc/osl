@@ -3,8 +3,8 @@
 	  xmlns="http://www.w3.org/1999/xhtml"
 	  xmlns:xh="http://www.w3.org/1999/xhtml">
   
-  <esp:name></esp:name>
-  <esp:title></esp:title>
+  <esp:name>Oracc Gudea</esp:name>
+  <esp:title>Oracc Gudea</esp:title>
 
   <html>
     <head/>
@@ -12,15 +12,24 @@
 
       <esp:h>About</esp:h>
 
-      <p></p>
+      <p>Oracc Gudea covers the signs used in Gudea Cylinders A and B.</p>
       
       <esp:h>Original Font</esp:h>
 
-      <p></p>
+      <p>Oracc Gudea is based on the Gudea Cylinder copies in
+      F. Thureau-Dangin, <i>Les Cylindres de Goudéa Découverts Par
+      Ernest de Sarzec à Tello</i>. (Textes Cunéiformes, Musée Du
+      Louvre 8 [=TCL 8]). Paris, 1925.</p>
+
+      <p>The characters were excerpted and converted from PNG format
+      to SVG and then to a TrueType font using a collection of tools
+      by various authors and assembled into a workflow by Steve Tinney
+      in a package available on GitHub <esp:link
+      url="">Santak</esp:link>.</p>
 
       <esp:h>License</esp:h>
 
-      <p>Oracc XXX is licensed under the SIL Open Font License,
+      <p>Oracc Gudea is licensed under the SIL Open Font License,
       Version 1.1.</p>
 
       <esp:h>Download</esp:h>
