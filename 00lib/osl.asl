@@ -31903,6 +31903,7 @@
 
 @sign NAM₂
 @oid	o0000475
+@list	ABZL417
 @list	BAU385a
 @list	ELLES390
 @list	LAK792
@@ -32453,6 +32454,7 @@
 
 @sign NI₂
 @oid	o0000486
+@list	ABZL297
 @list	BAU389
 @list	GCSL163
 @list	LAK377
@@ -48802,6 +48804,7 @@
 
 @sign ZI₃
 @oid	o0000613
+@list	ABZL420
 @uname	CUNEIFORM SIGN ZI3
 @list	U+12365
 @ucun	𒍥
