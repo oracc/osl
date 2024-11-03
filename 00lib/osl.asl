@@ -14556,6 +14556,7 @@
 @list	PTACE005
 @list	RSP339
 @list	SLLHA010
+@list	SYA009
 @lit	Krebernik, OBO 160/1, 276
 @uname	CUNEIFORM SIGN GIR2
 @list	U+12108
@@ -14602,6 +14603,7 @@
 @list	PTACE006
 @list	RSP339bis
 @list	SLLHA010
+@list	SYA009
 @lit	Krebernik, OBO 160/1, 276
 @uname	CUNEIFORM SIGN GIR2 GUNU
 @list	U+12109
