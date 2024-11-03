@@ -5059,6 +5059,7 @@
 @list	LAK153
 @list	MZL554
 @list	PTACE105
+@list	RSP267
 @list	SLLHA344
 @list	SYA170
 @uname	CUNEIFORM SIGN BARA2
@@ -5885,7 +5886,6 @@
 @list	LAK740
 @list	PTACE299
 @list	RSP134
-@list	RSP267
 @list	SYA132
 @list	SYA133
 @inote	Thureau-Dangin treated SYA132 PAR₃ as a separate sign from SYA133 DAG,
