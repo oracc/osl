@@ -32508,6 +32508,7 @@
 @ucun 𒕛
 @@
 @form NIGIDAEŠ@c~a
+@oid	o0038374
 @list	LAK836b
 @upua	U+F0049
 @ucun	󰁉
