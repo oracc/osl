@@ -5052,6 +5052,7 @@
 @list	LAK153
 @list	MZL554
 @list	PTACE105
+@list	RSP267
 @list	SLLHA344
 @list	SYA170
 @uname	CUNEIFORM SIGN BARA2
@@ -5878,7 +5879,6 @@
 @list	LAK740
 @list	PTACE299
 @list	RSP134
-@list	RSP267
 @list	SYA132
 @list	SYA133
 @inote	Thureau-Dangin treated SYA132 PAR₃ as a separate sign from SYA133 DAG,
@@ -14549,6 +14549,7 @@
 @list	PTACE005
 @list	RSP339
 @list	SLLHA010
+@list	SYA009
 @lit	Krebernik, OBO 160/1, 276
 @uname	CUNEIFORM SIGN GIR2
 @list	U+12108
@@ -14595,6 +14596,7 @@
 @list	PTACE006
 @list	RSP339bis
 @list	SLLHA010
+@list	SYA009
 @lit	Krebernik, OBO 160/1, 276
 @uname	CUNEIFORM SIGN GIR2 GUNU
 @list	U+12109
@@ -17937,6 +17939,7 @@
 
 @sign IDIM
 @oid	o0000245
+@list	ABZL025
 @list	LAK004
 @list	MZL113b
 @list	RSP048
@@ -31895,6 +31898,7 @@
 
 @sign NAM₂
 @oid	o0000475
+@list	ABZL417
 @list	BAU385a
 @list	ELLES390
 @list	LAK792
@@ -32445,6 +32449,7 @@
 
 @sign NI₂
 @oid	o0000486
+@list	ABZL297
 @list	BAU389
 @list	GCSL163
 @list	LAK377
@@ -43413,6 +43418,7 @@
 
 @sign TIL
 @oid	o0000555
+@list	ABZL025
 @list	LAK017
 @list	MZL113b
 @list	PTACE002
@@ -48793,6 +48799,7 @@
 
 @sign ZI₃
 @oid	o0000613
+@list	ABZL420
 @uname	CUNEIFORM SIGN ZI3
 @list	U+12365
 @ucun	𒍥
@@ -48920,6 +48927,7 @@
 
 @sign ZIZ₂
 @oid	o0000612
+@list	ABZL211
 @list	LAK162b
 @list	RSP216
 @lit	M. krebernik, OBO 160/1, 277
