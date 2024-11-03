@@ -7,9 +7,9 @@
 	@lit	R. Borger, Assyrisch-babylonische Zeichenliste (AOAT 33; Neukirchen-Vluyn 1978)
 
 @listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
-	 240-290 292-400 402-480 021a 021b 063a 063b 084a 112a 112b 152a 152b 152c
-	 207a 207b 215a 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
-	 374a 376a 401a 401b 900-903
+	 240-290 292-400 402-480 021a 021b 063^a 063^b 084^a 112a 112b 152a 152b 152c
+	 207a 207b 215^a 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
+	 374^a 376^a 401a 401b 900-903
 @lit C. Mittermayer, Altbabylonische Zeichenliste der
 	 sumerisch-literarischen Texte. (Fribourg, 2006).
 @note	Numbers 900 and above are used for characters in Corvin Ziegeler's
@@ -3104,6 +3104,7 @@
 @v	za₅
 @link	eBL AN https://www.ebl.lmu.de/signs/AN
 @link	Wikidata Q87555087 http://www.wikidata.org/entity/Q87555087
+@liga	AN+EN x1202D.x200D.x12097 𒀭‍𒂗
 @end sign
 
 @sign |3×AN|
@@ -3559,14 +3560,6 @@
 @ucun	𒀭𒍠
 @v	uzugₓ
 @link	eBL |AN.ZAG| https://www.ebl.lmu.de/signs/|AN.ZAG|
-@end sign
-
-@sign |AN+EN|
-@oid	o0038077
-@note	This entry is defined to facilitate mapping {d}+en to a font ligature via AN+ZWJ+EN.
-@useq	x1202D.x200D.x12097
-@ucun	𒀭‍𒂗
-@uage	0
 @end sign
 
 @compoundonly	|AN×MUŠ₃|
@@ -9708,7 +9701,7 @@
 
 @sign |EN×GAN₂|
 @oid	o0001079
-@list	ABZL063a
+@list	ABZL063^a
 @list	HZL274
 @list	MZL165
 @list	SLLHA054
@@ -9727,7 +9720,7 @@
 @list	LAK531
 @list	SLLHA054v
 @uname	CUNEIFORM SIGN EN TIMES GAN2 TENU
-@list	ABZL063b
+@list	ABZL063^b
 @list	U+12099
 @ucun	𒂙
 @uage	5.0
@@ -46245,7 +46238,7 @@
 
 @sign UMUM
 @oid	o0000573
-@list	ABZL215a
+@list	ABZL215^a
 @list	BAU093
 @list	BAU094
 @list	ELLES085
@@ -51638,7 +51631,7 @@
 
 @sign 4(U)~v
 @oid	o0031993
-@list	ABZL374a
+@list	ABZL374^a
 @uname	CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM
 @list	U+12469
 @ucun	𒑩
@@ -51693,7 +51686,7 @@
 
 @sign 5(U)~v
 @oid	o0031995
-@list	ABZL376a
+@list	ABZL376^a
 @uname	CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM
 @list	U+1246A
 @ucun	𒑪
