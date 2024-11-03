@@ -11,6 +11,7 @@
     <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text"/>
     <meta name="DC.format" content="text/html"/>
     <meta name="robots" content="noindex,nofollow"/>
+    <link media="screen,projection" href="/osl/signlist/css/projesp.css" type="text/css" rel="stylesheet"/>
     <script type="text/javascript" src="/osl/signlist/js/slmap.js"> </script>
     <script type="text/javascript" src="/osl/signlist/js/slpage.js"> </script>
   </param:common-headers>

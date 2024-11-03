@@ -10,7 +10,7 @@
     <head/>
     <body>
 
-      <esp:sh>About</esp:sh>
+      <esp:h>About</esp:h>
 
       <p>Oracc OB-Freie Regular (Oracc-OBF) is a minor adaptation of
       the No-Latin version of Corvin Ziegeler's OB-Freie Regular font
@@ -18,26 +18,26 @@
       Altbabylonische Zeichenliste der sumerisch-literarischen Texte,
       listed in OSL as ABZL.</p>
       
-      <esp:sh>Original Font</esp:sh>
+      <esp:h>Original Font</esp:h>
 
       <p>The original font was obtained from <esp:link
       url="https://github.com/crzfub/OB-Freie/blob/main/OBFreie">https://github.com/crzfub/OB-Freie/blob/main/OBFreie</esp:link>
       in October 2024.</p>
 
-      <esp:sh>License</esp:sh>
+      <esp:h>License</esp:h>
 
       <p>Oracc OB-Freie Regular is licensed under the SIL Open Font
       License, Version 1.1 as required by the licensing terms of
       OB-Freie.</p>
 
-      <esp:sh>Modifications</esp:sh>
+      <esp:h>Modifications</esp:h>
       
-      <esp:ssh>ABZL022 NANNA</esp:ssh>
+      <esp:sh>ABZL022 NANNA</esp:sh>
       
       <p>ABZL022 ŠEŠ.KI 𒋀𒆠 is defined in OBF as a ligature of ŠEŠ+NA
       𒋀𒈾; Oracc-OBF defines the ligature as ŠEŠ+KI.</p>
 
-      <esp:ssh>ABZL084 ŠIM×X</esp:ssh>
+      <esp:sh>ABZL084 ŠIM×X</esp:sh>
 
       <p>OSL calls ABZL084 |ŠIM×X₂|. OBF handles ŠIM×X <span
       class="ofs-oobf ofs-150">󰁞</span> as a ligature of ŠIM+GA;
@@ -47,7 +47,7 @@
       LAK661 = |ŠIM@g×PI| =  <span class="ofs-noto">󰁕</span> , <span class="ofs-gudea ofs-150">󰁕</span>
       U+F0055 so this glyph/codepoint has been added to Oracc-OBF.</p>
       
-      <esp:ssh>ABZL 215 UMUM/DE₂</esp:ssh>
+      <esp:sh>ABZL 215 UMUM/DE₂</esp:sh>
 
       <p>ABZL215 merges UMUM (U+12323 <span class="ofs-noto">𒌣</span>)
       and DE₂ (U+12324 <span class="ofs-noto">𒌤</span>). OBF has DE₂
@@ -56,7 +56,7 @@
       (<span class="ofs-oobf ofs-150">𒌣</span>, the last instance drawn in
       ABZL215) in U+12323.</p>
 
-      <esp:ssh>ABZL281 HAR</esp:ssh>
+      <esp:sh>ABZL281 HAR</esp:sh>
 
       <p>OBF has a variant form of ABZL281 = U+1212F <span
       class="ofs-noto">𒄯</span>, <span class="ofs-oobf
@@ -65,20 +65,20 @@
       ofs-150">𒄯</span>. Oracc-OBF moves <span class="ofs-oobf ss01
       ofs-150">𒄯</span> to u1212F.ss01 and deletes u12132.</p>
       
-      <esp:ssh>ABZL341 SZIBIR.liga</esp:ssh>
+      <esp:sh>ABZL341 SZIBIR.liga</esp:sh>
 
       <p>OBF has gsub <code>sub u1210B u1230B by SZIBIR.liga;</code>
       Oracc-OBF corrects this to <code>sub u1230B u12099 by
       SZIBIR.liga;</code>.</p>
 
-      <esp:ssh>ABZL472/ABZL474</esp:ssh>
+      <esp:sh>ABZL472/ABZL474</esp:sh>
 
       <p>OBF has the same glyph <span class="ofs-oobf ofs-150">𒐼</span> in
       U+1243C (ABZL472) and U+12409 (ABZL474); Oracc-OBF replaces the
       glyph in U+12409 with the ABZL474 form <span
       class="ofs-oobf ofs-150">𒐉</span>.</p>
 
-      <esp:ssh>Private Use Mappings</esp:ssh>
+      <esp:sh>Private Use Mappings</esp:sh>
 
       <p>Oracc uses PUA Plane 15 as described in <esp:link
       url="/osl/OraccPUA/">the Oracc PUA page</esp:link> and as
@@ -95,7 +95,7 @@
 	<tr><td><span class="ofs-oobf ofs-150">󰁝</span></td><td>unie0005</td><td>uF005D</td></tr>
       </table>
 
-      <esp:ssh>Mergers</esp:ssh>
+      <esp:sh>Mergers</esp:sh>
 
       <p>The following characters are mergers for which the glyph in
       column one has been added from the codepoint in column two as a
@@ -112,13 +112,13 @@
 	-->
       </table>      
       
-      <esp:ssh>Ghosts</esp:ssh>
+      <esp:sh>Ghosts</esp:sh>
 
       <p>The following characters are ghosts--they are present in OBF but are blank and are not in ABZL.</p>
 
       <pre>u12014 u1202A u12253 u1231A u12402 u12403 u12405 u12407 u12456 u12457 u1245C</pre>
 
-      <esp:ssh>Deletion</esp:ssh>
+      <esp:sh>Deletion</esp:sh>
 
       <p>The double-encoded character 𒐂 U+121F9 CUNEIFORM SIGN LIMMU2 is
       defined in OBF but does not belong because 𒐂 U+12402 CUNEIFORM
@@ -126,7 +126,7 @@
       and is the number referenced in Signlist_aBZL_OBF.pdf. The glyph
       u121F9 is deleted in Oracc-OBF.</p>
       
-      <esp:sh>Download</esp:sh>
+      <esp:h>Download</esp:h>
 
       <p>All of the Oracc fonts are downloadable from the <esp:link
       url="https://github.com/oracc/oracc2">Oracc II GitHub
@@ -137,14 +137,14 @@
 	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.ttf</esp:link></dd>
       </dl>
       
-      <esp:sh>CSS</esp:sh>
+      <esp:h>CSS</esp:h>
 
       <p>In Oracc projects the font is selected with the CSS class
       <code>ofs-oobf</code>.  Because the design size of Oracc-OBF is
       slightly smaller than Oracc-Noto this page also uses
       <code>ofs-150</code> to enlarge the Oracc-OBF characters.</p>
 
-      <esp:sh>Contents</esp:sh>
+      <esp:h>Contents</esp:h>
       
       <!--NOTE: The last three closers must be on the same line-->
 </body></html></esp:page>
