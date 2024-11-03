@@ -58,6 +58,9 @@
 @listdef REC 1-563
 @lit	F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme (Paris 1898)
 
+@listdef SYA 1-285
+@lit	F. Thureau-Dangin, Le Syllabaire Accadien (Paris 1926)
+
 @listdef RSP 1-468 019bis 036bis 048bis 178bis 189* 339bis 361bis 380bis 426a 426b 460bis 468bis 468ter
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
 
@@ -152,6 +155,7 @@
 @list	PTACE328
 @list	RSP051
 @list	RSP349
+@list	SYA274
 @uname	CUNEIFORM SIGN A
 @list	U+12000
 @ucun	𒀀
@@ -189,6 +193,7 @@
 
 @sign |A.A|
 @oid	o0000656
+@list	SYA277
 @useq	x12000.x12000
 @ucun	𒀀𒀀
 @v	ai
@@ -231,6 +236,7 @@
 @oid	o0000655
 @list	KWU902
 @list	RSP053
+@list	SYA275
 @useq	x12000.x1202D
 @ucun	𒀀𒀭
 @v	a₄
@@ -663,6 +669,7 @@
 @oid	o0000685
 @list	KWU903
 @list	RSP052
+@list	SYA276
 @useq	x12000.x12146
 @ucun	𒀀𒅆
 @v	er₂
@@ -1534,6 +1541,7 @@
 @list	PTACE089
 @list	RSP420
 @list	SLLHA334
+@list	SYA162
 @uname	CUNEIFORM SIGN A2
 @list	U+12009
 @ucun	𒀉
@@ -1697,6 +1705,7 @@
 @list	PTACE240
 @list	RSP223
 @list	SLLHA128
+@list	SYA081
 @uname	CUNEIFORM SIGN AB
 @list	U+1200A
 @ucun	𒀊
@@ -2163,6 +2172,7 @@
 @list	PTACE155
 @list	RSP159
 @list	SLLHA420
+@list	SYA215
 @uname	CUNEIFORM SIGN AB2
 @list	U+12016
 @ucun	𒀖
@@ -2419,6 +2429,7 @@
 @list	KWU517
 @list	MZL677
 @list	SLLHA424
+@list	SYA216
 @uname	CUNEIFORM SIGN AB2 TIMES SHA3
 @list	U+1201A
 @ucun	𒀚
@@ -2502,6 +2513,7 @@
 @list	PTACE249
 @list	RSP227
 @list	SLLHA145
+@list	SYA095
 @uname	CUNEIFORM SIGN AD
 @list	U+1201C
 @ucun	𒀜
@@ -2575,6 +2587,7 @@
 @list	MZL127
 @list	PTACE068
 @list	RSP273
+@list	SYA061
 @uname	CUNEIFORM SIGN AK
 @list	U+1201D
 @ucun	𒀝
@@ -2689,6 +2702,7 @@
 @list	PTACE079
 @list	RSP399
 @list	SLLHA298
+@list	SYA138
 @uname	CUNEIFORM SIGN AL
 @list	U+12020
 @ucun	𒀠
@@ -2873,6 +2887,7 @@
 @list	HZL332
 @list	MZL635
 @list	SLLHA397
+@list	SYA204
 @uname	CUNEIFORM SIGN ALEPH
 @list	U+1202A
 @ucun	𒀪
@@ -2908,6 +2923,7 @@
 @list	PTACE128
 @list	RSP110
 @list	SLLHA437
+@list	SYA223
 @uname	CUNEIFORM SIGN AMAR
 @list	U+1202B
 @ucun	𒀫
@@ -3039,6 +3055,7 @@
 @list	PTACE007
 @list	RSP080
 @list	SLLHA013
+@list	SYA012
 @uname	CUNEIFORM SIGN AN
 @list	U+1202D
 @ucun	𒀭
@@ -3100,6 +3117,7 @@
 @list	MZL247
 @list	PTACE009
 @list	RSP082
+@list	SYA083
 @uname	CUNEIFORM SIGN AN THREE TIMES
 @list	U+1202F
 @ucun	𒀯
@@ -3566,6 +3584,7 @@
 @list	PTACE008
 @list	RSP081
 @list	SLLHA129
+@list	SYA082
 @uname	CUNEIFORM SIGN AN OVER AN
 @list	U+1202E
 @ucun	𒀮
@@ -3799,6 +3818,7 @@
 @list	PTACE080
 @list	RSP307
 @list	SLLHA056
+@list	SYA023
 @uname	CUNEIFORM SIGN APIN
 @list	U+12033
 @ucun	𒀳
@@ -3831,6 +3851,7 @@
 @list	KWU090
 @list	MZL018
 @list	SLLHA050
+@list	SYA020
 @uname	CUNEIFORM SIGN ARAD
 @list	U+12034
 @ucun	𒀴
@@ -3966,6 +3987,7 @@
 @list	PTACE001
 @list	RSP001
 @list	SLLHA001
+@list	SYA001
 @uname	CUNEIFORM NUMERIC SIGN ASH
 @list	U+12038
 @ucun	𒀸
@@ -4351,6 +4373,7 @@
 @list	MZL548
 @list	RSP128
 @list	SLLHA339
+@list	SYA167
 @lit	M. Krebernik, OBO 160/1 277
 @uname	CUNEIFORM SIGN ASH2
 @list	U+1203E
@@ -4450,6 +4473,7 @@
 @list	PTACE198
 @list	RSP139
 @list	SLLHA005
+@list	SYA004
 @uname	CUNEIFORM SIGN BA
 @list	U+12040
 @ucun	𒁀
@@ -4478,6 +4502,7 @@
 @list	PTACE010
 @list	RSP048bis
 @list	SLLHA069
+@list	SYA035
 @lit	Steinkeller ZA 71, 19-28.
 @uname	CUNEIFORM SIGN BAD
 @list	U+12041
@@ -4784,6 +4809,7 @@
 @list	PTACE013
 @list	RSP087
 @list	SLLHA009
+@list	SYA008
 @uname	CUNEIFORM SIGN BAL
 @list	U+12044
 @ucun	𒁄
@@ -4892,6 +4918,7 @@
 @list	RSP044
 @list	RSP134
 @list	SLLHA074
+@list	SYA041
 @uname	CUNEIFORM SIGN BAR
 @list	U+12047
 @ucun	𒁇
@@ -5033,6 +5060,7 @@
 @list	MZL554
 @list	PTACE105
 @list	SLLHA344
+@list	SYA170
 @uname	CUNEIFORM SIGN BARA2
 @list	U+12048
 @ucun	𒁈
@@ -5126,6 +5154,7 @@
 @list	MZL358
 @list	RSP218
 @list	SLLHA214
+@list	SYA122
 @inote	The references for ELLES312 are consistently read as 𒁉 in MEE 3, but the
 	ones that are transliterated in dcclt are all read as something else:
 	— 𒂁 DUG in 43 v(erso) II 3′, read
@@ -5373,6 +5402,7 @@
 @list	PTACE123
 @list	RSP335
 @list	SLLHA371
+@list	SYA185
 @inote	BU~a for UET II sux texts
 @uname	CUNEIFORM SIGN BU
 @list	U+1204D
@@ -5642,6 +5672,7 @@
 @list	PTACE109
 @list	RSP164
 @list	SLLHA349
+@list	SYA174
 @uname	CUNEIFORM SIGN BUR
 @list	U+12053
 @ucun	𒁓
@@ -5680,6 +5711,7 @@
 @list	PTACE061
 @list	RSP088
 @list	SLLHA011
+@list	SYA010
 @uname	CUNEIFORM SIGN BUR2
 @list	U+12054
 @ucun	𒁔
@@ -5798,6 +5830,7 @@
 @list	PTACE088
 @list	RSP419
 @list	SLLHA335
+@list	SYA166
 @uname	CUNEIFORM SIGN DA
 @list	U+12055
 @ucun	𒁕
@@ -5853,6 +5886,13 @@
 @list	PTACE299
 @list	RSP134
 @list	RSP267
+@list	SYA132
+@list	SYA133
+@inote	Thureau-Dangin treated SYA132 PAR₃ as a separate sign from SYA133 DAG,
+	splitting from KISAL and merging with DAG; this is still how it is
+	described in MÉA280. This has not been followed in MZL, where par(DAG) is
+	par₃ and par(KISAL) is par₄. The Unicode Standard only has two characters
+	for these, following MZL.
 @uname	CUNEIFORM SIGN DAG
 @list	U+12056
 @ucun	𒁖
@@ -6409,6 +6449,7 @@
 @sign DAG₃
 @oid	o0032005
 @list	MZL386
+@list	SYA126
 @uname	CUNEIFORM SIGN DAG3
 @list	U+12374
 @ucun	𒍴
@@ -6436,6 +6477,7 @@
 @list	PTACE233
 @list	RSP191
 @list	SLLHA557
+@list	SYA265
 @uname	CUNEIFORM SIGN DAM
 @list	U+1206E
 @ucun	𒁮
@@ -6472,6 +6514,7 @@
 @list	RSP011
 @list	RSP411
 @list	SLLHA113
+@list	SYA072
 @uname	CUNEIFORM SIGN DAR
 @list	U+1206F
 @ucun	𒁯
@@ -6504,6 +6547,7 @@
 @list	MZL166
 @list	PTACE139
 @list	RSP459
+@list	SYA063
 @uname	CUNEIFORM SIGN DARA3
 @list	U+12070
 @ucun	𒁰
@@ -6571,6 +6615,7 @@
 @list	KWU309b
 @list	LAK156b
 @list	RSP361bis
+@list	SYA165
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @list	U+12324
 @ucun	𒌤
@@ -6624,6 +6669,7 @@
 @list	RSP318
 @list	RSP319
 @list	SLLHA457
+@list	SYA233
 @uname	CUNEIFORM SIGN DI
 @list	U+12072
 @ucun	𒁲
@@ -6693,6 +6739,7 @@
 @list	PTACE316
 @list	RSP262
 @list	SLLHA537
+@list	SYA258
 @uname	CUNEIFORM SIGN DIB
 @list	U+12073
 @ucun	𒁳
@@ -6736,6 +6783,7 @@
 @list	MZL167
 @list	PTACE062
 @list	SLLHA094
+@list	SYA059
 @uname	CUNEIFORM SIGN DIM
 @list	U+12074
 @ucun	𒁴
@@ -6808,6 +6856,7 @@
 @list	LAK055
 @list	MZL168
 @list	RSP426b
+@list	SYA060
 @uname	CUNEIFORM SIGN DIM TIMES SHE
 @list	U+12075
 @ucun	𒁵
@@ -6873,6 +6922,7 @@
 @list	PTACE278
 @list	RSP375
 @list	SLLHA440
+@list	SYA225
 @uname	CUNEIFORM SIGN DIM2
 @list	U+12076
 @ucun	𒁶
@@ -6939,6 +6989,7 @@
 @list	PTACE127
 @list	RSP084
 @list	SLLHA465
+@list	SYA236
 @uname	CUNEIFORM SIGN DIN
 @list	U+12077
 @ucun	𒁷
@@ -7021,6 +7072,7 @@
 @list	RSP005
 @list	RSP011
 @list	SLLHA480
+@list	SYA242
 @uname	CUNEIFORM NUMERIC SIGN DISH
 @list	U+12079
 @ucun	𒁹
@@ -7289,6 +7341,7 @@
 @list	PTACE236
 @list	RSP369
 @list	SLLHA206
+@list	SYA118
 @uname	CUNEIFORM SIGN DU
 @list	U+1207A
 @ucun	𒁺
@@ -7472,6 +7525,7 @@
 @list	RSP372
 @list	RSP373
 @list	SLLHA201
+@list	SYA115
 @uname	CUNEIFORM SIGN DU GUNU
 @list	U+1207C
 @ucun	𒁼
@@ -7541,6 +7595,7 @@
 @list	MZL352
 @list	RSP371
 @list	SLLHA202
+@list	SYA116
 @uname	CUNEIFORM SIGN DU SHESHIG
 @list	U+1207D
 @ucun	𒁽
@@ -7652,6 +7707,7 @@
 @list	PTACE259
 @list	RSP278
 @list	SLLHA138
+@list	SYA088
 @uname	CUNEIFORM SIGN DUB
 @list	U+1207E
 @ucun	𒁾
@@ -7774,6 +7830,7 @@
 @list	MZL565
 @list	RSP215
 @list	SLLHA352
+@list	SYA175
 @uname	CUNEIFORM SIGN DUB2
 @list	U+12080
 @ucun	𒂀
@@ -7822,6 +7879,7 @@
 @list	PTACE250
 @list	RSP212
 @list	SLLHA309
+@list	SYA142
 @uname	CUNEIFORM SIGN DUG
 @list	U+12081
 @ucun	𒂁
@@ -8255,6 +8313,7 @@
 @list	MZL298
 @list	RSP104
 @list	SLLHA167
+@list	SYA102
 @inote	DU₈~a for UET II sux texts
 @uname	CUNEIFORM SIGN DUH
 @list	U+12083
@@ -8284,6 +8343,7 @@
 @list	MZL744
 @list	RSP457
 @list	SLLHA467
+@list	SYA237
 @uname	CUNEIFORM SIGN DUN
 @list	U+12084
 @ucun	𒂄
@@ -8351,6 +8411,7 @@
 @list	MZL836
 @list	RSP306
 @list	SLLHA595
+@list	SYA282
 @uname	CUNEIFORM SIGN DUN3
 @list	U+12085
 @ucun	𒂅
@@ -8445,6 +8506,7 @@
 @list	MZL556
 @list	RSP275
 @list	SLLHA347
+@list	SYA173
 @uname	CUNEIFORM SIGN DUN3 GUNU GUNU
 @list	U+12087
 @ucun	𒂇
@@ -8539,6 +8601,7 @@
 @list	ELLES388
 @list	LAK791
 @list	RSP254
+@list	SYA254
 @uname	CUNEIFORM SIGN DUR2
 @list	U+12089
 @ucun	𒂉
@@ -8595,6 +8658,7 @@
 @list	PTACE092
 @list	RSP297
 @list	SLLHA308
+@list	SYA141
 @uname	CUNEIFORM SIGN E
 @list	U+1208A
 @ucun	𒂊
@@ -8697,6 +8761,7 @@
 @list	PTACE295
 @list	RSP250
 @list	SLLHA324
+@list	SYA152
 @uname	CUNEIFORM SIGN E2
 @list	U+1208D
 @ucun	𒂍
@@ -9174,6 +9239,7 @@
 @list	PTACE229
 @list	RSP155
 @list	SLLHA564
+@list	SYA270
 @uname	CUNEIFORM SIGN EL
 @list	U+12096
 @ucun	𒂖
@@ -9242,6 +9308,7 @@
 @list	MZL164
 @list	RSP271
 @list	SLLHA099
+@list	SYA062
 @uname	CUNEIFORM SIGN EN
 @list	U+12097
 @ucun	𒂗
@@ -9845,6 +9912,7 @@
 @list	PTACE142
 @list	RSP378
 @list	SLLHA393
+@list	SYA198
 @inote	is this really correct?
 @uname	CUNEIFORM SIGN ERIN2
 @list	U+1209F
@@ -9948,6 +10016,7 @@
 @list	LAK794
 @list	PTACE325
 @list	RSP256
+@list	SYA256
 @uname	CUNEIFORM SIGN ESH2
 @list	U+120A0
 @ucun	𒂠
@@ -10334,6 +10403,7 @@
 @list	PTACE262
 @list	RSP284
 @list	SLLHA152_8b
+@list	SYA099
 @uname	CUNEIFORM SIGN EZEN
 @list	U+120A1
 @ucun	𒂡
@@ -11166,6 +11236,7 @@
 @list	RSP097
 @list	RSP220
 @list	SLLHA319
+@list	SYA148
 @uname	CUNEIFORM SIGN GA
 @list	U+120B5
 @ucun	𒂵
@@ -11321,6 +11392,7 @@
 @list	PTACE280
 @list	RSP240
 @list	SLLHA233
+@list	SYA130
 @uname	CUNEIFORM SIGN GA2
 @list	U+120B7
 @ucun	𒂷
@@ -12539,6 +12611,7 @@
 @list	PTACE284
 @list	RSP242
 @list	SLLHA255
+@list	SYA131
 @uname	CUNEIFORM SIGN GA2 TIMES NUN OVER NUN
 @list	U+120E1
 @ucun	𒃡
@@ -12890,6 +12963,7 @@
 @list	LAK119
 @list	PTACE117
 @list	RSP104
+@list	SYA102
 @uname	CUNEIFORM SIGN GABA
 @list	U+120EE
 @ucun	𒃮
@@ -12966,6 +13040,7 @@
 @list	PTACE115
 @list	RSP060
 @list	SLLHA090
+@list	SYA058
 @note	LAK285 represents a pre-Fara form of the sign. BAU220/ZATU659 not completely certain.
 @uname	CUNEIFORM SIGN GAD
 @list	U+120F0
@@ -13119,6 +13194,7 @@
 @list	PTACE106
 @list	RSP129
 @list	SLLHA343
+@list	SYA169
 @uname	CUNEIFORM SIGN GAL
 @list	U+120F2
 @ucun	𒃲
@@ -13379,6 +13455,7 @@
 @list	PTACE310
 @list	RSP050
 @list	SLLHA362
+@list	SYA182
 @uname	CUNEIFORM SIGN GAM
 @list	U+120F5
 @ucun	𒃵
@@ -13420,6 +13497,7 @@
 @list	PTACE058
 @list	RSP428
 @list	SLLHA143
+@list	SYA092
 @uname	CUNEIFORM SIGN GAN
 @list	U+120F6
 @ucun	𒃶
@@ -13487,6 +13565,7 @@
 @list	RSP031
 @list	RSP247
 @list	SLLHA105
+@list	SYA067
 @uname	CUNEIFORM SIGN GAN2
 @list	U+120F7
 @ucun	𒃷
@@ -13593,6 +13672,7 @@
 @list	LAK186
 @list	MZL175
 @list	SLLHA105
+@list	SYA068
 @uname	CUNEIFORM SIGN GAN2 TENU
 @list	U+120F8
 @ucun	𒃸
@@ -13636,6 +13716,7 @@
 @list	RSP152
 @list	RSP254
 @list	SLLHA597
+@list	SYA283
 @uname	CUNEIFORM SIGN GAR
 @list	U+120FB
 @ucun	𒃻
@@ -13933,6 +14014,7 @@
 @list	PTACE101
 @list	RSP346
 @list	SLLHA333
+@list	SYA161
 @uname	CUNEIFORM SIGN GAR3
 @list	U+120FC
 @ucun	𒃼
@@ -14128,6 +14210,7 @@
 @list	PTACE042
 @list	RSP451
 @list	SLLHA085
+@list	SYA052
 @uname	CUNEIFORM SIGN GI
 @list	U+12100
 @ucun	𒄀
@@ -14297,6 +14380,7 @@
 @list	PTACE126
 @list	RSP452
 @list	SLLHA067
+@list	SYA032
 @uname	CUNEIFORM SIGN GI CROSSING GI
 @list	U+12103
 @ucun	𒄃
@@ -14339,6 +14423,7 @@
 @list	PTACE098
 @list	RSP453
 @list	SLLHA326
+@list	SYA154
 @uname	CUNEIFORM SIGN GI4
 @list	U+12104
 @ucun	𒄄
@@ -14383,6 +14468,7 @@
 @list	ELLES244a
 @list	MZL508
 @list	SLLHA326a
+@list	SYA155
 @uname	CUNEIFORM SIGN GI4 CROSSING GI4
 @list	U+12106
 @ucun	𒄆
@@ -14434,6 +14520,7 @@
 @list	PTACE154
 @list	RSP121
 @list	SLLHA446
+@list	SYA227
 @uname	CUNEIFORM SIGN GIG
 @list	U+1237C
 @ucun	𒍼
@@ -14922,6 +15009,7 @@
 @list	PTACE279
 @list	RSP231
 @list	SLLHA296
+@list	SYA137
 @uname	CUNEIFORM SIGN GISH
 @list	U+12111
 @ucun	𒄑
@@ -15589,6 +15677,7 @@
 @list	LAK276
 @list	LAK610?
 @list	SLLHA296n2
+@list	SYA124
 @uname	CUNEIFORM SIGN GISH CROSSING GISH
 @list	U+12112
 @ucun	𒄒
@@ -15677,6 +15766,7 @@
 @list	PTACE221
 @list	RSP176
 @list	SLLHA559
+@list	SYA266
 @uname	CUNEIFORM SIGN GU
 @list	U+12116
 @ucun	𒄖
@@ -15759,6 +15849,7 @@
 @list	PTACE244
 @list	RSP355
 @list	SLLHA106
+@list	SYA069
 @uname	CUNEIFORM SIGN GU2
 @list	U+12118
 @ucun	𒄘
@@ -15884,6 +15975,7 @@
 @list	PTACE243
 @list	RSP356
 @list	SLLHA108
+@list	SYA070
 @uname	CUNEIFORM SIGN GU2 TIMES KAK
 @list	U+12119
 @ucun	𒄙
@@ -16163,6 +16255,7 @@
 @list	PTACE074
 @list	RSP188
 @list	SLLHA170
+@list	SYA104
 @uname	CUNEIFORM SIGN GUD TIMES KUR
 @list	U+12120
 @ucun	𒄠
@@ -16241,6 +16334,7 @@
 @list	PTACE260
 @list	RSP279
 @list	SLLHA429
+@list	SYA219
 @uname	CUNEIFORM SIGN GUL
 @list	U+12122
 @ucun	𒄢
@@ -16279,6 +16373,7 @@
 @list	PTACE248
 @list	RSP111
 @list	SLLHA191
+@list	SYA112
 @uname	CUNEIFORM SIGN GUM
 @list	U+12123
 @ucun	𒄣
@@ -16324,6 +16419,7 @@
 @list	MZL340
 @list	RSP112
 @list	SLLHA192
+@list	SYA113
 @uname	CUNEIFORM SIGN GUM TIMES SHE
 @list	U+12124
 @ucun	𒄤
@@ -16367,6 +16463,7 @@
 @list	PTACE055
 @list	RSP236
 @list	SLLHA111
+@list	SYA073
 @uname	CUNEIFORM SIGN GUR
 @list	U+12125
 @ucun	𒄥
@@ -16504,6 +16601,7 @@
 @list	PTACE187
 @list	RSP181
 @list	SLLHA589
+@list	SYA279
 @uname	CUNEIFORM SIGN HA
 @list	U+12129
 @ucun	𒄩
@@ -16592,6 +16690,7 @@
 @list	PTACE188
 @list	RSP182
 @list	SLLHA346
+@list	SYA172
 @uname	CUNEIFORM SIGN HA GUNU
 @list	U+1212B
 @ucun	𒄫
@@ -16714,6 +16813,7 @@
 @list	PTACE004
 @list	RSP076
 @list	SLLHA002
+@list	SYA002
 @uname	CUNEIFORM SIGN HAL
 @list	U+1212C
 @ucun	𒄬
@@ -16742,6 +16842,7 @@
 @list	PTACE173
 @list	RSP309
 @list	SLLHA396
+@list	SYA201
 @uname	CUNEIFORM SIGN HI
 @list	U+1212D
 @ucun	𒄭
@@ -16785,6 +16886,8 @@
 @sign |HI.A|
 @oid	o0001443
 @list	LAK360
+@list	SYA212
+@inote	SYA has the value ṣun from a reading of https://oracc.museum.upenn.edu/rinap/Q006333.223.6 as Ra-ṣun-nu.
 @useq	x1212D.x12000
 @ucun	𒄭𒀀
 @v	ha₂
@@ -16797,6 +16900,7 @@
 @list	MZL645
 @list	RSP467
 @list	SLLHA402
+@list	SYA210
 @uname	CUNEIFORM SIGN HUSH
 @list	U+1237D
 @ucun	𒍽
@@ -16915,6 +17019,7 @@
 @list	PTACE177
 @list	RSP315
 @list	SLLHA401
+@list	SYA209
 @uname	CUNEIFORM SIGN HI TIMES ASH2
 @list	U+1212F
 @ucun	𒄯
@@ -17030,6 +17135,7 @@
 @list	RSP312
 @list	RSP313
 @list	RSP314
+@list	SYA206
 @uname	CUNEIFORM SIGN HI TIMES BAD
 @list	U+12130
 @ucun	𒄰
@@ -17182,6 +17288,7 @@
 @list	MZL636
 @list	PTACE175
 @list	SLLHA398
+@list	SYA205
 @uname	CUNEIFORM SIGN HI TIMES NUN
 @list	U+12134
 @ucun	𒄴
@@ -17324,6 +17431,7 @@
 @list	LAK372
 @list	MZL643
 @list	SLLHA400
+@list	SYA208
 @uname	CUNEIFORM SIGN HI TIMES SHE
 @list	U+12135
 @ucun	𒄵
@@ -17395,6 +17503,7 @@
 @list	PTACE040
 @list	RSP406
 @list	SLLHA078
+@list	SYA045
 @uname	CUNEIFORM SIGN HU
 @list	U+12137
 @ucun	𒄷
@@ -17445,6 +17554,7 @@
 @list	MZL137
 @list	RSP407
 @list	SLLHA081
+@list	SYA049
 @useq	x12137.x1212D
 @ucun	𒄷𒄭
 @v	mat₃
@@ -17511,6 +17621,7 @@
 @list	LAK066
 @list	MZL133
 @list	PTACE034
+@list	SYA046
 @useq	x12137.x122DB
 @ucun	𒄷𒋛
 @v	u₅
@@ -17548,6 +17659,7 @@
 @list	MZL149
 @list	PTACE273
 @list	SLLHA088
+@list	SYA056
 @uname	CUNEIFORM SIGN HUB2
 @list	U+12138
 @ucun	𒄸
@@ -17637,6 +17749,7 @@
 @list	MZL150
 @list	RSP425
 @list	SLLHA089
+@list	SYA057
 @uname	CUNEIFORM SIGN HUB2 TIMES UD
 @list	U+1213D
 @ucun	𒄽
@@ -17729,6 +17842,7 @@
 @list	MZL252
 @list	PTACE091
 @list	SLLHA142
+@list	SYA090
 @uname	CUNEIFORM SIGN I
 @list	U+1213F
 @ucun	𒄿
@@ -17752,6 +17866,7 @@
 @list	HZL218
 @list	MZL260
 @list	SLLHA142a
+@list	SYA091
 @uname	CUNEIFORM SIGN I A
 @list	U+12140
 @ucun	𒅀
@@ -17804,6 +17919,7 @@
 @list	PTACE309
 @list	RSP103
 @list	SLLHA535
+@list	SYA253
 @uname	CUNEIFORM SIGN IB
 @list	U+12141
 @ucun	𒅁
@@ -17831,6 +17947,7 @@
 @list	LAK004
 @list	MZL113b
 @list	RSP048
+@list	SYA035
 @lit	Krebernik, OBO 161/1, 276 (with note 464)
 @uname	CUNEIFORM SIGN IDIM
 @list	U+12142
@@ -17933,6 +18050,7 @@
 @list	PTACE020
 @list	RSP270
 @list	SLLHA080
+@list	SYA048
 @uname	CUNEIFORM SIGN IG
 @list	U+12145
 @ucun	𒅅
@@ -17975,6 +18093,7 @@
 @list	PTACE199
 @list	RSP066
 @list	SLLHA449
+@list	SYA228
 @uname	CUNEIFORM SIGN IGI
 @list	U+12146
 @ucun	𒅆
@@ -18067,6 +18186,7 @@
 @list	PTACE203
 @list	RSP070
 @list	SLLHA455
+@list	SYA231
 @uname	CUNEIFORM SIGN IGI DIB
 @list	U+12147
 @ucun	𒅇
@@ -18434,6 +18554,7 @@
 @list	MZL726
 @list	PTACE200
 @list	SLLHA451
+@list	SYA230
 @uname	CUNEIFORM SIGN IGI RI
 @list	U+12148
 @ucun	𒅈
@@ -18456,6 +18577,7 @@
 @list	MZL725
 @list	RSP074
 @list	SLLHA450
+@list	SYA229
 @useq	x12146.x12292
 @ucun	𒅆𒊒
 @v	pa₃
@@ -18506,6 +18628,7 @@
 @list	PTACE202
 @list	RSP071
 @list	SLLHA456
+@list	SYA232
 @useq	x12146.x12328
 @ucun	𒅆𒌨
 @v	hul
@@ -18686,6 +18809,7 @@
 @list	MZL348
 @list	RSP374
 @list	SLLHA205
+@list	SYA117
 @uname	CUNEIFORM SIGN IL
 @list	U+1214B
 @ucun	𒅋
@@ -18723,6 +18847,7 @@
 @list	PTACE113
 @list	RSP432
 @list	SLLHA320
+@list	SYA149
 @uname	CUNEIFORM SIGN IL2
 @list	U+1214D
 @ucun	𒅍
@@ -18818,6 +18943,7 @@
 @list	MZL641
 @list	RSP331
 @list	SLLHA399
+@list	SYA207
 @uname	CUNEIFORM SIGN IM
 @list	U+1214E
 @ucun	𒅎
@@ -19163,6 +19289,7 @@
 @list	MZL261
 @list	PTACE075
 @list	SLLHA148
+@list	SYA097
 @uname	CUNEIFORM SIGN IN
 @list	U+12154
 @ucun	𒅔
@@ -19196,6 +19323,7 @@
 @list	PTACE223
 @list	RSP151
 @list	SLLHA232
+@list	SYA129
 @uname	CUNEIFORM SIGN IR
 @list	U+12155
 @ucun	𒅕
@@ -19227,6 +19355,7 @@
 @list	PTACE103
 @list	RSP123
 @list	SLLHA212
+@list	SYA121
 @uname	CUNEIFORM SIGN ISH
 @list	U+12156
 @ucun	𒅖
@@ -19326,6 +19455,7 @@
 @list	PTACE167
 @list	RSP197
 @list	SLLHA015
+@list	SYA013
 @uname	CUNEIFORM SIGN KA
 @list	U+12157
 @ucun	𒅗
@@ -19565,6 +19695,7 @@
 @list	MZL064
 @list	RSP199
 @list	SLLHA035
+@list	SYA016
 @uname	CUNEIFORM SIGN KA TIMES A
 @list	U+12158
 @ucun	𒅘
@@ -19792,6 +19923,7 @@
 @list	ABZL327
 @list	MZL062
 @list	SLLHA033
+@list	SYA015
 @uname	CUNEIFORM SIGN KA TIMES ESH2
 @list	U+12161
 @ucun	𒅡
@@ -19864,6 +19996,7 @@
 @list	LAK324
 @list	MZL033
 @list	SLLHA019
+@list	SYA014
 @uname	CUNEIFORM SIGN KA TIMES GAN2 TENU
 @list	U+12164
 @ucun	𒅤
@@ -21084,6 +21217,7 @@
 @list	PTACE301
 @list	RSP135
 @list	SLLHA133
+@list	SYA086
 @uname	CUNEIFORM SIGN KA2
 @list	U+1218D
 @ucun	𒆍
@@ -21155,6 +21289,7 @@
 @list	MZL148
 @list	PTACE090
 @list	SLLHA088
+@list	SYA055
 @uname	CUNEIFORM SIGN KAB
 @list	U+1218F
 @ucun	𒆏
@@ -21205,6 +21340,7 @@
 @oid	o0000265
 @list	MZL108
 @list	SLLHA063a
+@list	SYA030
 @uname	CUNEIFORM SIGN KAD2
 @list	U+12190
 @ucun	𒆐
@@ -21223,6 +21359,7 @@
 @oid	o0000266
 @list	MZL109
 @list	SLLHA063c
+@list	SYA031
 @uname	CUNEIFORM SIGN KAD3
 @list	U+12191
 @ucun	𒆑
@@ -21259,6 +21396,7 @@
 @list	PTACE112
 @list	RSP430
 @list	SLLHA354b
+@list	SYA179
 @uname	CUNEIFORM SIGN KAD4
 @list	U+12192
 @ucun	𒆒
@@ -21299,6 +21437,7 @@
 @list	LAK173
 @list	MZL569
 @list	SLLHA354bv
+@list	SYA180
 @uname	CUNEIFORM SIGN KAD5
 @list	U+12193
 @ucun	𒆓
@@ -21368,6 +21507,7 @@
 @list	PTACE216
 @list	RSP147
 @list	SLLHA230
+@list	SYA127
 @uname	CUNEIFORM SIGN KAK
 @list	U+12195
 @ucun	𒆕
@@ -21457,6 +21597,7 @@
 @list	MZL496
 @list	RSP237
 @list	SLLHA322
+@list	SYA151
 @lit	Krebernik OBO 160/1, 277
 @inote	KAL/RIB is the sign form with broken final vertical.
 @uname	CUNEIFORM SIGN KAL
@@ -21609,6 +21750,7 @@
 @list	ABZL169
 @list	LAK730
 @list	MZL501
+@list	SYA143
 @uname	CUNEIFORM SIGN UN
 @list	U+12326
 @ucun	𒌦
@@ -21632,6 +21774,7 @@
 @oid	o0000272
 @list	MZL595
 @list	SLLHA406v2
+@list	SYA093
 @uname	CUNEIFORM SIGN KAM2
 @list	U+1219A
 @ucun	𒆚
@@ -21695,6 +21838,7 @@
 @list	PTACE210
 @list	RSP116
 @list	SLLHA166
+@list	SYA101
 @uname	CUNEIFORM SIGN KASKAL
 @list	U+1219C
 @ucun	𒆜
@@ -21905,6 +22049,7 @@
 @list	LAK612
 @list	PTACE265
 @list	RSP285
+@list	SYA099
 @uname	CUNEIFORM SIGN KESH2
 @list	U+1219F
 @ucun	𒆟
@@ -21956,6 +22101,7 @@
 @list	PTACE192
 @list	RSP165
 @list	SLLHA461
+@list	SYA235
 @uname	CUNEIFORM SIGN KI
 @list	U+121A0
 @ucun	𒆠
@@ -22695,6 +22841,7 @@
 @list	PTACE298
 @list	RSP252
 @list	SLLHA313
+@list	SYA144
 @uname	CUNEIFORM SIGN KID
 @list	U+121A4
 @ucun	𒆤
@@ -22809,6 +22956,7 @@
 @list	PTACE084
 @list	RSP394
 @list	SLLHA538
+@list	SYA259
 @uname	CUNEIFORM SIGN KIN
 @list	U+121A5
 @ucun	𒆥
@@ -23042,6 +23190,7 @@
 @list	LAK248
 @list	MZL678
 @list	SLLHA425
+@list	SYA217
 @uname	CUNEIFORM SIGN KISH
 @list	U+121A7
 @ucun	𒆧
@@ -23109,6 +23258,7 @@
 @list	MZL808
 @list	RSP253
 @list	SLLHA536
+@list	SYA254
 @uname	CUNEIFORM SIGN KU
 @list	U+121AA
 @ucun	𒆪
@@ -23302,6 +23452,7 @@
 @list	PTACE189
 @list	RSP385
 @list	SLLHA468
+@list	SYA238
 @uname	CUNEIFORM SIGN KU3
 @list	U+121AC
 @ucun	𒆬
@@ -23466,6 +23617,7 @@
 @list	RSP086
 @list	SLLHA072
 @list	SLLHA072a
+@list	SYA038
 @uname	CUNEIFORM SIGN KUL
 @list	U+121B0
 @ucun	𒆰
@@ -23529,6 +23681,7 @@
 @list	PTACE308
 @list	RSP343
 @list	SLLHA077
+@list	SYA044
 @lit	Biggs, JCS 20, 84
 @uname	CUNEIFORM SIGN KUN
 @list	U+121B2
@@ -23556,6 +23709,7 @@
 @list	MZL130
 @list	PTACE037
 @list	SLLHA076
+@list	SYA043
 @uname	CUNEIFORM SIGN MASH2
 @list	U+12227
 @ucun	𒈧
@@ -23579,6 +23733,7 @@
 @list	PTACE215
 @list	RSP065
 @list	SLLHA366
+@list	SYA183
 @uname	CUNEIFORM SIGN KUR
 @list	U+121B3
 @ucun	𒆳
@@ -23697,6 +23852,7 @@
 @list	LAK304
 @list	MZL896
 @list	SLLHA562
+@list	SYA268
 @uname	CUNEIFORM SIGN KUSHU2
 @list	U+121B5
 @ucun	𒆵
@@ -23916,6 +24072,7 @@
 @list	PTACE266
 @list	RSP308
 @list	SLLHA055
+@list	SYA022
 @uname	CUNEIFORM SIGN LA
 @list	U+121B7
 @ucun	𒆷
@@ -23957,6 +24114,7 @@
 @list	PTACE311
 @list	RSP229
 @list	SLLHA483
+@list	SYA245
 @uname	CUNEIFORM SIGN LAGAB
 @list	U+121B8
 @ucun	𒆸
@@ -24115,6 +24273,7 @@
 @list	PTACE322
 @list	RSP263
 @list	SLLHA522
+@list	SYA250
 @uname	CUNEIFORM SIGN LAGAB TIMES A
 @list	U+121B9
 @ucun	𒆹
@@ -24582,6 +24741,7 @@
 @list	ABZL407
 @list	MZL772
 @list	SLLHA493
+@list	SYA247
 @uname	CUNEIFORM SIGN LAGAB TIMES GUD
 @list	U+121C6
 @ucun	𒇆
@@ -25066,6 +25226,7 @@
 @list	MZL767
 @list	RSP268
 @list	SLLHA491
+@list	SYA246
 @uname	CUNEIFORM SIGN LAGAB TIMES SUM
 @list	U+121E1
 @ucun	𒇡
@@ -25268,6 +25429,7 @@
 @list	PTACE321
 @list	RSP259
 @list	SLLHA511
+@list	SYA248
 @uname	CUNEIFORM SIGN LAGAB TIMES U
 @list	U+121E5
 @ucun	𒇥
@@ -25341,6 +25503,7 @@
 @list	ABZL411
 @list	MZL788
 @list	SLLHA515
+@list	SYA249
 @uname	CUNEIFORM SIGN LAGAB TIMES U PLUS U PLUS U
 @list	U+121E7
 @ucun	𒇧
@@ -25720,6 +25883,7 @@
 @list	PTACE304
 @list	RSP040
 @list	SLLHA481
+@list	SYA243
 @uname	CUNEIFORM SIGN LAL
 @list	U+121F2
 @ucun	𒇲
@@ -25829,6 +25993,7 @@
 @list	MZL751
 @list	PTACE305
 @list	SLLHA482
+@list	SYA244
 @uname	CUNEIFORM SIGN LAL TIMES LAL
 @list	U+121F3
 @ucun	𒇳
@@ -26086,6 +26251,7 @@
 @list	PTACE207
 @list	RSP184
 @list	SLLHA435
+@list	SYA222
 @uname	CUNEIFORM SIGN LAM
 @list	U+121F4
 @ucun	𒇴
@@ -27675,6 +27841,7 @@
 @list	RSP421
 @list	RSP445
 @list	SLLHA059
+@list	SYA026
 @uname	CUNEIFORM SIGN LI
 @list	U+121F7
 @ucun	𒇷
@@ -27706,6 +27873,7 @@
 @list	REC056
 @list	RSP127
 @list	SLLHA336
+@list	SYA163
 @lit	Krecher ZA 77 (1987), 17-21
 @uname	CUNEIFORM SIGN LIL
 @list	U+121F8
@@ -27830,6 +27998,7 @@
 @list	PTACE140
 @list	RSP046
 @list	SLLHA377
+@list	SYA192
 @uname	CUNEIFORM SIGN LISH
 @list	U+121FA
 @ucun	𒇺
@@ -27861,6 +28030,7 @@
 @list	PTACE314
 @list	RSP260
 @list	SLLHA537
+@list	SYA257
 @uname	CUNEIFORM SIGN LU
 @list	U+121FB
 @ucun	𒇻
@@ -27992,6 +28162,7 @@
 @list	PTACE017
 @list	RSP396
 @list	SLLHA330
+@list	SYA157
 @uname	CUNEIFORM SIGN LU2
 @list	U+121FD
 @ucun	𒇽
@@ -28861,6 +29032,7 @@
 @list	PTACE319
 @list	RSP257
 @list	SLLHA345
+@list	SYA171
 @uname	CUNEIFORM SIGN LU3
 @list	U+12216
 @ucun	𒈖
@@ -29061,6 +29233,7 @@
 @list	PTACE104
 @list	RSP131
 @list	SLLHA321
+@list	SYA150
 @uname	CUNEIFORM SIGN LUH
 @list	U+1221B
 @ucun	𒈛
@@ -29105,6 +29278,7 @@
 @list	PTACE131
 @list	RSP468
 @list	SLLHA355
+@list	SYA181
 @lit	C. Mittermayer AOAT 319, 70-74.
 @uname	CUNEIFORM SIGN LUL
 @list	U+1221C
@@ -29255,6 +29429,7 @@
 @list	PTACE213
 @list	RSP138
 @list	SLLHA565
+@list	SYA271
 @uname	CUNEIFORM SIGN LUM
 @list	U+1221D
 @ucun	𒈝
@@ -29371,6 +29546,7 @@
 @list	PTACE026
 @list	RSP289
 @list	SLLHA342
+@list	SYA168
 @uname	CUNEIFORM SIGN MA
 @list	U+12220
 @ucun	𒈠
@@ -29444,6 +29620,7 @@
 @list	PTACE033
 @list	RSP294
 @list	SLLHA122
+@list	SYA077
 @uname	CUNEIFORM SIGN MA2
 @list	U+12223
 @ucun	𒈣
@@ -29570,6 +29747,7 @@
 @list	PTACE242
 @list	RSP368
 @list	SLLHA057
+@list	SYA024
 @uname	CUNEIFORM SIGN MAH
 @list	U+12224
 @ucun	𒈤
@@ -29608,6 +29786,7 @@
 @list	PTACE078
 @list	RSP115
 @list	SLLHA307
+@list	SYA140
 @uname	CUNEIFORM SIGN MAR
 @list	U+12225
 @ucun	𒈥
@@ -29644,6 +29823,7 @@
 @list	RSP019
 @list	RSP047
 @list	SLLHA074
+@list	SYA040
 @uname	CUNEIFORM SIGN MASH
 @list	U+12226
 @ucun	𒈦
@@ -29873,6 +30053,7 @@
 @list	PTACE303
 @list	RSP045
 @list	SLLHA532
+@list	SYA251
 @uname	CUNEIFORM SIGN ME
 @list	U+12228
 @ucun	𒈨
@@ -29937,6 +30118,7 @@
 @list	ABZL903
 @list	HZL360
 @list	MZL754
+@list	SYA252
 @uname	CUNEIFORM SIGN MESH
 @list	U+1238C
 @ucun	𒎌
@@ -29960,6 +30142,7 @@
 @list	MZL486
 @list	RSP277
 @list	SLLHA314
+@list	SYA146
 @uname	CUNEIFORM SIGN MES
 @list	U+12229
 @ucun	𒈩
@@ -30006,6 +30189,7 @@
 @list	PTACE152
 @list	RSP120
 @list	SLLHA427
+@list	SYA218
 @uname	CUNEIFORM SIGN MI
 @list	U+1222A
 @ucun	𒈪
@@ -30130,6 +30314,7 @@
 @list	PTACE024
 @list	RSP438
 @list	SLLHA061
+@list	SYA028
 @uname	CUNEIFORM SIGN MU
 @list	U+1222C
 @ucun	𒈬
@@ -30195,6 +30380,7 @@
 @list	PTACE025
 @list	RSP439
 @list	SLLHA169
+@list	SYA103
 @uname	CUNEIFORM SIGN MU OVER MU
 @list	U+1222D
 @ucun	𒈭
@@ -30243,6 +30429,7 @@
 @list	PTACE060
 @list	RSP168
 @list	SLLHA003
+@list	SYA003
 @uname	CUNEIFORM SIGN MUG
 @list	U+1222E
 @ucun	𒈮
@@ -30399,6 +30586,7 @@
 @list	MZL585
 @list	RSP337
 @list	SLLHA374
+@list	SYA188
 @uname	CUNEIFORM SIGN MUSH
 @list	U+12232
 @ucun	𒈲
@@ -31060,6 +31248,7 @@
 @list	LAK463
 @list	MZL152
 @list	SLLHA102
+@list	SYA065
 @uname	CUNEIFORM SIGN MUSH3 GUNU
 @list	U+1223D
 @ucun	𒈽
@@ -31345,6 +31534,7 @@
 @list	PTACE021
 @list	RSP340
 @list	SLLHA070
+@list	SYA036
 @uname	CUNEIFORM SIGN NA
 @list	U+1223E
 @ucun	𒈾
@@ -31639,6 +31829,7 @@
 @list	PTACE065
 @list	RSP413
 @list	SLLHA079
+@list	SYA047
 @uname	CUNEIFORM SIGN NAM
 @list	U+12246
 @ucun	𒉆
@@ -31746,6 +31937,7 @@
 @list	PTACE094
 @list	RSP362
 @list	SLLHA172
+@list	SYA106
 @uname	CUNEIFORM SIGN NE
 @list	U+12248
 @ucun	𒉈
@@ -31903,6 +32095,7 @@
 @list	MZL312
 @list	RSP364
 @list	SLLHA173
+@list	SYA107
 @uname	CUNEIFORM SIGN NE SHESHIG
 @list	U+1224B
 @ucun	𒉋
@@ -32037,6 +32230,7 @@
 @list	PTACE218
 @list	RSP148
 @list	SLLHA231
+@list	SYA128
 @uname	CUNEIFORM SIGN NI
 @list	U+1224C
 @ucun	𒉌
@@ -32182,6 +32376,7 @@
 @list	PTACE219
 @list	RSP149
 @list	SLLHA229n
+@list	SYA125
 @uname	CUNEIFORM SIGN NA4
 @list	U+1238E
 @ucun	𒎎
@@ -32381,6 +32576,7 @@
 @list	MZL690
 @list	RSP390
 @list	SLLHA433
+@list	SYA220
 @uname	CUNEIFORM SIGN NIM
 @list	U+1224F
 @ucun	𒉏
@@ -32428,6 +32624,7 @@
 @list	PTACE118
 @list	RSP391
 @list	SLLHA434
+@list	SYA221
 @uname	CUNEIFORM SIGN NIM TIMES GAN2 TENU
 @list	U+12250
 @ucun	𒉐
@@ -32507,6 +32704,7 @@
 @list	HZL103
 @list	MZL320
 @list	SLLHA178aa
+@list	SYA108
 @uname	CUNEIFORM SIGN NINDA2 TIMES AN
 @list	U+12253
 @ucun	𒉓
@@ -32781,6 +32979,7 @@
 @list	PTACE070
 @list	RSP109
 @list	SLLHA183
+@list	SYA109
 @uname	CUNEIFORM SIGN NINDA2 TIMES NE
 @list	U+12258
 @ucun	𒉘
@@ -32865,6 +33064,7 @@
 @pname	|NINDA₂×ŠE+A.AN|
 @list	ABZL137
 @list	SLLHA187v1
+@list	SYA110
 @uname	CUNEIFORM SIGN NINDA2 TIMES SHE PLUS A AN
 @list	U+1225B
 @ucun	𒉛
@@ -33215,6 +33415,7 @@
 @list	PTACE039
 @list	RSP075
 @list	SLLHA075
+@list	SYA042
 @note	For sir₅ and šir₅ see Jacobsen FS Diakonoff, 136 and Veldhuis EEN, 179. The values sarₓ, and surₓ are equally questionable.
 @uname	CUNEIFORM SIGN NU
 @list	U+12261
@@ -33454,6 +33655,7 @@
 @list	RSP094
 @list	RSP097
 @list	SLLHA087
+@list	SYA054
 @uname	CUNEIFORM SIGN NUN
 @list	U+12263
 @ucun	𒉣
@@ -33771,6 +33973,7 @@
 @list	MZL502
 @list	RSP102
 @list	SLLHA325
+@list	SYA153
 @uname	CUNEIFORM SIGN NUN OVER NUN
 @list	U+1226A
 @ucun	𒉪
@@ -34436,6 +34639,7 @@
 @list	PTACE072
 @list	RSP056
 @list	SLLHA295
+@list	SYA134
 @uname	CUNEIFORM SIGN PA
 @list	U+1227A
 @ucun	𒉺
@@ -34786,6 +34990,7 @@
 @list	LAK129?
 @list	MZL466
 @list	SLLHA295k
+@list	SYA135
 @useq	x1227A.x12141
 @ucun	𒉺𒅁
 @v	hamanzer
@@ -34833,6 +35038,7 @@
 @list	MZL468
 @list	RSP057
 @list	SLLHA295m
+@list	SYA136
 @useq	x1227A.x121FB
 @ucun	𒉺𒇻
 @v	nuska₂
@@ -35126,6 +35332,7 @@
 @list	PTACE157
 @list	RSP171
 @list	SLLHA469
+@list	SYA239
 @uname	CUNEIFORM SIGN PAD
 @list	U+1227B
 @ucun	𒉻
@@ -35223,6 +35430,7 @@
 @list	PTACE035
 @list	RSP366
 @list	SLLHA439
+@list	SYA224
 @uname	CUNEIFORM SIGN PAN
 @list	U+1227C
 @ucun	𒉼
@@ -35259,6 +35467,7 @@
 @list	MZL092
 @list	PTACE121
 @list	RSP049
+@list	SYA027
 @uname	CUNEIFORM SIGN PAP
 @list	U+1227D
 @ucun	𒉽
@@ -35519,6 +35728,7 @@
 @list	PTACE195
 @list	RSP079
 @list	SLLHA383
+@list	SYA195
 @uname	CUNEIFORM SIGN PI
 @list	U+1227F
 @ucun	𒉿
@@ -35720,6 +35930,7 @@
 @sign PIR₂
 @oid	o0032009
 @list	MZL613
+@list	SYA199
 @uname	CUNEIFORM SIGN PIR2
 @list	U+12395
 @ucun	𒎕
@@ -35895,6 +36106,7 @@
 @list	LAK259
 @list	MZL296
 @list	SLLHA130
+@list	SYA084
 @lit	C. Mittermayer, AOAT 319, 16-21
 @uname	CUNEIFORM SIGN PIRIG TIMES UD
 @list	U+1228C
@@ -35950,6 +36162,7 @@
 @list	PTACE136
 @list	RSP461
 @list	SLLHA131
+@list	SYA085
 @uname	CUNEIFORM SIGN PIRIG TIMES ZA
 @list	U+1228D
 @ucun	𒊍
@@ -36001,6 +36214,7 @@
 @list	PTACE267
 @list	RSP295
 @list	SLLHA328
+@list	SYA156
 @uname	CUNEIFORM SIGN RA
 @list	U+1228F
 @ucun	𒊏
@@ -36024,6 +36238,7 @@
 @list	ABZL221b
 @list	MZL262
 @list	SLLHA149
+@list	SYA098
 @inote	Sign only exists in NA; otherwise identical with LUGAL (rab₃).
 @uname	CUNEIFORM SIGN RAB
 @list	U+12290
@@ -36119,6 +36334,7 @@
 @list	PTACE064
 @list	RSP412
 @list	SLLHA086
+@list	SYA053
 @uname	CUNEIFORM SIGN RI
 @list	U+12291
 @ucun	𒊑
@@ -36213,6 +36429,7 @@
 @list	PTACE145
 @list	RSP384
 @list	SLLHA068
+@list	SYA034
 @uname	CUNEIFORM SIGN RU
 @list	U+12292
 @ucun	𒊒
@@ -36266,6 +36483,7 @@
 @list	PTACE294
 @list	RSP132
 @list	SLLHA104
+@list	SYA066
 @uname	CUNEIFORM SIGN SA
 @list	U+12293
 @ucun	𒊓
@@ -36304,6 +36522,7 @@
 @list	PTACE163
 @list	RSP192
 @list	SLLHA115
+@list	SYA076
 @uname	CUNEIFORM SIGN SAG
 @list	U+12295
 @ucun	𒊕
@@ -36948,6 +37167,7 @@
 @list	PTACE228
 @list	RSP153
 @list	SLLHA554
+@list	SYA262
 @uname	CUNEIFORM SIGN SAL
 @list	U+122A9
 @ucun	𒊩
@@ -37166,6 +37386,7 @@
 @list	MZL890
 @list	RSP173
 @list	SLLHA558
+@list	SYA267
 @useq	x122A9.x121B3
 @ucun	𒊩𒆳
 @v	amat
@@ -37339,6 +37560,7 @@
 @list	PTACE232
 @list	RSP190
 @list	SLLHA556
+@list	SYA264
 @uname	CUNEIFORM SIGN NIN
 @list	U+1238F
 @ucun	𒎏
@@ -37461,6 +37683,7 @@
 @list	LAK521
 @list	MZL898
 @list	SLLHA563
+@list	SYA269
 @useq	x122A9.x12328
 @ucun	𒊩𒌨
 @v	nig
@@ -37718,6 +37941,7 @@
 @list	MZL541
 @list	PTACE077
 @list	RSP446
+@list	SYA159
 @uname	CUNEIFORM SIGN SAR
 @list	U+122AC
 @ucun	𒊬
@@ -37819,6 +38043,7 @@
 @list	PTACE030
 @list	RSP291
 @list	SLLHA112
+@list	SYA074
 @uname	CUNEIFORM SIGN SI
 @list	U+122DB
 @ucun	𒋛
@@ -37849,6 +38074,7 @@
 @list	MZL207
 @list	RSP292
 @list	SLLHA123
+@list	SYA078
 @useq	x122DB.x12000
 @ucun	𒋛𒀀
 @v	dir
@@ -37937,6 +38163,7 @@
 @list	PTACE032
 @list	RSP293
 @list	SLLHA113
+@list	SYA075
 @uname	CUNEIFORM SIGN SI GUNU
 @list	U+122DC
 @ucun	𒋜
@@ -37978,6 +38205,7 @@
 @list	REC256
 @list	RSP317
 @list	SLLHA592
+@list	SYA281
 @uname	CUNEIFORM SIGN SIG
 @list	U+122DD
 @ucun	𒋝
@@ -38142,6 +38370,7 @@
 @list	PTACE320
 @list	RSP266
 @list	SLLHA539
+@list	SYA260
 @uname	CUNEIFORM SIGN SIK2
 @list	U+122E0
 @ucun	𒋠
@@ -38319,6 +38548,7 @@
 @list	PTACE129
 @list	RSP063
 @list	SLLHA062
+@list	SYA029
 @uname	CUNEIFORM SIGN SILA3
 @list	U+122E1
 @ucun	𒋡
@@ -38428,6 +38658,7 @@
 @list	MZL016
 @list	PTACE120
 @list	RSP143
+@list	SYA006
 @uname	CUNEIFORM SIGN SU
 @list	U+122E2
 @ucun	𒋢
@@ -38597,6 +38828,7 @@
 @list	MZL584
 @list	RSP336
 @list	SLLHA373
+@list	SYA187
 @uname	CUNEIFORM SIGN SUD
 @list	U+122E4
 @ucun	𒋤
@@ -38679,6 +38911,7 @@
 @list	MZL139
 @list	PTACE067
 @list	SLLHA083
+@list	SYA050
 @uname	CUNEIFORM SIGN SUD2
 @list	U+122E5
 @ucun	𒋥
@@ -38724,6 +38957,7 @@
 @list	MZL646
 @list	RSP178bis
 @list	SLLHA403
+@list	SYA211
 @uname	CUNEIFORM SIGN SUHUR
 @list	U+122E6
 @ucun	𒋦
@@ -38751,6 +38985,7 @@
 @list	PTACE327
 @list	RSP450
 @list	SLLHA164
+@list	SYA100
 @uname	CUNEIFORM SIGN SUM
 @list	U+122E7
 @ucun	𒋧
@@ -38843,6 +39078,7 @@
 @list	PTACE205
 @list	RSP170
 @list	SLLHA101
+@list	SYA064
 @uname	CUNEIFORM SIGN SUR
 @list	U+122E9
 @ucun	𒋩
@@ -38900,6 +39136,7 @@
 @list	RSP167
 @list	RSP324
 @list	SLLHA353
+@list	SYA176
 @uname	CUNEIFORM SIGN SHA
 @list	U+122AD
 @ucun	𒊭
@@ -38941,6 +39178,7 @@
 @list	PTACE193
 @list	RSP320
 @list	SLLHA384
+@list	SYA196
 @uname	CUNEIFORM SIGN SHA3
 @list	U+122AE
 @ucun	𒊮
@@ -39376,6 +39614,7 @@
 @list	LAK866
 @list	MZL632
 @list	SLLHA396
+@list	SYA202
 @uname	CUNEIFORM NUMERIC SIGN SHAR2
 @list	U+122B9
 @ucun	𒊹
@@ -39558,6 +39797,7 @@
 @list	PTACE045
 @list	RSP440
 @list	SLLHA367
+@list	SYA184
 @uname	CUNEIFORM SIGN SHE
 @list	U+122BA
 @ucun	𒊺
@@ -39692,6 +39932,7 @@
 @list	LAK070
 @list	LAK201
 @list	RSP408
+@list	SYA186
 @uname	CUNEIFORM SIGN SHE HU
 @list	U+122BB
 @ucun	𒊻
@@ -39843,6 +40084,7 @@
 @list	RSP441
 @list	RSP442
 @list	SLLHA375
+@list	SYA189
 @uname	CUNEIFORM SIGN TIR
 @list	U+12301
 @ucun	𒌁
@@ -40259,6 +40501,7 @@
 @list	LAK713
 @list	MZL017
 @list	SLLHA008
+@list	SYA007
 @lit	Steinkeller OrAnt 20, 243ff and OrAnt 23, 39ff
 @uname	CUNEIFORM SIGN SHEN
 @list	U+122BF
@@ -40297,6 +40540,7 @@
 @list	PTACE016
 @list	RSP091
 @list	SLLHA331
+@list	SYA158
 @uname	CUNEIFORM SIGN SHESH
 @list	U+122C0
 @ucun	𒋀
@@ -40469,6 +40713,7 @@
 @list	PTACE268
 @list	RSP296
 @list	SLLHA314
+@list	SYA145
 @uname	CUNEIFORM SIGN SHID
 @list	U+122C3
 @ucun	𒋃
@@ -40676,6 +40921,7 @@
 @list	PTACE254
 @list	RSP422
 @list	SLLHA215
+@list	SYA123
 @uname	CUNEIFORM SIGN SHIM
 @list	U+122C6
 @ucun	𒋆
@@ -41147,6 +41393,7 @@
 @list	MZL115a
 @list	PTACE022
 @list	SLLHA071
+@list	SYA037
 @uname	CUNEIFORM SIGN SHIR
 @list	U+122D3
 @ucun	𒋓
@@ -41328,6 +41575,7 @@
 @list	PTACE087
 @list	RSP124
 @list	SLLHA354
+@list	SYA177
 @uname	CUNEIFORM SIGN SHU
 @list	U+122D7
 @ucun	𒋗
@@ -41680,6 +41928,7 @@
 
 @sign |ŠU.MIN|
 @oid	o0002797
+@list	SYA178
 @useq	x122D7.x1222B
 @ucun	𒋗𒈫
 @v	qa₄
@@ -41781,6 +42030,7 @@
 @list	KWU898
 @list	LAK385
 @list	PTACE149
+@list	SYA261
 @uname	CUNEIFORM SIGN SHU2
 @list	U+122D9
 @ucun	𒋙
@@ -42122,6 +42372,7 @@
 @list	MZL022
 @list	RSP458
 @list	SLLHA053
+@list	SYA021
 @inote	MZL distinguishes between ŠUBUR (MZL22) and ŠAH (MZL23) - this distinction seems spurious. There are two signs, ŠUL and ŠUBUR (AŠ+ŠUL). It is possible that Babylonian texts sometimes use ŠUL for šah₂, but no such reading is included in Mittermayer. ##CHECK
 @uname	CUNEIFORM SIGN SHUBUR
 @list	U+122DA
@@ -42190,6 +42441,7 @@
 @list	PTACE251
 @list	RSP209
 @list	SLLHA139
+@list	SYA089
 @uname	CUNEIFORM SIGN TA
 @list	U+122EB
 @ucun	𒋫
@@ -42221,6 +42473,7 @@
 @list	MZL250
 @list	RSP210
 @list	SLLHA141
+@list	SYA071
 @uname	CUNEIFORM SIGN TA TIMES HI
 @list	U+122ED
 @ucun	𒋭
@@ -42319,6 +42572,7 @@
 @list	MZL209
 @list	RSP039
 @list	SLLHA124
+@list	SYA079
 @uname	CUNEIFORM SIGN TAB
 @list	U+122F0
 @ucun	𒋰
@@ -42499,6 +42753,7 @@
 @list	PTACE245
 @list	RSP427
 @list	SLLHA126
+@list	SYA080
 @uname	CUNEIFORM SIGN TAG
 @list	U+122F3
 @ucun	𒋳
@@ -42725,6 +42980,7 @@
 @list	PTACE146
 @list	RSP387
 @list	SLLHA063d
+@list	SYA033
 @note	In ED, the sign LAK492 (takaₓ) is used in places where later texts use TAK₄.
 @uname	CUNEIFORM SIGN TAK4
 @list	U+122FA
@@ -42803,6 +43059,7 @@
 @list	PTACE141
 @list	RSP064
 @list	SLLHA012
+@list	SYA011
 @uname	CUNEIFORM SIGN TAR
 @list	U+122FB
 @ucun	𒋻
@@ -42887,6 +43144,7 @@
 @list	PTACE179
 @list	RSP310
 @list	SLLHA376
+@list	SYA190
 @uname	CUNEIFORM SIGN TE
 @list	U+122FC
 @ucun	𒋼
@@ -42936,6 +43194,7 @@
 @list	PTACE182
 @list	RSP311
 @list	SLLHA376x
+@list	SYA191
 @useq	x122FC.x12000
 @ucun	𒋼𒀀
 @v	gar₁₄
@@ -43099,6 +43358,7 @@
 @list	PTACE012
 @list	RSP089
 @list	SLLHA073av
+@list	SYA039
 @uname	CUNEIFORM SIGN TI
 @list	U+122FE
 @ucun	𒋾
@@ -43143,6 +43403,7 @@
 @oid	o0027220
 @list	HZL335
 @list	MZL633
+@list	SYA203
 @uname	CUNEIFORM SIGN TI2
 @list	U+12397
 @ucun	𒎗
@@ -43162,6 +43423,7 @@
 @list	MZL113b
 @list	PTACE002
 @list	RSP048
+@list	SYA035
 @lit	Krebernik, OBO 160/1, 276
 @uname	CUNEIFORM SIGN TIL
 @list	U+12300
@@ -43200,6 +43462,7 @@
 @list	RSP443
 @list	RSP444
 @list	SLLHA058
+@list	SYA025
 @uname	CUNEIFORM SIGN TU
 @list	U+12305
 @ucun	𒌅
@@ -43266,6 +43529,7 @@
 @list	MZL809
 @list	RSP255
 @list	SLLHA536
+@list	SYA255
 @uname	CUNEIFORM SIGN TUG2
 @list	U+12306
 @ucun	𒌆
@@ -43351,6 +43615,7 @@
 @list	PTACE270
 @list	RSP392
 @list	SLLHA574
+@list	SYA272
 @uname	CUNEIFORM SIGN TUK
 @list	U+12307
 @ucun	𒌇
@@ -43404,6 +43669,7 @@
 @list	RSP403
 @list	RSP404
 @list	SLLHA207
+@list	SYA119
 @uname	CUNEIFORM SIGN TUM
 @list	U+12308
 @ucun	𒌈
@@ -43503,6 +43769,7 @@
 @list	PTACE235
 @list	RSP381
 @list	SLLHA144
+@list	SYA094
 @uname	CUNEIFORM SIGN TUR
 @list	U+12309
 @ucun	𒌉
@@ -43524,6 +43791,7 @@
 @v	puₓ
 @v	suhušₓ
 @v	šak₇
+@inote šak₂ in Thureau-Dangin’s Syllabaire Accadien, but the attestation given is now read kan: https://oracc.museum.upenn.edu/blms/P393724.33.1001.
 @v	šir₆
 @v	tirₓ
 @v	tu₁₉?
@@ -43697,6 +43965,7 @@
 @list	RSP006
 @list	RSP008
 @list	SLLHA411
+@list	SYA213
 @uname	CUNEIFORM NUMERIC SIGN U
 @list	U+1230B
 @ucun	𒌋
@@ -44001,6 +44270,7 @@
 @list	PTACE150
 @list	RSP012
 @list	SLLHA441
+@list	SYA226
 @uname	CUNEIFORM SIGN U GUD
 @list	U+1230C
 @ucun	𒌌
@@ -44044,6 +44314,7 @@
 @list	MZL663
 @list	RSP013
 @list	SLLHA412
+@list	SYA214
 @useq	x1230B.x12157
 @ucun	𒌋𒅗
 @v	ele
@@ -44219,6 +44490,7 @@
 @list	MZL720
 @list	RSP144
 @list	SLLHA459
+@list	SYA234
 @useq	x1230B.x12306
 @ucun	𒌋𒌆
 @v	dul
@@ -44238,6 +44510,7 @@
 @list	HZL296
 @list	MZL708
 @list	SLLHA471
+@list	SYA240
 @uname	CUNEIFORM SIGN U U
 @list	U+12399
 @ucun	𒎙
@@ -44306,6 +44579,7 @@
 @list	HZL331
 @list	MZL711
 @list	SLLHA472
+@list	SYA241
 @uname	CUNEIFORM SIGN U U U
 @list	U+1230D
 @ucun	𒌍
@@ -44593,6 +44867,7 @@
 @list	PTACE102
 @list	RSP133
 @list	SLLHA318
+@list	SYA147
 @uname	CUNEIFORM SIGN U2
 @list	U+12311
 @ucun	𒌑
@@ -44902,6 +45177,7 @@
 @list	PTACE116
 @list	RSP185
 @list	SLLHA306
+@list	SYA139
 @uname	CUNEIFORM SIGN UB
 @list	U+12312
 @ucun	𒌒
@@ -44951,6 +45227,7 @@
 @list	RSP322
 @list	RSP324
 @list	SLLHA381
+@list	SYA193
 @uname	CUNEIFORM SIGN UD
 @list	U+12313
 @ucun	𒌓
@@ -45114,6 +45391,7 @@
 @list	BAU198a
 @list	GCSL173
 @list	RSP326
+@list	SYA194
 @useq	x12313.x1207A
 @ucun	𒌓𒁺
 @v	ara₄
@@ -45330,6 +45608,7 @@
 @list	MZL611
 @list	RSP174
 @list	SLLHA392
+@list	SYA197
 @uname	CUNEIFORM SIGN UD KUSHU2
 @list	U+12314
 @ucun	𒌔
@@ -45611,6 +45890,7 @@
 @list	MZL545
 @list	SLLHA337
 @list	SLLHA337xn1
+@list	SYA164
 @inote Check out what this n1 in SLLHA337 says ...
 @script late: merge NISAG.
 @uname	CUNEIFORM SIGN UD TIMES U PLUS U PLUS U GUNU
@@ -45757,6 +46037,7 @@
 @list	MZL238
 @list	RSP274
 @list	SLLHA134
+@list	SYA087
 @uname	CUNEIFORM SIGN UM
 @list	U+1231D
 @ucun	𒌝
@@ -46046,6 +46327,7 @@
 @list	PTACE272
 @list	RSP238
 @list	SLLHA575
+@list	SYA273
 @uname	CUNEIFORM SIGN UR
 @list	U+12328
 @ucun	𒌨
@@ -46221,6 +46503,7 @@
 @list	PTACE277
 @list	RSP376
 @list	SLLHA203
+@list	SYA114
 @uname	CUNEIFORM SIGN UR2
 @list	U+1232B
 @ucun	𒌫
@@ -46579,6 +46862,7 @@
 @list	PTACE257
 @list	RSP300
 @list	SLLHA038
+@list	SYA017
 @uname	CUNEIFORM SIGN URU
 @list	U+12337
 @ucun	𒌷
@@ -47040,6 +47324,7 @@
 @list	MZL080
 @list	RSP269
 @list	SLLHA049x
+@list	SYA019
 @note	LAK648 is GIŠGAL, but is not properly described as URU×MIN. Many of the URU× signs are LAK648× in ED.
 @uname	CUNEIFORM SIGN URU TIMES MIN
 @list	U+12347
@@ -47262,6 +47547,7 @@
 @list	LAK598
 @list	MZL077
 @list	SLLHA043
+@list	SYA018
 @uname	CUNEIFORM SIGN URU TIMES UD
 @list	U+1234D
 @ucun	𒍍
@@ -47457,6 +47743,7 @@
 @list	PTACE051
 @list	RSP415
 @list	SLLHA211
+@list	SYA120
 @uname	CUNEIFORM SIGN USH
 @list	U+12351
 @ucun	𒍑
@@ -47832,6 +48119,7 @@
 @list	MZL311
 @list	PTACE178
 @list	SLLHA171
+@list	SYA105
 @lit	M. Civil, ZA 74, 162
 @inote	##CHECK Civil CUSAS 12, 211 on LAK350
 @uname	CUNEIFORM SIGN UZU
@@ -47922,6 +48210,7 @@
 @list	MZL853
 @list	RSP077
 @list	SLLHA586
+@list	SYA278
 @uname	CUNEIFORM SIGN ZA
 @list	U+1235D
 @ucun	𒍝
@@ -47997,6 +48286,7 @@
 @list	PTACE261
 @list	RSP078
 @list	SLLHA591
+@list	SYA280
 @useq	x1235D.x12122
 @ucun	𒍝𒄢
 @v	gagₓ
@@ -48198,6 +48488,7 @@
 @list	PTACE148
 @list	RSP388
 @list	SLLHA332
+@list	SYA160
 @uname	CUNEIFORM SIGN ZAG
 @list	U+12360
 @ucun	𒍠
@@ -48271,6 +48562,7 @@
 @list	LAK538
 @list	MZL259
 @list	SLLHA147
+@list	SYA096
 @inote	Molina JNES 63, 2
 @uname	CUNEIFORM SIGN ZE2
 @list	U+12362
@@ -48299,6 +48591,7 @@
 @list	PTACE043
 @list	RSP455
 @list	SLLHA084
+@list	SYA051
 @uname	CUNEIFORM SIGN ZI
 @list	U+12363
 @ucun	𒍣
@@ -48550,6 +48843,7 @@
 @aka	|AŠ@z&AŠ@z&AŠ@z&AŠ@z|
 @list	MZL628
 @list	SLLHA395
+@list	SYA200
 @uname	CUNEIFORM SIGN ZIB
 @list	U+12366
 @ucun	𒍦
@@ -48579,6 +48873,7 @@
 @list	ABZL140
 @list	MZL336
 @list	SLLHA190
+@list	SYA111
 @uname	CUNEIFORM SIGN ZIG
 @list	U+12368
 @ucun	𒍨
@@ -48721,6 +49016,7 @@
 @list	PTACE119
 @list	RSP141
 @list	SLLHA006
+@list	SYA005
 @uname	CUNEIFORM SIGN ZU
 @list	U+1236A
 @ucun	𒍪
@@ -48900,6 +49196,7 @@
 @list	PTACE230
 @list	RSP175
 @list	SLLHA555
+@list	SYA263
 @uname	CUNEIFORM SIGN ZUM
 @list	U+1236E
 @ucun	𒍮
@@ -50257,6 +50554,7 @@
 @list	HZL371
 @list	MZL861
 @list	SLLHA598a
+@list	SYA284
 @uname	CUNEIFORM NUMERIC SIGN FIVE DISH
 @list	U+1240A
 @ucun	𒐊
@@ -50288,6 +50586,7 @@
 @list	HZL372
 @list	MZL862
 @list	SLLHA598b
+@list	SYA285
 @uname	CUNEIFORM NUMERIC SIGN SIX DISH
 @list	U+1240B
 @ucun	𒐋
