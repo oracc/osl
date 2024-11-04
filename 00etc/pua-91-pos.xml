@@ -22,7 +22,9 @@
       <sxw:page-o-signs
 	  format="list"
 	  codepoints="yes"
-	  ><xi:include href="sxw-pos-9.1.txt" parse="text"
+	  values="no"
+	  children="yes"
+	  ><xi:include href="sxw-pos-9.1.xml" parse="xml"
 	  /></sxw:page-o-signs>
 
     </body>
