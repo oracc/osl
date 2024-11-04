@@ -104,21 +104,8 @@
       <p>Some fonts are extremely inclusive and attempt to capture the
       entire history of cuneiform signs in a single font, some reflect
       only a single period or sub-corpus, and some fall somewhere in
-      between.  Oracc currently provides the following fonts:</p>
-
-      <dl>
-	<dt><esp:link page="ofs-noto">Oracc Noto</esp:link></dt>
-	<dd>An extremely inclusive font covering all of Unicode
-	cuneiform and more.</dd>
-	<dt><esp:link page="ofs-lak">Oracc LAK</esp:link></dt>
-	<dd>Oracc LAK, for an overview of Early Dynastic sign forms.</dd>
-	<dt><esp:link page="ofs-gudea">Oracc Gudea</esp:link></dt>
-	<dd>Oracc Gudea, for Gudea sign forms.</dd>
-	<dt><esp:link page="ofs-oobf">Oracc OBF</esp:link></dt>
-	<dd>Oracc OB-Freie, for Old Babylonian sign forms.</dd>
-	<dt><esp:link page="ofs-nao">Oracc NA Outline</esp:link></dt>
-	<dd>Oracc NA Outline, for Neo-Assyrian sign forms.</dd>
-      </dl>
+      between.  <esp:link page="fonts">See the fonts page for
+      information on each of the Oracc fonts.</esp:link>.</p>
       
     </body>
   </html>

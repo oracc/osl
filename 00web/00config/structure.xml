@@ -9,16 +9,21 @@
   <struct:page file="about.xml" id="about" type="page"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
   <struct:page file="sort.xml" id="sort" type="page"/>
-  <struct:page file="oracc-cuneiform-fonts.xml" id="fonts" type="page">
-    <struct:page file="oracc-pua.xml" id="oracc-pua" type="page"/>
+  <struct:page file="oracc-cuneiform-fonts.xml" id="o-c-fonts" type="page">
+    <struct:page file="oracc-pua.xml" id="oracc-pua" type="page">
+      <struct:link id="osl-pua-91" title="Oracc PUA 9.1" url="/osl/signlist/OraccPUA9.1" target="_top"/>
+      <struct:link id="osl-pua-92" title="Oracc PUA 9.2" url="/osl/signlist/OraccPUA9.2" target="_top"/>
+    </struct:page>
     <struct:page file="oracc-ivs.xml" id="oracc-ivs" type="page"/>
-    <struct:page file="fonts/ofs-noto.xml" id="ofs-noto" type="page"/>
-    <struct:page file="fonts/ofs-lak.xml" id="ofs-lak" type="page"/>
-    <struct:page file="fonts/ofs-gudea.xml" id="ofs-gudea" type="page"/>
-    <struct:page file="fonts/ofs-oobf.xml" id="ofs-oobf" type="page"/>
-    <struct:page file="fonts/ofs-nao.xml" id="ofs-nao" type="page"/>
     <struct:page file="osl-demo.xml" id="demo" type="page"/>
     <struct:page file="osl-graphetics.xml" id="osl-graphetics" type="page"/>
+    <struct:page file="fonts.xml" id="fonts" type="page">
+      <struct:page file="fonts/ofs-noto.xml" id="ofs-noto" type="page"/>
+      <struct:page file="fonts/ofs-lak.xml" id="ofs-lak" type="page"/>
+      <struct:page file="fonts/ofs-gudea.xml" id="ofs-gudea" type="page"/>
+      <struct:page file="fonts/ofs-oobf.xml" id="ofs-oobf" type="page"/>
+      <struct:page file="fonts/ofs-nao.xml" id="ofs-nao" type="page"/>
+    </struct:page>
   </struct:page>
   <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>
 </struct:page>

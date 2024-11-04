@@ -12,7 +12,7 @@ PUA is consolidated in the OSL project.</p>
 <p>The region from F0000-F0FFF is used for core Oracc additions; the
 region from F1000 are used for font-specific additions.</p>
 
-<esp:sh>Retention Policy</esp:sh>
+<esp:h>Retention Policy</esp:h>
 
 <p>Characters are added to the Oracc PUA from F0000-F0FFF are
 considered permanent and are never removed.  If a PUA character is
@@ -45,15 +45,19 @@ is being added to the Oracc PUA.</p>
 <p>ORACC-PUA-BLOCK is an indicator of groups of characters added to
 the Oracc PUA; by convention these are numbered 9.x.</p>
 
-<esp:ssh>Block 9.1</esp:ssh>
+<esp:sh>Block 9.1</esp:sh>
 
 <p>This block was created in September/October 2024 for number signs and
 variants that were not encoded at that point.</p>
 
-<esp:ssh>Block 9.2</esp:ssh>
+<p>The OSL/signlist <esp:link url="/osl/signlist/OraccPUA9.1/">has a PUA 9.1 page</esp:link>.</p>
+
+<esp:sh>Block 9.2</esp:sh>
 
 <p>This block was created in October 2024 for non-numerical signs and
 variants that were not encoded at that point.</p>
+
+<p>The OSL/signlist <esp:link url="/osl/signlist/OraccPUA9.2/">has a PUA 9.2 page</esp:link>.</p>
 
     </body>
   </html>
