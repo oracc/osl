@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml">
+  
+  <esp:name>Oracc NA Outline</esp:name>
+  <esp:title>Oracc NA Outline</esp:title>
+
+  <html>
+    <head/>
+    <body>
+
+      <esp:h>About</esp:h>
+
+      <p>Oracc NA Outline was created in 2008 for the Oracc Knowledge and Power.</p>
+      
+      <esp:h>Original Font</esp:h>
+
+      <p></p>
+
+      <esp:h>License</esp:h>
+
+      <p>Oracc NA Outline is licensed under the SIL Open Font License,
+      Version 1.1.</p>
+
+      <esp:h>Download</esp:h>
+
+      <p>All of the Oracc fonts are downloadable from the <esp:link
+      url="https://github.com/oracc/oracc2">Oracc II GitHub
+      repository.</esp:link></p>
+      
+      <dl>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-NA-Outline.ttf">Oracc-NA-Outline.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-NA-Outline.ttf">Oracc-NA-Outline.ttf</esp:link></dd>
+      </dl>
+      
+      <esp:h>CSS</esp:h>
+
+      <p>In Oracc projects the font is selected with the CSS class <code>ofs-nao</code>.</p>
+
+      <esp:h>Contents</esp:h>
+      
+      <!--NOTE: The last three closers must be on the same line-->
+</body></html></esp:page>

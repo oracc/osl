@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml"
+	  xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>Oracc Cuneiform Fonts</esp:name>
+  <esp:title>Oracc Cuneiform Fonts</esp:title>
+  <html>
+    <head/>
+    <body>
+      <esp:h>Introduction</esp:h>
+
+      <p>Oracc provides a number of cuneiform fonts which aim to
+      provide some degree of consistency and standardization in their
+      approach to character definition and use of font technology.
+      This is possible even when the Oracc fonts are versions of fonts
+      which were not originally intended for use on Oracc but which
+      have been generously licensed under terms which permit modifying
+      them in the ways required for alignment with Oracc font
+      approaches.</p>
+
+      <p>Oracc fonts are all based on Unicode, and make use of both
+      Unicode extension and adaptation mechanisms and OpenType font
+      features to ensure that the cuneiform is displayed as required
+      and intended without undermining data consistency.</p>
+
+      <esp:h>Unicode Features</esp:h>
+
+      <esp:sh>The Unicode Private Use Area (PUA)</esp:sh>
+
+      <p>Oracc uses the Unicode Plane 15 PUA from F0000-FFFFD as a
+      space to create signs pending possible encoding, and to maintain
+      variant forms of signs that do not merit separate encoding. All
+      management of the Oracc PUA is consolidated in the OSL project
+      and is further described on the <esp:link page="oracc-pua">Oracc
+      PUA page</esp:link>.</p>
+
+      <esp:sh>Unicode Ideographic Variation Sequences (IVS)</esp:sh>
+
+      <p>An IVS consists of a two parts: a sign and a variant
+      indicator.  Oracc uses IVS to support encoding structurally
+      distinct graphic variants of the same sign in such a way that
+      both the identity of the sign and the identity of the structural
+      variant are preserved.  For example, the DE₂ sign U+12423 can be
+      written in several different ways: |UMUM×KASKAL| (the reference
+      glyph in the Unicode Standard); UMUM@s; and |UMUM×PA|.  See the
+      <esp:link page="oracc-ivs">Oracc IVS page</esp:link> for further
+      details.</p>
+
+      <p>Oracc uses OpenType SALT and Character Variation features for
+      their other kinds of graphic variation as described below.</p>
+
+      <esp:h>OpenType Features</esp:h>
+
+      <esp:sh>Sylistic Sets (SSET)</esp:sh>
+      
+      <p>An OpenType font can have up to twenty Stylistic Sets,
+      indicated as ss01, ss02 .. ss20.  Oracc uses SSET for
+      collections of variations which correspond to usages typical of
+      a period, styles related to a medium, or general handwriting
+      styles.  For example, Oracc uses ss01 for early writing styles
+      which exhibit certain mergers that take place immediately after
+      the Fara period; ss02 for middle period mergers; ss03 for later
+      mergers and splits.  Sset ss04 is reserved for monumental
+      script--so an Neo-Babylonian font could have sign forms typical
+      of writing on stone in ss04, for example. Sset ss05 is reserved
+      for cursive style writing.</p>
+
+      <esp:sh>Character Variants (CVNN)</esp:sh>
+
+      <p>An OpenType font can have up to one hundred character
+      variants, indicated as cv01, cv02 .. cv99.  Oracc uses CVNN for
+      character variations which may be common to multiple fonts but
+      which are not structurally distinct.  One class of CVNN is
+      variant stacking patterns for numbers--consistent CVNN numbering
+      for patterns allows multiple fonts to render the same stacking
+      pattern by using the same CVNN suffix.</p>
+
+      <esp:sh>Stylistic Alternates (SALT)</esp:sh>
+
+      <p>Oracc uses SALT to support creating fonts which contain
+      examples of minor variations in form that may be specific to an
+      instance, a scribe, or a school--many sign lists that are
+      restricted to a particular period or corpus demonstrate several
+      variant forms of signs, and a font that emulates such a list can
+      use SALT to encode these variants.</p>
+
+      <esp:sh>Ligatures (LIGA)</esp:sh>
+
+      <p>There are several kinds of OpenType ligatures, but Oracc
+      consistently uses the LIGA feature ("Standard Ligatures") which
+      are automatically selected in a font when the components occur
+      in sequence.</p>
+
+      <p>Some ligatures are defined to work only when there is a
+      U+200D, Zero-Width Joiner (ZWJ) character between the
+      components.  For example, this allows the sequence diŋir-en to
+      be treated as two characters or a single ligatured character as
+      required (scribes sometimes mix their use on a single
+      tablet).</p>
+
+      <esp:h>Fonts</esp:h>
+
+      <p>Some fonts are extremely inclusive and attempt to capture the
+      entire history of cuneiform signs in a single font, some reflect
+      only a single period or sub-corpus, and some fall somewhere in
+      between.  Oracc currently provides the following fonts:</p>
+
+      <dl>
+	<dt><esp:link page="ofs-noto">Oracc Noto</esp:link></dt>
+	<dd>An extremely inclusive font covering all of Unicode
+	cuneiform and more.</dd>
+	<dt><esp:link page="ofs-lak">Oracc LAK</esp:link></dt>
+	<dd>Oracc LAK, for an overview of Early Dynastic sign forms.</dd>
+	<dt><esp:link page="ofs-gudea">Oracc Gudea</esp:link></dt>
+	<dd>Oracc Gudea, for Gudea sign forms.</dd>
+	<dt><esp:link page="ofs-oobf">Oracc OBF</esp:link></dt>
+	<dd>Oracc OB-Freie, for Old Babylonian sign forms.</dd>
+	<dt><esp:link page="ofs-nao">Oracc NA Outline</esp:link></dt>
+	<dd>Oracc NA Outline, for Neo-Assyrian sign forms.</dd>
+      </dl>
+      
+    </body>
+  </html>
+</esp:page>
+

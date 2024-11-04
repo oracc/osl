@@ -9,15 +9,15 @@
   <struct:page file="about.xml" id="about" type="page"/>
   <struct:page file="asl.xml" id="asl" type="page"/>
   <struct:page file="sort.xml" id="sort" type="page"/>
-  <struct:page file="pua.xml" id="pua" type="page"/>
-  <struct:page file="osl-font.xml" id="osl-font" type="page"/>
-  <struct:page file="osl-graphetics.xml" id="osl-graphetics" type="page"/>
-  <struct:page file="osl-demo.xml" id="osl-demo" type="page"/>
-  <struct:page file="fonts.xml" id="fonts" type="page">
+  <struct:page file="oracc-cuneiform-fonts.xml" id="fonts" type="page">
+    <struct:page file="oracc-pua.xml" id="pua" type="page"/>
+    <struct:page file="oracc-ivs.xml" id="ivs" type="page"/>
+    <struct:page file="fonts/ofs-noto.xml" id="ofs-noto" type="page"/>
     <struct:page file="fonts/ofs-lak.xml" id="ofs-lak" type="page"/>
     <struct:page file="fonts/ofs-gudea.xml" id="ofs-gudea" type="page"/>
     <struct:page file="fonts/ofs-oobf.xml" id="ofs-oobf" type="page"/>
+    <struct:page file="osl-demo.xml" id="demo" type="page"/>
+    <struct:page file="osl-graphetics.xml" id="osl-graphetics" type="page"/>
   </struct:page>
   <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>
-  <struct:page file="oiv.xml" id="oiv" type="page" hide-menu-link="yes"/>
 </struct:page>

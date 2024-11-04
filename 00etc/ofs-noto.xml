@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>Oracc Noto</esp:name>
+  <esp:title>Oracc Noto</esp:title>
+  <html>
+    <head/>
+    <body>
+
+      <esp:h>About</esp:h>
+
+      <p>OSL provides an OpenType font based on Cuneiform Noto which
+      covers all of the OSL sign repertoire, some of which are located
+      in the Unicode Private Use Area in plane 15 (U+F0000–U+FFFFD)
+      and supports sign-mergers and variants by using the OpenType
+      Stylistic Variation and SALT features, as well as ligatures
+      implemented using Unicode Ideographic Variation Selectors in the
+      range U+E0100 to U+E01EF.</p>
+
+      <esp:h>Original Font</esp:h>
+
+      <p>The original Google Noto Cuneiform is at <esp:link
+      url="https://fonts.google.com/noto/specimen/Noto+Sans+Cuneiform">https://fonts.google.com/noto/specimen/Noto+Sans+Cuneiform</esp:link>.</p>
+
+      <esp:h>License</esp:h>
+
+      <p>Oracc Noto is licensed under the SIL Open Font License,
+      Version 1.1, as is the original.</p>
+
+      <esp:h>Download</esp:h>
+
+      <p>All of the Oracc fonts are downloadable from the <esp:link
+      url="https://github.com/oracc/oracc2">Oracc II GitHub
+      repository.</esp:link></p>
+      
+      <dl>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-Noto-SansCuneiform.vcf">Oracc-Noto-SansCuneiform.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-Noto-SansCuneiform.ttf">Oracc-Noto-SansCuneiform.ttf</esp:link></dd>
+      </dl>
+      
+      <esp:h>CSS</esp:h>
+
+      <p>In Oracc projects the font is selected with the CSS class <code>ofs-noto</code>.</p>
+
+      <esp:h>Contents</esp:h>
+
+</body></html></esp:page>
