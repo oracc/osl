@@ -41,7 +41,7 @@
 	<xsl:if test="@salt"><xsl:text>salt </xsl:text><xsl:value-of select="@salt"/></xsl:if>
       </td>
       <td class="sub-cp"><xsl:value-of select="@cp"/></td>
-      <td class="sub-noto"><xsl:value-of select="@utf8"/></td>      
+      <td class="sub-noto"><span class="ofs-noto"><xsl:value-of select="@utf8"/></span></td>      
       <td class="sub-lak"><span class="ofs-lak{$salt}"><xsl:value-of select="@utf8"/></span></td>
       <td class="sub-svg"><img height="25px" src="{@svg}"/></td>
     </tr>
