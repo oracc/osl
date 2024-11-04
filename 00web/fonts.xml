@@ -8,11 +8,11 @@
       <p>Oracc supports several cuneiform fonts each of which has its own documentation page:</p>
 
       <dl>
-	<dt><esp:link url="/osl/Fonts/Oracc-LAK">Oracc-LAK</esp:link></dt>
+	<dt><esp:link page="ofs-lak">Oracc-LAK</esp:link></dt>
 	<dd>Oracc LAK, for an overview of Early Dynastic sign forms.</dd>
-	<dt><esp:link url="/osl/Fonts/Oracc-Gudea">Oracc-gudea</esp:link></dt>
+	<dt><esp:link page="ofs-gudea">Oracc-gudea</esp:link></dt>
 	<dd>Oracc Gudea, for Gudea sign forms.</dd>
-	<dt><esp:link url="/osl/Fonts/Oracc-OBF">Oracc-OBF</esp:link></dt>
+	<dt><esp:link page="ofs-oobf">Oracc-OBF</esp:link></dt>
 	<dd>Oracc OB-Freie, for Old Babylonian sign forms.</dd>
       </dl>
     </body>
