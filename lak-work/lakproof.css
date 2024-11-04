@@ -1,0 +1,18 @@
+table { width: 80%; margin: auto; border-collapse: collapse; }
+
+tr.entry { border-top: 2px solid black;
+	   border-bottom: 1px solid gray;
+	   margin-top: .5em;
+	   vertical-align: middle;
+	 }
+
+.ent-lak   { width: 100px; vertical-align: middle; }
+.ent-name  { width: 150px; vertical-align: middle; }
+.ent-items { vertical-align: top; }
+
+tr.sub~tr.sub	   { border-top: 1px solid lightgray; }
+
+.sub-salt { width: 40px; vertical-align: middle; }
+.sub-cp   { width: 80px; vertical-align: middle; font-size: 90%; }
+.sub-noto { width: 100px; vertical-align: middle; }
+.sub-lak  { width: 100px; vertical-align: middle; font-size: 150%; }

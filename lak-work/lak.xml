@@ -1,0 +1,2580 @@
+<lak>
+<entry l="LAK001" oid="o0000106" n="AŠ">
+<rows><row src="/osl/images/lak/rows/LAK001.png"/></rows><sub l="LAK001" cp="U+12038" utf8="𒀸" svg="/osl/images/lak/svg/LAK001.svg"/>
+</entry>
+<entry l="LAK002" oid="o0221914" n="AŠ@c">
+<rows><row src="/osl/images/lak/rows/LAK002.png"/></rows><sub l="LAK002" cp="U+12550" utf8="𒕐" svg="/osl/images/lak/svg/LAK002.svg"/>
+</entry>
+<entry l="LAK003" oid="o0000349" n="LAK3">
+<rows><row src="/osl/images/lak/rows/LAK003.png"/></rows><sub l="LAK003" cp="U+124D5" utf8="𒓕" svg="/osl/images/lak/svg/LAK003.svg"/>
+</entry>
+<entry l="LAK004" oid="o0000245" n="IDIM">
+<rows><row src="/osl/images/lak/rows/LAK004.png"/></rows><sub l="LAK004" cp="U+12142" utf8="𒅂" svg="/osl/images/lak/svg/LAK004,1.svg"/>
+<sub l="LAK004" salt="1" cp="U+12142.1" utf8="𒅂" svg="/osl/images/lak/svg/LAK004,2.svg"/></entry>
+<entry l="LAK005" oid="o0000236" n="HAL">
+<rows><row src="/osl/images/lak/rows/LAK005.png"/></rows><sub l="LAK005" cp="U+1212C" utf8="𒄬" svg="/osl/images/lak/svg/LAK005.svg"/>
+</entry>
+<entry l="LAK006" oid="o0000213" n="GIR₂">
+<rows><row src="/osl/images/lak/rows/LAK006.png"/></rows><sub l="LAK006" cp="U+12108" utf8="𒄈" svg="/osl/images/lak/svg/LAK006.svg"/>
+</entry>
+<entry l="LAK007" oid="o0000214" n="GIR₂@g">
+<rows><row src="/osl/images/lak/rows/LAK007.png"/></rows><sub l="LAK007" cp="U+12109" utf8="𒄉" svg="/osl/images/lak/svg/LAK007.svg"/>
+</entry>
+<entry l="LAK008" oid="o0000099" n="AN">
+<rows><row src="/osl/images/lak/rows/LAK008.png"/></rows><sub l="LAK008" cp="U+1202D" utf8="𒀭" svg="/osl/images/lak/svg/LAK008.svg"/>
+</entry>
+<entry l="LAK009" oid="o0000796" n="|AN&amp;AN|">
+<rows><row src="/osl/images/lak/rows/LAK009.png"/></rows><sub l="LAK009" cp="U+1202E" utf8="𒀮" svg="/osl/images/lak/svg/LAK009.svg"/>
+</entry>
+<entry l="LAK010" oid="o0000642" n="|3×AN|">
+<rows><row src="/osl/images/lak/rows/LAK010.png"/></rows><sub l="LAK010" cp="U+1202F" utf8="𒀯" svg="/osl/images/lak/svg/LAK010.svg"/>
+</entry>
+<entry l="LAK011" oid="o0000311" n="LAK11">
+<rows><row src="/osl/images/lak/rows/LAK011.png"/></rows><sub l="LAK011" cp="U+F1000" utf8="󱀀" svg="/osl/images/lak/svg/LAK011.svg"/>
+</entry>
+<entry l="LAK012" oid="o0000291" n="KUL">
+<rows><row src="/osl/images/lak/rows/LAK012.png"/></rows><sub l="LAK012" cp="U+121B0" utf8="𒆰" svg="/osl/images/lak/svg/LAK012.svg"/>
+</entry>
+<entry l="LAK013" oid="o0000313" n="LAK13">
+<rows><row src="/osl/images/lak/rows/LAK013.png"/></rows><sub l="LAK013" cp="U+F1001" utf8="󱀁" svg="/osl/images/lak/svg/LAK013.svg"/>
+</entry>
+<entry l="LAK014" oid="o0000457" n="MU">
+<rows><row src="/osl/images/lak/rows/LAK014.png"/></rows><sub l="LAK014" cp="U+1222C" utf8="𒈬" svg="/osl/images/lak/svg/LAK014.svg"/>
+</entry>
+<entry l="LAK015" oid="o0002016" n="|MU&amp;MU|">
+<rows><row src="/osl/images/lak/rows/LAK015.png"/></rows><sub l="LAK015" cp="U+1222D" utf8="𒈭" svg="/osl/images/lak/svg/LAK015.svg"/>
+</entry>
+<entry l="LAK016" oid="o0000114" n="BAD">
+<rows><row src="/osl/images/lak/rows/LAK016.png"/></rows><sub l="LAK016" cp="U+12041" utf8="𒁁" svg="/osl/images/lak/svg/LAK016.svg"/>
+</entry>
+<entry l="LAK017" oid="o0000555" n="TIL">
+<rows><row src="/osl/images/lak/rows/LAK017.png"/></rows><sub l="LAK017" cp="U+12300" utf8="𒌀" svg="/osl/images/lak/svg/LAK017.svg"/>
+</entry>
+<entry l="LAK018" oid="o0000553" n="TI">
+<rows><row src="/osl/images/lak/rows/LAK018.png"/></rows><sub l="LAK018" cp="U+122FE" utf8="𒋾" svg="/osl/images/lak/svg/LAK018.svg"/>
+</entry>
+<entry l="LAK019" oid="o0000118" n="BAL">
+<rows><row src="/osl/images/lak/rows/LAK019.png"/></rows><sub l="LAK019" cp="U+12044" utf8="𒁄" svg="/osl/images/lak/svg/LAK019.svg"/>
+</entry>
+<entry l="LAK020" oid="o0000321" n="LAK20">
+<rows><row src="/osl/images/lak/rows/LAK020.png"/></rows><sub l="LAK020" cp="U+F1002" utf8="󱀂" svg="/osl/images/lak/svg/LAK020.svg"/>
+</entry>
+<entry l="LAK021" oid="o0000322" n="LAK21">
+<rows><row src="/osl/images/lak/rows/LAK021.png"/></rows><sub l="LAK021" cp="U+124D6" utf8="𒓖" svg="/osl/images/lak/svg/LAK021.svg"/>
+</entry>
+<entry l="LAK022" oid="o0000469" n="NA">
+<rows><row src="/osl/images/lak/rows/LAK022.png"/></rows><sub l="LAK022" cp="U+1223E" utf8="𒈾" svg="/osl/images/lak/svg/LAK022.svg"/>
+</entry>
+<entry l="LAK023" oid="o0002840" n="ŠIR">
+<rows><row src="/osl/images/lak/rows/LAK023.png"/></rows><sub l="LAK023" cp="U+122D3" utf8="𒋓" svg="/osl/images/lak/svg/LAK023.svg"/>
+</entry>
+<entry l="LAK024" oid="o0000491" n="NU₁₁">
+<rows><row src="/osl/images/lak/rows/LAK024.png"/></rows><sub l="LAK024" cp="U+12262" utf8="𒉢" svg="/osl/images/lak/svg/LAK024.svg"/>
+</entry>
+<entry l="LAK025" oid="o0000338" n="LAK25">
+<rows><row src="/osl/images/lak/rows/LAK025.png"/></rows><sub l="LAK025" cp="U+124D7" utf8="𒓗" svg="/osl/images/lak/svg/LAK025.svg"/>
+</entry>
+<entry l="LAK026" oid="o0000293" n="KUN">
+<rows><row src="/osl/images/lak/rows/LAK026.png"/></rows><sub l="LAK026" cp="U+121B2" utf8="𒆲" svg="/osl/images/lak/svg/LAK026.svg"/>
+</entry>
+<entry l="LAK027" oid="o0000344" n="LAK27">
+<rows><row src="/osl/images/lak/rows/LAK027.png"/></rows><sub l="LAK027" cp="U+F1003" utf8="󱀃" svg="/osl/images/lak/svg/LAK027.svg"/>
+</entry>
+<entry l="LAK028" oid="o0000345" n="LAK28">
+<rows><row src="/osl/images/lak/rows/LAK028.png"/></rows><sub l="LAK028" cp="U+F1004" utf8="󱀄" svg="/osl/images/lak/svg/LAK028.svg"/>
+</entry>
+<entry l="LAK029" oid="o0000273" n="KAM₄">
+<rows><row src="/osl/images/lak/rows/LAK029.png"/></rows><sub l="LAK029" cp="U+1219B" utf8="𒆛" svg="/osl/images/lak/svg/LAK029.svg"/>
+</entry>
+<entry l="LAK030" oid="o0000350" n="LAK30">
+<rows><row src="/osl/images/lak/rows/LAK030.png"/></rows><sub l="LAK030" cp="U+124D8" utf8="𒓘" svg="/osl/images/lak/svg/LAK030.svg"/>
+</entry>
+<entry l="LAK031" oid="o0000581" n="URI₃">
+<rows><row src="/osl/images/lak/rows/LAK031.png"/></rows><sub l="LAK031" cp="U+12336" utf8="𒌶" svg="/osl/images/lak/svg/LAK031.svg"/>
+</entry>
+<entry l="LAK032" oid="o0002834" n="ŠEŠ">
+<rows><row src="/osl/images/lak/rows/LAK032.png"/></rows><sub l="LAK032" cp="U+122C0" utf8="𒋀" svg="/osl/images/lak/svg/LAK032.svg"/>
+</entry>
+<entry l="LAK033" oid="o0002740" n="|ŠEŠ.KI|">
+<rows><row src="/osl/images/lak/rows/LAK033.png"/></rows><sub l="LAK033" cp="x122C0.x121A0" utf8="𒋀𒆠" svg="/osl/images/lak/svg/LAK033.svg"/>
+</entry>
+<entry l="LAK034" oid="o0000444" n="MA">
+<rows><row src="/osl/images/lak/rows/LAK034.png"/></rows><sub l="LAK034" cp="U+12220" utf8="𒈠" svg="/osl/images/lak/svg/LAK034.svg"/>
+</entry>
+<entry l="LAK035" oid="o0000445" n="MA@g">
+<rows><row src="/osl/images/lak/rows/LAK035.png"/></rows><sub l="LAK035" cp="U+12222" utf8="𒈢" svg="/osl/images/lak/svg/LAK035.svg"/>
+</entry>
+<entry l="LAK036" oid="o0000487" n="NU">
+<rows><row src="/osl/images/lak/rows/LAK036.png"/></rows><sub l="LAK036" cp="U+12261" utf8="𒉡" svg="/osl/images/lak/svg/LAK036.svg"/>
+</entry>
+<entry l="LAK037" oid="o0000362" n="LAK37">
+<rows><row src="/osl/images/lak/rows/LAK037.png"/></rows><sub l="LAK037" cp="U+F1005" utf8="󱀅" svg="/osl/images/lak/svg/LAK037.svg"/>
+</entry>
+<entry l="LAK038" oid="o0000499" n="PAN">
+<rows><row src="/osl/images/lak/rows/LAK038.png"/></rows><sub l="LAK038" cp="U+1227C" utf8="𒉼" svg="/osl/images/lak/svg/LAK038.svg"/>
+</entry>
+<entry l="LAK039" oid="o0002848" n="ŠUBUR">
+<rows><row src="/osl/images/lak/rows/LAK039.png"/></rows><sub l="LAK039" cp="U+122DA" utf8="𒋚" svg="/osl/images/lak/svg/LAK039.svg"/>
+</entry>
+<entry l="LAK040" oid="o0000158" n="DUN">
+<rows><row src="/osl/images/lak/rows/LAK040.png"/></rows><sub l="LAK040" cp="U+12084" utf8="𒂄" svg="/osl/images/lak/svg/LAK040.svg"/>
+</entry>
+<entry l="LAK041" oid="o0000119" n="BALAG">
+<rows><row src="/osl/images/lak/rows/LAK041.png"/></rows><sub l="LAK041" cp="U+12046" utf8="𒁆" svg="/osl/images/lak/svg/LAK041.svg"/>
+</entry>
+<entry l="LAK042" oid="o0000449" n="MAŠ">
+<rows><row src="/osl/images/lak/rows/LAK042.png"/></rows><sub l="LAK042" cp="U+12226" utf8="𒈦" svg="/osl/images/lak/svg/LAK042,1.svg"/>
+<sub l="LAK042" salt="1" cp="U+12226.1" utf8="𒈦" svg="/osl/images/lak/svg/LAK042,2.svg"/></entry>
+<entry l="LAK043" oid="o0000451" n="MAŠ₂">
+<rows><row src="/osl/images/lak/rows/LAK043.png"/></rows><sub l="LAK043" cp="U+12227" utf8="𒈧" svg="/osl/images/lak/svg/LAK043.svg"/>
+</entry>
+<entry l="LAK044" oid="o0027568" n="MAŠ₂@g">
+<rows><row src="/osl/images/lak/rows/LAK044.png"/></rows><sub l="LAK044" cp="U+F1006" utf8="󱀆" svg="/osl/images/lak/svg/LAK044.svg"/>
+</entry>
+<entry l="LAK045" oid="o0000897" n="|BAD×DIŠ@t|">
+<rows><row src="/osl/images/lak/rows/LAK045.png"/></rows><sub l="LAK045" cp="U+12483" utf8="𒒃" svg="/osl/images/lak/svg/LAK045.svg"/>
+</entry>
+<entry l="LAK046" oid="o0000193" n="GAD">
+<rows><row src="/osl/images/lak/rows/LAK046.png"/></rows><sub l="LAK046" cp="U+F1008" utf8="󱀈" svg="/osl/images/lak/svg/LAK046,1.svg"/>
+<sub l="LAK046" cp="U+120F0" utf8="𒃰" svg="/osl/images/lak/svg/LAK046,2.svg"/>
+<sub l="LAK046" salt="1" cp="U+120F0.1" utf8="𒃰" svg="/osl/images/lak/svg/LAK046,3.svg"/><sub l="LAK046" salt="2" cp="U+120F0.2" utf8="𒃰" svg="/osl/images/lak/svg/LAK046,4.svg"/></entry>
+<entry l="LAK046a" oid="o0025810" n="LAK046a">
+<rows><row src="/osl/images/lak/rows/LAK046a.png"/></rows><sub l="LAK046a" salt="1" cp="U+F1008.1" utf8="󱀈" svg="/osl/images/lak/svg/LAK046a.svg"/></entry>
+<entry l="LAK047" oid="o0000539" n="SUR">
+<rows><row src="/osl/images/lak/rows/LAK047.png"/></rows><sub l="LAK047" cp="U+122E9" utf8="𒋩" svg="/osl/images/lak/svg/LAK047.svg"/>
+</entry>
+<entry l="LAK048" oid="o0000458" n="MUG">
+<rows><row src="/osl/images/lak/rows/LAK048.png"/></rows><sub l="LAK048" cp="U+1222E" utf8="𒈮" svg="/osl/images/lak/svg/LAK048.svg"/>
+</entry>
+<entry l="LAK049" oid="o0023005" n="|SAL×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK049.png"/></rows><sub l="LAK049" cp="U+F1009" utf8="󱀉" svg="/osl/images/lak/svg/LAK049.svg"/>
+</entry>
+<entry l="LAK050" oid="o0000390" n="LAK50">
+<rows><row src="/osl/images/lak/rows/LAK050.png"/></rows><sub l="LAK050" cp="U+124D9" utf8="𒓙" svg="/osl/images/lak/svg/LAK050.svg"/>
+</entry>
+<entry l="LAK051" oid="o0031506" n="LAK051">
+<rows><row src="/osl/images/lak/rows/LAK051.png"/></rows><sub l="LAK051" cp="U+124DA" utf8="𒓚" svg="/osl/images/lak/svg/LAK051.svg"/>
+</entry>
+<entry l="LAK052" oid="o0000131" n="BUR₂">
+<rows><row src="/osl/images/lak/rows/LAK052.png"/></rows><sub l="LAK052" cp="U+12054" utf8="𒁔" svg="/osl/images/lak/svg/LAK052.svg"/>
+</entry>
+<entry l="LAK053" oid="o0000141" n="DIM">
+<rows><row src="/osl/images/lak/rows/LAK053.png"/></rows><sub l="LAK053" cp="U+12074" utf8="𒁴" svg="/osl/images/lak/svg/LAK053.svg"/>
+</entry>
+<entry l="LAK054" oid="o0000976" n="|DIM×IGI|">
+<rows><row src="/osl/images/lak/rows/LAK054.png"/></rows><sub l="LAK054" cp="U+1248A" utf8="𒒊" svg="/osl/images/lak/svg/LAK054.svg"/>
+</entry>
+<entry l="LAK055" oid="o0000978" n="|DIM×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK055.png"/></rows><sub l="LAK055" cp="U+12075" utf8="𒁵" svg="/osl/images/lak/svg/LAK055.svg"/>
+</entry>
+<entry l="LAK056" oid="o0000142" n="DIM@g">
+<rows><row src="/osl/images/lak/rows/LAK056.png"/></rows><sub l="LAK056" cp="U+F100A" utf8="󱀊" svg="/osl/images/lak/svg/LAK056.svg"/>
+</entry>
+<entry l="LAK057" oid="o0000446" n="MAH">
+<rows><row src="/osl/images/lak/rows/LAK057.png"/></rows><sub l="LAK057" cp="U+12224" utf8="𒈤" svg="/osl/images/lak/svg/LAK057.svg"/>
+</entry>
+<entry l="LAK058" oid="o0000595" n="UŠ">
+<rows><row src="/osl/images/lak/rows/LAK058.png"/></rows><sub l="LAK058" cp="U+12351" utf8="𒍑" svg="/osl/images/lak/svg/LAK058.svg"/>
+</entry>
+<entry l="LAK059" oid="o0000843" n="|ARAD×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK059.png"/></rows><sub l="LAK059" cp="U+12035" utf8="𒀵" svg="/osl/images/lak/svg/LAK059,1.svg"/>
+<sub l="LAK059" salt="1" cp="U+12035.1" utf8="𒀵" svg="/osl/images/lak/svg/LAK059,2.svg"/></entry>
+<entry l="LAK060" oid="o0002617" n="|UŠ×TAK₄|">
+<rows><row src="/osl/images/lak/rows/LAK060.png"/></rows><sub l="LAK060" cp="U+12355" utf8="𒍕" svg="/osl/images/lak/svg/LAK060.svg"/>
+</entry>
+<entry l="LAK061" oid="o0025727" n="LAK061">
+<rows><row src="/osl/images/lak/rows/LAK061.png"/></rows><sub l="LAK061" cp="U+F100B" utf8="󱀋" svg="/osl/images/lak/svg/LAK061.svg"/>
+</entry>
+<entry l="LAK062" oid="o0018530" n="|AŠ.GAN|">
+<rows><row src="/osl/images/lak/rows/LAK062.png"/></rows><sub l="LAK062" cp="U+124DB" utf8="𒓛" svg="/osl/images/lak/svg/LAK062.svg"/>
+</entry>
+<entry l="LAK063" oid="o0001425" n="|GU₂.GAR₃|">
+<rows><row src="/osl/images/lak/rows/LAK063.png"/></rows><sub l="LAK063" cp="x12118.x120FC" utf8="𒄘𒃼" svg="/osl/images/lak/svg/LAK063.svg"/>
+</entry>
+<entry l="LAK064" oid="o0000239" n="HU">
+<rows><row src="/osl/images/lak/rows/LAK064.png"/></rows><sub l="LAK064" cp="U+12137" utf8="𒄷" svg="/osl/images/lak/svg/LAK064.svg"/>
+</entry>
+<entry l="LAK065" oid="o0001466" n="|HU.HI|">
+<rows><row src="/osl/images/lak/rows/LAK065.png"/></rows><sub l="LAK065" cp="x12137.x1212D" utf8="𒄷𒄭" svg="/osl/images/lak/svg/LAK065.svg"/>
+</entry>
+<entry l="LAK066" oid="o0001470" n="|HU.SI|">
+<rows><row src="/osl/images/lak/rows/LAK066.png"/></rows><sub l="LAK066" cp="x12137.x122DB" utf8="𒄷𒋛" svg="/osl/images/lak/svg/LAK066.svg"/>
+</entry>
+<entry l="LAK067" oid="" n="Sequence u₅-a.">
+<rows><row src="/osl/images/lak/rows/LAK067.png"/></rows><sub l="LAK067" cp="U+F2000" utf8="󲀀" svg="/osl/images/lak/svg/LAK067.svg"/>
+</entry>
+<entry l="LAK068" oid="o0001469" n="|HU.NA₂|">
+<rows><row src="/osl/images/lak/rows/LAK068.png"/></rows><sub l="LAK068" cp="x12137.x1223F" utf8="𒄷𒈿" svg="/osl/images/lak/svg/LAK068.svg"/>
+</entry>
+<entry l="LAK069" oid="o0027540" n="HU@g">
+<rows><row src="/osl/images/lak/rows/LAK069.png"/></rows><sub l="LAK069" cp="U+F100C" utf8="󱀌" svg="/osl/images/lak/svg/LAK069.svg"/>
+</entry>
+<entry l="LAK070" oid="o0002714" n="|ŠE.HU|">
+<rows><row src="/osl/images/lak/rows/LAK070.png"/></rows><sub l="LAK070" cp="U+122BB" utf8="𒊻" svg="/osl/images/lak/svg/LAK070.svg"/>
+</entry>
+<entry l="LAK071" oid="o0000474" n="NAM">
+<rows><row src="/osl/images/lak/rows/LAK071.png"/></rows><sub l="LAK071" cp="U+12246" utf8="𒉆" svg="/osl/images/lak/svg/LAK071.svg"/>
+</entry>
+<entry l="LAK072" oid="o0000130" n="BURU₅">
+<rows><row src="/osl/images/lak/rows/LAK072.png"/></rows><sub l="LAK072" cp="U+12245" utf8="𒉅" svg="/osl/images/lak/svg/LAK072.svg"/>
+<sub l="LAK072" salt="1" cp="U+12245.1" utf8="𒉅" svg="/osl/images/lak/svg/LAK072,1.svg"/><sub l="LAK072" cp="U+F100D" utf8="󱀍" svg="/osl/images/lak/svg/LAK072,2.svg"/>
+</entry>
+<entry l="LAK073" oid="o0027589" n="|AŠ×AŠ@t|">
+<rows><row src="/osl/images/lak/rows/LAK073.png"/></rows><sub l="LAK073" cp="U+F100E" utf8="󱀎" svg="/osl/images/lak/svg/LAK073,1.svg"/>
+<sub l="LAK073" salt="1" cp="U+F100E.1" utf8="󱀎" svg="/osl/images/lak/svg/LAK073,2.svg"/><sub l="LAK073" salt="2" cp="U+F100E.2" utf8="󱀎" svg="/osl/images/lak/svg/LAK073,3.svg"/></entry>
+<entry l="LAK074" oid="o0000534" n="SUD₂">
+<rows><row src="/osl/images/lak/rows/LAK074.png"/></rows><sub l="LAK074" cp="U+122E5" utf8="𒋥" svg="/osl/images/lak/svg/LAK074.svg"/>
+</entry>
+<entry l="LAK075" oid="o0000514" n="RI">
+<rows><row src="/osl/images/lak/rows/LAK075.png"/></rows><sub l="LAK075" cp="U+12291" utf8="𒊑" svg="/osl/images/lak/svg/LAK075.svg"/>
+</entry>
+<entry l="LAK076" oid="o0000488" n="NUN">
+<rows><row src="/osl/images/lak/rows/LAK076.png"/></rows><sub l="LAK076" cp="U+12263" utf8="𒉣" svg="/osl/images/lak/svg/LAK076,1.svg"/>
+<sub l="LAK076" salt="1" cp="U+12263.1" utf8="𒉣" svg="/osl/images/lak/svg/LAK076,2.svg"/></entry>
+<entry l="LAK077" oid="o0021460" n="LAK077">
+<rows><row src="/osl/images/lak/rows/LAK077.png"/></rows><sub l="LAK077" cp="U+F100F" utf8="󱀏" svg="/osl/images/lak/svg/LAK077.svg"/>
+</entry>
+<entry l="LAK078" oid="o0002125" n="|NUN.LAGAR|">
+<rows><row src="/osl/images/lak/rows/LAK078.png"/></rows><sub l="LAK078" cp="x12263.x121EC" utf8="𒉣𒇬" svg="/osl/images/lak/svg/LAK078.svg"/>
+</entry>
+<entry l="LAK079" oid="o0025793" n="LAK079">
+<rows><row src="/osl/images/lak/rows/LAK079.png"/></rows><sub l="LAK079" cp="U+F1010" utf8="󱀐" svg="/osl/images/lak/svg/LAK079.svg"/>
+</entry>
+<entry l="LAK080" oid="o0000418" n="LAK80">
+<rows><row src="/osl/images/lak/rows/LAK080.png"/></rows><sub l="LAK080" cp="U+124DD" utf8="𒓝" svg="/osl/images/lak/svg/LAK080.svg"/>
+</entry>
+<entry l="LAK081" oid="o0027563" n="LAK81">
+<rows><row src="/osl/images/lak/rows/LAK081.png"/></rows><sub l="LAK081" cp="U+F1011" utf8="󱀑" svg="/osl/images/lak/svg/LAK081.svg"/>
+</entry>
+<entry l="LAK082" oid="o0000246" n="IG">
+<rows><row src="/osl/images/lak/rows/LAK082.png"/></rows><sub l="LAK082" cp="U+12145" utf8="𒅅" svg="/osl/images/lak/svg/LAK082.svg"/>
+</entry>
+<entry l="LAK083" oid="o0000525" n="SI">
+<rows><row src="/osl/images/lak/rows/LAK083.png"/></rows><sub l="LAK083" cp="U+122DB" utf8="𒋛" svg="/osl/images/lak/svg/LAK083.svg"/>
+</entry>
+<entry l="LAK084" oid="o0002337" n="|SI.A|">
+<rows><row src="/osl/images/lak/rows/LAK084.png"/></rows><sub l="LAK084" cp="x122DB.x12000" utf8="𒋛𒀀" svg="/osl/images/lak/svg/LAK084.svg"/>
+</entry>
+<entry l="LAK085" oid="o0002365" n="|SI×TAK₄|">
+<rows><row src="/osl/images/lak/rows/LAK085.png"/></rows><sub l="LAK085" cp="U+12538" utf8="𒔸" svg="/osl/images/lak/svg/LAK085.svg"/>
+</entry>
+<entry l="LAK086" oid="o0000526" n="SI@g">
+<rows><row src="/osl/images/lak/rows/LAK086.png"/></rows><sub l="LAK086" cp="U+122DC" utf8="𒋜" svg="/osl/images/lak/svg/LAK086,1.svg"/>
+<sub l="LAK086" salt="1" cp="U+122DC.1" utf8="𒋜" svg="/osl/images/lak/svg/LAK086,2.svg"/></entry>
+<entry l="LAK087" oid="o0000093" n="AK">
+<rows><row src="/osl/images/lak/rows/LAK087.png"/></rows><sub l="LAK087" cp="U+1201D" utf8="𒀝" svg="/osl/images/lak/svg/LAK087.svg"/>
+</entry>
+<entry l="LAK088" oid="o0000226" n="GUR">
+<rows><row src="/osl/images/lak/rows/LAK088.png"/></rows><sub l="LAK088" cp="U+12125" utf8="𒄥" svg="/osl/images/lak/svg/LAK088.svg"/>
+</entry>
+<entry l="LAK089" oid="o0000199" n="GAN₂">
+<rows><row src="/osl/images/lak/rows/LAK089a.png"/><row src="/osl/images/lak/rows/LAK089b.png"/><row src="/osl/images/lak/rows/LAK089c.png"/><row src="/osl/images/lak/rows/LAK089d.png"/><row src="/osl/images/lak/rows/LAK089e.png"/><row src="/osl/images/lak/rows/LAK089f.png"/></rows><sub l="LAK089" cp="U+120F7" utf8="𒃷" svg="/osl/images/lak/svg/LAK089.svg"/>
+</entry>
+<entry l="LAK090" oid="o0000544" n="TAB">
+<rows><row src="/osl/images/lak/rows/LAK090.png"/></rows><sub l="LAK090" cp="U+122F0" utf8="𒋰" svg="/osl/images/lak/svg/LAK090.svg"/>
+</entry>
+<entry l="LAK091" oid="o0000034" n="4(AŠ)">
+<rows><row src="/osl/images/lak/rows/LAK091.png"/></rows><sub l="LAK091" cp="U+12402" utf8="𒐂" svg="/osl/images/lak/svg/LAK091.svg"/>
+</entry>
+<entry l="LAK092" oid="o0000421" n="LAK92">
+<rows><row src="/osl/images/lak/rows/LAK092.png"/></rows><sub l="LAK092" cp="U+124DF" utf8="𒓟" svg="/osl/images/lak/svg/LAK092.svg"/>
+</entry>
+<entry l="LAK093" oid="o0000310" n="LAK093">
+<rows><row src="/osl/images/lak/rows/LAK093.png"/></rows><sub l="LAK093" cp="U+F1012" utf8="󱀒" svg="/osl/images/lak/svg/LAK093.svg"/>
+</entry>
+<entry l="LAK094" oid="o0000426" n="LIL">
+<rows><row src="/osl/images/lak/rows/LAK094.png"/></rows><sub l="LAK094" cp="U+121F8" utf8="𒇸" svg="/osl/images/lak/svg/LAK094.svg"/>
+</entry>
+<entry l="LAK095" oid="o0000483" n="NINDA₂">
+<rows><row src="/osl/images/lak/rows/LAK095.png"/></rows><sub l="LAK095" cp="U+12252" utf8="𒉒" svg="/osl/images/lak/svg/LAK095.svg"/>
+</entry>
+<entry l="LAK096" oid="o0002110" n="|NINDA₂×KUL|">
+<rows><row src="/osl/images/lak/rows/LAK096.png"/></rows><sub l="LAK096" cp="U+F1013" utf8="󱀓" svg="/osl/images/lak/svg/LAK096.svg"/>
+</entry>
+<entry l="LAK097" oid="o0002098" n="|NINDA₂×DIM@g|">
+<rows><row src="/osl/images/lak/rows/LAK097.png"/></rows><sub l="LAK097" cp="U+12522" utf8="𒔢" svg="/osl/images/lak/svg/LAK097.svg"/>
+</entry>
+<entry l="LAK098" oid="o0002106" n="|NINDA₂×LAK50|">
+<rows><row src="/osl/images/lak/rows/LAK098.png"/></rows><sub l="LAK098" cp="U+12527" utf8="𒔧" svg="/osl/images/lak/svg/LAK098.svg"/>
+</entry>
+<entry l="LAK099" oid="o0028039" n="|NINDA₂×AŠ@c|">
+<rows><row src="/osl/images/lak/rows/LAK099.png"/></rows><sub l="LAK099" cp="U+F1014" utf8="󱀔" svg="/osl/images/lak/svg/LAK099.svg"/>
+</entry>
+<entry l="LAK100" oid="o0027636" n="|NINDA₂×3(AŠ@c)|">
+<rows><row src="/osl/images/lak/rows/LAK100.png"/></rows><sub l="LAK100" cp="U+F1015" utf8="󱀕" svg="/osl/images/lak/svg/LAK100.svg"/>
+</entry>
+<entry l="LAK101" oid="o0027634" n="|NINDA₂×NIGIDAMIN@c|">
+<rows><row src="/osl/images/lak/rows/LAK101.png"/></rows><sub l="LAK101" cp="U+F1016" utf8="󱀖" svg="/osl/images/lak/svg/LAK101.svg"/>
+</entry>
+<entry l="LAK102" oid="o0028041" n="|NINDA₂×U@c|">
+<rows><row src="/osl/images/lak/rows/LAK102.png"/></rows><sub l="LAK102" cp="U+F1017" utf8="󱀗" svg="/osl/images/lak/svg/LAK102.svg"/>
+</entry>
+<entry l="LAK103" oid="o0027882" n="|NINDA₂×(U@c.U@c)|">
+<rows><row src="/osl/images/lak/rows/LAK103.png"/></rows><sub l="LAK103" cp="U+F1018" utf8="󱀘" svg="/osl/images/lak/svg/LAK103.svg"/>
+</entry>
+<entry l="LAK104" oid="o0002102" n="|NINDA₂×GUD|">
+<rows><row src="/osl/images/lak/rows/LAK104.png"/></rows><sub l="LAK104" cp="U+12256" utf8="𒉖" svg="/osl/images/lak/svg/LAK104.svg"/>
+</entry>
+<entry l="LAK105" oid="o0002118" n="|NINDA₂×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK105.png"/></rows><sub l="LAK105" cp="U+1225A" utf8="𒉚" svg="/osl/images/lak/svg/LAK105.svg"/>
+</entry>
+<entry l="LAK106" oid="o0223482" n="|NINDA₂×(ŠE.AŠ@c)|">
+<rows><row src="/osl/images/lak/rows/LAK106.png"/></rows><sub l="LAK106" cp="U+12598" utf8="𒖘" svg="/osl/images/lak/svg/LAK106.svg"/>
+</entry>
+<entry l="LAK107" oid="o0223483" n="|NINDA₂×(ŠE.AŠ@c.AŠ@c)|">
+<rows><row src="/osl/images/lak/rows/LAK107.png"/></rows><sub l="LAK107" cp="U+12599" utf8="𒖙" svg="/osl/images/lak/svg/LAK107.svg"/>
+</entry>
+<entry l="LAK108" oid="o0002118" n="|NINDA₂×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK108.png"/></rows><sub l="LAK108" salt="1" cp="U+1225A.1" utf8="𒉚" svg="/osl/images/lak/svg/LAK108.svg"/></entry>
+<entry l="LAK109" oid="o0002109" n="|NINDA₂×NE|">
+<rows><row src="/osl/images/lak/rows/LAK109.png"/></rows><sub l="LAK109" cp="U+12258" utf8="𒉘" svg="/osl/images/lak/svg/LAK109.svg"/>
+</entry>
+<entry l="LAK110" oid="o0002107" n="|NINDA₂×MAŠ|">
+<rows><row src="/osl/images/lak/rows/LAK110.png"/></rows><sub l="LAK110" cp="U+12528" utf8="𒔨" svg="/osl/images/lak/svg/LAK110.svg"/>
+</entry>
+<entry l="LAK111" oid="o0002112" n="|NINDA₂×URUDA|">
+<rows><row src="/osl/images/lak/rows/LAK111.png"/></rows><sub l="LAK111" cp="U+1252C" utf8="𒔬" svg="/osl/images/lak/svg/LAK111.svg"/>
+</entry>
+<entry l="LAK112" oid="o0002103" n="|NINDA₂×GUL|">
+<rows><row src="/osl/images/lak/rows/LAK112.png"/></rows><sub l="LAK112" cp="U+12524" utf8="𒔤" svg="/osl/images/lak/svg/LAK112.svg"/>
+</entry>
+<entry l="LAK113" oid="o0002086" n="|NINDA₂×(PAP.PAP)|">
+<rows><row src="/osl/images/lak/rows/LAK113.png"/></rows><sub l="LAK113" cp="U+12529" utf8="𒔩" svg="/osl/images/lak/svg/LAK113.svg"/>
+</entry>
+<entry l="LAK114" oid="o0002104" n="|NINDA₂×HI|">
+<rows><row src="/osl/images/lak/rows/LAK114.png"/></rows><sub l="LAK114" cp="U+12525" utf8="𒔥" svg="/osl/images/lak/svg/LAK114.svg"/>
+</entry>
+<entry l="LAK115" oid="o0002105" n="|NINDA₂×KEŠ₂|">
+<rows><row src="/osl/images/lak/rows/LAK115.png"/></rows><sub l="LAK115" cp="U+12526" utf8="𒔦" svg="/osl/images/lak/svg/LAK115.svg"/>
+</entry>
+<entry l="LAK116" oid="o0002101" n="|NINDA₂×GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK116.png"/></rows><sub l="LAK116" cp="U+12523" utf8="𒔣" svg="/osl/images/lak/svg/LAK116.svg"/>
+</entry>
+<entry l="LAK117" oid="o0000618" n="ZU₅">
+<rows><row src="/osl/images/lak/rows/LAK117.png"/></rows><sub l="LAK117" cp="U+1236B" utf8="𒍫" svg="/osl/images/lak/svg/LAK117.svg"/>
+</entry>
+<entry l="LAK118" oid="o0002679" n="|ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)|">
+<rows><row src="/osl/images/lak/rows/LAK118.png"/></rows><sub l="LAK118" cp="U+12543" utf8="𒕃" svg="/osl/images/lak/svg/LAK118.svg"/>
+</entry>
+<entry l="LAK119" oid="o0000190" n="GABA">
+<rows><row src="/osl/images/lak/rows/LAK119a.png"/><row src="/osl/images/lak/rows/LAK119b.png"/></rows><sub l="LAK119" cp="U+120EE" utf8="𒃮" svg="/osl/images/lak/svg/LAK119,1.svg"/>
+<sub l="LAK119" salt="1" cp="U+120EE.1" utf8="𒃮" svg="/osl/images/lak/svg/LAK119,2.svg"/><sub l="LAK119" salt="2" cp="U+120EE.2" utf8="𒃮" svg="/osl/images/lak/svg/LAK119,3.svg"/></entry>
+<entry l="LAK120" oid="o0000312" n="LAK120">
+<rows><row src="/osl/images/lak/rows/LAK120.png"/></rows><sub l="LAK120" cp="U+F1019" utf8="󱀙" svg="/osl/images/lak/svg/LAK120.svg"/>
+</entry>
+<entry l="LAK121" oid="o0000497" n="PA">
+<rows><row src="/osl/images/lak/rows/LAK121.png"/></rows><sub l="LAK121" cp="U+1227A" utf8="𒉺" svg="/osl/images/lak/svg/LAK121,1.svg"/>
+<sub l="LAK121" salt="1" cp="U+1227A.1" utf8="𒉺" svg="/osl/images/lak/svg/LAK121,2.svg"/><sub l="LAK121" salt="2" cp="U+1227A.2" utf8="𒉺" svg="/osl/images/lak/svg/LAK121,3.svg"/></entry>
+<entry l="LAK122" oid="o0002123" n="|NUN&amp;NUN|">
+<rows><row src="/osl/images/lak/rows/LAK122.png"/></rows><sub l="LAK122" cp="U+1226A" utf8="𒉪" svg="/osl/images/lak/svg/LAK122.svg"/>
+</entry>
+<entry l="LAK123" oid="o0000222" n="GUD">
+<rows><row src="/osl/images/lak/rows/LAK123.png"/></rows><sub l="LAK123" cp="U+1211E" utf8="𒄞" svg="/osl/images/lak/svg/LAK123.svg"/>
+</entry>
+<entry l="LAK124" oid="o0001422" n="|GUD×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK124.png"/></rows><sub l="LAK124" cp="U+12120" utf8="𒄠" svg="/osl/images/lak/svg/LAK124,1.svg"/>
+<sub l="LAK124" salt="1" cp="U+12120.1" utf8="𒄠" svg="/osl/images/lak/svg/LAK124,2.svg"/></entry>
+<entry l="LAK125" oid="o0000580" n="URI@n">
+<rows><row src="/osl/images/lak/rows/LAK125.png"/></rows><sub l="LAK125" cp="U+F101A" utf8="󱀚" svg="/osl/images/lak/svg/LAK125.svg"/>
+</entry>
+<entry l="LAK126" oid="o0000448" n="MAR">
+<rows><row src="/osl/images/lak/rows/LAK126.png"/></rows><sub l="LAK126" cp="U+12225" utf8="𒈥" svg="/osl/images/lak/svg/LAK126.svg"/>
+</entry>
+<entry l="LAK127" oid="o0000454" n="MES">
+<rows><row src="/osl/images/lak/rows/LAK127.png"/></rows><sub l="LAK127" cp="U+12229" utf8="𒈩" svg="/osl/images/lak/svg/LAK127.svg"/>
+</entry>
+<entry l="LAK128" oid="o0000102" n="APIN">
+<rows><row src="/osl/images/lak/rows/LAK128.png"/></rows><sub l="LAK128" cp="U+12033" utf8="𒀳" svg="/osl/images/lak/svg/LAK128.svg"/>
+</entry>
+<entry l="LAK129" oid="o0002193" n="|PA.IB|">
+<rows><row src="/osl/images/lak/rows/LAK129.png"/></rows><sub l="LAK129" cp="x1227A.x12141" utf8="𒉺𒅁" svg="/osl/images/lak/svg/LAK129.svg"/>
+</entry>
+<entry l="LAK130" oid="o0000314" n="LAK130">
+<rows><row src="/osl/images/lak/rows/LAK130.png"/></rows><sub l="LAK130" cp="U+124E0" utf8="𒓠" svg="/osl/images/lak/svg/LAK130.svg"/>
+</entry>
+<entry l="LAK131" oid="o0018859" n="|BAR×TAB|">
+<rows><row src="/osl/images/lak/rows/LAK131.png"/></rows><sub l="LAK131" cp="U+F101B" utf8="󱀛" svg="/osl/images/lak/svg/LAK131.svg"/>
+</entry>
+<entry l="LAK132" oid="o0000315" n="LAK132">
+<rows><row src="/osl/images/lak/rows/LAK132.png"/></rows><sub l="LAK132" cp="U+F101C" utf8="󱀜" svg="/osl/images/lak/svg/LAK132.svg"/>
+</entry>
+<entry l="LAK133" oid="o0000859" n="|AŠ&amp;AŠ&amp;AŠ|">
+<rows><row src="/osl/images/lak/rows/LAK133.png"/></rows><sub l="LAK133" cp="U+1203C" utf8="𒀼" svg="/osl/images/lak/svg/LAK133.svg"/>
+</entry>
+<entry l="LAK134" oid="o0000061" n="6(AŠ~a)">
+<rows><row src="/osl/images/lak/rows/LAK134.png"/></rows><sub l="LAK134" cp="U+12440" utf8="𒑀" svg="/osl/images/lak/svg/LAK134.svg"/>
+</entry>
+<entry l="LAK135" oid="o0000242" n="I">
+<rows><row src="/osl/images/lak/rows/LAK135.png"/></rows><sub l="LAK135" cp="U+1213F" utf8="𒄿" svg="/osl/images/lak/svg/LAK135.svg"/>
+</entry>
+<entry l="LAK136" oid="o0000166" n="E">
+<rows><row src="/osl/images/lak/rows/LAK136.png"/></rows><sub l="LAK136" cp="U+1208A" utf8="𒂊" svg="/osl/images/lak/svg/LAK136.svg"/>
+</entry>
+<entry l="LAK137" oid="o0001123" n="|E×PAP|">
+<rows><row src="/osl/images/lak/rows/LAK137.png"/></rows><sub l="LAK137" cp="U+1208B" utf8="𒂋" svg="/osl/images/lak/svg/LAK137.svg"/>
+</entry>
+<entry l="LAK138" oid="o0000095" n="ALAN">
+<rows><row src="/osl/images/lak/rows/LAK138.png"/></rows><sub l="LAK138" cp="U+12029" utf8="𒀩" svg="/osl/images/lak/svg/LAK138.svg"/>
+</entry>
+<entry l="LAK139" oid="o0002845" n="ŠU">
+<rows><row src="/osl/images/lak/rows/LAK139.png"/></rows><sub l="LAK139" cp="U+122D7" utf8="𒋗" svg="/osl/images/lak/svg/LAK139,1.svg"/>
+<sub l="LAK139" salt="1" cp="U+122D7.1" utf8="𒋗" svg="/osl/images/lak/svg/LAK139,2.svg"/></entry>
+<entry l="LAK140" oid="o0000112" n="A₂">
+<rows><row src="/osl/images/lak/rows/LAK140.png"/></rows><sub l="LAK140" cp="U+12009" utf8="𒀉" svg="/osl/images/lak/svg/LAK140.svg"/>
+</entry>
+<entry l="LAK141" oid="o0031747" n="|ŠU×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK141.png"/></rows><sub l="LAK141" cp="U+F101E" utf8="󱀞" svg="/osl/images/lak/svg/LAK141.svg"/>
+</entry>
+<entry l="LAK142" oid="o0000316" n="LAK142">
+<rows><row src="/osl/images/lak/rows/LAK142.png"/></rows><sub l="LAK142" cp="U+124E1" utf8="𒓡" svg="/osl/images/lak/svg/LAK142.svg"/>
+</entry>
+<entry l="LAK143" oid="o0000132" n="DA">
+<rows><row src="/osl/images/lak/rows/LAK143.png"/></rows><sub l="LAK143" cp="U+12055" utf8="𒁕" svg="/osl/images/lak/svg/LAK143.svg"/>
+</entry>
+<entry l="LAK144" oid="o0000112" n="A₂">
+<rows><row src="/osl/images/lak/rows/LAK144.png"/></rows><sub l="LAK144" salt="1" cp="U+12009.1" utf8="𒀉" svg="/osl/images/lak/svg/LAK144.svg"/></entry>
+<entry l="LAK145" oid="o0000971" n="|DA×TAK₄|">
+<rows><row src="/osl/images/lak/rows/LAK145.png"/></rows><sub l="LAK145" cp="U+12488" utf8="𒒈" svg="/osl/images/lak/svg/LAK145.svg"/>
+</entry>
+<entry l="LAK146" oid="o0002845" n="ŠU">
+<rows><row src="/osl/images/lak/rows/LAK146.png"/></rows><sub l="LAK146" salt="2" cp="U+122D7.2" utf8="𒋗" svg="/osl/images/lak/svg/LAK146.svg"/></entry>
+<entry l="LAK147" oid="o0000263" n="KAB">
+<rows><row src="/osl/images/lak/rows/LAK147.png"/></rows><sub l="LAK147" cp="U+1218F" utf8="𒆏" svg="/osl/images/lak/svg/LAK147,1.svg"/>
+<sub l="LAK147" salt="1" cp="U+1218F.1" utf8="𒆏" svg="/osl/images/lak/svg/LAK147,2.svg"/></entry>
+<entry l="LAK148" oid="o0000477" n="NE">
+<rows><row src="/osl/images/lak/rows/LAK148.png"/></rows><sub l="LAK148" cp="U+12248" utf8="𒉈" svg="/osl/images/lak/svg/LAK148.svg"/>
+</entry>
+<entry l="LAK149" oid="o0022992" n="|NE×PAP|">
+<rows><row src="/osl/images/lak/rows/LAK149.png"/></rows><sub l="LAK149a" cp="U+F101F" utf8="󱀟" svg="/osl/images/lak/svg/LAK149a.svg"/>
+<sub l="LAK149b" salt="1" cp="U+F101F.1" utf8="󱀟" svg="/osl/images/lak/svg/LAK149b,1.svg"/><sub l="LAK149b" salt="2" cp="U+F101F.2" utf8="󱀟" svg="/osl/images/lak/svg/LAK149b,2.svg"/></entry>
+<entry l="LAK150" oid="o0027632" n="|NE×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK150.png"/></rows><sub l="LAK150" cp="U+F1020" utf8="󱀠" svg="/osl/images/lak/svg/LAK150.svg"/>
+</entry>
+<entry l="LAK151" oid="o0000317" n="LAK151">
+<rows><row src="/osl/images/lak/rows/LAK151.png"/></rows><sub l="LAK151" cp="U+F1021" utf8="󱀡" svg="/osl/images/lak/svg/LAK151.svg"/>
+</entry>
+<entry l="LAK152" oid="o0000599" n="U₂">
+<rows><row src="/osl/images/lak/rows/LAK152.png"/></rows><sub l="LAK152" cp="U+12311" utf8="𒌑" svg="/osl/images/lak/svg/LAK152,1.svg"/>
+<sub l="LAK152" salt="1" cp="U+12311.1" utf8="𒌑" svg="/osl/images/lak/svg/LAK152,2.svg"/></entry>
+<entry l="LAK153" oid="o0000121" n="BARA₂">
+<rows><row src="/osl/images/lak/rows/LAK153.png"/></rows><sub l="LAK153" cp="U+12048" utf8="𒁈" svg="/osl/images/lak/svg/LAK153.svg"/>
+</entry>
+<entry l="LAK154" oid="o0000162" n="DUN₃@g@g">
+<rows><row src="/osl/images/lak/rows/LAK154.png"/></rows><sub l="LAK154" cp="U+12087" utf8="𒂇" svg="/osl/images/lak/svg/LAK154,1.svg"/>
+<sub l="LAK154" salt="1" cp="U+12087.1" utf8="𒂇" svg="/osl/images/lak/svg/LAK154,2.svg"/></entry>
+<entry l="LAK155" oid="o0000573" n="UMUM">
+<rows><row src="/osl/images/lak/rows/LAK155.png"/></rows><sub l="LAK155" cp="U+12323" utf8="𒌣" svg="/osl/images/lak/svg/LAK155.svg"/>
+</entry>
+<entry l="LAK156" oid="o0002530" n="|UMUM×PA|">
+<rows><row src="/osl/images/lak/rows/LAK156.png"/></rows><sub l="LAK156" cp="U+12325" utf8="𒌥" svg="/osl/images/lak/svg/LAK156.svg"/>
+</entry>
+<entry l="LAK157" oid="o0038409" n="UD@g">
+<rows><row src="/osl/images/lak/rows/LAK157.png"/></rows><sub l="LAK157" cp="U+12319" utf8="𒌙" svg="/osl/images/lak/svg/LAK157.svg"/>
+</entry>
+<entry l="LAK158" oid="o0027570" n="MURUB₄@g">
+<rows><row src="/osl/images/lak/rows/LAK158.png"/></rows><sub l="LAK158" cp="U+F0058" utf8="󰁘" svg="/osl/images/lak/svg/LAK158.svg"/>
+</entry>
+<entry l="LAK159" oid="o0000485" n="NISAG">
+<rows><row src="/osl/images/lak/rows/LAK159.png"/></rows><sub l="LAK159" cp="U+12260" utf8="𒉠" svg="/osl/images/lak/svg/LAK159,1.svg"/>
+<sub l="LAK159" salt="1" cp="U+12260.1" utf8="𒉠" svg="/osl/images/lak/svg/LAK159,2.svg"/><sub l="LAK159" salt="2" cp="U+12260.2" utf8="𒉠" svg="/osl/images/lak/svg/LAK159,3.svg"/></entry>
+<entry l="LAK160" oid="o0000204" n="GAR₃">
+<rows><row src="/osl/images/lak/rows/LAK160.png"/></rows><sub l="LAK160" cp="U+120FC" utf8="𒃼" svg="/osl/images/lak/svg/LAK160.svg"/>
+</entry>
+<entry l="LAK161" oid="o0000204" n="GAR₃">
+<rows><row src="/osl/images/lak/rows/LAK161.png"/></rows><sub l="LAK161" salt="1" cp="U+120FC.1" utf8="𒃼" svg="/osl/images/lak/svg/LAK161.svg"/></entry>
+<entry l="LAK162">
+<rows><row src="/osl/images/lak/rows/LAK162.png"/></rows><sub l="LAK162" cp="U+1203E" utf8="𒀾" svg="/osl/images/lak/svg/LAK162.svg"/>
+</entry>
+<entry l="LAK163" oid="o0000259" n="IŠ">
+<rows><row src="/osl/images/lak/rows/LAK163.png"/></rows><sub l="LAK163" cp="U+12156" utf8="𒅖" svg="/osl/images/lak/svg/LAK163.svg"/>
+</entry>
+<entry l="LAK164" oid="o0000194" n="GAL">
+<rows><row src="/osl/images/lak/rows/LAK164.png"/></rows><sub l="LAK164" cp="U+120F2" utf8="𒃲" svg="/osl/images/lak/svg/LAK164,1.svg"/>
+<sub l="LAK164" salt="1" cp="U+120F2.1" utf8="𒃲" svg="/osl/images/lak/svg/LAK164,2.svg"/></entry>
+<entry l="LAK165" oid="o0000434" n="LUGAL">
+<rows><row src="/osl/images/lak/rows/LAK165.png"/></rows><sub l="LAK165" cp="U+12217" utf8="𒈗" svg="/osl/images/lak/svg/LAK165.svg"/>
+</entry>
+<entry l="LAK166" oid="o0000435" n="LUGAL@s">
+<rows><row src="/osl/images/lak/rows/LAK166.png"/></rows><sub l="LAK166" cp="U+1221A" utf8="𒈚" svg="/osl/images/lak/svg/LAK166.svg"/>
+</entry>
+<entry l="LAK167" oid="o0000248" n="IGI@g">
+<rows><row src="/osl/images/lak/rows/LAK167.png"/></rows><sub l="LAK167" cp="U+1214A" utf8="𒅊" svg="/osl/images/lak/svg/LAK167.svg"/>
+</entry>
+<entry l="LAK168" oid="o0000436" n="LUH">
+<rows><row src="/osl/images/lak/rows/LAK168.png"/></rows><sub l="LAK168" cp="U+1221B" utf8="𒈛" svg="/osl/images/lak/svg/LAK168.svg"/>
+</entry>
+<entry l="LAK169" oid="o0000129" n="BUR">
+<rows><row src="/osl/images/lak/rows/LAK169.png"/></rows><sub l="LAK169" cp="U+12053" utf8="𒁓" svg="/osl/images/lak/svg/LAK169.svg"/>
+</entry>
+<entry l="LAK170" oid="o0002824" n="ŠA">
+<rows><row src="/osl/images/lak/rows/LAK170.png"/></rows><sub l="LAK170" cp="U+122AD" utf8="𒊭" svg="/osl/images/lak/svg/LAK170.svg"/>
+</entry>
+<entry l="LAK171" oid="o0000267" n="KAD₄">
+<rows><row src="/osl/images/lak/rows/LAK171.png"/></rows><sub l="LAK171" cp="U+12192" utf8="𒆒" svg="/osl/images/lak/svg/LAK171.svg"/>
+</entry>
+<entry l="LAK172" oid="o0000252" n="IL₂">
+<rows><row src="/osl/images/lak/rows/LAK172.png"/></rows><sub l="LAK172" cp="U+1214D" utf8="𒅍" svg="/osl/images/lak/svg/LAK172.svg"/>
+</entry>
+<entry l="LAK173" oid="o0000319" n="LAK173">
+<rows><row src="/osl/images/lak/rows/LAK173.png"/></rows><sub l="LAK173" cp="U+12193" utf8="𒆓" svg="/osl/images/lak/svg/LAK173.svg"/>
+</entry>
+<entry l="LAK174" oid="o0000282" n="KIN">
+<rows><row src="/osl/images/lak/rows/LAK174.png"/></rows><sub l="LAK174" cp="U+121A5" utf8="𒆥" svg="/osl/images/lak/svg/LAK174.svg"/>
+</entry>
+<entry l="LAK175" oid="o0000523" n="SANGA₂">
+<rows><row src="/osl/images/lak/rows/LAK175.png"/></rows><sub l="LAK175" cp="U+122AB" utf8="𒊫" svg="/osl/images/lak/svg/LAK175,1.svg"/>
+<sub l="LAK175" salt="1" cp="U+122AB.1" utf8="𒊫" svg="/osl/images/lak/svg/LAK175,2.svg"/></entry>
+<entry l="LAK176" oid="o0000579" n="URI">
+<rows><row src="/osl/images/lak/rows/LAK176.png"/></rows><sub l="LAK176" cp="U+12335" utf8="𒌵" svg="/osl/images/lak/svg/LAK176.svg"/>
+</entry>
+<entry l="LAK177" oid="o0000166" n="E">
+<rows><row src="/osl/images/lak/rows/LAK177.png"/><row src="/osl/images/lak/rows/LAK177a.png"/></rows><sub l="LAK177" salt="1" cp="U+1208A.1" utf8="𒂊" svg="/osl/images/lak/svg/LAK177.svg"/><sub l="LAK177a" salt="2" cp="U+1208A.2" utf8="𒂊" svg="/osl/images/lak/svg/LAK177a.svg"/></entry>
+<entry l="LAK178" oid="o0223363" n="AŠ@t">
+<rows><row src="/osl/images/lak/rows/LAK178.png"/></rows><sub l="LAK178" cp="U+12039" utf8="𒀹" svg="/osl/images/lak/svg/LAK178,1.svg"/>
+<sub l="LAK178" salt="1" cp="U+12039.1" utf8="𒀹" svg="/osl/images/lak/svg/LAK178,2.svg"/></entry>
+<entry l="LAK179" oid="" n="Sequence AŠ@t-DAR">
+<rows><row src="/osl/images/lak/rows/LAK179.png"/></rows><sub l="LAK179" cp="U+F2001" utf8="󲀁" svg="/osl/images/lak/svg/LAK179.svg"/>
+</entry>
+<entry l="LAK180" oid="o0000196" n="GAM">
+<rows><row src="/osl/images/lak/rows/LAK180.png"/></rows><sub l="LAK180" cp="U+120F5" utf8="𒃵" svg="/osl/images/lak/svg/LAK180.svg"/>
+</entry>
+<entry l="LAK181" oid="o0000548" n="TAR">
+<rows><row src="/osl/images/lak/rows/LAK181.png"/></rows><sub l="LAK181" cp="U+122FB" utf8="𒋻" svg="/osl/images/lak/svg/LAK181,1.svg"/>
+<sub l="LAK181" salt="1" cp="U+122FB.1" utf8="𒋻" svg="/osl/images/lak/svg/LAK181,2.svg"/></entry>
+<entry l="LAK182" oid="o0000539" n="SUR">
+<rows><row src="/osl/images/lak/rows/LAK182.png"/></rows><sub l="LAK182" salt="1" cp="U+122E9.1" utf8="𒋩" svg="/osl/images/lak/svg/LAK182.svg"/></entry>
+<entry l="LAK183" oid="o0000241" n="HUL₂">
+<rows><row src="/osl/images/lak/rows/LAK183.png"/></rows><sub l="LAK183" cp="U+1213E" utf8="𒄾" svg="/osl/images/lak/svg/LAK183.svg"/>
+</entry>
+<entry l="LAK184" oid="o0027610" n="|HUL₂×X|">
+<rows><row src="/osl/images/lak/rows/LAK184.png"/></rows><sub l="LAK184" cp="U+F1023" utf8="󱀣" svg="/osl/images/lak/svg/LAK184.svg"/>
+</entry>
+<entry l="LAK185" oid="o0000010" n="2(AŠ@t)">
+<rows><row src="/osl/images/lak/rows/LAK185.png"/></rows><sub l="LAK185" cp="U+1244A" utf8="𒑊" svg="/osl/images/lak/svg/LAK185.svg"/>
+</entry>
+<entry l="LAK186" oid="o0000201" n="GAN₂@t">
+<rows><row src="/osl/images/lak/rows/LAK186.png"/></rows><sub l="LAK186" cp="U+120F8" utf8="𒃸" svg="/osl/images/lak/svg/LAK186.svg"/>
+</entry>
+<entry l="LAK187" oid="o0002832" n="ŠEG₉">
+<rows><row src="/osl/images/lak/rows/LAK187.png"/></rows><sub l="LAK187" cp="U+122BE" utf8="𒊾" svg="/osl/images/lak/svg/LAK187.svg"/>
+</entry>
+<entry l="LAK188" oid="o0000528" n="SIG₄">
+<rows><row src="/osl/images/lak/rows/LAK188.png"/></rows><sub l="LAK188" cp="U+122DE" utf8="𒋞" svg="/osl/images/lak/svg/LAK188.svg"/>
+</entry>
+<entry l="LAK189" oid="o0000424" n="LAM">
+<rows><row src="/osl/images/lak/rows/LAK189.png"/></rows><sub l="LAK189" cp="U+121F4" utf8="𒇴" svg="/osl/images/lak/svg/LAK189.svg"/>
+</entry>
+<entry l="LAK190" oid="o0001906" n="|LAM×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK190.png"/></rows><sub l="LAK190" cp="U+121F5" utf8="𒇵" svg="/osl/images/lak/svg/LAK190.svg"/>
+</entry>
+<entry l="LAK191" oid="o0000021" n="3(AŠ@t)">
+<rows><row src="/osl/images/lak/rows/LAK191.png"/></rows><sub l="LAK191" cp="U+1244B" utf8="𒑋" svg="/osl/images/lak/svg/LAK191.svg"/>
+</entry>
+<entry l="LAK192" oid="" n="Sequence eš-bar">
+<rows><row src="/osl/images/lak/rows/LAK192.png"/></rows><sub l="LAK192" cp="U+F2002" utf8="󲀂" svg="/osl/images/lak/svg/LAK192.svg"/>
+</entry>
+<entry l="LAK193" oid="o0000048" n="5(AŠ@t)">
+<rows><row src="/osl/images/lak/rows/LAK193.png"/></rows><sub l="LAK193" cp="U+1244D" utf8="𒑍" svg="/osl/images/lak/svg/LAK193.svg"/>
+</entry>
+<entry l="LAK194" oid="o0000438" n="LUM">
+<rows><row src="/osl/images/lak/rows/LAK194.png"/></rows><sub l="LAK194" cp="U+1221D" utf8="𒈝" svg="/osl/images/lak/svg/LAK194.svg"/>
+</entry>
+<entry l="LAK195" oid="o0000320" n="LAK195">
+<rows><row src="/osl/images/lak/rows/LAK195.png"/></rows><sub l="LAK195" cp="U+12126" utf8="𒄦" svg="/osl/images/lak/svg/LAK195.svg"/>
+</entry>
+<entry l="LAK196" oid="o0002829" n="ŠA₆">
+<rows><row src="/osl/images/lak/rows/LAK196.png"/></rows><sub l="LAK196" cp="U+122B7" utf8="𒊷" svg="/osl/images/lak/svg/LAK196.svg"/>
+</entry>
+<entry l="LAK197" oid="o0000536" n="SUM">
+<rows><row src="/osl/images/lak/rows/LAK197.png"/></rows><sub l="LAK197" cp="U+122E7" utf8="𒋧" svg="/osl/images/lak/svg/LAK197.svg"/>
+</entry>
+<entry l="LAK198" oid="o0018582" n="|SUM×DIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK198.png"/></rows><sub l="LAK198" cp="U+F1025" utf8="󱀥" svg="/osl/images/lak/svg/LAK198,1.svg"/>
+<sub l="LAK198" salt="1" cp="U+F1025.1" utf8="󱀥" svg="/osl/images/lak/svg/LAK198,2.svg"/></entry>
+<entry l="LAK199" oid="o0002831" n="ŠE">
+<rows><row src="/osl/images/lak/rows/LAK199.png"/></rows><sub l="LAK199" cp="U+122BA" utf8="𒊺" svg="/osl/images/lak/svg/LAK199.svg"/>
+</entry>
+<entry l="LAK200" oid="o0002709" n="|ŠE&amp;ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK200.png"/></rows><sub l="LAK200" cp="U+12532" utf8="𒔲" svg="/osl/images/lak/svg/LAK200.svg"/>
+</entry>
+<entry l="LAK201" oid="o0002714" n="|ŠE.HU|">
+<rows><row src="/osl/images/lak/rows/LAK201.png"/></rows><sub l="LAK201" salt="1" cp="U+122BB.1" utf8="𒊻" svg="/osl/images/lak/svg/LAK201.svg"/></entry>
+<entry l="LAK202" oid="o0025729" n="LAK202">
+<rows><row src="/osl/images/lak/rows/LAK202.png"/></rows><sub l="LAK202" cp="U+F1026" utf8="󱀦" svg="/osl/images/lak/svg/LAK202.svg"/>
+</entry>
+<entry l="LAK203" oid="o0025822" n="LAK203">
+<rows><row src="/osl/images/lak/rows/LAK203.png"/></rows><sub l="LAK203" cp="U+F1027" utf8="󱀧" svg="/osl/images/lak/svg/LAK203.svg"/>
+</entry>
+<entry l="LAK204" oid="o0002726" n="|ŠE.NUN&amp;NUN|">
+<rows><row src="/osl/images/lak/rows/LAK204.png"/></rows><sub l="LAK204" cp="U+12301" utf8="𒌁" svg="/osl/images/lak/svg/LAK204.svg"/>
+</entry>
+<entry l="LAK205" oid="o0221917" n="LAK205">
+<rows><row src="/osl/images/lak/rows/LAK205.png"/></rows><sub l="LAK205" cp="U+F1028" utf8="󱀨" svg="/osl/images/lak/svg/LAK205.svg"/>
+</entry>
+<entry l="LAK206" oid="o0000425" n="LI">
+<rows><row src="/osl/images/lak/rows/LAK206.png"/></rows><sub l="LAK206" cp="U+121F7" utf8="𒇷" svg="/osl/images/lak/svg/LAK206.svg"/>
+</entry>
+<entry l="LAK207" oid="o0000634" n="|(ŠE&amp;ŠE).HUB₂|">
+<rows><row src="/osl/images/lak/rows/LAK207.png"/><row src="/osl/images/lak/rows/LAK207a.png"/></rows><sub l="LAK207" cp="U+12533" utf8="𒔳" svg="/osl/images/lak/svg/LAK207.svg"/>
+<sub l="LAK207a" cp="U+F1029" utf8="󱀩" svg="/osl/images/lak/svg/LAK207a.svg"/>
+</entry>
+<entry l="LAK208" oid="o0000298" n="REC145">
+<rows><row src="/osl/images/lak/rows/LAK208.png"/></rows><sub l="LAK208" cp="U+121AE" utf8="𒆮" svg="/osl/images/lak/svg/LAK208.svg"/>
+</entry>
+<entry l="LAK209" oid="o0000470" n="NAGA">
+<rows><row src="/osl/images/lak/rows/LAK209.png"/></rows><sub l="LAK209" cp="U+12240" utf8="𒉀" svg="/osl/images/lak/svg/LAK209.svg"/>
+</entry>
+<entry l="LAK210" oid="o0000323" n="LAK210">
+<rows><row src="/osl/images/lak/rows/LAK210.png"/></rows><sub l="LAK210" cp="U+124E2" utf8="𒓢" svg="/osl/images/lak/svg/LAK210.svg"/>
+</entry>
+<entry l="LAK211" oid="o0000556" n="TU">
+<rows><row src="/osl/images/lak/rows/LAK211.png"/></rows><sub l="LAK211" cp="U+12305" utf8="𒌅" svg="/osl/images/lak/svg/LAK211.svg"/>
+</entry>
+<entry l="LAK212" oid="o0000105" n="ASAL₂~a">
+<rows><row src="/osl/images/lak/rows/LAK212.png"/></rows><sub l="LAK212" cp="U+12037" utf8="𒀷" svg="/osl/images/lak/svg/LAK212.svg"/>
+</entry>
+<entry l="LAK213" oid="o0000325" n="LAK213">
+<rows><row src="/osl/images/lak/rows/LAK213.png"/></rows><sub l="LAK213" cp="U+F102A" utf8="󱀪" svg="/osl/images/lak/svg/LAK213.svg"/>
+</entry>
+<entry l="LAK214" oid="o0000256" n="IN">
+<rows><row src="/osl/images/lak/rows/LAK214.png"/></rows><sub l="LAK214" cp="U+12154" utf8="𒅔" svg="/osl/images/lak/svg/LAK214.svg"/>
+</entry>
+<entry l="LAK215" oid="o0000524" n="SAR">
+<rows><row src="/osl/images/lak/rows/LAK215.png"/></rows><sub l="LAK215" cp="U+122AC" utf8="𒊬" svg="/osl/images/lak/svg/LAK215.svg"/>
+</entry>
+<entry l="LAK216" oid="o0002335" n="|SAR×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK216.png"/></rows><sub l="LAK216" cp="U+12535" utf8="𒔵" svg="/osl/images/lak/svg/LAK216.svg"/>
+</entry>
+<entry l="LAK217" oid="o0027644" n="|SAR×ZIZ₂|">
+<rows><row src="/osl/images/lak/rows/LAK217.png"/></rows><sub l="LAK217" cp="U+F102B" utf8="󱀫" svg="/osl/images/lak/svg/LAK217.svg"/>
+</entry>
+<entry l="LAK218" oid="o0002673" n="|ZU&amp;ZU.SAR|">
+<rows><row src="/osl/images/lak/rows/LAK218.png"/></rows><sub l="LAK218" cp="U+12542" utf8="𒕂" svg="/osl/images/lak/svg/LAK218.svg"/>
+</entry>
+<entry l="LAK219" oid="o0000326" n="LAK219">
+<rows><row src="/osl/images/lak/rows/LAK219.png"/></rows><sub l="LAK219" cp="U+124E3" utf8="𒓣" svg="/osl/images/lak/svg/LAK219.svg"/>
+</entry>
+<entry l="LAK220" oid="o0000327" n="LAK220">
+<rows><row src="/osl/images/lak/rows/LAK220.png"/></rows><sub l="LAK220" cp="U+124E4" utf8="𒓤" svg="/osl/images/lak/svg/LAK220.svg"/>
+</entry>
+<entry l="LAK221" oid="o0000476" n="NA₂">
+<rows><row src="/osl/images/lak/rows/LAK221.png"/><row src="/osl/images/lak/rows/LAK221a.png"/><row src="/osl/images/lak/rows/LAK221b.png"/></rows><sub l="LAK221" cp="U+1223F" utf8="𒈿" svg="/osl/images/lak/svg/LAK221.svg"/>
+<sub l="LAK221a" salt="1" cp="U+1223F.1" utf8="𒈿" svg="/osl/images/lak/svg/LAK221a.svg"/><sub l="LAK221b" salt="2" cp="U+1223F.2" utf8="𒈿" svg="/osl/images/lak/svg/LAK221b.svg"/></entry>
+<entry l="LAK222" oid="o0000328" n="LAK222">
+<rows><row src="/osl/images/lak/rows/LAK222.png"/></rows><sub l="LAK222" cp="U+F102C" utf8="󱀬" svg="/osl/images/lak/svg/LAK222.svg"/>
+</entry>
+<entry l="LAK223" oid="o0027607" n="|HI.SUHUR|">
+<rows><row src="/osl/images/lak/rows/LAK223.png"/></rows><sub l="LAK223" cp="x1212D.x122E6" utf8="𒄭𒋦" svg="/osl/images/lak/svg/LAK223.svg"/>
+</entry>
+<entry l="LAK224" oid="o0027612" n="|IGI.SUHUR|">
+<rows><row src="/osl/images/lak/rows/LAK224.png"/></rows><sub l="LAK224" cp="x12146.x122E6" utf8="𒅆𒋦" svg="/osl/images/lak/svg/LAK224.svg"/>
+</entry>
+<entry l="LAK225" oid="o0000329" n="LAK225">
+<rows><row src="/osl/images/lak/rows/LAK225.png"/></rows><sub l="LAK225" cp="U+124E5" utf8="𒓥" svg="/osl/images/lak/svg/LAK225.svg"/>
+</entry>
+<entry l="LAK226" oid="o0000537" n="SUMAŠ">
+<rows><row src="/osl/images/lak/rows/LAK226.png"/></rows><sub l="LAK226" cp="U+122E8" utf8="𒋨" svg="/osl/images/lak/svg/LAK226.svg"/>
+</entry>
+<entry l="LAK227" oid="o0000535" n="SUHUR">
+<rows><row src="/osl/images/lak/rows/LAK227.png"/></rows><sub l="LAK227" cp="U+122E6" utf8="𒋦" svg="/osl/images/lak/svg/LAK227.svg"/>
+</entry>
+<entry l="LAK228" oid="o0000330" n="LAK228">
+<rows><row src="/osl/images/lak/rows/LAK228.png"/></rows><sub l="LAK228" cp="U+124E6" utf8="𒓦" svg="/osl/images/lak/svg/LAK228.svg"/>
+</entry>
+<entry l="LAK229" oid="o0000500" n="PAP">
+<rows><row src="/osl/images/lak/rows/LAK229.png"/></rows><sub l="LAK229" cp="U+1227D" utf8="𒉽" svg="/osl/images/lak/svg/LAK229.svg"/>
+</entry>
+<entry l="LAK230" oid="o0002231" n="|PAP.PAP|">
+<rows><row src="/osl/images/lak/rows/LAK230.png"/></rows><sub l="LAK230" cp="x1227D.x1227D" utf8="𒉽𒉽" svg="/osl/images/lak/svg/LAK230.svg"/>
+</entry>
+<entry l="LAK231" oid="o0000331" n="LAK231">
+<rows><row src="/osl/images/lak/rows/LAK231.png"/></rows><sub l="LAK231" cp="U+F102D" utf8="󱀭" svg="/osl/images/lak/svg/LAK231.svg"/>
+</entry>
+<entry l="LAK232" oid="o0000124" n="BU">
+<rows><row src="/osl/images/lak/rows/LAK232.png"/></rows><sub l="LAK232" cp="U+1204D" utf8="𒁍" svg="/osl/images/lak/svg/LAK232.svg"/>
+</entry>
+<entry l="LAK233" oid="o0000126" n="BU@g">
+<rows><row src="/osl/images/lak/rows/LAK233.png"/></rows><sub l="LAK233" cp="U+F102E" utf8="󱀮" svg="/osl/images/lak/svg/LAK233.svg"/>
+</entry>
+<entry l="LAK234" oid="o0025731" n="LAK234">
+<rows><row src="/osl/images/lak/rows/LAK234.png"/></rows><sub l="LAK234" cp="U+F102F" utf8="󱀯" svg="/osl/images/lak/svg/LAK234.svg"/>
+</entry>
+<entry l="LAK235" oid="o0000463" n="MUŠ">
+<rows><row src="/osl/images/lak/rows/LAK235.png"/></rows><sub l="LAK235" cp="U+12232" utf8="𒈲" svg="/osl/images/lak/svg/LAK235.svg"/>
+</entry>
+<entry l="LAK236" oid="o0002021" n="|MUŠ%MUŠ|">
+<rows><row src="/osl/images/lak/rows/LAK236.png"/></rows><sub l="LAK236" cp="U+12238" utf8="𒈸" svg="/osl/images/lak/svg/LAK236.svg"/>
+</entry>
+<entry l="LAK237" oid="o0000144" n="DIN">
+<rows><row src="/osl/images/lak/rows/LAK237.png"/></rows><sub l="LAK237" cp="U+12077" utf8="𒁷" svg="/osl/images/lak/svg/LAK237.svg"/>
+</entry>
+<entry l="LAK238" oid="o0000332" n="LAK238">
+<rows><row src="/osl/images/lak/rows/LAK238.png"/></rows><sub l="LAK238" cp="U+124E7" utf8="𒓧" svg="/osl/images/lak/svg/LAK238.svg"/>
+</entry>
+<entry l="LAK239" oid="o0000333" n="LAK239">
+<rows><row src="/osl/images/lak/rows/LAK239.png"/></rows><sub l="LAK239" cp="U+F1030" utf8="󱀰" svg="/osl/images/lak/svg/LAK239.svg"/>
+</entry>
+<entry l="LAK240" oid="o0245336" n="LAK240">
+<rows><row src="/osl/images/lak/rows/LAK240.png"/></rows><sub l="LAK240" cp="U+F1033" utf8="󱀳" svg="/osl/images/lak/svg/LAK240.svg"/>
+</entry>
+<entry l="LAK241" oid="o0000334" n="LAK241">
+<rows><row src="/osl/images/lak/rows/LAK241.png"/></rows><sub l="LAK241" cp="U+F1034" utf8="󱀴" svg="/osl/images/lak/svg/LAK241.svg"/>
+</entry>
+<entry l="LAK242" oid="o0000437" n="LUL">
+<rows><row src="/osl/images/lak/rows/LAK242.png"/></rows><sub l="LAK242" cp="U+1221C" utf8="𒈜" svg="/osl/images/lak/svg/LAK242.svg"/>
+</entry>
+<entry l="LAK243" oid="o0000437" n="LUL">
+<rows><row src="/osl/images/lak/rows/LAK243.png"/></rows><sub l="LAK243" salt="1" cp="U+1221C.1" utf8="𒈜" svg="/osl/images/lak/svg/LAK243.svg"/></entry>
+<entry l="LAK244" oid="o0000335" n="LAK244">
+<rows><row src="/osl/images/lak/rows/LAK244.png"/></rows><sub l="LAK244" cp="U+F1036" utf8="󱀶" svg="/osl/images/lak/svg/LAK244.svg"/>
+</entry>
+<entry l="LAK245" oid="o0000501" n="PEŠ₂">
+<rows><row src="/osl/images/lak/rows/LAK245.png"/></rows><sub l="LAK245" cp="U+1227E" utf8="𒉾" svg="/osl/images/lak/svg/LAK245.svg"/>
+</entry>
+<entry l="LAK246" oid="o0000336" n="LAK246">
+<rows><row src="/osl/images/lak/rows/LAK246.png"/></rows><sub l="LAK246" cp="U+F1037" utf8="󱀷" svg="/osl/images/lak/svg/LAK246.svg"/>
+</entry>
+<entry l="LAK247" oid="o0000337" n="LAK247">
+<rows><row src="/osl/images/lak/rows/LAK247.png"/></rows><sub l="LAK247" cp="U+F1038" utf8="󱀸" svg="/osl/images/lak/svg/LAK247.svg"/>
+</entry>
+<entry l="LAK248" oid="o0000286" n="KIŠ">
+<rows><row src="/osl/images/lak/rows/LAK248.png"/></rows><sub l="LAK248" cp="U+121A7" utf8="𒆧" svg="/osl/images/lak/svg/LAK248.svg"/>
+</entry>
+<entry l="LAK249" oid="o0001352" n="|GIR₃×IGI|">
+<rows><row src="/osl/images/lak/rows/LAK249.png"/></rows><sub l="LAK249" cp="U+1210D" utf8="𒄍" svg="/osl/images/lak/svg/LAK249.svg"/>
+</entry>
+<entry l="LAK250" oid="o0027597" n="|HA@g×IGI.LU|">
+<rows><row src="/osl/images/lak/rows/LAK250.png"/></rows><sub l="LAK250" cp="U+F3002" utf8="󳀂" svg="/osl/images/lak/svg/LAK250.svg"/>
+</entry>
+<entry l="LAK251" oid="o0001351" n="|GIR₃×GAN₂@t|">
+<rows><row src="/osl/images/lak/rows/LAK251.png"/></rows><sub l="LAK251" cp="U+1210C" utf8="𒄌" svg="/osl/images/lak/svg/LAK251.svg"/>
+</entry>
+<entry l="LAK252" oid="o0000339" n="LAK252">
+<rows><row src="/osl/images/lak/rows/LAK252.png"/></rows><sub l="LAK252" cp="U+F103D" utf8="󱀽" svg="/osl/images/lak/svg/LAK252.svg"/>
+</entry>
+<entry l="LAK253" oid="o0000101" n="ANŠE">
+<rows><row src="/osl/images/lak/rows/LAK253.png"/></rows><sub l="LAK253" cp="U+12032" utf8="𒀲" svg="/osl/images/lak/svg/LAK253.svg"/>
+</entry>
+<entry l="LAK254" oid="o0021775" n="|ANŠE×SAL|">
+<rows><row src="/osl/images/lak/rows/LAK254.png"/></rows><sub l="LAK254" cp="U+F103E" utf8="󱀾" svg="/osl/images/lak/svg/LAK254.svg"/>
+</entry>
+<entry l="LAK255" oid="o0001353" n="|GIR₃×PA|">
+<rows><row src="/osl/images/lak/rows/LAK255.png"/></rows><sub l="LAK255" cp="U+1210F" utf8="𒄏" svg="/osl/images/lak/svg/LAK255.svg"/>
+</entry>
+<entry l="LAK256" oid="o0025860" n="LAK256">
+<rows><row src="/osl/images/lak/rows/LAK256.png"/></rows><sub l="LAK256" cp="U+F103F" utf8="󱀿" svg="/osl/images/lak/svg/LAK256.svg"/>
+</entry>
+<entry l="LAK257" oid="o0000503" n="PIRIG">
+<rows><row src="/osl/images/lak/rows/LAK257.png"/></rows><sub l="LAK257" cp="U+1228A" utf8="𒊊" svg="/osl/images/lak/svg/LAK257.svg"/>
+</entry>
+<entry l="LAK258" oid="o0027638" n="|PIRIG×PA.LAGAB|">
+<rows><row src="/osl/images/lak/rows/LAK258.png"/></rows><sub l="LAK258" cp="U+F3003" utf8="󳀃" svg="/osl/images/lak/svg/LAK258.svg"/>
+</entry>
+<entry l="LAK259" oid="o0002244" n="|PIRIG×UD|">
+<rows><row src="/osl/images/lak/rows/LAK259.png"/></rows><sub l="LAK259" cp="U+1228C" utf8="𒊌" svg="/osl/images/lak/svg/LAK259.svg"/>
+</entry>
+<entry l="LAK260" oid="o0027640" n="|PIRIG×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK260.png"/></rows><sub l="LAK260" cp="U+F1042" utf8="󱁂" svg="/osl/images/lak/svg/LAK260.svg"/>
+</entry>
+<entry l="LAK261" oid="o0002245" n="|PIRIG×ZA|">
+<rows><row src="/osl/images/lak/rows/LAK261.png"/></rows><sub l="LAK261" cp="U+1228D" utf8="𒊍" svg="/osl/images/lak/svg/LAK261.svg"/>
+</entry>
+<entry l="LAK262" oid="o0000340" n="LAK262">
+<rows><row src="/osl/images/lak/rows/LAK262.png"/></rows><sub l="LAK262" cp="U+F1043" utf8="󱁃" svg="/osl/images/lak/svg/LAK262.svg"/>
+</entry>
+<entry l="LAK263" oid="o0000341" n="LAK263">
+<rows><row src="/osl/images/lak/rows/LAK263.png"/></rows><sub l="LAK263" cp="U+F1045" utf8="󱁅" svg="/osl/images/lak/svg/LAK263.svg"/>
+</entry>
+<entry l="LAK264" oid="o0000136" n="DARA₃">
+<rows><row src="/osl/images/lak/rows/LAK264.png"/></rows><sub l="LAK264" cp="U+12070" utf8="𒁰" svg="/osl/images/lak/svg/LAK264.svg"/>
+</entry>
+<entry l="LAK265" oid="o0000342" n="LAK265">
+<rows><row src="/osl/images/lak/rows/LAK265.png"/></rows><sub l="LAK265" cp="U+124E8" utf8="𒓨" svg="/osl/images/lak/svg/LAK265.svg"/>
+</entry>
+<entry l="LAK266" oid="o0000343" n="LAK266">
+<rows><row src="/osl/images/lak/rows/LAK266.png"/></rows><sub l="LAK266" cp="U+124E9" utf8="𒓩" svg="/osl/images/lak/svg/LAK266.svg"/>
+</entry>
+<entry l="LAK267" oid="o0000097" n="AMAR">
+<rows><row src="/osl/images/lak/rows/LAK267.png"/></rows><sub l="LAK267" cp="U+1202B" utf8="𒀫" svg="/osl/images/lak/svg/LAK267.svg"/>
+</entry>
+<entry l="LAK268" oid="o0000795" n="|AMAR×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK268.png"/></rows><sub l="LAK268" cp="U+1202C" utf8="𒀬" svg="/osl/images/lak/svg/LAK268.svg"/>
+</entry>
+<entry l="LAK269" oid="o0000530" n="SILA₃">
+<rows><row src="/osl/images/lak/rows/LAK269.png"/></rows><sub l="LAK269" cp="U+122E1" utf8="𒋡" svg="/osl/images/lak/svg/LAK269.svg"/>
+</entry>
+<entry l="LAK270" oid="o0000482" n="NIM">
+<rows><row src="/osl/images/lak/rows/LAK270.png"/></rows><sub l="LAK270" cp="U+1224F" utf8="𒉏" svg="/osl/images/lak/svg/LAK270.svg"/>
+</entry>
+<entry l="LAK271" oid="o0000482" n="NIM">
+<rows><row src="/osl/images/lak/rows/LAK271.png"/></rows><sub l="LAK271" salt="1" cp="U+1224F.1" utf8="𒉏" svg="/osl/images/lak/svg/LAK271.svg"/></entry>
+<entry l="LAK272" oid="o0002081" n="|NIM×GAN₂@t|">
+<rows><row src="/osl/images/lak/rows/LAK272.png"/></rows><sub l="LAK272" cp="U+12250" utf8="𒉐" svg="/osl/images/lak/svg/LAK272.svg"/>
+</entry>
+<entry l="LAK273" oid="o0000275" n="KASKAL">
+<rows><row src="/osl/images/lak/rows/LAK273.png"/></rows><sub l="LAK273" cp="U+1219C" utf8="𒆜" svg="/osl/images/lak/svg/LAK273.svg"/>
+</entry>
+<entry l="LAK274" oid="o0000513" n="REC169">
+<rows><row src="/osl/images/lak/rows/LAK274.png"/></rows><sub l="LAK274" cp="U+F1046" utf8="󱁆" svg="/osl/images/lak/svg/LAK274.svg"/>
+</entry>
+<entry l="LAK275" oid="o0001584" n="|KASKAL.GA|">
+<rows><row src="/osl/images/lak/rows/LAK275.png"/></rows><sub l="LAK275" cp="x1219C.x120B5" utf8="𒆜𒂵" svg="/osl/images/lak/svg/LAK275.svg"/>
+</entry>
+<entry l="LAK276" oid="o0001363" n="|GIŠ%GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK276.png"/></rows><sub l="LAK276" cp="U+12112" utf8="𒄒" svg="/osl/images/lak/svg/LAK276.svg"/>
+</entry>
+<entry l="LAK277" oid="o0001405" n="|GIŠ×(GIŠ%GIŠ)|">
+<rows><row src="/osl/images/lak/rows/LAK277.png"/></rows><sub l="LAK277" cp="U+124CB" utf8="𒓋" svg="/osl/images/lak/svg/LAK277.svg"/>
+</entry>
+<entry l="LAK278">
+<rows><row src="/osl/images/lak/rows/LAK278.png"/></rows><sub l="LAK278" cp="U+124AC" utf8="𒒬" svg="/osl/images/lak/svg/LAK278.svg"/>
+</entry>
+<entry l="LAK279" oid="o0000431" n="LIŠ">
+<rows><row src="/osl/images/lak/rows/LAK279.png"/></rows><sub l="LAK279" cp="U+121FA" utf8="𒇺" svg="/osl/images/lak/svg/LAK279,1.svg"/>
+<sub l="LAK279" salt="1" cp="U+121FA.1" utf8="𒇺" svg="/osl/images/lak/svg/LAK279,2.svg"/></entry>
+<entry l="LAK280" oid="o0000175" n="ERIN₂">
+<rows><row src="/osl/images/lak/rows/LAK280.png"/></rows><sub l="LAK280" cp="U+1209F" utf8="𒂟" svg="/osl/images/lak/svg/LAK280,1.svg"/>
+<sub l="LAK280" salt="1" cp="U+1209F.1" utf8="𒂟" svg="/osl/images/lak/svg/LAK280,2.svg"/></entry>
+<entry l="LAK281" oid="o0000516" n="RU">
+<rows><row src="/osl/images/lak/rows/LAK281.png"/></rows><sub l="LAK281" cp="U+12292" utf8="𒊒" svg="/osl/images/lak/svg/LAK281.svg"/>
+</entry>
+<entry l="LAK282" oid="o0000547" n="TAK₄">
+<rows><row src="/osl/images/lak/rows/LAK282.png"/></rows><sub l="LAK282" cp="U+122FA" utf8="𒋺" svg="/osl/images/lak/svg/LAK282.svg"/>
+</entry>
+<entry l="LAK283" oid="o0000605" n="ZAG">
+<rows><row src="/osl/images/lak/rows/LAK283.png"/></rows><sub l="LAK283" cp="U+12360" utf8="𒍠" svg="/osl/images/lak/svg/LAK283.svg"/>
+</entry>
+<entry l="LAK284" oid="o0000564" n="UB">
+<rows><row src="/osl/images/lak/rows/LAK284.png"/></rows><sub l="LAK284" cp="U+12312" utf8="𒌒" svg="/osl/images/lak/svg/LAK284.svg"/>
+</entry>
+<entry l="LAK285" oid="o0000193" n="GAD">
+<rows><row src="/osl/images/lak/rows/LAK285.png"/></rows><sub l="LAK285" salt="3" cp="U+120F0.3" utf8="𒃰" svg="/osl/images/lak/svg/LAK285.svg"/></entry>
+<entry l="LAK286" oid="o0000346" n="LAK286">
+<rows><row src="/osl/images/lak/rows/LAK286.png"/></rows><sub l="LAK286" cp="U+F1049" utf8="󱁉" svg="/osl/images/lak/svg/LAK286.svg"/>
+</entry>
+<entry l="LAK287" oid="o0000347" n="LAK287">
+<rows><row src="/osl/images/lak/rows/LAK287.png"/></rows><sub l="LAK287" cp="U+F104A" utf8="󱁊" svg="/osl/images/lak/svg/LAK287.svg"/>
+</entry>
+<entry l="LAK288" oid="o0001190" n="|GAD.TAK₄.SI|">
+<rows><row src="/osl/images/lak/rows/LAK288.png"/></rows><sub l="LAK288" cp="x120F0.x122FA.x122DB" utf8="𒃰𒋺𒋛" svg="/osl/images/lak/svg/LAK288.svg"/>
+</entry>
+<entry l="LAK289" oid="o0000572" n="UMBIN">
+<rows><row src="/osl/images/lak/rows/LAK289.png"/></rows><sub l="LAK289" cp="U+12322" utf8="𒌢" svg="/osl/images/lak/svg/LAK289.svg"/>
+</entry>
+<entry l="LAK290" oid="o0000113" n="BA">
+<rows><row src="/osl/images/lak/rows/LAK290.png"/></rows><sub l="LAK290" cp="U+12040" utf8="𒁀" svg="/osl/images/lak/svg/LAK290,1.svg"/>
+<sub l="LAK290" salt="1" cp="U+12040.1" utf8="𒁀" svg="/osl/images/lak/svg/LAK290,2.svg"/></entry>
+<entry l="LAK291" oid="o0000614" n="ZU">
+<rows><row src="/osl/images/lak/rows/LAK291.png"/></rows><sub l="LAK291" cp="U+1236A" utf8="𒍪" svg="/osl/images/lak/svg/LAK291,1.svg"/>
+<sub l="LAK291" salt="1" cp="U+1236A.1" utf8="𒍪" svg="/osl/images/lak/svg/LAK291,2.svg"/></entry>
+<entry l="LAK292" oid="o0002674" n="|ZU.AB|">
+<rows><row src="/osl/images/lak/rows/LAK292.png"/></rows><sub l="LAK292" cp="x1236A.x1200A" utf8="𒍪𒀊" svg="/osl/images/lak/svg/LAK292,1.svg"/>
+<sub l="LAK292" cp="U+F3000" utf8="󳀀" svg="/osl/images/lak/svg/LAK292,2.svg"/>
+</entry>
+<entry l="LAK293" oid="o0000531" n="SU">
+<rows><row src="/osl/images/lak/rows/LAK293.png"/></rows><sub l="LAK293" cp="U+122E2" utf8="𒋢" svg="/osl/images/lak/svg/LAK293,1.svg"/>
+<sub l="LAK293" salt="1" cp="U+122E2.1" utf8="𒋢" svg="/osl/images/lak/svg/LAK293,2.svg"/></entry>
+<entry l="LAK294" oid="o0002371" n="|SU.KUR.RU|">
+<rows><row src="/osl/images/lak/rows/LAK294.png"/></rows><sub l="LAK294" cp="x122E2.x121B3.x12292" utf8="𒋢𒆳𒊒" svg="/osl/images/lak/svg/LAK294.svg"/>
+</entry>
+<entry l="LAK295" oid="o0002743" n="|ŠID×A|">
+<rows><row src="/osl/images/lak/rows/LAK295.png"/></rows><sub l="LAK295" cp="U+122C4" utf8="𒋄" svg="/osl/images/lak/svg/LAK295.svg"/>
+</entry>
+<entry l="LAK296" oid="o0000104" n="ARKAB₂">
+<rows><row src="/osl/images/lak/rows/LAK296.png"/></rows><sub l="LAK296" cp="U+12036" utf8="𒀶" svg="/osl/images/lak/svg/LAK296.svg"/>
+</entry>
+<entry l="LAK297" oid="o0000104" n="ARKAB₂">
+<rows><row src="/osl/images/lak/rows/LAK297.png"/></rows><sub l="LAK297" salt="1" cp="U+12036.1" utf8="𒀶" svg="/osl/images/lak/svg/LAK297.svg"/></entry>
+<entry l="LAK298" oid="o0000348" n="LAK298">
+<rows><row src="/osl/images/lak/rows/LAK298.png"/></rows><sub l="LAK298" cp="U+F104B" utf8="󱁋" svg="/osl/images/lak/svg/LAK298.svg"/>
+</entry>
+<entry l="LAK299" oid="o0002459" n="|U.GUD|">
+<rows><row src="/osl/images/lak/rows/LAK299.png"/></rows><sub l="LAK299" cp="U+1230C" utf8="𒌌" svg="/osl/images/lak/svg/LAK299.svg"/>
+</entry>
+<entry l="LAK300" oid="o0002459" n="|U.GUD|">
+<rows><row src="/osl/images/lak/rows/LAK300.png"/></rows><sub l="LAK300" salt="1" cp="U+1230C.1" utf8="𒌌" svg="/osl/images/lak/svg/LAK300.svg"/></entry>
+<entry l="LAK301" oid="o0000308" n="LAGAR@g">
+<rows><row src="/osl/images/lak/rows/LAK301.png"/></rows><sub l="LAK301" cp="U+121EF" utf8="𒇯" svg="/osl/images/lak/svg/LAK301.svg"/>
+</entry>
+<entry l="LAK302" oid="o0000308" n="LAGAR@g">
+<rows><row src="/osl/images/lak/rows/LAK302.png"/></rows><sub l="LAK302" salt="1" cp="U+121EF.1" utf8="𒇯" svg="/osl/images/lak/svg/LAK302.svg"/></entry>
+<entry l="LAK303" oid="o0001853" n="|LAGAR×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK303.png"/></rows><sub l="LAK303" cp="U+121ED" utf8="𒇭" svg="/osl/images/lak/svg/LAK303.svg"/>
+</entry>
+<entry l="LAK304" oid="o0000295" n="KUŠU₂">
+<rows><row src="/osl/images/lak/rows/LAK304.png"/></rows><sub l="LAK304" cp="U+121B5" utf8="𒆵" svg="/osl/images/lak/svg/LAK304.svg"/>
+</entry>
+<entry l="LAK305" oid="o0002500" n="|UD.KUŠU₂|">
+<rows><row src="/osl/images/lak/rows/LAK305.png"/></rows><sub l="LAK305" cp="U+12314" utf8="𒌔" svg="/osl/images/lak/svg/LAK305.svg"/>
+</entry>
+<entry l="LAK306" oid="o0000307" n="LAGAR">
+<rows><row src="/osl/images/lak/rows/LAK306.png"/></rows><sub l="LAK306" cp="U+121EC" utf8="𒇬" svg="/osl/images/lak/svg/LAK306.svg"/>
+</entry>
+<entry l="LAK307" oid="o0000518" n="SAG">
+<rows><row src="/osl/images/lak/rows/LAK307.png"/></rows><sub l="LAK307" cp="U+12295" utf8="𒊕" svg="/osl/images/lak/svg/LAK307.svg"/>
+</entry>
+<entry l="LAK308" oid="o0002277" n="|SAG×HA|">
+<rows><row src="/osl/images/lak/rows/LAK308.png"/></rows><sub l="LAK308" cp="U+12299" utf8="𒊙" svg="/osl/images/lak/svg/LAK308.svg"/>
+</entry>
+<entry l="LAK309" oid="o0002271" n="|SAG@g×HA|">
+<rows><row src="/osl/images/lak/rows/LAK309.png"/></rows><sub l="LAK309" cp="U+1252D" utf8="𒔭" svg="/osl/images/lak/svg/LAK309.svg"/>
+</entry>
+<entry l="LAK310" oid="o0002285" n="|SAG×TAK₄@f|">
+<rows><row src="/osl/images/lak/rows/LAK310.png"/></rows><sub l="LAK310" cp="U+12539" utf8="𒔹" svg="/osl/images/lak/svg/LAK310.svg"/>
+</entry>
+<entry l="LAK311" oid="o0002276" n="|SAG×EN|">
+<rows><row src="/osl/images/lak/rows/LAK311.png"/></rows><sub l="LAK311" cp="U+1252E" utf8="𒔮" svg="/osl/images/lak/svg/LAK311.svg"/>
+</entry>
+<entry l="LAK312" oid="o0002279" n="|SAG×KAK|">
+<rows><row src="/osl/images/lak/rows/LAK312.png"/></rows><sub l="LAK312" cp="U+1229A" utf8="𒊚" svg="/osl/images/lak/svg/LAK312.svg"/>
+</entry>
+<entry l="LAK313" oid="o0027642" n="|SAG×NI|">
+<rows><row src="/osl/images/lak/rows/LAK313.png"/></rows><sub l="LAK313" cp="U+F104E" utf8="󱁎" svg="/osl/images/lak/svg/LAK313.svg"/>
+</entry>
+<entry l="LAK314" oid="o0002274" n="|SAG×DU|">
+<rows><row src="/osl/images/lak/rows/LAK314.png"/></rows><sub l="LAK314" cp="U+12297" utf8="𒊗" svg="/osl/images/lak/svg/LAK314.svg"/>
+</entry>
+<entry l="LAK315" oid="o0000351" n="LAK315">
+<rows><row src="/osl/images/lak/rows/LAK315.png"/></rows><sub l="LAK315" cp="U+F104F" utf8="󱁏" svg="/osl/images/lak/svg/LAK315.svg"/>
+</entry>
+<entry l="LAK316" oid="o0002466" n="|U.SAG|">
+<rows><row src="/osl/images/lak/rows/LAK316.png"/></rows><sub l="LAK316" cp="x1230B.x12295" utf8="𒌋𒊕" svg="/osl/images/lak/svg/LAK316.svg"/>
+</entry>
+<entry l="LAK317" oid="o0000519" n="SAG@g">
+<rows><row src="/osl/images/lak/rows/LAK317.png"/></rows><sub l="LAK317" cp="U+122A8" utf8="𒊨" svg="/osl/images/lak/svg/LAK317,1.svg"/>
+<sub l="LAK317" salt="1" cp="U+122A8.1" utf8="𒊨" svg="/osl/images/lak/svg/LAK317,2.svg"/></entry>
+<entry l="LAK318" oid="o0000260" n="KA">
+<rows><row src="/osl/images/lak/rows/LAK318.png"/></rows><sub l="LAK318" cp="U+12157" utf8="𒅗" svg="/osl/images/lak/svg/LAK318.svg"/>
+</entry>
+<entry l="LAK319" oid="o0001666" n="|KA×U|">
+<rows><row src="/osl/images/lak/rows/LAK319.png"/></rows><sub l="LAK319" cp="U+12187" utf8="𒆇" svg="/osl/images/lak/svg/LAK319.svg"/>
+</entry>
+<entry l="LAK320" oid="o0001630" n="|KA×GIR₂|">
+<rows><row src="/osl/images/lak/rows/LAK320.png"/></rows><sub l="LAK320" cp="U+12168" utf8="𒅨" svg="/osl/images/lak/svg/LAK320.svg"/>
+</entry>
+<entry l="LAK321" oid="o0001668" n="|KA×U₂|">
+<rows><row src="/osl/images/lak/rows/LAK321.png"/></rows><sub l="LAK321" cp="U+12188" utf8="𒆈" svg="/osl/images/lak/svg/LAK321.svg"/>
+</entry>
+<entry l="LAK322" oid="o0001674" n="|KA×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK322.png"/></rows><sub l="LAK322" cp="U+12181" utf8="𒆁" svg="/osl/images/lak/svg/LAK322.svg"/>
+</entry>
+<entry l="LAK323" oid="o0001676" n="|KA×ŠU|">
+<rows><row src="/osl/images/lak/rows/LAK323.png"/></rows><sub l="LAK323" cp="U+12183" utf8="𒆃" svg="/osl/images/lak/svg/LAK323.svg"/>
+</entry>
+<entry l="LAK324" oid="o0001626" n="|KA×GAN₂@t|">
+<rows><row src="/osl/images/lak/rows/LAK324.png"/></rows><sub l="LAK324" cp="U+12164" utf8="𒅤" svg="/osl/images/lak/svg/LAK324.svg"/>
+</entry>
+<entry l="LAK325" oid="o0001655" n="|KA×SAR|">
+<rows><row src="/osl/images/lak/rows/LAK325.png"/></rows><sub l="LAK325" cp="U+1217F" utf8="𒅿" svg="/osl/images/lak/svg/LAK325.svg"/>
+</entry>
+<entry l="LAK326" oid="o0001638" n="|KA×IM|">
+<rows><row src="/osl/images/lak/rows/LAK326.png"/></rows><sub l="LAK326" cp="U+1216E" utf8="𒅮" svg="/osl/images/lak/svg/LAK326.svg"/>
+</entry>
+<entry l="LAK327" oid="o0027613" n="|KA×NI₂|">
+<rows><row src="/osl/images/lak/rows/LAK327.png"/></rows><sub l="LAK327" cp="U+F1050" utf8="󱁐" svg="/osl/images/lak/svg/LAK327.svg"/>
+</entry>
+<entry l="LAK328" oid="o0001605" n="|KA×(U.U.U)|">
+<rows><row src="/osl/images/lak/rows/LAK328.png"/></rows><sub l="LAK328" cp="U+124D2" utf8="𒓒" svg="/osl/images/lak/svg/LAK328.svg"/>
+</entry>
+<entry l="LAK329" oid="o0018560" n="|UD.KA.AŠ|">
+<rows><row src="/osl/images/lak/rows/LAK329.png"/></rows><sub l="LAK329" cp="x12313.x12157.x12038" utf8="𒌓𒅗𒀸" svg="/osl/images/lak/svg/LAK329.svg"/>
+</entry>
+<entry l="LAK330" oid="o0001627" n="|KA×GAR|">
+<rows><row src="/osl/images/lak/rows/LAK330.png"/></rows><sub l="LAK330" cp="U+12165" utf8="𒅥" svg="/osl/images/lak/svg/LAK330.svg"/>
+</entry>
+<entry l="LAK331" oid="o0001611" n="|KA×A|">
+<rows><row src="/osl/images/lak/rows/LAK331.png"/></rows><sub l="LAK331" cp="U+12158" utf8="𒅘" svg="/osl/images/lak/svg/LAK331.svg"/>
+</entry>
+<entry l="LAK332" oid="o0000353" n="LAK332">
+<rows><row src="/osl/images/lak/rows/LAK332.png"/></rows><sub l="LAK332" cp="U+F1051" utf8="󱁑" svg="/osl/images/lak/svg/LAK332.svg"/>
+</entry>
+<entry l="LAK333" oid="o0001656" n="|KA×SA|">
+<rows><row src="/osl/images/lak/rows/LAK333.png"/></rows><sub l="LAK333" cp="U+1217E" utf8="𒅾" svg="/osl/images/lak/svg/LAK333.svg"/>
+</entry>
+<entry l="LAK334" oid="o0001648" n="|KA×ME|">
+<rows><row src="/osl/images/lak/rows/LAK334.png"/></rows><sub l="LAK334" cp="U+12174" utf8="𒅴" svg="/osl/images/lak/svg/LAK334.svg"/>
+</entry>
+<entry l="LAK335" oid="o0001671" n="|KA×ZI|">
+<rows><row src="/osl/images/lak/rows/LAK335.png"/></rows><sub l="LAK335" cp="U+1218C" utf8="𒆌" svg="/osl/images/lak/svg/LAK335.svg"/>
+</entry>
+<entry l="LAK336" oid="o0000354" n="LAK336">
+<rows><row src="/osl/images/lak/rows/LAK336.png"/></rows><sub l="LAK336" cp="U+F1052" utf8="󱁒" svg="/osl/images/lak/svg/LAK336.svg"/>
+</entry>
+<entry l="LAK337" oid="o0000439" n="LU₂">
+<rows><row src="/osl/images/lak/rows/LAK337.png"/></rows><sub l="LAK337" cp="U+121FD" utf8="𒇽" svg="/osl/images/lak/svg/LAK337.svg"/>
+</entry>
+<entry l="LAK338" oid="o0001968" n="|LU₂×DIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK338.png"/></rows><sub l="LAK338" cp="U+1251A" utf8="𒔚" svg="/osl/images/lak/svg/LAK338.svg"/>
+</entry>
+<entry l="LAK339" oid="o0001955" n="|LU₂@g×AŠ|">
+<rows><row src="/osl/images/lak/rows/LAK339.png"/></rows><sub l="LAK339" cp="U+12519" utf8="𒔙" svg="/osl/images/lak/svg/LAK339.svg"/>
+</entry>
+<entry l="LAK340" oid="o0025839" n="LAK340">
+<rows><row src="/osl/images/lak/rows/LAK340.png"/></rows><sub l="LAK340" cp="U+F1053" utf8="󱁓" svg="/osl/images/lak/svg/LAK340.svg"/>
+</entry>
+<entry l="LAK341" oid="o0001961" n="|LU₂×(PAP.PAP.LU₃)|">
+<rows><row src="/osl/images/lak/rows/LAK341.png"/></rows><sub l="LAK341" cp="U+1251D" utf8="𒔝" svg="/osl/images/lak/svg/LAK341.svg"/>
+</entry>
+<entry l="LAK342" oid="o0001984" n="|LU₂×TAK₄|">
+<rows><row src="/osl/images/lak/rows/LAK342.png"/></rows><sub l="LAK342" cp="U+1251E" utf8="𒔞" svg="/osl/images/lak/svg/LAK342.svg"/>
+</entry>
+<entry l="LAK343" oid="o0000355" n="LAK343">
+<rows><row src="/osl/images/lak/rows/LAK343.png"/></rows><sub l="LAK343" cp="U+124EA" utf8="𒓪" svg="/osl/images/lak/svg/LAK343.svg"/>
+</entry>
+<entry l="LAK344" oid="o0001967" n="|LU₂×BAD|">
+<rows><row src="/osl/images/lak/rows/LAK344.png"/></rows><sub l="LAK344" cp="U+121FF" utf8="𒇿" svg="/osl/images/lak/svg/LAK344.svg"/>
+</entry>
+<entry l="LAK345" oid="o0001957" n="|LU₂@s×BAD|">
+<rows><row src="/osl/images/lak/rows/LAK345.png"/></rows><sub l="LAK345" cp="U+12389" utf8="𒎉" svg="/osl/images/lak/svg/LAK345.svg"/>
+</entry>
+<entry l="LAK346" oid="o0000109" n="AŠGAB">
+<rows><row src="/osl/images/lak/rows/LAK346.png"/></rows><sub l="LAK346" cp="U+1203F" utf8="𒀿" svg="/osl/images/lak/svg/LAK346.svg"/>
+</entry>
+<entry l="LAK347" oid="o0000356" n="LAK347">
+<rows><row src="/osl/images/lak/rows/LAK347.png"/></rows><sub l="LAK347" cp="U+124EB" utf8="𒓫" svg="/osl/images/lak/svg/LAK347.svg"/>
+</entry>
+<entry l="LAK348" oid="o0000357" n="LAK348">
+<rows><row src="/osl/images/lak/rows/LAK348.png"/></rows><sub l="LAK348" cp="U+124EC" utf8="𒓬" svg="/osl/images/lak/svg/LAK348.svg"/>
+</entry>
+<entry l="LAK349" oid="o0000358" n="LAK349">
+<rows><row src="/osl/images/lak/rows/LAK349.png"/></rows><sub l="LAK349" cp="U+F1054" utf8="󱁔" svg="/osl/images/lak/svg/LAK349.svg"/>
+</entry>
+<entry l="LAK350" oid="o0000592" n="UZU">
+<rows><row src="/osl/images/lak/rows/LAK350.png"/></rows><sub l="LAK350" cp="U+1235C" utf8="𒍜" svg="/osl/images/lak/svg/LAK350.svg"/>
+</entry>
+<entry l="LAK351" oid="o0000232" n="HA">
+<rows><row src="/osl/images/lak/rows/LAK351.png"/></rows><sub l="LAK351" cp="U+12129" utf8="𒄩" svg="/osl/images/lak/svg/LAK351.svg"/>
+</entry>
+<entry l="LAK352" oid="o0000234" n="HA@t">
+<rows><row src="/osl/images/lak/rows/LAK352.png"/></rows><sub l="LAK352" cp="U+1212A" utf8="𒄪" svg="/osl/images/lak/svg/LAK352.svg"/>
+</entry>
+<entry l="LAK353" oid="o0000233" n="HA@g">
+<rows><row src="/osl/images/lak/rows/LAK353.png"/></rows><sub l="LAK353" cp="U+1212B" utf8="𒄫" svg="/osl/images/lak/svg/LAK353.svg"/>
+</entry>
+<entry l="LAK354" oid="o0000235" n="HA@t@g">
+<rows><row src="/osl/images/lak/rows/LAK354.png"/></rows><sub l="LAK354" cp="U+124CE" utf8="𒓎" svg="/osl/images/lak/svg/LAK354.svg"/>
+</entry>
+<entry l="LAK355" oid="o0027565" n="LA₂@t">
+<rows><row src="/osl/images/lak/rows/LAK355.png"/></rows><sub l="LAK355" cp="U+F1056" utf8="󱁖" svg="/osl/images/lak/svg/LAK355.svg"/>
+</entry>
+<entry l="LAK356" oid="o0002812" n="|ŠU₂.AN|">
+<rows><row src="/osl/images/lak/rows/LAK356.png"/></rows><sub l="LAK356" cp="x122D9.x1202D" utf8="𒋙𒀭" svg="/osl/images/lak/svg/LAK356.svg"/>
+</entry>
+<entry l="LAK357" oid="o0002811" n="|ŠU₂.AN.HI×GAD|">
+<rows><row src="/osl/images/lak/rows/LAK357.png"/></rows><sub l="LAK357" cp="x122D9.x1202D.x12132" utf8="𒋙𒀭𒄲" svg="/osl/images/lak/svg/LAK357.svg"/>
+</entry>
+<entry l="LAK358" oid="o0002807" n="|ŠU₂.(E₂×AN)|">
+<rows><row src="/osl/images/lak/rows/LAK358.png"/></rows><sub l="LAK358" cp="U+12537" utf8="𒔷" svg="/osl/images/lak/svg/LAK358.svg"/>
+</entry>
+<entry l="LAK359" oid="o0000237" n="HI">
+<rows><row src="/osl/images/lak/rows/LAK359.png"/></rows><sub l="LAK359" cp="U+1212D" utf8="𒄭" svg="/osl/images/lak/svg/LAK359.svg"/>
+</entry>
+<entry l="LAK360" oid="o0001443" n="|HI.A|">
+<rows><row src="/osl/images/lak/rows/LAK360.png"/></rows><sub l="LAK360" cp="x1212D.x12000" utf8="𒄭𒀀" svg="/osl/images/lak/svg/LAK360.svg"/>
+</entry>
+<entry l="LAK361" oid="o0001447" n="|HI×AŠ|">
+<rows><row src="/osl/images/lak/rows/LAK361.png"/></rows><sub l="LAK361" cp="U+1212E" utf8="𒄮" svg="/osl/images/lak/svg/LAK361.svg"/>
+</entry>
+<entry l="LAK362" oid="o0000624" n="|(HI×AŠ)&amp;(HI×AŠ)|">
+<rows><row src="/osl/images/lak/rows/LAK362.png"/></rows><sub l="LAK362" cp="U+124CF" utf8="𒓏" svg="/osl/images/lak/svg/LAK362.svg"/>
+</entry>
+<entry l="LAK363" oid="o0025841" n="LAK363">
+<rows><row src="/osl/images/lak/rows/LAK363.png"/></rows><sub l="LAK363" cp="U+F1057" utf8="󱁗" svg="/osl/images/lak/svg/LAK363.svg"/>
+</entry>
+<entry l="LAK364" oid="o0000490" n="NUNUZ">
+<rows><row src="/osl/images/lak/rows/LAK364.png"/></rows><sub l="LAK364" cp="U+1226D" utf8="𒉭" svg="/osl/images/lak/svg/LAK364.svg"/>
+</entry>
+<entry l="LAK365" oid="o0027609" n="|HI×HAL|">
+<rows><row src="/osl/images/lak/rows/LAK365.png"/></rows><sub l="LAK365" cp="U+F1058" utf8="󱁘" svg="/osl/images/lak/svg/LAK365.svg"/>
+</entry>
+<entry l="LAK366" oid="o0001453" n="|HI×BAD|">
+<rows><row src="/osl/images/lak/rows/LAK366.png"/></rows><sub l="LAK366" cp="U+12130" utf8="𒄰" svg="/osl/images/lak/svg/LAK366.svg"/>
+</entry>
+<entry l="LAK367" oid="o0001462" n="|HI×NUN|">
+<rows><row src="/osl/images/lak/rows/LAK367.png"/></rows><sub l="LAK367" cp="U+12134" utf8="𒄴" svg="/osl/images/lak/svg/LAK367.svg"/>
+</entry>
+<entry l="LAK368" oid="o0001461" n="|HI×NUN.ME|">
+<rows><row src="/osl/images/lak/rows/LAK368.png"/></rows><sub l="LAK368" cp="x12134.x12228" utf8="𒄴𒈨" svg="/osl/images/lak/svg/LAK368.svg"/>
+</entry>
+<entry l="LAK369" oid="o0000361" n="LAK369">
+<rows><row src="/osl/images/lak/rows/LAK369.png"/></rows><sub l="LAK369" cp="U+F105A" utf8="󱁚" svg="/osl/images/lak/svg/LAK369.svg"/>
+</entry>
+<entry l="LAK370" oid="o0001452" n="|HI×AŠ₂|">
+<rows><row src="/osl/images/lak/rows/LAK370.png"/></rows><sub l="LAK370" cp="U+1212F" utf8="𒄯" svg="/osl/images/lak/svg/LAK370,1.svg"/>
+<sub l="LAK370" salt="1" cp="U+1212F.1" utf8="𒄯" svg="/osl/images/lak/svg/LAK370,2.svg"/></entry>
+<entry l="LAK371" oid="o0001449" n="|HI×AŠ₂.HI×AŠ₂|">
+<rows><row src="/osl/images/lak/rows/LAK371.png"/></rows><sub l="LAK371" cp="x1212F.x1212F" utf8="𒄯𒄯" svg="/osl/images/lak/svg/LAK371.svg"/>
+</entry>
+<entry l="LAK372" oid="o0001464" n="|HI×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK372.png"/></rows><sub l="LAK372" cp="U+12135" utf8="𒄵" svg="/osl/images/lak/svg/LAK372.svg"/>
+</entry>
+<entry l="LAK373" oid="o0000550" n="TE">
+<rows><row src="/osl/images/lak/rows/LAK373.png"/></rows><sub l="LAK373" cp="U+122FC" utf8="𒋼" svg="/osl/images/lak/svg/LAK373.svg"/>
+</entry>
+<entry l="LAK374" oid="o0002414" n="|TE.ME|">
+<rows><row src="/osl/images/lak/rows/LAK374.png"/></rows><sub l="LAK374" cp="x122FC.x12228" utf8="𒋼𒈨" svg="/osl/images/lak/svg/LAK374.svg"/>
+</entry>
+<entry l="LAK375" oid="o0002412" n="|TE.A|">
+<rows><row src="/osl/images/lak/rows/LAK375.png"/></rows><sub l="LAK375a" cp="x122FC.x12000" utf8="𒋼𒀀" svg="/osl/images/lak/svg/LAK375a.svg"/>
+<sub l="LAK375b" cp="U+F3001" utf8="󳀁" svg="/osl/images/lak/svg/LAK375b.svg"/>
+</entry>
+<entry l="LAK376" oid="o0000254" n="IM">
+<rows><row src="/osl/images/lak/rows/LAK376.png"/></rows><sub l="LAK376" cp="U+1214E" utf8="𒅎" svg="/osl/images/lak/svg/LAK376.svg"/>
+</entry>
+<entry l="LAK377" oid="o0000486" n="NI₂">
+<rows><row src="/osl/images/lak/rows/LAK377.png"/></rows><sub l="LAK377" cp="U+1224E" utf8="𒉎" svg="/osl/images/lak/svg/LAK377.svg"/>
+</entry>
+<entry l="LAK378" oid="o0001549" n="|IM×TAK₄|">
+<rows><row src="/osl/images/lak/rows/LAK378.png"/></rows><sub l="LAK378" cp="U+1214F" utf8="𒅏" svg="/osl/images/lak/svg/LAK378.svg"/>
+</entry>
+<entry l="LAK379" oid="o0000565" n="UD">
+<rows><row src="/osl/images/lak/rows/LAK379.png"/></rows><sub l="LAK379a" cp="U+12313" utf8="𒌓" svg="/osl/images/lak/svg/LAK379a,1.svg"/>
+<sub l="LAK379a" salt="1" cp="U+12313.1" utf8="𒌓" svg="/osl/images/lak/svg/LAK379a,2.svg"/><sub l="LAK379b" salt="2" cp="U+12313.2" utf8="𒌓" svg="/osl/images/lak/svg/LAK379b.svg"/></entry>
+<entry l="LAK380" oid="o0025842" n="LAK380">
+<rows><row src="/osl/images/lak/rows/LAK380.png"/></rows><sub l="LAK380" cp="U+F105B" utf8="󱁛" svg="/osl/images/lak/svg/LAK380.svg"/>
+</entry>
+<entry l="LAK381" oid="o0002516" n="|UD@s×BAD|">
+<rows><row src="/osl/images/lak/rows/LAK381.png"/></rows><sub l="LAK381" cp="U+1231B" utf8="𒌛" svg="/osl/images/lak/svg/LAK381.svg"/>
+</entry>
+<entry l="LAK382" oid="o0000551" n="TE@g">
+<rows><row src="/osl/images/lak/rows/LAK382.png"/></rows><sub l="LAK382" cp="U+122FD" utf8="𒋽" svg="/osl/images/lak/svg/LAK382.svg"/>
+</entry>
+<entry l="LAK383" oid="o0000363" n="LAK383">
+<rows><row src="/osl/images/lak/rows/LAK383.png"/></rows><sub l="LAK383" cp="U+124ED" utf8="𒓭" svg="/osl/images/lak/svg/LAK383.svg"/>
+</entry>
+<entry l="LAK384" oid="o0000364" n="LAK384">
+<rows><row src="/osl/images/lak/rows/LAK384.png"/></rows><sub l="LAK384" cp="U+124EE" utf8="𒓮" svg="/osl/images/lak/svg/LAK384.svg"/>
+</entry>
+<entry l="LAK385" oid="o0002850" n="ŠU₂">
+<rows><row src="/osl/images/lak/rows/LAK385.png"/></rows><sub l="LAK385" cp="U+122D9" utf8="𒋙" svg="/osl/images/lak/svg/LAK385.svg"/>
+</entry>
+<entry l="LAK386" oid="o0000365" n="LAK386">
+<rows><row src="/osl/images/lak/rows/LAK386.png"/></rows><sub l="LAK386" cp="U+F105C" utf8="󱁜" svg="/osl/images/lak/svg/LAK386.svg"/>
+</entry>
+<entry l="LAK387" oid="o0000366" n="LAK387">
+<rows><row src="/osl/images/lak/rows/LAK387.png"/></rows><sub l="LAK387" cp="U+F105D" utf8="󱁝" svg="/osl/images/lak/svg/LAK387.svg"/>
+</entry>
+<entry l="LAK388" oid="o0000367" n="LAK388">
+<rows><row src="/osl/images/lak/rows/LAK388.png"/></rows><sub l="LAK388" cp="U+F105E" utf8="󱁞" svg="/osl/images/lak/svg/LAK388.svg"/>
+</entry>
+<entry l="LAK389" oid="o0000224" n="GUL">
+<rows><row src="/osl/images/lak/rows/LAK389.png"/></rows><sub l="LAK389" cp="U+12122" utf8="𒄢" svg="/osl/images/lak/svg/LAK389.svg"/>
+</entry>
+<entry l="LAK390" oid="o0000368" n="LAK390">
+<rows><row src="/osl/images/lak/rows/LAK390.png"/></rows><sub l="LAK390" cp="U+124EF" utf8="𒓯" svg="/osl/images/lak/svg/LAK390.svg"/>
+</entry>
+<entry l="LAK391" oid="o0000455" n="MI">
+<rows><row src="/osl/images/lak/rows/LAK391.png"/></rows><sub l="LAK391" cp="U+1222A" utf8="𒈪" svg="/osl/images/lak/svg/LAK391.svg"/>
+</entry>
+<entry l="LAK392" oid="o0000156" n="DUGUD">
+<rows><row src="/osl/images/lak/rows/LAK392.png"/></rows><sub l="LAK392" cp="U+12082" utf8="𒂂" svg="/osl/images/lak/svg/LAK392.svg"/>
+</entry>
+<entry l="LAK393" oid="o0002015" n="|MI.ZA₇|">
+<rows><row src="/osl/images/lak/rows/LAK393.png"/></rows><sub l="LAK393" cp="U+1251F" utf8="𒔟" svg="/osl/images/lak/svg/LAK393.svg"/>
+</entry>
+<entry l="LAK394" oid="o0000212" n="GIG">
+<rows><row src="/osl/images/lak/rows/LAK394.png"/></rows><sub l="LAK394" cp="U+1237C" utf8="𒍼" svg="/osl/images/lak/svg/LAK394.svg"/>
+</entry>
+<entry l="LAK395" oid="o0038384" n="LAK395">
+<rows><row src="/osl/images/lak/rows/LAK395.png"/></rows><sub l="LAK395" cp="U+F105F" utf8="󱁟" svg="/osl/images/lak/svg/LAK395.svg"/>
+</entry>
+<entry l="LAK396" oid="o0002815" n="|ŠU₂.DUG×NI|">
+<rows><row src="/osl/images/lak/rows/LAK396.png"/></rows><sub l="LAK396" cp="U+12536" utf8="𒔶" svg="/osl/images/lak/svg/LAK396.svg"/>
+</entry>
+<entry l="LAK397" oid="o0027760" n="|ŠU₂.E₂|">
+<rows><row src="/osl/images/lak/rows/LAK397.png"/></rows><sub l="LAK397" cp="x122D9.x1208D" utf8="𒋙𒂍" svg="/osl/images/lak/svg/LAK397.svg"/>
+</entry>
+<entry l="LAK398" oid="o0000498" n="PAD">
+<rows><row src="/osl/images/lak/rows/LAK398.png"/></rows><sub l="LAK398" cp="U+1227B" utf8="𒉻" svg="/osl/images/lak/svg/LAK398.svg"/>
+</entry>
+<entry l="LAK399" oid="o0038386" n="LAK399">
+<rows><row src="/osl/images/lak/rows/LAK399.png"/></rows><sub l="LAK399" cp="U+F1060" utf8="󱁠" svg="/osl/images/lak/svg/LAK399.svg"/>
+</entry>
+<entry l="LAK400" oid="o0000527" n="SIG">
+<rows><row src="/osl/images/lak/rows/LAK400.png"/></rows><sub l="LAK400" cp="U+122DD" utf8="𒋝" svg="/osl/images/lak/svg/LAK400.svg"/>
+</entry>
+<entry l="LAK401" oid="o0002473" n="|U.UD|">
+<rows><row src="/osl/images/lak/rows/LAK401.png"/></rows><sub l="LAK401" cp="x1230B.x12313" utf8="𒌋𒌓" svg="/osl/images/lak/svg/LAK401.svg"/>
+</entry>
+<entry l="LAK402" oid="o0002472" n="|U.UD.KID|">
+<rows><row src="/osl/images/lak/rows/LAK402.png"/></rows><sub l="LAK402" cp="x1230B.x12313.x121A4" utf8="𒌋𒌓𒆤" svg="/osl/images/lak/svg/LAK402.svg"/>
+</entry>
+<entry l="LAK403" oid="o0000090" n="AB₂">
+<rows><row src="/osl/images/lak/rows/LAK403.png"/></rows><sub l="LAK403" cp="U+12016" utf8="𒀖" svg="/osl/images/lak/svg/LAK403.svg"/>
+</entry>
+<entry l="LAK404" oid="o0000763" n="|AB₂.ŠA₃|">
+<rows><row src="/osl/images/lak/rows/LAK404.png"/></rows><sub l="LAK404" cp="x12016.x122AE" utf8="𒀖𒊮" svg="/osl/images/lak/svg/LAK404.svg"/>
+</entry>
+<entry l="LAK405" oid="o0027588" n="|(AB₂.ŠA₃)&amp;(AB₂.ŠA₃)|">
+<rows><row src="/osl/images/lak/rows/LAK405.png"/></rows><sub l="LAK405" cp="U+F1061" utf8="󱁡" svg="/osl/images/lak/svg/LAK405.svg"/>
+</entry>
+<entry l="LAK406" oid="o0000770" n="|AB₂×TAK₄|">
+<rows><row src="/osl/images/lak/rows/LAK406.png"/></rows><sub l="LAK406" cp="U+1201B" utf8="𒀛" svg="/osl/images/lak/svg/LAK406.svg"/>
+</entry>
+<entry l="LAK407" oid="o0025844" n="LAK407">
+<rows><row src="/osl/images/lak/rows/LAK407.png"/></rows><sub l="LAK407" cp="U+F1062" utf8="󱁢" svg="/osl/images/lak/svg/LAK407.svg"/>
+</entry>
+<entry l="LAK408" oid="o0000370" n="LAK408">
+<rows><row src="/osl/images/lak/rows/LAK408.png"/></rows><sub l="LAK408" cp="U+F1063" utf8="󱁣" svg="/osl/images/lak/svg/LAK408.svg"/>
+</entry>
+<entry l="LAK409" oid="o0000371" n="LAK409">
+<rows><row src="/osl/images/lak/rows/LAK409.png"/></rows><sub l="LAK409" cp="U+F1064" utf8="󱁤" svg="/osl/images/lak/svg/LAK409.svg"/>
+</entry>
+<entry l="LAK410" oid="o0000372" n="LAK410">
+<rows><row src="/osl/images/lak/rows/LAK410.png"/></rows><sub l="LAK410" cp="U+F1065" utf8="󱁥" svg="/osl/images/lak/svg/LAK410.svg"/>
+</entry>
+<entry l="LAK411" oid="o0002477" n="|U.ŠA|">
+<rows><row src="/osl/images/lak/rows/LAK411.png"/></rows><sub l="LAK411" cp="x1230B.x122AD" utf8="𒌋𒊭" svg="/osl/images/lak/svg/LAK411.svg"/>
+</entry>
+<entry l="LAK412" oid="o0002457" n="|U.GA|">
+<rows><row src="/osl/images/lak/rows/LAK412.png"/></rows><sub l="LAK412" cp="x1230B.x120B5" utf8="𒌋𒂵" svg="/osl/images/lak/svg/LAK412.svg"/>
+</entry>
+<entry l="LAK413" oid="o0002461" n="|U.KA|">
+<rows><row src="/osl/images/lak/rows/LAK413.png"/></rows><sub l="LAK413" cp="x1230B.x12157" utf8="𒌋𒅗" svg="/osl/images/lak/svg/LAK413.svg"/>
+</entry>
+<entry l="LAK414" oid="o0002446" n="|U.AD|">
+<rows><row src="/osl/images/lak/rows/LAK414.png"/></rows><sub l="LAK414" cp="x1230B.x1201C" utf8="𒌋𒀜" svg="/osl/images/lak/svg/LAK414.svg"/>
+</entry>
+<entry l="LAK415" oid="o0038388" n="LAK415">
+<rows><row src="/osl/images/lak/rows/LAK415.png"/></rows><sub l="LAK415" cp="U+F1066" utf8="󱁦" svg="/osl/images/lak/svg/LAK415.svg"/>
+</entry>
+<entry l="LAK416" oid="o0025846" n="LAK416">
+<rows><row src="/osl/images/lak/rows/LAK416.png"/></rows><sub l="LAK416" cp="U+F1067" utf8="󱁧" svg="/osl/images/lak/svg/LAK416.svg"/>
+</entry>
+<entry l="LAK417" oid="o0000456" n="MIN">
+<rows><row src="/osl/images/lak/rows/LAK417.png"/></rows><sub l="LAK417" cp="U+1222B" utf8="𒈫" svg="/osl/images/lak/svg/LAK417,1.svg"/>
+<sub l="LAK417" salt="1" cp="U+1222B.1" utf8="𒈫" svg="/osl/images/lak/svg/LAK417,2.svg"/></entry>
+<entry l="LAK418" oid="o0002442" n="|U&amp;U.SUR&amp;SUR|">
+<rows><row src="/osl/images/lak/rows/LAK418.png"/></rows><sub l="LAK418" cp="U+1230F" utf8="𒌏" svg="/osl/images/lak/svg/LAK418.svg"/>
+</entry>
+<entry l="LAK419" oid="o0002441" n="|U&amp;U.PA&amp;PA.GAR&amp;GAR|">
+<rows><row src="/osl/images/lak/rows/LAK419.png"/></rows><sub l="LAK419" cp="U+1230E" utf8="𒌎" svg="/osl/images/lak/svg/LAK419.svg"/>
+</entry>
+<entry l="LAK420" oid="o0027646" n="|U&amp;U.GAR₃&amp;GAR₃|">
+<rows><row src="/osl/images/lak/rows/LAK420.png"/></rows><sub l="LAK420" cp="U+F3004" utf8="󳀄" svg="/osl/images/lak/svg/LAK420.svg"/>
+</entry>
+<entry l="LAK421" oid="o0000247" n="IGI">
+<rows><row src="/osl/images/lak/rows/LAK421.png"/></rows><sub l="LAK421a" cp="U+12146" utf8="𒅆" svg="/osl/images/lak/svg/LAK421a.svg"/>
+<sub l="LAK421b" salt="1" cp="U+12146.1" utf8="𒅆" svg="/osl/images/lak/svg/LAK421b.svg"/></entry>
+<entry l="LAK422" oid="o0001510" n="|IGI.RI|">
+<rows><row src="/osl/images/lak/rows/LAK422.png"/></rows><sub l="LAK422" cp="U+12148" utf8="𒅈" svg="/osl/images/lak/svg/LAK422.svg"/>
+</entry>
+<entry l="LAK423" oid="o0001511" n="|IGI.RU|">
+<rows><row src="/osl/images/lak/rows/LAK423.png"/></rows><sub l="LAK423" cp="x12146.x12292" utf8="𒅆𒊒" svg="/osl/images/lak/svg/LAK423.svg"/>
+</entry>
+<entry l="LAK424" oid="o0001492" n="|IGI.ERIN₂|">
+<rows><row src="/osl/images/lak/rows/LAK424.png"/></rows><sub l="LAK424" cp="x12146.x1209F" utf8="𒅆𒂟" svg="/osl/images/lak/svg/LAK424.svg"/>
+</entry>
+<entry l="LAK425" oid="o0038390" n="|IGI.UD|">
+<rows><row src="/osl/images/lak/rows/LAK425.png"/></rows><sub l="LAK425" cp="x12146.x12313" utf8="𒅆𒌓" svg="/osl/images/lak/svg/LAK425.svg"/>
+</entry>
+<entry l="LAK426" oid="o0221938" n="|IGI.GAN₂@t|">
+<rows><row src="/osl/images/lak/rows/LAK426.png"/></rows><sub l="LAK426" cp="x12146.x120F8" utf8="𒅆𒃸" svg="/osl/images/lak/svg/LAK426.svg"/>
+</entry>
+<entry l="LAK427" oid="o0001489" n="|IGI.DUB|">
+<rows><row src="/osl/images/lak/rows/LAK427.png"/></rows><sub l="LAK427" cp="x12146.x1207E" utf8="𒅆𒁾" svg="/osl/images/lak/svg/LAK427.svg"/>
+</entry>
+<entry l="LAK428" oid="o0001516" n="|IGI.UR|">
+<rows><row src="/osl/images/lak/rows/LAK428.png"/></rows><sub l="LAK428" cp="x12146.x12328" utf8="𒅆𒌨" svg="/osl/images/lak/svg/LAK428.svg"/>
+</entry>
+<entry l="LAK429" oid="o0031712" n="|IGI.KID|">
+<rows><row src="/osl/images/lak/rows/LAK429.png"/></rows><sub l="LAK429" cp="x12146.x121A4" utf8="𒅆𒆤" svg="/osl/images/lak/svg/LAK429.svg"/>
+</entry>
+<entry l="LAK430" oid="o0038392" n="|IGI.NISAG|">
+<rows><row src="/osl/images/lak/rows/LAK430.png"/></rows><sub l="LAK430" cp="x12146.x12260" utf8="𒅆𒉠" svg="/osl/images/lak/svg/LAK430.svg"/>
+</entry>
+<entry l="LAK431" oid="o0025848" n="LAK431">
+<rows><row src="/osl/images/lak/rows/LAK431.png"/></rows><sub l="LAK431" cp="U+F1069" utf8="󱁩" svg="/osl/images/lak/svg/LAK431.svg"/>
+</entry>
+<entry l="LAK432" oid="o0001487" n="|IGI.DIB|">
+<rows><row src="/osl/images/lak/rows/LAK432.png"/></rows><sub l="LAK432" cp="U+12147" utf8="𒅇" svg="/osl/images/lak/svg/LAK432.svg"/>
+</entry>
+<entry l="LAK433" oid="o0018571" n="LAK433">
+<rows><row src="/osl/images/lak/rows/LAK433.png"/></rows><sub l="LAK433" cp="U+F106A" utf8="󱁪" svg="/osl/images/lak/svg/LAK433.svg"/>
+</entry>
+<entry l="LAK434" oid="o0001495" n="|IGI.EŠ₂|">
+<rows><row src="/osl/images/lak/rows/LAK434.png"/></rows><sub l="LAK434" cp="x12146.x120A0" utf8="𒅆𒂠" svg="/osl/images/lak/svg/LAK434.svg"/>
+</entry>
+<entry l="LAK435" oid="o0001497" n="|IGI.GAR|">
+<rows><row src="/osl/images/lak/rows/LAK435.png"/></rows><sub l="LAK435" cp="x12146.x120FB" utf8="𒅆𒃻" svg="/osl/images/lak/svg/LAK435.svg"/>
+</entry>
+<entry l="LAK436" oid="" n="No drawn sign; some references">
+<rows><row src="/osl/images/lak/rows/LAK436.png"/></rows><sub l="LAK436" cp="U+F2003" utf8="󲀃" svg="/osl/images/lak/svg/LAK436.svg"/>
+</entry>
+<entry l="LAK437" oid="o0000248" n="IGI@g">
+<rows><row src="/osl/images/lak/rows/LAK437.png"/></rows><sub l="LAK437" salt="1" cp="U+1214A.1" utf8="𒅊" svg="/osl/images/lak/svg/LAK437.svg"/></entry>
+<entry l="LAK438" oid="o0000296" n="KU₃">
+<rows><row src="/osl/images/lak/rows/LAK438.png"/></rows><sub l="LAK438" cp="U+121AC" utf8="𒆬" svg="/osl/images/lak/svg/LAK438,1.svg"/>
+<sub l="LAK438" salt="1" cp="U+121AC.1" utf8="𒆬" svg="/osl/images/lak/svg/LAK438,2.svg"/></entry>
+<entry l="LAK439" oid="o0000139" n="DI">
+<rows><row src="/osl/images/lak/rows/LAK439.png"/></rows><sub l="LAK439" cp="U+12072" utf8="𒁲" svg="/osl/images/lak/svg/LAK439.svg"/>
+</entry>
+<entry l="LAK440" oid="o0000279" n="KI">
+<rows><row src="/osl/images/lak/rows/LAK440.png"/></rows><sub l="LAK440" cp="U+121A0" utf8="𒆠" svg="/osl/images/lak/svg/LAK440.svg"/>
+</entry>
+<entry l="LAK441" oid="o0000373" n="LAK441">
+<rows><row src="/osl/images/lak/rows/LAK441.png"/></rows><sub l="LAK441" cp="U+124F0" utf8="𒓰" svg="/osl/images/lak/svg/LAK441.svg"/>
+</entry>
+<entry l="LAK442" oid="o0000309" n="LAHŠU">
+<rows><row src="/osl/images/lak/rows/LAK442.png"/></rows><sub l="LAK442" cp="U+121F1" utf8="𒇱" svg="/osl/images/lak/svg/LAK442.svg"/>
+</entry>
+<entry l="LAK443" oid="o0002828" n="ŠA₃">
+<rows><row src="/osl/images/lak/rows/LAK443.png"/></rows><sub l="LAK443" cp="U+122AE" utf8="𒊮" svg="/osl/images/lak/svg/LAK443,1.svg"/>
+<sub l="LAK443" salt="1" cp="U+122AE.1" utf8="𒊮" svg="/osl/images/lak/svg/LAK443,2.svg"/><sub l="LAK443" salt="2" cp="U+122AE.2" utf8="𒊮" svg="/osl/images/lak/svg/LAK443,3.svg"/><sub l="LAK443" salt="3" cp="U+122AE.3" utf8="𒊮" svg="/osl/images/lak/svg/LAK443,4.svg"/></entry>
+<entry l="LAK444" oid="o0027544" n="LAK444">
+<rows><row src="/osl/images/lak/rows/LAK444.png"/></rows><sub l="LAK444" cp="U+F106B" utf8="󱁫" svg="/osl/images/lak/svg/LAK444.svg"/>
+</entry>
+<entry l="LAK445" oid="o0027545" n="LAK445">
+<rows><row src="/osl/images/lak/rows/LAK445.png"/></rows><sub l="LAK445" cp="U+F106C" utf8="󱁬" svg="/osl/images/lak/svg/LAK445.svg"/>
+</entry>
+<entry l="LAK446" oid="o0001766" n="|KUŠU₂×SAL|">
+<rows><row src="/osl/images/lak/rows/LAK446.png"/></rows><sub l="LAK446" cp="U+F106D" utf8="󱁭" svg="/osl/images/lak/svg/LAK446.svg"/>
+</entry>
+<entry l="LAK447" oid="o0000502" n="PI">
+<rows><row src="/osl/images/lak/rows/LAK447.png"/></rows><sub l="LAK447" cp="U+1227F" utf8="𒉿" svg="/osl/images/lak/svg/LAK447,1.svg"/>
+<sub l="LAK447" salt="1" cp="U+1227F.1" utf8="𒉿" svg="/osl/images/lak/svg/LAK447,2.svg"/></entry>
+<entry l="LAK448" oid="" n="Sequence PI A">
+<rows><row src="/osl/images/lak/rows/LAK448.png"/></rows><sub l="LAK448" cp="U+F2004" utf8="󲀄" svg="/osl/images/lak/svg/LAK448.svg"/>
+</entry>
+<entry l="LAK449" oid="o0002142" n="|NUNUZ.AB₂|">
+<rows><row src="/osl/images/lak/rows/LAK449.png"/></rows><sub l="LAK449" cp="x1226D.x12016" utf8="𒉭𒀖" svg="/osl/images/lak/svg/LAK449.svg"/>
+</entry>
+<entry l="LAK450" oid="o0000375" n="LAK450">
+<rows><row src="/osl/images/lak/rows/LAK450.png"/></rows><sub l="LAK450" cp="U+124F7" utf8="𒓷" svg="/osl/images/lak/svg/LAK450.svg"/>
+</entry>
+<entry l="LAK451" oid="o0002146" n="|NUNUZ.AB₂×AŠGAB|">
+<rows><row src="/osl/images/lak/rows/LAK451.png"/></rows><sub l="LAK451" cp="U+1226E" utf8="𒉮" svg="/osl/images/lak/svg/LAK451.svg"/>
+</entry>
+<entry l="LAK452" oid="o0001856" n="|LAK449×(U₂.BA)|">
+<rows><row src="/osl/images/lak/rows/LAK452.png"/></rows><sub l="LAK452" cp="U+124F6" utf8="𒓶" svg="/osl/images/lak/svg/LAK452.svg"/>
+</entry>
+<entry l="LAK453" oid="o0001855" n="|LAK449×(PAP.PAP.LU₃)|">
+<rows><row src="/osl/images/lak/rows/LAK453.png"/></rows><sub l="LAK453" cp="U+124F5" utf8="𒓵" svg="/osl/images/lak/svg/LAK453.svg"/>
+</entry>
+<entry l="LAK454" oid="o0001854" n="|LAK449×(PAP.LU₃)|">
+<rows><row src="/osl/images/lak/rows/LAK454.png"/></rows><sub l="LAK454" cp="U+124F4" utf8="𒓴" svg="/osl/images/lak/svg/LAK454.svg"/>
+</entry>
+<entry l="LAK455" oid="o0027622" n="|LAK449a×IGI|">
+<rows><row src="/osl/images/lak/rows/LAK455.png"/><row src="/osl/images/lak/rows/LAK455a.png"/></rows><sub l="LAK455" cp="U+124F3" utf8="𒓳" svg="/osl/images/lak/svg/LAK455.svg"/>
+</entry>
+<entry l="LAK456" oid="o0027547" n="LAK456">
+<rows><row src="/osl/images/lak/rows/LAK456.png"/></rows><sub l="LAK456" cp="U+F106F" utf8="󱁯" svg="/osl/images/lak/svg/LAK456.svg"/>
+</entry>
+<entry l="LAK457" oid="o0000377" n="LAK457">
+<rows><row src="/osl/images/lak/rows/LAK457.png"/></rows><sub l="LAK457" cp="U+124F8" utf8="𒓸" svg="/osl/images/lak/svg/LAK457.svg"/>
+</entry>
+<entry l="LAK458" oid="o0002456" n="|U.GAN|">
+<rows><row src="/osl/images/lak/rows/LAK458.png"/></rows><sub l="LAK458" cp="x1230B.x120F6" utf8="𒌋𒃶" svg="/osl/images/lak/svg/LAK458.svg"/>
+</entry>
+<entry l="LAK459" oid="o0000615" n="ZUBI">
+<rows><row src="/osl/images/lak/rows/LAK459.png"/></rows><sub l="LAK459" cp="U+F1070" utf8="󱁰" svg="/osl/images/lak/svg/LAK459.svg"/>
+</entry>
+<entry l="LAK460" oid="o0000379" n="LAK460">
+<rows><row src="/osl/images/lak/rows/LAK460.png"/></rows><sub l="LAK460" salt="1" cp="U+1219B.1" utf8="𒆛" svg="/osl/images/lak/svg/LAK460.svg"/></entry>
+<entry l="LAK461" oid="o0000294" n="KUR">
+<rows><row src="/osl/images/lak/rows/LAK461.png"/></rows><sub l="LAK461" cp="U+F1071" utf8="󱁱" svg="/osl/images/lak/svg/LAK461,1.svg"/>
+<sub l="LAK461" cp="U+121B3" utf8="𒆳" svg="/osl/images/lak/svg/LAK461,2.svg"/>
+<sub l="LAK461" salt="1" cp="U+121B3.1" utf8="𒆳" svg="/osl/images/lak/svg/LAK461,3.svg"/></entry>
+<entry l="LAK462" oid="o0000466" n="MUŠ₃">
+<rows><row src="/osl/images/lak/rows/LAK462.png"/></rows><sub l="LAK462" cp="U+12239" utf8="𒈹" svg="/osl/images/lak/svg/LAK462,1.svg"/>
+<sub l="LAK462" salt="1" cp="U+12239.1" utf8="𒈹" svg="/osl/images/lak/svg/LAK462,2.svg"/><sub l="LAK462" salt="2" cp="U+12239.2" utf8="𒈹" svg="/osl/images/lak/svg/LAK462,3.svg"/></entry>
+<entry l="LAK463" oid="o0000467" n="MUŠ₃@g">
+<rows><row src="/osl/images/lak/rows/LAK463.png"/></rows><sub l="LAK463" cp="U+1223D" utf8="𒈽" svg="/osl/images/lak/svg/LAK463.svg"/>
+</entry>
+<entry l="LAK464" oid="o0000210" n="GI">
+<rows><row src="/osl/images/lak/rows/LAK464.png"/></rows><sub l="LAK464" cp="U+12100" utf8="𒄀" svg="/osl/images/lak/svg/LAK464.svg"/>
+</entry>
+<entry l="LAK465" oid="o0001335" n="|GI%GI|">
+<rows><row src="/osl/images/lak/rows/LAK465.png"/></rows><sub l="LAK465" cp="U+12103" utf8="𒄃" svg="/osl/images/lak/svg/LAK465.svg"/>
+</entry>
+<entry l="LAK466" oid="o0000219" n="GI₄">
+<rows><row src="/osl/images/lak/rows/LAK466.png"/></rows><sub l="LAK466" cp="U+12104" utf8="𒄄" svg="/osl/images/lak/svg/LAK466.svg"/>
+</entry>
+<entry l="LAK467" oid="o0001409" n="|GI₄&amp;GI₄|">
+<rows><row src="/osl/images/lak/rows/LAK467.png"/></rows><sub l="LAK467" cp="U+12105" utf8="𒄅" svg="/osl/images/lak/svg/LAK467.svg"/>
+</entry>
+<entry l="LAK468" oid="o0000609" n="ZI">
+<rows><row src="/osl/images/lak/rows/LAK468.png"/></rows><sub l="LAK468" cp="U+12363" utf8="𒍣" svg="/osl/images/lak/svg/LAK468.svg"/>
+</entry>
+<entry l="LAK469" oid="o0002666" n="|ZI&amp;ZI|">
+<rows><row src="/osl/images/lak/rows/LAK469.png"/></rows><sub l="LAK469" cp="U+12364" utf8="𒍤" svg="/osl/images/lak/svg/LAK469.svg"/>
+</entry>
+<entry l="LAK470" oid="o0000380" n="LAK470">
+<rows><row src="/osl/images/lak/rows/LAK470.png"/></rows><sub l="LAK470" cp="U+124F9" utf8="𒓹" svg="/osl/images/lak/svg/LAK470.svg"/>
+</entry>
+<entry l="LAK471" oid="o0000381" n="LAK471">
+<rows><row src="/osl/images/lak/rows/LAK471.png"/></rows><sub l="LAK471" cp="U+F1072" utf8="󱁲" svg="/osl/images/lak/svg/LAK471.svg"/>
+</entry>
+<entry l="LAK472" oid="o0000588" n="UR₄">
+<rows><row src="/osl/images/lak/rows/LAK472.png"/></rows><sub l="LAK472" cp="U+12334" utf8="𒌴" svg="/osl/images/lak/svg/LAK472.svg"/>
+</entry>
+<entry l="LAK473" oid="o0000558" n="TUK">
+<rows><row src="/osl/images/lak/rows/LAK473.png"/></rows><sub l="LAK473" cp="U+12307" utf8="𒌇" svg="/osl/images/lak/svg/LAK473.svg"/>
+</entry>
+<entry l="LAK474" oid="o0000240" n="HUB₂">
+<rows><row src="/osl/images/lak/rows/LAK474.png"/></rows><sub l="LAK474" cp="U+12138" utf8="𒄸" svg="/osl/images/lak/svg/LAK474.svg"/>
+</entry>
+<entry l="LAK475" oid="o0001473" n="|HUB₂×AN|">
+<rows><row src="/osl/images/lak/rows/LAK475.png"/></rows><sub l="LAK475" cp="U+12139" utf8="𒄹" svg="/osl/images/lak/svg/LAK475.svg"/>
+</entry>
+<entry l="LAK476" oid="o0001477" n="|HUB₂×UD|">
+<rows><row src="/osl/images/lak/rows/LAK476.png"/></rows><sub l="LAK476" cp="U+1213D" utf8="𒄽" svg="/osl/images/lak/svg/LAK476.svg"/>
+</entry>
+<entry l="LAK477" oid="o0001475" n="|HUB₂×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK477.png"/></rows><sub l="LAK477" cp="U+1213B" utf8="𒄻" svg="/osl/images/lak/svg/LAK477.svg"/>
+</entry>
+<entry l="LAK478" oid="o0027542" n="KAB@g">
+<rows><row src="/osl/images/lak/rows/LAK478.png"/></rows><sub l="LAK478" cp="U+F1073" utf8="󱁳" svg="/osl/images/lak/svg/LAK478.svg"/>
+</entry>
+<entry l="LAK479" oid="o0000585" n="UR₂">
+<rows><row src="/osl/images/lak/rows/LAK479.png"/></rows><sub l="LAK479" cp="U+1232B" utf8="𒌫" svg="/osl/images/lak/svg/LAK479.svg"/>
+</entry>
+<entry l="LAK480" oid="o0002596" n="|UR₂×UD|">
+<rows><row src="/osl/images/lak/rows/LAK480.png"/></rows><sub l="LAK480" cp="U+1253D" utf8="𒔽" svg="/osl/images/lak/svg/LAK480.svg"/>
+</entry>
+<entry l="LAK481" oid="o0000143" n="DIM₂">
+<rows><row src="/osl/images/lak/rows/LAK481.png"/></rows><sub l="LAK481" cp="U+12076" utf8="𒁶" svg="/osl/images/lak/svg/LAK481.svg"/>
+</entry>
+<entry l="LAK482" oid="o0002597" n="|UR₂×U₂|">
+<rows><row src="/osl/images/lak/rows/LAK482.png"/></rows><sub l="LAK482" cp="U+12331" utf8="𒌱" svg="/osl/images/lak/svg/LAK482.svg"/>
+</entry>
+<entry l="LAK483" oid="o0000382" n="LAK483">
+<rows><row src="/osl/images/lak/rows/LAK483.png"/></rows><sub l="LAK483" cp="U+124FA" utf8="𒓺" svg="/osl/images/lak/svg/LAK483.svg"/>
+</entry>
+<entry l="LAK484" oid="o0000149" n="DU">
+<rows><row src="/osl/images/lak/rows/LAK484.png"/></rows><sub l="LAK484" cp="U+1207A" utf8="𒁺" svg="/osl/images/lak/svg/LAK484.svg"/>
+</entry>
+<entry l="LAK485" oid="o0027593" n="|DU×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK485.png"/></rows><sub l="LAK485" cp="U+F1074" utf8="󱁴" svg="/osl/images/lak/svg/LAK485.svg"/>
+</entry>
+<entry l="LAK486" oid="o0000150" n="DU@g">
+<rows><row src="/osl/images/lak/rows/LAK486.png"/></rows><sub l="LAK486" cp="U+1207C" utf8="𒁼" svg="/osl/images/lak/svg/LAK486.svg"/>
+</entry>
+<entry l="LAK487" oid="o0027591" n="|DU@g×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK487.png"/></rows><sub l="LAK487" cp="U+F1075" utf8="󱁵" svg="/osl/images/lak/svg/LAK487.svg"/>
+</entry>
+<entry l="LAK488" oid="o0000383" n="LAK488">
+<rows><row src="/osl/images/lak/rows/LAK488.png"/></rows><sub l="LAK488" cp="U+F1076" utf8="󱁶" svg="/osl/images/lak/svg/LAK488.svg"/>
+</entry>
+<entry l="LAK489" oid="o0023027" n="|ŠITA.GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK489.png"/></rows><sub l="LAK489" cp="x122D6.x12111" utf8="𒋖𒄑" svg="/osl/images/lak/svg/LAK489.svg"/>
+</entry>
+<entry l="LAK490" oid="o0000384" n="LAK490">
+<rows><row src="/osl/images/lak/rows/LAK490.png"/></rows><sub l="LAK490" cp="U+124FB" utf8="𒓻" svg="/osl/images/lak/svg/LAK490.svg"/>
+</entry>
+<entry l="LAK491" oid="o0027624" n="|LAK490×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK491.png"/></rows><sub l="LAK491" cp="U+F1078" utf8="󱁸" svg="/osl/images/lak/svg/LAK491.svg"/>
+</entry>
+<entry l="LAK492" oid="o0000385" n="LAK492">
+<rows><row src="/osl/images/lak/rows/LAK492.png"/></rows><sub l="LAK492" cp="U+124FC" utf8="𒓼" svg="/osl/images/lak/svg/LAK492.svg"/>
+</entry>
+<entry l="LAK493" oid="o0000386" n="LAK493">
+<rows><row src="/osl/images/lak/rows/LAK493.png"/></rows><sub l="LAK493" cp="U+124FD" utf8="𒓽" svg="/osl/images/lak/svg/LAK493.svg"/>
+</entry>
+<entry l="LAK494" oid="o0000559" n="TUM">
+<rows><row src="/osl/images/lak/rows/LAK494.png"/></rows><sub l="LAK494" cp="U+12308" utf8="𒌈" svg="/osl/images/lak/svg/LAK494.svg"/>
+</entry>
+<entry l="LAK495" oid="o0000387" n="LAK495">
+<rows><row src="/osl/images/lak/rows/LAK495.png"/></rows><sub l="LAK495" cp="U+124FE" utf8="𒓾" svg="/osl/images/lak/svg/LAK495.svg"/>
+</entry>
+<entry l="LAK496" oid="o0221890" n="LAK496">
+<rows><row src="/osl/images/lak/rows/LAK496.png"/></rows><sub l="LAK496" cp="U+F107A" utf8="󱁺" svg="/osl/images/lak/svg/LAK496.svg"/>
+</entry>
+<entry l="LAK497">
+<rows><row src="/osl/images/lak/rows/LAK497.png"/></rows><sub l="LAK497" cp="U+1253B" utf8="𒔻" svg="/osl/images/lak/svg/LAK497.svg"/>
+</entry>
+<entry l="LAK498" oid="o0000388" n="LAK498">
+<rows><row src="/osl/images/lak/rows/LAK498.png"/></rows><sub l="LAK498" cp="U+F107B" utf8="󱁻" svg="/osl/images/lak/svg/LAK498.svg"/>
+</entry>
+<entry l="LAK499" oid="o0000168" n="EGIR">
+<rows><row src="/osl/images/lak/rows/LAK499.png"/></rows><sub l="LAK499" cp="U+12095" utf8="𒂕" svg="/osl/images/lak/svg/LAK499.svg"/>
+</entry>
+<entry l="LAK500" oid="o0000391" n="LAK500">
+<rows><row src="/osl/images/lak/rows/LAK500.png"/></rows><sub l="LAK500" cp="U+F107C" utf8="󱁼" svg="/osl/images/lak/svg/LAK500.svg"/>
+</entry>
+<entry l="LAK501" oid="o0000249" n="IL">
+<rows><row src="/osl/images/lak/rows/LAK501.png"/></rows><sub l="LAK501" cp="U+1214B" utf8="𒅋" svg="/osl/images/lak/svg/LAK501.svg"/>
+</entry>
+<entry l="LAK502" oid="o0000249" n="IL">
+<rows><row src="/osl/images/lak/rows/LAK502.png"/></rows><sub l="LAK502" salt="1" cp="U+1214B.1" utf8="𒅋" svg="/osl/images/lak/svg/LAK502.svg"/></entry>
+<entry l="LAK503" oid="o0002842" n="ŠITA">
+<rows><row src="/osl/images/lak/rows/LAK503.png"/></rows><sub l="LAK503" cp="U+F107D" utf8="󱁽" svg="/osl/images/lak/svg/LAK503,1.svg"/>
+<sub l="LAK503" cp="U+122D6" utf8="𒋖" svg="/osl/images/lak/svg/LAK503,2.svg"/>
+</entry>
+<entry l="LAK504" oid="o0000269" n="KAK">
+<rows><row src="/osl/images/lak/rows/LAK504.png"/></rows><sub l="LAK504" cp="U+12195" utf8="𒆕" svg="/osl/images/lak/svg/LAK504,1.svg"/>
+<sub l="LAK504" salt="1" cp="U+12195.1" utf8="𒆕" svg="/osl/images/lak/svg/LAK504,2.svg"/></entry>
+<entry l="LAK505" oid="o0001573" n="|KAK.GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK505.png"/></rows><sub l="LAK505" cp="x12195.x12111" utf8="𒆕𒄑" svg="/osl/images/lak/svg/LAK505.svg"/>
+</entry>
+<entry l="LAK506" oid="o0000479" n="NI">
+<rows><row src="/osl/images/lak/rows/LAK506.png"/></rows><sub l="LAK506" cp="U+1224C" utf8="𒉌" svg="/osl/images/lak/svg/LAK506.svg"/>
+</entry>
+<entry l="LAK507" oid="o0000257" n="IR">
+<rows><row src="/osl/images/lak/rows/LAK507.png"/></rows><sub l="LAK507" cp="U+12155" utf8="𒅕" svg="/osl/images/lak/svg/LAK507.svg"/>
+</entry>
+<entry l="LAK508" oid="o0027548" n="LAK508">
+<rows><row src="/osl/images/lak/rows/LAK508.png"/></rows><sub l="LAK508" cp="U+F107E" utf8="󱁾" svg="/osl/images/lak/svg/LAK508.svg"/>
+</entry>
+<entry l="LAK509" oid="o0000221" n="GU">
+<rows><row src="/osl/images/lak/rows/LAK509.png"/></rows><sub l="LAK509" cp="U+12116" utf8="𒄖" svg="/osl/images/lak/svg/LAK509.svg"/>
+</entry>
+<entry l="LAK510" oid="o0001412" n="|GU%GU|">
+<rows><row src="/osl/images/lak/rows/LAK510.png"/></rows><sub l="LAK510" cp="U+12117" utf8="𒄗" svg="/osl/images/lak/svg/LAK510.svg"/>
+</entry>
+<entry l="LAK511" oid="o0002079" n="|NI.UD|">
+<rows><row src="/osl/images/lak/rows/LAK511.png"/></rows><sub l="LAK511" cp="U+1238E" utf8="𒎎" svg="/osl/images/lak/svg/LAK511.svg"/>
+</entry>
+<entry l="LAK512" oid="o0000473" n="NAGAR">
+<rows><row src="/osl/images/lak/rows/LAK512.png"/></rows><sub l="LAK512" cp="U+12244" utf8="𒉄" svg="/osl/images/lak/svg/LAK512.svg"/>
+</entry>
+<entry l="LAK513" oid="o0002072" n="|NI.GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK513.png"/></rows><sub l="LAK513" cp="x1224C.x12111" utf8="𒉌𒄑" svg="/osl/images/lak/svg/LAK513.svg"/>
+</entry>
+<entry l="LAK514" oid="o0002076" n="|NI.TUK|">
+<rows><row src="/osl/images/lak/rows/LAK514.png"/></rows><sub l="LAK514" cp="x1224C.x12307" utf8="𒉌𒌇" svg="/osl/images/lak/svg/LAK514.svg"/>
+</entry>
+<entry l="LAK515" oid="o0000094" n="AL">
+<rows><row src="/osl/images/lak/rows/LAK515.png"/></rows><sub l="LAK515" cp="U+12020" utf8="𒀠" svg="/osl/images/lak/svg/LAK515.svg"/>
+</entry>
+<entry l="LAK516" oid="o0027532" n="AL@s">
+<rows><row src="/osl/images/lak/rows/LAK516.png"/></rows><sub l="LAK516" cp="U+F107F" utf8="󱁿" svg="/osl/images/lak/svg/LAK516.svg"/>
+</entry>
+<entry l="LAK517" oid="o0000522" n="SAL">
+<rows><row src="/osl/images/lak/rows/LAK517.png"/></rows><sub l="LAK517" cp="U+122A9" utf8="𒊩" svg="/osl/images/lak/svg/LAK517.svg"/>
+</entry>
+<entry l="LAK518" oid="o0000170" n="EL">
+<rows><row src="/osl/images/lak/rows/LAK518.png"/></rows><sub l="LAK518" cp="U+12096" utf8="𒂖" svg="/osl/images/lak/svg/LAK518.svg"/>
+</entry>
+<entry l="LAK519" oid="o0027643" n="|SAL.AŠ₂|">
+<rows><row src="/osl/images/lak/rows/LAK519.png"/></rows><sub l="LAK519" cp="x122A9.x1203E" utf8="𒊩𒀾" svg="/osl/images/lak/svg/LAK519.svg"/>
+</entry>
+<entry l="LAK520" oid="o0000617" n="ZUM">
+<rows><row src="/osl/images/lak/rows/LAK520.png"/></rows><sub l="LAK520" cp="U+1236E" utf8="𒍮" svg="/osl/images/lak/svg/LAK520.svg"/>
+</entry>
+<entry l="LAK521" oid="o0002327" n="|SAL.UR|">
+<rows><row src="/osl/images/lak/rows/LAK521.png"/></rows><sub l="LAK521" cp="x122A9.x12328" utf8="𒊩𒌨" svg="/osl/images/lak/svg/LAK521.svg"/>
+</entry>
+<entry l="LAK522" oid="o0002323" n="|SAL.TUG₂|">
+<rows><row src="/osl/images/lak/rows/LAK522.png"/></rows><sub l="LAK522" cp="U+1238F" utf8="𒎏" svg="/osl/images/lak/svg/LAK522.svg"/>
+</entry>
+<entry l="LAK523" oid="o0000134" n="DAM">
+<rows><row src="/osl/images/lak/rows/LAK523.png"/></rows><sub l="LAK523" cp="U+1206E" utf8="𒁮" svg="/osl/images/lak/svg/LAK523.svg"/>
+</entry>
+<entry l="LAK524" oid="o0000393" n="|ZUM×TUG₂|">
+<rows><row src="/osl/images/lak/rows/LAK524.png"/></rows><sub l="LAK524" cp="U+F1080" utf8="󱂀" svg="/osl/images/lak/svg/LAK524.svg"/>
+</entry>
+<entry l="LAK525" oid="o0000202" n="GAR">
+<rows><row src="/osl/images/lak/rows/LAK525.png"/></rows><sub l="LAK525" cp="U+120FB" utf8="𒃻" svg="/osl/images/lak/svg/LAK525,1.svg"/>
+<sub l="LAK525" salt="1" cp="U+120FB.1" utf8="𒃻" svg="/osl/images/lak/svg/LAK525,2.svg"/></entry>
+<entry l="LAK526" oid="o0000394" n="LAK526">
+<rows><row src="/osl/images/lak/rows/LAK526.png"/></rows><sub l="LAK526" cp="U+F1081" utf8="󱂁" svg="/osl/images/lak/svg/LAK526.svg"/>
+</entry>
+<entry l="LAK527" oid="o0000175" n="ERIN₂">
+<rows><row src="/osl/images/lak/rows/LAK527.png"/></rows><sub l="LAK527" salt="2" cp="U+1209F.2" utf8="𒂟" svg="/osl/images/lak/svg/LAK527.svg"/></entry>
+<entry l="LAK528" oid="o0000560" n="TUR">
+<rows><row src="/osl/images/lak/rows/LAK528.png"/></rows><sub l="LAK528" cp="U+12309" utf8="𒌉" svg="/osl/images/lak/svg/LAK528,1.svg"/>
+<sub l="LAK528" salt="1" cp="U+12309.1" utf8="𒌉" svg="/osl/images/lak/svg/LAK528,2.svg"/><sub l="LAK528" salt="2" cp="U+12309.2" utf8="𒌉" svg="/osl/images/lak/svg/LAK528,3.svg"/></entry>
+<entry l="LAK529" oid="o0000452" n="MA₂">
+<rows><row src="/osl/images/lak/rows/LAK529.png"/></rows><sub l="LAK529" cp="U+12223" utf8="𒈣" svg="/osl/images/lak/svg/LAK529,1.svg"/>
+<sub l="LAK529" salt="1" cp="U+12223.1" utf8="𒈣" svg="/osl/images/lak/svg/LAK529,2.svg"/><sub l="LAK529" salt="2" cp="U+12223.2" utf8="𒈣" svg="/osl/images/lak/svg/LAK529,3.svg"/><sub l="LAK529" salt="3" cp="U+12223.3" utf8="𒈣" svg="/osl/images/lak/svg/LAK529,4.svg"/></entry>
+<entry l="LAK530" oid="o0000395" n="LAK530">
+<rows><row src="/osl/images/lak/rows/LAK530.png"/></rows><sub l="LAK530" cp="U+F1082" utf8="󱂂" svg="/osl/images/lak/svg/LAK530.svg"/>
+</entry>
+<entry l="LAK531" oid="o0001078" n="|EN×GAN₂@t|">
+<rows><row src="/osl/images/lak/rows/LAK531.png"/></rows><sub l="LAK531" cp="U+12099" utf8="𒂙" svg="/osl/images/lak/svg/LAK531.svg"/>
+</entry>
+<entry l="LAK532" oid="o0000173" n="EN">
+<rows><row src="/osl/images/lak/rows/LAK532.png"/></rows><sub l="LAK532" cp="U+12097" utf8="𒂗" svg="/osl/images/lak/svg/LAK532.svg"/>
+</entry>
+<entry l="LAK533" oid="o0027595" n="|EN×A|">
+<rows><row src="/osl/images/lak/rows/LAK533.png"/></rows><sub l="LAK533" cp="U+F1083" utf8="󱂃" svg="/osl/images/lak/svg/LAK533.svg"/>
+</entry>
+<entry l="LAK534" oid="o0001082" n="|EN×ME.LI|">
+<rows><row src="/osl/images/lak/rows/LAK534.png"/></rows><sub l="LAK534" cp="x1209A.x121F7" utf8="𒂚𒇷" svg="/osl/images/lak/svg/LAK534.svg"/>
+</entry>
+<entry l="LAK535" oid="o0000299" n="KU₇">
+<rows><row src="/osl/images/lak/rows/LAK535.png"/></rows><sub l="LAK535" cp="U+121AF" utf8="𒆯" svg="/osl/images/lak/svg/LAK535.svg"/>
+</entry>
+<entry l="LAK536" oid="o0000088" n="AB">
+<rows><row src="/osl/images/lak/rows/LAK536.png"/></rows><sub l="LAK536" cp="U+1200A" utf8="𒀊" svg="/osl/images/lak/svg/LAK536.svg"/>
+</entry>
+<entry l="LAK537" oid="o0000089" n="AB@g">
+<rows><row src="/osl/images/lak/rows/LAK537.png"/></rows><sub l="LAK537" cp="U+12015" utf8="𒀕" svg="/osl/images/lak/svg/LAK537.svg"/>
+</entry>
+<entry l="LAK538" oid="o0000608" n="ZE₂">
+<rows><row src="/osl/images/lak/rows/LAK538.png"/></rows><sub l="LAK538" cp="U+12362" utf8="𒍢" svg="/osl/images/lak/svg/LAK538.svg"/>
+</entry>
+<entry l="LAK539" oid="o0000396" n="LAK539">
+<rows><row src="/osl/images/lak/rows/LAK539.png"/></rows><sub l="LAK539" cp="U+F1084" utf8="󱂄" svg="/osl/images/lak/svg/LAK539.svg"/>
+</entry>
+<entry l="LAK540" oid="o0000745" n="|AB×AŠ₂|">
+<rows><row src="/osl/images/lak/rows/LAK540.png"/></rows><sub l="LAK540" cp="U+1200B" utf8="𒀋" svg="/osl/images/lak/svg/LAK540.svg"/>
+</entry>
+<entry l="LAK541" oid="o0000753" n="|AB×NUN@t|">
+<rows><row src="/osl/images/lak/rows/LAK541.png"/></rows><sub l="LAK541" cp="U+12480" utf8="𒒀" svg="/osl/images/lak/svg/LAK541.svg"/>
+</entry>
+<entry l="LAK542" oid="o0000756" n="|AB×ŠU₂|">
+<rows><row src="/osl/images/lak/rows/LAK542.png"/></rows><sub l="LAK542" cp="U+12481" utf8="𒒁" svg="/osl/images/lak/svg/LAK542.svg"/>
+</entry>
+<entry l="LAK543" oid="o0000749" n="|AB×HA|">
+<rows><row src="/osl/images/lak/rows/LAK543.png"/></rows><sub l="LAK543" cp="U+1200F" utf8="𒀏" svg="/osl/images/lak/svg/LAK543.svg"/>
+</entry>
+<entry l="LAK544" oid="o0000230" n="GU₂">
+<rows><row src="/osl/images/lak/rows/LAK544.png"/></rows><sub l="LAK544" cp="U+12118" utf8="𒄘" svg="/osl/images/lak/svg/LAK544.svg"/>
+</entry>
+<entry l="LAK545" oid="o0001431" n="|GU₂×KAK|">
+<rows><row src="/osl/images/lak/rows/LAK545.png"/></rows><sub l="LAK545" cp="U+12119" utf8="𒄙" svg="/osl/images/lak/svg/LAK545.svg"/>
+</entry>
+<entry l="LAK546" oid="o0025735" n="LAK546">
+<rows><row src="/osl/images/lak/rows/LAK546.png"/></rows><sub l="LAK546" cp="U+F1085" utf8="󱂅" svg="/osl/images/lak/svg/LAK546.svg"/>
+</entry>
+<entry l="LAK547" oid="o0001429" n="|GU₂×IGI@g|">
+<rows><row src="/osl/images/lak/rows/LAK547.png"/></rows><sub l="LAK547" cp="U+124CC" utf8="𒓌" svg="/osl/images/lak/svg/LAK547.svg"/>
+</entry>
+<entry l="LAK548" oid="o0001018" n="|DUG×GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK548.png"/></rows><sub l="LAK548" cp="U+12496" utf8="𒒖" svg="/osl/images/lak/svg/LAK548.svg"/>
+</entry>
+<entry l="LAK549" oid="o0001431" n="|GU₂×KAK|">
+<rows><row src="/osl/images/lak/rows/LAK549.png"/></rows><sub l="LAK549" salt="1" cp="U+12119.1" utf8="𒄙" svg="/osl/images/lak/svg/LAK549.svg"/></entry>
+<entry l="LAK550" oid="o0000397" n="LAK550">
+<rows><row src="/osl/images/lak/rows/LAK550.png"/></rows><sub l="LAK550" cp="U+124FF" utf8="𒓿" svg="/osl/images/lak/svg/LAK550.svg"/>
+</entry>
+<entry l="LAK551" oid="o0027605" n="|GU₂×PA|">
+<rows><row src="/osl/images/lak/rows/LAK551.png"/></rows><sub l="LAK551" cp="U+F1086" utf8="󱂆" svg="/osl/images/lak/svg/LAK551.svg"/>
+</entry>
+<entry l="LAK552" oid="o0027603" n="|GU₂×PAP|">
+<rows><row src="/osl/images/lak/rows/LAK552.png"/></rows><sub l="LAK552" cp="U+F1087" utf8="󱂇" svg="/osl/images/lak/svg/LAK552.svg"/>
+</entry>
+<entry l="LAK553" oid="o0027601" n="|GU₂×(HI×U)|">
+<rows><row src="/osl/images/lak/rows/LAK553.png"/></rows><sub l="LAK553" cp="U+F1088" utf8="󱂈" svg="/osl/images/lak/svg/LAK553.svg"/>
+</entry>
+<entry l="LAK554" oid="o0027599" n="|GU₂×(HI×DIŠ)|">
+<rows><row src="/osl/images/lak/rows/LAK554.png"/></rows><sub l="LAK554" cp="U+F1089" utf8="󱂉" svg="/osl/images/lak/svg/LAK554.svg"/>
+</entry>
+<entry l="LAK555" oid="o0027538" n="GU₂@s">
+<rows><row src="/osl/images/lak/rows/LAK555.png"/></rows><sub l="LAK555" cp="U+F108A" utf8="󱂊" svg="/osl/images/lak/svg/LAK555.svg"/>
+</entry>
+<entry l="LAK556" oid="o0000231" n="GU₂@g">
+<rows><row src="/osl/images/lak/rows/LAK556.png"/></rows><sub l="LAK556" cp="U+1211D" utf8="𒄝" svg="/osl/images/lak/svg/LAK556,1.svg"/>
+<sub l="LAK556" salt="1" cp="U+1211D.1" utf8="𒄝" svg="/osl/images/lak/svg/LAK556,2.svg"/><sub l="LAK556" salt="2" cp="U+1211D.2" utf8="𒄝" svg="/osl/images/lak/svg/LAK556,3.svg"/></entry>
+<entry l="LAK557" oid="o0001426" n="|GU₂.NUNUZ|">
+<rows><row src="/osl/images/lak/rows/LAK557.png"/></rows><sub l="LAK557" cp="x12118.x1226D" utf8="𒄘𒉭" svg="/osl/images/lak/svg/LAK557.svg"/>
+</entry>
+<entry l="LAK558" oid="o0000398" n="LAK558">
+<rows><row src="/osl/images/lak/rows/LAK558.png"/></rows><sub l="LAK558" cp="U+F108B" utf8="󱂋" svg="/osl/images/lak/svg/LAK558.svg"/>
+</entry>
+<entry l="LAK559" oid="o0000541" n="TA">
+<rows><row src="/osl/images/lak/rows/LAK559.png"/></rows><sub l="LAK559" cp="U+122EB" utf8="𒋫" svg="/osl/images/lak/svg/LAK559,1.svg"/>
+<sub l="LAK559" salt="1" cp="U+122EB.1" utf8="𒋫" svg="/osl/images/lak/svg/LAK559,2.svg"/><sub l="LAK559" salt="2" cp="U+122EB.2" utf8="𒋫" svg="/osl/images/lak/svg/LAK559,3.svg"/></entry>
+<entry l="LAK560" oid="o0000155" n="DUG">
+<rows><row src="/osl/images/lak/rows/LAK560.png"/></rows><sub l="LAK560" cp="U+12081" utf8="𒂁" svg="/osl/images/lak/svg/LAK560.svg"/>
+</entry>
+<entry l="LAK561" oid="o0001010" n="|DUG×AŠ@f|">
+<rows><row src="/osl/images/lak/rows/LAK561.png"/></rows><sub l="LAK561" cp="U+1248F" utf8="𒒏" svg="/osl/images/lak/svg/LAK561.svg"/>
+</entry>
+<entry l="LAK562" oid="o0001011" n="|DUG×AŠ|">
+<rows><row src="/osl/images/lak/rows/LAK562.png"/></rows><sub l="LAK562" cp="U+1248E" utf8="𒒎" svg="/osl/images/lak/svg/LAK562.svg"/>
+</entry>
+<entry l="LAK563" oid="o0001033" n="|DUG×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK563.png"/></rows><sub l="LAK563" cp="U+124A7" utf8="𒒧" svg="/osl/images/lak/svg/LAK563.svg"/>
+</entry>
+<entry l="LAK564" oid="o0001025" n="|DUG×LAK20|">
+<rows><row src="/osl/images/lak/rows/LAK564.png"/></rows><sub l="LAK564" cp="U+1249E" utf8="𒒞" svg="/osl/images/lak/svg/LAK564.svg"/>
+</entry>
+<entry l="LAK565" oid="o0001008" n="|DUG×(LUH.GIŠ)|">
+<rows><row src="/osl/images/lak/rows/LAK565.png"/></rows><sub l="LAK565" cp="U+124A1" utf8="𒒡" svg="/osl/images/lak/svg/LAK565.svg"/>
+</entry>
+<entry l="LAK566" oid="o0001022" n="|DUG×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK566.png"/></rows><sub l="LAK566" cp="U+1249A" utf8="𒒚" svg="/osl/images/lak/svg/LAK566.svg"/>
+</entry>
+<entry l="LAK567" oid="o0001031" n="|DUG×PI|">
+<rows><row src="/osl/images/lak/rows/LAK567.png"/></rows><sub l="LAK567" cp="U+124A6" utf8="𒒦" svg="/osl/images/lak/svg/LAK567.svg"/>
+</entry>
+<entry l="LAK568" oid="o0001006" n="|DUG×(KUŠU₂.KASKAL)|">
+<rows><row src="/osl/images/lak/rows/LAK568.png"/></rows><sub l="LAK568" cp="U+1249D" utf8="𒒝" svg="/osl/images/lak/svg/LAK568.svg"/>
+</entry>
+<entry l="LAK569" oid="o0001016" n="|DUG×GIR₂@g|">
+<rows><row src="/osl/images/lak/rows/LAK569.png"/></rows><sub l="LAK569" cp="U+12495" utf8="𒒕" svg="/osl/images/lak/svg/LAK569.svg"/>
+</entry>
+<entry l="LAK570" oid="o0001027" n="|DUG×MAŠ|">
+<rows><row src="/osl/images/lak/rows/LAK570.png"/></rows><sub l="LAK570" cp="U+124A2" utf8="𒒢" svg="/osl/images/lak/svg/LAK570.svg"/>
+</entry>
+<entry l="LAK571" oid="o0001017" n="|DUG×GI|">
+<rows><row src="/osl/images/lak/rows/LAK571.png"/></rows><sub l="LAK571" cp="U+12494" utf8="𒒔" svg="/osl/images/lak/svg/LAK571.svg"/>
+</entry>
+<entry l="LAK572" oid="o0001032" n="|DUG×SI@g|">
+<rows><row src="/osl/images/lak/rows/LAK572.png"/></rows><sub l="LAK572" cp="U+124A8" utf8="𒒨" svg="/osl/images/lak/svg/LAK572.svg"/>
+</entry>
+<entry l="LAK573" oid="o0001015" n="|DUG×GA|">
+<rows><row src="/osl/images/lak/rows/LAK573.png"/></rows><sub l="LAK573" cp="U+12493" utf8="𒒓" svg="/osl/images/lak/svg/LAK573.svg"/>
+</entry>
+<entry l="LAK574" oid="o0001029" n="|DUG×MI|">
+<rows><row src="/osl/images/lak/rows/LAK574.png"/></rows><sub l="LAK574" cp="U+124A4" utf8="𒒤" svg="/osl/images/lak/svg/LAK574.svg"/>
+</entry>
+<entry l="LAK575" oid="o0001007" n="|DUG×(LAM×KUR)|">
+<rows><row src="/osl/images/lak/rows/LAK575.png"/></rows><sub l="LAK575" cp="U+124A0" utf8="𒒠" svg="/osl/images/lak/svg/LAK575.svg"/>
+</entry>
+<entry l="LAK576" oid="o0001026" n="|DUG×LAM|">
+<rows><row src="/osl/images/lak/rows/LAK576.png"/></rows><sub l="LAK576" cp="U+1249F" utf8="𒒟" svg="/osl/images/lak/svg/LAK576.svg"/>
+</entry>
+<entry l="LAK577" oid="o0001023" n="|DUG×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK577.png"/></rows><sub l="LAK577" cp="U+1249B" utf8="𒒛" svg="/osl/images/lak/svg/LAK577.svg"/>
+</entry>
+<entry l="LAK578" oid="o0001018" n="|DUG×GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK578.png"/></rows><sub l="LAK578" salt="1" cp="U+12496.1" utf8="𒒖" svg="/osl/images/lak/svg/LAK578.svg"/></entry>
+<entry l="LAK579" oid="o0001028" n="|DUG×MES|">
+<rows><row src="/osl/images/lak/rows/LAK579.png"/></rows><sub l="LAK579" cp="U+124A3" utf8="𒒣" svg="/osl/images/lak/svg/LAK579.svg"/>
+</entry>
+<entry l="LAK580" oid="o0001014" n="|DUG×ERIN₂|">
+<rows><row src="/osl/images/lak/rows/LAK580.png"/></rows><sub l="LAK580" cp="U+12492" utf8="𒒒" svg="/osl/images/lak/svg/LAK580.svg"/>
+</entry>
+<entry l="LAK581" oid="o0001019" n="|DUG×HA|">
+<rows><row src="/osl/images/lak/rows/LAK581.png"/></rows><sub l="LAK581" cp="U+12497" utf8="𒒗" svg="/osl/images/lak/svg/LAK581.svg"/>
+</entry>
+<entry l="LAK582" oid="o0001013" n="|DUG×DUN|">
+<rows><row src="/osl/images/lak/rows/LAK582.png"/></rows><sub l="LAK582" cp="U+12491" utf8="𒒑" svg="/osl/images/lak/svg/LAK582.svg"/>
+</entry>
+<entry l="LAK583" oid="o0001009" n="|DUG×ANŠE|">
+<rows><row src="/osl/images/lak/rows/LAK583.png"/></rows><sub l="LAK583" cp="U+1248D" utf8="𒒍" svg="/osl/images/lak/svg/LAK583.svg"/>
+</entry>
+<entry l="LAK584" oid="o0001020" n="|DUG×HI|">
+<rows><row src="/osl/images/lak/rows/LAK584.png"/></rows><sub l="LAK584" cp="U+12498" utf8="𒒘" svg="/osl/images/lak/svg/LAK584.svg"/>
+</entry>
+<entry l="LAK585" oid="o0001012" n="|DUG×DIN|">
+<rows><row src="/osl/images/lak/rows/LAK585.png"/></rows><sub l="LAK585" cp="U+12490" utf8="𒒐" svg="/osl/images/lak/svg/LAK585.svg"/>
+</entry>
+<entry l="LAK586" oid="o0001021" n="|DUG×IGI@g|">
+<rows><row src="/osl/images/lak/rows/LAK586.png"/></rows><sub l="LAK586" cp="U+12499" utf8="𒒙" svg="/osl/images/lak/svg/LAK586.svg"/>
+</entry>
+<entry l="LAK587" oid="o0002407" n="|TA×HI|">
+<rows><row src="/osl/images/lak/rows/LAK587.png"/></rows><sub l="LAK587" cp="U+122ED" utf8="𒋭" svg="/osl/images/lak/svg/LAK587.svg"/>
+</entry>
+<entry l="LAK588" oid="o0001030" n="|DUG×NI|">
+<rows><row src="/osl/images/lak/rows/LAK588.png"/></rows><sub l="LAK588" cp="U+124A5" utf8="𒒥" svg="/osl/images/lak/svg/LAK588.svg"/>
+</entry>
+<entry l="LAK589" oid="o0000216" n="GISAL">
+<rows><row src="/osl/images/lak/rows/LAK589.png"/></rows><sub l="LAK589" cp="U+12110" utf8="𒄐" svg="/osl/images/lak/svg/LAK589.svg"/>
+</entry>
+<entry l="LAK590" oid="o0001418" n="|GUD.GIŠ×TAK₄|">
+<rows><row src="/osl/images/lak/rows/LAK590.png"/></rows><sub l="LAK590" cp="U+124CD" utf8="𒓍" svg="/osl/images/lak/svg/LAK590.svg"/>
+</entry>
+<entry l="LAK591" oid="o0000582" n="URU">
+<rows><row src="/osl/images/lak/rows/LAK591.png"/></rows><sub l="LAK591" cp="U+12337" utf8="𒌷" svg="/osl/images/lak/svg/LAK591.svg"/>
+</entry>
+<entry l="LAK592" oid="o0002556" n="|URU×DARA₃|">
+<rows><row src="/osl/images/lak/rows/LAK592.png"/></rows><sub l="LAK592" cp="U+1253E" utf8="𒔾" svg="/osl/images/lak/svg/LAK592.svg"/>
+</entry>
+<entry l="LAK593" oid="o0002557" n="|URU×DUN|">
+<rows><row src="/osl/images/lak/rows/LAK593.png"/></rows><sub l="LAK593" cp="U+1233B" utf8="𒌻" svg="/osl/images/lak/svg/LAK593.svg"/>
+</entry>
+<entry l="LAK594" oid="o0002554" n="|URU×AŠGAB|">
+<rows><row src="/osl/images/lak/rows/LAK594.png"/></rows><sub l="LAK594" cp="U+12339" utf8="𒌹" svg="/osl/images/lak/svg/LAK594.svg"/>
+</entry>
+<entry l="LAK595" oid="o0002574" n="|URU×SIG₄|">
+<rows><row src="/osl/images/lak/rows/LAK595.png"/></rows><sub l="LAK595" cp="U+1234A" utf8="𒍊" svg="/osl/images/lak/svg/LAK595.svg"/>
+</entry>
+<entry l="LAK596" oid="o0002568" n="|URU×IŠ|">
+<rows><row src="/osl/images/lak/rows/LAK596.png"/></rows><sub l="LAK596" cp="U+12344" utf8="𒍄" svg="/osl/images/lak/svg/LAK596.svg"/>
+</entry>
+<entry l="LAK597" oid="o0002553" n="|URU×A|">
+<rows><row src="/osl/images/lak/rows/LAK597.png"/></rows><sub l="LAK597" cp="U+12338" utf8="𒌸" svg="/osl/images/lak/svg/LAK597.svg"/>
+</entry>
+<entry l="LAK598" oid="o0002577" n="|URU×UD|">
+<rows><row src="/osl/images/lak/rows/LAK598.png"/></rows><sub l="LAK598" cp="U+1234D" utf8="𒍍" svg="/osl/images/lak/svg/LAK598.svg"/>
+</entry>
+<entry l="LAK599" oid="o0027647" n="|URU×U₂@t|">
+<rows><row src="/osl/images/lak/rows/LAK599.png"/></rows><sub l="LAK599" cp="U+F108C" utf8="󱂌" svg="/osl/images/lak/svg/LAK599.svg"/>
+</entry>
+<entry l="LAK600" oid="o0002570" n="|URU×LAK668|">
+<rows><row src="/osl/images/lak/rows/LAK600.png"/></rows><sub l="LAK600" cp="U+1253F" utf8="𒔿" svg="/osl/images/lak/svg/LAK600.svg"/>
+</entry>
+<entry l="LAK601" oid="o0002561" n="|URU×GAN₂@t|">
+<rows><row src="/osl/images/lak/rows/LAK601.png"/></rows><sub l="LAK601" cp="U+1233E" utf8="𒌾" svg="/osl/images/lak/svg/LAK601.svg"/>
+</entry>
+<entry l="LAK602" oid="o0002564" n="|URU×GU|">
+<rows><row src="/osl/images/lak/rows/LAK602.png"/></rows><sub l="LAK602" cp="U+12340" utf8="𒍀" svg="/osl/images/lak/svg/LAK602.svg"/>
+</entry>
+<entry l="LAK603" oid="o0002562" n="|URU×GAR|">
+<rows><row src="/osl/images/lak/rows/LAK603.png"/></rows><sub l="LAK603" cp="U+1233F" utf8="𒌿" svg="/osl/images/lak/svg/LAK603.svg"/>
+</entry>
+<entry l="LAK604" oid="o0000584" n="URUDA">
+<rows><row src="/osl/images/lak/rows/LAK604.png"/></rows><sub l="LAK604" cp="U+1234F" utf8="𒍏" svg="/osl/images/lak/svg/LAK604,1.svg"/>
+<sub l="LAK604" salt="1" cp="U+1234F.1" utf8="𒍏" svg="/osl/images/lak/svg/LAK604,2.svg"/></entry>
+<entry l="LAK605" oid="o0000399" n="LAK605">
+<rows><row src="/osl/images/lak/rows/LAK605.png"/></rows><sub l="LAK605" cp="U+F108D" utf8="󱂍" svg="/osl/images/lak/svg/LAK605.svg"/>
+</entry>
+<entry l="LAK606" oid="o0000400" n="LAK606">
+<rows><row src="/osl/images/lak/rows/LAK606.png"/></rows><sub l="LAK606" cp="U+F108E" utf8="󱂎" svg="/osl/images/lak/svg/LAK606.svg"/>
+</entry>
+<entry l="LAK607" oid="o0000401" n="LAK607">
+<rows><row src="/osl/images/lak/rows/LAK607.png"/></rows><sub l="LAK607" cp="U+F108F" utf8="󱂏" svg="/osl/images/lak/svg/LAK607.svg"/>
+</entry>
+<entry l="LAK608" oid="o0000402" n="LAK608">
+<rows><row src="/osl/images/lak/rows/LAK608.png"/></rows><sub l="LAK608" cp="U+12500" utf8="𒔀" svg="/osl/images/lak/svg/LAK608.svg"/>
+</entry>
+<entry l="LAK609" oid="o0000153" n="DUB">
+<rows><row src="/osl/images/lak/rows/LAK609.png"/></rows><sub l="LAK609" cp="U+1207E" utf8="𒁾" svg="/osl/images/lak/svg/LAK609.svg"/>
+</entry>
+<entry l="LAK610" oid="o0001363" n="|GIŠ%GIŠ|">
+<rows><row src="/osl/images/lak/rows/LAK610.png"/></rows><sub l="LAK610" salt="1" cp="U+12112.1" utf8="𒄒" svg="/osl/images/lak/svg/LAK610,1.svg"/><sub l="LAK610" salt="2" cp="U+12112.2" utf8="𒄒" svg="/osl/images/lak/svg/LAK610,2.svg"/></entry>
+<entry l="LAK611" oid="o0000177" n="EZEN">
+<rows><row src="/osl/images/lak/rows/LAK611.png"/></rows><sub l="LAK611" cp="U+120A1" utf8="𒂡" svg="/osl/images/lak/svg/LAK611.svg"/>
+</entry>
+<entry l="LAK612" oid="o0000278" n="KEŠ₂">
+<rows><row src="/osl/images/lak/rows/LAK612.png"/></rows><sub l="LAK612" cp="U+1219F" utf8="𒆟" svg="/osl/images/lak/svg/LAK612.svg"/>
+</entry>
+<entry l="LAK613" oid="o0001101" n="|EZEN×AN|">
+<rows><row src="/osl/images/lak/rows/LAK613.png"/></rows><sub l="LAK613" cp="U+120A5" utf8="𒂥" svg="/osl/images/lak/svg/LAK613.svg"/>
+</entry>
+<entry l="LAK614" oid="o0187962" n="|EZEN×HAL|">
+<rows><row src="/osl/images/lak/rows/LAK614.png"/></rows><sub l="LAK614" cp="U+F0056" utf8="󰁖" svg="/osl/images/lak/svg/LAK614.svg"/>
+</entry>
+<entry l="LAK615" oid="o0001114" n="|EZEN×LA|">
+<rows><row src="/osl/images/lak/rows/LAK615.png"/></rows><sub l="LAK615" cp="U+120AF" utf8="𒂯" svg="/osl/images/lak/svg/LAK615.svg"/>
+</entry>
+<entry l="LAK616" oid="o0001111" n="|EZEN×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK616.png"/></rows><sub l="LAK616" cp="U+120AC" utf8="𒂬" svg="/osl/images/lak/svg/LAK616.svg"/>
+</entry>
+<entry l="LAK617" oid="o0000403" n="LAK617">
+<rows><row src="/osl/images/lak/rows/LAK617.png"/></rows><sub l="LAK617" cp="U+12501" utf8="𒔁" svg="/osl/images/lak/svg/LAK617.svg"/>
+</entry>
+<entry l="LAK618" oid="o0001865" n="|LAK617×AŠ|">
+<rows><row src="/osl/images/lak/rows/LAK618.png"/></rows><sub l="LAK618" cp="U+12502" utf8="𒔂" svg="/osl/images/lak/svg/LAK618.svg"/>
+</entry>
+<entry l="LAK619" oid="o0001866" n="|LAK617×BAD|">
+<rows><row src="/osl/images/lak/rows/LAK619.png"/></rows><sub l="LAK619" cp="U+12503" utf8="𒔃" svg="/osl/images/lak/svg/LAK619.svg"/>
+</entry>
+<entry l="LAK620" oid="o0001867" n="|LAK617×KU₃|">
+<rows><row src="/osl/images/lak/rows/LAK620.png"/></rows><sub l="LAK620" cp="U+12505" utf8="𒔅" svg="/osl/images/lak/svg/LAK620.svg"/>
+</entry>
+<entry l="LAK621" oid="o0001868" n="|LAK617×LA|">
+<rows><row src="/osl/images/lak/rows/LAK621.png"/></rows><sub l="LAK621" cp="U+12506" utf8="𒔆" svg="/osl/images/lak/svg/LAK621.svg"/>
+</entry>
+<entry l="LAK622" oid="o0027210" n="|LAK617×DUN₃@g@g|">
+<rows><row src="/osl/images/lak/rows/LAK622.png"/></rows><sub l="LAK622" cp="U+12504" utf8="𒔄" svg="/osl/images/lak/svg/LAK622.svg"/>
+</entry>
+<entry l="LAK623" oid="o0001872" n="|LAK617×UD|">
+<rows><row src="/osl/images/lak/rows/LAK623.png"/></rows><sub l="LAK623" cp="U+1250A" utf8="𒔊" svg="/osl/images/lak/svg/LAK623.svg"/>
+</entry>
+<entry l="LAK624" oid="o0001871" n="|LAK617×TE|">
+<rows><row src="/osl/images/lak/rows/LAK624.png"/></rows><sub l="LAK624" cp="U+12508" utf8="𒔈" svg="/osl/images/lak/svg/LAK624.svg"/>
+</entry>
+<entry l="LAK625" oid="o0001874" n="|LAK617×U₂|">
+<rows><row src="/osl/images/lak/rows/LAK625.png"/></rows><sub l="LAK625" cp="U+12509" utf8="𒔉" svg="/osl/images/lak/svg/LAK625.svg"/>
+</entry>
+<entry l="LAK626" oid="o0001870" n="|LAK617×TAR|">
+<rows><row src="/osl/images/lak/rows/LAK626.png"/></rows><sub l="LAK626" cp="U+12507" utf8="𒔇" svg="/osl/images/lak/svg/LAK626.svg"/>
+</entry>
+<entry l="LAK627" oid="o0001873" n="|LAK617×URUDA|">
+<rows><row src="/osl/images/lak/rows/LAK627.png"/><row src="/osl/images/lak/rows/LAK627b.png"/></rows><sub l="LAK627" cp="U+1250B" utf8="𒔋" svg="/osl/images/lak/svg/LAK627.svg"/>
+</entry>
+<entry l="LAK628" oid="o0000546" n="TAG">
+<rows><row src="/osl/images/lak/rows/LAK628.png"/></rows><sub l="LAK628" cp="U+122F3" utf8="𒋳" svg="/osl/images/lak/svg/LAK628.svg"/>
+</entry>
+<entry l="LAK629" oid="o0000208" n="GEŠTIN">
+<rows><row src="/osl/images/lak/rows/LAK629.png"/></rows><sub l="LAK629" cp="U+120FE" utf8="𒃾" svg="/osl/images/lak/svg/LAK629.svg"/>
+</entry>
+<entry l="LAK630" oid="o0001333" n="|GEŠTIN×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK630.png"/></rows><sub l="LAK630" cp="U+120FF" utf8="𒃿" svg="/osl/images/lak/svg/LAK630.svg"/>
+</entry>
+<entry l="LAK631" oid="o0001334" n="|GEŠTIN×U|">
+<rows><row src="/osl/images/lak/rows/LAK631.png"/></rows><sub l="LAK631" cp="U+124CA" utf8="𒓊" svg="/osl/images/lak/svg/LAK631.svg"/>
+</entry>
+<entry l="LAK632" oid="o0000154" n="DUB₂">
+<rows><row src="/osl/images/lak/rows/LAK632.png"/></rows><sub l="LAK632" cp="U+12080" utf8="𒂀" svg="/osl/images/lak/svg/LAK632.svg"/>
+</entry>
+<entry l="LAK633" oid="o0000225" n="GUM">
+<rows><row src="/osl/images/lak/rows/LAK633.png"/></rows><sub l="LAK633" cp="U+12123" utf8="𒄣" svg="/osl/images/lak/svg/LAK633.svg"/>
+</entry>
+<entry l="LAK634" oid="o0001424" n="|GUM×ŠE|">
+<rows><row src="/osl/images/lak/rows/LAK634.png"/></rows><sub l="LAK634" cp="U+12124" utf8="𒄤" svg="/osl/images/lak/svg/LAK634.svg"/>
+</entry>
+<entry l="LAK635" oid="o0000092" n="AD">
+<rows><row src="/osl/images/lak/rows/LAK635.png"/></rows><sub l="LAK635" cp="U+1201C" utf8="𒀜" svg="/osl/images/lak/svg/LAK635.svg"/>
+</entry>
+<entry l="LAK636" oid="o0000405" n="LAK636">
+<rows><row src="/osl/images/lak/rows/LAK636.png"/></rows><sub l="LAK636" cp="U+1250C" utf8="𒔌" svg="/osl/images/lak/svg/LAK636.svg"/>
+</entry>
+<entry l="LAK637" oid="o0000155" n="DUG">
+<rows><row src="/osl/images/lak/rows/LAK637.png"/></rows><sub l="LAK637" salt="1" cp="U+12081.1" utf8="𒂁" svg="/osl/images/lak/svg/LAK637.svg"/></entry>
+<entry l="LAK638" oid="o0000406" n="LAK638">
+<rows><row src="/osl/images/lak/rows/LAK638.png"/></rows><sub l="LAK638" cp="U+F1090" utf8="󱂐" svg="/osl/images/lak/svg/LAK638.svg"/>
+</entry>
+<entry l="LAK639" oid="o0000155" n="DUG">
+<rows><row src="/osl/images/lak/rows/LAK639.png"/></rows><sub l="LAK639" salt="2" cp="U+12081.2" utf8="𒂁" svg="/osl/images/lak/svg/LAK639.svg"/></entry>
+<entry l="LAK640" oid="o0000928" n="|BI×IGI@g|">
+<rows><row src="/osl/images/lak/rows/LAK640.png"/></rows><sub l="LAK640" cp="U+1204C" utf8="𒁌" svg="/osl/images/lak/svg/LAK640.svg"/>
+</entry>
+<entry l="LAK641" oid="o0000927" n="|BI×GAR|">
+<rows><row src="/osl/images/lak/rows/LAK641.png"/></rows><sub l="LAK641" cp="U+1204B" utf8="𒁋" svg="/osl/images/lak/svg/LAK641.svg"/>
+</entry>
+<entry l="LAK642" oid="o0000926" n="|BI×A|">
+<rows><row src="/osl/images/lak/rows/LAK642.png"/></rows><sub l="LAK642" cp="U+1204A" utf8="𒁊" svg="/osl/images/lak/svg/LAK642.svg"/>
+</entry>
+<entry l="LAK643" oid="o0027550" n="LAK643">
+<rows><row src="/osl/images/lak/rows/LAK643.png"/></rows><sub l="LAK643" cp="U+F1091" utf8="󱂑" svg="/osl/images/lak/svg/LAK643.svg"/>
+</entry>
+<entry l="LAK644" oid="o0000197" n="GAN">
+<rows><row src="/osl/images/lak/rows/LAK644.png"/></rows><sub l="LAK644" cp="U+120F6" utf8="𒃶" svg="/osl/images/lak/svg/LAK644.svg"/>
+</entry>
+<entry l="LAK645" oid="o0000198" n="GAN@s">
+<rows><row src="/osl/images/lak/rows/LAK645.png"/></rows><sub l="LAK645" cp="U+F1092" utf8="󱂒" svg="/osl/images/lak/svg/LAK645.svg"/>
+</entry>
+<entry l="LAK646" oid="o0000407" n="LAK646">
+<rows><row src="/osl/images/lak/rows/LAK646.png"/></rows><sub l="LAK646" cp="U+F1093" utf8="󱂓" svg="/osl/images/lak/svg/LAK646.svg"/>
+</entry>
+<entry l="LAK647" oid="o0025783" n="LAK647">
+<rows><row src="/osl/images/lak/rows/LAK647.png"/></rows><sub l="LAK647" cp="U+F1094" utf8="󱂔" svg="/osl/images/lak/svg/LAK647.svg"/>
+</entry>
+<entry l="LAK648" oid="o0000408" n="LAK648">
+<rows><row src="/osl/images/lak/rows/LAK648.png"/></rows><sub l="LAK648" cp="U+1250D" utf8="𒔍" svg="/osl/images/lak/svg/LAK648.svg"/>
+</entry>
+<entry l="LAK649" oid="o0002555" n="|URU×BAR|">
+<rows><row src="/osl/images/lak/rows/LAK649.png"/></rows><sub l="LAK649" cp="U+1233A" utf8="𒌺" svg="/osl/images/lak/svg/LAK649.svg"/>
+</entry>
+<entry l="LAK650" oid="o0028113" n="|URU×MIN×IGI|">
+<rows><row src="/osl/images/lak/rows/LAK650.png"/></rows><sub l="LAK650" cp="U+12510" utf8="𒔐" svg="/osl/images/lak/svg/LAK650.svg"/>
+</entry>
+<entry l="LAK651" oid="o0001879" n="|LAK648×IGI@g|">
+<rows><row src="/osl/images/lak/rows/LAK651.png"/></rows><sub l="LAK651" cp="U+12511" utf8="𒔑" svg="/osl/images/lak/svg/LAK651.svg"/>
+</entry>
+<entry l="LAK652" oid="o0027626" n="|LAK648×DIŠ@c|">
+<rows><row src="/osl/images/lak/rows/LAK652.png"/></rows><sub l="LAK652" cp="U+F1096" utf8="󱂖" svg="/osl/images/lak/svg/LAK652.svg"/>
+</entry>
+<entry l="LAK653" oid="o0001884" n="|LAK648×URUDA|">
+<rows><row src="/osl/images/lak/rows/LAK653.png"/></rows><sub l="LAK653" cp="U+12516" utf8="𒔖" svg="/osl/images/lak/svg/LAK653.svg"/>
+</entry>
+<entry l="LAK654" oid="o0000542" n="TA@g">
+<rows><row src="/osl/images/lak/rows/LAK654.png"/></rows><sub l="LAK654" cp="U+122EF" utf8="𒋯" svg="/osl/images/lak/svg/LAK654.svg"/>
+</entry>
+<entry l="LAK655" oid="o0002838" n="ŠIM">
+<rows><row src="/osl/images/lak/rows/LAK655.png"/></rows><sub l="LAK655" cp="U+122C6" utf8="𒋆" svg="/osl/images/lak/svg/LAK655.svg"/>
+</entry>
+<entry l="LAK656" oid="o0002753" n="|ŠIM×IGI@g|">
+<rows><row src="/osl/images/lak/rows/LAK656.png"/></rows><sub l="LAK656" cp="U+122CD" utf8="𒋍" svg="/osl/images/lak/svg/LAK656.svg"/>
+</entry>
+<entry l="LAK657" oid="o0002758" n="|ŠIM×PI|">
+<rows><row src="/osl/images/lak/rows/LAK657.png"/></rows><sub l="LAK657" cp="U+F0051" utf8="󰁑" svg="/osl/images/lak/svg/LAK657.svg"/>
+</entry>
+<entry l="LAK658" oid="o0002755" n="|ŠIM×KUŠU₂|">
+<rows><row src="/osl/images/lak/rows/LAK658.png"/></rows><sub l="LAK658" cp="U+122CE" utf8="𒋎" svg="/osl/images/lak/svg/LAK658.svg"/>
+</entry>
+<entry l="LAK659" oid="o0002752" n="|ŠIM×GAR|">
+<rows><row src="/osl/images/lak/rows/LAK659.png"/></rows><sub l="LAK659" cp="U+122CB" utf8="𒋋" svg="/osl/images/lak/svg/LAK659.svg"/>
+</entry>
+<entry l="LAK660" oid="o0027582" n="ŠIM@g">
+<rows><row src="/osl/images/lak/rows/LAK660.png"/></rows><sub l="LAK660" cp="U+F0052" utf8="󰁒" svg="/osl/images/lak/svg/LAK660.svg"/>
+</entry>
+<entry l="LAK661" oid="o0038396" n="|ŠIM@g×GAR|">
+<rows><row src="/osl/images/lak/rows/LAK661.png"/></rows><sub l="LAK661" cp="U+F0055" utf8="󰁕" svg="/osl/images/lak/svg/LAK661.svg"/>
+</entry>
+<entry l="LAK662" oid="o0027653" n="|ŠIM@g×KUŠU₂|">
+<rows><row src="/osl/images/lak/rows/LAK662.png"/></rows><sub l="LAK662" cp="U+F0054" utf8="󰁔" svg="/osl/images/lak/svg/LAK662.svg"/>
+</entry>
+<entry l="LAK663" oid="o0000305" n="LA">
+<rows><row src="/osl/images/lak/rows/LAK663.png"/></rows><sub l="LAK663" cp="U+121B7" utf8="𒆷" svg="/osl/images/lak/svg/LAK663,1.svg"/>
+<sub l="LAK663" salt="1" cp="U+121B7.1" utf8="𒆷" svg="/osl/images/lak/svg/LAK663,2.svg"/><sub l="LAK663" salt="2" cp="U+121B7.2" utf8="𒆷" svg="/osl/images/lak/svg/LAK663,3.svg"/></entry>
+<entry l="LAK664" oid="o0000576" n="UR">
+<rows><row src="/osl/images/lak/rows/LAK664.png"/></rows><sub l="LAK664" cp="U+12328" utf8="𒌨" svg="/osl/images/lak/svg/LAK664,1.svg"/>
+<sub l="LAK664" salt="1" cp="U+12328.1" utf8="𒌨" svg="/osl/images/lak/svg/LAK664,2.svg"/></entry>
+<entry l="LAK665" oid="o0000174" n="EREN">
+<rows><row src="/osl/images/lak/rows/LAK665.png"/></rows><sub l="LAK665" cp="U+1209E" utf8="𒂞" svg="/osl/images/lak/svg/LAK665.svg"/>
+</entry>
+<entry l="LAK666" oid="o0000160" n="DUN₃">
+<rows><row src="/osl/images/lak/rows/LAK666.png"/></rows><sub l="LAK666" cp="U+12085" utf8="𒂅" svg="/osl/images/lak/svg/LAK666.svg"/>
+</entry>
+<entry l="LAK667" oid="o0000161" n="DUN₃@g">
+<rows><row src="/osl/images/lak/rows/LAK667.png"/></rows><sub l="LAK667" cp="U+12086" utf8="𒂆" svg="/osl/images/lak/svg/LAK667,1.svg"/>
+<sub l="LAK667" salt="1" cp="U+12086.1" utf8="𒂆" svg="/osl/images/lak/svg/LAK667,2.svg"/><sub l="LAK667" salt="2" cp="U+12086.2" utf8="𒂆" svg="/osl/images/lak/svg/LAK667,3.svg"/></entry>
+<entry l="LAK668" oid="o0002836" n="ŠEŠ₂">
+<rows><row src="/osl/images/lak/rows/LAK668.png"/></rows><sub l="LAK668" cp="U+122C1" utf8="𒋁" svg="/osl/images/lak/svg/LAK668.svg"/>
+</entry>
+<entry l="LAK669" oid="o0027580" n="ŠEŠ₂@g">
+<rows><row src="/osl/images/lak/rows/LAK669.png"/></rows><sub l="LAK669" cp="U+F1098" utf8="󱂘" svg="/osl/images/lak/svg/LAK669.svg"/>
+</entry>
+<entry l="LAK670" oid="o0000137" n="DARA₄">
+<rows><row src="/osl/images/lak/rows/LAK670.png"/></rows><sub l="LAK670" cp="U+12071" utf8="𒁱" svg="/osl/images/lak/svg/LAK670.svg"/>
+</entry>
+<entry l="LAK671" oid="o0000174" n="EREN">
+<rows><row src="/osl/images/lak/rows/LAK671.png"/></rows><sub l="LAK671" salt="1" cp="U+1209E.1" utf8="𒂞" svg="/osl/images/lak/svg/LAK671.svg"/></entry>
+<entry l="LAK672">
+<rows><row src="/osl/images/lak/rows/LAK672.png"/></rows><sub l="LAK672" cp="U+12356" utf8="𒍖" svg="/osl/images/lak/svg/LAK672.svg"/>
+</entry>
+<entry l="LAK673" oid="o0000217" n="GIŠ">
+<rows><row src="/osl/images/lak/rows/LAK673.png"/></rows><sub l="LAK673" cp="U+12111" utf8="𒄑" svg="/osl/images/lak/svg/LAK673.svg"/>
+</entry>
+<entry l="LAK674" oid="o0000206" n="GA₂">
+<rows><row src="/osl/images/lak/rows/LAK674.png"/></rows><sub l="LAK674" cp="U+120B7" utf8="𒂷" svg="/osl/images/lak/svg/LAK674,1.svg"/>
+<sub l="LAK674" salt="1" cp="U+120B7.1" utf8="𒂷" svg="/osl/images/lak/svg/LAK674,2.svg"/></entry>
+<entry l="LAK675" oid="o0001286" n="|GA₂×AN|">
+<rows><row src="/osl/images/lak/rows/LAK675.png"/></rows><sub l="LAK675" cp="U+120BC" utf8="𒂼" svg="/osl/images/lak/svg/LAK675.svg"/>
+</entry>
+<entry l="LAK676" oid="o0001321" n="|GA₂×PA|">
+<rows><row src="/osl/images/lak/rows/LAK676.png"/></rows><sub l="LAK676" cp="U+120E2" utf8="𒃢" svg="/osl/images/lak/svg/LAK676.svg"/>
+</entry>
+<entry l="LAK677" oid="o0001329" n="|GA₂×ZIZ₂|">
+<rows><row src="/osl/images/lak/rows/LAK677.png"/></rows><sub l="LAK677" cp="U+124C8" utf8="𒓈" svg="/osl/images/lak/svg/LAK677.svg"/>
+</entry>
+<entry l="LAK678" oid="o0001320" n="|GA₂×NUN|">
+<rows><row src="/osl/images/lak/rows/LAK678.png"/></rows><sub l="LAK678" cp="U+120E0" utf8="𒃠" svg="/osl/images/lak/svg/LAK678,1.svg"/>
+<sub l="LAK678" salt="1" cp="U+120E0.1" utf8="𒃠" svg="/osl/images/lak/svg/LAK678,2.svg"/></entry>
+<entry l="LAK679" oid="o0001319" n="|GA₂×(NUN&amp;NUN)|">
+<rows><row src="/osl/images/lak/rows/LAK679.png"/></rows><sub l="LAK679" cp="U+120E1" utf8="𒃡" svg="/osl/images/lak/svg/LAK679.svg"/>
+</entry>
+<entry l="LAK680" oid="o0001305" n="|GA₂×GI|">
+<rows><row src="/osl/images/lak/rows/LAK680.png"/></rows><sub l="LAK680" cp="U+120CD" utf8="𒃍" svg="/osl/images/lak/svg/LAK680.svg"/>
+</entry>
+<entry l="LAK681" oid="o0001306" n="|GA₂×GI₄|">
+<rows><row src="/osl/images/lak/rows/LAK681.png"/></rows><sub l="LAK681" cp="U+120CE" utf8="𒃎" svg="/osl/images/lak/svg/LAK681.svg"/>
+</entry>
+<entry l="LAK682" oid="o0001299" n="|GA₂×EN|">
+<rows><row src="/osl/images/lak/rows/LAK682.png"/></rows><sub l="LAK682" cp="U+120C9" utf8="𒃉" svg="/osl/images/lak/svg/LAK682.svg"/>
+</entry>
+<entry l="LAK683" oid="o0001271" n="|GA₂×(ME.EN)|">
+<rows><row src="/osl/images/lak/rows/LAK683.png"/></rows><sub l="LAK683" cp="U+120DE" utf8="𒃞" svg="/osl/images/lak/svg/LAK683.svg"/>
+</entry>
+<entry l="LAK684" oid="o0001304" n="|GA₂×GA|">
+<rows><row src="/osl/images/lak/rows/LAK684.png"/></rows><sub l="LAK684" cp="U+124BB" utf8="𒒻" svg="/osl/images/lak/svg/LAK684.svg"/>
+</entry>
+<entry l="LAK685" oid="o0001293" n="|GA₂×DIM@g|">
+<rows><row src="/osl/images/lak/rows/LAK685.png"/></rows><sub l="LAK685" cp="U+124B7" utf8="𒒷" svg="/osl/images/lak/svg/LAK685.svg"/>
+</entry>
+<entry l="LAK686" oid="o0001295" n="|GA₂×DI|">
+<rows><row src="/osl/images/lak/rows/LAK686.png"/></rows><sub l="LAK686" cp="U+120C4" utf8="𒃄" svg="/osl/images/lak/svg/LAK686.svg"/>
+</entry>
+<entry l="LAK687" oid="o0001258" n="|GA₂×(GAR.DI)|">
+<rows><row src="/osl/images/lak/rows/LAK687.png"/></rows><sub l="LAK687" cp="U+124BC" utf8="𒒼" svg="/osl/images/lak/svg/LAK687.svg"/>
+</entry>
+<entry l="LAK688" oid="o0001318" n="|GA₂×NE|">
+<rows><row src="/osl/images/lak/rows/LAK688.png"/></rows><sub l="LAK688" cp="U+124C4" utf8="𒓄" svg="/osl/images/lak/svg/LAK688.svg"/>
+</entry>
+<entry l="LAK689" oid="o0001273" n="|GA₂×(NE.GI)|">
+<rows><row src="/osl/images/lak/rows/LAK689.png"/></rows><sub l="LAK689" cp="U+124C6" utf8="𒓆" svg="/osl/images/lak/svg/LAK689.svg"/>
+</entry>
+<entry l="LAK690" oid="o0001259" n="|GA₂×(GAR.NE)|">
+<rows><row src="/osl/images/lak/rows/LAK690.png"/></rows><sub l="LAK690" cp="U+124BD" utf8="𒒽" svg="/osl/images/lak/svg/LAK690.svg"/>
+</entry>
+<entry l="LAK691" oid="o0001303" n="|GA₂×GAR|">
+<rows><row src="/osl/images/lak/rows/LAK691.png"/></rows><sub l="LAK691" cp="U+120CC" utf8="𒃌" svg="/osl/images/lak/svg/LAK691.svg"/>
+</entry>
+<entry l="LAK692" oid="o0001272" n="|GA₂×(NE.E₂)|">
+<rows><row src="/osl/images/lak/rows/LAK692.png"/></rows><sub l="LAK692" cp="U+124C5" utf8="𒓅" svg="/osl/images/lak/svg/LAK692.svg"/>
+</entry>
+<entry l="LAK693" oid="o0022953" n="|GA₂×LI|">
+<rows><row src="/osl/images/lak/rows/LAK693.png"/></rows><sub l="LAK693" cp="U+F1099" utf8="󱂙" svg="/osl/images/lak/svg/LAK693.svg"/>
+</entry>
+<entry l="LAK694" oid="o0018533" n="|GA₂×HA|">
+<rows><row src="/osl/images/lak/rows/LAK694.png"/></rows><sub l="LAK694" cp="U+F109A" utf8="󱂚" svg="/osl/images/lak/svg/LAK694.svg"/>
+</entry>
+<entry l="LAK695" oid="o0027183" n="|GA₂×(HA.HA)|">
+<rows><row src="/osl/images/lak/rows/LAK695.png"/></rows><sub l="LAK695" cp="U+F109B" utf8="󱂛" svg="/osl/images/lak/svg/LAK695.svg"/>
+</entry>
+<entry l="LAK696" oid="o0001317" n="|GA₂×MUŠ|">
+<rows><row src="/osl/images/lak/rows/LAK696.png"/></rows><sub l="LAK696" cp="U+124C3" utf8="𒓃" svg="/osl/images/lak/svg/LAK696.svg"/>
+</entry>
+<entry l="LAK697" oid="o0001326" n="|GA₂×UD|">
+<rows><row src="/osl/images/lak/rows/LAK697.png"/></rows><sub l="LAK697" cp="U+120EB" utf8="𒃫" svg="/osl/images/lak/svg/LAK697.svg"/>
+</entry>
+<entry l="LAK698" oid="o0001322" n="|GA₂×SAL|">
+<rows><row src="/osl/images/lak/rows/LAK698.png"/></rows><sub l="LAK698" cp="U+120E3" utf8="𒃣" svg="/osl/images/lak/svg/LAK698.svg"/>
+</entry>
+<entry l="LAK699" oid="o0001291" n="|GA₂×BUR|">
+<rows><row src="/osl/images/lak/rows/LAK699.png"/></rows><sub l="LAK699" cp="U+120C1" utf8="𒃁" svg="/osl/images/lak/svg/LAK699.svg"/>
+</entry>
+<entry l="LAK700" oid="o0001268" n="|GA₂×(KUŠU₂.KASKAL)|">
+<rows><row src="/osl/images/lak/rows/LAK700.png"/></rows><sub l="LAK700" cp="U+124BF" utf8="𒒿" svg="/osl/images/lak/svg/LAK700.svg"/>
+</entry>
+<entry l="LAK701" oid="o0001332" n="|GA₂×ŠIM|">
+<rows><row src="/osl/images/lak/rows/LAK701.png"/></rows><sub l="LAK701" cp="U+124C7" utf8="𒓇" svg="/osl/images/lak/svg/LAK701.svg"/>
+</entry>
+<entry l="LAK702" oid="o0001254" n="|GA₂×(DUG×IGI@g)|">
+<rows><row src="/osl/images/lak/rows/LAK702.png"/></rows><sub l="LAK702" cp="U+124B8" utf8="𒒸" svg="/osl/images/lak/svg/LAK702.svg"/>
+</entry>
+<entry l="LAK703" oid="o0001255" n="|GA₂×(DUG×KASKAL)|">
+<rows><row src="/osl/images/lak/rows/LAK703.png"/></rows><sub l="LAK703" cp="U+124B9" utf8="𒒹" svg="/osl/images/lak/svg/LAK703.svg"/>
+</entry>
+<entry l="LAK704" oid="o0001270" n="|GA₂×(LAM×KUR)|">
+<rows><row src="/osl/images/lak/rows/LAK704.png"/></rows><sub l="LAK704" cp="U+124C1" utf8="𒓁" svg="/osl/images/lak/svg/LAK704.svg"/>
+</entry>
+<entry l="LAK705" oid="o0001313" n="|GA₂×LAM|">
+<rows><row src="/osl/images/lak/rows/LAK705.png"/></rows><sub l="LAK705" cp="U+124C0" utf8="𒓀" svg="/osl/images/lak/svg/LAK705.svg"/>
+</entry>
+<entry l="LAK706" oid="o0001289" n="|GA₂×BAHAR₂|">
+<rows><row src="/osl/images/lak/rows/LAK706.png"/></rows><sub l="LAK706" cp="U+124B6" utf8="𒒶" svg="/osl/images/lak/svg/LAK706.svg"/>
+</entry>
+<entry l="LAK707" oid="o0001315" n="|GA₂×LUH|">
+<rows><row src="/osl/images/lak/rows/LAK707.png"/></rows><sub l="LAK707" cp="U+124C2" utf8="𒓂" svg="/osl/images/lak/svg/LAK707.svg"/>
+</entry>
+<entry l="LAK708" oid="o0000410" n="LAK708">
+<rows><row src="/osl/images/lak/rows/LAK708.png"/></rows><sub l="LAK708" cp="U+F109C" utf8="󱂜" svg="/osl/images/lak/svg/LAK708.svg"/>
+</entry>
+<entry l="LAK709">
+<rows><row src="/osl/images/lak/rows/LAK709.png"/></rows><sub l="LAK709" cp="U+12128" utf8="𒄨" svg="/osl/images/lak/svg/LAK709.svg"/>
+</entry>
+<entry l="LAK710" oid="o0000510" n="RA">
+<rows><row src="/osl/images/lak/rows/LAK710.png"/></rows><sub l="LAK710" cp="U+1228F" utf8="𒊏" svg="/osl/images/lak/svg/LAK710.svg"/>
+</entry>
+<entry l="LAK711" oid="o0002837" n="ŠID">
+<rows><row src="/osl/images/lak/rows/LAK711.png"/></rows><sub l="LAK711" cp="U+122C3" utf8="𒋃" svg="/osl/images/lak/svg/LAK711.svg"/>
+</entry>
+<entry l="LAK712">
+<rows><row src="/osl/images/lak/rows/LAK712.png"/></rows><sub l="LAK712" cp="U+F109D" utf8="󱂝" svg="/osl/images/lak/svg/LAK712,1.svg"/>
+<sub l="LAK712" cp="U+F109E" utf8="󱂞" svg="/osl/images/lak/svg/LAK712,2.svg"/>
+</entry>
+<entry l="LAK713" oid="o0002833" n="ŠEN">
+<rows><row src="/osl/images/lak/rows/LAK713.png"/></rows><sub l="LAK713" cp="U+122BF" utf8="𒊿" svg="/osl/images/lak/svg/LAK713.svg"/>
+</entry>
+<entry l="LAK714" oid="o0001878" n="|LAK648×GA|">
+<rows><row src="/osl/images/lak/rows/LAK714.png"/></rows><sub l="LAK714" cp="U+1250F" utf8="𒔏" svg="/osl/images/lak/svg/LAK714.svg"/>
+</entry>
+<entry l="LAK715" oid="o0001882" n="|LAK648×NI|">
+<rows><row src="/osl/images/lak/rows/LAK715.png"/></rows><sub l="LAK715" cp="U+12512" utf8="𒔒" svg="/osl/images/lak/svg/LAK715.svg"/>
+</entry>
+<entry l="LAK716" oid="o0001884" n="|LAK648×URUDA|">
+<rows><row src="/osl/images/lak/rows/LAK716.png"/></rows><sub l="LAK716" salt="1" cp="U+12516.1" utf8="𒔖" svg="/osl/images/lak/svg/LAK716.svg"/></entry>
+<entry l="LAK717" oid="o0001877" n="|LAK648×DUB|">
+<rows><row src="/osl/images/lak/rows/LAK717.png"/></rows><sub l="LAK717" cp="U+1250E" utf8="𒔎" svg="/osl/images/lak/svg/LAK717.svg"/>
+</entry>
+<entry l="LAK718" oid="o0001883" n="|LAK648×UD|">
+<rows><row src="/osl/images/lak/rows/LAK718.png"/></rows><sub l="LAK718" cp="U+12515" utf8="𒔕" svg="/osl/images/lak/svg/LAK718.svg"/>
+</entry>
+<entry l="LAK719" oid="o0001876" n="|LAK648×(ŠEŠ.KI)|">
+<rows><row src="/osl/images/lak/rows/LAK719.png"/></rows><sub l="LAK719" cp="U+12514" utf8="𒔔" svg="/osl/images/lak/svg/LAK719.svg"/>
+</entry>
+<entry l="LAK720" oid="o0001875" n="|LAK648×(PAP.PAP.LU₃)|">
+<rows><row src="/osl/images/lak/rows/LAK720.png"/></rows><sub l="LAK720" cp="U+12513" utf8="𒔓" svg="/osl/images/lak/svg/LAK720.svg"/>
+</entry>
+<entry l="LAK721" oid="o0000962" n="|DAG.KISIM₅×LU|">
+<rows><row src="/osl/images/lak/rows/LAK721.png"/></rows><sub l="LAK721" cp="U+12065" utf8="𒁥" svg="/osl/images/lak/svg/LAK721.svg"/>
+</entry>
+<entry l="LAK722" oid="o0027551" n="LAK722">
+<rows><row src="/osl/images/lak/rows/LAK722.png"/></rows><sub l="LAK722" cp="U+F109F" utf8="󱂟" svg="/osl/images/lak/svg/LAK722.svg"/>
+</entry>
+<entry l="LAK723" oid="o0000284" n="KISAL">
+<rows><row src="/osl/images/lak/rows/LAK723.png"/></rows><sub l="LAK723" cp="U+121A6" utf8="𒆦" svg="/osl/images/lak/svg/LAK723,1.svg"/>
+<sub l="LAK723" salt="1" cp="U+121A6.1" utf8="𒆦" svg="/osl/images/lak/svg/LAK723,2.svg"/></entry>
+<entry l="LAK724" oid="o0000411" n="LAK724">
+<rows><row src="/osl/images/lak/rows/LAK724.png"/></rows><sub l="LAK724" cp="U+12517" utf8="𒔗" svg="/osl/images/lak/svg/LAK724.svg"/>
+</entry>
+<entry l="LAK725" oid="o0027615" n="|KISAL×UD|">
+<rows><row src="/osl/images/lak/rows/LAK725.png"/></rows><sub l="LAK725" cp="U+F10A0" utf8="󱂠" svg="/osl/images/lak/svg/LAK725.svg"/>
+</entry>
+<entry l="LAK726" oid="o0000187" n="GA">
+<rows><row src="/osl/images/lak/rows/LAK726.png"/></rows><sub l="LAK726" cp="U+120B5" utf8="𒂵" svg="/osl/images/lak/svg/LAK726.svg"/>
+</entry>
+<entry l="LAK727" oid="o0000188" n="GA@g">
+<rows><row src="/osl/images/lak/rows/LAK727.png"/></rows><sub l="LAK727" cp="U+120B6" utf8="𒂶" svg="/osl/images/lak/svg/LAK727.svg"/>
+</entry>
+<entry l="LAK728" oid="o0001171" n="|GA.KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK728.png"/></rows><sub l="LAK728" cp="x120B5.x1219C" utf8="𒂵𒆜" svg="/osl/images/lak/svg/LAK728.svg"/>
+</entry>
+<entry l="LAK729" oid="o0000574" n="KALAM">
+<rows><row src="/osl/images/lak/rows/LAK729.png"/></rows><sub l="LAK729" cp="U+12327" utf8="𒌧" svg="/osl/images/lak/svg/LAK729.svg"/>
+</entry>
+<entry l="LAK730" oid="o0000575" n="KALAM@g">
+<rows><row src="/osl/images/lak/rows/LAK730.png"/></rows><sub l="LAK730" cp="U+12326" utf8="𒌦" svg="/osl/images/lak/svg/LAK730.svg"/>
+</entry>
+<entry l="LAK731" oid="o0000517" n="SA">
+<rows><row src="/osl/images/lak/rows/LAK731.png"/></rows><sub l="LAK731" cp="U+12293" utf8="𒊓" svg="/osl/images/lak/svg/LAK731.svg"/>
+</entry>
+<entry l="LAK732" oid="o0000180" n="E₂">
+<rows><row src="/osl/images/lak/rows/LAK732.png"/></rows><sub l="LAK732" cp="U+1208D" utf8="𒂍" svg="/osl/images/lak/svg/LAK732.svg"/>
+</entry>
+<entry l="LAK733" oid="o0000281" n="KID">
+<rows><row src="/osl/images/lak/rows/LAK733.png"/></rows><sub l="LAK733" cp="U+121A4" utf8="𒆤" svg="/osl/images/lak/svg/LAK733.svg"/>
+</entry>
+<entry l="LAK734" oid="o0021192" n="|E₂×AŠ@t|">
+<rows><row src="/osl/images/lak/rows/LAK734.png"/></rows><sub l="LAK734" cp="U+F004F" utf8="󰁏" svg="/osl/images/lak/svg/LAK734.svg"/>
+</entry>
+<entry l="LAK735" oid="o0000277" n="KA₂">
+<rows><row src="/osl/images/lak/rows/LAK735.png"/></rows><sub l="LAK735" cp="U+1218D" utf8="𒆍" svg="/osl/images/lak/svg/LAK735.svg"/>
+</entry>
+<entry l="LAK736" oid="o0001159" n="|E₂×PAP|">
+<rows><row src="/osl/images/lak/rows/LAK736.png"/></rows><sub l="LAK736" cp="U+124AA" utf8="𒒪" svg="/osl/images/lak/svg/LAK736.svg"/>
+</entry>
+<entry l="LAK737" oid="o0001161" n="|E₂×U|">
+<rows><row src="/osl/images/lak/rows/LAK737.png"/></rows><sub l="LAK737" cp="U+12093" utf8="𒂓" svg="/osl/images/lak/svg/LAK737.svg"/>
+</entry>
+<entry l="LAK738" oid="o0001157" n="|E₂×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK738.png"/></rows><sub l="LAK738" cp="U+124A9" utf8="𒒩" svg="/osl/images/lak/svg/LAK738.svg"/>
+</entry>
+<entry l="LAK739" oid="o0001160" n="|E₂×SAL|">
+<rows><row src="/osl/images/lak/rows/LAK739.png"/></rows><sub l="LAK739" cp="U+12091" utf8="𒂑" svg="/osl/images/lak/svg/LAK739,1.svg"/>
+<sub l="LAK739" salt="1" cp="U+12091.1" utf8="𒂑" svg="/osl/images/lak/svg/LAK739,2.svg"/></entry>
+<entry l="LAK740" oid="o0000133" n="DAG">
+<rows><row src="/osl/images/lak/rows/LAK740.png"/></rows><sub l="LAK740" cp="U+12056" utf8="𒁖" svg="/osl/images/lak/svg/LAK740.svg"/>
+</entry>
+<entry l="LAK741" oid="o0000969" n="|DAG×KUR|">
+<rows><row src="/osl/images/lak/rows/LAK741.png"/></rows><sub l="LAK741" cp="U+12489" utf8="𒒉" svg="/osl/images/lak/svg/LAK741.svg"/>
+</entry>
+<entry l="LAK742" oid="o0000117" n="BAHAR₂">
+<rows><row src="/osl/images/lak/rows/LAK742.png"/></rows><sub l="LAK742" cp="U+12043" utf8="𒁃" svg="/osl/images/lak/svg/LAK742.svg"/>
+</entry>
+<entry l="LAK743" oid="o0000898" n="|BAHAR₂×AB₂|">
+<rows><row src="/osl/images/lak/rows/LAK743.png"/></rows><sub l="LAK743" cp="U+12484" utf8="𒒄" svg="/osl/images/lak/svg/LAK743.svg"/>
+</entry>
+<entry l="LAK744" oid="o0000953" n="|DAG.KISIM₅×GA|">
+<rows><row src="/osl/images/lak/rows/LAK744.png"/></rows><sub l="LAK744" cp="U+1205B" utf8="𒁛" svg="/osl/images/lak/svg/LAK744.svg"/>
+</entry>
+<entry l="LAK745" oid="o0000899" n="|BAHAR₂×NI|">
+<rows><row src="/osl/images/lak/rows/LAK745.png"/></rows><sub l="LAK745" cp="U+12485" utf8="𒒅" svg="/osl/images/lak/svg/LAK745.svg"/>
+</entry>
+<entry l="LAK746" oid="o0000900" n="|BAHAR₂×ZA|">
+<rows><row src="/osl/images/lak/rows/LAK746.png"/></rows><sub l="LAK746" cp="U+12486" utf8="𒒆" svg="/osl/images/lak/svg/LAK746.svg"/>
+</entry>
+<entry l="LAK747" oid="o0000167" n="EDIN">
+<rows><row src="/osl/images/lak/rows/LAK747.png"/></rows><sub l="LAK747" cp="U+12094" utf8="𒂔" svg="/osl/images/lak/svg/LAK747.svg"/>
+</entry>
+<entry l="LAK748" oid="o0000414" n="LAK748">
+<rows><row src="/osl/images/lak/rows/LAK748.png"/></rows><sub l="LAK748" cp="U+F10A1" utf8="󱂡" svg="/osl/images/lak/svg/LAK748.svg"/>
+</entry>
+<entry l="LAK749" oid="o0000415" n="LAK749">
+<rows><row src="/osl/images/lak/rows/LAK749.png"/></rows><sub l="LAK749" cp="U+12518" utf8="𒔘" svg="/osl/images/lak/svg/LAK749.svg"/>
+</entry>
+<entry l="LAK750" oid="o0000453" n="ME">
+<rows><row src="/osl/images/lak/rows/LAK750.png"/></rows><sub l="LAK750" cp="U+12228" utf8="𒈨" svg="/osl/images/lak/svg/LAK750,1.svg"/>
+<sub l="LAK750" salt="1" cp="U+12228.1" utf8="𒈨" svg="/osl/images/lak/svg/LAK750,2.svg"/></entry>
+<entry l="LAK751" oid="" n="Sequence ME TE">
+<rows><row src="/osl/images/lak/rows/LAK751.png"/></rows><sub l="LAK751" cp="U+F2005" utf8="󲀅" svg="/osl/images/lak/svg/LAK751,1.svg"/>
+<sub l="LAK751" salt="1" cp="U+F2005.1" utf8="󲀅" svg="/osl/images/lak/svg/LAK751,2.svg"/></entry>
+<entry l="LAK752" oid="o0000120" n="BAR">
+<rows><row src="/osl/images/lak/rows/LAK752.png"/></rows><sub l="LAK752" cp="U+12047" utf8="𒁇" svg="/osl/images/lak/svg/LAK752,1.svg"/>
+<sub l="LAK752" salt="1" cp="U+12047.1" utf8="𒁇" svg="/osl/images/lak/svg/LAK752,2.svg"/></entry>
+<entry l="LAK753" oid="o0000911" n="|BAR×AN|">
+<rows><row src="/osl/images/lak/rows/LAK753.png"/></rows><sub l="LAK753" cp="U+F10A2" utf8="󱂢" svg="/osl/images/lak/svg/LAK753.svg"/>
+</entry>
+<entry l="LAK754" oid="o0000293" n="KUN">
+<rows><row src="/osl/images/lak/rows/LAK754.png"/></rows><sub l="LAK754" salt="1" cp="U+121B2.1" utf8="𒆲" svg="/osl/images/lak/svg/LAK754.svg"/></entry>
+<entry l="LAK755" oid="o0000244" n="IB">
+<rows><row src="/osl/images/lak/rows/LAK755.png"/></rows><sub l="LAK755" cp="U+12141" utf8="𒅁" svg="/osl/images/lak/svg/LAK755.svg"/>
+</entry>
+<entry l="LAK756" oid="o0000422" n="LAL">
+<rows><row src="/osl/images/lak/rows/LAK756.png"/></rows><sub l="LAK756" cp="U+121F2" utf8="𒇲" svg="/osl/images/lak/svg/LAK756.svg"/>
+</entry>
+<entry l="LAK757" oid="o0001890" n="|LAL.SAR|">
+<rows><row src="/osl/images/lak/rows/LAK757.png"/></rows><sub l="LAK757" cp="x121F2.x122AC" utf8="𒇲𒊬" svg="/osl/images/lak/svg/LAK757.svg"/>
+</entry>
+<entry l="LAK758" oid="o0001889" n="|LAL.NI|">
+<rows><row src="/osl/images/lak/rows/LAK758.png"/></rows><sub l="LAK758" cp="x121F2.x1224C" utf8="𒇲𒉌" svg="/osl/images/lak/svg/LAK758.svg"/>
+</entry>
+<entry l="LAK759" oid="o0027628" n="|LAL×LAGAB|">
+<rows><row src="/osl/images/lak/rows/LAK759.png"/></rows><sub l="LAK759" cp="U+F10A3" utf8="󱂣" svg="/osl/images/lak/svg/LAK759.svg"/>
+</entry>
+<entry l="LAK760" oid="o0000423" n="LAL₂">
+<rows><row src="/osl/images/lak/rows/LAK760.png"/></rows><sub l="LAK760" cp="U+121F3" utf8="𒇳" svg="/osl/images/lak/svg/LAK760.svg"/>
+</entry>
+<entry l="LAK761" oid="o0001898" n="|LAL₂.SAR|">
+<rows><row src="/osl/images/lak/rows/LAK761.png"/></rows><sub l="LAK761" cp="x121F3.x122AC" utf8="𒇳𒊬" svg="/osl/images/lak/svg/LAK761.svg"/>
+</entry>
+<entry l="LAK762" oid="o0027630" n="|LAL₂×DU|">
+<rows><row src="/osl/images/lak/rows/LAK762.png"/></rows><sub l="LAK762" cp="U+F10A5" utf8="󱂥" svg="/osl/images/lak/svg/LAK762.svg"/>
+</entry>
+<entry l="LAK763" oid="o0025676" n="|LAL₂×DU.DU|">
+<rows><row src="/osl/images/lak/rows/LAK763.png"/></rows><sub l="LAK763" cp="U+F3005" utf8="󳀅" svg="/osl/images/lak/svg/LAK763.svg"/>
+</entry>
+<entry l="LAK764" oid="o0000416" n="LAK764">
+<rows><row src="/osl/images/lak/rows/LAK764.png"/></rows><sub l="LAK764" cp="U+F10A7" utf8="󱂧" svg="/osl/images/lak/svg/LAK764.svg"/>
+</entry>
+<entry l="LAK765" oid="o0018528" n="LAK765">
+<rows><row src="/osl/images/lak/rows/LAK765.png"/></rows><sub l="LAK765" cp="U+F10A8" utf8="󱂨" svg="/osl/images/lak/svg/LAK765.svg"/>
+</entry>
+<entry l="LAK766" oid="o0000306" n="LAGAB">
+<rows><row src="/osl/images/lak/rows/LAK766.png"/></rows><sub l="LAK766" cp="U+121B8" utf8="𒆸" svg="/osl/images/lak/svg/LAK766.svg"/>
+</entry>
+<entry l="LAK767" oid="o0001772" n="|LAGAB.LAGAB|">
+<rows><row src="/osl/images/lak/rows/LAK767.png"/></rows><sub l="LAK767" cp="x121B8.x121B8" utf8="𒆸𒆸" svg="/osl/images/lak/svg/LAK767.svg"/>
+</entry>
+<entry l="LAK768" oid="o0001814" n="|LAGAB×HAL|">
+<rows><row src="/osl/images/lak/rows/LAK768.png"/></rows><sub l="LAK768" cp="U+121C9" utf8="𒇉" svg="/osl/images/lak/svg/LAK768.svg"/>
+</entry>
+<entry l="LAK769" oid="o0001799" n="|LAGAB×AN|">
+<rows><row src="/osl/images/lak/rows/LAK769.png"/></rows><sub l="LAK769" cp="U+121BE" utf8="𒆾" svg="/osl/images/lak/svg/LAK769.svg"/>
+</entry>
+<entry l="LAK770" oid="o0001835" n="|LAGAB×TIL|">
+<rows><row src="/osl/images/lak/rows/LAK770.png"/></rows><sub l="LAK770" cp="U+F10A9" utf8="󱂩" svg="/osl/images/lak/svg/LAK770.svg"/>
+</entry>
+<entry l="LAK771" oid="o0001838" n="|LAGAB×U|">
+<rows><row src="/osl/images/lak/rows/LAK771.png"/></rows><sub l="LAK771" cp="U+121E5" utf8="𒇥" svg="/osl/images/lak/svg/LAK771.svg"/>
+</entry>
+<entry l="LAK772" oid="o0027185" n="|LAGAB×AŠ@c|">
+<rows><row src="/osl/images/lak/rows/LAK772.png"/></rows><sub l="LAK772" cp="U+F10AB" utf8="󱂫" svg="/osl/images/lak/svg/LAK772.svg"/>
+</entry>
+<entry l="LAK773" oid="o0027553" n="LAK773">
+<rows><row src="/osl/images/lak/rows/LAK773.png"/></rows><sub l="LAK773" cp="U+F10AD" utf8="󱂭" svg="/osl/images/lak/svg/LAK773.svg"/>
+</entry>
+<entry l="LAK774" oid="o0000417" n="LAK774">
+<rows><row src="/osl/images/lak/rows/LAK774.png"/></rows><sub l="LAK774" cp="U+F10AE" utf8="󱂮" svg="/osl/images/lak/svg/LAK774.svg"/>
+</entry>
+<entry l="LAK775" oid="o0000433" n="LU">
+<rows><row src="/osl/images/lak/rows/LAK775.png"/></rows><sub l="LAK775" cp="U+121FB" utf8="𒇻" svg="/osl/images/lak/svg/LAK775.svg"/>
+</entry>
+<entry l="LAK776" oid="o0027555" n="LAK776">
+<rows><row src="/osl/images/lak/rows/LAK776.png"/></rows><sub l="LAK776" cp="U+F10AF" utf8="󱂯" svg="/osl/images/lak/svg/LAK776.svg"/>
+</entry>
+<entry l="LAK777" oid="o0000967" n="|DAG.KISIM₅×UŠ|">
+<rows><row src="/osl/images/lak/rows/LAK777.png"/></rows><sub l="LAK777" cp="U+1206D" utf8="𒁭" svg="/osl/images/lak/svg/LAK777.svg"/>
+</entry>
+<entry l="LAK778" oid="o0000594" n="UZ₃">
+<rows><row src="/osl/images/lak/rows/LAK778.png"/></rows><sub l="LAK778" cp="U+1235A" utf8="𒍚" svg="/osl/images/lak/svg/LAK778.svg"/>
+</entry>
+<entry l="LAK779" oid="o0021461" n="LAK779">
+<rows><row src="/osl/images/lak/rows/LAK779.png"/></rows><sub l="LAK779" cp="U+F10B0" utf8="󱂰" svg="/osl/images/lak/svg/LAK779.svg"/>
+</entry>
+<entry l="LAK780" oid="o0000140" n="DIB">
+<rows><row src="/osl/images/lak/rows/LAK780.png"/></rows><sub l="LAK780" cp="U+12073" utf8="𒁳" svg="/osl/images/lak/svg/LAK780,1.svg"/>
+<sub l="LAK780" salt="1" cp="U+12073.1" utf8="𒁳" svg="/osl/images/lak/svg/LAK780,2.svg"/></entry>
+<entry l="LAK781" oid="o0001778" n="|LAGAB×(GUD&amp;GUD)|">
+<rows><row src="/osl/images/lak/rows/LAK781.png"/></rows><sub l="LAK781" cp="U+121C7" utf8="𒇇" svg="/osl/images/lak/svg/LAK781.svg"/>
+</entry>
+<entry l="LAK782" oid="o0001817" n="|LAGAB×IGI@g|">
+<rows><row src="/osl/images/lak/rows/LAK782.png"/></rows><sub l="LAK782" cp="U+121CB" utf8="𒇋" svg="/osl/images/lak/svg/LAK782.svg"/>
+</entry>
+<entry l="LAK783" oid="o0001832" n="|LAGAB×SUM|">
+<rows><row src="/osl/images/lak/rows/LAK783.png"/></rows><sub l="LAK783" cp="U+121E1" utf8="𒇡" svg="/osl/images/lak/svg/LAK783.svg"/>
+</entry>
+<entry l="LAK784" oid="o0018538" n="|LAGAB×(HA.A)|">
+<rows><row src="/osl/images/lak/rows/LAK784.png"/></rows><sub l="LAK784" cp="U+F10B1" utf8="󱂱" svg="/osl/images/lak/svg/LAK784.svg"/>
+</entry>
+<entry l="LAK785" oid="o0001800" n="|LAGAB×A|">
+<rows><row src="/osl/images/lak/rows/LAK785.png"/></rows><sub l="LAK785" cp="U+121B9" utf8="𒆹" svg="/osl/images/lak/svg/LAK785,1.svg"/>
+<sub l="LAK785" salt="1" cp="U+121B9.1" utf8="𒆹" svg="/osl/images/lak/svg/LAK785,2.svg"/></entry>
+<entry l="LAK786" oid="o0025786" n="LAK786">
+<rows><row src="/osl/images/lak/rows/LAK786.png"/></rows><sub l="LAK786" cp="U+F10B2" utf8="󱂲" svg="/osl/images/lak/svg/LAK786.svg"/>
+</entry>
+<entry l="LAK787" oid="o0027619" n="|LAGAB×ŠU|">
+<rows><row src="/osl/images/lak/rows/LAK787.png"/></rows><sub l="LAK787" cp="U+F10B3" utf8="󱂳" svg="/osl/images/lak/svg/LAK787.svg"/>
+</entry>
+<entry l="LAK788" oid="o0001790" n="|LAGAB×(ZU&amp;ZU)|">
+<rows><row src="/osl/images/lak/rows/LAK788.png"/></rows><sub l="LAK788" cp="U+124D4" utf8="𒓔" svg="/osl/images/lak/svg/LAK788.svg"/>
+</entry>
+<entry l="LAK789" oid="o0027617" n="|LAGAB×GAN₂|">
+<rows><row src="/osl/images/lak/rows/LAK789.png"/></rows><sub l="LAK789" cp="U+F10B4" utf8="󱂴" svg="/osl/images/lak/svg/LAK789.svg"/>
+</entry>
+<entry l="LAK790" oid="o0000443" n="LU₃">
+<rows><row src="/osl/images/lak/rows/LAK790.png"/></rows><sub l="LAK790" cp="U+12216" utf8="𒈖" svg="/osl/images/lak/svg/LAK790.svg"/>
+</entry>
+<entry l="LAK791" oid="o0000165" n="DUR₂">
+<rows><row src="/osl/images/lak/rows/LAK791.png"/></rows><sub l="LAK791" cp="U+12089" utf8="𒂉" svg="/osl/images/lak/svg/LAK791.svg"/>
+</entry>
+<entry l="LAK792" oid="o0000475" n="NAM₂">
+<rows><row src="/osl/images/lak/rows/LAK792.png"/></rows><sub l="LAK792" cp="U+12247" utf8="𒉇" svg="/osl/images/lak/svg/LAK792,1.svg"/>
+<sub l="LAK792" salt="1" cp="U+12247.1" utf8="𒉇" svg="/osl/images/lak/svg/LAK792,2.svg"/></entry>
+<entry l="LAK793" oid="o0000529" n="SIK₂">
+<rows><row src="/osl/images/lak/rows/LAK793.png"/></rows><sub l="LAK793" cp="U+122E0" utf8="𒋠" svg="/osl/images/lak/svg/LAK793.svg"/>
+</entry>
+<entry l="LAK794" oid="o0000178" n="EŠ₂">
+<rows><row src="/osl/images/lak/rows/LAK794.png"/></rows><sub l="LAK794" cp="U+120A0" utf8="𒂠" svg="/osl/images/lak/svg/LAK794.svg"/>
+</entry>
+<entry l="LAK795" oid="o0000087" n="A">
+<rows><row src="/osl/images/lak/rows/LAK795.png"/></rows><sub l="LAK795" cp="U+12000" utf8="𒀀" svg="/osl/images/lak/svg/LAK795,1.svg"/>
+<sub l="LAK795" salt="1" cp="U+12000.1" utf8="𒀀" svg="/osl/images/lak/svg/LAK795,2.svg"/></entry>
+<entry l="LAK796" oid="o0000848" n="|A×HA|">
+<rows><row src="/osl/images/lak/rows/LAK796.png"/></rows><sub l="LAK796" cp="U+12004" utf8="𒀄" svg="/osl/images/lak/svg/LAK796.svg"/>
+</entry>
+<entry l="LAK797" oid="o0000603" n="ZA">
+<rows><row src="/osl/images/lak/rows/LAK797.png"/></rows><sub l="LAK797" cp="U+1235D" utf8="𒍝" svg="/osl/images/lak/svg/LAK797.svg"/>
+</entry>
+<entry l="LAK798" oid="o0000607" n="ZA₇">
+<rows><row src="/osl/images/lak/rows/LAK798.png"/></rows><sub l="LAK798" cp="U+12541" utf8="𒕁" svg="/osl/images/lak/svg/LAK798.svg"/>
+</entry>
+<entry l="LAK799" oid="o0002643" n="|ZA.GUL|">
+<rows><row src="/osl/images/lak/rows/LAK799.png"/></rows><sub l="LAK799" cp="x1235D.x12122" utf8="𒍝𒄢" svg="/osl/images/lak/svg/LAK799.svg"/>
+</entry>
+<entry l="LAK800" oid="o0000846" n="|A×BAD|">
+<rows><row src="/osl/images/lak/rows/LAK800.png"/></rows><sub l="LAK800" cp="U+12002" utf8="𒀂" svg="/osl/images/lak/svg/LAK800.svg"/>
+</entry>
+<entry l="LAK801" oid="o0000299" n="KU₇">
+<rows><row src="/osl/images/lak/rows/LAK801.png"/></rows><sub l="LAK801" salt="1" cp="U+121AF.1" utf8="𒆯" svg="/osl/images/lak/svg/LAK801.svg"/></entry>
+<entry l="LAK802" oid="" n="Unidentified sign">
+<rows><row src="/osl/images/lak/rows/LAK802.png"/></rows><sub l="LAK802" cp="U+F2006" utf8="󲀆" svg="/osl/images/lak/svg/LAK802.svg"/>
+</entry>
+<entry l="LAK803" oid="" n="Unidentified sign">
+<rows><row src="/osl/images/lak/rows/LAK803.png"/></rows><sub l="LAK803" cp="U+F2007" utf8="󲀇" svg="/osl/images/lak/svg/LAK803.svg"/>
+</entry>
+<entry l="LAK804" oid="o0027557" n="LAK804">
+<rows><row src="/osl/images/lak/rows/LAK804.png"/></rows><sub l="LAK804" cp="U+F10B6" utf8="󱂶" svg="/osl/images/lak/svg/LAK804.svg"/>
+</entry>
+<entry l="LAK805" oid="o0027559" n="LAK805">
+<rows><row src="/osl/images/lak/rows/LAK805.png"/></rows><sub l="LAK805" cp="U+F10B7" utf8="󱂷" svg="/osl/images/lak/svg/LAK805.svg"/>
+</entry>
+<entry l="LAK806" oid="o0027561" n="LAK806">
+<rows><row src="/osl/images/lak/rows/LAK806.png"/></rows><sub l="LAK806" cp="U+F10B8" utf8="󱂸" svg="/osl/images/lak/svg/LAK806.svg"/>
+</entry>
+<entry l="LAK807" oid="o0000561" n="U">
+<rows><row src="/osl/images/lak/rows/LAK807.png"/></rows><sub l="LAK807" cp="U+1230B" utf8="𒌋" svg="/osl/images/lak/svg/LAK807.svg"/>
+</entry>
+<entry l="LAK808" oid="o0000562" n="U@g">
+<rows><row src="/osl/images/lak/rows/LAK808.png"/></rows><sub l="LAK808" cp="U+12434" utf8="𒐴" svg="/osl/images/lak/svg/LAK808.svg"/>
+</entry>
+<entry l="LAK809" oid="o0002827" n="ŠAR₂">
+<rows><row src="/osl/images/lak/rows/LAK809.png"/></rows><sub l="LAK809" cp="U+122B9" utf8="𒊹" svg="/osl/images/lak/svg/LAK809.svg"/>
+</entry>
+<entry l="LAK810" oid="o0027651" n="|ŠAR₂×HA|">
+<rows><row src="/osl/images/lak/rows/LAK810.png"/></rows><sub l="LAK810" cp="U+F10B9" utf8="󱂹" svg="/osl/images/lak/svg/LAK810.svg"/>
+</entry>
+<entry l="LAK811" oid="o0000419" n="LAK811">
+<rows><row src="/osl/images/lak/rows/LAK811.png"/></rows><sub l="LAK811" cp="U+F10BA" utf8="󱂺" svg="/osl/images/lak/svg/LAK811.svg"/>
+</entry>
+<entry l="LAK812" oid="o0000420" n="LAK812">
+<rows><row src="/osl/images/lak/rows/LAK812.png"/></rows><sub l="LAK812" cp="U+F10BB" utf8="󱂻" svg="/osl/images/lak/svg/LAK812.svg"/>
+</entry>
+<entry l="LAK813" oid="o0027504" n="NUNUZ~a">
+<rows><row src="/osl/images/lak/rows/LAK813.png"/></rows><sub l="LAK813" salt="1" cp="U+1226D.1" utf8="𒉭" svg="/osl/images/lak/svg/LAK813.svg"/></entry>
+<entry l="LAK814" oid="o0027657" n="LAK814">
+<rows><row src="/osl/images/lak/rows/LAK814.png"/></rows><sub l="LAK814" cp="U+F10BC" utf8="󱂼" svg="/osl/images/lak/svg/LAK814,1.svg"/>
+<sub l="LAK814" salt="1" cp="U+F10BC.1" utf8="󱂼" svg="/osl/images/lak/svg/LAK814,2.svg"/><sub l="LAK814" salt="2" cp="U+F10BC.2" utf8="󱂼" svg="/osl/images/lak/svg/LAK814,3.svg"/><sub l="LAK814" salt="3" cp="U+F10BC.3" utf8="󱂼" svg="/osl/images/lak/svg/LAK814,4.svg"/></entry>
+<entry l="LAK815" oid="" n="Subject to further study; possibly a numeric sign">
+<rows><row src="/osl/images/lak/rows/LAK815.png"/></rows><sub l="LAK815" cp="U+F2008" utf8="󲀈" svg="/osl/images/lak/svg/LAK815.svg"/>
+</entry>
+<entry l="LAK816" oid="o0000003" n="1(BAN₂)">
+<rows><row src="/osl/images/lak/rows/LAK816.png"/></rows><sub l="LAK816" cp="U+1244F" utf8="𒑏" svg="/osl/images/lak/svg/LAK816,1.svg"/>
+<sub l="LAK816" salt="1" cp="U+1244F.1" utf8="𒑏" svg="/osl/images/lak/svg/LAK816,2.svg"/></entry>
+<entry l="LAK817" oid="o0000181" n="F₁">
+<rows><row src="/osl/images/lak/rows/LAK817.png"/></rows><sub l="LAK817" cp="U+1245D" utf8="𒑝" svg="/osl/images/lak/svg/LAK817,1.svg"/>
+<sub l="LAK817" salt="1" cp="U+1245D.1" utf8="𒑝" svg="/osl/images/lak/svg/LAK817,2.svg"/><sub l="LAK817" salt="2" cp="U+1245D.2" utf8="𒑝" svg="/osl/images/lak/svg/LAK817,3.svg"/></entry>
+<entry l="LAK818" oid="o0000182" n="F₂">
+<rows><row src="/osl/images/lak/rows/LAK818.png"/></rows><sub l="LAK818" cp="U+1245E" utf8="𒑞" svg="/osl/images/lak/svg/LAK818.svg"/>
+</entry>
+<entry l="LAK819" oid="o0000283" n="KINGUSILI">
+<rows><row src="/osl/images/lak/rows/LAK819.png"/></rows><sub l="LAK819" cp="U+1245C" utf8="𒑜" svg="/osl/images/lak/svg/LAK819.svg"/>
+</entry>
+<entry l="LAK820" oid="o0221914" n="AŠ@c">
+<rows><row src="/osl/images/lak/rows/LAK820.png"/></rows><sub l="LAK820" salt="1" cp="U+12550.1" utf8="𒕐" svg="/osl/images/lak/svg/LAK820,1.svg"/><sub l="LAK820" salt="2" cp="U+12550.2" utf8="𒕐" svg="/osl/images/lak/svg/LAK820,2.svg"/><sub l="LAK820" salt="3" cp="U+12550.3" utf8="𒕐" svg="/osl/images/lak/svg/LAK820,3.svg"/><sub l="LAK820" salt="4" cp="U+12550.4" utf8="𒕐" svg="/osl/images/lak/svg/LAK820,4.svg"/></entry>
+<entry l="LAK821" oid="o0223334" n="U@c">
+<rows><row src="/osl/images/lak/rows/LAK821.png"/></rows><sub l="LAK821" cp="U+12562" utf8="𒕢" svg="/osl/images/lak/svg/LAK821,1.svg"/>
+<sub l="LAK821" salt="1" cp="U+12562.1" utf8="𒕢" svg="/osl/images/lak/svg/LAK821,2.svg"/></entry>
+<entry l="LAK822" oid="o0223469" n="GEŠ₂@c">
+<rows><row src="/osl/images/lak/rows/LAK822.png"/></rows><sub l="LAK822" cp="U+1256B" utf8="𒕫" svg="/osl/images/lak/svg/LAK822,1.svg"/>
+<sub l="LAK822" salt="1" cp="U+1256B.1" utf8="𒕫" svg="/osl/images/lak/svg/LAK822,2.svg"/></entry>
+<entry l="LAK823" oid="o0223467" n="GEŠU@c">
+<rows><row src="/osl/images/lak/rows/LAK823.png"/></rows><sub l="LAK823" cp="U+12574" utf8="𒕴" svg="/osl/images/lak/svg/LAK823,1.svg"/>
+<sub l="LAK823" salt="1" cp="U+12574.1" utf8="𒕴" svg="/osl/images/lak/svg/LAK823,2.svg"/></entry>
+<entry l="LAK824" oid="o0025674" n="|GEŠU@c×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK824.png"/></rows><sub l="LAK824" cp="U+F002B" utf8="󰀫" svg="/osl/images/lak/svg/LAK824.svg"/>
+</entry>
+<entry l="LAK825" oid="o0223485" n="ŠAR₂@c">
+<rows><row src="/osl/images/lak/rows/LAK825.png"/></rows><sub l="LAK825" cp="U+12579" utf8="𒕹" svg="/osl/images/lak/svg/LAK825,1.svg"/>
+<sub l="LAK825" salt="1" cp="U+12579.1" utf8="𒕹" svg="/osl/images/lak/svg/LAK825,2.svg"/></entry>
+<entry l="LAK826" oid="o0223373" n="1(ŠARU@c)">
+<rows><row src="/osl/images/lak/rows/LAK826.png"/></rows><sub l="LAK826" cp="U+12582" utf8="𒖂" svg="/osl/images/lak/svg/LAK826,1.svg"/>
+<sub l="LAK826" salt="1" cp="U+12582.1" utf8="𒖂" svg="/osl/images/lak/svg/LAK826,2.svg"/></entry>
+<entry l="LAK827">
+<rows><row src="/osl/images/lak/rows/LAK827.png"/></rows><sub l="LAK827" cp="U+F0033" utf8="󰀳" svg="/osl/images/lak/svg/LAK827,1.svg"/>
+<sub l="LAK827" cp="U+F0035" utf8="󰀵" svg="/osl/images/lak/svg/LAK827,2.svg"/>
+</entry>
+<entry l="LAK828" oid="o0002827" n="ŠAR₂">
+<rows><row src="/osl/images/lak/rows/LAK828.png"/></rows><sub l="LAK828" salt="1" cp="U+122B9.1" utf8="𒊹" svg="/osl/images/lak/svg/LAK828.svg"/></entry>
+<entry l="LAK829" oid="o0223385" n="1(BAN₂@c)">
+<rows><row src="/osl/images/lak/rows/LAK829.png"/></rows><sub l="LAK829" cp="U+12593" utf8="𒖓" svg="/osl/images/lak/svg/LAK829,1.svg"/>
+<sub l="LAK829" salt="1" cp="U+12593.1" utf8="𒖓" svg="/osl/images/lak/svg/LAK829,2.svg"/></entry>
+<entry l="LAK830" oid="o0223389" n="2(BAN₂@c)">
+<rows><row src="/osl/images/lak/rows/LAK830.png"/></rows><sub l="LAK830" cp="U+12594" utf8="𒖔" svg="/osl/images/lak/svg/LAK830,1.svg"/>
+<sub l="LAK830" salt="1" cp="U+12594.1" utf8="𒖔" svg="/osl/images/lak/svg/LAK830,2.svg"/></entry>
+<entry l="LAK831" oid="o0223398" n="3(BAN₂@c)">
+<rows><row src="/osl/images/lak/rows/LAK831.png"/></rows><sub l="LAK831" cp="U+12595" utf8="𒖕" svg="/osl/images/lak/svg/LAK831,1.svg"/>
+<sub l="LAK831" salt="1" cp="U+12595.1" utf8="𒖕" svg="/osl/images/lak/svg/LAK831,2.svg"/></entry>
+<entry l="LAK832" oid="o0223413" n="4(BAN₂@c)">
+<rows><row src="/osl/images/lak/rows/LAK832.png"/></rows><sub l="LAK832" cp="U+12596" utf8="𒖖" svg="/osl/images/lak/svg/LAK832,1.svg"/>
+<sub l="LAK832" salt="1" cp="U+12596.1" utf8="𒖖" svg="/osl/images/lak/svg/LAK832,2.svg"/></entry>
+<entry l="LAK833" oid="o0223424" n="5(BAN₂@c)">
+<rows><row src="/osl/images/lak/rows/LAK833.png"/></rows><sub l="LAK833" cp="U+12597" utf8="𒖗" svg="/osl/images/lak/svg/LAK833,1.svg"/>
+<sub l="LAK833" salt="1" cp="U+12597.1" utf8="𒖗" svg="/osl/images/lak/svg/LAK833,2.svg"/></entry>
+<entry l="LAK834" oid="o0223336" n="DIŠ@c">
+<rows><row src="/osl/images/lak/rows/LAK834.png"/></rows><sub l="LAK834" cp="U+12559" utf8="𒕙" svg="/osl/images/lak/svg/LAK834,1.svg"/>
+<sub l="LAK834" salt="1" cp="U+12559.1" utf8="𒕙" svg="/osl/images/lak/svg/LAK834,2.svg"/></entry>
+<entry l="LAK835">
+<rows><row src="/osl/images/lak/rows/LAK835.png"/></rows><sub l="LAK835" cp="U+1255A" utf8="𒕚" svg="/osl/images/lak/svg/LAK835,1.svg"/>
+<sub l="LAK835" cp="U+12456" utf8="𒑖" svg="/osl/images/lak/svg/LAK835,2.svg"/>
+</entry>
+<entry l="LAK836">
+<rows><row src="/osl/images/lak/rows/LAK836.png"/></rows><sub l="LAK836" cp="U+1255B" utf8="𒕛" svg="/osl/images/lak/svg/LAK836,1.svg"/>
+<sub l="LAK836" cp="U+F0049" utf8="󰁉" svg="/osl/images/lak/svg/LAK836,2.svg"/>
+<sub l="LAK836" cp="U+12457" utf8="𒑗" svg="/osl/images/lak/svg/LAK836,3.svg"/>
+</entry>
+<entry l="LAK837">
+<rows><row src="/osl/images/lak/rows/LAK837.png"/></rows><sub l="LAK837" cp="U+1255C" utf8="𒕜" svg="/osl/images/lak/svg/LAK837,1.svg"/>
+<sub l="LAK837" cp="U+12409" utf8="𒐉" svg="/osl/images/lak/svg/LAK837,2.svg"/>
+</entry>
+<entry l="LAK838" oid="o0223385" n="1(BAN₂@c)">
+<rows><row src="/osl/images/lak/rows/LAK838.png"/></rows><sub l="LAK838" salt="2" cp="U+12593.2" utf8="𒖓" svg="/osl/images/lak/svg/LAK838.svg"/></entry>
+<entry l="LAK839" oid="o0221914" n="AŠ@c">
+<rows><row src="/osl/images/lak/rows/LAK839.png"/></rows><sub l="LAK839" salt="5" cp="U+12550.5" utf8="𒕐" svg="/osl/images/lak/svg/LAK839,1.svg"/><sub l="LAK839" salt="6" cp="U+12550.6" utf8="𒕐" svg="/osl/images/lak/svg/LAK839,2.svg"/></entry>
+<entry l="LAK840" oid="o0223334" n="U@c">
+<rows><row src="/osl/images/lak/rows/LAK840.png"/></rows><sub l="LAK840" salt="2" cp="U+12562.2" utf8="𒕢" svg="/osl/images/lak/svg/LAK840,1.svg"/><sub l="LAK840" salt="3" cp="U+12562.3" utf8="𒕢" svg="/osl/images/lak/svg/LAK840,2.svg"/></entry>
+<entry l="LAK841" oid="o0000007" n="1(GEŠ₂)">
+<rows><row src="/osl/images/lak/rows/LAK841.png"/></rows><sub l="LAK841" cp="U+12415" utf8="𒐕" svg="/osl/images/lak/svg/LAK841,1.svg"/>
+<sub l="LAK841" salt="1" cp="U+12415.1" utf8="𒐕" svg="/osl/images/lak/svg/LAK841,2.svg"/></entry>
+<entry l="LAK842" oid="o0000006" n="1(GEŠU)">
+<rows><row src="/osl/images/lak/rows/LAK842.png"/></rows><sub l="LAK842" cp="U+1241E" utf8="𒐞" svg="/osl/images/lak/svg/LAK842,1.svg"/>
+<sub l="LAK842" salt="1" cp="U+1241E.1" utf8="𒐞" svg="/osl/images/lak/svg/LAK842,2.svg"/><sub l="LAK842" salt="2" cp="U+1241E.2" utf8="𒐞" svg="/osl/images/lak/svg/LAK842,3.svg"/></entry>
+<entry l="LAK843" oid="o0000229" n="GUR₇">
+<rows><row src="/osl/images/lak/rows/LAK843.png"/></rows><sub l="LAK843" salt="1" cp="U+12126.1" utf8="𒄦" svg="/osl/images/lak/svg/LAK843.svg"/></entry>
+<entry l="LAK844" oid="o0223485" n="ŠAR₂@c">
+<rows><row src="/osl/images/lak/rows/LAK844.png"/></rows><sub l="LAK844" salt="2" cp="U+12579.2" utf8="𒕹" svg="/osl/images/lak/svg/LAK844,1.svg"/><sub l="LAK844" salt="3" cp="U+12579.3" utf8="𒕹" svg="/osl/images/lak/svg/LAK844,2.svg"/></entry>
+<entry l="LAK845" oid="o0025674" n="|GEŠU@c×KASKAL|">
+<rows><row src="/osl/images/lak/rows/LAK845.png"/></rows><sub l="LAK845" salt="1" cp="U+F002B.1" utf8="󰀫" svg="/osl/images/lak/svg/LAK845.svg"/></entry>
+<entry l="LAK846" oid="o0028114" n="|ŠAR₂×U|">
+<rows><row src="/osl/images/lak/rows/LAK846.png"/></rows><sub l="LAK846" cp="U+12136" utf8="𒄶" svg="/osl/images/lak/svg/LAK846.svg"/>
+</entry>
+<entry l="LAK847" oid="o0028115" n="|ŠAR₂×(U.U)|">
+<rows><row src="/osl/images/lak/rows/LAK847.png"/></rows><sub l="LAK847" cp="U+F003D" utf8="󰀽" svg="/osl/images/lak/svg/LAK847.svg"/>
+</entry>
+<entry l="LAK848" oid="o0028116" n="|ŠAR₂×(U.U.U)|">
+<rows><row src="/osl/images/lak/rows/LAK848.png"/></rows><sub l="LAK848" cp="U+F003E" utf8="󰀾" svg="/osl/images/lak/svg/LAK848.svg"/>
+</entry>
+<entry l="LAK849" oid="o0028118" n="|ŠAR₂×4(U)|">
+<rows><row src="/osl/images/lak/rows/LAK849.png"/></rows><sub l="LAK849" cp="U+F003F" utf8="󰀿" svg="/osl/images/lak/svg/LAK849.svg"/>
+</entry>
+<entry l="LAK850" oid="o0028119" n="|ŠAR₂×5(U)|">
+<rows><row src="/osl/images/lak/rows/LAK850.png"/></rows><sub l="LAK850" cp="U+F0040" utf8="󰁀" svg="/osl/images/lak/svg/LAK850.svg"/>
+</entry>
+<entry l="LAK851" oid="o0002827" n="ŠAR₂">
+<rows><row src="/osl/images/lak/rows/LAK851.png"/></rows><sub l="LAK851" salt="2" cp="U+122B9.2" utf8="𒊹" svg="/osl/images/lak/svg/LAK851.svg"/></entry>
+<entry l="LAK852">
+<rows><row src="/osl/images/lak/rows/LAK852.png"/></rows><sub l="LAK852" cp="U+12587" utf8="𒖇" svg="/osl/images/lak/svg/LAK852,1.svg"/>
+<sub l="LAK852" cp="U+1245F" utf8="𒑟" svg="/osl/images/lak/svg/LAK852,2.svg"/>
+</entry>
+<entry l="LAK853">
+<rows><row src="/osl/images/lak/rows/LAK853.png"/></rows><sub l="LAK853" cp="U+12589" utf8="𒖉" svg="/osl/images/lak/svg/LAK853,1.svg"/>
+<sub l="LAK853" cp="U+12460" utf8="𒑠" svg="/osl/images/lak/svg/LAK853,2.svg"/>
+</entry>
+<entry l="LAK854">
+<rows><row src="/osl/images/lak/rows/LAK854.png"/></rows><sub l="LAK854" salt="2" cp="U+12559.2" utf8="𒕙" svg="/osl/images/lak/svg/LAK854,1.svg"/><sub l="LAK854" cp="U+12079" utf8="𒁹" svg="/osl/images/lak/svg/LAK854,2.svg"/>
+</entry>
+<entry l="LAK855">
+<rows><row src="/osl/images/lak/rows/LAK855.png"/></rows><sub l="LAK855" salt="7" cp="U+12550.7" utf8="𒕐" svg="/osl/images/lak/svg/LAK855,1.svg"/><sub l="LAK855" salt="1" cp="U+12038.1" utf8="𒀸" svg="/osl/images/lak/svg/LAK855,2.svg"/></entry>
+<entry l="LAK856" oid="o0223386" n="1(EŠE₃@c)">
+<rows><row src="/osl/images/lak/rows/LAK856.png"/></rows><sub l="LAK856" cp="U+1258C" utf8="𒖌" svg="/osl/images/lak/svg/LAK856.svg"/>
+</entry>
+<entry l="LAK857" oid="o0223334" n="U@c">
+<rows><row src="/osl/images/lak/rows/LAK857.png"/></rows><sub l="LAK857" salt="4" cp="U+12562.4" utf8="𒕢" svg="/osl/images/lak/svg/LAK857,1.svg"/><sub l="LAK857" salt="5" cp="U+12562.5" utf8="𒕢" svg="/osl/images/lak/svg/LAK857,2.svg"/></entry>
+<entry l="LAK858">
+<rows><row src="/osl/images/lak/rows/LAK858.png"/></rows><sub l="LAK858" cp="U+1258E" utf8="𒖎" svg="/osl/images/lak/svg/LAK858,1.svg"/>
+<sub l="LAK858" salt="1" cp="U+12434.1" utf8="𒐴" svg="/osl/images/lak/svg/LAK858,2.svg"/></entry>
+<entry l="LAK859" oid="o0002827" n="ŠAR₂">
+<rows><row src="/osl/images/lak/rows/LAK859.png"/></rows><sub l="LAK859" salt="3" cp="U+122B9.3" utf8="𒊹" svg="/osl/images/lak/svg/LAK859,1.svg"/><sub l="LAK859" salt="4" cp="U+122B9.4" utf8="𒊹" svg="/osl/images/lak/svg/LAK859,2.svg"/></entry>
+<entry l="LAK860" oid="o0028114" n="|ŠAR₂×U|">
+<rows><row src="/osl/images/lak/rows/LAK860.png"/></rows><sub l="LAK860" salt="1" cp="U+12136.1" utf8="𒄶" svg="/osl/images/lak/svg/LAK860,1.svg"/><sub l="LAK860" salt="2" cp="U+12136.2" utf8="𒄶" svg="/osl/images/lak/svg/LAK860,2.svg"/></entry>
+<entry l="LAK861" oid="o0245340" n="ŠARU@v@c">
+<rows><row src="/osl/images/lak/rows/LAK861.png"/></rows><sub l="LAK861" salt="1" cp="U+F0033.1" utf8="󰀳" svg="/osl/images/lak/svg/LAK861,1.svg"/><sub l="LAK861" salt="2" cp="U+F0033.2" utf8="󰀳" svg="/osl/images/lak/svg/LAK861,2.svg"/></entry>
+<entry l="LAK862" oid="o0028115" n="|ŠAR₂×(U.U)|">
+<rows><row src="/osl/images/lak/rows/LAK862.png"/></rows><sub l="LAK862" salt="1" cp="U+F003D.1" utf8="󰀽" svg="/osl/images/lak/svg/LAK862.svg"/></entry>
+<entry l="LAK863" oid="o0028116" n="|ŠAR₂×(U.U.U)|">
+<rows><row src="/osl/images/lak/rows/LAK863.png"/></rows><sub l="LAK863" salt="1" cp="U+F003E.1" utf8="󰀾" svg="/osl/images/lak/svg/LAK863.svg"/></entry>
+<entry l="LAK864" oid="o0028118" n="|ŠAR₂×4(U)|">
+<rows><row src="/osl/images/lak/rows/LAK864.png"/></rows><sub l="LAK864" salt="1" cp="U+F003F.1" utf8="󰀿" svg="/osl/images/lak/svg/LAK864.svg"/></entry>
+<entry l="LAK865" oid="o0028119" n="|ŠAR₂×5(U)|">
+<rows><row src="/osl/images/lak/rows/LAK865.png"/></rows><sub l="LAK865" salt="1" cp="U+F0040.1" utf8="󰁀" svg="/osl/images/lak/svg/LAK865.svg"/></entry>
+<entry l="LAK866" oid="o0002827" n="ŠAR₂">
+<rows><row src="/osl/images/lak/rows/LAK866.png"/></rows><sub l="LAK866" salt="5" cp="U+122B9.5" utf8="𒊹" svg="/osl/images/lak/svg/LAK866.svg"/></entry>
+<entry l="LAK867" oid="o0000422" n="LAL">
+<rows><row src="/osl/images/lak/rows/LAK867.png"/></rows><sub l="LAK867" salt="1" cp="U+121F2.1" utf8="𒇲" svg="/osl/images/lak/svg/LAK867.svg"/></entry>
+<entry l="LAK868" oid="" n="LAK entry for igi ... ŋal₂">
+<rows><row src="/osl/images/lak/rows/LAK868.png"/></rows><sub l="LAK868" cp="U+F2009" utf8="󲀉" svg="/osl/images/lak/svg/LAK868.svg"/>
+</entry>
+<entry l="LAK869" oid="o0223482" n="|NINDA₂×(ŠE.AŠ@c)|">
+<rows><row src="/osl/images/lak/rows/LAK869.png"/></rows><sub l="LAK869" salt="1" cp="U+12598.1" utf8="𒖘" svg="/osl/images/lak/svg/LAK869.svg"/></entry>
+<entry l="LAK870" oid="o0223483" n="|NINDA₂×(ŠE.AŠ@c.AŠ@c)|">
+<rows><row src="/osl/images/lak/rows/LAK870.png"/></rows><sub l="LAK870" salt="1" cp="U+12599.1" utf8="𒖙" svg="/osl/images/lak/svg/LAK870.svg"/></entry>
+</lak>
