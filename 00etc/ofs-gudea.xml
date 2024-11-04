@@ -3,7 +3,7 @@
 	  xmlns="http://www.w3.org/1999/xhtml"
 	  xmlns:xh="http://www.w3.org/1999/xhtml">
   
-  <esp:name>Oracc Gudea</esp:name>
+  <esp:name>Oracc-gudea</esp:name>
   <esp:title>Oracc Gudea</esp:title>
 
   <html>
@@ -24,8 +24,8 @@
       <p>The characters were excerpted and converted from PNG format
       to SVG and then to a TrueType font using a collection of tools
       by various authors and assembled into a workflow by Steve Tinney
-      in a package available on GitHub <esp:link
-      url="">Santak</esp:link>.</p>
+      in a package available on GitHub as <esp:link
+      url="https://github.com/stinney/santak">Santak</esp:link>.</p>
 
       <esp:h>License</esp:h>
 
