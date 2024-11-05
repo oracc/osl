@@ -139,11 +139,11 @@
       and <span class="ofs-oobf ofs-150">𒐮</span> at U+1242E 𒐮, which
       is reasonable.  The sign forms are in a series of |ŠAR₂×U|,
       which is given in lexical lists from 1(U)..5(U) and these could
-      also be encoded as separate codepoints.  Oracc PUA has U+F003D
-      |ŠAR₂×(U.U)| <span class="ofs-noto">󰀽</span> and U+F003E
-      |ŠAR₂×(U.U.U)| <span class="ofs-noto">󰀾</span>.  Oracc-OBF could
-      also move/duplicate <span class="ofs-oobf ofs-150">𒐭 𒐮</span>
-      there.</p>
+      also be encoded as separate codepoints (|ŠAR₂×U| 𒄶 is already
+      encoded as U+12136).  Oracc PUA has U+F003D |ŠAR₂×(U.U)| <span
+      class="ofs-noto">󰀽</span> and U+F003E |ŠAR₂×(U.U.U)| <span
+      class="ofs-noto">󰀾</span>.  Oracc-OBF could also move/duplicate
+      <span class="ofs-oobf ofs-150">𒐭 𒐮</span> there.</p>
       
       <esp:sh>Ghosts</esp:sh>
 
