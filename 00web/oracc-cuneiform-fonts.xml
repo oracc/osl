@@ -30,10 +30,11 @@
 
       <p>Oracc uses the Unicode Plane 15 PUA from F0000-FFFFD as a
       space to create signs pending possible encoding, and to maintain
-      variant forms of signs that do not merit separate encoding. All
-      management of the Oracc PUA is consolidated in the OSL project
-      and is further described on the <esp:link page="oracc-pua">Oracc
-      PUA page</esp:link>.</p>
+      variant forms of signs that do not merit separate encoding
+      ("impossible" numbers like 4(eše@c) would fall into this
+      category, for example). All management of the Oracc PUA is
+      consolidated in the OSL project and is further described on the
+      <esp:link page="oracc-pua">Oracc PUA page</esp:link>.</p>
 
       <esp:sh>Unicode Ideographic Variation Sequences (IVS)</esp:sh>
 

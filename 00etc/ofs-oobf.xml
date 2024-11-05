@@ -104,15 +104,13 @@
       <table class="pretty" width="30%" style="margin-left: 3em; text-align: center;">
 	<tr><td><span class="ofs-oobf ofs-150">𒂠</span></td><td>u120A0</td><td>u12365</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒄉</span></td><td>u12109</td><td>u12108</td></tr>
+	<tr><td><span class="ofs-oobf ofs-150">𒆗</span></td><td>u12197</td><td>u12128</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒄭</span></td><td>u1212D</td><td>u122B9</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒅎</span></td><td>u1214E</td><td>u1224E</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒆪</span></td><td>u121AA</td><td>u12089</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒉺</span></td><td>u1227A</td><td>u12450</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒌆</span></td><td>u12306</td><td>u12247</td></tr>
-	<!--
-	<tr><td><span class="ofs-oobf ofs-150"></span></td><td></td><td></td></tr>
-	-->
-      </table>      
+      </table>
       
       <esp:sh>Ghosts</esp:sh>
 
