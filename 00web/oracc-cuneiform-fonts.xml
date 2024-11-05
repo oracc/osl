@@ -92,7 +92,7 @@
       url="https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#tag-cv01--cv99">Learn/Microsoft
       Typography description of Tag: 'cv01' – 'cv99'</esp:link>:</p>
 
-      <esp:quote>
+      <blockquote>
 	The function of these features is similar to the function of
 	the Stylistic Alternates feature ('salt') and the Stylistic
 	Set features (see 'ss01' – 'ss20'). Whereas the Stylistic Set
@@ -104,10 +104,10 @@
 	but does not allow an application to control these on a
 	character-by-character basis; the Character Variant features
 	provide the greater granularity of control.
-      </esp:quote>
+      </blockquote>
 
       <p>The kinds of character variation that Oracc might use with
-      CV--stacking patterns variations, character composition
+      CV--stacking pattern variations, character composition
       variations--can also be supported with IVS (see above).  Because
       of the 99 CV limit imposed by OpenType fonts it is preferable to
       support these kinds of variation through the IVS mechanism.</p>

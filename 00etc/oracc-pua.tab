@@ -17,15 +17,15 @@ o0038174	6(|BAD×DIŠ@t|)	F000F	Xsux	9.1	Encode
 o0038141	7(|BAD×DIŠ@t|)	F0010	Xsux	9.1	Encode
 o0038293	8(|BAD×DIŠ@t|)	F0011	Xsux	9.1	Encode
 o0223333	U@90	F0012	Xsux	9.1	U.e00
-o0038282	10(U@c)	F0013	Xsux	9.1	PUA
+o0038282	10(U@c)	F0013	Xsux	9.1	PUA, "impossible number"
 o0223378	3(BURU@c)@v	F0014	Xsux	9.1	3(BURU@c).e00
 o0038173	F₉	F0015	Xsux	9.1	Encode
 o0038144	ŠANABI@v	F0016	Xsux	9.1	Encode
 o0223390	2(DIŠ@c)~a	F0017	Xsux	9.1	Encode
 o0038279	3(EŠE₃)	F0018	Xsux	9.1	PUA, "impossible number"
 o0038133	4(EŠE₃@c)	F0019	Xsux	9.1	PUA, "impossible number"
-o0223405	3(GEŠ₂@c)@v	F001A	Xsux	9.1	Encode
-o0223419	4(GEŠ₂@c)@v	F001B	Xsux	9.1	Encode
+o0223405	3(GEŠ₂@c)@v	F001A	Xsux	9.1	3(GEŠ₂@c).e00
+o0223419	4(GEŠ₂@c)@v	F001B	Xsux	9.1	3(GEŠ₂@c).e00
 o0223470	GEŠ₂@c@90	F001C	Xsux	9.1	Encode
 o0038290	3(GEŠ₂@c@90)	F001D	Xsux	9.1	Encode
 o0038292	4(GEŠ₂@c@90)	F001E	Xsux	9.1	Encode
