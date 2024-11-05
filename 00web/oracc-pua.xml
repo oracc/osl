@@ -35,20 +35,30 @@ url="https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-p
 OID        SIGN-NAME      PUA-CODE      SCRIPT     ORACC-PUA-BLOCK	NOTES
 </pre>
 
-<p>An OID must be assigned in Oracc's OID table for any character that
-is being added to the Oracc PUA.</p>
+<dd>
+  <dt>OID</dt>
+  <dd>An OID must be assigned in Oracc's OID table for any character
+  that is being added to the Oracc PUA.</dd>
 
-<p>PUA-CODE is the uppercase hex codepoint in Plane 15.</p>
+  <dt>SIGN-NAME</dt>
+  <dd>The primary OSL name for the sign</dd>
+  
+  <dt>PUA-CODE</dt>
+  <dd>The uppercase hex codepoint in Plane 15.</dd>
 
-<p>SCRIPT is one of the script codes Xsux, Pcun, Pelm.</p>
+  <dt>SCRIPT</dt>
+  <dd>One of the script codes Xsux, Pcun, Pelm.</dd>
 
-<p>ORACC-PUA-BLOCK is an indicator of groups of characters added to
-the Oracc PUA; by convention these are numbered 9.x.</p>
+  <dt>ORACC-PUA-BLOCK</dt>
+  <dd>An indicator of groups of characters added to the Oracc PUA; by
+  convention these are numbered 9.x.</dd>
 
-<p>NOTES provides various information on the source of characters and
-possible implementations/future resolutions of their status.  The
-notation NAME.eNN in this column means that the sign can be treated as
-IVS E0100+NN of the character NAME.</p>
+  <dt>NOTES</dt>
+  <dd>Provides various information on the source of characters and
+  possible implementations/future resolutions of their status.  The
+  notation NAME.eNN in this column means that the sign can be treated
+  as IVS E0100+NN of the character NAME.</dd>
+</dd>
 
 <esp:sh>Block 9.1</esp:sh>
 
