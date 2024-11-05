@@ -7,8 +7,8 @@ o0223346	6(|AŠ×DIŠ@t|)	F0005	Xsux	9.1	Encode
 o0223347	7(|AŠ×DIŠ@t|)	F0006	Xsux	9.1	Encode
 o0223348	8(|AŠ×DIŠ@t|)	F0007	Xsux	9.1	Encode
 o0223349	9(|AŠ×DIŠ@t|)	F0008	Xsux	9.1	Encode
-o0223464	AŠ@v	F0009	Xsux	9.1	1(AŠ@c).cv01
-o0018865	7(AŠ@c)@l	F000A	Xsux	9.1	7(AŠ@c).cv01
+o0223464	AŠ@v	F0009	Xsux	9.1	1(AŠ@c).e00
+o0018865	7(AŠ@c)@l	F000A	Xsux	9.1	7(AŠ@c).e00
 o0038129	7(AŠ@t)	F000B	Xsux	9.1	Encode
 o0038127	8(AŠ@t)	F000C	Xsux	9.1	Encode
 o0038126	9(AŠ@t)	F000D	Xsux	9.1	Encode
@@ -16,14 +16,14 @@ o0038143	1(|BAD×DIŠ@t|)	F000E	Xsux	9.1	Encode
 o0038174	6(|BAD×DIŠ@t|)	F000F	Xsux	9.1	Encode
 o0038141	7(|BAD×DIŠ@t|)	F0010	Xsux	9.1	Encode
 o0038293	8(|BAD×DIŠ@t|)	F0011	Xsux	9.1	Encode
-o0223333	U@90	F0012	Xsux	9.1	U.cv01
+o0223333	U@90	F0012	Xsux	9.1	U.e00
 o0038282	10(U@c)	F0013	Xsux	9.1	PUA
-o0223378	3(BURU@c)@v	F0014	Xsux	9.1	3(BURU@c).cv01
+o0223378	3(BURU@c)@v	F0014	Xsux	9.1	3(BURU@c).e00
 o0038173	F₉	F0015	Xsux	9.1	Encode
 o0038144	ŠANABI@v	F0016	Xsux	9.1	Encode
 o0223390	2(DIŠ@c)~a	F0017	Xsux	9.1	Encode
-o0038279	3(EŠE₃)	F0018	Xsux	9.1	3(EŠE₃).cv01
-o0038133	4(EŠE₃@c)	F0019	Xsux	9.1	PUA
+o0038279	3(EŠE₃)	F0018	Xsux	9.1	PUA, "impossible number"
+o0038133	4(EŠE₃@c)	F0019	Xsux	9.1	PUA, "impossible number"
 o0223405	3(GEŠ₂@c)@v	F001A	Xsux	9.1	Encode
 o0223419	4(GEŠ₂@c)@v	F001B	Xsux	9.1	Encode
 o0223470	GEŠ₂@c@90	F001C	Xsux	9.1	Encode
@@ -37,8 +37,8 @@ o0038157	5(GEŠ₂@t)	F0023	Xsux	9.1	Encode
 o0038159	6(GEŠ₂@t)	F0024	Xsux	9.1	Encode
 o0038161	7(GEŠ₂@t)	F0025	Xsux	9.1	Encode
 o0038286	7(GEŠU)	F0026	Xsux	9.1	Encode
-o0223403	3(GEŠU@c)@v	F0027	Xsux	9.1	3(GEŠU@c).cv01
-o0223417	4(GEŠU@c)@v	F0028	Xsux	9.1	4(GEŠU@c).cv01
+o0223403	3(GEŠU@c)@v	F0027	Xsux	9.1	3(GEŠU@c).e00
+o0223417	4(GEŠU@c)@v	F0028	Xsux	9.1	4(GEŠU@c).e00
 o0038276	6(GEŠU@c)	F0029	Xsux	9.1	PUA, "impossible number"
 o0038263	7(GEŠU@c)	F002A	Xsux	9.1	PUA, "impossible number"
 o0025674	|GEŠU@c×KASKAL|	F002B	Xsux	9.1	Encode
@@ -48,17 +48,17 @@ o0038256	4(|GEŠU@c×KASKAL|)	F002E	Xsux	9.1	Encode
 o0038258	5(|GEŠU@c×KASKAL|)	F002F	Xsux	9.1	Encode
 o0038260	6(|GEŠU@c×KASKAL|)	F0030	Xsux	9.1	Encode
 o0038262	7(|GEŠU@c×KASKAL|)	F0031	Xsux	9.1	Encode
-o0223410	3(ŠAR₂@c)@v	F0032	Xsux	9.1	3(ŠAR₂@c).cv01
-o0245340	ŠARU@v@c	F0033	Xsux	9.1	ŠARU@c.cv01
-o0223379	3(ŠARU@c)@v	F0034	Xsux	9.1	3(ŠARU@c).cv01
+o0223410	3(ŠAR₂@c)@v	F0032	Xsux	9.1	3(ŠAR₂@c).e00
+o0245340	ŠARU@v@c	F0033	Xsux	9.1	ŠARU@c.e00
+o0223379	3(ŠARU@c)@v	F0034	Xsux	9.1	3(ŠARU@c).e00
 o0223374	1(ŠARU@v)	F0035	Xsux	9.1	Encode as disunification from curviform
 o0038246	2(ŠARU@v)	F0036	Xsux	9.1	Encode as disunification from curviform
 o0245338	3(ŠARU@v)	F0037	Xsux	9.1	Encode as disunification from curviform
 o0245339	4(ŠARU@v)	F0038	Xsux	9.1	Encode as disunification from curviform
 o0038248	5(ŠARU@v)	F0039	Xsux	9.1	Encode as disunification from curviform
 o0028128	6(ŠARU@v)	F003A	Xsux	9.1	PUA, "impossible number"
-o0223407	3(U@c)@v	F003B	Xsux	9.1	3(U@c).cv01
-o0223421	4(U@c)@v	F003C	Xsux	9.1	4(U@c).cv01
+o0223407	3(U@c)@v	F003B	Xsux	9.1	3(U@c).e00
+o0223421	4(U@c)@v	F003C	Xsux	9.1	4(U@c).e00
 o0028115	|ŠAR₂×(U.U)|	F003D	Xsux	9.1	Encode; OBF uses TWO SHARU U+1242D 𒐭
 o0028116	|ŠAR₂×(U.U.U)|	F003E	Xsux	9.1	Encode; OBF uses THREE SHARU U+1242E 𒐮
 o0028118	|ŠAR₂×4(U)|	F003F	Xsux	9.1	Encode
@@ -70,9 +70,9 @@ o0027733	|ŠAR₂×KASKAL|	F0044	Xsux	9.1	Encode
 o0038369	1(BAN₂@t)	F0045	Xsux	9.1	Encode
 o0025701	N57	F0046	Xsux	9.1	PC will encode
 o0018502	2(N57)	F0047	Xsux	9.1	PC will encode
-o0038374	NIGIDAEŠ@c~a	F0049	Xsux	9.1	NIGIDAEŠ@c.cv01
-o0038371	NIGIDAMIN~a	F004A	Xsux	9.1	NIGIDAMIN.cv01
-o0038373	NIGIDAEŠ~a	F004B	Xsux	9.1	NIGIDAEŠ.cv01
+o0038374	NIGIDAEŠ@c~a	F0049	Xsux	9.1	NIGIDAEŠ@c.e00
+o0038371	NIGIDAMIN~a	F004A	Xsux	9.1	NIGIDAMIN.e00
+o0038373	NIGIDAEŠ~a	F004B	Xsux	9.1	NIGIDAEŠ.e00
 o0036120	UMUM@s	F004C	Xsux	9.2	-
 o0002678	|ZUM×LAGAB|	F004D	Xsux	9.2	-
 o0000744	|AB×A|	F004E	Xsux	9.2	-
