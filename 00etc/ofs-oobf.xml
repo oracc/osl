@@ -111,6 +111,38 @@
 	<tr><td><span class="ofs-oobf ofs-150">𒉺</span></td><td>u1227A</td><td>u12450</td></tr>
 	<tr><td><span class="ofs-oobf ofs-150">𒌆</span></td><td>u12306</td><td>u12247</td></tr>
       </table>
+
+      <esp:sh>Deletion</esp:sh>
+      <p>The double-encoded character 𒐂 U+121F9 CUNEIFORM SIGN LIMMU2 is
+      defined in OBF but does not belong because 𒐂 U+12402 CUNEIFORM
+      NUMERIC SIGN 4 ASH is preferred.  U+12402 is also in OBF
+      and is the number referenced in Signlist_aBZL_OBF.pdf. The glyph
+      u121F9 is deleted in Oracc-OBF.</p>
+      
+      <esp:h>Possible Further Modifications</esp:h>
+
+      <p>The following possible modifications have not yet been made.</p>
+
+      <esp:sh>SSET/SALT Changes</esp:sh>
+
+      <p>OBF defines some characters in SS01 but it is not clear
+      whether these are intended to be a consistent stylistic
+      variation or if they could be equally well represented with
+      SALT.  In the <esp:link url="">draft Oracc guidelines for use of
+      OT features</esp:link> these would probably be SALT variants.  A
+      future version of Oracc-OBF could redefine the
+      <code>.ss01</code> characters as <code>.1</code>, etc.</p>
+
+      <esp:sh>ABZL285/ABZL286</esp:sh>
+
+      <p>OBF puts these at U+1242D 𒐭 and U+1242E 𒐮, which is
+      reasonable.  The sign forms are in a series of |ŠAR₂×U|, which
+      is given in lexical lists from 1(U)..5(U) and these could also
+      be encoded as separate codepoints.  Oracc PUA has U+F003D
+      |ŠAR₂×(U.U)| <span class="ofs-noto">󰀿</span> and U+F003E
+      |ŠAR₂×(U.U.U)| <span class="ofs-noto">󰀾</span>.  Oracc-OBF could
+      also move/duplicate <span class="ofs-oobf ofs-150">𒐭 𒐮</span>
+      there.</p>
       
       <esp:sh>Ghosts</esp:sh>
 
@@ -118,13 +150,7 @@
 
       <pre>u12014 u1202A u12253 u1231A u12402 u12403 u12405 u12407 u12456 u12457 u1245C</pre>
 
-      <esp:sh>Deletion</esp:sh>
-
-      <p>The double-encoded character 𒐂 U+121F9 CUNEIFORM SIGN LIMMU2 is
-      defined in OBF but does not belong because 𒐂 U+12402 CUNEIFORM
-      NUMERIC SIGN 4 ASH is preferred.  U+12402 is also in OBF
-      and is the number referenced in Signlist_aBZL_OBF.pdf. The glyph
-      u121F9 is deleted in Oracc-OBF.</p>
+      <p>These can presumably be removed without any issues.</p>
       
       <esp:h>Download</esp:h>
 

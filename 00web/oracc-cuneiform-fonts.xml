@@ -42,7 +42,9 @@
       selector.  Oracc uses IVS to support encoding structurally
       distinct graphic variants of the same sign in such a way that
       both the identity of the sign and the identity of the structural
-      variant are preserved.</p>
+      variant are preserved.  IVS provides a means of preserving the
+      integrity of paleographic differences without requiring
+      additional character encodings.</p>
 
       <p>For example, the DE₂ sign U+12423 can be written in several
       different ways: |UMUM×KASKAL| (the reference glyph in the

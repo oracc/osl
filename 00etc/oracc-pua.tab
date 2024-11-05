@@ -26,9 +26,9 @@ o0038279	3(EŠE₃)	F0018	Xsux	9.1	PUA, "impossible number"
 o0038133	4(EŠE₃@c)	F0019	Xsux	9.1	PUA, "impossible number"
 o0223405	3(GEŠ₂@c)@v	F001A	Xsux	9.1	3(GEŠ₂@c).e00
 o0223419	4(GEŠ₂@c)@v	F001B	Xsux	9.1	3(GEŠ₂@c).e00
-o0223470	GEŠ₂@c@90	F001C	Xsux	9.1	Encode
-o0038290	3(GEŠ₂@c@90)	F001D	Xsux	9.1	Encode
-o0038292	4(GEŠ₂@c@90)	F001E	Xsux	9.1	Encode
+o0223470	GEŠ₂@c@90	F001C	Xsux	9.1	Use N39a, per RL e-mail, i.e., =>U+125B6
+o0038290	3(GEŠ₂@c@90)	F001D	Xsux	9.1	Use N39a, per RL e-mail, i.e., =>U+125B8
+o0038292	4(GEŠ₂@c@90)	F001E	Xsux	9.1	Use N39a, per RL e-mail, i.e., =>U+125B9.e00 (different stacking pattern)
 o0223472	GEŠ₂@t	F001F	Xsux	9.1	Encode
 o0038151	2(GEŠ₂@t)	F0020	Xsux	9.1	Encode
 o0038153	3(GEŠ₂@t)	F0021	Xsux	9.1	Encode
@@ -64,7 +64,7 @@ o0028116	|ŠAR₂×(U.U.U)|	F003E	Xsux	9.1	Encode; OBF uses THREE SHARU U+1242E 
 o0028118	|ŠAR₂×4(U)|	F003F	Xsux	9.1	Encode
 o0028119	|ŠAR₂×5(U)|	F0040	Xsux	9.1	Encode
 o0038137	F₇	F0041	Xsux	9.1	Encode
-o0038367	3(DIŠ)~a	F0042	Xsux	9.1	Encode
+o0038367	3(DIŠ)~a	F0042	Xsux	9.1	3(DIŠ).e00
 o0038243	ŠANABI@t	F0043	Xsux	9.1	Encode
 o0027733	|ŠAR₂×KASKAL|	F0044	Xsux	9.1	Encode
 o0038369	1(BAN₂@t)	F0045	Xsux	9.1	Encode
@@ -86,9 +86,9 @@ o0027655	|ŠIM@g×PI|	F0055	Xsux	9.2	-
 o0187962	|EZEN×HAL|	F0056	Xsux	9.2	-
 o0038382	IDIGNA	F0057	Xsux	9.2	-
 o0027570	MURUB₄@g	F0058	Xsux	9.2	-
-o0038400	|GA×NU|	F0059	Xsux	9.2	-
-o0038402	|GA×ŠU₂|	F005A	Xsux	9.2	-
-o0029926	SUKUD	F005B	Xsux	9.2	-
-o0029464	AGA~a	F005C	Xsux	9.2	-
-o0038408	LU₂@g@s	F005D	Xsux	9.2	-
-o0038398	|ŠIM×X₂|	F005E	Xsux	9.2	-
+o0038400	|GA×NU|	F0059	Xsux	9.2	ABZL
+o0038402	|GA×ŠU₂|	F005A	Xsux	9.2	ABZL
+o0029926	SUKUD	F005B	Xsux	9.2	ABZL
+o0029464	AGA~a	F005C	Xsux	9.2	ABZL
+o0038408	LU₂@g@s	F005D	Xsux	9.2	ABZL
+o0038398	|ŠIM×X₂|	F005E	Xsux	9.2	ABZL
