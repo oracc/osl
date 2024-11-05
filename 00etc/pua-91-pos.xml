@@ -24,6 +24,7 @@
 	  codepoints="yes"
 	  values="no"
 	  children="yes"
+	  xml="yes"
 	  ><xi:include href="sxw-pos-9.1.xml" parse="xml"
 	  /></sxw:page-o-signs>
 

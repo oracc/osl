@@ -4140,22 +4140,9 @@
 @link	eBL |AŠ+SUR| https://www.ebl.lmu.de/signs/|AŠ+SUR|
 @end sign
 
-@sign |AŠ×AŠ@t|
-@oid	o0027589
-@aka	|AŠ×1(AŠ@t)|
-@list	LAK073
-@inote	missing compounds for lak.atf
-@end sign
-
 @sign |AŠ×BAD|
 @oid	o0025681
 @inote	P452996 r 4 e₂-{d}|AŠ×BAD|-za PN
-@end sign
-
-@sign |AŠ×DIŠ@t|
-@oid	o0223350
-@fake	1
-@list	RSP093
 @end sign
 
 @compoundonly	|AŠ&AŠ|
@@ -51856,8 +51843,12 @@
 @end sign
 
 @sign 1(|AŠ×DIŠ@t|)
+@aka 	|AŠ×AŠ@t|
+@aka 	|AŠ×DIŠ@t|
+@aka	|AŠ×1(AŠ@t)|
 @oid	o0223341
 @aka	1(|AŠ×AŠ@t|)
+@list	LAK073
 @list	RSP093
 @upua	U+F0000
 @ucun	󰀀
@@ -51875,6 +51866,7 @@
 @sign 2(|AŠ×DIŠ@t|)
 @oid	o0223342
 @aka	2(|AŠ×AŠ@t|)
+@list	LAK073
 @list	RSP093
 @upua	U+F0001
 @ucun	󰀁
@@ -51884,6 +51876,7 @@
 @sign 3(|AŠ×DIŠ@t|)
 @oid	o0223343
 @aka	3(|AŠ×AŠ@t|)
+@list	LAK073
 @list	RSP093
 @upua	U+F0002
 @ucun	󰀂
