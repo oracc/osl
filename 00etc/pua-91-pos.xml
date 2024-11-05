@@ -17,6 +17,11 @@
       proposed for encoding; some belong elsewere (N57 and friends
       belong in the Proto-Cuneiform block); some of them may end up
       being permanent PUA items.</p>
+
+      <p>See <esp:link
+      url="/osl/OraccCuneiformFonts/OraccPUA/#h_definitionaldatatable">the
+      Oracc PUA page for notes on the columns in this
+      table.</esp:link>.</p>
       
       <!-- or "grid" -->
       <sxw:page-o-signs

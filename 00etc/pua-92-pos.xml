@@ -12,8 +12,13 @@
     <head/>
     <body>
       <p>This page gives the Oracc PUA signs in Oracc PUA section 9.2
-      which contains non-numerical signs occurring in third millenia
-      corpora but not yet encoded in Unicode.</p>
+      which contains non-numerical signs occurring in various corpora
+      but which are not yet encoded in Unicode.</p>
+      
+      <p>See <esp:link
+      url="/osl/OraccCuneiformFonts/OraccPUA/#h_definitionaldatatable">the
+      Oracc PUA page for notes on the columns in this
+      table.</esp:link>.</p>
       
       <!-- or "grid" -->
       <sxw:page-o-signs

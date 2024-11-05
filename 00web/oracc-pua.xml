@@ -32,7 +32,7 @@ url="https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-p
 <p>The data format for this table is:</p>
 
 <pre>
-OID        SIGN-NAME      PUA-CODE      SCRIPT     ORACC-PUA-BLOCK
+OID        SIGN-NAME      PUA-CODE      SCRIPT     ORACC-PUA-BLOCK	NOTES
 </pre>
 
 <p>An OID must be assigned in Oracc's OID table for any character that
@@ -44,6 +44,11 @@ is being added to the Oracc PUA.</p>
 
 <p>ORACC-PUA-BLOCK is an indicator of groups of characters added to
 the Oracc PUA; by convention these are numbered 9.x.</p>
+
+<p>NOTES provides various information on the source of characters and
+possible implementations/future resolutions of their status.  The
+notation NAME.eNN in this column means that the sign can be treated as
+IVS E0100+NN of the character NAME.</p>
 
 <esp:sh>Block 9.1</esp:sh>
 
