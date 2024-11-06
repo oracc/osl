@@ -42121,7 +42121,7 @@
 
 @sign |ŠU₂.AN.HI×GAD|
 @oid	o0002811
-@list	ABZL423
+@list	ABZL423^a
 @list	KWU510
 @list	LAK357
 @list	MZL871
@@ -42155,6 +42155,7 @@
 @@
 @form |ŠU₂.AN.HI×AŠ₂|
 @oid	o0023029
+@list	ABZL423
 @useq	x122D9.x1202D.x1212F
 @ucun	𒋙𒀭𒄯
 @v	keš₃
