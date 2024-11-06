@@ -9,7 +9,7 @@
 @listdef ABZL 1-20 22-111 113-151 153-206 208-218 220 222-226 228-238
 	 240-290 292-400 402-480 021a 021b 063^a 063^b 084^a 112a 112b 152a 152b 152c
 	 207a 207b 215^a 219a 219b 221a 221b 227a 227b 239a 239b 291a 291b
-	 374^a 376^a 401a 401b 900-903
+	 374^a 376^a 401a 401b 423^a 900-903
 @lit C. Mittermayer, Altbabylonische Zeichenliste der
 	 sumerisch-literarischen Texte. (Fribourg, 2006).
 @note	Numbers 900 and above are used for characters in Corvin Ziegeler's
