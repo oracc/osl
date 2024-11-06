@@ -14,15 +14,15 @@
 
       <p>Oracc OB-Freie Regular (Oracc-OBF) is a minor adaptation of
       the No-Latin version of Corvin Ziegeler's OB-Freie Regular font
-      (OBF). The sign forms are based on C. Mittermayer,
-      Altbabylonische Zeichenliste der sumerisch-literarischen Texte,
-      listed in OSL as ABZL.</p>
+      (OBF) version 2.0.0, OBNLFreie-Regular.otf. The sign forms are
+      based on C. Mittermayer, Altbabylonische Zeichenliste der
+      sumerisch-literarischen Texte, listed in OSL as ABZL.</p>
       
       <esp:h>Original Font</esp:h>
 
       <p>The original font was obtained from <esp:link
       url="https://github.com/crzfub/OB-Freie/blob/main/OBFreie">https://github.com/crzfub/OB-Freie/blob/main/OBFreie</esp:link>
-      in October 2024.</p>
+      on 2024-11-05.</p>
 
       <esp:h>License</esp:h>
 
@@ -32,93 +32,34 @@
 
       <esp:h>Modifications</esp:h>
       
-      <esp:sh>ABZL022 NANNA</esp:sh>
+      <esp:sh>ABZL423 KEŠ₃</esp:sh>
+
+      <p>ABZL423 describes KEŠ₃ as ŠU₂.AN.HAR rather than the
+      historical ŠU₂.AN.HI×GAD and uses a variant glyph of HAR in the
+      reference form of KEŠ₃. OBF places the variant HAR in <span
+      class="ofs-noto">𒄲</span> U+12132 = |HI×GAD|.</p>
+
+      <p>Oracc-OBF adds a SALT variant of HAR as u1212F.1 and locates
+      the KEŠ₃ HAR component there in order to preserve an independent
+      identity for the variant HAR.</p>
+
+      <p>Oracc-OBF then redefines the KESZ3.liga sub as ŠU₂_AN_HAR,
+      u122D9 u1202D u1212F.</p>
+
+      <p>ABZL form 3 is ŠU+AN+HI×GAD so Oracc-OBF adds <span
+      class="ofs-noto">𒄲</span> U+12132 = |HI×GAD|.</p>
+
+      <p>Oracc-OBF then adds KESZ3.liga.1 with sub ŠU₂_AN_HI×GAD,
+      u122D9 u1202D u12132.</p>
       
-      <p>ABZL022 ŠEŠ.KI 𒋀𒆠 is defined in OBF as a ligature of ŠEŠ+NA
-      𒋀𒈾; Oracc-OBF defines the ligature as ŠEŠ+KI.</p>
-
-      <esp:sh>ABZL084 ŠIM×X</esp:sh>
-
-      <p>OSL calls ABZL084 |ŠIM×X₂|. OBF handles ŠIM×X <span
-      class="ofs-oobf ofs-150">󰁞</span> as a ligature of ŠIM+GA;
-      Oracc-OBF removes the ligature and puts the OBF ŠIM×X.liga <span
-      class="ofs-oobf ofs-150">󰁞</span> in U+F005E.  The Šulgi X sign
-      form <span class="ofs-oobf ofs-150">󰁕</span> from ABZL084 is
-      LAK661 = |ŠIM@g×PI| =  <span class="ofs-noto">󰁕</span> , <span class="ofs-gudea ofs-150">󰁕</span>
-      U+F0055 so this glyph/codepoint has been added to Oracc-OBF.</p>
-      
-      <esp:sh>ABZL 215 UMUM/DE₂</esp:sh>
-
-      <p>ABZL215 merges UMUM (U+12323 <span class="ofs-noto">𒌣</span>)
-      and DE₂ (U+12324 <span class="ofs-noto">𒌤</span>). OBF has DE₂
-      (UMUM@s <span class="ofs-oobf ofs-150">𒌤</span>) in U+12323.  Oracc-OBF
-      puts DE₂ <span class="ofs-oobf ofs-150">𒌤</span> in U+12324 and puts UMUM
-      (<span class="ofs-oobf ofs-150">𒌣</span>, the last instance drawn in
-      ABZL215) in U+12323.</p>
-
-      <esp:sh>ABZL281 HAR</esp:sh>
-
-      <p>OBF has a variant form of ABZL281 = U+1212F <span
-      class="ofs-noto">𒄯</span>, <span class="ofs-oobf
-      ofs-150">𒄯</span> in u12132 = |HI×GAD| <span
-      class="ofs-noto">𒄲</span>, OBF u12132=<span class="ofs-oobf ss01
-      ofs-150">𒄯</span>. Oracc-OBF moves <span class="ofs-oobf ss01
-      ofs-150">𒄯</span> to u1212F.ss01 and deletes u12132.</p>
-      
-      <esp:sh>ABZL341 SZIBIR.liga</esp:sh>
-
-      <p>OBF has gsub <code>sub u1210B u1230B by SZIBIR.liga;</code>
-      Oracc-OBF corrects this to <code>sub u1230B u12099 by
-      SZIBIR.liga;</code>.</p>
-
-      <esp:sh>ABZL472/ABZL474</esp:sh>
-
-      <p>OBF has the same glyph <span class="ofs-oobf ofs-150">𒐼</span> in
-      U+1243C (ABZL472) and U+12409 (ABZL474); Oracc-OBF replaces the
-      glyph in U+12409 with the ABZL474 form <span
-      class="ofs-oobf ofs-150">𒐉</span>.</p>
-
-      <esp:sh>Private Use Mappings</esp:sh>
-
-      <p>Oracc uses PUA Plane 15 as described in <esp:link
-      url="/osl/OraccPUA/">the Oracc PUA page</esp:link> and as
-      defined in <esp:link
-      url="https://raw.githubusercontent.com/oracc/osl/refs/heads/master/00etc/oracc-pua.tab"/>.
-      OBF's PUA characters have been mapped as follows:</p>
-
-      <table class="pretty" width="30%" style="margin-left: 3em; text-align: center;">
-	<tr><td><span class="ofs-oobf ofs-150">󰁙</span></td><td>unie0000</td><td>uF0059</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">󰁚</span></td><td>unie0001</td><td>uF005A</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">󰁎</span></td><td>unie0002</td><td>uF004E</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">󰁛</span></td><td>unie0003</td><td>uF005B</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">󰁜</span></td><td>unie0004</td><td>uF005C</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">󰁝</span></td><td>unie0005</td><td>uF005D</td></tr>
-      </table>
-
       <esp:sh>Mergers</esp:sh>
 
-      <p>The following characters are mergers for which the glyph in
-      column one has been added from the codepoint in column two as a
-      component of the codepoint in column three:</p>
+      <ul>
+	<li>Add 12458 (EŠE₃) to Unicode values of 12041 (BAD)</li>
+	<li>Add 12128 (GURUŠ) to Unicode values of 12197 (KAL)</li>
+	<li>Add 12327 (KALAM) to Unicode values of 12326 (UN)</li>
+      </ul>
 
-      <table class="pretty" width="30%" style="margin-left: 3em; text-align: center;">
-	<tr><td><span class="ofs-oobf ofs-150">𒂠</span></td><td>u120A0</td><td>u12365</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒄉</span></td><td>u12109</td><td>u12108</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒆗</span></td><td>u12197</td><td>u12128</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒄭</span></td><td>u1212D</td><td>u122B9</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒅎</span></td><td>u1214E</td><td>u1224E</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒆪</span></td><td>u121AA</td><td>u12089</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒉺</span></td><td>u1227A</td><td>u12450</td></tr>
-	<tr><td><span class="ofs-oobf ofs-150">𒌆</span></td><td>u12306</td><td>u12247</td></tr>
-      </table>
-
-      <esp:sh>Deletion</esp:sh>
-      <p>The double-encoded character 𒐂 U+121F9 CUNEIFORM SIGN LIMMU2 is
-      defined in OBF but does not belong because 𒐂 U+12402 CUNEIFORM
-      NUMERIC SIGN 4 ASH is preferred.  U+12402 is also in OBF
-      and is the number referenced in Signlist_aBZL_OBF.pdf. The glyph
-      u121F9 is deleted in Oracc-OBF.</p>
-      
       <esp:h>Possible Further Modifications</esp:h>
 
       <p>The following possible modifications have not yet been made.</p>
@@ -128,10 +69,12 @@
       <p>OBF defines some characters in SS01 but it is not clear
       whether these are intended to be a consistent stylistic
       variation or if they could be equally well represented with
-      SALT.  In the <esp:link url="">draft Oracc guidelines for use of
-      OT features</esp:link> these would probably be SALT variants.  A
-      future version of Oracc-OBF could redefine the
-      <code>.ss01</code> characters as <code>.1</code>, etc.</p>
+      SALT.  In the <esp:link
+      url="/osl/OraccCuneiformFonts/index.html">draft
+      Oracc guidelines for use of OT features</esp:link> these would
+      probably be SALT variants.  A future version of Oracc-OBF could
+      redefine the <code>.ss01</code> characters as <code>.1</code>,
+      etc.</p>
 
       <esp:sh>ABZL285/ABZL286</esp:sh>
 
@@ -144,15 +87,7 @@
       class="ofs-noto">󰀽</span> and U+F003E |ŠAR₂×(U.U.U)| <span
       class="ofs-noto">󰀾</span>.  Oracc-OBF could also move/duplicate
       <span class="ofs-oobf ofs-150">𒐭 𒐮</span> there.</p>
-      
-      <esp:sh>Ghosts</esp:sh>
-
-      <p>The following characters are ghosts--they are present in OBF but are blank and are not in ABZL.</p>
-
-      <pre>u12014 u1202A u12253 u1231A u12402 u12403 u12405 u12407 u12456 u12457 u1245C</pre>
-
-      <p>These can presumably be removed without any issues.</p>
-      
+            
       <esp:h>Download</esp:h>
 
       <p>All of the Oracc fonts are downloadable from the <esp:link
