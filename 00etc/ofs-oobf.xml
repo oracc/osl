@@ -31,7 +31,7 @@
       OB-Freie.</p>
 
       <esp:h>Modifications</esp:h>
-      
+
       <esp:sh>ABZL423 KEŠ₃</esp:sh>
 
       <p>ABZL423 describes KEŠ₃ as ŠU₂.AN.HAR rather than the
@@ -55,6 +55,8 @@
       <esp:sh>Mergers</esp:sh>
 
       <ul>
+	<li>Add 1244F (BAN₂) to Unicode values of 12226 (MAŠ)</li>
+	<li>Add 12262 (NU₁₁) to Unicode values of 122D3 (ŠIR)</li>
 	<li>Add 12458 (EŠE₃) to Unicode values of 12041 (BAD)</li>
 	<li>Add 12128 (GURUŠ) to Unicode values of 12197 (KAL)</li>
 	<li>Add 12327 (KALAM) to Unicode values of 12326 (UN)</li>
