@@ -154,7 +154,6 @@
 @list	MZL839
 @list	PTACE328
 @list	RSP051
-@list	RSP349
 @list	SYA274
 @uname	CUNEIFORM SIGN A
 @list	U+12000
@@ -2092,7 +2091,6 @@
 @list	KWU826
 @list	LAK537
 @list	MZL232
-@list	RSP086
 @list	RSP224
 @list	SLLHA195
 @uname	CUNEIFORM SIGN AB GUNU
@@ -6835,7 +6833,7 @@
 @list	KWU086
 @list	LAK055
 @list	MZL168
-@list	RSP426b
+@list	RSP426bis
 @list	SYA060
 @uname	CUNEIFORM SIGN DIM TIMES SHE
 @list	U+12075
@@ -6847,24 +6845,6 @@
 @v	munu
 @link	eBL |DIM×ŠE| https://www.ebl.lmu.de/signs/|DIM×ŠE|
 @link	Wikidata Q87555234 http://www.wikidata.org/entity/Q87555234
-@form |DIM×ŠE|
-@oid	o0000978
-@list	ABZL015
-@list	BAU410
-@list	ELLES033a
-@list	HZL018
-@list	KWU086
-@list	LAK055
-@list	MZL168
-@list	RSP426b
-@list	U+12075
-@ucun	𒁵
-@uage	5.0
-@v	gakkul₂
-@lit	Civil, ZA 74, 162
-@link	eBL |DIM×ŠE| https://www.ebl.lmu.de/signs/|DIM×ŠE|
-@link	Wikidata Q87555234 http://www.wikidata.org/entity/Q87555234
-@@
 @form DIM@g
 @oid	o0000142
 @list	ELLES033b
@@ -6872,7 +6852,7 @@
 @list	GCSL019
 @list	LAK056
 @list	PTACE063
-@list	RSP426a
+@list	RSP426
 @v	mun
 @lit	Civil, ZA 74, 162; Civil ARES 4, 86.
 @@
@@ -23599,7 +23579,6 @@
 @list	MZL117
 @list	PTACE003
 @list	RSP085
-@list	RSP086
 @list	SLLHA072
 @list	SLLHA072a
 @list	SYA038
@@ -23634,6 +23613,9 @@
 @v	numun@d
 @@
 @end sign
+
+@listref	RSP086
+@note Sequence KUL-ABA₄
 
 @sign |KUL.ŠA₃|
 @oid	o0022983
@@ -24315,7 +24297,6 @@
 @list	MZL839
 @list	PTACE328
 @list	RSP051
-@list	RSP349
 @uname	CUNEIFORM SIGN A
 @list	U+12000
 @ucun	𒀀
@@ -33642,7 +33623,6 @@
 @list	MZL143
 @list	PTACE066
 @list	RSP094
-@list	RSP097
 @list	SLLHA087
 @list	SYA054
 @uname	CUNEIFORM SIGN NUN
@@ -33683,6 +33663,9 @@
 @link	eBL NUN https://www.ebl.lmu.de/signs/NUN
 @link	Wikidata Q87556213 http://www.wikidata.org/entity/Q87556213
 @end sign
+
+@listref RSP097
+@note Sequence NUN-KI(-GA) eridu{ki}(-ga).
 
 @sign |NUN.LAGAR|
 @oid	o0002125
@@ -34100,7 +34083,6 @@
 @list	LAK813
 @list	PTACE180
 @list	RSP348
-@list	RSP349
 @uname	CUNEIFORM SIGN NUNUZ
 @list	U+1226D
 @ucun	𒉭
@@ -39123,7 +39105,6 @@
 @list	MZL566
 @list	PTACE111
 @list	RSP167
-@list	RSP324
 @list	SLLHA353
 @list	SYA176
 @uname	CUNEIFORM SIGN SHA
@@ -39140,6 +39121,11 @@
 @link	eBL ŠA https://www.ebl.lmu.de/signs/ŠA
 @link	Wikidata Q87556353 http://www.wikidata.org/entity/Q87556353
 @end sign
+
+@listref	RSP324
+@note Sequence UD-ŠA
+
+
 
 @sign |ŠA.PI|
 @oid	o0031696
@@ -45214,9 +45200,7 @@
 @list	MZL596
 @list	PTACE185
 @list	REC234
-@list	RSP319
 @list	RSP322
-@list	RSP324
 @list	SLLHA381
 @list	SYA193
 @uname	CUNEIFORM SIGN UD
@@ -45298,6 +45282,9 @@
 @link	eBL UD https://www.ebl.lmu.de/signs/UD
 @link	Wikidata Q87556540 http://www.wikidata.org/entity/Q87556540
 @end sign
+
+@listref	RSP319
+@note Sequence DI-UD = salah read {+sa₂}salah.
 
 @sign |UD.A|
 @oid	o0002486
@@ -47313,7 +47300,6 @@
 @list	ELLES314
 @list	KWU226
 @list	MZL080
-@list	RSP269
 @list	SLLHA049x
 @list	SYA019
 @note	LAK648 is GIŠGAL, but is not properly described as URU×MIN. Many of the URU× signs are LAK648× in ED.
@@ -47346,6 +47332,7 @@
 @@
 @form LAK648
 @list LAK648
+@list	RSP269
 @oid	o0000408
 @uname	CUNEIFORM SIGN LAK648
 @list	U+1250D
@@ -49238,6 +49225,7 @@
 
 @sign |ZUM×LAGAB|
 @oid	o0002678
+@list RSP175^a
 @upua	U+F004D
 @inote	epsd2/royal; also in marguzum ed3b
 @v	garigₓ
