@@ -1574,6 +1574,10 @@
 @sys	Attinger te₈⁻ => te₈
 @link	eBL DA https://www.ebl.lmu.de/signs/DA
 @@
+@form |A₂.HU|
+@oid	
+@v	ti₈*
+@@
 @end sign
 
 @sign |A₂.AŠ|
@@ -5868,9 +5872,9 @@
 @list	SYA133
 @inote	Thureau-Dangin treated SYA132 PAR₃ as a separate sign from SYA133 DAG,
 	splitting from KISAL and merging with DAG; this is still how it is
-	described in MÉA280. This has not been followed in MZL, where par(DAG) is
-	par₃ and par(KISAL) is par₄. The Unicode Standard only has two characters
-	for these, following MZL.
+	described in MÉA280.  ASY151/ASY152 treat these signs similarly. This
+	has not been followed in MZL, where par(DAG) is par₃ and par(KISAL)
+	is par₄. The Unicode Standard only has two characters for these, following MZL.
 @uname	CUNEIFORM SIGN DAG
 @list	U+12056
 @ucun	𒁖
@@ -15094,6 +15098,8 @@
 @useq	x12111.x121AA
 @ucun	𒄑𒆪
 @v	ŋeštukul₂
+@inote is ŋeštukul₂ really a value or is it an artefact of a mis-inducted {ŋeš}tukul₂?
+@v	tukul₂
 @link	eBL |GIŠ.KU| https://www.ebl.lmu.de/signs/|GIŠ.KU|
 @end sign
 
@@ -30909,6 +30915,10 @@
 @form MUŠ₃@g
 @oid	o0000467
 @v	inana
+@v	muš₃
+@v	suh
+@v	šuh
+@v	sih₄
 @link	eBL MUŠ₃@g https://www.ebl.lmu.de/signs/MUŠ₃@g
 @@
 @end sign
@@ -40611,6 +40621,7 @@
 @ucun	𒋀𒆠
 @v	nan₂
 @v	nanna
+@inote ASY has |AN.ŠEŠ.KI|=nanna and |ŠEŠ.KI|=nanna₂; check MZL etc
 @link	eBL |ŠEŠ.KI| https://www.ebl.lmu.de/signs/|ŠEŠ.KI|
 @form |ŠEŠ.NA|
 @oid	o0018524
