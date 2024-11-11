@@ -15,6 +15,11 @@
 @note	Numbers 900 and above are used for characters in Corvin Ziegeler's
 	OB-Freie font which are not listed independently in ABZL.
 
+@listdef ASY 1-231 233-325 017^a 017^b 022a 023a 023b 025a 030a 054a 063a 088a 115a 134a 137a
+	159a 187a 204a 254a 261a 268a 269a 277a 303a 308a 310a
+@lit W. von Soden, Das akkadische Syllabar (Analecta Orientalia 42). 4th ed. Neukirchen, 1967.
+@inote There is no 232 in ASY 4th ed.
+
 @listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 385a 385b 385c 386a 386b 387a 417a
 @lit	E. Burrows, Archaic Texts (UET 2; London 1935)
 @inote	To be added: Appendices I-III lettered signs as, e.g., BAU000I.A, BAU00II.A, BAU0III.A, etc.
@@ -61,7 +66,7 @@
 @listdef SYA 1-285
 @lit	F. Thureau-Dangin, Le Syllabaire Accadien (Paris 1926)
 
-@listdef RSP 1-468 019bis 036bis 048bis 178bis 189* 339bis 361bis 380bis 426a 426b 460bis 468bis 468ter
+@listdef RSP 1-468 019bis 036bis 048bis 175^a 178bis 189* 339bis 361bis 380bis 426bis 460bis 468bis 468ter
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
 
 @listdef SLLHA 1-598 002a 007v 015x 016a 018v 018x 022x 022xn2 023n
@@ -144,6 +149,7 @@
 @images im-ofs-oobf.tab
 
 @sign A
+@list	ASY311
 @oid	o0000087
 @list	ABZL470
 @list	BAU416
@@ -191,6 +197,7 @@
 @end sign
 
 @sign |A.A|
+@list	ASY315
 @oid	o0000656
 @list	SYA277
 @useq	x12000.x12000
@@ -232,6 +239,7 @@
 @end sign
 
 @sign |A.AN|
+@list	ASY312
 @oid	o0000655
 @list	KWU902
 @list	RSP053
@@ -531,6 +539,7 @@
 @ucun	𒀀𒄩𒋻𒌓𒁺
 @@
 @form BU
+@list	ASY213
 @oid	o0000124
 @list	ABZL265
 @list	BAU148
@@ -665,6 +674,7 @@
 @end sign
 
 @sign |A.IGI|
+@list	ASY313
 @oid	o0000685
 @list	KWU903
 @list	RSP052
@@ -752,6 +762,7 @@
 @end sign
 
 @sign |A.LAGAB×HAL|
+@list	ASY314
 @oid	o0000697
 @list	KWU904
 @list	RSP054
@@ -1113,6 +1124,7 @@
 @v	aktum
 @link	eBL |A.SU| https://www.ebl.lmu.de/signs/|A.SU|
 @form SU
+@list	ASY006
 @oid	o0000531
 @list	BAU226
 @list	ELLES172
@@ -1527,6 +1539,7 @@
 @end sign
 
 @sign A₂
+@list	ASY187
 @oid	o0000112
 @list	ABZL230
 @list	BAU102
@@ -1560,6 +1573,7 @@
 @link	eBL A₂ https://www.ebl.lmu.de/signs/A₂
 @link	Wikidata Q20639233 http://www.wikidata.org/entity/Q20639233
 @form DA
+@list	ASY191
 @oid	o0000132
 @list	BAU097
 @list	BAU101
@@ -1575,8 +1589,10 @@
 @link	eBL DA https://www.ebl.lmu.de/signs/DA
 @@
 @form |A₂.HU|
-@oid	
-@v	ti₈*
+@list	ASY187a
+@oid	o0038412
+@useq	x12009.x12137
+@v	ti₈~v
 @@
 @end sign
 
@@ -1696,6 +1712,7 @@
 @end sign
 
 @sign AB
+@list	ASY093
 @oid	o0000088
 @list	ABZL125
 @list	BAU333
@@ -2123,6 +2140,7 @@
 @link	eBL AB@g https://www.ebl.lmu.de/signs/AB@g
 @link	Wikidata Q87555037 http://www.wikidata.org/entity/Q87555037
 @form AB
+@list	ASY093
 @oid	o0000088
 @list	BAU333
 @list	ELLES285
@@ -2137,6 +2155,7 @@
 @link	eBL AB https://www.ebl.lmu.de/signs/AB
 @@
 @form MURUB₄
+@list	ASY189
 @oid	o0000462
 @list	LAK157
 @inote	sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
@@ -2161,6 +2180,7 @@
 @end sign
 
 @sign AB₂
+@list	ASY244
 @oid	o0000090
 @list	ABZL352
 @list	BAU177
@@ -2345,6 +2365,7 @@
 @end sign
 
 @sign |AB₂×GAN₂@t|
+@list	ASY245
 @oid	o0000767
 @list	ABZL354
 @list	MZL674
@@ -2425,6 +2446,7 @@
 @compoundonly	|AB₂×SILA₃|
 
 @sign |AB₂×ŠA₃|
+@list	ASY246
 @oid	o0000771
 @list	ABZL353
 @list	BAU171
@@ -2503,6 +2525,7 @@
 @end sign
 
 @sign AD
+@list	ASY108
 @oid	o0000092
 @list	ABZL132
 @list	BAU311
@@ -2579,6 +2602,7 @@
 @end sign
 
 @sign AK
+@list	ASY070
 @oid	o0000093
 @list	ABZL052
 @list	BAU062
@@ -2631,6 +2655,7 @@
 @link	eBL |AK×ERIN₂| https://www.ebl.lmu.de/signs/|AK×ERIN₂|
 @link	Wikidata Q87555057 http://www.wikidata.org/entity/Q87555057
 @form AK
+@list	ASY070
 @oid	o0000093
 @list	BAU062
 @list	ELLES053
@@ -2691,6 +2716,7 @@
 @end sign
 
 @sign AL
+@list	ASY160
 @oid	o0000094
 @list	ABZL108
 @list	BAU310
@@ -2885,6 +2911,7 @@
 @end sign
 
 @sign ALEPH
+@list	ASY233
 @oid	o0000096
 @list	HZL332
 @list	MZL635
@@ -2913,6 +2940,7 @@
 @end sign
 
 @sign AMAR
+@list	ASY255
 @oid	o0000097
 @list	ABZL367
 @list	BAU146
@@ -3045,6 +3073,7 @@
 @inote	In |AB₂×AMAR@t| in P020344 = VS 27, 28.
 
 @sign AN
+@list	ASY012
 @oid	o0000099
 @list	ABZL009
 @list	BAU006
@@ -3110,6 +3139,7 @@
 @end sign
 
 @sign |3×AN|
+@list	ASY095
 @oid	o0000642
 @list	ABZL010
 @list	BAU008
@@ -3158,6 +3188,7 @@
 @end sign
 
 @sign |AN.A.LAGAB×HAL|
+@list	ASY014
 @oid	o0000798
 @useq	x1202D.x12000.x121C9
 @ucun	𒀭𒀀𒇉
@@ -3530,6 +3561,7 @@
 @end sign
 
 @sign |AN.ŠEŠ.KI|
+@list	ASY013
 @oid	o0000829
 @useq	x1202D.x122C0.x121A0
 @ucun	𒀭𒋀𒆠
@@ -3568,6 +3600,7 @@
 @inote	added during ogsl upgrade
 
 @sign |AN&AN|
+@list	ASY094
 @oid	o0000796
 @list	BAU007
 @list	ELLES006
@@ -3631,6 +3664,7 @@
 @link	eBL ANŠE https://www.ebl.lmu.de/signs/ANŠE
 @link	Wikidata Q87555099 http://www.wikidata.org/entity/Q87555099
 @form KIŠ
+@list	ASY247
 @oid	o0000286
 @list	LAK248
 @v	anše
@@ -3801,6 +3835,7 @@
 @end sign
 
 @sign APIN
+@list	ASY028
 @oid	o0000102
 @list	ABZL005
 @list	BAU075
@@ -3915,6 +3950,7 @@
 @end sign
 
 @sign |ARAD×KUR|
+@list	ASY025a
 @oid	o0000843
 @list	ABZL017
 @list	BAU052
@@ -3970,6 +4006,7 @@
 @compoundonly	ASAL₂
 
 @sign AŠ
+@list	ASY001
 @oid	o0000106
 @list	ABZL001
 @list	BAU001
@@ -4287,6 +4324,7 @@
 @end sign
 
 @sign AŠ@t
+@list	ASY209
 @aka AŠ@z
 @aka DIŠ@t
 @inote Moving aš@t value, etc., to sign AŠ@t was a mistake; AŠ@t and AŠ@z unified.
@@ -4344,6 +4382,7 @@
 @end sign
 
 @sign AŠ₂
+@list	ASY192
 @oid	o0000110
 @list	ABZL211
 @list	BAU095
@@ -4443,6 +4482,7 @@
 @end sign
 
 @sign BA
+@list	ASY004
 @oid	o0000113
 @list	ABZL303
 @list	BAU222
@@ -4471,6 +4511,7 @@
 @end sign
 
 @sign BAD
+@list	ASY042
 @oid	o0000114
 @list	ABZL025
 @list	BAU009
@@ -4727,6 +4768,7 @@
 @ucun	𒂁𒋡𒁓
 @@
 @form EDIN
+@list	ASY118
 @oid	o0000167
 @list	ELLES365
 @list	GCSL306
@@ -4780,6 +4822,7 @@
 @end sign
 
 @sign BAL
+@list	ASY008
 @oid	o0000118
 @list	ABZL003
 @list	ELLES012
@@ -4887,6 +4930,7 @@
 @end sign
 
 @sign BAR
+@list	ASY048
 @oid	o0000120
 @list	ABZL057
 @list	BAU252
@@ -4919,6 +4963,7 @@
 @link	eBL BAR https://www.ebl.lmu.de/signs/BAR
 @link	Wikidata Q87555142 http://www.wikidata.org/entity/Q87555142
 @form AŠ
+@list	ASY001
 @oid	o0000106
 @list	ABZL001
 @list	BAU001
@@ -4945,6 +4990,7 @@
 @v	kungi₂
 @link	eBL |BAR.AN| https://www.ebl.lmu.de/signs/|BAR.AN|
 @form |3×AN|
+@list	ASY095
 @oid	o0000642
 @list	BAU008
 @list	ELLES006b
@@ -5031,6 +5077,7 @@
 @end sign
 
 @sign BARA₂
+@list	ASY195
 @oid	o0000121
 @list	ABZL217
 @list	BAU088
@@ -5124,6 +5171,7 @@
 @end sign
 
 @sign BI
+@list	ASY140
 @oid	o0000122
 @list	ABZL079
 @list	BAU344
@@ -5372,6 +5420,7 @@
 @end sign
 
 @sign BU
+@list	ASY213
 @oid	o0000124
 @aka	BU~a
 @list	ABZL265
@@ -5643,6 +5692,7 @@
 @end sign
 
 @sign BUR
+@list	ASY199
 @oid	o0000129
 @list	ABZL223
 @list	BAU404
@@ -5682,6 +5732,7 @@
 @compoundonly	|BUR&BUR|
 
 @sign BUR₂
+@list	ASY010
 @oid	o0000131
 @list	ABZL013
 @list	BAU054
@@ -5741,6 +5792,7 @@
 @end sign
 
 @sign BURU₅
+@list	ASY054a
 @oid	o0000130
 @list	ABZL043
 @list	ELLES044
@@ -5770,6 +5822,7 @@
 @ucun	𒄷𒊺𒂟
 @@
 @form NAM
+@list	ASY054
 @oid	o0000474
 @list	BAU038
 @list	ELLES043
@@ -5800,6 +5853,7 @@
 @end sign
 
 @sign DA
+@list	ASY191
 @oid	o0000132
 @list	ABZL229
 @list	BAU097
@@ -5859,6 +5913,8 @@
 @end sign
 
 @sign DAG
+@list	ASY151
+@list	ASY152
 @oid	o0000133
 @list	ABZL168
 @list	BAU362
@@ -6429,6 +6485,7 @@
 @end sign
 
 @sign DAG₃
+@list	ASY144
 @oid	o0032005
 @list	MZL386
 @list	SYA126
@@ -6447,6 +6504,7 @@
 @end sign
 
 @sign DAM
+@list	ASY301
 @oid	o0000134
 @list	ABZL454
 @list	BAU291
@@ -6487,6 +6545,7 @@
 @end sign
 
 @sign DAR
+@list	ASY083
 @oid	o0000135
 @list	ABZL037
 @list	BAU036
@@ -6519,6 +6578,7 @@
 @end sign
 
 @sign DARA₃
+@list	ASY072
 @oid	o0000136
 @list	ABZL365
 @list	ELLES150
@@ -6591,6 +6651,7 @@
 @end sign
 
 @sign DE₂
+@list	ASY190
 @aka	|UMUM×KASKAL|
 @oid	o0000138
 @list	ABZL215
@@ -6638,6 +6699,7 @@
 @end sign
 
 @sign DI
+@list	ASY266
 @oid	o0000139
 @list	ABZL431
 @list	BAU190
@@ -6649,7 +6711,6 @@
 @list	MZL736
 @list	PTACE191
 @list	RSP318
-@list	RSP319
 @list	SLLHA457
 @list	SYA233
 @uname	CUNEIFORM SIGN DI
@@ -6709,6 +6770,7 @@
 @end sign
 
 @sign DIB
+@list	ASY293
 @oid	o0000140
 @aka	|LAGAB×PA|
 @list	ABZL419
@@ -6755,6 +6817,7 @@
 @end sign
 
 @sign DIM
+@list	ASY068
 @oid	o0000141
 @list	ABZL014
 @list	ELLES031
@@ -6829,6 +6892,7 @@
 @end sign
 
 @sign |DIM×ŠE|
+@list	ASY069
 @oid	o0000978
 @list	ABZL015
 @list	BAU410
@@ -6874,6 +6938,7 @@
 @end sign
 
 @sign DIM₂
+@list	ASY257
 @oid	o0000143
 @list	ABZL067
 @list	BAU381
@@ -6940,6 +7005,7 @@
 @end sign
 
 @sign DIN
+@list	ASY270
 @oid	o0000144
 @list	ABZL361
 @list	BAU144
@@ -7027,6 +7093,7 @@
 @end sign
 
 @sign DIŠ
+@list	ASY276
 @oid	o0000145
 @aka	1(DIŠ)
 @list	ABZL390
@@ -7105,6 +7172,7 @@
 @ucun 𒕐
 @@
 @form AŠ@t
+@list	ASY209
 @oid	o0000108
 @inote	dcclt *() punctuation qualifier
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
@@ -7144,23 +7212,27 @@
 @v	diš@f
 @@
 @form GAM
+@list	ASY210
 @oid	o0000196
 @list	GCSL091
 @inote	dcclt *() punctuation qualifier
 @link	eBL GAM https://www.ebl.lmu.de/signs/GAM
 @@
 @form MIN
+@list	ASY308a
 @oid	o0000456
 @inote	dcclt *() punctuation qualifier
 @link	eBL MIN https://www.ebl.lmu.de/signs/MIN
 @@
 @form PAP
+@list	ASY032
 @oid	o0000500
 @list	GCSL113
 @inote	dcclt *() punctuation qualifier
 @link	eBL PAP https://www.ebl.lmu.de/signs/PAP
 @@
 @form U
+@list	ASY242
 @oid	o0000561
 @list	GCSL176
 @inote	dcclt *() punctuation qualifier
@@ -7171,6 +7243,7 @@
 @inote	dcclt *() punctuation qualifier
 @@
 @form |U.U|
+@list	ASY274
 @oid	o0002475
 @inote	00atf/sptu_3_089.atf:153 *() punctuation qualifier
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
@@ -7196,6 +7269,7 @@
 @link	eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
 @@
 @form 5(DIŠ)
+@list	ASY324
 @oid	o0000052
 @inote	dcclt *() punctuation qualifier
 @@
@@ -7293,6 +7367,7 @@
 @end sign
 
 @sign DU
+@list	ASY135
 @oid	o0000149
 @list	ABZL064
 @list	BAU374
@@ -7432,6 +7507,7 @@
 @inote	added during ogsl upgrade
 
 @sign |DU&DU|
+@list	ASY136
 @oid	o0000989
 @list	ABZL197
 @list	KWU706
@@ -7480,6 +7556,7 @@
 @end sign
 
 @sign DU@g
+@list	ASY132
 @oid	o0000150
 @list	ABZL065
 @list	KWU708
@@ -7508,6 +7585,7 @@
 @link	eBL DU@g https://www.ebl.lmu.de/signs/DU@g
 @link	Wikidata Q87555246 http://www.wikidata.org/entity/Q87555246
 @form DU
+@list	ASY135
 @oid	o0000149
 @list	BAU374
 @list	ELLES252
@@ -7550,6 +7628,7 @@
 @end sign
 
 @sign DU@s
+@list	ASY133
 @oid	o0000152
 @list	ABZL066
 @list	BAU376
@@ -7588,6 +7667,7 @@
 @link	eBL DU@s https://www.ebl.lmu.de/signs/DU@s
 @link	Wikidata Q87555248 http://www.wikidata.org/entity/Q87555248
 @form DU
+@list	ASY135
 @oid	o0000149
 @list	BAU374
 @list	ELLES252
@@ -7659,6 +7739,7 @@
 @end sign
 
 @sign DUB
+@list	ASY101
 @oid	o0000153
 @list	ABZL112b
 @list	BAU297
@@ -7785,6 +7866,7 @@
 @end sign
 
 @sign DUB₂
+@list	ASY201
 @oid	o0000154
 @list	ABZL082
 @list	ELLES309
@@ -7826,6 +7908,7 @@
 @end sign
 
 @sign DUG
+@list	ASY164
 @oid	o0000155
 @list	ABZL080
 @list	BAU342
@@ -8296,6 +8379,7 @@
 @end sign
 
 @sign DUN
+@list	ASY271
 @oid	o0000158
 @list	ABZL438
 @list	BAU019
@@ -8364,6 +8448,7 @@
 @end sign
 
 @sign DUN₃
+@list	ASY322
 @oid	o0000160
 @list	ABZL401a
 @list	BAU280
@@ -8460,6 +8545,7 @@
 @end sign
 
 @sign DUN₃@g@g
+@list	ASY198
 @oid	o0000162
 @list	ABZL219b
 @list	ELLES084
@@ -8609,6 +8695,7 @@
 @end sign
 
 @sign E
+@list	ASY163
 @oid	o0000166
 @list	ABZL167
 @list	BAU089
@@ -8713,6 +8800,7 @@
 @end sign
 
 @sign E₂
+@list	ASY174
 @oid	o0000180
 @list	ABZL107
 @list	BAU365
@@ -9059,6 +9147,7 @@
 @end sign
 
 @sign EDIN
+@list	ASY118
 @oid	o0000167
 @list	ABZL115
 @list	ELLES365
@@ -9191,6 +9280,7 @@
 @end sign
 
 @sign EL
+@list	ASY306
 @oid	o0000170
 @list	ABZL455
 @list	BAU399
@@ -9262,6 +9352,7 @@
 @end sign
 
 @sign EN
+@list	ASY071
 @oid	o0000173
 @list	ABZL062
 @list	BAU296
@@ -9861,6 +9952,7 @@
 @end sign
 
 @sign ERIN₂
+@list	ASY226
 @oid	o0000175
 @list	ABZL247
 @list	BAU143
@@ -9972,6 +10064,7 @@
 @end sign
 
 @sign EŠ₂
+@list	ASY291
 @oid	o0000178
 @list	ABZL420
 @list	BAU386a
@@ -10100,6 +10193,7 @@
 @v	saman₃
 @@
 @form EŠ₂
+@list	ASY291
 @oid	o0000178
 @list	BAU386a
 @list	ELLES392
@@ -10356,6 +10450,7 @@
 @end sign
 
 @sign EZEN
+@list	ASY113
 @oid	o0000177
 @list	ABZL152a
 @list	BAU298
@@ -10493,6 +10588,7 @@
 @end sign
 
 @sign |EZEN×BAD|
+@list	ASY114
 @oid	o0001104
 @list	ABZL153
 @list	GCSL262
@@ -10751,6 +10847,7 @@
 @link	eBL |EZEN×LA| https://www.ebl.lmu.de/signs/|EZEN×LA|
 @link	Wikidata Q87555342 http://www.wikidata.org/entity/Q87555342
 @form EZEN
+@list	ASY113
 @oid	o0000177
 @list	BAU298
 @list	ELLES303
@@ -10789,6 +10886,7 @@
 @link	eBL |EZEN×LAL₂| https://www.ebl.lmu.de/signs/|EZEN×LAL₂|
 @link	Wikidata Q87555344 http://www.wikidata.org/entity/Q87555344
 @form EZEN
+@list	ASY113
 @oid	o0000177
 @list	BAU298
 @list	ELLES303
@@ -11187,6 +11285,7 @@
 @end sign
 
 @sign GA
+@list	ASY170
 @oid	o0000187
 @list	ABZL201
 @list	BAU368
@@ -11197,7 +11296,6 @@
 @list	LAK726
 @list	MZL491
 @list	PTACE289
-@list	RSP097
 @list	RSP220
 @list	SLLHA319
 @list	SYA148
@@ -11343,6 +11441,7 @@
 @end sign
 
 @sign GA₂
+@list	ASY148
 @oid	o0000206
 @list	ABZL093
 @list	BAU317
@@ -12564,6 +12663,7 @@
 @end sign
 
 @sign |GA₂×(NUN&NUN)|
+@list	ASY150
 @oid	o0001319
 @aka	|GA₂×NUN&NUN|
 @list	ABZL099
@@ -12921,6 +13021,7 @@
 @end sign
 
 @sign GABA
+@list	ASY117
 @oid	o0000190
 @list	ABZL141
 @list	ELLES064
@@ -12991,6 +13092,7 @@
 @end sign
 
 @sign GAD
+@list	ASY067
 @oid	o0000193
 @list	ABZL299
 @list	BAU217
@@ -13146,6 +13248,7 @@
 @end sign
 
 @sign GAL
+@list	ASY194
 @oid	o0000194
 @list	ABZL213
 @list	BAU107
@@ -13408,6 +13511,7 @@
 @end sign
 
 @sign GAM
+@list	ASY210
 @oid	o0000196
 @list	ABZL359
 @list	ELLES105
@@ -13450,6 +13554,7 @@
 @end sign
 
 @sign GAN
+@list	ASY105
 @oid	o0000197
 @list	ABZL120
 @list	BAU047
@@ -13513,6 +13618,7 @@
 @end sign
 
 @sign GAN₂
+@list	ASY077
 @oid	o0000199
 @list	ABZL106
 @list	BAU061
@@ -13569,6 +13675,7 @@
 @v	iku@c@v
 @@
 @form GAN₂@t
+@list	ASY078
 @oid	o0000201
 @list	GCSL095
 @v	iku@t
@@ -13628,6 +13735,7 @@
 @end sign
 
 @sign GAN₂@t
+@list	ASY078
 @oid	o0000201
 @list	ABZL246
 @list	ELLES110
@@ -13667,6 +13775,7 @@
 @end sign
 
 @sign GAR
+@list	ASY323
 @oid	o0000202
 @list	ABZL473
 @list	BAU396
@@ -13964,6 +14073,7 @@
 @end sign
 
 @sign GAR₃
+@list	ASY186
 @oid	o0000204
 @list	ABZL209
 @list	BAU110
@@ -14082,6 +14192,7 @@
 @end sign
 
 @sign GEŠTIN
+@list	ASY137a
 @oid	o0000208
 @list	ABZL077
 @list	BAU314
@@ -14162,6 +14273,7 @@
 @end sign
 
 @sign GI
+@list	ASY060
 @oid	o0000210
 @list	ABZL040
 @list	BAU255
@@ -14334,6 +14446,7 @@
 @end sign
 
 @sign |GI%GI|
+@list	ASY039
 @oid	o0001335
 @list	ABZL250
 @list	ELLES244
@@ -14369,12 +14482,14 @@
 @link	eBL |GI%GI| https://www.ebl.lmu.de/signs/|GI%GI|
 @link	Wikidata Q87555501 http://www.wikidata.org/entity/Q87555501
 @form |GI₄%GI₄|
+@list	ASY177
 @oid	o0001408
 @link	eBL |GI₄%GI₄| https://www.ebl.lmu.de/signs/|GI₄%GI₄|
 @@
 @end sign
 
 @sign GI₄
+@list	ASY176
 @oid	o0000219
 @list	ABZL214
 @list	BAU257
@@ -14428,6 +14543,7 @@
 @end sign
 
 @sign |GI₄%GI₄|
+@list	ASY177
 @oid	o0001408
 @list	ELLES244a
 @list	MZL508
@@ -14473,6 +14589,7 @@
 @end sign
 
 @sign GIG
+@list	ASY260
 @oid	o0000212
 @list	ABZL350
 @list	BAU175
@@ -14508,6 +14625,7 @@
 @end sign
 
 @sign GIR₂
+@list	ASY009
 @oid	o0000213
 @list	ABZL008
 @list	BAU003
@@ -14589,6 +14707,7 @@
 @link	eBL GIR₂@g https://www.ebl.lmu.de/signs/GIR₂@g
 @link	Wikidata Q87555514 http://www.wikidata.org/entity/Q87555514
 @form GIR₂
+@list	ASY009
 @oid	o0000213
 @inote	Support Nisaba 25 UL₄(GIR₂)
 @inote	the distribution of values of GIR₂/GIR₂@g is confused over time
@@ -14603,6 +14722,7 @@
 @end sign
 
 @sign GIR₃
+@list	ASY259
 @oid	o0000215
 @list	ABZL291b
 @list	BAU161a
@@ -14660,6 +14780,7 @@
 @ucun	𒂼𒃶𒆕
 @@
 @form KIŠ
+@list	ASY247
 @oid	o0000286
 @list	LAK248
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
@@ -14770,6 +14891,7 @@
 @ucun	𒅆𒆧
 @@
 @form KIŠ
+@list	ASY247
 @oid	o0000286
 @list	LAK248
 @v	alim⁻
@@ -14808,6 +14930,7 @@
 @link	eBL |GIR₃×GAN₂@t| https://www.ebl.lmu.de/signs/|GIR₃×GAN₂@t|
 @link	Wikidata Q87555520 http://www.wikidata.org/entity/Q87555520
 @form KIŠ
+@list	ASY247
 @oid	o0000286
 @list	LAK248
 @v	giri₁₆⁻
@@ -14963,6 +15086,7 @@
 @end sign
 
 @sign GIŠ
+@list	ASY156
 @oid	o0000217
 @list	ABZL160
 @list	BAU312
@@ -15026,6 +15150,7 @@
 @end sign
 
 @sign |GIŠ.BAR|
+@list	ASY157
 @oid	o0001365
 @useq	x12111.x12047
 @ucun	𒄑𒁇
@@ -15094,6 +15219,7 @@
 @end sign
 
 @sign |GIŠ.KU|
+@list	ASY159
 @oid	o0001374
 @useq	x12111.x121AA
 @ucun	𒄑𒆪
@@ -15246,6 +15372,7 @@
 @end sign
 
 @sign |GIŠ.NE@s|
+@list	ASY158
 @oid	o0001383
 @list	RSP233
 @useq	x12111.x1224B
@@ -15635,6 +15762,7 @@
 @end sign
 
 @sign |GIŠ%GIŠ|
+@list	ASY142
 @oid	o0001363
 @list	ABZL274
 @list	ELLES157
@@ -15722,6 +15850,7 @@
 @end sign
 
 @sign GU
+@list	ASY302
 @oid	o0000221
 @list	ABZL458
 @list	BAU393
@@ -15771,6 +15900,7 @@
 @inote	added during ogsl upgrade
 
 @sign |GU%GU|
+@list	ASY308
 @oid	o0001412
 @list	ABZL251
 @list	LAK510
@@ -15805,6 +15935,7 @@
 @compoundonly	GU@90
 
 @sign GU₂
+@list	ASY079
 @oid	o0000230
 @list	ABZL089
 @list	BAU331
@@ -15872,6 +16003,7 @@
 @sign |GU₂.KALAM@g|
 @oid	o0001427
 @aka	|GU₂.UN|
+@list	ASY081
 @useq	x12118.x12326
 @ucun	𒄘𒌦
 @v	biltu
@@ -15956,6 +16088,7 @@
 @link	eBL |GU₂×KAK| https://www.ebl.lmu.de/signs/|GU₂×KAK|
 @link	Wikidata Q87555549 http://www.wikidata.org/entity/Q87555549
 @form |GU₂.KAK|
+@list	ASY080
 @oid	o0022958
 @inote	dcclt !sg
 @useq	x12118.x12195
@@ -16080,6 +16213,7 @@
 @end sign
 
 @sign GUD
+@list	ASY159a
 @oid	o0000222
 @list	ABZL118
 @list	BAU073
@@ -16212,6 +16346,7 @@
 @end sign
 
 @sign |GUD×KUR|
+@list	ASY120
 @oid	o0001422
 @list	ABZL119
 @list	ELLES069
@@ -16289,6 +16424,7 @@
 @end sign
 
 @sign GUL
+@list	ASY249
 @oid	o0000224
 @list	ABZL343
 @list	BAU172
@@ -16332,6 +16468,7 @@
 @end sign
 
 @sign GUM
+@list	ASY129
 @oid	o0000225
 @list	ABZL138
 @list	ELLES310
@@ -16378,6 +16515,7 @@
 @end sign
 
 @sign |GUM×ŠE|
+@list	ASY130
 @oid	o0001424
 @list	ABZL139
 @list	GCSL269
@@ -16418,6 +16556,7 @@
 @end sign
 
 @sign GUR
+@list	ASY084
 @oid	o0000226
 @list	ABZL092
 @list	BAU065
@@ -16549,6 +16688,7 @@
 @link	eBL GURUŠ https://www.ebl.lmu.de/signs/GURUŠ
 @link	Wikidata Q87555579 http://www.wikidata.org/entity/Q87555579
 @form KAL
+@list	ASY173
 @oid	o0000270
 @list	GCSL293
 @list	LAK709b
@@ -16558,6 +16698,7 @@
 @end sign
 
 @sign HA
+@list	ASY317
 @oid	o0000232
 @list	ABZL475
 @list	BAU207
@@ -16588,6 +16729,7 @@
 @link	eBL HA https://www.ebl.lmu.de/signs/HA
 @link	Wikidata Q87555581 http://www.wikidata.org/entity/Q87555581
 @form HA@g
+@list	ASY197
 @oid	o0000233
 @list	BAU210
 @list	ELLES196
@@ -16600,6 +16742,9 @@
 @link	eBL HA@g https://www.ebl.lmu.de/signs/HA@g
 @@
 @end sign
+
+@lref ASY319
+@note The sign referenced in ASY319 is uncertain, perhaps |HA×ŠU₂|.
 
 @sign |HA.A|
 @oid	o0001436
@@ -16647,6 +16792,7 @@
 @end sign
 
 @sign HA@g
+@list	ASY197
 @oid	o0000233
 @list	ABZL222
 @list	BAU210
@@ -16692,6 +16838,7 @@
 @link	eBL HA@g https://www.ebl.lmu.de/signs/HA@g
 @link	Wikidata Q87555585 http://www.wikidata.org/entity/Q87555585
 @form HA
+@list	ASY317
 @oid	o0000232
 @list	BAU207
 @list	ELLES194
@@ -16771,6 +16918,7 @@
 @end sign
 
 @sign HAL
+@list	ASY002
 @oid	o0000236
 @list	ABZL007
 @list	BAU002
@@ -16799,6 +16947,7 @@
 @end sign
 
 @sign HI
+@list	ASY229
 @oid	o0000237
 @list	ABZL277
 @list	BAU184
@@ -16840,6 +16989,7 @@
 @link	eBL HI https://www.ebl.lmu.de/signs/HI
 @link	Wikidata Q87555589 http://www.wikidata.org/entity/Q87555589
 @form DIN
+@list	ASY270
 @oid	o0000144
 @list	GCSL118
 @list	PTACE127
@@ -16853,6 +17003,7 @@
 @end sign
 
 @sign |HI.A|
+@list	ASY241
 @oid	o0001443
 @list	LAK360
 @list	SYA212
@@ -16864,6 +17015,7 @@
 @end sign
 
 @sign |HI.GIR₃|
+@list	ASY239
 @oid	o0001444
 @list	ABZL294
 @list	MZL645
@@ -16894,6 +17046,7 @@
 @ucun	𒅆X
 @@
 @form KIŠ
+@list	ASY247
 @oid	o0000286
 @list	LAK248
 @v	huš⁻
@@ -16975,6 +17128,7 @@
 @end sign
 
 @sign |HI×AŠ₂|
+@list	ASY238
 @oid	o0001452
 @list	ABZL281
 @list	BAU189
@@ -17096,6 +17250,7 @@
 @end sign
 
 @sign |HI×BAD|
+@list	ASY235
 @oid	o0001453
 @list	ABZL279
 @list	GCSL152
@@ -17248,6 +17403,7 @@
 @end sign
 
 @sign |HI×NUN|
+@list	ASY234
 @oid	o0001462
 @list	ABZL280
 @list	ELLES201
@@ -17394,6 +17550,7 @@
 @end sign
 
 @sign |HI×ŠE|
+@list	ASY237
 @oid	o0001464
 @list	ABZL287
 @list	BAU188
@@ -17461,6 +17618,7 @@
 @end sign
 
 @sign HU
+@list	ASY052
 @oid	o0000239
 @list	ABZL034
 @list	BAU034
@@ -17507,6 +17665,7 @@
 @link	eBL HU https://www.ebl.lmu.de/signs/HU
 @link	Wikidata Q87555612 http://www.wikidata.org/entity/Q87555612
 @form RI
+@list	ASY061
 @oid	o0000514
 @list	GCSL178a
 @list	PTACE064
@@ -17515,6 +17674,7 @@
 @end sign
 
 @sign |HU.HI|
+@list	ASY056
 @oid	o0001466
 @list	ABZL035
 @list	BAU037
@@ -17559,6 +17719,7 @@
 @end sign
 
 @sign |HU.NA₂|
+@list	ASY057
 @oid	o0001469
 @list	ABZL036
 @list	KWU113
@@ -17583,6 +17744,7 @@
 @end sign
 
 @sign |HU.SI|
+@list	ASY053
 @oid	o0001470
 @list	ABZL033
 @list	ELLES041
@@ -17619,6 +17781,7 @@
 @end sign
 
 @sign HUB₂
+@list	ASY065
 @oid	o0000240
 @list	ABZL445
 @list	BAU281
@@ -17646,6 +17809,7 @@
 @link	eBL HUB₂ https://www.ebl.lmu.de/signs/HUB₂
 @link	Wikidata Q87555613 http://www.wikidata.org/entity/Q87555613
 @form |HUB₂×UD|
+@list	ASY066
 @oid	o0001477
 @list	LAK476
 @list	RSP425
@@ -17712,6 +17876,7 @@
 @end sign
 
 @sign |HUB₂×UD|
+@list	ASY066
 @oid	o0001477
 @list	ABZL446
 @list	HZL050
@@ -17740,6 +17905,7 @@
 @end sign
 
 @sign HUL₂
+@list	ASY297
 @oid	o0000241
 @list	ABZL425
 @list	ELLES108
@@ -17802,6 +17968,7 @@
 @end sign
 
 @sign I
+@list	ASY103
 @oid	o0000242
 @list	ABZL192
 @list	BAU085
@@ -17831,6 +17998,7 @@
 @end sign
 
 @sign |I.A|
+@list	ASY104
 @oid	o0001478
 @list	ABZL193
 @list	HZL218
@@ -17877,6 +18045,7 @@
 @end sign
 
 @sign IB
+@list	ASY289
 @oid	o0000244
 @list	ABZL394
 @list	BAU260
@@ -17946,6 +18115,7 @@
 @link	eBL IDIM https://www.ebl.lmu.de/signs/IDIM
 @link	Wikidata Q87555633 http://www.wikidata.org/entity/Q87555633
 @form BAD
+@list	ASY042
 @oid	o0000114
 @list	BAU009
 @list	ELLES009
@@ -18009,6 +18179,7 @@
 @end sign
 
 @sign IG
+@list	ASY055
 @oid	o0000246
 @list	ABZL061
 @list	BAU063
@@ -18051,6 +18222,7 @@
 @end sign
 
 @sign IGI
+@list	ASY261
 @oid	o0000247
 @list	ABZL233
 @list	BAU185
@@ -18147,6 +18319,7 @@
 @end sign
 
 @sign |IGI.DIB|
+@list	ASY264
 @oid	o0001487
 @list	ABZL239b
 @list	ELLES225
@@ -18452,6 +18625,7 @@
 @end sign
 
 @sign |IGI.MIN|
+@list	ASY261a
 @oid	o0001505
 @useq	x12146.x1222B
 @ucun	𒅆𒈫
@@ -18467,6 +18641,7 @@
 @v	ilduₓ
 @link	eBL |IGI.NAGAR| https://www.ebl.lmu.de/signs/|IGI.NAGAR|
 @form NAGAR
+@list	ASY303a
 @oid	o0000473
 @list	BAU408
 @list	ELLES267
@@ -18515,6 +18690,7 @@
 @end sign
 
 @sign |IGI.RI|
+@list	ASY263
 @oid	o0001510
 @list	ABZL234
 @list	ELLES221
@@ -18537,6 +18713,7 @@
 @end sign
 
 @sign |IGI.RU|
+@list	ASY262
 @oid	o0001511
 @list	ABZL235
 @list	BAU243
@@ -18588,6 +18765,7 @@
 @end sign
 
 @sign |IGI.UR|
+@list	ASY265
 @oid	o0001516
 @list	ABZL240
 @list	ELLES224
@@ -18675,6 +18853,7 @@
 @end sign
 
 @sign IGI@g
+@list	ASY200
 @oid	o0000248
 @list	ABZL198
 @list	BAU245
@@ -18769,6 +18948,7 @@
 @inote	added during ogsl upgrade
 
 @sign IL
+@list	ASY134
 @oid	o0000249
 @list	ABZL078
 @list	BAU380
@@ -18793,6 +18973,7 @@
 @end sign
 
 @sign |IL×GAN₂@t|
+@list	ASY134a
 @oid	o0001524
 @list	MZL349
 @list	SLLHA205a
@@ -18807,6 +18988,7 @@
 @end sign
 
 @sign IL₂
+@list	ASY171
 @oid	o0000252
 @list	ABZL204
 @list	BAU412
@@ -18904,6 +19086,7 @@
 @end sign
 
 @sign IM
+@list	ASY236
 @oid	o0000254
 @list	ABZL297
 @list	BAU388
@@ -19250,6 +19433,7 @@
 @end sign
 
 @sign IN
+@list	ASY110
 @oid	o0000256
 @list	ABZL386
 @list	ELLES124
@@ -19281,6 +19465,7 @@
 @end sign
 
 @sign IR
+@list	ASY147
 @oid	o0000257
 @list	ABZL263
 @list	BAU411
@@ -19313,6 +19498,7 @@
 @end sign
 
 @sign IŠ
+@list	ASY139
 @oid	o0000259
 @list	ABZL162
 @list	BAU104
@@ -19414,6 +19600,7 @@
 @end sign
 
 @sign KA
+@list	ASY015
 @oid	o0000260
 @list	ABZL312
 @list	BAU233
@@ -19655,6 +19842,7 @@
 @end sign
 
 @sign |KA×A|
+@list	ASY021
 @oid	o0001611
 @list	ABZL328
 @list	BAU232
@@ -19829,6 +20017,7 @@
 @link	eBL |KA×BALAG| https://www.ebl.lmu.de/signs/|KA×BALAG|
 @link	Wikidata Q87555686 http://www.wikidata.org/entity/Q87555686
 @form KA
+@list	ASY015
 @oid	o0000260
 @list	BAU233
 @list	ELLES182
@@ -19890,6 +20079,8 @@
 @end sign
 
 @sign |KA×EŠ₂|
+@list	ASY017^a
+@list	ASY020
 @oid	o0001622
 @list	ABZL327
 @list	MZL062
@@ -19957,6 +20148,7 @@
 @end sign
 
 @sign |KA×GAN₂@t|
+@list	ASY017^b
 @oid	o0001626
 @list	ABZL321
 @list	BAU234
@@ -19997,6 +20189,7 @@
 @inote	dcclt !sg
 @@
 @form |KA×ŠU|
+@list	ASY017
 @oid	o0001676
 @list	ELLES183
 @list	GCSL143
@@ -20057,6 +20250,7 @@
 @link	eBL |KA×GAR| https://www.ebl.lmu.de/signs/|KA×GAR|
 @link	Wikidata Q87555700 http://www.wikidata.org/entity/Q87555700
 @form KA
+@list	ASY015
 @oid	o0000260
 @list	BAU233
 @list	ELLES182
@@ -20452,6 +20646,7 @@
 @end sign
 
 @sign |KA×ME|
+@list	ASY019
 @oid	o0001648
 @list	ABZL326
 @list	ELLES187
@@ -20707,6 +20902,7 @@
 @link	eBL |KA×SA| https://www.ebl.lmu.de/signs/|KA×SA|
 @link	Wikidata Q87555756 http://www.wikidata.org/entity/Q87555756
 @form |KA×GAN₂@t|
+@list	ASY017^b
 @oid	o0001626
 @list	ABZL321
 @list	BAU234
@@ -20842,6 +21038,7 @@
 @end sign
 
 @sign |KA×ŠID|
+@list	ASY016
 @oid	o0001675
 @list	ABZL319
 @list	MZL042
@@ -20866,6 +21063,7 @@
 @end sign
 
 @sign |KA×ŠU|
+@list	ASY017
 @oid	o0001676
 @list	ABZL320
 @list	ELLES183
@@ -20895,6 +21093,7 @@
 @link	eBL |KA×ŠU| https://www.ebl.lmu.de/signs/|KA×ŠU|
 @link	Wikidata Q87555763 http://www.wikidata.org/entity/Q87555763
 @form |KA×GAN₂@t|
+@list	ASY017^b
 @oid	o0001626
 @list	BAU234
 @list	ELLES186
@@ -21176,6 +21375,7 @@
 @end sign
 
 @sign KA₂
+@list	ASY099
 @oid	o0000277
 @list	ABZL175
 @list	BAU363
@@ -21249,6 +21449,7 @@
 @end sign
 
 @sign KAB
+@list	ASY064
 @oid	o0000263
 @list	ABZL226
 @list	BAU099
@@ -21308,6 +21509,7 @@
 @end sign
 
 @sign KAD₂
+@list	ASY037
 @oid	o0000265
 @list	MZL108
 @list	SLLHA063a
@@ -21327,6 +21529,7 @@
 @end sign
 
 @sign KAD₃
+@list	ASY038
 @oid	o0000266
 @list	MZL109
 @list	SLLHA063c
@@ -21357,6 +21560,7 @@
 @end sign
 
 @sign KAD₄
+@list	ASY205
 @oid	o0000267
 @list	ABZL227a
 @list	ELLES099
@@ -21402,6 +21606,7 @@
 @end sign
 
 @sign KAD₅
+@list	ASY206
 @oid	o0000268
 @list	ABZL227b
 @list	KWU316
@@ -21466,6 +21671,7 @@
 @end sign
 
 @sign KAK
+@list	ASY145
 @oid	o0000269
 @list	ABZL260
 @list	BAU392
@@ -21558,6 +21764,7 @@
 @end sign
 
 @sign KAL
+@list	ASY173
 @oid	o0000270
 @list	ABZL176
 @list	BAU326
@@ -21717,6 +21924,7 @@
 @end sign
 
 @sign KALAM@g
+@list	ASY165
 @oid	o0000575
 @list	ABZL169
 @list	LAK730
@@ -21742,6 +21950,7 @@
 @end sign
 
 @sign KAM₂
+@list	ASY106
 @oid	o0000272
 @list	MZL595
 @list	SLLHA406v2
@@ -21798,6 +22007,7 @@
 @end sign
 
 @sign KASKAL
+@list	ASY116
 @oid	o0000275
 @list	ABZL271
 @list	BAU128
@@ -22043,6 +22253,7 @@
 @link	eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
 @link	Wikidata Q87555817 http://www.wikidata.org/entity/Q87555817
 @form EZEN
+@list	ASY113
 @oid	o0000177
 @list	BAU298
 @list	ELLES303
@@ -22060,6 +22271,7 @@
 @end sign
 
 @sign KI
+@list	ASY269
 @oid	o0000279
 @list	ABZL432
 @list	BAU191
@@ -22438,6 +22650,7 @@
 @end sign
 
 @sign |KI.MIN|
+@list	ASY269a
 @oid	o0001712
 @useq	x121A0.x1222B
 @ucun	𒆠𒈫
@@ -22802,6 +23015,7 @@
 @end sign
 
 @sign KID
+@list	ASY166
 @oid	o0000281
 @list	ABZL163
 @list	BAU366
@@ -22852,6 +23066,7 @@
 @link	eBL KID https://www.ebl.lmu.de/signs/KID
 @link	Wikidata Q87555828 http://www.wikidata.org/entity/Q87555828
 @form E₂
+@list	ASY174
 @oid	o0000180
 @list	BAU365
 @list	ELLES359
@@ -22914,6 +23129,7 @@
 @compoundonly	|KID&KID|
 
 @sign KIN
+@list	ASY294
 @oid	o0000282
 @list	ABZL447
 @list	BAU111
@@ -22996,6 +23212,7 @@
 @end sign
 
 @sign KISAL
+@list	ASY149
 @oid	o0000284
 @list	ABZL161
 @list	BAU357
@@ -23154,6 +23371,7 @@
 @end sign
 
 @sign KIŠ
+@list	ASY247
 @oid	o0000286
 @list	ABZL291a
 @list	ELLES139
@@ -23219,6 +23437,7 @@
 @end sign
 
 @sign KU
+@list	ASY290
 @oid	o0000289
 @list	ABZL415
 @list	BAU384
@@ -23411,6 +23630,7 @@
 @end sign
 
 @sign KU₃
+@list	ASY272
 @oid	o0000296
 @list	ABZL428
 @list	BAU182
@@ -23490,6 +23710,7 @@
 @link	eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
 @link	Wikidata Q87555853 http://www.wikidata.org/entity/Q87555853
 @form LIL
+@list	ASY188
 @oid	o0000426
 @list	GCSL054
 @list	KWU147
@@ -23574,6 +23795,7 @@
 @end sign
 
 @sign KUL
+@list	ASY045
 @oid	o0000291
 @list	ABZL026
 @list	BAU041
@@ -23620,7 +23842,7 @@
 @@
 @end sign
 
-@listref	RSP086
+@lref	RSP086
 @note Sequence KUL-ABA₄
 
 @sign |KUL.ŠA₃|
@@ -23642,6 +23864,7 @@
 @end sign
 
 @sign KUN
+@list	ASY051
 @oid	o0000293
 @list	ABZL032
 @list	ELLES368
@@ -23672,6 +23895,7 @@
 @link	eBL KUN https://www.ebl.lmu.de/signs/KUN
 @link	Wikidata Q87555865 http://www.wikidata.org/entity/Q87555865
 @form MAŠ₂
+@list	ASY050
 @oid	o0000451
 @list	ABZL031
 @list	BAU046
@@ -23694,6 +23918,7 @@
 @end sign
 
 @sign KUR
+@list	ASY211
 @oid	o0000294
 @list	ABZL369
 @list	BAU418
@@ -23818,6 +24043,7 @@
 @end sign
 
 @sign KUŠU₂
+@list	ASY304
 @oid	o0000295
 @list	ABZL457
 @list	ELLES175
@@ -24032,6 +24258,7 @@
 @end sign
 
 @sign LA
+@list	ASY027
 @oid	o0000305
 @list	ABZL177
 @list	BAU205
@@ -24075,6 +24302,7 @@
 @end sign
 
 @sign LAGAB
+@list	ASY280
 @oid	o0000306
 @list	ABZL402
 @list	BAU261
@@ -24182,6 +24410,7 @@
 @end sign
 
 @sign |LAGAB.LAGAB|
+@list	ASY286
 @oid	o0001772
 @list	ABZL403
 @list	LAK767
@@ -24233,6 +24462,7 @@
 @end sign
 
 @sign |LAGAB×A|
+@list	ASY285
 @oid	o0001800
 @list	ABZL414
 @list	BAU271
@@ -24293,6 +24523,7 @@
 @link	eBL |LAGAB×A| https://www.ebl.lmu.de/signs/|LAGAB×A|
 @link	Wikidata Q87555881 http://www.wikidata.org/entity/Q87555881
 @form A
+@list	ASY311
 @oid	o0000087
 @list	BAU416
 @list	ELLES393
@@ -24745,6 +24976,7 @@
 @end sign
 
 @sign |LAGAB×(GUD&GUD)|
+@list	ASY282
 @oid	o0001778
 @pname	|LAGAB×GUD+GUD|
 @list	ABZL399
@@ -24917,6 +25149,7 @@
 @end sign
 
 @sign |LAGAB×IM|
+@list	ASY018
 @oid	o0001818
 @list	MZL785
 @list	SLLHA510
@@ -25190,6 +25423,7 @@
 @end sign
 
 @sign |LAGAB×SUM|
+@list	ASY281
 @oid	o0001832
 @list	ABZL413
 @list	ELLES383
@@ -25390,6 +25624,7 @@
 @end sign
 
 @sign |LAGAB×U|
+@list	ASY283
 @oid	o0001838
 @list	ABZL410
 @list	BAU267
@@ -25469,6 +25704,7 @@
 @end sign
 
 @sign |LAGAB×(U.U.U)|
+@list	ASY284
 @oid	o0001788
 @pname	|LAGAB×U+U+U|
 @aka	|LAGAB×EŠ|
@@ -25713,6 +25949,7 @@
 @compoundonly	|LAGAR&LAGAR|
 
 @sign LAGAR@g
+@list	ASY268
 @oid	o0000308
 @list	ABZL311
 @list	ELLES174
@@ -25739,6 +25976,7 @@
 @end sign
 
 @sign |LAGAR@g.DU|
+@list	ASY268a
 @oid	o0001850
 @list	KWU413
 @list	RSP145
@@ -25842,6 +26080,7 @@
 @end sign
 
 @sign LAL
+@list	ASY277
 @oid	o0000422
 @list	ABZL391
 @list	BAU292
@@ -25902,6 +26141,7 @@
 @end sign
 
 @sign |LAL.LAGAB|
+@list	ASY277a
 @oid	o0001888
 @list	RSP041
 @useq	x121F2.x121B8
@@ -25955,6 +26195,7 @@
 @end sign
 
 @sign LAL₂
+@list	ASY278
 @oid	o0000423
 @list	ABZL902
 @list	ELLES371
@@ -26097,6 +26338,7 @@
 @end sign
 
 @sign |LAL₂.SAR|
+@list	ASY279
 @oid	o0001898
 @list	ABZL467
 @list	LAK761
@@ -26211,6 +26453,7 @@
 @end sign
 
 @sign LAM
+@list	ASY254
 @oid	o0000424
 @list	ABZL244
 @list	BAU120
@@ -26259,6 +26502,7 @@
 @end sign
 
 @sign |LAM×KUR|
+@list	ASY254a
 @oid	o0001906
 @list	BAU121
 @list	ELLES113
@@ -27799,6 +28043,7 @@
 @end sign
 
 @sign LI
+@list	ASY031
 @oid	o0000425
 @list	ABZL381
 @list	BAU131
@@ -27834,6 +28079,7 @@
 @end sign
 
 @sign LIL
+@list	ASY188
 @oid	o0000426
 @aka	REC56
 @list	ABZL091
@@ -27961,6 +28207,7 @@
 @end sign
 
 @sign LIŠ
+@list	ASY220
 @oid	o0000431
 @list	ABZL232
 @list	HZL286
@@ -27990,6 +28237,7 @@
 @end sign
 
 @sign LU
+@list	ASY292
 @oid	o0000433
 @list	ABZL416
 @list	BAU272
@@ -28018,6 +28266,7 @@
 @link	eBL LU https://www.ebl.lmu.de/signs/LU
 @link	Wikidata Q87556014 http://www.wikidata.org/entity/Q87556014
 @form DIB
+@list	ASY293
 @list LAK780
 @oid	o0221968
 @inote @v	dibₓ
@@ -28122,6 +28371,7 @@
 @end sign
 
 @sign LU₂
+@list	ASY180
 @oid	o0000439
 @list	ABZL253
 @list	BAU236
@@ -28349,6 +28599,7 @@
 @end sign
 
 @sign |LU₂×BAD|
+@list	ASY181
 @oid	o0001967
 @list	ABZL256
 @list	BAU237
@@ -28993,6 +29244,7 @@
 @end sign
 
 @sign LU₃
+@list	ASY196
 @oid	o0000443
 @list	ABZL216
 @list	BAU288
@@ -29056,6 +29308,7 @@
 @end sign
 
 @sign LUGAL
+@list	ASY112
 @oid	o0000434
 @list	ABZL221a
 @list	ELLES094
@@ -29192,6 +29445,7 @@
 @end sign
 
 @sign LUH
+@list	ASY172
 @oid	o0000436
 @list	ABZL196
 @list	BAU092
@@ -29237,6 +29491,7 @@
 @end sign
 
 @sign LUL
+@list	ASY207
 @oid	o0000437
 @list	ABZL296
 @list	BAU103a
@@ -29389,6 +29644,7 @@
 @end sign
 
 @sign LUM
+@list	ASY307
 @oid	o0000438
 @list	ABZL248
 @list	BAU123
@@ -29505,6 +29761,7 @@
 @end sign
 
 @sign MA
+@list	ASY193
 @oid	o0000444
 @list	ABZL166
 @list	BAU028
@@ -29581,6 +29838,7 @@
 @end sign
 
 @sign MA₂
+@list	ASY088
 @oid	o0000452
 @list	ABZL050
 @list	ELLES282
@@ -29709,6 +29967,7 @@
 @end sign
 
 @sign MAH
+@list	ASY029
 @oid	o0000446
 @list	ABZL006
 @list	GCSL023
@@ -29746,6 +30005,7 @@
 @end sign
 
 @sign MAR
+@list	ASY162
 @oid	o0000448
 @list	ABZL144
 @list	BAU078
@@ -29782,6 +30042,7 @@
 @end sign
 
 @sign MAŠ
+@list	ASY047
 @oid	o0000449
 @list	ABZL029
 @list	BAU045
@@ -29974,6 +30235,7 @@
 @end sign
 
 @sign MAŠ₂
+@list	ASY050
 @oid	o0000451
 @list	ABZL031
 @list	BAU046
@@ -30013,6 +30275,7 @@
 @end sign
 
 @sign ME
+@list	ASY287
 @oid	o0000453
 @list	ABZL392
 @list	BAU289
@@ -30086,6 +30349,7 @@
 @end sign
 
 @sign |ME.U.U.U|
+@list	ASY288
 @oid	o0002011
 @list	ABZL903
 @list	HZL360
@@ -30104,6 +30368,7 @@
 @end sign
 
 @sign MES
+@list	ASY168
 @oid	o0000454
 @list	ABZL112a
 @list	BAU077
@@ -30149,6 +30414,7 @@
 @end sign
 
 @sign MI
+@list	ASY248
 @oid	o0000455
 @list	ABZL348
 @list	BAU173
@@ -30242,6 +30508,7 @@
 @end sign
 
 @sign MIN
+@list	ASY308a
 @oid	o0000456
 @list	ABZL465
 @list	HZL361
@@ -30274,6 +30541,7 @@
 @compoundonly	|MIN×IGI|
 
 @sign MU
+@list	ASY035
 @oid	o0000457
 @list	ABZL020
 @list	BAU026
@@ -30342,6 +30610,7 @@
 @end sign
 
 @sign |MU&MU|
+@list	ASY119
 @oid	o0002016
 @list	ABZL142
 @list	GCSL052
@@ -30391,6 +30660,7 @@
 @end sign
 
 @sign MUG
+@list	ASY003
 @oid	o0000458
 @list	ABZL012
 @list	ELLES029
@@ -30546,6 +30816,7 @@
 @end sign
 
 @sign MUŠ
+@list	ASY216
 @oid	o0000463
 @list	ABZL267
 @list	BAU152
@@ -30864,6 +31135,8 @@
 @end sign
 
 @sign MUŠ₃
+@list	ASY062
+@list	ASY075
 @oid	o0000466
 @list	ABZL044
 @list	BAU249
@@ -30913,12 +31186,9 @@
 @link	eBL MUŠ₃ https://www.ebl.lmu.de/signs/MUŠ₃
 @link	Wikidata Q87556136 http://www.wikidata.org/entity/Q87556136
 @form MUŠ₃@g
+@list	ASY074
 @oid	o0000467
-@v	inana
-@v	muš₃
-@v	suh
-@v	šuh
-@v	sih₄
+@inote ASY organization of MUŠ₃/MUŠ₃@g does not align exactly with OSL.
 @link	eBL MUŠ₃@g https://www.ebl.lmu.de/signs/MUŠ₃@g
 @@
 @end sign
@@ -31218,6 +31488,7 @@
 @end sign
 
 @sign MUŠ₃@g
+@list	ASY074
 @oid	o0000467
 @list	ABZL045
 @list	KWU118
@@ -31498,6 +31769,7 @@
 @end sign
 
 @sign NA
+@list	ASY043
 @oid	o0000469
 @list	ABZL024
 @list	BAU022
@@ -31533,6 +31805,7 @@
 @end sign
 
 @sign NA₂
+@list	ASY250
 @oid	o0000476
 @list	ABZL364
 @list	BAU155
@@ -31575,6 +31848,7 @@
 @end sign
 
 @sign NAGA
+@list	ASY115a
 @oid	o0000470
 @list	ABZL377
 @list	BAU132
@@ -31710,6 +31984,7 @@
 @end sign
 
 @sign NAGAR
+@list	ASY303a
 @oid	o0000473
 @list	ABZL449
 @list	BAU408
@@ -31793,6 +32068,7 @@
 @end sign
 
 @sign NAM
+@list	ASY054
 @oid	o0000474
 @list	ABZL042
 @list	BAU038
@@ -31903,6 +32179,7 @@
 @end sign
 
 @sign NE
+@list	ASY122
 @oid	o0000477
 @list	ABZL116
 @list	ELLES080
@@ -31998,6 +32275,7 @@
 @end sign
 
 @sign |NE.RU|
+@list	ASY123
 @oid	o0002066
 @list	RSP363
 @useq	x12248.x12292
@@ -32063,6 +32341,7 @@
 @end sign
 
 @sign NE@s
+@list	ASY124
 @oid	o0000478
 @list	ABZL117
 @list	BAU103c
@@ -32195,6 +32474,7 @@
 @end sign
 
 @sign NI
+@list	ASY146
 @oid	o0000479
 @list	ABZL261
 @list	BAU406
@@ -32342,6 +32622,7 @@
 @end sign
 
 @sign |NI.UD|
+@list	ASY143
 @oid	o0002079
 @list	ABZL262
 @list	BAU407
@@ -32543,6 +32824,7 @@
 @end sign
 
 @sign NIM
+@list	ASY251
 @oid	o0000482
 @list	ABZL355
 @list	BAU141?
@@ -32592,6 +32874,7 @@
 @end sign
 
 @sign |NIM×GAN₂@t|
+@list	ASY252
 @oid	o0002081
 @list	ABZL356
 @list	ELLES155
@@ -32616,6 +32899,7 @@
 @link	eBL |NIM×GAN₂@t| https://www.ebl.lmu.de/signs/|NIM×GAN₂@t|
 @link	Wikidata Q87556179 http://www.wikidata.org/entity/Q87556179
 @form NIM
+@list	ASY251
 @oid	o0000482
 @list	BAU141?
 @list	ELLES154
@@ -32633,6 +32917,7 @@
 @end sign
 
 @sign |NIM×(GAR.GAN₂@t)|
+@list	ASY253
 @oid	o0002080
 @pname	|NIM×GAR+GAN₂@t|
 @list	MZL692
@@ -32679,6 +32964,7 @@
 @end sign
 
 @sign |NINDA₂×AN|
+@list	ASY125
 @oid	o0002095
 @list	HZL103
 @list	MZL320
@@ -32947,6 +33233,7 @@
 @end sign
 
 @sign |NINDA₂×NE|
+@list	ASY126
 @oid	o0002109
 @list	ABZL136
 @list	BAU068
@@ -33011,6 +33298,7 @@
 @end sign
 
 @sign |NINDA₂×ŠE|
+@list	ASY127
 @oid	o0002118
 @list	BAU066
 @list	KWU160
@@ -33381,6 +33669,7 @@
 @end sign
 
 @sign NU
+@list	ASY049
 @oid	o0000487
 @list	ABZL019
 @list	BAU020
@@ -33622,6 +33911,7 @@
 @end sign
 
 @sign NUN
+@list	ASY063
 @oid	o0000488
 @list	ABZL047
 @list	BAU058
@@ -33674,10 +33964,11 @@
 @link	Wikidata Q87556213 http://www.wikidata.org/entity/Q87556213
 @end sign
 
-@listref RSP097
+@lref RSP097
 @note Sequence NUN-KI(-GA) eridu{ki}(-ga).
 
 @sign |NUN.LAGAR|
+@list	ASY063a
 @oid	o0002125
 @list	ABZL048
 @list	BAU060
@@ -33770,6 +34061,7 @@
 @inote	SF 081 r i 10-11
 @@
 @form |NUN.LAGAR|
+@list	ASY063a
 @oid	o0002125
 @list	BAU060
 @list	GCSL042
@@ -33943,6 +34235,7 @@
 @end sign
 
 @sign |NUN&NUN|
+@list	ASY175
 @oid	o0002123
 @list	ABZL148
 @list	BAU059
@@ -34045,6 +34338,7 @@
 @link	eBL NUN@t https://www.ebl.lmu.de/signs/NUN@t
 @link	Wikidata Q87556224 http://www.wikidata.org/entity/Q87556224
 @form NUN
+@list	ASY063
 @oid	o0000488
 @inote	dsst P251917 9 = Bird and Fish 117
 @@
@@ -34534,16 +34828,19 @@
 @link	eBL P₂ https://www.ebl.lmu.de/signs/P₂
 @link	Wikidata Q87557084 http://www.wikidata.org/entity/Q87557084
 @form AŠ@t
+@list	ASY209
 @oid	o0000108
 @inote	Amarna
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
 @@
 @form DIŠ
+@list	ASY276
 @oid	o0000145
 @inote	Amarna
 @link	eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
 @@
 @form GAM
+@list	ASY210
 @oid	o0000196
 @list	GCSL091
 @inote	Amarna
@@ -34555,12 +34852,14 @@
 @link	eBL GE₂₂ https://www.ebl.lmu.de/signs/GE₂₂
 @@
 @form U
+@list	ASY242
 @oid	o0000561
 @list	GCSL176
 @inote	Amarna
 @link	eBL U https://www.ebl.lmu.de/signs/U
 @@
 @form |U.U|
+@list	ASY274
 @oid	o0002475
 @inote	Amarna
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
@@ -34609,6 +34908,7 @@
 @end sign
 
 @sign PA
+@list	ASY153
 @oid	o0000497
 @list	ABZL143
 @list	BAU072
@@ -34965,6 +35265,7 @@
 @end sign
 
 @sign |PA.IB|
+@list	ASY154
 @oid	o0002193
 @list	HZL175
 @list	KWU198
@@ -35013,6 +35314,7 @@
 @end sign
 
 @sign |PA.LU|
+@list	ASY155
 @oid	o0002198
 @list	GCSL057
 @list	HZL177
@@ -35074,6 +35376,7 @@
 @end sign
 
 @sign |PA.ME.U.U.U|
+@list	ASY153
 @oid	o0002200
 @useq	x1227A.x1238C
 @ucun	𒉺𒎌
@@ -35112,6 +35415,7 @@
 @ucun	𒉺𒊩𒄸𒁺
 @v	rigₓ
 @form DU
+@list	ASY135
 @oid	o0000149
 @list	BAU374
 @list	ELLES252
@@ -35243,6 +35547,7 @@
 @v	nuška
 @link	eBL |PA.TUG₂| https://www.ebl.lmu.de/signs/|PA.TUG₂|
 @form |PA.LU|
+@list	ASY155
 @oid	o0002198
 @useq	x1227A.x121FB
 @list	GCSL057
@@ -35300,6 +35605,7 @@
 @inote	added during ogsl upgrade
 
 @sign PAD
+@list	ASY273
 @oid	o0000498
 @list	ABZL362
 @list	BAU180
@@ -35400,6 +35706,7 @@
 @end sign
 
 @sign PAN
+@list	ASY256
 @oid	o0000499
 @list	ABZL027
 @list	ELLES023
@@ -35438,6 +35745,7 @@
 @end sign
 
 @sign PAP
+@list	ASY032
 @oid	o0000500
 @list	ABZL249
 @list	BAU126
@@ -35482,6 +35790,7 @@
 @end sign
 
 @sign |PAP.HAL|
+@list	ASY033
 @oid	o0002222
 @list	HZL256(2)
 @list	MZL093
@@ -35555,6 +35864,7 @@
 @end sign
 
 @sign |PAP.PAP|
+@list	ASY034
 @oid	o0002231
 @list	ABZL264
 @list	BAU147
@@ -35697,6 +36007,7 @@
 @end sign
 
 @sign PI
+@list	ASY223
 @oid	o0000502
 @list	ABZL370
 @list	BAU247
@@ -35909,6 +36220,7 @@
 @end sign
 
 @sign PIR₂
+@list	ASY227
 @oid	o0032009
 @list	MZL613
 @list	SYA199
@@ -35957,6 +36269,7 @@
 @link	eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
 @link	Wikidata Q87556288 http://www.wikidata.org/entity/Q87556288
 @form |PIRIG×UD|
+@list	ASY096
 @oid	o0002244
 @list	GCSL132
 @list	GCSL133
@@ -36078,6 +36391,7 @@
 @end sign
 
 @sign |PIRIG×UD|
+@list	ASY096
 @oid	o0002244
 @list	ABZL179
 @list	GCSL132
@@ -36132,6 +36446,7 @@
 @end sign
 
 @sign |PIRIG×ZA|
+@list	ASY097
 @oid	o0002245
 @list	ABZL180
 @list	BAU164
@@ -36183,6 +36498,7 @@
 @end sign
 
 @sign RA
+@list	ASY178
 @oid	o0000510
 @list	ABZL194
 @list	BAU273
@@ -36215,6 +36531,7 @@
 @end sign
 
 @sign RAB
+@list	ASY111
 @oid	o0000511
 @list	ABZL221b
 @list	MZL262
@@ -36304,6 +36621,7 @@
 @end sign
 
 @sign RI
+@list	ASY061
 @oid	o0000514
 @list	ABZL039
 @list	ELLES046
@@ -36341,6 +36659,7 @@
 @link	eBL RI https://www.ebl.lmu.de/signs/RI
 @link	Wikidata Q87556300 http://www.wikidata.org/entity/Q87556300
 @form HU
+@list	ASY052
 @oid	o0000239
 @list	GCSL031
 @list	PTACE040
@@ -36397,6 +36716,7 @@
 @end sign
 
 @sign RU
+@list	ASY041
 @oid	o0000516
 @list	ABZL060
 @list	BAU145
@@ -36452,6 +36772,7 @@
 @end sign
 
 @sign SA
+@list	ASY076
 @oid	o0000517
 @list	ABZL147
 @list	BAU361
@@ -36491,6 +36812,7 @@
 @end sign
 
 @sign SAG
+@list	ASY087
 @oid	o0000518
 @list	ABZL309
 @list	BAU228
@@ -37032,6 +37354,7 @@
 @end sign
 
 @sign SAG@g
+@list	ASY179
 @oid	o0000519
 @list	ABZL331
 @list	BAU229
@@ -37069,6 +37392,7 @@
 @link	eBL SAG@g https://www.ebl.lmu.de/signs/SAG@g
 @link	Wikidata Q87556344 http://www.wikidata.org/entity/Q87556344
 @form SAG
+@list	ASY087
 @oid	o0000518
 @list	BAU228
 @list	ELLES178
@@ -37135,6 +37459,7 @@
 @end sign
 
 @sign SAL
+@list	ASY298
 @oid	o0000522
 @list	ABZL450
 @list	BAU138
@@ -37358,6 +37683,7 @@
 @end sign
 
 @sign |SAL.KUR|
+@list	ASY303
 @oid	o0002304
 @list	ABZL459
 @list	BAU398
@@ -37529,6 +37855,7 @@
 @end sign
 
 @sign |SAL.TUG₂|
+@list	ASY300
 @oid	o0002323
 @list	ABZL452
 @list	BAU401
@@ -37659,6 +37986,7 @@
 @end sign
 
 @sign |SAL.UR|
+@list	ASY305
 @oid	o0002327
 @list	ABZL461
 @list	LAK521
@@ -37912,6 +38240,7 @@
 @end sign
 
 @sign SAR
+@list	ASY184
 @oid	o0000524
 @list	ABZL385
 @list	ELLES125
@@ -38012,6 +38341,7 @@
 @end sign
 
 @sign SI
+@list	ASY085
 @oid	o0000525
 @list	ABZL164
 @list	BAU030
@@ -38046,6 +38376,7 @@
 @end sign
 
 @sign |SI.A|
+@list	ASY089
 @oid	o0002337
 @list	ABZL164
 @list	BAU032
@@ -38134,6 +38465,7 @@
 @end sign
 
 @sign SI@g
+@list	ASY086
 @oid	o0000526
 @list	ABZL165
 @list	BAU033
@@ -38173,6 +38505,7 @@
 @end sign
 
 @sign SIG
+@list	ASY320
 @oid	o0000527
 @list	ABZL437
 @list	BAU202
@@ -38272,6 +38605,7 @@
 @link	eBL SIG₄ https://www.ebl.lmu.de/signs/SIG₄
 @link	Wikidata Q87556443 http://www.wikidata.org/entity/Q87556443
 @form LUM
+@list	ASY307
 @oid	o0000438
 @list	BAU123
 @list	ELLES114
@@ -38340,6 +38674,7 @@
 @inote	added during ogsl upgrade
 
 @sign SIK₂
+@list	ASY295
 @oid	o0000529
 @list	ABZL395
 @list	BAU266
@@ -38518,6 +38853,7 @@
 @end sign
 
 @sign SILA₃
+@list	ASY036
 @oid	o0000530
 @list	ABZL269
 @list	BAU139
@@ -38630,6 +38966,7 @@
 @end sign
 
 @sign SU
+@list	ASY006
 @oid	o0000531
 @list	ABZL305
 @list	BAU226
@@ -38770,6 +39107,7 @@
 @link	eBL |SU&SU| https://www.ebl.lmu.de/signs/|SU&SU|
 @link	Wikidata Q87556452 http://www.wikidata.org/entity/Q87556452
 @form SU
+@list	ASY006
 @oid	o0000531
 @list	GCSL137
 @list	PTACE120
@@ -38799,6 +39137,7 @@
 @inote	added during ogsl upgrade
 
 @sign SUD
+@list	ASY215
 @oid	o0000532
 @list	ABZL266
 @list	BAU149
@@ -38833,6 +39172,7 @@
 @link	eBL SUD https://www.ebl.lmu.de/signs/SUD
 @link	Wikidata Q87556455 http://www.wikidata.org/entity/Q87556455
 @form BU
+@list	ASY213
 @oid	o0000124
 @list	BAU148
 @list	ELLES131
@@ -38883,6 +39223,7 @@
 @end sign
 
 @sign SUD₂
+@list	ASY058
 @oid	o0000534
 @list	ABZL038
 @list	ELLES045
@@ -38926,6 +39267,7 @@
 @end sign
 
 @sign SUHUR
+@list	ASY240
 @oid	o0000535
 @list	ABZL384
 @list	BAU215
@@ -38954,6 +39296,7 @@
 @end sign
 
 @sign SUM
+@list	ASY115
 @oid	o0000536
 @list	ABZL388
 @list	BAU125
@@ -39046,6 +39389,7 @@
 @end sign
 
 @sign SUR
+@list	ASY073
 @oid	o0000539
 @list	ABZL056
 @list	BAU024
@@ -39104,6 +39448,7 @@
 @end sign
 
 @sign ŠA
+@list	ASY202
 @oid	o0002824
 @list	ABZL203
 @list	BAU108
@@ -39132,10 +39477,8 @@
 @link	Wikidata Q87556353 http://www.wikidata.org/entity/Q87556353
 @end sign
 
-@listref	RSP324
+@lref	RSP324
 @note Sequence UD-ŠA
-
-
 
 @sign |ŠA.PI|
 @oid	o0031696
@@ -39152,6 +39495,7 @@
 @end sign
 
 @sign ŠA₃
+@list	ASY224
 @oid	o0002828
 @list	ABZL433
 @list	ELLES230
@@ -39467,6 +39811,7 @@
 @end sign
 
 @sign ŠA₆
+@list	ASY208
 @oid	o0002829
 @list	ABZL228
 @list	BAU124
@@ -39588,6 +39933,7 @@
 @end sign
 
 @sign ŠAR₂
+@list	ASY230
 @oid	o0002827
 @list	ABZL277
 @list	ELLES397
@@ -39769,6 +40115,7 @@
 @end sign
 
 @sign ŠE
+@list	ASY212
 @oid	o0002831
 @list	ABZL378
 @list	BAU025
@@ -39910,6 +40257,7 @@
 @end sign
 
 @sign |ŠE.HU|
+@list	ASY214
 @oid	o0002714
 @list	ABZL379
 @list	BAU035
@@ -40057,6 +40405,7 @@
 @end sign
 
 @sign |ŠE.NUN&NUN|
+@list	ASY217
 @oid	o0002726
 @list	ABZL380
 @list	ELLES119
@@ -40477,6 +40826,7 @@
 @end sign
 
 @sign ŠEN
+@list	ASY007
 @oid	o0002833
 @list	ABZL306
 @list	BAU360
@@ -40513,6 +40863,7 @@
 @end sign
 
 @sign ŠEŠ
+@list	ASY182
 @oid	o0002834
 @list	ABZL021b
 @list	BAU011
@@ -40611,6 +40962,7 @@
 @end sign
 
 @sign |ŠEŠ.KI|
+@list	ASY183
 @oid	o0002740
 @list	ABZL022
 @list	GCSL008
@@ -40688,6 +41040,7 @@
 @end sign
 
 @sign ŠID
+@list	ASY167
 @oid	o0002837
 @list	ABZL212
 @list	BAU371
@@ -40896,6 +41249,7 @@
 @end sign
 
 @sign ŠIM
+@list	ASY141
 @oid	o0002838
 @list	ABZL083
 @list	BAU353
@@ -41178,6 +41532,7 @@
 @oid	o0001429
 @@
 @form ŠIM
+@list	ASY141
 @oid	o0002838
 @list	BAU353
 @list	ELLES319
@@ -41367,6 +41722,7 @@
 @end sign
 
 @sign ŠIR
+@list	ASY044
 @oid	o0002840
 @list	ABZL028
 @list	BAU015
@@ -41548,6 +41904,7 @@
 @end sign
 
 @sign ŠU
+@list	ASY203
 @oid	o0002845
 @list	ABZL225
 @list	BAU096
@@ -41913,6 +42270,7 @@
 @end sign
 
 @sign |ŠU.MIN|
+@list	ASY204
 @oid	o0002797
 @list	SYA178
 @useq	x122D7.x1222B
@@ -41924,6 +42282,7 @@
 @end sign
 
 @sign |ŠU.MIN.ME.U.U.U|
+@list	ASY204a
 @oid	o0002796
 @useq	x122D7.x1222B.x1238C
 @ucun	𒋗𒈫𒎌
@@ -42010,6 +42369,7 @@
 @end sign
 
 @sign ŠU₂
+@list	ASY296
 @oid	o0002850
 @list	ABZL422
 @list	ELLES210
@@ -42080,6 +42440,7 @@
 @v	šuhub
 @link	eBL |ŠU₂.3×AN| https://www.ebl.lmu.de/signs/|ŠU₂.3×AN|
 @form |3×AN|
+@list	ASY095
 @oid	o0000642
 @list	BAU008
 @list	ELLES006b
@@ -42350,6 +42711,7 @@
 @end sign
 
 @sign ŠUBUR
+@list	ASY026
 @oid	o0002848
 @list	ABZL004
 @list	BAU018
@@ -42416,6 +42778,7 @@
 @end sign
 
 @sign TA
+@list	ASY102
 @oid	o0000541
 @list	ABZL123
 @list	BAU346
@@ -42451,6 +42814,7 @@
 @inote	added during ogsl upgrade
 
 @sign |TA×HI|
+@list	ASY082
 @oid	o0002407
 @list	ABZL124
 @list	BAU345
@@ -42551,6 +42915,7 @@
 @end sign
 
 @sign TAB
+@list	ASY090
 @oid	o0000544
 @list	ABZL109
 @list	BAU064
@@ -42728,6 +43093,7 @@
 @end sign
 
 @sign TAG
+@list	ASY092
 @oid	o0000546
 @list	ABZL121
 @list	BAU356
@@ -42955,6 +43321,7 @@
 @end sign
 
 @sign TAK₄
+@list	ASY040
 @oid	o0000547
 @list	ABZL058
 @list	BAU118
@@ -43034,6 +43401,7 @@
 @compoundonly	TAK₄@f
 
 @sign TAR
+@list	ASY011
 @oid	o0000548
 @list	ABZL231
 @list	BAU117
@@ -43119,6 +43487,7 @@
 @end sign
 
 @sign TE
+@list	ASY218
 @oid	o0000550
 @list	ABZL289
 @list	BAU195
@@ -43169,6 +43538,7 @@
 @end sign
 
 @sign |TE.A|
+@list	ASY219
 @oid	o0002412
 @list	ABZL290
 @list	BAU196
@@ -43258,6 +43628,7 @@
 @end sign
 
 @sign TE@g
+@list	ASY030a
 @oid	o0000551
 @list	ABZL283
 @list	ELLES208
@@ -43305,6 +43676,7 @@
 @list	RSP329
 @@
 @form TE
+@list	ASY218
 @oid	o0000550
 @list	BAU195
 @list	ELLES203
@@ -43334,6 +43706,7 @@
 @end sign
 
 @sign TI
+@list	ASY046
 @oid	o0000553
 @list	ABZL023
 @list	BAU023
@@ -43387,6 +43760,7 @@
 @end sign
 
 @sign TI₂
+@list	ASY231
 @oid	o0027220
 @list	HZL335
 @list	MZL633
@@ -43437,6 +43811,7 @@
 @end sign
 
 @sign TU
+@list	ASY030
 @oid	o0000556
 @list	ABZL382
 @list	BAU133
@@ -43591,6 +43966,7 @@
 @compoundonly	|TUG₂&TUG₂|
 
 @sign TUK
+@list	ASY309
 @oid	o0000558
 @list	ABZL444
 @list	BAU283
@@ -43644,6 +44020,7 @@
 @end sign
 
 @sign TUM
+@list	ASY137
 @oid	o0000559
 @list	ABZL075
 @list	BAU378
@@ -43745,6 +44122,7 @@
 @end sign
 
 @sign TUR
+@list	ASY107
 @oid	o0000560
 @list	ABZL393
 @list	BAU415
@@ -43944,6 +44322,7 @@
 @end sign
 
 @sign U
+@list	ASY242
 @oid	o0000561
 @list	ABZL337
 @list	GCSL176
@@ -44050,6 +44429,7 @@
 @v	kiriₓ
 @link	eBL |U.AD| https://www.ebl.lmu.de/signs/|U.AD|
 @form AD
+@list	ASY108
 @oid	o0000092
 @list	BAU311
 @list	ELLES311
@@ -44245,6 +44625,7 @@
 @end sign
 
 @sign |U.GUD|
+@list	ASY258
 @oid	o0002459
 @list	ABZL344
 @list	BAU221
@@ -44294,6 +44675,7 @@
 @end sign
 
 @sign |U.KA|
+@list	ASY243
 @oid	o0002461
 @list	ABZL358
 @list	HZL272
@@ -44470,6 +44852,7 @@
 @end sign
 
 @sign |U.TUG₂|
+@list	ASY267
 @oid	o0002468
 @list	ABZL360
 @list	GCSL185
@@ -44491,6 +44874,7 @@
 @end sign
 
 @sign |U.U|
+@list	ASY274
 @oid	o0002475
 @aka	MAN
 @aka	00~b
@@ -44561,6 +44945,7 @@
 @end sign
 
 @sign |U.U.U|
+@list	ASY275
 @oid	o0002471
 @aka	00~d
 @list	ABZL366
@@ -44843,6 +45228,7 @@
 @compoundonly	|U@v&U@v|
 
 @sign U₂
+@list	ASY169
 @oid	o0000599
 @list	ABZL146
 @list	BAU091
@@ -44932,6 +45318,7 @@
 @v	kišik
 @link	eBL |U₂.GIR₂@g| https://www.ebl.lmu.de/signs/|U₂.GIR₂@g|
 @form GIR₂
+@list	ASY009
 @oid	o0000213
 @list	GCSL002
 @list	PTACE005
@@ -45153,6 +45540,7 @@
 @end sign
 
 @sign UB
+@list	ASY161
 @oid	o0000564
 @list	ABZL288
 @list	BAU239
@@ -45199,6 +45587,7 @@
 @end sign
 
 @sign UD
+@list	ASY221
 @oid	o0000565
 @list	ABZL332
 @list	BAU197
@@ -45294,7 +45683,7 @@
 @link	Wikidata Q87556540 http://www.wikidata.org/entity/Q87556540
 @end sign
 
-@listref	RSP319
+@lref	RSP319
 @note Sequence DI-UD = salah read {+sa₂}salah.
 
 @sign |UD.A|
@@ -45376,6 +45765,7 @@
 @end sign
 
 @sign |UD.DU|
+@list	ASY222
 @oid	o0002488
 @list	BAU198a
 @list	GCSL173
@@ -45590,6 +45980,7 @@
 @end sign
 
 @sign |UD.KUŠU₂|
+@list	ASY225
 @oid	o0002500
 @list	ABZL333
 @list	KWU345
@@ -45620,6 +46011,7 @@
 @link	eBL |UD.KUŠU₂| https://www.ebl.lmu.de/signs/|UD.KUŠU₂|
 @link	Wikidata Q87556541 http://www.wikidata.org/entity/Q87556541
 @form KUŠU₂
+@list	ASY304
 @oid	o0000295
 @link	eBL KUŠU₂ https://www.ebl.lmu.de/signs/KUŠU₂
 @@
@@ -45871,6 +46263,7 @@
 @end sign
 
 @sign	MURUB₄
+@list	ASY189
 @aka	|UD×(U.U.U)@g|
 @oid	o0000462
 @pname	|UD×U+U+U@g|
@@ -46018,6 +46411,7 @@
 @end sign
 
 @sign UM
+@list	ASY100
 @oid	o0000571
 @list	ABZL113
 @list	GCSL062
@@ -46253,6 +46647,7 @@
 @link	eBL UMUM https://www.ebl.lmu.de/signs/UMUM
 @link	Wikidata Q87556573 http://www.wikidata.org/entity/Q87556573
 @form DE₂
+@list	ASY190
 @oid	o0002529
 @list	LAK156b
 @list	RSP361bis
@@ -46306,6 +46701,7 @@
 @sign UR
 @oid	o0000576
 @list	ABZL400
+@list	ASY310
 @list	BAU284
 @list	ELLES323
 @list	GCSL311
@@ -46371,6 +46767,7 @@
 @end sign
 
 @sign |UR.MAH|
+@list	ASY310a
 @oid	o0002538
 @useq	x12328.x12224
 @ucun	𒌨𒈤
@@ -46480,6 +46877,7 @@
 @end sign
 
 @sign UR₂
+@list	ASY131
 @oid	o0000585
 @list	ABZL072
 @list	BAU382
@@ -46749,6 +47147,7 @@
 @end sign
 
 @sign UR₄
+@list	ASY321
 @oid	o0000588
 @list	ABZL448
 @list	BAU285
@@ -46839,6 +47238,7 @@
 @end sign
 
 @sign URU
+@list	ASY022
 @oid	o0000582
 @list	ABZL181
 @list	BAU336
@@ -46880,6 +47280,7 @@
 @end sign
 
 @sign |URU.ME.U.U.U|
+@list	ASY022a
 @oid	o0002539
 @useq	x12337.x1238C
 @ucun	𒌷𒎌
@@ -47058,6 +47459,7 @@
 @end sign
 
 @sign |URU×GAN₂@t|
+@list	ASY023a
 @oid	o0002561
 @list	ABZL187
 @list	KWU770
@@ -47100,6 +47502,7 @@
 @end sign
 
 @sign |URU×GU|
+@list	ASY023b
 @oid	o0002564
 @list	ABZL185
 @list	ELLES296
@@ -47306,6 +47709,7 @@
 @end sign
 
 @sign |URU×MIN|
+@list	ASY024
 @oid	o0002572
 @list	ABZL189
 @list	ELLES314
@@ -47358,6 +47762,7 @@
 @note	sign is LAK648×IM
 @@
 @form URU
+@list	ASY022
 @oid	o0000582
 @list	BAU336
 @list	ELLES295
@@ -47532,6 +47937,7 @@
 @end sign
 
 @sign |URU×UD|
+@list	ASY023
 @oid	o0002577
 @list	LAK598
 @list	MZL077
@@ -47626,6 +48032,7 @@
 @end sign
 
 @sign URUDA
+@list	ASY098
 @oid	o0000584
 @list	ABZL111
 @list	BAU338
@@ -47721,6 +48128,8 @@
 @end sign
 
 @sign UŠ
+@list	ASY025
+@list	ASY138
 @oid	o0000595
 @list	ABZL068
 @list	ELLES034
@@ -48033,6 +48442,7 @@
 @end sign
 
 @sign UZ₃
+@list	ASY088a
 @oid	o0000594
 @list	ABZL054
 @list	BAU275
@@ -48098,6 +48508,7 @@
 @end sign
 
 @sign UZU
+@list	ASY121
 @oid	o0000592
 @list	ABZL134
 @list	BAU213
@@ -48189,6 +48600,7 @@
 @end sign
 
 @sign ZA
+@list	ASY316
 @oid	o0000603
 @list	ABZL474
 @list	BAU082a
@@ -48268,6 +48680,7 @@
 @end sign
 
 @sign |ZA.GUL|
+@list	ASY318
 @oid	o0002643
 @list	GCSL326
 @list	LAK799
@@ -48465,6 +48878,7 @@
 @end sign
 
 @sign ZAG
+@list	ASY185
 @oid	o0000605
 @list	ABZL206
 @list	BAU158
@@ -48542,6 +48956,7 @@
 @end sign
 
 @sign ZE₂
+@list	ASY109
 @oid	o0000608
 @list	ABZL126
 @list	ELLES287
@@ -48568,6 +48983,7 @@
 @end sign
 
 @sign ZI
+@list	ASY059
 @oid	o0000609
 @list	ABZL041
 @list	BAU258
@@ -48807,6 +49223,7 @@
 @link	eBL ZI₃ https://www.ebl.lmu.de/signs/ZI₃
 @link	Wikidata Q87556717 http://www.wikidata.org/entity/Q87556717
 @form KU
+@list	ASY290
 @oid	o0000289
 @list	GCSL242a
 @inote	a placeholder to think about how to represent things like ZI₃ = zi₃@t but post-ED written with EŠ₂ and post-OB written with "KU"
@@ -48831,6 +49248,7 @@
 @sign ZIB
 @oid	o0000870
 @aka	|AŠ@z&AŠ@z&AŠ@z&AŠ@z|
+@list	ASY228
 @list	MZL628
 @list	SLLHA395
 @list	SYA200
@@ -48859,6 +49277,7 @@
 @end sign
 
 @sign ZIG
+@list	ASY128
 @oid	o0000611
 @list	ABZL140
 @list	MZL336
@@ -48995,6 +49414,7 @@
 @end sign
 
 @sign ZU
+@list	ASY005
 @oid	o0000614
 @list	ABZL304
 @list	BAU224
@@ -49036,6 +49456,7 @@
 @v	abzu
 @link	eBL |ZU.AB| https://www.ebl.lmu.de/signs/|ZU.AB|
 @form DE₂
+@list	ASY190
 @oid	o0000138
 @list	GCSL071
 @list	LAK156b
@@ -49177,6 +49598,7 @@
 @end sign
 
 @sign ZUM
+@list	ASY299
 @oid	o0000617
 @list	ABZL456
 @list	ELLES273
@@ -50540,6 +50962,7 @@
 @end sign
 
 @sign 5(DIŠ)
+@list	ASY324
 @oid	o0000052
 @aka	IA₂
 @list	ABZL476
@@ -50571,6 +50994,7 @@
 @end sign
 
 @sign 6(DIŠ)
+@list	ASY325
 @oid	o0000062
 @aka	AŠ₃
 @aka	00~c
@@ -50924,6 +51348,7 @@
 @end sign
 
 @sign 4(AŠ)
+@list	ASY091
 @oid	o0000034
 @list	ABZL110
 @list	LAK091
