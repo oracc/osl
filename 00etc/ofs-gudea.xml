@@ -39,8 +39,8 @@
       repository.</esp:link></p>
       
       <dl>
-	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-gudea.ttf">Oracc-gudea.vfc</esp:link></dd>
-	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-gudea.ttf">Oracc-gudea.ttf</esp:link></dd>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-gudea.ttf">Oracc-gudea.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-gudea.ttf">Oracc-gudea.ttf</esp:link></dd>
       </dl>
       
       <esp:h>CSS</esp:h>

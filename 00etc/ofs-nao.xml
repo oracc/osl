@@ -12,7 +12,7 @@
 
       <esp:h>About</esp:h>
 
-      <p>Oracc NA Outline was created in 2008 for the Oracc Knowledge and Power.</p>
+      <p>Oracc NA Outline was created in 2008 for the Oracc project Knowledge and Power.</p>
       
       <esp:h>Original Font</esp:h>
 
@@ -30,8 +30,8 @@
       repository.</esp:link></p>
       
       <dl>
-	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-NA-Outline.ttf">Oracc-NA-Outline.vfc</esp:link></dd>
-	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-NA-Outline.ttf">Oracc-NA-Outline.ttf</esp:link></dd>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-NA-Outline.ttf">Oracc-NA-Outline.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-NA-Outline.ttf">Oracc-NA-Outline.ttf</esp:link></dd>
       </dl>
       
       <esp:h>CSS</esp:h>
