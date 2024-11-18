@@ -1,5 +1,11 @@
 <wrapper xmlns:struct="http://oracc.org/ns/esp-struct/1.0">
-  <struct:page file="signlist-x-list-data.xml" id="listdata" type="page"/>
+  <struct:page file="signlist-x-list-data.xml" id="listdata" type="page">
+    <struct:page file="signlist-x-list-ASY.xml" id="listasy" type="page"/>
+    <struct:page file="signlist-x-list-LAK.xml" id="listlak" type="page"/>
+    <struct:page file="signlist-x-list-MZL.xml" id="listmzl" type="page"/>
+    <struct:page file="signlist-x-list-RSP.xml" id="listrsp" type="page"/>
+    <struct:page file="signlist-x-list-SYA.xml" id="listsya" type="page"/>
+  </struct:page>
   <struct:page file="signlist-x-u-data.xml" id="udata" type="page"/>
   <struct:page file="signlist-x-sortorder.xml" id="sortorder" type="page"/>
   <struct:page file="signlist-x-pua-91.xml" id="pua91" type="page"/>  

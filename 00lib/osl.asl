@@ -4310,7 +4310,7 @@
 @sign |AŠ@k&AŠ@k&AŠ@k&AŠ@k|
 @oid	o0000869
 @list	SLLHA395v
-@inote	sign only attested in MA Ea (VAT 9541 iii20' and 13), a text that has many obscure signs and readings. Not recognized in MZL.
+@inote	sign only attested in MA Ea (VAT 9541 iii 20' and 13), a text that has many obscure signs and readings. Not recognized in MZL.
 @uname	CUNEIFORM SIGN ZIB KABA TENU
 @list	U+12367
 @ucun	𒍧
