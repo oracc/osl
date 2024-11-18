@@ -61,7 +61,7 @@
       <p>It is likely that Oracc will use CVNN to provide alternate
       groups of sign-forms in certain fonts.  For example, an Early
       Dynastic font may have reference forms in the primary set, Fara
-      forms in ss01, and Abu Salabikh in ss02.  In addition, it
+      forms in ss01, and Abu Salabikh in ss02.  In addition,
       important groups of texts such as the Blau Monuments or CBS
       10000 and related documents could have distinctive sign forms
       implemented via the CVNN feature.</p>
@@ -91,14 +91,6 @@
       be treated as two characters or a single ligatured character as
       required (scribes sometimes mix their use on a single
       tablet).</p>
-
-      <esp:h>Fonts</esp:h>
-
-      <p>Some fonts are extremely inclusive and attempt to capture the
-      entire history of cuneiform signs in a single font, some reflect
-      only a single period or sub-corpus, and some fall somewhere in
-      between.  <esp:link page="fonts">See the fonts page for
-      information on each of the Oracc fonts.</esp:link>.</p>
       
     </body>
   </html>
