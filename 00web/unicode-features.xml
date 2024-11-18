@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml"
+	  xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>Unicode Features</esp:name>
+  <esp:title>Unicode Features</esp:title>
+  <html>
+    <head/>
+    <body>
+\
+      <esp:h>Unicode Features</esp:h>
+
+      <p>Oracc, OSL, and other Oracc sign lists aim to be completely
+      conformant to the Unicode standard while supporting paleographic
+      fidelity down to the level of individual handwriting as well as
+      the best degree of automated cuneiform typography that is
+      reasonably possible.</p>
+      
+      <esp:sh>The Unicode Private Use Area (PUA)</esp:sh>
+
+      <p>Oracc uses the Unicode Plane 15 PUA from F0000-FFFFD as a
+      space to create signs pending possible encoding, and to maintain
+      variant forms of signs that do not merit separate encoding
+      ("impossible" numbers like 4(eše@c) would fall into this
+      category, for example). All management of the Oracc PUA is
+      consolidated in the OSL project and is further described on the
+      <esp:link page="oracc-pua">Oracc PUA page</esp:link>.</p>
+
+      <esp:sh>Unicode Ideographic Variation Sequences (IVS)</esp:sh>
+
+      <p>An IVS consists of a two parts: a sign and a variant
+      selector.  Oracc uses IVS to support encoding structurally
+      distinct graphic variants of the same sign in such a way that
+      both the identity of the sign and the identity of the structural
+      variant are preserved.  IVS provides a means of preserving the
+      integrity of paleographic differences without requiring
+      additional character encodings.</p>
+
+      <p>For example, the DE₂ sign U+12423 can be written in several
+      different ways: |UMUM×KASKAL| (the reference glyph in the
+      Unicode Standard); UMUM@s; and |UMUM×PA|.  If a font supports
+      IVS sequences such as u12423_uE0100=|UMUM×KASKAL|;
+      u12423_uE0101=UMUM@s; u12433_uE0102 then it is possible to
+      encode the data so that the Unicode sign U+12423=DE₂ is still
+      the primary data element, but the way that it is written is also
+      preserved.  See the <esp:link page="oracc-ivs">Oracc IVS
+      page</esp:link> for further details.</p>
+
+      <p>For conciseness and legibility Oracc documentation notates
+      IVS in font character naming form, e.g., u12423_uE0102.  In some
+      contexts an abbreviated notation is used, i.e.,
+      [CHARACTER-NAME].eNN, were NN are the last two digits of an IVS
+      selector.</p>
+
+      <p>The Oracc implementation of this feature is immature and
+      presently non-compliant with the Unicode standard.</p>
+
+      <esp:h>Other Mechanisms</esp:h>
+      
+      <p>Oracc uses OpenType SSET and SALT for other kinds of graphic
+      variation as described on <esp:link page="opentype-features">the
+      OpenType Features page</esp:link>.</p>
+
+    </body>
+  </html>
+</esp:page>
+

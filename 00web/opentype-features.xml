@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml"
+	  xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>OpenType Features</esp:name>
+  <esp:title>OpenType Features</esp:title>
+  <html>
+    <head/>
+    <body>
+ 
+      <esp:h>OpenType Features</esp:h>
+
+      <esp:p>OpenType is a widely-used font type created by Microsoft
+      and Adobe which provides many features for advanced typography.
+      Oracc uses only three OpenType features at present: SSET, SALT,
+      and LIGA.</esp:p>
+      
+      <esp:sh>Sylistic Sets (SSET)</esp:sh>
+      
+      <p>An OpenType font can have up to twenty Stylistic Sets,
+      indicated as ss01, ss02 .. ss20.  Oracc uses SSET for
+      collections of variations which correspond to usages typical of
+      a period, styles related to a medium, or general handwriting
+      styles.  For example, Oracc uses ss01 for early writing styles
+      which exhibit certain mergers that take place immediately after
+      the Fara period; ss02 for middle period mergers; ss03 for later
+      mergers and splits.  Sset ss04 is reserved for monumental
+      script--so a Neo-Babylonian font could have sign forms typical
+      of writing on stone in ss04, for example. Sset ss05 is reserved
+      for cursive style writing.</p>
+
+      <esp:sh>Character Variants (CVNN)</esp:sh>
+
+      <p>An OpenType font may have up to ninety-nine character
+      variants.  The following explananation of CVNN is to be found in
+      the <esp:link
+      url="https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#tag-cv01--cv99">Learn/Microsoft
+      Typography description of Tag: 'cv01' – 'cv99'</esp:link>:</p>
+
+      <blockquote>
+	The function of these features is similar to the function of
+	the Stylistic Alternates feature ('salt') and the Stylistic
+	Set features (see 'ss01' – 'ss20'). Whereas the Stylistic Set
+	features assume recurring stylistic variations that apply to a
+	broad set of Unicode characters, however, these features are
+	intended for scenarios in which particular characters have
+	variations not applicable to a broad set of characters. The
+	Stylistic Alternates feature provides access to glyph variants
+	but does not allow an application to control these on a
+	character-by-character basis; the Character Variant features
+	provide the greater granularity of control.
+      </blockquote>
+
+      <p>The kinds of character variation that Oracc might use with
+      CV--stacking pattern variations, character composition
+      variations--can also be supported with IVS (see above).  Because
+      of the 99 CV limit imposed by OpenType fonts it is preferable to
+      support these kinds of variation through the IVS mechanism.</p>
+
+      <p>It is likely that Oracc will use CVNN to provide alternate
+      groups of sign-forms in certain fonts.  For example, an Early
+      Dynastic font may have reference forms in the primary set, Fara
+      forms in ss01, and Abu Salabikh in ss02.  In addition, it
+      important groups of texts such as the Blau Monuments or CBS
+      10000 and related documents could have distinctive sign forms
+      implemented via the CVNN feature.</p>
+      
+      <esp:sh>Stylistic Alternates (SALT)</esp:sh>
+
+      <p>Oracc uses SALT to support creating fonts which contain
+      examples of minor variations in form that may be specific to an
+      instance, a scribe, or a school--many sign lists that are
+      restricted to a particular period or corpus demonstrate several
+      variant forms of signs, and a font that emulates such a list can
+      use SALT to encode these variants.</p>
+
+      <p>SALT variations are font-specific and do not need to be
+      aligned or harmonized across fonts.</p>
+
+      <esp:sh>Ligatures (LIGA)</esp:sh>
+
+      <p>There are several kinds of OpenType ligatures, but Oracc
+      consistently uses the LIGA feature ("Standard Ligatures") which
+      are automatically selected in a font when the components occur
+      in sequence.</p>
+
+      <p>Some ligatures are defined to work only when there is a
+      U+200D, Zero-Width Joiner (ZWJ) character between the
+      components.  For example, this allows the sequence diŋir-en to
+      be treated as two characters or a single ligatured character as
+      required (scribes sometimes mix their use on a single
+      tablet).</p>
+
+      <esp:h>Fonts</esp:h>
+
+      <p>Some fonts are extremely inclusive and attempt to capture the
+      entire history of cuneiform signs in a single font, some reflect
+      only a single period or sub-corpus, and some fall somewhere in
+      between.  <esp:link page="fonts">See the fonts page for
+      information on each of the Oracc fonts.</esp:link>.</p>
+      
+    </body>
+  </html>
+</esp:page>
+
