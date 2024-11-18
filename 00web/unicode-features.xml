@@ -12,7 +12,7 @@
       <p>Oracc, OSL, and other Oracc sign lists aim to be completely
       conformant to the Unicode standard while supporting paleographic
       fidelity down to the level of individual handwriting as well as
-      the best degree of automated cuneiform typography that is
+      the highest degree of automated cuneiform typography that is
       reasonably possible.</p>
       
       <esp:h>The Unicode Private Use Area (PUA)</esp:h>
@@ -57,7 +57,7 @@
       <esp:h>Other Mechanisms</esp:h>
       
       <p>Oracc uses OpenType SSET and SALT for other kinds of graphic
-      variation as described on <esp:link page="opentype-features">the
+      variation as described on <esp:link page="opentype">the
       OpenType Features page</esp:link>.</p>
 
     </body>
