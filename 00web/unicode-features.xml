@@ -8,8 +8,6 @@
   <html>
     <head/>
     <body>
-\
-      <esp:h>Unicode Features</esp:h>
 
       <p>Oracc, OSL, and other Oracc sign lists aim to be completely
       conformant to the Unicode standard while supporting paleographic
@@ -17,7 +15,7 @@
       the best degree of automated cuneiform typography that is
       reasonably possible.</p>
       
-      <esp:sh>The Unicode Private Use Area (PUA)</esp:sh>
+      <esp:h>The Unicode Private Use Area (PUA)</esp:h>
 
       <p>Oracc uses the Unicode Plane 15 PUA from F0000-FFFFD as a
       space to create signs pending possible encoding, and to maintain
@@ -27,7 +25,7 @@
       consolidated in the OSL project and is further described on the
       <esp:link page="oracc-pua">Oracc PUA page</esp:link>.</p>
 
-      <esp:sh>Unicode Ideographic Variation Sequences (IVS)</esp:sh>
+      <esp:h>Unicode Ideographic Variation Sequences (IVS)</esp:h>
 
       <p>An IVS consists of a two parts: a sign and a variant
       selector.  Oracc uses IVS to support encoding structurally

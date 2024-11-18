@@ -9,14 +9,12 @@
     <head/>
     <body>
  
-      <esp:h>OpenType Features</esp:h>
-
       <esp:p>OpenType is a widely-used font type created by Microsoft
       and Adobe which provides many features for advanced typography.
       Oracc uses only three OpenType features at present: SSET, SALT,
       and LIGA.</esp:p>
       
-      <esp:sh>Sylistic Sets (SSET)</esp:sh>
+      <esp:h>Sylistic Sets (SSET)</esp:h>
       
       <p>An OpenType font can have up to twenty Stylistic Sets,
       indicated as ss01, ss02 .. ss20.  Oracc uses SSET for
@@ -30,7 +28,7 @@
       of writing on stone in ss04, for example. Sset ss05 is reserved
       for cursive style writing.</p>
 
-      <esp:sh>Character Variants (CVNN)</esp:sh>
+      <esp:h>Character Variants (CVNN)</esp:h>
 
       <p>An OpenType font may have up to ninety-nine character
       variants.  The following explananation of CVNN is to be found in
@@ -66,7 +64,7 @@
       10000 and related documents could have distinctive sign forms
       implemented via the CVNN feature.</p>
       
-      <esp:sh>Stylistic Alternates (SALT)</esp:sh>
+      <esp:h>Stylistic Alternates (SALT)</esp:h>
 
       <p>Oracc uses SALT to support creating fonts which contain
       examples of minor variations in form that may be specific to an
@@ -78,7 +76,7 @@
       <p>SALT variations are font-specific and do not need to be
       aligned or harmonized across fonts.</p>
 
-      <esp:sh>Ligatures (LIGA)</esp:sh>
+      <esp:h>Ligatures (LIGA)</esp:h>
 
       <p>There are several kinds of OpenType ligatures, but Oracc
       consistently uses the LIGA feature ("Standard Ligatures") which
