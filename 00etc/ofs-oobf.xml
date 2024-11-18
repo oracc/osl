@@ -94,7 +94,7 @@
 
       <p>All of the Oracc fonts are downloadable from the <esp:link
       url="https://github.com/oracc/oracc2">Oracc II GitHub
-      repository.</esp:link> in the msc/fonts subdirectory.</p>
+      repository</esp:link> in the msc/fonts subdirectory.</p>
       
       <dl>
 	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.vfc</esp:link></dd>
