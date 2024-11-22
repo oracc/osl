@@ -33,7 +33,7 @@
 	  codepoints="yes"
 	  children="yes"
 	  xml="yes"
-	  ><xi:include href="sxw-pos-9.2.xml" parse="xml"
+	  ><xi:include href="sxw-pos-9.5.xml" parse="xml"
 	  /></sxw:page-o-signs>
 
     </body>
