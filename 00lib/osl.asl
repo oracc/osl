@@ -11284,6 +11284,12 @@
 @inote  In other words it could be described as AŠ×1(DIŠ@t).
 @end sign
 
+@sign F₁₀
+@aka 1(|AŠ@c×DIŠ|)
+@oid	o0038414
+@v	1/4(aš@c)~a
+@end sign
+
 @sign GA
 @list	ASY170
 @oid	o0000187
