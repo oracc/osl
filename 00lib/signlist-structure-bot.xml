@@ -10,4 +10,7 @@
   <struct:page file="signlist-x-sortorder.xml" id="sortorder" type="page"/>
   <struct:page file="signlist-x-pua-91.xml" id="pua91" type="page"/>  
   <struct:page file="signlist-x-pua-92.xml" id="pua92" type="page"/>  
+  <struct:page file="signlist-x-pua-93.xml" id="pua93" type="page"/>  
+  <struct:page file="signlist-x-pua-94.xml" id="pua94" type="page"/>  
+  <struct:page file="signlist-x-pua-95.xml" id="pua95" type="page"/>  
 </wrapper>
