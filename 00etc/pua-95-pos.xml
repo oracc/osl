@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page
+    xmlns:esp="http://oracc.org/ns/esp/1.0"
+    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:xh="http://www.w3.org/1999/xhtml"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:sxw="http://oracc.org/ns/sxweb/1.0"
+    >
+  <esp:name>Oracc PUA 9.5</esp:name>
+  <esp:title>Oracc PUA 9.5</esp:title>
+  <html>
+    <head/>
+    <body>
+      <p>This page gives the Oracc PUA signs in Oracc PUA section 9.5
+      which contains glyphs for Archaic Cuneiform Numerals (ACN) which
+      possibly will be encoded, either in ACN or in Proto-Cuneiform
+      (PC).  This does not guarantee that any or every glyph actually
+      will be encoded.</p>
+      
+      <p>See <esp:link
+      url="/osl/OraccCuneiformFonts/OraccPUA/#h_definitionaldatatable">the
+      Oracc PUA page for notes on the columns in this
+      table.</esp:link>.</p>
+
+      <p>See <esp:link
+      url="/pcsl/signlist/ACNConcordance/index.html#additions">the ACN
+      Concordance page</esp:link> for ACN-specific abbreviations used
+      in the notes in this table.</p>
+      
+      <!-- or "grid" -->
+      <sxw:page-o-signs
+	  format="list"
+	  codepoints="yes"
+	  children="yes"
+	  xml="yes"
+	  ><xi:include href="sxw-pos-9.2.xml" parse="xml"
+	  /></sxw:page-o-signs>
+
+    </body>
+  </html>
+</esp:page>
