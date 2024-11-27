@@ -60,6 +60,33 @@ OID        SIGN-NAME      PUA-CODE      SCRIPT     ORACC-PUA-BLOCK	NOTES
   as IVS E0100+NN of the character NAME.</dd>
 </dd>
 
+<esp:sh>More on the Notes Column</esp:sh>
+
+<p>In Oracc PUA 9.5 the following abbreviations are used (some of
+these should be generalized to other parts of the Oracc PUA):</p>
+
+<dl>
+  <dt>ACN</dt><dd>"Archaic Cuneiform Numerals [Encode]"--the character
+  could be encoded in a future ACN additions proposal.</dd>
+
+  <dt>ADD</dt><dd>"Additional"--a neutral designation
+  indicating only that the character is not in ACN. Characters
+  above U+F0000 are not in AP23 either.</dd>
+
+  <dt>DNE</dt><dd>"Do Not Encode"--the character is not encodable.</dd>
+  
+  <dt>OOR</dt><dd>"Out Of Range"--an assertion that the
+  character is anomalous and should not be encoded.</dd>
+
+  <dt>Pelm</dt><dd>Proto-Elamite--the character should be
+  encoded in the Proto-Elamite proposal.</dd>
+  
+  <dt>PCE</dt><dd>"Proto-Cuneiform Encode"--the character
+  should be encoded in the PC proposal.</dd>
+</dl>
+
+<esp:h>Oracc PUA Blocks</esp:h>
+
 <esp:sh>Block 9.1</esp:sh>
 
 <p>This block was created in September/October 2024 for number signs and
@@ -73,6 +100,24 @@ variants that were not encoded at that point.</p>
 variants that were not encoded at that point.</p>
 
 <p>The OSL/signlist <esp:link url="/osl/signlist/OraccPUA9.2/">has a PUA 9.2 page</esp:link>.</p>
+
+<esp:sh>Block 9.3</esp:sh>
+
+<p>Created November 2024 for Variant Stacking Patterns in Pcun.</p>
+
+<p>The OSL/signlist <esp:link url="/osl/signlist/OraccPUA9.3/">has a PUA 9.2 page</esp:link>.</p>
+
+<esp:sh>Block 9.4</esp:sh>
+
+<p>Created November 2024 for unencodable Pcun numbers.</p>
+
+<p>The OSL/signlist <esp:link url="/osl/signlist/OraccPUA9.5/">has a PUA 9.2 page</esp:link>.</p>
+
+<esp:sh>Block 9.5</esp:sh>
+
+<p>Created November 2024 for possibly encodable Pcun numbers.</p>
+
+<p>The OSL/signlist <esp:link url="/osl/signlist/OraccPUA9.5/">has a PUA 9.5 page</esp:link>.</p>
 
     </body>
   </html>
