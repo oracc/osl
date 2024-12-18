@@ -5,486 +5,114 @@
 
   <esp:name>Oracc-OBF</esp:name>
   <esp:title>Oracc OB-Freie Regular</esp:title>
+  <esp:url>ofs-oobf</esp:url>
 
   <html>
     <head/>
     <body>
 
-      <esp:sh>About</esp:sh>
+      <esp:h>About</esp:h>
 
-      <p>Oracc OB-Freie Regular is a minor adaptation of Corvin
-      Ziegeler's OB-Freie Regular font. The sign forms are based on
-      C. Mittermayer, Altbabylonische Zeichenliste der
+      <p>Oracc OB-Freie Regular (Oracc-OBF) is a minor adaptation of
+      the No-Latin version of Corvin Ziegeler's OB-Freie Regular font
+      (OBF) version 2.0.0, OBNLFreie-Regular.otf. The sign forms are
+      based on C. Mittermayer, Altbabylonische Zeichenliste der
       sumerisch-literarischen Texte, listed in OSL as ABZL.</p>
       
-      <esp:sh>Original Font</esp:sh>
+      <esp:h>Original Font</esp:h>
 
       <p>The original font was obtained from <esp:link
       url="https://github.com/crzfub/OB-Freie/blob/main/OBFreie">https://github.com/crzfub/OB-Freie/blob/main/OBFreie</esp:link>
-      in October 2024.</p>
+      on 2024-11-05.</p>
 
-      <esp:sh>License</esp:sh>
+      <esp:h>License</esp:h>
 
       <p>Oracc OB-Freie Regular is licensed under the SIL Open Font
       License, Version 1.1 as required by the licensing terms of
       OB-Freie.</p>
 
-      <esp:sh>Download</esp:sh>
+      <esp:h>Modifications</esp:h>
+
+      <esp:sh>ABZL423 KEŠ₃</esp:sh>
+
+      <p>ABZL423 describes KEŠ₃ as ŠU₂.AN.HAR rather than the
+      historical ŠU₂.AN.HI×GAD and uses a variant glyph of HAR in the
+      reference form of KEŠ₃. OBF places the variant HAR in <span
+      class="ofs-noto">𒄲</span> U+12132 = |HI×GAD|.</p>
+
+      <p>Oracc-OBF adds a SALT variant of HAR as u1212F.1 and locates
+      the KEŠ₃ HAR component there in order to preserve an independent
+      identity for the variant HAR.</p>
+
+      <p>Oracc-OBF then redefines the KESZ3.liga sub as ŠU₂_AN_HAR,
+      u122D9 u1202D u1212F.</p>
+
+      <p>ABZL form 3 is ŠU+AN+HI×GAD so Oracc-OBF adds <span
+      class="ofs-noto">𒄲</span> U+12132 = |HI×GAD|.</p>
+
+      <p>Oracc-OBF then adds KESZ3.liga.1 with sub ŠU₂_AN_HI×GAD,
+      u122D9 u1202D u12132.</p>
+      
+      <esp:sh>Mergers</esp:sh>
+
+      <ul>
+	<li>Add 1244F (BAN₂) to Unicode values of 12226 (MAŠ)</li>
+	<li>Add 12262 (NU₁₁) to Unicode values of 122D3 (ŠIR)</li>
+	<li>Add 12458 (EŠE₃) to Unicode values of 12041 (BAD)</li>
+	<li>Add 12128 (GURUŠ) to Unicode values of 12197 (KAL)</li>
+	<li>Add 12327 (KALAM) to Unicode values of 12326 (UN)</li>
+      </ul>
+
+      <esp:h>Possible Further Modifications</esp:h>
+
+      <p>The following possible modifications have not yet been made.</p>
+
+      <esp:sh>SSET/SALT Changes</esp:sh>
+
+      <p>OBF defines some characters in SS01 but it is not clear
+      whether these are intended to be a consistent stylistic
+      variation or if they could be equally well represented with
+      SALT.  In the <esp:link
+      url="/osl/OraccCuneiformFonts/index.html">draft
+      Oracc guidelines for use of OT features</esp:link> these would
+      probably be SALT variants.  A future version of Oracc-OBF could
+      redefine the <code>.ss01</code> characters as <code>.1</code>,
+      etc.</p>
+
+      <esp:sh>ABZL285/ABZL286</esp:sh>
+
+      <p>OBF puts <span class="ofs-oobf ofs-150">𒐭</span> at U+1242D 𒐭
+      and <span class="ofs-oobf ofs-150">𒐮</span> at U+1242E 𒐮, which
+      is reasonable.  The sign forms are in a series of |ŠAR₂×U|,
+      which is given in lexical lists from 1(U)..5(U) and these could
+      also be encoded as separate codepoints (|ŠAR₂×U| 𒄶 is already
+      encoded as U+12136).  Oracc PUA has U+F003D |ŠAR₂×(U.U)| <span
+      class="ofs-noto">󰀽</span> and U+F003E |ŠAR₂×(U.U.U)| <span
+      class="ofs-noto">󰀾</span>.  Oracc-OBF could also move/duplicate
+      <span class="ofs-oobf ofs-150">𒐭 𒐮</span> there.</p>
+            
+      <esp:h>Download</esp:h>
 
       <p>All of the Oracc fonts are downloadable from the <esp:link
       url="https://github.com/oracc/oracc2">Oracc II GitHub
-      repository.</esp:link></p>
+      repository</esp:link> in the msc/fonts subdirectory.</p>
       
       <dl>
-	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.vfc</esp:link></dd>
-	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/lib/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.ttf</esp:link></dd>
+	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.vfc</esp:link></dd>
+	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-OBF-Regular.ttf">Oracc-OBF-Regular.ttf</esp:link></dd>
       </dl>
       
-      <esp:sh>CSS</esp:sh>
+      <esp:h>CSS</esp:h>
 
-      <p>In Oracc projects the font is selected with the CSS class <code>ofs-oobf</code>.</p>
+      <p>In Oracc projects the font is selected with the CSS class
+      <code>ofs-oobf</code>.  Because the design size of Oracc-OBF is
+      slightly smaller than Oracc-Noto this page also uses
+      <code>ofs-150</code> to enlarge the Oracc-OBF characters.</p>
 
-      <esp:sh>Contents</esp:sh>
+      <esp:h>Contents</esp:h>
       
       <!--NOTE: The last three closers must be on the same line-->
 <table xmlns="http://www.w3.org/1999/xhtml" xmlns:o="http://oracc.org/ns/ofp/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" class="pretty">
-  <tr>
-    <td/>
-    <td>|AB×(U.U.U)|</td>
-    <td>x12014</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒀔</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>ALEPH</td>
-    <td>x1202A</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒀪</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>AŠ@t</td>
-    <td>x12039</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒀹</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>DAG</td>
-    <td>x12056</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒁖</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>DE₂</td>
-    <td>x12324</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒌤</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>DUR₂</td>
-    <td>x12089</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒂉</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|EN×GAN₂@t|</td>
-    <td>x12099</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒂙</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>GABA</td>
-    <td>x120EE</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒃮</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|GIR₃×PA|</td>
-    <td>x1210F</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒄏</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|HI×GAD|</td>
-    <td>x12132</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒄲</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>KINGUSILI</td>
-    <td>x1245C</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒑜</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>LAL₂</td>
-    <td>x121F3</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒇳</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|MA₂.KAK|</td>
-    <td>x12223.x12195</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒈣𒆕</span>
-      </p>
-    </td>
-    <td>
-      <p>(u12223_u12195 = <span class="ofs-oobf ofs-150">𒈣‌𒆕‌</span>)</p>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>|ME.U.U.U|</td>
-    <td>x1238C</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒎌</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>NIGIDAEŠ</td>
-    <td>x12457</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒑗</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>NIGIDAMIN</td>
-    <td>x12456</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒑖</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|NINDA₂×AN|</td>
-    <td>x12253</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒉓</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|NINDA₂×(ŠE.A).AN|</td>
-    <td>x1225B</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒉛</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>NUNUZ</td>
-    <td>x1226D</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒉭</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>PAP</td>
-    <td>x1227D</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒉽</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|SAL.HUB₂|</td>
-    <td>x122A9.x12138</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒊩𒄸</span>
-      </p>
-    </td>
-    <td>
-      <p>(u122A9_u12138 = <span class="ofs-oobf ofs-150">𒊩‌𒄸‌</span>)</p>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>SANGA₂</td>
-    <td>x122AB</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒊫</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>SU</td>
-    <td>x122E2</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒋢</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|ŠEŠ.NA|</td>
-    <td>x122C0.x1223E</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒋀𒈾</span>
-      </p>
-    </td>
-    <td>
-      <p>(u122C0_u1223E = <span class="ofs-oobf ofs-150">𒋀‌𒈾‌</span>)</p>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>|ŠIM.GA|</td>
-    <td>x122C6.x120B5</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒋆𒂵</span>
-      </p>
-    </td>
-    <td>
-      <p>(u122C6_u120B5 = <span class="ofs-oobf ofs-150">𒋆‌𒂵‌</span>)</p>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>ŠU₂</td>
-    <td>x122D9</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒋙</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>UD@s</td>
-    <td>x1231A</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒌚</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>UMUM</td>
-    <td>x12323</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒌣</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|URU×A|</td>
-    <td>x12338</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒌸</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>|ZI&amp;ZI|</td>
-    <td>x12364</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒍤</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>4(AŠ)</td>
-    <td>x12402</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒐂</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>5(AŠ)</td>
-    <td>x12403</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒐃</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>7(AŠ)</td>
-    <td>x12405</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒐅</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>9(AŠ)</td>
-    <td>x12407</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒐇</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>4(DIŠ)</td>
-    <td>x12409</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒐉</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>7(DIŠ)</td>
-    <td>x1240C</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒐌</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>9(DIŠ)</td>
-    <td>x1240E</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒐎</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>4(U)~v</td>
-    <td>x12469</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒑩</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>5(U)~v</td>
-    <td>x1246A</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒑪</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
   <tr>
     <td>ABZL001</td>
     <td>AŠ</td>
@@ -587,14 +215,25 @@
   <tr>
     <td>ABZL009</td>
     <td>AN</td>
-    <td>x1202D.x200D.x12097</td>
+    <td>x1202D</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒀭</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td/>
+    <td>AN-ZWJ-EN</td>
+    <td/>
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒀭‍𒂗</span>
       </p>
     </td>
     <td>
-      <p>(u1202D_u200D_u12097 = <span class="ofs-oobf ofs-150">𒀭‌‍‌𒂗‌</span>)</p>
+      <p>(u1202D_uni200D_u12097 = <span class="ofs-oobf ofs-150">𒀭‌‍‌𒂗‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -741,6 +380,19 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL022</td>
+    <td>|ŠEŠ.KI|</td>
+    <td>x122C0.x121A0</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒋀𒆠</span>
+      </p>
+    </td>
+    <td>
+      <p>(u122C0_u121A0 = <span class="ofs-oobf ofs-150">𒋀‌𒆠‌</span>)</p>
+    </td>
+  </tr>
+  <tr>
     <td>ABZL023</td>
     <td>TI</td>
     <td>x122FE</td>
@@ -774,6 +426,39 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL025</td>
+    <td>IDIM</td>
+    <td>x12142</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒅂</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL025</td>
+    <td>TIL</td>
+    <td>x12300</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒌀</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL025</td>
+    <td>1(EŠE₃)</td>
+    <td>x12458</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒑘</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL026</td>
     <td>KUL</td>
     <td>x121B0</td>
@@ -797,6 +482,17 @@
   </tr>
   <tr>
     <td>ABZL028</td>
+    <td>NU₁₁</td>
+    <td>x12262</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒉢</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL028</td>
     <td>ŠIR</td>
     <td>x122D3</td>
     <td>
@@ -813,6 +509,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒈦</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL029</td>
+    <td>1(BAN₂)</td>
+    <td>x1244F</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒑏</span>
       </p>
     </td>
     <td/>
@@ -1059,6 +766,19 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL051</td>
+    <td>|MA₂.KAK|</td>
+    <td>x12223.x12195</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒈣𒆕</span>
+      </p>
+    </td>
+    <td>
+      <p>(u12223_u12195 = <span class="ofs-oobf ofs-150">𒈣‌𒆕‌</span>)</p>
+    </td>
+  </tr>
+  <tr>
     <td>ABZL052</td>
     <td>AK</td>
     <td>x1201D</td>
@@ -1182,6 +902,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL063^b</td>
+    <td>|EN×GAN₂@t|</td>
+    <td>x12099</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒂙</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL064</td>
     <td>DU</td>
     <td>x1207A</td>
@@ -1238,22 +969,22 @@
   </tr>
   <tr>
     <td>ABZL069</td>
-    <td>|GA₂×TAK₄|</td>
-    <td>x120E9</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒃩</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td>ABZL069</td>
     <td>|UŠ×TAK₄|</td>
     <td>x12355</td>
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒍕</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL069^a</td>
+    <td>|GA₂×TAK₄|</td>
+    <td>x120E9</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒃩</span>
       </p>
     </td>
     <td/>
@@ -1413,6 +1144,28 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL084</td>
+    <td>|ŠIM×X₂|</td>
+    <td>xF005E</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁞</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL084^a</td>
+    <td>|ŠIM@g×PI|</td>
+    <td>xF0055</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁕</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL085</td>
     <td>|ŠIM×GAR|</td>
     <td>x122CB</td>
@@ -1525,6 +1278,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL095</td>
+    <td>|GA₂×NU|</td>
+    <td>xF0059</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁙</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL096</td>
     <td>|GA₂×NUN|</td>
     <td>x120E0</td>
@@ -1602,6 +1366,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL103</td>
+    <td>|GA₂×ŠU₂|</td>
+    <td>xF005A</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁚</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL104</td>
     <td>|GA₂×SAL|</td>
     <td>x120E3</td>
@@ -1674,6 +1449,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒋰</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL110</td>
+    <td>4(AŠ)</td>
+    <td>x12402</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒐂</span>
       </p>
     </td>
     <td/>
@@ -1901,6 +1687,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL130</td>
+    <td>|AB×A|</td>
+    <td>xF004E</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁎</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL131</td>
     <td>|AB×HA|</td>
     <td>x1200F</td>
@@ -1918,6 +1715,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒀜</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL133</td>
+    <td>SUKUD</td>
+    <td>xF005B</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁛</span>
       </p>
     </td>
     <td/>
@@ -1951,6 +1759,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒉘</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL137</td>
+    <td>|NINDA₂×(ŠE.A).AN|</td>
+    <td>x1225B</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒉛</span>
       </p>
     </td>
     <td/>
@@ -1995,6 +1814,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒂃</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL141</td>
+    <td>GABA</td>
+    <td>x120EE</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒃮</span>
       </p>
     </td>
     <td/>
@@ -2347,6 +2177,28 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL168</td>
+    <td>DAG</td>
+    <td>x12056</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒁖</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL169</td>
+    <td>KALAM</td>
+    <td>x12327</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒌧</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL169</td>
     <td>KALAM@g</td>
     <td>x12326</td>
@@ -2419,6 +2271,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒆍</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL176</td>
+    <td>GURUŠ</td>
+    <td>x12128</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒄨</span>
       </p>
     </td>
     <td/>
@@ -2578,6 +2441,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL190</td>
+    <td>|URU×A|</td>
+    <td>x12338</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒌸</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL191</td>
     <td>|URU×GAR|</td>
     <td>x1233F</td>
@@ -2677,6 +2551,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL200</td>
+    <td>LU₂@g@s</td>
+    <td>xF005D</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁝</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL201</td>
     <td>GA</td>
     <td>x120B5</td>
@@ -2721,6 +2606,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL205</td>
+    <td>SANGA₂</td>
+    <td>x122AB</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒊫</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL206</td>
     <td>ZAG</td>
     <td>x12360</td>
@@ -2744,7 +2640,7 @@
   </tr>
   <tr>
     <td>ABZL207b</td>
-    <td>|UD×(U.U.U)@g|</td>
+    <td>MURUB₄</td>
     <td>x12318</td>
     <td>
       <p>
@@ -2798,6 +2694,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL211</td>
+    <td>ZIZ₂</td>
+    <td>x12369</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒍩</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL212</td>
     <td>ŠID</td>
     <td>x122C3</td>
@@ -2826,6 +2733,28 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒄄</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL215</td>
+    <td>DE₂</td>
+    <td>x12324</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒌤</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL215^a</td>
+    <td>UMUM</td>
+    <td>x12323</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒌣</span>
       </p>
     </td>
     <td/>
@@ -2865,6 +2794,17 @@
   </tr>
   <tr>
     <td>ABZL219a</td>
+    <td>AGA~a</td>
+    <td>xF005C</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">󰁜</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL219b</td>
     <td>DUN₃@g@g</td>
     <td>x12087</td>
     <td>
@@ -3101,17 +3041,6 @@
     </td>
   </tr>
   <tr>
-    <td/>
-    <td class="ofs-feat-r">sset</td>
-    <td>ss01</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ss01 ofs-150">𒅆𒁾</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
     <td>ABZL238</td>
     <td>|IGI.ERIN₂|</td>
     <td>x12146.x1209F</td>
@@ -3245,6 +3174,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒈝</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL249</td>
+    <td>PAP</td>
+    <td>x1227D</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒉽</span>
       </p>
     </td>
     <td/>
@@ -3764,6 +3704,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL292</td>
+    <td>|GIR₃×PA|</td>
+    <td>x1210F</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒄏</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL293</td>
     <td>|GIR₃×GAN₂@t|</td>
     <td>x1210C</td>
@@ -3788,15 +3739,13 @@
   <tr>
     <td>ABZL295</td>
     <td>|GIR₃×(A.IGI)|</td>
-    <td>x1210B.x1230B</td>
+    <td>x1210B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄋𒌋</span>
+        <span class="ofs-oobf ofs-150">𒄋</span>
       </p>
     </td>
-    <td>
-      <p>(u1210B_u1230B = <span class="ofs-oobf ofs-150">𒄋‌𒌋‌</span>)</p>
-    </td>
+    <td/>
   </tr>
   <tr>
     <td>ABZL295</td>
@@ -3827,6 +3776,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒅎</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL297</td>
+    <td>NI₂</td>
+    <td>x1224E</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒉎</span>
       </p>
     </td>
     <td/>
@@ -3906,6 +3866,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒍪</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL305</td>
+    <td>SU</td>
+    <td>x122E2</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒋢</span>
       </p>
     </td>
     <td/>
@@ -4263,6 +4234,19 @@
     <td/>
   </tr>
   <tr>
+    <td/>
+    <td>U-NAM₂</td>
+    <td/>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒌋𒉇</span>
+      </p>
+    </td>
+    <td>
+      <p>(u1230B_u12247 = <span class="ofs-oobf ofs-150">𒌋‌𒉇‌</span>)</p>
+    </td>
+  </tr>
+  <tr>
     <td>ABZL338</td>
     <td>|U.DIM|</td>
     <td>x1230B.x12074</td>
@@ -4299,6 +4283,19 @@
     </td>
     <td>
       <p>(u1230B_u1222C = <span class="ofs-oobf ofs-150">𒌋‌𒈬‌</span>)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>ABZL341</td>
+    <td>|U.EN×GAN₂@t|</td>
+    <td>x1230B.x12099</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒌋𒂙</span>
+      </p>
+    </td>
+    <td>
+      <p>(u1230B_u12099 = <span class="ofs-oobf ofs-150">𒌋‌𒂙‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4514,19 +4511,6 @@
     <td/>
   </tr>
   <tr>
-    <td>ABZL360</td>
-    <td>|U.TUG₂|</td>
-    <td>x1230B.x12306</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ofs-150">𒌋𒌆</span>
-      </p>
-    </td>
-    <td>
-      <p>(u1230B_u12306 = <span class="ofs-oobf ofs-150">𒌋‌𒌆‌</span>)</p>
-    </td>
-  </tr>
-  <tr>
     <td>ABZL361</td>
     <td>DIN</td>
     <td>x12077</td>
@@ -4637,6 +4621,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL371</td>
+    <td>NUNUZ</td>
+    <td>x1226D</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒉭</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL372</td>
     <td>|NUNUZ.AB₂×LA|</td>
     <td>x12274</td>
@@ -4670,6 +4665,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL374^a</td>
+    <td>4(U)~v</td>
+    <td>x12469</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒑩</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL375</td>
     <td>KU₄</td>
     <td>x121AD</td>
@@ -4687,6 +4693,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒐐</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL376^a</td>
+    <td>5(U)~v</td>
+    <td>x1246A</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒑪</span>
       </p>
     </td>
     <td/>
@@ -5128,6 +5145,17 @@
   </tr>
   <tr>
     <td>ABZL415</td>
+    <td>DUR₂</td>
+    <td>x12089</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒂉</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL415</td>
     <td>KU</td>
     <td>x121AA</td>
     <td>
@@ -5144,6 +5172,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒇻</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL417</td>
+    <td>NAM₂</td>
+    <td>x12247</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒉇</span>
       </p>
     </td>
     <td/>
@@ -5193,6 +5232,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL420</td>
+    <td>ZI₃</td>
+    <td>x12365</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒍥</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL421</td>
     <td>DARA₄</td>
     <td>x12071</td>
@@ -5204,7 +5254,31 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL422</td>
+    <td>ŠU₂</td>
+    <td>x122D9</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒋙</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL423</td>
+    <td>|ŠU₂.AN.HI×AŠ₂|</td>
+    <td>x122D9.x1202D.x1212F</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒋙𒀭𒄯</span>
+      </p>
+    </td>
+    <td>
+      <p>(u122D9_u1202D_u1212F = <span class="ofs-oobf ofs-150">𒋙‌𒀭‌𒄯‌</span>)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>ABZL423^a</td>
     <td>|ŠU₂.AN.HI×GAD|</td>
     <td>x122D9.x1202D.x12132</td>
     <td>
@@ -5660,6 +5734,19 @@
     </td>
   </tr>
   <tr>
+    <td>ABZL463</td>
+    <td>|SAL.HUB₂|</td>
+    <td>x122A9.x12138</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒊩𒄸</span>
+      </p>
+    </td>
+    <td>
+      <p>(u122A9_u12138 = <span class="ofs-oobf ofs-150">𒊩‌𒄸‌</span>)</p>
+    </td>
+  </tr>
+  <tr>
     <td>ABZL464</td>
     <td>NU₁₁@t</td>
     <td>x122D4</td>
@@ -5787,6 +5874,17 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL474</td>
+    <td>4(DIŠ)</td>
+    <td>x12409</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒐉</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL475</td>
     <td>HA</td>
     <td>x12129</td>
@@ -5820,12 +5918,89 @@
     <td/>
   </tr>
   <tr>
+    <td>ABZL478</td>
+    <td>7(DIŠ)</td>
+    <td>x1240C</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒐌</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
     <td>ABZL479</td>
     <td>8(DIŠ)</td>
     <td>x1240D</td>
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒐍</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL480</td>
+    <td>9(DIŠ)</td>
+    <td>x1240E</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒐎</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL900</td>
+    <td>|ZI&amp;ZI|</td>
+    <td>x12364</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒍤</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL901</td>
+    <td>AŠ@t</td>
+    <td>x12039</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒀹</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL902</td>
+    <td>LAL₂</td>
+    <td>x121F3</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒇳</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL903</td>
+    <td>|ME.U.U.U|</td>
+    <td>x1238C</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒎌</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td>ABZL904</td>
+    <td>|HI×GAD|</td>
+    <td>x12132</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ofs-150">𒄲</span>
       </p>
     </td>
     <td/>
