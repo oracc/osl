@@ -26,7 +26,7 @@
     </xsl:for-each>
   </xsl:template>
   
-  <xsl:template name = "sign-or-liga">
+  <xsl:template name="sign-or-liga">
     <xsl:param name="liga" select="false()"/>
     <tr>
       <td>
@@ -52,12 +52,31 @@
 	</xsl:if>
       </td>
     </tr>
-    <xsl:for-each select="o:ssets">
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:sset/*"/>
+      <xsl:with-param name="label" select="'sset'"/>
+    </xsl:call-template>
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:salts/*"/>
+      <xsl:with-param name="label" select="'salt'"/>
+    </xsl:call-template>
+  </xsl:template>
+
+  <xsl:template name="feature">
+    <xsl:param name="nodes"/>
+    <xsl:param name="label"/>
+    <xsl:for-each select="$nodes">
       <tr>
 	<td><xsl:value-of select="@list"/></td>
-	<td class="ofs-feat-r">sset</td>
+	<td class="ofs-feat-r"><xsl:value-of select="$label"/></td>
 	<td><xsl:value-of select="."/></td>
-	<td><p><span class="{$css} {.} ofs-150"><xsl:value-of select="ancestor::o:sign/@utf8"/></span></p></td>
+	<xsl:variable name="fcss">
+	  <xsl:choose>
+	    <xsl:when test="$label='salt'"><xsl:value-of select="concat('salt',.)"/></xsl:when>
+	    <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
+	  </xsl:choose>
+	</xsl:variable>
+	<td><p><span class="{$css} {$fcss} ofs-150"><xsl:value-of select="ancestor::o:sign/@utf8"/></span></p></td>
 	<td>
 	  <xsl:if test="@l">
 	    <p>
