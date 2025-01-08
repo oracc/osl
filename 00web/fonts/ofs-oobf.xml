@@ -1421,17 +1421,6 @@
     <td/>
   </tr>
   <tr>
-    <td/>
-    <td class="ofs-feat-r">sset</td>
-    <td>ss01</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ss01 ofs-150">𒂍</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
     <td>ABZL108</td>
     <td>AL</td>
     <td>x12020</td>
@@ -2045,17 +2034,6 @@
     <td/>
   </tr>
   <tr>
-    <td/>
-    <td class="ofs-feat-r">sset</td>
-    <td>ss01</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ss01 ofs-150">𒂰</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
     <td>ABZL159</td>
     <td>|EZEN×A|</td>
     <td>x120A2</td>
@@ -2073,17 +2051,6 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒄑</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td class="ofs-feat-r">sset</td>
-    <td>ss01</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ss01 ofs-150">𒄑</span>
       </p>
     </td>
     <td/>
@@ -2139,17 +2106,6 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒋜</span>
-      </p>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td class="ofs-feat-r">sset</td>
-    <td>ss01</td>
-    <td>
-      <p>
-        <span class="ofs-oobf ss01 ofs-150">𒋜</span>
       </p>
     </td>
     <td/>
@@ -3552,6 +3508,17 @@
     <td>
       <p>
         <span class="ofs-oobf ofs-150">𒄯</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td/>
+    <td class="ofs-feat-r">salt</td>
+    <td>1</td>
+    <td>
+      <p>
+        <span class="ofs-oobf salt1 ofs-150">𒄯</span>
       </p>
     </td>
     <td/>
