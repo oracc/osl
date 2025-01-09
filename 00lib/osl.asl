@@ -44335,8 +44335,8 @@
 @list	HZL261
 @list	LAK807
 @list	MZL661
-@list	RSP006
-@list	RSP008
+@list	RSP006 .1 .2 .3 .4
+@list	RSP008 .5 .6 .7
 @list	SLLHA411
 @list	SYA213
 @uname	CUNEIFORM NUMERIC SIGN U
