@@ -4738,6 +4738,7 @@
 @list	BAU370
 @list	ELLES364
 @list	LAK742
+@list	RSP433
 @list	PTACE292
 @uname	CUNEIFORM SIGN BAHAR2
 @list	U+12043
@@ -6040,8 +6041,6 @@
 @sign |DAG.KISIM₅×BI|
 @oid	o0000952
 @list	MZL447
-@list	RSP359
-@list	RSP360
 @list	SLLHA288
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES BI
 @list	U+1205A
@@ -6052,6 +6051,13 @@
 @v	haru₄
 @link	eBL |DAG.KISIM₅×BI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×BI|
 @link	Wikidata Q87555181 http://www.wikidata.org/entity/Q87555181
+@end sign
+
+@sign RSP359
+@list RSP359
+@end sign
+@sign RSP360
+@list RSP360
 @end sign
 
 @sign |DAG.KISIM₅×EN|
@@ -6242,6 +6248,7 @@
 @list	KWU767
 @list	LAK721
 @list	MZL459
+@list	RSP358
 @list	SLLHA292a
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES LU
 @list	U+12065
@@ -6266,7 +6273,6 @@
 @list	ABZL174
 @list	KWU893
 @list	MZL460
-@list	RSP358
 @list	SLLHA293
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES LU PLUS MASH2
 @list	U+12066
@@ -6288,6 +6294,8 @@
 @oid	o0000367
 @list	LAK388
 @link	eBL LAK388 https://www.ebl.lmu.de/signs/LAK388
+@@
+@form |DAG.KISIM₅×LU|
 @@
 @end sign
 
@@ -7510,6 +7518,7 @@
 @oid	o0000989
 @list	ABZL197
 @list	KWU706
+@list	RSP370a
 @list	SLLHA206a
 @uname	CUNEIFORM SIGN DU OVER DU
 @list	U+1207B
@@ -9155,7 +9164,6 @@
 @list	LAK747
 @list	MZL300
 @list	PTACE293
-@list	RSP433
 @list	RSP435
 @list	SLLHA168
 @uname	CUNEIFORM SIGN EDIN
@@ -17109,7 +17117,7 @@
 @form |HI×MAŠ|
 @oid	o0001457
 @list	ELLES199
-@list	RSP312
+@list	RSP312^a
 @v	surₓ
 @ref	Ebla Sign List = dcclt:Q000038 66, |HI×MAŠ| su-ru₁₂-um
 @v	šurₓ
@@ -17257,8 +17265,6 @@
 @list	KWU452
 @list	LAK366
 @list	RSP312
-@list	RSP313
-@list	RSP314
 @list	SYA206
 @uname	CUNEIFORM SIGN HI TIMES BAD
 @list	U+12130
@@ -17311,7 +17317,7 @@
 @form |HI×MAŠ|
 @oid	o0001457
 @list	ELLES199
-@list	RSP312
+@list	RSP312^a
 @@
 @form |HI×U|
 @oid	o0001463
@@ -17326,7 +17332,7 @@
 @sign |HI×MAŠ|
 @oid	o0001457
 @list	ELLES199
-@list	RSP312
+@list	RSP312^a
 @end sign
 
 @sign |HI×BAD×U|
@@ -17615,6 +17621,14 @@
 @oid	o0000238
 @inote	sjt: temporary entry to get ETCSRI to compile; probably has another name
 @link	eBL HI@g https://www.ebl.lmu.de/signs/HI@g
+@end sign
+
+@sign |HI@g×BAD|
+@list RSP313
+@end sign
+
+@sign |HI@g×GAD|
+@list RSP314
 @end sign
 
 @sign HU
@@ -23726,6 +23740,7 @@
 @list	KWU634
 @list	LAK208
 @list	REC145
+@list	RSP444
 @ucun	𒆮
 @v	ku₄
 @v	kur₉
@@ -25631,7 +25646,7 @@
 @list	LAK771
 @list	MZL786
 @list	PTACE321
-@list	RSP259
+@list	RSP259^a
 @list	SLLHA511
 @list	SYA248
 @uname	CUNEIFORM SIGN LAGAB TIMES U
@@ -27683,7 +27698,7 @@
 @oid	o0001868
 @list	BAU305
 @list	LAK621
-@list	RSP288
+@list	RSP288^a
 @uname	CUNEIFORM SIGN LAK617 TIMES LA
 @list	U+12506
 @ucun	𒔆
@@ -27949,6 +27964,7 @@
 @uage	8.0
 @link	eBL LAK749 https://www.ebl.lmu.de/signs/LAK749
 @link	Wikidata Q87557390 http://www.wikidata.org/entity/Q87557390
+@inote |EDIN×AB₂|
 @end sign
 
 @sign LAK764
@@ -35981,7 +35997,8 @@
 @@
 @end sign
 
-@sign LAK244
+@sign- LAK244
+@inote s.v. LUL
 @oid	o0000335
 @list	ELLES138
 @list	LAK244
@@ -36695,14 +36712,16 @@
 @v	ilₓ
 @end sign
 
-@sign RSP468bis
+@sign- RSP468bis
+@inote s.v. LUL
 @oid	o0221921
 @list	RSP468bis
 @inote	admin/ed3b
 @v	narₓ
 @end sign
 
-@sign RSP468ter
+@sign- RSP468ter
+@inote s.v. LUL
 @oid	o0221922
 @list	RSP468ter
 @inote	admin/ed3b
@@ -36714,13 +36733,17 @@
 @lref	RSP086
 @note Sequence KUL-ABA₄
 
-@lref RSP097
-@note Sequence NUN-KI(-GA) eridu{ki}(-ga).
+@lref	RSP097 NUN-KI 𒉣𒆠 eridu{ki}
 
-@lref	RSP216 GEŠTIN.LAK490.ZIZ₂ 𒃾𒓻𒀾
+@lref	RSP097^a NUN-KI-GA 𒉣𒆠𒂵 eridu{ki}-ga
 
-@lref	RSP324
-@note Sequence UD-ŠA
+@lref	RSP216 GEŠTIN-LAK490-ZIZ₂ 𒃾𒓻𒀾
+
+@lref	RSP272 EN-LIL₂-KI 𒂗𒆤𒆠 nibru{ki}
+
+@lref	RSP319 DI-UD 𒁲𒌓 {+sa₂}salah ("salah")
+
+@lref	RSP324 UD-ŠA 𒌓𒊭
 
 @sign RU
 @list	ASY041
@@ -40420,7 +40443,6 @@
 @list	MZL587
 @list	PTACE046
 @list	RSP441
-@list	RSP442
 @list	SLLHA375
 @list	SYA189
 @uname	CUNEIFORM SIGN TIR
@@ -40608,6 +40630,7 @@
 
 @sign |ŠE.ŠE.NUN&NUN|
 @oid	o0002731
+@list	RSP442
 @useq	x122BA.x12301
 @ucun	𒊺𒌁
 @v	ašnan
@@ -43827,7 +43850,6 @@
 @list	PTACE048
 @list	REC147
 @list	RSP443
-@list	RSP444
 @list	SLLHA058
 @list	SYA025
 @uname	CUNEIFORM SIGN TU
@@ -44035,7 +44057,6 @@
 @list	LAK494
 @list	MZL354
 @list	PTACE224
-@list	RSP403
 @list	RSP404
 @list	SLLHA207
 @list	SYA119
@@ -45685,9 +45706,6 @@
 @link	eBL UD https://www.ebl.lmu.de/signs/UD
 @link	Wikidata Q87556540 http://www.wikidata.org/entity/Q87556540
 @end sign
-
-@lref	RSP319
-@note Sequence DI-UD = salah read {+sa₂}salah.
 
 @sign |UD.A|
 @oid	o0002486
