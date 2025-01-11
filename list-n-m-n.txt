@@ -48,3 +48,29 @@ of glyphs and sub-entries automatically:
  @sign DIŠ@t
  @list RSP005^b
  ...
+
+
+@list/@lref Extended Syntax
+===========================
+
+The simplest way to gloss @list and @lref entries is to follow them
+with @note.  In addition, an Extended Syntax (ES) can be used to set
+the fields that are used in list pages.
+
+The fields are: sign-name; unicode-or-image; values.  Feature lists
+may follow the list ES and the usual @note can also be used for
+additional unstructured commentary on the @list/@lref.
+
+
+    @list/@lref LIST  SIGN_NAME ( <image-filename | utokens ) atftokens OTFEAT
+
+An abbreviated form can be used when the @list/@lref only has an image:
+
+   @lref LIST <image-filename
+
+If there is no sign-name, but other fields are needed, an uppercase
+'O' should be used for the sign-name.  If there are no values but
+other fields are needed, a single hyphen, '-', should be used.  In
+both cases the list output for these fields in the .tsv is an empty
+field, i.e., the 'O' or '-' are deleted in the output.
+

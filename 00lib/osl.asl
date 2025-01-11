@@ -1431,7 +1431,7 @@
 @list	LAK796
 @list	MZL846
 @list	PTACE329
-@list	RSP183
+@list	RSP183^a
 @uname	CUNEIFORM SIGN A TIMES HA
 @list	U+12004
 @ucun	𒀄
@@ -4942,7 +4942,6 @@
 @list	MZL121
 @list	PTACE306
 @list	RSP044
-@list	RSP134
 @list	SLLHA074
 @list	SYA041
 @uname	CUNEIFORM SIGN BAR
@@ -8650,7 +8649,7 @@
 @list	ABZL415
 @list	ELLES388
 @list	LAK791
-@list	RSP254
+@list	RSP253
 @list	SYA254
 @uname	CUNEIFORM SIGN DUR2
 @list	U+12089
@@ -10429,7 +10428,7 @@
 @list	BAU386b
 @list	ELLES110
 @list	LAK186
-@list	RSP256
+@list	RSP256^a
 @note	This is a variant of GAN₂@t listed in Ea 1, 186-188. The sign is to be distinguished from ZI₃, which is EŠ₂@t in ED writing.
 @inote	this should probably be moved to be an @form of GAN₂@t
 @v	eš₂@t
@@ -13484,8 +13483,6 @@
 @oid	o0000195
 @list	ABZL210
 @list	MZL338
-@list	RSP179
-@list	RSP180
 @list	SLLHA190kv
 @uname	CUNEIFORM SIGN GALAM
 @list	U+120F4
@@ -13636,7 +13633,6 @@
 @list	LAK089
 @list	MZL174
 @list	PTACE056
-@list	RSP007
 @list	RSP029
 @list	RSP031
 @list	RSP247
@@ -13793,7 +13789,6 @@
 @list	MZL859
 @list	PTACE234
 @list	RSP152
-@list	RSP254
 @list	SLLHA597
 @list	SYA283
 @uname	CUNEIFORM SIGN GAR
@@ -14210,7 +14205,6 @@
 @list	MZL212
 @list	PTACE246
 @list	RSP214
-@list	RSP216
 @list	SLLHA210
 @uname	CUNEIFORM SIGN GESHTIN
 @list	U+120FE
@@ -16386,7 +16380,6 @@
 @oid	o0223364
 @aka	|(GUD×KUR₂)&(GUD×KUR₂)|
 @list	RSP189
-@list	RSP189*
 @end sign
 
 @sign |GUD×ŠE|
@@ -16754,7 +16747,7 @@
 
 @sign |HA.A|
 @oid	o0001436
-@list	RSP183
+@list	RSP183 .1 .2
 @useq	x12129.x12000
 @ucun	𒄩𒀀
 @v	kuar
@@ -16886,6 +16879,7 @@
 @list	ELLES195
 @list	LAK352
 @list	MZL857
+@list	RSP180
 @list	SLLHA590
 @uname	CUNEIFORM SIGN HA TENU
 @list	U+1212A
@@ -23848,9 +23842,6 @@
 @@
 @end sign
 
-@lref	RSP086
-@note Sequence KUL-ABA₄
-
 @sign |KUL.ŠA₃|
 @oid	o0022983
 @inote	dcclt !sg
@@ -25964,6 +25955,7 @@
 @list	LAK301
 @list	LAK302
 @list	MZL721
+@list	RSP144
 @list	PTACE160
 @list	SLLHA459a
 @uname	CUNEIFORM SIGN LAGAR GUNU
@@ -27474,7 +27466,6 @@
 @sign LAK490
 @oid	o0000384
 @list	LAK490
-@list	RSP216
 @list	RSP429
 @uname	CUNEIFORM SIGN LAK490
 @list	U+124FB
@@ -33970,9 +33961,6 @@
 @link	Wikidata Q87556213 http://www.wikidata.org/entity/Q87556213
 @end sign
 
-@lref RSP097
-@note Sequence NUN-KI(-GA) eridu{ki}(-ga).
-
 @sign |NUN.LAGAR|
 @list	ASY063a
 @oid	o0002125
@@ -36720,6 +36708,19 @@
 @inote	admin/ed3b
 @v	narₓ
 @end sign
+
+@lref	RSP007 O 𒀸 𒃷 1(bur₃) gana₂
+
+@lref	RSP086
+@note Sequence KUL-ABA₄
+
+@lref RSP097
+@note Sequence NUN-KI(-GA) eridu{ki}(-ga).
+
+@lref	RSP216 GEŠTIN.LAK490.ZIZ₂ 𒃾𒓻𒀾
+
+@lref	RSP324
+@note Sequence UD-ŠA
 
 @sign RU
 @list	ASY041
@@ -39482,9 +39483,6 @@
 @link	eBL ŠA https://www.ebl.lmu.de/signs/ŠA
 @link	Wikidata Q87556353 http://www.wikidata.org/entity/Q87556353
 @end sign
-
-@lref	RSP324
-@note Sequence UD-ŠA
 
 @sign |ŠA.PI|
 @oid	o0031696
@@ -44336,7 +44334,7 @@
 @list	LAK807
 @list	MZL661
 @list	RSP006 .1 .2 .3 .4
-@list	RSP008 .5 .6 .7
+@list	RSP008 ŠUŠ 𒌋 šuš šu₄ .5 .6 .7
 @list	SLLHA411
 @list	SYA213
 @uname	CUNEIFORM NUMERIC SIGN U
@@ -44865,7 +44863,6 @@
 @list	HZL262
 @list	KWU412
 @list	MZL720
-@list	RSP144
 @list	SLLHA459
 @list	SYA234
 @useq	x1230B.x12306
@@ -49343,7 +49340,6 @@
 @oid	o0000612
 @list	ABZL211
 @list	LAK162b
-@list	RSP216
 @lit	M. krebernik, OBO 160/1, 277
 @uname	CUNEIFORM SIGN ZIZ2
 @list	U+12369
