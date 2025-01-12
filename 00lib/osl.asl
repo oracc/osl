@@ -4338,6 +4338,7 @@
 @list	KWU333
 @list	LAK178
 @list	MZL575
+@list	RSP005^a
 @list	SLLHA360
 @note	This sign is variously described as AŠ-tenû (MSL) or DIŠ-tenû (MZL 575) in the literature. AŠ sign with head to the left, sloping down to the right.
 @uname	CUNEIFORM SIGN ASH ZIDA TENU
@@ -5793,13 +5794,14 @@
 @end sign
 
 @sign BURU₅
-@list	ASY054a
 @oid	o0000130
+@list	ASY054a
 @list	ABZL043
 @list	ELLES044
 @list	GCSL039
-@list	LAK072
+@list	LAK072b
 @list	MZL135
+@list	RSP414
 @note	The NB source for Ea II (LKU 1) describes BURU₅ as NAM nutillû
 @lit	Cavigneaux and Al-Rawi ZA 92 (2002), 44-50
 @uname	CUNEIFORM SIGN NAM NUTILLU
@@ -5822,8 +5824,8 @@
 @ucun	𒄷𒊺𒂟
 @@
 @form NAM
-@list	ASY054
 @oid	o0000474
+@list	ASY054
 @list	BAU038
 @list	ELLES043
 @list	GCSL040
@@ -5843,8 +5845,6 @@
 
 @sign |BURU₅×AMAR@t|
 @oid	o0025788
-@list	LAK072b
-@list	RSP414
 @v	buruₓ
 @v	uₓ
 @inote	dupfix MZL u₅(|HU.SI|)
@@ -7196,6 +7196,7 @@
 @aka	N8
 @list	LAK834
 @list	LAK854a
+@list	RSP035
 @inote	@ucode	xebc2
 @v	barig@c
 @v	bariga@c
@@ -7283,17 +7284,6 @@
 @end sign
 
 @compoundonly	|DIŠ.BAD&BAD|
-
-@sign |DIŠ.DAR|
-@oid	o0000983
-@useq	x12079.x1206F
-@ucun	𒁹𒁯
-@v	ašdar₂
-@ref	Ass 00523 = dcclt/signlists:P3703411 r ii 44
-@inote	salgues
-@note	DIŠ-DAR is also a writing for uₓ(DIŠ)-gun₃.
-@link	eBL |DIŠ.DAR| https://www.ebl.lmu.de/signs/|DIŠ.DAR|
-@end sign
 
 @sign |DIŠ.DIŠ.DIŠ|
 @oid	o0000986
@@ -26601,9 +26591,6 @@
 @lref LAK067
 @note Sequence u₅-a.
 
-@lref LAK179
-@note Sequence AŠ@t-DAR
-
 @lref LAK192
 @note Sequence eš-bar
 
@@ -36723,10 +36710,15 @@
 @v	narₓ
 @end sign
 
-@lref	RSP007 O 𒀸 𒃷 1(bur₃) gana₂
+@lref	RSP007 O 𒀸 𒃷 1(aš) (bur₃) gana₂
 
-@lref	RSP086
-@note Sequence KUL-ABA₄
+@lref	RSP029 O 𒕢 𒃷 1(u@c) (bur₃) gana₂
+
+@lref	RSP031 O 𒕹 𒃷 1(šar₂@c) (bur₃) gana₂
+
+@lref	RSP034 O 𒖎 𒃷 1(burʾu@c) gana₂
+
+@lref	RSP086 KUL-ABA₄ 𒆰𒀕 kul-aba₄
 
 @lref	RSP097 NUN-KI 𒉣𒆠 eridu{ki}
 
@@ -37389,7 +37381,6 @@
 @list	LAK317
 @list	MZL512
 @list	PTACE166
-@list	RSP133
 @list	RSP193
 @list	SLLHA329
 @uname	CUNEIFORM SIGN SAG GUNU
@@ -44409,7 +44400,6 @@
 @list 	LAK840
 @list 	LAK857
 @list	RSP028
-@list	RSP029
 @sys pcun 1(N14)
 @list U+12562
 @uname CUNEIFORM NUMERIC SIGN ONE N14
@@ -44489,6 +44479,25 @@
 @v	ugun?
 @v	ugunu
 @link	eBL |U.DAR| https://www.ebl.lmu.de/signs/|U.DAR|
+@form |DIŠ.DAR|
+@oid	o0000983
+@useq	x12079.x1206F
+@ucun	𒁹𒁯
+@v	ašdar₂
+@ref	Ass 00523 = dcclt/signlists:P3703411 r ii 44
+@inote	salgues
+@note	DIŠ-DAR is also a writing for uₓ(DIŠ)-gun₃.
+@link	eBL |DIŠ.DAR| https://www.ebl.lmu.de/signs/|DIŠ.DAR|
+@@
+@form	|AŠ@t.DAR|
+@oid	o0038420
+@list LAK179
+@list RSP011
+@useq	x12039.x1206F
+@ucun	𒀹𒁯
+@v	ašdar
+@v	eš₁₈-dar
+@@
 @end sign
 
 @sign |U.DIM|
@@ -45221,7 +45230,7 @@
 @form 1(BURU@c)
 @oid	o0223372
 @list	LAK858a
-@list	RSP034
+@list	RSP034^a
 @inote	@ucode	xebb7
 @inote	this is the new OGSL name for U@c×KASKAL
 @v	burʾu@c
@@ -51887,8 +51896,8 @@
 @oid	o0223385
 @list	LAK829
 @list	LAK838
-@list	RSP036
-@list	RSP036bis
+@list	RSP036 .0 .1
+@list	RSP036bis .2
 @inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
 @v	1/2(aš@c)
 @inote 1/2(aš@c) is CDLI for 1/2(gur@); also note that there is no 1/2(aš@c@90) though if there were this would be it
