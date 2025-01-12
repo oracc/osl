@@ -1208,6 +1208,7 @@
 @sign |A.TU.GABA.LIŠ|
 @oid	o0000723
 @list	ELLES123
+@list	RSP055
 @useq	x12000.x12305.x120EE.x121FA
 @ucun	𒀀𒌅𒃮𒇺
 @v	asal₂
@@ -5799,7 +5800,6 @@
 @list	GCSL039
 @list	LAK072
 @list	MZL135
-@list	RSP414
 @note	The NB source for Ea II (LKU 1) describes BURU₅ as NAM nutillû
 @lit	Cavigneaux and Al-Rawi ZA 92 (2002), 44-50
 @uname	CUNEIFORM SIGN NAM NUTILLU
@@ -5844,7 +5844,7 @@
 @sign |BURU₅×AMAR@t|
 @oid	o0025788
 @list	LAK072b
-@list	RSP409
+@list	RSP414
 @v	buruₓ
 @v	uₓ
 @inote	dupfix MZL u₅(|HU.SI|)
@@ -7843,7 +7843,8 @@
 @link	Wikidata Q87555252 http://www.wikidata.org/entity/Q87555252
 @end sign
 
-@sign |DUB×(GA.A)|
+@sign	|URUDA×(GA.A)|
+@aka	|DUB×(GA.A)|
 @oid	o0221964
 @list	RSP283
 @inote	probably better |URUDA×(GA.A)|
@@ -17624,10 +17625,12 @@
 @end sign
 
 @sign |HI@g×BAD|
+@oid	o0038416
 @list RSP313
 @end sign
 
 @sign |HI@g×GAD|
+@oid	o0038418
 @list RSP314
 @end sign
 
@@ -17767,6 +17770,7 @@
 @list	LAK066
 @list	MZL133
 @list	PTACE034
+@list	RSP409
 @list	SYA046
 @useq	x12137.x122DB
 @ucun	𒄷𒋛
@@ -20219,6 +20223,7 @@
 
 @sign |KA×GAN₂@t.ŠA|
 @oid	o0001625
+@list	RSP202^a
 @useq	x12164.x122AD
 @ucun	𒅤𒊭
 @v	buzur₄
@@ -27361,6 +27366,7 @@
 @oid	o0001855
 @list	ELLES237
 @list	LAK453
+@list	RSP353
 @uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS PAP PLUS LU3
 @list	U+124F5
 @ucun	𒓵
@@ -27372,9 +27378,8 @@
 @useq	x1226D.X
 @ucun	𒉭X
 @@
-@form |NUNUZ.AB₂×(LU₃.PAP.PAP)|
+@form- |NUNUZ.AB₂×(LU₃.PAP.PAP)|
 @oid	o0002145
-@list	RSP353
 @useq	x1226D.X
 @ucun	𒉭X
 @link	eBL |NUNUZ.AB₂×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×(LU₃.PAP.PAP)|
@@ -28135,6 +28140,7 @@
 @list	KWU634
 @list	LAK208
 @list	REC145
+@list	RSP444
 @lit	Krecher 1973 https://doi.org/10.1515/zava.1973.63.2.145 p. 232
 @uname	CUNEIFORM SIGN KU4 VARIANT FORM
 @list	U+121AE
@@ -34432,6 +34438,7 @@
 @useq	x1226D.x12016
 @ucun	𒉭𒀖
 @v	nisagga
+@v	usanₓ
 @link	eBL |NUNUZ.AB₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂|
 @form LAK449b
 @oid	o0025778
@@ -36679,7 +36686,7 @@
 @@
 @end sign
 
-@sign RSP194
+@sign |KUŠ₂×AŠ@t|
 @oid	o0027529
 @list	RSP194
 @end sign
@@ -36689,21 +36696,9 @@
 @list	RSP280
 @end sign
 
-@sign RSP350
-@oid	o0221918
-@inote	admin/ed3b
-@v	usanₓ
-@end sign
-
 @sign RSP374
 @oid	o0025705
 @inote	possibly a malformed IL, see RSP ad loc
-@end sign
-
-@sign RSP380bis
-@oid	o0221919
-@inote	admin/ed3b
-@v	uriₓ
 @end sign
 
 @sign RSP404
@@ -47224,8 +47219,8 @@
 @list	LAK647
 @v	sigₓ
 @@
-@form RSP380b
-@oid	o0021454
+@form RSP380bis
+@oid	o0221919
 @list	RSP380bis
 @inote	cp LAK576 which is similar but not identical
 @@
@@ -47594,7 +47589,6 @@
 @list	GCSL274
 @list	KWU228
 @list	MZL079
-@list	RSP055
 @list	RSP281
 @list	SLLHA044
 @uname	CUNEIFORM SIGN URU TIMES IGI
