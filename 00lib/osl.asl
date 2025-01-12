@@ -7562,7 +7562,6 @@
 @list	MZL351
 @list	PTACE238
 @list	RSP372
-@list	RSP373
 @list	SLLHA201
 @list	SYA115
 @uname	CUNEIFORM SIGN DU GUNU
@@ -7594,6 +7593,10 @@
 @v	suhuš⁻
 @sys	Attinger suhuš⁻ => suhuš
 @link	eBL DU https://www.ebl.lmu.de/signs/DU
+@@
+@form DU@s@g
+@oid	o0038422
+@list	RSP373
 @@
 @end sign
 
