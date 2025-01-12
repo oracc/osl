@@ -113,7 +113,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF005E
+	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0083
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -6923,6 +6923,9 @@
 @list	LAK056
 @list	PTACE063
 @list	RSP426
+@upua	U+F0075
+@ucun	󰁵
+@uage	9.2
 @v	mun
 @lit	Civil, ZA 74, 162; Civil ARES 4, 86.
 @@
@@ -7591,6 +7594,9 @@
 @form DU@s@g
 @oid	o0038422
 @list	RSP373
+@upua	U+F0078
+@ucun	󰁸
+@uage	9.2
 @@
 @end sign
 
@@ -7835,6 +7841,9 @@
 @oid	o0221964
 @list	RSP283
 @inote	probably better |URUDA×(GA.A)|
+@upua	U+F0065
+@ucun	󰁥
+@uage	9.2
 @end sign
 
 @sign |DUB×LAGAB|
@@ -10426,6 +10435,9 @@
 @list	RSP256^a
 @note	This is a variant of GAN₂@t listed in Ea 1, 186-188. The sign is to be distinguished from ZI₃, which is EŠ₂@t in ED writing.
 @inote	this should probably be moved to be an @form of GAN₂@t
+@upua	U+F0064
+@ucun	󰁤
+@uage	9.2
 @v	eš₂@t
 @inote	eš₂@t is used in the ed3b corpus in lu₂-eš₂/eš₂@t-gid₂
 @v	karₓ
@@ -10438,8 +10450,8 @@
 
 @sign |EŠ₂@t.GIR₂@g|
 @oid	o0001137
-@useq	X.x12109
-@ucun	X𒄉
+@useq	xF0064.x12109
+@ucun	󰁤𒄉
 @link	eBL |EŠ₂@t.GIR₂@g| https://www.ebl.lmu.de/signs/|EŠ₂@t.GIR₂@g|
 @end sign
 
@@ -16373,6 +16385,9 @@
 @oid	o0223364
 @aka	|(GUD×KUR₂)&(GUD×KUR₂)|
 @list	RSP189
+@upua	U+F0061
+@ucun	󰁡
+@uage	9.2
 @end sign
 
 @sign |GUD×ŠE|
@@ -17103,6 +17118,9 @@
 @oid	o0001457
 @list	ELLES199
 @list	RSP312^a
+@upua	U+F0066
+@ucun	󰁦
+@uage	9.2
 @v	surₓ
 @ref	Ebla Sign List = dcclt:Q000038 66, |HI×MAŠ| su-ru₁₂-um
 @v	šurₓ
@@ -17303,6 +17321,9 @@
 @oid	o0001457
 @list	ELLES199
 @list	RSP312^a
+@upua	U+F0066
+@ucun	󰁦
+@uage	9.2
 @@
 @form |HI×U|
 @oid	o0001463
@@ -17318,6 +17339,9 @@
 @oid	o0001457
 @list	ELLES199
 @list	RSP312^a
+@upua	U+F0066
+@ucun	󰁦
+@uage	9.2
 @end sign
 
 @sign |HI×BAD×U|
@@ -17611,11 +17635,17 @@
 @sign |HI@g×BAD|
 @oid	o0038416
 @list RSP313
+@upua	U+F0067
+@ucun	󰁧
+@uage	9.2
 @end sign
 
 @sign |HI@g×GAD|
 @oid	o0038418
 @list RSP314
+@upua	U+F0068
+@ucun	󰁨
+@uage	9.2
 @end sign
 
 @sign HU
@@ -20189,6 +20219,9 @@
 @oid	o0023052
 @list	RSP206
 @inote	dcclt !sg
+@upua	U+F0070
+@ucun	󰁰
+@uage	9.2
 @@
 @form |KA×ŠU|
 @list	ASY017
@@ -20217,6 +20250,9 @@
 @form |KA×(GAN₂@t.ŠA)|
 @oid	o0223329
 @list	RSP202
+@upua	U+F0062
+@ucun	󰁢
+@uage	9.2
 @@
 @form |KA×ŠU.ŠA|
 @oid	o0018578
@@ -24104,8 +24140,8 @@
 @form |LAK526.MUŠ₃|
 @oid	o0031670
 @inote	addx dcclt/ebla
-@useq	X.x12239
-@ucun	X𒈹
+@useq	xF0073.x12239
+@ucun	󰁳𒈹
 @v	uruhₓ
 @@
 @end sign
@@ -26786,6 +26822,9 @@
 @list	RSP344
 @inote	epsd2
 @link	eBL LAK093 https://www.ebl.lmu.de/signs/LAK093
+@upua	U+F0072
+@ucun	󰁲
+@uage	9.2
 @end sign
 
 @sign LAK120
@@ -26833,6 +26872,9 @@
 @list	LAK151
 @list	RSP365
 @link	eBL LAK151 https://www.ebl.lmu.de/signs/LAK151
+@upua	U+F0079
+@ucun	󰁹
+@uage	9.2
 @end sign
 
 @sign LAK171@s
@@ -27545,6 +27587,9 @@
 @list	LAK526
 @list	RSP379
 @inote	epsd2/royal, ed3b
+@upua	U+F0073
+@ucun	󰁳
+@uage	9.2
 @v	meₓ
 @v	uriₓ
 @link	eBL LAK526 https://www.ebl.lmu.de/signs/LAK526
@@ -28722,8 +28767,8 @@
 @form |LU₂.EŠ₂@t|
 @oid	o0001934
 @inote	salgues
-@useq	x121FD.X
-@ucun	𒇽X
+@useq	x121FD.xF0064
+@ucun	𒇽󰁤
 @@
 @form |LU₂.ŠU|
 @oid	o0001952
@@ -29567,6 +29612,9 @@
 @list	ELLES138
 @list	LAK244
 @list	RSP468ter
+@upua	U+F0077
+@ucun	󰁷
+@uage	9.2
 @v	hamunzirₓ
 @link	eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
 @@
@@ -29574,6 +29622,9 @@
 @oid	o0221921
 @list	RSP468bis
 @inote	RSP468bis is apparently not reflected in LAK242/243/244 and needs collation
+@upua	U+F0076
+@ucun	󰁶
+@uage	9.2
 @@
 @end sign
 
@@ -35969,6 +36020,9 @@
 @form LAK244
 @oid	o0000335
 @link	eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
+@upua	U+F0077
+@ucun	󰁷
+@uage	9.2
 @@
 @form LAK247
 @oid	o0000337
@@ -35976,6 +36030,9 @@
 @list	LAK247
 @list	PTACE137
 @list	RSP460bis
+@upua	U+F0080
+@ucun	󰂀
+@uage	9.2
 @v	kilim
 @link	eBL LAK247 https://www.ebl.lmu.de/signs/LAK247
 @@
@@ -36482,8 +36539,8 @@
 @@
 @form |ZA.LAK247|
 @oid	o0028101
-@useq	x1235D.X
-@ucun	𒍝X
+@useq	x1235D.xF0080
+@ucun	𒍝󰂀
 @@
 @form |ZA.PIRIG|
 @oid	o0021458
@@ -36667,16 +36724,25 @@
 @aka |KUŠ₂×AŠ@t|
 @oid	o0027529
 @list	RSP194
+@upua	U+F0060
+@ucun	󰁠
+@uage	9.2
 @end sign
 
 @sign RSP280
 @oid	o0027530
 @list	RSP280
+@upua	U+F0071
+@ucun	󰁱
+@uage	9.2
 @end sign
 
 @sign RSP360
 @oid	o0038425
 @list RSP360
+@upua	U+F0081
+@ucun	󰂁
+@uage	9.2
 @end sign
 
 @sign RSP374
@@ -42875,6 +42941,9 @@
 @sign |TA×ŠE|
 @oid	o0002409
 @list	RSP211
+@upua	U+F0063
+@ucun	󰁣
+@uage	9.2
 @v	sukudₓ
 @link	eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
 @end sign
@@ -42952,6 +43021,9 @@
 @link	Wikidata Q87556478 http://www.wikidata.org/entity/Q87556478
 @form TAB@t
 @oid	o0000545
+@upua	U+F0083
+@ucun	󰂃
+@uage	9.2
 @v	tab@t
 @inote	ed3b
 @inote	Need to resolve this vs sign TAB@t = tab₄
@@ -43094,6 +43166,9 @@
 @oid	o0000545
 @list	MZL593
 @list	RSP039^a
+@upua	U+F0083
+@ucun	󰂃
+@uage	9.2
 @v	min₈
 @v	tab₄
 @ref	Ass 00523 = dcclt/signlists:P370411 r 2 48
@@ -43683,6 +43758,9 @@
 @form RSP329
 @oid	o0221893
 @list	RSP329
+@upua	U+F0082
+@ucun	󰂂
+@uage	9.2
 @@
 @form TE
 @list	ASY218
@@ -46039,6 +46117,9 @@
 @form |UD×KUŠU₂|
 @oid	o0223331
 @list	RSP321
+@upua	U+F0069
+@ucun	󰁩
+@uage	9.2
 @@
 @end sign
 
@@ -46625,12 +46706,15 @@
 @form |GAD.UR₂×TAK₄|
 @oid	o0223360
 @list	RSP062
-@useq	x120F0.X
-@ucun	𒃰X
+@useq	x120F0.xF005F
+@ucun	𒃰󰁟
 @@
 @form |UR₂×TAK₄|
 @oid	o0002594
 @aka	|UR₂×KID₂|
+@upua	U+F005F
+@ucun	󰁟
+@uage	9.2
 @v	umbinₓ
 @inote	umbin or umbinₓ?
 @@
@@ -46677,6 +46761,9 @@
 @@
 @form UMUM@s
 @oid	o0036120
+@upua	U+F004C
+@ucun	󰁌
+@uage	9.2
 @@
 @end sign
 
@@ -47064,8 +47151,8 @@
 @oid	o0002593
 @aka	|UR₂×KID₂.SU|
 @inote	epsd2/praxis
-@useq	X.x122E2
-@ucun	X𒋢
+@useq	xF005F.x122E2
+@ucun	󰁟𒋢
 @v	umbinₓ
 @end sign
 
@@ -47228,6 +47315,9 @@
 @oid	o0221919
 @list	RSP380bis
 @inote	cp LAK576 which is similar but not identical
+@upua	U+F0074
+@ucun	󰁴
+@uage	9.2
 @@
 @form URI@n
 @oid	o0000580
