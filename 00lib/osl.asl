@@ -6555,7 +6555,6 @@
 @list	GCSL033
 @list	HZL083
 @list	MZL183
-@list	RSP011
 @list	RSP411
 @list	SLLHA113
 @list	SYA072
@@ -7104,7 +7103,6 @@
 @list	MZL748
 @list	LAK854b
 @list	RSP005
-@list	RSP011
 @list	SLLHA480
 @list	SYA242
 @uname	CUNEIFORM NUMERIC SIGN DISH
