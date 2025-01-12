@@ -36706,13 +36706,13 @@
 @v	narₓ
 @end sign
 
-@lref	RSP007 O 𒀸 𒃷 1(aš) (bur₃) gana₂
+@lref	RSP007 O 𒀸𒃷 1(aš) (bur₃) gana₂
 
-@lref	RSP029 O 𒕢 𒃷 1(u@c) (bur₃) gana₂
+@lref	RSP029 O 𒕢𒃷 1(u@c) (bur₃) gana₂
 
-@lref	RSP031 O 𒕹 𒃷 1(šar₂@c) (bur₃) gana₂
+@lref	RSP031 O 𒕹𒃷 1(šar₂@c) (bur₃) gana₂
 
-@lref	RSP034 O 𒖎 𒃷 1(burʾu@c) gana₂
+@lref	RSP034 O 𒖎𒃷 1(burʾu@c) gana₂
 
 @lref	RSP086 KUL-ABA₄ 𒆰𒀕 kul-aba₄
 
