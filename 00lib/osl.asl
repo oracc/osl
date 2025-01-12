@@ -3477,6 +3477,7 @@
 @@
 @form |MUŠ₃.ZA|
 @oid	o0002043
+@list	RSP099
 @useq	x12239.x1235D
 @ucun	𒈹𒍝
 @v	zabalaₓ
@@ -6051,13 +6052,6 @@
 @v	haru₄
 @link	eBL |DAG.KISIM₅×BI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×BI|
 @link	Wikidata Q87555181 http://www.wikidata.org/entity/Q87555181
-@end sign
-
-@sign RSP359
-@list RSP359
-@end sign
-@sign RSP360
-@list RSP360
 @end sign
 
 @sign |DAG.KISIM₅×EN|
@@ -21621,9 +21615,11 @@
 @list	ASY206
 @oid	o0000268
 @list	ABZL227b
+@list	ELLES100
 @list	KWU316
 @list	LAK173
 @list	MZL569
+@list	RSP431
 @list	SLLHA354bv
 @list	SYA180
 @uname	CUNEIFORM SIGN KAD5
@@ -26864,15 +26860,6 @@
 @link	eBL LAK171@s https://www.ebl.lmu.de/signs/LAK171@s
 @end sign
 
-@sign LAK173
-@oid	o0000319
-@list	ELLES100
-@list	LAK173
-@list	RSP431
-@v	esirₓ
-@link	eBL LAK173 https://www.ebl.lmu.de/signs/LAK173
-@end sign
-
 @compoundonly	LAK178
 
 @sign LAK195
@@ -27929,6 +27916,7 @@
 @sign LAK722
 @oid	o0027551
 @list	LAK722
+@list	RSP359
 @inote	for lak.atf
 @end sign
 
@@ -30523,7 +30511,7 @@
 @list	HZL361
 @list	LAK417
 @list	MZL825
-@list	RSP039
+@list	RSP039^b
 @list	SLLHA570
 @uname	CUNEIFORM NUMERIC SIGN MIN
 @list	U+1222B
@@ -31256,7 +31244,6 @@
 @link	eBL |MUŠ₃.DI| https://www.ebl.lmu.de/signs/|MUŠ₃.DI|
 @form |A.MUŠ₃|
 @oid	o0000711
-@list	RSP099
 @useq	x12000.x12239
 @ucun	𒀀𒈹
 @v	se₂₄
@@ -31316,6 +31303,7 @@
 @form |MUŠ₃×A|
 @oid	o0002049
 @list	ABZL046
+@list	RSP099^b
 @uname	CUNEIFORM SIGN MUSH3 TIMES A
 @list	U+1223A
 @ucun	𒈺
@@ -31450,6 +31438,7 @@
 
 @sign |MUŠ₃.ZA|
 @oid	o0002043
+@list	RSP
 @useq	x12239.x1235D
 @ucun	𒈹𒍝
 @v	nam-ri
@@ -32358,7 +32347,8 @@
 @list	HZL172
 @list	KWU281
 @list	MZL312
-@list	RSP364
+@list	RSP364 .0 .1
+@list	RSP364bis .2
 @list	SLLHA173
 @list	SYA107
 @uname	CUNEIFORM SIGN NE SHESHIG
@@ -36684,6 +36674,11 @@
 @sign RSP280
 @oid	o0027530
 @list	RSP280
+@end sign
+
+@sign RSP360
+@oid	o0038425
+@list RSP360
 @end sign
 
 @sign RSP374
@@ -43101,6 +43096,7 @@
 @sign TAB@t
 @oid	o0000545
 @list	MZL593
+@list	RSP039^a
 @v	min₈
 @v	tab₄
 @ref	Ass 00523 = dcclt/signlists:P370411 r 2 48
@@ -48682,6 +48678,7 @@
 @form |MUŠ₃×ZA|
 @oid	o0018588
 @uname	CUNEIFORM SIGN MUSH3 TIMES ZA
+@list	RSP099^a
 @list	U+1238D
 @ucun	𒎍
 @uage	7.0
@@ -50269,6 +50266,7 @@
 @list	GCSL094
 @list	LAK185
 @list	MZL593
+@list	RSP039^a
 @list	SLLHA124n2
 @uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
 @list	U+1244A
