@@ -66,7 +66,10 @@
 @listdef SYA 1-285
 @lit	F. Thureau-Dangin, Le Syllabaire Accadien (Paris 1926)
 
-@listdef RSP 1-468 019bis 036bis 048bis 175^a 178bis 189* 339bis 361bis 380bis 426bis 460bis 468bis 468ter
+@listdef RSP 1-468 019bis 036bis 048bis 175^a 178bis 189* 339bis
+	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 034^a 039^a
+	 039^a 039^b 097^a 099^a 099^b 183^a 202^a 256^a 259^a 288^a
+	 312^a 312^a 312^a 370^a
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
 
 @listdef SLLHA 1-598 002a 007v 015x 016a 018v 018x 022x 022xn2 023n
@@ -2412,9 +2415,6 @@
 @inote	added during ogsl upgrade
 
 @compoundonly	|AB₂×(LU₃.BUR₂)|
-@inote	added during ogsl upgrade
-
-@compoundonly	|AB₂×(LU₃.PAP.PAP)|
 @inote	added during ogsl upgrade
 
 @sign |AB₂×(ME.EN)|
@@ -6290,6 +6290,8 @@
 @link	eBL LAK388 https://www.ebl.lmu.de/signs/LAK388
 @@
 @form |DAG.KISIM₅×LU|
+@oid	o0000962
+@list	RSP358
 @@
 @end sign
 
@@ -7502,7 +7504,7 @@
 @oid	o0000989
 @list	ABZL197
 @list	KWU706
-@list	RSP370a
+@list	RSP370^a
 @list	SLLHA206a
 @uname	CUNEIFORM SIGN DU OVER DU
 @list	U+1207B
@@ -9459,7 +9461,6 @@
 
 @sign |EN.KID|
 @oid	o0001052
-@list	RSP272
 @useq	x12097.x121A4
 @ucun	𒂗𒆤
 @v	ellil
@@ -13629,8 +13630,6 @@
 @list	LAK089
 @list	MZL174
 @list	PTACE056
-@list	RSP029
-@list	RSP031
 @list	RSP247
 @list	SLLHA105
 @list	SYA067
@@ -31438,7 +31437,7 @@
 
 @sign |MUŠ₃.ZA|
 @oid	o0002043
-@list	RSP
+@list	RSP099
 @useq	x12239.x1235D
 @ucun	𒈹𒍝
 @v	nam-ri
@@ -36666,7 +36665,8 @@
 @@
 @end sign
 
-@sign |KUŠ₂×AŠ@t|
+@sign	|SAG@g×AŠ@t|
+@aka |KUŠ₂×AŠ@t|
 @oid	o0027529
 @list	RSP194
 @end sign
@@ -36722,13 +36722,13 @@
 
 @lref	RSP097^a NUN-KI-GA 𒉣𒆠𒂵 eridu{ki}-ga
 
-@lref	RSP216 GEŠTIN-LAK490-ZIZ₂ 𒃾𒓻𒀾
+@lref	RSP216 GEŠTIN-LAK490-ZIZ₂ 𒃾𒓻𒀾 -
 
 @lref	RSP272 EN-LIL₂-KI 𒂗𒆤𒆠 nibru{ki}
 
 @lref	RSP319 DI-UD 𒁲𒌓 {+sa₂}salah ("salah")
 
-@lref	RSP324 UD-ŠA 𒌓𒊭
+@lref	RSP324 UD-ŠA 𒌓𒊭 -
 
 @sign RU
 @list	ASY041
@@ -39979,7 +39979,6 @@
 @list	LAK825
 @list	LAK844
 @list	RSP030
-@list	RSP031
 @inote	@ucode	xeba7
 @note P241764 = TM.75.G.02200 ŠAR₂ GAL; see also CDLI refs
 @v	šar₂@c
