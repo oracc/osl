@@ -1,0 +1,106 @@
+Notes on Fontifying a List
+
+(Based on experiences with RSP)
+
+
+1:1 List::Unicode
+=================
+
+@list in osl.asl; character in font
+
+When the list has more than one glyph for the entry, add them as SALT
+
+Choose a representative form for the unmarked (non-SALT) form; SALT variants don't have to be in order of sign list
+
+
+1:M List::Unicode
+=================
+
+When a list entry is split into multiple Unicode characters, one
+solution is to split the entry with ^a, ^b suffixes, e.g., RSP036bis,
+RSP036bis^a etc.
+
+When multiple glyphs are given, assign them to the respective Unicode
+font characters; they can also optionally be included under the main
+list entry so they display in the sign list in a single place as well
+as under the individual entries.
+
+RSP005 (DIŠ) 𒁹 u12079 𒀹 u12079.1
+
+RSP005^a (Aš@t) 𒀹 u12039
+
+Some cases are more complex.  RSP039 contains the glyphs 𒋰 𒑊 𒈫. The
+first is TAB (RSP039); the third is MIN (RSP039^b); the second
+corresponds to two OSL entries, TAB@t and 2(AŠ@t); OSL uses RSP039^a
+for both entries.
+
+
+M:1 List::Unicode
+=================
+
+When multiple list entries correspond to a single Unicode character,
+gather all the glyphs as SALT variants of the font character.
+
+The correlation between specific SALT variants and individual list
+entries is managed by adding a font features list to the @list entry:
+
+@list	RSP006 .1 .2 .3 .4
+@list	RSP008 ŠUŠ 𒌋 šuš šu₄ .5 .6 .7
+
+This means to display u1230B.1 .. u1230B.4 under RSP006; and u1230B.5
+.. u1230B.7 under RSP008.
+
+It is not presently possible to select a distinct reference form for
+each @list entry because the reference form belongs to the Unicode
+character not to the list entry.
+
+
+Imperfect List::Unicode Matches
+===============================
+
+When a list entry does not match the Unicode character, split the font
+entry into the Unicode proper and a SALT variant, as in RSP009/RSP010
+which give F₁-ŠA and F₂-ŠA as the fractions, but only the F₁/F₂ parts
+correspond to U+1245D/U+1245E.
+
+
+Sequence List Entries
+=====================
+
+Lists often have entries for sequences.  When these exist as OSL @sign
+or @form entries, it's only necessary to name them as .liga entries in
+the font, e.g., |KU.GAR| = u121AA_u120FB.liga.
+
+Note that it is important to use the OSL naming even when it is
+technically wrong--in this case, |DUR₂.GAR| would be better than
+|KU.GAR|.
+
+A sequence may reference characters that are not in the list
+separately; in this case add the character to the font to ensure the
+ligature is included in the feature list:
+
+  RSP018 |U.AN.HI×GAD| u1230B_u1202D_u12132.liga
+
+Needs u12132 as a font entry but |HI×GAD| is not in RSP, so it needs
+to be added to the font.
+
+When the sequence does not exist as an OSL @sign, use the @lref
+mechanism and give the Unicode signs without spaces to ensure that the
+ligature is activated:
+
+@lref	RSP097 NUN-KI 𒉣𒆠 eridu{ki}
+
+
+Exceptional List Entries
+========================
+
+List entries may contain multiple characters that are not
+sequences--these can be entered as @lref as above.
+
+List entries may not be representable as a character sequence--these
+can be left as plain @lref entries or an image can be given which is
+then used in the list page to illustrate the entry:
+
+@lref BAU555 <bau/bau555.png
+
+
