@@ -41,14 +41,40 @@ M:1 List::Unicode
 When multiple list entries correspond to a single Unicode character,
 gather all the glyphs as SALT variants of the font character.
 
+By default, all of the SALT variants for a Unicode character are
+displayed.
+
 The correlation between specific SALT variants and individual list
 entries is managed by adding a font features list to the @list entry:
 
 @list	RSP006 .1 .2 .3 .4
 @list	RSP008 ŠUŠ 𒌋 šuš šu₄ .5 .6 .7
 
-This means to display u1230B.1 .. u1230B.4 under RSP006; and u1230B.5
+In this case, the SALT variants for the Unicode character are ignored,
+and only the SALT variants for the @list are displayed.  Thus, this
+means to display u1230B.1 .. u1230B.4 under RSP006; and u1230B.5
 .. u1230B.7 under RSP008.
+
+The special SALT feature .0 is not displayed.  When multiple list
+entries share a single Unicode character but only one of them has SALT
+variations, this can be used to suppress SALT display:
+
+@form 1(BAN₂@c)
+@oid	o0223385
+@list	RSP036 .1
+@list	RSP036bis .0
+@list U+12593
+@uname CUNEIFORM NUMERIC SIGN ONE BAN2 CURVED
+@uage ACN
+@ucun 𒖓
+@@
+
+Without the .0, the @list RSP036bis would have no SALT variants, so
+all the SALT variants for U+12593 would be displayed.  The use of .0
+means that @list RSP036bis has its own SALT variants, ensuring that
+the SALT for U+12593 is ignored; but because the @list SALT only
+contains .0 the effect is in turn to ensure that no SALT is displayed
+for @list RSP036bis.
 
 It is not presently possible to select a distinct reference form for
 each @list entry because the reference form belongs to the Unicode

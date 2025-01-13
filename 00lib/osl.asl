@@ -66,9 +66,9 @@
 @listdef SYA 1-285
 @lit	F. Thureau-Dangin, Le Syllabaire Accadien (Paris 1926)
 
-@listdef RSP 1-468 019bis 036bis 048bis 175^a 178bis 189* 339bis
+@listdef RSP 1-468 019bis 036bis 036bis^a 036bis^b 036bis^c 036bis^d 048bis 175^a 178bis 339bis
 	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 034^a 039^a
-	 039^a 039^b 097^a 099^a 099^b 183^a 202^a 256^a 259^a 288^a
+	 039^a 039^b 041^a 097^a 099^a 099^b 183^a 202^a 256^a 259^a 288^a
 	 312^a 312^a 312^a 370^a
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
 
@@ -4379,7 +4379,6 @@
 @link	Wikidata Q87555112 http://www.wikidata.org/entity/Q87555112
 @form- 1(AŠ@t@c)
 @oid	o0223351
-@list	RSP035
 @v	1(aš@t@c)
 @@
 @end sign
@@ -13039,7 +13038,7 @@
 @list	ELLES064
 @list	LAK119
 @list	PTACE117
-@list	RSP104
+@list	RSP104 .0
 @list	SYA102
 @uname	CUNEIFORM SIGN GABA
 @list	U+120EE
@@ -23573,11 +23572,13 @@
 
 @sign |KU.GAR|
 @oid	o0001750
+@list	RSP254
 @useq	x121AA.x120FB
 @ucun	𒆪𒃻
 @v	guza
 @v	guzza
 @link	eBL |KU.GAR| https://www.ebl.lmu.de/signs/|KU.GAR|
+@inote Really |DUR₂.GAR|
 @end sign
 
 @sign |KU.GIŠ%GIŠ|
@@ -26183,7 +26184,7 @@
 @sign |LAL.LAGAB|
 @list	ASY277a
 @oid	o0001888
-@list	RSP041
+@list	RSP041^a
 @useq	x121F2.x121B8
 @ucun	𒇲𒆸
 @v	nanga₂
@@ -26352,6 +26353,7 @@
 @oid	o0001896
 @list	ABZL468
 @list	BAU293
+@list	RSP041
 @useq	x121F3.x121B8
 @ucun	𒇳𒆸
 @v	nanga
@@ -41005,7 +41007,6 @@
 @sign |ŠEŠ.AB@g|
 @oid	o0002735
 @list	BAU014
-@list	RSP090
 @useq	x122C0.x12015
 @ucun	𒋀𒀕
 @v	ura₁₅
@@ -42560,7 +42561,6 @@
 @list	KWU510
 @list	LAK357
 @list	MZL871
-@list	RSP018
 @list	SLLHA546_6
 @useq	x122D9.x1202D.x12132
 @ucun	𒋙𒀭𒄲
@@ -42607,7 +42607,8 @@
 @ucun	𒋙𒄭𒀭
 @v	keš₃
 @@
-@form |U.AN.HI×GAD|
+@form	|U.AN.HI×GAD|
+@list	RSP018
 @oid	o0038079
 @useq	x1230B.x1202D.x12132
 @ucun	𒌋𒀭𒄲
@@ -47335,6 +47336,7 @@
 @list	GCSL007a
 @list	KWU029
 @list	LAK031
+@list	RSP090
 @uname	CUNEIFORM SIGN URI3
 @list	U+12336
 @ucun	𒌶
@@ -50316,7 +50318,6 @@
 
 @sign- 2(DIŠ@t)
 @oid	o0000014
-@list	RSP039
 @v-	tabₓ
 @inote	deprecated because we use TAB@t=tab₄ for this sign/value
 @v	2(diš@t)
@@ -51984,8 +51985,8 @@
 @oid	o0223385
 @list	LAK829
 @list	LAK838
-@list	RSP036 .0 .1
-@list	RSP036bis .2
+@list	RSP036 .1
+@list	RSP036bis .0
 @inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
 @v	1/2(aš@c)
 @inote 1/2(aš@c) is CDLI for 1/2(gur@); also note that there is no 1/2(aš@c@90) though if there were this would be it
@@ -52020,7 +52021,7 @@
 @form 2(BAN₂@c)
 @oid	o0223389
 @list	LAK830
-@list	RSP036bis
+@list	RSP036bis^a
 @inote	@ucode	xebbe
 @v	2(ban₂@c)
 @sys acn 2(BAN₂@c)
@@ -52045,7 +52046,7 @@
 @form 3(BAN₂@c)
 @oid	o0223398
 @list	LAK831
-@list	RSP036bis
+@list	RSP036bis^b
 @inote	@ucode	xebbf
 @v	3(ban₂@c)
 @sys acn 3(BAN₂@c)
@@ -52075,7 +52076,7 @@
 @form 4(BAN₂@c)
 @oid	o0223413
 @list	LAK832
-@list	RSP036bis
+@list	RSP036bis^c
 @inote	@ucode	xebc0
 @v	4(ban₂@c)
 @sys acn 4(BAN₂@c)
@@ -52100,7 +52101,7 @@
 @form 5(BAN₂@c)
 @oid	o0223424
 @list	LAK833
-@list	RSP036bis
+@list	RSP036bis^d
 @inote	@ucode	xebc1
 @v	5(ban₂@c)
 @sys acn 5(BAN₂@c)
