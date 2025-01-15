@@ -27599,12 +27599,6 @@
 @link	eBL LAK526 https://www.ebl.lmu.de/signs/LAK526
 @end sign
 
-@sign LAK539
-@oid	o0000396
-@list	LAK539
-@link	eBL LAK539 https://www.ebl.lmu.de/signs/LAK539
-@end sign
-
 @sign LAK546
 @oid	o0025735
 @list	LAK546
@@ -49084,7 +49078,9 @@
 @list	HZL108
 @list	KWU824
 @list	LAK538
+@list	LAK539
 @list	MZL259
+@list	PTACE057
 @list	SLLHA147
 @list	SYA096
 @inote	Molina JNES 63, 2
