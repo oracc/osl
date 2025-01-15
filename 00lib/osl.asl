@@ -47828,6 +47828,7 @@
 @list	ELLES314
 @list	KWU226
 @list	MZL080
+@list	PTACE081
 @list	SLLHA049x
 @list	SYA019
 @note	LAK648 is GIŠGAL, but is not properly described as URU×MIN. Many of the URU× signs are LAK648× in ED.
