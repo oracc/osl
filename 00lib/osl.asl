@@ -26677,6 +26677,7 @@
 @oid	o0000321
 @list	ELLES013
 @list	LAK020
+@list	PTACE014
 @inote	@uname-no-utf8	CUNEIFORM SIGN LAK20
 @v	balaₓ
 @inote	ed12
