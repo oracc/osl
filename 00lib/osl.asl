@@ -49641,7 +49641,11 @@
 @sign |ZU₅×A|
 @oid	o0002680
 @list	BAU341
+@list	PTACE071
 @list	SLLHA181n
+@inote	PTACE071 has both drawings that look like ZU₅ and ones that look like ZU₅+A,
+	and gives both values azu and zu₅.
+	EbDA has only azu, which looks like 𒍫+𒀀 (like Šuruppag AZU) in photos.
 @uname	CUNEIFORM SIGN ZU5 TIMES A
 @list	U+1236C
 @ucun	𒍬
