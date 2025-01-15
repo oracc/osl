@@ -28792,7 +28792,10 @@
 @list	ABZL258
 @list	ELLES189
 @list	MZL521
+@list	PTACE019
 @list	SLLHA330_7
+@inote	PTACE calls it LÚ×ÉŠ, but gives it the value šaga PTACE has no LU₂×GAN₂@t.
+	EbDA has LU₂×GANA₂ tenû and no LU₂×EŠ₂.
 @uname	CUNEIFORM SIGN LU2 TIMES GAN2 TENU
 @list	U+12202
 @ucun	𒈂
