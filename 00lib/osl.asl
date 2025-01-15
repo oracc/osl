@@ -29618,6 +29618,7 @@
 @ucun	󰁷
 @uage	9.2
 @v	hamunzirₓ
+@v	narₓ
 @link	eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
 @@
 @form RSP468bis
@@ -29627,6 +29628,7 @@
 @upua	U+F0076
 @ucun	󰁶
 @uage	9.2
+@v	narₓ
 @@
 @end sign
 
@@ -36756,22 +36758,6 @@
 @oid	o0221920
 @inote	admin/ed3b
 @v	ilₓ
-@end sign
-
-@sign- RSP468bis
-@inote s.v. LUL
-@oid	o0221921
-@list	RSP468bis
-@inote	admin/ed3b
-@v	narₓ
-@end sign
-
-@sign- RSP468ter
-@inote s.v. LUL
-@oid	o0221922
-@list	RSP468ter
-@inote	admin/ed3b
-@v	narₓ
 @end sign
 
 @lref	RSP007 O 𒀸𒃷 1(aš) (bur₃) gana₂
