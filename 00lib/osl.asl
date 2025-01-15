@@ -6548,12 +6548,15 @@
 @end sign
 
 @sign DAR
+@aka HU@g
 @list	ASY083
 @oid	o0000135
 @list	ABZL037
 @list	BAU036
+@list	ELLES042
 @list	GCSL033
 @list	HZL083
+@list	LAK069
 @list	MZL183
 @list	RSP411
 @list	SLLHA113
@@ -17803,13 +17806,6 @@
 @useq	x12223.x12137
 @ucun	𒈣𒄷
 @@
-@end sign
-
-@sign HU@g
-@oid	o0027540
-@list	ELLES042
-@list	LAK069
-@inote	for lak.atf
 @end sign
 
 @sign HUB₂
