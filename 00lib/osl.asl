@@ -1279,6 +1279,7 @@
 @oid	o0000105
 @list	BAU134
 @list	LAK212
+@list	PTACE049
 @lit	Krebernik, OBO 160/1, 283
 @inote	P452998 = MRAH O.5009 i 3 (Old Akkadian)
 @uname	CUNEIFORM SIGN ASAL2
