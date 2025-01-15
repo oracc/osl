@@ -29836,6 +29836,7 @@
 
 @sign |MA×GAN₂@t|
 @oid	o0021456
+@list	PTACE028
 @inote	ed3b, collated from photo P225807; GAN₂@t runs SW to NE not NW to SE, i.e., is rotated -90 degrees
 @end sign
 
