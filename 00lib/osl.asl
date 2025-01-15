@@ -1015,6 +1015,7 @@
 @@
 @form |GISAL.A|
 @oid	o0031749
+@list	PTACE252
 @useq	x12110.x12000
 @ucun	𒄐𒀀
 @@
