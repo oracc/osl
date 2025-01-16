@@ -26954,18 +26954,6 @@
 @link	eBL LAK213 https://www.ebl.lmu.de/signs/LAK213
 @end sign
 
-@sign LAK219
-@oid	o0000326
-@list	LAK219
-@list	RSP179
-@uname	CUNEIFORM SIGN LAK219
-@list	U+124E3
-@ucun	𒓣
-@uage	8.0
-@link	eBL LAK219 https://www.ebl.lmu.de/signs/LAK219
-@link	Wikidata Q87557280 http://www.wikidata.org/entity/Q87557280
-@end sign
-
 @sign LAK220
 @oid	o0000327
 @list	LAK220
@@ -40649,8 +40637,13 @@
 @oid	o0002728
 @pname	|ŠE+SUHUR|
 @list	ABZL387
-@useq	x122BA.x122E6
-@ucun	𒊺𒋦
+@list	LAK219
+@list	RSP179
+@list	U+124E3
+@ucun	𒓣
+@uage	8.0
+@link	eBL LAK219 https://www.ebl.lmu.de/signs/LAK219
+@link	Wikidata Q87557280 http://www.wikidata.org/entity/Q87557280
 @v	ubiₓ
 @link	eBL |ŠE.SUHUR| https://www.ebl.lmu.de/signs/|ŠE.SUHUR|
 @end sign
