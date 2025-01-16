@@ -27061,13 +27061,6 @@
 @link	eBL LAK252 https://www.ebl.lmu.de/signs/LAK252
 @end sign
 
-@sign LAK256
-@oid	o0025860
-@list	ELLES143
-@list	LAK256
-@inote	for dcclt/ebla--required for LAK256@g
-@end sign
-
 @sign LAK256@g
 @oid	o0025829
 @list	LAK256@g
@@ -36307,9 +36300,12 @@
 @oid	o0000503
 @list	ABZL178
 @list	BAU162
+@list	ELLES143
 @list	ELLES144
 @list	GCSL131
+@list	LAK256
 @list	LAK257
+@list	PTACE135
 @list	RSP460
 @list	SLLHA444
 @uname	CUNEIFORM SIGN PIRIG
