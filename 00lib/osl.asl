@@ -27924,12 +27924,6 @@
 @link	Wikidata Q87557384 http://www.wikidata.org/entity/Q87557384
 @end sign
 
-@sign LAK649
-@oid	o0000409
-@list	LAK649
-@link	eBL LAK649 https://www.ebl.lmu.de/signs/LAK649
-@end sign
-
 @compoundonly	LAK668
 
 @sign LAK708
