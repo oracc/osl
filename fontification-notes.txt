@@ -10,7 +10,10 @@ Notes on Fontifying a List
 
 When the list has more than one glyph for the entry, add them as SALT
 
-Choose a representative form for the unmarked (non-SALT) form; SALT variants don't have to be in order of sign list
+Choose a representative form for the unmarked (non-SALT) form; SALT
+variants don't have to be in order of sign list.  It should pass the
+test: if only one of the form-variants is displayed, will it be
+representative of the sign in the given font/period?
 
 
 Mergers
@@ -147,4 +150,9 @@ to the font.  One way to do this is to add pseudo-list numbers which
 complete the sign list--for example, RSP600 and following (the highest
 RSP number is RSP468ter).
 
+The script
 
+ crpneedfnt.sh [PROJECT] [FONT.ofp]
+
+Produces a list of OIDs that are present in the project corpus but not
+in the named font.
