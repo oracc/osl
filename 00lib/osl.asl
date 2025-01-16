@@ -1015,6 +1015,7 @@
 @@
 @form |GISAL.A|
 @oid	o0031749
+@list	PTACE252
 @useq	x12110.x12000
 @ucun	𒄐𒀀
 @@
@@ -1278,6 +1279,7 @@
 @oid	o0000105
 @list	BAU134
 @list	LAK212
+@list	PTACE049
 @lit	Krebernik, OBO 160/1, 283
 @inote	P452998 = MRAH O.5009 i 3 (Old Akkadian)
 @uname	CUNEIFORM SIGN ASAL2
@@ -3882,6 +3884,7 @@
 @list	HZL016
 @list	KWU090
 @list	MZL018
+@list	PTACE053
 @list	SLLHA050
 @list	SYA020
 @uname	CUNEIFORM SIGN ARAD
@@ -4599,6 +4602,7 @@
 
 @sign |BAD.AŠ|
 @oid	o0000889
+@list	PTACE011
 @useq	x12041.x12038
 @ucun	𒁁𒀸
 @v	zar₆
@@ -6547,13 +6551,17 @@
 @end sign
 
 @sign DAR
+@aka HU@g
 @list	ASY083
 @oid	o0000135
 @list	ABZL037
 @list	BAU036
+@list	ELLES042
 @list	GCSL033
 @list	HZL083
+@list	LAK069
 @list	MZL183
+@list	PTACE041
 @list	RSP411
 @list	SLLHA113
 @list	SYA072
@@ -17804,13 +17812,6 @@
 @@
 @end sign
 
-@sign HU@g
-@oid	o0027540
-@list	ELLES042
-@list	LAK069
-@inote	for lak.atf
-@end sign
-
 @sign HUB₂
 @list	ASY065
 @oid	o0000240
@@ -26677,6 +26678,7 @@
 @oid	o0000321
 @list	ELLES013
 @list	LAK020
+@list	PTACE014
 @inote	@uname-no-utf8	CUNEIFORM SIGN LAK20
 @v	balaₓ
 @inote	ed12
@@ -27595,12 +27597,6 @@
 @v	meₓ
 @v	uriₓ
 @link	eBL LAK526 https://www.ebl.lmu.de/signs/LAK526
-@end sign
-
-@sign LAK539
-@oid	o0000396
-@list	LAK539
-@link	eBL LAK539 https://www.ebl.lmu.de/signs/LAK539
 @end sign
 
 @sign LAK546
@@ -28647,6 +28643,7 @@
 @list	KWU082
 @list	LAK344
 @list	MZL517
+@list	PTACE018
 @list	RSP397
 @list	SLLHA330_6
 @uname	CUNEIFORM SIGN LU2 TIMES BAD
@@ -28790,7 +28787,10 @@
 @list	ABZL258
 @list	ELLES189
 @list	MZL521
+@list	PTACE019
 @list	SLLHA330_7
+@inote	PTACE calls it LÚ×ÉŠ, but gives it the value šaga PTACE has no LU₂×GAN₂@t.
+	EbDA has LU₂×GANA₂ tenû and no LU₂×EŠ₂.
 @uname	CUNEIFORM SIGN LU2 TIMES GAN2 TENU
 @list	U+12202
 @ucun	𒈂
@@ -29839,6 +29839,7 @@
 
 @sign |MA×GAN₂@t|
 @oid	o0021456
+@list	PTACE028
 @inote	ed3b, collated from photo P225807; GAN₂@t runs SW to NE not NW to SE, i.e., is rotated -90 degrees
 @end sign
 
@@ -47813,6 +47814,7 @@
 @list	ELLES314
 @list	KWU226
 @list	MZL080
+@list	PTACE081
 @list	SLLHA049x
 @list	SYA019
 @note	LAK648 is GIŠGAL, but is not properly described as URU×MIN. Many of the URU× signs are LAK648× in ED.
@@ -49063,7 +49065,9 @@
 @list	HZL108
 @list	KWU824
 @list	LAK538
+@list	LAK539
 @list	MZL259
+@list	PTACE057
 @list	SLLHA147
 @list	SYA096
 @inote	Molina JNES 63, 2
@@ -49624,7 +49628,11 @@
 @sign |ZU₅×A|
 @oid	o0002680
 @list	BAU341
+@list	PTACE071
 @list	SLLHA181n
+@inote	PTACE071 has both drawings that look like ZU₅ and ones that look like ZU₅+A,
+	and gives both values azu and zu₅.
+	EbDA has only azu, which looks like 𒍫+𒀀 (like Šuruppag AZU) in photos.
 @uname	CUNEIFORM SIGN ZU5 TIMES A
 @list	U+1236C
 @ucun	𒍬
