@@ -36010,7 +36010,7 @@
 @v	piš₂
 @link	eBL PEŠ₂ https://www.ebl.lmu.de/signs/PEŠ₂
 @link	Wikidata Q87556264 http://www.wikidata.org/entity/Q87556264
-@form LAK244
+@form+ LAK244
 @list	ELLES138
 @list	RSP468ter
 @oid	o0000335
