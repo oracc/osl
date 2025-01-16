@@ -49680,6 +49680,7 @@
 @list	ELLES240
 @list	LAK459
 @list	MZL097
+@list	PTACE125
 @note	See Conti RA 82, 115 nt.2 with further literature.
 @v	zu₈
 @v	zub
