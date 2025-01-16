@@ -3965,6 +3965,7 @@
 @list	LAK059
 @list	MZL019
 @list	PTACE054
+@list	RSP416
 @list	SLLHA051
 @uname	CUNEIFORM SIGN ARAD TIMES KUR
 @list	U+12035
@@ -3976,7 +3977,7 @@
 @v	geme₃
 @v	gereš₃
 @v	giriš₃
-@inote	MC: /ŋereš//
+@inote	MC: /ŋereš/
 @v	ir₁₁
 @v	kiraš
 @v	nitaₓ
@@ -13507,15 +13508,20 @@
 @v	gud₅
 @link	eBL GALAM https://www.ebl.lmu.de/signs/GALAM
 @link	Wikidata Q87555472 http://www.wikidata.org/entity/Q87555472
-@form SUKUD
+@end sign
+
+@sign SUKUD
 @list	ABZL133
+@list	MZL338
 @oid	o0029926
 @upua	U+F005B
 @v	sukuₓ
 @v	sukud
 @v	ubi
 @inote ABZL splits GALAM and SUKUD (≈GALAM×ŠE); not clear how to handle this. Not clear where /ubi/ goes.
-@@
+@inote Update 2025-01-16 split into @sign GALAM and @sign SUKUD
+	because TA×ŠE clearly seems to be early SUKUD; perhaps TA×ŠE doesn't
+	even need to be called out with a separate description.
 @form |TA×ŠE|
 @oid	o0002409
 @list	RSP211
@@ -13523,8 +13529,6 @@
 @upua	U+F0063
 @ucun	󰁣
 @uage	9.2
-@v	sukud
-@inote CDLI already reads this sign as sukud so drop sukudₓ
 @link	eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
 @@
 @end sign
@@ -19486,6 +19490,7 @@
 @list	LAK214
 @list	MZL261
 @list	PTACE075
+@list	RSP447
 @list	SLLHA148
 @list	SYA097
 @uname	CUNEIFORM SIGN IN
@@ -19499,12 +19504,6 @@
 @v	isin₂
 @link	eBL IN https://www.ebl.lmu.de/signs/IN
 @link	Wikidata Q87555671 http://www.wikidata.org/entity/Q87555671
-@form |ŠE&ŠE.NI|
-@oid	o0223332
-@list	RSP447
-@useq	x12532.x1224C
-@ucun	𒔲𒉌
-@@
 @end sign
 
 @sign IR
@@ -48425,7 +48424,6 @@
 
 @sign |UŠ×KUR|
 @oid	o0002615
-@list	RSP416
 @uname	CUNEIFORM SIGN USH TIMES KUR
 @list	U+12354
 @ucun	𒍔
@@ -48434,6 +48432,10 @@
 @v	gešₓ
 @link	eBL |UŠ×KUR| https://www.ebl.lmu.de/signs/|UŠ×KUR|
 @link	Wikidata Q87556677 http://www.wikidata.org/entity/Q87556677
+@inote 	It may be better to have
+	  @sign UŠ and @form ARAD and
+	  @sign UŠ×KUR and @form ARAD×KUR
+	to handle the Ur III split of UŠ and ARAD. For now RSP416 is under ARAD×KUR.
 @end sign
 
 @sign |UŠ×TAK₄|

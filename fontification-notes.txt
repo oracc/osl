@@ -155,4 +155,10 @@ The script
  crpneedfnt.sh [PROJECT] [FONT.ofp]
 
 Produces a list of OIDs that are present in the project corpus but not
-in the named font.
+in the named font.  It must be run in the /home/oracc/PROJECT
+directory with necessary permissions.
+
+The output is a table of OID and frequency.  To extract the Unicode data for the list:
+
+ crpneedfnt.sh epsd2/admin/ed3bgirsu /home/oracc/lib/data/Oracc-RSP.ofp >rsp.need
+ cut -f1 rsp.need | grep -f - /home/oracc/osl/02pub/unicode.tsv >rsp-need.tsv
