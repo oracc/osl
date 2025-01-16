@@ -13526,8 +13526,7 @@
 @v	sukud
 @inote CDLI already reads this sign as sukud so drop sukudₓ
 @link	eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
-@end sign
-
+@@
 @end sign
 
 @sign |GALAM.GALAM|
