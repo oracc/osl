@@ -17382,7 +17382,6 @@
 @uage	5.0
 @v	as₆
 @v	aš₈
-@v	kamₓ
 @v	šardiš?
 @v	šargalₓ
 @v	šarŋeš
