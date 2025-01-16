@@ -4398,6 +4398,7 @@
 @list	KWU285
 @list	LAK162a
 @list	MZL548
+@list	PTACE100
 @list	RSP128
 @list	SLLHA339
 @list	SYA167
@@ -49442,6 +49443,7 @@
 @oid	o0000612
 @list	ABZL211
 @list	LAK162b
+@list	PTACE100
 @lit	M. krebernik, OBO 160/1, 277
 @uname	CUNEIFORM SIGN ZIZ2
 @list	U+12369
