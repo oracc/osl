@@ -14988,9 +14988,12 @@
 @sign |GIR₃×(LU.IGI)|
 @oid	o0001350
 @pname	|GIR₃×LU+IGI|
+@list	ELLES142
 @list	GCSL169
 @list	KWU467
+@list	LAK250
 @list	MZL702
+@list	PTACE138
 @list	SLLHA421a
 @uname	CUNEIFORM SIGN GIR3 TIMES LU PLUS IGI
 @list	U+1210E
@@ -16891,19 +16894,6 @@
 @sign |HA@g×(BAD.X)|
 @oid	o0031573
 @aka	|GIR×(BAD.X)|
-@end sign
-
-@compoundonly	|HA@g×IGI|
-@inote	added during ogsl upgrade
-
-@sign |HA@g×IGI.LU|
-@oid	o0027597
-@aka	|GIR×IGI.LU|
-@list	ELLES142
-@list	LAK250
-@inote	missing compounds for lak.atf
-@useq	X.x121FB
-@ucun	X𒇻
 @end sign
 
 @sign HA@t
