@@ -10057,11 +10057,13 @@
 @sign |ERIN₂+X|
 @oid	o0001086
 @list	ELLES160
+@list	PTACE143
 @uname	CUNEIFORM SIGN ERIN₂ JOINING X
 @list	U+124AB
 @ucun	𒒫
 @uage	8.0
 @v	ditanₓ
+@v	luₓ
 @v	tidnumₓ
 @link	eBL |ERIN₂+X| https://www.ebl.lmu.de/signs/|ERIN₂+X|
 @link	Wikidata Q87557169 http://www.wikidata.org/entity/Q87557169
