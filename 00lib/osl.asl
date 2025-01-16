@@ -13514,8 +13514,20 @@
 @v	sukuₓ
 @v	sukud
 @v	ubi
-@inote ABZL splits GALAM and SUKUD; not clear how to handle this. Not clear where /ubi/ goes.
+@inote ABZL splits GALAM and SUKUD (≈GALAM×ŠE); not clear how to handle this. Not clear where /ubi/ goes.
 @@
+@form |TA×ŠE|
+@oid	o0002409
+@list	RSP211
+@inote LAK puts LAK563=DUG×ŠE with TA×ŠE; subject to further study
+@upua	U+F0063
+@ucun	󰁣
+@uage	9.2
+@v	sukud
+@inote CDLI already reads this sign as sukud so drop sukudₓ
+@link	eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
+@end sign
+
 @end sign
 
 @sign |GALAM.GALAM|
@@ -42912,17 +42924,6 @@
 @v	gansisₓ
 @link	eBL |TA×MI| https://www.ebl.lmu.de/signs/|TA×MI|
 @link	Wikidata Q87556475 http://www.wikidata.org/entity/Q87556475
-@end sign
-
-@sign |TA×ŠE|
-@oid	o0002409
-@list	RSP211
-@inote LAK puts LAK563=DUG×ŠE with TA×ŠE
-@upua	U+F0063
-@ucun	󰁣
-@uage	9.2
-@v	sukudₓ
-@link	eBL |TA×ŠE| https://www.ebl.lmu.de/signs/|TA×ŠE|
 @end sign
 
 @sign |TA×U|
