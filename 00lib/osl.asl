@@ -40640,6 +40640,7 @@
 @list	LAK219
 @list	RSP179
 @list	U+124E3
+@uname	CUNEIFORM SIGN LAK219
 @ucun	𒓣
 @uage	8.0
 @link	eBL LAK219 https://www.ebl.lmu.de/signs/LAK219
