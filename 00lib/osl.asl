@@ -33840,6 +33840,9 @@
 @link	eBL |NU₁₁.BUR| https://www.ebl.lmu.de/signs/|NU₁₁.BUR|
 @form |BUR.NU₁₁|
 @oid	o0221863
+@list	PTACE110
+@useq	x12053.x12262
+@ucun	𒁓𒉢
 @@
 @end sign
 
