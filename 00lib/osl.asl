@@ -42929,6 +42929,7 @@
 @sign |TA×ŠE|
 @oid	o0002409
 @list	RSP211
+@inote LAK puts LAK563=DUG×ŠE with TA×ŠE
 @upua	U+F0063
 @ucun	󰁣
 @uage	9.2

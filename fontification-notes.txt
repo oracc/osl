@@ -13,6 +13,13 @@ When the list has more than one glyph for the entry, add them as SALT
 Choose a representative form for the unmarked (non-SALT) form; SALT variants don't have to be in order of sign list
 
 
+Mergers
+=======
+
+All of the merged numbers should be given as Unicode values of a
+single sign, e.g., u12254 = 12254 1214E.
+
+
 1:M List::Unicode
 =================
 
@@ -128,5 +135,16 @@ can be left as plain @lref entries or an image can be given which is
 then used in the list page to illustrate the entry:
 
 @lref BAU555 <bau/bau555.png
+
+
+Corpus Signs not in List
+========================
+
+A corpus that is covered by a sign list may have incomplete coverage.
+In order to make the list-font usable for cuneifying the corpus it is
+necessary to supplement the list with the missing signs and add them
+to the font.  One way to do this is to add pseudo-list numbers which
+complete the sign list--for example, RSP600 and following (the highest
+RSP number is RSP468ter).
 
 
