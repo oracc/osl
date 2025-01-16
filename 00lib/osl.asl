@@ -23431,6 +23431,7 @@
 @list	HZL273
 @list	LAK248
 @list	MZL678
+@list	PTACE132
 @list	SLLHA425
 @list	SYA217
 @uname	CUNEIFORM SIGN KISH
