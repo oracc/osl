@@ -36011,6 +36011,8 @@
 @link	eBL PEŠ₂ https://www.ebl.lmu.de/signs/PEŠ₂
 @link	Wikidata Q87556264 http://www.wikidata.org/entity/Q87556264
 @form LAK244
+@list	ELLES138
+@list	RSP468ter
 @oid	o0000335
 @link	eBL LAK244 https://www.ebl.lmu.de/signs/LAK244
 @upua	U+F0077
@@ -36029,14 +36031,6 @@
 @v	kilim
 @link	eBL LAK247 https://www.ebl.lmu.de/signs/LAK247
 @@
-@end sign
-
-@sign- LAK244
-@inote s.v. LUL
-@oid	o0000335
-@list	ELLES138
-@list	LAK244
-@list	RSP468ter
 @end sign
 
 @sign PEŠ₂~v
