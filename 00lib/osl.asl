@@ -60,7 +60,7 @@
 @listdef PTACE 1-336
 @lit	A. Catagnoti, La paleografia dei testi dell’amministrazione e della cancelleria di Ebla (QdS 30; Florence 2013)
 
-@listdef REC 1-563
+@listdef REC 1-563 448bis
 @lit	F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme (Paris 1898)
 
 @listdef SYA 1-285
@@ -27985,6 +27985,17 @@
 @sign LAK764
 @oid	o0000416
 @list	LAK764
+@list	PTACE086
+@list	REC448bis
+@inote	In addition to a crossreference to LAK74, LAK764 cites only REC448bis,
+	which cites only ZA 2, p. 256.
+	It is sign χ on that page, which is part of a book review by Lehmann of the
+	Tableau comparé of Amiaud and Méchineau.  Lehmann writes, p. 254:
+		Wohin gehört das Zeichen χ??
+	The sign occurs in many administrative tablets from Ebla, transliterated uštin
+	or uštil.
+@v	uštin
+@v	uštil
 @link	eBL LAK764 https://www.ebl.lmu.de/signs/LAK764
 @end sign
 
@@ -36644,11 +36655,12 @@
 @link	eBL REC107 https://www.ebl.lmu.de/signs/REC107
 @end sign
 
-@sign REC169
+@sign |KASKAL.LAK764|
 @oid	o0000513
 @list	LAK274
-@inote	CDLI oakk referencing CUSAS 27
-@v	uštil
+@list	REC169
+@inote	CDLI P323559 (oakk) has uštil(REC169) referencing CUSAS 27
+@v	uštilₓ
 @link	eBL REC169 https://www.ebl.lmu.de/signs/REC169
 @end sign
 
