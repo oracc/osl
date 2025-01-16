@@ -43434,6 +43434,7 @@
 
 @sign |TAK₄.ALAN|
 @oid	o0002402
+@list	PTACE147
 @useq	x122FA.x12029
 @ucun	𒋺𒀩
 @v	alanₓ
