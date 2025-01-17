@@ -27983,6 +27983,9 @@
 		Wohin gehört das Zeichen χ??
 	The sign occurs in many administrative tablets from Ebla, transliterated uštin
 	or uštil.
+	See also Pomponio in ArOr 51, pp. 372 sqq., and in particular p. 376 for
+	REC169=KAS+UŠTIL.  Pomponio states that UŠTIL is not listed in LAK, but PTACE
+	identifies it with LAK764.
 @v	uštin
 @v	uštil
 @link	eBL LAK764 https://www.ebl.lmu.de/signs/LAK764
