@@ -162,3 +162,24 @@ The output is a table of OID and frequency.  To extract the Unicode data for the
 
  crpneedfnt.sh epsd2/admin/ed3bgirsu /home/oracc/lib/data/Oracc-RSP.ofp >rsp.need
  cut -f1 rsp.need | grep -f - /home/oracc/osl/02pub/unicode.tsv >rsp-need.tsv
+
+
+Glyph Mismatches
+================
+
+Sometimes a corpus-specific sign form is a mismatch to the reference
+form, but the corpus-specific form is also defined as a sign or @form
+of the reference-form sign.  For example, ED IIIb keš₃ is
+ŠUŠ.AN.HI×GAD rather than ŠU(Š)₂.AN.HI×GAD; the first of these is also
+defined as an @form of |ŠU₂.AN.HI×GAD|.
+
+If it is prohibitively intrusive to annotate the variant glyph form in
+the corpus the reference form in the font can be set to the variant.
+
+In Oracc-RSP it was necessary to add U+122D9 (ŠU₂) so that the
+ligature u122D9_u1202D_u12132.liga could be defined.
+
+The glyph-specific form u1230B_u1202D_u12132.liga is also defined in
+the font.  In some contexts this could be dealt with using Style Sets
+or IVS; that is considered a future option for Oracc-RSP.
+

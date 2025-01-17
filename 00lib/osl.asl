@@ -21508,6 +21508,7 @@
 @list	LAK147
 @list	MZL148
 @list	PTACE090
+@list	RSP421
 @list	SLLHA088
 @list	SYA055
 @uname	CUNEIFORM SIGN KAB
@@ -28088,7 +28089,6 @@
 @list	LAK206
 @list	MZL085
 @list	PTACE047
-@list	RSP421
 @list	RSP445
 @list	SLLHA059
 @list	SYA026
@@ -32211,6 +32211,7 @@
 @ucun	𒉇
 @uage	5.0
 @v	nam₂
+@script middle,late: merge TUG₂.
 @link	eBL NAM₂ https://www.ebl.lmu.de/signs/NAM₂
 @link	Wikidata Q87556162 http://www.wikidata.org/entity/Q87556162
 @end sign
@@ -36741,17 +36742,6 @@
 @uage	9.2
 @end sign
 
-@sign RSP374
-@oid	o0025705
-@inote	possibly a malformed IL, see RSP ad loc
-@end sign
-
-@sign RSP404
-@oid	o0221920
-@inote	admin/ed3b
-@v	ilₓ
-@end sign
-
 @lref	RSP007 O 𒀸𒃷 1(aš) (bur₃) gana₂
 
 @lref	RSP029 O 𒕢𒃷 1(u@c) (bur₃) gana₂
@@ -40895,6 +40885,7 @@
 @list	KWU894
 @list	LAK713
 @list	MZL017
+@list	RSP299
 @list	SLLHA008
 @list	SYA007
 @lit	Steinkeller OrAnt 20, 243ff and OrAnt 23, 39ff
@@ -41248,7 +41239,6 @@
 @list	ABZL208
 @list	LAK295
 @list	MZL489
-@list	RSP299
 @list	SLLHA317
 @uname	CUNEIFORM SIGN SHID TIMES A
 @list	U+122C4
@@ -44115,6 +44105,7 @@
 @v	ŋiškadₓ
 @v	ib₂
 @v	ip₂
+@v	ilₓ?
 @v	rixₓ?
 @v	siₓ
 @v	suri
@@ -46663,6 +46654,7 @@
 @list	KWU403
 @list	LAK289
 @list	MZL160
+@list	RSP062
 @list	SLLHA092b
 @uname	CUNEIFORM SIGN UMBIN
 @list	U+12322
@@ -46678,11 +46670,8 @@
 @useq	x120F0.x122FA.x1232B
 @ucun	𒃰𒋺𒌫
 @@
-@form |GAD.UR₂×TAK₄|
-@oid	o0223360
-@list	RSP062
-@useq	x120F0.xF005F
-@ucun	𒃰󰁟
+@form- |GAD.UR₂×TAK₄|
+@inote Withdrawn because this is the normal ED decomposition UMBIN
 @@
 @form |UR₂×TAK₄|
 @oid	o0002594
