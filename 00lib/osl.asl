@@ -33993,7 +33993,6 @@
 @v	abₓ
 @ref	CT 19, pl.23, Rm 0344 = dcclt/nineveh:P365403 r ii 7', NUN-gal = ab-gal-lum?
 @note	The writing NUN.GAL for abgal(|NUN.ME|) also appears in MSL 11, 46 rev. iii16 (Ugarit; Emar has ab-gal), but cannot be generalized to a value abₓ for NUN.
-@v	agargaraₓ
 @v-	dabₓ
 @note	Value dabₓ derived from |UD.NUN|{ki}/{mušen} = adab (a₁₂-dabₓ).
 @v	dabaₓ
@@ -34476,7 +34475,6 @@
 @oid	o0002142
 @list	ELLES233
 @list	LAK449
-@list	RSP350
 @useq	x1226D.x12016
 @ucun	𒉭𒀖
 @v	nisagga
@@ -34532,6 +34530,7 @@
 @form LAK449
 @oid	o0000374
 @uname	CUNEIFORM SIGN LAK449
+@list	RSP350
 @list	U+124F1
 @ucun	𒓱
 @uage	8.0
