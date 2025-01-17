@@ -60,7 +60,7 @@
 @listdef PTACE 1-336
 @lit	A. Catagnoti, La paleografia dei testi dell’amministrazione e della cancelleria di Ebla (QdS 30; Florence 2013)
 
-@listdef REC 1-563
+@listdef REC 1-563 448bis
 @lit	F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme (Paris 1898)
 
 @listdef SYA 1-285
@@ -4398,6 +4398,7 @@
 @list	KWU285
 @list	LAK162a
 @list	MZL548
+@list	PTACE100
 @list	RSP128
 @list	SLLHA339
 @list	SYA167
@@ -6667,6 +6668,7 @@
 @list	ABZL215
 @list	KWU309b
 @list	LAK156b
+@list	PTACE099
 @list	RSP361bis
 @list	SYA165
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
@@ -10055,11 +10057,13 @@
 @sign |ERIN₂+X|
 @oid	o0001086
 @list	ELLES160
+@list	PTACE143
 @uname	CUNEIFORM SIGN ERIN₂ JOINING X
 @list	U+124AB
 @ucun	𒒫
 @uage	8.0
 @v	ditanₓ
+@v	luₓ
 @v	tidnumₓ
 @link	eBL |ERIN₂+X| https://www.ebl.lmu.de/signs/|ERIN₂+X|
 @link	Wikidata Q87557169 http://www.wikidata.org/entity/Q87557169
@@ -14760,6 +14764,7 @@
 @list	KWU457
 @list	LAK248
 @list	MZL701
+@list	PTACE133
 @list	RSP463
 @list	SLLHA444
 @uname	CUNEIFORM SIGN GIR3
@@ -14985,9 +14990,12 @@
 @sign |GIR₃×(LU.IGI)|
 @oid	o0001350
 @pname	|GIR₃×LU+IGI|
+@list	ELLES142
 @list	GCSL169
 @list	KWU467
+@list	LAK250
 @list	MZL702
+@list	PTACE138
 @list	SLLHA421a
 @uname	CUNEIFORM SIGN GIR3 TIMES LU PLUS IGI
 @list	U+1210E
@@ -16888,19 +16896,6 @@
 @sign |HA@g×(BAD.X)|
 @oid	o0031573
 @aka	|GIR×(BAD.X)|
-@end sign
-
-@compoundonly	|HA@g×IGI|
-@inote	added during ogsl upgrade
-
-@sign |HA@g×IGI.LU|
-@oid	o0027597
-@aka	|GIR×IGI.LU|
-@list	ELLES142
-@list	LAK250
-@inote	missing compounds for lak.atf
-@useq	X.x121FB
-@ucun	X𒇻
 @end sign
 
 @sign HA@t
@@ -23429,6 +23424,7 @@
 @list	HZL273
 @list	LAK248
 @list	MZL678
+@list	PTACE132
 @list	SLLHA425
 @list	SYA217
 @uname	CUNEIFORM SIGN KISH
@@ -27057,13 +27053,6 @@
 @link	eBL LAK252 https://www.ebl.lmu.de/signs/LAK252
 @end sign
 
-@sign LAK256
-@oid	o0025860
-@list	ELLES143
-@list	LAK256
-@inote	for dcclt/ebla--required for LAK256@g
-@end sign
-
 @sign LAK256@g
 @oid	o0025829
 @list	LAK256@g
@@ -27924,12 +27913,6 @@
 @link	Wikidata Q87557384 http://www.wikidata.org/entity/Q87557384
 @end sign
 
-@sign LAK649
-@oid	o0000409
-@list	LAK649
-@link	eBL LAK649 https://www.ebl.lmu.de/signs/LAK649
-@end sign
-
 @compoundonly	LAK668
 
 @sign LAK708
@@ -27991,6 +27974,20 @@
 @sign LAK764
 @oid	o0000416
 @list	LAK764
+@list	PTACE086
+@list	REC448bis
+@inote	In addition to a crossreference to LAK74, LAK764 cites only REC448bis,
+	which cites only ZA 2, p. 256.
+	It is sign χ on that page, which is part of a book review by Lehmann of the
+	Tableau comparé of Amiaud and Méchineau.  Lehmann writes, p. 254:
+		Wohin gehört das Zeichen χ??
+	The sign occurs in many administrative tablets from Ebla, transliterated uštin
+	or uštil.
+	See also Pomponio in ArOr 51, pp. 372 sqq., and in particular p. 376 for
+	REC169=KAS+UŠTIL.  Pomponio states that UŠTIL is not listed in LAK, but PTACE
+	identifies it with LAK764.
+@v	uštin
+@v	uštil
 @link	eBL LAK764 https://www.ebl.lmu.de/signs/LAK764
 @end sign
 
@@ -30422,7 +30419,6 @@
 @list	ELLES071
 @list	GCSL260
 @list	HZL112
-@list	LAK127?
 @list	MZL486
 @list	RSP277
 @list	SLLHA314
@@ -32326,6 +32322,7 @@
 @sign |NE.RU|
 @list	ASY123
 @oid	o0002066
+@list	PTACE095
 @list	RSP363
 @useq	x12248.x12292
 @ucun	𒉈𒊒
@@ -33659,6 +33656,7 @@
 @list	KWU259
 @list	LAK159
 @list	MZL546
+@list	PTACE097
 @list	RSP137
 @list	SLLHA337xx
 @uname	CUNEIFORM SIGN NISAG
@@ -33832,6 +33830,9 @@
 @link	eBL |NU₁₁.BUR| https://www.ebl.lmu.de/signs/|NU₁₁.BUR|
 @form |BUR.NU₁₁|
 @oid	o0221863
+@list	PTACE110
+@useq	x12053.x12262
+@ucun	𒁓𒉢
 @@
 @end sign
 
@@ -35737,6 +35738,7 @@
 
 @sign |PAD.MUŠ₃|
 @oid	o0002219
+@list	PTACE158
 @useq	x1227B.x12239
 @ucun	𒉻𒈹
 @v	nidba₂
@@ -36294,9 +36296,12 @@
 @oid	o0000503
 @list	ABZL178
 @list	BAU162
+@list	ELLES143
 @list	ELLES144
 @list	GCSL131
+@list	LAK256
 @list	LAK257
+@list	PTACE135
 @list	RSP460
 @list	SLLHA444
 @uname	CUNEIFORM SIGN PIRIG
@@ -36651,11 +36656,12 @@
 @link	eBL REC107 https://www.ebl.lmu.de/signs/REC107
 @end sign
 
-@sign REC169
+@sign |KASKAL.LAK764|
 @oid	o0000513
 @list	LAK274
-@inote	CDLI oakk referencing CUSAS 27
-@v	uštil
+@list	REC169
+@inote	CDLI P323559 (oakk) has uštil(REC169) referencing CUSAS 27
+@v	uštilₓ
 @link	eBL REC169 https://www.ebl.lmu.de/signs/REC169
 @end sign
 
@@ -42768,6 +42774,7 @@
 @list	KWU043
 @list	LAK039
 @list	MZL022
+@list	PTACE130
 @list	RSP458
 @list	SLLHA053
 @list	SYA021
@@ -43420,6 +43427,7 @@
 
 @sign |TAK₄.ALAN|
 @oid	o0002402
+@list	PTACE147
 @useq	x122FA.x12029
 @ucun	𒋺𒀩
 @v	alanₓ
@@ -46485,7 +46493,9 @@
 @list	GCSL062
 @list	HZL098
 @list	KWU189
+@list	LAK127
 @list	MZL238
+@list	PTACE076
 @list	RSP274
 @list	SLLHA134
 @list	SYA087
@@ -47426,6 +47436,7 @@
 @list	KWU227
 @list	LAK649
 @list	MZL073
+@list	PTACE085
 @list	SLLHA040
 @uname	CUNEIFORM SIGN URU TIMES BAR
 @list	U+1233A
@@ -49419,6 +49430,7 @@
 @oid	o0000612
 @list	ABZL211
 @list	LAK162b
+@list	PTACE100
 @lit	M. krebernik, OBO 160/1, 277
 @uname	CUNEIFORM SIGN ZIZ2
 @list	U+12369
@@ -49652,6 +49664,7 @@
 @list	ELLES240
 @list	LAK459
 @list	MZL097
+@list	PTACE125
 @note	See Conti RA 82, 115 nt.2 with further literature.
 @v	zu₈
 @v	zub
