@@ -36657,6 +36657,7 @@
 @end sign
 
 @sign |KASKAL.LAK764|
+@aka REC169
 @oid	o0000513
 @list	LAK274
 @list	REC169
@@ -46681,6 +46682,7 @@
 @ucun	𒃰𒋺𒌫
 @@
 @form- |GAD.UR₂×TAK₄|
+@oid	o0223360
 @inote Withdrawn because this is the normal ED decomposition UMBIN
 @@
 @form |UR₂×TAK₄|
