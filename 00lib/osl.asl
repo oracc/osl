@@ -3922,6 +3922,7 @@
 @sys	Attinger ninta₂ => nita₂
 @link	eBL ARAD https://www.ebl.lmu.de/signs/ARAD
 @link	Wikidata Q87555102 http://www.wikidata.org/entity/Q87555102
+@script early: merge UŠ.
 @end sign
 
 @sign |ARAD.ANŠE|
