@@ -3820,12 +3820,12 @@
 @@
 @end sign
 
-@sign |ANŠE.UŠ|
+@sign- |ANŠE.UŠ|
 @oid	o0000838
 @useq	x12032.x12351
 @ucun	𒀲𒍑
 @v	durₓ
-@inote	check; confusion with ANŠE.ARAD?
+@inote	Do not use: this is ANŠE.ARAD with ARAD written UŠ
 @link	eBL |ANŠE.UŠ| https://www.ebl.lmu.de/signs/|ANŠE.UŠ|
 @end sign
 
@@ -5384,6 +5384,7 @@
 @list	KWU755
 @list	LAK641
 @list	MZL361
+@list	RSP219
 @list	SLLHA214c
 @uname	CUNEIFORM SIGN BI TIMES GAR
 @list	U+1204B
@@ -6048,6 +6049,7 @@
 @sign |DAG.KISIM₅×BI|
 @oid	o0000952
 @list	MZL447
+@list	RSP360
 @list	SLLHA288
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES BI
 @list	U+1205A
@@ -6058,6 +6060,7 @@
 @v	haru₄
 @link	eBL |DAG.KISIM₅×BI| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×BI|
 @link	Wikidata Q87555181 http://www.wikidata.org/entity/Q87555181
+@inote RSP360 here because CDLI; sfs
 @end sign
 
 @sign |DAG.KISIM₅×EN|
@@ -13655,8 +13658,8 @@
 @end sign
 
 @sign GAN₂
-@list	ASY077
 @oid	o0000199
+@list	ASY077
 @list	ABZL106
 @list	BAU061
 @list	ELLES055
@@ -13692,7 +13695,8 @@
 @v	kalaₓ
 @v	kan₂
 @v	kana₂
-@v	karₓ
+@v-	karₓ
+@inote GAN₂ now a form of GAN₂@t
 @v	mulu₄
 @v	ul₈?
 @v	ululₓ
@@ -13793,6 +13797,9 @@
 @v	kiri₂
 @link	eBL GAN₂@t https://www.ebl.lmu.de/signs/GAN₂@t
 @link	Wikidata Q87555480 http://www.wikidata.org/entity/Q87555480
+@form GAN₂
+@oid	o0000199
+@v 	kar₂
 @end sign
 
 @sign |GAN₂@t.GAN₂@t|
@@ -15049,7 +15056,6 @@
 @list	LAK589
 @list	MZL376
 @list	RSP217
-@list	RSP367
 @list	SLLHA226
 @uname	CUNEIFORM SIGN GISAL
 @list	U+12110
@@ -17132,6 +17138,9 @@
 @useq	x1212D.x12038
 @ucun	𒄭𒀸
 @@
+@form	|HI×BAD|
+@oid	o0001453
+@@
 @form |HI×MAŠ|
 @oid	o0001457
 @list	ELLES199
@@ -17279,8 +17288,8 @@
 @end sign
 
 @sign |HI×BAD|
-@list	ASY235
 @oid	o0001453
+@list	ASY235
 @list	ABZL279
 @list	GCSL152
 @list	KWU452
@@ -26879,6 +26888,7 @@
 @end sign
 
 @sign LAK151
+@aka BIL₂@g
 @oid	o0000317
 @list	LAK151
 @list	RSP365
@@ -27476,6 +27486,7 @@
 @sign LAK483
 @oid	o0000382
 @list	LAK483
+@list	RSP367
 @uname	CUNEIFORM SIGN LAK483
 @list	U+124FA
 @ucun	𒓺
@@ -36742,14 +36753,6 @@
 @uage	9.2
 @end sign
 
-@sign RSP360
-@oid	o0038425
-@list RSP360
-@upua	U+F0081
-@ucun	󰂁
-@uage	9.2
-@end sign
-
 @lref	RSP007 O 𒀸𒃷 1(aš) (bur₃) gana₂
 
 @lref	RSP029 O 𒕢𒃷 1(u@c) (bur₃) gana₂
@@ -41494,7 +41497,6 @@
 @list	LAK659
 @list	MZL373
 @list	PTACE255
-@list	RSP219
 @list	SLLHA225
 @uname	CUNEIFORM SIGN SHIM TIMES GAR
 @list	U+122CB
@@ -48273,13 +48275,14 @@
 @link	Wikidata Q87556672 http://www.wikidata.org/entity/Q87556672
 @end sign
 
-@sign |UŠ.ANŠE|
+@sign- |UŠ.ANŠE|
 @oid	o0002604
 @inote	CDLI ed3b
 @useq	x12351.x12032
 @ucun	𒍑𒀲
 @v	durₓ
 @link	eBL |UŠ.ANŠE| https://www.ebl.lmu.de/signs/|UŠ.ANŠE|
+@inote Do not use: This conflicts with |ANŠE.ARAD| where ARAD has the form UŠ; ePSD2 ed3bgirsu globalled to dur₃(|ARAD.ANŠE|)
 @end sign
 
 @sign |UŠ.BAR|
