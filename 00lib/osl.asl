@@ -37289,6 +37289,7 @@
 @sign |SAG×TAK₄|
 @oid	o0002286
 @list	ELLES163
+@list	PTACE165
 @uname	CUNEIFORM SIGN SAG TIMES TAK4
 @list	U+12530
 @ucun	𒔰
