@@ -14905,7 +14905,6 @@
 @list	HZL303
 @list	KWU464
 @list	MZL703
-@list	RSP465
 @list	SLLHA421
 @uname	CUNEIFORM SIGN GIR3 TIMES A PLUS IGI
 @list	U+1210B
@@ -14922,6 +14921,7 @@
 @@
 @form |GIR₃×IGI|
 @oid	o0001352
+@list	RSP465
 @inote	This is the form in Gudea Cyl.
 @link	eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
 @@
@@ -28317,12 +28317,10 @@
 @@
 @end sign
 
-@sign |LU.ANŠE×IGI|
+@sign- |LU.ANŠE×IGI|
 @oid	o0221944
 @inote	admin/ed3b
-@useq	x121FB.X
-@ucun	𒇻X
-@v	lulimₓ
+@inote misreading for |LU.GIR₃×IGI|
 @end sign
 
 @sign |(LU.EŠ₂)&(LU.EŠ₂)|
