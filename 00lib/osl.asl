@@ -3829,9 +3829,6 @@
 @link	eBL |ANŠE.UŠ| https://www.ebl.lmu.de/signs/|ANŠE.UŠ|
 @end sign
 
-@compoundonly	|ANŠE×IGI|
-@inote	added during ogsl upgrade
-
 @sign |ANŠE×ŠA₃|
 @oid	o0000839
 @v	šakkanₓ
