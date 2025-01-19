@@ -113,7 +113,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0083
+	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0088
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -2332,6 +2332,9 @@
 
 @sign |AB₂×AMAR@t|
 @oid	o0221962
+@upua	U+F0084
+@ucun	󰂄
+@uage	9.2
 @end sign
 
 @compoundonly	|AB₂×AŠGAB|
@@ -4683,8 +4686,8 @@
 @form |BAD&BAD.X|
 @oid	o0022937
 @inote	dcclt !sg
-@useq	X.O
-@ucun	XX
+@useq	xF0085.O
+@ucun	󰂅x
 @@
 @end sign
 
@@ -4714,6 +4717,9 @@
 
 @sign |BAD&BAD|
 @oid	o0023035
+@upua	U+F0085
+@ucun	󰂅
+@uage	9.2
 @v	ešemen₅
 @v	ešemin₅
 @inote	dcclt !sg
@@ -7506,6 +7512,9 @@
 @sign |DU×TAK₄|
 @oid	o0038139
 @inote	&P274443 = FT 2, pl. 43, AO 12186 r 2
+@upua	U+F0081
+@ucun	󰂁
+@uage	9.2
 @end sign
 
 @compoundonly	|DU&A|
@@ -22262,7 +22271,7 @@
 @form |KASKAL&KASKAL.DU&DU.BAD&BAD|
 @oid	o0048856
 @inote	dcclt !sg uncertain
-@useq	X.x1207B.X
+@useq	X.x1207B.xF0085
 @ucun	X𒁻X
 @@
 @end sign
@@ -26693,6 +26702,9 @@
 @list	LAK020
 @list	PTACE014
 @inote	@uname-no-utf8	CUNEIFORM SIGN LAK20
+@upua	U+F0086
+@ucun	󰂆
+@uage	9.2
 @v	balaₓ
 @inote	ed12
 @v	megidaₓ
@@ -27628,6 +27640,9 @@
 @oid	o0000400
 @list	LAK606
 @link	eBL LAK606 https://www.ebl.lmu.de/signs/LAK606
+@upua	U+F0087
+@ucun	󰂇
+@uage	9.2
 @end sign
 
 @sign LAK607
@@ -34332,6 +34347,9 @@
 @sign |(NUN&NUN)&(NUN&NUN)|
 @oid	o0221961
 @aka	|NIR&NIR|
+@upua	U+F0088
+@ucun	󰂈
+@uage	9.2
 @end sign
 
 @sign |NUN%NUN|
