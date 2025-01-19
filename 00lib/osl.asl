@@ -14939,9 +14939,19 @@
 @@
 @form |GIR₃×IGI|
 @oid	o0001352
+@list	ABZL295
+@list	ELLES141
+@list	HZL303
+@list	LAK249
 @list	RSP465
-@inote	This is the form in Gudea Cyl.
+@list	SLLHA421n2
+@uname	CUNEIFORM SIGN GIR3 TIMES IGI
+@list	U+1210D
+@ucun	𒄍
+@uage	5.0
 @link	eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
+@link	Wikidata Q87555522 http://www.wikidata.org/entity/Q87555522
+@inote This is the form of alim in ED3b Girsu and Gudea Cyl
 @@
 @form |IGI.KIŠ|
 @oid	o0031508
@@ -14995,22 +15005,6 @@
 @sys	Attinger giri₁₆⁻ => giri₁₆
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
-@end sign
-
-@sign |GIR₃×IGI|
-@oid	o0001352
-@list	ABZL295
-@list	ELLES141
-@list	HZL303
-@list	LAK249
-@list	SLLHA421n2
-@uname	CUNEIFORM SIGN GIR3 TIMES IGI
-@list	U+1210D
-@ucun	𒄍
-@uage	5.0
-@v	alimₓ
-@link	eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
-@link	Wikidata Q87555522 http://www.wikidata.org/entity/Q87555522
 @end sign
 
 @sign |GIR₃×(LU.IGI)|
