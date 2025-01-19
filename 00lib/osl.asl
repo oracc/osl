@@ -34485,15 +34485,23 @@
 @@
 @end sign
 
-@sign |NUNUZ.AB₂|
-@oid	o0002142
+@sign LAK449
 @list	ELLES233
+@oid	o0000374
 @list	LAK449
-@useq	x1226D.x12016
-@ucun	𒉭𒀖
+@list	RSP350
+@uname	CUNEIFORM SIGN LAK449
+@list	U+124F1
+@ucun	𒓱
+@uage	8.0
 @v	nisagga
 @v	usanₓ
+@form |NUNUZ.AB₂|
+@oid	o0002142
 @link	eBL |NUNUZ.AB₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂|
+@useq	x1226D.x12016
+@ucun	𒉭𒀖
+@@
 @form |LAK449×AŠ|
 @oid	o0025778
 @list	LAK449^a
