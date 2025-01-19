@@ -47,7 +47,7 @@
 @listdef LAK 1-161 163-277 279-496 498-671 673-708 710-711 713-826
 	828-834 838-851 856-857 859-870 024b 046@v 046a 063b 072b 079a
 	081a 156b 162a 162b 171@s 207a 248@g 248b 256@g 262@g 278a
-	278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
+	278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449^a 455a 461a
 	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 712a 712b
 	772b 784a 791a 827a 827b 835a 835b 835c 836a 836b 836c 836d
 	837a 837b 852a 852b 853a 853b 854a 854b 855a 855b 858a 858b
@@ -69,7 +69,7 @@
 @listdef RSP 1-468 019bis 036bis 036bis^a 036bis^b 036bis^c 036bis^d 048bis 175^a 178bis 339bis
 	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 034^a 039^a
 	 039^a 039^b 041^a 097^a 099^a 099^b 183^a 202^a 256^a 259^a 288^a
-	 312^a 312^a 312^a 370^a
+	 312^a 312^a 312^a 350^a 370^a
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
 
 @listdef SLLHA 1-598 002a 007v 015x 016a 018v 018x 022x 022xn2 023n
@@ -15050,6 +15050,7 @@
 @oid	o0031468
 @useq	x121FB.x12146.x12032
 @ucun	𒇻𒅆𒀲
+@inote This may not exist; sfs
 @@
 @end sign
 
@@ -34493,9 +34494,11 @@
 @v	nisagga
 @v	usanₓ
 @link	eBL |NUNUZ.AB₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂|
-@form LAK449b
+@form |LAK449×AŠ|
 @oid	o0025778
-@list	LAK449b
+@list	LAK449^a
+@list	RSP350^a
+@v	usanₓ
 @@
 @end sign
 
