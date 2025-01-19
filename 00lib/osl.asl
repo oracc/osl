@@ -10896,6 +10896,18 @@
 @link	eBL |EZEN×GUD| https://www.ebl.lmu.de/signs/|EZEN×GUD|
 @link	Wikidata Q87556754 http://www.wikidata.org/entity/Q87556754
 @@
+@form |LAK617×LA|
+@oid	o0001868
+@list	BAU305
+@list	LAK621
+@list	RSP288^a
+@uname	CUNEIFORM SIGN LAK617 TIMES LA
+@list	U+12506
+@ucun	𒔆
+@uage	8.0
+@link	eBL |LAK617×LA| https://www.ebl.lmu.de/signs/|LAK617×LA|
+@link	Wikidata Q87557350 http://www.wikidata.org/entity/Q87557350
+@@
 @end sign
 
 @sign |EZEN×LAL₂|
@@ -27725,20 +27737,6 @@
 @uage	8.0
 @link	eBL |LAK617×KU₃| https://www.ebl.lmu.de/signs/|LAK617×KU₃|
 @link	Wikidata Q87557349 http://www.wikidata.org/entity/Q87557349
-@end sign
-
-@sign |LAK617×LA|
-@oid	o0001868
-@list	BAU305
-@list	LAK621
-@list	RSP288^a
-@uname	CUNEIFORM SIGN LAK617 TIMES LA
-@list	U+12506
-@ucun	𒔆
-@uage	8.0
-@v	gublagaₓ
-@link	eBL |LAK617×LA| https://www.ebl.lmu.de/signs/|LAK617×LA|
-@link	Wikidata Q87557350 http://www.wikidata.org/entity/Q87557350
 @end sign
 
 @sign |LAK617×LA@n|
