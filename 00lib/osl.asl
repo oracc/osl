@@ -113,7 +113,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0089
+	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0092
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -14161,9 +14161,6 @@
 @link	eBL GAR₃ https://www.ebl.lmu.de/signs/GAR₃
 @link	Wikidata Q87555487 http://www.wikidata.org/entity/Q87555487
 @end sign
-
-@compoundonly	|GAR₃&GAR₃|
-@inote	added during ogsl upgrade
 
 @sign GAŠAN
 @oid	o0000205
@@ -40589,15 +40586,21 @@
 @oid	o0022932
 @useq	x12303.X
 @ucun	𒌃X
-@v	garadin
 @@
 @form |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAR|
 @oid	o0000636
 @useq	x12303.x120FB
 @ucun	𒌃𒃻
-@v	garadin
 @ref	CBS 157 = dcclt/signlists:P257722 r ii 14'
 @inote	salgues
+@@
+@form |U&U.BUR&BUR|
+@oid	o0027646
+@list	LAK420
+@inote	missing compounds for lak.atf
+@list	U+F0090
+@uname U OVER U PLUS BESIDE OVER BUR
+@ucun	󰂐
 @@
 @end sign
 
@@ -42884,6 +42887,9 @@
 @sign |TA×GAR|
 @oid	o0002406
 @inote	CDLI ed3b
+@upua	U+F0091
+@ucun	󰂑
+@uage	9.2
 @v	lungaₓ
 @link	eBL |TA×GAR| https://www.ebl.lmu.de/signs/|TA×GAR|
 @end sign
@@ -45135,6 +45141,9 @@
 @form |UD×DIŠ|
 @oid	o0223330
 @list	RSP328
+@upua	U+F0092
+@ucun	󰂒
+@uage	9.2
 @@
 @end sign
 
@@ -45217,14 +45226,6 @@
 @aka	|(U.KINDA)&(U.KINDA)|
 @useq	X.x120F1
 @ucun	X𒃱
-@end sign
-
-@sign |U&U.GAR₃&GAR₃|
-@oid	o0027646
-@list	LAK420
-@inote	missing compounds for lak.atf
-@useq	X.X
-@ucun	XX
 @end sign
 
 @sign |U&U.PA&PA.GAR&GAR|
@@ -45316,11 +45317,6 @@
 @sign U@v
 @oid	o0000563
 @link	eBL U@v https://www.ebl.lmu.de/signs/U@v
-@end sign
-
-@sign |UD×DIŠ|
-@oid	o0223330
-@list	RSP328
 @end sign
 
 @compoundonly	|U@v&U@v|
@@ -46278,6 +46274,9 @@
 @form |UD×DIŠ|
 @oid	o0223330
 @list	RSP328
+@upua	U+F0092
+@ucun	󰂒
+@uage	9.2
 @@
 @form |UD×PAP|
 @oid	o0025694
@@ -46346,6 +46345,10 @@
 @v	u₂₂
 @link	eBL |UD×(U.U.U)| https://www.ebl.lmu.de/signs/|UD×(U.U.U)|
 @link	Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
+@form+ |UD×DIŠ|
+@oid	o0223330
+@list	RSP328
+@inote ED IIIb form for itud
 @end sign
 
 @sign UD@g
@@ -49778,16 +49781,6 @@
 @v	garigₓ
 @end sign
 
-@sign |ZUM×LAGAB|
-@oid	o0002678
-@list RSP175^a
-@upua	U+F004D
-@inote	epsd2/royal; also in marguzum ed3b
-@v	garigₓ
-@v	guzumₓ
-@link	eBL |ZUM×LAGAB| https://www.ebl.lmu.de/signs/|ZUM×LAGAB|
-@end sign
-
 @sign |ZUM×TUG₂|
 @oid	o0000393
 @pname	|ZUM×TUG₂|
@@ -49798,6 +49791,15 @@
 @v	garig₂
 @v	guzumₓ
 @inote	needed for marguzum/al-guzumₓ
+@form |ZUM×LAGAB|
+@oid	o0002678
+@list RSP175^a
+@upua	U+F004D
+@inote	epsd2/royal; also in marguzum ed3b
+@v	garigₓ
+@v	guzumₓ
+@link	eBL |ZUM×LAGAB| https://www.ebl.lmu.de/signs/|ZUM×LAGAB|
+@@
 @form |ZUM.SI|
 @oid	o0002677
 @useq	x1236E.x122DB
