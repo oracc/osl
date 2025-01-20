@@ -67,7 +67,7 @@
 @lit	F. Thureau-Dangin, Le Syllabaire Accadien (Paris 1926)
 
 @listdef RSP 1-468 019bis 036bis 036bis^a 036bis^b 036bis^c 036bis^d 048bis 175^a 178bis 339bis
-	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 034^a 039^a
+	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 027^a 034^a 039^a
 	 039^a 039^b 041^a 097^a 099^a 099^b 183^a 202^a 256^a 259^a 288^a
 	 312^a 312^a 312^a 350^a 370^a
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
@@ -50005,6 +50005,7 @@
 @oid	o0223386
 @list	LAK856
 @inote LAK856b = 1(eše₃) in body of row not in left square.
+@list	RSP027^a
 @inote	@ucode	xebc7
 @v	eše₃@c
 @v	1(eše₃@c)
