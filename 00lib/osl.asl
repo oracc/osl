@@ -46384,6 +46384,10 @@
 @v	muri
 @v	muru₂
 @v	murub₄
+@v	nesag₃
+@v	nesaŋ₃
+@v	nisag₃
+@v	nisaŋ₃
 @link	eBL |UD×(U.U.U)@g| https://www.ebl.lmu.de/signs/|UD×(U.U.U)@g|
 @link	Wikidata Q87556549 http://www.wikidata.org/entity/Q87556549
 @note 	The early form of MURUB₄ is LAK157=UD@g; the Unicode reference glyph
