@@ -40601,7 +40601,7 @@
 @inote	missing compounds for lak.atf
 @list	U+F0074
 @uname U OVER U PLUS BESIDE OVER BUR
-@ucun	󰂐
+@ucun	󰁴
 @@
 @end sign
 
