@@ -69,7 +69,7 @@
 @listdef RSP 1-468 019bis 036bis 036bis^a 036bis^b 036bis^c 036bis^d 048bis 175^a 178bis 339bis
 	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 027^a 034^a 039^a
 	 039^a 039^b 041^a 097^a 099^a 099^b 183^a 202^a 256^a 259^a 288^a
-	 312^a 312^a 312^a 350^a 370^a
+	 312^a 312^a 312^a 350^a 350^b 370^a
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
 
 @listdef SLLHA 1-598 002a 007v 015x 016a 018v 018x 022x 022xn2 023n
@@ -27415,6 +27415,14 @@
 @ucun	𒉭X
 @link	eBL |NUNUZ.AB₂×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×(LU₃.PAP.PAP)|
 @@
+@form |NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
+@oid	o0002159
+@pname	|NUNUZ.KISIM₅×LU₃+PAP+PAP|
+@aka	|NUNUZ.(KISIM₅×(GUG₂.MUNU₄))|
+@useq	x1226D.X
+@ucun	𒉭X
+@link	eBL |NUNUZ.KISIM₅×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
+@@
 @end sign
 
 @sign |LAK449×SI|
@@ -34704,6 +34712,7 @@
 @list	KWU475
 @list	MZL617
 @list	RSP351
+@list	RSP350^b
 @list	SLLHA394bx
 @uname	CUNEIFORM SIGN NUNUZ AB2 TIMES SILA3
 @list	U+12276
@@ -34811,15 +34820,6 @@
 @v	lahtan₃
 @link	eBL |NUNUZ.KISIM₅×BI.U| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×BI.U|
 @link	Wikidata Q87556256 http://www.wikidata.org/entity/Q87556256
-@end sign
-
-@sign |NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
-@oid	o0002159
-@pname	|NUNUZ.KISIM₅×LU₃+PAP+PAP|
-@aka	|NUNUZ.(KISIM₅×(GUG₂.MUNU₄))|
-@useq	x1226D.X
-@ucun	𒉭X
-@link	eBL |NUNUZ.KISIM₅×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
 @end sign
 
 @sign |NUNUZ.KISIM₅×(TUG₂.HI)|
@@ -40597,8 +40597,9 @@
 @form |U&U.BUR&BUR|
 @oid	o0027646
 @list	LAK420
+@list	RSP380bis
 @inote	missing compounds for lak.atf
-@list	U+F0090
+@list	U+F0074
 @uname U OVER U PLUS BESIDE OVER BUR
 @ucun	󰂐
 @@
@@ -46384,10 +46385,10 @@
 @v	muri
 @v	muru₂
 @v	murub₄
-@v	nesag₃
-@v	nesaŋ₃
-@v	nisag₃
-@v	nisaŋ₃
+@inote @v	nesag₃
+@inote @v	nesaŋ₃
+@inote @v	nisag₃
+@inote @v	nisaŋ₃
 @link	eBL |UD×(U.U.U)@g| https://www.ebl.lmu.de/signs/|UD×(U.U.U)@g|
 @link	Wikidata Q87556549 http://www.wikidata.org/entity/Q87556549
 @note 	The early form of MURUB₄ is LAK157=UD@g; the Unicode reference glyph
@@ -47295,6 +47296,7 @@
 @list	MZL574
 @list	PTACE114
 @list	RSP380
+@inote RSP380bis claims itself is URI.  Sign = LAK420; read {geš}garadin by CDLI.
 @list	SLLHA359n1
 @uname	CUNEIFORM SIGN URI
 @list	U+12335
@@ -47314,14 +47316,6 @@
 @oid	o0025783
 @list	LAK647
 @v	sigₓ
-@@
-@form RSP380bis
-@oid	o0221919
-@list	RSP380bis
-@inote	cp LAK576 which is similar but not identical
-@upua	U+F0074
-@ucun	󰁴
-@uage	9.2
 @@
 @form URI@n
 @oid	o0000580
