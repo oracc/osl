@@ -20195,8 +20195,14 @@
 @list	KWU428
 @list	LAK324
 @list	MZL033
+@list	PTACE168
 @list	SLLHA019
 @list	SYA014
+@inote	PTACE identifies this sign with LAK323 and shows a glyph which looks
+	more like LAK323, but gives values that are those of |KA×GAN₂@t|, and none of
+	the values of |KA×ŠU|.
+	This appearance of ×GAN₂@t compounds is consistent with that of, e.g.,
+	|LU₂×GAN₂@t| (see the note there).
 @uname	CUNEIFORM SIGN KA TIMES GAN2 TENU
 @list	U+12164
 @ucun	𒅤
@@ -28784,7 +28790,7 @@
 @list	MZL521
 @list	PTACE019
 @list	SLLHA330_7
-@inote	PTACE calls it LÚ×ÉŠ, but gives it the value šaga PTACE has no LU₂×GAN₂@t.
+@inote	PTACE calls it LÚ×ÉŠ, but gives it the value šaga. PTACE has no LU₂×GAN₂@t.
 	EbDA has LU₂×GANA₂ tenû and no LU₂×EŠ₂.
 @uname	CUNEIFORM SIGN LU2 TIMES GAN2 TENU
 @list	U+12202
