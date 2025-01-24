@@ -50465,6 +50465,7 @@
 @v	ŋešʾu
 @v	1(gešʾu)
 @v	1(gešu)
+@v	1(ŋešʾu)
 @link	Wikidata Q87556890 http://www.wikidata.org/entity/Q87556890
 @form GEŠU@c
 @aka 1(N48)
@@ -50475,6 +50476,7 @@
 @v	gešʾu@c
 @v	ŋešʾu@c
 @v	1(gešʾu@c)
+@v	1(ŋešʾu@c)
 @v	1(gešu@c)
 @sys pcun 1(N48)
 @list U+12574
@@ -50491,6 +50493,7 @@
 @ucun	𒐟
 @uage	5.0
 @v	2(gešʾu)
+@v	2(ŋešʾu)
 @v	2(gešu)
 @link	Wikidata Q87556891 http://www.wikidata.org/entity/Q87556891
 @form 2(GEŠU@c)
@@ -50498,6 +50501,7 @@
 @oid	o0223392
 @inote	@ucode	xeba2
 @v	2(gešʾu@c)
+@v	2(ŋešʾu@c)
 @v	2(gešu@c)
 @sys pcun 2(N48)
 @list U+12575
@@ -50514,6 +50518,7 @@
 @ucun	𒐠
 @uage	5.0
 @v	3(gešʾu)
+@v	3(ŋešʾu)
 @v	3(gešu)
 @link	Wikidata Q87556893 http://www.wikidata.org/entity/Q87556893
 @form 3(GEŠU@c)
@@ -50521,6 +50526,7 @@
 @oid	o0223402
 @inote	@ucode	xeba3
 @v	3(gešʾu@c)
+@v	3(ŋešʾu@c)
 @v	3(gešu@c)
 @sys pcun 3(N48)
 @list U+12576
@@ -50535,6 +50541,7 @@
 @ucun	󰀧
 @uage	9.1
 @v	3(gešʾu@c)@v
+@v	3(ŋešʾu@c)@v
 @v	3(gešu@c)@v
 @@
 @end sign
@@ -50546,6 +50553,7 @@
 @ucun	𒐡
 @uage	5.0
 @v	4(gešʾu)
+@v	4(ŋešʾu)
 @v	4(gešu)
 @link	Wikidata Q87556895 http://www.wikidata.org/entity/Q87556895
 @form 4(GEŠU@c)
@@ -50553,6 +50561,7 @@
 @oid	o0223416
 @inote	@ucode	xeba5
 @v	4(gešʾu@c)
+@v	4(ŋešʾu@c)
 @v	4(gešu@c)
 @sys pcun 4(N48)
 @list U+12577
@@ -50566,6 +50575,7 @@
 @ucun	󰀨
 @uage	9.1
 @v	4(gešʾu@c)@v
+@v	4(ŋešʾu@c)@v
 @v	4(gešu@c)@v
 @@
 @end sign
@@ -50577,6 +50587,7 @@
 @ucun	𒐢
 @uage	5.0
 @v	5(gešʾu)
+@v	5(ŋešʾu)
 @v	5(gešu)
 @link	Wikidata Q87556896 http://www.wikidata.org/entity/Q87556896
 @form 5(GEŠU@c)
@@ -50584,6 +50595,7 @@
 @oid	o0223427
 @inote	@ucode	xeba6
 @v	5(gešʾu@c)
+@v	5(ŋešʾu@c)
 @v	5(gešu@c)
 @sys pcun 5(N48)
 @list U+12578
