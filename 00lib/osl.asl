@@ -50681,6 +50681,7 @@
 @uage	9.1
 @v	geš₂@t
 @v	1(geš₂@t)
+@v	1(ŋeš₂@t)
 @@
 @end sign
 
@@ -50711,6 +50712,7 @@
 @ucun	󰀠
 @uage	9.1
 @v	2(geš₂@t)
+@v	2(ŋeš₂@t)
 @@
 @end sign
 
@@ -50757,6 +50759,7 @@
 @ucun	󰀡
 @uage	9.1
 @v	3(geš₂@t)
+@v	3(ŋeš₂@t)
 @@
 @end sign
 
@@ -50803,6 +50806,7 @@
 @ucun	󰀢
 @uage	9.1
 @v	4(geš₂@t)
+@v	4(ŋeš₂@t)
 @@
 @end sign
 
@@ -50833,6 +50837,7 @@
 @ucun	󰀣
 @uage	9.1
 @v	5(geš₂@t)
+@v	5(ŋeš₂@t)
 @@
 @end sign
 
@@ -50863,6 +50868,7 @@
 @ucun	󰀤
 @uage	9.1
 @v	6(geš₂@t)
+@v	7(ŋeš₂@t)
 @@
 @end sign
 
@@ -50893,6 +50899,7 @@
 @ucun	󰀥
 @uage	9.1
 @v	7(geš₂@t)
+@v	7(ŋeš₂@t)
 @@
 @end sign
 
