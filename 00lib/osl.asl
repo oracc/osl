@@ -50877,7 +50877,7 @@
 @ucun	󰀤
 @uage	9.1
 @v	6(geš₂@t)
-@v	7(ŋeš₂@t)
+@v	6(ŋeš₂@t)
 @@
 @end sign
 
