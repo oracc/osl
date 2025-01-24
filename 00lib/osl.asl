@@ -50933,6 +50933,14 @@
 @uage ACN
 @ucun 𒕲
 @@
+@form 8(GEŠ₂@t)
+@oid	o0038424
+@upua	U+F0093
+@ucun	󰂓
+@uage	9.1
+@v	8(geš₂@t)
+@v	8(ŋeš₂@t)
+@@
 @end sign
 
 @sign 9(GEŠ₂)
@@ -50955,6 +50963,14 @@
 @uname CUNEIFORM NUMERIC SIGN NINE N34
 @uage ACN
 @ucun 𒕳
+@@
+@form 9(GEŠ₂@t)
+@oid	o0038427
+@upua	U+F0094
+@ucun	󰂔
+@uage	9.1
+@v	9(geš₂@t)
+@v	9(ŋeš₂@t)
 @@
 @end sign
 
