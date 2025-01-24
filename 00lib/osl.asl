@@ -50648,6 +50648,7 @@
 @v	geš₂@c
 @v	ŋeš₂@c
 @v	1(geš₂@c)
+@v	1(ŋeš₂@c)
 @sys pcun 1(N34)
 @list U+1256B
 @uname CUNEIFORM NUMERIC SIGN ONE N34
@@ -50697,6 +50698,7 @@
 @oid	o0223393
 @inote	@ucode	xeb97
 @v	2(geš₂@c)
+@v	2(ŋeš₂@c)
 @sys pcun 2(N34)
 @list U+1256C
 @uname CUNEIFORM NUMERIC SIGN TWO N34
@@ -50726,6 +50728,7 @@
 @oid	o0223404
 @inote	@ucode	xeb98
 @v	3(geš₂@c)
+@v	3(ŋeš₂@c)
 @sys pcun 3(N34)
 @list U+1256D
 @uname CUNEIFORM NUMERIC SIGN THREE N34
@@ -50739,6 +50742,7 @@
 @ucun	󰀚
 @uage	9.1
 @v	3(geš₂@c)@v
+@v	3(ŋeš₂@c)@v
 @@
 @form 3(GEŠ₂@c@90)
 @oid	o0038290
@@ -50770,6 +50774,7 @@
 @oid	o0223418
 @inote	@ucode	xeb9a
 @v	4(geš₂@c)
+@v	4(ŋeš₂@c)
 @sys pcun 4(N34)
 @list U+1256E
 @uname CUNEIFORM NUMERIC SIGN FOUR N34
@@ -50783,6 +50788,7 @@
 @ucun	󰀛
 @uage	9.1
 @v	4(geš₂@c)@v
+@v	4(ŋeš₂@c)@v
 @@
 @form 4(GEŠ₂@c@90)
 @oid	o0038292
@@ -50814,6 +50820,7 @@
 @oid	o0223428
 @inote	@ucode	xeb9c
 @v	5(geš₂@c)
+@v	5(ŋeš₂@c)
 @sys pcun 5(N34)
 @list U+1256F
 @uname CUNEIFORM NUMERIC SIGN FIVE N34
@@ -50843,6 +50850,7 @@
 @oid	o0223435
 @inote	@ucode	xeb9d
 @v	6(geš₂@c)
+@v	6(ŋeš₂@c)
 @sys pcun 6(N34)
 @list U+12570
 @uname CUNEIFORM NUMERIC SIGN SIX N34
@@ -50872,6 +50880,7 @@
 @oid	o0223443
 @inote	@ucode	xeb9e
 @v	7(geš₂@c)
+@v	7(ŋeš₂@c)
 @sys pcun 7(N34)
 @list U+12571
 @uname CUNEIFORM NUMERIC SIGN SEVEN N34
@@ -50901,6 +50910,7 @@
 @oid	o0223448
 @inote	@ucode	xeb9f
 @v	8(geš₂@c)
+@v	8(ŋeš₂@c)
 @sys pcun 8(N34)
 @list U+12572
 @uname CUNEIFORM NUMERIC SIGN EIGHT N34
@@ -50923,6 +50933,7 @@
 @oid	o0223458
 @inote	@ucode	xeba0
 @v	9(geš₂@c)
+@v	9(ŋeš₂@c)
 @sys pcun 9(N34)
 @list U+12573
 @uname CUNEIFORM NUMERIC SIGN NINE N34
