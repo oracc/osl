@@ -50060,6 +50060,7 @@
 @oid	o0223395
 @inote	@ucode	xeba8
 @v	2(šar₂@c)
+@v	2(šargal@c)
 @sys pcun 2(N45)
 @list U+1257A
 @uname CUNEIFORM NUMERIC SIGN TWO N45
@@ -50082,6 +50083,7 @@
 @oid	o0223409
 @inote	@ucode	xeba9
 @v	3(šar₂@c)
+@v	3(šargal@c)
 @sys pcun 3(N45)
 @list U+1257B
 @uname CUNEIFORM NUMERIC SIGN THREE N45
@@ -50106,6 +50108,7 @@
 @ucun	󰀲
 @uage	9.1
 @v	3(šar₂@c)@v
+@v	3(šargal@c)@v
 @@
 @end sign
 
@@ -50123,6 +50126,7 @@
 @oid	o0223422
 @inote	@ucode	xebab
 @v	4(šar₂@c)
+@v	4(šargal@c)
 @sys pcun 4(N45)
 @list U+1257C
 @uname CUNEIFORM NUMERIC SIGN FOUR N45
@@ -50145,6 +50149,7 @@
 @oid	o0223430
 @inote	@ucode	xebac
 @v	5(šar₂@c)
+@v	5(šargal@c)
 @sys pcun 5(N45)
 @list U+1257D
 @uname CUNEIFORM NUMERIC SIGN FIVE N45
@@ -50167,6 +50172,7 @@
 @oid	o0223437
 @inote	@ucode	xebad
 @v	6(šar₂@c)
+@v	6(šargal@c)
 @sys pcun 6(N45)
 @list U+1257E
 @uname CUNEIFORM NUMERIC SIGN SIX N45
@@ -50189,6 +50195,7 @@
 @oid	o0223445
 @inote	@ucode	xebae
 @v	7(šar₂@c)
+@v	7(šargal@c)
 @sys pcun 7(N45)
 @list U+1257F
 @uname CUNEIFORM NUMERIC SIGN SEVEN N45
@@ -50211,6 +50218,7 @@
 @oid	o0223450
 @inote	@ucode	xebaf
 @v	8(šar₂@c)
+@v	8(šargal@c)
 @sys pcun 8(N45)
 @list U+12580
 @uname CUNEIFORM NUMERIC SIGN EIGHT N45
@@ -50234,6 +50242,7 @@
 @oid	o0223460
 @inote	@ucode	xebb0
 @v	9(šar₂@c)
+@v	9(šargal@c)
 @sys pcun 9(N45)
 @list U+12581
 @uname CUNEIFORM NUMERIC SIGN NINE N45
