@@ -84,7 +84,20 @@
 	    <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
 	  </xsl:choose>
 	</xsl:variable>
-	<td><p><span class="{$css} {$fcss} ofs-150"><xsl:value-of select="ancestor::o:sign/@utf8"/></span></p></td>
+	<td>
+	  <p>
+	    <span class="{$css} {$fcss} ofs-150">
+	      <xsl:choose>
+		<xsl:when test="$label='liga'">
+		  <xsl:value-of select="@utf8"/>
+		</xsl:when>
+		<xsl:otherwise>
+		  <xsl:value-of select="ancestor::o:sign/@utf8"/>
+		</xsl:otherwise>
+	      </xsl:choose>
+	    </span>
+	  </p>
+	</td>
 	<td>
 	  <xsl:if test="@l">
 	    <p>
