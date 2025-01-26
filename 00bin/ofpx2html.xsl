@@ -60,6 +60,14 @@
       <xsl:with-param name="nodes" select="o:salts/*"/>
       <xsl:with-param name="label" select="'salt'"/>
     </xsl:call-template>
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:ligas/*"/>
+      <xsl:with-param name="label" select="liga'"/>
+    </xsl:call-template>
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:cvnns/*"/>
+      <xsl:with-param name="label" select="cvnn'"/>
+    </xsl:call-template>
   </xsl:template>
 
   <xsl:template name="feature">
