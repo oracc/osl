@@ -66,7 +66,7 @@
     </xsl:call-template>
     <xsl:call-template name="feature">
       <xsl:with-param name="nodes" select="o:cvnns/*"/>
-      <xsl:with-param name="label" select="cvnn'"/>
+      <xsl:with-param name="label" select="'cvnn'"/>
     </xsl:call-template>
   </xsl:template>
 
