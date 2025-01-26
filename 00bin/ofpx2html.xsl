@@ -62,7 +62,7 @@
     </xsl:call-template>
     <xsl:call-template name="feature">
       <xsl:with-param name="nodes" select="o:ligas/*"/>
-      <xsl:with-param name="label" select="liga'"/>
+      <xsl:with-param name="label" select="'liga'"/>
     </xsl:call-template>
     <xsl:call-template name="feature">
       <xsl:with-param name="nodes" select="o:cvnns/*"/>
