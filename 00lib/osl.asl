@@ -23119,6 +23119,7 @@
 @v	lil₂
 @v	lila₂
 @v	muru₁₂
+@v	qet
 @v	qi₅
 @v	qid
 @v	qit
