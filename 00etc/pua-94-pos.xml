@@ -17,8 +17,18 @@
       
       <p>See <esp:link
       url="/osl/OraccCuneiformFonts/OraccPUA/#h_definitionaldatatable">the
-      Oracc PUA page for notes on the columns in this
+      Oracc PUA page for general notes on the columns in this
       table.</esp:link>.</p>
+
+      <p>In addition, this page uses the abbreviations:</p>
+      <dl>
+	<dt>DNE</dt>
+	<dd>Do Not Encode</dd>
+	<dt>OOR</dt>
+	<dd>Out Of Range: used for number signs which are outside of
+	the expected range relative to the systems in which they
+	normally function.</dd>
+      </dl>
       
       <!-- or "grid" -->
       <sxw:page-o-signs
