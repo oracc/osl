@@ -23,8 +23,8 @@ All of the merged numbers should be given as Unicode values of a
 single sign, e.g., u12254 = 12254 1214E.
 
 For ED ARAD, which is an UR III split from UŠ, add 𒀴 as a Unicode
-value of 𒍑.  This coaxes dur₃ into having the form 𒀲𒍑 rather
-than 𒀲𒀴.
+value of 𒍑 in the font's character info.  This coaxes dur₃ into having
+the form 𒀲𒍑 rather than 𒀲𒀴.
 
 
 1:M List::Unicode
