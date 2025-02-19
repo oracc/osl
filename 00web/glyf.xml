@@ -43,32 +43,28 @@ immediately before the '@@'.</p>
 <p>@glyf entries have no corresponding end tag; @glyf is terminated by
 the next `@glyf', `@form', or `@end sign'.</p>
 
+<p>@glyf entries may include an entry for the reference glyph of a
+Unicode encoding.</p>
+
 
 <esp:h>Syntax</esp:h>
 
-	<blockquote><code>@glyf TAG UNI PUA IVS? OTF</code></blockquote>
+	<blockquote><code>@glyf NUM UNI PUA OTF</code></blockquote>
 
 	<dl>
-    <dt>TAG</dt><dd>is an allomorph or graphetic tag which is unique among the
-	@glyfs which are the direct children of the parent; the
-	transliteration for the @glyf is the concatenation of the
-	parent sign name and the tag.  Allograph tags begin with '~',
-	then a letter, then zero or more alphanumerics.  In PCSL @glyf
-	allograph tags may only begin with '~v' followed by digits; in
-	PCSL these '~v' tags are reserved for use in @glyf and may not
-	occur elsewhere in PCSL names.  Graphetic tags start with a
-	'\' followed by digits.</dd>
+
+    <dt>NUM</dt><dd>NUM is an integer unique to the @glyf within the
+        direct child @glyfs of a @sign or @form.  By convention, we number
+        from 1.  An initial '*' indicates that the @glyf is used as the
+        Unicode reference glyph in an encoding, so <code>@glyf SAG *1
+        ...</code> would indicate that @glyf 1 of SAG corresponds to the
+       reference glyph.</dd>
 
     <dt>UNI</dt><dd>is the Unicode character literal of the following PUA
 	assignment.</dd>
 
     <dt>PUA</dt><dd>is the permanent location of the @glyf in the Oracc PUA;
 	@glyf PUA assignments start at U+FA000 in the Oracc PUA.</dd>
-
-    <dt>IVS</dt><dd>is an optional Ideographic Variation Sequence character
-	which uniquely identifies the @glyf when it follows the
-	Unicode value of the parent. IVS are given as uppercase E
-	followed by four hex digits.</dd>
 
     <dt>OTF</dt><dd>is zero or more OpenType Features which can be used to access
 	the @glyf.  These may be SALT (.[0-9]+); CVNN character
@@ -85,6 +81,38 @@ the next `@glyf', `@form', or `@end sign'.</p>
 PCSL this means that KUŠU₂~a would be a legal sign or form name, but
 SAG~v1 would not.</p>
 
+
+<esp:h>Accessing Glyfs</esp:h>
+
+<esp:sh>Reference Images</esp:sh>
+
+<p>By definition, any @glyf that is listed in PCSL or OSL is provided with a reference image that is avaiable via the URL:</p>
+
+<pre>'/' (pcsl|osl) '/' glyf '/u' PARENT-UNICODE-HEX '_' GLYF_NUM '.png'</pre>
+
+<p>Thus, for @glyf 1 of a sign <code>SAG</code> encoded as U+12777 in
+PCSL the image file would be <code>/pcsl/glyf/u12777_1.png</code>.</p>
+
+<esp:sh>ATF Transliteration</esp:sh>
+
+<p>The ATF graphetic notation is used to reference @glyf forms in ATF
+transliteration. Thus, the SAG @glyf in the previous example would be
+accessed as <code>SAG\1</code>.</p>
+
+<esp:sh>Fonts</esp:sh>
+
+<p>Oracc cuneiform fonts observe the following rules in implementing @glyfs:</p>
+
+<ol>
+  <li>CVNN variants are used, with the CV for each @glyf corresponding
+  to the @glyf NUM, i.e., @glyf SAG 1 from the above examples would be
+  defined in a PCSL font as <code>U12777.cv01</code>.</li>
+  <li>SALT variants are not used</li>
+  <li>An SSET collection is defined for Uruk IV, ss04, and that sset
+  is reserved within Oracc for Uruk IV glyphs</li>
+</ol>
+
+
 <esp:h>Examples</esp:h>
 
 <pre>
@@ -97,8 +125,8 @@ SAG~v1 would not.</p>
 @uname SAG
 @uage 1
 @list ZATU437
-@glyf \1 󺀀 FA000 E0001 .1 .cv01 .ss04
-@glyf \2 󺀁 FA001 E0002 .2 .cv02
+@glyf 1 󺀀 FA000 .1 .cv01 .ss04
+@glyf 2 󺀁 FA001 .2 .cv02
 @list BAU228
 @end sign
 </pre>
@@ -106,9 +134,9 @@ SAG~v1 would not.</p>
 <esp:sh>Notes on Example (1)</esp:sh>
 
 <ul>
-<li>@glyfs do not have an OID assignment.  Where they require one, an
-XML:ID compliant version should be created by mapping '~' to '_' and
-'\' to '-' and appending the result to the OID of the parent.</li>
+<li>@glyfs do not have their own OID assignment.  An XML:ID compliant
+@glyf OID is created by appending '_NUM' the result to the OID of the
+parent, e.g., o0900000_1.</li>
 
 <li>Only @sign or @form have the usual Unicode information.</li>
 
