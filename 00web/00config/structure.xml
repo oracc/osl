@@ -7,13 +7,18 @@
   <struct:page file="acrl.xml" id="acrl" target="_top"/>
   <struct:page file="newval.xml" id="newval" type="page"/>
   <struct:page file="about.xml" id="about" type="page"/>
-  <struct:page file="asl.xml" id="asl" type="page"/>
+  <struct:page file="asl.xml" id="asl" type="page">
+    <struct:page file="glyf.xml" id="glyf" type="page"/>
+  </struct:page>
   <struct:page file="sort.xml" id="sort" type="page"/>
   <struct:page file="oracc-cuneiform-fonts.xml" id="o-c-fonts" type="page">
     <struct:page file="unicode-features.xml" id="unifeat" type="page">
       <struct:page file="oracc-pua.xml" id="oracc-pua" type="page">
 	<struct:link id="osl-pua-91" title="Oracc PUA 9.1" url="/osl/signlist/OraccPUA9.1" target="_top"/>
 	<struct:link id="osl-pua-92" title="Oracc PUA 9.2" url="/osl/signlist/OraccPUA9.2" target="_top"/>
+	<struct:link id="osl-pua-93" title="Oracc PUA 9.3" url="/osl/signlist/OraccPUA9.3" target="_top"/>
+	<struct:link id="osl-pua-94" title="Oracc PUA 9.4" url="/osl/signlist/OraccPUA9.4" target="_top"/>
+	<struct:link id="osl-pua-95" title="Oracc PUA 9.5" url="/osl/signlist/OraccPUA9.5" target="_top"/>
       </struct:page>
       <struct:page file="oracc-ivs.xml" id="oracc-ivs" type="page">
 	<struct:page file="osl-graphetics.xml" id="osl-graphetics" type="page"/>

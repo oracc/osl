@@ -45,21 +45,20 @@ the next `@glyf', `@form', or `@end sign'.
 Syntax:
 =======
 
-	@glyf ATF TAG UNI PUA IVS? OFF*
+	@glyf TAG UNI PUA IVS? OFF*
 
     COMPONENTS:
     -----------
 
-    ATF is the base ATF identifier for this glyph--normally the
-	parent.
-
     TAG is an allomorph or graphetic tag which is unique among the
-	@glyfs which are the direct children of the parent.  Allograph
-	tags begin with '~', then a letter, then zero or more
-	alphanumerics.  In PCSL @glyf allograph tags may only begin
-	with '~v' followed by digits; in PCSL these '~v' tags are
-	reserved for use in @glyf and may not occur elsewhere in PCSL
-	names.  Graphetic tags start with a '\' followed by digits.
+	@glyfs which are the direct children of the parent; the
+	transliteration for the @glyf is the concatenation of the
+	parent sign name and the tag.  Allograph tags begin with '~',
+	then a letter, then zero or more alphanumerics.  In PCSL @glyf
+	allograph tags may only begin with '~v' followed by digits; in
+	PCSL these '~v' tags are reserved for use in @glyf and may not
+	occur elsewhere in PCSL names.  Graphetic tags start with a
+	'\' followed by digits.
 
     UNI is the Unicode character literal of the following PUA
 	assignment.
@@ -72,11 +71,11 @@ Syntax:
 	Unicode value of the parent. IVS are given as uppercase E
 	followed by four hex digits.
 
-    OFF is zero or more OpenType Font Features which can be used to
-	access the @glyf.  These may be SALT (.[0-9]+); CVNN character
+    OTF is zero or more OpenType Features which can be used to access
+	the @glyf.  These may be SALT (.[0-9]+); CVNN character
 	variations; or SSET Stylistic set codes.  Note that each OFF
 	must begin with a '.' (period); this is part of the syntax of
-	OFF in @glyfs.
+	OTFs in @glyfs.
 
 
 Restrictions:
@@ -98,8 +97,8 @@ Examples:
 @uname SAG
 @uage 1
 @list ZATU437
-@glyf SAG \1 󴀀 FA000 E0001 .1 .cv01 .ss04
-@glyf SAG \2 󴀁 FA001 E0002 .2 .cv02
+@glyf \1 󺀀 FA000 E0001 .1 .cv01 .ss04
+@glyf \2 󺀁 FA001 E0002 .2 .cv02
 @list BAU228
 @end sign
 

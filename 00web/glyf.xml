@@ -1,0 +1,127 @@
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>ASL @glyf TAGS</esp:name>
+  <esp:title>ASL @glyf</esp:title>
+  <html>
+    <head/>
+    <body>
+
+      <p>Notes on the new ASL @glyf tag as of 2025-02-18 [not fully implemented]</p>
+
+<esp:h>Purpose</esp:h>
+
+<p>@glyf supports non-contrastive variant (proto-)cuneiform glyphs for
+@form and @sign and provides a place to define an ATF notation for
+accessing them, their permanent location in the Oracc PUA, and their
+accessibility via IVS as well as OpenType Font Features. This provides
+a machine-readable way of recording in PCSL and OSL glyphs that are
+not encoded as Unicode characters.</p>
+
+<p>Note that @glyf is intended to support general, persistent recording
+of only a selected subset of variant glyphs.  Many glyph variants will
+exist beyond the definition of @glyf, accessible through font features
+in specialized fonts.  For Oracc cuneiform fonts, each font has a
+table giving details on the availability of variants which are
+otherwise only defined within the fonts themselves.</p>
+
+<p>The primary reasons for selecting variants for recording as @glyfs is
+their presence in a major sign list (e.g., the CDLI github-repository
+of Proto-Cuneiform signs) or their function as a significant
+structural variant of a sign where the structural variant is not
+deemed appropriate for encoding as a character (e.g., the various
+avatars of DE₂ as UMUM@s, |UMUM×KASKAL|, |UMUM×PA|).</p>
+
+
+<esp:h>Location</esp:h>
+
+<p>@glyf may occur zero or more times in the body of an @sign or @form;
+this @sign or @form is referred to as the @glyf's parent.</p>
+
+<p>@glyf entries must come at the end of the parent @sign block,
+immediately before any @form, or at the end of the parent @form block,
+immediately before the '@@'.</p>
+
+<p>@glyf entries have no corresponding end tag; @glyf is terminated by
+the next `@glyf', `@form', or `@end sign'.</p>
+
+
+<esp:h>Syntax</esp:h>
+
+	<blockquote><code>@glyf TAG UNI PUA IVS? OTF</code></blockquote>
+
+	<dl>
+    <dd>TAG</dd><dt>is an allomorph or graphetic tag which is unique among the
+	@glyfs which are the direct children of the parent; the
+	transliteration for the @glyf is the concatenation of the
+	parent sign name and the tag.  Allograph tags begin with '~',
+	then a letter, then zero or more alphanumerics.  In PCSL @glyf
+	allograph tags may only begin with '~v' followed by digits; in
+	PCSL these '~v' tags are reserved for use in @glyf and may not
+	occur elsewhere in PCSL names.  Graphetic tags start with a
+	'\' followed by digits.</dt>
+
+    <dd>UNI</dd><dt>is the Unicode character literal of the following PUA
+	assignment.</dt>
+
+    <dd>PUA</dd><dt>is the permanent location of the @glyf in the Oracc PUA;
+	@glyf PUA assignments start at U+FA000 in the Oracc PUA.</dt>
+
+    <dd>IVS</dd><dt>is an optional Ideographic Variation Sequence character
+	which uniquely identifies the @glyf when it follows the
+	Unicode value of the parent. IVS are given as uppercase E
+	followed by four hex digits.</dt>
+
+    <dd>OTF</dd><dt>is zero or more OpenType Features which can be used to access
+	the @glyf.  These may be SALT (.[0-9]+); CVNN character
+	variations; or SSET Stylistic set codes.  Note that each OFF
+	must begin with a '.' (period); this is part of the syntax of
+	OTFs in @glyfs.</dt>
+
+	</dl>
+
+
+<esp:h>Restrictions</esp:h>
+
+<p>A @glyf tag may not occur within the name of a @sign or @form.  In
+PCSL this means that KUŠU₂~a would be a legal sign or form name, but
+SAG~v1 would not.</p>
+
+<esp:h>Examples</esp:h>
+
+<pre>
+(1)
+
+@sign SAG
+@oid o0901677
+@list U+12AA9
+@ucun 𒪩
+@uname SAG
+@uage 1
+@list ZATU437
+@glyf \1 󺀀 FA000 E0001 .1 .cv01 .ss04
+@glyf \2 󺀁 FA001 E0002 .2 .cv02
+@list BAU228
+@end sign
+</pre>
+
+<esp:sh>Notes on Example (1)</esp:sh>
+
+<ul>
+<li>@glyfs do not have an OID assignment.  Where they require one, an
+XML:ID compliant version should be created by mapping '~' to '_' and
+'\' to '-' and appending the result to the OID of the parent.</li>
+
+<li>Only @sign or @form have the usual Unicode information.</li>
+
+<li>A @glyf may have metadata elements like @list or @sys, but should
+not have a Unicode `@list U+' entry.</li>
+</ul>
+
+<pre>
+(2)
+
+[[ ADD EXAMPLE USING @form ]]
+</pre>
+
+    </body>
+  </html>
+</esp:page>
