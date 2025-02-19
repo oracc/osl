@@ -1,5 +1,5 @@
 <esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
-  <esp:name>ASL @glyf TAGS</esp:name>
+  <esp:name>ASL @glyf</esp:name>
   <esp:title>ASL @glyf</esp:title>
   <html>
     <head/>
@@ -49,7 +49,7 @@ the next `@glyf', `@form', or `@end sign'.</p>
 	<blockquote><code>@glyf TAG UNI PUA IVS? OTF</code></blockquote>
 
 	<dl>
-    <dd>TAG</dd><dt>is an allomorph or graphetic tag which is unique among the
+    <dt>TAG</dt><dd>is an allomorph or graphetic tag which is unique among the
 	@glyfs which are the direct children of the parent; the
 	transliteration for the @glyf is the concatenation of the
 	parent sign name and the tag.  Allograph tags begin with '~',
@@ -57,24 +57,24 @@ the next `@glyf', `@form', or `@end sign'.</p>
 	allograph tags may only begin with '~v' followed by digits; in
 	PCSL these '~v' tags are reserved for use in @glyf and may not
 	occur elsewhere in PCSL names.  Graphetic tags start with a
-	'\' followed by digits.</dt>
+	'\' followed by digits.</dd>
 
-    <dd>UNI</dd><dt>is the Unicode character literal of the following PUA
-	assignment.</dt>
+    <dt>UNI</dt><dd>is the Unicode character literal of the following PUA
+	assignment.</dd>
 
-    <dd>PUA</dd><dt>is the permanent location of the @glyf in the Oracc PUA;
-	@glyf PUA assignments start at U+FA000 in the Oracc PUA.</dt>
+    <dt>PUA</dt><dd>is the permanent location of the @glyf in the Oracc PUA;
+	@glyf PUA assignments start at U+FA000 in the Oracc PUA.</dd>
 
-    <dd>IVS</dd><dt>is an optional Ideographic Variation Sequence character
+    <dt>IVS</dt><dd>is an optional Ideographic Variation Sequence character
 	which uniquely identifies the @glyf when it follows the
 	Unicode value of the parent. IVS are given as uppercase E
-	followed by four hex digits.</dt>
+	followed by four hex digits.</dd>
 
-    <dd>OTF</dd><dt>is zero or more OpenType Features which can be used to access
+    <dt>OTF</dt><dd>is zero or more OpenType Features which can be used to access
 	the @glyf.  These may be SALT (.[0-9]+); CVNN character
 	variations; or SSET Stylistic set codes.  Note that each OFF
 	must begin with a '.' (period); this is part of the syntax of
-	OTFs in @glyfs.</dt>
+	OTFs in @glyfs.</dd>
 
 	</dl>
 
