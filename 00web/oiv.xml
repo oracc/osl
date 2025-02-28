@@ -33,7 +33,7 @@
       unregistered, but the collection data would be of the form:</p>
 
       <pre>
-	Oracc_OSL;[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*_[A-Z]+[0-9]*(?:[@%&amp;*.][A-Z]+[0-9]*)*;http://oracc.org/osl/ivs/
+	Oracc_OSL;o[0-9]{8}_[0-9]+;http://oracc.org/osl/ivs/
       </pre>
 
       <esp:h>Oracc_OSL Identifier Structure</esp:h>

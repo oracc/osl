@@ -47,7 +47,7 @@
 @listdef LAK 1-161 163-277 279-496 498-671 673-708 710-711 713-826
 	828-834 838-851 856-857 859-870 024b 046@v 046a 063b 072b 079a
 	081a 156b 162a 162b 171@s 207a 248@g 248b 256@g 262@g 278a
-	278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449b 455a 461a
+	278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449^a 455a 461a
 	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 712a 712b
 	772b 784a 791a 827a 827b 835a 835b 835c 836a 836b 836c 836d
 	837a 837b 852a 852b 853a 853b 854a 854b 855a 855b 858a 858b
@@ -67,9 +67,9 @@
 @lit	F. Thureau-Dangin, Le Syllabaire Accadien (Paris 1926)
 
 @listdef RSP 1-468 019bis 036bis 036bis^a 036bis^b 036bis^c 036bis^d 048bis 175^a 178bis 339bis
-	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 034^a 039^a
+	 361bis 364bis 380bis 426bis 460bis 468bis 468ter 005^a 027^a 034^a 039^a
 	 039^a 039^b 041^a 097^a 099^a 099^b 183^a 202^a 256^a 259^a 288^a
-	 312^a 312^a 312^a 370^a
+	 312^a 312^a 312^a 350^a 350^b 370^a
 @lit	Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash (Paris 1967)
 
 @listdef SLLHA 1-598 002a 007v 015x 016a 018v 018x 022x 022xn2 023n
@@ -113,7 +113,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0083
+	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0094
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -2332,6 +2332,9 @@
 
 @sign |AB₂×AMAR@t|
 @oid	o0221962
+@upua	U+F0084
+@ucun	󰂄
+@uage	9.2
 @end sign
 
 @compoundonly	|AB₂×AŠGAB|
@@ -3829,9 +3832,6 @@
 @link	eBL |ANŠE.UŠ| https://www.ebl.lmu.de/signs/|ANŠE.UŠ|
 @end sign
 
-@compoundonly	|ANŠE×IGI|
-@inote	added during ogsl upgrade
-
 @sign |ANŠE×ŠA₃|
 @oid	o0000839
 @v	šakkanₓ
@@ -4686,8 +4686,8 @@
 @form |BAD&BAD.X|
 @oid	o0022937
 @inote	dcclt !sg
-@useq	X.O
-@ucun	XX
+@useq	xF0085.O
+@ucun	󰂅x
 @@
 @end sign
 
@@ -4717,6 +4717,9 @@
 
 @sign |BAD&BAD|
 @oid	o0023035
+@upua	U+F0085
+@ucun	󰂅
+@uage	9.2
 @v	ešemen₅
 @v	ešemin₅
 @inote	dcclt !sg
@@ -7509,6 +7512,9 @@
 @sign |DU×TAK₄|
 @oid	o0038139
 @inote	&P274443 = FT 2, pl. 43, AO 12186 r 2
+@upua	U+F0081
+@ucun	󰂁
+@uage	9.2
 @end sign
 
 @compoundonly	|DU&A|
@@ -10890,6 +10896,18 @@
 @link	eBL |EZEN×GUD| https://www.ebl.lmu.de/signs/|EZEN×GUD|
 @link	Wikidata Q87556754 http://www.wikidata.org/entity/Q87556754
 @@
+@form |LAK617×LA|
+@oid	o0001868
+@list	BAU305
+@list	LAK621
+@list	RSP288^a
+@uname	CUNEIFORM SIGN LAK617 TIMES LA
+@list	U+12506
+@ucun	𒔆
+@uage	8.0
+@link	eBL |LAK617×LA| https://www.ebl.lmu.de/signs/|LAK617×LA|
+@link	Wikidata Q87557350 http://www.wikidata.org/entity/Q87557350
+@@
 @end sign
 
 @sign |EZEN×LAL₂|
@@ -14144,9 +14162,6 @@
 @link	Wikidata Q87555487 http://www.wikidata.org/entity/Q87555487
 @end sign
 
-@compoundonly	|GAR₃&GAR₃|
-@inote	added during ogsl upgrade
-
 @sign GAŠAN
 @oid	o0000205
 @list	HZL336
@@ -14905,7 +14920,6 @@
 @list	HZL303
 @list	KWU464
 @list	MZL703
-@list	RSP465
 @list	SLLHA421
 @uname	CUNEIFORM SIGN GIR3 TIMES A PLUS IGI
 @list	U+1210B
@@ -14922,8 +14936,19 @@
 @@
 @form |GIR₃×IGI|
 @oid	o0001352
-@inote	This is the form in Gudea Cyl.
+@list	ABZL295
+@list	ELLES141
+@list	HZL303
+@list	LAK249
+@list	RSP465
+@list	SLLHA421n2
+@uname	CUNEIFORM SIGN GIR3 TIMES IGI
+@list	U+1210D
+@ucun	𒄍
+@uage	5.0
 @link	eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
+@link	Wikidata Q87555522 http://www.wikidata.org/entity/Q87555522
+@inote This is the form of alim in ED3b Girsu and Gudea Cyl
 @@
 @form |IGI.KIŠ|
 @oid	o0031508
@@ -14979,22 +15004,6 @@
 @@
 @end sign
 
-@sign |GIR₃×IGI|
-@oid	o0001352
-@list	ABZL295
-@list	ELLES141
-@list	HZL303
-@list	LAK249
-@list	SLLHA421n2
-@uname	CUNEIFORM SIGN GIR3 TIMES IGI
-@list	U+1210D
-@ucun	𒄍
-@uage	5.0
-@v	alimₓ
-@link	eBL |GIR₃×IGI| https://www.ebl.lmu.de/signs/|GIR₃×IGI|
-@link	Wikidata Q87555522 http://www.wikidata.org/entity/Q87555522
-@end sign
-
 @sign |GIR₃×(LU.IGI)|
 @oid	o0001350
 @pname	|GIR₃×LU+IGI|
@@ -15032,6 +15041,7 @@
 @oid	o0031468
 @useq	x121FB.x12146.x12032
 @ucun	𒇻𒅆𒀲
+@inote This may not exist; sfs
 @@
 @end sign
 
@@ -22265,7 +22275,7 @@
 @form |KASKAL&KASKAL.DU&DU.BAD&BAD|
 @oid	o0048856
 @inote	dcclt !sg uncertain
-@useq	X.x1207B.X
+@useq	X.x1207B.xF0085
 @ucun	X𒁻X
 @@
 @end sign
@@ -23109,6 +23119,7 @@
 @v	lil₂
 @v	lila₂
 @v	muru₁₂
+@v	qet
 @v	qi₅
 @v	qid
 @v	qit
@@ -26696,6 +26707,9 @@
 @list	LAK020
 @list	PTACE014
 @inote	@uname-no-utf8	CUNEIFORM SIGN LAK20
+@upua	U+F0086
+@ucun	󰂆
+@uage	9.2
 @v	balaₓ
 @inote	ed12
 @v	megidaₓ
@@ -27402,6 +27416,14 @@
 @ucun	𒉭X
 @link	eBL |NUNUZ.AB₂×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×(LU₃.PAP.PAP)|
 @@
+@form |NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
+@oid	o0002159
+@pname	|NUNUZ.KISIM₅×LU₃+PAP+PAP|
+@aka	|NUNUZ.(KISIM₅×(GUG₂.MUNU₄))|
+@useq	x1226D.X
+@ucun	𒉭X
+@link	eBL |NUNUZ.KISIM₅×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
+@@
 @end sign
 
 @sign |LAK449×SI|
@@ -27631,6 +27653,9 @@
 @oid	o0000400
 @list	LAK606
 @link	eBL LAK606 https://www.ebl.lmu.de/signs/LAK606
+@upua	U+F0087
+@ucun	󰂇
+@uage	9.2
 @end sign
 
 @sign LAK607
@@ -27713,20 +27738,6 @@
 @uage	8.0
 @link	eBL |LAK617×KU₃| https://www.ebl.lmu.de/signs/|LAK617×KU₃|
 @link	Wikidata Q87557349 http://www.wikidata.org/entity/Q87557349
-@end sign
-
-@sign |LAK617×LA|
-@oid	o0001868
-@list	BAU305
-@list	LAK621
-@list	RSP288^a
-@uname	CUNEIFORM SIGN LAK617 TIMES LA
-@list	U+12506
-@ucun	𒔆
-@uage	8.0
-@v	gublagaₓ
-@link	eBL |LAK617×LA| https://www.ebl.lmu.de/signs/|LAK617×LA|
-@link	Wikidata Q87557350 http://www.wikidata.org/entity/Q87557350
 @end sign
 
 @sign |LAK617×LA@n|
@@ -28317,12 +28328,10 @@
 @@
 @end sign
 
-@sign |LU.ANŠE×IGI|
+@sign- |LU.ANŠE×IGI|
 @oid	o0221944
 @inote	admin/ed3b
-@useq	x121FB.X
-@ucun	𒇻X
-@v	lulimₓ
+@inote misreading for |LU.GIR₃×IGI|
 @end sign
 
 @sign |(LU.EŠ₂)&(LU.EŠ₂)|
@@ -33995,7 +34004,6 @@
 @v	abₓ
 @ref	CT 19, pl.23, Rm 0344 = dcclt/nineveh:P365403 r ii 7', NUN-gal = ab-gal-lum?
 @note	The writing NUN.GAL for abgal(|NUN.ME|) also appears in MSL 11, 46 rev. iii16 (Ugarit; Emar has ab-gal), but cannot be generalized to a value abₓ for NUN.
-@v	agargaraₓ
 @v-	dabₓ
 @note	Value dabₓ derived from |UD.NUN|{ki}/{mušen} = adab (a₁₂-dabₓ).
 @v	dabaₓ
@@ -34338,6 +34346,9 @@
 @sign |(NUN&NUN)&(NUN&NUN)|
 @oid	o0221961
 @aka	|NIR&NIR|
+@upua	U+F0088
+@ucun	󰂈
+@uage	9.2
 @end sign
 
 @sign |NUN%NUN|
@@ -34474,19 +34485,31 @@
 @@
 @end sign
 
-@sign |NUNUZ.AB₂|
-@oid	o0002142
+@sign LAK449
 @list	ELLES233
+@oid	o0000374
 @list	LAK449
 @list	RSP350
-@useq	x1226D.x12016
-@ucun	𒉭𒀖
+@uname	CUNEIFORM SIGN LAK449
+@list	U+124F1
+@ucun	𒓱
+@uage	8.0
 @v	nisagga
 @v	usanₓ
+@form |NUNUZ.AB₂|
+@oid	o0002142
 @link	eBL |NUNUZ.AB₂| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂|
-@form LAK449b
+@useq	x1226D.x12016
+@ucun	𒉭𒀖
+@@
+@form |LAK449×AŠ|
 @oid	o0025778
-@list	LAK449b
+@list	LAK449^a
+@list	RSP350^a
+@upua	U+F0089
+@ucun	󰂉
+@uage	9.2
+@v	usanₓ
 @@
 @end sign
 
@@ -34534,6 +34557,7 @@
 @form LAK449
 @oid	o0000374
 @uname	CUNEIFORM SIGN LAK449
+@list	RSP350
 @list	U+124F1
 @ucun	𒓱
 @uage	8.0
@@ -34689,6 +34713,7 @@
 @list	KWU475
 @list	MZL617
 @list	RSP351
+@list	RSP350^b
 @list	SLLHA394bx
 @uname	CUNEIFORM SIGN NUNUZ AB2 TIMES SILA3
 @list	U+12276
@@ -34796,15 +34821,6 @@
 @v	lahtan₃
 @link	eBL |NUNUZ.KISIM₅×BI.U| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×BI.U|
 @link	Wikidata Q87556256 http://www.wikidata.org/entity/Q87556256
-@end sign
-
-@sign |NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
-@oid	o0002159
-@pname	|NUNUZ.KISIM₅×LU₃+PAP+PAP|
-@aka	|NUNUZ.(KISIM₅×(GUG₂.MUNU₄))|
-@useq	x1226D.X
-@ucun	𒉭X
-@link	eBL |NUNUZ.KISIM₅×(LU₃.PAP.PAP)| https://www.ebl.lmu.de/signs/|NUNUZ.KISIM₅×(LU₃.PAP.PAP)|
 @end sign
 
 @sign |NUNUZ.KISIM₅×(TUG₂.HI)|
@@ -40571,15 +40587,22 @@
 @oid	o0022932
 @useq	x12303.X
 @ucun	𒌃X
-@v	garadin
 @@
 @form |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAR|
 @oid	o0000636
 @useq	x12303.x120FB
 @ucun	𒌃𒃻
-@v	garadin
 @ref	CBS 157 = dcclt/signlists:P257722 r ii 14'
 @inote	salgues
+@@
+@form |U&U.BUR&BUR|
+@oid	o0027646
+@list	LAK420
+@list	RSP380bis
+@inote	missing compounds for lak.atf
+@list	U+F0074
+@uname U OVER U PLUS BESIDE OVER BUR
+@ucun	󰁴
 @@
 @end sign
 
@@ -42866,6 +42889,9 @@
 @sign |TA×GAR|
 @oid	o0002406
 @inote	CDLI ed3b
+@upua	U+F0091
+@ucun	󰂑
+@uage	9.2
 @v	lungaₓ
 @link	eBL |TA×GAR| https://www.ebl.lmu.de/signs/|TA×GAR|
 @end sign
@@ -45117,6 +45143,9 @@
 @form |UD×DIŠ|
 @oid	o0223330
 @list	RSP328
+@upua	U+F0092
+@ucun	󰂒
+@uage	9.2
 @@
 @end sign
 
@@ -45199,14 +45228,6 @@
 @aka	|(U.KINDA)&(U.KINDA)|
 @useq	X.x120F1
 @ucun	X𒃱
-@end sign
-
-@sign |U&U.GAR₃&GAR₃|
-@oid	o0027646
-@list	LAK420
-@inote	missing compounds for lak.atf
-@useq	X.X
-@ucun	XX
 @end sign
 
 @sign |U&U.PA&PA.GAR&GAR|
@@ -45298,11 +45319,6 @@
 @sign U@v
 @oid	o0000563
 @link	eBL U@v https://www.ebl.lmu.de/signs/U@v
-@end sign
-
-@sign |UD×DIŠ|
-@oid	o0223330
-@list	RSP328
 @end sign
 
 @compoundonly	|U@v&U@v|
@@ -46260,6 +46276,9 @@
 @form |UD×DIŠ|
 @oid	o0223330
 @list	RSP328
+@upua	U+F0092
+@ucun	󰂒
+@uage	9.2
 @@
 @form |UD×PAP|
 @oid	o0025694
@@ -46328,6 +46347,10 @@
 @v	u₂₂
 @link	eBL |UD×(U.U.U)| https://www.ebl.lmu.de/signs/|UD×(U.U.U)|
 @link	Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
+@form+ |UD×DIŠ|
+@oid	o0223330
+@list	RSP328
+@inote ED IIIb form for itud
 @end sign
 
 @sign UD@g
@@ -46363,6 +46386,10 @@
 @v	muri
 @v	muru₂
 @v	murub₄
+@inote @v	nesag₃
+@inote @v	nesaŋ₃
+@inote @v	nisag₃
+@inote @v	nisaŋ₃
 @link	eBL |UD×(U.U.U)@g| https://www.ebl.lmu.de/signs/|UD×(U.U.U)@g|
 @link	Wikidata Q87556549 http://www.wikidata.org/entity/Q87556549
 @note 	The early form of MURUB₄ is LAK157=UD@g; the Unicode reference glyph
@@ -47270,6 +47297,7 @@
 @list	MZL574
 @list	PTACE114
 @list	RSP380
+@inote RSP380bis claims itself is URI.  Sign = LAK420; read {geš}garadin by CDLI.
 @list	SLLHA359n1
 @uname	CUNEIFORM SIGN URI
 @list	U+12335
@@ -47289,14 +47317,6 @@
 @oid	o0025783
 @list	LAK647
 @v	sigₓ
-@@
-@form RSP380bis
-@oid	o0221919
-@list	RSP380bis
-@inote	cp LAK576 which is similar but not identical
-@upua	U+F0074
-@ucun	󰁴
-@uage	9.2
 @@
 @form URI@n
 @oid	o0000580
@@ -49760,16 +49780,6 @@
 @v	garigₓ
 @end sign
 
-@sign |ZUM×LAGAB|
-@oid	o0002678
-@list RSP175^a
-@upua	U+F004D
-@inote	epsd2/royal; also in marguzum ed3b
-@v	garigₓ
-@v	guzumₓ
-@link	eBL |ZUM×LAGAB| https://www.ebl.lmu.de/signs/|ZUM×LAGAB|
-@end sign
-
 @sign |ZUM×TUG₂|
 @oid	o0000393
 @pname	|ZUM×TUG₂|
@@ -49780,6 +49790,15 @@
 @v	garig₂
 @v	guzumₓ
 @inote	needed for marguzum/al-guzumₓ
+@form |ZUM×LAGAB|
+@oid	o0002678
+@list RSP175^a
+@upua	U+F004D
+@inote	epsd2/royal; also in marguzum ed3b
+@v	garigₓ
+@v	guzumₓ
+@link	eBL |ZUM×LAGAB| https://www.ebl.lmu.de/signs/|ZUM×LAGAB|
+@@
 @form |ZUM.SI|
 @oid	o0002677
 @useq	x1236E.x122DB
@@ -49985,6 +50004,7 @@
 @oid	o0223386
 @list	LAK856
 @inote LAK856b = 1(eše₃) in body of row not in left square.
+@list	RSP027^a
 @inote	@ucode	xebc7
 @v	eše₃@c
 @v	1(eše₃@c)
@@ -50041,6 +50061,7 @@
 @oid	o0223395
 @inote	@ucode	xeba8
 @v	2(šar₂@c)
+@v	2(šargal@c)
 @sys pcun 2(N45)
 @list U+1257A
 @uname CUNEIFORM NUMERIC SIGN TWO N45
@@ -50063,6 +50084,7 @@
 @oid	o0223409
 @inote	@ucode	xeba9
 @v	3(šar₂@c)
+@v	3(šargal@c)
 @sys pcun 3(N45)
 @list U+1257B
 @uname CUNEIFORM NUMERIC SIGN THREE N45
@@ -50087,6 +50109,7 @@
 @ucun	󰀲
 @uage	9.1
 @v	3(šar₂@c)@v
+@v	3(šargal@c)@v
 @@
 @end sign
 
@@ -50104,6 +50127,7 @@
 @oid	o0223422
 @inote	@ucode	xebab
 @v	4(šar₂@c)
+@v	4(šargal@c)
 @sys pcun 4(N45)
 @list U+1257C
 @uname CUNEIFORM NUMERIC SIGN FOUR N45
@@ -50126,6 +50150,7 @@
 @oid	o0223430
 @inote	@ucode	xebac
 @v	5(šar₂@c)
+@v	5(šargal@c)
 @sys pcun 5(N45)
 @list U+1257D
 @uname CUNEIFORM NUMERIC SIGN FIVE N45
@@ -50148,6 +50173,7 @@
 @oid	o0223437
 @inote	@ucode	xebad
 @v	6(šar₂@c)
+@v	6(šargal@c)
 @sys pcun 6(N45)
 @list U+1257E
 @uname CUNEIFORM NUMERIC SIGN SIX N45
@@ -50170,6 +50196,7 @@
 @oid	o0223445
 @inote	@ucode	xebae
 @v	7(šar₂@c)
+@v	7(šargal@c)
 @sys pcun 7(N45)
 @list U+1257F
 @uname CUNEIFORM NUMERIC SIGN SEVEN N45
@@ -50192,6 +50219,7 @@
 @oid	o0223450
 @inote	@ucode	xebaf
 @v	8(šar₂@c)
+@v	8(šargal@c)
 @sys pcun 8(N45)
 @list U+12580
 @uname CUNEIFORM NUMERIC SIGN EIGHT N45
@@ -50215,6 +50243,7 @@
 @oid	o0223460
 @inote	@ucode	xebb0
 @v	9(šar₂@c)
+@v	9(šargal@c)
 @sys pcun 9(N45)
 @list U+12581
 @uname CUNEIFORM NUMERIC SIGN NINE N45
@@ -50446,6 +50475,7 @@
 @v	ŋešʾu
 @v	1(gešʾu)
 @v	1(gešu)
+@v	1(ŋešʾu)
 @link	Wikidata Q87556890 http://www.wikidata.org/entity/Q87556890
 @form GEŠU@c
 @aka 1(N48)
@@ -50456,6 +50486,7 @@
 @v	gešʾu@c
 @v	ŋešʾu@c
 @v	1(gešʾu@c)
+@v	1(ŋešʾu@c)
 @v	1(gešu@c)
 @sys pcun 1(N48)
 @list U+12574
@@ -50472,6 +50503,7 @@
 @ucun	𒐟
 @uage	5.0
 @v	2(gešʾu)
+@v	2(ŋešʾu)
 @v	2(gešu)
 @link	Wikidata Q87556891 http://www.wikidata.org/entity/Q87556891
 @form 2(GEŠU@c)
@@ -50479,6 +50511,7 @@
 @oid	o0223392
 @inote	@ucode	xeba2
 @v	2(gešʾu@c)
+@v	2(ŋešʾu@c)
 @v	2(gešu@c)
 @sys pcun 2(N48)
 @list U+12575
@@ -50495,6 +50528,7 @@
 @ucun	𒐠
 @uage	5.0
 @v	3(gešʾu)
+@v	3(ŋešʾu)
 @v	3(gešu)
 @link	Wikidata Q87556893 http://www.wikidata.org/entity/Q87556893
 @form 3(GEŠU@c)
@@ -50502,6 +50536,7 @@
 @oid	o0223402
 @inote	@ucode	xeba3
 @v	3(gešʾu@c)
+@v	3(ŋešʾu@c)
 @v	3(gešu@c)
 @sys pcun 3(N48)
 @list U+12576
@@ -50516,6 +50551,7 @@
 @ucun	󰀧
 @uage	9.1
 @v	3(gešʾu@c)@v
+@v	3(ŋešʾu@c)@v
 @v	3(gešu@c)@v
 @@
 @end sign
@@ -50527,6 +50563,7 @@
 @ucun	𒐡
 @uage	5.0
 @v	4(gešʾu)
+@v	4(ŋešʾu)
 @v	4(gešu)
 @link	Wikidata Q87556895 http://www.wikidata.org/entity/Q87556895
 @form 4(GEŠU@c)
@@ -50534,6 +50571,7 @@
 @oid	o0223416
 @inote	@ucode	xeba5
 @v	4(gešʾu@c)
+@v	4(ŋešʾu@c)
 @v	4(gešu@c)
 @sys pcun 4(N48)
 @list U+12577
@@ -50547,6 +50585,7 @@
 @ucun	󰀨
 @uage	9.1
 @v	4(gešʾu@c)@v
+@v	4(ŋešʾu@c)@v
 @v	4(gešu@c)@v
 @@
 @end sign
@@ -50558,6 +50597,7 @@
 @ucun	𒐢
 @uage	5.0
 @v	5(gešʾu)
+@v	5(ŋešʾu)
 @v	5(gešu)
 @link	Wikidata Q87556896 http://www.wikidata.org/entity/Q87556896
 @form 5(GEŠU@c)
@@ -50565,6 +50605,7 @@
 @oid	o0223427
 @inote	@ucode	xeba6
 @v	5(gešʾu@c)
+@v	5(ŋešʾu@c)
 @v	5(gešu@c)
 @sys pcun 5(N48)
 @list U+12578
@@ -50617,6 +50658,7 @@
 @v	geš₂@c
 @v	ŋeš₂@c
 @v	1(geš₂@c)
+@v	1(ŋeš₂@c)
 @sys pcun 1(N34)
 @list U+1256B
 @uname CUNEIFORM NUMERIC SIGN ONE N34
@@ -50649,6 +50691,7 @@
 @uage	9.1
 @v	geš₂@t
 @v	1(geš₂@t)
+@v	1(ŋeš₂@t)
 @@
 @end sign
 
@@ -50666,6 +50709,7 @@
 @oid	o0223393
 @inote	@ucode	xeb97
 @v	2(geš₂@c)
+@v	2(ŋeš₂@c)
 @sys pcun 2(N34)
 @list U+1256C
 @uname CUNEIFORM NUMERIC SIGN TWO N34
@@ -50678,6 +50722,7 @@
 @ucun	󰀠
 @uage	9.1
 @v	2(geš₂@t)
+@v	2(ŋeš₂@t)
 @@
 @end sign
 
@@ -50695,6 +50740,7 @@
 @oid	o0223404
 @inote	@ucode	xeb98
 @v	3(geš₂@c)
+@v	3(ŋeš₂@c)
 @sys pcun 3(N34)
 @list U+1256D
 @uname CUNEIFORM NUMERIC SIGN THREE N34
@@ -50708,6 +50754,7 @@
 @ucun	󰀚
 @uage	9.1
 @v	3(geš₂@c)@v
+@v	3(ŋeš₂@c)@v
 @@
 @form 3(GEŠ₂@c@90)
 @oid	o0038290
@@ -50722,6 +50769,7 @@
 @ucun	󰀡
 @uage	9.1
 @v	3(geš₂@t)
+@v	3(ŋeš₂@t)
 @@
 @end sign
 
@@ -50739,6 +50787,7 @@
 @oid	o0223418
 @inote	@ucode	xeb9a
 @v	4(geš₂@c)
+@v	4(ŋeš₂@c)
 @sys pcun 4(N34)
 @list U+1256E
 @uname CUNEIFORM NUMERIC SIGN FOUR N34
@@ -50752,6 +50801,7 @@
 @ucun	󰀛
 @uage	9.1
 @v	4(geš₂@c)@v
+@v	4(ŋeš₂@c)@v
 @@
 @form 4(GEŠ₂@c@90)
 @oid	o0038292
@@ -50766,6 +50816,7 @@
 @ucun	󰀢
 @uage	9.1
 @v	4(geš₂@t)
+@v	4(ŋeš₂@t)
 @@
 @end sign
 
@@ -50783,6 +50834,7 @@
 @oid	o0223428
 @inote	@ucode	xeb9c
 @v	5(geš₂@c)
+@v	5(ŋeš₂@c)
 @sys pcun 5(N34)
 @list U+1256F
 @uname CUNEIFORM NUMERIC SIGN FIVE N34
@@ -50795,6 +50847,7 @@
 @ucun	󰀣
 @uage	9.1
 @v	5(geš₂@t)
+@v	5(ŋeš₂@t)
 @@
 @end sign
 
@@ -50812,6 +50865,7 @@
 @oid	o0223435
 @inote	@ucode	xeb9d
 @v	6(geš₂@c)
+@v	6(ŋeš₂@c)
 @sys pcun 6(N34)
 @list U+12570
 @uname CUNEIFORM NUMERIC SIGN SIX N34
@@ -50824,6 +50878,7 @@
 @ucun	󰀤
 @uage	9.1
 @v	6(geš₂@t)
+@v	6(ŋeš₂@t)
 @@
 @end sign
 
@@ -50841,6 +50896,7 @@
 @oid	o0223443
 @inote	@ucode	xeb9e
 @v	7(geš₂@c)
+@v	7(ŋeš₂@c)
 @sys pcun 7(N34)
 @list U+12571
 @uname CUNEIFORM NUMERIC SIGN SEVEN N34
@@ -50853,6 +50909,7 @@
 @ucun	󰀥
 @uage	9.1
 @v	7(geš₂@t)
+@v	7(ŋeš₂@t)
 @@
 @end sign
 
@@ -50870,11 +50927,20 @@
 @oid	o0223448
 @inote	@ucode	xeb9f
 @v	8(geš₂@c)
+@v	8(ŋeš₂@c)
 @sys pcun 8(N34)
 @list U+12572
 @uname CUNEIFORM NUMERIC SIGN EIGHT N34
 @uage ACN
 @ucun 𒕲
+@@
+@form 8(GEŠ₂@t)
+@oid	o0038424
+@upua	U+F0093
+@ucun	󰂓
+@uage	9.1
+@v	8(geš₂@t)
+@v	8(ŋeš₂@t)
 @@
 @end sign
 
@@ -50892,11 +50958,20 @@
 @oid	o0223458
 @inote	@ucode	xeba0
 @v	9(geš₂@c)
+@v	9(ŋeš₂@c)
 @sys pcun 9(N34)
 @list U+12573
 @uname CUNEIFORM NUMERIC SIGN NINE N34
 @uage ACN
 @ucun 𒕳
+@@
+@form 9(GEŠ₂@t)
+@oid	o0038427
+@upua	U+F0094
+@ucun	󰂔
+@uage	9.1
+@v	9(geš₂@t)
+@v	9(ŋeš₂@t)
 @@
 @end sign
 

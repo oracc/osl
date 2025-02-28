@@ -1,10 +1,10 @@
 #!/bin/sh
 f=$1
 c=$2
-o=${ORACC}/lib/data/$f.ofpx
+o=${ORACC}/lib/data/$f.ofp
 h=00etc/$c.xml
 if [ ! -r $o ]; then
-    o2=/Users/stinney/oracc2/lib/fonts/$f.ofpx
+    o2=/Users/stinney/oracc2/lib/fonts/$f.ofp
     if [ ! -r $o2 ]; then
 	echo $0: required $o or $o2 not found. Stop.
 	exit 1

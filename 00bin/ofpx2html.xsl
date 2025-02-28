@@ -60,6 +60,14 @@
       <xsl:with-param name="nodes" select="o:salts/*"/>
       <xsl:with-param name="label" select="'salt'"/>
     </xsl:call-template>
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:ligas/*"/>
+      <xsl:with-param name="label" select="'liga'"/>
+    </xsl:call-template>
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:cvnns/*"/>
+      <xsl:with-param name="label" select="'cvnn'"/>
+    </xsl:call-template>
   </xsl:template>
 
   <xsl:template name="feature">
@@ -76,7 +84,20 @@
 	    <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
 	  </xsl:choose>
 	</xsl:variable>
-	<td><p><span class="{$css} {$fcss} ofs-150"><xsl:value-of select="ancestor::o:sign/@utf8"/></span></p></td>
+	<td>
+	  <p>
+	    <span class="{$css} {$fcss} ofs-150">
+	      <xsl:choose>
+		<xsl:when test="$label='liga'">
+		  <xsl:value-of select="@utf8"/>
+		</xsl:when>
+		<xsl:otherwise>
+		  <xsl:value-of select="ancestor::o:sign/@utf8"/>
+		</xsl:otherwise>
+	      </xsl:choose>
+	    </span>
+	  </p>
+	</td>
 	<td>
 	  <xsl:if test="@l">
 	    <p>
