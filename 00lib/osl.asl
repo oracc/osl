@@ -20,7 +20,7 @@
 @lit W. von Soden and W. Röllig, Das akkadische Syllabar (Analecta Orientalia 42). 4., durchgesehene und erweiterte Auflage. Rome, 1991.
 @inote There is no 232 in ASY 4th ed.
 
-@listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 385a 385b 385c 386a 386b 387a 417a
+@listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 367^a 385a 385b 385c 386a 386b 387a 417a
 @lit	E. Burrows, Archaic Texts (UET 2; London 1935)
 @inote	To be added: Appendices I-III lettered signs as, e.g., BAU000I.A, BAU00II.A, BAU0III.A, etc.
 
