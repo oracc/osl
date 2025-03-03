@@ -86,7 +86,8 @@ SAG~v1 would not.</p>
 
 <esp:sh>Reference Images</esp:sh>
 
-<p>By definition, any @glyf that is listed in PCSL or OSL is provided with a reference image that is avaiable via the URL:</p>
+<p>By definition, any @glyf that is listed in PCSL or OSL is provided
+with a reference image that is avaiable via the URL:</p>
 
 <pre>'/' (pcsl|osl) '/' glyf '/u' PARENT-UNICODE-HEX '_' GLYF_NUM '.png'</pre>
 
