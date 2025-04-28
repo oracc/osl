@@ -44930,6 +44930,7 @@
 @oid	o0000364
 @list	ELLES209
 @list	LAK384
+@list	PTACE302
 @inote	epsd2 e₂-saŋₓ = esaŋ[store]
 @uname	CUNEIFORM SIGN LAK384
 @list	U+124EE
