@@ -27449,6 +27449,7 @@
 @oid	o0000377
 @list	ELLES239
 @list	LAK457
+@list	PTACE197
 @uname	CUNEIFORM SIGN LAK457
 @list	U+124F8
 @ucun	𒓸
