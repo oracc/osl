@@ -39796,6 +39796,7 @@
 @sign |ŠA₃×SAL|
 @oid	o0002699
 @list	ELLES231
+@list	PTACE194
 @v	pešₓ
 @link	eBL |ŠA₃×SAL| https://www.ebl.lmu.de/signs/|ŠA₃×SAL|
 @end sign
