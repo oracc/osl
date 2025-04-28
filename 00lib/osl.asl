@@ -19138,6 +19138,7 @@
 @list	KWU476
 @list	LAK376
 @list	MZL641
+@list	PTACE184
 @list	RSP331
 @list	SLLHA399
 @list	SYA207
@@ -32769,6 +32770,7 @@
 @list	BAU389
 @list	GCSL163
 @list	LAK377
+@list	PTACE184
 @uname	CUNEIFORM SIGN NI2
 @list	U+1224E
 @ucun	𒉎
