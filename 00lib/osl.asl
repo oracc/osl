@@ -27223,12 +27223,6 @@
 @link	eBL LAK369 https://www.ebl.lmu.de/signs/LAK369
 @end sign
 
-@sign LAK380
-@oid	o0025842
-@list	LAK380
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
 @sign LAK383
 @oid	o0000363
 @list	LAK383
@@ -46328,7 +46322,9 @@
 @list	ABZL334
 @list	HZL084
 @list	KWU408
+@list	LAK380
 @list	MZL020
+@list	PTACE186
 @list	SLLHA052
 @uname	CUNEIFORM SIGN UD TIMES U PLUS U PLUS U
 @list	U+12317
