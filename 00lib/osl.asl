@@ -10399,8 +10399,10 @@
 @inote	added during ogsl upgrade
 
 @sign |EŠ₂%EŠ₂|
+@aka	KIB@g
 @oid	o0001124
 @list	LAK278a
+@list	PTACE209
 @lit	Woods FS Biggs, 328
 @uname	CUNEIFORM SIGN ESH2 CROSSING ESH2
 @list	U+124AC
@@ -23073,12 +23075,6 @@
 @sign |KI×X|
 @oid	o0022917
 @inote	For validating sign-lists
-@end sign
-
-@sign KIB@g
-@oid	o0000280
-@inote	sjt: temporary entry to get ETCSRI to compile; probably has another name
-@link	eBL KIB@g https://www.ebl.lmu.de/signs/KIB@g
 @end sign
 
 @sign KID
