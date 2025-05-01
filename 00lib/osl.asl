@@ -44193,6 +44193,7 @@
 @sign |TUM×SAL|
 @oid	o0027701
 @list	ELLES257
+@list	PTACE226
 @ref	MEE 3 44 = dcclt:P241092 o iv 4
 @ref	MEE 3 59 = dcclt:P241581 o v 3 http://oracc.org/dcclt/P241581.42
 @inote	missing compounds for elles.atf
