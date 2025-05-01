@@ -10614,6 +10614,7 @@
 @list	HZL114
 @list	KWU837
 @list	MZL275
+@list	PTACE263
 @list	RSP286
 @list	SLLHA152_8
 @uname	CUNEIFORM SIGN EZEN TIMES BAD
@@ -27679,6 +27680,7 @@
 @list	BAU302
 @list	ELLES305
 @list	LAK619
+@list	PTACE263
 @uname	CUNEIFORM SIGN LAK617 TIMES BAD
 @list	U+12503
 @ucun	𒔃
