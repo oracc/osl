@@ -16712,6 +16712,7 @@
 @list	ELLES348
 @list	KWU803
 @list	LAK709a
+@list	PTACE287
 @lit	Krebernik, OBO 160/1, 277
 @inote	GURUŠ is the sign form with simple final vertical
 @uname	CUNEIFORM SIGN GURUSH
