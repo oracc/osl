@@ -28020,14 +28020,6 @@
 @link	eBL LAK774 https://www.ebl.lmu.de/signs/LAK774
 @end sign
 
-@sign LAK776
-@oid	o0027555
-@list	ELLES379
-@list	LAK776
-@inote	for lak.atf
-@ucun	𒇻𒄾
-@end sign
-
 @sign LAK779
 @oid	o0021461
 @list	BAU276
@@ -28347,6 +28339,9 @@
 @sign |LU.HUL₂|
 @oid	o0001909
 @list	BAU274
+@list	ELLES379
+@list	LAK776
+@list	PTACE315
 @list	RSP261
 @useq	x121FB.x1213E
 @ucun	𒇻𒄾
