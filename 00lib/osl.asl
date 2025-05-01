@@ -45015,6 +45015,16 @@
 @v	2(u)
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @link	Wikidata Q87556828 http://www.wikidata.org/entity/Q87556828
+@form 2(AŠ@t)
+@list	LAK185
+@list	PTACE206
+@uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
+@list	U+1244A
+@ucun	𒑊
+@uage	5.0
+@inote	Transliterated man and min₃ in PTACE and EbDA, but contrasts with
+	rhomboidal 2(u), so probably best encoded as 𒑊 rather than 𒎙.
+@@
 @form 2(U@c)
 @aka 2(N14)
 @oid	o0223394
