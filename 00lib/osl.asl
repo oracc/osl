@@ -12778,6 +12778,7 @@
 @sign |GA₂×(SAL.KUR)|
 @oid	o0031723
 @list	ELLES345
+@list	PTACE285
 @end sign
 
 @sign |GA₂×(SAL.ME)|
