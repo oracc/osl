@@ -18996,12 +18996,15 @@
 @oid	o0000249
 @list	ABZL078
 @list	BAU380
+@list	ELLES258
 @list	GCSL229
 @list	HZL117
 @list	KWU726
+@list	LAK500
 @list	LAK501
 @list	LAK502
 @list	MZL348
+@list	PTACE227
 @list	RSP374
 @list	SLLHA205
 @list	SYA117
@@ -27567,14 +27570,6 @@
 @oid	o0000388
 @list	LAK498
 @link	eBL LAK498 https://www.ebl.lmu.de/signs/LAK498
-@end sign
-
-@sign LAK500
-@oid	o0000391
-@list	ELLES258
-@list	LAK500
-@v	ilₓ
-@link	eBL LAK500 https://www.ebl.lmu.de/signs/LAK500
 @end sign
 
 @sign LAK508
