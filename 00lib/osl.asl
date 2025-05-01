@@ -27535,6 +27535,7 @@
 @oid	o0000385
 @list	ELLES254
 @list	LAK492
+@list	PTACE276
 @lit	Krecher, Bilinguismo a Ebla (1984), 142; Pomponio, UF 17, 237
 @note	After the ED period the sign disappears and its values are absorbed by TAK₄(LAK292) = ŠU@90. That LAK292 already had a tak₄ value is supported by variants in EDPV-A 210 (tag vs. LAK292). In earlier literature LAK492 is described as DUB₂.
 @uname	CUNEIFORM SIGN LAK492
