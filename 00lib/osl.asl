@@ -44164,6 +44164,7 @@
 @oid	o0002428
 @aka	|TUM×3(DIŠ)|
 @list	LAK497a
+@list	PTACE225
 @inote	Do the TUM group need further specification of whether the waist is "gunified" or not?
 @uname	CUNEIFORM SIGN TUM TIMES DISH PLUS DISH PLUS DISH
 @list	U+1253B
