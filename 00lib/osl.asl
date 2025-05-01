@@ -5021,6 +5021,7 @@
 @oid	o0000911
 @list	KWU674
 @list	LAK753
+@list	PTACE307
 @v	kunga₂
 @v	kungi₂
 @v	suhubₓ
