@@ -21785,6 +21785,8 @@
 @useq	x12195.x12111
 @ucun	𒆕𒄑
 @v	šitaₓ
+@inote	Transliterated šita₂ in PTACE and EbDA. Should it be an @form there?
+	Or should it just be merged with 𒋖𒄑 and handled by a ligature?
 @link	eBL |KAK.GIŠ| https://www.ebl.lmu.de/signs/|KAK.GIŠ|
 @form |KAK+DIŠ|
 @oid	o0027769
