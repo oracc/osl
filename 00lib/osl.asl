@@ -33094,8 +33094,13 @@
 @useq	x12252.x12038.x12038
 @ucun	𒉒𒀸𒀸
 @@
-@form |NINDA₂×(AŠ@c.AŠ@c)|
+@form |NINDA₂×2(AŠ@c)|
+@aka |NINDA₂×(AŠ@c.AŠ@c)|
 @oid	o0027880
+@list	ELLES058
+@ref	TCBI 1 32 = P382284 o ii 7, http://oracc.org/epsd2/P382284.20
+@ref	MEE 3 48 = P241498 o i 2, http://oracc.org/dcclt/ebla/P241498.5
+@inote	epsd2/oakk; ebla; not in LAK
 @@
 @end sign
 
@@ -33641,15 +33646,6 @@
 @sign |NINDA₂×3(AŠ)|
 @oid	o0028037
 @inote	gvl unknown compound
-@end sign
-
-@sign |NINDA₂×2(AŠ@c)|
-@oid	o0038269
-@list	ELLES058
-@ref	TCBI 1 32 = P382284 o ii 7, http://oracc.org/epsd2/P382284.20
-@ref	MEE 3 48 = P241498 o i 2, http://oracc.org/dcclt/ebla/P241498.5
-@v	saₓ
-@inote	epsd2/oakk; ebla; not in LAK 
 @end sign
 
 @sign |NINDA₂×3(AŠ@c)|
