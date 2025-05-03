@@ -24,7 +24,7 @@
 @lit	E. Burrows, Archaic Texts (UET 2; London 1935)
 @inote	To be added: Appendices I-III lettered signs as, e.g., BAU000I.A, BAU00II.A, BAU0III.A, etc.
 
-@listdef ELLES 1-397 006b 033a 033b 065a 195a 241a 244a 307b 317a 362a
+@listdef ELLES 1-32 34-397 006b 033a 033b 065a 195a 241a 244a 307b 317a 362a
 @lit	P. Mander, "Appendix E. Lista dei Segni dei testi lessicali di Ebla".
 	Pp. 285-382 in G. Pettinato, Testi Lessicali Monolingui della Biblioteca L. 2769 (MEE 3; Napoli 1981)
 
@@ -33645,6 +33645,9 @@
 
 @sign |NINDA₂×2(AŠ@c)|
 @oid	o0038269
+@list	ELLES058
+@ref	TCBI 1 32 = P382284 o ii 7, http://oracc.org/epsd2/P382284.20
+@ref	MEE 3 48 = P241498 o i 2, http://oracc.org/dcclt/ebla/P241498.5
 @v	saₓ
 @inote	epsd2/oakk; ebla; not in LAK 
 @end sign
