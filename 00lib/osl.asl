@@ -43785,6 +43785,7 @@
 @link	eBL TE https://www.ebl.lmu.de/signs/TE
 @@
 @form |HI×GAN₂@t|
+@oid	o0270204
 @list	ELLES208a
 @ref	MEE 3 44 = P241092 o v 12, http://oracc.org/dcclt/ebla/P241092
 @@
@@ -45042,6 +45043,7 @@
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @link	Wikidata Q87556828 http://www.wikidata.org/entity/Q87556828
 @form 2(AŠ@t)
+@oid	o0000010
 @list	LAK185
 @list	PTACE206
 @uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
