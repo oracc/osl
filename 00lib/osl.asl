@@ -5025,6 +5025,7 @@
 @oid	o0000911
 @list	KWU674
 @list	LAK753
+@list	PTACE307
 @v	kunga₂
 @v	kungi₂
 @v	suhubₓ
@@ -10402,8 +10403,10 @@
 @inote	added during ogsl upgrade
 
 @sign |EŠ₂%EŠ₂|
+@aka	KIB@g
 @oid	o0001124
 @list	LAK278a
+@list	PTACE209
 @lit	Woods FS Biggs, 328
 @uname	CUNEIFORM SIGN ESH2 CROSSING ESH2
 @list	U+124AC
@@ -10617,6 +10620,7 @@
 @list	HZL114
 @list	KWU837
 @list	MZL275
+@list	PTACE263
 @list	RSP286
 @list	SLLHA152_8
 @uname	CUNEIFORM SIGN EZEN TIMES BAD
@@ -12792,6 +12796,7 @@
 @sign |GA₂×(SAL.KUR)|
 @oid	o0031723
 @list	ELLES345
+@list	PTACE285
 @end sign
 
 @sign |GA₂×(SAL.ME)|
@@ -13793,6 +13798,7 @@
 @list	KWU349
 @list	LAK186
 @list	MZL175
+@list	PTACE326
 @list	SLLHA105
 @list	SYA068
 @uname	CUNEIFORM SIGN GAN2 TENU
@@ -16721,6 +16727,7 @@
 @list	ELLES348
 @list	KWU803
 @list	LAK709a
+@list	PTACE287
 @lit	Krebernik, OBO 160/1, 277
 @inote	GURUŠ is the sign form with simple final vertical
 @uname	CUNEIFORM SIGN GURUSH
@@ -17546,6 +17553,7 @@
 @list	GCSL154
 @list	LAK368
 @list	MZL638
+@list	PTACE176
 @list	RSP316
 @list	SLLHA398_64
 @lit	Krebernik, OBO 160/1, 280
@@ -19008,12 +19016,15 @@
 @oid	o0000249
 @list	ABZL078
 @list	BAU380
+@list	ELLES258
 @list	GCSL229
 @list	HZL117
 @list	KWU726
+@list	LAK500
 @list	LAK501
 @list	LAK502
 @list	MZL348
+@list	PTACE227
 @list	RSP374
 @list	SLLHA205
 @list	SYA117
@@ -19151,6 +19162,7 @@
 @list	KWU476
 @list	LAK376
 @list	MZL641
+@list	PTACE184
 @list	RSP331
 @list	SLLHA399
 @list	SYA207
@@ -19903,6 +19915,7 @@
 @list	KWU427
 @list	LAK331
 @list	MZL064
+@list	PTACE172
 @list	RSP199
 @list	SLLHA035
 @list	SYA016
@@ -20209,8 +20222,14 @@
 @list	KWU428
 @list	LAK324
 @list	MZL033
+@list	PTACE168
 @list	SLLHA019
 @list	SYA014
+@inote	PTACE identifies this sign with LAK323 and shows a glyph which looks
+	more like LAK323, but gives values that are those of |KA×GAN₂@t|, and none of
+	the values of |KA×ŠU|.
+	This appearance of ×GAN₂@t compounds is consistent with that of, e.g.,
+	|LU₂×GAN₂@t| (see the note there).
 @uname	CUNEIFORM SIGN KA TIMES GAN2 TENU
 @list	U+12164
 @ucun	𒅤
@@ -21787,9 +21806,12 @@
 @oid	o0001573
 @list	ELLES260
 @list	LAK505
+@list	PTACE217
 @useq	x12195.x12111
 @ucun	𒆕𒄑
 @v	šitaₓ
+@inote	Transliterated šita₂ in PTACE and EbDA. Should it be an @form there?
+	Or should it just be merged with 𒋖𒄑 and handled by a ligature?
 @link	eBL |KAK.GIŠ| https://www.ebl.lmu.de/signs/|KAK.GIŠ|
 @form |KAK+DIŠ|
 @oid	o0027769
@@ -21834,6 +21856,7 @@
 @list	HZL196
 @list	LAK709b
 @list	MZL496
+@list	PTACE288
 @list	RSP237
 @list	SLLHA322
 @list	SYA151
@@ -23070,12 +23093,6 @@
 @inote	For validating sign-lists
 @end sign
 
-@sign KIB@g
-@oid	o0000280
-@inote	sjt: temporary entry to get ETCSRI to compile; probably has another name
-@link	eBL KIB@g https://www.ebl.lmu.de/signs/KIB@g
-@end sign
-
 @sign KID
 @list	ASY166
 @oid	o0000281
@@ -23510,6 +23527,7 @@
 @list	HZL206
 @list	KWU869
 @list	MZL808
+@list	PTACE323
 @list	RSP253
 @list	SLLHA536
 @list	SYA254
@@ -24779,6 +24797,7 @@
 @list	ELLES376
 @list	LAK769
 @list	MZL758
+@list	PTACE313
 @list	SLLHA484a
 @uname	CUNEIFORM SIGN LAGAB TIMES AN
 @list	U+121BE
@@ -25132,6 +25151,7 @@
 @list	KWU872
 @list	LAK768
 @list	MZL756
+@list	PTACE313
 @list	RSP264
 @list	SLLHA484
 @uname	CUNEIFORM SIGN LAGAB TIMES HAL
@@ -27235,12 +27255,6 @@
 @link	eBL LAK369 https://www.ebl.lmu.de/signs/LAK369
 @end sign
 
-@sign LAK380
-@oid	o0025842
-@list	LAK380
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
 @sign LAK383
 @oid	o0000363
 @list	LAK383
@@ -27475,6 +27489,7 @@
 @oid	o0000377
 @list	ELLES239
 @list	LAK457
+@list	PTACE197
 @uname	CUNEIFORM SIGN LAK457
 @list	U+124F8
 @ucun	𒓸
@@ -27551,6 +27566,7 @@
 @oid	o0000385
 @list	ELLES254
 @list	LAK492
+@list	PTACE276
 @lit	Krecher, Bilinguismo a Ebla (1984), 142; Pomponio, UF 17, 237
 @note	After the ED period the sign disappears and its values are absorbed by TAK₄(LAK292) = ŠU@90. That LAK292 already had a tak₄ value is supported by variants in EDPV-A 210 (tag vs. LAK292). In earlier literature LAK492 is described as DUB₂.
 @uname	CUNEIFORM SIGN LAK492
@@ -27587,14 +27603,6 @@
 @oid	o0000388
 @list	LAK498
 @link	eBL LAK498 https://www.ebl.lmu.de/signs/LAK498
-@end sign
-
-@sign LAK500
-@oid	o0000391
-@list	ELLES258
-@list	LAK500
-@v	ilₓ
-@link	eBL LAK500 https://www.ebl.lmu.de/signs/LAK500
 @end sign
 
 @sign LAK508
@@ -27707,6 +27715,7 @@
 @list	BAU302
 @list	ELLES305
 @list	LAK619
+@list	PTACE263
 @uname	CUNEIFORM SIGN LAK617 TIMES BAD
 @list	U+12503
 @ucun	𒔃
@@ -28034,14 +28043,6 @@
 @link	eBL LAK774 https://www.ebl.lmu.de/signs/LAK774
 @end sign
 
-@sign LAK776
-@oid	o0027555
-@list	ELLES379
-@list	LAK776
-@inote	for lak.atf
-@ucun	𒇻𒄾
-@end sign
-
 @sign LAK779
 @oid	o0021461
 @list	BAU276
@@ -28358,6 +28359,9 @@
 @sign |LU.HUL₂|
 @oid	o0001909
 @list	BAU274
+@list	ELLES379
+@list	LAK776
+@list	PTACE315
 @list	RSP261
 @useq	x121FB.x1213E
 @ucun	𒇻𒄾
@@ -28800,7 +28804,7 @@
 @list	MZL521
 @list	PTACE019
 @list	SLLHA330_7
-@inote	PTACE calls it LÚ×ÉŠ, but gives it the value šaga PTACE has no LU₂×GAN₂@t.
+@inote	PTACE calls it LÚ×ÉŠ, but gives it the value šaga. PTACE has no LU₂×GAN₂@t.
 	EbDA has LU₂×GANA₂ tenû and no LU₂×EŠ₂.
 @uname	CUNEIFORM SIGN LU2 TIMES GAN2 TENU
 @list	U+12202
@@ -30787,6 +30791,7 @@
 @list	ABZL397
 @list	ELLES329
 @list	LAK672b
+@list	PTACE275
 @list	MZL820
 @list	SLLHA543
 @uname	CUNEIFORM SIGN MUNSUB
@@ -32778,6 +32783,7 @@
 @list	BAU389
 @list	GCSL163
 @list	LAK377
+@list	PTACE184
 @uname	CUNEIFORM SIGN NI2
 @list	U+1224E
 @ucun	𒉎
@@ -37295,6 +37301,7 @@
 @sign |SAG×TAK₄|
 @oid	o0002286
 @list	ELLES163
+@list	PTACE165
 @uname	CUNEIFORM SIGN SAG TIMES TAK4
 @list	U+12530
 @ucun	𒔰
@@ -39797,6 +39804,7 @@
 @sign |ŠA₃×SAL|
 @oid	o0002699
 @list	ELLES231
+@list	PTACE194
 @v	pešₓ
 @link	eBL |ŠA₃×SAL| https://www.ebl.lmu.de/signs/|ŠA₃×SAL|
 @end sign
@@ -42905,6 +42913,7 @@
 @list	LAK587
 @list	MZL250
 @list	RSP210
+@list	PTACE253
 @list	SLLHA141
 @list	SYA071
 @uname	CUNEIFORM SIGN TA TIMES HI
@@ -43975,6 +43984,7 @@
 @list	HZL212
 @list	KWU875
 @list	MZL809
+@list	PTACE324
 @list	RSP255
 @list	SLLHA536
 @list	SYA255
@@ -44170,6 +44180,7 @@
 @oid	o0002428
 @aka	|TUM×3(DIŠ)|
 @list	LAK497a
+@list	PTACE225
 @inote	Do the TUM group need further specification of whether the waist is "gunified" or not?
 @uname	CUNEIFORM SIGN TUM TIMES DISH PLUS DISH PLUS DISH
 @list	U+1253B
@@ -44196,6 +44207,7 @@
 @sign |TUM×SAL|
 @oid	o0027701
 @list	ELLES257
+@list	PTACE226
 @ref	MEE 3 44 = dcclt:P241092 o iv 4
 @ref	MEE 3 59 = dcclt:P241581 o v 3 http://oracc.org/dcclt/P241581.42
 @inote	missing compounds for elles.atf
@@ -44940,6 +44952,7 @@
 @oid	o0000364
 @list	ELLES209
 @list	LAK384
+@list	PTACE302
 @inote	epsd2 e₂-saŋₓ = esaŋ[store]
 @uname	CUNEIFORM SIGN LAK384
 @list	U+124EE
@@ -45023,6 +45036,16 @@
 @v	2(u)
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @link	Wikidata Q87556828 http://www.wikidata.org/entity/Q87556828
+@form 2(AŠ@t)
+@list	LAK185
+@list	PTACE206
+@uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
+@list	U+1244A
+@ucun	𒑊
+@uage	5.0
+@inote	Transliterated man and min₃ in PTACE and EbDA, but contrasts with
+	rhomboidal 2(u), so probably best encoded as 𒑊 rather than 𒎙.
+@@
 @form 2(U@c)
 @aka 2(N14)
 @oid	o0223394
@@ -46326,7 +46349,9 @@
 @list	ABZL334
 @list	HZL084
 @list	KWU408
+@list	LAK380
 @list	MZL020
+@list	PTACE186
 @list	SLLHA052
 @uname	CUNEIFORM SIGN UD TIMES U PLUS U PLUS U
 @list	U+12317
@@ -48722,6 +48747,7 @@
 @list	GCSL325
 @list	LAK797
 @list	MZL853
+@list	PTACE330
 @list	RSP077
 @list	SLLHA586
 @list	SYA278
