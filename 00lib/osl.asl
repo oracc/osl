@@ -5426,12 +5426,6 @@
 @inote	epsd2/admin/ur3
 @end sign
 
-@sign BIL₂@g
-@oid	o0000123
-@inote	CDLI ed3b
-@link	eBL BIL₂@g https://www.ebl.lmu.de/signs/BIL₂@g
-@end sign
-
 @sign BU
 @list	ASY213
 @oid	o0000124
@@ -13818,6 +13812,7 @@
 @form GAN₂
 @oid	o0000199
 @v 	kar₂
+@@
 @end sign
 
 @sign |GAN₂@t.GAN₂@t|
@@ -40601,7 +40596,7 @@
 @list	LAK420
 @list	RSP380bis
 @inote	missing compounds for lak.atf
-@list	U+F0074
+@upua	U+F0074
 @uname U OVER U PLUS BESIDE OVER BUR
 @ucun	󰁴
 @@
@@ -46352,6 +46347,7 @@
 @oid	o0223330
 @list	RSP328
 @inote ED IIIb form for itud
+@@
 @end sign
 
 @sign UD@g
