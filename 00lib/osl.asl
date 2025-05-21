@@ -24,7 +24,7 @@
 @lit	E. Burrows, Archaic Texts (UET 2; London 1935)
 @inote	To be added: Appendices I-III lettered signs as, e.g., BAU000I.A, BAU00II.A, BAU0III.A, etc.
 
-@listdef ELLES 1-397 006b 033a 033b 065a 195a 241a 244a 307b 317a 362a
+@listdef ELLES 1-32 34-158 160-397 006bis 033a 033b 065a 159a 175a 195a 208a 241^a 244^a 307b 317^a 363^a
 @lit	P. Mander, "Appendix E. Lista dei Segni dei testi lessicali di Ebla".
 	Pp. 285-382 in G. Pettinato, Testi Lessicali Monolingui della Biblioteca L. 2769 (MEE 3; Napoli 1981)
 
@@ -3149,7 +3149,7 @@
 @oid	o0000642
 @list	ABZL010
 @list	BAU008
-@list	ELLES006b
+@list	ELLES006bis
 @list	GCSL051
 @list	KWU025
 @list	LAK010
@@ -5005,7 +5005,7 @@
 @list	ASY095
 @oid	o0000642
 @list	BAU008
-@list	ELLES006b
+@list	ELLES006bis
 @list	GCSL051
 @list	KWU025
 @list	LAK010
@@ -6486,7 +6486,8 @@
 
 @sign |DAG×PAP|
 @oid	o0031721
-@list	ELLES362a
+@list	ELLES363^a
+@ref	MEE 3 44 = P241092 o ix 11, http://oracc.org/dcclt/ebla/P241092
 @end sign
 
 @sign |DAG×U|
@@ -9976,7 +9977,7 @@
 @list	BAU143
 @list	BAU248
 @list	BAU413
-@list	ELLES159
+@list	ELLES159a
 @list	GCSL125
 @list	HZL327
 @list	KWU347
@@ -14600,7 +14601,7 @@
 @sign |GI₄%GI₄|
 @list	ASY177
 @oid	o0001408
-@list	ELLES244a
+@list	ELLES244^a
 @list	MZL508
 @list	SLLHA326a
 @list	SYA155
@@ -24067,7 +24068,7 @@
 @link	Wikidata Q87555867 http://www.wikidata.org/entity/Q87555867
 @form LAK461a
 @oid	o0025780
-@list	ELLES241a
+@list	ELLES241^a
 @list	LAK461a
 @inote	curviform LAK461; cuneiform LAK461 is unmarked LAK641
 @@
@@ -24182,6 +24183,7 @@
 @@
 @form |LAK526.MUŠ₃|
 @oid	o0031670
+@list	ELLES175a
 @inote	addx dcclt/ebla
 @useq	xF0073.x12239
 @ucun	󰁳𒈹
@@ -33095,8 +33097,13 @@
 @useq	x12252.x12038.x12038
 @ucun	𒉒𒀸𒀸
 @@
-@form |NINDA₂×(AŠ@c.AŠ@c)|
+@form |NINDA₂×2(AŠ@c)|
+@aka |NINDA₂×(AŠ@c.AŠ@c)|
 @oid	o0027880
+@list	ELLES058
+@ref	TCBI 1 32 = P382284 o ii 7, http://oracc.org/epsd2/P382284.20
+@ref	MEE 3 48 = P241498 o i 2, http://oracc.org/dcclt/ebla/P241498.5
+@inote	epsd2/oakk; ebla; not in LAK
 @@
 @end sign
 
@@ -33642,12 +33649,6 @@
 @sign |NINDA₂×3(AŠ)|
 @oid	o0028037
 @inote	gvl unknown compound
-@end sign
-
-@sign |NINDA₂×2(AŠ@c)|
-@oid	o0038269
-@v	saₓ
-@inote	epsd2/oakk; ebla; not in LAK 
 @end sign
 
 @sign |NINDA₂×3(AŠ@c)|
@@ -42529,7 +42530,7 @@
 @list	ASY095
 @oid	o0000642
 @list	BAU008
-@list	ELLES006b
+@list	ELLES006bis
 @list	GCSL051
 @list	KWU025
 @list	LAK010
@@ -43782,6 +43783,10 @@
 @v	maru⁻
 @sys	Attinger maru⁻
 @link	eBL TE https://www.ebl.lmu.de/signs/TE
+@@
+@form |HI×GAN₂@t|
+@list	ELLES208a
+@ref	MEE 3 44 = P241092 o v 12, http://oracc.org/dcclt/ebla/P241092
 @@
 @end sign
 
@@ -47750,7 +47755,7 @@
 @form |URU×MIN+AŠ|
 @oid	o0031751
 @aka	|GIŠGAL+AŠ|
-@list	ELLES317a
+@list	ELLES317^a
 @inote	See drawing by Pettinato MEE 4 p97 ad r III 8 and ELLES318a
 @useq	x12347.x12038
 @ucun	𒍇𒀸
