@@ -5,14 +5,14 @@
     <head/>
     <body>
 
-      <p>Notes on the new ASL @glyf tag as of 2025-02-18 [not fully implemented]</p>
+      <p>Notes on the new ASL @glyf tag as of 2025-04-02 [not fully implemented]</p>
 
 <esp:h>Purpose</esp:h>
 
 <p>@glyf supports non-contrastive variant (proto-)cuneiform glyphs for
-@form and @sign and provides a place to define an ATF notation for
-accessing them, their permanent location in the Oracc PUA, and their
-accessibility via IVS as well as OpenType Font Features. This provides
+@sign and provides a place to define an ATF notation for accessing
+them, their permanent location in the Oracc PUA, and their
+accessibility via IVS as well as OpenType Font Features. This gives
 a machine-readable way of recording in PCSL and OSL glyphs that are
 not encoded as Unicode characters.</p>
 
@@ -30,15 +30,20 @@ structural variant of a sign where the structural variant is not
 deemed appropriate for encoding as a character (e.g., the various
 avatars of DE₂ as UMUM@s, |UMUM×KASKAL|, |UMUM×PA|).</p>
 
+<p>Only standalone signs can be defined as @glyfs; sequences must use
+@form.  The rationale for this is that @glyf exists as a mechanism to
+define non-contrastive forms for encoded or encodable characters, and
+sequences are not generally considered encodable.  A further technical
+reason for this is that in Oracc sign-keys the sign is always the
+first component and the value is the third and final component. The
+second component is either a @form OID or a @glyf OID.</p>
 
 <esp:h>Location</esp:h>
 
-<p>@glyf may occur zero or more times in the body of an @sign or @form;
-this @sign or @form is referred to as the @glyf's parent.</p>
+<p>@glyf may occur zero or more times in the body of an @sign and this
+@sign is referred to as the @glyf's parent.</p>
 
-<p>@glyf entries must come at the end of the parent @sign block,
-immediately before any @form, or at the end of the parent @form block,
-immediately before the '@@'.</p>
+<p>@glyf entries must come at the end of the parent @sign block,</p>
 
 <p>@glyf entries have no corresponding end tag; @glyf is terminated by
 the next `@glyf', `@form', or `@end sign'.</p>
@@ -46,10 +51,9 @@ the next `@glyf', `@form', or `@end sign'.</p>
 <p>@glyf entries may include an entry for the reference glyph of a
 Unicode encoding.</p>
 
-
 <esp:h>Syntax</esp:h>
 
-	<blockquote><code>@glyf NUM UNI PUA OTF</code></blockquote>
+	<blockquote><code>@glyf NUM OID UNI PUA OTF</code></blockquote>
 
 	<dl>
 
@@ -59,6 +63,8 @@ Unicode encoding.</p>
         Unicode reference glyph in an encoding, so <code>@glyf SAG *1
         ...</code> would indicate that @glyf 1 of SAG corresponds to the
        reference glyph.</dd>
+
+    <dt>OID</dt><dd>is the Oracc ID of the @glyf.</dd>
 
     <dt>UNI</dt><dd>is the Unicode character literal of the following PUA
 	assignment.</dd>
@@ -77,9 +83,9 @@ Unicode encoding.</p>
 
 <esp:h>Restrictions</esp:h>
 
-<p>A @glyf tag may not occur within the name of a @sign or @form.  In
-PCSL this means that KUŠU₂~a would be a legal sign or form name, but
-SAG~v1 would not.</p>
+<p>A @glyf-name may not occur within the name of a @sign.  In PCSL
+this means that KUŠU₂~a would be a legal sign or form name, but SAG~v1
+would not.</p>
 
 
 <esp:h>Accessing Glyfs</esp:h>
@@ -126,8 +132,8 @@ accessed as <code>SAG\1</code>.</p>
 @uname SAG
 @uage 1
 @list ZATU437
-@glyf 1 󺀀 FA000 .1 .cv01 .ss04
-@glyf 2 󺀁 FA001 .2 .cv02
+@glyf 1 o0901678 󺀀 FA000 .1 .cv01 .ss04
+@glyf 2 o0901679 󺀁 FA001 .2 .cv02
 @list BAU228
 @end sign
 </pre>
@@ -135,21 +141,12 @@ accessed as <code>SAG\1</code>.</p>
 <esp:sh>Notes on Example (1)</esp:sh>
 
 <ul>
-<li>@glyfs do not have their own OID assignment.  An XML:ID compliant
-@glyf OID is created by appending '_NUM' the result to the OID of the
-parent, e.g., o0900000_1.</li>
-
-<li>Only @sign or @form have the usual Unicode information.</li>
+<li>Only @sign has the usual Unicode information; @glyf has only the
+information in the @glyf entry.</li>
 
 <li>A @glyf may have metadata elements like @list or @sys, but should
 not have a Unicode `@list U+' entry.</li>
 </ul>
-
-<pre>
-(2)
-
-[[ ADD EXAMPLE USING @form ]]
-</pre>
 
     </body>
   </html>

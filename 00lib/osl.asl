@@ -15190,7 +15190,7 @@
 @link	Wikidata Q87555530 http://www.wikidata.org/entity/Q87555530
 @form GIŠ~v
 @oid	o0028997
-@aka	GIŠ~x
+@inote @aka	GIŠ~x
 @list	BAU377
 @@
 @end sign
@@ -34901,7 +34901,7 @@
 @list	U+12471
 @ucun	𒑱
 @uage	5.0
-@v	𒑱
+@inote @v	𒑱
 @inote	For use in Luwian {𒑱}
 @v	:
 @v	p₂
@@ -36772,13 +36772,13 @@
 @uage	9.2
 @end sign
 
-@lref	RSP007 O 𒀸𒃷 1(aš) (bur₃) gana₂
+@lref	RSP007 o 𒀸𒃷 1(aš) (bur₃) gana₂
 
-@lref	RSP029 O 𒕢𒃷 1(u@c) (bur₃) gana₂
+@lref	RSP029 o 𒕢𒃷 1(u@c) (bur₃) gana₂
 
-@lref	RSP031 O 𒕹𒃷 1(šar₂@c) (bur₃) gana₂
+@lref	RSP031 o 𒕹𒃷 1(šar₂@c) (bur₃) gana₂
 
-@lref	RSP034 O 𒖎𒃷 1(burʾu@c) gana₂
+@lref	RSP034 o 𒖎𒃷 1(burʾu@c) gana₂
 
 @lref	RSP086 KUL-ABA₄ 𒆰𒀕 kul-aba₄
 
