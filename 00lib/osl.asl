@@ -405,7 +405,7 @@
 @form |A.LAK648×A.GAD.GAR.A.SI|
 @oid	o0038275
 @useq	x12000.X.x120F0.x120FB.x12000.x122DB
-@ucun	𒀀X𒄐𒃰𒃻𒀀𒋛
+@ucun	𒀀X𒃰𒃻𒀀𒋛
 @@
 @end sign
 
@@ -567,7 +567,7 @@
 @form |BU.HA.DU|
 @oid	o0038348
 @useq	x1204D.x12129.x1207A
-@ucun	𒀀𒁍𒄩𒁺
+@ucun	𒁍𒄩𒁺
 @@
 @form |HA.A.DU|
 @oid	o0021758
@@ -22296,7 +22296,7 @@
 @oid	o0048856
 @inote	dcclt !sg uncertain
 @useq	X.x1207B.xF0085
-@ucun	X𒁻X
+@ucun	X𒁻󰂅
 @@
 @end sign
 
