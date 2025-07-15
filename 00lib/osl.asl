@@ -3279,6 +3279,12 @@
 @v	tillaₓ
 @link	eBL |AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ.AŠ|
 @@
+@form	|AN&AŠ&AN|
+@oid	o0270205
+@list	LAK009^a
+@upua	U+F0097
+@ucun	󰂗
+@@
 @end sign
 
 @sign |AN.AŠ@z.AN|
@@ -26784,6 +26790,7 @@
 @sign LAK37
 @oid	o0000362
 @list	LAK037
+@inote This is standalone LAK072^a; LAK072 is combination LAK037_LAK037×AMAR@t
 @link	eBL LAK37 https://www.ebl.lmu.de/signs/LAK37
 @end sign
 
@@ -43883,6 +43890,7 @@
 @oid	o0000555
 @list	ABZL025
 @list	LAK017
+@list	LAK046^a
 @list	MZL113b
 @list	PTACE002
 @list	RSP048

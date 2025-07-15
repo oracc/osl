@@ -1,7 +1,31 @@
 Notes on Fontifying a List
 
-(Based on experiences with RSP)
+(Based on experiences with RSP and LAK)
 
+Letter subscripts
+=================
+
+OSL now requires the use of ^ with letter subscripts that are added by
+modern list reviewers. Thus, LAK024 includes both NU₁₁ and NU₁₁@t;
+LAK024^b is used for NU₁₁@t.
+
+In LAK, letter subscripts are used both on the main number and within
+an entry.  On a main number they indicate separate signs, e.g., LAK046
+vs LAK046a. Within an entry, where they are followed by a closing
+parenthesis, they indicate glyph variants, e.g., LAK379a) and LAK397b)
+where the former applies to two glyph variants and the latter to one.
+
+This also raises the question: do we need separate notations for
+list-reviewer-splits-sign and
+list-reviewer-wants-to-address-glyph-variant? The answer is probably yes.
+
+The simplest is to allow comma-number, e.g., LAK046, LAK046a,
+LAK046a,1. The comma would correspond to '.' on SALT, so the font
+character for LAK046a,1 would be predictable as uF1008.1.
+
+For list glyph variants, like LAK379a) it would be preferable to use
+matching '.' ')'.  The two glyphs in LAK379a) would then be LAK379(a)
+and LAK379(a),1
 
 1:1 List::Unicode
 =================
