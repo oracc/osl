@@ -405,7 +405,7 @@
 @form |A.LAK648×A.GAD.GAR.A.SI|
 @oid	o0038275
 @useq	x12000.X.x120F0.x120FB.x12000.x122DB
-@ucun	𒀀X𒄐𒃰𒃻𒀀𒋛
+@ucun	𒀀X𒃰𒃻𒀀𒋛
 @@
 @end sign
 
@@ -567,7 +567,7 @@
 @form |BU.HA.DU|
 @oid	o0038348
 @useq	x1204D.x12129.x1207A
-@ucun	𒀀𒁍𒄩𒁺
+@ucun	𒁍𒄩𒁺
 @@
 @form |HA.A.DU|
 @oid	o0021758
@@ -1598,6 +1598,7 @@
 @list	ASY187a
 @oid	o0038412
 @useq	x12009.x12137
+@ucun	𒀉𒄷
 @v	ti₈~v
 @@
 @end sign
@@ -3435,11 +3436,12 @@
 @@
 @end sign
 
-@sign |AN.LAK397|
+@sign |AN.ŠU₂.E₂|
 @oid	o0000814
+@aka	|AN.LAK397|
 @inote	epsd2/praxis
-@useq	x1202D.X
-@ucun	𒀭X
+@useq	x1202D.x122D9.x1208D
+@ucun	𒀭𒋙𒂍
 @link	eBL |AN.LAK397| https://www.ebl.lmu.de/signs/|AN.LAK397|
 @end sign
 
@@ -15035,10 +15037,12 @@
 @list	GCSL168
 @inote	Variant in Gudea Cyl.
 @@
-@form |IGI.LU.LAK248|
+@form |IGI.LU.GIR₃|
 @oid	o0028107
-@useq	x12146.x121FB.X
-@ucun	𒅆𒇻X
+@aka	|IGI.LU.LAK248|
+@useq	x12146.x121FB.x1210A
+@ucun	𒅆𒇻𒄊
+@inote	From http://oracc.org/dcclt/P241517.61.1; no copy of this sign under either ELLes 137 (GIR₃) or ELLes 139 (KIŠ).
 @@
 @form |LU.GIR₃×IGI|
 @oid	o0001908
@@ -17091,10 +17095,12 @@
 @v	huš
 @inote	Uncertain, needs collation, see P228804 vi 29; what is uncertain about this?
 @@
-@form |IGI.LAK248|
+@form |IGI.KIŠ|
 @oid	o0028095
-@useq	x12146.X
-@ucun	𒅆X
+@aka	|IGI.LAK248|
+@inote	http://oracc.org/dcclt/ebla/P241517 has IGI.LAK248 where http://oracc.org/dcclt/P241517 has IGI.KIŠ.
+@useq	x12146.x121A7
+@ucun	𒅆𒆧
 @@
 @form KIŠ
 @list	ASY247
@@ -22302,7 +22308,7 @@
 @oid	o0048856
 @inote	dcclt !sg uncertain
 @useq	X.x1207B.xF0085
-@ucun	X𒁻X
+@ucun	X𒁻󰂅
 @@
 @end sign
 
@@ -27091,8 +27097,6 @@
 @link	eBL LAK246 https://www.ebl.lmu.de/signs/LAK246
 @end sign
 
-@compoundonly	LAK248
-
 @sign LAK248b
 @oid	o0025828
 @list	LAK248b
@@ -27300,8 +27304,6 @@
 @oid o0038386
 @list LAK399
 @end sign
-
-@compoundonly	LAK397
 
 @sign LAK407
 @oid	o0025844
@@ -32491,10 +32493,11 @@
 @useq	x12248.x1227D
 @ucun	𒉈𒉽
 @@
-@form |NE.PAP.BAU077|
+@form |NE.PAP.MES|
+@aka	|NE.PAP.BAU077|
 @oid	o0018525
-@useq	x12248.x1227D.X
-@ucun	𒉈𒉽X
+@useq	x12248.x1227D.x12229
+@ucun	𒉈𒉽𒈩
 @v	bilₓ
 @inote	ed12; BAU077 ~ MES name = Bilgames?
 @@
