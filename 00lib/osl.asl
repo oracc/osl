@@ -9366,7 +9366,7 @@
 @sign ELLES396
 @oid	o0000172
 @list	ELLES396
-@list	LAK304a
+@inote @list	LAK304a
 @list	PTACE162
 @uname	CUNEIFORM SIGN ZAMX
 @list	U+12361
@@ -26347,15 +26347,16 @@
 @v	uku₂
 @v	ukur₃
 @link	eBL |LAL₂.DU| https://www.ebl.lmu.de/signs/|LAL₂.DU|
-@form |LAL₂×DU|
+@form- |LAL₂×DU|
 @oid	o0027630
-@list	LAK762
+@inote @list	LAK762
+@inote LAK762 is LAL₂×LAGAB
 @@
-@form |LAL₂×DU.DU|
+@form |LAL₂.DU.DU|
 @oid	o0025676
 @list	LAK763
-@useq	X.x1207A
-@ucun	X𒁺
+@useq	x121F3.x1207A.x1207A
+@ucun	𒇳𒁺𒁺
 @@
 @end sign
 
@@ -26515,10 +26516,11 @@
 @v	laʾuₓ
 @end sign
 
-@sign |LAL₂×DU|
+@sign- |LAL₂×DU|
 @oid	o0027630
-@list	LAK762
+@inote @list	LAK762
 @inote	missing compounds for lak.atf
+@inote sign does not exist; bad LAK 
 @end sign
 
 @sign |LAL₂×KAK|
@@ -27190,12 +27192,6 @@
 @oid	o0000354
 @list	LAK336
 @link	eBL LAK336 https://www.ebl.lmu.de/signs/LAK336
-@end sign
-
-@sign LAK340
-@oid	o0025839
-@list	LAK340
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK343
@@ -27957,6 +27953,7 @@
 @list	LAK708
 @link	eBL LAK708 https://www.ebl.lmu.de/signs/LAK708
 @inote No drawn sign.
+@inote make @lref unless there is a usable instance somewhere
 @end sign
 
 @sign LAK712a
@@ -28851,12 +28848,19 @@
 @sign |LU₂×HAL|
 @oid	o0001974
 @list	LAK340b
+@inote why is this not plain LAK340?
 @uname	CUNEIFORM SIGN LU2 TIMES HAL
 @list	U+1251B
 @ucun	𒔛
 @uage	8.0
 @link	eBL |LU₂×HAL| https://www.ebl.lmu.de/signs/|LU₂×HAL|
 @link	Wikidata Q87557396 http://www.wikidata.org/entity/Q87557396
+@form LAK340
+@oid	o0025839
+@list	LAK340
+@inote	for dcclt/ebla--check that it is not in OGSL under a different name
+@end sign
+
 @end sign
 
 @sign |LU₂×HI×BAD|
@@ -29042,7 +29046,7 @@
 
 @sign |LU₂×PAP|
 @oid	o0001983
-@list	LAK340a
+@inote @list	LAK340a
 @uname	CUNEIFORM SIGN LU2 TIMES PAP
 @list	U+1251C
 @ucun	𒔜
@@ -30449,6 +30453,7 @@
 @list	ELLES071
 @list	GCSL260
 @list	HZL112
+@list	LAK127
 @list	MZL486
 @list	RSP277
 @list	SLLHA314
@@ -33787,8 +33792,11 @@
 @v	nundumₓ
 @end sign
 
-@sign |NU×U|
+@sign |NU×U@c|
 @oid	o0018543
+@list LAK36^a
+@upua U+F009B
+@ucun 󰂛
 @inote	ed3a
 @end sign
 
@@ -37108,8 +37116,9 @@
 
 @sign |SAG×IGI|
 @oid	o0031737
-@list	LAK309a
+@inote @list	LAK309a
 @inote	Clear on photo MEE 3/A XXXIXa i 4
+@inote Check Fara form which LAK309a shows as |SAG@g×IGI@g|
 @end sign
 
 @sign |SAG×IGI@g|
@@ -41767,7 +41776,7 @@
 @upua	U+F0053
 @ucun	󰁓
 @list	GCSL282
-@list	LAK661
+@list	LAK659
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -46364,7 +46373,8 @@
 @list	ABZL334
 @list	HZL084
 @list	KWU408
-@list	LAK380
+@list	LAK380^c
+@inote UD×U+U+U
 @list	MZL020
 @list	PTACE186
 @list	SLLHA052
@@ -46385,7 +46395,14 @@
 @link	Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
 @form+ |UD×DIŠ|
 @oid	o0223330
+@inote UD×U
 @list	RSP328
+@list	LAK380
+@inote ED IIIb form for itud
+@@
+@form+ |UD×DIŠ@c|
+@oid	o0223330
+@list	LAK380^b
 @inote ED IIIb form for itud
 @@
 @end sign
@@ -46561,7 +46578,6 @@
 @list	GCSL062
 @list	HZL098
 @list	KWU189
-@list	LAK127
 @list	MZL238
 @list	PTACE076
 @list	RSP274
