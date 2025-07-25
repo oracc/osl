@@ -39,6 +39,29 @@ variants don't have to be in order of sign list.  It should pass the
 test: if only one of the form-variants is displayed, will it be
 representative of the sign in the given font/period?
 
+Splits
+======
+
+Occasionally a sign list has an M:1 split where multiple list entries
+each with their own semantics correspond to the same Unicode code
+point.  For example, LAK816 is 1/2(aš@c), which is unified with
+1(BAN₂@c) in ACN; LAK829 and LAK838 correspond to 1(BAN₂@c).
+
+This not reflected directly in the list-font: as usual, one glyph is
+the Unicode value, the other glyphs are SALT variants.
+
+In the List-Font Data (lfd) format (not yet documented), this requires
+some special-casing:
+
+	* an '!' is appended to the list-num in column 1 to indicate
+          that this should be treated as a primary entry or
+          split-head. By convention a split-head must always be a SALT
+          variant.
+
+	* the sign-name is augmented with the value, e.g., 1(BAN₂)::1/2(aš@c)
+
+	* if multiple list entries must map to the ! entry, they
+          should use the NAME::VALUE notation to address the ! entry
 
 Mergers
 =======
