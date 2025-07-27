@@ -28861,8 +28861,7 @@
 @oid	o0025839
 @list	LAK340
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
+@@
 @end sign
 
 @sign |LU₂×HI×BAD|
