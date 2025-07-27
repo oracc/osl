@@ -20444,8 +20444,9 @@
 @link	Wikidata Q87555709 http://www.wikidata.org/entity/Q87555709
 @end sign
 
-@sign |KA×GIŠ%GIŠ|
+@sign |KA×(GIŠ%GIŠ)|
 @oid	o0001632
+@aka	|KA×GIŠ%GIŠ|
 @list	MZL037
 @list	SLLHA023
 @uname	CUNEIFORM SIGN KA TIMES GISH CROSSING GISH
@@ -23703,10 +23704,11 @@
 @link	eBL |KU.NU| https://www.ebl.lmu.de/signs/|KU.NU|
 @end sign
 
-@compoundonly	|KU&HI×AŠ₂|
+@compoundonly	|KU&(HI×AŠ₂)|
 
-@sign |KU&HI×AŠ₂.KU&HI×AŠ₂|
+@sign |KU&(HI×AŠ₂).KU&(HI×AŠ₂)|
 @oid	o0001746
+@aka	|KU&HI×AŠ₂.KU&HI×AŠ₂|
 @list	SLLHA099b2
 @uname	CUNEIFORM SIGN KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2
 @list	U+121AB
