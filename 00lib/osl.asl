@@ -48069,12 +48069,17 @@
 
 @sign |URU×(TU&TU)|
 @oid	o0028067
-@inote	gvl unknown compound
-@end sign
-
-@sign |URU×TU&TU|
-@oid	o0028071
-@inote	gvl unknown compound
+@aka	|URU×TU&TU|
+@inote	Transliterated |URU×TU&TU| in P225945.23 and P225950.72.
+	clearly |URU×(TU&TU)| rather than |(URU×TU)&TU| in the CDLI copy of P225945.
+	Damaged according to the copy of P225950.
+@ref	OIP 99, 61 o v 5 = http://oracc.org/dcclt/P010102.67
+@ref	OIP 99, 69 o iii' 4' o v 5 = http://oracc.org/dcclt/P225945.23
+@ref	OIP 99, 74 o iv 8 = http://oracc.org/dcclt/P225950.72
+@ref	MEE 3, 43 + unpublished fragment o v 12a = http://oracc.org/dcclt/P242176.115
+@inote	This line is in the unpublished fragment (MEE 3, 43 only has lines 1–3 of this column),
+	so the sign is not in ELLes.
+@inote	šeg₅-šeg₅ in the composite: https://oracc.museum.upenn.edu/dcclt/Q000010?block=sb.Q000010.111
 @end sign
 
 @sign |URU×(U.GUD)|
