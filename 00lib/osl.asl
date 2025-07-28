@@ -46906,6 +46906,25 @@
 @v	nigₓ
 @v	ru₇
 @v	surₓ
+@note	Originally suggested by Pinches in “Gilgameš and the hero of the flood”, in PSBA 25 (1903),
+	p. 200, implying that PNs of the form Ur-DN should be read Sur-DN, based the identification
+	of the names
+	𒋢𒌨𒋢𒈾𒁍 su-ur-su-na-bu (https://www.ebl.lmu.de/corpus/L/1/4/OB/VA+BM#b%2B14) and
+	𒁹𒌨𒐏 ᵐur-šanabi₂ (https://www.ebl.lmu.de/corpus/L/1/4/SB/X#155).
+	See also Sollberger who identifies
+	𒋩𒀭𒀏 in http://oracc.org/etcsri/Q001091.1.4 as 𒌨𒀭𒀏
+	in “Selected Texts from American Collections”, and Steinkeller who identifies
+	𒎎𒊕𒋫𒌨 in http://oracc.org/epsd2/P123699.23.2 with
+	𒎎𒊕𒋫𒋩𒊏 in http://oracc.org/dcclt/P370391.5
+	in “(z)a-áš-da=kiššātum”, in RA 74 (1980), p. 179.
+	This reading has largely not been followed, see:
+		Stephens, BIN 8 (1958), p. 12;
+		Lambert, “Ur- or Sur-?”, in RA 75 (1981), pp. 61 sq.;
+		Lambert, “Ur- or Sur- again”, in RA 76 (1982), pp. 93 sq.;
+		George, The Babylonian Gilgamesh Epic (2003), p. 150 n. 56.
+@inote	To add to confusion, OIP 115 483 (1998) transliterates http://oracc.org/epsd2/P123699.23.2 as
+	{NI.⸢UD⸣}sag̃-ta-šurₓ(UR) (with š rather than s). This is also the transliteration used by BDTNS.
+	CDLI and ePSD2 have {⸢na₄⸣}sag-ta-ur.
 @v	šudulₓ
 @v	šuzi
 @v	tan₈
