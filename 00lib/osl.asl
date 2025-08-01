@@ -6450,6 +6450,7 @@
 @oid	o0000967
 @list	ELLES380
 @list	LAK777
+@inote LAK777 glyph has distinct composition
 @list	MZL449
 @list	SLLHA287
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES USH
@@ -23471,6 +23472,8 @@
 @list	ELLES139
 @list	HZL273
 @list	LAK248
+@inote Krebernik OBO p.277 transposes LAK248 and LAK240; the KIŠ glyph he calls LAK248 is LAK240;
+       ANŠE=LAK253; GIR₃=LAK248
 @list	MZL678
 @list	PTACE132
 @list	SLLHA425
@@ -47393,6 +47396,7 @@
 @oid	o0025783
 @list	LAK647
 @v	sigₓ
+@inote is this really a form of URI? Check lit cited in KOBO 275 n.459
 @@
 @form URI@n
 @oid	o0000580
