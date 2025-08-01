@@ -17,9 +17,11 @@ use Getopt::Long;
 # If list is bare numbers use -p -lLISTNAME, e.g., -p -lASY
 #
 
+my $asl = '00lib/osl.asl';
 my $lprefix = '';
 my $pad = 0;
 GetOptions(
+    "asl:s"=>\$asl,
     "list:s"=>\$lprefix,
     pad=>\$pad,
     );
@@ -55,7 +57,7 @@ while (<L>) {
 }
 close(L);
 
-open(P, '00lib/osl.asl') || die;
+open(P, $asl) || die;
 while (<P>) {
     chomp;
     if (/\@(?:sign|form|aka)\s+(\S+)/) {
