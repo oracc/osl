@@ -44,14 +44,17 @@
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
-@listdef LAK 1-161 163-277 279-496 498-671 673-708 710-711 713-826
-	828-834 838-851 856-857 859-870 024b 046@v 046a 063b 072b 079a
-	081a 156b 162a 162b 171@s 207a 248@g 248b 256@g 262@g 278a
-	278b 283a 304a 309a 340a 340b 350@90 368@s 407b 449^a 455a 461a
-	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 712a 712b
-	772b 784a 791a 827a 827b 835a 835b 835c 836a 836b 836c 836d
-	837a 837b 852a 852b 853a 853b 854a 854b 855a 855b 858a 858b
-	009^a 036^a 046^a 380^a 380^b 380^c
+@listdef LAK 001-870
+	009^a 024^a 036^a 046a 063^a 072^a 072^b 073^a 073^b 073^c 079^a 081^a
+	156^a 162^a 162^b 171^a 177a 207a 221a 221b 235^a 248^a 262^a 278^a
+	283^a 350^a 368^a 407^a 449^a 455a 490^a 497^a 497^b 654^a 672^a 672^b
+	709^a 709^b 712^a 712^b 772^a 784^a 791^a 792^a 807^a 816^a 816^b
+	820^a 820^b 820^c 820^d 821^a 821^b 822^a 822^b 822^c 823^a 823^b 823^c
+	825^a 825^b 826^a 826^b 827^a 827^b 829^a 829^b 830^a 830^b 831^a
+	831^b 832^a 832^b 833^a 833^b 834^b 834^a 835^a 835^b 836^a 836^b 836^c
+	837^a 837^b 839^a 839^b 840^a 840^b 841^a 841^b 842^a 842^b 844^a 844^b
+	852^a 852^b 853^a 853^b 854^a 854^b 855^a 855^b 857^a 857^b 858^a 858^b
+	859^a 859^b
 @lit A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40;
 	Berlin 1922)
 
@@ -153,6 +156,7 @@
 @images im-ofs-oobf.tab
 
 @sign A
+@list	LAK795
 @list	ASY311
 @oid	o0000087
 @list	ABZL470
@@ -160,7 +164,6 @@
 @list	ELLES393
 @list	GCSL324
 @list	KWU901
-@list	LAK795
 @list	MZL839
 @list	PTACE328
 @list	RSP051
@@ -543,6 +546,7 @@
 @ucun	𒀀𒄩𒋻𒌓𒁺
 @@
 @form BU
+@list	LAK232
 @list	ASY213
 @oid	o0000124
 @list	ABZL265
@@ -551,7 +555,6 @@
 @list	GCSL115
 @list	HZL339
 @list	KWU385
-@list	LAK232
 @list	MZL580
 @list	PTACE123
 @list	RSP335
@@ -1129,12 +1132,12 @@
 @v	aktum
 @link	eBL |A.SU| https://www.ebl.lmu.de/signs/|A.SU|
 @form SU
+@list	LAK293
 @list	ASY006
 @oid	o0000531
 @list	BAU226
 @list	ELLES172
 @list	GCSL137
-@list	LAK293
 @list	MZL016
 @list	PTACE120
 @list	RSP143
@@ -1277,9 +1280,9 @@
 @oid	o0031720
 @@
 @form ASAL₂~a
+@list	LAK212
 @oid	o0000105
 @list	BAU134
-@list	LAK212
 @list	PTACE049
 @lit	Krebernik, OBO 160/1, 283
 @inote	P452998 = MRAH O.5009 i 3 (Old Akkadian)
@@ -1400,8 +1403,8 @@
 @end sign
 
 @sign |A×BAD|
-@oid	o0000846
 @list	LAK800
+@oid	o0000846
 @list	MZL840
 @list	SLLHA580
 @uname	CUNEIFORM SIGN A TIMES BAD
@@ -1431,11 +1434,11 @@
 @end sign
 
 @sign |A×HA|
+@list	LAK796
 @oid	o0000848
 @list	ABZL471
 @list	ELLES394
 @list	KWU907
-@list	LAK796
 @list	MZL846
 @list	PTACE329
 @list	RSP183^a
@@ -1546,6 +1549,7 @@
 @end sign
 
 @sign A₂
+@list	LAK144
 @list	ASY187
 @oid	o0000112
 @list	ABZL230
@@ -1554,8 +1558,6 @@
 @list	GCSL088
 @list	HZL215
 @list	KWU326
-@list	LAK140
-@list	LAK144
 @list	MZL560
 @list	PTACE089
 @list	RSP420
@@ -1580,13 +1582,13 @@
 @link	eBL A₂ https://www.ebl.lmu.de/signs/A₂
 @link	Wikidata Q20639233 http://www.wikidata.org/entity/Q20639233
 @form DA
+@list	LAK143
 @list	ASY191
 @oid	o0000132
 @list	BAU097
 @list	BAU101
 @list	ELLES077
 @list	GCSL087
-@list	LAK143
 @list	PTACE088
 @list	RSP419
 @v	a₂⁻
@@ -1720,6 +1722,7 @@
 @end sign
 
 @sign AB
+@list	LAK536
 @list	ASY093
 @oid	o0000088
 @list	ABZL125
@@ -1728,7 +1731,6 @@
 @list	GCSL251
 @list	HZL097
 @list	KWU821
-@list	LAK536
 @list	MZL223
 @list	PTACE240
 @list	RSP223
@@ -1832,9 +1834,9 @@
 @end sign
 
 @sign |AB×AŠ₂|
+@list	LAK540
 @oid	o0000745
 @list	ABZL127
-@list	LAK540
 @list	MZL227
 @list	PTACE241
 @list	RSP225
@@ -1847,8 +1849,8 @@
 @link	eBL |AB×AŠ₂| https://www.ebl.lmu.de/signs/|AB×AŠ₂|
 @link	Wikidata Q87555017 http://www.wikidata.org/entity/Q87555017
 @form |AB×NUN@t|
-@oid	o0000753
 @list	LAK541
+@oid	o0000753
 @link	eBL |AB×NUN@t| https://www.ebl.lmu.de/signs/|AB×NUN@t|
 @@
 @end sign
@@ -1912,12 +1914,12 @@
 @end sign
 
 @sign |AB×HA|
+@list	LAK543
 @oid	o0000749
 @list	ABZL131
 @list	BAU334bis
 @list	GCSL253
 @list	KWU829
-@list	LAK543
 @list	MZL236
 @list	RSP226
 @list	SLLHA200v
@@ -2021,8 +2023,8 @@
 @end sign
 
 @sign |AB×NUN@t|
-@oid	o0000753
 @list	LAK541
+@oid	o0000753
 @inote	var of AB×AŠ₂ = abba₂?
 @uname	CUNEIFORM SIGN AB TIMES NUN TENU
 @list	U+12480
@@ -2049,8 +2051,8 @@
 @end sign
 
 @sign |AB×ŠU₂|
-@oid	o0000756
 @list	LAK542
+@oid	o0000756
 @uname	CUNEIFORM SIGN AB TIMES SHU2
 @list	U+12481
 @ucun	𒒁
@@ -2111,6 +2113,7 @@
 @end sign
 
 @sign AB@g
+@list	LAK537
 @oid	o0000089
 @list	ABZL129
 @list	BAU334
@@ -2118,7 +2121,6 @@
 @list	ELLES286
 @list	HZL111
 @list	KWU826
-@list	LAK537
 @list	MZL232
 @list	RSP224
 @list	SLLHA195
@@ -2148,12 +2150,12 @@
 @link	eBL AB@g https://www.ebl.lmu.de/signs/AB@g
 @link	Wikidata Q87555037 http://www.wikidata.org/entity/Q87555037
 @form AB
+@list	LAK536
 @list	ASY093
 @oid	o0000088
 @list	BAU333
 @list	ELLES285
 @list	GCSL251
-@list	LAK536
 @list	PTACE240
 @list	RSP223
 @v	unu⁻
@@ -2165,7 +2167,6 @@
 @form MURUB₄
 @list	ASY189
 @oid	o0000462
-@list	LAK157
 @inote	sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
 @link	eBL MURUB₄ https://www.ebl.lmu.de/signs/MURUB₄
 @@
@@ -2188,6 +2189,7 @@
 @end sign
 
 @sign AB₂
+@list	LAK403
 @list	ASY244
 @oid	o0000090
 @list	ABZL352
@@ -2197,7 +2199,6 @@
 @list	GCSL204
 @list	HZL277
 @list	KWU515
-@list	LAK403
 @list	MZL672
 @list	PTACE155
 @list	RSP159
@@ -2272,9 +2273,9 @@
 @end sign
 
 @sign |AB₂.ŠA₃|
+@list	LAK404
 @oid	o0000763
 @list	GCSL205
-@list	LAK404
 @list	RSP161
 @useq	x12016.x122AE
 @ucun	𒀖𒊮
@@ -2288,7 +2289,7 @@
 @v	zeₓ
 @link	eBL |AB₂.ŠA₃| https://www.ebl.lmu.de/signs/|AB₂.ŠA₃|
 @form LAK386
-@list LAK386
+@list	LAK386
 @oid	o0000365
 @link	eBL LAK386 https://www.ebl.lmu.de/signs/LAK386
 @@
@@ -2306,8 +2307,8 @@
 @end sign
 
 @sign |(AB₂.ŠA₃)&(AB₂.ŠA₃)|
-@oid	o0027588
 @list	LAK405
+@oid	o0027588
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -2396,6 +2397,7 @@
 @link	eBL |AB₂×GAN₂@t| https://www.ebl.lmu.de/signs/|AB₂×GAN₂@t|
 @link	Wikidata Q87555043 http://www.wikidata.org/entity/Q87555043
 @form |AB₂×TAK₄|
+@list	LAK406
 @oid	o0000770
 @link	eBL |AB₂×TAK₄| https://www.ebl.lmu.de/signs/|AB₂×TAK₄|
 @@
@@ -2493,9 +2495,9 @@
 @end sign
 
 @sign |AB₂×TAK₄|
+@list	LAK406
 @oid	o0000770
 @list	KWU518
-@list	LAK406
 @list	MZL673
 @list	SLLHA420_8
 @inote	this should be treated as an (earlier) variant of |AB₂×GANA₂@t|, in particular for writing the word /ub/. See Civil ARES 4, 101. Relate to LAK387.
@@ -2533,6 +2535,7 @@
 @end sign
 
 @sign AD
+@list	LAK635
 @list	ASY108
 @oid	o0000092
 @list	ABZL132
@@ -2541,7 +2544,6 @@
 @list	GCSL270
 @list	HZL105
 @list	KWU827
-@list	LAK635
 @list	MZL258
 @list	PTACE249
 @list	RSP227
@@ -2610,6 +2612,7 @@
 @end sign
 
 @sign AK
+@list	LAK087
 @list	ASY070
 @oid	o0000093
 @list	ABZL052
@@ -2617,7 +2620,6 @@
 @list	ELLES053
 @list	GCSL045
 @list	KWU073
-@list	LAK087
 @list	MZL127
 @list	PTACE068
 @list	RSP273
@@ -2663,13 +2665,13 @@
 @link	eBL |AK×ERIN₂| https://www.ebl.lmu.de/signs/|AK×ERIN₂|
 @link	Wikidata Q87555057 http://www.wikidata.org/entity/Q87555057
 @form AK
+@list	LAK087
 @list	ASY070
 @oid	o0000093
 @list	BAU062
 @list	ELLES053
 @list	GCSL045
 @list	KWU073
-@list	LAK087
 @list	MZL127
 @list	PTACE068
 @list	RSP273
@@ -2703,9 +2705,9 @@
 @link	Wikidata Q87555691 http://www.wikidata.org/entity/Q87555691
 @@
 @form LAK493
+@list	LAK493
 @oid	o0000386
 @list	ELLES255
-@list	LAK493
 @list	PTACE144
 @lit	Ebla 1975-1985, 196-197
 @uname	CUNEIFORM SIGN LAK493
@@ -2724,6 +2726,7 @@
 @end sign
 
 @sign AL
+@list	LAK515
 @list	ASY160
 @oid	o0000094
 @list	ABZL108
@@ -2733,7 +2736,6 @@
 @list	GCSL271
 @list	HZL183
 @list	KWU773
-@list	LAK515
 @list	MZL474
 @list	PTACE079
 @list	RSP399
@@ -2870,19 +2872,19 @@
 @end sign
 
 @sign AL@s
-@oid	o0027532
 @list	LAK516
+@oid	o0027532
 @inote	for lak.atf
 @end sign
 
 @sign ALAN
+@list	LAK138
 @oid	o0000095
 @list	ABZL199
 @list	BAU090
 @list	ELLES075
 @list	HZL226
 @list	KWU291
-@list	LAK138
 @list	MZL573
 @list	PTACE093
 @list	RSP401
@@ -2948,6 +2950,7 @@
 @end sign
 
 @sign AMAR
+@list	LAK267
 @list	ASY255
 @oid	o0000097
 @list	ABZL367
@@ -2956,7 +2959,6 @@
 @list	GCSL120
 @list	HZL155
 @list	KWU571
-@list	LAK267
 @list	MZL695
 @list	PTACE128
 @list	RSP110
@@ -3044,13 +3046,13 @@
 @end sign
 
 @sign |AMAR×ŠE|
+@list	LAK268
 @oid	o0000795
 @list	ABZL368
 @list	BAU146b
 @list	GCSL121
 @list	HZL156
 @list	KWU572
-@list	LAK268
 @list	MZL696
 @list	SLLHA438
 @uname	CUNEIFORM SIGN AMAR TIMES SHE
@@ -3081,6 +3083,7 @@
 @inote	In |AB₂×AMAR@t| in P020344 = VS 27, 28.
 
 @sign AN
+@list	LAK008
 @list	ASY012
 @oid	o0000099
 @list	ABZL009
@@ -3089,7 +3092,6 @@
 @list	GCSL004
 @list	HZL008
 @list	KWU022
-@list	LAK008
 @list	MZL010
 @list	PTACE007
 @list	RSP080
@@ -3147,6 +3149,7 @@
 @end sign
 
 @sign |3×AN|
+@list	LAK010
 @list	ASY095
 @oid	o0000642
 @list	ABZL010
@@ -3154,7 +3157,6 @@
 @list	ELLES006bis
 @list	GCSL051
 @list	KWU025
-@list	LAK010
 @list	MZL247
 @list	PTACE009
 @list	RSP082
@@ -3282,8 +3284,8 @@
 @link	eBL |AŠ.AŠ| https://www.ebl.lmu.de/signs/|AŠ.AŠ|
 @@
 @form	|AN&AŠ&AN|
-@oid	o0270205
 @list	LAK009^a
+@oid	o0270205
 @upua	U+F0097
 @ucun	󰂗
 @@
@@ -3616,6 +3618,7 @@
 @inote	added during ogsl upgrade
 
 @sign |AN&AN|
+@list	LAK009
 @list	ASY094
 @oid	o0000796
 @list	BAU007
@@ -3623,7 +3626,6 @@
 @list	GCSL050
 @list	HZL100
 @list	KWU023
-@list	LAK009
 @list	MZL246
 @list	PTACE008
 @list	RSP081
@@ -3650,6 +3652,7 @@
 @end sign
 
 @sign ANŠE
+@list	LAK253
 @oid	o0000101
 @list	ABZL292
 @list	BAU161a
@@ -3658,7 +3661,6 @@
 @list	GCSL167
 @list	HZL302
 @list	KWU460
-@list	LAK253
 @list	MZL353
 @list	PTACE134
 @list	RSP466
@@ -3680,9 +3682,9 @@
 @link	eBL ANŠE https://www.ebl.lmu.de/signs/ANŠE
 @link	Wikidata Q87555099 http://www.wikidata.org/entity/Q87555099
 @form KIŠ
+@list	LAK240
 @list	ASY247
 @oid	o0000286
-@list	LAK248
 @v	anše
 @inote	Oracc anše(KIŠ)
 @v	anše⁻
@@ -3690,27 +3692,25 @@
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
 @form LAK239
-@oid	o0000333
 @list	LAK239
+@oid	o0000333
 @link	eBL LAK239 https://www.ebl.lmu.de/signs/LAK239
 @@
 @form LAK240
 @oid	o0245336
 @list	GCSL119
-@list	LAK240
 @@
 @form LAK248@g
 @oid	o0025826
-@list	LAK248@g
 @@
 @form LAK248b
+@list	LAK248^a
 @oid	o0025828
-@list	LAK248b
 @@
 @form |GIR₃×PA|
+@list	LAK255
 @oid	o0001353
 @list	ABZL292
-@list	LAK255
 @uname	CUNEIFORM SIGN GIR3 TIMES PA
 @list	U+1210F
 @ucun	𒄏
@@ -3761,7 +3761,6 @@
 @sign LAK240
 @oid	o0245336
 @list	GCSL119
-@list	LAK240
 @end sign
 
 @sign |ANŠE.IGI.EŠ₂|
@@ -3785,9 +3784,9 @@
 @v	dusuₓ
 @@
 @form |IGI.EŠ₂|
+@list	LAK434
 @oid	o0001495
 @list	BAU244
-@list	LAK434
 @list	PTACE204
 @v	dusuₓ
 @link	eBL |IGI.EŠ₂| https://www.ebl.lmu.de/signs/|IGI.EŠ₂|
@@ -3827,8 +3826,8 @@
 @v	eme₆
 @link	eBL |ANŠE.SAL| https://www.ebl.lmu.de/signs/|ANŠE.SAL|
 @form |ANŠE×SAL|
-@oid	o0021775
 @list	LAK254
+@oid	o0021775
 @@
 @end sign
 
@@ -3848,6 +3847,7 @@
 @end sign
 
 @sign APIN
+@list	LAK128
 @list	ASY028
 @oid	o0000102
 @list	ABZL005
@@ -3856,7 +3856,6 @@
 @list	GCSL043
 @list	HZL009
 @list	KWU071
-@list	LAK128
 @list	MZL090
 @list	PTACE080
 @list	RSP307
@@ -3965,6 +3964,7 @@
 @end sign
 
 @sign |ARAD×KUR|
+@list	LAK059
 @list	ASY025a
 @oid	o0000843
 @list	ABZL017
@@ -3972,7 +3972,6 @@
 @list	ELLES036
 @list	GCSL021
 @list	KWU065
-@list	LAK059
 @list	MZL019
 @list	PTACE054
 @list	RSP416
@@ -3998,10 +3997,10 @@
 @end sign
 
 @sign ARKAB₂
-@oid	o0000104
-@list	ELLES022
 @list	LAK296
 @list	LAK297
+@oid	o0000104
+@list	ELLES022
 @uname	CUNEIFORM SIGN ARKAB
 @list	U+12036
 @ucun	𒀶
@@ -4022,6 +4021,10 @@
 @compoundonly	ASAL₂
 
 @sign AŠ
+@list	LAK001
+@list	LAK820^b
+@list	LAK839^b
+@list	LAK855^b
 @list	ASY001
 @oid	o0000106
 @list	ABZL001
@@ -4029,8 +4032,6 @@
 @list	ELLES001
 @list	GCSL001
 @list	HZL001
-@list	LAK001
-@list	LAK855b
 @list	MZL001
 @list	PTACE001
 @list	RSP001
@@ -4092,10 +4093,6 @@
 @link	Wikidata Q87555110 http://www.wikidata.org/entity/Q87555110
 @form+ AŠ@c
 @oid	o0221914
-@list LAK002
-@list	LAK820
-@list	LAK839
-@list	LAK855a
 @list	RSP024
 @inote	@ucode	xeb80
 @v	aš@c
@@ -4215,10 +4212,10 @@
 @end sign
 
 @sign |AŠ&AŠ&AŠ|
+@list	LAK133
 @oid	o0000859
 @aka	3(AŠ~a)
 @list	BAU084
-@list	LAK133
 @list	MZL505
 @list	SLLHA325a
 @uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH16
@@ -4340,6 +4337,8 @@
 @end sign
 
 @sign AŠ@t
+@list	LAK178
+@list	LAK820^c
 @list	ASY209
 @aka AŠ@z
 @aka DIŠ@t
@@ -4351,7 +4350,6 @@
 @list	ELLES104
 @list	GCSL188a
 @list	KWU333
-@list	LAK178
 @list	MZL575
 @list	RSP005^a
 @list	SLLHA360
@@ -4398,6 +4396,7 @@
 @end sign
 
 @sign AŠ₂
+@list	LAK162^a
 @list	ASY192
 @oid	o0000110
 @list	ABZL211
@@ -4406,7 +4405,6 @@
 @list	GCSL074
 @list	HZL241
 @list	KWU285
-@list	LAK162a
 @list	MZL548
 @list	PTACE100
 @list	RSP128
@@ -4474,12 +4472,12 @@
 @end sign
 
 @sign AŠGAB
+@list	LAK346
 @oid	o0000109
 @list	ABZL443
 @list	ELLES192
 @list	HZL080
 @list	KWU079
-@list	LAK346?
 @list	MZL173
 @list	PTACE015
 @list	RSP395
@@ -4499,6 +4497,7 @@
 @end sign
 
 @sign BA
+@list	LAK290
 @list	ASY004
 @oid	o0000113
 @list	ABZL303
@@ -4507,7 +4506,6 @@
 @list	GCSL134
 @list	HZL205
 @list	KWU407
-@list	LAK290
 @list	MZL014
 @list	PTACE198
 @list	RSP139
@@ -4528,6 +4526,7 @@
 @end sign
 
 @sign BAD
+@list	LAK016
 @list	ASY042
 @oid	o0000114
 @list	ABZL025
@@ -4537,7 +4536,6 @@
 @list	GCSL209
 @list	HZL013
 @list	KWU035
-@list	LAK016
 @list	MZL113
 @list	PTACE010
 @list	RSP048bis
@@ -4712,8 +4710,8 @@
 @end sign
 
 @sign |BAD×DIŠ@t|
-@oid	o0000897
 @list	LAK045
+@oid	o0000897
 @uname	CUNEIFORM SIGN BAD TIMES DISH TENU
 @list	U+12483
 @ucun	𒒃
@@ -4754,11 +4752,11 @@
 @end sign
 
 @sign BAHAR₂
+@list	LAK742
 @oid	o0000117
 @list	ABZL086
 @list	BAU370
 @list	ELLES364
-@list	LAK742
 @list	RSP433
 @list	PTACE292
 @uname	CUNEIFORM SIGN BAHAR2
@@ -4790,11 +4788,11 @@
 @ucun	𒂁𒋡𒁓
 @@
 @form EDIN
+@list	LAK747
 @list	ASY118
 @oid	o0000167
 @list	ELLES365
 @list	GCSL306
-@list	LAK747
 @list	PTACE293
 @list	RSP433
 @list	RSP435
@@ -4805,8 +4803,8 @@
 @end sign
 
 @sign |BAHAR₂×AB₂|
-@oid	o0000898
 @list	LAK743
+@oid	o0000898
 @list	RSP434
 @uname	CUNEIFORM SIGN BAHAR2 TIMES AB2
 @list	U+12484
@@ -4822,8 +4820,8 @@
 @end sign
 
 @sign |BAHAR₂×NI|
-@oid	o0000899
 @list	LAK745
+@oid	o0000899
 @uname	CUNEIFORM SIGN BAHAR2 TIMES NI
 @list	U+12485
 @ucun	𒒅
@@ -4833,8 +4831,8 @@
 @end sign
 
 @sign |BAHAR₂×ZA|
-@oid	o0000900
 @list	LAK746
+@oid	o0000900
 @uname	CUNEIFORM SIGN BAHAR2 TIMES ZA
 @list	U+12486
 @ucun	𒒆
@@ -4844,6 +4842,7 @@
 @end sign
 
 @sign BAL
+@list	LAK019
 @list	ASY008
 @oid	o0000118
 @list	ABZL003
@@ -4851,7 +4850,6 @@
 @list	GCSL015
 @list	HZL004
 @list	KWU038
-@list	LAK019
 @list	MZL005
 @list	PTACE013
 @list	RSP087
@@ -4885,6 +4883,7 @@
 @end sign
 
 @sign BALAG
+@list	LAK041
 @oid	o0000119
 @list	ABZL195
 @list	BAU029
@@ -4892,7 +4891,6 @@
 @list	GCSL034
 @list	HZL225
 @list	KWU320
-@list	LAK041
 @list	MZL565
 @list	PTACE044
 @list	RSP377
@@ -4952,6 +4950,7 @@
 @end sign
 
 @sign BAR
+@list	LAK752
 @list	ASY048
 @oid	o0000120
 @list	ABZL057
@@ -4960,7 +4959,6 @@
 @list	GCSL308
 @list	HZL020
 @list	KWU671
-@list	LAK752
 @list	MZL121
 @list	PTACE306
 @list	RSP044
@@ -4984,6 +4982,10 @@
 @link	eBL BAR https://www.ebl.lmu.de/signs/BAR
 @link	Wikidata Q87555142 http://www.wikidata.org/entity/Q87555142
 @form AŠ
+@list	LAK001
+@list	LAK820^b
+@list	LAK839^b
+@list	LAK855^b
 @list	ASY001
 @oid	o0000106
 @list	ABZL001
@@ -4991,7 +4993,6 @@
 @list	ELLES001
 @list	GCSL001
 @list	HZL001
-@list	LAK001
 @list	MZL001
 @list	PTACE001
 @list	RSP001
@@ -5011,13 +5012,13 @@
 @v	kungi₂
 @link	eBL |BAR.AN| https://www.ebl.lmu.de/signs/|BAR.AN|
 @form |3×AN|
+@list	LAK010
 @list	ASY095
 @oid	o0000642
 @list	BAU008
 @list	ELLES006bis
 @list	GCSL051
 @list	KWU025
-@list	LAK010
 @list	MZL247
 @list	PTACE009
 @list	RSP082
@@ -5031,17 +5032,17 @@
 @link	Wikidata Q87555091 http://www.wikidata.org/entity/Q87555091
 @@
 @form |BAR×AN|
+@list	LAK753
 @oid	o0000911
 @list	KWU674
-@list	LAK753
 @list	PTACE307
 @v	kunga₂
 @v	kungi₂
 @v	suhubₓ
 @@
 @form |ŠU₂.AN|
-@oid	o0002812
 @list	LAK356
+@oid	o0002812
 @list	MZL870
 @list	SLLHA546
 @inote	Need a way of detecting these and also a different mechanism for
@@ -5091,14 +5092,15 @@
 @compoundonly	|BAR×DUG|
 
 @sign |BAR×TAB|
-@oid	o0018859
 @list	LAK131
+@oid	o0018859
 @form BAR@g
 @oid	o0018847
 @@
 @end sign
 
 @sign BARA₂
+@list	LAK153
 @list	ASY195
 @oid	o0000121
 @list	ABZL217
@@ -5107,7 +5109,6 @@
 @list	GCSL068
 @list	HZL235
 @list	KWU295
-@list	LAK153
 @list	MZL554
 @list	PTACE105
 @list	RSP267
@@ -5191,6 +5192,7 @@
 @end sign
 
 @sign BI
+@list	LAK639
 @list	ASY140
 @oid	o0000122
 @list	ABZL079
@@ -5201,7 +5203,6 @@
 @list	GCSL277
 @list	HZL153
 @list	KWU749
-@list	LAK639
 @list	MZL358
 @list	RSP218
 @list	SLLHA214
@@ -5368,9 +5369,9 @@
 @end sign
 
 @sign |BI×A|
+@list	LAK642
 @oid	o0000926
 @list	GCSL279
-@list	LAK642
 @uname	CUNEIFORM SIGN BI TIMES A
 @list	U+1204A
 @ucun	𒁊
@@ -5391,9 +5392,9 @@
 @end sign
 
 @sign |BI×GAR|
+@list	LAK641
 @oid	o0000927
 @list	KWU755
-@list	LAK641
 @list	MZL361
 @list	RSP219
 @list	SLLHA214c
@@ -5415,8 +5416,8 @@
 @end sign
 
 @sign |BI×IGI@g|
-@oid	o0000928
 @list	LAK640
+@oid	o0000928
 @list	MZL360
 @list	SLLHA214a
 @uname	CUNEIFORM SIGN BI TIMES IGI GUNU
@@ -5435,6 +5436,7 @@
 @end sign
 
 @sign BU
+@list	LAK232
 @list	ASY213
 @oid	o0000124
 @aka	BU~a
@@ -5444,7 +5446,6 @@
 @list	GCSL115
 @list	HZL339
 @list	KWU385
-@list	LAK232
 @list	MZL580
 @list	PTACE123
 @list	RSP335
@@ -5707,6 +5708,7 @@
 @end sign
 
 @sign BUR
+@list	LAK169
 @list	ASY199
 @oid	o0000129
 @list	ABZL223
@@ -5715,7 +5717,6 @@
 @list	GCSL080
 @list	HZL245
 @list	KWU302
-@list	LAK169
 @list	MZL559
 @list	PTACE109
 @list	RSP164
@@ -5747,6 +5748,7 @@
 @compoundonly	|BUR&BUR|
 
 @sign BUR₂
+@list	LAK052
 @list	ASY010
 @oid	o0000131
 @list	ABZL013
@@ -5755,7 +5757,6 @@
 @list	ELLES030
 @list	GCSL022
 @list	KWU088
-@list	LAK052
 @list	MZL008
 @list	PTACE061
 @list	RSP088
@@ -5807,12 +5808,12 @@
 @end sign
 
 @sign BURU₅
+@list	LAK072^b
 @oid	o0000130
 @list	ASY054a
 @list	ABZL043
 @list	ELLES044
 @list	GCSL039
-@list	LAK072b
 @list	MZL135
 @list	RSP414
 @inote	AbS P225926 = OIP 099, 048 v 2′
@@ -5838,12 +5839,12 @@
 @ucun	𒄷𒊺𒂟
 @@
 @form NAM
+@list	LAK071
 @oid	o0000474
 @list	ASY054
 @list	BAU038
 @list	ELLES043
 @list	GCSL040
-@list	LAK071
 @list	PTACE065
 @list	RSP413
 @v	buru₅
@@ -5868,6 +5869,7 @@
 @end sign
 
 @sign DA
+@list	LAK143
 @list	ASY191
 @oid	o0000132
 @list	ABZL229
@@ -5877,7 +5879,6 @@
 @list	GCSL087
 @list	HZL214
 @list	KWU325
-@list	LAK143
 @list	MZL561
 @list	PTACE088
 @list	RSP419
@@ -5917,8 +5918,8 @@
 @end sign
 
 @sign |DA×TAK₄|
-@oid	o0000971
 @list	LAK145
+@oid	o0000971
 @uname	CUNEIFORM SIGN DA TIMES TAK4
 @list	U+12488
 @ucun	𒒈
@@ -5928,6 +5929,7 @@
 @end sign
 
 @sign DAG
+@list	LAK740
 @list	ASY151
 @list	ASY152
 @oid	o0000133
@@ -5936,7 +5938,6 @@
 @list	ELLES363
 @list	GCSL304
 @list	KWU848
-@list	LAK740
 @list	PTACE299
 @list	RSP134
 @list	SYA132
@@ -5966,6 +5967,7 @@
 @link	eBL DAG https://www.ebl.lmu.de/signs/DAG
 @link	Wikidata Q87555171 http://www.wikidata.org/entity/Q87555171
 @form LAK457
+@list	LAK457
 @oid	o0000377
 @link	eBL LAK457 https://www.ebl.lmu.de/signs/LAK457
 @@
@@ -6078,9 +6080,9 @@
 @end sign
 
 @sign |DAG.KISIM₅×GA|
+@list	LAK744
 @oid	o0000953
 @list	ABZL171
-@list	LAK744
 @uname	CUNEIFORM SIGN DAG KISIM5 TIMES GA
 @list	U+1205B
 @ucun	𒁛
@@ -6253,10 +6255,10 @@
 @end sign
 
 @sign |DAG.KISIM₅×LU|
+@list	LAK721
 @oid	o0000962
 @list	ABZL173
 @list	KWU767
-@list	LAK721
 @list	MZL459
 @list	RSP358
 @list	SLLHA292a
@@ -6301,11 +6303,12 @@
 @link	eBL |DAG.KISIM₅×(LU.MAŠ₂)| https://www.ebl.lmu.de/signs/|DAG.KISIM₅×(LU.MAŠ₂)|
 @link	Wikidata Q87555205 http://www.wikidata.org/entity/Q87555205
 @form LAK388
-@oid	o0000367
 @list	LAK388
+@oid	o0000367
 @link	eBL LAK388 https://www.ebl.lmu.de/signs/LAK388
 @@
 @form |DAG.KISIM₅×LU|
+@list	LAK721
 @oid	o0000962
 @list	RSP358
 @@
@@ -6448,9 +6451,9 @@
 @end sign
 
 @sign |DAG.KISIM₅×UŠ|
+@list	LAK777
 @oid	o0000967
 @list	ELLES380
-@list	LAK777
 @inote LAK777 glyph has distinct composition
 @list	MZL449
 @list	SLLHA287
@@ -6484,8 +6487,8 @@
 @end sign
 
 @sign |DAG×KUR|
-@oid	o0000969
 @list	LAK741
+@oid	o0000969
 @uname	CUNEIFORM SIGN DAG TIMES KUR
 @list	U+12489
 @ucun	𒒉
@@ -6525,6 +6528,7 @@
 @end sign
 
 @sign DAM
+@list	LAK523
 @list	ASY301
 @oid	o0000134
 @list	ABZL454
@@ -6533,7 +6537,6 @@
 @list	GCSL244
 @list	HZL298
 @list	KWU799
-@list	LAK523
 @list	MZL889
 @list	PTACE233
 @list	RSP191
@@ -6566,6 +6569,7 @@
 @end sign
 
 @sign DAR
+@list	LAK069
 @aka HU@g
 @list	ASY083
 @oid	o0000135
@@ -6574,7 +6578,6 @@
 @list	ELLES042
 @list	GCSL033
 @list	HZL083
-@list	LAK069
 @list	MZL183
 @list	PTACE041
 @list	RSP411
@@ -6602,6 +6605,7 @@
 @end sign
 
 @sign DARA₃
+@list	LAK264
 @list	ASY072
 @oid	o0000136
 @list	ABZL365
@@ -6609,7 +6613,6 @@
 @list	GCSL110
 @list	HZL071
 @list	KWU553
-@list	LAK264
 @list	MZL166
 @list	PTACE139
 @list	RSP459
@@ -6638,10 +6641,10 @@
 @end sign
 
 @sign DARA₄
+@list	LAK670
 @oid	o0000137
 @list	ABZL421
 @list	BAU372
-@list	LAK670
 @list	MZL817
 @list	SLLHA540
 @uname	CUNEIFORM SIGN DARA4
@@ -6675,12 +6678,12 @@
 @end sign
 
 @sign DE₂
+@list	LAK156^a
 @list	ASY190
 @aka	|UMUM×KASKAL|
 @oid	o0000138
 @list	ABZL215
 @list	KWU309b
-@list	LAK156b
 @list	PTACE099
 @list	RSP361bis
 @list	SYA165
@@ -6713,17 +6716,18 @@
 @list	SLLHA338n1
 @@
 @form UMUM
+@list	LAK155
 @oid	o0000573
 @list	BAU093
 @list	BAU094
 @list	ELLES085
-@list	LAK155
 @list	RSP361
 @link	eBL UMUM https://www.ebl.lmu.de/signs/UMUM
 @@
 @end sign
 
 @sign DI
+@list	LAK439
 @list	ASY266
 @oid	o0000139
 @list	ABZL431
@@ -6732,7 +6736,6 @@
 @list	GCSL193
 @list	HZL312
 @list	KWU479
-@list	LAK439
 @list	MZL736
 @list	PTACE191
 @list	RSP318
@@ -6795,6 +6798,7 @@
 @end sign
 
 @sign DIB
+@list	LAK780
 @list	ASY293
 @oid	o0000140
 @aka	|LAGAB×PA|
@@ -6803,7 +6807,6 @@
 @list	ELLES381
 @list	GCSL318
 @list	HZL210?
-@list	LAK780
 @list	MZL813
 @list	PTACE316
 @list	RSP262
@@ -6842,6 +6845,7 @@
 @end sign
 
 @sign DIM
+@list	LAK053
 @list	ASY068
 @oid	o0000141
 @list	ABZL014
@@ -6849,7 +6853,6 @@
 @list	GCSL018
 @list	HZL014
 @list	KWU085
-@list	LAK053
 @list	MZL167
 @list	PTACE062
 @list	SLLHA094
@@ -6873,15 +6876,15 @@
 @link	eBL DIM https://www.ebl.lmu.de/signs/DIM
 @link	Wikidata Q87555232 http://www.wikidata.org/entity/Q87555232
 @form LAK061
-@oid	o0025727
 @list	LAK061
+@oid	o0025727
 @inote	ed3a
 @@
 @end sign
 
 @sign |DIM×IGI|
-@oid	o0000976
 @list	LAK054
+@oid	o0000976
 @uname	CUNEIFORM SIGN DIM TIMES IGI
 @list	U+1248A
 @ucun	𒒊
@@ -6917,6 +6920,7 @@
 @end sign
 
 @sign |DIM×ŠE|
+@list	LAK055
 @list	ASY069
 @oid	o0000978
 @list	ABZL015
@@ -6924,7 +6928,6 @@
 @list	ELLES033a
 @list	HZL018
 @list	KWU086
-@list	LAK055
 @list	MZL168
 @list	RSP426bis
 @list	SYA060
@@ -6939,11 +6942,11 @@
 @link	eBL |DIM×ŠE| https://www.ebl.lmu.de/signs/|DIM×ŠE|
 @link	Wikidata Q87555234 http://www.wikidata.org/entity/Q87555234
 @form DIM@g
+@list	LAK056
 @oid	o0000142
 @list	ELLES033b
 @list	ELLES307b
 @list	GCSL019
-@list	LAK056
 @list	PTACE063
 @list	RSP426
 @upua	U+F0075
@@ -6966,6 +6969,7 @@
 @end sign
 
 @sign DIM₂
+@list	LAK481
 @list	ASY257
 @oid	o0000143
 @list	ABZL067
@@ -6974,7 +6978,6 @@
 @list	GCSL223
 @list	HZL165
 @list	KWU710
-@list	LAK481
 @list	MZL686
 @list	PTACE278
 @list	RSP375
@@ -7033,6 +7036,7 @@
 @end sign
 
 @sign DIN
+@list	LAK237
 @list	ASY270
 @oid	o0000144
 @list	ABZL361
@@ -7042,7 +7046,6 @@
 @list	GCSL118
 @list	HZL330
 @list	KWU575
-@list	LAK237
 @list	MZL119
 @list	PTACE127
 @list	RSP084
@@ -7121,13 +7124,15 @@
 @end sign
 
 @sign DIŠ
+@list	LAK820^d
+@list	LAK834^a
+@list	LAK854^b
 @list	ASY276
 @oid	o0000145
 @aka	1(DIŠ)
 @list	ABZL390
 @list	HZL356
 @list	MZL748
-@list	LAK854b
 @list	RSP005
 @list	SLLHA480
 @list	SYA242
@@ -7189,6 +7194,10 @@
 @link	eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
 @link	Wikidata Q87555241 http://www.wikidata.org/entity/Q87555241
 @form AŠ@c
+@list	LAK002
+@list	LAK820^a
+@list	LAK839^a
+@list	LAK855^a
 @aka 1(N01)
 @oid	o0221914
 @inote	dcclt *() punctuation qualifier
@@ -7199,6 +7208,8 @@
 @ucun 𒕐
 @@
 @form AŠ@t
+@list	LAK178
+@list	LAK820^c
 @list	ASY209
 @oid	o0000108
 @inote	dcclt *() punctuation qualifier
@@ -7211,11 +7222,11 @@
 @link	eBL |DIŠ.DIŠ.DIŠ| https://www.ebl.lmu.de/signs/|DIŠ.DIŠ.DIŠ|
 @@
 @form DIŠ@c
+@list	LAK834^b
+@list	LAK854^a
 @aka 1(N08)
 @oid	o0223336
 @aka	N8
-@list	LAK834
-@list	LAK854a
 @list	RSP035
 @inote	@ucode	xebc2
 @v	barig@c
@@ -7240,6 +7251,7 @@
 @v	diš@f
 @@
 @form GAM
+@list	LAK180
 @list	ASY210
 @oid	o0000196
 @list	GCSL091
@@ -7247,12 +7259,14 @@
 @link	eBL GAM https://www.ebl.lmu.de/signs/GAM
 @@
 @form MIN
+@list	LAK417
 @list	ASY308a
 @oid	o0000456
 @inote	dcclt *() punctuation qualifier
 @link	eBL MIN https://www.ebl.lmu.de/signs/MIN
 @@
 @form PAP
+@list	LAK229
 @list	ASY032
 @oid	o0000500
 @list	GCSL113
@@ -7260,6 +7274,10 @@
 @link	eBL PAP https://www.ebl.lmu.de/signs/PAP
 @@
 @form U
+@list	LAK821^b
+@list	LAK840^b
+@list	LAK857^b
+@list	LAK859^b
 @list	ASY242
 @oid	o0000561
 @list	GCSL176
@@ -7267,6 +7285,11 @@
 @link	eBL U https://www.ebl.lmu.de/signs/U
 @@
 @form U@c
+@list	LAK807^a
+@list	LAK821^a
+@list	LAK840^a
+@list	LAK857^a
+@list	LAK859^a
 @oid	o0223334
 @inote	dcclt *() punctuation qualifier
 @@
@@ -7292,6 +7315,7 @@
 @link	eBL P₂ https://www.ebl.lmu.de/signs/P₂
 @@
 @form 4(DIŠ)
+@list	LAK837^b
 @oid	o0000040
 @inote	dcclt *() punctuation qualifier
 @link	eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
@@ -7384,6 +7408,7 @@
 @end sign
 
 @sign DU
+@list	LAK484
 @list	ASY135
 @oid	o0000149
 @list	ABZL064
@@ -7392,7 +7417,6 @@
 @list	GCSL224
 @list	HZL128
 @list	KWU704
-@list	LAK484
 @list	MZL350
 @list	PTACE236
 @list	RSP369
@@ -7577,11 +7601,11 @@
 @end sign
 
 @sign DU@g
+@list	LAK486
 @list	ASY132
 @oid	o0000150
 @list	ABZL065
 @list	KWU708
-@list	LAK486
 @list	MZL351
 @list	PTACE238
 @list	RSP372
@@ -7605,12 +7629,12 @@
 @link	eBL DU@g https://www.ebl.lmu.de/signs/DU@g
 @link	Wikidata Q87555246 http://www.wikidata.org/entity/Q87555246
 @form DU
+@list	LAK484
 @list	ASY135
 @oid	o0000149
 @list	BAU374
 @list	ELLES252
 @list	GCSL224
-@list	LAK484
 @list	PTACE236
 @list	RSP369
 @v	suhuš⁻
@@ -7643,8 +7667,8 @@
 @end sign
 
 @sign |DU@g×KASKAL|
-@oid	o0027591
 @list	LAK487
+@oid	o0027591
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -7694,12 +7718,12 @@
 @link	eBL DU@s https://www.ebl.lmu.de/signs/DU@s
 @link	Wikidata Q87555248 http://www.wikidata.org/entity/Q87555248
 @form DU
+@list	LAK484
 @list	ASY135
 @oid	o0000149
 @list	BAU374
 @list	ELLES252
 @list	GCSL224
-@list	LAK484
 @list	PTACE236
 @list	RSP369
 @v	barim⁻
@@ -7713,9 +7737,9 @@
 @link	eBL DU https://www.ebl.lmu.de/signs/DU
 @@
 @form |DU×KASKAL|
+@list	LAK485
 @oid	o0027593
 @list	ELLES253
-@list	LAK485
 @list	PTACE237
 @@
 @end sign
@@ -7766,6 +7790,7 @@
 @end sign
 
 @sign DUB
+@list	LAK609
 @list	ASY101
 @oid	o0000153
 @list	ABZL112b
@@ -7774,7 +7799,6 @@
 @list	GCSL263
 @list	HZL099
 @list	KWU834
-@list	LAK609
 @list	MZL242
 @list	PTACE259
 @list	RSP278
@@ -7897,13 +7921,13 @@
 @end sign
 
 @sign DUB₂
+@list	LAK632
 @list	ASY201
 @oid	o0000154
 @list	ABZL082
 @list	ELLES309
 @list	GCSL266
 @list	KWU720
-@list	LAK632
 @list	MZL565
 @list	RSP215
 @list	SLLHA352
@@ -7939,6 +7963,8 @@
 @end sign
 
 @sign DUG
+@list	LAK560
+@list	LAK637
 @list	ASY164
 @oid	o0000155
 @list	ABZL080
@@ -7950,9 +7976,6 @@
 @list	GCSL278
 @list	HZL162
 @list	KWU746
-@list	LAK560
-@list	LAK637
-@list	LAK639
 @list	MZL499
 @list	PTACE250
 @list	RSP212
@@ -8034,8 +8057,8 @@
 @end sign
 
 @sign |DUG×ANŠE|
-@oid	o0001009
 @list	LAK583
+@oid	o0001009
 @uname	CUNEIFORM SIGN DUG TIMES ANSHE
 @list	U+1248D
 @ucun	𒒍
@@ -8045,8 +8068,8 @@
 @end sign
 
 @sign |DUG×AŠ|
-@oid	o0001011
 @list	LAK562
+@oid	o0001011
 @uname	CUNEIFORM SIGN DUG TIMES ASH
 @list	U+1248E
 @ucun	𒒎
@@ -8056,8 +8079,8 @@
 @end sign
 
 @sign |DUG×AŠ@f|
-@oid	o0001010
 @list	LAK561
+@oid	o0001010
 @uname	CUNEIFORM SIGN DUG TIMES ASH FRONT
 @list	U+1248F
 @ucun	𒒏
@@ -8067,8 +8090,8 @@
 @end sign
 
 @sign |DUG×DIN|
-@oid	o0001012
 @list	LAK585
+@oid	o0001012
 @uname	CUNEIFORM SIGN DUG TIMES DIN
 @list	U+12490
 @ucun	𒒐
@@ -8083,8 +8106,8 @@
 @end sign
 
 @sign |DUG×DUN|
-@oid	o0001013
 @list	LAK582
+@oid	o0001013
 @uname	CUNEIFORM SIGN DUG TIMES DUN
 @list	U+12491
 @ucun	𒒑
@@ -8094,8 +8117,8 @@
 @end sign
 
 @sign |DUG×ERIN₂|
-@oid	o0001014
 @list	LAK580
+@oid	o0001014
 @uname	CUNEIFORM SIGN DUG TIMES ERIN2
 @list	U+12492
 @ucun	𒒒
@@ -8105,8 +8128,8 @@
 @end sign
 
 @sign |DUG×GA|
-@oid	o0001015
 @list	LAK573
+@oid	o0001015
 @uname	CUNEIFORM SIGN DUG TIMES GA
 @list	U+12493
 @ucun	𒒓
@@ -8116,8 +8139,8 @@
 @end sign
 
 @sign |DUG×GI|
-@oid	o0001017
 @list	LAK571
+@oid	o0001017
 @uname	CUNEIFORM SIGN DUG TIMES GI
 @list	U+12494
 @ucun	𒒔
@@ -8127,8 +8150,8 @@
 @end sign
 
 @sign |DUG×GIR₂@g|
-@oid	o0001016
 @list	LAK569
+@oid	o0001016
 @uname	CUNEIFORM SIGN DUG TIMES GIR2 GUNU
 @list	U+12495
 @ucun	𒒕
@@ -8138,9 +8161,9 @@
 @end sign
 
 @sign |DUG×GIŠ|
-@oid	o0001018
 @list	LAK548
 @list	LAK578
+@oid	o0001018
 @uname	CUNEIFORM SIGN DUG TIMES GISH
 @list	U+12496
 @ucun	𒒖
@@ -8150,8 +8173,8 @@
 @end sign
 
 @sign |DUG×HA|
-@oid	o0001019
 @list	LAK581
+@oid	o0001019
 @uname	CUNEIFORM SIGN DUG TIMES HA
 @list	U+12497
 @ucun	𒒗
@@ -8161,9 +8184,9 @@
 @end sign
 
 @sign |DUG×HI|
+@list	LAK584
 @oid	o0001020
 @list	BAU343
-@list	LAK584
 @uname	CUNEIFORM SIGN DUG TIMES HI
 @list	U+12498
 @ucun	𒒘
@@ -8173,8 +8196,8 @@
 @end sign
 
 @sign |DUG×KASKAL|
-@oid	o0001022
 @list	LAK566
+@oid	o0001022
 @uname	CUNEIFORM SIGN DUG TIMES KASKAL
 @list	U+1249A
 @ucun	𒒚
@@ -8184,8 +8207,8 @@
 @end sign
 
 @sign |DUG×KUR|
-@oid	o0001023
 @list	LAK577
+@oid	o0001023
 @uname	CUNEIFORM SIGN DUG TIMES KUR
 @list	U+1249B
 @ucun	𒒛
@@ -8206,8 +8229,8 @@
 @end sign
 
 @sign |DUG×(KUŠU₂.KASKAL)|
-@oid	o0001006
 @list	LAK568
+@oid	o0001006
 @uname	CUNEIFORM SIGN DUG TIMES KUSHU2 PLUS KASKAL
 @list	U+1249D
 @ucun	𒒝
@@ -8217,8 +8240,8 @@
 @end sign
 
 @sign |DUG×LAK20|
-@oid	o0001025
 @list	LAK564
+@oid	o0001025
 @uname	CUNEIFORM SIGN DUG TIMES LAK20
 @list	U+1249E
 @ucun	𒒞
@@ -8228,8 +8251,8 @@
 @end sign
 
 @sign |DUG×LAM|
-@oid	o0001026
 @list	LAK576
+@oid	o0001026
 @uname	CUNEIFORM SIGN DUG TIMES LAM
 @list	U+1249F
 @ucun	𒒟
@@ -8239,8 +8262,8 @@
 @end sign
 
 @sign |DUG×(LAM×KUR)|
-@oid	o0001007
 @list	LAK575
+@oid	o0001007
 @uname	CUNEIFORM SIGN DUG TIMES LAM TIMES KUR
 @list	U+124A0
 @ucun	𒒠
@@ -8255,8 +8278,8 @@
 @end sign
 
 @sign |DUG×(LUH.GIŠ)|
-@oid	o0001008
 @list	LAK565
+@oid	o0001008
 @uname	CUNEIFORM SIGN DUG TIMES LUH PLUS GISH
 @list	U+124A1
 @ucun	𒒡
@@ -8266,8 +8289,8 @@
 @end sign
 
 @sign |DUG×MAŠ|
-@oid	o0001027
 @list	LAK570
+@oid	o0001027
 @uname	CUNEIFORM SIGN DUG TIMES MASH
 @list	U+124A2
 @ucun	𒒢
@@ -8277,8 +8300,8 @@
 @end sign
 
 @sign |DUG×MES|
-@oid	o0001028
 @list	LAK579
+@oid	o0001028
 @uname	CUNEIFORM SIGN DUG TIMES MES
 @list	U+124A3
 @ucun	𒒣
@@ -8288,8 +8311,8 @@
 @end sign
 
 @sign |DUG×MI|
-@oid	o0001029
 @list	LAK574
+@oid	o0001029
 @uname	CUNEIFORM SIGN DUG TIMES MI
 @list	U+124A4
 @ucun	𒒤
@@ -8299,9 +8322,9 @@
 @end sign
 
 @sign |DUG×NI|
+@list	LAK588
 @oid	o0001030
 @list	ELLES293
-@list	LAK588
 @uname	CUNEIFORM SIGN DUG TIMES NI
 @list	U+124A5
 @ucun	𒒥
@@ -8315,8 +8338,8 @@
 @end sign
 
 @sign |DUG×PI|
-@oid	o0001031
 @list	LAK567
+@oid	o0001031
 @uname	CUNEIFORM SIGN DUG TIMES PI
 @list	U+124A6
 @ucun	𒒦
@@ -8326,8 +8349,8 @@
 @end sign
 
 @sign |DUG×SI@g|
-@oid	o0001032
 @list	LAK572
+@oid	o0001032
 @uname	CUNEIFORM SIGN DUG TIMES SI GUNU
 @list	U+124A8
 @ucun	𒒨
@@ -8337,8 +8360,8 @@
 @end sign
 
 @sign |DUG×ŠE|
-@oid	o0001033
 @list	LAK563
+@oid	o0001033
 @uname	CUNEIFORM SIGN DUG TIMES SHE
 @list	U+124A7
 @ucun	𒒧
@@ -8353,12 +8376,12 @@
 @end sign
 
 @sign DUGUD
+@list	LAK392
 @oid	o0000156
 @list	ABZL349
 @list	GCSL201
 @list	HZL268
 @list	KWU507
-@list	LAK392
 @list	MZL704
 @list	PTACE153
 @list	SLLHA445
@@ -8410,6 +8433,7 @@
 @end sign
 
 @sign DUN
+@list	LAK040
 @list	ASY271
 @oid	o0000158
 @list	ABZL438
@@ -8418,7 +8442,6 @@
 @list	GCSL189
 @list	HZL046
 @list	KWU348
-@list	LAK040
 @list	MZL744
 @list	RSP457
 @list	SLLHA467
@@ -8479,6 +8502,7 @@
 @end sign
 
 @sign DUN₃
+@list	LAK666
 @list	ASY322
 @oid	o0000160
 @list	ABZL401a
@@ -8487,7 +8511,6 @@
 @list	GCSL400
 @list	HZL223
 @list	KWU858
-@list	LAK666
 @list	MZL836
 @list	RSP306
 @list	SLLHA595
@@ -8511,11 +8534,11 @@
 @link	eBL DUN₃ https://www.ebl.lmu.de/signs/DUN₃
 @link	Wikidata Q87555262 http://www.wikidata.org/entity/Q87555262
 @form DUN₃@g
+@list	LAK667
 @oid	o0000161
 @list	BAU339
 @list	ELLES325
 @list	GCSL314
-@list	LAK667
 @list	PTACE269
 @list	RSP305
 @v	du₅⁺
@@ -8527,15 +8550,16 @@
 @link	eBL DUN₃@g https://www.ebl.lmu.de/signs/DUN₃@g
 @@
 @form LAK786
+@list	LAK786
 @oid	o0025786
 @list	ELLES385
-@list	LAK786
 @inote	LAK sign form looks like LAGAB×LAL; LAK786 s.v. suggests equivalence to DUN₃ with a query.
 @inote	I haven't collated all ELLES325 but cp MEE 3 53 vi 6, clear on photo MEE 3/A pl. XXVIII, and certainly DUN₃
 @@
 @end sign
 
 @sign DUN₃@g
+@list	LAK667
 @oid	o0000161
 @list	ABZL401b
 @list	BAU339
@@ -8543,7 +8567,6 @@
 @list	GCSL314
 @list	HZL223
 @list	KWU859
-@list	LAK667
 @list	MZL836
 @list	PTACE269
 @list	RSP305
@@ -8576,6 +8599,7 @@
 @end sign
 
 @sign DUN₃@g@g
+@list	LAK154
 @list	ASY198
 @oid	o0000162
 @list	ABZL219b
@@ -8583,7 +8607,6 @@
 @list	GCSL072
 @list	HZL096
 @list	KWU311
-@list	LAK154
 @list	MZL556
 @list	RSP275
 @list	SLLHA347
@@ -8677,10 +8700,10 @@
 @end sign
 
 @sign DUR₂
+@list	LAK791^a
 @oid	o0000165
 @list	ABZL415
 @list	ELLES388
-@list	LAK791
 @list	RSP253
 @list	SYA254
 @uname	CUNEIFORM SIGN DUR2
@@ -8697,19 +8720,19 @@
 @link	eBL DUR₂ https://www.ebl.lmu.de/signs/DUR₂
 @link	Wikidata Q87555269 http://www.wikidata.org/entity/Q87555269
 @form |LAGAB×AŠ@c|
+@list	LAK772
 @oid	o0027185
 @list	BAU268
-@list	LAK772
 @v	dur₂?
 @inote	|LAGAB×AŠ| and |LAGAB×1(N01)| considered DUR₂ in ZATU127 and BAU268; is this rather a gigir[fish] word?
 @@
 @end sign
 
 @sign |LAGAB×AŠ@c|
+@list	LAK772
 @inote formerly |LAGAB×1(N01)|
 @oid	o0027185
 @list	BAU268
-@list	LAK772
 @end sign
 
 @sign |DUR₂.DUR₂|
@@ -8726,6 +8749,8 @@
 @end sign
 
 @sign E
+@list	LAK136
+@list	LAK177
 @list	ASY163
 @oid	o0000166
 @list	ABZL167
@@ -8734,8 +8759,6 @@
 @list	GCSL084
 @list	HZL187
 @list	KWU304
-@list	LAK136
-@list	LAK177?
 @list	MZL498
 @list	PTACE092
 @list	RSP297
@@ -8803,8 +8826,8 @@
 @end sign
 
 @sign |E×PAP|
-@oid	o0001123
 @list	LAK137
+@oid	o0001123
 @list	RSP298
 @list	SLLHA308n2
 @uname	CUNEIFORM SIGN E TIMES PAP
@@ -8831,6 +8854,7 @@
 @end sign
 
 @sign E₂
+@list	LAK732
 @list	ASY174
 @oid	o0000180
 @list	ABZL107
@@ -8839,7 +8863,6 @@
 @list	GCSL299
 @list	HZL199
 @list	KWU843
-@list	LAK732
 @list	MZL495
 @list	PTACE295
 @list	RSP250
@@ -9031,12 +9054,12 @@
 @compoundonly	|E₂×AN|
 
 @sign |E₂×AŠ@t|
+@list	LAK734
 @oid	o0021192
 @upua	U+F004F
 @list	ELLES360
 @list	KWU713
 @list	KWU844
-@list	LAK734
 @v	dagₓ
 @v	gukkalₓ
 @inote	are there multiple signs with very similar form involved here?
@@ -9070,8 +9093,8 @@
 @end sign
 
 @sign |E₂×KUR|
-@oid	o0001157
 @list	LAK738
+@oid	o0001157
 @uname	CUNEIFORM SIGN E2 TIMES KUR
 @list	U+124A9
 @ucun	𒒩
@@ -9099,8 +9122,8 @@
 @end sign
 
 @sign |E₂×PAP|
-@oid	o0001159
 @list	LAK736
+@oid	o0001159
 @list	PTACE296
 @uname	CUNEIFORM SIGN E2 TIMES PAP
 @list	U+124AA
@@ -9111,9 +9134,9 @@
 @end sign
 
 @sign |E₂×SAL|
+@list	LAK739
 @oid	o0001160
 @list	KWU846
-@list	LAK739
 @uname	CUNEIFORM SIGN E2 TIMES SAL
 @list	U+12091
 @ucun	𒂑
@@ -9151,8 +9174,8 @@
 @end sign
 
 @sign |E₂×U|
-@oid	o0001161
 @list	LAK737
+@oid	o0001161
 @uname	CUNEIFORM SIGN E2 TIMES U
 @list	U+12093
 @ucun	𒂓
@@ -9178,13 +9201,13 @@
 @end sign
 
 @sign EDIN
+@list	LAK747
 @list	ASY118
 @oid	o0000167
 @list	ABZL115
 @list	ELLES365
 @list	GCSL306
 @list	KWU753
-@list	LAK747
 @list	MZL300
 @list	PTACE293
 @list	RSP435
@@ -9255,12 +9278,12 @@
 @end sign
 
 @sign EGIR
+@list	LAK499
 @oid	o0000168
 @list	ABZL076
 @list	GCSL230
 @list	HZL126
 @list	KWU731
-@list	LAK499
 @list	MZL356
 @list	RSP403
 @list	SLLHA209
@@ -9310,6 +9333,7 @@
 @end sign
 
 @sign EL
+@list	LAK518
 @list	ASY306
 @oid	o0000170
 @list	ABZL455
@@ -9318,7 +9342,6 @@
 @list	GCSL240
 @list	HZL307
 @list	KWU792
-@list	LAK518
 @list	MZL899
 @list	PTACE229
 @list	RSP155
@@ -9370,7 +9393,6 @@
 @sign ELLES396
 @oid	o0000172
 @list	ELLES396
-@inote @list	LAK304a
 @list	PTACE162
 @uname	CUNEIFORM SIGN ZAMX
 @list	U+12361
@@ -9382,6 +9404,7 @@
 @end sign
 
 @sign EN
+@list	LAK532
 @list	ASY071
 @oid	o0000173
 @list	ABZL062
@@ -9389,7 +9412,6 @@
 @list	GCSL248
 @list	HZL040
 @list	KWU075
-@list	LAK532
 @list	MZL164
 @list	RSP271
 @list	SLLHA099
@@ -9414,9 +9436,9 @@
 @link	eBL EN https://www.ebl.lmu.de/signs/EN
 @link	Wikidata Q87555295 http://www.wikidata.org/entity/Q87555295
 @form LAK530
+@list	LAK530
 @oid	o0000395
 @list	ELLES283
-@list	LAK530
 @list	PTACE256
 @inote	see http://cdli.ucla.edu/P250427 ii 2 with lit
 @@
@@ -9603,9 +9625,9 @@
 @v	šešlam₂
 @link	eBL |EN.ME.LI| https://www.ebl.lmu.de/signs/|EN.ME.LI|
 @form |EN×ME.LI|
+@list	LAK534
 @oid	o0001082
 @list	GCSL249
-@list	LAK534
 @useq	x1209A.x121F7
 @ucun	𒂚𒇷
 @@
@@ -9785,8 +9807,8 @@
 @end sign
 
 @sign |EN×A|
-@oid	o0027595
 @list	LAK533
+@oid	o0027595
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -9806,9 +9828,9 @@
 @end sign
 
 @sign |EN×GAN₂@t|
+@list	LAK531
 @oid	o0001078
 @list	KWU078
-@list	LAK531
 @list	SLLHA054v
 @uname	CUNEIFORM SIGN EN TIMES GAN2 TENU
 @list	ABZL063^b
@@ -9927,6 +9949,8 @@
 @end sign
 
 @sign EREN
+@list	LAK665
+@list	LAK671
 @oid	o0000174
 @list	ABZL398
 @list	BAU373
@@ -9934,8 +9958,6 @@
 @list	GCSL300
 @list	HZL062
 @list	KWU895
-@list	LAK665
-@list	LAK671
 @list	MZL818
 @list	PTACE274
 @list	RSP304
@@ -9981,6 +10003,8 @@
 @end sign
 
 @sign ERIN₂
+@list	LAK280
+@list	LAK527
 @list	ASY226
 @oid	o0000175
 @list	ABZL247
@@ -9991,8 +10015,6 @@
 @list	GCSL125
 @list	HZL327
 @list	KWU347
-@list	LAK280
-@list	LAK527
 @list	MZL612
 @list	PTACE142
 @list	RSP378
@@ -10095,13 +10117,13 @@
 @end sign
 
 @sign EŠ₂
+@list	LAK794
 @list	ASY291
 @oid	o0000178
 @list	ABZL420
 @list	BAU386a
 @list	ELLES392
 @list	GCSL323
-@list	LAK794
 @list	PTACE325
 @list	RSP256
 @list	SYA256
@@ -10224,12 +10246,12 @@
 @v	saman₃
 @@
 @form EŠ₂
+@list	LAK794
 @list	ASY291
 @oid	o0000178
 @list	BAU386a
 @list	ELLES392
 @list	GCSL323
-@list	LAK794
 @list	PTACE325
 @list	RSP256
 @uname	CUNEIFORM SIGN ESH2
@@ -10414,9 +10436,9 @@
 @inote	added during ogsl upgrade
 
 @sign |EŠ₂%EŠ₂|
+@list	LAK278^a
 @aka	KIB@g
 @oid	o0001124
-@list	LAK278a
 @list	PTACE209
 @lit	Woods FS Biggs, 328
 @uname	CUNEIFORM SIGN ESH2 CROSSING ESH2
@@ -10448,7 +10470,6 @@
 
 @sign |EŠ₂@g@t%EŠ₂@g@t|
 @oid	o0001136
-@list	LAK278b
 @inote	@uname-no-utf8	CUNEIFORM SIGN ESH2 GUNU TENU CROSSING ESH2 GUNU TENU
 @lit	Woods FS Biggs, 328
 @v	hulₓ
@@ -10461,7 +10482,6 @@
 @oid	o0000179
 @list	BAU386b
 @list	ELLES110
-@list	LAK186
 @list	RSP256^a
 @note	This is a variant of GAN₂@t listed in Ea 1, 186-188. The sign is to be distinguished from ZI₃, which is EŠ₂@t in ED writing.
 @inote	this should probably be moved to be an @form of GAN₂@t
@@ -10486,6 +10506,7 @@
 @end sign
 
 @sign EZEN
+@list	LAK611
 @list	ASY113
 @oid	o0000177
 @list	ABZL152a
@@ -10493,7 +10514,6 @@
 @list	ELLES303
 @list	GCSL261
 @list	KWU835
-@list	LAK611
 @list	MZL272
 @list	PTACE262
 @list	RSP284
@@ -10530,11 +10550,11 @@
 @link	eBL EZEN https://www.ebl.lmu.de/signs/EZEN
 @link	Wikidata Q87555314 http://www.wikidata.org/entity/Q87555314
 @form KEŠ₂
+@list	LAK612
 @oid	o0000278
 @list	BAU307
 @list	ELLES300
 @list	GCSL264
-@list	LAK612
 @list	PTACE265
 @list	RSP285
 @v	sir₃
@@ -10667,9 +10687,9 @@
 @ucun	𒂡𒀭
 @@
 @form |EZEN×AN|
+@list	LAK613
 @oid	o0001101
 @list	ELLES304
-@list	LAK613
 @list	PTACE264
 @uname	CUNEIFORM SIGN EZEN TIMES AN
 @list	U+120A5
@@ -10749,10 +10769,10 @@
 @link	eBL |EZEN×DUN₃@g@g| https://www.ebl.lmu.de/signs/|EZEN×DUN₃@g@g|
 @link	Wikidata Q87555329 http://www.wikidata.org/entity/Q87555329
 @form |LAK617×DUN₃@g@g|
+@list	LAK622
 @oid	o0027210
 @aka	|LAK617×MIR|
 @list	BAU303
-@list	LAK622
 @inote	analogue to EZEN×DUN₃@g@g
 @uname	CUNEIFORM SIGN LAK617 TIMES MIR
 @list	U+12504
@@ -10786,10 +10806,10 @@
 @end sign
 
 @sign |EZEN×HAL|
+@list	LAK614
 @oid	o0187962
 @upua	U+F0056
 @ucun	󰁖
-@list	LAK614
 @v	ubₓ
 @inote	etcsri
 @v	ugₓ
@@ -10813,12 +10833,12 @@
 @end sign
 
 @sign |EZEN×KASKAL|
+@list	LAK616
 @oid	o0001111
 @list	ABZL157
 @list	BAU299
 @list	ELLES306
 @list	KWU840
-@list	LAK616
 @list	MZL277
 @list	SLLHA152_4
 @uname	CUNEIFORM SIGN EZEN TIMES KASKAL
@@ -10866,10 +10886,10 @@
 @end sign
 
 @sign |EZEN×LA|
+@list	LAK615
 @oid	o0001114
 @list	ABZL154
 @list	KWU839
-@list	LAK615
 @list	MZL274
 @list	RSP288
 @list	SLLHA152_9
@@ -10884,12 +10904,12 @@
 @link	eBL |EZEN×LA| https://www.ebl.lmu.de/signs/|EZEN×LA|
 @link	Wikidata Q87555342 http://www.wikidata.org/entity/Q87555342
 @form EZEN
+@list	LAK611
 @list	ASY113
 @oid	o0000177
 @list	BAU298
 @list	ELLES303
 @list	GCSL261
-@list	LAK611
 @list	PTACE262
 @list	RSP284
 @link	eBL EZEN https://www.ebl.lmu.de/signs/EZEN
@@ -10906,9 +10926,9 @@
 @link	Wikidata Q87556754 http://www.wikidata.org/entity/Q87556754
 @@
 @form |LAK617×LA|
+@list	LAK621
 @oid	o0001868
 @list	BAU305
-@list	LAK621
 @list	RSP288^a
 @uname	CUNEIFORM SIGN LAK617 TIMES LA
 @list	U+12506
@@ -10935,12 +10955,12 @@
 @link	eBL |EZEN×LAL₂| https://www.ebl.lmu.de/signs/|EZEN×LAL₂|
 @link	Wikidata Q87555344 http://www.wikidata.org/entity/Q87555344
 @form EZEN
+@list	LAK611
 @list	ASY113
 @oid	o0000177
 @list	BAU298
 @list	ELLES303
 @list	GCSL261
-@list	LAK611
 @list	PTACE262
 @list	RSP284
 @v	asila⁻
@@ -11163,9 +11183,9 @@
 @end sign
 
 @sign F₁
+@list	LAK817
 @aka ŠUŠANA@c
 @oid	o0000181
-@list	LAK817
 @list	RSP009
 @uname	CUNEIFORM NUMERIC SIGN ONE THIRD VARIANT FORM A
 @list	U+1245D
@@ -11181,9 +11201,9 @@
 @end sign
 
 @sign F₂
+@list	LAK818
 @aka ŠANABI@c
 @oid	o0000182
-@list	LAK818
 @list	RSP010
 @uname	CUNEIFORM NUMERIC SIGN TWO THIRDS VARIANT FORM A
 @list	U+1245E
@@ -11196,6 +11216,7 @@
 @link	Wikidata Q87557048 http://www.wikidata.org/entity/Q87557048
 @inote	ŠU₂.2(N08) = ŠU₂.2(AŠ@c@90) = ŠU₂.2(DIŠ@c)
 @form NIGIDAMIN@c
+@list	LAK835^a
 @oid	o0223340
 @inote	ED3a abbreviated form of F₂
 @@
@@ -11209,8 +11230,8 @@
 @end sign
 
 @sign F₃
+@list	LAK852^b
 @oid	o0000183
-@list	LAK852b
 @list	RSP020
 @list	SLLHA545a
 @inote	@v- 1/8
@@ -11222,11 +11243,11 @@
 @link	eBL F₃ https://www.ebl.lmu.de/signs/F₃
 @link	Wikidata Q87557050 http://www.wikidata.org/entity/Q87557050
 @form F₃@c
+@list	LAK852^a
 @oid	o0223358
 @list	RSP033
 @v	1/8(iku@c)
 @sys acn 1/8(IKU@c)
-@list LAK852a
 @list U+12587
 @uname CUNEIFORM NUMERIC SIGN ONE EIGHTH IKU CURVED
 @uage ACN
@@ -11245,11 +11266,11 @@
 @end sign
 
 @sign F₄
+@list	LAK853^b
 @oid	o0000184
 @list	RSP004
 @inote	@v- 1/4
 @uname	CUNEIFORM NUMERIC SIGN ONE QUARTER ASH
-@list	LAK853b
 @list	U+12460
 @ucun	𒑠
 @uage	5.0
@@ -11257,11 +11278,11 @@
 @link	eBL F₄ https://www.ebl.lmu.de/signs/F₄
 @link	Wikidata Q87557052 http://www.wikidata.org/entity/Q87557052
 @form F₄@c
+@list	LAK853^a
 @oid	o0223359
 @list	RSP026
 @v	1/4(iku@c)
 @sys acn 1/4(IKU@c)
-@list	LAK853a
 @list U+12589
 @uname CUNEIFORM NUMERIC SIGN ONE QUARTER IKU CURVED
 @uage ACN
@@ -11340,6 +11361,7 @@
 @end sign
 
 @sign GA
+@list	LAK726
 @list	ASY170
 @oid	o0000187
 @list	ABZL201
@@ -11348,7 +11370,6 @@
 @list	GCSL296a
 @list	HZL159
 @list	KWU760
-@list	LAK726
 @list	MZL491
 @list	PTACE289
 @list	RSP220
@@ -11416,8 +11437,8 @@
 @end sign
 
 @sign |GA.KASKAL|
-@oid	o0001171
 @list	LAK728
+@oid	o0001171
 @list	PTACE290
 @useq	x120B5.x1219C
 @ucun	𒂵𒆜
@@ -11467,13 +11488,13 @@
 @end sign
 
 @sign GA@g
+@list	LAK727
 @oid	o0000188
 @list	ABZL202
 @list	BAU369
 @list	ELLES355
 @list	GCSL296
 @list	KWU762
-@list	LAK727
 @list	MZL492
 @list	PTACE291
 @list	RSP221
@@ -11496,6 +11517,7 @@
 @end sign
 
 @sign GA₂
+@list	LAK674
 @list	ASY148
 @oid	o0000206
 @list	ABZL093
@@ -11505,7 +11527,6 @@
 @list	GCSL287
 @list	HZL056
 @list	KWU807
-@list	LAK674
 @list	MZL387
 @list	PTACE280
 @list	RSP240
@@ -11590,9 +11611,9 @@
 @link	Wikidata Q87555359 http://www.wikidata.org/entity/Q87555359
 @@
 @form |GA₂×HA|
+@list	LAK694
 @oid	o0018533
 @list	ELLES336
-@list	LAK694
 @list	ZATU173
 @list	ZATU180
 @@
@@ -11614,21 +11635,21 @@
 @ucun	X𒀀
 @@
 @form |GA₂×(HA.HA)|
+@list	LAK695
 @oid	o0027183
 @list	ELLES347
-@list	LAK695
 @list	ZATU174
 @inote	ELLES347 and ZATU174 need confirming as |GA₂×(HA.HA)|; LAK695 copy is def ×(HA.HA) and refs 8570,1
 @@
 @form |LAGAB×HA|
+@list	LAK784^a
 @oid	o0001815
-@list	LAK784a
 @inote	In almost all collatable instances "LAGAB" has a secondary vertical like GA₂. In P251751 two LAGAB×HA have no visible secondary vertical
 @link	eBL |LAGAB×HA| https://www.ebl.lmu.de/signs/|LAGAB×HA|
 @@
 @form |LAGAB×(HA.A)|
-@oid	o0018538
 @list	LAK784
+@oid	o0018538
 @inote	See, e.g., P427626 o 5; LAK784 sign form is LAGAB×(HA.ZA)
 @@
 @form |LAGAB×HA.A|
@@ -11683,13 +11704,13 @@
 @end sign
 
 @sign |GA₂×AN|
+@list	LAK675
 @oid	o0001286
 @list	ABZL094
 @list	ELLES333
 @list	GCSL288
 @list	HZL057
 @list	KWU810
-@list	LAK675
 @list	MZL392
 @list	PTACE281
 @list	RSP244
@@ -11893,8 +11914,8 @@
 @end sign
 
 @sign |GA₂×BAHAR₂|
-@oid	o0001289
 @list	LAK706
+@oid	o0001289
 @uname	CUNEIFORM SIGN GA2 TIMES BAHAR2
 @list	U+124B6
 @ucun	𒒶
@@ -11923,8 +11944,8 @@
 @end sign
 
 @sign |GA₂×BUR|
-@oid	o0001291
 @list	LAK699
+@oid	o0001291
 @uname	CUNEIFORM SIGN GA2 TIMES BUR
 @list	U+120C1
 @ucun	𒃁
@@ -11978,9 +11999,9 @@
 @end sign
 
 @sign |GA₂×DI|
+@list	LAK686
 @oid	o0001295
 @list	ELLES341
-@list	LAK686
 @list	MZL425
 @list	SLLHA268
 @uname	CUNEIFORM SIGN GA2 TIMES DI
@@ -12012,9 +12033,9 @@
 @end sign
 
 @sign |GA₂×DIM@g|
+@list	LAK685
 @oid	o0001293
 @list	ELLES334
-@list	LAK685
 @uname	CUNEIFORM SIGN GA2 TIMES DIM GUNU
 @list	U+124B7
 @ucun	𒒷
@@ -12039,8 +12060,8 @@
 @end sign
 
 @sign |GA₂×(DUG×IGI@g)|
-@oid	o0001254
 @list	LAK702
+@oid	o0001254
 @uname	CUNEIFORM SIGN GA2 TIMES DUG TIMES IGI GUNU
 @list	U+124B8
 @ucun	𒒸
@@ -12050,8 +12071,8 @@
 @end sign
 
 @sign |GA₂×(DUG×KASKAL)|
-@oid	o0001255
 @list	LAK703
+@oid	o0001255
 @uname	CUNEIFORM SIGN GA2 TIMES DUG TIMES KASKAL
 @list	U+124B9
 @ucun	𒒹
@@ -12089,10 +12110,10 @@
 @end sign
 
 @sign |GA₂×EN|
+@list	LAK682
 @oid	o0001299
 @list	BAU325
 @list	ELLES340
-@list	LAK682
 @list	MZL399
 @list	RSP246
 @list	SLLHA247
@@ -12140,8 +12161,8 @@
 @end sign
 
 @sign |GA₂×GA|
-@oid	o0001304
 @list	LAK684
+@oid	o0001304
 @uname	CUNEIFORM SIGN GA2 TIMES GA
 @list	U+124BB
 @ucun	𒒻
@@ -12172,11 +12193,11 @@
 @end sign
 
 @sign |GA₂×GAR|
+@list	LAK691
 @oid	o0001303
 @list	ABZL105
 @list	ELLES342
 @list	HZL060
-@list	LAK691
 @list	MZL431
 @list	SLLHA278
 @uname	CUNEIFORM SIGN GA2 TIMES GAR
@@ -12195,8 +12216,8 @@
 @end sign
 
 @sign |GA₂×(GAR.DI)|
-@oid	o0001258
 @list	LAK687
+@oid	o0001258
 @uname	CUNEIFORM SIGN GA2 TIMES GAR PLUS DI
 @list	U+124BC
 @ucun	𒒼
@@ -12218,8 +12239,8 @@
 @end sign
 
 @sign |GA₂×(GAR.NE)|
-@oid	o0001259
 @list	LAK690
+@oid	o0001259
 @uname	CUNEIFORM SIGN GA2 TIMES GAR PLUS NE
 @list	U+124BD
 @ucun	𒒽
@@ -12229,10 +12250,10 @@
 @end sign
 
 @sign |GA₂×GI|
+@list	LAK680
 @oid	o0001305
 @list	ELLES339
 @list	KWU811
-@list	LAK680
 @list	MZL396
 @list	PTACE282
 @list	RSP245
@@ -12255,9 +12276,9 @@
 @end sign
 
 @sign |GA₂×GI₄|
+@list	LAK681
 @oid	o0001306
 @list	KWU812
-@list	LAK681
 @list	MZL412
 @list	SLLHA256
 @uname	CUNEIFORM SIGN GA2 TIMES GI4
@@ -12519,8 +12540,8 @@
 @end sign
 
 @sign |GA₂×(KUŠU₂.KASKAL)|
-@oid	o0001268
 @list	LAK700
+@oid	o0001268
 @uname	CUNEIFORM SIGN GA2 TIMES KUSHU2 PLUS KASKAL
 @list	U+124BF
 @ucun	𒒿
@@ -12541,8 +12562,8 @@
 @end sign
 
 @sign |GA₂×LAM|
-@oid	o0001313
 @list	LAK705
+@oid	o0001313
 @uname	CUNEIFORM SIGN GA2 TIMES LAM
 @list	U+124C0
 @ucun	𒓀
@@ -12552,8 +12573,8 @@
 @end sign
 
 @sign |GA₂×(LAM×KUR)|
-@oid	o0001270
 @list	LAK704
+@oid	o0001270
 @uname	CUNEIFORM SIGN GA2 TIMES LAM TIMES KUR
 @list	U+124C1
 @ucun	𒓁
@@ -12563,14 +12584,14 @@
 @end sign
 
 @sign |GA₂×LI|
-@oid	o0022953
 @list	LAK693
+@oid	o0022953
 @inote	dcclt !sg possibly gusub
 @end sign
 
 @sign |GA₂×LUH|
-@oid	o0001315
 @list	LAK707
+@oid	o0001315
 @uname	CUNEIFORM SIGN GA2 TIMES LUH
 @list	U+124C2
 @ucun	𒓂
@@ -12585,11 +12606,11 @@
 @end sign
 
 @sign |GA₂×(ME.EN)|
+@list	LAK683
 @oid	o0001271
 @pname	|GA₂×ME+EN|
 @list	ABZL102
 @list	GCSL292
-@list	LAK683
 @list	MZL427
 @list	SLLHA270
 @uname	CUNEIFORM SIGN GA2 TIMES ME PLUS EN
@@ -12636,8 +12657,8 @@
 @end sign
 
 @sign |GA₂×MUŠ|
-@oid	o0001317
 @list	LAK696
+@oid	o0001317
 @uname	CUNEIFORM SIGN GA2 TIMES MUSH
 @list	U+124C3
 @ucun	𒓃
@@ -12647,8 +12668,8 @@
 @end sign
 
 @sign |GA₂×NE|
-@oid	o0001318
 @list	LAK688
+@oid	o0001318
 @uname	CUNEIFORM SIGN GA2 TIMES NE
 @list	U+124C4
 @ucun	𒓄
@@ -12658,9 +12679,9 @@
 @end sign
 
 @sign |GA₂×(NE.E₂)|
+@list	LAK692
 @oid	o0001272
 @list	ELLES374
-@list	LAK692
 @list	ZATU251
 @uname	CUNEIFORM SIGN GA2 TIMES NE PLUS E2
 @list	U+124C5
@@ -12676,8 +12697,8 @@
 @end sign
 
 @sign |GA₂×(NE.GI)|
-@oid	o0001273
 @list	LAK689
+@oid	o0001273
 @uname	CUNEIFORM SIGN GA2 TIMES NE PLUS GI
 @list	U+124C6
 @ucun	𒓆
@@ -12693,11 +12714,11 @@
 @end sign
 
 @sign |GA₂×NUN|
+@list	LAK678
 @oid	o0001320
 @list	ABZL096
 @list	BAU318
 @list	KWU813
-@list	LAK678
 @list	MZL397
 @list	RSP241
 @list	SLLHA244v
@@ -12718,6 +12739,7 @@
 @end sign
 
 @sign |GA₂×(NUN&NUN)|
+@list	LAK679
 @list	ASY150
 @oid	o0001319
 @aka	|GA₂×NUN&NUN|
@@ -12725,7 +12747,6 @@
 @list	ELLES338
 @list	GCSL291
 @list	HZL058
-@list	LAK679
 @list	MZL411
 @list	PTACE284
 @list	RSP242
@@ -12744,6 +12765,7 @@
 @end sign
 
 @sign |GA₂×PA|
+@list	LAK676
 @oid	o0001321
 @list	ABZL097
 @list	BAU278
@@ -12751,7 +12773,6 @@
 @list	GCSL290
 @list	HZL054
 @list	KWU816
-@list	LAK676
 @list	MZL408
 @list	PTACE283
 @list	RSP243
@@ -12779,11 +12800,11 @@
 @end sign
 
 @sign |GA₂×SAL|
+@list	LAK698
 @oid	o0001322
 @list	ABZL104
 @list	ELLES344
 @list	KWU817
-@list	LAK698
 @list	MZL432
 @list	SLLHA271
 @uname	CUNEIFORM SIGN GA2 TIMES SAL
@@ -12916,8 +12937,8 @@
 @end sign
 
 @sign |GA₂×ŠIM|
-@oid	o0001332
 @list	LAK701
+@oid	o0001332
 @uname	CUNEIFORM SIGN GA2 TIMES SHIM
 @list	U+124C7
 @ucun	𒓇
@@ -12984,9 +13005,9 @@
 @end sign
 
 @sign |GA₂×UD|
+@list	LAK697
 @oid	o0001326
 @list	ELLES343
-@list	LAK697
 @list	MZL420
 @list	SLLHA262
 @uname	CUNEIFORM SIGN GA2 TIMES UD
@@ -13027,8 +13048,8 @@
 @end sign
 
 @sign |GA₂×ZIZ₂|
-@oid	o0001329
 @list	LAK677
+@oid	o0001329
 @list	MZL408
 @uname	CUNEIFORM SIGN GA2 TIMES ZIZ2
 @list	U+124C8
@@ -13039,6 +13060,7 @@
 @link	eBL |GA₂×ZIZ₂| https://www.ebl.lmu.de/signs/|GA₂×ZIZ₂|
 @link	Wikidata Q87557228 http://www.wikidata.org/entity/Q87557228
 @form |GA₂×PA|
+@list	LAK676
 @oid	o0001321
 @list	ABZL097
 @list	BAU278
@@ -13046,7 +13068,6 @@
 @list	GCSL290
 @list	HZL054
 @list	KWU816
-@list	LAK676
 @list	MZL408
 @list	PTACE283
 @list	RSP243
@@ -13077,11 +13098,11 @@
 @end sign
 
 @sign GABA
+@list	LAK119
 @list	ASY117
 @oid	o0000190
 @list	ABZL141
 @list	ELLES064
-@list	LAK119
 @list	PTACE117
 @list	RSP104 .0
 @list	SYA102
@@ -13148,6 +13169,8 @@
 @end sign
 
 @sign GAD
+@list	LAK046
+@list	LAK285
 @list	ASY067
 @oid	o0000193
 @list	ABZL299
@@ -13156,8 +13179,6 @@
 @list	ELLES167
 @list	HZL173
 @list	KWU402
-@list	LAK046
-@list	LAK285
 @list	MZL157
 @list	PTACE115
 @list	RSP060
@@ -13243,9 +13264,9 @@
 @end sign
 
 @sign |GAD.TAK₄.SI|
+@list	LAK288
 @oid	o0001190
 @list	ABZL300
-@list	LAK288
 @list	MZL159
 @list	RSP061
 @list	SLLHA092a
@@ -13304,6 +13325,7 @@
 @end sign
 
 @sign GAL
+@list	LAK164
 @list	ASY194
 @oid	o0000194
 @list	ABZL213
@@ -13312,7 +13334,6 @@
 @list	GCSL076
 @list	HZL242
 @list	KWU298
-@list	LAK164
 @list	MZL553
 @list	PTACE106
 @list	RSP129
@@ -13579,6 +13600,7 @@
 @end sign
 
 @sign GAM
+@list	LAK180
 @list	ASY210
 @oid	o0000196
 @list	ABZL359
@@ -13586,7 +13608,6 @@
 @list	GCSL091
 @list	HZL247
 @list	KWU338
-@list	LAK180
 @list	MZL576
 @list	PTACE310
 @list	RSP050
@@ -13622,6 +13643,7 @@
 @end sign
 
 @sign GAN
+@list	LAK644
 @list	ASY105
 @oid	o0000197
 @list	ABZL120
@@ -13629,7 +13651,6 @@
 @list	GCSL273
 @list	HZL113
 @list	KWU747
-@list	LAK644
 @list	MZL253
 @list	PTACE058
 @list	RSP428
@@ -13676,8 +13697,8 @@
 @end sign
 
 @sign GAN@s
-@oid	o0000198
 @list	LAK645
+@oid	o0000198
 @v	ganₓ
 @link	eBL GAN@s https://www.ebl.lmu.de/signs/GAN@s
 @form |GAN×KASKAL|
@@ -13686,6 +13707,7 @@
 @end sign
 
 @sign GAN₂
+@list	LAK089
 @oid	o0000199
 @list	ASY077
 @list	ABZL106
@@ -13695,7 +13717,6 @@
 @list	GCSL026
 @list	HZL061
 @list	KWU100
-@list	LAK089
 @list	MZL174
 @list	PTACE056
 @list	RSP247
@@ -13741,6 +13762,7 @@
 @v	iku@c@v
 @@
 @form GAN₂@t
+@list	LAK186
 @list	ASY078
 @oid	o0000201
 @list	GCSL095
@@ -13801,13 +13823,13 @@
 @end sign
 
 @sign GAN₂@t
+@list	LAK186
 @list	ASY078
 @oid	o0000201
 @list	ABZL246
 @list	ELLES110
 @list	GCSL095
 @list	KWU349
-@list	LAK186
 @list	MZL175
 @list	PTACE326
 @list	SLLHA105
@@ -13827,6 +13849,7 @@
 @link	eBL GAN₂@t https://www.ebl.lmu.de/signs/GAN₂@t
 @link	Wikidata Q87555480 http://www.wikidata.org/entity/Q87555480
 @form GAN₂
+@list	LAK089
 @oid	o0000199
 @v 	kar₂
 @@
@@ -13846,6 +13869,7 @@
 @end sign
 
 @sign GAR
+@list	LAK525
 @list	ASY323
 @oid	o0000202
 @list	ABZL473
@@ -13854,7 +13878,6 @@
 @list	GCSL246
 @list	HZL369
 @list	KWU920
-@list	LAK525
 @list	MZL859
 @list	PTACE234
 @list	RSP152
@@ -14143,6 +14166,8 @@
 @end sign
 
 @sign GAR₃
+@list	LAK160
+@list	LAK161
 @list	ASY186
 @oid	o0000204
 @list	ABZL209
@@ -14152,8 +14177,6 @@
 @list	GCSL073
 @list	HZL240
 @list	KWU261
-@list	LAK160
-@list	LAK161
 @list	MZL543
 @list	PTACE101
 @list	RSP346
@@ -14221,6 +14244,7 @@
 @end sign
 
 @sign GEŠMIN@c
+@list	LAK822^c
 @aka 1(N51)
 @oid	o0027278
 @aka	|AŠ&AŠ@180|
@@ -14242,6 +14266,7 @@
 @end sign
 
 @sign GEŠMINU@c
+@list	LAK823^c
 @aka 1(N54)
 @oid	o0027282
 @aka	|(AŠ&AŠ@180)×U|
@@ -14259,6 +14284,7 @@
 @end sign
 
 @sign GEŠTIN
+@list	LAK629
 @list	ASY137a
 @oid	o0000208
 @list	ABZL077
@@ -14267,7 +14293,6 @@
 @list	GCSL265
 @list	HZL131
 @list	KWU719
-@list	LAK629
 @list	MZL212
 @list	PTACE246
 @list	RSP214
@@ -14288,8 +14313,8 @@
 @end sign
 
 @sign |GEŠTIN×KUR|
-@oid	o0001333
 @list	LAK630
+@oid	o0001333
 @list	MZL213
 @list	PTACE247
 @list	RSP213
@@ -14306,8 +14331,8 @@
 @end sign
 
 @sign |GEŠTIN×U|
-@oid	o0001334
 @list	LAK631
+@oid	o0001334
 @uname	CUNEIFORM SIGN GESHTIN TIMES U
 @list	U+124CA
 @ucun	𒓊
@@ -14317,10 +14342,10 @@
 @end sign
 
 @sign |GEŠU@c×KASKAL|
-@aka	GEŠU@v
-@oid	o0025674
 @list	LAK824
 @list	LAK845
+@aka	GEŠU@v
+@oid	o0025674
 @inote	P250936 = CUSAS 35, 457 suggests this sign is 600(=gešʾu) x
 	10(=×KASKAL), i.e., 6000
 @inote	CDLI OAkk uses 1(gešʾu@v) etc as values for this sign.  In addition to the
@@ -14339,6 +14364,7 @@
 @end sign
 
 @sign GI
+@list	LAK464
 @list	ASY060
 @oid	o0000210
 @list	ABZL040
@@ -14347,7 +14373,6 @@
 @list	GCSL219
 @list	HZL030
 @list	KWU123
-@list	LAK464
 @list	MZL141
 @list	PTACE042
 @list	RSP451
@@ -14512,13 +14537,13 @@
 @end sign
 
 @sign |GI%GI|
+@list	LAK465
 @list	ASY039
 @oid	o0001335
 @list	ABZL250
 @list	ELLES244
 @list	HZL258
 @list	KWU124
-@list	LAK465
 @list	MZL105
 @list	PTACE126
 @list	RSP452
@@ -14555,6 +14580,7 @@
 @end sign
 
 @sign GI₄
+@list	LAK466
 @list	ASY176
 @oid	o0000219
 @list	ABZL214
@@ -14563,7 +14589,6 @@
 @list	GCSL065
 @list	HZL234
 @list	KWU299
-@list	LAK466
 @list	MZL507
 @list	PTACE098
 @list	RSP453
@@ -14594,9 +14619,9 @@
 @end sign
 
 @sign |GI₄&GI₄|
+@list	LAK467
 @oid	o0001409
 @list	KWU300
-@list	LAK467
 @list	RSP454
 @list	SLLHA326v
 @uname	CUNEIFORM SIGN GI4 OVER GI4
@@ -14655,6 +14680,7 @@
 @end sign
 
 @sign GIG
+@list	LAK394
 @list	ASY260
 @oid	o0000212
 @list	ABZL350
@@ -14662,7 +14688,6 @@
 @list	GCSL202
 @list	HZL269
 @list	KWU508
-@list	LAK394
 @list	MZL705
 @list	PTACE154
 @list	RSP121
@@ -14691,6 +14716,7 @@
 @end sign
 
 @sign GIR₂
+@list	LAK006
 @list	ASY009
 @oid	o0000213
 @list	ABZL008
@@ -14699,7 +14725,6 @@
 @list	GCSL002
 @list	HZL006
 @list	KWU020
-@list	LAK006
 @list	MZL006
 @list	PTACE005
 @list	RSP339
@@ -14728,6 +14753,7 @@
 @link	eBL GIR₂ https://www.ebl.lmu.de/signs/GIR₂
 @link	Wikidata Q87555512 http://www.wikidata.org/entity/Q87555512
 @form GIR₂@g
+@list	LAK007
 @oid	o0000214
 @inote	Support CCPo GIR₂(UL₄)
 @@
@@ -14738,6 +14764,7 @@
 @end sign
 
 @sign GIR₂@g
+@list	LAK007
 @oid	o0000214
 @list	ABZL008
 @list	BAU004
@@ -14746,7 +14773,6 @@
 @list	GCSL003
 @list	HZL006
 @list	KWU021
-@list	LAK007
 @list	MZL007
 @list	PTACE006
 @list	RSP339bis
@@ -14773,6 +14799,7 @@
 @link	eBL GIR₂@g https://www.ebl.lmu.de/signs/GIR₂@g
 @link	Wikidata Q87555514 http://www.wikidata.org/entity/Q87555514
 @form GIR₂
+@list	LAK006
 @list	ASY009
 @oid	o0000213
 @inote	Support Nisaba 25 UL₄(GIR₂)
@@ -14788,6 +14815,7 @@
 @end sign
 
 @sign GIR₃
+@list	LAK248
 @list	ASY259
 @oid	o0000215
 @list	ABZL291b
@@ -14797,7 +14825,6 @@
 @list	GCSL165
 @list	HZL301
 @list	KWU457
-@list	LAK248
 @list	MZL701
 @list	PTACE133
 @list	RSP463
@@ -14847,9 +14874,9 @@
 @ucun	𒂼𒃶𒆕
 @@
 @form KIŠ
+@list	LAK240
 @list	ASY247
 @oid	o0000286
-@list	LAK248
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @@
 @end sign
@@ -14947,11 +14974,11 @@
 @ucun	𒀀𒅆𒄊
 @@
 @form |GIR₃×IGI|
+@list	LAK249
 @oid	o0001352
 @list	ABZL295
 @list	ELLES141
 @list	HZL303
-@list	LAK249
 @list	RSP465
 @list	SLLHA421n2
 @uname	CUNEIFORM SIGN GIR3 TIMES IGI
@@ -14968,9 +14995,9 @@
 @ucun	𒅆𒆧
 @@
 @form KIŠ
+@list	LAK240
 @list	ASY247
 @oid	o0000286
-@list	LAK248
 @v	alim⁻
 @sys	Attinger alim⁻ => alim
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
@@ -14987,11 +15014,11 @@
 @end sign
 
 @sign |GIR₃×GAN₂@t|
+@list	LAK251
 @oid	o0001351
 @list	ABZL293
 @list	BAU165
 @list	KWU462
-@list	LAK251
 @list	MZL675
 @list	RSP464
 @list	SLLHA423
@@ -15007,9 +15034,9 @@
 @link	eBL |GIR₃×GAN₂@t| https://www.ebl.lmu.de/signs/|GIR₃×GAN₂@t|
 @link	Wikidata Q87555520 http://www.wikidata.org/entity/Q87555520
 @form KIŠ
+@list	LAK240
 @list	ASY247
 @oid	o0000286
-@list	LAK248
 @v	giri₁₆⁻
 @sys	Attinger giri₁₆⁻ => giri₁₆
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
@@ -15017,12 +15044,12 @@
 @end sign
 
 @sign |GIR₃×(LU.IGI)|
+@list	LAK250
 @oid	o0001350
 @pname	|GIR₃×LU+IGI|
 @list	ELLES142
 @list	GCSL169
 @list	KWU467
-@list	LAK250
 @list	MZL702
 @list	PTACE138
 @list	SLLHA421a
@@ -15074,10 +15101,10 @@
 @end sign
 
 @sign GISAL
+@list	LAK589
 @oid	o0000216
 @list	ABZL081
 @list	ELLES294
-@list	LAK589
 @list	MZL376
 @list	RSP217
 @list	SLLHA226
@@ -15103,10 +15130,10 @@
 @link	eBL |BI.GIŠ| https://www.ebl.lmu.de/signs/|BI.GIŠ|
 @@
 @form GISAL
+@list	LAK589
 @oid	o0000216
 @list	ABZL081
 @list	ELLES294
-@list	LAK589
 @list	MZL376
 @list	RSP217
 @list	RSP367
@@ -15119,6 +15146,7 @@
 @ucun	𒄞𒄑
 @@
 @form |GUD.GIŠ×TAK₄|
+@list	LAK590
 @oid	o0001418
 @link	eBL |GUD.GIŠ×TAK₄| https://www.ebl.lmu.de/signs/|GUD.GIŠ×TAK₄|
 @@
@@ -15152,6 +15180,7 @@
 @end sign
 
 @sign GIŠ
+@list	LAK673
 @list	ASY156
 @oid	o0000217
 @list	ABZL160
@@ -15160,7 +15189,6 @@
 @list	GCSL286
 @list	HZL178
 @list	KWU802
-@list	LAK673
 @list	MZL469
 @list	PTACE279
 @list	RSP231
@@ -15779,9 +15807,9 @@
 @end sign
 
 @sign |GIŠ×(GIŠ%GIŠ)|
+@list	LAK277
 @oid	o0001405
 @list	ELLES158
-@list	LAK277
 @note	see Woods in FS Biggs and Civil ARES 4, 133.
 @uname	CUNEIFORM SIGN GISH TIMES GISH CROSSING GISH
 @list	U+124CB
@@ -15828,6 +15856,8 @@
 @end sign
 
 @sign |GIŠ%GIŠ|
+@list	LAK276
+@list	LAK610
 @list	ASY142
 @oid	o0001363
 @list	ABZL274
@@ -15836,8 +15866,6 @@
 @list	HZL260
 @list	KWU360
 @list	KWU363
-@list	LAK276
-@list	LAK610?
 @list	SLLHA296n2
 @list	SYA124
 @uname	CUNEIFORM SIGN GISH CROSSING GISH
@@ -15916,6 +15944,7 @@
 @end sign
 
 @sign GU
+@list	LAK509
 @list	ASY302
 @oid	o0000221
 @list	ABZL458
@@ -15924,7 +15953,6 @@
 @list	GCSL236
 @list	HZL304
 @list	KWU781
-@list	LAK509
 @list	MZL891
 @list	PTACE221
 @list	RSP176
@@ -15966,10 +15994,10 @@
 @inote	added during ogsl upgrade
 
 @sign |GU%GU|
+@list	LAK510
 @list	ASY308
 @oid	o0001412
 @list	ABZL251
-@list	LAK510
 @list	MZL892
 @list	SLLHA569
 @uname	CUNEIFORM SIGN GU CROSSING GU
@@ -16001,6 +16029,7 @@
 @compoundonly	GU@90
 
 @sign GU₂
+@list	LAK544
 @list	ASY079
 @oid	o0000230
 @list	ABZL089
@@ -16009,7 +16038,6 @@
 @list	GCSL250
 @list	HZL201
 @list	KWU687
-@list	LAK544
 @list	MZL176
 @list	PTACE244
 @list	RSP355
@@ -16034,13 +16062,13 @@
 @end sign
 
 @sign |GU₂.GAR₃|
+@list	LAK063
 @oid	o0001425
 @list	ABZL087
 @list	BAU050
 @list	ELLES039
 @list	GCSL025
 @list	KWU689
-@list	LAK063
 @useq	x12118.x120FC
 @ucun	𒄘𒃼
 @v	dallaₓ
@@ -16085,8 +16113,8 @@
 @end sign
 
 @sign |GU₂.NUNUZ|
-@oid	o0001426
 @list	LAK557
+@oid	o0001426
 @useq	x12118.x1226D
 @ucun	𒄘𒉭
 @v	nida
@@ -16104,20 +16132,20 @@
 @end sign
 
 @sign |GU₂×(HI×DIŠ)|
-@oid	o0027599
 @list	LAK554
+@oid	o0027599
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |GU₂×(HI×U)|
-@oid	o0027601
 @list	LAK553
+@oid	o0027601
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |GU₂×IGI@g|
-@oid	o0001429
 @list	LAK547
+@oid	o0001429
 @lit	Alster 1991 AfO 38-39 line 52
 @uname	CUNEIFORM SIGN GU2 TIMES IGI GUNU
 @list	U+124CC
@@ -16128,6 +16156,8 @@
 @end sign
 
 @sign |GU₂×KAK|
+@list	LAK545
+@list	LAK549
 @oid	o0001431
 @list	ABZL088
 @list	BAU332
@@ -16135,8 +16165,6 @@
 @list	HZL202
 @list	KWU153
 @list	KWU691
-@list	LAK545
-@list	LAK549
 @list	MZL178
 @list	PTACE243
 @list	RSP356
@@ -16223,14 +16251,14 @@
 @end sign
 
 @sign |GU₂×PA|
-@oid	o0027605
 @list	LAK551
+@oid	o0027605
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |GU₂×PAP|
-@oid	o0027603
 @list	LAK552
+@oid	o0027603
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -16253,10 +16281,10 @@
 @end sign
 
 @sign GU₂@g
+@list	LAK556
 @oid	o0000231
 @list	ELLES290
 @list	KWU716
-@list	LAK556
 @list	MZL509
 @list	SLLHA327
 @uname	CUNEIFORM SIGN GU2 GUNU
@@ -16273,12 +16301,13 @@
 @end sign
 
 @sign GU₂@s
-@oid	o0027538
 @list	LAK555
+@oid	o0027538
 @inote	for lak.atf
 @end sign
 
 @sign GUD
+@list	LAK123
 @list	ASY159a
 @oid	o0000222
 @list	ABZL118
@@ -16287,7 +16316,6 @@
 @list	GCSL059
 @list	HZL157
 @list	KWU177
-@list	LAK123
 @list	MZL472
 @list	PTACE073
 @list	RSP187
@@ -16343,9 +16371,9 @@
 @end sign
 
 @sign |GUD.GIŠ×TAK₄|
+@list	LAK590
 @oid	o0001418
 @aka	|GUD.GIŠ×KID₂|
-@list	LAK590
 @uname	CUNEIFORM SIGN GUD PLUS GISH TIMES TAK4
 @list	U+124CD
 @ucun	𒓍
@@ -16412,6 +16440,7 @@
 @end sign
 
 @sign |GUD×KUR|
+@list	LAK124
 @list	ASY120
 @oid	o0001422
 @list	ABZL119
@@ -16419,7 +16448,6 @@
 @list	GCSL060
 @list	HZL168
 @list	KWU178
-@list	LAK124
 @list	MZL309
 @list	PTACE074
 @list	RSP188
@@ -16492,6 +16520,7 @@
 @end sign
 
 @sign GUL
+@list	LAK389
 @list	ASY249
 @oid	o0000224
 @list	ABZL343
@@ -16501,7 +16530,6 @@
 @list	GCSL207
 @list	HZL271
 @list	KWU546
-@list	LAK389
 @list	MZL682
 @list	PTACE260
 @list	RSP279
@@ -16536,12 +16564,12 @@
 @end sign
 
 @sign GUM
+@list	LAK633
 @list	ASY129
 @oid	o0000225
 @list	ABZL138
 @list	ELLES310
 @list	HZL120
-@list	LAK633
 @list	MZL339
 @list	PTACE248
 @list	RSP111
@@ -16583,13 +16611,13 @@
 @end sign
 
 @sign |GUM×ŠE|
+@list	LAK634
 @list	ASY130
 @oid	o0001424
 @list	ABZL139
 @list	GCSL269
 @list	HZL122
 @list	KWU742
-@list	LAK634
 @list	MZL340
 @list	RSP112
 @list	SLLHA192
@@ -16625,6 +16653,7 @@
 @end sign
 
 @sign GUR
+@list	LAK088
 @list	ASY084
 @oid	o0000226
 @list	ABZL092
@@ -16634,7 +16663,6 @@
 @list	GCSL049
 @list	HZL185
 @list	KWU099
-@list	LAK088
 @list	MZL180
 @list	PTACE055
 @list	RSP236
@@ -16662,12 +16690,11 @@
 @end sign
 
 @sign GUR₇
+@list	LAK843
 @oid	o0000229
 @list	ABZL396
 @list	GCSL070
 @list	KWU926
-@list	LAK195
-@list	LAK843
 @list	MZL819
 @list	RSP437
 @list	SLLHA542
@@ -16735,12 +16762,12 @@
 @end sign
 
 @sign GURUŠ
+@list	LAK709^a
 @oid	o0000228
 @list	ABZL176
 @list	BAU308
 @list	ELLES348
 @list	KWU803
-@list	LAK709a
 @list	PTACE287
 @lit	Krebernik, OBO 160/1, 277
 @inote	GURUŠ is the sign form with simple final vertical
@@ -16758,16 +16785,17 @@
 @link	eBL GURUŠ https://www.ebl.lmu.de/signs/GURUŠ
 @link	Wikidata Q87555579 http://www.wikidata.org/entity/Q87555579
 @form KAL
+@list	LAK709^b
 @list	ASY173
 @oid	o0000270
 @list	GCSL293
-@list	LAK709b
 @v	giriₓ
 @link	eBL KAL https://www.ebl.lmu.de/signs/KAL
 @@
 @end sign
 
 @sign HA
+@list	LAK351
 @list	ASY317
 @oid	o0000232
 @list	ABZL475
@@ -16776,7 +16804,6 @@
 @list	GCSL190
 @list	HZL367
 @list	KWU916
-@list	LAK351
 @list	MZL856
 @list	PTACE187
 @list	RSP181
@@ -16799,12 +16826,12 @@
 @link	eBL HA https://www.ebl.lmu.de/signs/HA
 @link	Wikidata Q87555581 http://www.wikidata.org/entity/Q87555581
 @form HA@g
+@list	LAK353
 @list	ASY197
 @oid	o0000233
 @list	BAU210
 @list	ELLES196
 @list	GCSL191
-@list	LAK353
 @list	PTACE188
 @list	RSP182
 @v	ha⁺
@@ -16862,6 +16889,7 @@
 @end sign
 
 @sign HA@g
+@list	LAK353
 @list	ASY197
 @oid	o0000233
 @list	ABZL222
@@ -16870,7 +16898,6 @@
 @list	GCSL191
 @list	HZL244A
 @list	KWU330
-@list	LAK353
 @list	MZL558
 @list	PTACE188
 @list	RSP182
@@ -16908,12 +16935,12 @@
 @link	eBL HA@g https://www.ebl.lmu.de/signs/HA@g
 @link	Wikidata Q87555585 http://www.wikidata.org/entity/Q87555585
 @form HA
+@list	LAK351
 @list	ASY317
 @oid	o0000232
 @list	BAU207
 @list	ELLES194
 @list	GCSL190
-@list	LAK351
 @list	PTACE187
 @list	RSP181
 @v	gir⁻
@@ -16932,10 +16959,10 @@
 @end sign
 
 @sign HA@t
+@list	LAK352
 @oid	o0000234
 @list	BAU211
 @list	ELLES195
-@list	LAK352
 @list	MZL857
 @list	RSP180
 @list	SLLHA590
@@ -16963,8 +16990,8 @@
 @end sign
 
 @sign HA@t@g
-@oid	o0000235
 @list	LAK354
+@oid	o0000235
 @uname	CUNEIFORM SIGN HA TENU GUNU
 @list	U+124CE
 @ucun	𒓎
@@ -16976,6 +17003,7 @@
 @end sign
 
 @sign HAL
+@list	LAK005
 @list	ASY002
 @oid	o0000236
 @list	ABZL007
@@ -16983,7 +17011,6 @@
 @list	ELLES002
 @list	HZL002
 @list	KWU018
-@list	LAK005
 @list	MZL003
 @list	PTACE004
 @list	RSP076
@@ -17005,6 +17032,7 @@
 @end sign
 
 @sign HI
+@list	LAK359
 @list	ASY229
 @oid	o0000237
 @list	ABZL277
@@ -17013,7 +17041,6 @@
 @list	GCSL149
 @list	HZL335
 @list	KWU446
-@list	LAK359
 @list	MZL631
 @list	PTACE173
 @list	RSP309
@@ -17047,6 +17074,7 @@
 @link	eBL HI https://www.ebl.lmu.de/signs/HI
 @link	Wikidata Q87555589 http://www.wikidata.org/entity/Q87555589
 @form DIN
+@list	LAK237
 @list	ASY270
 @oid	o0000144
 @list	GCSL118
@@ -17061,9 +17089,9 @@
 @end sign
 
 @sign |HI.A|
+@list	LAK360
 @list	ASY241
 @oid	o0001443
-@list	LAK360
 @list	SYA212
 @inote	SYA has the value ṣun from a reading of https://oracc.museum.upenn.edu/rinap/Q006333.223.6 as Ra-ṣun-nu.
 @useq	x1212D.x12000
@@ -17106,9 +17134,9 @@
 @ucun	𒅆𒆧
 @@
 @form KIŠ
+@list	LAK240
 @list	ASY247
 @oid	o0000286
-@list	LAK248
 @v	huš⁻
 @sys	Attinger huš⁻
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
@@ -17116,7 +17144,6 @@
 @form LAK240
 @oid	o0245336
 @list	GCSL119
-@list	LAK240
 @inote	this form has no HI component
 @@
 @end sign
@@ -17129,17 +17156,17 @@
 @end sign
 
 @sign |HI.SUHUR|
-@oid	o0027607
 @list	LAK223
+@oid	o0027607
 @inote	missing compounds for lak.atf
 @useq	x1212D.x122E6
 @ucun	𒄭𒋦
 @end sign
 
 @sign |HI×AŠ|
+@list	LAK361
 @oid	o0001447
 @list	ABZL278
-@list	LAK361
 @list	MZL634
 @list	PTACE174
 @list	SLLHA405v2
@@ -17167,6 +17194,7 @@
 @ucun	𒄭𒀸
 @@
 @form	|HI×BAD|
+@list	LAK366
 @oid	o0001453
 @@
 @form |HI×MAŠ|
@@ -17183,8 +17211,8 @@
 @end sign
 
 @sign |(HI×AŠ)&(HI×AŠ)|
-@oid	o0000624
 @list	LAK362
+@oid	o0000624
 @uname	CUNEIFORM SIGN HI TIMES ASH OVER HI TIMES ASH
 @list	U+124CF
 @ucun	𒓏
@@ -17194,6 +17222,7 @@
 @end sign
 
 @sign |HI×AŠ₂|
+@list	LAK370
 @list	ASY238
 @oid	o0001452
 @list	ABZL281
@@ -17203,7 +17232,6 @@
 @list	GCSL155
 @list	HZL333
 @list	KWU483
-@list	LAK370
 @list	MZL644
 @list	PTACE177
 @list	RSP315
@@ -17278,9 +17306,9 @@
 @end sign
 
 @sign |HI×AŠ₂.HI×AŠ₂|
+@list	LAK371
 @oid	o0001449
 @list	GCSL156
-@list	LAK371
 @useq	x1212F.x1212F
 @ucun	𒄯𒄯
 @v	ara₅
@@ -17316,12 +17344,12 @@
 @end sign
 
 @sign |HI×BAD|
+@list	LAK366
 @oid	o0001453
 @list	ASY235
 @list	ABZL279
 @list	GCSL152
 @list	KWU452
-@list	LAK366
 @list	RSP312
 @list	SYA206
 @uname	CUNEIFORM SIGN HI TIMES BAD
@@ -17355,8 +17383,8 @@
 @ucun	𒄭𒁁
 @@
 @form |HI×AŠ|
-@oid	o0001447
 @list	LAK361
+@oid	o0001447
 @list	PTACE174
 @link	eBL |HI×AŠ| https://www.ebl.lmu.de/signs/|HI×AŠ|
 @@
@@ -17445,8 +17473,8 @@
 @end sign
 
 @sign |HI×HAL|
-@oid	o0027609
 @list	LAK365
+@oid	o0027609
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -17472,6 +17500,7 @@
 @end sign
 
 @sign |HI×NUN|
+@list	LAK367
 @list	ASY234
 @oid	o0001462
 @list	ABZL280
@@ -17479,7 +17508,6 @@
 @list	GCSL153
 @list	HZL332
 @list	KWU485
-@list	LAK367
 @list	MZL636
 @list	PTACE175
 @list	SLLHA398
@@ -17564,10 +17592,10 @@
 @inote	added during ogsl upgrade
 
 @sign |HI×NUN.ME|
+@list	LAK368
 @oid	o0001461
 @list	ABZL282
 @list	GCSL154
-@list	LAK368
 @list	MZL638
 @list	PTACE176
 @list	RSP316
@@ -17620,12 +17648,12 @@
 @end sign
 
 @sign |HI×ŠE|
+@list	LAK372
 @list	ASY237
 @oid	o0001464
 @list	ABZL287
 @list	BAU188
 @list	HZL334
-@list	LAK372
 @list	MZL643
 @list	SLLHA400
 @list	SYA208
@@ -17704,6 +17732,7 @@
 @end sign
 
 @sign HU
+@list	LAK064
 @list	ASY052
 @oid	o0000239
 @list	ABZL034
@@ -17712,7 +17741,6 @@
 @list	GCSL031
 @list	HZL024
 @list	KWU111
-@list	LAK064
 @list	MZL132
 @list	PTACE040
 @list	RSP406
@@ -17751,6 +17779,7 @@
 @link	eBL HU https://www.ebl.lmu.de/signs/HU
 @link	Wikidata Q87555612 http://www.wikidata.org/entity/Q87555612
 @form RI
+@list	LAK075
 @list	ASY061
 @oid	o0000514
 @list	GCSL178a
@@ -17760,18 +17789,20 @@
 @end sign
 
 @sign HU@n
+@list	LAK037
+@list	LAK072^a
 @oid o0270206
 @inote Added to support LAK037 which is the base of BURU₅
 @end sign
 
 @sign |HU.HI|
+@list	LAK065
 @list	ASY056
 @oid	o0001466
 @list	ABZL035
 @list	BAU037
 @list	HZL026
 @list	KWU112
-@list	LAK065
 @list	MZL137
 @list	RSP407
 @list	SLLHA081
@@ -17810,11 +17841,11 @@
 @end sign
 
 @sign |HU.NA₂|
+@list	LAK068
 @list	ASY057
 @oid	o0001469
 @list	ABZL036
 @list	KWU113
-@list	LAK068
 @list	MZL138
 @list	RSP410
 @list	SLLHA082
@@ -17835,13 +17866,13 @@
 @end sign
 
 @sign |HU.SI|
+@list	LAK066
 @list	ASY053
 @oid	o0001470
 @list	ABZL033
 @list	ELLES041
 @list	GCSL035
 @list	KWU114
-@list	LAK066
 @list	MZL133
 @list	PTACE034
 @list	RSP409
@@ -17866,6 +17897,7 @@
 @end sign
 
 @sign HUB₂
+@list	LAK474
 @list	ASY065
 @oid	o0000240
 @list	ABZL445
@@ -17873,7 +17905,6 @@
 @list	ELLES249
 @list	GCSL222
 @list	HZL049
-@list	LAK474
 @list	MZL149
 @list	PTACE273
 @list	SLLHA088
@@ -17894,9 +17925,9 @@
 @link	eBL HUB₂ https://www.ebl.lmu.de/signs/HUB₂
 @link	Wikidata Q87555613 http://www.wikidata.org/entity/Q87555613
 @form |HUB₂×UD|
+@list	LAK476
 @list	ASY066
 @oid	o0001477
-@list	LAK476
 @list	RSP425
 @list	U+1213D
 @uname CUNEIFORM SIGN HUB2 TIMES UD
@@ -17918,8 +17949,8 @@
 @end sign
 
 @sign |HUB₂×AN|
-@oid	o0001473
 @list	LAK475
+@oid	o0001473
 @uname	CUNEIFORM SIGN HUB2 TIMES AN
 @list	U+12139
 @ucun	𒄹
@@ -17939,9 +17970,9 @@
 @end sign
 
 @sign |HUB₂×KASKAL|
+@list	LAK477
 @oid	o0001475
 @list	BAU282
-@list	LAK477
 @uname	CUNEIFORM SIGN HUB2 TIMES KASKAL
 @list	U+1213B
 @ucun	𒄻
@@ -17961,11 +17992,11 @@
 @end sign
 
 @sign |HUB₂×UD|
+@list	LAK476
 @list	ASY066
 @oid	o0001477
 @list	ABZL446
 @list	HZL050
-@list	LAK476
 @list	MZL150
 @list	RSP425
 @list	SLLHA089
@@ -17990,6 +18021,7 @@
 @end sign
 
 @sign HUL₂
+@list	LAK183
 @list	ASY297
 @oid	o0000241
 @list	ABZL425
@@ -17997,7 +18029,6 @@
 @list	GCSL197
 @list	HZL254
 @list	KWU900
-@list	LAK183
 @list	MZL877
 @list	PTACE029
 @list	RSP122
@@ -18047,12 +18078,13 @@
 @end sign
 
 @sign |HUL₂×X|
-@oid	o0027610
 @list	LAK184
+@oid	o0027610
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign I
+@list	LAK135
 @list	ASY103
 @oid	o0000242
 @list	ABZL192
@@ -18060,7 +18092,6 @@
 @list	ELLES073
 @list	HZL217
 @list	KWU230
-@list	LAK135
 @list	MZL252
 @list	PTACE091
 @list	SLLHA142
@@ -18130,6 +18161,7 @@
 @end sign
 
 @sign IB
+@list	LAK755
 @list	ASY289
 @oid	o0000244
 @list	ABZL394
@@ -18138,7 +18170,6 @@
 @list	HZL044
 @list	KWU116
 @list	KWU851
-@list	LAK755
 @list	MZL807
 @list	PTACE309
 @list	RSP103
@@ -18167,9 +18198,9 @@
 @end sign
 
 @sign IDIM
+@list	LAK004
 @oid	o0000245
 @list	ABZL025
-@list	LAK004
 @list	MZL113b
 @list	RSP048
 @list	SYA035
@@ -18200,13 +18231,13 @@
 @link	eBL IDIM https://www.ebl.lmu.de/signs/IDIM
 @link	Wikidata Q87555633 http://www.wikidata.org/entity/Q87555633
 @form BAD
+@list	LAK016
 @list	ASY042
 @oid	o0000114
 @list	BAU009
 @list	ELLES009
 @list	GCSL010
 @list	GCSL209
-@list	LAK016
 @list	PTACE010
 @list	RSP048bis
 @v	eše₃
@@ -18264,6 +18295,7 @@
 @end sign
 
 @sign IG
+@list	LAK082
 @list	ASY055
 @oid	o0000246
 @list	ABZL061
@@ -18272,7 +18304,6 @@
 @list	GCSL046
 @list	HZL067
 @list	KWU074
-@list	LAK082
 @list	MZL136
 @list	PTACE020
 @list	RSP270
@@ -18307,6 +18338,7 @@
 @end sign
 
 @sign IGI
+@list	LAK421
 @list	ASY261
 @oid	o0000247
 @list	ABZL233
@@ -18316,7 +18348,6 @@
 @list	GCSL177
 @list	HZL288
 @list	KWU556
-@list	LAK421
 @list	MZL724
 @list	PTACE199
 @list	RSP066
@@ -18404,13 +18435,13 @@
 @end sign
 
 @sign |IGI.DIB|
+@list	LAK432
 @list	ASY264
 @oid	o0001487
 @list	ABZL239b
 @list	ELLES225
 @list	GCSL186
 @list	HZL265
-@list	LAK432
 @list	MZL731
 @list	PTACE203
 @list	RSP070
@@ -18431,8 +18462,8 @@
 @ucun	𒅆𒇻
 @@
 @form LAK433
-@oid	o0018571
 @list	LAK433
+@oid	o0018571
 @inote	|IGI.GA₂×PA|: sign description indicative not definitive
 @@
 @end sign
@@ -18465,13 +18496,13 @@
 @end sign
 
 @sign |IGI.DUB|
+@list	LAK427
 @oid	o0001489
 @list	ABZL237
 @list	ELLES223
 @list	GCSL183
 @list	HZL291
 @list	KWU563
-@list	LAK427
 @list	MZL727
 @list	PTACE201
 @list	RSP072
@@ -18514,8 +18545,8 @@
 @v	ug₆
 @link	eBL |IGI.E₂| https://www.ebl.lmu.de/signs/|IGI.E₂|
 @form |IGI.KID|
-@oid	o0031712
 @list	LAK429
+@oid	o0031712
 @useq	x12146.x121A4
 @ucun	𒅆𒆤
 @@
@@ -18527,11 +18558,11 @@
 @end sign
 
 @sign |IGI.ERIN₂|
+@list	LAK424
 @oid	o0001492
 @list	ABZL238
 @list	GCSL182
 @list	KWU559
-@list	LAK424
 @list	MZL730
 @list	SLLHA454
 @useq	x12146.x1209F
@@ -18557,11 +18588,11 @@
 @end sign
 
 @sign |IGI.EŠ₂|
+@list	LAK434
 @oid	o0001495
 @list	ABZL239a
 @list	BAU244
 @list	HZL265
-@list	LAK434
 @list	MZL732
 @list	PTACE204
 @list	SLLHA455
@@ -18609,8 +18640,8 @@
 @end sign
 
 @sign |IGI.GAN₂@t|
-@oid	o0221938
 @list	LAK426
+@oid	o0221938
 @inote	admin/ed3b
 @useq	x12146.x120F8
 @ucun	𒅆𒃸
@@ -18618,9 +18649,9 @@
 @end sign
 
 @sign |IGI.GAR|
+@list	LAK435
 @oid	o0001497
 @list	KWU561
-@list	LAK435
 @list	MZL735
 @list	RSP068
 @list	SLLHA449_244
@@ -18726,11 +18757,11 @@
 @v	ilduₓ
 @link	eBL |IGI.NAGAR| https://www.ebl.lmu.de/signs/|IGI.NAGAR|
 @form NAGAR
+@list	LAK512
 @list	ASY303a
 @oid	o0000473
 @list	BAU408
 @list	ELLES267
-@list	LAK512
 @list	PTACE222
 @list	RSP177
 @v	niŋinₓ
@@ -18761,8 +18792,8 @@
 @end sign
 
 @sign |IGI.NISAG|
+@list	LAK430
 @oid	o0038392
-@list LAK430
 @useq x12146.x12260
 @ucun 𒅆𒉠
 @end sign
@@ -18775,6 +18806,7 @@
 @end sign
 
 @sign |IGI.RI|
+@list	LAK422
 @list	ASY263
 @oid	o0001510
 @list	ABZL234
@@ -18782,7 +18814,6 @@
 @list	GCSL178
 @list	HZL289
 @list	KWU557
-@list	LAK422
 @list	MZL726
 @list	PTACE200
 @list	SLLHA451
@@ -18798,6 +18829,7 @@
 @end sign
 
 @sign |IGI.RU|
+@list	LAK423
 @list	ASY262
 @oid	o0001511
 @list	ABZL235
@@ -18806,7 +18838,6 @@
 @list	GCSL180
 @list	HZL292
 @list	KWU558
-@list	LAK423
 @list	MZL725
 @list	RSP074
 @list	SLLHA450
@@ -18819,8 +18850,8 @@
 @end sign
 
 @sign |IGI.SUHUR|
-@oid	o0027612
 @list	LAK224
+@oid	o0027612
 @inote	missing compounds for lak.atf
 @useq	x12146.x122E6
 @ucun	𒅆𒋦
@@ -18843,13 +18874,14 @@
 @end sign
 
 @sign |IGI.UD|
+@list	LAK425
 @oid o0038390
-@list LAK425
 @useq x12146.x12313
 @ucun 𒅆𒌓
 @end sign
 
 @sign |IGI.UR|
+@list	LAK428
 @list	ASY265
 @oid	o0001516
 @list	ABZL240
@@ -18857,7 +18889,6 @@
 @list	GCSL179
 @list	HZL290
 @list	KWU565
-@list	LAK428
 @list	MZL733
 @list	PTACE202
 @list	RSP071
@@ -18938,6 +18969,8 @@
 @end sign
 
 @sign IGI@g
+@list	LAK167
+@list	LAK437
 @list	ASY200
 @oid	o0000248
 @list	ABZL198
@@ -18946,8 +18979,6 @@
 @list	GCSL078
 @list	HZL239
 @list	KWU274
-@list	LAK167
-@list	LAK437
 @list	MZL564
 @list	PTACE108
 @list	RSP067
@@ -19033,6 +19064,9 @@
 @inote	added during ogsl upgrade
 
 @sign IL
+@list	LAK500
+@list	LAK501
+@list	LAK502
 @list	ASY134
 @oid	o0000249
 @list	ABZL078
@@ -19041,9 +19075,6 @@
 @list	GCSL229
 @list	HZL117
 @list	KWU726
-@list	LAK500
-@list	LAK501
-@list	LAK502
 @list	MZL348
 @list	PTACE227
 @list	RSP374
@@ -19076,6 +19107,7 @@
 @end sign
 
 @sign IL₂
+@list	LAK172
 @list	ASY171
 @oid	o0000252
 @list	ABZL204
@@ -19083,7 +19115,6 @@
 @list	GCSL082
 @list	HZL161
 @list	KWU319
-@list	LAK172?
 @list	MZL493
 @list	PTACE113
 @list	RSP432
@@ -19174,6 +19205,7 @@
 @end sign
 
 @sign IM
+@list	LAK376
 @list	ASY236
 @oid	o0000254
 @list	ABZL297
@@ -19181,7 +19213,6 @@
 @list	ELLES205
 @list	HZL337
 @list	KWU476
-@list	LAK376
 @list	MZL641
 @list	PTACE184
 @list	RSP331
@@ -19232,10 +19263,10 @@
 @link	eBL IM https://www.ebl.lmu.de/signs/IM
 @link	Wikidata Q87555658 http://www.wikidata.org/entity/Q87555658
 @form NI₂
+@list	LAK377
 @oid	o0000486
 @list	BAU389
 @list	GCSL163
-@list	LAK377
 @inote	ur-{d}iškur(LAK377) in P250715 l.3
 @link	eBL NI₂ https://www.ebl.lmu.de/signs/NI₂
 @@
@@ -19423,9 +19454,9 @@
 @end sign
 
 @sign |IM×TAK₄|
+@list	LAK378
 @oid	o0001549
 @list	KWU477
-@list	LAK378
 @list	MZL642
 @list	RSP332
 @list	SLLHA399_51
@@ -19522,6 +19553,7 @@
 @end sign
 
 @sign IN
+@list	LAK214
 @list	ASY110
 @oid	o0000256
 @list	ABZL386
@@ -19529,7 +19561,6 @@
 @list	GCSL111
 @list	HZL354
 @list	KWU649
-@list	LAK214
 @list	MZL261
 @list	PTACE075
 @list	RSP447
@@ -19549,6 +19580,7 @@
 @end sign
 
 @sign IR
+@list	LAK507
 @list	ASY147
 @oid	o0000257
 @list	ABZL263
@@ -19558,7 +19590,6 @@
 @list	GCSL235
 @list	HZL077
 @list	KWU785
-@list	LAK507
 @list	MZL437
 @list	PTACE223
 @list	RSP151
@@ -19582,6 +19613,7 @@
 @end sign
 
 @sign IŠ
+@list	LAK163
 @list	ASY139
 @oid	o0000259
 @list	ABZL162
@@ -19591,7 +19623,6 @@
 @list	GCSL075
 @list	HZL151
 @list	KWU278
-@list	LAK163
 @list	MZL357
 @list	PTACE103
 @list	RSP123
@@ -19684,6 +19715,7 @@
 @end sign
 
 @sign KA
+@list	LAK318
 @list	ASY015
 @oid	o0000260
 @list	ABZL312
@@ -19692,7 +19724,6 @@
 @list	GCSL141
 @list	HZL133
 @list	KWU414
-@list	LAK318
 @list	MZL024
 @list	PTACE167
 @list	RSP197
@@ -19763,9 +19794,9 @@
 @link	eBL KA https://www.ebl.lmu.de/signs/KA
 @link	Wikidata Q87555676 http://www.wikidata.org/entity/Q87555676
 @form |KA×U|
+@list	LAK319
 @oid	o0001666
 @list	HZL141
-@list	LAK319
 @list	MZL056
 @list	SLLHA031n1
 @list	U+12187
@@ -19926,6 +19957,7 @@
 @end sign
 
 @sign |KA×A|
+@list	LAK331
 @list	ASY021
 @oid	o0001611
 @list	ABZL328
@@ -19934,7 +19966,6 @@
 @list	GCSL148
 @list	HZL148
 @list	KWU427
-@list	LAK331
 @list	MZL064
 @list	PTACE172
 @list	RSP199
@@ -20102,12 +20133,12 @@
 @link	eBL |KA×BALAG| https://www.ebl.lmu.de/signs/|KA×BALAG|
 @link	Wikidata Q87555686 http://www.wikidata.org/entity/Q87555686
 @form KA
+@list	LAK318
 @list	ASY015
 @oid	o0000260
 @list	BAU233
 @list	ELLES182
 @list	GCSL141
-@list	LAK318
 @list	PTACE167
 @list	RSP197
 @v	še₂₆⁻
@@ -20233,6 +20264,7 @@
 @end sign
 
 @sign |KA×GAN₂@t|
+@list	LAK324
 @list	ASY017^b
 @oid	o0001626
 @list	ABZL321
@@ -20241,7 +20273,6 @@
 @list	GCSL144
 @list	GCSL145
 @list	KWU428
-@list	LAK324
 @list	MZL033
 @list	PTACE168
 @list	SLLHA019
@@ -20283,11 +20314,11 @@
 @uage	9.2
 @@
 @form |KA×ŠU|
+@list	LAK323
 @list	ASY017
 @oid	o0001676
 @list	ELLES183
 @list	GCSL143
-@list	LAK323
 @list	RSP201
 @v	šudaₓ
 @link	eBL |KA×ŠU| https://www.ebl.lmu.de/signs/|KA×ŠU|
@@ -20321,13 +20352,13 @@
 @end sign
 
 @sign |KA×GAR|
+@list	LAK330
 @oid	o0001627
 @list	ABZL329
 @list	BAU231
 @list	GCSL146
 @list	HZL149
 @list	KWU425
-@list	LAK330
 @list	MZL065
 @list	PTACE170
 @list	RSP200
@@ -20348,12 +20379,12 @@
 @link	eBL |KA×GAR| https://www.ebl.lmu.de/signs/|KA×GAR|
 @link	Wikidata Q87555700 http://www.wikidata.org/entity/Q87555700
 @form KA
+@list	LAK318
 @list	ASY015
 @oid	o0000260
 @list	BAU233
 @list	ELLES182
 @list	GCSL141
-@list	LAK318
 @list	PTACE167
 @list	RSP197
 @v	gu₃
@@ -20410,10 +20441,10 @@
 @end sign
 
 @sign |KA×GIR₂|
+@list	LAK320
 @oid	o0001630
 @list	GCSL142
 @list	KWU417
-@list	LAK320
 @list	MZL025
 @list	SLLHA015x
 @uname	CUNEIFORM SIGN KA TIMES GIR2
@@ -20534,11 +20565,11 @@
 @end sign
 
 @sign |KA×IM|
+@list	LAK326
 @oid	o0001638
 @list	ABZL322
 @list	HZL144
 @list	KWU421
-@list	LAK326
 @list	MZL054
 @list	RSP203
 @list	SLLHA030
@@ -20745,6 +20776,7 @@
 @end sign
 
 @sign |KA×ME|
+@list	LAK334
 @list	ASY019
 @oid	o0001648
 @list	ABZL326
@@ -20752,7 +20784,6 @@
 @list	GCSL147
 @list	HZL147
 @list	KWU426
-@list	LAK334
 @list	MZL061
 @list	PTACE171
 @list	RSP198
@@ -20898,8 +20929,8 @@
 @end sign
 
 @sign |KA×NI₂|
-@oid	o0027613
 @list	LAK327
+@oid	o0027613
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -20977,12 +21008,12 @@
 @end sign
 
 @sign |KA×SA|
+@list	LAK333
 @oid	o0001656
 @list	ABZL316
 @list	ELLES185
 @list	HZL136
 @list	KWU429
-@list	LAK333
 @list	MZL032
 @list	PTACE169
 @list	SLLHA018x
@@ -21001,6 +21032,7 @@
 @link	eBL |KA×SA| https://www.ebl.lmu.de/signs/|KA×SA|
 @link	Wikidata Q87555756 http://www.wikidata.org/entity/Q87555756
 @form |KA×GAN₂@t|
+@list	LAK324
 @list	ASY017^b
 @oid	o0001626
 @list	ABZL321
@@ -21009,7 +21041,6 @@
 @list	GCSL144
 @list	GCSL145
 @list	KWU428
-@list	LAK324
 @list	MZL033
 @list	SLLHA019
 @list	U+12164
@@ -21019,14 +21050,15 @@
 @link	Wikidata Q87555699 http://www.wikidata.org/entity/Q87555699
 @@
 @form |KA×(U.U.U)|
+@list	LAK328
 @oid	o0001605
 @@
 @form LAK328
 @oid	o0000352
 @@
 @form LAK332
-@oid	o0000353
 @list	LAK332
+@oid	o0000353
 @@
 @end sign
 
@@ -21036,11 +21068,11 @@
 @end sign
 
 @sign |KA×SAR|
+@list	LAK325
 @oid	o0001655
 @list	ABZL324
 @list	BAU235
 @list	KWU424
-@list	LAK325
 @list	MZL045
 @list	RSP207
 @list	SLLHA021
@@ -21098,11 +21130,11 @@
 @end sign
 
 @sign |KA×ŠE|
+@list	LAK322
 @oid	o0001674
 @list	ABZL323
 @list	HZL145
 @list	KWU423
-@list	LAK322
 @list	MZL050
 @list	RSP205
 @list	SLLHA027
@@ -21162,13 +21194,13 @@
 @end sign
 
 @sign |KA×ŠU|
+@list	LAK323
 @list	ASY017
 @oid	o0001676
 @list	ABZL320
 @list	ELLES183
 @list	GCSL143
 @list	KWU418
-@list	LAK323
 @list	MZL049
 @list	RSP201
 @list	SLLHA026
@@ -21192,13 +21224,13 @@
 @link	eBL |KA×ŠU| https://www.ebl.lmu.de/signs/|KA×ŠU|
 @link	Wikidata Q87555763 http://www.wikidata.org/entity/Q87555763
 @form |KA×GAN₂@t|
+@list	LAK324
 @list	ASY017^b
 @oid	o0001626
 @list	BAU234
 @list	ELLES186
 @list	GCSL144
 @list	GCSL145
-@list	LAK324
 @list	U+12164
 @ucun	𒅤
 @uage	5.0
@@ -21265,9 +21297,9 @@
 @end sign
 
 @sign |KA×U|
+@list	LAK319
 @oid	o0001666
 @list	HZL141
-@list	LAK319
 @list	MZL056
 @list	SLLHA031n1
 @uname	CUNEIFORM SIGN KA TIMES U
@@ -21279,10 +21311,10 @@
 @end sign
 
 @sign |KA×(U.U.U)|
+@list	LAK328
 @oid	o0001605
 @aka	|KA×EŠ|
 @list	KWU422
-@list	LAK328
 @uname	CUNEIFORM SIGN KA TIMES ESH
 @list	U+124D2
 @ucun	𒓒
@@ -21291,9 +21323,9 @@
 @end sign
 
 @sign |KA×U₂|
+@list	LAK321
 @oid	o0001668
 @list	KWU420
-@list	LAK321
 @list	MZL043
 @list	RSP204
 @list	SLLHA024x
@@ -21430,8 +21462,8 @@
 @end sign
 
 @sign |KA×ZI|
-@oid	o0001671
 @list	LAK335
+@oid	o0001671
 @uname	CUNEIFORM SIGN KA TIMES ZI
 @list	U+1218C
 @ucun	𒆌
@@ -21474,6 +21506,7 @@
 @end sign
 
 @sign KA₂
+@list	LAK735
 @list	ASY099
 @oid	o0000277
 @list	ABZL175
@@ -21482,7 +21515,6 @@
 @list	ELLES362
 @list	GCSL303
 @list	HZL167
-@list	LAK735
 @list	MZL222
 @list	PTACE301
 @list	RSP135
@@ -21548,6 +21580,7 @@
 @end sign
 
 @sign KAB
+@list	LAK147
 @list	ASY064
 @oid	o0000263
 @list	ABZL226
@@ -21556,7 +21589,6 @@
 @list	ELLES079
 @list	GCSL089
 @list	HZL049
-@list	LAK147
 @list	MZL148
 @list	PTACE090
 @list	RSP421
@@ -21603,8 +21635,8 @@
 @end sign
 
 @sign KAB@g
-@oid	o0027542
 @list	LAK478
+@oid	o0027542
 @inote	for lak.atf
 @end sign
 
@@ -21660,13 +21692,13 @@
 @end sign
 
 @sign KAD₄
+@list	LAK171
 @list	ASY205
 @oid	o0000267
 @list	ABZL227a
 @list	ELLES099
 @list	HZL068
 @list	KWU316
-@list	LAK171?
 @list	MZL568
 @list	PTACE112
 @list	RSP430
@@ -21706,12 +21738,12 @@
 @end sign
 
 @sign KAD₅
+@list	LAK173
 @list	ASY206
 @oid	o0000268
 @list	ABZL227b
 @list	ELLES100
 @list	KWU316
-@list	LAK173
 @list	MZL569
 @list	RSP431
 @list	SLLHA354bv
@@ -21773,6 +21805,7 @@
 @end sign
 
 @sign KAK
+@list	LAK504
 @list	ASY145
 @oid	o0000269
 @list	ABZL260
@@ -21781,7 +21814,6 @@
 @list	GCSL231
 @list	HZL075
 @list	KWU775
-@list	LAK504
 @list	MZL379
 @list	PTACE216
 @list	RSP147
@@ -21825,9 +21857,9 @@
 @end sign
 
 @sign |KAK.GIŠ|
+@list	LAK505
 @oid	o0001573
 @list	ELLES260
-@list	LAK505
 @list	PTACE217
 @useq	x12195.x12111
 @ucun	𒆕𒄑
@@ -21869,6 +21901,7 @@
 @end sign
 
 @sign KAL
+@list	LAK709^b
 @list	ASY173
 @oid	o0000270
 @list	ABZL176
@@ -21876,7 +21909,6 @@
 @list	ELLES349
 @list	GCSL293
 @list	HZL196
-@list	LAK709b
 @list	MZL496
 @list	PTACE288
 @list	RSP237
@@ -21947,10 +21979,10 @@
 @link	eBL KAL https://www.ebl.lmu.de/signs/KAL
 @link	Wikidata Q87555801 http://www.wikidata.org/entity/Q87555801
 @form GURUŠ
+@list	LAK709^a
 @oid	o0000228
 @list	BAU308
 @list	ELLES348
-@list	LAK709a
 @v	lamma
 @inote	in SF 1 GURUŠ is used for lammar (col i et passim); KAL is used for KAL/RIB (col x 20-21)
 @link	eBL GURUŠ https://www.ebl.lmu.de/signs/GURUŠ
@@ -21998,13 +22030,13 @@
 @end sign
 
 @sign KALAM
+@list	LAK729
 @oid	o0000574
 @list	ABZL169
 @list	BAU367
 @list	ELLES356
 @list	GCSL297
 @list	KWU849
-@list	LAK729
 @list	MZL500
 @list	PTACE300
 @list	RSP136
@@ -22030,11 +22062,11 @@
 @end sign
 
 @sign KALAM@g
+@list	LAK730
 @list	ASY165
 @oid	o0000575
 @list	ABZL169
 @list	BAU367^a
-@list	LAK730
 @list	MZL501
 @list	SYA143
 @uname	CUNEIFORM SIGN UN
@@ -22078,11 +22110,10 @@
 @end sign
 
 @sign KAM₄
+@list	LAK029
 @oid	o0000273
 @list	ABZL268
 @list	ELLES017
-@list	LAK029
-@list	LAK460
 @list	MZL097
 @list	PTACE038
 @list	SLLHA060x
@@ -22114,6 +22145,7 @@
 @end sign
 
 @sign KASKAL
+@list	LAK273
 @list	ASY116
 @oid	o0000275
 @list	ABZL271
@@ -22121,7 +22153,6 @@
 @list	ELLES156
 @list	HZL259
 @list	KWU359
-@list	LAK273
 @list	MZL302
 @list	PTACE210
 @list	RSP116
@@ -22172,8 +22203,8 @@
 @end sign
 
 @sign |KASKAL.GA|
-@oid	o0001584
 @list	LAK275
+@oid	o0001584
 @list	PTACE211
 @list	RSP117
 @useq	x1219C.x120B5
@@ -22328,13 +22359,13 @@
 @end sign
 
 @sign KEŠ₂
+@list	LAK612
 @oid	o0000278
 @list	ABZL152c
 @list	BAU307
 @list	ELLES300
 @list	GCSL264
 @list	KWU841
-@list	LAK612
 @list	PTACE265
 @list	RSP285
 @list	SYA099
@@ -22360,12 +22391,12 @@
 @link	eBL KEŠ₂ https://www.ebl.lmu.de/signs/KEŠ₂
 @link	Wikidata Q87555817 http://www.wikidata.org/entity/Q87555817
 @form EZEN
+@list	LAK611
 @list	ASY113
 @oid	o0000177
 @list	BAU298
 @list	ELLES303
 @list	GCSL261
-@list	LAK611
 @list	PTACE262
 @list	RSP284
 @link	eBL EZEN https://www.ebl.lmu.de/signs/EZEN
@@ -22378,6 +22409,7 @@
 @end sign
 
 @sign KI
+@list	LAK440
 @list	ASY269
 @oid	o0000279
 @list	ABZL432
@@ -22386,7 +22418,6 @@
 @list	GCSL194
 @list	HZL313
 @list	KWU481
-@list	LAK440
 @list	MZL737
 @list	PTACE192
 @list	RSP165
@@ -23116,13 +23147,13 @@
 @end sign
 
 @sign KID
+@list	LAK733
 @list	ASY166
 @oid	o0000281
 @list	ABZL163
 @list	BAU366
 @list	ELLES361
 @list	HZL194
-@list	LAK733
 @list	MZL484
 @list	PTACE298
 @list	RSP252
@@ -23168,12 +23199,12 @@
 @link	eBL KID https://www.ebl.lmu.de/signs/KID
 @link	Wikidata Q87555828 http://www.wikidata.org/entity/Q87555828
 @form E₂
+@list	LAK732
 @list	ASY174
 @oid	o0000180
 @list	BAU365
 @list	ELLES359
 @list	GCSL299
-@list	LAK732
 @list	PTACE295
 @list	RSP250
 @v	lil₂
@@ -23231,6 +23262,7 @@
 @compoundonly	|KID&KID|
 
 @sign KIN
+@list	LAK174
 @list	ASY294
 @oid	o0000282
 @list	ABZL447
@@ -23240,7 +23272,6 @@
 @list	GCSL083
 @list	HZL047
 @list	KWU897
-@list	LAK174
 @list	MZL815
 @list	PTACE084
 @list	RSP394
@@ -23290,8 +23321,8 @@
 @end sign
 
 @sign KINGUSILI
-@oid	o0000283
 @list	LAK819
+@oid	o0000283
 @list	MZL838
 @list	SLLHA573
 @uname	CUNEIFORM NUMERIC SIGN FIVE SIXTHS DISH
@@ -23314,6 +23345,7 @@
 @end sign
 
 @sign KISAL
+@list	LAK723
 @list	ASY149
 @oid	o0000284
 @list	ABZL161
@@ -23323,7 +23355,6 @@
 @list	GCSL302
 @list	HZL228
 @list	KWU804
-@list	LAK723
 @list	MZL435
 @list	RSP249
 @list	SLLHA249
@@ -23350,8 +23381,8 @@
 @end sign
 
 @sign |KISAL×UD|
-@oid	o0027615
 @list	LAK725
+@oid	o0027615
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -23473,12 +23504,12 @@
 @end sign
 
 @sign KIŠ
+@list	LAK240
 @list	ASY247
 @oid	o0000286
 @list	ABZL291a
 @list	ELLES139
 @list	HZL273
-@list	LAK248
 @inote Krebernik OBO p.277 transposes LAK248 and LAK240; the KIŠ glyph he calls LAK248 is LAK240;
        ANŠE=LAK253; GIR₃=LAK248
 @list	MZL678
@@ -23542,6 +23573,7 @@
 @end sign
 
 @sign KU
+@list	LAK791
 @list	ASY290
 @oid	o0000289
 @list	ABZL415
@@ -23739,6 +23771,7 @@
 @end sign
 
 @sign KU₃
+@list	LAK438
 @list	ASY272
 @oid	o0000296
 @list	ABZL428
@@ -23747,7 +23780,6 @@
 @list	GCSL192
 @list	HZL069
 @list	KWU499
-@list	LAK438
 @list	MZL745
 @list	PTACE189
 @list	RSP385
@@ -23819,11 +23851,11 @@
 @link	eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
 @link	Wikidata Q87555853 http://www.wikidata.org/entity/Q87555853
 @form LIL
+@list	LAK094
 @list	ASY188
 @oid	o0000426
 @list	GCSL054
 @list	KWU147
-@list	LAK094
 @list	REC056
 @ucun	𒇸
 @v	kuₓ
@@ -23831,9 +23863,9 @@
 @link	eBL LIL https://www.ebl.lmu.de/signs/LIL
 @@
 @form REC145
+@list	LAK208
 @oid	o0000298
 @list	KWU634
-@list	LAK208
 @list	REC145
 @list	RSP444
 @ucun	𒆮
@@ -23844,12 +23876,12 @@
 @end sign
 
 @sign KU₇
+@list	LAK535
+@list	LAK801
 @oid	o0000299
 @list	ABZL070
 @list	ELLES284
 @list	HZL184
-@list	LAK535
-@list	LAK801
 @list	MZL171
 @list	PTACE239
 @list	RSP222
@@ -23905,6 +23937,7 @@
 @end sign
 
 @sign KUL
+@list	LAK012
 @list	ASY045
 @oid	o0000291
 @list	ABZL026
@@ -23913,7 +23946,6 @@
 @list	GCSL011
 @list	HZL012
 @list	KWU007
-@list	LAK012
 @list	MZL117
 @list	PTACE003
 @list	RSP085
@@ -23971,6 +24003,8 @@
 @end sign
 
 @sign KUN
+@list	LAK026
+@list	LAK754
 @list	ASY051
 @oid	o0000293
 @list	ABZL032
@@ -23978,8 +24012,6 @@
 @list	GCSL309
 @list	HZL035
 @list	KWU109
-@list	LAK026
-@list	LAK754
 @list	MZL131
 @list	PTACE308
 @list	RSP343
@@ -24002,6 +24034,7 @@
 @link	eBL KUN https://www.ebl.lmu.de/signs/KUN
 @link	Wikidata Q87555865 http://www.wikidata.org/entity/Q87555865
 @form MAŠ₂
+@list	LAK043
 @list	ASY050
 @oid	o0000451
 @list	ABZL031
@@ -24009,7 +24042,6 @@
 @list	ELLES028
 @list	GCSL030
 @list	HZL038
-@list	LAK043
 @list	MZL130
 @list	PTACE037
 @list	SLLHA076
@@ -24025,6 +24057,7 @@
 @end sign
 
 @sign KUR
+@list	LAK461
 @list	ASY211
 @oid	o0000294
 @list	ABZL369
@@ -24033,7 +24066,6 @@
 @list	GCSL215
 @list	HZL329
 @list	KWU341
-@list	LAK461
 @list	MZL578
 @list	PTACE215
 @list	RSP065
@@ -24093,12 +24125,11 @@
 @form LAK461a
 @oid	o0025780
 @list	ELLES241^a
-@list	LAK461a
 @inote	curviform LAK461; cuneiform LAK461 is unmarked LAK641
 @@
 @form LAK814
-@oid	o0027657
 @list	LAK814
+@oid	o0027657
 @inote	KUR written as three circles
 @@
 @end sign
@@ -24150,12 +24181,12 @@
 @end sign
 
 @sign KUŠU₂
+@list	LAK304
 @list	ASY304
 @oid	o0000295
 @list	ABZL457
 @list	ELLES175
 @list	KWU794
-@list	LAK304
 @list	MZL896
 @list	SLLHA562
 @list	SYA268
@@ -24227,8 +24258,8 @@
 @end sign
 
 @sign |HI×KUŠU₂|
-@oid	o0001766
 @list	LAK446
+@oid	o0001766
 @inote	Formerly @uname-no-utf8	CUNEIFORM SIGN KUSHU2 TIMES SAL but this was wrong.
 @link	eBL |KUŠU₂×SAL| https://www.ebl.lmu.de/signs/|KUŠU₂×SAL|
 @end sign
@@ -24366,6 +24397,7 @@
 @end sign
 
 @sign LA
+@list	LAK663
 @list	ASY027
 @oid	o0000305
 @list	ABZL177
@@ -24375,7 +24407,6 @@
 @list	GCSL285
 @list	HZL095
 @list	KWU772
-@list	LAK663
 @list	MZL089
 @list	PTACE266
 @list	RSP308
@@ -24404,12 +24435,13 @@
 @end sign
 
 @sign LA₂@t
-@oid	o0027565
 @list	LAK355
+@oid	o0027565
 @inote	for lak.atf
 @end sign
 
 @sign LAGAB
+@list	LAK766
 @list	ASY280
 @oid	o0000306
 @list	ABZL402
@@ -24418,7 +24450,6 @@
 @list	HZL179
 @list	KWU860
 @list	KWU861
-@list	LAK766
 @list	MZL755
 @list	PTACE311
 @list	RSP229
@@ -24518,10 +24549,10 @@
 @end sign
 
 @sign |LAGAB.LAGAB|
+@list	LAK767
 @list	ASY286
 @oid	o0001772
 @list	ABZL403
-@list	LAK767
 @list	MZL804
 @list	RSP230
 @list	SLLHA529
@@ -24570,6 +24601,7 @@
 @end sign
 
 @sign |LAGAB×A|
+@list	LAK785
 @list	ASY285
 @oid	o0001800
 @list	ABZL414
@@ -24579,7 +24611,6 @@
 @list	GCSL321
 @list	HZL182
 @list	KWU890
-@list	LAK785
 @list	MZL795
 @list	PTACE322
 @list	RSP263
@@ -24631,14 +24662,13 @@
 @link	eBL |LAGAB×A| https://www.ebl.lmu.de/signs/|LAGAB×A|
 @link	Wikidata Q87555881 http://www.wikidata.org/entity/Q87555881
 @form A
+@list	LAK795
 @list	ASY311
 @oid	o0000087
 @list	BAU416
 @list	ELLES393
 @list	GCSL324
 @list	KWU901
-@list	LAK795
-@list	LAK797
 @list	MZL839
 @list	PTACE328
 @list	RSP051
@@ -24675,6 +24705,7 @@
 @link	Wikidata Q87555908 http://www.wikidata.org/entity/Q87555908
 @@
 @form |LAGAB×HAL|
+@list	LAK768
 @oid	o0001814
 @list	ABZL404
 @list	BAU263
@@ -24682,7 +24713,6 @@
 @list	GCSL315
 @list	HZL216
 @list	KWU872
-@list	LAK768
 @list	MZL756
 @list	RSP264
 @list	SLLHA484
@@ -24819,9 +24849,9 @@
 @end sign
 
 @sign |LAGAB×AN|
+@list	LAK769
 @oid	o0001799
 @list	ELLES376
-@list	LAK769
 @list	MZL758
 @list	PTACE313
 @list	SLLHA484a
@@ -24994,8 +25024,8 @@
 @end sign
 
 @sign |LAGAB×GAN₂|
-@oid	o0027617
 @list	LAK789
+@oid	o0027617
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -25085,6 +25115,7 @@
 @end sign
 
 @sign |LAGAB×(GUD&GUD)|
+@list	LAK781
 @list	ASY282
 @oid	o0001778
 @pname	|LAGAB×GUD+GUD|
@@ -25094,7 +25125,6 @@
 @list	GCSL319
 @list	HZL045
 @list	KWU882
-@list	LAK781
 @list	MZL766
 @list	PTACE317
 @list	RSP258
@@ -25153,8 +25183,8 @@
 @end sign
 
 @sign |LAGAB×HA|
+@list	LAK784^a
 @oid	o0001815
-@list	LAK784a
 @list	MZL800
 @list	SLLHA527
 @uname	CUNEIFORM SIGN LAGAB TIMES HA
@@ -25168,6 +25198,7 @@
 @end sign
 
 @sign |LAGAB×HAL|
+@list	LAK768
 @oid	o0001814
 @list	ABZL404
 @list	BAU263
@@ -25175,7 +25206,6 @@
 @list	GCSL315
 @list	HZL216
 @list	KWU872
-@list	LAK768
 @list	MZL756
 @list	PTACE313
 @list	RSP264
@@ -25233,9 +25263,9 @@
 @end sign
 
 @sign |LAGAB×IGI@g|
+@list	LAK782
 @oid	o0001817
 @list	ABZL409
-@list	LAK782
 @list	MZL776
 @list	PTACE318
 @list	RSP265
@@ -25394,8 +25424,8 @@
 @inote	Emar
 @@
 @form |LAGAB×HAL|
-@oid	o0001814
 @list	LAK768
+@oid	o0001814
 @inote	TSŠ 302, needs collation; |LAGAB×HAL| is form in Gudea Cyl A xvi 8, three times
 @uname	CUNEIFORM SIGN LAGAB TIMES HAL
 @list	U+121C9
@@ -25533,12 +25563,12 @@
 @end sign
 
 @sign |LAGAB×SUM|
+@list	LAK783
 @list	ASY281
 @oid	o0001832
 @list	ABZL413
 @list	ELLES383
 @list	HZL181
-@list	LAK783
 @list	MZL767
 @list	RSP268
 @list	SLLHA491
@@ -25647,8 +25677,8 @@
 @end sign
 
 @sign |LAGAB×ŠU|
-@oid	o0027619
 @list	LAK787
+@oid	o0027619
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -25734,6 +25764,7 @@
 @end sign
 
 @sign |LAGAB×U|
+@list	LAK771
 @list	ASY283
 @oid	o0001838
 @list	ABZL410
@@ -25741,7 +25772,6 @@
 @list	GCSL320
 @list	HZL180
 @list	KWU887
-@list	LAK771
 @list	MZL786
 @list	PTACE321
 @list	RSP259^a
@@ -25772,15 +25802,16 @@
 @link	eBL |LAGAB×U| https://www.ebl.lmu.de/signs/|LAGAB×U|
 @link	Wikidata Q87555973 http://www.wikidata.org/entity/Q87555973
 @form |LAGAB×TIL|
+@list	LAK770
 @oid	o0001835
 @list	ELLES377
-@list	LAK770
 @list	PTACE312
 @v	gigirₓ
 @v	pu₂
 @link	eBL |LAGAB×TIL| https://www.ebl.lmu.de/signs/|LAGAB×TIL|
 @@
 @form |LAGAB×AŠ@c|
+@list	LAK772
 @oid	o0027185
 @inote	P519405 iii 5 in PN tul₂-saŋ
 @@
@@ -25935,8 +25966,8 @@
 @end sign
 
 @sign |LAGAB×(ZU&ZU)|
-@oid	o0001790
 @list	LAK788
+@oid	o0001790
 @uname	CUNEIFORM SIGN LAGAB TIMES ZU OVER ZU
 @list	U+124D4
 @ucun	𒓔
@@ -25955,12 +25986,12 @@
 @inote	added during ogsl upgrade
 
 @sign LAGAR
+@list	LAK306
 @oid	o0000307
 @list	ABZL308
 @list	ELLES176
 @list	HZL186
 @list	KWU431
-@list	LAK306
 @list	MZL719
 @list	RSP140
 @list	SLLHA458
@@ -26003,10 +26034,10 @@
 @end sign
 
 @sign |LAGAR×ŠE|
+@list	LAK303
 @oid	o0001853
 @list	ABZL307
 @list	KWU411
-@list	LAK303
 @list	MZL722
 @list	PTACE161
 @list	RSP146
@@ -26059,14 +26090,14 @@
 @compoundonly	|LAGAR&LAGAR|
 
 @sign LAGAR@g
+@list	LAK301
+@list	LAK302
 @list	ASY268
 @oid	o0000308
 @list	ABZL311
 @list	ELLES174
 @list	GCSL170
 @list	HZL211
-@list	LAK301
-@list	LAK302
 @list	MZL721
 @list	RSP144
 @list	PTACE160
@@ -26154,11 +26185,11 @@
 @end sign
 
 @sign LAHŠU
+@list	LAK442
 @aka |MUŠ×PA|
 @oid	o0000309
 @list	ELLES229
 @list	KWU482a
-@list	LAK442
 @list	RSP333
 @note	Krebernik OBO 160/1, 279; signform KWU482a drawn as |MUŠ×GAD|.
 @uname	CUNEIFORM SIGN LAHSHU
@@ -26191,6 +26222,8 @@
 @end sign
 
 @sign LAL
+@list	LAK756
+@list	LAK867
 @list	ASY277
 @oid	o0000422
 @list	ABZL391
@@ -26199,8 +26232,6 @@
 @list	GCSL313
 @list	HZL358
 @list	KWU654
-@list	LAK756
-@list	LAK867
 @list	MZL750
 @list	PTACE304
 @list	RSP040
@@ -26270,8 +26301,8 @@
 @end sign
 
 @sign |LAL.NI|
-@oid	o0001889
 @list	LAK758
+@oid	o0001889
 @useq	x121F2.x1224C
 @ucun	𒇲𒉌
 @v	laʾu₆
@@ -26280,8 +26311,8 @@
 @end sign
 
 @sign |LAL.SAR|
-@oid	o0001890
 @list	LAK757
+@oid	o0001890
 @useq	x121F2.x122AC
 @ucun	𒇲𒊬
 @v	nanga₄
@@ -26300,12 +26331,13 @@
 @end sign
 
 @sign |LAL×LAGAB|
-@oid	o0027628
 @list	LAK759
+@oid	o0027628
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign LAL₂
+@list	LAK760
 @list	ASY278
 @oid	o0000423
 @list	ABZL902
@@ -26313,7 +26345,6 @@
 @list	HZL362
 @list	KWU662
 @list	KWU866
-@list	LAK760
 @list	MZL751
 @list	PTACE305
 @list	SLLHA482
@@ -26367,19 +26398,19 @@
 @link	eBL |LAL₂.DU| https://www.ebl.lmu.de/signs/|LAL₂.DU|
 @form- |LAL₂×DU|
 @oid	o0027630
-@inote @list	LAK762
 @inote LAK762 is LAL₂×LAGAB
 @@
 @form |LAL₂.DU.DU|
-@oid	o0025676
 @list	LAK763
+@oid	o0025676
 @useq	x121F3.x1207A.x1207A
 @ucun	𒇳𒁺𒁺
 @@
 @end sign
 
 @sign |LAL₂.DU.DU|
-@oid	o0001892
+@list	LAK763
+@oid	o0025676
 @list	RSP043
 @useq	x121F3.x1207A.x1207A
 @ucun	𒇳𒁺𒁺
@@ -26421,6 +26452,7 @@
 @end sign
 
 @sign |LAL₂.LAGAB|
+@list	LAK762
 @oid	o0001896
 @list	ABZL468
 @list	BAU293
@@ -26451,10 +26483,10 @@
 @end sign
 
 @sign |LAL₂.SAR|
+@list	LAK761
 @list	ASY279
 @oid	o0001898
 @list	ABZL467
-@list	LAK761
 @list	RSP042
 @useq	x121F3.x122AC
 @ucun	𒇳𒊬
@@ -26536,7 +26568,6 @@
 
 @sign- |LAL₂×DU|
 @oid	o0027630
-@inote @list	LAK762
 @inote	missing compounds for lak.atf
 @inote sign does not exist; bad LAK 
 @end sign
@@ -26567,6 +26598,7 @@
 @end sign
 
 @sign LAM
+@list	LAK189
 @list	ASY254
 @oid	o0000424
 @list	ABZL244
@@ -26575,7 +26607,6 @@
 @list	GCSL097
 @list	HZL306
 @list	KWU353
-@list	LAK189
 @list	MZL693
 @list	PTACE207
 @list	RSP184
@@ -26616,11 +26647,11 @@
 @end sign
 
 @sign |LAM×KUR|
+@list	LAK190
 @list	ASY254a
 @oid	o0001906
 @list	BAU121
 @list	ELLES113
-@list	LAK190
 @list	MZL694
 @list	PTACE208
 @list	SLLHA436
@@ -26722,8 +26753,8 @@
 @note LAK entry for igi ... ŋal₂
 
 @sign LAK3
-@oid	o0000349
 @list	LAK003
+@oid	o0000349
 @uname	CUNEIFORM SIGN LAK3
 @list	U+124D5
 @ucun	𒓕
@@ -26733,22 +26764,22 @@
 @end sign
 
 @sign LAK11
-@oid	o0000311
 @list	LAK011
+@oid	o0000311
 @note	delete
 @link	eBL LAK11 https://www.ebl.lmu.de/signs/LAK11
 @end sign
 
 @sign LAK13
-@oid	o0000313
 @list	LAK013
+@oid	o0000313
 @link	eBL LAK13 https://www.ebl.lmu.de/signs/LAK13
 @end sign
 
 @sign LAK20
+@list	LAK020
 @oid	o0000321
 @list	ELLES013
-@list	LAK020
 @list	PTACE014
 @inote	@uname-no-utf8	CUNEIFORM SIGN LAK20
 @upua	U+F0086
@@ -26762,8 +26793,8 @@
 @end sign
 
 @sign LAK21
-@oid	o0000322
 @list	LAK021
+@oid	o0000322
 @uname	CUNEIFORM SIGN LAK21
 @list	U+124D6
 @ucun	𒓖
@@ -26773,9 +26804,9 @@
 @end sign
 
 @sign LAK25
+@list	LAK025
 @oid	o0000338
 @list	BAU076
-@list	LAK025
 @uname	CUNEIFORM SIGN LAK25
 @list	U+124D7
 @ucun	𒓗
@@ -26785,20 +26816,20 @@
 @end sign
 
 @sign LAK27
-@oid	o0000344
 @list	LAK027
+@oid	o0000344
 @link	eBL LAK27 https://www.ebl.lmu.de/signs/LAK27
 @end sign
 
 @sign LAK28
-@oid	o0000345
 @list	LAK028
+@oid	o0000345
 @link	eBL LAK28 https://www.ebl.lmu.de/signs/LAK28
 @end sign
 
 @sign LAK30
-@oid	o0000350
 @list	LAK030
+@oid	o0000350
 @uname	CUNEIFORM SIGN LAK30
 @list	U+124D8
 @ucun	𒓘
@@ -26809,27 +26840,25 @@
 
 @sign LAK37
 @oid	o0000362
-@list	LAK037
 @inote This is standalone LAK072^a; LAK072 is combination LAK037_LAK037×AMAR@t
 @link	eBL LAK37 https://www.ebl.lmu.de/signs/LAK37
 @end sign
 
 @sign LAK046@v
 @oid	o0018556
-@list	LAK046@v
 @inote	ed3a sfs
 @end sign
 
 @sign LAK046a
+@list	LAK046a
 @oid	o0025810
 @list	ELLES277
-@list	LAK046a
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK50
-@oid	o0000390
 @list	LAK050
+@oid	o0000390
 @uname	CUNEIFORM SIGN LAK50
 @list	U+124D9
 @ucun	𒓙
@@ -26840,15 +26869,15 @@
 @end sign
 
 @sign LAK079
-@oid	o0025793
 @list	LAK079
+@oid	o0025793
 @end sign
 
 @compoundonly	|LAK079&LAK079|
 
 @sign |(LAK079&LAK079)@g|
+@list	LAK079^a
 @oid	o0025789
-@list	LAK079a
 @uname	CUNEIFORM SIGN LAK79 OVER LAK79 GUNU
 @list	U+124DC
 @ucun	𒓜
@@ -26857,8 +26886,8 @@
 @end sign
 
 @sign LAK80
-@oid	o0000418
 @list	LAK080
+@oid	o0000418
 @uname	CUNEIFORM SIGN LAK80
 @list	U+124DD
 @ucun	𒓝
@@ -26868,14 +26897,14 @@
 @end sign
 
 @sign LAK81
-@list LAK081
+@list	LAK081
 @oid	o0027563
 @inote	for lak.atf; not drawn in LAK but referenced as R&R-ud
 @end sign
 
 @sign |LAK81&LAK81|
+@list	LAK081^a
 @oid	o0001886
-@list	LAK081a
 @uname	CUNEIFORM SIGN LAK81 OVER LAK81
 @list	U+124DE
 @ucun	𒓞
@@ -26885,8 +26914,8 @@
 @end sign
 
 @sign LAK92
-@oid	o0000421
 @list	LAK092
+@oid	o0000421
 @uname	CUNEIFORM SIGN LAK92
 @list	U+124DF
 @ucun	𒓟
@@ -26896,8 +26925,8 @@
 @end sign
 
 @sign LAK093
-@oid	o0000310
 @list	LAK093
+@oid	o0000310
 @list	RSP344
 @inote	epsd2
 @link	eBL LAK093 https://www.ebl.lmu.de/signs/LAK093
@@ -26907,14 +26936,14 @@
 @end sign
 
 @sign LAK120
-@oid	o0000312
 @list	LAK120
+@oid	o0000312
 @link	eBL LAK120 https://www.ebl.lmu.de/signs/LAK120
 @end sign
 
 @sign LAK130
-@oid	o0000314
 @list	LAK130
+@oid	o0000314
 @uname	CUNEIFORM SIGN LAK130
 @list	U+124E0
 @ucun	𒓠
@@ -26924,20 +26953,19 @@
 @end sign
 
 @sign LAK132
-@oid	o0000315
 @list	LAK132
+@oid	o0000315
 @link	eBL LAK132 https://www.ebl.lmu.de/signs/LAK132
 @end sign
 
 @sign LAK141
 @oid	o0025818
-@list	LAK141
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK142
-@oid	o0000316
 @list	LAK142
+@oid	o0000316
 @uname	CUNEIFORM SIGN LAK142
 @list	U+124E1
 @ucun	𒓡
@@ -26947,9 +26975,9 @@
 @end sign
 
 @sign LAK151
+@list	LAK151
 @aka BIL₂@g
 @oid	o0000317
-@list	LAK151
 @list	RSP365
 @link	eBL LAK151 https://www.ebl.lmu.de/signs/LAK151
 @upua	U+F0079
@@ -26958,8 +26986,8 @@
 @end sign
 
 @sign LAK171@s
+@list	LAK171^a
 @oid	o0000318
-@list	LAK171@s
 @v	esirₓ
 @v	gišhurₓ
 @v	giškadₓ
@@ -26982,40 +27010,40 @@
 @compoundonly	LAK178
 
 @sign LAK195
+@list	LAK195
 @oid	o0000320
 @list	ELLES115
-@list	LAK195
 @link	eBL LAK195 https://www.ebl.lmu.de/signs/LAK195
 @end sign
 
 @sign LAK202
-@oid	o0025729
 @list	LAK202
+@oid	o0025729
 @inote	ed3a
 @end sign
 
 @sign LAK203
-@oid	o0025822
 @list	LAK203
+@oid	o0025822
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK205
-@oid	o0221917
 @list	LAK205
+@oid	o0221917
 @inote	admin/ed3b
 @v	gamunₓ
 @end sign
 
 @sign LAK207a
-@oid	o0025824
 @list	LAK207a
+@oid	o0025824
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK210
-@oid	o0000323
 @list	LAK210
+@oid	o0000323
 @uname	CUNEIFORM SIGN LAK210
 @list	U+124E2
 @ucun	𒓢
@@ -27025,14 +27053,14 @@
 @end sign
 
 @sign LAK213
-@oid	o0000325
 @list	LAK213
+@oid	o0000325
 @link	eBL LAK213 https://www.ebl.lmu.de/signs/LAK213
 @end sign
 
 @sign LAK220
-@oid	o0000327
 @list	LAK220
+@oid	o0000327
 @uname	CUNEIFORM SIGN LAK220
 @list	U+124E4
 @ucun	𒓤
@@ -27042,14 +27070,14 @@
 @end sign
 
 @sign LAK222
-@oid	o0000328
 @list	LAK222
+@oid	o0000328
 @link	eBL LAK222 https://www.ebl.lmu.de/signs/LAK222
 @end sign
 
 @sign LAK225
-@oid	o0000329
 @list	LAK225
+@oid	o0000329
 @uname	CUNEIFORM SIGN LAK225
 @list	U+124E5
 @ucun	𒓥
@@ -27059,8 +27087,8 @@
 @end sign
 
 @sign LAK228
-@oid	o0000330
 @list	LAK228
+@oid	o0000330
 @uname	CUNEIFORM SIGN LAK228
 @list	U+124E6
 @ucun	𒓦
@@ -27070,13 +27098,13 @@
 @end sign
 
 @sign LAK231
-@oid	o0000331
 @list	LAK231
+@oid	o0000331
 @link	eBL LAK231 https://www.ebl.lmu.de/signs/LAK231
 @end sign
 
 @sign LAK234
-@list LAK234
+@list	LAK234
 @oid	o0025731
 @inote	possibly just a simple form of MUŠ
 @end sign
@@ -27087,8 +27115,8 @@
 @end sign
 
 @sign LAK238
-@oid	o0000332
 @list	LAK238
+@oid	o0000332
 @uname	CUNEIFORM SIGN LAK238
 @list	U+124E7
 @ucun	𒓧
@@ -27098,45 +27126,45 @@
 @end sign
 
 @sign LAK241
-@oid	o0000334
 @list	LAK241
+@oid	o0000334
 @link	eBL LAK241 https://www.ebl.lmu.de/signs/LAK241
 @end sign
 
 @sign LAK246
-@oid	o0000336
 @list	LAK246
+@oid	o0000336
 @link	eBL LAK246 https://www.ebl.lmu.de/signs/LAK246
 @end sign
 
 @sign LAK248b
+@list	LAK248^a
 @oid	o0025828
-@list	LAK248b
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK252
-@oid	o0000339
 @list	LAK252
+@oid	o0000339
 @link	eBL LAK252 https://www.ebl.lmu.de/signs/LAK252
 @end sign
 
 @sign LAK256@g
+@list	LAK257
 @oid	o0025829
-@list	LAK256@g
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK262
+@list	LAK262
 @oid	o0000340
 @list	ELLES148
-@list	LAK262
 @link	eBL LAK262 https://www.ebl.lmu.de/signs/LAK262
 @end sign
 
 @sign LAK262@g
+@list	LAK262^a
 @oid	o0025831
-@list	LAK262@g
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
@@ -27146,8 +27174,8 @@
 @end sign
 
 @sign LAK265
-@oid	o0000342
 @list	LAK265
+@oid	o0000342
 @uname	CUNEIFORM SIGN LAK265
 @list	U+124E8
 @ucun	𒓨
@@ -27157,8 +27185,8 @@
 @end sign
 
 @sign LAK266
-@oid	o0000343
 @list	LAK266
+@oid	o0000343
 @uname	CUNEIFORM SIGN LAK266
 @list	U+124E9
 @ucun	𒓩
@@ -27168,52 +27196,51 @@
 @end sign
 
 @sign LAK283a
+@list	LAK283^a
 @oid	o0025775
-@list	LAK283a
 @inote	modified ZAG; possibly a form of U.ZAG?; is this legit? CDLI SF 70 uses LAK283a but not clear why
 @end sign
 
 @sign LAK286
-@oid	o0000346
 @list	LAK286
+@oid	o0000346
 @link	eBL LAK286 https://www.ebl.lmu.de/signs/LAK286
 @end sign
 
 @sign LAK287
+@list	LAK287
 @oid	o0000347
 @list	ELLES168
-@list	LAK287
 @link	eBL LAK287 https://www.ebl.lmu.de/signs/LAK287
 @end sign
 
 @sign LAK298
-@oid	o0000348
 @list	LAK298
+@oid	o0000348
 @link	eBL LAK298 https://www.ebl.lmu.de/signs/LAK298
 @end sign
 
 @sign LAK309a
 @oid	o0025837
-@list	LAK309a
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK315
-@oid	o0000351
 @list	LAK315
+@oid	o0000351
 @link	eBL LAK315 https://www.ebl.lmu.de/signs/LAK315
 @end sign
 
 @sign LAK336
-@oid	o0000354
 @list	LAK336
+@oid	o0000354
 @link	eBL LAK336 https://www.ebl.lmu.de/signs/LAK336
 @end sign
 
 @sign LAK343
+@list	LAK343
 @oid	o0000355
 @list	BAU238
-@list	LAK343
 @note	CHECK Alster AfO ED Proverbs
 @uname	CUNEIFORM SIGN LAK343
 @list	U+124EA
@@ -27225,8 +27252,8 @@
 @end sign
 
 @sign LAK347
-@oid	o0000356
 @list	LAK347
+@oid	o0000356
 @uname	CUNEIFORM SIGN LAK347
 @list	U+124EB
 @ucun	𒓫
@@ -27236,8 +27263,8 @@
 @end sign
 
 @sign LAK348
-@oid	o0000357
 @list	LAK348
+@oid	o0000357
 @uname	CUNEIFORM SIGN LAK348
 @list	U+124EC
 @ucun	𒓬
@@ -27247,38 +27274,38 @@
 @end sign
 
 @sign LAK350@90
+@list	LAK350^a
 @oid	o0025733
-@list	LAK350@90
 @inote	ed3a
 @end sign
 
 @sign LAK363
+@list	LAK363
 @oid	o0025841
 @list	BAU186
 @list	ELLES198
-@list	LAK363
 @inote	CDLI |HI×1(N01@f)|
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK368@s
+@list	LAK368^a
 @oid	o0000360
-@list	LAK368@s
 @lit	Brunke/Sallaberger Owen AV (2010), 50;  Civil ARES 4, 104; Krebernik OBO 160/1, 280 (under GUDU₄).
 @note	It seems likely that this sign has a kiši reading (see Civil) and that it is ultimately identical with |HI×NUN.KASKAL|.
 @link	eBL LAK368@s https://www.ebl.lmu.de/signs/LAK368@s
 @end sign
 
 @sign LAK369
-@oid	o0000361
 @list	LAK369
+@oid	o0000361
 @lit	Krebernik OBO 160/1, 280
 @link	eBL LAK369 https://www.ebl.lmu.de/signs/LAK369
 @end sign
 
 @sign LAK383
-@oid	o0000363
 @list	LAK383
+@oid	o0000363
 @uname	CUNEIFORM SIGN LAK383
 @list	U+124ED
 @ucun	𒓭
@@ -27288,15 +27315,15 @@
 @end sign
 
 @sign LAK387
-@oid	o0000366
 @list	LAK387
+@oid	o0000366
 @link	eBL LAK387 https://www.ebl.lmu.de/signs/LAK387
 @end sign
 
 @sign LAK390
+@list	LAK390
 @oid	o0000368
 @list	ELLES212
-@list	LAK390
 @list	PTACE151
 @uname	CUNEIFORM SIGN LAK390
 @list	U+124EF
@@ -27308,60 +27335,60 @@
 @end sign
 
 @sign LAK395
+@list	LAK395
 @oid o0038384
-@list LAK395
 @end sign
 
 @sign LAK399
+@list	LAK399
 @oid o0038386
-@list LAK399
 @end sign
 
 @sign LAK407
+@list	LAK407
 @oid	o0025844
 @list	ELLES219
-@list	LAK407
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK408
-@oid	o0000370
 @list	LAK408
+@oid	o0000370
 @link	eBL LAK408 https://www.ebl.lmu.de/signs/LAK408
 @end sign
 
 @sign LAK409
-@oid	o0000371
 @list	LAK409
+@oid	o0000371
 @link	eBL LAK409 https://www.ebl.lmu.de/signs/LAK409
 @end sign
 
 @sign LAK410
-@oid	o0000372
 @list	LAK410
+@oid	o0000372
 @link	eBL LAK410 https://www.ebl.lmu.de/signs/LAK410
 @end sign
 
 @sign LAK415
+@list	LAK415
 @oid o0038388
-@list LAK415
 @end sign
 
 @sign LAK416
-@oid	o0025846
 @list	LAK416
+@oid	o0025846
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK431
-@oid	o0025848
 @list	LAK431
+@oid	o0025848
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK441
-@oid	o0000373
 @list	LAK441
+@oid	o0000373
 @uname	CUNEIFORM SIGN LAK341
 @list	U+124F0
 @ucun	𒓰
@@ -27371,14 +27398,14 @@
 @end sign
 
 @sign LAK444
-@oid	o0027544
 @list	LAK444
+@oid	o0027544
 @inote	for lak.atf
 @end sign
 
 @sign LAK445
-@oid	o0027545
 @list	LAK445
+@oid	o0027545
 @inote	for lak.atf
 @end sign
 
@@ -27391,7 +27418,6 @@
 @sign |LAK449×GU|
 @oid	o0001857
 @list	BAU129
-@list	LAK455a
 @note	Civil ARES 4, 96.
 @uname	CUNEIFORM SIGN LAK449 TIMES GU
 @list	U+124F2
@@ -27403,7 +27429,6 @@
 
 @sign |LAK449×IGI|
 @oid	o0001858
-@list	LAK455
 @uname	CUNEIFORM SIGN LAK449 TIMES IGI
 @list	U+124F3
 @ucun	𒓳
@@ -27413,8 +27438,8 @@
 @end sign
 
 @sign |LAK449×(PAP.LU₃)|
-@oid	o0001854
 @list	LAK454
+@oid	o0001854
 @uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS LU3
 @list	U+124F4
 @ucun	𒓴
@@ -27424,9 +27449,9 @@
 @end sign
 
 @sign |LAK449×(PAP.PAP.LU₃)|
+@list	LAK453
 @oid	o0001855
 @list	ELLES237
-@list	LAK453
 @list	RSP353
 @uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS PAP PLUS LU3
 @list	U+124F5
@@ -27462,8 +27487,8 @@
 @end sign
 
 @sign |LAK449×(U₂.BA)|
-@oid	o0001856
 @list	LAK452
+@oid	o0001856
 @list	RSP354
 @inote	NUNUZ.KISIM₅x(U₂.BA)
 @uname	CUNEIFORM SIGN LAK449 TIMES U2 PLUS BA
@@ -27480,34 +27505,33 @@
 @end sign
 
 @sign |LAK449a×GU|
+@list	LAK455a
 @oid	o0027620
 @list	ELLES238
-@list	LAK455a
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |LAK449a×IGI|
-@oid	o0027622
 @list	LAK455
+@oid	o0027622
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign LAK453
 @oid	o0000376
-@list	LAK453
 @link	eBL LAK453 https://www.ebl.lmu.de/signs/LAK453
 @end sign
 
 @sign LAK456
-@oid	o0027547
 @list	LAK456
+@oid	o0027547
 @inote	for lak.atf
 @end sign
 
 @sign LAK457
+@list	LAK457
 @oid	o0000377
 @list	ELLES239
-@list	LAK457
 @list	PTACE197
 @uname	CUNEIFORM SIGN LAK457
 @list	U+124F8
@@ -27518,14 +27542,14 @@
 @end sign
 
 @sign LAK458
-@oid	o0270207
 @list	LAK458
+@oid	o0270207
 @inote LAK asks if this should be associated with U.GAN; not clear.
 @end sign
 
 @sign LAK470
-@oid	o0000380
 @list	LAK470
+@oid	o0000380
 @list	RSP101
 @uname	CUNEIFORM SIGN LAK470
 @list	U+124F9
@@ -27536,14 +27560,14 @@
 @end sign
 
 @sign LAK471
-@oid	o0000381
 @list	LAK471
+@oid	o0000381
 @link	eBL LAK471 https://www.ebl.lmu.de/signs/LAK471
 @end sign
 
 @sign LAK483
-@oid	o0000382
 @list	LAK483
+@oid	o0000382
 @list	RSP367
 @uname	CUNEIFORM SIGN LAK483
 @list	U+124FA
@@ -27555,14 +27579,14 @@
 @end sign
 
 @sign LAK488
-@oid	o0000383
 @list	LAK488
+@oid	o0000383
 @link	eBL LAK488 https://www.ebl.lmu.de/signs/LAK488
 @end sign
 
 @sign LAK490
-@oid	o0000384
 @list	LAK490
+@oid	o0000384
 @list	RSP429
 @uname	CUNEIFORM SIGN LAK490
 @list	U+124FB
@@ -27576,21 +27600,21 @@
 @end sign
 
 @sign |LAK490×KASKAL|
-@oid	o0027624
 @list	LAK491
+@oid	o0027624
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign LAK490@90
+@list	LAK490^a
 @oid	o0025734
-@list	LAK490@90
 @inote	ed3a
 @end sign
 
 @sign LAK492
+@list	LAK492
 @oid	o0000385
 @list	ELLES254
-@list	LAK492
 @list	PTACE276
 @lit	Krecher, Bilinguismo a Ebla (1984), 142; Pomponio, UF 17, 237
 @note	After the ED period the sign disappears and its values are absorbed by TAK₄(LAK292) = ŠU@90. That LAK292 already had a tak₄ value is supported by variants in EDPV-A 210 (tag vs. LAK292). In earlier literature LAK492 is described as DUB₂.
@@ -27607,8 +27631,8 @@
 @end sign
 
 @sign LAK495
-@oid	o0000387
 @list	LAK495
+@oid	o0000387
 @uname	CUNEIFORM SIGN LAK495
 @list	U+124FE
 @ucun	𒓾
@@ -27618,27 +27642,27 @@
 @end sign
 
 @sign LAK496
+@list	LAK496
 @oid	o0221890
 @list	GCSL228
-@list	LAK496
 @inote	This is EGIR(LAK499) without the gunufication at the end of the sign. Used for egir in Gudea Cyl. except for the final use in the Gudea Cyl B colophon.
 @end sign
 
 @sign LAK498
-@oid	o0000388
 @list	LAK498
+@oid	o0000388
 @link	eBL LAK498 https://www.ebl.lmu.de/signs/LAK498
 @end sign
 
 @sign LAK508
-@oid	o0027548
 @list	LAK508
+@oid	o0027548
 @inote	for lak.atf
 @end sign
 
 @sign LAK526
-@oid	o0000394
 @list	LAK526
+@oid	o0000394
 @list	RSP379
 @inote	epsd2/royal, ed3b
 @upua	U+F0073
@@ -27650,14 +27674,14 @@
 @end sign
 
 @sign LAK546
-@oid	o0025735
 @list	LAK546
+@oid	o0025735
 @inote	ed3a
 @end sign
 
 @sign LAK550
-@oid	o0000397
 @list	LAK550
+@oid	o0000397
 @uname	CUNEIFORM SIGN LAK550
 @list	U+124FF
 @ucun	𒓿
@@ -27667,20 +27691,20 @@
 @end sign
 
 @sign LAK558
-@oid	o0000398
 @list	LAK558
+@oid	o0000398
 @link	eBL LAK558 https://www.ebl.lmu.de/signs/LAK558
 @end sign
 
 @sign LAK605
-@oid	o0000399
 @list	LAK605
+@oid	o0000399
 @link	eBL LAK605 https://www.ebl.lmu.de/signs/LAK605
 @end sign
 
 @sign LAK606
-@oid	o0000400
 @list	LAK606
+@oid	o0000400
 @link	eBL LAK606 https://www.ebl.lmu.de/signs/LAK606
 @upua	U+F0087
 @ucun	󰂇
@@ -27688,15 +27712,15 @@
 @end sign
 
 @sign LAK607
+@list	LAK607
 @oid	o0000401
 @list	ELLES298
-@list	LAK607
 @link	eBL LAK607 https://www.ebl.lmu.de/signs/LAK607
 @end sign
 
 @sign LAK608
-@oid	o0000402
 @list	LAK608
+@oid	o0000402
 @uname	CUNEIFORM SIGN LAK608
 @list	U+12500
 @ucun	𒔀
@@ -27706,9 +27730,9 @@
 @end sign
 
 @sign LAK617
+@list	LAK617
 @oid	o0000403
 @list	BAU300
-@list	LAK617
 @note	exists only as container sign; variant of EZEN LAK611
 @uname	CUNEIFORM SIGN LAK-617
 @list	U+12501
@@ -27719,9 +27743,9 @@
 @end sign
 
 @sign |LAK617×AŠ|
+@list	LAK618
 @oid	o0001865
 @list	BAU301
-@list	LAK618
 @uname	CUNEIFORM SIGN LAK617 TIMES ASH
 @list	U+12502
 @ucun	𒔂
@@ -27736,10 +27760,10 @@
 @end sign
 
 @sign |LAK617×BAD|
+@list	LAK619
 @oid	o0001866
 @list	BAU302
 @list	ELLES305
-@list	LAK619
 @list	PTACE263
 @uname	CUNEIFORM SIGN LAK617 TIMES BAD
 @list	U+12503
@@ -27760,8 +27784,8 @@
 @end sign
 
 @sign |LAK617×KU₃|
-@oid	o0001867
 @list	LAK620
+@oid	o0001867
 @uname	CUNEIFORM SIGN LAK617 TIMES KU3
 @list	U+12505
 @ucun	𒔅
@@ -27776,8 +27800,8 @@
 @end sign
 
 @sign |LAK617×TAR|
-@oid	o0001870
 @list	LAK626
+@oid	o0001870
 @uname	CUNEIFORM SIGN LAK617 TIMES TAR
 @list	U+12507
 @ucun	𒔇
@@ -27787,8 +27811,8 @@
 @end sign
 
 @sign |LAK617×TE|
-@oid	o0001871
 @list	LAK624
+@oid	o0001871
 @uname	CUNEIFORM SIGN LAK617 TIMES TE
 @list	U+12508
 @ucun	𒔈
@@ -27798,8 +27822,8 @@
 @end sign
 
 @sign |LAK617×U₂|
-@oid	o0001874
 @list	LAK625
+@oid	o0001874
 @uname	CUNEIFORM SIGN LAK617 TIMES U2
 @list	U+12509
 @ucun	𒔉
@@ -27809,8 +27833,8 @@
 @end sign
 
 @sign |LAK617×UD|
-@oid	o0001872
 @list	LAK623
+@oid	o0001872
 @uname	CUNEIFORM SIGN LAK617 TIMES UD
 @list	U+1250A
 @ucun	𒔊
@@ -27820,8 +27844,8 @@
 @end sign
 
 @sign |LAK617×URUDA|
-@oid	o0001873
 @list	LAK627
+@oid	o0001873
 @uname	CUNEIFORM SIGN LAK617 TIMES URUDA
 @list	U+1250B
 @ucun	𒔋
@@ -27831,8 +27855,8 @@
 @end sign
 
 @sign LAK636
-@oid	o0000405
 @list	LAK636
+@oid	o0000405
 @uname	CUNEIFORM SIGN LAK636
 @list	U+1250C
 @ucun	𒔌
@@ -27854,20 +27878,20 @@
 @end sign
 
 @sign LAK638
-@oid	o0000406
 @list	LAK638
+@oid	o0000406
 @link	eBL LAK638 https://www.ebl.lmu.de/signs/LAK638
 @end sign
 
 @sign LAK643
-@oid	o0027550
 @list	LAK643
+@oid	o0027550
 @inote	for lak.atf
 @end sign
 
 @sign LAK646
-@oid	o0000407
 @list	LAK646
+@oid	o0000407
 @link	eBL LAK646 https://www.ebl.lmu.de/signs/LAK646
 @end sign
 
@@ -27882,8 +27906,8 @@
 @end sign
 
 @sign |LAK648×DUB|
-@oid	o0001877
 @list	LAK717
+@oid	o0001877
 @uname	CUNEIFORM SIGN LAK648 TIMES DUB
 @list	U+1250E
 @ucun	𒔎
@@ -27895,8 +27919,8 @@
 @end sign
 
 @sign |LAK648×GA|
-@oid	o0001878
 @list	LAK714
+@oid	o0001878
 @uname	CUNEIFORM SIGN LAK648 TIMES GA
 @list	U+1250F
 @ucun	𒔏
@@ -27906,8 +27930,8 @@
 @end sign
 
 @sign |LAK648×IGI@g|
-@oid	o0001879
 @list	LAK651
+@oid	o0001879
 @uname	CUNEIFORM SIGN LAK648 TIMES IGI GUNU
 @list	U+12511
 @ucun	𒔑
@@ -27922,8 +27946,8 @@
 @end sign
 
 @sign |LAK648×NI|
-@oid	o0001882
 @list	LAK715
+@oid	o0001882
 @uname	CUNEIFORM SIGN LAK-648 TIMES NI
 @list	U+12512
 @ucun	𒔒
@@ -27934,8 +27958,8 @@
 @end sign
 
 @sign |LAK648×(PAP.PAP.LU₃)|
-@oid	o0001875
 @list	LAK720
+@oid	o0001875
 @uname	CUNEIFORM SIGN LAK648 TIMES PAP PLUS PAP PLUS LU3
 @list	U+12513
 @ucun	𒔓
@@ -27945,8 +27969,8 @@
 @end sign
 
 @sign |LAK648×(ŠEŠ.KI)|
-@oid	o0001876
 @list	LAK719
+@oid	o0001876
 @uname	CUNEIFORM SIGN LAK648 TIMES SHESH PLUS KI
 @list	U+12514
 @ucun	𒔔
@@ -27956,8 +27980,8 @@
 @end sign
 
 @sign |LAK648×UD|
-@oid	o0001883
 @list	LAK718
+@oid	o0001883
 @uname	CUNEIFORM SIGN LAK648 TIMES UD
 @list	U+12515
 @ucun	𒔕
@@ -27970,34 +27994,33 @@
 
 @sign LAK708
 @oid	o0000410
-@list	LAK708
 @link	eBL LAK708 https://www.ebl.lmu.de/signs/LAK708
 @inote No drawn sign.
 @inote make @lref unless there is a usable instance somewhere
 @end sign
 
 @sign LAK712a
+@list	LAK712^a
 @oid	o0025852
-@list	LAK712a
 @inote	LAK712a is probably a form of LAK648 used as a container
 @end sign
 
 @sign LAK712b
+@list	LAK712^b
 @oid	o0038394
-@list LAK712b
 @inote LAK712b is ŠEN without the ×A
 @end sign
 
 @sign LAK722
-@oid	o0027551
 @list	LAK722
+@oid	o0027551
 @list	RSP359
 @inote	for lak.atf
 @end sign
 
 @sign LAK724
-@oid	o0000411
 @list	LAK724
+@oid	o0000411
 @uname	CUNEIFORM SIGN LAK724
 @list	U+12517
 @ucun	𒔗
@@ -28007,14 +28030,14 @@
 @end sign
 
 @sign LAK748
-@oid	o0000414
 @list	LAK748
+@oid	o0000414
 @link	eBL LAK748 https://www.ebl.lmu.de/signs/LAK748
 @end sign
 
 @sign LAK749
-@oid	o0000415
 @list	LAK749
+@oid	o0000415
 @list	RSP436
 @uname	CUNEIFORM SIGN LAK749
 @list	U+12518
@@ -28026,8 +28049,8 @@
 @end sign
 
 @sign LAK764
-@oid	o0000416
 @list	LAK764
+@oid	o0000416
 @list	PTACE086
 @list	REC448bis
 @inote	In addition to a crossreference to LAK74, LAK764 cites only REC448bis,
@@ -28046,80 +28069,79 @@
 @end sign
 
 @sign LAK765
-@oid	o0018528
 @list	LAK765
+@oid	o0018528
 @inote	ed3a DN
 @end sign
 
 @sign LAK772b
+@list	LAK772^a
 @oid	o0025854
-@list	LAK772b
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK773
-@oid	o0027553
 @list	LAK773
+@oid	o0027553
 @inote	for lak.atf
 @end sign
 
 @sign LAK774
-@oid	o0000417
 @list	LAK774
+@oid	o0000417
 @link	eBL LAK774 https://www.ebl.lmu.de/signs/LAK774
 @end sign
 
 @sign LAK779
+@list	LAK779
 @oid	o0021461
 @list	BAU276
-@list	LAK779
 @list	ZATU149
 @inote	Green ZATU /ešgar/ but Steinkeller BiOr 52 sceptical of this
 @end sign
 
 @sign LAK791a
 @oid	o0025856
-@list	LAK791a
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LAK804
-@oid	o0027557
 @list	LAK804
+@oid	o0027557
 @inote	for lak.atf
 @end sign
 
 @sign LAK805
-@oid	o0027559
 @list	LAK805
+@oid	o0027559
 @inote	for lak.atf
 @end sign
 
 @sign LAK806
-@oid	o0027561
 @list	LAK806
+@oid	o0027561
 @inote	for lak.atf
 @end sign
 
 @sign LAK811
-@oid	o0000419
 @list	LAK811
+@oid	o0000419
 @link	eBL LAK811 https://www.ebl.lmu.de/signs/LAK811
 @end sign
 
 @sign LAK812
-@oid	o0000420
 @list	LAK812
+@oid	o0000420
 @link	eBL LAK812 https://www.ebl.lmu.de/signs/LAK812
 @end sign
 
 @sign LAK821
 @oid	o0025858
-@list	LAK821
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
 @sign LI
+@list	LAK206
 @list	ASY031
 @oid	o0000425
 @list	ABZL381
@@ -28129,7 +28151,6 @@
 @list	HZL343
 @list	KWU324
 @list	KWU640
-@list	LAK206
 @list	MZL085
 @list	PTACE047
 @list	RSP445
@@ -28155,6 +28176,7 @@
 @end sign
 
 @sign LIL
+@list	LAK094
 @list	ASY188
 @oid	o0000426
 @aka	REC56
@@ -28162,7 +28184,6 @@
 @list	GCSL054
 @list	HZL127
 @list	KWU147
-@list	LAK094
 @list	MZL544
 @list	REC056
 @list	RSP127
@@ -28182,9 +28203,9 @@
 @link	eBL LIL https://www.ebl.lmu.de/signs/LIL
 @link	Wikidata Q87556009 http://www.wikidata.org/entity/Q87556009
 @form REC145
+@list	LAK208
 @oid	o0000298
 @list	KWU634
-@list	LAK208
 @list	REC145
 @ucun	𒆮
 @inote	@aka KU₄~a (repeated @aka KU₄ is redundant and not allowed)
@@ -28194,9 +28215,9 @@
 @end sign
 
 @sign REC145
+@list	LAK208
 @oid	o0000298
 @list	KWU634
-@list	LAK208
 @list	REC145
 @list	RSP444
 @lit	Krecher 1973 https://doi.org/10.1515/zava.1973.63.2.145 p. 232
@@ -28284,12 +28305,12 @@
 @end sign
 
 @sign LIŠ
+@list	LAK279
 @list	ASY220
 @oid	o0000431
 @list	ABZL232
 @list	HZL286
 @list	KWU339
-@list	LAK279
 @list	MZL591
 @list	PTACE140
 @list	RSP046
@@ -28314,6 +28335,7 @@
 @end sign
 
 @sign LU
+@list	LAK775
 @list	ASY292
 @oid	o0000433
 @list	ABZL416
@@ -28322,7 +28344,6 @@
 @list	GCSL317
 @list	HZL210
 @list	KWU891
-@list	LAK775
 @list	MZL812
 @list	PTACE314
 @list	RSP260
@@ -28343,8 +28364,8 @@
 @link	eBL LU https://www.ebl.lmu.de/signs/LU
 @link	Wikidata Q87556014 http://www.wikidata.org/entity/Q87556014
 @form DIB
+@list	LAK780
 @list	ASY293
-@list LAK780
 @oid	o0221968
 @inote @v	dibₓ
 @inote DIB value dib can't also be dibₓ
@@ -28383,10 +28404,10 @@
 @end sign
 
 @sign |LU.HUL₂|
+@list	LAK776
 @oid	o0001909
 @list	BAU274
 @list	ELLES379
-@list	LAK776
 @list	PTACE315
 @list	RSP261
 @useq	x121FB.x1213E
@@ -28449,6 +28470,7 @@
 @end sign
 
 @sign LU₂
+@list	LAK337
 @list	ASY180
 @oid	o0000439
 @list	ABZL253
@@ -28457,7 +28479,6 @@
 @list	GCSL218
 @list	HZL078
 @list	KWU080
-@list	LAK337
 @list	MZL514
 @list	PTACE017
 @list	RSP396
@@ -28677,12 +28698,12 @@
 @end sign
 
 @sign |LU₂×BAD|
+@list	LAK344
 @list	ASY181
 @oid	o0001967
 @list	ABZL256
 @list	BAU237
 @list	KWU082
-@list	LAK344
 @list	MZL517
 @list	PTACE018
 @list	RSP397
@@ -28740,8 +28761,8 @@
 @end sign
 
 @sign |LU₂×DIŠ|
-@oid	o0001968
 @list	LAK338
+@oid	o0001968
 @uname	CUNEIFORM SIGN LU2 TIMES DISH
 @list	U+1251A
 @ucun	𒔚
@@ -28866,8 +28887,8 @@
 @end sign
 
 @sign |LU₂×HAL|
+@list	LAK340
 @oid	o0001974
-@list	LAK340b
 @inote why is this not plain LAK340?
 @uname	CUNEIFORM SIGN LU2 TIMES HAL
 @list	U+1251B
@@ -28877,7 +28898,6 @@
 @link	Wikidata Q87557396 http://www.wikidata.org/entity/Q87557396
 @form LAK340
 @oid	o0025839
-@list	LAK340
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @@
 @end sign
@@ -29065,7 +29085,6 @@
 
 @sign |LU₂×PAP|
 @oid	o0001983
-@inote @list	LAK340a
 @uname	CUNEIFORM SIGN LU2 TIMES PAP
 @list	U+1251C
 @ucun	𒔜
@@ -29075,8 +29094,8 @@
 @end sign
 
 @sign |LU₂×(PAP.PAP.LU₃)|
-@oid	o0001961
 @list	LAK341
+@oid	o0001961
 @uname	CUNEIFORM SIGN LU2 TIMES PAP PLUS PAP PLUS LU3
 @list	U+1251D
 @ucun	𒔝
@@ -29133,8 +29152,8 @@
 @end sign
 
 @sign |LU₂×TAK₄|
-@oid	o0001984
 @list	LAK342
+@oid	o0001984
 @uname	CUNEIFORM SIGN LU2 TIMES TAK4
 @list	U+1251E
 @ucun	𒔞
@@ -29209,9 +29228,9 @@
 @end sign
 
 @sign |LU₂@g×AŠ|
+@list	LAK339
 @oid	o0001955
 @list	ELLES190
-@list	LAK339
 @uname	CUNEIFORM SIGN LU2 GUNU TIMES ASH
 @list	U+12519
 @ucun	𒔙
@@ -29248,8 +29267,8 @@
 @link	eBL LU₂@s https://www.ebl.lmu.de/signs/LU₂@s
 @link	Wikidata Q87556068 http://www.wikidata.org/entity/Q87556068
 @form LAK349
-@oid	o0000358
 @list	LAK349
+@oid	o0000358
 @link	eBL LAK349 https://www.ebl.lmu.de/signs/LAK349
 @@
 @form |LU₂.GAM|
@@ -29296,9 +29315,9 @@
 @end sign
 
 @sign |LU₂@s×BAD|
+@list	LAK345
 @oid	o0001957
 @list	KWU083
-@list	LAK345
 @uname	CUNEIFORM SIGN LU2 SHESHIG TIMES BAD
 @list	U+12389
 @ucun	𒎉
@@ -29332,6 +29351,7 @@
 @end sign
 
 @sign LU₃
+@list	LAK790
 @list	ASY196
 @oid	o0000443
 @list	ABZL216
@@ -29339,7 +29359,6 @@
 @list	ELLES386
 @list	GCSL067
 @list	KWU293
-@list	LAK790
 @list	MZL555
 @list	PTACE319
 @list	RSP257
@@ -29396,6 +29415,7 @@
 @end sign
 
 @sign LUGAL
+@list	LAK165
 @list	ASY112
 @oid	o0000434
 @list	ABZL221a
@@ -29403,7 +29423,6 @@
 @list	GCSL077
 @list	HZL115
 @list	KWU313
-@list	LAK165
 @list	MZL266
 @list	PTACE107
 @list	RSP130
@@ -29520,8 +29539,8 @@
 @end sign
 
 @sign LUGAL@s
-@oid	o0000435
 @list	LAK166
+@oid	o0000435
 @note	Listed in LAK with reference to a Nebuchadnezzar text. Probably an exceptional (late) form in archaizing text.
 @uname	CUNEIFORM SIGN LUGAL SHESHIG
 @list	U+1221A
@@ -29533,6 +29552,7 @@
 @end sign
 
 @sign LUH
+@list	LAK168
 @list	ASY172
 @oid	o0000436
 @list	ABZL196
@@ -29542,7 +29562,6 @@
 @list	HZL198
 @list	KWU321
 @list	KWU766
-@list	LAK168
 @list	MZL494
 @list	PTACE104
 @list	RSP131
@@ -29579,6 +29598,8 @@
 @end sign
 
 @sign LUL
+@list	LAK242
+@list	LAK243
 @list	ASY207
 @oid	o0000437
 @list	ABZL296
@@ -29587,8 +29608,6 @@
 @list	ELLES136
 @list	GCSL164
 @list	KWU455
-@list	LAK242
-@list	LAK243
 @list	MZL570
 @list	PTACE131
 @list	RSP468
@@ -29657,9 +29676,9 @@
 @link	eBL LUL https://www.ebl.lmu.de/signs/LUL
 @link	Wikidata Q87556081 http://www.wikidata.org/entity/Q87556081
 @form LAK244
+@list	LAK244
 @oid	o0000335
 @list	ELLES138
-@list	LAK244
 @list	RSP468ter
 @upua	U+F0077
 @ucun	󰁷
@@ -29740,6 +29759,7 @@
 @end sign
 
 @sign LUM
+@list	LAK194
 @list	ASY307
 @oid	o0000438
 @list	ABZL248
@@ -29748,7 +29768,6 @@
 @list	GCSL100
 @list	HZL310
 @list	KWU354
-@list	LAK194
 @list	MZL900
 @list	PTACE213
 @list	RSP138
@@ -29857,6 +29876,7 @@
 @end sign
 
 @sign MA
+@list	LAK034
 @list	ASY193
 @oid	o0000444
 @list	ABZL166
@@ -29866,7 +29886,6 @@
 @list	GCSL009
 @list	HZL208
 @list	KWU098
-@list	LAK034
 @list	MZL552
 @list	PTACE026
 @list	RSP289
@@ -29896,12 +29915,12 @@
 @end sign
 
 @sign MA@g
+@list	LAK035
 @oid	o0000445
 @list	ABZL218
 @list	ELLES020
 @list	HZL219
 @list	KWU292
-@list	LAK035
 @list	MZL270
 @list	PTACE027
 @list	RSP290
@@ -29935,6 +29954,7 @@
 @end sign
 
 @sign MA₂
+@list	LAK529
 @list	ASY088
 @oid	o0000452
 @list	ABZL050
@@ -29942,7 +29962,6 @@
 @list	GCSL032
 @list	HZL087
 @list	KWU097
-@list	LAK529
 @list	MZL201
 @list	PTACE033
 @list	RSP294
@@ -30064,13 +30083,13 @@
 @end sign
 
 @sign MAH
+@list	LAK057
 @list	ASY029
 @oid	o0000446
 @list	ABZL006
 @list	GCSL023
 @list	HZL010
 @list	KWU091
-@list	LAK057
 @list	MZL091
 @list	PTACE242
 @list	RSP368
@@ -30102,6 +30121,7 @@
 @end sign
 
 @sign MAR
+@list	LAK126
 @list	ASY162
 @oid	o0000448
 @list	ABZL144
@@ -30110,7 +30130,6 @@
 @list	GCSL061
 @list	HZL191
 @list	KWU183
-@list	LAK126
 @list	MZL483
 @list	PTACE078
 @list	RSP115
@@ -30139,6 +30158,7 @@
 @end sign
 
 @sign MAŠ
+@list	LAK042
 @list	ASY047
 @oid	o0000449
 @list	ABZL029
@@ -30147,7 +30167,6 @@
 @list	GCSL027
 @list	HZL020
 @list	KWU107
-@list	LAK042
 @list	MZL120
 @list	PTACE036
 @list	RSP019
@@ -30218,13 +30237,13 @@
 @end sign
 
 @sign |MAŠ.GU₂.GAR₃|
+@list	LAK063^a
 @oid	o0001993
 @list	ABZL030
 @list	GCSL028
 @list	HZL253
 @list	KWU104
 @list	KWU105
-@list	LAK063b
 @list	MZL124
 @list	RSP347
 @list	SLLHA074_238
@@ -30332,6 +30351,7 @@
 @end sign
 
 @sign MAŠ₂
+@list	LAK043
 @list	ASY050
 @oid	o0000451
 @list	ABZL031
@@ -30339,7 +30359,6 @@
 @list	ELLES028
 @list	GCSL030
 @list	HZL038
-@list	LAK043
 @list	MZL130
 @list	PTACE037
 @list	SLLHA076
@@ -30366,12 +30385,13 @@
 @end sign
 
 @sign MAŠ₂@g
-@oid	o0027568
 @list	LAK044
+@oid	o0027568
 @inote	for lak.atf
 @end sign
 
 @sign ME
+@list	LAK750
 @list	ASY287
 @oid	o0000453
 @list	ABZL392
@@ -30380,7 +30400,6 @@
 @list	GCSL307
 @list	HZL357
 @list	KWU667
-@list	LAK750
 @list	MZL753
 @list	PTACE303
 @list	RSP045
@@ -30465,6 +30484,7 @@
 @end sign
 
 @sign MES
+@list	LAK127
 @list	ASY168
 @oid	o0000454
 @list	ABZL112a
@@ -30472,7 +30492,6 @@
 @list	ELLES071
 @list	GCSL260
 @list	HZL112
-@list	LAK127
 @list	MZL486
 @list	RSP277
 @list	SLLHA314
@@ -30511,6 +30530,7 @@
 @end sign
 
 @sign MI
+@list	LAK391
 @list	ASY248
 @oid	o0000455
 @list	ABZL348
@@ -30519,7 +30539,6 @@
 @list	GCSL200
 @list	HZL267
 @list	KWU506
-@list	LAK391
 @list	MZL681
 @list	PTACE152
 @list	RSP120
@@ -30588,9 +30607,9 @@
 @end sign
 
 @sign |MI.ZA₇|
+@list	LAK393
 @oid	o0002015
 @list	ELLES215
-@list	LAK393
 @uname	CUNEIFORM SIGN MI PLUS ZA7
 @list	U+1251F
 @ucun	𒔟
@@ -30605,11 +30624,11 @@
 @end sign
 
 @sign MIN
+@list	LAK417
 @list	ASY308a
 @oid	o0000456
 @list	ABZL465
 @list	HZL361
-@list	LAK417
 @list	MZL825
 @list	RSP039^b
 @list	SLLHA570
@@ -30638,6 +30657,7 @@
 @compoundonly	|MIN×IGI|
 
 @sign MU
+@list	LAK014
 @list	ASY035
 @oid	o0000457
 @list	ABZL020
@@ -30646,7 +30666,6 @@
 @list	GCSL005
 @list	HZL017
 @list	KWU048
-@list	LAK014
 @list	MZL098
 @list	PTACE024
 @list	RSP438
@@ -30707,13 +30726,13 @@
 @end sign
 
 @sign |MU&MU|
+@list	LAK015
 @list	ASY119
 @oid	o0002016
 @list	ABZL142
 @list	GCSL052
 @list	HZL171
 @list	KWU049
-@list	LAK015
 @list	MZL301
 @list	PTACE025
 @list	RSP439
@@ -30738,8 +30757,8 @@
 @ucun	𒈬𒈬
 @@
 @form |ŠE&ŠE|
-@oid	o0002709
 @list	LAK200
+@oid	o0002709
 @inote	Nisaba 25 p.29
 @list	U+12532
 @ucun	𒔲
@@ -30757,13 +30776,13 @@
 @end sign
 
 @sign MUG
+@list	LAK048
 @list	ASY003
 @oid	o0000458
 @list	ABZL012
 @list	ELLES029
 @list	HZL022
 @list	KWU084
-@list	LAK048
 @list	MZL012
 @list	PTACE060
 @list	RSP168
@@ -30820,10 +30839,10 @@
 @end sign
 
 @sign MUNSUB
+@list	LAK672^b
 @oid	o0000460
 @list	ABZL397
 @list	ELLES329
-@list	LAK672b
 @list	PTACE275
 @list	MZL820
 @list	SLLHA543
@@ -30856,8 +30875,8 @@
 @link	eBL |SIK₂.SUHUR| https://www.ebl.lmu.de/signs/|SIK₂.SUHUR|
 @@
 @form UŠX
+@list	LAK672^a
 @oid	o0000597
-@list	LAK672a
 @link	eBL UŠX https://www.ebl.lmu.de/signs/UŠX
 @@
 @end sign
@@ -30887,11 +30906,11 @@
 @link	eBL MURGU₂ https://www.ebl.lmu.de/signs/MURGU₂
 @link	Wikidata Q87556121 http://www.wikidata.org/entity/Q87556121
 @form SIG₄
+@list	LAK188
 @oid	o0000528
 @list	BAU206
 @list	ELLES111
 @list	GCSL096
-@list	LAK188
 @list	PTACE214
 @list	RSP114
 @v	ŋur₂₃
@@ -30906,14 +30925,15 @@
 @end sign
 
 @sign MURUB₄@g
+@list	LAK158
 @oid	o0027570
 @upua	U+F0058
 @ucun	󰁘
-@list	LAK158
 @inote	for lak.atf; could this be a graphic variant of NISAG, LAK159
 @end sign
 
 @sign MUŠ
+@list	LAK235
 @list	ASY216
 @oid	o0000463
 @list	ABZL267
@@ -30923,7 +30943,6 @@
 @list	GCSL117
 @list	HZL342
 @list	KWU388
-@list	LAK235
 @list	MZL585
 @list	RSP337
 @list	SLLHA374
@@ -31161,8 +31180,8 @@
 @end sign
 
 @sign |MUŠ%MUŠ|
-@oid	o0002021
 @list	LAK236
+@oid	o0002021
 @list	RSP338
 @uname	CUNEIFORM SIGN MUSH CROSSING MUSH
 @list	U+12238
@@ -31233,6 +31252,7 @@
 @end sign
 
 @sign MUŠ₃
+@list	LAK462
 @list	ASY062
 @list	ASY075
 @oid	o0000466
@@ -31241,7 +31261,6 @@
 @list	ELLES242
 @list	HZL041
 @list	KWU117
-@list	LAK462
 @list	MZL153
 @list	RSP098
 @list	SLLHA103v
@@ -31284,6 +31303,7 @@
 @link	eBL MUŠ₃ https://www.ebl.lmu.de/signs/MUŠ₃
 @link	Wikidata Q87556136 http://www.wikidata.org/entity/Q87556136
 @form MUŠ₃@g
+@list	LAK463
 @list	ASY074
 @oid	o0000467
 @inote ASY organization of MUŠ₃/MUŠ₃@g does not align exactly with OSL.
@@ -31587,11 +31607,11 @@
 @end sign
 
 @sign MUŠ₃@g
+@list	LAK463
 @list	ASY074
 @oid	o0000467
 @list	ABZL045
 @list	KWU118
-@list	LAK463
 @list	MZL152
 @list	SLLHA102
 @list	SYA065
@@ -31868,6 +31888,7 @@
 @end sign
 
 @sign NA
+@list	LAK022
 @list	ASY043
 @oid	o0000469
 @list	ABZL024
@@ -31876,7 +31897,6 @@
 @list	GCSL012
 @list	HZL015
 @list	KWU062
-@list	LAK022
 @list	MZL110
 @list	PTACE021
 @list	RSP340
@@ -31904,6 +31924,9 @@
 @end sign
 
 @sign NA₂
+@list	LAK221
+@list	LAK221a
+@list	LAK221b
 @list	ASY250
 @oid	o0000476
 @list	ABZL364
@@ -31912,7 +31935,6 @@
 @list	GCSL108
 @list	HZL314
 @list	KWU555
-@list	LAK221
 @list	MZL689
 @list	PTACE190
 @list	RSP402
@@ -31947,13 +31969,13 @@
 @end sign
 
 @sign NAGA
+@list	LAK209
 @list	ASY115a
 @oid	o0000470
 @list	ABZL377
 @list	BAU132
 @list	ELLES121
 @list	KWU592
-@list	LAK209
 @list	MZL293
 @list	PTACE050
 @list	RSP448
@@ -32083,6 +32105,7 @@
 @end sign
 
 @sign NAGAR
+@list	LAK512
 @list	ASY303a
 @oid	o0000473
 @list	ABZL449
@@ -32090,7 +32113,6 @@
 @list	ELLES267
 @list	HZL308
 @list	KWU782
-@list	LAK512
 @list	MZL893
 @list	PTACE222
 @list	RSP177
@@ -32167,6 +32189,7 @@
 @end sign
 
 @sign NAM
+@list	LAK071
 @list	ASY054
 @oid	o0000474
 @list	ABZL042
@@ -32175,7 +32198,6 @@
 @list	GCSL040
 @list	HZL039
 @list	KWU121
-@list	LAK071
 @list	MZL134
 @list	PTACE065
 @list	RSP413
@@ -32252,11 +32274,11 @@
 @end sign
 
 @sign NAM₂
+@list	LAK792
 @oid	o0000475
 @list	ABZL417
 @list	BAU385a
 @list	ELLES390
-@list	LAK792
 @uname	CUNEIFORM SIGN NAM2
 @list	U+12247
 @ucun	𒉇
@@ -32279,6 +32301,7 @@
 @end sign
 
 @sign NE
+@list	LAK148
 @list	ASY122
 @oid	o0000477
 @list	ABZL116
@@ -32286,7 +32309,6 @@
 @list	GCSL063
 @list	HZL169
 @list	KWU280
-@list	LAK148
 @list	MZL313
 @list	PTACE094
 @list	RSP362
@@ -32534,14 +32556,14 @@
 @inote	ed12
 @@
 @form |NE×KASKAL|
+@list	LAK150
 @oid	o0027632
 @list	ELLES081
-@list	LAK150
 @list	PTACE096
 @@
 @form |NE×PAP|
-@oid	o0022992
 @list	LAK149
+@oid	o0022992
 @inote	dcclt !sg
 @@
 @form |PAP.GIŠ.NE|
@@ -32577,6 +32599,7 @@
 @end sign
 
 @sign NI
+@list	LAK506
 @list	ASY146
 @oid	o0000479
 @list	ABZL261
@@ -32585,7 +32608,6 @@
 @list	GCSL234
 @list	HZL072
 @list	KWU778
-@list	LAK506
 @list	MZL380
 @list	PTACE218
 @list	RSP148
@@ -32656,8 +32678,8 @@
 @end sign
 
 @sign |NI.GIŠ|
-@oid	o0002072
 @list	LAK513
+@oid	o0002072
 @useq	x1224C.x12111
 @ucun	𒉌𒄑
 @v-	par₄
@@ -32697,10 +32719,10 @@
 @end sign
 
 @sign |NI.TUK|
+@list	LAK514
 @oid	o0002076
 @list	BAU409
 @list	ELLES268
-@list	LAK514
 @list	PTACE220
 @list	RSP150
 @useq	x1224C.x12307
@@ -32725,6 +32747,7 @@
 @end sign
 
 @sign |NI.UD|
+@list	LAK511
 @list	ASY143
 @oid	o0002079
 @list	ABZL262
@@ -32732,7 +32755,6 @@
 @list	ELLES266
 @list	HZL073
 @list	KWU779
-@list	LAK511
 @list	MZL385
 @list	PTACE219
 @list	RSP149
@@ -32812,11 +32834,11 @@
 @end sign
 
 @sign NI₂
+@list	LAK377
 @oid	o0000486
 @list	ABZL297
 @list	BAU389
 @list	GCSL163
-@list	LAK377
 @list	PTACE184
 @uname	CUNEIFORM SIGN NI2
 @list	U+1224E
@@ -32829,8 +32851,8 @@
 @end sign
 
 @sign NIGIDAEŠ
+@list	LAK836^c
 @oid	o0000480
-@list	LAK836c
 @list	MZL850
 @list	RSP023
 @list	SLLHA585c
@@ -32845,7 +32867,6 @@
 @link	eBL NIGIDAEŠ https://www.ebl.lmu.de/signs/NIGIDAEŠ
 @link	Wikidata Q87557025 http://www.wikidata.org/entity/Q87557025
 @form NIGIDAEŠ~a
-@list LAK836d
 @oid	o0038373
 @upua	U+F004B
 @ucun	󰁋
@@ -32854,9 +32875,9 @@
 @v	3(bariga)~a
 @@
 @form NIGIDAEŠ@c
+@list	LAK836^a
 @aka 3(N08)
 @oid	o0223339
-@list	LAK836a
 @list	RSP038
 @v-	3/4(aš@c)
 @inote	in donkey texts to mean "3 donkeys"; use 3(diš@c) instead
@@ -32871,8 +32892,8 @@
 @ucun 𒕛
 @@
 @form NIGIDAEŠ@c~a
+@list	LAK836^b
 @oid	o0038374
-@list	LAK836b
 @upua	U+F0049
 @ucun	󰁉
 @uage	9.1
@@ -32883,9 +32904,9 @@
 @end sign
 
 @sign NIGIDAMIN
+@list	LAK835^b
 @oid	o0000481
 @list	MZL848
-@list	LAK835b
 @list	RSP022
 @list	SLLHA585a
 @uname	CUNEIFORM NUMERIC SIGN NIGIDAMIN
@@ -32901,7 +32922,6 @@
 @link	Wikidata Q87557023 http://www.wikidata.org/entity/Q87557023
 @form NIGIDAMIN~a
 @oid	o0038371
-@list 	LAK835c
 @upua	U+F004A
 @ucun	󰁊
 @uage	9.1
@@ -32911,7 +32931,6 @@
 @form+ NIGIDAMIN@c
 @aka 2(N08)
 @oid	o0223340
-@list	LAK835a
 @list	RSP037
 @v-	2/4(aš@c)
 @inote in donkey texts to indicate "2 (donkeys)"; use 2(diš@c) instead
@@ -32928,6 +32947,8 @@
 @end sign
 
 @sign NIM
+@list	LAK270
+@list	LAK271
 @list	ASY251
 @oid	o0000482
 @list	ABZL355
@@ -32936,8 +32957,6 @@
 @list	GCSL122
 @list	HZL074
 @list	KWU398
-@list	LAK270
-@list	LAK271
 @list	MZL690
 @list	RSP390
 @list	SLLHA433
@@ -32978,6 +32997,7 @@
 @end sign
 
 @sign |NIM×GAN₂@t|
+@list	LAK272
 @list	ASY252
 @oid	o0002081
 @list	ABZL356
@@ -32985,7 +33005,6 @@
 @list	GCSL123
 @list	HZL279
 @list	KWU399
-@list	LAK272
 @list	MZL691
 @list	PTACE118
 @list	RSP391
@@ -33003,13 +33022,13 @@
 @link	eBL |NIM×GAN₂@t| https://www.ebl.lmu.de/signs/|NIM×GAN₂@t|
 @link	Wikidata Q87556179 http://www.wikidata.org/entity/Q87556179
 @form NIM
+@list	LAK270
+@list	LAK271
 @list	ASY251
 @oid	o0000482
 @list	BAU141?
 @list	ELLES154
 @list	GCSL122
-@list	LAK270
-@list	LAK271
 @list	RSP390
 @v	tum₃⁻
 @sys	Attinger tum₃⁻
@@ -33037,13 +33056,13 @@
 @end sign
 
 @sign NINDA₂
+@list	LAK095
 @oid	o0000483
 @list	ABZL135
 @list	ELLES057
 @list	HZL119
 @list	KWU159
 @list	KWU741
-@list	LAK095
 @list	MZL316
 @list	RSP105
 @list	SLLHA176
@@ -33148,8 +33167,8 @@
 @end sign
 
 @sign |NINDA₂×AŠ@c|
-@oid	o0028039
 @list	LAK099
+@oid	o0028039
 @inote	gvl unknown compound
 @end sign
 
@@ -33167,8 +33186,8 @@
 @end sign
 
 @sign |NINDA₂×DIM@g|
-@oid	o0002098
 @list	LAK097
+@oid	o0002098
 @uname	CUNEIFORM SIGN NINDA2 TIMES DIM GUNU
 @list	U+12522
 @ucun	𒔢
@@ -33216,8 +33235,8 @@
 @end sign
 
 @sign |NINDA₂×GIŠ|
-@oid	o0002101
 @list	LAK116
+@oid	o0002101
 @uname	CUNEIFORM SIGN NINDA2 TIMES GISH
 @list	U+12523
 @ucun	𒔣
@@ -33232,8 +33251,8 @@
 @end sign
 
 @sign |NINDA₂×GUD|
-@oid	o0002102
 @list	LAK104
+@oid	o0002102
 @list	MZL327
 @list	SLLHA184
 @uname	CUNEIFORM SIGN NINDA2 TIMES GUD
@@ -33252,8 +33271,8 @@
 @end sign
 
 @sign |NINDA₂×GUL|
-@oid	o0002103
 @list	LAK112
+@oid	o0002103
 @uname	CUNEIFORM SIGN NINDA2 TIMES GUL
 @list	U+12524
 @ucun	𒔤
@@ -33263,9 +33282,9 @@
 @end sign
 
 @sign |NINDA₂×HI|
+@list	LAK114
 @oid	o0002104
 @list	ELLES061
-@list	LAK114
 @uname	CUNEIFORM SIGN NINDA2 TIMES HI
 @list	U+12525
 @ucun	𒔥
@@ -33275,8 +33294,8 @@
 @end sign
 
 @sign |NINDA₂×KEŠ₂|
-@oid	o0002105
 @list	LAK115
+@oid	o0002105
 @uname	CUNEIFORM SIGN NINDA2 TIMES KESH2
 @list	U+12526
 @ucun	𒔦
@@ -33294,8 +33313,8 @@
 @end sign
 
 @sign |NINDA₂×LAK50|
-@oid	o0002106
 @list	LAK098
+@oid	o0002106
 @uname	CUNEIFORM SIGN NINDA2 TIMES LAK50
 @list	U+12527
 @ucun	𒔧
@@ -33305,8 +33324,8 @@
 @end sign
 
 @sign |NINDA₂×MAŠ|
-@oid	o0002107
 @list	LAK110
+@oid	o0002107
 @uname	CUNEIFORM SIGN NINDA2 TIMES MASH
 @list	U+12528
 @ucun	𒔨
@@ -33342,6 +33361,7 @@
 @end sign
 
 @sign |NINDA₂×NE|
+@list	LAK109
 @list	ASY126
 @oid	o0002109
 @list	ABZL136
@@ -33349,7 +33369,6 @@
 @list	GCSL053
 @list	HZL121
 @list	KWU165
-@list	LAK109
 @list	MZL326
 @list	PTACE070
 @list	RSP109
@@ -33395,9 +33414,9 @@
 @end sign
 
 @sign |NINDA₂×(PAP.PAP)|
+@list	LAK113
 @oid	o0002086
 @aka	|NINDA₂×BULUG₃|
-@list	LAK113
 @uname	CUNEIFORM SIGN NINDA2 TIMES PAP PLUS PAP
 @list	U+12529
 @ucun	𒔩
@@ -33407,12 +33426,12 @@
 @end sign
 
 @sign |NINDA₂×ŠE|
+@list	LAK105
+@list	LAK108
 @list	ASY127
 @oid	o0002118
 @list	BAU066
 @list	KWU160
-@list	LAK105
-@list	LAK108
 @list	PTACE069
 @list	RSP108
 @list	SLLHA187v5
@@ -33500,11 +33519,11 @@
 @link	eBL |NINDA₂×(ŠE.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ)|
 @link	Wikidata Q87556201 http://www.wikidata.org/entity/Q87556201
 @form |NINDA₂×(ŠE.AŠ@c)|
+@list	LAK106
+@list	LAK869
 @oid	o0223482
 @aka	|NINDA₂×(ŠE.1(AŠ@c))|
 @aka	|NINDA₂×ŠUŠANA@c|
-@list	LAK106
-@list	LAK869
 @list	RSP106
 @inote	LAK lists twice
 @note	Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP106 and LAK869b
@@ -33537,11 +33556,11 @@
 @link	eBL |NINDA₂×(ŠE.AŠ.AŠ)| https://www.ebl.lmu.de/signs/|NINDA₂×(ŠE.AŠ.AŠ)|
 @link	Wikidata Q87556203 http://www.wikidata.org/entity/Q87556203
 @form |NINDA₂×(ŠE.AŠ@c.AŠ@c)|
+@list	LAK107
+@list	LAK870
 @oid	o0223483
 @aka	|NINDA₂×(ŠE.2(AŠ@c))|
 @aka	|NINDA₂×ŠANABI@c|
-@list	LAK107
-@list	LAK870
 @list	RSP107
 @inote	LAK lists twice
 @note	Sign forms in ED3b sometimes abbreviate ŠE component to a single angled pair of wedges as in RSP107 and LAK870b
@@ -33585,9 +33604,9 @@
 @link	eBL |NINDA₂×U| https://www.ebl.lmu.de/signs/|NINDA₂×U|
 @link	Wikidata Q87557427 http://www.wikidata.org/entity/Q87557427
 @form |NINDA₂×U@c|
+@list	LAK102
 @oid	o0028041
 @list	ELLES060
-@list	LAK102
 @@
 @end sign
 
@@ -33606,8 +33625,8 @@
 @link	eBL |NINDA₂×(U.U)| https://www.ebl.lmu.de/signs/|NINDA₂×(U.U)|
 @link	Wikidata Q87557429 http://www.wikidata.org/entity/Q87557429
 @form |NINDA₂×(U@c.U@c)|
-@oid	o0027882
 @list	LAK103
+@oid	o0027882
 @@
 @end sign
 
@@ -33647,8 +33666,8 @@
 @end sign
 
 @sign |NINDA₂×URUDA|
-@oid	o0002112
 @list	LAK111
+@oid	o0002112
 @uname	CUNEIFORM SIGN NINDA2 TIMES URUDA
 @list	U+1252C
 @ucun	𒔬
@@ -33684,8 +33703,8 @@
 @end sign
 
 @sign |NINDA₂×3(AŠ@c)|
-@oid	o0027636
 @list	LAK100
+@oid	o0027636
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -33693,9 +33712,9 @@
 @oid	o0027883
 @form |NINDA₂×NIGIDAMIN@c|
 @aka |NINDA₂×2(DIŠ@c)|
+@list	LAK101
 @oid	o0027634
 @list	ELLES059
-@list	LAK101
 @inote	missing compounds for lak.atf
 @@
 @end sign
@@ -33704,13 +33723,13 @@
 @inote	added during ogsl upgrade
 
 @sign NISAG
+@list	LAK159
 @oid	o0000485
 @list	ABZL207a
 @list	BAU106
 @list	BAU154
 @list	ELLES088
 @list	KWU259
-@list	LAK159
 @list	MZL546
 @list	PTACE097
 @list	RSP137
@@ -33773,6 +33792,7 @@
 @end sign
 
 @sign NU
+@list	LAK036
 @list	ASY049
 @oid	o0000487
 @list	ABZL019
@@ -33782,7 +33802,6 @@
 @list	GCSL016
 @list	HZL011
 @list	KWU103
-@list	LAK036
 @list	MZL112
 @list	PTACE039
 @list	RSP075
@@ -33813,8 +33832,8 @@
 @end sign
 
 @sign |NU×U@c|
+@list	LAK036^a
 @oid	o0018543
-@list LAK036^a
 @upua U+F009B
 @ucun 󰂛
 @inote	ed3a
@@ -33831,13 +33850,13 @@
 @end sign
 
 @sign NU₁₁
+@list	LAK024
 @oid	o0000491
 @list	ABZL028
 @list	BAU017
 @list	ELLES016
 @list	GCSL013
 @list	KWU042
-@list	LAK024
 @list	MZL115b
 @list	PTACE023
 @list	RSP341
@@ -33988,8 +34007,8 @@
 @end sign
 
 @sign NU₁₁@90
+@list	LAK024^a
 @oid	o0000492
-@list	LAK024b
 @list	MZL116
 @lit	Civil, ARES 4, 58.
 @uname	CUNEIFORM SIGN NU11 ROTATED NINETY DEGREES
@@ -34021,6 +34040,7 @@
 @end sign
 
 @sign NUN
+@list	LAK076
 @list	ASY063
 @oid	o0000488
 @list	ABZL047
@@ -34029,7 +34049,6 @@
 @list	GCSL041
 @list	HZL036
 @list	KWU129
-@list	LAK076
 @list	MZL143
 @list	PTACE066
 @list	RSP094
@@ -34074,6 +34093,7 @@
 @end sign
 
 @sign |NUN.LAGAR|
+@list	LAK078
 @list	ASY063a
 @oid	o0002125
 @list	ABZL048
@@ -34081,7 +34101,6 @@
 @list	GCSL042
 @list	HZL034
 @list	KWU131
-@list	LAK078
 @list	MZL145
 @list	RSP186
 @list	SLLHA087a
@@ -34101,9 +34120,9 @@
 @v	ummalₓ
 @link	eBL |NUN.LAGAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR|
 @form LAK077
+@list	LAK077
 @oid	o0021460
 @list	ELLES048
-@list	LAK077
 @v	šilamₓ
 @inote	not clear that LAK077 and LAK078 need to be differentiated.
 @v	ummalₓ
@@ -34167,11 +34186,11 @@
 @inote	SF 081 r i 10-11
 @@
 @form |NUN.LAGAR|
+@list	LAK078
 @list	ASY063a
 @oid	o0002125
 @list	BAU060
 @list	GCSL042
-@list	LAK078
 @list	RSP186
 @useq	x12263.x121EC
 @ucun	𒉣𒇬
@@ -34341,6 +34360,7 @@
 @end sign
 
 @sign |NUN&NUN|
+@list	LAK122
 @list	ASY175
 @oid	o0002123
 @list	ABZL148
@@ -34350,7 +34370,6 @@
 @list	HZL204
 @list	KWU130
 @list	KWU637
-@list	LAK122
 @list	MZL502
 @list	RSP102
 @list	SLLHA325
@@ -34447,6 +34466,7 @@
 @link	eBL NUN@t https://www.ebl.lmu.de/signs/NUN@t
 @link	Wikidata Q87556224 http://www.wikidata.org/entity/Q87556224
 @form NUN
+@list	LAK076
 @list	ASY063
 @oid	o0000488
 @inote	dsst P251917 9 = Bird and Fish 117
@@ -34486,14 +34506,13 @@
 @end sign
 
 @sign NUNUZ
+@list	LAK364
 @oid	o0000490
 @list	ABZL371
 @list	BAU082a
 @list	ELLES200
 @list	GCSL214
 @list	KWU532
-@list	LAK364
-@list	LAK813
 @list	PTACE180
 @list	RSP348
 @uname	CUNEIFORM SIGN NUNUZ
@@ -34516,17 +34535,17 @@
 @oid	o0037818
 @@
 @form NUNUZ~a
+@list	LAK813
 @oid	o0027504
 @list	BAU082b
-@list	LAK813
 @inote	BAU082b and LAK813 are two conjoined round beads, NUNUZ~a1 in CDLI archsigns
 @@
 @end sign
 
 @sign LAK449
+@list	LAK449
 @list	ELLES233
 @oid	o0000374
-@list	LAK449
 @list	RSP350
 @uname	CUNEIFORM SIGN LAK449
 @list	U+124F1
@@ -34541,8 +34560,8 @@
 @ucun	𒉭𒀖
 @@
 @form |LAK449×AŠ|
-@oid	o0025778
 @list	LAK449^a
+@oid	o0025778
 @list	RSP350^a
 @upua	U+F0089
 @ucun	󰂉
@@ -34552,11 +34571,11 @@
 @end sign
 
 @sign |NUNUZ.AB₂×AŠGAB|
+@list	LAK451
 @oid	o0002146
 @list	ABZL373
 @list	ELLES234
 @list	KWU472
-@list	LAK451
 @list	MZL619
 @list	PTACE196
 @list	RSP352
@@ -34593,6 +34612,7 @@
 @link	eBL |NUNUZ.AB₂×BI| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×BI|
 @link	Wikidata Q87556235 http://www.wikidata.org/entity/Q87556235
 @form LAK449
+@list	LAK449
 @oid	o0000374
 @uname	CUNEIFORM SIGN LAK449
 @list	RSP350
@@ -34714,8 +34734,8 @@
 @link	eBL |NUNUZ.AB₂×LA| https://www.ebl.lmu.de/signs/|NUNUZ.AB₂×LA|
 @link	Wikidata Q87556246 http://www.wikidata.org/entity/Q87556246
 @form LAK450
-@oid	o0000375
 @list	LAK450
+@oid	o0000375
 @uname	CUNEIFORM SIGN LAK-450
 @list	U+124F7
 @ucun	𒓷
@@ -34943,18 +34963,24 @@
 @link	eBL P₂ https://www.ebl.lmu.de/signs/P₂
 @link	Wikidata Q87557084 http://www.wikidata.org/entity/Q87557084
 @form AŠ@t
+@list	LAK178
+@list	LAK820^c
 @list	ASY209
 @oid	o0000108
 @inote	Amarna
 @link	eBL AŠ@z https://www.ebl.lmu.de/signs/AŠ@z
 @@
 @form DIŠ
+@list	LAK820^d
+@list	LAK834^a
+@list	LAK854^b
 @list	ASY276
 @oid	o0000145
 @inote	Amarna
 @link	eBL DIŠ https://www.ebl.lmu.de/signs/DIŠ
 @@
 @form GAM
+@list	LAK180
 @list	ASY210
 @oid	o0000196
 @list	GCSL091
@@ -34967,6 +34993,10 @@
 @link	eBL GE₂₂ https://www.ebl.lmu.de/signs/GE₂₂
 @@
 @form U
+@list	LAK821^b
+@list	LAK840^b
+@list	LAK857^b
+@list	LAK859^b
 @list	ASY242
 @oid	o0000561
 @list	GCSL176
@@ -35023,6 +35053,7 @@
 @end sign
 
 @sign PA
+@list	LAK121
 @list	ASY153
 @oid	o0000497
 @list	ABZL143
@@ -35030,7 +35061,6 @@
 @list	ELLES065
 @list	GCSL056
 @list	HZL174
-@list	LAK121
 @list	MZL464
 @list	PTACE072
 @list	RSP056
@@ -35380,11 +35410,11 @@
 @end sign
 
 @sign |PA.IB|
+@list	LAK129
 @list	ASY154
 @oid	o0002193
 @list	HZL175
 @list	KWU198
-@list	LAK129?
 @list	MZL466
 @list	SLLHA295k
 @list	SYA135
@@ -35530,12 +35560,12 @@
 @ucun	𒉺𒊩𒄸𒁺
 @v	rigₓ
 @form DU
+@list	LAK484
 @list	ASY135
 @oid	o0000149
 @list	BAU374
 @list	ELLES252
 @list	GCSL224
-@list	LAK484
 @list	PTACE236
 @list	RSP369
 @v	rigₓ
@@ -35720,6 +35750,7 @@
 @inote	added during ogsl upgrade
 
 @sign PAD
+@list	LAK398
 @list	ASY273
 @oid	o0000498
 @list	ABZL362
@@ -35729,7 +35760,6 @@
 @list	GCSL187
 @list	HZL295
 @list	KWU569
-@list	LAK398
 @list	MZL746
 @list	PTACE157
 @list	RSP171
@@ -35822,6 +35852,7 @@
 @end sign
 
 @sign PAN
+@list	LAK038
 @list	ASY256
 @oid	o0000499
 @list	ABZL027
@@ -35829,7 +35860,6 @@
 @list	GCSL092
 @list	HZL118
 @list	KWU344
-@list	LAK038
 @list	MZL685
 @list	PTACE035
 @list	RSP366
@@ -35861,6 +35891,7 @@
 @end sign
 
 @sign PAP
+@list	LAK229
 @list	ASY032
 @oid	o0000500
 @list	ABZL249
@@ -35868,7 +35899,6 @@
 @list	ELLES129
 @list	GCSL113
 @list	KWU380
-@list	LAK229
 @list	MZL092
 @list	PTACE121
 @list	RSP049
@@ -35980,6 +36010,7 @@
 @end sign
 
 @sign |PAP.PAP|
+@list	LAK230
 @list	ASY034
 @oid	o0002231
 @list	ABZL264
@@ -35988,7 +36019,6 @@
 @list	GCSL114
 @list	HZL257
 @list	KWU383
-@list	LAK230
 @list	MZL094
 @list	PTACE122
 @list	RSP334
@@ -36059,11 +36089,11 @@
 @inote	added during ogsl upgrade
 
 @sign PEŠ₂
+@list	LAK245
 @oid	o0000501
 @list	ABZL418
 @list	ELLES146
 @list	HZL003
-@list	LAK245
 @list	MZL882
 @list	SLLHA596
 @uname	CUNEIFORM SIGN PESH2
@@ -36098,9 +36128,9 @@
 @uage	9.2
 @@
 @form LAK247
+@list	LAK247
 @oid	o0000337
 @list	ELLES145
-@list	LAK247
 @list	PTACE137
 @list	RSP460bis
 @upua	U+F0080
@@ -36124,6 +36154,7 @@
 @end sign
 
 @sign PI
+@list	LAK447
 @list	ASY223
 @oid	o0000502
 @list	ABZL370
@@ -36132,7 +36163,6 @@
 @list	GCSL211
 @list	HZL317
 @list	KWU595
-@list	LAK447
 @list	MZL598
 @list	PTACE195
 @list	RSP079
@@ -36359,14 +36389,13 @@
 @end sign
 
 @sign PIRIG
+@list	LAK256
 @oid	o0000503
 @list	ABZL178
 @list	BAU162
 @list	ELLES143
 @list	ELLES144
 @list	GCSL131
-@list	LAK256
-@list	LAK257
 @list	PTACE135
 @list	RSP460
 @list	SLLHA444
@@ -36389,11 +36418,11 @@
 @link	eBL PIRIG https://www.ebl.lmu.de/signs/PIRIG
 @link	Wikidata Q87556288 http://www.wikidata.org/entity/Q87556288
 @form |PIRIG×UD|
+@list	LAK259
 @list	ASY096
 @oid	o0002244
 @list	GCSL132
 @list	GCSL133
-@list	LAK259
 @list	U+1228C
 @uname	CUNEIFORM SIGN PIRIG TIMES UD
 @ucun	𒊌
@@ -36497,20 +36526,21 @@
 @inote	added during ogsl upgrade
 
 @sign |PIRIG×PA.LAGAB|
-@oid	o0027638
 @list	LAK258
+@oid	o0027638
 @inote	missing compounds for lak.atf
 @useq	X.x121B8
 @ucun	X𒆸
 @end sign
 
 @sign |PIRIG×ŠE|
-@oid	o0027640
 @list	LAK260
+@oid	o0027640
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |PIRIG×UD|
+@list	LAK259
 @list	ASY096
 @oid	o0002244
 @list	ABZL179
@@ -36518,7 +36548,6 @@
 @list	GCSL133
 @list	HZL093
 @list	KWU437
-@list	LAK259
 @list	MZL296
 @list	SLLHA130
 @list	SYA084
@@ -36538,11 +36567,11 @@
 @link	eBL |PIRIG×UD| https://www.ebl.lmu.de/signs/|PIRIG×UD|
 @link	Wikidata Q87556291 http://www.wikidata.org/entity/Q87556291
 @form PIRIG
+@list	LAK256
 @oid	o0000503
 @list	BAU162
 @list	ELLES144
 @list	GCSL131
-@list	LAK257
 @list	RSP460
 @v	ug⁻
 @sys	Attinger ug⁻
@@ -36566,6 +36595,7 @@
 @end sign
 
 @sign |PIRIG×ZA|
+@list	LAK261
 @list	ASY097
 @oid	o0002245
 @list	ABZL180
@@ -36573,7 +36603,6 @@
 @list	ELLES147
 @list	HZL092
 @list	KWU445
-@list	LAK261
 @list	MZL297
 @list	PTACE136
 @list	RSP461
@@ -36595,11 +36624,11 @@
 @link	eBL |PIRIG×ZA| https://www.ebl.lmu.de/signs/|PIRIG×ZA|
 @link	Wikidata Q87556293 http://www.wikidata.org/entity/Q87556293
 @form PIRIG
+@list	LAK256
 @oid	o0000503
 @list	BAU162
 @list	ELLES144
 @list	GCSL131
-@list	LAK257
 @list	RSP460
 @v	az⁻
 @sys	Attinger az⁻
@@ -36618,6 +36647,7 @@
 @end sign
 
 @sign RA
+@list	LAK710
 @list	ASY178
 @oid	o0000510
 @list	ABZL194
@@ -36626,7 +36656,6 @@
 @list	GCSL294
 @list	HZL233
 @list	KWU763
-@list	LAK710
 @list	MZL511
 @list	PTACE267
 @list	RSP295
@@ -36723,9 +36752,9 @@
 @end sign
 
 @sign |KASKAL.LAK764|
+@list	LAK274
 @aka REC169
 @oid	o0000513
-@list	LAK274
 @list	REC169
 @inote	CDLI P323559 (oakk) has uštil(REC169) referencing CUSAS 27
 @v	uštilₓ
@@ -36743,6 +36772,7 @@
 @end sign
 
 @sign RI
+@list	LAK075
 @list	ASY061
 @oid	o0000514
 @list	ABZL039
@@ -36750,7 +36780,6 @@
 @list	GCSL178a
 @list	HZL032
 @list	KWU120
-@list	LAK075
 @list	MZL142
 @list	PTACE064
 @list	RSP412
@@ -36781,6 +36810,7 @@
 @link	eBL RI https://www.ebl.lmu.de/signs/RI
 @link	Wikidata Q87556300 http://www.wikidata.org/entity/Q87556300
 @form HU
+@list	LAK064
 @list	ASY052
 @oid	o0000239
 @list	GCSL031
@@ -36830,6 +36860,7 @@
 @lref	RSP324 UD-ŠA 𒌓𒊭 -
 
 @sign RU
+@list	LAK281
 @list	ASY041
 @oid	o0000516
 @list	ABZL060
@@ -36839,7 +36870,6 @@
 @list	GCSL126
 @list	HZL043
 @list	KWU351
-@list	LAK281
 @list	MZL111
 @list	PTACE145
 @list	RSP384
@@ -36886,6 +36916,7 @@
 @end sign
 
 @sign SA
+@list	LAK731
 @list	ASY076
 @oid	o0000517
 @list	ABZL147
@@ -36894,7 +36925,6 @@
 @list	GCSL298
 @list	HZL200
 @list	KWU842
-@list	LAK731
 @list	MZL172
 @list	PTACE294
 @list	RSP132
@@ -36926,6 +36956,7 @@
 @end sign
 
 @sign SAG
+@list	LAK307
 @list	ASY087
 @oid	o0000518
 @list	ABZL309
@@ -36934,7 +36965,6 @@
 @list	GCSL138
 @list	HZL192
 @list	KWU432
-@list	LAK307
 @list	MZL184
 @list	PTACE163
 @list	RSP192
@@ -37060,9 +37090,9 @@
 @end sign
 
 @sign |SAG×DU|
+@list	LAK314
 @oid	o0002274
 @list	KWU434
-@list	LAK314
 @list	MZL187
 @list	SLLHA121_6
 @uname	CUNEIFORM SIGN SAG TIMES DU
@@ -37096,8 +37126,8 @@
 @end sign
 
 @sign |SAG×EN|
-@oid	o0002276
 @list	LAK311
+@oid	o0002276
 @uname	CUNEIFORM SIGN SAG TIMES EN
 @list	U+1252E
 @ucun	𒔮
@@ -37112,8 +37142,8 @@
 @end sign
 
 @sign |SAG×HA|
-@oid	o0002277
 @list	LAK308
+@oid	o0002277
 @list	MZL198
 @list	PTACE164
 @list	RSP196
@@ -37136,7 +37166,6 @@
 
 @sign |SAG×IGI|
 @oid	o0031737
-@inote @list	LAK309a
 @inote	Clear on photo MEE 3/A XXXIXa i 4
 @inote Check Fara form which LAK309a shows as |SAG@g×IGI@g|
 @end sign
@@ -37154,9 +37183,9 @@
 @end sign
 
 @sign |SAG×KAK|
+@list	LAK312
 @oid	o0002279
 @list	ABZL330
-@list	LAK312
 @list	MZL188
 @list	RSP195
 @list	SLLHA116
@@ -37258,8 +37287,8 @@
 @end sign
 
 @sign |SAG×NI|
-@oid	o0027642
 @list	LAK313
+@oid	o0027642
 @inote	missing compounds for lak.atf
 @v	azadₓ
 @v	uguₓ
@@ -37355,8 +37384,8 @@
 @end sign
 
 @sign |SAG×TAK₄@f|
-@oid	o0002285
 @list	LAK310
+@oid	o0002285
 @uname	CUNEIFORM SIGN SAG TIMES TAK4 FRONT
 @list	U+12539
 @ucun	𒔹
@@ -37470,6 +37499,7 @@
 @end sign
 
 @sign SAG@g
+@list	LAK317
 @list	ASY179
 @oid	o0000519
 @list	ABZL331
@@ -37477,7 +37507,6 @@
 @list	ELLES181
 @list	GCSL139
 @list	KWU436
-@list	LAK317
 @list	MZL512
 @list	PTACE166
 @list	RSP193
@@ -37507,12 +37536,12 @@
 @link	eBL SAG@g https://www.ebl.lmu.de/signs/SAG@g
 @link	Wikidata Q87556344 http://www.wikidata.org/entity/Q87556344
 @form SAG
+@list	LAK307
 @list	ASY087
 @oid	o0000518
 @list	BAU228
 @list	ELLES178
 @list	GCSL138
-@list	LAK307
 @list	PTACE163
 @list	RSP192
 @v	dil₂⁻
@@ -37531,8 +37560,8 @@
 @end sign
 
 @sign |SAG@g×HA|
-@oid	o0002271
 @list	LAK309
+@oid	o0002271
 @uname	CUNEIFORM SIGN SAG GUNU TIMES HA
 @list	U+1252D
 @ucun	𒔭
@@ -37574,6 +37603,7 @@
 @end sign
 
 @sign SAL
+@list	LAK517
 @list	ASY298
 @oid	o0000522
 @list	ABZL450
@@ -37583,7 +37613,6 @@
 @list	GCSL238
 @list	HZL297
 @list	KWU786
-@list	LAK517
 @list	MZL883
 @list	PTACE228
 @list	RSP153
@@ -37660,8 +37689,8 @@
 @end sign
 
 @sign |SAL.AŠ₂|
-@oid	o0027643
 @list	LAK519
+@oid	o0027643
 @inote	missing compounds for lak.atf
 @useq	x122A9.x1203E
 @ucun	𒊩𒀾
@@ -37823,9 +37852,9 @@
 @v	gin₅
 @link	eBL |SAL.KUR| https://www.ebl.lmu.de/signs/|SAL.KUR|
 @form |SAL×KUR|
+@list	LAK049
 @oid	o0023005
 @list	ELLES276
-@list	LAK049
 @list	PTACE231
 @inote	dcclt !sg
 @@
@@ -37970,6 +37999,7 @@
 @end sign
 
 @sign |SAL.TUG₂|
+@list	LAK522
 @list	ASY300
 @oid	o0002323
 @list	ABZL452
@@ -37978,7 +38008,6 @@
 @list	GCSL243
 @list	HZL299
 @list	KWU796
-@list	LAK522
 @list	MZL887
 @list	PTACE232
 @list	RSP190
@@ -38101,10 +38130,10 @@
 @end sign
 
 @sign |SAL.UR|
+@list	LAK521
 @list	ASY305
 @oid	o0002327
 @list	ABZL461
-@list	LAK521
 @list	MZL898
 @list	SLLHA563
 @list	SYA269
@@ -38242,10 +38271,10 @@
 @end sign
 
 @sign SANGA₂
+@list	LAK175
 @oid	o0000523
 @list	ABZL205
 @list	ELLES102
-@list	LAK175
 @list	RSP276
 @lit	krebernik, OBO 160/1, 283
 @uname	CUNEIFORM SIGN SANGA2
@@ -38355,6 +38384,7 @@
 @end sign
 
 @sign SAR
+@list	LAK215
 @list	ASY184
 @oid	o0000524
 @list	ABZL385
@@ -38362,7 +38392,6 @@
 @list	GCSL112
 @list	HZL353
 @list	KWU650
-@list	LAK215
 @list	MZL541
 @list	PTACE077
 @list	RSP446
@@ -38423,8 +38452,8 @@
 @end sign
 
 @sign |SAR×ŠE|
-@oid	o0002335
 @list	LAK216
+@oid	o0002335
 @uname	CUNEIFORM SIGN SAR TIMES SHE
 @list	U+12535
 @ucun	𒔵
@@ -38439,8 +38468,8 @@
 @end sign
 
 @sign |SAR×ZIZ₂|
-@oid	o0027644
 @list	LAK217
+@oid	o0027644
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -38456,6 +38485,7 @@
 @end sign
 
 @sign SI
+@list	LAK083
 @list	ASY085
 @oid	o0000525
 @list	ABZL164
@@ -38464,7 +38494,6 @@
 @list	GCSL047
 @list	HZL086
 @list	KWU094
-@list	LAK083
 @list	MZL181
 @list	PTACE030
 @list	RSP291
@@ -38491,13 +38520,13 @@
 @end sign
 
 @sign |SI.A|
+@list	LAK084
 @list	ASY089
 @oid	o0002337
 @list	ABZL164
 @list	BAU032
 @list	HZL089
 @list	KWU095
-@list	LAK084
 @list	MZL207
 @list	RSP292
 @list	SLLHA123
@@ -38567,8 +38596,8 @@
 @end sign
 
 @sign |SI×TAK₄|
-@oid	o0002365
 @list	LAK085
+@oid	o0002365
 @uname	CUNEIFORM SIGN SI TIMES TAK4
 @list	U+12538
 @ucun	𒔸
@@ -38580,13 +38609,13 @@
 @end sign
 
 @sign SI@g
+@list	LAK086
 @list	ASY086
 @oid	o0000526
 @list	ABZL165
 @list	BAU033
 @list	ELLES052
 @list	KWU096
-@list	LAK086
 @list	MZL182
 @list	PTACE032
 @list	RSP293
@@ -38620,6 +38649,7 @@
 @end sign
 
 @sign SIG
+@list	LAK400
 @list	ASY320
 @oid	o0000527
 @list	ABZL437
@@ -38628,7 +38658,6 @@
 @list	GCSL196
 @list	HZL255
 @list	KWU342
-@list	LAK400
 @list	MZL881
 @list	PTACE159
 @list	REC256
@@ -38684,6 +38713,7 @@
 @end sign
 
 @sign SIG₄
+@list	LAK188
 @oid	o0000528
 @list	ABZL243
 @list	BAU206
@@ -38691,7 +38721,6 @@
 @list	GCSL096
 @list	HZL311
 @list	KWU355
-@list	LAK188
 @list	MZL906
 @list	PTACE214
 @list	RSP114
@@ -38720,12 +38749,12 @@
 @link	eBL SIG₄ https://www.ebl.lmu.de/signs/SIG₄
 @link	Wikidata Q87556443 http://www.wikidata.org/entity/Q87556443
 @form LUM
+@list	LAK194
 @list	ASY307
 @oid	o0000438
 @list	BAU123
 @list	ELLES114
 @list	GCSL100
-@list	LAK194
 @list	PTACE213
 @list	RSP138
 @v	gar₈
@@ -38789,6 +38818,7 @@
 @inote	added during ogsl upgrade
 
 @sign SIK₂
+@list	LAK793
 @list	ASY295
 @oid	o0000529
 @list	ABZL395
@@ -38796,7 +38826,6 @@
 @list	ELLES391
 @list	HZL065
 @list	KWU888
-@list	LAK793
 @list	MZL816
 @list	PTACE320
 @list	RSP266
@@ -38881,7 +38910,6 @@
 
 @sign |SIK₂.LAM|
 @oid	o0002353
-@list	LAK668
 @useq	x122E0.x121F4
 @ucun	𒋠𒇴
 @v	adkin
@@ -38968,6 +38996,7 @@
 @end sign
 
 @sign SILA₃
+@list	LAK269
 @list	ASY036
 @oid	o0000530
 @list	ABZL269
@@ -38975,7 +39004,6 @@
 @list	ELLES153
 @list	HZL021
 @list	KWU397
-@list	LAK269
 @list	MZL099
 @list	PTACE129
 @list	RSP063
@@ -39081,13 +39109,13 @@
 @end sign
 
 @sign SU
+@list	LAK293
 @list	ASY006
 @oid	o0000531
 @list	ABZL305
 @list	BAU226
 @list	ELLES172
 @list	GCSL137
-@list	LAK293
 @list	MZL016
 @list	PTACE120
 @list	RSP143
@@ -39153,9 +39181,9 @@
 @end sign
 
 @sign |SU.KUR.RU|
+@list	LAK294
 @oid	o0002371
 @list	BAU122
-@list	LAK294
 @useq	x122E2.x121B3.x12292
 @ucun	𒋢𒆳𒊒
 @v	sud₃
@@ -39222,6 +39250,7 @@
 @link	eBL |SU&SU| https://www.ebl.lmu.de/signs/|SU&SU|
 @link	Wikidata Q87556452 http://www.wikidata.org/entity/Q87556452
 @form SU
+@list	LAK293
 @list	ASY006
 @oid	o0000531
 @list	GCSL137
@@ -39252,6 +39281,7 @@
 @inote	added during ogsl upgrade
 
 @sign SUD
+@list	LAK235^a
 @list	ASY215
 @oid	o0000532
 @list	ABZL266
@@ -39287,12 +39317,12 @@
 @link	eBL SUD https://www.ebl.lmu.de/signs/SUD
 @link	Wikidata Q87556455 http://www.wikidata.org/entity/Q87556455
 @form BU
+@list	LAK232
 @list	ASY213
 @oid	o0000124
 @list	BAU148
 @list	ELLES131
 @list	GCSL115
-@list	LAK232
 @list	PTACE123
 @list	RSP335
 @v	su₃⁻
@@ -39302,9 +39332,9 @@
 @link	eBL BU https://www.ebl.lmu.de/signs/BU
 @@
 @form BU@g
+@list	LAK233
 @oid	o0000126
 @list	ELLES132
-@list	LAK233
 @list	PTACE124
 @inote	in |PA.EL.BU@g|
 @link	eBL BU@g https://www.ebl.lmu.de/signs/BU@g
@@ -39338,13 +39368,13 @@
 @end sign
 
 @sign SUD₂
+@list	LAK074
 @list	ASY058
 @oid	o0000534
 @list	ABZL038
 @list	ELLES045
 @list	HZL029
 @list	KWU119
-@list	LAK074
 @list	MZL139
 @list	PTACE067
 @list	SLLHA083
@@ -39382,6 +39412,7 @@
 @end sign
 
 @sign SUHUR
+@list	LAK227
 @list	ASY240
 @oid	o0000535
 @list	ABZL384
@@ -39391,7 +39422,6 @@
 @list	GCSL216
 @list	HZL349
 @list	KWU453
-@list	LAK227
 @list	MZL646
 @list	RSP178bis
 @list	SLLHA403
@@ -39411,6 +39441,7 @@
 @end sign
 
 @sign SUM
+@list	LAK197
 @list	ASY115
 @oid	o0000536
 @list	ABZL388
@@ -39419,7 +39450,6 @@
 @list	GCSL101
 @list	HZL350
 @list	KWU591
-@list	LAK197
 @list	MZL292
 @list	PTACE327
 @list	RSP450
@@ -39452,19 +39482,19 @@
 @link	eBL SUM https://www.ebl.lmu.de/signs/SUM
 @link	Wikidata Q87556461 http://www.wikidata.org/entity/Q87556461
 @form |SUM×DIŠ|
-@oid	o0018582
 @list	LAK198
+@oid	o0018582
 @inote	sfs
 @@
 @end sign
 
 @sign SUMAŠ
+@list	LAK226
 @oid	o0000537
 @list	BAU214
 @list	ELLES063
 @list	ELLES127
 @list	KWU597
-@list	LAK226
 @list	MZL323
 @list	RSP178
 @list	SLLHA182
@@ -39504,6 +39534,8 @@
 @end sign
 
 @sign SUR
+@list	LAK047
+@list	LAK182
 @list	ASY073
 @oid	o0000539
 @list	ABZL056
@@ -39512,8 +39544,6 @@
 @list	GCSL037
 @list	HZL042
 @list	KWU092
-@list	LAK047
-@list	LAK182
 @list	MZL151
 @list	PTACE205
 @list	RSP170
@@ -39563,6 +39593,7 @@
 @end sign
 
 @sign ŠA
+@list	LAK170
 @list	ASY202
 @oid	o0002824
 @list	ABZL203
@@ -39571,7 +39602,6 @@
 @list	GCSL081
 @list	HZL158
 @list	KWU301
-@list	LAK170
 @list	MZL566
 @list	PTACE111
 @list	RSP167
@@ -39607,6 +39637,7 @@
 @end sign
 
 @sign ŠA₃
+@list	LAK443
 @list	ASY224
 @oid	o0002828
 @list	ABZL433
@@ -39614,7 +39645,6 @@
 @list	GCSL195
 @list	HZL294
 @list	KWU488
-@list	LAK443
 @list	MZL599
 @list	PTACE193
 @list	RSP320
@@ -39924,6 +39954,8 @@
 @end sign
 
 @sign ŠA₆
+@list	LAK177a
+@list	LAK196
 @list	ASY208
 @oid	o0002829
 @list	ABZL228
@@ -39932,7 +39964,6 @@
 @list	GCSL069
 @list	HZL070
 @list	KWU925
-@list	LAK196
 @list	MZL571
 @list	PTACE212
 @list	RSP345
@@ -40046,16 +40077,14 @@
 @end sign
 
 @sign ŠAR₂
+@list	LAK809
+@list	LAK825^b
+@list	LAK844^b
 @list	ASY230
 @oid	o0002827
 @list	ABZL277
 @list	ELLES397
 @list	HZL335
-@list	LAK809
-@list	LAK828
-@list	LAK851
-@list	LAK859
-@list	LAK866
 @list	MZL632
 @list	SLLHA396
 @list	SYA202
@@ -40075,11 +40104,11 @@
 @link	eBL ŠAR₂ https://www.ebl.lmu.de/signs/ŠAR₂
 @link	Wikidata Q87556376 http://www.wikidata.org/entity/Q87556376
 @form ŠAR₂@c
+@list	LAK825^a
+@list	LAK844^a
 @aka 1(N45)
 @aka ŠARGAL@c
 @oid	o0223485
-@list	LAK825
-@list	LAK844
 @list	RSP030
 @inote	@ucode	xeba7
 @note P241764 = TM.75.G.02200 ŠAR₂ GAL; see also CDLI refs
@@ -40138,17 +40167,17 @@
 @end sign
 
 @sign |ŠAR₂×HA|
-@oid	o0027651
 @list	LAK810
+@oid	o0027651
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |ŠAR₂×U|
 @oid	o0028114
 @aka	|ŠAR₂×1(U)|
-@list	ABZL284
+@list	LAK826^b
 @list	LAK846
-@list	LAK860
+@list	ABZL284
 @list	MZL688
 @inote	|HI×U|
 @inote	#old bur'uₓ
@@ -40172,10 +40201,10 @@
 @oid	o0028115
 @pname	|HI×U+U|
 @aka	|ŠAR₂×2(U)|
-@inote	|HI×(U.U)|
-@inote	@uname-no-utf8	CUNEIFORM SIGN HI TIMES U PLUS U
 @list	LAK847
 @list	LAK862
+@inote	|HI×(U.U)|
+@inote	@uname-no-utf8	CUNEIFORM SIGN HI TIMES U PLUS U
 @upua	U+F003D
 @ucun	󰀽
 @uage	9.1
@@ -40187,9 +40216,9 @@
 @sign |ŠAR₂×(U.U.U)|
 @oid	o0028116
 @aka	|ŠAR₂×3(U)|
+@list	LAK848
+@list	LAK863
 @inote	|HI×(U.U.U)|
-@list LAK848
-@list LAK863
 @upua	U+F003E
 @ucun	󰀾
 @uage	9.1
@@ -40203,10 +40232,10 @@
 @end sign
 
 @sign |ŠAR₂×4(U)|
+@list	LAK849
+@list	LAK864
 @oid	o0028118
 @inote	|HI×4(U)|
-@list LAK849
-@list LAK864
 @upua	U+F003F
 @ucun	󰀿
 @uage	9.1
@@ -40215,10 +40244,10 @@
 @end sign
 
 @sign |ŠAR₂×5(U)|
+@list	LAK850
+@list	LAK865
 @oid	o0028119
 @inote	|HI×5(U)|
-@list LAK850
-@list LAK865
 @upua	U+F0040
 @ucun	󰁀
 @uage	9.1
@@ -40227,6 +40256,7 @@
 @end sign
 
 @sign ŠE
+@list	LAK199
 @list	ASY212
 @oid	o0002831
 @list	ABZL378
@@ -40236,7 +40266,6 @@
 @list	GCSL102
 @list	HZL338
 @list	KWU633
-@list	LAK199
 @list	MZL579
 @list	PTACE045
 @list	RSP440
@@ -40369,13 +40398,13 @@
 @end sign
 
 @sign |ŠE.HU|
+@list	LAK070
+@list	LAK201
 @list	ASY214
 @oid	o0002714
 @list	ABZL379
 @list	BAU035
 @list	KWU639
-@list	LAK070
-@list	LAK201
 @list	RSP408
 @list	SYA186
 @uname	CUNEIFORM SIGN SHE HU
@@ -40517,6 +40546,7 @@
 @end sign
 
 @sign |ŠE.NUN&NUN|
+@list	LAK204
 @list	ASY217
 @oid	o0002726
 @list	ABZL380
@@ -40524,7 +40554,6 @@
 @list	GCSL103
 @list	HZL344
 @list	KWU638
-@list	LAK204
 @list	MZL587
 @list	PTACE046
 @list	RSP441
@@ -40611,7 +40640,6 @@
 
 @sign |(ŠE.NUN&NUN)&(ŠE.NUN&NUN).GAD&GAD.GAR&GAR|
 @oid	o0000635
-@list	LAK419
 @list	MZL588
 @list	SLLHA375_46
 @lit	Civil 1994 FI, 91
@@ -40637,8 +40665,8 @@
 @inote	salgues
 @@
 @form |U&U.BUR&BUR|
-@oid	o0027646
 @list	LAK420
+@oid	o0027646
 @list	RSP380bis
 @inote	missing compounds for lak.atf
 @upua	U+F0074
@@ -40702,10 +40730,10 @@
 @end sign
 
 @sign |ŠE.SUHUR|
+@list	LAK219
 @oid	o0002728
 @pname	|ŠE+SUHUR|
 @list	ABZL387
-@list	LAK219
 @list	RSP179
 @list	U+124E3
 @uname	CUNEIFORM SIGN LAK219
@@ -40797,8 +40825,8 @@
 @inote	added during ogsl upgrade
 
 @sign |ŠE&ŠE|
-@oid	o0002709
 @list	LAK200
+@oid	o0002709
 @uname	CUNEIFORM SIGN SHE OVER SHE
 @list	U+12532
 @ucun	𒔲
@@ -40830,8 +40858,8 @@
 @end sign
 
 @sign |(ŠE&ŠE).HUB₂|
-@oid	o0000634
 @list	LAK207
+@oid	o0000634
 @uname	CUNEIFORM SIGN SHE OVER SHE PLUS HUB2
 @list	U+12533
 @ucun	𒔳
@@ -40900,10 +40928,10 @@
 @compoundonly	ŠE@v
 
 @sign ŠEG₉
+@list	LAK187
 @oid	o0002832
 @list	ABZL429
 @list	GCSL310
-@list	LAK187
 @list	MZL878
 @list	RSP462
 @list	SLLHA551v
@@ -40932,9 +40960,9 @@
 @link	eBL ŠEG₉ https://www.ebl.lmu.de/signs/ŠEG₉
 @link	Wikidata Q87556385 http://www.wikidata.org/entity/Q87556385
 @form LAK263
+@list	LAK263
 @oid	o0000341
 @list	ELLES149
-@list	LAK263
 @v	armanuₓ
 @v	mašdaₓ
 @v	šegbarₓ
@@ -40951,6 +40979,7 @@
 @end sign
 
 @sign ŠEN
+@list	LAK713
 @list	ASY007
 @oid	o0002833
 @list	ABZL306
@@ -40958,7 +40987,6 @@
 @list	ELLES352
 @list	HZL230
 @list	KWU894
-@list	LAK713
 @list	MZL017
 @list	RSP299
 @list	SLLHA008
@@ -40989,6 +41017,7 @@
 @end sign
 
 @sign ŠEŠ
+@list	LAK032
 @list	ASY182
 @oid	o0002834
 @list	ABZL021b
@@ -40997,7 +41026,6 @@
 @list	GCSL007
 @list	HZL079
 @list	KWU032
-@list	LAK032
 @list	MZL535
 @list	PTACE016
 @list	RSP091
@@ -41087,12 +41115,12 @@
 @end sign
 
 @sign |ŠEŠ.KI|
+@list	LAK033
 @list	ASY183
 @oid	o0002740
 @list	ABZL022
 @list	GCSL008
 @list	KWU033
-@list	LAK033
 @list	RSP092
 @useq	x122C0.x121A0
 @ucun	𒋀𒆠
@@ -41120,10 +41148,10 @@
 @end sign
 
 @sign ŠEŠ₂
+@list	LAK668
 @oid	o0002836
 @list	ELLES326
 @list	HZL063
-@list	LAK668
 @list	MZL821
 @list	SLLHA544
 @uname	CUNEIFORM SIGN SHESH2
@@ -41144,8 +41172,8 @@
 @end sign
 
 @sign ŠEŠ₂@g
-@oid	o0027580
 @list	LAK669
+@oid	o0027580
 @inote	for lak.atf
 @end sign
 
@@ -41165,6 +41193,7 @@
 @end sign
 
 @sign ŠID
+@list	LAK711
 @list	ASY167
 @oid	o0002837
 @list	ABZL212
@@ -41172,7 +41201,6 @@
 @list	ELLES351
 @list	HZL231
 @list	KWU766
-@list	LAK711
 @list	MZL485
 @list	PTACE268
 @list	RSP296
@@ -41273,8 +41301,8 @@
 @link	eBL ŠID https://www.ebl.lmu.de/signs/ŠID
 @link	Wikidata Q87556395 http://www.wikidata.org/entity/Q87556395
 @form LAK636
-@oid	o0000405
 @list	LAK636
+@oid	o0000405
 @list	U+1250C
 @ucun	𒔌
 @uage	8.0
@@ -41310,9 +41338,9 @@
 @end sign
 
 @sign |ŠID×A|
+@list	LAK295
 @oid	o0002743
 @list	ABZL208
-@list	LAK295
 @list	MZL489
 @list	SLLHA317
 @uname	CUNEIFORM SIGN SHID TIMES A
@@ -41373,6 +41401,7 @@
 @end sign
 
 @sign ŠIM
+@list	LAK655
 @list	ASY141
 @oid	o0002838
 @list	ABZL083
@@ -41380,7 +41409,6 @@
 @list	ELLES319
 @list	HZL154
 @list	KWU752
-@list	LAK655
 @list	MZL362
 @list	PTACE254
 @list	RSP422
@@ -41433,11 +41461,11 @@
 @link	eBL ŠIM https://www.ebl.lmu.de/signs/ŠIM
 @link	Wikidata Q87556400 http://www.wikidata.org/entity/Q87556400
 @form ŠIM@g
+@list	LAK660
 @oid	o0027582
 @upua	U+F0052
 @ucun	󰁒
 @list	GCSL280
-@list	LAK660
 @inote	for lak.atf and Gudea
 @@
 @end sign
@@ -41551,6 +41579,7 @@
 @end sign
 
 @sign |ŠIM×GAR|
+@list	LAK659
 @oid	o0002752
 @list	ABZL085
 @list	BAU354
@@ -41558,7 +41587,6 @@
 @list	ELLES320
 @list	HZL163
 @list	KWU758
-@list	LAK659
 @list	MZL373
 @list	PTACE255
 @list	SLLHA225
@@ -41623,8 +41651,8 @@
 @end sign
 
 @sign |ŠIM×IGI@g|
-@oid	o0002753
 @list	LAK656
+@oid	o0002753
 @list	MZL368
 @list	RSP423
 @list	SLLHA219x
@@ -41637,9 +41665,9 @@
 @link	eBL |ŠIM×IGI@g| https://www.ebl.lmu.de/signs/|ŠIM×IGI@g|
 @link	Wikidata Q87556412 http://www.wikidata.org/entity/Q87556412
 @form |DUG×IGI@g|
+@list	LAK586
 @oid	o0001021
 @list	ELLES292
-@list	LAK586
 @lit	Civil Ebla 1975-1985, 155
 @uname	CUNEIFORM SIGN DUG TIMES IGI GUNU
 @list	U+12499
@@ -41652,14 +41680,15 @@
 @inote	Fara form
 @@
 @form |GU₂×IGI@g|
+@list	LAK547
 @oid	o0001429
 @@
 @form ŠIM
+@list	LAK655
 @list	ASY141
 @oid	o0002838
 @list	BAU353
 @list	ELLES319
-@list	LAK655
 @list	PTACE254
 @list	RSP422
 @v	šembi⁻
@@ -41673,8 +41702,8 @@
 @end sign
 
 @sign |ŠIM×KUŠU₂|
-@oid	o0002755
 @list	LAK658
+@oid	o0002755
 @list	MZL375
 @list	RSP424
 @list	SLLHA223
@@ -41741,10 +41770,10 @@
 @end sign
 
 @sign |ŠIM×PI|
+@list	LAK657
 @oid	o0002758
 @upua	U+F0051
 @list	GCSL281
-@list	LAK657
 @v	šembiₓ
 @link	eBL |ŠIM×PI| https://www.ebl.lmu.de/signs/|ŠIM×PI|
 @end sign
@@ -41796,25 +41825,24 @@
 @upua	U+F0053
 @ucun	󰁓
 @list	GCSL282
-@list	LAK659
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |ŠIM@g×KUŠU₂|
+@list	LAK662
 @oid	o0027653
 @upua	U+F0054
 @ucun	󰁔
-@list	LAK662
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |ŠIM@g×PI|
+@list	LAK661
 @oid	o0027655
 @list	ABZL084^a
 @upua	U+F0055
 @ucun	󰁕
 @list	GCSL282
-@list	LAK661
 @inote	missing compounds for lak.atf
 @end sign
 
@@ -41845,6 +41873,7 @@
 @end sign
 
 @sign ŠIR
+@list	LAK023
 @list	ASY044
 @oid	o0002840
 @list	ABZL028
@@ -41853,7 +41882,6 @@
 @list	ELLES015
 @list	HZL005
 @list	KWU041
-@list	LAK023
 @list	MZL115
 @list	MZL115a
 @list	PTACE022
@@ -41919,6 +41947,7 @@
 @end sign
 
 @sign ŠITA
+@list	LAK503
 @oid	o0002842
 @list	ABZL270
 @list	BAU390
@@ -41926,8 +41955,6 @@
 @list	ELLES259
 @list	GCSL232
 @list	KWU777
-@list	LAK503
-@list	LAK503b
 @list	MZL388
 @list	RSP166
 @list	SLLHA233_22
@@ -41945,7 +41972,6 @@
 @link	Wikidata Q87556427 http://www.wikidata.org/entity/Q87556427
 @form ŠITA~a
 @oid	o0028106
-@list	LAK503a
 @inote	This is the ŠITA with curved final "wedge" distinguished as LAK503a in CDLI AbS translits from ŠITA with cuneiform final wedge, LAK503b.
 @@
 @end sign
@@ -41958,10 +41984,10 @@
 @end sign
 
 @sign |ŠITA.GIŠ|
+@list	LAK489
 @oid	o0023027
 @list	ABZL460
 @list	GCSL233
-@list	LAK489
 @list	ZATU147
 @useq	x122D6.x12111
 @ucun	𒋖𒄑
@@ -42027,6 +42053,8 @@
 @end sign
 
 @sign ŠU
+@list	LAK139
+@list	LAK146
 @list	ASY203
 @oid	o0002845
 @list	ABZL225
@@ -42035,8 +42063,6 @@
 @list	GCSL086
 @list	HZL068
 @list	KWU322
-@list	LAK139
-@list	LAK146
 @list	MZL567
 @list	PTACE087
 @list	RSP124
@@ -42336,6 +42362,7 @@
 @end sign
 
 @sign |ŠU.LAGAB|
+@list	LAK140
 @oid	o0002790
 @list	KWU328
 @useq	x122D7.x121B8
@@ -42492,12 +42519,12 @@
 @end sign
 
 @sign ŠU₂
+@list	LAK385
 @list	ASY296
 @oid	o0002850
 @list	ABZL422
 @list	ELLES210
 @list	KWU898
-@list	LAK385
 @list	PTACE149
 @list	SYA261
 @uname	CUNEIFORM SIGN SHU2
@@ -42515,8 +42542,8 @@
 @end sign
 
 @sign |ŠU₂.AN|
-@oid	o0002812
 @list	LAK356
+@oid	o0002812
 @list	MZL870
 @list	SLLHA546
 @note	The values iši₂, sulgar, suhul, and šuhub belong to |ŠU₂.3×AN| and are not shared with |ŠU₂.AN|.
@@ -42563,13 +42590,13 @@
 @v	šuhub
 @link	eBL |ŠU₂.3×AN| https://www.ebl.lmu.de/signs/|ŠU₂.3×AN|
 @form |3×AN|
+@list	LAK010
 @list	ASY095
 @oid	o0000642
 @list	BAU008
 @list	ELLES006bis
 @list	GCSL051
 @list	KWU025
-@list	LAK010
 @list	MZL247
 @list	PTACE009
 @list	RSP082
@@ -42604,10 +42631,10 @@
 @end sign
 
 @sign |ŠU₂.AN.HI×GAD|
+@list	LAK357
 @oid	o0002811
 @list	ABZL423^a
 @list	KWU510
-@list	LAK357
 @list	MZL871
 @list	SLLHA546_6
 @useq	x122D9.x1202D.x12132
@@ -42623,8 +42650,8 @@
 @v	kešₓ
 @@
 @form |ŠU₂.AN|
-@oid	o0002812
 @list	LAK356
+@oid	o0002812
 @useq	x122D9.x1202D
 @ucun	𒋙𒀭
 @v	keš₃
@@ -42694,8 +42721,8 @@
 @end sign
 
 @sign |ŠU₂.DUG×NI|
-@oid	o0002815
 @list	LAK396
+@oid	o0002815
 @uname	CUNEIFORM SIGN SHU2 PLUS DUG TIMES NI
 @list	U+12536
 @ucun	𒔶
@@ -42732,15 +42759,15 @@
 @end sign
 
 @sign |ŠU₂.E₂|
-@oid	o0027760
 @list	LAK397
+@oid	o0027760
 @useq	x122D9.x1208D
 @ucun	𒋙𒂍
 @end sign
 
 @sign |ŠU₂.(E₂×AN)|
-@oid	o0002807
 @list	LAK358
+@oid	o0002807
 @uname	CUNEIFORM SIGN SHU2 PLUS E2 TIMES AN
 @list	U+12537
 @ucun	𒔷
@@ -42834,13 +42861,13 @@
 @end sign
 
 @sign ŠUBUR
+@list	LAK039
 @list	ASY026
 @oid	o0002848
 @list	ABZL004
 @list	BAU018
 @list	ELLES024
 @list	KWU043
-@list	LAK039
 @list	MZL022
 @list	PTACE130
 @list	RSP458
@@ -42902,6 +42929,7 @@
 @end sign
 
 @sign TA
+@list	LAK559
 @list	ASY102
 @oid	o0000541
 @list	ABZL123
@@ -42910,7 +42938,6 @@
 @list	GCSL254
 @list	HZL160
 @list	KWU865
-@list	LAK559
 @list	MZL248
 @list	PTACE251
 @list	RSP209
@@ -42941,13 +42968,13 @@
 @inote	added during ogsl upgrade
 
 @sign |TA×HI|
+@list	LAK587
 @list	ASY082
 @oid	o0002407
 @list	ABZL124
 @list	BAU345
 @list	GCSL255
 @list	KWU757
-@list	LAK587
 @list	MZL250
 @list	RSP210
 @list	PTACE253
@@ -42997,8 +43024,8 @@
 @end sign
 
 @sign TA@g
-@oid	o0000542
 @list	LAK654
+@oid	o0000542
 @list	MZL249
 @list	SLLHA141a
 @uname	CUNEIFORM SIGN TA GUNU
@@ -43012,8 +43039,8 @@
 @link	eBL TA@g https://www.ebl.lmu.de/signs/TA@g
 @link	Wikidata Q87556477 http://www.wikidata.org/entity/Q87556477
 @form LAK654a
+@list	LAK654^a
 @oid	o0025784
-@list	LAK654a
 @inote	TA@g with curviform final wedge OSL = LAK654a (main box); cuneiform final wedge OSL = LAK654 (secondary box)
 @@
 @form |TA×IR|
@@ -43036,12 +43063,12 @@
 @end sign
 
 @sign TAB
+@list	LAK090
 @list	ASY090
 @oid	o0000544
 @list	ABZL109
 @list	BAU064
 @list	HZL090
-@list	LAK090
 @list	MZL209
 @list	RSP039
 @list	SLLHA124
@@ -43221,6 +43248,7 @@
 @end sign
 
 @sign TAG
+@list	LAK628
 @list	ASY092
 @oid	o0000546
 @list	ABZL121
@@ -43229,7 +43257,6 @@
 @list	GCSL267
 @list	HZL091
 @list	KWU748
-@list	LAK628
 @list	MZL221
 @list	PTACE245
 @list	RSP427
@@ -43449,6 +43476,7 @@
 @end sign
 
 @sign TAK₄
+@list	LAK282
 @list	ASY040
 @oid	o0000547
 @list	ABZL058
@@ -43457,7 +43485,6 @@
 @list	GCSL127
 @list	HZL227
 @list	KWU923
-@list	LAK282
 @list	MZL106
 @list	PTACE146
 @list	RSP387
@@ -43530,6 +43557,7 @@
 @compoundonly	TAK₄@f
 
 @sign TAR
+@list	LAK181
 @list	ASY011
 @oid	o0000548
 @list	ABZL231
@@ -43538,7 +43566,6 @@
 @list	GCSL093
 @list	HZL007
 @list	KWU340
-@list	LAK181
 @list	MZL009
 @list	PTACE141
 @list	RSP064
@@ -43616,6 +43643,7 @@
 @end sign
 
 @sign TE
+@list	LAK373
 @list	ASY218
 @oid	o0000550
 @list	ABZL289
@@ -43624,7 +43652,6 @@
 @list	GCSL159
 @list	HZL249
 @list	KWU495
-@list	LAK373
 @list	MZL589
 @list	PTACE179
 @list	RSP310
@@ -43657,6 +43684,7 @@
 @link	eBL TE https://www.ebl.lmu.de/signs/TE
 @link	Wikidata Q87556494 http://www.wikidata.org/entity/Q87556494
 @form |HI×AŠ|
+@list	LAK361
 @oid	o0001447
 @inote	AbS form
 @@
@@ -43667,6 +43695,7 @@
 @end sign
 
 @sign |TE.A|
+@list	LAK375
 @list	ASY219
 @oid	o0002412
 @list	ABZL290
@@ -43675,7 +43704,6 @@
 @list	GCSL161
 @list	HZL250
 @list	KWU496
-@list	LAK375
 @list	MZL590
 @list	PTACE182
 @list	RSP311
@@ -43734,8 +43762,8 @@
 @end sign
 
 @sign |TE.ME|
-@oid	o0002414
 @list	LAK374
+@oid	o0002414
 @list	PTACE181
 @useq	x122FC.x12228
 @ucun	𒋼𒈨
@@ -43757,6 +43785,7 @@
 @end sign
 
 @sign TE@g
+@list	LAK382
 @list	ASY030a
 @oid	o0000551
 @list	ABZL283
@@ -43764,7 +43793,6 @@
 @list	GCSL160
 @list	HZL315
 @list	KWU484
-@list	LAK382
 @list	MZL088
 @list	PTACE183
 @list	RSP330
@@ -43790,9 +43818,9 @@
 @link	eBL TE@g https://www.ebl.lmu.de/signs/TE@g
 @link	Wikidata Q87556495 http://www.wikidata.org/entity/Q87556495
 @form LAK051
+@list	LAK051
 @oid	o0031506
 @aka	LAK51
-@list	LAK051
 @uname	CUNEIFORM SIGN LAK51
 @list	U+124DA
 @ucun	𒓚
@@ -43808,12 +43836,12 @@
 @uage	9.2
 @@
 @form TE
+@list	LAK373
 @list	ASY218
 @oid	o0000550
 @list	BAU195
 @list	ELLES203
 @list	GCSL159
-@list	LAK373
 @list	PTACE179
 @list	RSP310
 @v	maru⁻
@@ -43843,6 +43871,7 @@
 @end sign
 
 @sign TI
+@list	LAK018
 @list	ASY046
 @oid	o0000553
 @list	ABZL023
@@ -43850,7 +43879,6 @@
 @list	ELLES011
 @list	GCSL014
 @list	KWU037
-@list	LAK018
 @list	MZL118
 @list	PTACE012
 @list	RSP089
@@ -43916,10 +43944,9 @@
 @end sign
 
 @sign TIL
+@list	LAK017
 @oid	o0000555
 @list	ABZL025
-@list	LAK017
-@list	LAK046^a
 @list	MZL113b
 @list	PTACE002
 @list	RSP048
@@ -43949,6 +43976,7 @@
 @end sign
 
 @sign TU
+@list	LAK211
 @list	ASY030
 @oid	o0000556
 @list	ABZL382
@@ -43956,7 +43984,6 @@
 @list	ELLES122
 @list	GCSL107
 @list	HZL346
-@list	LAK211
 @list	MZL086
 @list	PTACE048
 @list	REC147
@@ -44000,8 +44027,8 @@
 @link	eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
 @@
 @form |ŠU×ŠE|
-@oid	o0031747
 @list	LAK141
+@oid	o0031747
 @@
 @end sign
 
@@ -44019,6 +44046,7 @@
 @end sign
 
 @sign TUG₂
+@list	LAK792^a
 @oid	o0000557
 @list	ABZL417
 @list	BAU385c
@@ -44104,6 +44132,7 @@
 @compoundonly	|TUG₂&TUG₂|
 
 @sign TUK
+@list	LAK473
 @list	ASY309
 @oid	o0000558
 @list	ABZL444
@@ -44112,7 +44141,6 @@
 @list	GCSL221
 @list	HZL053
 @list	KWU909
-@list	LAK473
 @list	MZL827
 @list	PTACE270
 @list	RSP392
@@ -44158,6 +44186,7 @@
 @end sign
 
 @sign TUM
+@list	LAK494
 @list	ASY137
 @oid	o0000559
 @list	ABZL075
@@ -44166,7 +44195,6 @@
 @list	GCSL227
 @list	HZL125
 @list	KWU730
-@list	LAK494
 @list	MZL354
 @list	PTACE224
 @list	RSP404
@@ -44207,9 +44235,9 @@
 @link	eBL TUM https://www.ebl.lmu.de/signs/TUM
 @link	Wikidata Q87556517 http://www.wikidata.org/entity/Q87556517
 @form LAK496
+@list	LAK496
 @oid	o0221890
 @list	GCSL228
-@list	LAK496
 @@
 @end sign
 
@@ -44220,9 +44248,9 @@
 @end sign
 
 @sign |TUM×(DIŠ.DIŠ.DIŠ)|
+@list	LAK497^a
 @oid	o0002428
 @aka	|TUM×3(DIŠ)|
-@list	LAK497a
 @list	PTACE225
 @inote	Do the TUM group need further specification of whether the waist is "gunified" or not?
 @uname	CUNEIFORM SIGN TUM TIMES DISH PLUS DISH PLUS DISH
@@ -44234,8 +44262,8 @@
 @end sign
 
 @sign |TUM×GAN₂@t|
+@list	LAK497^b
 @oid	o0002429
-@list	LAK497b
 @list	RSP405
 @uname	CUNEIFORM SIGN TUM TIMES GAN2 TENU
 @list	U+1253A
@@ -44262,6 +44290,7 @@
 @end sign
 
 @sign TUR
+@list	LAK528
 @list	ASY107
 @oid	o0000560
 @list	ABZL393
@@ -44270,7 +44299,6 @@
 @list	GCSL247
 @list	HZL237
 @list	KWU801
-@list	LAK528
 @list	MZL255
 @list	PTACE235
 @list	RSP381
@@ -44462,12 +44490,15 @@
 @end sign
 
 @sign U
+@list	LAK821^b
+@list	LAK840^b
+@list	LAK857^b
+@list	LAK859^b
 @list	ASY242
 @oid	o0000561
 @list	ABZL337
 @list	GCSL176
 @list	HZL261
-@list	LAK807
 @list	MZL661
 @list	RSP006 .1 .2 .3 .4
 @list	RSP008 ŠUŠ 𒌋 šuš šu₄ .5 .6 .7
@@ -44524,10 +44555,6 @@
 @form+ U@c
 @aka 1(N14)
 @oid	o0223334
-@list	LAK840
-@list 	LAK821
-@list 	LAK840
-@list 	LAK857
 @list	RSP028
 @sys pcun 1(N14)
 @list U+12562
@@ -44548,13 +44575,13 @@
 @end sign
 
 @sign |U.AD|
+@list	LAK414
 @oid	o0002446
 @list	ABZL342
 @list	BAU181
 @list	GCSL206
 @list	HZL266
 @list	KWU545
-@list	LAK414
 @list	MZL683
 @list	RSP015
 @list	SLLHA430
@@ -44568,12 +44595,12 @@
 @v	kiriₓ
 @link	eBL |U.AD| https://www.ebl.lmu.de/signs/|U.AD|
 @form AD
+@list	LAK635
 @list	ASY108
 @oid	o0000092
 @list	BAU311
 @list	ELLES311
 @list	GCSL270
-@list	LAK635
 @list	PTACE249
 @list	RSP227
 @inote	P010982 = WF 025  = EDATS no. 116 r ii 9
@@ -44619,8 +44646,8 @@
 @link	eBL |DIŠ.DAR| https://www.ebl.lmu.de/signs/|DIŠ.DAR|
 @@
 @form	|AŠ@t.DAR|
+@list	LAK179
 @oid	o0038420
-@list LAK179
 @list RSP011
 @useq	x12039.x1206F
 @ucun	𒀹𒁯
@@ -44696,9 +44723,9 @@
 @end sign
 
 @sign |U.GA|
+@list	LAK412
 @oid	o0002457
 @list	ABZL351
-@list	LAK412
 @list	MZL700
 @list	RSP014
 @list	SLLHA443
@@ -44733,12 +44760,12 @@
 @end sign
 
 @sign |U.GAN|
+@list	LAK407^a
 @oid	o0002456
 @list	ABZL345
 @list	BAU279
 @list	HZL270
 @list	KWU547
-@list	LAK407b
 @list	MZL684
 @list	RSP016
 @list	SLLHA428
@@ -44753,9 +44780,9 @@
 @v	šaman₂
 @link	eBL |U.GAN| https://www.ebl.lmu.de/signs/|U.GAN|
 @form |AŠ.GAN|
+@list	LAK062
 @oid	o0018530
 @list	ELLES038
-@list	LAK062
 @inote	this is AŠ+GAN taken as allograph of GAN in DCCLT ED Fara pots but perhaps better to take as allograph of U.GAN
 @uname	CUNEIFORM SIGN LAK62
 @list	U+124DB
@@ -44782,6 +44809,8 @@
 @end sign
 
 @sign |U.GUD|
+@list	LAK299
+@list	LAK300
 @list	ASY258
 @oid	o0002459
 @list	ABZL344
@@ -44790,8 +44819,6 @@
 @list	GCSL199
 @list	HZL275
 @list	KWU502
-@list	LAK299
-@list	LAK300
 @list	MZL698
 @list	PTACE150
 @list	RSP012
@@ -44832,12 +44859,12 @@
 @end sign
 
 @sign |U.KA|
+@list	LAK413
 @list	ASY243
 @oid	o0002461
 @list	ABZL358
 @list	HZL272
 @list	KWU514
-@list	LAK413
 @list	MZL663
 @list	RSP013
 @list	SLLHA412
@@ -44926,12 +44953,12 @@
 @end sign
 
 @sign |U.SAG|
+@list	LAK316
 @oid	o0002466
 @list	ABZL357
 @list	BAU179
 @list	ELLES180
 @list	KWU513
-@list	LAK316
 @list	MZL671
 @list	PTACE156
 @list	SLLHA419
@@ -44979,9 +45006,9 @@
 @end sign
 
 @sign |U.ŠA|
+@list	LAK411
 @oid	o0002477
 @list	KWU509
-@list	LAK411
 @useq	x1230B.x122AD
 @ucun	𒌋𒊭
 @v	sagₓ
@@ -44991,9 +45018,9 @@
 @v	zaₓ
 @link	eBL |U.ŠA| https://www.ebl.lmu.de/signs/|U.ŠA|
 @form LAK384
+@list	LAK384
 @oid	o0000364
 @list	ELLES209
-@list	LAK384
 @list	PTACE302
 @inote	epsd2 e₂-saŋₓ = esaŋ[store]
 @uname	CUNEIFORM SIGN LAK384
@@ -45079,8 +45106,8 @@
 @link	eBL |U.U| https://www.ebl.lmu.de/signs/|U.U|
 @link	Wikidata Q87556828 http://www.wikidata.org/entity/Q87556828
 @form 2(AŠ@t)
-@oid	o0000010
 @list	LAK185
+@oid	o0000010
 @list	PTACE206
 @uname	CUNEIFORM NUMERIC SIGN TWO ASH TENU
 @list	U+1244A
@@ -45146,6 +45173,7 @@
 @link	eBL |U.U.U| https://www.ebl.lmu.de/signs/|U.U.U|
 @link	Wikidata Q87556527 http://www.wikidata.org/entity/Q87556527
 @form 3(AŠ@t)
+@list	LAK191
 @oid	o0000021
 @@
 @form 3(U@c)
@@ -45184,9 +45212,9 @@
 @end sign
 
 @sign |U.UD|
+@list	LAK401
 @oid	o0002473
 @list	KWU511
-@list	LAK401
 @list	MZL706
 @list	RSP328
 @list	SLLHA447
@@ -45203,6 +45231,7 @@
 @v	uzu₅
 @link	eBL |U.UD| https://www.ebl.lmu.de/signs/|U.UD|
 @form |UD×DIŠ|
+@list	LAK380
 @oid	o0223330
 @list	RSP328
 @upua	U+F0092
@@ -45212,9 +45241,9 @@
 @end sign
 
 @sign |U.UD.KID|
+@list	LAK402
 @oid	o0002472
 @list	KWU512
-@list	LAK402
 @list	MZL707
 @list	RSP017
 @list	SLLHA447a
@@ -45293,8 +45322,8 @@
 @end sign
 
 @sign |U&U.PA&PA.GAR&GAR|
-@oid	o0002441
 @list	LAK419
+@oid	o0002441
 @list	SLLHA411_182a
 @uname	CUNEIFORM SIGN U OVER U PA OVER PA GAR OVER GAR
 @list	U+1230E
@@ -45307,9 +45336,9 @@
 @end sign
 
 @sign |U&U.SUR&SUR|
+@list	LAK418
 @oid	o0002442
 @list	GCSL213
-@list	LAK418
 @list	SLLHA411_167a
 @uname	CUNEIFORM SIGN U OVER U SUR OVER SUR
 @list	U+1230F
@@ -45341,10 +45370,10 @@
 @end sign
 
 @sign U@g
+@list	LAK808
+@list	LAK858^b
 @oid	o0000562
 @list	HZL261
-@list	LAK808
-@list 	LAK858b
 @list	MZL662
 @list	SLLHA350_8
 @uname	CUNEIFORM NUMERIC SIGN ONE BURU
@@ -45363,8 +45392,8 @@
 @v	burʾuₓ
 @@
 @form 1(BURU@c)
+@list	LAK858^a
 @oid	o0223372
-@list	LAK858a
 @list	RSP034^a
 @inote	@ucode	xebb7
 @inote	this is the new OGSL name for U@c×KASKAL
@@ -45386,6 +45415,7 @@
 @compoundonly	|U@v&U@v|
 
 @sign U₂
+@list	LAK152
 @list	ASY169
 @oid	o0000599
 @list	ABZL146
@@ -45394,7 +45424,6 @@
 @list	GCSL066
 @list	HZL195
 @list	KWU296
-@list	LAK152
 @list	MZL490
 @list	PTACE102
 @list	RSP133
@@ -45476,6 +45505,7 @@
 @v	kišik
 @link	eBL |U₂.GIR₂@g| https://www.ebl.lmu.de/signs/|U₂.GIR₂@g|
 @form GIR₂
+@list	LAK006
 @list	ASY009
 @oid	o0000213
 @list	GCSL002
@@ -45698,6 +45728,7 @@
 @end sign
 
 @sign UB
+@list	LAK284
 @list	ASY161
 @oid	o0000564
 @list	ABZL288
@@ -45706,7 +45737,6 @@
 @list	GCSL128
 @list	HZL152
 @list	KWU478
-@list	LAK284
 @list	MZL504
 @list	PTACE116
 @list	RSP185
@@ -45745,6 +45775,7 @@
 @end sign
 
 @sign UD
+@list	LAK379
 @list	ASY221
 @oid	o0000565
 @list	ABZL332
@@ -45754,7 +45785,6 @@
 @list	GCSL171
 @list	HZL316
 @list	KWU345
-@list	LAK379
 @list	MZL596
 @list	PTACE185
 @list	REC234
@@ -46114,8 +46144,8 @@
 @ucun	𒅗𒌓𒁇
 @@
 @form |UD.KA.AŠ|
-@oid	o0018560
 @list	LAK329
+@oid	o0018560
 @useq	x12313.x12157.x12038
 @ucun	𒌓𒅗𒀸
 @@
@@ -46135,11 +46165,11 @@
 @end sign
 
 @sign |UD.KUŠU₂|
+@list	LAK305
 @list	ASY225
 @oid	o0002500
 @list	ABZL333
 @list	KWU345
-@list	LAK305
 @list	MZL611
 @list	RSP174
 @list	SLLHA392
@@ -46166,6 +46196,7 @@
 @link	eBL |UD.KUŠU₂| https://www.ebl.lmu.de/signs/|UD.KUŠU₂|
 @link	Wikidata Q87556541 http://www.wikidata.org/entity/Q87556541
 @form KUŠU₂
+@list	LAK304
 @list	ASY304
 @oid	o0000295
 @link	eBL KUŠU₂ https://www.ebl.lmu.de/signs/KUŠU₂
@@ -46336,6 +46367,7 @@
 @link	eBL |UD×BAD| https://www.ebl.lmu.de/signs/|UD×BAD|
 @link	Wikidata Q87556544 http://www.wikidata.org/entity/Q87556544
 @form |UD×DIŠ|
+@list	LAK380
 @oid	o0223330
 @list	RSP328
 @upua	U+F0092
@@ -46392,7 +46424,6 @@
 @list	ABZL334
 @list	HZL084
 @list	KWU408
-@list	LAK380^c
 @inote UD×U+U+U
 @list	MZL020
 @list	PTACE186
@@ -46416,20 +46447,18 @@
 @oid	o0223330
 @inote UD×U
 @list	RSP328
-@list	LAK380
 @inote ED IIIb form for itud
 @@
 @form+ |UD×DIŠ@c|
 @oid	o0270212
-@list	LAK380^b
 @inote ED IIIb form for itud
 @@
 @end sign
 
 @sign UD@g
+@list	LAK157
 @oid	o0038409
 @uname	CUNEIFORM SIGN UD GUNU
-@list	LAK157
 @list	KWU257
 @list	MZL542
 @list	U+12319
@@ -46468,8 +46497,8 @@
 @note 	The early form of MURUB₄ is LAK157=UD@g; the Unicode reference glyph
 	UD@g×EŠ (i.e., |UD×(U.U.U)@g|) reflects a later form.
 @form UD@g
-@oid	o0038409
 @list	LAK157
+@oid	o0038409
 @list	KWU257
 @list	MZL542
 @@
@@ -46550,9 +46579,9 @@
 @end sign
 
 @sign |UD@s×BAD|
+@list	LAK381
 @oid	o0002516
 @list	GCSL175
-@list	LAK381
 @list	MZL021
 @list	SLLHA052xv
 @uname	CUNEIFORM SIGN UD SHESHIG TIMES BAD
@@ -46759,13 +46788,13 @@
 @end sign
 
 @sign UMBIN
+@list	LAK289
 @oid	o0000572
 @list	ABZL301
 @list	ELLES169
 @list	GCSL130
 @list	HZL166
 @list	KWU403
-@list	LAK289
 @list	MZL160
 @list	RSP062
 @list	SLLHA092b
@@ -46809,6 +46838,7 @@
 @end sign
 
 @sign UMUM
+@list	LAK155
 @oid	o0000573
 @list	ABZL215^a
 @list	BAU093
@@ -46816,7 +46846,6 @@
 @list	ELLES085
 @list	HZL102
 @list	KWU308
-@list	LAK155
 @list	MZL547
 @list	RSP361
 @list	SLLHA338
@@ -46830,9 +46859,9 @@
 @link	eBL UMUM https://www.ebl.lmu.de/signs/UMUM
 @link	Wikidata Q87556573 http://www.wikidata.org/entity/Q87556573
 @form DE₂
+@list	LAK156^a
 @list	ASY190
 @oid	o0002529
-@list	LAK156b
 @list	RSP361bis
 @link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
 @link	Wikidata Q87556575 http://www.wikidata.org/entity/Q87556575
@@ -46870,9 +46899,9 @@
 @end sign
 
 @sign |UMUM×PA|
+@list	LAK156
 @oid	o0002530
 @list	ELLES087
-@list	LAK156
 @list	SLLHA338n2
 @uname	CUNEIFORM SIGN UMUM TIMES PA
 @list	U+12325
@@ -46885,6 +46914,7 @@
 @end sign
 
 @sign UR
+@list	LAK664
 @oid	o0000576
 @list	ABZL400
 @list	ASY310
@@ -46893,7 +46923,6 @@
 @list	GCSL311
 @list	HZL051
 @list	KWU852
-@list	LAK664
 @list	MZL828
 @list	PTACE272
 @list	RSP238
@@ -47082,6 +47111,7 @@
 @end sign
 
 @sign UR₂
+@list	LAK479
 @list	ASY131
 @oid	o0000585
 @list	ABZL072
@@ -47090,7 +47120,6 @@
 @list	GCSL226
 @list	HZL124
 @list	KWU736
-@list	LAK479
 @list	MZL341
 @list	PTACE277
 @list	RSP376
@@ -47259,10 +47288,10 @@
 @end sign
 
 @sign |UR₂×U₂|
+@list	LAK482
 @oid	o0002597
 @list	ABZL074
 @list	KWU170
-@list	LAK482
 @list	MZL344
 @list	SLLHA204a
 @uname	CUNEIFORM SIGN UR2 TIMES U2
@@ -47311,8 +47340,8 @@
 @end sign
 
 @sign |UR₂×UD|
-@oid	o0002596
 @list	LAK480
+@oid	o0002596
 @uname	CUNEIFORM SIGN UR2 TIMES UD
 @list	U+1253D
 @ucun	𒔽
@@ -47352,6 +47381,7 @@
 @end sign
 
 @sign UR₄
+@list	LAK472
 @list	ASY321
 @oid	o0000588
 @list	ABZL448
@@ -47359,7 +47389,6 @@
 @list	ELLES247
 @list	ELLES324
 @list	KWU922
-@list	LAK472
 @list	MZL835
 @list	PTACE271
 @list	RSP393
@@ -47377,6 +47406,7 @@
 @end sign
 
 @sign URI
+@list	LAK176
 @oid	o0000579
 @list	ABZL224
 @list	BAU414
@@ -47384,7 +47414,6 @@
 @list	GCSL090
 @list	HZL246
 @list	KWU303
-@list	LAK176
 @list	MZL574
 @list	PTACE114
 @list	RSP380
@@ -47405,14 +47434,14 @@
 @link	eBL URI https://www.ebl.lmu.de/signs/URI
 @link	Wikidata Q87556612 http://www.wikidata.org/entity/Q87556612
 @form LAK647
-@oid	o0025783
 @list	LAK647
+@oid	o0025783
 @v	sigₓ
 @inote is this really a form of URI? Check lit cited in KOBO 275 n.459
 @@
 @form URI@n
-@oid	o0000580
 @list	LAK125
+@oid	o0000580
 @inote	CDLI ed3b
 @v	uriₓ
 @link	eBL URI@n https://www.ebl.lmu.de/signs/URI@n
@@ -47420,12 +47449,12 @@
 @end sign
 
 @sign URI₃
+@list	LAK031
 @oid	o0000581
 @list	ABZL021a
 @list	BAU010
 @list	GCSL007a
 @list	KWU029
-@list	LAK031
 @list	RSP090
 @uname	CUNEIFORM SIGN URI3
 @list	U+12336
@@ -47441,6 +47470,7 @@
 @end sign
 
 @sign URU
+@list	LAK591
 @list	ASY022
 @oid	o0000582
 @list	ABZL181
@@ -47449,7 +47479,6 @@
 @list	GCSL256
 @list	HZL229
 @list	KWU768
-@list	LAK591
 @list	MZL071
 @list	PTACE257
 @list	RSP300
@@ -47492,11 +47521,11 @@
 @end sign
 
 @sign |URU×A|
+@list	LAK597
 @oid	o0002553
 @list	ABZL190
 @list	BAU337
 @list	GCSL258
-@list	LAK597
 @list	MZL081
 @list	RSP303
 @list	SLLHA046xxx
@@ -47528,8 +47557,8 @@
 @end sign
 
 @sign |URU×AŠGAB|
-@oid	o0002554
 @list	LAK594
+@oid	o0002554
 @uname	CUNEIFORM SIGN URU TIMES ASHGAB
 @list	U+12339
 @ucun	𒌹
@@ -47544,6 +47573,7 @@
 @end sign
 
 @sign |URU×BAR|
+@list	LAK649
 @oid	o0002555
 @list	ABZL186
 @list	BAU309
@@ -47551,7 +47581,6 @@
 @list	GCSL276
 @list	HZL134
 @list	KWU227
-@list	LAK649
 @list	MZL073
 @list	PTACE085
 @list	SLLHA040
@@ -47594,8 +47623,8 @@
 @end sign
 
 @sign |URU×DARA₃|
-@oid	o0002556
 @list	LAK592
+@oid	o0002556
 @uname	CUNEIFORM SIGN URU TIMES DARA3
 @list	U+1253E
 @ucun	𒔾
@@ -47605,8 +47634,8 @@
 @end sign
 
 @sign |URU×DUN|
-@oid	o0002557
 @list	LAK593
+@oid	o0002557
 @uname	CUNEIFORM SIGN URU TIMES DUN
 @list	U+1233B
 @ucun	𒌻
@@ -47630,8 +47659,8 @@
 @link	eBL |URU×GA| https://www.ebl.lmu.de/signs/|URU×GA|
 @link	Wikidata Q87556628 http://www.wikidata.org/entity/Q87556628
 @form |LAK648×GA|
-@oid	o0001878
 @list	LAK714
+@oid	o0001878
 @list	U+1250F
 @ucun	𒔏
 @uage	8.0
@@ -47663,11 +47692,11 @@
 @end sign
 
 @sign |URU×GAN₂@t|
+@list	LAK601
 @list	ASY023a
 @oid	o0002561
 @list	ABZL187
 @list	KWU770
-@list	LAK601
 @list	MZL074
 @list	RSP301
 @list	SLLHA043v
@@ -47687,9 +47716,9 @@
 @end sign
 
 @sign |URU×GAR|
+@list	LAK603
 @oid	o0002562
 @list	ABZL191
-@list	LAK603
 @list	MZL083
 @list	SLLHA049
 @uname	CUNEIFORM SIGN URU TIMES GAR
@@ -47706,13 +47735,13 @@
 @end sign
 
 @sign |URU×GU|
+@list	LAK602
 @list	ASY023b
 @oid	o0002564
 @list	ABZL185
 @list	ELLES296
 @list	GCSL257
 @list	KWU771
-@list	LAK602
 @list	MZL084
 @list	RSP302
 @list	SLLHA046
@@ -47828,8 +47857,8 @@
 @form |URU×MIN×IGI|
 @oid	o0028113
 @aka	|GIŠGAL×IGI|
-@list	ELLES317
 @list	LAK650
+@list	ELLES317
 @list	PTACE082
 @inote	Ebla sign list si-la-ga-um
 @inote	Probably a better description than URU×(MIN.IGI) or URU×IGI
@@ -47860,8 +47889,8 @@
 @end sign
 
 @sign |URU×IŠ|
-@oid	o0002568
 @list	LAK596
+@oid	o0002568
 @uname	CUNEIFORM SIGN URU TIMES ISH
 @list	U+12344
 @ucun	𒍄
@@ -47886,8 +47915,8 @@
 @end sign
 
 @sign |URU×LAK668|
-@oid	o0002570
 @list	LAK600
+@oid	o0002570
 @uname	CUNEIFORM SIGN URU TIMES LAK668
 @list	U+1253F
 @ucun	𒔿
@@ -47950,7 +47979,7 @@
 @v	ulu₃
 @@
 @form LAK648
-@list LAK648
+@list	LAK648
 @list	RSP269
 @oid	o0000408
 @uname	CUNEIFORM SIGN LAK648
@@ -47966,12 +47995,12 @@
 @note	sign is LAK648×IM
 @@
 @form URU
+@list	LAK591
 @list	ASY022
 @oid	o0000582
 @list	BAU336
 @list	ELLES295
 @list	GCSL256
-@list	LAK591
 @list	PTACE257
 @list	RSP300
 @v	lu₇⁻
@@ -48035,8 +48064,8 @@
 @end sign
 
 @sign |URU×SIG₄|
-@oid	o0002574
 @list	LAK595
+@oid	o0002574
 @uname	CUNEIFORM SIGN URU TIMES SIG4
 @list	U+1234A
 @ucun	𒍊
@@ -48140,15 +48169,15 @@
 @end sign
 
 @sign |URU×U₂@t|
-@oid	o0027647
 @list	LAK599
+@oid	o0027647
 @inote	missing compounds for lak.atf
 @end sign
 
 @sign |URU×UD|
+@list	LAK598
 @list	ASY023
 @oid	o0002577
-@list	LAK598
 @list	MZL077
 @list	SLLHA043
 @list	SYA018
@@ -48195,10 +48224,10 @@
 @link	eBL |URU×URUDA| https://www.ebl.lmu.de/signs/|URU×URUDA|
 @link	Wikidata Q87556666 http://www.wikidata.org/entity/Q87556666
 @form |LAK648×URUDA|
-@oid	o0001884
-@list	ELLES318
 @list	LAK653
 @list	LAK716
+@oid	o0001884
+@list	ELLES318
 @list	PTACE083
 @uname	CUNEIFORM SIGN LAK648 TIMES URUDA
 @list	U+12516
@@ -48241,6 +48270,7 @@
 @end sign
 
 @sign URUDA
+@list	LAK604
 @list	ASY098
 @oid	o0000584
 @list	ABZL111
@@ -48249,7 +48279,6 @@
 @list	GCSL259
 @list	HZL109
 @list	KWU831
-@list	LAK604
 @list	MZL230
 @list	PTACE258
 @list	RSP239
@@ -48337,6 +48366,7 @@
 @end sign
 
 @sign UŠ
+@list	LAK058
 @list	ASY025
 @list	ASY138
 @oid	o0000595
@@ -48345,7 +48375,6 @@
 @list	GCSL024
 @list	HZL132
 @list	KWU711
-@list	LAK058
 @list	MZL381
 @list	PTACE051
 @list	RSP415
@@ -48561,11 +48590,11 @@
 @end sign
 
 @sign |UŠ×TAK₄|
+@list	LAK060
 @oid	o0002617
 @list	ABZL069
 @list	ELLES037
 @list	KWU712
-@list	LAK060
 @list	MZL382
 @list	PTACE052
 @list	RSP418
@@ -48621,11 +48650,11 @@
 @end sign
 
 @sign UŠX
+@list	LAK672^a
 @oid	o0000597
 @list	ELLES328
 @list	ELLES330
 @list	KWU089
-@list	LAK672a
 @uname	CUNEIFORM SIGN USHX
 @list	U+12356
 @ucun	𒍖
@@ -48655,6 +48684,7 @@
 @end sign
 
 @sign UZ₃
+@list	LAK778
 @list	ASY088a
 @oid	o0000594
 @list	ABZL054
@@ -48664,7 +48694,6 @@
 @list	GCSL044
 @list	HZL023
 @list	KWU070
-@list	LAK778
 @list	MZL203
 @list	PTACE059
 @list	RSP400
@@ -48721,6 +48750,7 @@
 @end sign
 
 @sign UZU
+@list	LAK350
 @list	ASY121
 @oid	o0000592
 @list	ABZL134
@@ -48728,7 +48758,6 @@
 @list	ELLES193
 @list	HZL203
 @list	KWU692
-@list	LAK350
 @list	MZL311
 @list	PTACE178
 @list	SLLHA171
@@ -48813,6 +48842,7 @@
 @end sign
 
 @sign ZA
+@list	LAK797
 @list	ASY316
 @oid	o0000603
 @list	ABZL474
@@ -48820,7 +48850,6 @@
 @list	BAU082b
 @list	ELLES395
 @list	GCSL325
-@list	LAK797
 @list	MZL853
 @list	PTACE330
 @list	RSP077
@@ -48895,10 +48924,10 @@
 @end sign
 
 @sign |ZA.GUL|
+@list	LAK799
 @list	ASY318
 @oid	o0002643
 @list	GCSL326
-@list	LAK799
 @list	MZL858
 @list	PTACE261
 @list	RSP078
@@ -49081,8 +49110,8 @@
 @end sign
 
 @sign ZA₇
-@oid	o0000607
 @list	LAK798
+@oid	o0000607
 @uname	CUNEIFORM SIGN ZA7
 @list	U+12541
 @ucun	𒕁
@@ -49093,6 +49122,7 @@
 @end sign
 
 @sign ZAG
+@list	LAK283
 @list	ASY185
 @oid	o0000605
 @list	ABZL206
@@ -49101,7 +49131,6 @@
 @list	GCSL085
 @list	HZL238
 @list	KWU331
-@list	LAK283
 @list	MZL540
 @list	PTACE148
 @list	RSP388
@@ -49171,6 +49200,8 @@
 @end sign
 
 @sign ZE₂
+@list	LAK538
+@list	LAK539
 @list	ASY109
 @oid	o0000608
 @list	ABZL126
@@ -49178,8 +49209,6 @@
 @list	GCSL252
 @list	HZL108
 @list	KWU824
-@list	LAK538
-@list	LAK539
 @list	MZL259
 @list	PTACE057
 @list	SLLHA147
@@ -49200,6 +49229,7 @@
 @end sign
 
 @sign ZI
+@list	LAK468
 @list	ASY059
 @oid	o0000609
 @list	ABZL041
@@ -49208,7 +49238,6 @@
 @list	GCSL220
 @list	HZL033
 @list	KWU125
-@list	LAK468
 @list	MZL140
 @list	PTACE043
 @list	RSP455
@@ -49281,11 +49310,11 @@
 @ucun	𒍣𒍣𒀀
 @@
 @form |ZI&ZI|
+@list	LAK469
 @oid	o0002666
 @list	ABZL900
 @list	BAU259
 @list	KWU127
-@list	LAK469
 @list	RSP456
 @v	sukumₓ
 @v	šuₓ
@@ -49295,11 +49324,11 @@
 @end sign
 
 @sign |ZI&ZI|
+@list	LAK469
 @oid	o0002666
 @list	ABZL900
 @list	BAU259
 @list	KWU127
-@list	LAK469
 @list	RSP456
 @note	abbreviated variant
 @uname	CUNEIFORM SIGN ZI OVER ZI
@@ -49373,10 +49402,10 @@
 @note	value zulumhi₃ has been re-assigned to |ZI&ZI.A|; merges with |ZI&ZI.LAGAB| in OB
 @link	eBL |ZI&ZI.LAGAB| https://www.ebl.lmu.de/signs/|ZI&ZI.LAGAB|
 @form |ZI&ZI|
+@list	LAK469
 @oid	o0002666
 @list	BAU259
 @list	KWU127
-@list	LAK469
 @list	RSP456
 @note	abbreviated variant of NUMUN₂?
 @lit	MSL 14, 49 note at line 453.
@@ -49440,6 +49469,7 @@
 @link	eBL ZI₃ https://www.ebl.lmu.de/signs/ZI₃
 @link	Wikidata Q87556717 http://www.wikidata.org/entity/Q87556717
 @form KU
+@list	LAK791
 @list	ASY290
 @oid	o0000289
 @list	GCSL242a
@@ -49551,9 +49581,9 @@
 @end sign
 
 @sign ZIZ₂
+@list	LAK162^b
 @oid	o0000612
 @list	ABZL211
-@list	LAK162b
 @list	PTACE100
 @lit	M. krebernik, OBO 160/1, 277
 @uname	CUNEIFORM SIGN ZIZ2
@@ -49631,6 +49661,7 @@
 @end sign
 
 @sign ZU
+@list	LAK291
 @list	ASY005
 @oid	o0000614
 @list	ABZL304
@@ -49639,7 +49670,6 @@
 @list	GCSL135
 @list	HZL209
 @list	KWU409
-@list	LAK291
 @list	MZL015
 @list	PTACE119
 @list	RSP141
@@ -49661,11 +49691,11 @@
 @end sign
 
 @sign |ZU.AB|
+@list	LAK292
 @oid	o0002674
 @list	BAU225
 @list	GCSL136
 @list	KWU410
-@list	LAK292
 @list	RSP142
 @useq	x1236A.x1200A
 @ucun	𒍪𒀊
@@ -49673,10 +49703,10 @@
 @v	abzu
 @link	eBL |ZU.AB| https://www.ebl.lmu.de/signs/|ZU.AB|
 @form DE₂
+@list	LAK156^a
 @list	ASY190
 @oid	o0000138
 @list	GCSL071
-@list	LAK156b
 @list	RSP361bis
 @uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @v	abzu₂
@@ -49695,9 +49725,9 @@
 @end sign
 
 @sign |ZU&ZU.SAR|
+@list	LAK218
 @oid	o0002673
 @list	BAU136
-@list	LAK218
 @uname	CUNEIFORM SIGN ZU OVER ZU PLUS SAR
 @list	U+12542
 @ucun	𒕂
@@ -49720,9 +49750,9 @@
 @end sign
 
 @sign ZU₅
+@list	LAK117
 @oid	o0000618
 @list	ELLES062
-@list	LAK117
 @uname	CUNEIFORM SIGN ZU5
 @list	U+1236B
 @ucun	𒍫
@@ -49764,17 +49794,17 @@
 @inote	Emar P271567 r iv 20
 @@
 @form ZU₅
+@list	LAK117
 @oid	o0000618
 @list	ELLES062
-@list	LAK117
 @v	azu
 @link	eBL ZU₅ https://www.ebl.lmu.de/signs/ZU₅
 @@
 @end sign
 
 @sign |ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)|
-@oid	o0002679
 @list	LAK118
+@oid	o0002679
 @uname	CUNEIFORM SIGN ZU5 TIMES DISH TENU PLUS DISH TENU PLUS DISH TENU
 @list	U+12543
 @ucun	𒕃
@@ -49784,9 +49814,9 @@
 @end sign
 
 @sign ZUBI
+@list	LAK459
 @oid	o0000615
 @list	ELLES240
-@list	LAK459
 @list	MZL097
 @list	PTACE125
 @note	See Conti RA 82, 115 nt.2 with further literature.
@@ -49796,8 +49826,8 @@
 @v	zubu
 @link	eBL ZUBI https://www.ebl.lmu.de/signs/ZUBI
 @form LAK460
-@oid	o0000379
 @list	LAK460
+@oid	o0000379
 @link	eBL LAK460 https://www.ebl.lmu.de/signs/LAK460
 @@
 @form |PAP.NA₂|
@@ -49820,13 +49850,13 @@
 @end sign
 
 @sign ZUM
+@list	LAK520
 @list	ASY299
 @oid	o0000617
 @list	ABZL456
 @list	ELLES273
 @list	HZL300
 @list	KWU791
-@list	LAK520
 @list	MZL884
 @list	PTACE230
 @list	RSP175
@@ -49879,10 +49909,10 @@
 @end sign
 
 @sign |ZUM×TUG₂|
+@list	LAK524
 @oid	o0000393
 @pname	|ZUM×TUG₂|
 @list	ELLES279
-@list	LAK524
 @list	MZL885
 @list	REC333
 @v	garig₂
@@ -50098,9 +50128,9 @@
 @v	1(eše₃)
 @link	Wikidata Q87557027 http://www.wikidata.org/entity/Q87557027
 @form 1(EŠE₃@c)
+@list	LAK856
 @aka 1(N22)
 @oid	o0223386
-@list	LAK856
 @inote LAK856b = 1(eše₃) in body of row not in left square.
 @list	RSP027^a
 @inote	@ucode	xebc7
@@ -50468,10 +50498,10 @@
 @end sign
 
 @sign 2(AŠ@t)
+@list	LAK185
 @oid	o0000010
 @list	ELLES109
 @list	GCSL094
-@list	LAK185
 @list	MZL593
 @list	RSP039^a
 @list	SLLHA124n2
@@ -50490,8 +50520,8 @@
 @end sign
 
 @sign 3(AŠ@t)
-@oid	o0000021
 @list	LAK191
+@oid	o0000021
 @list	MZL629
 @list	SLLHA325an
 @uname	CUNEIFORM NUMERIC SIGN THREE ASH TENU
@@ -50525,8 +50555,8 @@
 @end sign
 
 @sign 5(AŠ@t)
-@oid	o0000048
 @list	LAK193
+@oid	o0000048
 @list	RSP119
 @uname	CUNEIFORM NUMERIC SIGN FIVE ASH TENU
 @list	U+1244D
@@ -50560,8 +50590,9 @@
 @end sign
 
 @sign 1(GEŠU)
+@list	LAK823^b
+@list	LAK842^b
 @oid	o0000006
-@list	LAK842
 @list	RSP021
 @uname	CUNEIFORM NUMERIC SIGN ONE GESHU
 @list	U+1241E
@@ -50576,9 +50607,10 @@
 @v	1(ŋešʾu)
 @link	Wikidata Q87556890 http://www.wikidata.org/entity/Q87556890
 @form GEŠU@c
+@list	LAK823^a
+@list	LAK842^a
 @aka 1(N48)
 @oid	o0223467
-@list	LAK823
 @list	RSP027
 @inote	@ucode	xeba1
 @v	gešʾu@c
@@ -50731,8 +50763,9 @@
 @end sign
 
 @sign 1(GEŠ₂)
+@list	LAK822^b
+@list	LAK841^b
 @oid	o0000007
-@list	LAK841
 @list	RSP003
 @uname	CUNEIFORM NUMERIC SIGN ONE GESH2
 @list	U+12415
@@ -50748,9 +50781,10 @@
 @v	1(ŋeš₂)
 @link	Wikidata Q87556872 http://www.wikidata.org/entity/Q87556872
 @form GEŠ₂@c
+@list	LAK822^a
+@list	LAK841^a
 @aka 1(N34)
 @oid	o0223469
-@list	LAK822
 @list	RSP025
 @inote	@ucode	xeb96
 @v	geš₂@c
@@ -51204,9 +51238,9 @@
 @end sign
 
 @sign 4(DIŠ)
+@list	LAK837^b
 @oid	o0000040
 @list	ABZL474
-@list	LAK837b
 @uname	CUNEIFORM NUMERIC SIGN FOUR DISH
 @list	U+12409
 @ucun	𒐉
@@ -51222,9 +51256,9 @@
 @link	eBL 4(DIŠ) https://www.ebl.lmu.de/signs/4(DIŠ)
 @link	Wikidata Q87556849 http://www.wikidata.org/entity/Q87556849
 @form 4(DIŠ@c)
+@list	LAK837^a
 @aka 4(N08)
 @oid	o0223415
-@list	LAK837a
 @inote	@ucode	xebc6
 @v	4(aš@c@90)
 @v	4(barig@c)
@@ -51625,10 +51659,10 @@
 @end sign
 
 @sign 4(AŠ)
+@list	LAK091
 @list	ASY091
 @oid	o0000034
 @list	ABZL110
-@list	LAK091
 @list	MZL215
 @list	SLLHA124_42
 @uname	CUNEIFORM NUMERIC SIGN FOUR ASH
@@ -51838,8 +51872,8 @@
 @end sign
 
 @sign 6(AŠ~a)
-@oid	o0000061
 @list	LAK134
+@oid	o0000061
 @list	MZL536
 @list	SLLHA331a
 @uname	CUNEIFORM NUMERIC SIGN SIX VARIANT FORM ASH9
@@ -51910,9 +51944,10 @@
 @v	1(šaru)
 @link	Wikidata Q87556927 http://www.wikidata.org/entity/Q87556927
 @form 1(ŠARU@c)
+@list	LAK826^a
+@list	LAK860
 @aka 1(N50)
 @oid	o0223373
-@list	LAK826
 @list	RSP032
 @inote	@ucode	xebb1
 @v	šarʾu@c
@@ -51929,8 +51964,8 @@
 @ucun 𒖂
 @@
 @form 1(ŠARU@v)
+@list	LAK827^b
 @oid	o0223374
-@list LAK827b
 @upua	U+F0035
 @ucun	󰀵
 @uage	9.1
@@ -51941,8 +51976,8 @@
 @inote	cdli lagash2 notation for HI(i.e.ŠAR₂)×BURU sequence
 @@
 @form ŠARU@v@c
-@list LAK827a
-@list LAK861
+@list	LAK827^a
+@list	LAK861
 @oid	o0245340
 @upua	U+F0033
 @ucun	󰀳
@@ -52112,10 +52147,11 @@
 
 
 @sign 1(BAN₂)
+@list	LAK816^b
+@list	LAK829^b
 @oid	o0000003
 @list	ABZL029
 @list	HZL020
-@list	LAK816
 @list	MZL122
 @list	RSP019bis
 @list	SLLHA074
@@ -52147,9 +52183,10 @@
 @inote needed for P216905
 @@
 @form 1(BAN₂@c)
-@oid	o0223385
-@list	LAK829
+@list	LAK816^a
+@list	LAK829^a
 @list	LAK838
+@oid	o0223385
 @list	RSP036 .1
 @list	RSP036bis .0
 @inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
@@ -52169,6 +52206,7 @@
 @end sign
 
 @sign 2(BAN₂)
+@list	LAK830^b
 @oid	o0000011
 @list	ABZL143
 @list	MZL465
@@ -52184,8 +52222,8 @@
 @v	2(ban₂)
 @link	Wikidata Q87557010 http://www.wikidata.org/entity/Q87557010
 @form 2(BAN₂@c)
+@list	LAK830^a
 @oid	o0223389
-@list	LAK830
 @list	RSP036bis^a
 @inote	@ucode	xebbe
 @v	2(ban₂@c)
@@ -52198,6 +52236,7 @@
 @end sign
 
 @sign 3(BAN₂)
+@list	LAK831^b
 @oid	o0000024
 @list	MZL549
 @list	RSP019bis
@@ -52209,8 +52248,8 @@
 @v	3(ban₂)
 @link	Wikidata Q87557012 http://www.wikidata.org/entity/Q87557012
 @form 3(BAN₂@c)
+@list	LAK831^a
 @oid	o0223398
-@list	LAK831
 @list	RSP036bis^b
 @inote	@ucode	xebbf
 @v	3(ban₂@c)
@@ -52228,6 +52267,7 @@
 @end sign
 
 @sign 4(BAN₂)
+@list	LAK832^b
 @oid	o0000037
 @list	MZL550
 @list	RSP019bis
@@ -52239,8 +52279,8 @@
 @v	4(ban₂)
 @link	Wikidata Q87557016 http://www.wikidata.org/entity/Q87557016
 @form 4(BAN₂@c)
+@list	LAK832^a
 @oid	o0223413
-@list	LAK832
 @list	RSP036bis^c
 @inote	@ucode	xebc0
 @v	4(ban₂@c)
@@ -52253,6 +52293,7 @@
 @end sign
 
 @sign 5(BAN₂)
+@list	LAK833^b
 @oid	o0000049
 @list	MZL551
 @list	RSP019bis
@@ -52264,8 +52305,8 @@
 @v	5(ban₂)
 @link	Wikidata Q87557019 http://www.wikidata.org/entity/Q87557019
 @form 5(BAN₂@c)
+@list	LAK833^a
 @oid	o0223424
-@list	LAK833
 @list	RSP036bis^d
 @inote	@ucode	xebc1
 @v	5(ban₂@c)
@@ -52548,12 +52589,12 @@
 @end sign
 
 @sign 1(|AŠ×DIŠ@t|)
+@list	LAK073^a
 @aka 	|AŠ×AŠ@t|
 @aka 	|AŠ×DIŠ@t|
 @aka	|AŠ×1(AŠ@t)|
 @oid	o0223341
 @aka	1(|AŠ×AŠ@t|)
-@list	LAK073
 @list	RSP093
 @upua	U+F0000
 @ucun	󰀀
@@ -52569,9 +52610,9 @@
 @end sign
 
 @sign 2(|AŠ×DIŠ@t|)
+@list	LAK073^b
 @oid	o0223342
 @aka	2(|AŠ×AŠ@t|)
-@list	LAK073
 @list	RSP093
 @upua	U+F0001
 @ucun	󰀁
@@ -52579,9 +52620,9 @@
 @end sign
 
 @sign 3(|AŠ×DIŠ@t|)
+@list	LAK073^c
 @oid	o0223343
 @aka	3(|AŠ×AŠ@t|)
-@list	LAK073
 @list	RSP093
 @upua	U+F0002
 @ucun	󰀂
