@@ -17759,6 +17759,11 @@
 @@
 @end sign
 
+@sign HU@n
+@oid o0270206
+@inote Added to support LAK037 which is the base of BURU₅
+@end sign
+
 @sign |HU.HI|
 @list	ASY056
 @oid	o0001466
@@ -27510,6 +27515,12 @@
 @uage	8.0
 @link	eBL LAK457 https://www.ebl.lmu.de/signs/LAK457
 @link	Wikidata Q87557325 http://www.wikidata.org/entity/Q87557325
+@end sign
+
+@sign LAK458
+@oid	o0270207
+@list	LAK458
+@inote LAK asks if this should be associated with U.GAN; not clear.
 @end sign
 
 @sign LAK470
@@ -44728,7 +44739,6 @@
 @list	HZL270
 @list	KWU547
 @list	LAK407b
-@list	LAK458
 @list	MZL684
 @list	RSP016
 @list	SLLHA428
