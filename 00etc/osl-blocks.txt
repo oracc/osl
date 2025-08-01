@@ -1,0 +1,17 @@
+# Quick summary of Oracc PUA blocking used as of 2025-07-31 in PCSL,
+# BAU, LAK, RSP fonts
+#
+# *subject to change until the base Oracc fonts are all aligned to this*
+
+F0000-F0FFF permanently assigned Oracc PUA characters
+
+F1000-F1FFF SAC sequences; see osl/00etc/pua.tab
+
+F2000-F27FF PC sequences; see pcsl
+
+F2800-F2FFF PC glyph variants; see pcsls
+
+F3000-F3888 Non-character font area for non-sign list entries, scribal doodles, etc.
+
+F3900-FFFFD randomly used as font scratch areas
+
