@@ -20444,8 +20444,9 @@
 @link	Wikidata Q87555709 http://www.wikidata.org/entity/Q87555709
 @end sign
 
-@sign |KA×GIŠ%GIŠ|
+@sign |KA×(GIŠ%GIŠ)|
 @oid	o0001632
+@aka	|KA×GIŠ%GIŠ|
 @list	MZL037
 @list	SLLHA023
 @uname	CUNEIFORM SIGN KA TIMES GISH CROSSING GISH
@@ -23703,10 +23704,11 @@
 @link	eBL |KU.NU| https://www.ebl.lmu.de/signs/|KU.NU|
 @end sign
 
-@compoundonly	|KU&HI×AŠ₂|
+@compoundonly	|KU&(HI×AŠ₂)|
 
-@sign |KU&HI×AŠ₂.KU&HI×AŠ₂|
+@sign |KU&(HI×AŠ₂).KU&(HI×AŠ₂)|
 @oid	o0001746
+@aka	|KU&HI×AŠ₂.KU&HI×AŠ₂|
 @list	SLLHA099b2
 @uname	CUNEIFORM SIGN KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2
 @list	U+121AB
@@ -28861,8 +28863,7 @@
 @oid	o0025839
 @list	LAK340
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
+@@
 @end sign
 
 @sign |LU₂×HI×BAD|
@@ -48070,12 +48071,17 @@
 
 @sign |URU×(TU&TU)|
 @oid	o0028067
-@inote	gvl unknown compound
-@end sign
-
-@sign |URU×TU&TU|
-@oid	o0028071
-@inote	gvl unknown compound
+@aka	|URU×TU&TU|
+@inote	Transliterated |URU×TU&TU| in P225945.23 and P225950.72.
+	clearly |URU×(TU&TU)| rather than |(URU×TU)&TU| in the CDLI copy of P225945.
+	Damaged according to the copy of P225950.
+@ref	OIP 99, 61 o v 5 = http://oracc.org/dcclt/P010102.67
+@ref	OIP 99, 69 o iii' 4' o v 5 = http://oracc.org/dcclt/P225945.23
+@ref	OIP 99, 74 o iv 8 = http://oracc.org/dcclt/P225950.72
+@ref	MEE 3, 43 + unpublished fragment o v 12a = http://oracc.org/dcclt/P242176.115
+@inote	This line is in the unpublished fragment (MEE 3, 43 only has lines 1–3 of this column),
+	so the sign is not in ELLes.
+@inote	šeg₅-šeg₅ in the composite: https://oracc.museum.upenn.edu/dcclt/Q000010?block=sb.Q000010.111
 @end sign
 
 @sign |URU×(U.GUD)|
