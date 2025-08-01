@@ -51,6 +51,7 @@
 	490@90 497a 497b 503a 503b 654a 672a 672b 709a 709b 712a 712b
 	772b 784a 791a 827a 827b 835a 835b 835c 836a 836b 836c 836d
 	837a 837b 852a 852b 853a 853b 854a 854b 855a 855b 858a 858b
+	009^a 036^a 046^a 380^a 380^b 380^c
 @lit A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40;
 	Berlin 1922)
 
@@ -113,7 +114,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
-	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0094
+	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF009B
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -5143,8 +5144,6 @@
 @inote	ed12, possibly NINDA₂×ŠE but ATFU p.67 questions this
 @end sign
 
-@compoundonly	BAU077
-
 @sign BAU161b
 @oid	o0018506
 @list	BAU161b
@@ -5816,7 +5815,8 @@
 @list	LAK072b
 @list	MZL135
 @list	RSP414
-@note	The NB source for Ea II (LKU 1) describes BURU₅ as NAM nutillû
+@inote	AbS P225926 = OIP 099, 048 v 2′
+@note	The NB source for Ea II (LKU 1) describes BURU₅ as NAM nutillû. The ED sign form is |HU@n×AMAR@t|.
 @lit	Cavigneaux and Al-Rawi ZA 92 (2002), 44-50
 @uname	CUNEIFORM SIGN NAM NUTILLU
 @list	U+12245
@@ -5857,13 +5857,14 @@
 @oid	o0031848
 @end sign
 
-@sign |BURU₅×AMAR@t|
+@sign- |BURU₅×AMAR@t|
 @oid	o0025788
 @v	buruₓ
 @v	uₓ
 @inote	dupfix MZL u₅(|HU.SI|)
 @inote	AbS P225926 = OIP 099, 048 v 2′
 @inote	FIXME: if it is really u₅ it needs to be moved to be a @form of |HU.SI|. Or read uₓ.
+@inote 20250801 this is BURU₅; moved AbS instance there
 @end sign
 
 @sign DA
@@ -14961,7 +14962,7 @@
 @link	Wikidata Q87555522 http://www.wikidata.org/entity/Q87555522
 @inote This is the form of alim in ED3b Girsu and Gudea Cyl
 @@
-@form |IGI.KIŠ|
+@form+ |IGI.KIŠ|
 @oid	o0031508
 @useq	x12146.x121A7
 @ucun	𒅆𒆧
@@ -24220,10 +24221,10 @@
 @oid	o0221982
 @end sign
 
-@sign |KUŠU₂×SAL|
+@sign |HI×KUŠU₂|
 @oid	o0001766
 @list	LAK446
-@inote	@uname-no-utf8	CUNEIFORM SIGN KUSHU2 TIMES SAL
+@inote	Formerly @uname-no-utf8	CUNEIFORM SIGN KUSHU2 TIMES SAL but this was wrong.
 @link	eBL |KUŠU₂×SAL| https://www.ebl.lmu.de/signs/|KUŠU₂×SAL|
 @end sign
 
@@ -33802,7 +33803,7 @@
 
 @sign |NU×U@c|
 @oid	o0018543
-@list LAK36^a
+@list LAK036^a
 @upua U+F009B
 @ucun 󰂛
 @inote	ed3a
@@ -46409,7 +46410,7 @@
 @inote ED IIIb form for itud
 @@
 @form+ |UD×DIŠ@c|
-@oid	o0223330
+@oid	o0270212
 @list	LAK380^b
 @inote ED IIIb form for itud
 @@
