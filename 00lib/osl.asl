@@ -16615,6 +16615,7 @@
 @v	naŋa₃
 @link	eBL |GUM×ŠE| https://www.ebl.lmu.de/signs/|GUM×ŠE|
 @link	Wikidata Q87555571 http://www.wikidata.org/entity/Q87555571
+@inote Simple GUM in Fara/AbS; GUM×ŠE is post-ED. Krebernik OBO 283.
 @end sign
 
 @sign |GUM×X|
