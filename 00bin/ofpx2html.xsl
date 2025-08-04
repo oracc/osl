@@ -53,7 +53,7 @@
       </td>
     </tr>
     <xsl:call-template name="feature">
-      <xsl:with-param name="nodes" select="o:sset/*"/>
+      <xsl:with-param name="nodes" select="o:ssets/*"/>
       <xsl:with-param name="label" select="'sset'"/>
     </xsl:call-template>
     <xsl:call-template name="feature">
