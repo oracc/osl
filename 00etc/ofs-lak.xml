@@ -13,11 +13,16 @@
 
       <esp:h>About</esp:h>
 
-      <p style="color: red;">NOTE: This font is not ready for general
-      use as it is being reviewed and corrected.</p>
+      <p style="color: #ffbf00;">NOTE: This font is ready for use but is
+      still being reviewed and corrected so it should be used
+      critically.</p>
       
       <p>Oracc LAK is a fontification of A. Deimel, Liste der
       archaischen Keilschriftzeichen (WVDOG 40; Berlin 1922).</p>
+
+      <p>There is an <esp:link url="/listfontdata/lak">Oracc List-Font
+      Data page</esp:link> which provides alignnment information
+      relating LAK to OSL and Unicode.</p>
       
       <esp:h>Original Font</esp:h>
 
@@ -29,7 +34,9 @@
       <p>Steve Tinney aligned the SVG filenames with Unicode and
       created an initial TrueType font from the SVG files.  This font
       is still under development: it has been roughly resized and
-      recentered but requires further tuning.</p>
+      recentered but requires further tuning.  Some glyphs from the
+      secondary boxes have been added to the font as salt variants and
+      more will be added in the near future.</p>
 
       <esp:h>License</esp:h>
 
@@ -45,6 +52,31 @@
       <dl>
 	<dt>FontLab Source</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-LAK.ttf">Oracc-LAK.vfc</esp:link></dd>
 	<dt>TrueType Version</dt><dd><esp:link url="https://github.com/oracc/oracc2/blob/main/msc/fonts/Oracc-LAK.ttf">Oracc-LAK.ttf</esp:link></dd>
+      </dl>
+
+      <esp:h>OpenType Features</esp:h>
+
+      <p>Oracc-LAK makes use of <code>salt</code> to differentiate
+      glyph variants of the same sign.  It also uses several
+      Stylistic Sets (sset) as follows:</p>
+
+      <dl>
+	<dt>ss01</dt>
+	<dd>Sign-forms from ED IIIa Fara texts. LAK sometimes uses
+	earlier forms or forms from stone objects (especially the Blau
+	monuments) as the reference glyph.  Selecting
+	<code>ss01</code> ensures that ED IIIa forms from tablets are
+	used.</dd>
+
+	<dt>ss02</dt>
+	<dd>This set selects forms from the Blau monuments--not all of
+	these have been included in the font as yet.</dd>
+
+	<dt>ss03</dt>
+	<dd>A few Abu-Salabikh forms from Krebernik's OBO 160/1</dd>
+
+	<dt>ss04</dt>
+	<dd>A few Ebla forms from Krebernik's OBO 160/1</dd>
       </dl>
       
       <esp:h>CSS</esp:h>

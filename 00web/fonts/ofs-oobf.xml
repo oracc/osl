@@ -112,14 +112,14 @@
       <esp:h>Contents</esp:h>
       
       <!--NOTE: The last three closers must be on the same line-->
-<table xmlns="http://www.w3.org/1999/xhtml" xmlns:o="http://oracc.org/ns/ofp/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" class="pretty">
+<table xmlns="http://www.w3.org/1999/xhtml" xmlns:o="http://oracc.org/ns/ofp/1.0" xmlns:xh="http://www.w3.org/1999/xhtml" class="pretty ofp">
   <tr>
     <td/>
     <td>A</td>
     <td>x12000</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀀</span>
+        <span class="ofs-oobf ofs-200">𒀀</span>
       </p>
     </td>
     <td/>
@@ -130,7 +130,7 @@
     <td>x12004</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀄</span>
+        <span class="ofs-oobf ofs-200">𒀄</span>
       </p>
     </td>
     <td/>
@@ -141,7 +141,7 @@
     <td>x12009</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀉</span>
+        <span class="ofs-oobf ofs-200">𒀉</span>
       </p>
     </td>
     <td/>
@@ -152,7 +152,7 @@
     <td>x1200A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀊</span>
+        <span class="ofs-oobf ofs-200">𒀊</span>
       </p>
     </td>
     <td/>
@@ -163,7 +163,7 @@
     <td>xF004E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁎</span>
+        <span class="ofs-oobf ofs-200">󰁎</span>
       </p>
     </td>
     <td/>
@@ -174,7 +174,7 @@
     <td>x1200B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀋</span>
+        <span class="ofs-oobf ofs-200">𒀋</span>
       </p>
     </td>
     <td/>
@@ -185,7 +185,7 @@
     <td>x1200D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀍</span>
+        <span class="ofs-oobf ofs-200">𒀍</span>
       </p>
     </td>
     <td/>
@@ -196,7 +196,7 @@
     <td>x1200F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀏</span>
+        <span class="ofs-oobf ofs-200">𒀏</span>
       </p>
     </td>
     <td/>
@@ -207,7 +207,7 @@
     <td>x12015</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀕</span>
+        <span class="ofs-oobf ofs-200">𒀕</span>
       </p>
     </td>
     <td/>
@@ -218,7 +218,7 @@
     <td>x12016</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀖</span>
+        <span class="ofs-oobf ofs-200">𒀖</span>
       </p>
     </td>
     <td/>
@@ -229,7 +229,7 @@
     <td>x12018</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀘</span>
+        <span class="ofs-oobf ofs-200">𒀘</span>
       </p>
     </td>
     <td/>
@@ -240,7 +240,7 @@
     <td>x1201A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀚</span>
+        <span class="ofs-oobf ofs-200">𒀚</span>
       </p>
     </td>
     <td/>
@@ -251,7 +251,7 @@
     <td>x1201C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀜</span>
+        <span class="ofs-oobf ofs-200">𒀜</span>
       </p>
     </td>
     <td/>
@@ -262,7 +262,7 @@
     <td>xF005C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁜</span>
+        <span class="ofs-oobf ofs-200">󰁜</span>
       </p>
     </td>
     <td/>
@@ -273,7 +273,7 @@
     <td>x1201D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀝</span>
+        <span class="ofs-oobf ofs-200">𒀝</span>
       </p>
     </td>
     <td/>
@@ -284,7 +284,7 @@
     <td>x1201E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀞</span>
+        <span class="ofs-oobf ofs-200">𒀞</span>
       </p>
     </td>
     <td/>
@@ -295,7 +295,7 @@
     <td>x12020</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀠</span>
+        <span class="ofs-oobf ofs-200">𒀠</span>
       </p>
     </td>
     <td/>
@@ -306,7 +306,7 @@
     <td>x12029</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀩</span>
+        <span class="ofs-oobf ofs-200">𒀩</span>
       </p>
     </td>
     <td/>
@@ -317,7 +317,7 @@
     <td>x1202B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀫</span>
+        <span class="ofs-oobf ofs-200">𒀫</span>
       </p>
     </td>
     <td/>
@@ -328,7 +328,7 @@
     <td>x1202C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀬</span>
+        <span class="ofs-oobf ofs-200">𒀬</span>
       </p>
     </td>
     <td/>
@@ -339,7 +339,7 @@
     <td>x1202D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀭</span>
+        <span class="ofs-oobf ofs-200">𒀭</span>
       </p>
     </td>
     <td/>
@@ -350,11 +350,11 @@
     <td/>
     <td>
       <p>
-        <span class="ofs-oobf  ofs-150">𒀭‍𒂗</span>
+        <span class="ofs-oobf  ofs-200">𒀭‍𒂗</span>
       </p>
     </td>
     <td>
-      <p>(u1202D_uni200D_u12097 = <span class="ofs-oobf ofs-150">𒀭‌‍‌𒂗‌</span>)</p>
+      <p>(u1202D_uni200D_u12097 = <span class="ofs-oobf ofs-200">𒀭‌‍‌𒂗‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -363,11 +363,11 @@
     <td/>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀭‍𒂗</span>
+        <span class="ofs-oobf ofs-200">𒀭‍𒂗</span>
       </p>
     </td>
     <td>
-      <p>(u1202D_uni200D_u12097 = <span class="ofs-oobf ofs-150">𒀭‌‍‌𒂗‌</span>)</p>
+      <p>(u1202D_uni200D_u12097 = <span class="ofs-oobf ofs-200">𒀭‌‍‌𒂗‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -376,7 +376,7 @@
     <td>x1202F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀯</span>
+        <span class="ofs-oobf ofs-200">𒀯</span>
       </p>
     </td>
     <td/>
@@ -387,7 +387,7 @@
     <td>x12032</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀲</span>
+        <span class="ofs-oobf ofs-200">𒀲</span>
       </p>
     </td>
     <td/>
@@ -398,7 +398,7 @@
     <td>x12033</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀳</span>
+        <span class="ofs-oobf ofs-200">𒀳</span>
       </p>
     </td>
     <td/>
@@ -409,7 +409,7 @@
     <td>x12034</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀴</span>
+        <span class="ofs-oobf ofs-200">𒀴</span>
       </p>
     </td>
     <td/>
@@ -420,7 +420,7 @@
     <td>x12035</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀵</span>
+        <span class="ofs-oobf ofs-200">𒀵</span>
       </p>
     </td>
     <td/>
@@ -431,7 +431,7 @@
     <td>x12038</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀸</span>
+        <span class="ofs-oobf ofs-200">𒀸</span>
       </p>
     </td>
     <td/>
@@ -442,7 +442,7 @@
     <td>x12039</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀹</span>
+        <span class="ofs-oobf ofs-200">𒀹</span>
       </p>
     </td>
     <td/>
@@ -453,7 +453,7 @@
     <td>x1203E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀾</span>
+        <span class="ofs-oobf ofs-200">𒀾</span>
       </p>
     </td>
     <td/>
@@ -464,7 +464,7 @@
     <td>x1203F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒀿</span>
+        <span class="ofs-oobf ofs-200">𒀿</span>
       </p>
     </td>
     <td/>
@@ -475,7 +475,7 @@
     <td>x12040</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁀</span>
+        <span class="ofs-oobf ofs-200">𒁀</span>
       </p>
     </td>
     <td/>
@@ -486,7 +486,7 @@
     <td>x12041</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁁</span>
+        <span class="ofs-oobf ofs-200">𒁁</span>
       </p>
     </td>
     <td/>
@@ -497,7 +497,7 @@
     <td>x12043</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁃</span>
+        <span class="ofs-oobf ofs-200">𒁃</span>
       </p>
     </td>
     <td/>
@@ -508,7 +508,7 @@
     <td>x12044</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁄</span>
+        <span class="ofs-oobf ofs-200">𒁄</span>
       </p>
     </td>
     <td/>
@@ -519,7 +519,7 @@
     <td>x12046</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁆</span>
+        <span class="ofs-oobf ofs-200">𒁆</span>
       </p>
     </td>
     <td/>
@@ -530,7 +530,7 @@
     <td>x12047</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁇</span>
+        <span class="ofs-oobf ofs-200">𒁇</span>
       </p>
     </td>
     <td/>
@@ -541,7 +541,7 @@
     <td>x12048</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁈</span>
+        <span class="ofs-oobf ofs-200">𒁈</span>
       </p>
     </td>
     <td/>
@@ -552,7 +552,7 @@
     <td>x12049</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁉</span>
+        <span class="ofs-oobf ofs-200">𒁉</span>
       </p>
     </td>
     <td/>
@@ -563,7 +563,7 @@
     <td>x1204D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁍</span>
+        <span class="ofs-oobf ofs-200">𒁍</span>
       </p>
     </td>
     <td/>
@@ -574,7 +574,7 @@
     <td>x1204E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁎</span>
+        <span class="ofs-oobf ofs-200">𒁎</span>
       </p>
     </td>
     <td/>
@@ -585,7 +585,7 @@
     <td>x12051</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁑</span>
+        <span class="ofs-oobf ofs-200">𒁑</span>
       </p>
     </td>
     <td/>
@@ -596,7 +596,7 @@
     <td>x12053</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁓</span>
+        <span class="ofs-oobf ofs-200">𒁓</span>
       </p>
     </td>
     <td/>
@@ -607,7 +607,7 @@
     <td>x12054</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁔</span>
+        <span class="ofs-oobf ofs-200">𒁔</span>
       </p>
     </td>
     <td/>
@@ -618,7 +618,7 @@
     <td>x12245</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉅</span>
+        <span class="ofs-oobf ofs-200">𒉅</span>
       </p>
     </td>
     <td/>
@@ -629,7 +629,7 @@
     <td>x12055</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁕</span>
+        <span class="ofs-oobf ofs-200">𒁕</span>
       </p>
     </td>
     <td/>
@@ -640,7 +640,7 @@
     <td>x12056</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁖</span>
+        <span class="ofs-oobf ofs-200">𒁖</span>
       </p>
     </td>
     <td/>
@@ -651,7 +651,7 @@
     <td>x1205B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁛</span>
+        <span class="ofs-oobf ofs-200">𒁛</span>
       </p>
     </td>
     <td/>
@@ -662,7 +662,7 @@
     <td>x1205E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁞</span>
+        <span class="ofs-oobf ofs-200">𒁞</span>
       </p>
     </td>
     <td/>
@@ -673,7 +673,7 @@
     <td>x12065</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁥</span>
+        <span class="ofs-oobf ofs-200">𒁥</span>
       </p>
     </td>
     <td/>
@@ -684,7 +684,7 @@
     <td>x12066</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁦</span>
+        <span class="ofs-oobf ofs-200">𒁦</span>
       </p>
     </td>
     <td/>
@@ -695,7 +695,7 @@
     <td>x1206C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁬</span>
+        <span class="ofs-oobf ofs-200">𒁬</span>
       </p>
     </td>
     <td/>
@@ -706,7 +706,7 @@
     <td>x1206E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁮</span>
+        <span class="ofs-oobf ofs-200">𒁮</span>
       </p>
     </td>
     <td/>
@@ -717,7 +717,7 @@
     <td>x1206F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁯</span>
+        <span class="ofs-oobf ofs-200">𒁯</span>
       </p>
     </td>
     <td/>
@@ -728,7 +728,7 @@
     <td>x12070</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁰</span>
+        <span class="ofs-oobf ofs-200">𒁰</span>
       </p>
     </td>
     <td/>
@@ -739,7 +739,7 @@
     <td>x12071</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁱</span>
+        <span class="ofs-oobf ofs-200">𒁱</span>
       </p>
     </td>
     <td/>
@@ -750,7 +750,7 @@
     <td>x12324</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌤</span>
+        <span class="ofs-oobf ofs-200">𒌤</span>
       </p>
     </td>
     <td/>
@@ -761,7 +761,7 @@
     <td>x12072</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁲</span>
+        <span class="ofs-oobf ofs-200">𒁲</span>
       </p>
     </td>
     <td/>
@@ -772,7 +772,7 @@
     <td>x12073</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁳</span>
+        <span class="ofs-oobf ofs-200">𒁳</span>
       </p>
     </td>
     <td/>
@@ -783,7 +783,7 @@
     <td>x12074</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁴</span>
+        <span class="ofs-oobf ofs-200">𒁴</span>
       </p>
     </td>
     <td/>
@@ -794,7 +794,7 @@
     <td>x12075</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁵</span>
+        <span class="ofs-oobf ofs-200">𒁵</span>
       </p>
     </td>
     <td/>
@@ -805,7 +805,7 @@
     <td>x12076</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁶</span>
+        <span class="ofs-oobf ofs-200">𒁶</span>
       </p>
     </td>
     <td/>
@@ -816,7 +816,7 @@
     <td>x12077</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁷</span>
+        <span class="ofs-oobf ofs-200">𒁷</span>
       </p>
     </td>
     <td/>
@@ -827,7 +827,7 @@
     <td>x12079</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁹</span>
+        <span class="ofs-oobf ofs-200">𒁹</span>
       </p>
     </td>
     <td/>
@@ -838,7 +838,7 @@
     <td>x1207A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁺</span>
+        <span class="ofs-oobf ofs-200">𒁺</span>
       </p>
     </td>
     <td/>
@@ -849,7 +849,7 @@
     <td>x1207B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁻</span>
+        <span class="ofs-oobf ofs-200">𒁻</span>
       </p>
     </td>
     <td/>
@@ -860,7 +860,7 @@
     <td>x1207C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁼</span>
+        <span class="ofs-oobf ofs-200">𒁼</span>
       </p>
     </td>
     <td/>
@@ -871,7 +871,7 @@
     <td>x1207D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁽</span>
+        <span class="ofs-oobf ofs-200">𒁽</span>
       </p>
     </td>
     <td/>
@@ -882,7 +882,7 @@
     <td>x1207E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒁾</span>
+        <span class="ofs-oobf ofs-200">𒁾</span>
       </p>
     </td>
     <td/>
@@ -893,7 +893,7 @@
     <td>x12080</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂀</span>
+        <span class="ofs-oobf ofs-200">𒂀</span>
       </p>
     </td>
     <td/>
@@ -904,7 +904,7 @@
     <td>x12081</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂁</span>
+        <span class="ofs-oobf ofs-200">𒂁</span>
       </p>
     </td>
     <td/>
@@ -915,7 +915,7 @@
     <td>x12082</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂂</span>
+        <span class="ofs-oobf ofs-200">𒂂</span>
       </p>
     </td>
     <td/>
@@ -926,7 +926,7 @@
     <td>x12083</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂃</span>
+        <span class="ofs-oobf ofs-200">𒂃</span>
       </p>
     </td>
     <td/>
@@ -937,7 +937,7 @@
     <td>x12084</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂄</span>
+        <span class="ofs-oobf ofs-200">𒂄</span>
       </p>
     </td>
     <td/>
@@ -948,7 +948,7 @@
     <td>x12085</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂅</span>
+        <span class="ofs-oobf ofs-200">𒂅</span>
       </p>
     </td>
     <td/>
@@ -959,7 +959,7 @@
     <td>x12086</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂆</span>
+        <span class="ofs-oobf ofs-200">𒂆</span>
       </p>
     </td>
     <td/>
@@ -970,7 +970,7 @@
     <td>x12087</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂇</span>
+        <span class="ofs-oobf ofs-200">𒂇</span>
       </p>
     </td>
     <td/>
@@ -981,7 +981,7 @@
     <td>x12088</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂈</span>
+        <span class="ofs-oobf ofs-200">𒂈</span>
       </p>
     </td>
     <td/>
@@ -992,7 +992,7 @@
     <td>x12089</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂉</span>
+        <span class="ofs-oobf ofs-200">𒂉</span>
       </p>
     </td>
     <td/>
@@ -1003,7 +1003,7 @@
     <td>x1208A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂊</span>
+        <span class="ofs-oobf ofs-200">𒂊</span>
       </p>
     </td>
     <td/>
@@ -1014,7 +1014,18 @@
     <td>x1208D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂍</span>
+        <span class="ofs-oobf ofs-200">𒂍</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td/>
+    <td class="ofs-feat-r">sset</td>
+    <td>ss01</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ss01 ofs-200">𒂍</span>
       </p>
     </td>
     <td/>
@@ -1025,7 +1036,7 @@
     <td>x12094</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂔</span>
+        <span class="ofs-oobf ofs-200">𒂔</span>
       </p>
     </td>
     <td/>
@@ -1036,7 +1047,7 @@
     <td>x12095</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂕</span>
+        <span class="ofs-oobf ofs-200">𒂕</span>
       </p>
     </td>
     <td/>
@@ -1047,7 +1058,7 @@
     <td>x12096</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂖</span>
+        <span class="ofs-oobf ofs-200">𒂖</span>
       </p>
     </td>
     <td/>
@@ -1058,7 +1069,7 @@
     <td>x12097</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂗</span>
+        <span class="ofs-oobf ofs-200">𒂗</span>
       </p>
     </td>
     <td/>
@@ -1069,7 +1080,7 @@
     <td>x12099</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂙</span>
+        <span class="ofs-oobf ofs-200">𒂙</span>
       </p>
     </td>
     <td/>
@@ -1080,7 +1091,7 @@
     <td>x1209E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂞</span>
+        <span class="ofs-oobf ofs-200">𒂞</span>
       </p>
     </td>
     <td/>
@@ -1091,7 +1102,7 @@
     <td>x1209F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂟</span>
+        <span class="ofs-oobf ofs-200">𒂟</span>
       </p>
     </td>
     <td/>
@@ -1102,7 +1113,7 @@
     <td>x120A0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂠</span>
+        <span class="ofs-oobf ofs-200">𒂠</span>
       </p>
     </td>
     <td/>
@@ -1113,7 +1124,7 @@
     <td>x120A1</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂡</span>
+        <span class="ofs-oobf ofs-200">𒂡</span>
       </p>
     </td>
     <td/>
@@ -1124,7 +1135,7 @@
     <td>x120A2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂢</span>
+        <span class="ofs-oobf ofs-200">𒂢</span>
       </p>
     </td>
     <td/>
@@ -1135,7 +1146,7 @@
     <td>x120A6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂦</span>
+        <span class="ofs-oobf ofs-200">𒂦</span>
       </p>
     </td>
     <td/>
@@ -1146,7 +1157,7 @@
     <td>x12377</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍷</span>
+        <span class="ofs-oobf ofs-200">𒍷</span>
       </p>
     </td>
     <td/>
@@ -1157,7 +1168,7 @@
     <td>x120AC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂬</span>
+        <span class="ofs-oobf ofs-200">𒂬</span>
       </p>
     </td>
     <td/>
@@ -1168,7 +1179,7 @@
     <td>x120AE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂮</span>
+        <span class="ofs-oobf ofs-200">𒂮</span>
       </p>
     </td>
     <td/>
@@ -1179,7 +1190,7 @@
     <td>x120AF</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂯</span>
+        <span class="ofs-oobf ofs-200">𒂯</span>
       </p>
     </td>
     <td/>
@@ -1190,7 +1201,18 @@
     <td>x120B0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂰</span>
+        <span class="ofs-oobf ofs-200">𒂰</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td/>
+    <td class="ofs-feat-r">sset</td>
+    <td>ss01</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ss01 ofs-200">𒂰</span>
       </p>
     </td>
     <td/>
@@ -1201,7 +1223,7 @@
     <td>x120B5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂵</span>
+        <span class="ofs-oobf ofs-200">𒂵</span>
       </p>
     </td>
     <td/>
@@ -1212,7 +1234,7 @@
     <td>x120B6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂶</span>
+        <span class="ofs-oobf ofs-200">𒂶</span>
       </p>
     </td>
     <td/>
@@ -1223,7 +1245,7 @@
     <td>x120B7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂷</span>
+        <span class="ofs-oobf ofs-200">𒂷</span>
       </p>
     </td>
     <td/>
@@ -1234,7 +1256,7 @@
     <td>x120BC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒂼</span>
+        <span class="ofs-oobf ofs-200">𒂼</span>
       </p>
     </td>
     <td/>
@@ -1245,7 +1267,7 @@
     <td>x120CB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃋</span>
+        <span class="ofs-oobf ofs-200">𒃋</span>
       </p>
     </td>
     <td/>
@@ -1256,7 +1278,7 @@
     <td>x120CC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃌</span>
+        <span class="ofs-oobf ofs-200">𒃌</span>
       </p>
     </td>
     <td/>
@@ -1267,7 +1289,7 @@
     <td>x120DE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃞</span>
+        <span class="ofs-oobf ofs-200">𒃞</span>
       </p>
     </td>
     <td/>
@@ -1278,7 +1300,7 @@
     <td>x120DF</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃟</span>
+        <span class="ofs-oobf ofs-200">𒃟</span>
       </p>
     </td>
     <td/>
@@ -1289,7 +1311,7 @@
     <td>xF0059</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁙</span>
+        <span class="ofs-oobf ofs-200">󰁙</span>
       </p>
     </td>
     <td/>
@@ -1300,7 +1322,7 @@
     <td>x120E0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃠</span>
+        <span class="ofs-oobf ofs-200">𒃠</span>
       </p>
     </td>
     <td/>
@@ -1311,7 +1333,7 @@
     <td>x120E1</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃡</span>
+        <span class="ofs-oobf ofs-200">𒃡</span>
       </p>
     </td>
     <td/>
@@ -1322,7 +1344,7 @@
     <td>x120E2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃢</span>
+        <span class="ofs-oobf ofs-200">𒃢</span>
       </p>
     </td>
     <td/>
@@ -1333,7 +1355,7 @@
     <td>x120E3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃣</span>
+        <span class="ofs-oobf ofs-200">𒃣</span>
       </p>
     </td>
     <td/>
@@ -1344,7 +1366,7 @@
     <td>x120E5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃥</span>
+        <span class="ofs-oobf ofs-200">𒃥</span>
       </p>
     </td>
     <td/>
@@ -1355,7 +1377,7 @@
     <td>xF005A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁚</span>
+        <span class="ofs-oobf ofs-200">󰁚</span>
       </p>
     </td>
     <td/>
@@ -1366,7 +1388,7 @@
     <td>x120E9</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃩</span>
+        <span class="ofs-oobf ofs-200">𒃩</span>
       </p>
     </td>
     <td/>
@@ -1377,7 +1399,7 @@
     <td>x120EE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃮</span>
+        <span class="ofs-oobf ofs-200">𒃮</span>
       </p>
     </td>
     <td/>
@@ -1388,7 +1410,7 @@
     <td>x120F0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃰</span>
+        <span class="ofs-oobf ofs-200">𒃰</span>
       </p>
     </td>
     <td/>
@@ -1399,11 +1421,11 @@
     <td>x120F0.x122FA.x122DB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃰𒋺𒋛</span>
+        <span class="ofs-oobf ofs-200">𒃰𒋺𒋛</span>
       </p>
     </td>
     <td>
-      <p>(u120F0_u122FA_u122DB = <span class="ofs-oobf ofs-150">𒃰‌𒋺‌𒋛‌</span>)</p>
+      <p>(u120F0_u122FA_u122DB = <span class="ofs-oobf ofs-200">𒃰‌𒋺‌𒋛‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -1412,7 +1434,7 @@
     <td>x120F1</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃱</span>
+        <span class="ofs-oobf ofs-200">𒃱</span>
       </p>
     </td>
     <td/>
@@ -1423,7 +1445,7 @@
     <td>x120F2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃲</span>
+        <span class="ofs-oobf ofs-200">𒃲</span>
       </p>
     </td>
     <td/>
@@ -1434,7 +1456,7 @@
     <td>x120F4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃴</span>
+        <span class="ofs-oobf ofs-200">𒃴</span>
       </p>
     </td>
     <td/>
@@ -1445,7 +1467,7 @@
     <td>x120F5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃵</span>
+        <span class="ofs-oobf ofs-200">𒃵</span>
       </p>
     </td>
     <td/>
@@ -1456,7 +1478,7 @@
     <td>x120F6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃶</span>
+        <span class="ofs-oobf ofs-200">𒃶</span>
       </p>
     </td>
     <td/>
@@ -1467,7 +1489,7 @@
     <td>x120F7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃷</span>
+        <span class="ofs-oobf ofs-200">𒃷</span>
       </p>
     </td>
     <td/>
@@ -1478,7 +1500,7 @@
     <td>x120F8</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃸</span>
+        <span class="ofs-oobf ofs-200">𒃸</span>
       </p>
     </td>
     <td/>
@@ -1489,7 +1511,7 @@
     <td>x120FB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃻</span>
+        <span class="ofs-oobf ofs-200">𒃻</span>
       </p>
     </td>
     <td/>
@@ -1500,7 +1522,7 @@
     <td>x120FC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃼</span>
+        <span class="ofs-oobf ofs-200">𒃼</span>
       </p>
     </td>
     <td/>
@@ -1511,7 +1533,7 @@
     <td>x120FE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒃾</span>
+        <span class="ofs-oobf ofs-200">𒃾</span>
       </p>
     </td>
     <td/>
@@ -1522,7 +1544,7 @@
     <td>x12100</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄀</span>
+        <span class="ofs-oobf ofs-200">𒄀</span>
       </p>
     </td>
     <td/>
@@ -1533,7 +1555,7 @@
     <td>x12103</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄃</span>
+        <span class="ofs-oobf ofs-200">𒄃</span>
       </p>
     </td>
     <td/>
@@ -1544,7 +1566,7 @@
     <td>x12104</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄄</span>
+        <span class="ofs-oobf ofs-200">𒄄</span>
       </p>
     </td>
     <td/>
@@ -1555,7 +1577,7 @@
     <td>x12107</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄇</span>
+        <span class="ofs-oobf ofs-200">𒄇</span>
       </p>
     </td>
     <td/>
@@ -1566,7 +1588,7 @@
     <td>x1237C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍼</span>
+        <span class="ofs-oobf ofs-200">𒍼</span>
       </p>
     </td>
     <td/>
@@ -1577,7 +1599,7 @@
     <td>x12108</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄈</span>
+        <span class="ofs-oobf ofs-200">𒄈</span>
       </p>
     </td>
     <td/>
@@ -1588,7 +1610,7 @@
     <td>x12109</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄉</span>
+        <span class="ofs-oobf ofs-200">𒄉</span>
       </p>
     </td>
     <td/>
@@ -1599,7 +1621,7 @@
     <td>x1210A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄊</span>
+        <span class="ofs-oobf ofs-200">𒄊</span>
       </p>
     </td>
     <td/>
@@ -1610,7 +1632,7 @@
     <td>x1210B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄋</span>
+        <span class="ofs-oobf ofs-200">𒄋</span>
       </p>
     </td>
     <td/>
@@ -1621,7 +1643,7 @@
     <td>x1210C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄌</span>
+        <span class="ofs-oobf ofs-200">𒄌</span>
       </p>
     </td>
     <td/>
@@ -1632,7 +1654,7 @@
     <td>x1210D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄍</span>
+        <span class="ofs-oobf ofs-200">𒄍</span>
       </p>
     </td>
     <td/>
@@ -1643,7 +1665,7 @@
     <td>x1210F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄏</span>
+        <span class="ofs-oobf ofs-200">𒄏</span>
       </p>
     </td>
     <td/>
@@ -1654,7 +1676,7 @@
     <td>x12110</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄐</span>
+        <span class="ofs-oobf ofs-200">𒄐</span>
       </p>
     </td>
     <td/>
@@ -1665,7 +1687,18 @@
     <td>x12111</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄑</span>
+        <span class="ofs-oobf ofs-200">𒄑</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td/>
+    <td class="ofs-feat-r">sset</td>
+    <td>ss01</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ss01 ofs-200">𒄑</span>
       </p>
     </td>
     <td/>
@@ -1676,7 +1709,7 @@
     <td>x12112</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄒</span>
+        <span class="ofs-oobf ofs-200">𒄒</span>
       </p>
     </td>
     <td/>
@@ -1687,7 +1720,7 @@
     <td>x12116</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄖</span>
+        <span class="ofs-oobf ofs-200">𒄖</span>
       </p>
     </td>
     <td/>
@@ -1698,7 +1731,7 @@
     <td>x12117</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄗</span>
+        <span class="ofs-oobf ofs-200">𒄗</span>
       </p>
     </td>
     <td/>
@@ -1709,7 +1742,7 @@
     <td>x12118</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄘</span>
+        <span class="ofs-oobf ofs-200">𒄘</span>
       </p>
     </td>
     <td/>
@@ -1720,11 +1753,11 @@
     <td>x12118.x120FC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄘𒃼</span>
+        <span class="ofs-oobf ofs-200">𒄘𒃼</span>
       </p>
     </td>
     <td>
-      <p>(u12118_u120FC = <span class="ofs-oobf ofs-150">𒄘‌𒃼‌</span>)</p>
+      <p>(u12118_u120FC = <span class="ofs-oobf ofs-200">𒄘‌𒃼‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -1733,7 +1766,7 @@
     <td>x12119</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄙</span>
+        <span class="ofs-oobf ofs-200">𒄙</span>
       </p>
     </td>
     <td/>
@@ -1744,7 +1777,7 @@
     <td>x1211B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄛</span>
+        <span class="ofs-oobf ofs-200">𒄛</span>
       </p>
     </td>
     <td/>
@@ -1755,7 +1788,7 @@
     <td>x1211E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄞</span>
+        <span class="ofs-oobf ofs-200">𒄞</span>
       </p>
     </td>
     <td/>
@@ -1766,7 +1799,7 @@
     <td>x12120</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄠</span>
+        <span class="ofs-oobf ofs-200">𒄠</span>
       </p>
     </td>
     <td/>
@@ -1777,7 +1810,7 @@
     <td>x12122</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄢</span>
+        <span class="ofs-oobf ofs-200">𒄢</span>
       </p>
     </td>
     <td/>
@@ -1788,7 +1821,7 @@
     <td>x12123</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄣</span>
+        <span class="ofs-oobf ofs-200">𒄣</span>
       </p>
     </td>
     <td/>
@@ -1799,7 +1832,7 @@
     <td>x12124</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄤</span>
+        <span class="ofs-oobf ofs-200">𒄤</span>
       </p>
     </td>
     <td/>
@@ -1810,7 +1843,7 @@
     <td>x12125</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄥</span>
+        <span class="ofs-oobf ofs-200">𒄥</span>
       </p>
     </td>
     <td/>
@@ -1821,7 +1854,7 @@
     <td>x12126</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄦</span>
+        <span class="ofs-oobf ofs-200">𒄦</span>
       </p>
     </td>
     <td/>
@@ -1832,7 +1865,7 @@
     <td>x12127</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄧</span>
+        <span class="ofs-oobf ofs-200">𒄧</span>
       </p>
     </td>
     <td/>
@@ -1843,7 +1876,7 @@
     <td>x12128</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄨</span>
+        <span class="ofs-oobf ofs-200">𒄨</span>
       </p>
     </td>
     <td/>
@@ -1854,7 +1887,7 @@
     <td>x12129</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄩</span>
+        <span class="ofs-oobf ofs-200">𒄩</span>
       </p>
     </td>
     <td/>
@@ -1865,7 +1898,7 @@
     <td>x1212B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄫</span>
+        <span class="ofs-oobf ofs-200">𒄫</span>
       </p>
     </td>
     <td/>
@@ -1876,7 +1909,7 @@
     <td>x1212C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄬</span>
+        <span class="ofs-oobf ofs-200">𒄬</span>
       </p>
     </td>
     <td/>
@@ -1887,7 +1920,7 @@
     <td>x1212D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄭</span>
+        <span class="ofs-oobf ofs-200">𒄭</span>
       </p>
     </td>
     <td/>
@@ -1898,7 +1931,7 @@
     <td>x1237D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍽</span>
+        <span class="ofs-oobf ofs-200">𒍽</span>
       </p>
     </td>
     <td/>
@@ -1909,7 +1942,7 @@
     <td>x1212E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄮</span>
+        <span class="ofs-oobf ofs-200">𒄮</span>
       </p>
     </td>
     <td/>
@@ -1920,7 +1953,7 @@
     <td>x1212F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄯</span>
+        <span class="ofs-oobf ofs-200">𒄯</span>
       </p>
     </td>
     <td/>
@@ -1931,7 +1964,7 @@
     <td>1</td>
     <td>
       <p>
-        <span class="ofs-oobf salt1 ofs-150">𒄯</span>
+        <span class="ofs-oobf salt1 ofs-200">𒄯</span>
       </p>
     </td>
     <td/>
@@ -1942,7 +1975,7 @@
     <td>x12130</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄰</span>
+        <span class="ofs-oobf ofs-200">𒄰</span>
       </p>
     </td>
     <td/>
@@ -1953,7 +1986,7 @@
     <td>x12132</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄲</span>
+        <span class="ofs-oobf ofs-200">𒄲</span>
       </p>
     </td>
     <td/>
@@ -1964,7 +1997,7 @@
     <td>x12134</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄴</span>
+        <span class="ofs-oobf ofs-200">𒄴</span>
       </p>
     </td>
     <td/>
@@ -1975,11 +2008,11 @@
     <td>x12134.x12228</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄴𒈨</span>
+        <span class="ofs-oobf ofs-200">𒄴𒈨</span>
       </p>
     </td>
     <td>
-      <p>(u12134_u12228 = <span class="ofs-oobf ofs-150">𒄴‌𒈨‌</span>)</p>
+      <p>(u12134_u12228 = <span class="ofs-oobf ofs-200">𒄴‌𒈨‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -1988,7 +2021,7 @@
     <td>x12135</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄵</span>
+        <span class="ofs-oobf ofs-200">𒄵</span>
       </p>
     </td>
     <td/>
@@ -1999,7 +2032,7 @@
     <td>x12137</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄷</span>
+        <span class="ofs-oobf ofs-200">𒄷</span>
       </p>
     </td>
     <td/>
@@ -2010,11 +2043,11 @@
     <td>x12137.x1212D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄷𒄭</span>
+        <span class="ofs-oobf ofs-200">𒄷𒄭</span>
       </p>
     </td>
     <td>
-      <p>(u12137_u1212D = <span class="ofs-oobf ofs-150">𒄷‌𒄭‌</span>)</p>
+      <p>(u12137_u1212D = <span class="ofs-oobf ofs-200">𒄷‌𒄭‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2023,11 +2056,11 @@
     <td>x12137.x1223F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄷𒈿</span>
+        <span class="ofs-oobf ofs-200">𒄷𒈿</span>
       </p>
     </td>
     <td>
-      <p>(u12137_u1223F = <span class="ofs-oobf ofs-150">𒄷‌𒈿‌</span>)</p>
+      <p>(u12137_u1223F = <span class="ofs-oobf ofs-200">𒄷‌𒈿‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2036,11 +2069,11 @@
     <td>x12137.x122DB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄷𒋛</span>
+        <span class="ofs-oobf ofs-200">𒄷𒋛</span>
       </p>
     </td>
     <td>
-      <p>(u12137_u122DB = <span class="ofs-oobf ofs-150">𒄷‌𒋛‌</span>)</p>
+      <p>(u12137_u122DB = <span class="ofs-oobf ofs-200">𒄷‌𒋛‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2049,7 +2082,7 @@
     <td>x12138</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄸</span>
+        <span class="ofs-oobf ofs-200">𒄸</span>
       </p>
     </td>
     <td/>
@@ -2060,7 +2093,7 @@
     <td>x1213D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄽</span>
+        <span class="ofs-oobf ofs-200">𒄽</span>
       </p>
     </td>
     <td/>
@@ -2071,7 +2104,7 @@
     <td>x1213E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄾</span>
+        <span class="ofs-oobf ofs-200">𒄾</span>
       </p>
     </td>
     <td/>
@@ -2082,7 +2115,7 @@
     <td>x1213F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄿</span>
+        <span class="ofs-oobf ofs-200">𒄿</span>
       </p>
     </td>
     <td/>
@@ -2093,7 +2126,7 @@
     <td>x12140</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅀</span>
+        <span class="ofs-oobf ofs-200">𒅀</span>
       </p>
     </td>
     <td/>
@@ -2104,7 +2137,7 @@
     <td>x12141</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅁</span>
+        <span class="ofs-oobf ofs-200">𒅁</span>
       </p>
     </td>
     <td/>
@@ -2115,7 +2148,7 @@
     <td>x12142</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅂</span>
+        <span class="ofs-oobf ofs-200">𒅂</span>
       </p>
     </td>
     <td/>
@@ -2126,7 +2159,7 @@
     <td>x12145</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅅</span>
+        <span class="ofs-oobf ofs-200">𒅅</span>
       </p>
     </td>
     <td/>
@@ -2137,7 +2170,7 @@
     <td>x12146</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅆</span>
+        <span class="ofs-oobf ofs-200">𒅆</span>
       </p>
     </td>
     <td/>
@@ -2148,7 +2181,7 @@
     <td>x12147</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅇</span>
+        <span class="ofs-oobf ofs-200">𒅇</span>
       </p>
     </td>
     <td/>
@@ -2159,11 +2192,11 @@
     <td>x12146.x1207E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅆𒁾</span>
+        <span class="ofs-oobf ofs-200">𒅆𒁾</span>
       </p>
     </td>
     <td>
-      <p>(u12146_u1207E = <span class="ofs-oobf ofs-150">𒅆‌𒁾‌</span>)</p>
+      <p>(u12146_u1207E = <span class="ofs-oobf ofs-200">𒅆‌𒁾‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2172,11 +2205,11 @@
     <td>x12146.x1208D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅆𒂍</span>
+        <span class="ofs-oobf ofs-200">𒅆𒂍</span>
       </p>
     </td>
     <td>
-      <p>(u12146_u1208D = <span class="ofs-oobf ofs-150">𒅆‌𒂍‌</span>)</p>
+      <p>(u12146_u1208D = <span class="ofs-oobf ofs-200">𒅆‌𒂍‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2185,11 +2218,11 @@
     <td>x12146.x1209F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅆𒂟</span>
+        <span class="ofs-oobf ofs-200">𒅆𒂟</span>
       </p>
     </td>
     <td>
-      <p>(u12146_u1209F = <span class="ofs-oobf ofs-150">𒅆‌𒂟‌</span>)</p>
+      <p>(u12146_u1209F = <span class="ofs-oobf ofs-200">𒅆‌𒂟‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2198,11 +2231,11 @@
     <td>x12146.x120A0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅆𒂠</span>
+        <span class="ofs-oobf ofs-200">𒅆𒂠</span>
       </p>
     </td>
     <td>
-      <p>(u12146_u120A0 = <span class="ofs-oobf ofs-150">𒅆‌𒂠‌</span>)</p>
+      <p>(u12146_u120A0 = <span class="ofs-oobf ofs-200">𒅆‌𒂠‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2211,7 +2244,7 @@
     <td>x12148</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅈</span>
+        <span class="ofs-oobf ofs-200">𒅈</span>
       </p>
     </td>
     <td/>
@@ -2222,11 +2255,11 @@
     <td>x12146.x12292</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅆𒊒</span>
+        <span class="ofs-oobf ofs-200">𒅆𒊒</span>
       </p>
     </td>
     <td>
-      <p>(u12146_u12292 = <span class="ofs-oobf ofs-150">𒅆‌𒊒‌</span>)</p>
+      <p>(u12146_u12292 = <span class="ofs-oobf ofs-200">𒅆‌𒊒‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2235,11 +2268,11 @@
     <td>x12146.x12328</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅆𒌨</span>
+        <span class="ofs-oobf ofs-200">𒅆𒌨</span>
       </p>
     </td>
     <td>
-      <p>(u12146_u12328 = <span class="ofs-oobf ofs-150">𒅆‌𒌨‌</span>)</p>
+      <p>(u12146_u12328 = <span class="ofs-oobf ofs-200">𒅆‌𒌨‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2248,7 +2281,7 @@
     <td>x1214A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅊</span>
+        <span class="ofs-oobf ofs-200">𒅊</span>
       </p>
     </td>
     <td/>
@@ -2259,7 +2292,7 @@
     <td>x1214B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅋</span>
+        <span class="ofs-oobf ofs-200">𒅋</span>
       </p>
     </td>
     <td/>
@@ -2270,7 +2303,7 @@
     <td>x1214D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅍</span>
+        <span class="ofs-oobf ofs-200">𒅍</span>
       </p>
     </td>
     <td/>
@@ -2281,7 +2314,7 @@
     <td>x1214E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅎</span>
+        <span class="ofs-oobf ofs-200">𒅎</span>
       </p>
     </td>
     <td/>
@@ -2292,7 +2325,7 @@
     <td>x12154</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅔</span>
+        <span class="ofs-oobf ofs-200">𒅔</span>
       </p>
     </td>
     <td/>
@@ -2303,7 +2336,7 @@
     <td>x12155</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅕</span>
+        <span class="ofs-oobf ofs-200">𒅕</span>
       </p>
     </td>
     <td/>
@@ -2314,7 +2347,7 @@
     <td>x12156</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅖</span>
+        <span class="ofs-oobf ofs-200">𒅖</span>
       </p>
     </td>
     <td/>
@@ -2325,7 +2358,7 @@
     <td>x12157</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅗</span>
+        <span class="ofs-oobf ofs-200">𒅗</span>
       </p>
     </td>
     <td/>
@@ -2336,7 +2369,7 @@
     <td>x12158</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅘</span>
+        <span class="ofs-oobf ofs-200">𒅘</span>
       </p>
     </td>
     <td/>
@@ -2347,7 +2380,7 @@
     <td>x1215C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅜</span>
+        <span class="ofs-oobf ofs-200">𒅜</span>
       </p>
     </td>
     <td/>
@@ -2358,7 +2391,7 @@
     <td>x1215D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅝</span>
+        <span class="ofs-oobf ofs-200">𒅝</span>
       </p>
     </td>
     <td/>
@@ -2369,7 +2402,7 @@
     <td>x12161</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅡</span>
+        <span class="ofs-oobf ofs-200">𒅡</span>
       </p>
     </td>
     <td/>
@@ -2380,7 +2413,7 @@
     <td>x12162</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅢</span>
+        <span class="ofs-oobf ofs-200">𒅢</span>
       </p>
     </td>
     <td/>
@@ -2391,7 +2424,7 @@
     <td>x12164</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅤</span>
+        <span class="ofs-oobf ofs-200">𒅤</span>
       </p>
     </td>
     <td/>
@@ -2402,7 +2435,7 @@
     <td>x12165</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅥</span>
+        <span class="ofs-oobf ofs-200">𒅥</span>
       </p>
     </td>
     <td/>
@@ -2413,7 +2446,7 @@
     <td>x1216E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅮</span>
+        <span class="ofs-oobf ofs-200">𒅮</span>
       </p>
     </td>
     <td/>
@@ -2424,7 +2457,7 @@
     <td>x12172</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅲</span>
+        <span class="ofs-oobf ofs-200">𒅲</span>
       </p>
     </td>
     <td/>
@@ -2435,7 +2468,7 @@
     <td>x12174</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅴</span>
+        <span class="ofs-oobf ofs-200">𒅴</span>
       </p>
     </td>
     <td/>
@@ -2446,7 +2479,7 @@
     <td>x1217A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅺</span>
+        <span class="ofs-oobf ofs-200">𒅺</span>
       </p>
     </td>
     <td/>
@@ -2457,7 +2490,7 @@
     <td>x1217B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅻</span>
+        <span class="ofs-oobf ofs-200">𒅻</span>
       </p>
     </td>
     <td/>
@@ -2468,7 +2501,7 @@
     <td>x1217E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅾</span>
+        <span class="ofs-oobf ofs-200">𒅾</span>
       </p>
     </td>
     <td/>
@@ -2479,7 +2512,7 @@
     <td>x1217F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒅿</span>
+        <span class="ofs-oobf ofs-200">𒅿</span>
       </p>
     </td>
     <td/>
@@ -2490,7 +2523,7 @@
     <td>x12181</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆁</span>
+        <span class="ofs-oobf ofs-200">𒆁</span>
       </p>
     </td>
     <td/>
@@ -2501,7 +2534,7 @@
     <td>x12182</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆂</span>
+        <span class="ofs-oobf ofs-200">𒆂</span>
       </p>
     </td>
     <td/>
@@ -2512,7 +2545,7 @@
     <td>x12183</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆃</span>
+        <span class="ofs-oobf ofs-200">𒆃</span>
       </p>
     </td>
     <td/>
@@ -2523,7 +2556,7 @@
     <td>x1218D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆍</span>
+        <span class="ofs-oobf ofs-200">𒆍</span>
       </p>
     </td>
     <td/>
@@ -2534,7 +2567,7 @@
     <td>x1218F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆏</span>
+        <span class="ofs-oobf ofs-200">𒆏</span>
       </p>
     </td>
     <td/>
@@ -2545,7 +2578,7 @@
     <td>x12192</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆒</span>
+        <span class="ofs-oobf ofs-200">𒆒</span>
       </p>
     </td>
     <td/>
@@ -2556,7 +2589,7 @@
     <td>x12193</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆓</span>
+        <span class="ofs-oobf ofs-200">𒆓</span>
       </p>
     </td>
     <td/>
@@ -2567,7 +2600,7 @@
     <td>x12195</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆕</span>
+        <span class="ofs-oobf ofs-200">𒆕</span>
       </p>
     </td>
     <td/>
@@ -2578,7 +2611,7 @@
     <td>x12197</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆗</span>
+        <span class="ofs-oobf ofs-200">𒆗</span>
       </p>
     </td>
     <td/>
@@ -2589,7 +2622,7 @@
     <td>x12327</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌧</span>
+        <span class="ofs-oobf ofs-200">𒌧</span>
       </p>
     </td>
     <td/>
@@ -2600,7 +2633,7 @@
     <td>x12326</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌦</span>
+        <span class="ofs-oobf ofs-200">𒌦</span>
       </p>
     </td>
     <td/>
@@ -2611,7 +2644,7 @@
     <td>x1219B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆛</span>
+        <span class="ofs-oobf ofs-200">𒆛</span>
       </p>
     </td>
     <td/>
@@ -2622,7 +2655,7 @@
     <td>x1219C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆜</span>
+        <span class="ofs-oobf ofs-200">𒆜</span>
       </p>
     </td>
     <td/>
@@ -2633,11 +2666,11 @@
     <td>x1219C.x121B3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆜𒆳</span>
+        <span class="ofs-oobf ofs-200">𒆜𒆳</span>
       </p>
     </td>
     <td>
-      <p>(u1219C_u121B3 = <span class="ofs-oobf ofs-150">𒆜‌𒆳‌</span>)</p>
+      <p>(u1219C_u121B3 = <span class="ofs-oobf ofs-200">𒆜‌𒆳‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2646,7 +2679,7 @@
     <td>x1219D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆝</span>
+        <span class="ofs-oobf ofs-200">𒆝</span>
       </p>
     </td>
     <td/>
@@ -2657,7 +2690,7 @@
     <td>x1219F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆟</span>
+        <span class="ofs-oobf ofs-200">𒆟</span>
       </p>
     </td>
     <td/>
@@ -2668,7 +2701,7 @@
     <td>x121A0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆠</span>
+        <span class="ofs-oobf ofs-200">𒆠</span>
       </p>
     </td>
     <td/>
@@ -2679,7 +2712,7 @@
     <td>x121A1</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆡</span>
+        <span class="ofs-oobf ofs-200">𒆡</span>
       </p>
     </td>
     <td/>
@@ -2690,7 +2723,7 @@
     <td>x121A4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆤</span>
+        <span class="ofs-oobf ofs-200">𒆤</span>
       </p>
     </td>
     <td/>
@@ -2701,7 +2734,7 @@
     <td>x121A5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆥</span>
+        <span class="ofs-oobf ofs-200">𒆥</span>
       </p>
     </td>
     <td/>
@@ -2712,7 +2745,7 @@
     <td>x121A6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆦</span>
+        <span class="ofs-oobf ofs-200">𒆦</span>
       </p>
     </td>
     <td/>
@@ -2723,7 +2756,7 @@
     <td>x121A7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆧</span>
+        <span class="ofs-oobf ofs-200">𒆧</span>
       </p>
     </td>
     <td/>
@@ -2734,7 +2767,7 @@
     <td>x121AA</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆪</span>
+        <span class="ofs-oobf ofs-200">𒆪</span>
       </p>
     </td>
     <td/>
@@ -2745,7 +2778,7 @@
     <td>x121AC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆬</span>
+        <span class="ofs-oobf ofs-200">𒆬</span>
       </p>
     </td>
     <td/>
@@ -2756,7 +2789,7 @@
     <td>x121AD</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆭</span>
+        <span class="ofs-oobf ofs-200">𒆭</span>
       </p>
     </td>
     <td/>
@@ -2767,7 +2800,7 @@
     <td>x121AF</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆯</span>
+        <span class="ofs-oobf ofs-200">𒆯</span>
       </p>
     </td>
     <td/>
@@ -2778,7 +2811,7 @@
     <td>x121B0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆰</span>
+        <span class="ofs-oobf ofs-200">𒆰</span>
       </p>
     </td>
     <td/>
@@ -2789,7 +2822,7 @@
     <td>x121B2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆲</span>
+        <span class="ofs-oobf ofs-200">𒆲</span>
       </p>
     </td>
     <td/>
@@ -2800,7 +2833,7 @@
     <td>x121B3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆳</span>
+        <span class="ofs-oobf ofs-200">𒆳</span>
       </p>
     </td>
     <td/>
@@ -2811,7 +2844,7 @@
     <td>x121B5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆵</span>
+        <span class="ofs-oobf ofs-200">𒆵</span>
       </p>
     </td>
     <td/>
@@ -2822,7 +2855,7 @@
     <td>x121B7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆷</span>
+        <span class="ofs-oobf ofs-200">𒆷</span>
       </p>
     </td>
     <td/>
@@ -2833,7 +2866,7 @@
     <td>x121B8</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆸</span>
+        <span class="ofs-oobf ofs-200">𒆸</span>
       </p>
     </td>
     <td/>
@@ -2844,11 +2877,11 @@
     <td>x121B8.x121B8</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆸𒆸</span>
+        <span class="ofs-oobf ofs-200">𒆸𒆸</span>
       </p>
     </td>
     <td>
-      <p>(u121B8_u121B8 = <span class="ofs-oobf ofs-150">𒆸‌𒆸‌</span>)</p>
+      <p>(u121B8_u121B8 = <span class="ofs-oobf ofs-200">𒆸‌𒆸‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -2857,7 +2890,7 @@
     <td>x121B9</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒆹</span>
+        <span class="ofs-oobf ofs-200">𒆹</span>
       </p>
     </td>
     <td/>
@@ -2868,7 +2901,7 @@
     <td>x121C0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇀</span>
+        <span class="ofs-oobf ofs-200">𒇀</span>
       </p>
     </td>
     <td/>
@@ -2879,7 +2912,7 @@
     <td>x121C5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇅</span>
+        <span class="ofs-oobf ofs-200">𒇅</span>
       </p>
     </td>
     <td/>
@@ -2890,7 +2923,7 @@
     <td>x121C6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇆</span>
+        <span class="ofs-oobf ofs-200">𒇆</span>
       </p>
     </td>
     <td/>
@@ -2901,7 +2934,7 @@
     <td>x121C7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇇</span>
+        <span class="ofs-oobf ofs-200">𒇇</span>
       </p>
     </td>
     <td/>
@@ -2912,7 +2945,7 @@
     <td>x121C9</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇉</span>
+        <span class="ofs-oobf ofs-200">𒇉</span>
       </p>
     </td>
     <td/>
@@ -2923,7 +2956,7 @@
     <td>x121CB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇋</span>
+        <span class="ofs-oobf ofs-200">𒇋</span>
       </p>
     </td>
     <td/>
@@ -2934,7 +2967,7 @@
     <td>x121D2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇒</span>
+        <span class="ofs-oobf ofs-200">𒇒</span>
       </p>
     </td>
     <td/>
@@ -2945,7 +2978,7 @@
     <td>x121E1</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇡</span>
+        <span class="ofs-oobf ofs-200">𒇡</span>
       </p>
     </td>
     <td/>
@@ -2956,7 +2989,7 @@
     <td>x121E5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇥</span>
+        <span class="ofs-oobf ofs-200">𒇥</span>
       </p>
     </td>
     <td/>
@@ -2967,7 +3000,7 @@
     <td>x121E6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇦</span>
+        <span class="ofs-oobf ofs-200">𒇦</span>
       </p>
     </td>
     <td/>
@@ -2978,7 +3011,7 @@
     <td>x121E7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇧</span>
+        <span class="ofs-oobf ofs-200">𒇧</span>
       </p>
     </td>
     <td/>
@@ -2989,7 +3022,7 @@
     <td>x121EC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇬</span>
+        <span class="ofs-oobf ofs-200">𒇬</span>
       </p>
     </td>
     <td/>
@@ -3000,7 +3033,7 @@
     <td>x121ED</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇭</span>
+        <span class="ofs-oobf ofs-200">𒇭</span>
       </p>
     </td>
     <td/>
@@ -3011,7 +3044,7 @@
     <td>x121EF</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇯</span>
+        <span class="ofs-oobf ofs-200">𒇯</span>
       </p>
     </td>
     <td/>
@@ -3022,7 +3055,7 @@
     <td>x121F0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇰</span>
+        <span class="ofs-oobf ofs-200">𒇰</span>
       </p>
     </td>
     <td/>
@@ -3033,7 +3066,7 @@
     <td>x121F2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇲</span>
+        <span class="ofs-oobf ofs-200">𒇲</span>
       </p>
     </td>
     <td/>
@@ -3044,7 +3077,7 @@
     <td>x121F3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇳</span>
+        <span class="ofs-oobf ofs-200">𒇳</span>
       </p>
     </td>
     <td/>
@@ -3055,11 +3088,11 @@
     <td>x121F3.x1207A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇳𒁺</span>
+        <span class="ofs-oobf ofs-200">𒇳𒁺</span>
       </p>
     </td>
     <td>
-      <p>(u121F3_u1207A = <span class="ofs-oobf ofs-150">𒇳‌𒁺‌</span>)</p>
+      <p>(u121F3_u1207A = <span class="ofs-oobf ofs-200">𒇳‌𒁺‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -3068,11 +3101,11 @@
     <td>x121F3.x121B8</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇳𒆸</span>
+        <span class="ofs-oobf ofs-200">𒇳𒆸</span>
       </p>
     </td>
     <td>
-      <p>(u121F3_u121B8 = <span class="ofs-oobf ofs-150">𒇳‌𒆸‌</span>)</p>
+      <p>(u121F3_u121B8 = <span class="ofs-oobf ofs-200">𒇳‌𒆸‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -3081,11 +3114,11 @@
     <td>x121F3.x122AC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇳𒊬</span>
+        <span class="ofs-oobf ofs-200">𒇳𒊬</span>
       </p>
     </td>
     <td>
-      <p>(u121F3_u122AC = <span class="ofs-oobf ofs-150">𒇳‌𒊬‌</span>)</p>
+      <p>(u121F3_u122AC = <span class="ofs-oobf ofs-200">𒇳‌𒊬‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -3094,7 +3127,7 @@
     <td>x121F4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇴</span>
+        <span class="ofs-oobf ofs-200">𒇴</span>
       </p>
     </td>
     <td/>
@@ -3105,7 +3138,7 @@
     <td>x121F7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇷</span>
+        <span class="ofs-oobf ofs-200">𒇷</span>
       </p>
     </td>
     <td/>
@@ -3116,7 +3149,7 @@
     <td>x121F8</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇸</span>
+        <span class="ofs-oobf ofs-200">𒇸</span>
       </p>
     </td>
     <td/>
@@ -3127,7 +3160,7 @@
     <td>x1243C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐼</span>
+        <span class="ofs-oobf ofs-200">𒐼</span>
       </p>
     </td>
     <td/>
@@ -3138,7 +3171,7 @@
     <td>x121FA</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇺</span>
+        <span class="ofs-oobf ofs-200">𒇺</span>
       </p>
     </td>
     <td/>
@@ -3149,7 +3182,7 @@
     <td>x121FB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇻</span>
+        <span class="ofs-oobf ofs-200">𒇻</span>
       </p>
     </td>
     <td/>
@@ -3160,7 +3193,7 @@
     <td>x121FD</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇽</span>
+        <span class="ofs-oobf ofs-200">𒇽</span>
       </p>
     </td>
     <td/>
@@ -3171,7 +3204,7 @@
     <td>x12213</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈓</span>
+        <span class="ofs-oobf ofs-200">𒈓</span>
       </p>
     </td>
     <td/>
@@ -3182,7 +3215,7 @@
     <td>x121FF</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒇿</span>
+        <span class="ofs-oobf ofs-200">𒇿</span>
       </p>
     </td>
     <td/>
@@ -3193,7 +3226,7 @@
     <td>x12200</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈀</span>
+        <span class="ofs-oobf ofs-200">𒈀</span>
       </p>
     </td>
     <td/>
@@ -3204,7 +3237,7 @@
     <td>x12202</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈂</span>
+        <span class="ofs-oobf ofs-200">𒈂</span>
       </p>
     </td>
     <td/>
@@ -3215,7 +3248,7 @@
     <td>x1220C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈌</span>
+        <span class="ofs-oobf ofs-200">𒈌</span>
       </p>
     </td>
     <td/>
@@ -3226,7 +3259,7 @@
     <td>xF005D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁝</span>
+        <span class="ofs-oobf ofs-200">󰁝</span>
       </p>
     </td>
     <td/>
@@ -3237,7 +3270,7 @@
     <td>x12215</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈕</span>
+        <span class="ofs-oobf ofs-200">𒈕</span>
       </p>
     </td>
     <td/>
@@ -3248,7 +3281,7 @@
     <td>x12216</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈖</span>
+        <span class="ofs-oobf ofs-200">𒈖</span>
       </p>
     </td>
     <td/>
@@ -3259,7 +3292,7 @@
     <td>x12217</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈗</span>
+        <span class="ofs-oobf ofs-200">𒈗</span>
       </p>
     </td>
     <td/>
@@ -3270,7 +3303,7 @@
     <td>x1221B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈛</span>
+        <span class="ofs-oobf ofs-200">𒈛</span>
       </p>
     </td>
     <td/>
@@ -3281,7 +3314,7 @@
     <td>x1221C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈜</span>
+        <span class="ofs-oobf ofs-200">𒈜</span>
       </p>
     </td>
     <td/>
@@ -3292,7 +3325,7 @@
     <td>x1221D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈝</span>
+        <span class="ofs-oobf ofs-200">𒈝</span>
       </p>
     </td>
     <td/>
@@ -3303,7 +3336,7 @@
     <td>x12220</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈠</span>
+        <span class="ofs-oobf ofs-200">𒈠</span>
       </p>
     </td>
     <td/>
@@ -3314,7 +3347,7 @@
     <td>x12222</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈢</span>
+        <span class="ofs-oobf ofs-200">𒈢</span>
       </p>
     </td>
     <td/>
@@ -3325,7 +3358,7 @@
     <td>x12223</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈣</span>
+        <span class="ofs-oobf ofs-200">𒈣</span>
       </p>
     </td>
     <td/>
@@ -3336,11 +3369,11 @@
     <td>x12223.x12195</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈣𒆕</span>
+        <span class="ofs-oobf ofs-200">𒈣𒆕</span>
       </p>
     </td>
     <td>
-      <p>(u12223_u12195 = <span class="ofs-oobf ofs-150">𒈣‌𒆕‌</span>)</p>
+      <p>(u12223_u12195 = <span class="ofs-oobf ofs-200">𒈣‌𒆕‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -3349,7 +3382,7 @@
     <td>x12224</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈤</span>
+        <span class="ofs-oobf ofs-200">𒈤</span>
       </p>
     </td>
     <td/>
@@ -3360,7 +3393,7 @@
     <td>x12225</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈥</span>
+        <span class="ofs-oobf ofs-200">𒈥</span>
       </p>
     </td>
     <td/>
@@ -3371,7 +3404,7 @@
     <td>x12226</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈦</span>
+        <span class="ofs-oobf ofs-200">𒈦</span>
       </p>
     </td>
     <td/>
@@ -3382,11 +3415,11 @@
     <td>x12226.x12118.x120FC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈦𒄘𒃼</span>
+        <span class="ofs-oobf ofs-200">𒈦𒄘𒃼</span>
       </p>
     </td>
     <td>
-      <p>(u12226_u12118_u120FC = <span class="ofs-oobf ofs-150">𒈦‌𒄘‌𒃼‌</span>)</p>
+      <p>(u12226_u12118_u120FC = <span class="ofs-oobf ofs-200">𒈦‌𒄘‌𒃼‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -3395,7 +3428,7 @@
     <td>x12227</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈧</span>
+        <span class="ofs-oobf ofs-200">𒈧</span>
       </p>
     </td>
     <td/>
@@ -3406,7 +3439,7 @@
     <td>x12228</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈨</span>
+        <span class="ofs-oobf ofs-200">𒈨</span>
       </p>
     </td>
     <td/>
@@ -3417,7 +3450,7 @@
     <td>x1238C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒎌</span>
+        <span class="ofs-oobf ofs-200">𒎌</span>
       </p>
     </td>
     <td/>
@@ -3428,7 +3461,7 @@
     <td>x12229</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈩</span>
+        <span class="ofs-oobf ofs-200">𒈩</span>
       </p>
     </td>
     <td/>
@@ -3439,7 +3472,7 @@
     <td>x1222A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈪</span>
+        <span class="ofs-oobf ofs-200">𒈪</span>
       </p>
     </td>
     <td/>
@@ -3450,7 +3483,7 @@
     <td>x1222B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈫</span>
+        <span class="ofs-oobf ofs-200">𒈫</span>
       </p>
     </td>
     <td/>
@@ -3461,7 +3494,7 @@
     <td>x1222C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈬</span>
+        <span class="ofs-oobf ofs-200">𒈬</span>
       </p>
     </td>
     <td/>
@@ -3472,7 +3505,7 @@
     <td>x1222D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈭</span>
+        <span class="ofs-oobf ofs-200">𒈭</span>
       </p>
     </td>
     <td/>
@@ -3483,7 +3516,7 @@
     <td>x1222E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈮</span>
+        <span class="ofs-oobf ofs-200">𒈮</span>
       </p>
     </td>
     <td/>
@@ -3494,7 +3527,7 @@
     <td>x1222F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈯</span>
+        <span class="ofs-oobf ofs-200">𒈯</span>
       </p>
     </td>
     <td/>
@@ -3505,7 +3538,7 @@
     <td>x12230</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈰</span>
+        <span class="ofs-oobf ofs-200">𒈰</span>
       </p>
     </td>
     <td/>
@@ -3516,7 +3549,7 @@
     <td>x12231</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈱</span>
+        <span class="ofs-oobf ofs-200">𒈱</span>
       </p>
     </td>
     <td/>
@@ -3527,7 +3560,7 @@
     <td>x12318</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌘</span>
+        <span class="ofs-oobf ofs-200">𒌘</span>
       </p>
     </td>
     <td/>
@@ -3538,7 +3571,7 @@
     <td>x12232</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈲</span>
+        <span class="ofs-oobf ofs-200">𒈲</span>
       </p>
     </td>
     <td/>
@@ -3549,7 +3582,7 @@
     <td>x12236</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈶</span>
+        <span class="ofs-oobf ofs-200">𒈶</span>
       </p>
     </td>
     <td/>
@@ -3560,7 +3593,7 @@
     <td>x12239</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈹</span>
+        <span class="ofs-oobf ofs-200">𒈹</span>
       </p>
     </td>
     <td/>
@@ -3571,7 +3604,7 @@
     <td>x1223A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈺</span>
+        <span class="ofs-oobf ofs-200">𒈺</span>
       </p>
     </td>
     <td/>
@@ -3582,7 +3615,7 @@
     <td>x1223D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈽</span>
+        <span class="ofs-oobf ofs-200">𒈽</span>
       </p>
     </td>
     <td/>
@@ -3593,7 +3626,7 @@
     <td>x1223E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈾</span>
+        <span class="ofs-oobf ofs-200">𒈾</span>
       </p>
     </td>
     <td/>
@@ -3604,7 +3637,7 @@
     <td>x1223F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒈿</span>
+        <span class="ofs-oobf ofs-200">𒈿</span>
       </p>
     </td>
     <td/>
@@ -3615,7 +3648,7 @@
     <td>x12240</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉀</span>
+        <span class="ofs-oobf ofs-200">𒉀</span>
       </p>
     </td>
     <td/>
@@ -3626,7 +3659,7 @@
     <td>x12241</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉁</span>
+        <span class="ofs-oobf ofs-200">𒉁</span>
       </p>
     </td>
     <td/>
@@ -3637,7 +3670,7 @@
     <td>x12244</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉄</span>
+        <span class="ofs-oobf ofs-200">𒉄</span>
       </p>
     </td>
     <td/>
@@ -3648,7 +3681,7 @@
     <td>x12246</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉆</span>
+        <span class="ofs-oobf ofs-200">𒉆</span>
       </p>
     </td>
     <td/>
@@ -3659,7 +3692,7 @@
     <td>x12247</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉇</span>
+        <span class="ofs-oobf ofs-200">𒉇</span>
       </p>
     </td>
     <td/>
@@ -3670,7 +3703,7 @@
     <td>x12248</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉈</span>
+        <span class="ofs-oobf ofs-200">𒉈</span>
       </p>
     </td>
     <td/>
@@ -3681,7 +3714,7 @@
     <td>x1224B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉋</span>
+        <span class="ofs-oobf ofs-200">𒉋</span>
       </p>
     </td>
     <td/>
@@ -3692,7 +3725,7 @@
     <td>x1224C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉌</span>
+        <span class="ofs-oobf ofs-200">𒉌</span>
       </p>
     </td>
     <td/>
@@ -3703,7 +3736,7 @@
     <td>x1238E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒎎</span>
+        <span class="ofs-oobf ofs-200">𒎎</span>
       </p>
     </td>
     <td/>
@@ -3714,7 +3747,7 @@
     <td>x1224E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉎</span>
+        <span class="ofs-oobf ofs-200">𒉎</span>
       </p>
     </td>
     <td/>
@@ -3725,7 +3758,7 @@
     <td>x1224F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉏</span>
+        <span class="ofs-oobf ofs-200">𒉏</span>
       </p>
     </td>
     <td/>
@@ -3736,7 +3769,7 @@
     <td>x12250</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉐</span>
+        <span class="ofs-oobf ofs-200">𒉐</span>
       </p>
     </td>
     <td/>
@@ -3747,7 +3780,7 @@
     <td>x12252</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉒</span>
+        <span class="ofs-oobf ofs-200">𒉒</span>
       </p>
     </td>
     <td/>
@@ -3758,7 +3791,7 @@
     <td>x12258</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉘</span>
+        <span class="ofs-oobf ofs-200">𒉘</span>
       </p>
     </td>
     <td/>
@@ -3769,7 +3802,7 @@
     <td>x1225B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉛</span>
+        <span class="ofs-oobf ofs-200">𒉛</span>
       </p>
     </td>
     <td/>
@@ -3780,7 +3813,7 @@
     <td>x12260</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉠</span>
+        <span class="ofs-oobf ofs-200">𒉠</span>
       </p>
     </td>
     <td/>
@@ -3791,7 +3824,7 @@
     <td>x12261</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉡</span>
+        <span class="ofs-oobf ofs-200">𒉡</span>
       </p>
     </td>
     <td/>
@@ -3802,7 +3835,7 @@
     <td>x12262</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉢</span>
+        <span class="ofs-oobf ofs-200">𒉢</span>
       </p>
     </td>
     <td/>
@@ -3813,7 +3846,7 @@
     <td>x122D4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋔</span>
+        <span class="ofs-oobf ofs-200">𒋔</span>
       </p>
     </td>
     <td/>
@@ -3824,7 +3857,7 @@
     <td>x12263</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉣</span>
+        <span class="ofs-oobf ofs-200">𒉣</span>
       </p>
     </td>
     <td/>
@@ -3835,11 +3868,11 @@
     <td>x12263.x121EC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉣𒇬</span>
+        <span class="ofs-oobf ofs-200">𒉣𒇬</span>
       </p>
     </td>
     <td>
-      <p>(u12263_u121EC = <span class="ofs-oobf ofs-150">𒉣‌𒇬‌</span>)</p>
+      <p>(u12263_u121EC = <span class="ofs-oobf ofs-200">𒉣‌𒇬‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -3848,7 +3881,7 @@
     <td>x12266</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉦</span>
+        <span class="ofs-oobf ofs-200">𒉦</span>
       </p>
     </td>
     <td/>
@@ -3859,7 +3892,7 @@
     <td>x1226A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉪</span>
+        <span class="ofs-oobf ofs-200">𒉪</span>
       </p>
     </td>
     <td/>
@@ -3870,7 +3903,7 @@
     <td>x12269</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉩</span>
+        <span class="ofs-oobf ofs-200">𒉩</span>
       </p>
     </td>
     <td/>
@@ -3881,7 +3914,7 @@
     <td>x1226D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉭</span>
+        <span class="ofs-oobf ofs-200">𒉭</span>
       </p>
     </td>
     <td/>
@@ -3892,7 +3925,7 @@
     <td>x1226E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉮</span>
+        <span class="ofs-oobf ofs-200">𒉮</span>
       </p>
     </td>
     <td/>
@@ -3903,7 +3936,7 @@
     <td>x12274</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉴</span>
+        <span class="ofs-oobf ofs-200">𒉴</span>
       </p>
     </td>
     <td/>
@@ -3914,7 +3947,7 @@
     <td>x1227A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉺</span>
+        <span class="ofs-oobf ofs-200">𒉺</span>
       </p>
     </td>
     <td/>
@@ -3925,7 +3958,7 @@
     <td>x1227B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉻</span>
+        <span class="ofs-oobf ofs-200">𒉻</span>
       </p>
     </td>
     <td/>
@@ -3936,7 +3969,7 @@
     <td>x1227C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉼</span>
+        <span class="ofs-oobf ofs-200">𒉼</span>
       </p>
     </td>
     <td/>
@@ -3947,7 +3980,7 @@
     <td>x1227D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉽</span>
+        <span class="ofs-oobf ofs-200">𒉽</span>
       </p>
     </td>
     <td/>
@@ -3958,11 +3991,11 @@
     <td>x1227D.x1227D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉽𒉽</span>
+        <span class="ofs-oobf ofs-200">𒉽𒉽</span>
       </p>
     </td>
     <td>
-      <p>(u1227D_u1227D = <span class="ofs-oobf ofs-150">𒉽‌𒉽‌</span>)</p>
+      <p>(u1227D_u1227D = <span class="ofs-oobf ofs-200">𒉽‌𒉽‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -3971,7 +4004,7 @@
     <td>x1227E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉾</span>
+        <span class="ofs-oobf ofs-200">𒉾</span>
       </p>
     </td>
     <td/>
@@ -3982,7 +4015,7 @@
     <td>x1227F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒉿</span>
+        <span class="ofs-oobf ofs-200">𒉿</span>
       </p>
     </td>
     <td/>
@@ -3993,7 +4026,7 @@
     <td>x1228A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊊</span>
+        <span class="ofs-oobf ofs-200">𒊊</span>
       </p>
     </td>
     <td/>
@@ -4004,7 +4037,7 @@
     <td>x1228C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊌</span>
+        <span class="ofs-oobf ofs-200">𒊌</span>
       </p>
     </td>
     <td/>
@@ -4015,7 +4048,7 @@
     <td>x1228D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊍</span>
+        <span class="ofs-oobf ofs-200">𒊍</span>
       </p>
     </td>
     <td/>
@@ -4026,7 +4059,7 @@
     <td>x1228F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊏</span>
+        <span class="ofs-oobf ofs-200">𒊏</span>
       </p>
     </td>
     <td/>
@@ -4037,7 +4070,7 @@
     <td>x12290</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊐</span>
+        <span class="ofs-oobf ofs-200">𒊐</span>
       </p>
     </td>
     <td/>
@@ -4048,7 +4081,7 @@
     <td>x12291</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊑</span>
+        <span class="ofs-oobf ofs-200">𒊑</span>
       </p>
     </td>
     <td/>
@@ -4059,7 +4092,7 @@
     <td>x12292</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊒</span>
+        <span class="ofs-oobf ofs-200">𒊒</span>
       </p>
     </td>
     <td/>
@@ -4070,7 +4103,7 @@
     <td>x12293</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊓</span>
+        <span class="ofs-oobf ofs-200">𒊓</span>
       </p>
     </td>
     <td/>
@@ -4081,7 +4114,7 @@
     <td>x12295</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊕</span>
+        <span class="ofs-oobf ofs-200">𒊕</span>
       </p>
     </td>
     <td/>
@@ -4092,7 +4125,7 @@
     <td>x1229A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊚</span>
+        <span class="ofs-oobf ofs-200">𒊚</span>
       </p>
     </td>
     <td/>
@@ -4103,7 +4136,7 @@
     <td>x122A0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊠</span>
+        <span class="ofs-oobf ofs-200">𒊠</span>
       </p>
     </td>
     <td/>
@@ -4114,7 +4147,7 @@
     <td>x122A8</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊨</span>
+        <span class="ofs-oobf ofs-200">𒊨</span>
       </p>
     </td>
     <td/>
@@ -4125,7 +4158,7 @@
     <td>x12294</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊔</span>
+        <span class="ofs-oobf ofs-200">𒊔</span>
       </p>
     </td>
     <td/>
@@ -4136,7 +4169,7 @@
     <td>x122A9</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊩</span>
+        <span class="ofs-oobf ofs-200">𒊩</span>
       </p>
     </td>
     <td/>
@@ -4147,11 +4180,11 @@
     <td>x122A9.x120A0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊩𒂠</span>
+        <span class="ofs-oobf ofs-200">𒊩𒂠</span>
       </p>
     </td>
     <td>
-      <p>(u122A9_u120A0 = <span class="ofs-oobf ofs-150">𒊩‌𒂠‌</span>)</p>
+      <p>(u122A9_u120A0 = <span class="ofs-oobf ofs-200">𒊩‌𒂠‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4160,11 +4193,11 @@
     <td>x122A9.x12138</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊩𒄸</span>
+        <span class="ofs-oobf ofs-200">𒊩𒄸</span>
       </p>
     </td>
     <td>
-      <p>(u122A9_u12138 = <span class="ofs-oobf ofs-150">𒊩‌𒄸‌</span>)</p>
+      <p>(u122A9_u12138 = <span class="ofs-oobf ofs-200">𒊩‌𒄸‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4173,7 +4206,7 @@
     <td>x12390</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒎐</span>
+        <span class="ofs-oobf ofs-200">𒎐</span>
       </p>
     </td>
     <td/>
@@ -4184,11 +4217,11 @@
     <td>x122A9.x121B3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊩𒆳</span>
+        <span class="ofs-oobf ofs-200">𒊩𒆳</span>
       </p>
     </td>
     <td>
-      <p>(u122A9_u121B3 = <span class="ofs-oobf ofs-150">𒊩‌𒆳‌</span>)</p>
+      <p>(u122A9_u121B3 = <span class="ofs-oobf ofs-200">𒊩‌𒆳‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4197,7 +4230,7 @@
     <td>x1238F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒎏</span>
+        <span class="ofs-oobf ofs-200">𒎏</span>
       </p>
     </td>
     <td/>
@@ -4208,11 +4241,11 @@
     <td>x122A9.x12307</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊩𒌇</span>
+        <span class="ofs-oobf ofs-200">𒊩𒌇</span>
       </p>
     </td>
     <td>
-      <p>(u122A9_u12307 = <span class="ofs-oobf ofs-150">𒊩‌𒌇‌</span>)</p>
+      <p>(u122A9_u12307 = <span class="ofs-oobf ofs-200">𒊩‌𒌇‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4221,11 +4254,11 @@
     <td>x122A9.x12328</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊩𒌨</span>
+        <span class="ofs-oobf ofs-200">𒊩𒌨</span>
       </p>
     </td>
     <td>
-      <p>(u122A9_u12328 = <span class="ofs-oobf ofs-150">𒊩‌𒌨‌</span>)</p>
+      <p>(u122A9_u12328 = <span class="ofs-oobf ofs-200">𒊩‌𒌨‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4234,7 +4267,7 @@
     <td>x122AB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊫</span>
+        <span class="ofs-oobf ofs-200">𒊫</span>
       </p>
     </td>
     <td/>
@@ -4245,7 +4278,7 @@
     <td>x122AC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊬</span>
+        <span class="ofs-oobf ofs-200">𒊬</span>
       </p>
     </td>
     <td/>
@@ -4256,7 +4289,7 @@
     <td>x122DB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋛</span>
+        <span class="ofs-oobf ofs-200">𒋛</span>
       </p>
     </td>
     <td/>
@@ -4267,7 +4300,18 @@
     <td>x122DC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋜</span>
+        <span class="ofs-oobf ofs-200">𒋜</span>
+      </p>
+    </td>
+    <td/>
+  </tr>
+  <tr>
+    <td/>
+    <td class="ofs-feat-r">sset</td>
+    <td>ss01</td>
+    <td>
+      <p>
+        <span class="ofs-oobf ss01 ofs-200">𒋜</span>
       </p>
     </td>
     <td/>
@@ -4278,7 +4322,7 @@
     <td>x122DD</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋝</span>
+        <span class="ofs-oobf ofs-200">𒋝</span>
       </p>
     </td>
     <td/>
@@ -4289,7 +4333,7 @@
     <td>x122DE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋞</span>
+        <span class="ofs-oobf ofs-200">𒋞</span>
       </p>
     </td>
     <td/>
@@ -4300,7 +4344,7 @@
     <td>x122E0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋠</span>
+        <span class="ofs-oobf ofs-200">𒋠</span>
       </p>
     </td>
     <td/>
@@ -4311,7 +4355,7 @@
     <td>x122E1</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋡</span>
+        <span class="ofs-oobf ofs-200">𒋡</span>
       </p>
     </td>
     <td/>
@@ -4322,7 +4366,7 @@
     <td>x122E2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋢</span>
+        <span class="ofs-oobf ofs-200">𒋢</span>
       </p>
     </td>
     <td/>
@@ -4333,7 +4377,7 @@
     <td>x122E4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋤</span>
+        <span class="ofs-oobf ofs-200">𒋤</span>
       </p>
     </td>
     <td/>
@@ -4344,7 +4388,7 @@
     <td>x122E5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋥</span>
+        <span class="ofs-oobf ofs-200">𒋥</span>
       </p>
     </td>
     <td/>
@@ -4355,7 +4399,7 @@
     <td>x122E6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋦</span>
+        <span class="ofs-oobf ofs-200">𒋦</span>
       </p>
     </td>
     <td/>
@@ -4366,7 +4410,7 @@
     <td>xF005B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁛</span>
+        <span class="ofs-oobf ofs-200">󰁛</span>
       </p>
     </td>
     <td/>
@@ -4377,7 +4421,7 @@
     <td>x122E7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋧</span>
+        <span class="ofs-oobf ofs-200">𒋧</span>
       </p>
     </td>
     <td/>
@@ -4388,7 +4432,7 @@
     <td>x122E9</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋩</span>
+        <span class="ofs-oobf ofs-200">𒋩</span>
       </p>
     </td>
     <td/>
@@ -4399,7 +4443,7 @@
     <td>x122EA</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋪</span>
+        <span class="ofs-oobf ofs-200">𒋪</span>
       </p>
     </td>
     <td/>
@@ -4410,7 +4454,7 @@
     <td>x122AD</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊭</span>
+        <span class="ofs-oobf ofs-200">𒊭</span>
       </p>
     </td>
     <td/>
@@ -4421,7 +4465,7 @@
     <td>x122AE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊮</span>
+        <span class="ofs-oobf ofs-200">𒊮</span>
       </p>
     </td>
     <td/>
@@ -4432,7 +4476,7 @@
     <td>x122AF</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊯</span>
+        <span class="ofs-oobf ofs-200">𒊯</span>
       </p>
     </td>
     <td/>
@@ -4443,7 +4487,7 @@
     <td>x122B2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊲</span>
+        <span class="ofs-oobf ofs-200">𒊲</span>
       </p>
     </td>
     <td/>
@@ -4454,7 +4498,7 @@
     <td>x122B4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊴</span>
+        <span class="ofs-oobf ofs-200">𒊴</span>
       </p>
     </td>
     <td/>
@@ -4465,7 +4509,7 @@
     <td>x122B7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊷</span>
+        <span class="ofs-oobf ofs-200">𒊷</span>
       </p>
     </td>
     <td/>
@@ -4476,7 +4520,7 @@
     <td>x1245B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒑛</span>
+        <span class="ofs-oobf ofs-200">𒑛</span>
       </p>
     </td>
     <td/>
@@ -4487,7 +4531,7 @@
     <td>x122B9</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊹</span>
+        <span class="ofs-oobf ofs-200">𒊹</span>
       </p>
     </td>
     <td/>
@@ -4498,7 +4542,7 @@
     <td>x12136</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒄶</span>
+        <span class="ofs-oobf ofs-200">𒄶</span>
       </p>
     </td>
     <td/>
@@ -4509,7 +4553,7 @@
     <td>x122BA</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊺</span>
+        <span class="ofs-oobf ofs-200">𒊺</span>
       </p>
     </td>
     <td/>
@@ -4520,11 +4564,11 @@
     <td/>
     <td>
       <p>
-        <span class="ofs-oobf  ofs-150">𒊺𒋦</span>
+        <span class="ofs-oobf  ofs-200">𒊺𒋦</span>
       </p>
     </td>
     <td>
-      <p>(u122BA_u122E6 = <span class="ofs-oobf ofs-150">𒊺‌𒋦‌</span>)</p>
+      <p>(u122BA_u122E6 = <span class="ofs-oobf ofs-200">𒊺‌𒋦‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4533,11 +4577,11 @@
     <td/>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊺𒋦</span>
+        <span class="ofs-oobf ofs-200">𒊺𒋦</span>
       </p>
     </td>
     <td>
-      <p>(u122BA_u122E6 = <span class="ofs-oobf ofs-150">𒊺‌𒋦‌</span>)</p>
+      <p>(u122BA_u122E6 = <span class="ofs-oobf ofs-200">𒊺‌𒋦‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4546,7 +4590,7 @@
     <td>x122BB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊻</span>
+        <span class="ofs-oobf ofs-200">𒊻</span>
       </p>
     </td>
     <td/>
@@ -4557,11 +4601,11 @@
     <td>x122BA.x12240</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊺𒉀</span>
+        <span class="ofs-oobf ofs-200">𒊺𒉀</span>
       </p>
     </td>
     <td>
-      <p>(u122BA_u12240 = <span class="ofs-oobf ofs-150">𒊺‌𒉀‌</span>)</p>
+      <p>(u122BA_u12240 = <span class="ofs-oobf ofs-200">𒊺‌𒉀‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4570,7 +4614,7 @@
     <td>x12301</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌁</span>
+        <span class="ofs-oobf ofs-200">𒌁</span>
       </p>
     </td>
     <td/>
@@ -4581,7 +4625,7 @@
     <td>x122BD</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊽</span>
+        <span class="ofs-oobf ofs-200">𒊽</span>
       </p>
     </td>
     <td/>
@@ -4592,7 +4636,7 @@
     <td>x122BE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊾</span>
+        <span class="ofs-oobf ofs-200">𒊾</span>
       </p>
     </td>
     <td/>
@@ -4603,7 +4647,7 @@
     <td>x122BF</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒊿</span>
+        <span class="ofs-oobf ofs-200">𒊿</span>
       </p>
     </td>
     <td/>
@@ -4614,7 +4658,7 @@
     <td>x122C0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋀</span>
+        <span class="ofs-oobf ofs-200">𒋀</span>
       </p>
     </td>
     <td/>
@@ -4625,11 +4669,11 @@
     <td>x122C0.x121A0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋀𒆠</span>
+        <span class="ofs-oobf ofs-200">𒋀𒆠</span>
       </p>
     </td>
     <td>
-      <p>(u122C0_u121A0 = <span class="ofs-oobf ofs-150">𒋀‌𒆠‌</span>)</p>
+      <p>(u122C0_u121A0 = <span class="ofs-oobf ofs-200">𒋀‌𒆠‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4638,7 +4682,7 @@
     <td>x122C3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋃</span>
+        <span class="ofs-oobf ofs-200">𒋃</span>
       </p>
     </td>
     <td/>
@@ -4649,7 +4693,7 @@
     <td>x122C4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋄</span>
+        <span class="ofs-oobf ofs-200">𒋄</span>
       </p>
     </td>
     <td/>
@@ -4660,7 +4704,7 @@
     <td>x122C6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋆</span>
+        <span class="ofs-oobf ofs-200">𒋆</span>
       </p>
     </td>
     <td/>
@@ -4671,7 +4715,7 @@
     <td>x122CB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋋</span>
+        <span class="ofs-oobf ofs-200">𒋋</span>
       </p>
     </td>
     <td/>
@@ -4682,7 +4726,7 @@
     <td>xF005E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁞</span>
+        <span class="ofs-oobf ofs-200">󰁞</span>
       </p>
     </td>
     <td/>
@@ -4693,7 +4737,7 @@
     <td>xF0055</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">󰁕</span>
+        <span class="ofs-oobf ofs-200">󰁕</span>
       </p>
     </td>
     <td/>
@@ -4704,7 +4748,7 @@
     <td>x122D2</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋒</span>
+        <span class="ofs-oobf ofs-200">𒋒</span>
       </p>
     </td>
     <td/>
@@ -4715,7 +4759,7 @@
     <td>x122D3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋓</span>
+        <span class="ofs-oobf ofs-200">𒋓</span>
       </p>
     </td>
     <td/>
@@ -4726,7 +4770,7 @@
     <td>x122D6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋖</span>
+        <span class="ofs-oobf ofs-200">𒋖</span>
       </p>
     </td>
     <td/>
@@ -4737,11 +4781,11 @@
     <td>x122D6.x12111</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋖𒄑</span>
+        <span class="ofs-oobf ofs-200">𒋖𒄑</span>
       </p>
     </td>
     <td>
-      <p>(u122D6_u12111 = <span class="ofs-oobf ofs-150">𒋖‌𒄑‌</span>)</p>
+      <p>(u122D6_u12111 = <span class="ofs-oobf ofs-200">𒋖‌𒄑‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4750,7 +4794,7 @@
     <td>x122D7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋗</span>
+        <span class="ofs-oobf ofs-200">𒋗</span>
       </p>
     </td>
     <td/>
@@ -4761,7 +4805,7 @@
     <td>x122D9</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋙</span>
+        <span class="ofs-oobf ofs-200">𒋙</span>
       </p>
     </td>
     <td/>
@@ -4772,11 +4816,11 @@
     <td>x122D9.x1202F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋙𒀯</span>
+        <span class="ofs-oobf ofs-200">𒋙𒀯</span>
       </p>
     </td>
     <td>
-      <p>(u122D9_u1202F = <span class="ofs-oobf ofs-150">𒋙‌𒀯‌</span>)</p>
+      <p>(u122D9_u1202F = <span class="ofs-oobf ofs-200">𒋙‌𒀯‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4785,11 +4829,11 @@
     <td>x122D9.x1202D.x1212F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋙𒀭𒄯</span>
+        <span class="ofs-oobf ofs-200">𒋙𒀭𒄯</span>
       </p>
     </td>
     <td>
-      <p>(u122D9_u1202D_u1212F = <span class="ofs-oobf ofs-150">𒋙‌𒀭‌𒄯‌</span>)</p>
+      <p>(u122D9_u1202D_u1212F = <span class="ofs-oobf ofs-200">𒋙‌𒀭‌𒄯‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4798,11 +4842,11 @@
     <td>x122D9.x1202D.x12132</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋙𒀭𒄲</span>
+        <span class="ofs-oobf ofs-200">𒋙𒀭𒄲</span>
       </p>
     </td>
     <td>
-      <p>(u122D9_u1202D_u12132 = <span class="ofs-oobf ofs-150">𒋙‌𒀭‌𒄲‌</span>)</p>
+      <p>(u122D9_u1202D_u12132 = <span class="ofs-oobf ofs-200">𒋙‌𒀭‌𒄲‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4811,11 +4855,11 @@
     <td>x122D9.x1203E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋙𒀾</span>
+        <span class="ofs-oobf ofs-200">𒋙𒀾</span>
       </p>
     </td>
     <td>
-      <p>(u122D9_u1203E = <span class="ofs-oobf ofs-150">𒋙‌𒀾‌</span>)</p>
+      <p>(u122D9_u1203E = <span class="ofs-oobf ofs-200">𒋙‌𒀾‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4824,7 +4868,7 @@
     <td>x122DA</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋚</span>
+        <span class="ofs-oobf ofs-200">𒋚</span>
       </p>
     </td>
     <td/>
@@ -4835,7 +4879,7 @@
     <td>x1245A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒑚</span>
+        <span class="ofs-oobf ofs-200">𒑚</span>
       </p>
     </td>
     <td/>
@@ -4846,7 +4890,7 @@
     <td>x122EB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋫</span>
+        <span class="ofs-oobf ofs-200">𒋫</span>
       </p>
     </td>
     <td/>
@@ -4857,7 +4901,7 @@
     <td>x122ED</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋭</span>
+        <span class="ofs-oobf ofs-200">𒋭</span>
       </p>
     </td>
     <td/>
@@ -4868,7 +4912,7 @@
     <td>x122F0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋰</span>
+        <span class="ofs-oobf ofs-200">𒋰</span>
       </p>
     </td>
     <td/>
@@ -4879,7 +4923,7 @@
     <td>x122F3</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋳</span>
+        <span class="ofs-oobf ofs-200">𒋳</span>
       </p>
     </td>
     <td/>
@@ -4890,7 +4934,7 @@
     <td>x122F7</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋷</span>
+        <span class="ofs-oobf ofs-200">𒋷</span>
       </p>
     </td>
     <td/>
@@ -4901,7 +4945,7 @@
     <td>x122FA</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋺</span>
+        <span class="ofs-oobf ofs-200">𒋺</span>
       </p>
     </td>
     <td/>
@@ -4912,11 +4956,11 @@
     <td>x122FA.x1214E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋺𒅎</span>
+        <span class="ofs-oobf ofs-200">𒋺𒅎</span>
       </p>
     </td>
     <td>
-      <p>(u122FA_u1214E = <span class="ofs-oobf ofs-150">𒋺‌𒅎‌</span>)</p>
+      <p>(u122FA_u1214E = <span class="ofs-oobf ofs-200">𒋺‌𒅎‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4925,7 +4969,7 @@
     <td>x122FB</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋻</span>
+        <span class="ofs-oobf ofs-200">𒋻</span>
       </p>
     </td>
     <td/>
@@ -4936,7 +4980,7 @@
     <td>x122FC</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋼</span>
+        <span class="ofs-oobf ofs-200">𒋼</span>
       </p>
     </td>
     <td/>
@@ -4947,11 +4991,11 @@
     <td>x122FC.x12000</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋼𒀀</span>
+        <span class="ofs-oobf ofs-200">𒋼𒀀</span>
       </p>
     </td>
     <td>
-      <p>(u122FC_u12000 = <span class="ofs-oobf ofs-150">𒋼‌𒀀‌</span>)</p>
+      <p>(u122FC_u12000 = <span class="ofs-oobf ofs-200">𒋼‌𒀀‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -4960,7 +5004,7 @@
     <td>x122FD</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋽</span>
+        <span class="ofs-oobf ofs-200">𒋽</span>
       </p>
     </td>
     <td/>
@@ -4971,7 +5015,7 @@
     <td>x122FE</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒋾</span>
+        <span class="ofs-oobf ofs-200">𒋾</span>
       </p>
     </td>
     <td/>
@@ -4982,7 +5026,7 @@
     <td>x12300</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌀</span>
+        <span class="ofs-oobf ofs-200">𒌀</span>
       </p>
     </td>
     <td/>
@@ -4993,7 +5037,7 @@
     <td>x12305</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌅</span>
+        <span class="ofs-oobf ofs-200">𒌅</span>
       </p>
     </td>
     <td/>
@@ -5004,7 +5048,7 @@
     <td>x12306</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌆</span>
+        <span class="ofs-oobf ofs-200">𒌆</span>
       </p>
     </td>
     <td/>
@@ -5015,7 +5059,7 @@
     <td>x12307</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌇</span>
+        <span class="ofs-oobf ofs-200">𒌇</span>
       </p>
     </td>
     <td/>
@@ -5026,7 +5070,7 @@
     <td>x12308</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌈</span>
+        <span class="ofs-oobf ofs-200">𒌈</span>
       </p>
     </td>
     <td/>
@@ -5037,7 +5081,7 @@
     <td>x12309</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌉</span>
+        <span class="ofs-oobf ofs-200">𒌉</span>
       </p>
     </td>
     <td/>
@@ -5048,7 +5092,7 @@
     <td>x1230B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋</span>
+        <span class="ofs-oobf ofs-200">𒌋</span>
       </p>
     </td>
     <td/>
@@ -5059,11 +5103,11 @@
     <td/>
     <td>
       <p>
-        <span class="ofs-oobf  ofs-150">𒌋𒉇</span>
+        <span class="ofs-oobf  ofs-200">𒌋𒉇</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u12247 = <span class="ofs-oobf ofs-150">𒌋‌𒉇‌</span>)</p>
+      <p>(u1230B_u12247 = <span class="ofs-oobf ofs-200">𒌋‌𒉇‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5072,11 +5116,11 @@
     <td/>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒉇</span>
+        <span class="ofs-oobf ofs-200">𒌋𒉇</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u12247 = <span class="ofs-oobf ofs-150">𒌋‌𒉇‌</span>)</p>
+      <p>(u1230B_u12247 = <span class="ofs-oobf ofs-200">𒌋‌𒉇‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5085,11 +5129,11 @@
     <td>x1230B.x1201C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒀜</span>
+        <span class="ofs-oobf ofs-200">𒌋𒀜</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u1201C = <span class="ofs-oobf ofs-150">𒌋‌𒀜‌</span>)</p>
+      <p>(u1230B_u1201C = <span class="ofs-oobf ofs-200">𒌋‌𒀜‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5098,11 +5142,11 @@
     <td>x1230B.x12074</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒁴</span>
+        <span class="ofs-oobf ofs-200">𒌋𒁴</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u12074 = <span class="ofs-oobf ofs-150">𒌋‌𒁴‌</span>)</p>
+      <p>(u1230B_u12074 = <span class="ofs-oobf ofs-200">𒌋‌𒁴‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5111,11 +5155,11 @@
     <td>x1230B.x12075</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒁵</span>
+        <span class="ofs-oobf ofs-200">𒌋𒁵</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u12075 = <span class="ofs-oobf ofs-150">𒌋‌𒁵‌</span>)</p>
+      <p>(u1230B_u12075 = <span class="ofs-oobf ofs-200">𒌋‌𒁵‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5124,11 +5168,11 @@
     <td>x1230B.x12099</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒂙</span>
+        <span class="ofs-oobf ofs-200">𒌋𒂙</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u12099 = <span class="ofs-oobf ofs-150">𒌋‌𒂙‌</span>)</p>
+      <p>(u1230B_u12099 = <span class="ofs-oobf ofs-200">𒌋‌𒂙‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5137,11 +5181,11 @@
     <td>x1230B.x120B5</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒂵</span>
+        <span class="ofs-oobf ofs-200">𒌋𒂵</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u120B5 = <span class="ofs-oobf ofs-150">𒌋‌𒂵‌</span>)</p>
+      <p>(u1230B_u120B5 = <span class="ofs-oobf ofs-200">𒌋‌𒂵‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5150,11 +5194,11 @@
     <td>x1230B.x120F6</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒃶</span>
+        <span class="ofs-oobf ofs-200">𒌋𒃶</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u120F6 = <span class="ofs-oobf ofs-150">𒌋‌𒃶‌</span>)</p>
+      <p>(u1230B_u120F6 = <span class="ofs-oobf ofs-200">𒌋‌𒃶‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5163,7 +5207,7 @@
     <td>x1230C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌌</span>
+        <span class="ofs-oobf ofs-200">𒌌</span>
       </p>
     </td>
     <td/>
@@ -5174,11 +5218,11 @@
     <td>x1230B.x12157</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒅗</span>
+        <span class="ofs-oobf ofs-200">𒌋𒅗</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u12157 = <span class="ofs-oobf ofs-150">𒌋‌𒅗‌</span>)</p>
+      <p>(u1230B_u12157 = <span class="ofs-oobf ofs-200">𒌋‌𒅗‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5187,11 +5231,11 @@
     <td>x1230B.x121A4</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒆤</span>
+        <span class="ofs-oobf ofs-200">𒌋𒆤</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u121A4 = <span class="ofs-oobf ofs-150">𒌋‌𒆤‌</span>)</p>
+      <p>(u1230B_u121A4 = <span class="ofs-oobf ofs-200">𒌋‌𒆤‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5200,11 +5244,11 @@
     <td>x1230B.x1222C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒈬</span>
+        <span class="ofs-oobf ofs-200">𒌋𒈬</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u1222C = <span class="ofs-oobf ofs-150">𒌋‌𒈬‌</span>)</p>
+      <p>(u1230B_u1222C = <span class="ofs-oobf ofs-200">𒌋‌𒈬‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5213,11 +5257,11 @@
     <td>x1230B.x1228A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒊊</span>
+        <span class="ofs-oobf ofs-200">𒌋𒊊</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u1228A = <span class="ofs-oobf ofs-150">𒌋‌𒊊‌</span>)</p>
+      <p>(u1230B_u1228A = <span class="ofs-oobf ofs-200">𒌋‌𒊊‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5226,11 +5270,11 @@
     <td>x1230B.x12295</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌋𒊕</span>
+        <span class="ofs-oobf ofs-200">𒌋𒊕</span>
       </p>
     </td>
     <td>
-      <p>(u1230B_u12295 = <span class="ofs-oobf ofs-150">𒌋‌𒊕‌</span>)</p>
+      <p>(u1230B_u12295 = <span class="ofs-oobf ofs-200">𒌋‌𒊕‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5239,7 +5283,7 @@
     <td>x12399</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒎙</span>
+        <span class="ofs-oobf ofs-200">𒎙</span>
       </p>
     </td>
     <td/>
@@ -5250,7 +5294,7 @@
     <td>x1230D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌍</span>
+        <span class="ofs-oobf ofs-200">𒌍</span>
       </p>
     </td>
     <td/>
@@ -5261,7 +5305,7 @@
     <td>x12311</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌑</span>
+        <span class="ofs-oobf ofs-200">𒌑</span>
       </p>
     </td>
     <td/>
@@ -5272,7 +5316,7 @@
     <td>x12312</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌒</span>
+        <span class="ofs-oobf ofs-200">𒌒</span>
       </p>
     </td>
     <td/>
@@ -5283,7 +5327,7 @@
     <td>x12313</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌓</span>
+        <span class="ofs-oobf ofs-200">𒌓</span>
       </p>
     </td>
     <td/>
@@ -5294,7 +5338,7 @@
     <td>x12314</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌔</span>
+        <span class="ofs-oobf ofs-200">𒌔</span>
       </p>
     </td>
     <td/>
@@ -5305,7 +5349,7 @@
     <td>x12317</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌗</span>
+        <span class="ofs-oobf ofs-200">𒌗</span>
       </p>
     </td>
     <td/>
@@ -5316,7 +5360,7 @@
     <td>x1231C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌜</span>
+        <span class="ofs-oobf ofs-200">𒌜</span>
       </p>
     </td>
     <td/>
@@ -5327,7 +5371,7 @@
     <td>x1231D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌝</span>
+        <span class="ofs-oobf ofs-200">𒌝</span>
       </p>
     </td>
     <td/>
@@ -5338,11 +5382,11 @@
     <td>x1231D.x12228</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌝𒈨</span>
+        <span class="ofs-oobf ofs-200">𒌝𒈨</span>
       </p>
     </td>
     <td>
-      <p>(u1231D_u12228 = <span class="ofs-oobf ofs-150">𒌝‌𒈨‌</span>)</p>
+      <p>(u1231D_u12228 = <span class="ofs-oobf ofs-200">𒌝‌𒈨‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5351,7 +5395,7 @@
     <td>x12322</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌢</span>
+        <span class="ofs-oobf ofs-200">𒌢</span>
       </p>
     </td>
     <td/>
@@ -5362,7 +5406,7 @@
     <td>x12323</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌣</span>
+        <span class="ofs-oobf ofs-200">𒌣</span>
       </p>
     </td>
     <td/>
@@ -5373,7 +5417,7 @@
     <td>x12328</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌨</span>
+        <span class="ofs-oobf ofs-200">𒌨</span>
       </p>
     </td>
     <td/>
@@ -5384,7 +5428,7 @@
     <td>x12329</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌩</span>
+        <span class="ofs-oobf ofs-200">𒌩</span>
       </p>
     </td>
     <td/>
@@ -5395,7 +5439,7 @@
     <td>x1232B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌫</span>
+        <span class="ofs-oobf ofs-200">𒌫</span>
       </p>
     </td>
     <td/>
@@ -5406,7 +5450,7 @@
     <td>x12330</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌰</span>
+        <span class="ofs-oobf ofs-200">𒌰</span>
       </p>
     </td>
     <td/>
@@ -5417,7 +5461,7 @@
     <td>x12331</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌱</span>
+        <span class="ofs-oobf ofs-200">𒌱</span>
       </p>
     </td>
     <td/>
@@ -5428,7 +5472,7 @@
     <td>x12334</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌴</span>
+        <span class="ofs-oobf ofs-200">𒌴</span>
       </p>
     </td>
     <td/>
@@ -5439,7 +5483,7 @@
     <td>x12335</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌵</span>
+        <span class="ofs-oobf ofs-200">𒌵</span>
       </p>
     </td>
     <td/>
@@ -5450,7 +5494,7 @@
     <td>x12336</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌶</span>
+        <span class="ofs-oobf ofs-200">𒌶</span>
       </p>
     </td>
     <td/>
@@ -5461,7 +5505,7 @@
     <td>x12337</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌷</span>
+        <span class="ofs-oobf ofs-200">𒌷</span>
       </p>
     </td>
     <td/>
@@ -5472,7 +5516,7 @@
     <td>x12338</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌸</span>
+        <span class="ofs-oobf ofs-200">𒌸</span>
       </p>
     </td>
     <td/>
@@ -5483,7 +5527,7 @@
     <td>x1233A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌺</span>
+        <span class="ofs-oobf ofs-200">𒌺</span>
       </p>
     </td>
     <td/>
@@ -5494,7 +5538,7 @@
     <td>x1233C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌼</span>
+        <span class="ofs-oobf ofs-200">𒌼</span>
       </p>
     </td>
     <td/>
@@ -5505,7 +5549,7 @@
     <td>x1233E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌾</span>
+        <span class="ofs-oobf ofs-200">𒌾</span>
       </p>
     </td>
     <td/>
@@ -5516,7 +5560,7 @@
     <td>x1233F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒌿</span>
+        <span class="ofs-oobf ofs-200">𒌿</span>
       </p>
     </td>
     <td/>
@@ -5527,7 +5571,7 @@
     <td>x12340</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍀</span>
+        <span class="ofs-oobf ofs-200">𒍀</span>
       </p>
     </td>
     <td/>
@@ -5538,7 +5582,7 @@
     <td>x12342</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍂</span>
+        <span class="ofs-oobf ofs-200">𒍂</span>
       </p>
     </td>
     <td/>
@@ -5549,7 +5593,7 @@
     <td>x12347</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍇</span>
+        <span class="ofs-oobf ofs-200">𒍇</span>
       </p>
     </td>
     <td/>
@@ -5560,7 +5604,7 @@
     <td>x1234B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍋</span>
+        <span class="ofs-oobf ofs-200">𒍋</span>
       </p>
     </td>
     <td/>
@@ -5571,7 +5615,7 @@
     <td>x1234E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍎</span>
+        <span class="ofs-oobf ofs-200">𒍎</span>
       </p>
     </td>
     <td/>
@@ -5582,7 +5626,7 @@
     <td>x1234F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍏</span>
+        <span class="ofs-oobf ofs-200">𒍏</span>
       </p>
     </td>
     <td/>
@@ -5593,7 +5637,7 @@
     <td>x12351</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍑</span>
+        <span class="ofs-oobf ofs-200">𒍑</span>
       </p>
     </td>
     <td/>
@@ -5604,7 +5648,7 @@
     <td>x12352</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍒</span>
+        <span class="ofs-oobf ofs-200">𒍒</span>
       </p>
     </td>
     <td/>
@@ -5615,7 +5659,7 @@
     <td>x12355</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍕</span>
+        <span class="ofs-oobf ofs-200">𒍕</span>
       </p>
     </td>
     <td/>
@@ -5626,7 +5670,7 @@
     <td>x1235A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍚</span>
+        <span class="ofs-oobf ofs-200">𒍚</span>
       </p>
     </td>
     <td/>
@@ -5637,7 +5681,7 @@
     <td>x1235C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍜</span>
+        <span class="ofs-oobf ofs-200">𒍜</span>
       </p>
     </td>
     <td/>
@@ -5648,7 +5692,7 @@
     <td>x1235D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍝</span>
+        <span class="ofs-oobf ofs-200">𒍝</span>
       </p>
     </td>
     <td/>
@@ -5659,7 +5703,7 @@
     <td>x1235E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍞</span>
+        <span class="ofs-oobf ofs-200">𒍞</span>
       </p>
     </td>
     <td/>
@@ -5670,7 +5714,7 @@
     <td>x12360</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍠</span>
+        <span class="ofs-oobf ofs-200">𒍠</span>
       </p>
     </td>
     <td/>
@@ -5681,7 +5725,7 @@
     <td>x12362</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍢</span>
+        <span class="ofs-oobf ofs-200">𒍢</span>
       </p>
     </td>
     <td/>
@@ -5692,7 +5736,7 @@
     <td>x12363</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍣</span>
+        <span class="ofs-oobf ofs-200">𒍣</span>
       </p>
     </td>
     <td/>
@@ -5703,7 +5747,7 @@
     <td>x12364</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍤</span>
+        <span class="ofs-oobf ofs-200">𒍤</span>
       </p>
     </td>
     <td/>
@@ -5714,11 +5758,11 @@
     <td>x12364.x12000</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍤𒀀</span>
+        <span class="ofs-oobf ofs-200">𒍤𒀀</span>
       </p>
     </td>
     <td>
-      <p>(u12364_u12000 = <span class="ofs-oobf ofs-150">𒍤‌𒀀‌</span>)</p>
+      <p>(u12364_u12000 = <span class="ofs-oobf ofs-200">𒍤‌𒀀‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5727,11 +5771,11 @@
     <td>x12364.x120A0</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍤𒂠</span>
+        <span class="ofs-oobf ofs-200">𒍤𒂠</span>
       </p>
     </td>
     <td>
-      <p>(u12364_u120A0 = <span class="ofs-oobf ofs-150">𒍤‌𒂠‌</span>)</p>
+      <p>(u12364_u120A0 = <span class="ofs-oobf ofs-200">𒍤‌𒂠‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5740,11 +5784,11 @@
     <td>x12364.x121B8</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍤𒆸</span>
+        <span class="ofs-oobf ofs-200">𒍤𒆸</span>
       </p>
     </td>
     <td>
-      <p>(u12364_u121B8 = <span class="ofs-oobf ofs-150">𒍤‌𒆸‌</span>)</p>
+      <p>(u12364_u121B8 = <span class="ofs-oobf ofs-200">𒍤‌𒆸‌</span>)</p>
     </td>
   </tr>
   <tr>
@@ -5753,7 +5797,7 @@
     <td>x12365</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍥</span>
+        <span class="ofs-oobf ofs-200">𒍥</span>
       </p>
     </td>
     <td/>
@@ -5764,7 +5808,7 @@
     <td>x12368</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍨</span>
+        <span class="ofs-oobf ofs-200">𒍨</span>
       </p>
     </td>
     <td/>
@@ -5775,7 +5819,7 @@
     <td>x12369</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍩</span>
+        <span class="ofs-oobf ofs-200">𒍩</span>
       </p>
     </td>
     <td/>
@@ -5786,7 +5830,7 @@
     <td>x1236A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍪</span>
+        <span class="ofs-oobf ofs-200">𒍪</span>
       </p>
     </td>
     <td/>
@@ -5797,7 +5841,7 @@
     <td>x1236E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒍮</span>
+        <span class="ofs-oobf ofs-200">𒍮</span>
       </p>
     </td>
     <td/>
@@ -5808,7 +5852,7 @@
     <td>x12401</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐁</span>
+        <span class="ofs-oobf ofs-200">𒐁</span>
       </p>
     </td>
     <td/>
@@ -5819,7 +5863,7 @@
     <td>x12402</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐂</span>
+        <span class="ofs-oobf ofs-200">𒐂</span>
       </p>
     </td>
     <td/>
@@ -5830,7 +5874,7 @@
     <td>x1244F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒑏</span>
+        <span class="ofs-oobf ofs-200">𒑏</span>
       </p>
     </td>
     <td/>
@@ -5841,7 +5885,7 @@
     <td>x12450</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒑐</span>
+        <span class="ofs-oobf ofs-200">𒑐</span>
       </p>
     </td>
     <td/>
@@ -5852,7 +5896,7 @@
     <td>x12408</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐈</span>
+        <span class="ofs-oobf ofs-200">𒐈</span>
       </p>
     </td>
     <td/>
@@ -5863,7 +5907,7 @@
     <td>x12409</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐉</span>
+        <span class="ofs-oobf ofs-200">𒐉</span>
       </p>
     </td>
     <td/>
@@ -5874,7 +5918,7 @@
     <td>x1240A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐊</span>
+        <span class="ofs-oobf ofs-200">𒐊</span>
       </p>
     </td>
     <td/>
@@ -5885,7 +5929,7 @@
     <td>x1240B</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐋</span>
+        <span class="ofs-oobf ofs-200">𒐋</span>
       </p>
     </td>
     <td/>
@@ -5896,7 +5940,7 @@
     <td>x1240C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐌</span>
+        <span class="ofs-oobf ofs-200">𒐌</span>
       </p>
     </td>
     <td/>
@@ -5907,7 +5951,7 @@
     <td>x1240D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐍</span>
+        <span class="ofs-oobf ofs-200">𒐍</span>
       </p>
     </td>
     <td/>
@@ -5918,7 +5962,7 @@
     <td>x1240E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐎</span>
+        <span class="ofs-oobf ofs-200">𒐎</span>
       </p>
     </td>
     <td/>
@@ -5929,7 +5973,7 @@
     <td>x12458</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒑘</span>
+        <span class="ofs-oobf ofs-200">𒑘</span>
       </p>
     </td>
     <td/>
@@ -5940,7 +5984,7 @@
     <td>x1242C</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐬</span>
+        <span class="ofs-oobf ofs-200">𒐬</span>
       </p>
     </td>
     <td/>
@@ -5951,7 +5995,7 @@
     <td>x1242D</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐭</span>
+        <span class="ofs-oobf ofs-200">𒐭</span>
       </p>
     </td>
     <td/>
@@ -5962,7 +6006,7 @@
     <td>x1242E</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐮</span>
+        <span class="ofs-oobf ofs-200">𒐮</span>
       </p>
     </td>
     <td/>
@@ -5973,7 +6017,7 @@
     <td>x1240F</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐏</span>
+        <span class="ofs-oobf ofs-200">𒐏</span>
       </p>
     </td>
     <td/>
@@ -5984,7 +6028,7 @@
     <td>x12469</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒑩</span>
+        <span class="ofs-oobf ofs-200">𒑩</span>
       </p>
     </td>
     <td/>
@@ -5995,7 +6039,7 @@
     <td>x12410</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒐐</span>
+        <span class="ofs-oobf ofs-200">𒐐</span>
       </p>
     </td>
     <td/>
@@ -6006,7 +6050,7 @@
     <td>x1246A</td>
     <td>
       <p>
-        <span class="ofs-oobf ofs-150">𒑪</span>
+        <span class="ofs-oobf ofs-200">𒑪</span>
       </p>
     </td>
     <td/>

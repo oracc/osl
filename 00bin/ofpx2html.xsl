@@ -9,7 +9,7 @@
   <xsl:param name="css"/>
   
   <xsl:template match="o:ofp">
-    <table class="pretty">
+    <table class="pretty ofp">
       <xsl:apply-templates select="*[@oid]">
 	<xsl:sort select="@lsort" data-type="number"/>
 	<xsl:sort select="@sort" data-type="number"/>
@@ -39,34 +39,34 @@
       </td>
       <td><xsl:value-of select="@n"/></td>
       <td><xsl:value-of select="@xml:id"/></td>
-      <td><p><span class="{$css} ofs-150"><xsl:value-of select="@utf8"/></span></p></td>
+      <td><p><span class="{$css} ofs-200"><xsl:value-of select="@utf8"/></span></p></td>
       <td>
 	<xsl:if test="@l">
 	  <p>
 	    <xsl:text>(</xsl:text>
 	    <xsl:value-of select="@l"/>
 	    <xsl:text> = </xsl:text>
-	    <span class="{$css} ofs-150"><xsl:value-of select="@zwnj"/></span>
+	    <span class="{$css} ofs-200"><xsl:value-of select="@zwnj"/></span>
 	    <xsl:text>)</xsl:text>
 	  </p>
 	</xsl:if>
       </td>
     </tr>
     <xsl:call-template name="feature">
-      <xsl:with-param name="nodes" select="o:ssets/*"/>
-      <xsl:with-param name="label" select="'sset'"/>
-    </xsl:call-template>
-    <xsl:call-template name="feature">
       <xsl:with-param name="nodes" select="o:salts/*"/>
       <xsl:with-param name="label" select="'salt'"/>
     </xsl:call-template>
     <xsl:call-template name="feature">
-      <xsl:with-param name="nodes" select="o:ligas/*"/>
-      <xsl:with-param name="label" select="'liga'"/>
-    </xsl:call-template>
-    <xsl:call-template name="feature">
       <xsl:with-param name="nodes" select="o:cvnns/*"/>
       <xsl:with-param name="label" select="'cvnn'"/>
+    </xsl:call-template>
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:ssets/*"/>
+      <xsl:with-param name="label" select="'sset'"/>
+    </xsl:call-template>
+    <xsl:call-template name="feature">
+      <xsl:with-param name="nodes" select="o:ligas/*"/>
+      <xsl:with-param name="label" select="'liga'"/>
     </xsl:call-template>
   </xsl:template>
 
@@ -86,7 +86,7 @@
 	</xsl:variable>
 	<td>
 	  <p>
-	    <span class="{$css} {$fcss} ofs-150">
+	    <span class="{$css} {$fcss} ofs-200">
 	      <xsl:choose>
 		<xsl:when test="$label='liga'">
 		  <xsl:value-of select="@utf8"/>
@@ -104,7 +104,7 @@
 	      <xsl:text>(</xsl:text>
 	      <xsl:value-of select="@l"/>
 	      <xsl:text> = </xsl:text>
-	      <span class="{$css} ofs-150"><xsl:value-of select="@zwnj"/></span>
+	      <span class="{$css} ofs-200"><xsl:value-of select="@zwnj"/></span>
 	      <xsl:text>)</xsl:text>
 	    </p>
 	  </xsl:if>
