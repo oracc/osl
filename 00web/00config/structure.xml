@@ -27,10 +27,11 @@
     <struct:page file="opentype-features.xml" id="opentype" type="page">
       <struct:page file="osl-demo.xml" id="demo" type="page"/>
     </struct:page>
-    <struct:page file="fonts/ofs-noto.xml" id="ofs-noto" type="page"/>
+    <struct:page file="fonts/ofs-pc.xml" id="ofs-pc" type="page"/>
     <struct:page file="fonts/ofs-lak.xml" id="ofs-lak" type="page"/>
     <struct:page file="fonts/ofs-rsp.xml" id="ofs-rsp" type="page"/>
     <struct:page file="fonts/ofs-gudea.xml" id="ofs-gudea" type="page"/>
+    <struct:page file="fonts/ofs-noto.xml" id="ofs-noto" type="page"/>
     <struct:page file="fonts/ofs-oobf.xml" id="ofs-oobf" type="page"/>
     <struct:page file="fonts/ofs-nao.xml" id="ofs-nao" type="page"/>
   </struct:page>
