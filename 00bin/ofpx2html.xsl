@@ -19,24 +19,30 @@
 
   <xsl:template match="o:sign">
     <xsl:call-template name="sign-or-liga"/>
-    <xsl:for-each select="o:ligas/*">
-      <xsl:call-template name="sign-or-liga">
+    <!-- 2025-08-14 this seems redundant because o:ligas is processed in sign-or-liga -->
+    <!--
+	<xsl:for-each select="o:ligas/*">
+	<xsl:call-template name="sign-or-liga">
 	<xsl:with-param name="liga" select="true()"/>
-      </xsl:call-template>
-    </xsl:for-each>
+	</xsl:call-template>
+	</xsl:for-each>
+    -->
   </xsl:template>
   
   <xsl:template name="sign-or-liga">
     <xsl:param name="liga" select="false()"/>
     <tr>
-      <td>
-	<xsl:choose>
-	  <xsl:when test="$liga"/>
-	  <xsl:otherwise>
-	    <xsl:value-of select="@list"/>
-	  </xsl:otherwise>
-	</xsl:choose>
-      </td>
+      <xsl:if test="/*/@list">
+	<!-- only use this column if the font is associated with a list -->
+	<td>
+	  <xsl:choose>
+	    <xsl:when test="$liga"/>
+	    <xsl:otherwise>
+	      <xsl:value-of select="@list"/>
+	    </xsl:otherwise>
+	  </xsl:choose>
+	</td>
+      </xsl:if>
       <td><xsl:value-of select="@n"/></td>
       <td><xsl:value-of select="@xml:id"/></td>
       <td><p><span class="{$css} ofs-200"><xsl:value-of select="@utf8"/></span></p></td>
@@ -75,7 +81,9 @@
     <xsl:param name="label"/>
     <xsl:for-each select="$nodes">
       <tr>
-	<td><xsl:value-of select="@list"/></td>
+	<td>
+	  <xsl:value-of select="@list"/>
+	</td>
 	<td class="ofs-feat-r"><xsl:value-of select="$label"/></td>
 	<td><xsl:value-of select="."/></td>
 	<xsl:variable name="fcss">
