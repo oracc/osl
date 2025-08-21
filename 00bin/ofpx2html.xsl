@@ -6,7 +6,7 @@
 
   <xsl:output method="xml" encoding="UTF-8"
 	      omit-xml-declaration="yes" indent="yes"/>
-  <xsl:param name="css"/>
+  <xsl:param name="css" select="'ofs-noto'"/>
   
   <xsl:template match="o:ofp">
     <table class="pretty ofp">
@@ -81,9 +81,11 @@
     <xsl:param name="label"/>
     <xsl:for-each select="$nodes">
       <tr>
-	<td>
-	  <xsl:value-of select="@list"/>
-	</td>
+	<xsl:if test="/*/@list">
+	  <td>
+	    <xsl:value-of select="@list"/>
+	  </td>
+	</xsl:if>
 	<td class="ofs-feat-r"><xsl:value-of select="$label"/></td>
 	<td><xsl:value-of select="."/></td>
 	<xsl:variable name="fcss">
@@ -118,6 +120,13 @@
 	  </xsl:if>
 	</td>
       </tr>
+      <!-- <liga> can have an <aalt> list for things like u12787_u12908_u127FE.liga.cv02 -->
+      <xsl:if test="o:aalt">
+	<xsl:call-template name="feature">
+	  <xsl:with-param name="nodes" select="o:aalt/*"/>
+	  <xsl:with-param name="label" select="'aalt'"/>
+	</xsl:call-template>
+      </xsl:if>
     </xsl:for-each>
   </xsl:template>
   
