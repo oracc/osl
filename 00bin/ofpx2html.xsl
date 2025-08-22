@@ -6,29 +6,32 @@
 
   <xsl:output method="xml" encoding="UTF-8"
 	      omit-xml-declaration="yes" indent="yes"/>
+
   <xsl:param name="css" select="'ofs-noto'"/>
+  <xsl:param name="mode" select="'font'"/>
   
   <xsl:template match="o:ofp">
-    <table class="pretty ofp">
-      <xsl:apply-templates select="*[@oid]">
-	<xsl:sort select="@lsort" data-type="number"/>
-	<xsl:sort select="@sort" data-type="number"/>
-      </xsl:apply-templates>
+    <table class="pretty ofp ofp-{$mode}">
+      <xsl:choose>
+	<xsl:when test="$mode='font'">
+	  <xsl:apply-templates select="*">
+	    <xsl:sort select="@xml:id"/>
+	  </xsl:apply-templates>
+	</xsl:when>
+	<xsl:otherwise>
+	  <xsl:apply-templates select="*[@oid]">
+	    <xsl:sort select="@lsort" data-type="number"/>
+	    <xsl:sort select="@sort" data-type="number"/>
+	  </xsl:apply-templates>
+	</xsl:otherwise>
+      </xsl:choose>
     </table>
   </xsl:template>
 
-  <xsl:template match="o:sign">
+  <xsl:template match="o:sign[not(@lref)]">
     <xsl:call-template name="sign-or-liga"/>
-    <!-- 2025-08-14 this seems redundant because o:ligas is processed in sign-or-liga -->
-    <!--
-	<xsl:for-each select="o:ligas/*">
-	<xsl:call-template name="sign-or-liga">
-	<xsl:with-param name="liga" select="true()"/>
-	</xsl:call-template>
-	</xsl:for-each>
-    -->
   </xsl:template>
-  
+
   <xsl:template name="sign-or-liga">
     <xsl:param name="liga" select="false()"/>
     <tr>
@@ -87,11 +90,24 @@
 	  </td>
 	</xsl:if>
 	<td class="ofs-feat-r"><xsl:value-of select="$label"/></td>
-	<td><xsl:value-of select="."/></td>
+	<td>
+	  <xsl:value-of select="."/>
+	</td>
 	<xsl:variable name="fcss">
 	  <xsl:choose>
-	    <xsl:when test="$label='salt'"><xsl:value-of select="concat('salt',.)"/></xsl:when>
-	    <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
+	    <xsl:when test="$label='aalt'">
+	      <xsl:value-of select="@css"/>
+	    </xsl:when>
+	    <xsl:otherwise>
+	      <xsl:choose>
+		<xsl:when test="$label='salt'">
+		  <xsl:value-of select="concat('salt',.)"/>
+		</xsl:when>
+		<xsl:otherwise>
+		  <xsl:value-of select="."/>
+		</xsl:otherwise>
+	      </xsl:choose>
+	    </xsl:otherwise>
 	  </xsl:choose>
 	</xsl:variable>
 	<td>
@@ -101,6 +117,9 @@
 		<xsl:when test="$label='liga'">
 		  <xsl:value-of select="@utf8"/>
 		</xsl:when>
+		<xsl:when test="$label='aalt'">
+		  <xsl:value-of select="ancestor::o:liga/@utf8"/>
+		</xsl:when>
 		<xsl:otherwise>
 		  <xsl:value-of select="ancestor::o:sign/@utf8"/>
 		</xsl:otherwise>
@@ -109,15 +128,40 @@
 	  </p>
 	</td>
 	<td>
-	  <xsl:if test="@l">
-	    <p>
-	      <xsl:text>(</xsl:text>
-	      <xsl:value-of select="@l"/>
-	      <xsl:text> = </xsl:text>
-	      <span class="{$css} ofs-200"><xsl:value-of select="@zwnj"/></span>
-	      <xsl:text>)</xsl:text>
-	    </p>
-	  </xsl:if>
+	  <xsl:choose>
+	    <xsl:when test="@feat">
+	      <p>
+		<xsl:text>(</xsl:text>
+		<span class="ofp-uhex"><xsl:value-of select="@name"/></span>
+		<xsl:if test="@ref">
+		  <xsl:text> → </xsl:text>
+		  <span class="ofp-uhex"><xsl:value-of select="@ref"/></span>
+		  <xsl:text> = </xsl:text>
+		  <span class="{$css} ofs-150">
+		    <xsl:value-of select="@ref8"/>
+		  </span>
+		</xsl:if>
+		<xsl:text>)</xsl:text>
+	      </p>
+	    </xsl:when>
+	    <xsl:when test="@l">
+	      <p>
+		<xsl:text>(</xsl:text>
+		<span class="ofp-uhex"><xsl:value-of select="@l"/></span>
+		<xsl:text> = </xsl:text>
+		<span class="{$css} ofs-150"><xsl:value-of select="@zwnj"/></span>
+		<xsl:if test="@ref">
+		  <xsl:text> → </xsl:text>
+		  <span class="ofp-uhex"><xsl:value-of select="@ref"/></span>
+		  <xsl:text> = </xsl:text>
+		  <span class="{$css} ofs-150">
+		    <xsl:value-of select="@ref8"/>
+		  </span>
+		</xsl:if>
+		<xsl:text>)</xsl:text>
+	      </p>
+	    </xsl:when>
+	  </xsl:choose>
 	</td>
       </tr>
       <!-- <liga> can have an <aalt> list for things like u12787_u12908_u127FE.liga.cv02 -->
@@ -129,5 +173,7 @@
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
+
+  <xsl:template match="*|text()"/>
   
 </xsl:transform>
