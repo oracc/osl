@@ -1,0 +1,13 @@
+need diagnostic to trap
+
+@sign- |A.GUD×KUR|
+@end sign
+
+@sign |GUD×(A.KUR)|
+.
+.
+@form |A.GUD×KUR|
+.
+
+needs to report "deleted @sign |A.GUD×KUR| still used as @form"
+

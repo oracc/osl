@@ -429,14 +429,6 @@
 @v	addirₓ
 @end sign
 
-@sign- |A.GUD×KUR|
-@oid	o0000673
-@useq	x12000.x12120
-@ucun	𒀀𒄠
-@v-	adar
-@note	The value adar is based on Liebermann, SLOB 136 no.27 who argues that ILDAG₀ is used to write the Akkadian equivalent of ildag (adarum) as a loan in Sumerian.
-@end sign
-
 @sign |A.HA|
 @oid	o0000683
 @useq	x12000.x12129
