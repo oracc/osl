@@ -1,0 +1,17 @@
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>Wedge Order</esp:name>
+  <esp:title>Figure 17.2: “Wedge order in Neo-Assyrian cuneiform”</esp:title>
+  <html>
+    <head/>
+    <body>
+      <p> Download <esp:link url="/osl/downloads/Taylor_Sign_List.pdf">Figure 17.2 (PDF)</esp:link>.
+      </p>
+      
+    <p>These drawings are genericised sketches of signs designed to convey multiple observed instances clearly, not to be accurate copies of specific examples. Neither the exact number of wedges in an array nor the nuances of wedge placement seem to be significant for wedge order. I have nevertheless attempted to document orders in several arrangements for signs where variation occurs. Images of all sources used may be found at the <esp:link url="https://www.britishmuseum.org/collection/">British Museum’s Collection Online resource</esp:link>.</p>
+
+<p>In the wedge order column, ‘B)’ indicates Babylonian script forms. ‘a), b), c)’ etc. serve to allow variant forms to be referenced. They are applied arbitrarily for the convenience of this piece of research only. For the purposes of any future sign list detailing variants, the author would recommend assigning sigla systematically rather than continuing the ones used here. Numbers indicate the order of wedge placement. When a number is repeated, this indicates uncertainty as to the relative order of those wedges. In the sources column, ‘B)’ introduces a section listing tablets in Babylonian script. All such tablets are listed in italics. When variants are recorded in the wedge order column, the same sigla are used in the sources column. The number in brackets refers to the frequency of this order detected in that tablet.
+</p>
+    
+  </body>
+  </html>
+</esp:page>
