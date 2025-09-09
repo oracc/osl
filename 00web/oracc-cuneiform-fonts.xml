@@ -36,6 +36,9 @@
 	<dt><esp:link page="ofs-noto">Oracc Noto</esp:link></dt>
 	<dd>An extremely inclusive font covering all of Unicode
 	cuneiform and more.</dd>
+	<dt><esp:link page="ofs-pc">PCSL</esp:link></dt>
+	<dd>The Proto-Cuneiform font to accompany <esp:link
+	url="http://oracc.org">the PCSL project</esp:link></dd>
 	<dt><esp:link page="ofs-lak">Oracc LAK</esp:link></dt>
 	<dd>Oracc LAK, for an overview of Early Dynastic/Third Millennium sign forms.</dd>
 	<dt><esp:link page="ofs-rsp">Oracc RSP</esp:link></dt>
