@@ -47,8 +47,10 @@
 	<dd>Oracc Gudea, for Gudea sign forms.</dd>
 	<dt><esp:link page="ofs-oobf">Oracc OBF</esp:link></dt>
 	<dd>Oracc OB-Freie, for Old Babylonian sign forms.</dd>
+	<dt><esp:link page="ofs-nni">Nabu-ninua-ihsus</esp:link></dt>
+	<dd>Nabu-ninua-ihsus by Robin Leroy; the recommended Neo-Assyrian font for Oracc.</dd>
 	<dt><esp:link page="ofs-nao">Oracc NA Outline</esp:link></dt>
-	<dd>Oracc NA Outline, for Neo-Assyrian sign forms.</dd>
+	<dd>Oracc NA Outline, an outdated and no longer recommended Neo-Assyrian font.</dd>
       </dl>
       
     </body>

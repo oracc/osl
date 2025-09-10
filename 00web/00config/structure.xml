@@ -34,6 +34,7 @@
     <struct:page file="fonts/ofs-gudea.xml" id="ofs-gudea" type="page"/>
     <struct:page file="fonts/ofs-noto.xml" id="ofs-noto" type="page"/>
     <struct:page file="fonts/ofs-oobf.xml" id="ofs-oobf" type="page"/>
+    <struct:page file="fonts/ofs-nni.xml" id="ofs-nni" type="page"/>
     <struct:page file="fonts/ofs-nao.xml" id="ofs-nao" type="page"/>
   </struct:page>
   <struct:page file="maintainer.xml" id="maintainer" type="page" hide-menu-link="yes"/>

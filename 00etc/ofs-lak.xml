@@ -28,11 +28,9 @@
       url="https://github.com/vkethana/cuneiform_convert">https://github.com/vkethana/cuneiform_convert</esp:link>.</p>
 
       <p>Steve Tinney aligned the SVG filenames with Unicode and
-      created an initial TrueType font from the SVG files.  This font
-      is still under development: it has been roughly resized and
-      recentered but requires further tuning.  Some glyphs from the
-      secondary boxes have been added to the font as salt variants and
-      more will be added in the near future.</p>
+      created an initial TrueType font from the SVG files.  Many
+      glyphs from the secondary boxes have been added to the font as
+      salt variants and more will be added in the near future.</p>
 
       <esp:h>License</esp:h>
 

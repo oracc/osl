@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml">
+  
+  <esp:name>Nabuninuaihsus</esp:name>
+  <esp:title>Nabuninuaihsus: A New Neo-Assyrian Font</esp:title>
+  <esp:url>ofs-nni</esp:url>
+
+  <html>
+    <head/>
+    <body>
+
+      <esp:h>About</esp:h>
+
+      <p>Nabuninuaihsus is a Neo-Assyrian cuneiform font developed
+      by Robin Leroy; it is Oracc's recommended font for Neo-Assyian.</p>
+      
+      <esp:h>Original Font</esp:h>
+
+      <p>The font is the original work of Robin Leroy and is
+      maintained at the GitHub repository <esp:link
+      url="https://github.com/eggrobin/Nabuninuaihsus">https://github.com/eggrobin/Nabuninuaihsus</esp:link>.</p>
+
+      <esp:h>License</esp:h>
+
+      <p>Nabuninuaihsus is licensed under the SIL Open Font License,
+      Version 1.1.</p>
+
+      <esp:h>Download</esp:h>
+
+      <p>The font is downloadable from the GitHub repository <esp:link
+      url="https://github.com/eggrobin/Nabuninuaihsus">https://github.com/eggrobin/Nabuninuaihsus</esp:link>.</p>
+      
+      <dl>
+	<dt>OpenType Version</dt><dd><esp:link url="https://github.com/eggrobin/Nabuninuaihsus/blob/master/Nabuninuaihsus.otf">Nabuninuaihsus.otf</esp:link></dd>
+      </dl>
+
+      <esp:h>CSS</esp:h>
+
+      <p>In Oracc projects the font is selected with the CSS class <code>ofs-nni</code>.</p>
+
+      <esp:h>Contents</esp:h>
+      
+      <!--NOTE: The last three closers must be on the same line-->
+</body></html></esp:page>
