@@ -13,6 +13,7 @@
   </struct:page>
   <struct:page file="sort.xml" id="sort" type="page"/>
   <struct:page file="oracc-cuneiform-fonts.xml" id="o-c-fonts" type="page">
+    <struct:page file="cuneify.xml" id="cuneify" type="page"/>
     <struct:page file="unicode-features.xml" id="unifeat" type="page">
       <struct:page file="oracc-pua.xml" id="oracc-pua" type="page">
 	<struct:link id="osl-pua-91" title="Oracc PUA 9.1" url="/osl/signlist/OraccPUA9.1" target="_top"/>

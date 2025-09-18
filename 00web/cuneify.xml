@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>Cuneify</esp:name>
+  <esp:title>Cuneify</esp:title>
+  <html>
+    <head/>
+    <body>
+      <p>Cuneify (<code>cfy</code>) is the Oracc subsystem for
+      rendering transliterations in cuneiform.  Its primary purpose is
+      to produce online cuneiform versions of Oracc text editions and
+      it can be controlled via the project configuration file, via ATF
+      protocols, and via the <code>period</code> field of project
+      metadata.  At its simplest, Cuneify can auto-configure itself by
+      looking up the <code>period</code> in its table of configuration
+      files.</p>
+
+      <p>At the more complex end of the scale, Cuneify works with the
+      ATF processor to support selecting the cuneiform font down to
+      the level of individual characters as well as selecting
+      font-specific or sign list-specific character variants using
+      graphetics tags.  Given appropriate annotation in the
+      transliteration or in its own configuration files, Cuneify can
+      also lay out cuneiform text in a manner that mimics the
+      originals layout on the manuscript.</p>
+
+      <p>Cuneify implements the ligature recommendations of UTR56.</p>
+
+      <esp:sh>Cuneify Keys</esp:sh>
+
+      <p>Cfy keys (<code>cfy-key</code>) control how cfy renders
+      cuneiform with different fonts (fnt), font-feature-sets (ffs),
+      and an appropriate default magnification for the font (mag). It
+      may also use script (scr) information to manage splits and
+      mergers. A cfy-key also includes a sign list member (asl).</p>
+
+      <!--<p>For TeX the implementation uses macros to achieve the same ends.</p>-->
+
+      <p>A cfy-key is a string where each member is given joined by
+      dashes, using '0' for empty members and '*' for wildcard
+      members, by convention the string always begins with the member
+      <code>cfy</code>:</p>
+
+      <p><code>cfy-gudea-0-150-middle-osl</code></p>
+
+      <p>When cfy reads a text, it starts with a default cfy-key. As
+      it reads configuration data from the various sources the default
+      key is updated and the new data becomes the default.  The '*'
+      value can be used for members that should be inherited from the
+      previous cfy-key; it is usually safer always to specify all members
+      of the cfy-key.</p>
+      
+      <p>In the 'asl' member of the key, the special value '.' means
+      use the project sign list.</p>
+      
+
+      <esp:sh>Cuneify Configuration Options</esp:sh>
+
+      <dl>
+	<dt>cfy-key CFY-KEY</dt>
+	<dd>Set the default cfy-key to CFY-KEY</dd>
+
+	<dt>%FONTSWITCH CFY-KEY</dt>
+	<dd>Associate a FONTSWITCH with a CFY-KEY; FONTSWITCH must match [0-9][0-9]+</dd>
+
+	<dt>cfy-ccf PQXIDS</dt>
+	<dd>Associate a cfy configuration file with a list of one or
+	more P/Q/X-numbers; the numbers may be qualified with a
+	project in the normal format (e.g.,
+	epsd2/admin/ed3a:P010110).</dd>
+	
+	<dt>Subtitutions</dt>
+	<dd><p>Cuneify implements a simple substitution facility. The basic syntax is:</p>
+	<pre>LHS_ELEMENTS '=>' RHS_ELEMENTS '.'</pre>
+	<p>LHS_ELEMENTS are matched against the input and consist of
+	graphemes and other element tokens; note that cfy
+	substitutions only work with transliteration and there is no
+	access to lemmatization.  Special elements are prefixed with
+	<code>&amp;</code>, e.g., <code>&amp;w</code> which matches a
+	word-space element.</p>
+	<p>RHS_ELEMENTS can either be a sequence of elements as for
+	the LHS_ELEMENTS, but they have an additional token type, the
+	reference, expressed with <code>@DIGITS</code>: the reference
+	is replaced with the corresponding LHS_ELEMENT.</p>
+	<p>The UTR56 recommendation to drop a space between adjacent
+	ligatured graphemes which are separate words can thus be
+	expressed in two ways:</p>
+	<pre>saŋ &amp;w ŋal₂ => saŋ ŋal₂ .
+saŋ &amp;w ŋal₂ => @1 @3 .</pre>
+	</dd>
+	
+      </dl>
+      
+      <esp:ssh>Cuneify Configuration Files</esp:ssh>
+
+      <p>Cuneify configuration files have the extension
+      <code>.ccf</code>. System .ccf files are associated with a
+      period in <esp:link
+      url="https://github.com/oracc/oracc2/blob/main/bin/xx/cun/perfnt.g">cfy's
+      internal table of Period::Font data</esp:link>.</p>
+
+      <p>The sequence in which .ccf files are read (or not) is
+      designed to allow configuration of manuscripts in proxy projects
+      even when they have their own embedded rules:</p>
+
+      <ol>
+	<li>Internal configuration data is set up first</li>
+	<li>For CLI an argument .ccf takes precedence</li>
+	<li>Project .ccf</li>
+	<li>Proxy-project .ccf is only read if project .ccf is not found</li>
+	<li>Period .ccf is only read if no .ccf</li>
+	<li>System .ccf is only read if no prior .ccf</li>
+	<li>Text .ccf is looked for in prior .ccf hash of text .ccf</li>
+	<li>Protocol .ccf is only used if no text .ccf was found in prior .ccf hash</li>
+      </ol>
+
+      <esp:ssh>Project Configuration</esp:ssh>
+
+      <p>There is a single project configuration option to specify the
+      name of a cfy configuration file for the project:</p>
+
+      <pre>&lt;option name="cfy-ccf" value="CFY-CCF"/></pre>
+
+      <p>If the CFY-CCF path does not begin with <code>/</code>, it is
+      looked for in the project 00lib directory, then in the system
+      <code>$ORACC/lib/data/</code> directory.</p>
+      
+      <esp:ssh>ATF Protocol Configuration</esp:ssh>      
+
+      <p>There is a single ATF protocol to specify the name of the cfy
+      configuration file for the ATF document:</p>
+
+      <pre>#cfy: ccf CFY-CCF</pre>
+
+      <p>The look-up rules for CFY-CCF are similar to those for
+      project configuration, except that the same directory as the
+      text is checked first, then the build directory for the text (if
+      it is different), i.e., the look-up order is:</p>
+
+      <pre
+>[TEXTDIR]/CFY-CCF
+[ORACC]/bld/[PROJECT]/[FOUR]/[PQX]/CFY-CCF
+[ORACC]/[PROJECT]/00lib/CFY-CCF
+[ORACC]/lib/CFY-CCF</pre>
+      
+       <p>Where <code>[FOUR]</code> is the first four characters of
+       the PQX number, e.g., <code>P010</code>.</p>
+
+      
+      <esp:sh>Cuneify and ATF</esp:sh>
+      
+      <esp:ssh>ATF Font Switches</esp:ssh>
+
+      <p>Font switching in ATF is done with <code>%</code>-commands as
+      with language switching.  All cfy font switches consist of one
+      or more digits 0..9: Oracc reserves single-digit codes for
+      system use, which means that user font switches always consist
+      of two or more digits 0..9.</p>
+
+      <p>Each cfy font switch must be associated with a cfy-key; this
+      association may be made in any of the cfy configuration loci,
+      but the effect of a cfy-key selected via a font switch is local:
+      it lasts only until the next font switch or the end of the
+      current grapheme-group, cell or line.  The special font switch
+      <code>%00</code> terminates the local cfy-key selection.</p>
+
+      <esp:ssh>ATF Character Variant Selection</esp:ssh>
+
+      <esp:ssh>ATF Ligature Selection and Suppression</esp:ssh>
+
+      <esp:ssh>HTML Class and CSS Implementation</esp:ssh>
+
+      <p>The fnt, fss, and scr members must all be predefined in p4-cuneify.css.</p>
+      
+      <esp:sh>Command-line Invocation</esp:sh>
+      
+      <esp:ssh>Coverage Checking</esp:ssh>
+      
+    </body>
+  </html>
+</esp:page>
