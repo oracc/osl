@@ -20,8 +20,8 @@
       font-specific or sign list-specific character variants using
       graphetics tags.  Given appropriate annotation in the
       transliteration or in its own configuration files, Cuneify can
-      also lay out cuneiform text in a manner that mimics the
-      originals layout on the manuscript.</p>
+      also lay out cuneiform text in a manner that partially but
+      imperfectly mimics the original.</p>
 
       <p>Cuneify implements the ligature recommendations of UTR56.</p>
 
@@ -71,6 +71,12 @@
 	epsd2/admin/ed3a:P010110). Entries can be separated by any
 	combination of white space, and the list must be terminated by
 	a period, '.'.</dd>
+
+	<dt>cfy-format &amp;FORMAT_ELEMENT</dt>
+	<dd>This allows a FORMAT_ELEMENT to be specified for an entire
+	configuration; most elements can only be specified in
+	Substitutions.  See the section Format Elements for a list of
+	allowable elements.</dd>
 	
 	<dt>Subtitutions</dt>
 	<dd><p>Cuneify implements a simple substitution facility. The basic syntax is:</p>
@@ -82,9 +88,10 @@
 	<code>&amp;</code>, e.g., <code>&amp;w</code> which matches a
 	word-space element.</p>
 	<p>RHS_ELEMENTS can either be a sequence of elements as for
-	the LHS_ELEMENTS, but they have an additional token type, the
-	reference, expressed with <code>@DIGITS</code>: the reference
-	is replaced with the corresponding LHS_ELEMENT.</p>
+	the LHS_ELEMENTS, but they have an additional element type,
+	the assignment.  The target of the assignment is expressed
+	with <code>@DIGITS</code>.  In the simple case the target is
+	replaced with the corresponding LHS_ELEMENT.</p>
 	<p>The UTR56 recommendation to drop a space between adjacent
 	ligatured graphemes which are separate words can thus be
 	expressed in two ways:</p>
@@ -145,9 +152,97 @@ saŋ &amp;w ŋal₂ => @1 @3 .</pre>
 [ORACC]/[PROJECT]/00lib/CFY-CCF
 [ORACC]/lib/CFY-CCF</pre>
       
-       <p>Where <code>[FOUR]</code> is the first four characters of
-       the PQX number, e.g., <code>P010</code>.</p>
+      <p>Where <code>[FOUR]</code> is the first four characters of
+      the PQX number, e.g., <code>P010</code>.</p>
 
+      <esp:sh>Elements</esp:sh>
+      
+      <esp:ssh>Common Elements</esp:ssh>
+
+      <p>Common elements can occur on the left hand side (LHS) and
+      right hand side (RHS) of substitutions.</p>
+      
+      <dl>
+	<dt>Grapheme</dt>
+	<dd>Graphemes may be given as signs or values; signs match
+	against the value of g:sign in the XTF, i.e., they must match
+	canoninical @sign values from the current sign list.</dd>
+	<dt>&amp;w</dt>
+	<dd>A word-space element</dd>
+	<dt>&amp;r</dt>
+	<dd>A soft return, equivalent to ';' in ATF</dd>
+	<dt>&amp;j</dt>
+	<dd>ZWJ</dd>
+	<dt>&amp;n</dt>
+	<dd>ZWNJ</dd>
+	<dt>&amp;s</dt>
+	<dd>Zero-width space</dd>
+      </dl>
+      
+      <esp:ssh>RHS Elements</esp:ssh>
+
+      <p>In addition to the common elements, RHS elements may include
+      assignments.  A simple assignment consists of @digits, where the
+      digits give the index of an LHS element.</p>
+
+      <p>There is provision in the configuration grammar for assigning
+      values in an assignment but this is not yet fully implemented
+      and it is not clear that it will be necessary.</p>
+      
+      <esp:sh>Fomatting Elements</esp:sh>
+
+      <p>There are two groups of formatting elements: ruling elements
+      and justification elements.  The justification elements are
+      mutually exclusive: only one can be active at any given time.
+      The ruling elements are independent; none, any, or all of them
+      can be active.</p>
+
+      <p>Formatting elements are normally given with the cfy-format
+      keyword, with a separate cfy-format line in the config file for
+      each formatting element.</p>
+
+      <p>Justification elements can also be given in substitutions;
+      ruling elements may not.</p>
+
+      <esp:ssh>Formatting Options and Elements</esp:ssh>
+
+      <p>Justification formatting has two versions: a keyword for use
+      with <code>cfy-format</code> and an element-style with
+      <code>&amp;</code> for use in substitutions.</p>
+      
+      <table class="pretty">
+	<thead>
+	  <tr><th>Option</th><th>Element</th><th>Description</th></tr>
+	</thead>
+	<tbody>
+	  <tr><th colspan="3" style="text-align: center">Justification Options</th></tr>
+	  <tr><td>left</td><td>&amp;Jl</td><td>Left-aligned</td></tr>
+	  <tr><td>right</td><td>&amp;Jr</td><td>Right-aligned</td></tr>
+	  <tr><td>centre</td><td>&amp;Jc</td><td>Center-aligned</td></tr>
+	  <tr><td>spread</td><td>&amp;Js</td><td>Justified across the line
+	  on word boundaries; this is Cuneify's default</td></tr>
+	  <tr><td>penult</td><td>&amp;Jp</td><td>As for
+	  <code>spread</code>, but with an additional block of space
+	  before the last word</td></tr>
+	  <tr><td>char-spread</td><td>&amp;Jcs</td><td>Justified
+	  across the line along character boundaries. This is intended
+	  only for specific display effects and should not be used
+	  generally.  It is implemented by inserting spaces between
+	  characters of the same word or compound sign.  Ideally we
+	  would use <code>text-justify</code> but this is only
+	  supported in FireFox and may be dropped from CSS.</td></tr>
+	  <tr><td>char-penult</td><td>&amp;Jcp</td><td>As for
+	  <code>char-spread</code> but with an extra block of space
+	  before the last character.  This applies to compound signs
+	  as well.</td></tr>
+	</tbody>
+	<tbody>
+	  <tr><th colspan="3" style="text-align: center">Ruling Options</th></tr>
+	  <tr><td>boxed</td><td>n/a</td><td>Box the text with a thick ruling</td></tr>
+	  <tr><td>colrule</td><td>n/a</td><td>Provide gutter rules between columns</td></tr>
+	  <tr><td>ruled</td><td>n/a</td><td>Provide a light ruling between lines</td></tr>
+	</tbody>
+      </table>
       
       <esp:sh>Cuneify and ATF</esp:sh>
       
