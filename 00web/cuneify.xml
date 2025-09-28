@@ -25,6 +25,10 @@
 
       <p>Cuneify implements the ligature recommendations of UTR56.</p>
 
+      <p>There is a <esp:link url="./demo/">test/demo page</esp:link>
+      that also functions as a quick reference for Cuneify's
+      features.</p>
+
       <esp:sh>Cuneify Keys</esp:sh>
 
       <p>Cfy keys (<code>cfy-key</code>) control how cfy renders
@@ -225,12 +229,10 @@ saŋ &amp;w ŋal₂ => @1 @3 .</pre>
 	  <code>spread</code>, but with an additional block of space
 	  before the last word</td></tr>
 	  <tr><td>char-spread</td><td>&amp;Jcs</td><td>Justified
-	  across the line along character boundaries. This is intended
-	  only for specific display effects and should not be used
-	  generally.  It is implemented by inserting spaces between
-	  characters of the same word or compound sign.  Ideally we
-	  would use <code>text-justify</code> but this is only
-	  supported in FireFox and may be dropped from CSS.</td></tr>
+	  across the line along character boundaries.  This is
+	  implemented with CSS trickery because
+	  <code>text-justify</code> is only supported in FireFox and
+	  may be dropped from CSS.</td></tr>
 	  <tr><td>char-penult</td><td>&amp;Jcp</td><td>As for
 	  <code>char-spread</code> but with an extra block of space
 	  before the last character.  This applies to compound signs
