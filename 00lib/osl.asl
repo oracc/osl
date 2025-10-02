@@ -51772,9 +51772,9 @@
 @form 7(AŠ@t)
 @aka 7(DIŠ@t)
 @oid o0038129
-@upua	U+F000B
-@ucun	󰀋
-@uage	9.1
+@list	U+1246F
+@ucun	𒑯
+@uage	L2/24-270
 @v 7(aš@t)
 @v 7(diš@t)
 @@
@@ -51804,9 +51804,9 @@
 @form 8(AŠ@t)
 @aka 8(DIŠ@t)
 @oid o0038127
-@upua	U+F000C
-@ucun	󰀌
-@uage	9.1
+@list	U+12475
+@ucun	𒑵
+@uage	L2/24-270
 @v 8(aš@t)
 @v 8(diš@t)
 @@
@@ -51836,9 +51836,9 @@
 @form 9(AŠ@t)
 @aka 9(DIŠ@t)
 @oid o0038126
-@upua	U+F000D
-@ucun	󰀍
-@uage	9.1
+@list	U+12476
+@ucun	𒑶
+@uage	L2/24-270
 @v 9(aš@t)
 @v 9(diš@t)
 @@
@@ -52588,9 +52588,9 @@
 @oid	o0223341
 @aka	1(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0000
-@ucun	󰀀
-@uage	9.1
+@list	U+12477
+@ucun	𒑷
+@uage	L2/24-270
 @form 1(|BAD×DIŠ@t|)
 @oid	o0038143
 @aka	1(|BAD×AŠ@t|)
@@ -52606,9 +52606,9 @@
 @oid	o0223342
 @aka	2(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0001
-@ucun	󰀁
-@uage	9.1
+@list	U+12478
+@ucun	𒑸
+@uage	L2/24-270
 @end sign
 
 @sign 3(|AŠ×DIŠ@t|)
@@ -52616,36 +52616,36 @@
 @oid	o0223343
 @aka	3(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0002
-@ucun	󰀂
-@uage	9.1
+@list	U+12479
+@ucun	𒑹
+@uage	L2/24-270
 @end sign
 
 @sign 4(|AŠ×DIŠ@t|)
 @oid	o0223344
 @aka	4(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0003
-@ucun	󰀃
-@uage	9.1
+@list	U+1247A
+@ucun	𒑺
+@uage	L2/24-270
 @end sign
 
 @sign 5(|AŠ×DIŠ@t|)
 @oid	o0223345
 @aka	5(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0004
-@ucun	󰀄
-@uage	9.1
+@list	U+1247B
+@ucun	𒑻
+@uage	L2/24-270
 @end sign
 
 @sign 6(|AŠ×DIŠ@t|)
 @oid	o0223346
 @aka	6(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0005
-@ucun	󰀅
-@uage	9.1
+@list	U+1247C
+@ucun	𒑼
+@uage	L2/24-270
 @form 6(|BAD×DIŠ@t|)
 @oid	o0038174
 @aka	6(|BAD×AŠ@t|)
@@ -52659,9 +52659,9 @@
 @oid	o0223347
 @aka	7(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0006
-@ucun	󰀆
-@uage	9.1
+@list	U+1247D
+@ucun	𒑽
+@uage	L2/24-270
 @form 7(|BAD×DIŠ@t|)
 @oid	o0038141
 @aka	7(|BAD×AŠ@t|)
@@ -52675,9 +52675,9 @@
 @oid	o0223348
 @aka	8(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0007
-@ucun	󰀇
-@uage	9.1
+@list	U+1247E
+@ucun	𒑾
+@uage	L2/24-270
 @form 8(|BAD×DIŠ@t|)
 @oid	o0038293
 @aka	8(|BAD×AŠ@t|)
@@ -52691,9 +52691,9 @@
 @oid	o0223349
 @aka	9(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0008
-@ucun	󰀈
-@uage	9.1
+@list	U+1247F
+@ucun	𒑿
+@uage	L2/24-270
 @end sign
 
 @sign 2(|GEŠU@c×KASKAL|)
