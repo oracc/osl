@@ -48,14 +48,14 @@
       </xsl:if>
       <td><xsl:value-of select="@n"/></td>
       <td><xsl:value-of select="@xml:id"/></td>
-      <td><p><span class="{$css} ofs-200"><xsl:value-of select="@utf8"/></span></p></td>
+      <td><p><span class="{$css} ofs-150"><xsl:value-of select="@utf8"/></span></p></td>
       <td>
 	<xsl:if test="@l">
 	  <p>
 	    <xsl:text>(</xsl:text>
 	    <xsl:value-of select="@l"/>
 	    <xsl:text> = </xsl:text>
-	    <span class="{$css} ofs-200"><xsl:value-of select="@zwnj"/></span>
+	    <span class="{$css} ofs-150"><xsl:value-of select="@zwnj"/></span>
 	    <xsl:text>)</xsl:text>
 	  </p>
 	</xsl:if>
@@ -112,7 +112,7 @@
 	</xsl:variable>
 	<td>
 	  <p>
-	    <span class="{$css} {$fcss} ofs-200">
+	    <span class="{$css} {$fcss} ofs-150">
 	      <xsl:choose>
 		<xsl:when test="$label='liga'">
 		  <xsl:value-of select="@utf8"/>
