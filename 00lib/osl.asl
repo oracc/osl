@@ -116,7 +116,7 @@
 	https://en.wikipedia.org/wiki/List_of_cuneiform_signs]
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
-	 0x1236F-0x12399 0x12463-0x1246E 0x12480-0x12543 0x12474
+	 0x1236F-0x12399 0x12463-0x1247F 0x12480-0x12543 0x12474
 	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF009B
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
@@ -4702,6 +4702,8 @@
 @end sign
 
 @sign |BAD×DIŠ@t|
+@aka	1(|BAD×DIŠ@t|)
+@aka	1(|BAD×AŠ@t|)
 @list	LAK045
 @oid	o0000897
 @uname	CUNEIFORM SIGN BAD TIMES DISH TENU
@@ -4710,6 +4712,12 @@
 @uage	8.0
 @link	eBL |BAD×DIŠ@t| https://www.ebl.lmu.de/signs/|BAD×DIŠ@t|
 @link	Wikidata Q87557098 http://www.wikidata.org/entity/Q87557098
+@inote	This sign is unattested as a numeral but is needed to handle
+	n(|BAD×AŠ@t|) which occurs in ED3b.
+	As noted in L2/24-270, if it were attested as a numeral, it would be unifiable
+	with U+12483 BAD×DIŠ@t, which is attested in ED Lu A, see
+	http://oracc.org/dcclt/Q000003.12?block=sb.Q000003.12.
+	o0038143 merged with this item 20251002
 @end sign
 
 @compoundonly	|BAD×U|
@@ -52599,18 +52607,6 @@
 @ucun	𒑷
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES ONE DISH TENU
 @uage	L2/24-270
-@form 1(|BAD×DIŠ@t|)
-@oid	o0038143
-@aka	1(|BAD×AŠ@t|)
-@inote	This sign is unattested as a numeral but is needed to handle
-	n(|BAD×AŠ@t|) which occurs in ED3b.
-	As noted in L2/24-270, if it were attested as a numeral, it would be unifiable
-	with U+12483 BAD×DIŠ@t, which is attested in ED Lu A, see
-	http://oracc.org/dcclt/Q000003.12?block=sb.Q000003.12.
-@list	U+12483
-@ucun	𒒃
-@uage	8.0
-@@
 @end sign
 
 @sign 2(|AŠ×DIŠ@t|)
