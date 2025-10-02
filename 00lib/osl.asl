@@ -51774,6 +51774,7 @@
 @oid o0038129
 @list	U+1246F
 @ucun	𒑯
+@uname	CUNEIFORM NUMERIC SIGN SEVEN ASH TENU
 @uage	L2/24-270
 @v 7(aš@t)
 @v 7(diš@t)
@@ -51806,6 +51807,7 @@
 @oid o0038127
 @list	U+12475
 @ucun	𒑵
+@uname	CUNEIFORM NUMERIC SIGN EIGHT ASH TENU
 @uage	L2/24-270
 @v 8(aš@t)
 @v 8(diš@t)
@@ -51838,6 +51840,7 @@
 @oid o0038126
 @list	U+12476
 @ucun	𒑶
+@uname	CUNEIFORM NUMERIC SIGN NINE ASH TENU
 @uage	L2/24-270
 @v 9(aš@t)
 @v 9(diš@t)
