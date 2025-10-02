@@ -51772,9 +51772,10 @@
 @form 7(AŠ@t)
 @aka 7(DIŠ@t)
 @oid o0038129
-@upua	U+F000B
-@ucun	󰀋
-@uage	9.1
+@list	U+1246F
+@ucun	𒑯
+@uname	CUNEIFORM NUMERIC SIGN SEVEN ASH TENU
+@uage	L2/24-270
 @v 7(aš@t)
 @v 7(diš@t)
 @@
@@ -51804,9 +51805,10 @@
 @form 8(AŠ@t)
 @aka 8(DIŠ@t)
 @oid o0038127
-@upua	U+F000C
-@ucun	󰀌
-@uage	9.1
+@list	U+12475
+@ucun	𒑵
+@uname	CUNEIFORM NUMERIC SIGN EIGHT ASH TENU
+@uage	L2/24-270
 @v 8(aš@t)
 @v 8(diš@t)
 @@
@@ -51836,9 +51838,10 @@
 @form 9(AŠ@t)
 @aka 9(DIŠ@t)
 @oid o0038126
-@upua	U+F000D
-@ucun	󰀍
-@uage	9.1
+@list	U+12476
+@ucun	𒑶
+@uname	CUNEIFORM NUMERIC SIGN NINE ASH TENU
+@uage	L2/24-270
 @v 9(aš@t)
 @v 9(diš@t)
 @@
@@ -52591,14 +52594,18 @@
 @list	U+12477
 @ucun	𒑷
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES ONE DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @form 1(|BAD×DIŠ@t|)
 @oid	o0038143
 @aka	1(|BAD×AŠ@t|)
-@inote	This sign is unattested but is needed to handle n(|BAD×AŠ@t|) which occurs in ED3b
-@upua	U+F000E
-@ucun	󰀎
-@uage	9.1
+@inote	This sign is unattested as a numeral but is needed to handle
+	n(|BAD×AŠ@t|) which occurs in ED3b.
+	As noted in L2/24-270, if it were attested as a numeral, it would be unifiable
+	with U+12483 BAD×DIŠ@t, which is attested in ED Lu A, see
+	http://oracc.org/dcclt/Q000003.12?block=sb.Q000003.12.
+@list	U+12483
+@ucun	𒒃
+@uage	8.0
 @@
 @end sign
 
@@ -52610,7 +52617,7 @@
 @list	U+12478
 @ucun	𒑸
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES TWO DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @end sign
 
 @sign 3(|AŠ×DIŠ@t|)
@@ -52621,7 +52628,7 @@
 @list	U+12479
 @ucun	𒑹
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES THREE DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @end sign
 
 @sign 4(|AŠ×DIŠ@t|)
@@ -52631,7 +52638,7 @@
 @list	U+1247A
 @ucun	𒑺
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES FOUR DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @end sign
 
 @sign 5(|AŠ×DIŠ@t|)
@@ -52641,7 +52648,7 @@
 @list	U+1247B
 @ucun	𒑻
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES FIVE DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @end sign
 
 @sign 6(|AŠ×DIŠ@t|)
@@ -52651,7 +52658,7 @@
 @list	U+1247C
 @ucun	𒑼
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES SIX DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @form 6(|BAD×DIŠ@t|)
 @oid	o0038174
 @aka	6(|BAD×AŠ@t|)
@@ -52668,7 +52675,7 @@
 @list	U+1247D
 @ucun	𒑽
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES SEVEN DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @form 7(|BAD×DIŠ@t|)
 @oid	o0038141
 @aka	7(|BAD×AŠ@t|)
@@ -52685,7 +52692,7 @@
 @list	U+1247E
 @ucun	𒑾
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES EIGHT DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @form 8(|BAD×DIŠ@t|)
 @oid	o0038293
 @aka	8(|BAD×AŠ@t|)
@@ -52702,7 +52709,7 @@
 @list	U+1247F
 @ucun	𒑿
 @uname	CUNEIFORM NUMERIC SIGN ASH TIMES NINE DISH TENU
-@uage	9.1
+@uage	L2/24-270
 @end sign
 
 @sign 2(|GEŠU@c×KASKAL|)
