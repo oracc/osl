@@ -52590,6 +52590,7 @@
 @list	RSP093
 @list	U+12477
 @ucun	𒑷
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES ONE DISH TENU
 @uage	L2/24-270
 @form 1(|BAD×DIŠ@t|)
 @oid	o0038143
@@ -52612,6 +52613,7 @@
 @list	RSP093
 @list	U+12478
 @ucun	𒑸
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES TWO DISH TENU
 @uage	L2/24-270
 @end sign
 
@@ -52622,6 +52624,7 @@
 @list	RSP093
 @list	U+12479
 @ucun	𒑹
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES THREE DISH TENU
 @uage	L2/24-270
 @end sign
 
@@ -52631,6 +52634,7 @@
 @list	RSP093
 @list	U+1247A
 @ucun	𒑺
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES FOUR DISH TENU
 @uage	L2/24-270
 @end sign
 
@@ -52640,6 +52644,7 @@
 @list	RSP093
 @list	U+1247B
 @ucun	𒑻
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES FIVE DISH TENU
 @uage	L2/24-270
 @end sign
 
@@ -52649,6 +52654,7 @@
 @list	RSP093
 @list	U+1247C
 @ucun	𒑼
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES SIX DISH TENU
 @uage	L2/24-270
 @form 6(|BAD×DIŠ@t|)
 @oid	o0038174
@@ -52665,6 +52671,7 @@
 @list	RSP093
 @list	U+1247D
 @ucun	𒑽
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES SEVEN DISH TENU
 @uage	L2/24-270
 @form 7(|BAD×DIŠ@t|)
 @oid	o0038141
@@ -52681,6 +52688,7 @@
 @list	RSP093
 @list	U+1247E
 @ucun	𒑾
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES EIGHT DISH TENU
 @uage	L2/24-270
 @form 8(|BAD×DIŠ@t|)
 @oid	o0038293
@@ -52697,6 +52705,7 @@
 @list	RSP093
 @list	U+1247F
 @ucun	𒑿
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES NINE DISH TENU
 @uage	L2/24-270
 @end sign
 
