@@ -52588,8 +52588,9 @@
 @oid	o0223341
 @aka	1(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0000
-@ucun	󰀀
+@list	U+12477
+@ucun	𒑷
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES ONE DISH TENU
 @uage	9.1
 @form 1(|BAD×DIŠ@t|)
 @oid	o0038143
@@ -52606,8 +52607,9 @@
 @oid	o0223342
 @aka	2(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0001
-@ucun	󰀁
+@list	U+12478
+@ucun	𒑸
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES TWO DISH TENU
 @uage	9.1
 @end sign
 
@@ -52616,8 +52618,9 @@
 @oid	o0223343
 @aka	3(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0002
-@ucun	󰀂
+@list	U+12479
+@ucun	𒑹
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES THREE DISH TENU
 @uage	9.1
 @end sign
 
@@ -52625,8 +52628,9 @@
 @oid	o0223344
 @aka	4(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0003
-@ucun	󰀃
+@list	U+1247A
+@ucun	𒑺
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES FOUR DISH TENU
 @uage	9.1
 @end sign
 
@@ -52634,8 +52638,9 @@
 @oid	o0223345
 @aka	5(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0004
-@ucun	󰀄
+@list	U+1247B
+@ucun	𒑻
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES FIVE DISH TENU
 @uage	9.1
 @end sign
 
@@ -52643,8 +52648,9 @@
 @oid	o0223346
 @aka	6(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0005
-@ucun	󰀅
+@list	U+1247C
+@ucun	𒑼
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES SIX DISH TENU
 @uage	9.1
 @form 6(|BAD×DIŠ@t|)
 @oid	o0038174
@@ -52659,8 +52665,9 @@
 @oid	o0223347
 @aka	7(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0006
-@ucun	󰀆
+@list	U+1247D
+@ucun	𒑽
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES SEVEN DISH TENU
 @uage	9.1
 @form 7(|BAD×DIŠ@t|)
 @oid	o0038141
@@ -52675,8 +52682,9 @@
 @oid	o0223348
 @aka	8(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0007
-@ucun	󰀇
+@list	U+1247E
+@ucun	𒑾
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES EIGHT DISH TENU
 @uage	9.1
 @form 8(|BAD×DIŠ@t|)
 @oid	o0038293
@@ -52691,8 +52699,9 @@
 @oid	o0223349
 @aka	9(|AŠ×AŠ@t|)
 @list	RSP093
-@upua	U+F0008
-@ucun	󰀈
+@list	U+1247F
+@ucun	𒑿
+@uname	CUNEIFORM NUMERIC SIGN ASH TIMES NINE DISH TENU
 @uage	9.1
 @end sign
 
