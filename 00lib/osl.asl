@@ -46457,6 +46457,10 @@
 @ucun	𒌙
 @uage	5.0
 @note	UD@g is simply the early form of MURUB₄.
+	This character is needed to represent the “unsichere Rekonstruktion”
+	used as the Neo-Assyrian glyph for MZL542.
+	Ordinary MURUB₄ should be represented as U+12318; third millennium fonts
+	should use an UD@g glyph for U+12318.
 @end sign
 
 @sign	MURUB₄
