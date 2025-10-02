@@ -52594,10 +52594,14 @@
 @form 1(|BAD×DIŠ@t|)
 @oid	o0038143
 @aka	1(|BAD×AŠ@t|)
-@inote	This sign is unattested but is needed to handle n(|BAD×AŠ@t|) which occurs in ED3b
-@upua	U+F000E
-@ucun	󰀎
-@uage	9.1
+@inote	This sign is unattested as a numeral but is needed to handle
+	n(|BAD×AŠ@t|) which occurs in ED3b.
+	As noted in L2/24-270, if it were attested as a numeral, it would be unifiable
+	with U+12483 BAD×DIŠ@t, which is attested in ED Lu A, see
+	http://oracc.org/dcclt/Q000003.12?block=sb.Q000003.12.
+@list	U+12483
+@ucun	𒒃
+@uage	8.0
 @@
 @end sign
 
