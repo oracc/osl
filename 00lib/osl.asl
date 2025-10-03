@@ -27711,13 +27711,6 @@
 @uage	9.2
 @end sign
 
-@sign LAK607
-@list	LAK607
-@oid	o0000401
-@list	ELLES298
-@link	eBL LAK607 https://www.ebl.lmu.de/signs/LAK607
-@end sign
-
 @sign LAK608
 @list	LAK608
 @oid	o0000402
@@ -30488,7 +30481,7 @@
 @oid	o0000454
 @list	ABZL112a
 @list	BAU077
-@list	ELLES071
+@list	ELLES298
 @list	GCSL260
 @list	HZL112
 @list	LAK607
@@ -46627,6 +46620,7 @@
 @list	ASY100
 @oid	o0000571
 @list	ABZL113
+@list	ELLES071
 @list	GCSL062
 @list	HZL098
 @list	KWU189
