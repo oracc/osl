@@ -30752,7 +30752,7 @@
 @link	Wikidata Q87556114 http://www.wikidata.org/entity/Q87556114
 @form |MU.MU|
 @oid	o0031772
-@inote	MEE 15 41+ r iii' 10'
+@inote	MEE 15 41+ r iii' 10'; CBS 9666 [P264984] 4'
 @useq	x1222C.x1222C
 @ucun	𒈬𒈬
 @@
