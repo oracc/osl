@@ -24033,6 +24033,12 @@
 @sys	Attinger kuŋ₂ => kun
 @link	eBL KUN https://www.ebl.lmu.de/signs/KUN
 @link	Wikidata Q87555865 http://www.wikidata.org/entity/Q87555865
+@form MAŠ₂@g
+@oid	o0027568
+@list	KWU108
+@list	LAK044
+@ref	kun in http://oracc.org/epsd2/P110280.54.2
+@@
 @form MAŠ₂
 @list	LAK043
 @list	ASY050
@@ -30382,12 +30388,6 @@
 @useq	x12227.x1222A
 @ucun	𒈧𒈪
 @v	zagarₓ
-@end sign
-
-@sign MAŠ₂@g
-@list	LAK044
-@oid	o0027568
-@inote	for lak.atf
 @end sign
 
 @sign ME
