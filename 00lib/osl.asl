@@ -26941,12 +26941,6 @@
 @uage	9.2
 @end sign
 
-@sign LAK120
-@list	LAK120
-@oid	o0000312
-@link	eBL LAK120 https://www.ebl.lmu.de/signs/LAK120
-@end sign
-
 @sign LAK130
 @list	LAK130
 @oid	o0000314
@@ -48749,6 +48743,7 @@
 @end sign
 
 @sign UZU
+@list	LAK120
 @list	LAK350
 @list	ASY121
 @oid	o0000592
@@ -48761,6 +48756,8 @@
 @list	PTACE178
 @list	SLLHA171
 @list	SYA105
+@inote	LAK120 is the form from the stela of Hammurabi P249253; Deimel cites
+	r 21 32 and r 27 27.
 @lit	M. Civil, ZA 74, 162
 @inote	##CHECK Civil CUSAS 12, 211 on LAK350
 @uname	CUNEIFORM SIGN UZU
