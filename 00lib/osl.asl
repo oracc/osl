@@ -29767,7 +29767,7 @@
 @list	ELLES114
 @list	GCSL100
 @list	HZL310
-@list	KWU354
+@list	KWU358
 @list	MZL900
 @list	PTACE213
 @list	RSP138
@@ -29825,7 +29825,6 @@
 
 @sign |LUM&LUM|
 @oid	o0001926
-@list	KWU358
 @list	MZL902
 @uname	CUNEIFORM SIGN LUM OVER LUM
 @list	U+1221E
@@ -30885,6 +30884,7 @@
 @oid	o0000461
 @list	ABZL242
 @list	HZL311
+@list	KWU354
 @list	LAK193
 @list	MZL901
 @list	RSP113
