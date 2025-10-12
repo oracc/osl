@@ -34093,14 +34093,15 @@
 @end sign
 
 @sign |NUN.LAGAR|
-@list	LAK078
 @list	ASY063a
 @oid	o0002125
 @list	ABZL048
 @list	BAU060
+@list	ELLES048
 @list	GCSL042
 @list	HZL034
 @list	KWU131
+@list	LAK077
 @list	MZL145
 @list	RSP186
 @list	SLLHA087a
@@ -34119,14 +34120,6 @@
 @v	tur₃
 @v	ummalₓ
 @link	eBL |NUN.LAGAR| https://www.ebl.lmu.de/signs/|NUN.LAGAR|
-@form LAK077
-@list	LAK077
-@oid	o0021460
-@list	ELLES048
-@v	šilamₓ
-@inote	not clear that LAK077 and LAK078 need to be differentiated.
-@v	ummalₓ
-@@
 @end sign
 
 @sign |NUN.LAGAR×GAR|
@@ -34180,13 +34173,14 @@
 @form |DIŠ+NUN.LAGAR|
 @oid	o0069957
 @aka	|DIŠ+(NUN.LAGAR)|
+@list	LAK078
 @useq	x12079.x12263.x121EC
 @ucun	𒁹𒉣𒇬
 @v	immal
-@inote	SF 081 r i 10-11
+@inote	SF 081 r i 11–12; contrasts with šilamₓ(NUN.LAGAR=LAK077) r i 9–10 as noted by Deimel in LAK077; see http://oracc.org/dcclt/P010677.115.
 @@
 @form |NUN.LAGAR|
-@list	LAK078
+@list	LAK077
 @list	ASY063a
 @oid	o0002125
 @list	BAU060
