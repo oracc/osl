@@ -29761,7 +29761,7 @@
 @list	ELLES114
 @list	GCSL100
 @list	HZL310
-@list	KWU354
+@list	KWU358
 @list	MZL900
 @list	PTACE213
 @list	RSP138
@@ -29819,7 +29819,6 @@
 
 @sign |LUM&LUM|
 @oid	o0001926
-@list	KWU358
 @list	MZL902
 @uname	CUNEIFORM SIGN LUM OVER LUM
 @list	U+1221E
@@ -30873,6 +30872,8 @@
 @oid	o0000461
 @list	ABZL242
 @list	HZL311
+@list	KWU354
+@list	LAK193
 @list	MZL901
 @list	RSP113
 @list	SLLHA565
@@ -50550,14 +50551,12 @@
 @end sign
 
 @sign 5(AŠ@t)
-@list	LAK193
 @oid	o0000048
 @list	RSP119
 @uname	CUNEIFORM NUMERIC SIGN FIVE ASH TENU
 @list	U+1244D
 @ucun	𒑍
 @uage	5.0
-@v	murguₓ
 @v	5(aš@t)
 @v	5(diš@t)
 @v	5(iku@t)
