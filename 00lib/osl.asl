@@ -44011,7 +44011,7 @@
 @@
 @form |ŠE.ŠU|
 @list	LAK141^a
-@oid	o0031747
+@oid	o0223490
 @@
 @form |ŠU×ŠE|
 @list	LAK141
