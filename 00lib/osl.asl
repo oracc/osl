@@ -27070,12 +27070,6 @@
 @link	Wikidata Q87557284 http://www.wikidata.org/entity/Q87557284
 @end sign
 
-@sign LAK222
-@list	LAK222
-@oid	o0000328
-@link	eBL LAK222 https://www.ebl.lmu.de/signs/LAK222
-@end sign
-
 @sign LAK225
 @list	LAK225
 @oid	o0000329
@@ -48732,6 +48726,7 @@
 
 @sign UZU
 @list	LAK120
+@list	LAK222
 @list	LAK350
 @list	ASY121
 @oid	o0000592
@@ -48746,6 +48741,8 @@
 @list	SYA105
 @inote	LAK120 is the form from the stela of Hammurabi P249253; Deimel cites
 	r 21 32 and r 27 27.
+	LAK222 is the Ur III form; Deimel cites forms listed in Legrain’s sign list,
+	from P134880 o 2, P134881 o 5, P135087 o 9, P135086 o 1, and P135105 o 8.
 @lit	M. Civil, ZA 74, 162
 @inote	##CHECK Civil CUSAS 12, 211 on LAK350
 @uname	CUNEIFORM SIGN UZU
