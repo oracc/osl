@@ -46395,7 +46395,7 @@
 @list	ABZL334
 @list	HZL084
 @list	KWU408
-@inote UD×U+U+U
+@list	LAK380^c
 @list	MZL020
 @list	PTACE186
 @list	SLLHA052
@@ -46416,7 +46416,7 @@
 @link	Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
 @form |UD×DIŠ|
 @oid	o0223330
-@list	LAK380
+@list	LAK380^a
 @list	RSP328
 @upua	U+F0092
 @ucun	󰂒
@@ -46424,6 +46424,7 @@
 @inote ED IIIb form for itud
 @@
 @form |UD×DIŠ@c|
+@list	LAK380^b
 @oid	o0270212
 @inote ED IIIb form for itud
 @@
