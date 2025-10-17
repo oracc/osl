@@ -39264,16 +39264,18 @@
 @inote	added during ogsl upgrade
 
 @sign SUD
-@list	LAK235^a
+@list	LAK233^a
 @list	ASY215
 @oid	o0000532
 @list	ABZL266
 @list	BAU149
 @list	BAU151
+@list	ELLES132
 @list	GCSL116
 @list	HZL341
 @list	KWU386
 @list	MZL584
+@list	PTACE124
 @list	RSP336
 @list	SLLHA373
 @list	SYA187
@@ -39317,9 +39319,12 @@
 @form BU@g
 @list	LAK233
 @oid	o0000126
-@list	ELLES132
-@list	PTACE124
-@inote	in |PA.EL.BU@g|
+@inote	This is the index form in LAK, gunified on the left, with the other
+	forms shown being gunified on the right.
+	This form occurs in |PA.EL.BU@g| from http://oracc.org/Q000006.122
+	(see the witness P010101 vi 16), but also as ordinary su₃, e.g., in
+	P221472 r ii 1, r iii 2 (ED IIIb Ŋirsu), or
+	P108472 iv 5 (Ur III Ŋirsu), both cited by Deimel.
 @link	eBL BU@g https://www.ebl.lmu.de/signs/BU@g
 @@
 @form LAK233@g
