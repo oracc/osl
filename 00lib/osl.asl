@@ -19577,6 +19577,12 @@
 @v	isin₂
 @link	eBL IN https://www.ebl.lmu.de/signs/IN
 @link	Wikidata Q87555671 http://www.wikidata.org/entity/Q87555671
+@form LAK202
+@list	LAK202
+@oid	o0025729
+@inote	𒅔 in 𒅔𒄄 (ED Plants witness SF 58, http://oracc.org/dcclt/P010649.105,
+	see also http://oracc.org/epsd2/o0031111).
+@@
 @end sign
 
 @sign IR
@@ -27015,12 +27021,6 @@
 @oid	o0000320
 @list	ELLES115
 @link	eBL LAK195 https://www.ebl.lmu.de/signs/LAK195
-@end sign
-
-@sign LAK202
-@list	LAK202
-@oid	o0025729
-@inote	ed3a
 @end sign
 
 @sign LAK203
