@@ -45217,14 +45217,6 @@
 @v	ušu₂
 @v	uzu₅
 @link	eBL |U.UD| https://www.ebl.lmu.de/signs/|U.UD|
-@form |UD×DIŠ|
-@list	LAK380
-@oid	o0223330
-@list	RSP328
-@upua	U+F0092
-@ucun	󰂒
-@uage	9.2
-@@
 @end sign
 
 @sign |U.UD.KID|
@@ -46353,14 +46345,6 @@
 @v	itudₓ
 @link	eBL |UD×BAD| https://www.ebl.lmu.de/signs/|UD×BAD|
 @link	Wikidata Q87556544 http://www.wikidata.org/entity/Q87556544
-@form |UD×DIŠ|
-@list	LAK380
-@oid	o0223330
-@list	RSP328
-@upua	U+F0092
-@ucun	󰂒
-@uage	9.2
-@@
 @form |UD×PAP|
 @oid	o0025694
 @list	ELLES207
@@ -46430,13 +46414,16 @@
 @v	u₂₂
 @link	eBL |UD×(U.U.U)| https://www.ebl.lmu.de/signs/|UD×(U.U.U)|
 @link	Wikidata Q87556548 http://www.wikidata.org/entity/Q87556548
-@form+ |UD×DIŠ|
+@form |UD×DIŠ|
 @oid	o0223330
-@inote UD×U
+@list	LAK380
 @list	RSP328
+@upua	U+F0092
+@ucun	󰂒
+@uage	9.2
 @inote ED IIIb form for itud
 @@
-@form+ |UD×DIŠ@c|
+@form |UD×DIŠ@c|
 @oid	o0270212
 @inote ED IIIb form for itud
 @@
