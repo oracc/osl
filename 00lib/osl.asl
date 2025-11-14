@@ -44,17 +44,18 @@
 @lit	N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III (Rome 1935)
 @inote	Numeric signs at end of signlist are unnumbered and thus impractical to reference.
 
-@listdef LAK 001-870
-	009^a 024^a 036^a 046a 063^a 072^a 072^b 073^a 073^b 073^c 079^a 081^a
-	141^a 156^a 162^a 162^b 171^a 177a 207a 221a 221b 235^a 248^a 262^a 278^a
-	283^a 350^a 368^a 407^a 449^a 455a 490^a 497^a 497^b 654^a 672^a 672^b
-	709^a 709^b 712^a 712^b 772^a 784^a 791^a 792^a 807^a 816^a 816^b
-	820^a 820^b 820^c 820^d 821^a 821^b 822^a 822^b 822^c 823^a 823^b 823^c
-	825^a 825^b 826^a 826^b 827^a 827^b 829^a 829^b 830^a 830^b 831^a
-	831^b 832^a 832^b 833^a 833^b 834^b 834^a 835^a 835^b 836^a 836^b 836^c
-	837^a 837^b 839^a 839^b 840^a 840^b 841^a 841^b 842^a 842^b 844^a 844^b
-	852^a 852^b 853^a 853^b 854^a 854^b 855^a 855^b 857^a 857^b 858^a 858^b
-	859^a 859^b
+@listdef LAK 001-870 009^a 024^a 036^a 046a 063^a 072^a 072^b 073^a
+	073^b 073^c 079^a 081^a 141^a 156^a 162^a 162^b 171^a 177a
+	207a 221a 221b 235^a 248^a 262^a 278^a 283^a 350^a 368^a 380^a
+	380^b 380^c 407^a 449^a 455a 490^a 497^a 497^b 654^a 672^a
+	672^b 709^a 709^b 712^a 712^b 772^a 784^a 791^a 792^a 807^a
+	816^a 816^b 820^a 820^b 820^c 820^d 821^a 821^b 822^a 822^b
+	822^c 823^a 823^b 823^c 825^a 825^b 826^a 826^b 827^a 827^b
+	829^a 829^b 830^a 830^b 831^a 831^b 832^a 832^b 833^a 833^b
+	834^b 834^a 835^a 835^b 836^a 836^b 836^c 837^a 837^b 839^a
+	839^b 840^a 840^b 841^a 841^b 842^a 842^b 844^a 844^b 852^a
+	852^b 853^a 853^b 854^a 854^b 855^a 855^b 857^a 857^b 858^a
+	858^b 859^a 859^b
 @lit A. Deimel, Liste der archaischen Keilschriftzeichen (WVDOG 40;
 	Berlin 1922)
 
@@ -117,7 +118,7 @@
 
 @listdef U+ 0x12000-0x1236E 0x12400-0x12462 0x12470-0x12473
 	 0x1236F-0x12399 0x12463-0x1247F 0x12480-0x12543 0x12474
-	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF009B
+	 0x12550-0x125A7 0x1264C-0x12686 0xF0000-0xF0131
 @lit	The Unicode Standard (https://unicode.org/versions/latest/)
 
 @listdef ZATU 1-855
@@ -40211,7 +40212,9 @@
 
 @sign |ŠAR₂×U@g|
 @oid	o0027734
-@inote	etcsri
+@upua	U+F0131
+@ucun	󰄱
+@inote	Gudea St B
 @end sign
 
 @sign |ŠAR₂×4(U)|

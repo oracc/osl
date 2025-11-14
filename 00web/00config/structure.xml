@@ -33,6 +33,7 @@
     <struct:page file="fonts/ofs-lak.xml" id="ofs-lak" type="page"/>
     <struct:page file="fonts/ofs-rsp.xml" id="ofs-rsp" type="page"/>
     <struct:page file="fonts/ofs-gudea.xml" id="ofs-gudea" type="page"/>
+    <struct:page file="fonts/ofs-emc.xml" id="ofs-emc" type="page"/>
     <struct:page file="fonts/ofs-noto.xml" id="ofs-noto" type="page"/>
     <struct:page file="fonts/ofs-oobf.xml" id="ofs-oobf" type="page"/>
     <struct:page file="fonts/ofs-nni.xml" id="ofs-nni" type="page"/>
