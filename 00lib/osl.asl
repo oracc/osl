@@ -27024,12 +27024,6 @@
 @inote	ed3a
 @end sign
 
-@sign LAK203
-@list	LAK203
-@oid	o0025822
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
 @sign LAK205
 @list	LAK205
 @oid	o0221917
@@ -40689,6 +40683,22 @@
 
 @compoundonly	|(ŠE.NUN&NUN)%(ŠE.NUN&NUN)|
 @inote	added during ogsl upgrade
+
+@sign |ŠE.NUNUZ|
+@aka LAK203
+@list	LAK203
+@oid	o0025822
+@inote	LAK203 was added for dcclt/ebla, which no longer uses it; instead it has
+	ŠE.NUNUZ http://oracc.org/dcclt/ebla/P010663.71, with a comment
+	# LAK203 is ŠE.NUNUZ
+	in the ATF source.
+	Deimel does not cite this text, but instead
+	http://oracc.org/epsd2/P010975.109.2.
+	2025-10-17: As of this writing, P010975 is mistransliterated in both ePSD2
+	and CDLI: ŠE₃ rather than ŠE.
+@useq	x122BA.x1226D
+@ucun	𒊺𒉭
+@end sign
 
 @sign |ŠE.NUNUZ.GABA.LIŠ|
 @oid	o0031700
