@@ -26739,6 +26739,9 @@
 @lref LAK192
 @note Sequence eš-bar
 
+@lref LAK415
+@note Sequence u-bar with references P108624, P128543, and P135731.
+
 @lref LAK436
 @note No drawn sign; some references
 
@@ -27369,11 +27372,6 @@
 @list	LAK410
 @oid	o0000372
 @link	eBL LAK410 https://www.ebl.lmu.de/signs/LAK410
-@end sign
-
-@sign LAK415
-@list	LAK415
-@oid o0038388
 @end sign
 
 @sign LAK416
