@@ -27376,12 +27376,6 @@
 @oid o0038388
 @end sign
 
-@sign LAK416
-@list	LAK416
-@oid	o0025846
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
 @sign LAK431
 @list	LAK431
 @oid	o0025848
@@ -45033,6 +45027,7 @@
 @list	GCSL185
 @list	HZL262
 @list	KWU412
+@list	LAK416
 @list	MZL720
 @list	SLLHA459
 @list	SYA234
