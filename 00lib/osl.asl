@@ -18727,6 +18727,7 @@
 
 @sign |IGI.LAGAB|
 @oid	o0223361
+@list	LAK431
 @list	RSP069
 @useq	x12146.x121B8
 @ucun	𒅆𒆸
@@ -27379,12 +27380,6 @@
 @sign LAK416
 @list	LAK416
 @oid	o0025846
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
-@sign LAK431
-@list	LAK431
-@oid	o0025848
 @inote	for dcclt/ebla--check that it is not in OGSL under a different name
 @end sign
 
