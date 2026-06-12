@@ -27364,12 +27364,6 @@
 @link	eBL LAK410 https://www.ebl.lmu.de/signs/LAK410
 @end sign
 
-@sign LAK416
-@list	LAK416
-@oid	o0025846
-@inote	for dcclt/ebla--check that it is not in OGSL under a different name
-@end sign
-
 @sign LAK441
 @list	LAK441
 @oid	o0000373
@@ -45042,6 +45036,7 @@
 @list	GCSL185
 @list	HZL262
 @list	KWU412
+@list	LAK416
 @list	MZL720
 @list	SLLHA459
 @list	SYA234
