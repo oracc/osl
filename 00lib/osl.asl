@@ -21,7 +21,7 @@
 @inote There is no 232 in ASY 4th ed.
 
 @listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 367^a 385a 385b 385c 386a 386b 387a 417a
-@lit	@fullcite{Burrows1935}
+@lit	Burrows1935
 @inote	E. Burrows, Archaic Texts (UET 2; London 1935)
 @inote	To be added: Appendices I-III lettered signs as, e.g., BAU000I.A, BAU00II.A, BAU0III.A, etc.
 
@@ -310,7 +310,7 @@
 
 @sign |A.EDIN|
 @oid	o0000666
-@note	For |A.EDIN| as ED form of ummu₃ see @cite[120]{ARES3}.
+@note	For |A.EDIN| as ED form of ummu₃ see ARES3, 120
 @inote @lit	for |A.EDIN| as ED form of ummu₃ see Civil ARES 4, 120
 @useq	x12000.x12094
 @ucun	𒀀𒂔
@@ -36740,6 +36740,7 @@
 @aka REC169
 @oid	o0000513
 @list	REC169
+@useq x1219C.X
 @inote	CDLI P323559 (oakk) has uštil(REC169) referencing CUSAS 27
 @v	uštilₓ
 @link	eBL REC169 https://www.ebl.lmu.de/signs/REC169
@@ -44015,6 +44016,7 @@
 @link	eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
 @@
 @form |ŠE.ŠU|
+@useq x122BA.x122D7
 @list	LAK141^a
 @oid	o0223490
 @@
