@@ -35371,6 +35371,7 @@
 @useq	x1227A.x1211B
 @ucun	𒉺𒄛
 @v	musubₓ
+@v	munsubₓ
 @sys	Attinger musubₓ => munsubₓ
 @@
 @end sign
