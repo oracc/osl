@@ -21,7 +21,8 @@
 @inote There is no 232 in ASY 4th ed.
 
 @listdef BAU 1-420 082a 082b 103a 103c 146b 161a 161b 161c 198a 334bis 367^a 385a 385b 385c 386a 386b 387a 417a
-@lit	E. Burrows, Archaic Texts (UET 2; London 1935)
+@lit	@fullcite{Burrows1935}
+@inote	E. Burrows, Archaic Texts (UET 2; London 1935)
 @inote	To be added: Appendices I-III lettered signs as, e.g., BAU000I.A, BAU00II.A, BAU0III.A, etc.
 
 @listdef ELLES 1-32 34-158 160-397 006bis 033a 033b 065a 159a 175a 195a 208a 241^a 244^a 307b 317^a 363^a
@@ -300,7 +301,7 @@
 @link	eBL |A.DU| https://www.ebl.lmu.de/signs/|A.DU|
 @end sign
 
-@sign |A.DU&A.DU|
+@sign |(A.DU)&(A.DU)|
 @oid	o0018529
 @inote	ed3a
 @useq	x12000.X.x1207A
@@ -309,7 +310,8 @@
 
 @sign |A.EDIN|
 @oid	o0000666
-@lit	for |A.EDIN| as ED form of ummu₃ see Civil ARES 4, 120
+@note	For |A.EDIN| as ED form of ummu₃ see @cite[120]{ARES3}.
+@inote @lit	for |A.EDIN| as ED form of ummu₃ see Civil ARES 4, 120
 @useq	x12000.x12094
 @ucun	𒀀𒂔
 @v	eribₓ
@@ -4921,7 +4923,7 @@
 
 @sign |BALAG@BALAG|
 @oid	o0031812
-@inote	P221799 ED Lagash lex; disposition of signs in case is BALAG&BALAG@180 but the transliteration assumes this is an artefact of the case width and that this is a sign of the SIGN@SIGN class
+@inote	P221799 ED Lagash lex; disposition of signs in case is BALAG&BALAG@180 but the transliteration assumes this is an artefact of the case width and that this is a sign of the SIGN@@SIGN class
 @end sign
 
 @sign |BALAG.A|
@@ -7547,9 +7549,6 @@
 @ucun	󰂁
 @uage	9.2
 @end sign
-
-@compoundonly	|DU&A|
-@inote	added during ogsl upgrade
 
 @sign |DU&DU|
 @list	ASY136
@@ -17554,11 +17553,6 @@
 @useq	x1212D.x12263
 @ucun	𒄭𒉣
 @@
-@form |HI×(U.U.U)|
-@oid	o0023047
-@aka	|HI×EŠ|
-@v	uh
-@@
 @end sign
 
 @sign |HI×NUN.HI×NUN|
@@ -17683,6 +17677,11 @@
 @form |HI×KUR|
 @oid	o0038334
 @inote	epsd2/royal; needs collation (read |HI×ŠE!| ?)
+@@
+@form |HI×(U.U.U)|
+@oid	o0023047
+@aka	|HI×EŠ|
+@v	bir
 @@
 @end sign
 
@@ -19486,7 +19485,7 @@
 @v	šeŋ₁₅
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 r i 50'
 @inote	salgues
-@inote	sjt this sign and |IM@IM| should probably be subsumed under |IM%IM|
+@inote	sjt this sign and @sux{|IM@IM|} should probably be subsumed under @sux{|IM%IM|}
 @link	eBL |IM&IM| https://www.ebl.lmu.de/signs/|IM&IM|
 @end sign
 
@@ -29282,13 +29281,13 @@
 @form |LU₂×GAM|
 @oid	o0001972
 @v	kama₆
-@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 24 |LU₂×GAM| @ GAM
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 24 |LU₂×GAM| @@ GAM
 @inote	salgues
 @v	kamad
-@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 25 |LU₂×GAM| @ GAM
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 25 |LU₂×GAM| @@ GAM
 @inote	salgues
 @v	lugam
-@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 23 |LU₂×GAM| @ GAM
+@ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 23 |LU₂×GAM| @@ GAM
 @inote	salgues
 @@
 @end sign
@@ -30828,6 +30827,7 @@
 
 @sign MUNSUB
 @list	LAK672^b
+@aka	LAK672b
 @oid	o0000460
 @list	ABZL397
 @list	ELLES329
@@ -40854,7 +40854,8 @@
 @link	Wikidata Q87557448 http://www.wikidata.org/entity/Q87557448
 @end sign
 
-@sign |(ŠE&ŠE).KIN|
+@sign- |(ŠE&ŠE).KIN|
+@inote duplicate of |ŠE&ŠE.KIN|
 @oid	o0221924
 @inote	admin/ed3b
 @useq	X.x121A5
@@ -40863,6 +40864,7 @@
 @end sign
 
 @sign |ŠE&ŠE.KIN|
+@aka |(ŠE&ŠE).KIN|
 @oid	o0221954
 @inote	admin/ed3b
 @useq	x12532.x121A5
@@ -45274,6 +45276,7 @@
 
 @sign |U.5(DIŠ)|
 @oid	o0002445
+@aka "15"
 @list	MZL747
 @list	SLLHA470
 @useq	x1230B.x1240A
@@ -45284,11 +45287,6 @@
 @v	uia
 @v	uya
 @link	eBL |U.5(DIŠ)| https://www.ebl.lmu.de/signs/|U.5(DIŠ)|
-@form 15
-@oid	o0018499
-@v	sarₓ
-@inote	hack for eCUT
-@@
 @end sign
 
 @sign |U&U|
@@ -48635,6 +48633,7 @@
 
 @sign UŠX
 @list	LAK672^a
+@aka	LAK672a
 @oid	o0000597
 @list	ELLES328
 @list	ELLES330
@@ -50055,6 +50054,7 @@
 @list	U+12464
 @ucun	𒑤
 @uage	7.0
+@v	1/2(gur)
 @v	2(barig@v)
 @v	2(bariga)@v
 @end sign
@@ -52179,7 +52179,7 @@
 @list	RSP036bis .0
 @inote Merged @form 1/2(DIŠ@c) into here 2024-09-22
 @v	1/2(aš@c)
-@inote 1/2(aš@c) is CDLI for 1/2(gur@); also note that there is no 1/2(aš@c@90) though if there were this would be it
+@inote 1/2(aš@c) is CDLI for 1/2(gur@c); also note that there is no 1/2(aš@c@90) though if there were this would be it
 @v	ban₂@c
 @v	1(ban₂@c)
 @v	1/2(diš@c)

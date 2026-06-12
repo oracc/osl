@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page
+    xmlns:esp="http://oracc.org/ns/esp/1.0"
+    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:xh="http://www.w3.org/1999/xhtml"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:sxw="http://oracc.org/ns/sxweb/1.0"
+    >
+  <esp:name>OSL References</esp:name>
+  <esp:title>OSL References</esp:title>
+  <html>
+    <head/>
+    <body>
+      <xi:include href="../01tmp/references.div" parse="xml"/>
+    </body>
+  </html>
+</esp:page>
