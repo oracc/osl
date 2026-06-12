@@ -15438,8 +15438,8 @@
 @oid	o0221900
 @useq	x12111.x1224B.x120B5.x12229
 @ucun	𒄑𒉋𒂵𒈩
-@v	gilgames₄
-@v	gilgameš₄
+@v	gilgames₂
+@v	gilgameš₂
 @@
 @form |GIŠ.NE@s.MES.GA|
 @oid	o0221976
@@ -15485,11 +15485,13 @@
 @@
 @end sign
 
-@sign |GIŠ.NE@s.GA.ME.U.U.U|
+@sign- |GIŠ.NE@s.GA.ME.U.U.U|
 @oid	o0001382
 @useq	x12111.x1224B.x120B5.x1238C
 @ucun	𒄑𒉋𒂵𒎌
-@v	gilgameš₂
+@note	Typo for gilgameš₂(GIŠ.BIL₂.GA.MES) 𒄑𒉋𒂵𒈩 (MEŠ instead of MES).
+	The spelling 𒄑𒉋𒂵𒎌 is not attested.
+	For many years Oracc mapped gilgameš₂ to this sign, and this has been carelessly copied elsewhere.
 @link	eBL |GIŠ.NE@s.GA.ME.U.U.U| https://www.ebl.lmu.de/signs/|GIŠ.NE@s.GA.ME.U.U.U|
 @end sign
 
