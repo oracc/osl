@@ -308,21 +308,6 @@
 @ucun	𒀀X𒁺
 @end sign
 
-@sign |A.EDIN|
-@oid	o0000666
-@note	For |A.EDIN| as ED form of ummu₃ see ARES3, 120
-@inote @lit	for |A.EDIN| as ED form of ummu₃ see Civil ARES 4, 120
-@useq	x12000.x12094
-@ucun	𒀀𒂔
-@v	eribₓ
-@v	eru₄
-@v	erua
-@v	erum₄
-@v	ummuₓ
-@v	ummudₓ
-@link	eBL |A.EDIN| https://www.ebl.lmu.de/signs/|A.EDIN|
-@end sign
-
 @sign |A.EDIN.LAL|
 @oid	o0000664
 @useq	x12000.x12094.x121F2
@@ -332,9 +317,16 @@
 @link	eBL |A.EDIN.LAL| https://www.ebl.lmu.de/signs/|A.EDIN.LAL|
 @form |A.EDIN|
 @oid	o0000666
+@note	For |A.EDIN| as ED form of ummu₃ see ARES3, 120
 @lit	Civil ARES 4, 120
 @useq	x12000.x12094
 @ucun	𒀀𒂔
+@v	eribₓ
+@v	eru₄
+@v	erua
+@v	erum₄
+@v	ummuₓ
+@v	ummud
 @link	eBL |A.EDIN| https://www.ebl.lmu.de/signs/|A.EDIN|
 @@
 @form |A.EDIN.A.LAL|
@@ -342,11 +334,13 @@
 @useq	x12000.x12094.x12000.x121F2
 @ucun	𒀀𒂔𒀀𒇲
 @v	ummu
+@v	ummud?
 @@
 @form |A.EDIN.NA|
 @oid	o0000665
 @useq	x12000.x12094.x1223E
 @ucun	𒀀𒂔𒈾
+@v	ummud?
 @@
 @form |A.U.EDIN.LAL|
 @oid	o0000729
@@ -360,24 +354,28 @@
 @useq	x12094.x12000
 @ucun	𒂔𒀀
 @v	ummuₓ
+@v	ummud?
 @@
 @form |EDIN.A.LAL|
 @oid	o0001044
 @useq	x12094.x12000.x121F2
 @ucun	𒂔𒀀𒇲
 @v	ummuₓ
+@v	ummud?
 @@
 @form |EDIN.LAL|
 @oid	o0152715
 @useq	x12094.x121F2
 @ucun	𒂔𒇲
 @v	ummuₓ
+@v	ummud?
 @@
 @form |EDIN.LAL.A|
 @oid	o0001046
 @useq	x12094.x121F2.x12000
 @ucun	𒂔𒇲𒀀
 @v	ummuₓ
+@v	ummud?
 @@
 @form |EDIN.NA.A.LAL|
 @oid	o0031627
@@ -14908,6 +14906,7 @@
 @useq	x121A7.x12034
 @ucun	𒆧𒀴
 @v	šagana
+@v	šagina
 @sys	Attinger šagana
 @@
 @form |KIŠ@g.ARAD|
@@ -17685,8 +17684,9 @@
 @inote	epsd2/royal; needs collation (read |HI×ŠE!| ?)
 @@
 @form |HI×(U.U.U)|
-@oid	o0023047
+@aka	|HI×U.U.U|
 @aka	|HI×EŠ|
+@oid	o0023047
 @v	bir
 @@
 @end sign
