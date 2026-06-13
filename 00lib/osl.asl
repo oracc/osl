@@ -47,7 +47,7 @@
 
 @listdef LAK 001-870 009^a 024^a 036^a 046a 063^a 072^a 072^b 073^a
 	073^b 073^c 079^a 081^a 141^a 156^a 162^a 162^b 171^a 177a
-	207a 221a 221b 235^a 248^a 262^a 278^a 283^a 350^a 368^a 380^a
+	207a 221a 221b 233^a 235^a 248^a 262^a 278^a 283^a 350^a 368^a 380^a
 	380^b 380^c 407^a 449^a 455a 490^a 497^a 497^b 654^a 672^a
 	672^b 709^a 709^b 712^a 712^b 772^a 784^a 791^a 792^a 807^a
 	816^a 816^b 820^a 820^b 820^c 820^d 821^a 821^b 822^a 822^b
@@ -10685,6 +10685,8 @@
 @inote	SF 1 = P010566 r x 8' but not completely certain.
 @useq	x120A1.x1202D
 @ucun	𒂡𒀭
+@v	bad₃
+@v	ug₅
 @@
 @form |EZEN×AN|
 @list	LAK613
@@ -10695,9 +10697,11 @@
 @list	U+120A5
 @ucun	𒂥
 @uage	5.0
+@v	bad₃
 @v	buₓ
 @v	bunₓ
 @v	uₓ
+@v	ug₅
 @link	eBL |EZEN×AN| https://www.ebl.lmu.de/signs/|EZEN×AN|
 @link	Wikidata Q87555323 http://www.wikidata.org/entity/Q87555323
 @@
@@ -23546,6 +23550,10 @@
 @sys	Attinger kiše => kiš
 @link	eBL KIŠ https://www.ebl.lmu.de/signs/KIŠ
 @link	Wikidata Q87555836 http://www.wikidata.org/entity/Q87555836
+@form LAK248
+@oid	o0000215
+@v    kiš
+@@
 @end sign
 
 @sign |KIŠ.AB@g|
@@ -33804,6 +33812,9 @@
 @upua U+F009B
 @ucun 󰂛
 @inote	ed3a
+@form |NU×U|
+@oid o0048857
+@inote added so admin/names validates; needs collation to see if anything except NU×U@c exists
 @end sign
 
 @compoundonly	|NU&NU|
@@ -35274,12 +35285,14 @@
 @oid	o0038317
 @useq	x1227A.x1204D.x12096
 @ucun	𒉺𒁍𒂖
+@v	suₓ
 @v	susugₓ
 @@
 @form |PA.EL|
 @oid	o0025685
 @useq	x1227A.x12096
 @ucun	𒉺𒂖
+@v	suₓ
 @v	susugₓ
 @@
 @form |PA.EL.SUD|
@@ -44781,6 +44794,7 @@
 @list	U+124DB
 @ucun	𒓛
 @uage	8.0
+@v	šagan
 @v	šakan
 @link	Wikidata Q87557264 http://www.wikidata.org/entity/Q87557264
 @@
