@@ -14907,6 +14907,7 @@
 @ucun	𒆧𒀴
 @v	šagana
 @v	šagina
+@v	šakkan₆
 @sys	Attinger šagana
 @@
 @form |KIŠ@g.ARAD|
@@ -21463,6 +21464,7 @@
 @useq	x12157.O
 @ucun	𒅗X
 @v	zubₓ
+@v	zukuraₓ
 @inote	dcclt !sg
 @@
 @end sign
@@ -28701,6 +28703,7 @@
 @useq	x121FD.x12041
 @ucun	𒇽𒁁
 @v	at₆
+@v	adda
 @@
 @form |LU₂.LAGAB×U|
 @oid	o0001943
@@ -28803,6 +28806,7 @@
 @oid	o0001935
 @useq	x121FD.x120A0
 @ucun	𒇽𒂠
+@v	ere₁₃
 @@
 @form |LU₂.EŠ₂@t|
 @oid	o0001934
@@ -28814,6 +28818,7 @@
 @oid	o0001952
 @useq	x121FD.x122D7
 @ucun	𒇽𒋗
+@v	ere₁₃
 @v	eri₁₃
 @ref	CUSAS 12 1.1.2 = dcclt/signlists:P342645 o ii 11
 @@
@@ -31382,12 +31387,14 @@
 @v	halbiₓ
 @v	mabiₓ
 @v	mammiₓ
+@v	sed₄
 @v	šeₓ
 @@
 @form |A.MUŠ₃@g|
 @oid	o0000710
 @useq	x12000.x1223D
 @ucun	𒀀𒈽
+@v	sed₄
 @v	šed₉
 @ref	CBS 2175+ = dcclt:P227876 r ii 18'
 @@
@@ -31404,6 +31411,8 @@
 @list	U+1223A
 @ucun	𒈺
 @uage	5.0
+@v	halbiₓ
+@v	sed₄
 @v	šeₓ
 @v	šedₓ
 @link	eBL |MUŠ₃×A| https://www.ebl.lmu.de/signs/|MUŠ₃×A|
@@ -31451,6 +31460,7 @@
 @useq	x1223D.x12072
 @ucun	𒈽𒁲
 @v	se₂₉
+@v	sed₄
 @sys	Attinger se₂₉
 @@
 @form |ZA.MUŠ₃.DI|
@@ -31478,7 +31488,9 @@
 @v	halba₃
 @v	halbi₃
 @v	halbu₃
+@v	mabiₓ
 @v	%akk namruₓ
+@v	sed₄
 @@
 @end sign
 
@@ -33637,6 +33649,7 @@
 @useq	x12252.x12038
 @ucun	𒉒𒀸
 @v	ugu₇-dil
+@v	ugudil
 @@
 @end sign
 
@@ -37751,6 +37764,7 @@
 @oid	o0002496
 @useq	x12313.x12138
 @ucun	𒌓𒄸
+@v	emerah
 @v	tunₓ
 @inote	epsd2/royal; needs checking
 @@
@@ -39044,6 +39058,7 @@
 @oid	o0002363
 @useq	x122E1.x122D7.x120EE.x12000
 @ucun	𒋡𒋗𒃮𒀀
+@v	sagi
 @v	sagiaₓ
 @v	šagia
 @@
@@ -40966,6 +40981,7 @@
 @list	ELLES149
 @v	armanuₓ
 @v	mašdaₓ
+@v	šeg₉
 @v	šegbarₓ
 @link	eBL LAK263 https://www.ebl.lmu.de/signs/LAK263
 @@
@@ -49321,6 +49337,7 @@
 @list	BAU259
 @list	KWU127
 @list	RSP456
+@v	numunₓ
 @v	sukumₓ
 @v	šuₓ
 @link	eBL |ZI&ZI| https://www.ebl.lmu.de/signs/|ZI&ZI|
