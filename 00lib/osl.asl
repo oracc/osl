@@ -27339,9 +27339,12 @@
 @link	Wikidata Q87557307 http://www.wikidata.org/entity/Q87557307
 @end sign
 
-@sign LAK395
+@sign |ŠU₂.NUN.LAGAR|
 @list	LAK395
 @oid o0038384
+@useq	x122D9.x12263.x121EC
+@ucun	𒋙𒉣𒇬
+@ref	in SF 1, o viii 19 = http://oracc.org/dcclt/P010566.236 𒀭𒆤𒋙𒉣𒇬
 @end sign
 
 @sign LAK399
