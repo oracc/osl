@@ -11981,6 +11981,7 @@
 @useq	x120C1.x12228
 @ucun	𒃁𒈨
 @v	gaburaₓ
+@v	gaburra
 @v	ŋaburra
 @ref	ED Cities = dcclt:Q000035 8
 @@
@@ -31517,6 +31518,7 @@
 @useq	x12239.x122C1
 @ucun	𒈹𒋁
 @v	šušin
+@v	šušinak
 @ref	ED Cities = dcclt:Q000035 30
 @@
 @form |MUŠ₃@g.ŠEŠ₂|
@@ -36460,6 +36462,7 @@
 @v	tidanum
 @v	tidnim
 @v	tidnu
+@v	tidnum
 @@
 @end sign
 
