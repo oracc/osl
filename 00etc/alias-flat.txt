@@ -1,0 +1,820 @@
+ab aba ap
+ab₂ ap₂
+absin₃ abšin₃
+abul abulla abula
+abzu absu
+ad at ada
+ad₂ at₂
+ad₆ at₆ adda
+adamin₂ adamen₂
+adamin₄ adamen₄
+aŋar₅ agar₅
+aŋar₆ agar₆
+agrig aŋrig
+agrun agru₊(E₂.NUN) agruna₊(E₂.NUN)
+aŋ₂ ag₂ aga₂ aka₂
+eŋ₃ iŋ₃ eg₃ ig₃
+ak aka ag a₅
+akan akani
+akkan₃ akan₃
+al ala₃
+ala alu al₈ ale ali
+alam alan
+algameš algames algamis
+alim alima
+am ama₂
+amaš amaša
+ambar ambara anbar abbar
+amuš amuša
+an anu ana₂ am₆
+anše anšu
+anzalub hanzalub
+apin apina
+ar₂ ara₂
+ara₃ ar₃
+arad urda urdu er₃ eru ir₃ eri₃ erum
+arad₂ ir₁₁ urda₂ urdu₂
+arah₄ araha
+aratta arata
+arhuš₂ arhus₂
+arina erina₈
+arkab argab
+asal₂ asar₂ ašar₂
+aš aša az₃ as₃
+aš₂ az₂ aša₂ as₂ asa₂
+aš₃ aša₃
+ašnan ašnana
+ašša₂ ašta
+az as asa aza
+azag asag azak
+azalag₂ azlag₂
+azalag₅ azlag₅
+azugna azukna
+ba pa₂
+ba₁₃ ma₆
+be₄ bi₆
+babbar babar par bar₆ para bara₊(UD)
+bad bada bat pat₂ bata ba₉ pad₂
+bad₃ bada₃ bat₃
+bala bal
+balaŋ balag
+ban bana pan pana
+banšur banšura panšur bansur
+banšur₂ bansur₂
+banšur₃ bansur₃
+bappir bappira
+bappir₂ bappira₂
+bappir₃ bappira₃
+bar par₂ para₂ bara bare
+bara₆ para₆
+barag bara₂ parag par₆ para₁₀ bar₂
+barag₂ bara₃ par₃ para₃ bar₃
+barim parim
+be₆ pe pi bi₃
+bed₃ bi₇ bit₃ be₅ bid₃ bet₃
+bid pid bit biti pit betu
+bid₂ pit₂ bit₂
+bil₂ pel₂ pil₂
+bil₃ pil₃
+bir pir₃ biri
+bir₅ pir₆
+bir₆ ber₆
+bir₇ ber₇
+bisaŋ bisag pisag pisaŋ bisan pisan
+bisaŋ₂ bisag₂ pisag₂ pisaŋ₂ bisan₂ pisan₂
+bisaŋ₃ bisag₃ pisag₃ pisaŋ₃ bisan₃ pisan₃
+bu₂ buš
+buluŋ₅ bulug₅
+buluh bur₈ buru₈ buruh
+buniŋ bunin kunin₂ bugin pugin₊(LAGAB×A)
+bur puru pur buru
+bur₂ pul₂ bul₂ buru₂
+bur₊(KA×GAN₂@t) bu₃
+bur₁₁ buru₁₁ muru₆
+da ta₂
+dab₅ daba₅ dib₂
+dag tag₂ dak tak₂
+daggan dakkan
+daŋal dagal dagala
+dalhamun₇ hamun
+dalla₂ dala₂
+dam dama tam₂
+dan₃ tan₃
+dan₄ tan₄
+danna dana
+dar tar₂
+de₆ di₆
+dehi tehi
+dehi₂ tehi₂
+dehi₄ tehi₄
+dellu dilu
+di de te₁₀ ti₄
+dib deb dibi dip tib tip
+dig dik digi
+diŋir digir dingir dingira
+dih₃ dehi₃ tehe₃ tehi₃ deh₃
+dili tal₃ del dil dele til₄ deli dal₃
+dilim delen dilin duruna₂ dilim₃ delena dilina
+dilim₂ dili₂
+dim dum₄ tim tum₈
+dim₂ dem₂ dima₂
+dimma dima
+dirig dir diri
+diš deš duš₂ tiz tiš diša
+du tu₃
+du₃ tu₂₀ ru₂
+dub tup duba dup tub dubu
+dub₂ tup₂ duba₂ dup₂ tub₂ dubu₂
+dubul dulu
+#context-dependent
+#dub₃ du₁₀
+#dug₃ du₁₀ dugu
+dug₄ duga₄ du₁₁
+dugud duguda
+duh tuhu tuh du₈ tu₂₄ tah₂
+dul tul
+dul₄ tul₆
+dul₆ tul₅ til₂ du₆
+dun tun₄ duna
+dun₃ du₅ tun₃
+dun₅ du₉
+dur tur₂
+dur₂ tur₇ duru₂
+dur₃ duru₃
+duru₅ dur₅
+durah dara₃ dar₃ tara₃ tarah
+dusu₂ dusi₂
+e eki eg₂ ig₂ i₁₅
+e₂ a₁₄
+e₃ ed₂ i₁₀
+e₁₁ ed₃
+ebir epir
+ebir₃ epir₃
+edin edina eden edena
+eŋir eŋer eŋera egir eger egera
+egir₂ eger₂
+egir₃ eger₃ egi₂
+egir₅ eger₅
+egir₆ eger₆
+ellag illag
+ellaŋ₂ ellag₂
+ellamkuš elamkuš
+ellamkuš₂ elamkuš₂
+ellamkuš₃ elamkuš₃
+ellamkuš₄ elamkuš₄
+emedu₂ amedu
+emeš₂ eš₁₂
+en enu in₄ ena eni
+endib endub
+enegir enegi ennegi ennigi
+enegir₃ enegi₃ ennigi₃
+engar engara
+engur angur
+enkud enku
+ensi₂ ensik
+enten entena
+er₂ ir₂ era₂ ira₂
+er₁₀ ar₆ ir₁₀ ur₈ ara₆ re₆
+er₁₃ eri₁₃ ir₁₃
+eren erin
+ereš eriš
+erib irib
+erim₂ erima₂ erin₇
+erim₃ erin₃
+erim₄ erin₄
+erin₂ eren₂ erena₂ erina₂ erem erim
+esaŋ esag
+esaŋ₂ esag₂
+esir ešer
+essad ešsad eššad
+essadu ešsadu
+eš₃ ez₃ iz₃ eša₃ iš₇ es₃ esa₃ is₃
+eš₅ eša₅
+eš₂₂ iš₁₁
+ešemen₂ ešemin₂
+ešemen₃ ešemin₃
+ešemen₅ ešemin₅
+eškiri ešgiri
+eškiri₂ ešgiri₂
+ezem ezen izun ezema ezena ezin izen izim izin esen esin
+ezina₂ ezin₂ ezinu₂
+ga ka₃
+gabar kabar kapar
+gag gak kak
+gakkul kakkul
+gakkul₂ kakkul₂
+gal kal₂ gala₈ gale
+gal₄ kal₄
+galla₊(TE) gal₅
+gam₃ kam₄
+gana₂ gan₂ kana₂
+ganzer ganzir
+ganzer₂ ganzir₂
+ganzer₃ ganzir₃
+gar₃ gara₃ kar₃
+gar₄ gara₄
+gar₈ ŋar₈
+gar₉ gara₉
+gar₁₀ gara₁₀
+garadin karadin
+garaš₅ karaš₂
+gaz gaza kas₃ gas kaš₆ kaz
+gazinbu gazimbi gazinbi
+ge₁₅ geš₄
+genna genan ginan gena gina ginna
+gi gin₆ gen₆ ke₂ ki₂ ge
+gi₄ ge₄ ga₈ ki₈
+gibil gibila
+gibil₂ gibir kibir₂
+gid₂ gida₂ gidi₃ git₂ kid₁₀ kit₁₀
+gidim gedim kitim
+gig kiŋ kik
+gigir gigira
+gilim kilim₂ gib gil gillim gi₁₆
+giŋ₄ gin₂ gina₂ gim₂ ge₁₁ gi₁₁ gig₄
+gin₃ gen₃ gina₃ kin₃
+gin₇ gim gi₁₈ gen₇ ge₁₈ ki₅ ke₅
+gir giri kiri kir
+gir₄ kir₁₃
+gir₅ giri₅
+gir₉ kir₂ kiri₉
+gir₁₀ gibil₄
+gir₁₁ giri₁₁ girid kiri₇ kirid kirit
+girim gurun₃ girin
+girim₃ girin₂ girima₃ girimma₃
+giriš gereš gireš
+giššir geššir
+gu ku₈
+gu₇ ku₂
+gub gubu guba kub gup kup
+gub₂ gup₂
+gublaga gubalag
+gud gudu gu₄
+gud₂ guda₃ gudu₂
+gug₂ kuk₂
+gul gulu kul₂
+gun₃ gunu₃
+gur₃ gil₃ guru₃
+gur₅ kur₁₂ guru₅
+gur₈ guru₈ gura₈
+gur₁₁ kur₁₅
+gur₁₇ guru₁₇
+gurud kurud kuruda
+gurum girum gam gum₄ gur₂ guru₂ gan₇
+gurum₂ kurum₇
+gurun kurun₆ buru₇ gurin guru₂₀
+gurun₄ guru₊(LAGAB×4)
+ŋa₂ ga₂ ma₃
+ŋal₂ gal₂ gala₇ gagal
+ŋalga galga
+ŋanun ganun
+ŋar gar
+ŋarim garim
+ŋarim₂ garim₂
+ŋarza garza ŋarzu garzu
+ŋarza₂ garza₂
+ŋe₂₆ ge₂₆
+ŋeli₃ ŋili₃ geli₃ gili₃ meli₂ mele₂ mili₂
+ŋen gen gin kin₇ gina₊(DU)
+ŋeš ŋiš giš geš giša kis₂ gez giz
+ŋeš₂ geš₂ gešu ŋiš₂ giš₂ ge₃ gi₃
+ŋeš₃ ŋiš₃
+ŋešbu ŋešpa gešbu gešpa gešpu
+ŋešbun ŋišbun gišbun gizbun gešbun
+ŋešnimbar ŋišnimbar ŋešimmar ŋišimmar gešimmar gišimmar
+ŋešnu gišnu gešnu
+ŋešnu₂ gišnu₂ gešnu₂
+ŋeštae geštae
+ŋeštin geštin ŋeština geština
+ŋeštug geštug ŋištug gištug ŋeštu geštu ŋištu gištu
+ŋeštug₂ geštug₂ ŋištug₂ gištug₂ ŋeštu₂ geštu₂ ŋištu₂ gištu₂
+ŋeštug₃ geštug₃ ŋištug₃ gištug₃ ŋeštu₃ geštu₃ ŋištu₃ gištu₃
+ŋi₆ gig₂ gigi₂ kukku₅ kuku₅ ge₆ gi₆ ŋe₆
+ŋidlam gidlam ŋitlam gitlam nidalam nidlam nitalam nitlam
+ŋidlam₂ gidlam₂ ŋitlam₂ gitlam₂ nidalam₂ nidlam₂ nitalam₂ nitlam₂
+ŋidlam₃ gidlam₃ ŋitlam₃ gitlam₃ nidalam₃ nidlam₃ nitalam₃ nitlam₃
+ŋidru mudru ŋidri ŋedru gidru gidri
+ŋir₂ ŋiri₂ gir₂ giri₂
+ŋiri₃ ŋir₃ giri₃ gir₃ ger₃ giru₃ kir₁₀ kiri₅
+ŋir₁₅ ŋi₇ ŋer₁₅ ŋe₇ gir₁₅ ger₁₅ gi₇ ge₇
+ŋisal gišal gisal gizal ŋizal mizal
+ŋissu gizzu gissu
+ŋišgal gišgal
+ŋiškim ŋiskim izkim iskim giškim gizkim
+ŋizzal gizzal gišzal gizal₂
+ŋu₁₀ gu₁₀ mu
+ŋuruš giriš₂ ŋereš₂ guruš
+ŋušur gušur
+ŋušur₂ gušur₂
+hab haba hap
+habruda habrud
+had hat hata
+had₂ hada₂ hud₂ a₁₂
+hal hala
+halib hilib
+har hara
+haš has haz
+heš hiš haš₃
+heš₅ še₂₉
+hi he ha₄
+hi₂ he₂
+hibiz hibis
+hibiz₂ hibis₂
+hir her
+hirim hirin
+hu u₁₁
+hub₂ hup₂
+huŋ hug hun
+hul hulu hula
+hul₂ hula₂
+hum humu
+hur huru hir₂
+hurin hurim
+huš huša hiš₄
+ib₂ ep₂ ip₂ eb₂
+ibira tibira₂
+id et it idi₂ ed
+id₂ i₇ itu₅ it₂ ita₅ iti₅ ida₂
+id₃ i₈
+ig iga ik eg ek
+igi igu
+igi₃ egi₃
+igištu igeštu
+il₂ ila₂ ili₂
+il₅ ili₅ ele₂ el
+ildum ildu
+ildum₂ ilduma₂ ildumma₂ ildu₂
+ilimmu elimmu
+illar illuru ilar
+ilu ili
+im em imi
+imŋaŋa imgaga
+imŋaŋa₂ imgaga₂
+imŋaŋa₃ imgaga₃
+imin umun₇ imina
+immen emmen enmen emmin immin imma
+immen₂ emmen₂ enmen₂ emmin₂ immin₂
+immindu ninda₃
+immindu₂ inda₄
+in ini en₆
+indagra indagara
+inim enem enim i₅
+ir ere₁₄ eri₁₄ ire₁₄ iri₁₄ ereš₃ er
+ir₉ er₉
+iri eri ulu₄ er₄ ir₄ uru ere
+irigal erigal urugal
+isim₃ isimu₃
+isimud isimu isima
+isin išin
+isiš₃
+išhuru₅ išhurum₅
+išib isib
+itud₊(UD.AN.ŠEŠ.KI) iti₆ id₄ it₄ ita₊(UD.AN.ŠEŠ.KI)
+itud iti itu itid
+izi izu
+ka₂ kan₄
+gab₂ kab gap₂ gabu₂ kap gaba₂ kapa gub₃ gubu₃
+kad₄ kat₄
+kad₅ kat₅
+ka kag₂ kak₂ ga₁₄
+kal gal₉
+kalag kalaga kala
+kalam kalama
+kan gan gana kana gam₄
+kan₃ kana₃
+kar kara gar₁₄
+kar₂ kara₂ gar₁₉
+kaš gaš kas₂
+keš₂ keše₂ kešda keši₂ kiši₂
+ki gu₁₄ ku₁₁ ge₅ gi₅ ke
+kid gid git kit
+kid₂ gid₆ kit₂
+kid₄ gud₉
+kiŋ₂ kig₂ kin kun₁₀
+kim₃ gim₇ gidim₃
+kindagal kindaŋal
+kiri₃ giri₁₇ kir₄
+kisim kiši₉
+kisim₅ kišim₅
+kislah kizlah
+kiš kiši kis
+kiši₄ keše₄
+kiši₈ kisim₄
+ku guz₃ kuz₃ gu₅
+ku₇ guruš₂ kuš₆ kuruš
+kud kut gud₄ ku₅ kutu
+kug ku₃ kuk
+kul kula gul₂ kulu
+kum₂ gum₃ kun₉
+kun ku₁₄ kunu
+kur gur₁₆
+kur₂ kuru₂ gur₁₂
+kur₉ ku₄
+kurun₂ gurun₈
+kurun₃ gurun₇ kurum₁₀
+kurušda gurušta gurušda
+kuš kus kuz guš
+kušu kušum₄ kiši₁₀
+lag lak laka
+lagar lagal
+lagaš lagas lagaša lagasa
+lah la₇ ra₃
+lah₄ lalah laha₄
+lahar lahru
+lam lama
+lammar lamma lamar
+lat lad lata
+li le
+li₂ le₂
+li₉ le₉
+lib₃ lip₃
+ligima ligim
+lik liki lig
+lil₂ lila₂ lel₂
+lim lima limi lum₂
+lim₄ lem₄ lam₂ lama₂
+limmu limu
+limmu₂ limu₂
+lipiš libiš
+lipiš₊(AB₂.ŠA₃) libiš₊(AB₂.ŠA₃)
+liri₄ lirum₄ liru₄
+liri₅ lirum₅ liru₅
+lirum₂ liru₂
+liš lis liz
+lud lut ulud
+lugal lugala
+luŋ₂ lug₂ lun lu₉
+luh luhu rih ruh lih₃
+lul lulu
+lulim lulima
+lum luma lumu
+lum₃ lumu₃
+mabi₂ mammi₂
+mu₂ mud₆
+mudul madal
+mah maha
+mah₂ maha₂
+man men₅ mim₃ min₃ mina₃ mam mana
+mar mara
+maš maša mas
+maš₂ maz₂
+me men₂ meš₂ mi₃
+mel mili mil
+men min₇
+mermer₃ mermeri₃
+mes miš mesa meš₃ mis mez mesi
+mi me₂
+mim₂ nin₂
+min mina
+minbulug menbulug
+minbulug₂ menbulug₂
+mitum₂ middu₂ midda₂ medda₂ meddu₂
+mu₅ ni ne₂
+mu₁₁ ma₈
+mud₂ mitu mut₂ mit
+mug muga muk
+mug₂ muk₃
+muhaldim muhaldima
+mul mulu
+mun munu
+munus mu₁₀ min₂ mem munuz mim mi₂
+munzer munzur musur
+mur muru
+mur₁₀ mu₄
+murgu₃ urgu₂
+muru₃ murim
+murub₄ muru₂ mur₂ muri
+murum₄ muru₄ urum₂ uru₇ ur₉
+murum₅ muru₅
+uzug₅ usug₅ musug₅
+mušen mušena
+nab nap
+nagar nagara
+naŋ naga₂ nag nak
+naŋa naga
+naŋa₃ naga₃
+naŋa₄ naga₄
+nar nari
+ne ni₅
+nemur nimur
+nenkum ninkum
+nesaŋ nesag nisag nisaŋ
+nesaŋ₂ nesag₂ nisag₂ nisaŋ₂
+ni₂ me₁₀
+nindaba nidba
+nig nik
+niga nigan
+niŋ₂ ni₃ nig₂ nin₆
+niŋin nigin ninni₂ nini
+niŋin₂ nigin₂ ni₁₀ nigi₂
+niŋin₃ nigin₃
+niŋin₅ nigin₅
+niŋin₈ nigin₈
+niŋir nimgir nigir nimir₊(DUN₃@g@g)
+nim nima nem num
+nimin nimina
+nin nim₂ min₄ nina₃ nen
+nin₉ nen₉
+ninim nanam
+ninna₂ nenna₂
+ninni₅ nenni₅
+nir nur ninir ner nira
+nir₃ nira₃
+niš neš nis
+nita nitah nit nitahu nintah ninta nintahu nitta₊(UŠ)
+nita₂ nitah₂ nintah₂ ninta₊(ARAD)
+nud nu₂ na₂
+nun nuna nunun nu₆ nuŋ₊(NUN)
+nundum numdum numdun nundun
+nunuz nunus
+pa ba₂
+pad bad₂ pat pata bat₂
+pad₃ pa₃
+pag bag bak pak
+pah bah₃
+pap bab pab bap pa₄
+peš buš₂ biš bis₂ pus puš₃ piš piša pis
+peš₂ piš₂
+peš₄ piš₄
+peš₅ piš₅
+peš₆ piš₆
+piriŋ piriŋa pirig piriga
+piš₁₀ peš₁₀
+pu₂ bu₄
+puglu buglu
+puzur buzur bur₃ buru₃
+puzur₂ buzur₂
+puzur₃ buzur₃
+puzur₄ buzur₄
+rag rak
+# context-dependent
+#rah₂ ra
+rašu razu
+ri re rig₅ de₅ deg₊(RI) di₅
+rib lip₂ rub lib₂ rip
+rig₁₀ ririg
+rum rim₅
+sa ša₁₀
+sabad₂ sad₃
+sad₂ sabad
+sag₂ sig₁₁ seg₁₁
+sag₃ sak₃ zag₂ zak₂ šag₃ sig₃ seg₃
+sag₉ ša₆ šag₅ sa₆ sig₆
+sag₁₀ sig₅
+sag₁₂ sa₇
+sagus saguš
+saŋ šag šak sag saŋa sak
+saŋa₂ sanga₂
+saŋa₃ sanga₃
+saŋa₄ sanga₄
+saŋa₅ sanga₅
+saŋa₆ sanga₆
+saŋa₇ sanga₇
+saŋŋa saŋa₈ sanga sangu
+saŋŋar saggar
+saŋŋar₂ saggar₂
+sah šah₃
+sal sala šal
+saŋtak santak santag santa
+saŋtak₂ santak₂ santag₂ santa₂
+saŋtak₃ santak₃ santag₃ santa₃
+saŋtak₄ santak₄ santag₄ santa₄ šantag šantak
+sam₂ šam₂ sa₁₀
+se₁₁ si₁₁ ši₃
+se₂₈ suz su₁₀ še₂₄ sus
+sed šed₇ sedi sid
+sed₄ še₁₇ šed₁₀
+sed₅ šed₁₁ sedi₅
+sed₆ sedi₆ se₂₇ še₂₃ šed₁₂
+ses sis
+si se seg₉ še₂ sig₉ ši₂
+si₁₄ šikin₂
+sidug sidugga
+sidug₂ siduga₂
+sig šig šik zig₂ seg zik₂ siga sik
+sig₈ seg₈
+sig₁₀ seg₁₀ sik₁₀ si₃ se₃
+sig₁₅ seg₁₅
+sig₁₇ seg₁₇
+siki sig₂ sik₂ šik₂ seg₂
+sikin šikin₃
+silaŋ silag sila₁₁
+silim silima
+silim₂ silima₂
+sipad sibad sipa
+sir₅ šir₅
+siškur siskur sizkur
+siškur₂ siskur₂ sizkur₂
+su sum₃ sug₆ šu₁₁
+su₃ zu₆ šuz
+su₄ si₄ sa₁₁
+sub₂ sup₂
+sub₅ šub₄
+sub₆ subu
+sud šud šut
+sug suk šuk₃ zug zuk
+sug₇ zug₄
+suh sih₄ šuh
+suh₃ sih₅ zih
+suhirim suhirin
+suhub šuhub
+suhub₂ šuhub₂
+suhub₃ sahab šahab
+suhub₄ šuhub₄ sahab₂ šahab₂
+suhuš šuhuš
+sukkal šukal sugal₇ šukkal sukal
+sukud suku₊(GALAM)
+sullat₂ šullat₂
+suluhu zuluhu
+sum₄ sun₄ su₆
+sumun šumun sun suna
+sumun₂ sumunu₂ sumuna₂ sun₂ šun₃ suna₂
+sumur šur₂ sur₂
+sun₅ šum₅
+sur sura šur
+sur₅ suru₅ zuru₅ zur₅
+sur₁₂ su₇
+susbu₂ sušbu šusbu
+ša sa₁₉
+šabra šapra
+šadu šadi
+šag₄ ša₃
+šaŋa šaga
+šaŋa₊(LU₂) šaga₊(LU₂)
+šaŋan šagan šakan šaman₂ saman₄
+šaŋar šagar
+šah sah₂ šaha
+šakir šakira
+šakir₃ šakira₃
+šar₂ šara₆ sar₂ sara₂ sare₂
+šargad sargad šargadu
+šašku šaški
+še₂₁ ša₂₂ sa₄
+šed₆ še₁₀ ši₅
+šeŋ₃ šeg₃ še₇
+šeŋ₆ šeg₆ še₆
+šeŋ₇ šeg₇
+šeg₉ seg₁₄ sig₁₄
+šeg₁₀ šed₁₄ še₂₅ sig₊(KA×ŠID) šig₊(KA×ŠID)
+šeg₁₁ sig₊(KA×BALAG) si₁₈ še₂₆ šid₊(KA×BALAG) ši₊(KA×BALAG) šig₊(KA×BALAG)
+šembi šimbi
+šembi₂ šembizi šimbi₂ šembizid
+šembulug₃ šimbulug₃
+šembulug₄ šimbulug₄
+šemešal šimešal
+šen san₂ šin šun sun₆ zin
+šerimsur šerinsur
+šeš₂ še₈
+šeš₄ še₂₂
+ši si₁₇ še₂₀
+šibir sibir
+šibir₂ sibir₂
+šid šiti šed šud₄ sid₂ šita₅ šit sit₂
+šid₃ šed₃
+šidim šitim
+šilam₂ šallam₂
+šim šem
+šimbirida šembirida
+šir šur₃ sil₈ sir₄ siru sirum
+šir₃ šer₃ ser₃ sir₃
+šub šib₂ šuba₅ sub₇ šup
+šuba suba
+šubtum₃ šubtu₃
+šubtum₄ šubtu₄
+šubtum₅ šubtu₅
+šubtum₆ šubtu₆
+šubtum₇ šubtu₇
+šud₃ šude₃ šudu₃
+šudul šutul šudun šudulu
+šudul₂ šutul₂
+šukbar šugbar
+šukur₂ šuku šukun₃ šuk šug
+šul sul
+šum sum₆ šumu₃
+šum₂ sum sumu šumu₂
+šurum šurim šurun šuru
+šurun₂ šuru₂
+šurum₃ šurun₃ šurim₃
+šurun₄ šurin₄
+šuš šu₄
+šuš₂ šu₂
+šuš₅ šu₅
+šušu susu zusu
+šušin šušina
+šutul₆ šudul₆
+tab dapa₂ taba dab₂ tap tapa dap₂
+tag taka taga tuku₅ tak
+tah dah taha tuh₂
+tak₄ da₁₃ tag₄ taka₄ ta₆ tad
+tal₂ tala₂
+tal₄ til₅
+tal₅ til₆
+tam dam₂
+tan₆ dan₆
+tar tara dar₆
+targul dergul dirgul durgul
+taškarin taskarin
+te teŋ₃ ten ti₇ teg₃
+teme te₃
+ten₃ tin₃
+teš₂ daš tiz₂ tiš₂ taš das taša deš₃ tis₂ tas taz
+ti te₉ tig₄ tiŋ₄ til₃ tila₃ di₃ de₉
+ti₈ te₈
+tilla tila
+tir ter
+tiru tirum
+tu₇ du₁₅
+tug₂ tuku₂ tuk₂
+tuhul tugul
+tuk tuku du₁₂ tug
+tukul tukula
+tukum tukun
+tul₂ dul₂
+tum tim₂ dum
+tum₂ tumu₂ tuma₂
+tum₃ tumu₃
+tum₄ tumu₄
+tumu tum₉ tu₁₅
+tum₊(HUB₂×UD) tun tu₁₀
+tum₊(HUB₂) tun₂ tu₁₁
+tur tul₄ turu tura
+turan duran
+tuš duš tušu
+u un₂
+u₄ ud
+u₈ ua us₅
+ub up uba ubu₂
+ubri ubrim
+udug utug
+udul₂ utul₂
+udul₃ utul₃
+udul₅ utul₅
+udul₆ utul₆
+udul₉ utul₉
+udul₁₀ utul₁₀
+udun utun
+ug uk uku₄
+uŋ₅ ug₅ uga₅ uk₅
+ugu ugun₃
+ugudil ugudili
+ugunu ugun
+ugur₂ ukur₅ agar₄
+uŋ₃ un unu₄ u₁₂ ug₃
+uh₂ uhu₂
+uktin ukdin
+ukur₂ ukra
+ul mul₄
+ulu₃ uru₁₇ u₁₈ lu₇
+uludin ulutim ulutin uludim
+uludin₂ ulutim₂ ulutin₂ uludim₂
+um umu
+uman umun₃
+umbisaŋ umbisag
+umun₂ umum
+umun₁₂ umuna₁₂
+umuš uš₄
+unkin unken ukkin
+unud utul unu₃ udul
+unug unu
+ur ura uru₁₃
+ur₂ uru₈
+ur₄ ura₄
+ur₅ ir₅ ura₅
+urin uri₃ urun uru₃
+ursub urzub
+uru₂ erim₆ erin₆
+uru₄ ur₁₁
+uru₅ ur₁₂ ru₁₀
+uru₆ urum
+uruda urud urudu
+usur₄ ušur₄
+uš₁₁ uh₄
+ušar usar
+utte utu₄
+utuwa utua
+utuwa₂ utua₂
+uz us uza uzu₃ uš₁₀
+uzud ud₅ uz₃
+uzug usug
+za sa₃
+zag sak₆ zak za₃
+zag₃ sag₅
+zagga zanga
+zah₂ sah₆ saha₆ zaha₂
+zah₃ sah₇ saha₇ zaha₃
+zal šal₃ šar₈ sal₃ sar₃ zar₂ zala
+zar sur₈ zur₄ zal₂ sar₆ zara
+ze₂ zi₂ se₂₀ si₂₀
+ze₄ zi₄
+zi zig₃ zid
+zib šib₄ zub₂ zip sip₃
+zid₂ zi₃
+zig zik
+zigara zikara
+zil sil₂
+zipah₂ zapah
+zir₂ sura₁₃
+zizna zezna
+zu su₂
+zu₂ su₁₁ še₂₈ zuh zug₂
+zum sum₂ sim₅

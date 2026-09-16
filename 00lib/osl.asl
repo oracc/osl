@@ -474,69 +474,82 @@
 @oid	o0221974
 @useq	x12000.x1204D.x1207A
 @ucun	𒀀𒁍𒁺
+@v	girim₃
 @@
 @form |A.BU.HA|
 @oid	o0038356
 @useq	x12000.x1204D.x12129
 @ucun	𒀀𒁍𒄩
+@v	girim₃
 @@
 @form |A.BU.HA.DU|
 @oid	o0000659
 @useq	x12000.x1204D.x12129.x1207A
-@ucun	𒀀𒁍𒄩𒁺
+@ucun	𒀀𒁍𒄩𒁺 
+@v	girim₃
 @@
 @form |A.BU.HA.NI.DU|
 @oid	o0000660
 @useq	x12000.x1204D.x12129.x1224C.x1207A
 @ucun	𒀀𒁍𒄩𒉌𒁺
+@v	girim₃
 @@
 @form |A.HA|
 @oid	o0000683
 @useq	x12000.x12129
 @ucun	𒀀𒄩
 @link	eBL |A.HA| https://www.ebl.lmu.de/signs/|A.HA|
+@v	girim₃
 @@
 @form |A.HA.A.DU|
 @oid	o0038354
 @useq	x12000.x12129.x12000.x1207A
 @ucun	𒀀𒄩𒀀𒁺
+@v	girim₃
 @@
 @form |A.HA.BU.DU|
 @oid	o0000676
 @useq	x12000.x12129.x1204D.x1207A
 @ucun	𒀀𒄩𒁍𒁺
+@v	girim₃
 @@
 @form |A.HA.BU.LAGAB|
 @oid	o0000677
 @inote	<href="http://cdli.ucla.edu/P010106" target="_blank">OIP 99, 113<a/> column 3, 6. UD.GAL.NUN writing (LAGAB for DU).
 @useq	x12000.x12129.x1204D.x121B8
 @ucun	𒀀𒄩𒁍𒆸
+@v	girim₃
 @@
 @form |A.HA.BU.TAR.DU|
 @oid	o0000678
 @useq	x12000.x12129.x1204D.x122FB.x1207A
 @ucun	𒀀𒄩𒁍𒋻𒁺
+@v	girim₃
 @@
 @form |A.HA.DU|
 @oid	o0000679
 @inote	RA 8, 42 Rev. col. 1 34, 37.
 @useq	x12000.x12129.x1207A
 @ucun	𒀀𒄩𒁺
+@v	girim₃
 @@
 @form |A.HA.MUŠ.DU|
 @oid	o0000680
 @useq	x12000.x12129.x12232.x1207A
 @ucun	𒀀𒄩𒈲𒁺
+@v	girim₃
 @@
 @form |A.HA.TAR.A.DU|
 @oid	o0038358
 @useq	x12000.x12129.x122FB.x12000.x1207A
 @ucun	𒀀𒄩𒋻𒀀𒁺
+@v	girim₃
 @@
 @form |A.HA.TAR.UD.DU|
 @oid	o0000682
 @useq	x12000.x12129.x122FB.x12313.x1207A
 @ucun	𒀀𒄩𒋻𒌓𒁺
+@v	girim₃
 @@
 @form BU
 @list	LAK232
@@ -554,107 +567,133 @@
 @list	SLLHA371
 @v	hurinₓ
 @link	eBL BU https://www.ebl.lmu.de/signs/BU
+@v	girim₃
 @@
 @form |A.BU.HA.DA|
 @oid	o0038346
 @useq	x12000.x1204D.x12129.x12055
 @ucun	𒀀𒁍𒄩𒁕
 @inote needs collation; DU!?
+@v	girim₃
 @@
 @form |BU.HA.DU|
 @oid	o0038348
 @useq	x1204D.x12129.x1207A
 @ucun	𒁍𒄩𒁺
+@v	girim₃
 @@
 @form |HA.A.DU|
 @oid	o0021758
 @useq	x12129.x12000.x1207A
 @ucun	𒄩𒀀𒁺
+@v	girim₃
 @@
 @form |HA.A.TAR|
 @oid	o0001435
 @useq	x12129.x12000.x122FB
 @ucun	𒄩𒀀𒋻
+@v	girim₃
 @@
 @form |A.TAR|
 @oid	o0038353
 @useq	x12000.x122FB
 @ucun	𒀀𒋻
+@v	girim₃
 @@
 @form |HA.A.TAR.DU|
 @oid	o0001434
 @useq	x12129.x12000.x122FB.x1207A
 @ucun	𒄩𒀀𒋻𒁺
+@v	girim₃
 @@
 @form |HA.DU|
 @oid	o0221868
 @inote	P252875 = CUSAS 35, 260 i 10
 @useq	x12129.x1207A
 @ucun	𒄩𒁺
+@v	girim₃
 @@
 @form |HA.MUŠ.DU|
 @oid	o0019051
 @useq	x12129.x12232.x1207A
 @ucun	𒄩𒈲𒁺
+@v	girim₃
 @@
 @form |HA.MUŠ.A.DU|
 @oid	o0038344
 @useq	x12129.x12232.x12000.x1207A
 @ucun	𒄩𒈲𒀀𒁺
+@v	girim₃
 @@
 @form |HA.TAR.A.DU|
 @oid	o0001438
 @useq	x12129.x122FB.x12000.x1207A
 @ucun	𒄩𒋻𒀀𒁺
+@v	girim₃
 @@
 @form |HA.TAR.DU|
 @oid	o0001439
 @inote	VS 17, 16 10
 @useq	x12129.x122FB.x1207A
 @ucun	𒄩𒋻𒁺
+@v	girim₃
 @@
 @form |HA@g.TAR.A.DU|
 @oid	o0001441
 @inote	JAOS 65, 234 22
 @useq	x1212B.x122FB.x12000.x1207A
 @ucun	𒄫𒋻𒀀𒁺
+@v	girim₃
 @@
 @form |HA@g.TAR.DU|
 @oid	o0001442
 @inote	VS 17, 1 column 4 10
 @useq	x1212B.x122FB.x1207A
 @ucun	𒄫𒋻𒁺
+@v	girim₃
 @@
 @form |MUŠ.A.HA.DU|
 @oid	o0002026
 @useq	x12232.x12000.x12129.x1207A
 @ucun	𒈲𒀀𒄩𒁺
+@v	girim₃
 @@
 @form |MUŠ.HA.A.DU|
 @oid	o0038338
 @useq	x12232.x12129.x12000.x1207A
 @ucun	𒈲𒄩𒀀𒁺
+@v	girim₃
 @@
 @form |MUŠ.DU.HA.A|
 @oid	o0038342
 @useq	x12232.x1207A.x12129.x12000
 @ucun	𒈲𒁺𒄩𒀀
+@v	girim₃
 @@
 @form |MUŠ.DU.A.HA|
 @oid	o0002030
 @useq	x12232.x1207A.x12000.x12129
 @ucun	𒈲𒁺𒀀𒄩
+@v	girim₃
 @@
 @form |DU.MUŠ.A.HA|
 @oid	o0038340
 @useq	x1207A.x12232.x12000.x12129
 @ucun	𒁺𒈲𒀀𒄩
+@v	girim₃
 @@
 @form |TAR.A.DU|
 @oid	o0002405
 @inote	SLT 122 column 6 14
 @useq	x122FB.x12000.x1207A
 @ucun	𒋻𒀀𒁺
+@v	girim₃
+@@
+@form |TAR.HA.DU|
+@oid	o0002405
+@useq	x122FB.x12129.x1207A
+@ucun	𒋻𒄩𒁺
+@v	girim₃
 @@
 @form |TE.A.MUŠ|
 @oid	o0001579
@@ -662,6 +701,7 @@
 @inote	In Ebla; uncertain interpretation. Krebernik BFE, 241
 @useq	x122FC.x12000.x12232
 @ucun	𒋼𒀀𒈲
+@v	girim₃
 @@
 @end sign
 
@@ -38828,6 +38868,7 @@
 @list	U+122E0
 @ucun	𒋠
 @uage	5.0
+@v	daraₓ
 @v	lahrumₓ
 @v	seg₂
 @v	sig₂
