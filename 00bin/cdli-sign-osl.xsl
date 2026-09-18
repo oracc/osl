@@ -2,6 +2,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
     xmlns:x="http://oracc.org/ns/xtf/1.0"
     xmlns:g="http://oracc.org/ns/gdl/1.0"
+    xmlns:a="http://oracc.org/ns/atf/1.0"
     >
   <xsl:output method="text" encoding="utf8"/>
 
@@ -9,12 +10,27 @@
     <xsl:text>&#x9;</xsl:text>
     <xsl:value-of select="@oid"/>
     <xsl:text>&#x9;</xsl:text>
-    <xsl:value-of select="@atf"/>
+    <xsl:value-of select="../@a:form"/>
+    <!--
+    <xsl:choose>
+      <xsl:when test="string-length(@a:ascii)>0">
+	<xsl:value-of select="@a:ascii"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:choose>
+	  <xsl:when test="local-name(.)='c'">
+	    <xsl:value-of select="../@a:form"/>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:call-template name="g-s-or-v"/>	    
+	  </xsl:otherwise>
+	</xsl:choose>
+      </xsl:otherwise>
+      </xsl:choose>
+      -->
   </xsl:template>
 
-  <xsl:template match="g:v|g:s">
-    <xsl:call-template name="oid-atf"/>
-    <xsl:text>&#x9;</xsl:text>
+  <xsl:template name="g-s-or-v">
     <xsl:choose>
       <xsl:when test="g:b">
 	<xsl:apply-templates/>
@@ -23,6 +39,12 @@
 	<xsl:value-of select="text()"/>
       </xsl:otherwise>
     </xsl:choose>
+  </xsl:template>
+
+  <xsl:template match="g:v|g:s">
+    <xsl:call-template name="oid-atf"/>
+    <xsl:text>&#x9;</xsl:text>
+    <xsl:call-template name="g-s-or-v"/>
   </xsl:template>
 
   <xsl:template match="g:b">

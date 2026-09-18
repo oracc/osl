@@ -42,7 +42,7 @@ foreach (@a) {
     my @mapped = ();
     foreach my $x (@x) {
 	if (exists $c{$x}) {
-	    unshift @n, $x;
+	    # unshift @n, $x;
 	    push @mapped, $x;
 	    ++$seen{$x};
 	} else {
@@ -74,7 +74,6 @@ foreach my $c (sort { ${$c{$a}}[0] <=> ${$c{$b}}[0]} keys %c) {
 #foreach my $f (keys %fixed_aliases) {
 #    print "$f @{$fixed_aliases{$f}}\n";
 #}
-
 
 
 1;
