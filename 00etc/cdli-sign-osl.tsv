@@ -13,13 +13,13 @@
 13	o0000092	AD	AD	o0000092	ad	ad	_
 14	o0000213	GIR2	GIR₂	o0000214	ad2	ad₂	at₂
 15	o0001928	|LUxBAD|	|LU×BAD|	o0001928	ad3	ad₃	_
-16		ZA@45@45	ZA@45	o0000604	ad4	ad₄	_
-17	o0001967	KWU082	KWU082	o0001967	ad6	ad₆	at₆ adda
-18	o0000440	KWU081	KWU081	o0000440	ad7	ad₇	_
-19	o0001957	KWU083	KWU083	o0001957	ad8	ad₈	_
+16		ZA@45	ZA@45	o0000604	ad4	ad₄	_
+17	o0001967		KWU082	o0001967	ad6	ad₆	at₆ adda
+18	o0000440		KWU081	o0000440	ad7	ad₇	_
+19	o0001957		KWU083	o0001957	ad8	ad₈	_
 20	o0002508	|UD.NUN|	|UD.NUN|	o0002508	adab	adab	_
 21	o0000715	|A.PA.GISAL.PAD.DIR|	|A.PA.GISAL.PAD.SI.A|	o0000715	addir	addir	_
-22	o0000214	GIR2@g	GIR₂@g	o0000214	addu3	addu₃	_
+22	o0000214	GIR₂@g	GIR₂@g	o0000214	addu3	addu₃	_
 23	o0000093	AG	AG	o0000093	ag	ag	_
 24	o0002109	|NINDA2xNE|	|NINDA₂×NE|	o0002109	ag2	ag₂	aŋ₂ aga₂ aka₂
 25	o0000162	MIR	MIR	o0000162	aga	aga	_
@@ -29,13 +29,13 @@
 29	o0001149	|E2.NUN|	|E₂.NUN|	o0001149	agrun	agrun	agru₊(E₂.NUN) agruna₊(E₂.NUN)
 30	o0001462	AH	AH	o0001462	ah	ah	_
 31	o0000093	AG	AG	o0000093	ak	ak	_
-32	o0000953	|DAG.|(KISIM₅×GA)||	|DAG.(KISIM₅×GA)|	o0000953	akan	akan	akani
+32	o0000953	|DAG.|	|DAG.(KISIM₅×GA)|	o0000953	akan	akan	akani
 33		|GAD.KID.SI|	|GAD.KID.SI|	o0001190	akkil	akkil	_
 34	o0002500	UH2	UH₂	o0002500	akszak	akšak	_
 35	o0000688	|A.KUSZU2|	|A.KUŠU₂|	o0000688	akszak2	akšak₂	_
 36	o0000721	|A.SU|	|A.SU|	o0000721	aktum	aktum	_
 37	o0002368	|SU.A|	|SU.A|	o0002368	aktum2	aktum₂	_
-38	o0038236	|A.ZU|	|A.ZU|	o0038236	aktumₓ(|A.ZU|)~|A.ZU|	aktumₓ	_
+38	o0038236	|A.ZU|	|A.ZU|	o0038236	aktumx(|A.ZU|)	aktumₓ(|A.ZU|)	_
 39	o0000094	AL	AL	o0000094	al	al	ala₃
 40	o0000095	ALAM	ALAM	o0000095	al2	al₂	_
 41	o0000199	GAN2	GAN₂	o0000199	al3	al₃	_
@@ -61,7 +61,7 @@
 62	o0000101	ANSZE	ANŠE	o0000101	ansze	anše	anšu
 63	o0000811	|AN.IM.DUGUD|	|AN.IM.DUGUD|	o0000811	anzu	anzu	_
 64	o0000812	|AN.IM.MI|	|AN.IM.MI|	o0000812	anzu2	anzu₂	_
-65	o0018514	|IM.MI|	|IM.MI|		anzuₓ(|IM.MI|)~|IM.MI|	anzuₓ	_
+65	o0018514	|IM.MI|	|IM.MI|		anzux(|IM.MI|)	anzuₓ(|IM.MI|)	_
 66	o0000088	AB	AB	o0000088	ap	ap	_
 67	o0000102	APIN	APIN	o0000102	apin	apin	apina
 68	o0000093	AG	AG	o0000093	aq	aq	_
@@ -70,14 +70,23 @@
 71	o0001452	HAR	HAR	o0001452	ar3	ar₃	ara₃
 72	o0000103	ARAD	ARAD	o0000103	arad	arad	_
 73	o0000843	ARAD2	ARAD₂	o0000843	arad2	arad₂	ir₁₁ urda₂ urdu₂
-74	o0037991	||LAM×KUR|.RU|	|LAM×KUR.RU|	o0001904	aratta	aratta	arata
+74	o0037991	|.RU|	|LAM×KUR.RU|	o0001904	aratta	aratta	arata
 75	o0001322	ARHUSZ	ARHUŠ	o0001322	arhusz	arhuš	_
 76	o0002245	AZ	AZ	o0002245	as	as	_
 77	o0002245	AZ	AZ	o0002245	as,	aṣ	_
 78	o0000110	ASZ2	AŠ₂	o0000110	as2	as₂	_
 79	o0002566	ASARI	ASARI	o0002566	asal	asal	_
 80	o0000723	|A.TU.GAB.LISZ|	|A.TU.GABA.LIŠ|	o0000723	asal2	asal₂	asar₂ ašar₂
-90		|TU.NIR|	|TU.NUN&NUN|		asalₓ(|TU.NIR|)~|TU.NUN&NUN|	asalₓ	_
+81	o0000667	|A.GAB.LISZ.TU|	|A.GABA.LIŠ.TU|		asalx(|A.GAB.LISZ.TU|)	asalₓ(|A.GAB.LIŠ.TU|)	_
+82	o0000672	|A.GISZ.TU.GAB.LISZ|	|A.GIŠ.TU.GABA.LIŠ|		asalx(|A.GISZ.TU.GAB.LISZ|)	asalₓ(|A.GIŠ.TU.GAB.LIŠ|)	_
+83	o0000725	|A.TU.GAB|	|A.TU.GABA|		asalx(|A.TU.GAB|)	asalₓ(|A.TU.GAB|)	_
+84		|A.TU.LISZ|	|A.TU.LIŠ|		asalx(|A.TU.LISZ|)	asalₓ(|A.TU.LIŠ|)	_
+85	o0152713	|A.TU.NIR.GAB.LISZ|	|A.TU.NUN&NUN.GABA.LIŠ|		asalx(|A.TU.NIR.GAB.LISZ|)	asalₓ(|A.TU.NIR.GAB.LIŠ|)	_
+86	o0152714	|A.TU.NIR.LISZ|	|A.TU.NUN&NUN.LIŠ|		asalx(|A.TU.NIR.LISZ|)	asalₓ(|A.TU.NIR.LIŠ|)	_
+87	o0000726	|A.TU.NIR|	|A.TU.NUN&NUN|		asalx(|A.TU.NIR|)	asalₓ(|A.TU.NIR|)	_
+88	o0000728	|A.TU|	|A.TU|		asalx(|A.TU|)	asalₓ(|A.TU|)	_
+89	o0001182	|GAB.LISZ|	|GABA.LIŠ|		asalx(|GAB.LISZ|)	asalₓ(|GAB.LIŠ|)	_
+90		|TU.NIR|	|TU.NUN&NUN|		asalx(|TU.NIR|)	asalₓ(|TU.NIR|)	_
 91	o0002566	ASARI	ASARI	o0002566	asar	asar	_
 92	o0001102	|EZENxA|	|EZEN×A|	o0001102	asila3	asila₃	_
 94	o0000110	ASZ2	AŠ₂	o0000110	asz2	aš₂	_
@@ -105,7 +114,7 @@
 117	o0002512	|UD.UD|	|UD.UD|	o0002512	babbar2	babbar₂	_
 118	o0001679	|KA2.AN|	|KA₂.AN|	o0001679	babila	babila	_
 119	o0001678	|KA2.AN.RA|	|KA₂.AN.RA|	o0001678	babila2	babila₂	_
-120	o0000982	|DIN.TIR|	|DIN.ŠE.NUN&NUN|	o0000982	babilaₓ(|DIN.TIR|)~|DIN.ŠE.NUN&NUN|	babilaₓ	_
+120	o0000982	|DIN.TIR|	|DIN.ŠE.NUN&NUN|	o0000982	babilax(|DIN.TIR|)	babilaₓ(|DIN.TIR|)	_
 121	o0000114	BAD	BAD	o0000114	bad	bad	bada bat pat₂ bata ba₉ pad₂
 122	o0001104	BAD3	BAD₃	o0001104	bad3	bad₃	_
 123	o0001005	|DUG.SILA3.BUR|	|DUG.SILA₃.BUR|	o0000117	bahar2	bahar₂	_
@@ -144,7 +153,7 @@
 157	o0000175	ERIM	ERIM	o0032009	bir3	bir₃	_
 158	o0000167	EDIN	EDIN	o0000167	bir4	bir₄	_
 159	o0000474	NAM	NAM	o0000474	bir5	bir₅	pir₆
-160	o0002752	|SZIMxNIG2|	|ŠIM×GAR|	o0002752	birₓ(|ŠIM×NIG₂|)~|ŠIM×GAR|	birₓ	_
+160	o0002752	|SZIMxNIG2|	|ŠIM×GAR|	o0002752	birx(|SZIMxNIG2|)	birₓ(|ŠIM×NIG₂|)	_
 161	o0000233	GIR	GIR	o0000233	bisz	biš	_
 162	o0000180	E2	E₂	o0000180	bit	bit	bid pid biti pit betu
 163	o0000124	BU	BU	o0000124	bu	bu	_
@@ -161,18 +170,18 @@
 174	o0000128	BULUG	BULUG	o0000128	bulug	bulug	_
 175	o0002231	BULUG3	BULUG₃	o0002231	bulug3	bulug₃	_
 176	o0000473	NAGAR	NAGAR	o0000473	bulug4	bulug₄	_
-177	o0002752	|SZIMxNIG2|	|ŠIM×GAR|		bulugₓ(|ŠIM×NIG₂|)~|ŠIM×GAR|	bulugₓ	_
+177	o0002752	|SZIMxNIG2|	|ŠIM×GAR|		bulugx(|SZIMxNIG2|)	bulugₓ(|ŠIM×NIG₂|)	_
 178	o0000119	BALAG	BALAG	o0000119	bum2	bum₂	_
 179	o0001818	BUN	BUN	o0001818	bun	bun	_
 180	o0001638	BUN2	BUN₂	o0001638	bun2	bun₂	_
 181	o0000129	BUR	BUR	o0000129	bur	bur	puru pur buru
 182	o0000131	BUR2	BUR₂	o0000131	bur2	bur₂	pul₂ bul₂ buru₂
 184	o0002490	|UD.KIB.NUN|	|UD.GIŠ%GIŠ.NUN|	o0002490	buranun	buranun	_
-185	o0221913	|UD.NUN.KIB|	|UD.NUN.GIŠ%GIŠ|	o0221913	buranunₓ(|UD.NUN.KIB|)~|UD.NUN.GIŠ%GIŠ|	buranunₓ	_
+185	o0221913	|UD.NUN.KIB|	|UD.NUN.GIŠ%GIŠ|	o0221913	buranunx(|UD.NUN.KIB|)	buranunₓ(|UD.NUN.KIB|)	_
 186	o0001078	BURU14	BURU₁₄	o0001078	buru14	buru₁₄	_
 187		|SZIR.BUR|	|ŠIR.BUR|	o0002165	buru4	buru₄	_
 188	o0000130	BURU5	BURU₅	o0000130	buru5	buru₅	_
-189	o0001838	TUL2	TUL₂	o0001838	burₓ(TUL₂)~TUL₂	burₓ	_
+189	o0001838	TUL2	TUL₂	o0001838	burx(TUL2)	burₓ(TUL₂)	_
 190	o0000132	DA	DA	o0000132	da	da	_
 191	o0000269	GAG	GAG	o0000269	da3	da₃	_
 192	o0000584	URUDU	URUDU	o0000584	da5	da₅	_
@@ -181,13 +190,15 @@
 195	o0000289	KU	KU	o0000289	dab5	dab₅	daba₅ dib₂
 196	o0000584	URUDU	URUDU	o0000584	dab6	dab₆	_
 197	o0001135	|SZE3.SZE|	|EŠ₂.ŠE|	o0001135	dabin	dabin	_
-200	o0001778	U8	U₈	o0001778	dabₓ(U₈)~U₈	dabₓ	_
+198	o0221877	|LAGABx|	|LAGAB×(BAD&BAD)|	o0221877	dabx(|LAGABx|)	dabₓ(|LAGAB×|)	_
+199	o0001811	|LAGABxGU4|	|LAGAB×GUD|	o0001811	dabx(|LAGABxGU4|)	dabₓ(|LAGAB×GU₄|)	_
+200	o0001778	U8	U₈	o0001778	dabx(U8)	dabₓ(U₈)	_
 201		|UD.UD|	|UD.UD|	o0002512	dadag	dadag	_
 202	o0000133	DAG	DAG	o0000133	dag	dag	_
 203	o0000565	UD	UD	o0000565	dag2	dag₂	_
 204	o0001363	KIB	KIB	o0032005	dag3	dag₃	_
 205	o0001286	AMA	AMA	o0001286	dagal	dagal	daŋal dagala
-206	o0021192	KWU844	KWU844	o0021192	dagₓ(KWU844)~KWU844	dagₓ	_
+206	o0021192		KWU844	o0021192	dagx()	dagₓ()	_
 207	o0002016	DAH	DAH	o0002016	dah	dah	_
 208	o0000514	RI	RI	o0000514	dal	dal	_
 209	o0001500	|IGI.GAG|	|IGI.KAK|	o0001500	dala2	dala₂	dalla₂
@@ -214,7 +225,7 @@
 230	o0000553	TI	TI	o0000553	di3	di₃	_
 231	o0000560	TUR	TUR	o0000560	di4	di₄	_
 232	o0000140	DIB	DIB	o0000140	dib	dib	deb dibi dip tib tip
-233		|LAGABx(null)|	|LAGAB×(DIŠ+(BAD&BAD))|		dibₓ(|LAGAB×(DIŠ+(BAD&BAD))|)~|LAGAB×(DIŠ+(BAD&BAD))|	dibₓ	_
+233		|LAGABx|	|LAGAB×(DIŠ+(BAD&BAD))|		dibx(|LAGABx|)	dibₓ(|LAGAB×|)	_
 234	o0002636	|U2.SA|	|U₂.SA|	o0000921	dida	dida	_
 235	o0002612	|USZ.SA|	|UŠ.SA|	o0000919	dida2	dida₂	_
 236	o0000866	|ASZ.ASZ|	|AŠ.AŠ|	o0000866	didli	didli	_
@@ -238,7 +249,7 @@
 255	o0000558	TUK	TUK	o0000558	du12	du₁₂	_
 256	o0000556	TU	TU	o0000556	du2	du₂	_
 257	o0000269	GAG	GAG	o0000269	du3	du₃	_
-258		|GIN2|	|DUN₃@g@n|	o0000160	du5	du₅	dun₃ tun₃
+258		|GIN₂@n|	|DUN₃@g@n|	o0000160	du5	du₅	dun₃ tun₃
 259	o0000308	DU6	DU₆	o0000308	du6	du₆	dul₆ tul₅ til₂
 260	o0002459	UL	UL	o0002459	du7	du₇	_
 261	o0000190	GAB	GAB	o0000157	du8	du₈	_
@@ -252,8 +263,8 @@
 269	o0000519	DUL3	DUL₃	o0000519	dul3	dul₃	_
 270	o0000164	DUN4	DUN₄	o0000164	dul4	dul₄	tul₆
 271		TUG5	TUG₅	o0000557	dul5	dul₅	_
-272	o0000578	UR@s@s	UR@s	o0000578	dul9	dul₉	_
-273	o0000576	UR	UR	o0000576	dulₓ(UR)~UR	dulₓ	_
+272	o0000578	UR@s	UR@s	o0000578	dul9	dul₉	_
+273	o0000576	UR	UR	o0000576	dulx(UR)	dulₓ(UR)	_
 274	o0000559	TUM	TUM	o0000559	dum	dum	_
 275	o0000560	TUR	TUR	o0000560	dumu	dumu	_
 276	o0000158	SZUL	ŠUL	o0000158	dun	dun	tun₄ duna
@@ -264,11 +275,12 @@
 281	o0000831	|ANSZE.ARAD|	|ANŠE.ARAD|	o0000831	dur3	dur₃	duru₃
 282	o0000158	SZUL	ŠUL	o0000158	dur9	dur₉	_
 283	o0000087	A	A	o0000087	duru5	duru₅	dur₅
-284	o0001755	|KU.KU|	|KU.KU|	o0001755	durunₓ(|KU.KU|)~|KU.KU|	durunₓ	_
-285	o0001487	U3	U₃		duruₓ(U₃)~U₃	duruₓ	_
+284	o0001755	|KU.KU|	|KU.KU|	o0001755	durunx(|KU.KU|)	durunₓ(|KU.KU|)	_
+285	o0001487	U3	U₃		durux(U3)	duruₓ(U₃)	_
 286	o0000252	IL2	IL₂	o0000252	dusu	dusu	_
 287	o0000833	|ANSZE.LIBIR|	|ANŠE.IGI.EŠ₂|	o0000833	dusu2	dusu₂	dusi₂
-289	o0000160	KWU858	KWU858		duₓ(KWU858)~KWU858	duₓ	_
+288	o0000161	GIN2	GIN₂		dux(GIN2)	duₓ(GIN₂)	_
+289	o0000160		KWU858		dux()	duₓ()	_
 290	o0000166	E	E	o0000166	e	e	eki eg₂ ig₂ i₁₅
 291	o0001850	|DU6.DU|	|LAGAR@g.DU|	o0001850	e11	e₁₁	ed₃
 292	o0000180	E2	E₂	o0000180	e2	e₂	a₁₄
@@ -286,7 +298,7 @@
 304	o0002300	EGI2	EGI₂	o0002300	egir3	egir₃	_
 305	o0000528	MURGU	MURGU	o0000461	egir5	egir₅	eger₅
 306	o0000528	SIG4	SIG₄	o0000528	egir6	egir₆	eger₆
-307	o0090339	KWU733	KWU733	o0090339	egirₓ(KWU733)~KWU733	egirₓ	_
+307	o0090339		KWU733	o0090339	egirx()	egirₓ()	_
 308	o0001462	AH	AH	o0001462	eh	eh	_
 309	o0000170	EL	EL	o0000170	el	el	il₅ ili₅ ele₂
 310	o0001524	|ILxKAR2|	|IL×GAN₂@t|	o0001524	el4	el₄	_
@@ -306,12 +318,12 @@
 324	o0002824	SZA	ŠA	o0002824	en8	en₈	_
 325	o0000102	APIN	APIN	o0000102	engar	engar	engara
 326	o0001059	|EN.ME.GI|	|EN.ME.GI|	o0001059	engiz	engiz	_
-327	o0001051	|EN.GI|	|EN.GI|	o0001051	engizₓ(|EN.GI|)~|EN.GI|	engizₓ	_
+327	o0001051	|EN.GI|	|EN.GI|	o0001051	engizx(|EN.GI|)	engizₓ(|EN.GI|)	_
 328	o0001814	ENGUR	ENGUR	o0001814	engur	engur	angur
 329	o0002659	|ZAG.HA|	|ZAG.HA|	o0002659	enku	enku	enkud
 330	o0001062	|EN.ME.LI|	|EN.ME.LI|	o0001062	ensi	ensi	_
 331	o0002206	|PA.TE.SI|	|PA.TE.SI|	o0002206	ensi2	ensi₂	ensik
-332	o0001082	||(EN×ME)|.LI|	|(EN×ME).LI|	o0001083	ensi3	ensi₃	_
+332	o0001082	|.LI|	|(EN×ME).LI|	o0001083	ensi3	ensi₃	_
 333	o0000244	IB	IB	o0000244	ep	ep	_
 334	o0000527	SIG	SIG	o0000527	epig	epig	_
 335	o0000155	DUG	DUG	o0000155	epir	epir	ebir
@@ -328,7 +340,7 @@
 346	o0001326	ERIM4	ERIM₄	o0001326	erim4	erim₄	erin₄
 347	o0000174	EREN	EREN	o0000174	erin	erin	eren
 348	o0000175	ERIM	ERIM	o0000175	erin2	erin₂	eren₂ erena₂ erina₂ erem erim
-349	o0000304	KWU896	KWU896	o0000304	erinₓ(KWU896)~KWU896	erinₓ	_
+349	o0000304		KWU896	o0000304	erinx()	erinₓ()	_
 350	o0002323	NIN	NIN	o0002323	erisz	eriš	ereš
 351	o0000470	NAGA	NAGA	o0000470	erisz2	eriš₂	_
 352	o0000217	GISZ	GIŠ	o0000217	es	es	_
@@ -338,7 +350,7 @@
 357		|LAGAB.KUL|	|LAGAB.KUL|	o0000700	esir	esir	ešer
 358	o0001821	ESIR2	ESIR₂	o0001821	esir2	esir₂	_
 359	o0002471	ESZ	EŠ	o0002471	esz	eš	_
-360		|GE₂₃(AŠ)|	|GE₂₃(AŠ)|	o0223363	esz18	eš₁₈	_
+360		|GE23(AŠ@t)|	|GE₂₃(AŠ)|	o0223363	esz18	eš₁₈	_
 361	o0000178	SZE3	ŠE₃	o0000178	esz2	eš₂	_
 362	o0000088	AB	AB	o0000088	esz3	eš₃	_
 363	o0000145	DISZ	DIŠ	o0000145	esz4	eš₄	_
@@ -357,7 +369,7 @@
 377	o0000263	KAB	KAB	o0000263	gab2	gab₂	_
 378	o0001611	NAG	NAG	o0001611	gab3	gab₃	_
 379	o0000190	GAB	GAB	o0000190	gaba	gaba	_
-380	o0002174	|PA.DAG.|(KISIM₅×GAG)||	|PA.DAG.(KISIM₅×KAK)|	o0002174	gabar	gabar	kabar kapar
+380	o0002174	|PA.DAG.|	|PA.DAG.(KISIM₅×KAK)|	o0002174	gabar	gabar	kabar kapar
 381	o0000193	GAD	GAD	o0000193	gada	gada	_
 382	o0000269	GAG	GAG	o0000269	gag	gag	_
 383	o0000194	GAL	GAL	o0000194	gal	gal	_
@@ -382,13 +394,13 @@
 402	o0000528	SIG4	SIG₄	o0000528	gar8	gar₈	ŋar₈
 403	o0000188	GAR2	GAR₂	o0000188	gara2	gara₂	_
 404		ZUM2	ZUM₂	o0000393	garig2	garig₂	_
-405	o0002677	|ZUM.SI|	|ZUM.SI|		garigₓ(|ZUM.SI|)~|ZUM.SI|	garigₓ	_
+405	o0002677	|ZUM.SI|	|ZUM.SI|		garigx(|ZUM.SI|)	garigₓ(|ZUM.SI|)	_
 406	o0002171	|PA.AN|	|PA.AN|	o0002171	garza	garza	ŋarza ŋarzu garzu
 407	o0002136	|NUN.ME.TAG|	|NUN.ME.TAG|	o0002136	gaszam	gašam	_
-408	o0002010	|ME.NUN.TAG|	|ME.NUN.TAG|	o0002010	gašamₓ(|ME.NUN.TAG|)~|ME.NUN.TAG|	gašamₓ	_
+408	o0002010	|ME.NUN.TAG|	|ME.NUN.TAG|	o0002010	gaszamx(|ME.NUN.TAG|)	gašamₓ(|ME.NUN.TAG|)	_
 409	o0001424	GAZ	GAZ	o0001424	gaz	gaz	_
 410	o0221935	|GA2xASZ2|	|GA₂×AŠ₂|	o0001329	gazi	gazi	_
-411	o0000225	KUM	KUM	o0000225	gazₓ(KUM)~KUM	gazₓ	_
+411	o0000225	KUM	KUM	o0000225	gazx(KUM)	gazₓ(KUM)	_
 412	o0000210	GI	GI	o0000210	ge	ge	_
 413	o0000281	KID	KID	o0000281	ge2	ge₂	_
 414	o0000206	GA2	GA₂	o0000206	ge26	ge₂₆	ŋe₂₆
@@ -399,6 +411,7 @@
 419	o0002304	GEME2	GEME₂	o0002304	geme2	geme₂	_
 420	o0000149	DU	DU	o0000149	gen	gen	ŋen gin kin₇ gina₊(DU)
 421	o0000294	KUR	KUR	o0000294	gen3	gen₃	_
+422	o0000217	GISZ	GIŠ	o0000217	gesz	geš	ŋeš ŋiš giš giša kis₂ gez giz
 424	o0000595	USZ	UŠ	o0000595	gesz3	geš₃	_
 425	o0002799	|SZU.BULUG3|	|ŠU.PAP.PAP|	o0002799	geszba2	gešba₂	_
 426	o0001687	|KI.BI.NIG2|	|KI.BI.GAR|	o0001687	geszbun	gešbun	ŋešbun ŋišbun gišbun gizbun
@@ -410,7 +423,7 @@
 432	o0000502	PI	PI	o0000502	gesztu	geštu	ŋeštug geštug ŋištug gištug ŋeštu ŋištu gištu
 433	o0001401	|GISZ.TUG2.PI|	|GIŠ.TUG₂.PI|	o0001401	gesztu2	geštu₂	ŋeštug₂ geštug₂ ŋištug₂ gištug₂ ŋeštu₂ ŋištu₂ gištu₂
 434	o0001387	|GISZ.PI.TUG2|	|GIŠ.PI.TUG₂|	o0001387	gesztu3	geštu₃	ŋeštug₃ geštug₃ ŋištug₃ gištug₃ ŋeštu₃ ŋištu₃ gištu₃
-435	o0002615	|USZxKUR|	|UŠ×KUR|	o0002615	gešₓ(|UŠ×KUR|)~|UŠ×KUR|	gešₓ	_
+435	o0002615	|USZxKUR|	|UŠ×KUR|	o0002615	geszx(|USZxKUR|)	gešₓ(|UŠ×KUR|)	_
 436	o0000210	GI	GI	o0000210	gi	gi	_
 437	o0000143	GIM	GIM	o0000143	gi18	gi₁₈	_
 438	o0000219	GI4	GI₄	o0000219	gi4	gi₄	_
@@ -429,12 +442,13 @@
 451	o0001838	TUL2	TUL₂	o0001838	gigir2	gigir₂	_
 452	o0001335	GIL	GIL	o0001335	gil	gil	gilim kilim₂ gib gillim gi₁₆
 453	o0001380	|BIL4.GA.MES|	|GIŠ.NE.GA.MES|	o0001380	gilgames3	gilgames₃	_
-455	o0221900	|BIL3.GA.MES|	|GIŠ.NE@s.GA.MES|		gilgamesₓ(|BIL₃.GA.MES|)~|GIŠ.NE@s.GA.MES|	gilgamesₓ	_
+454	o0221977	|BIL2.GA.MES|	|NE@s.GA.MES|	o0221977	gilgamesx(|BIL2.GA.MES|)	gilgamesₓ(|BIL₂.GA.MES|)	_
+455	o0221900	|BIL3.GA.MES|	|GIŠ.NE@s.GA.MES|		gilgamesx(|BIL3.GA.MES|)	gilgamesₓ(|BIL₃.GA.MES|)	_
 456	o0000161	GIN2	GIN₂	o0000161	gin2	gin₂	giŋ₄ gina₂ gim₂ ge₁₁ gi₁₁ gig₄
 457	o0000294	KUR	KUR	o0000294	gin3	gin₃	_
 458	o0000143	GIM	GIM	o0000143	gin7	gin₇	_
 459	o0000233	GIR	GIR	o0000233	gir	gir	_
-460		EZEN@g@g	EZEN@g	o0000278	gir11	gir₁₁	giri₁₁ girid kiri₇ kirid kirit
+460		EZEN@g	EZEN@g	o0000278	gir11	gir₁₁	giri₁₁ girid kiri₇ kirid kirit
 461	o0002837	SZID	ŠID	o0002837	gir13	gir₁₃	_
 462	o0001351	|GIR3xKAR2|	|GIR₃×GAN₂@t|	o0001351	gir16	gir₁₆	_
 463	o0000213	GIR2	GIR₂	o0000213	gir2	gir₂	ŋir₂ ŋiri₂ giri₂
@@ -445,7 +459,7 @@
 468	o0000215	GIR3	GIR₃	o0000215	giri3	giri₃	_
 469	o0000152	KASZ4	KAŠ₄	o0000152	girim2	girim₂	_
 470	o0000681	|A.HA.TAR.DU|	|A.HA.TAR.DU|	o0000681	girim3	girim₃	girin₂ girima₃ girimma₃
-471	o0000659	|A.BU.HA.DU|	|A.BU.HA.DU|		girimₓ(|A.BU.HA.DU|)~|A.BU.HA.DU|	girimₓ	_
+471	o0000659	|A.BU.HA.DU|	|A.BU.HA.DU|		girimx(|A.BU.HA.DU|)	girimₓ(|A.BU.HA.DU|)	_
 472	o0000217	GISZ	GIŠ	o0000217	gis	gis	_
 473	o0001378	|GISZ.MI|	|GIŠ.MI|	o0001378	gissu	gissu	ŋissu gizzu
 474	o0000221	GU	GU	o0000221	gu	gu	_
@@ -461,7 +475,7 @@
 484	o0001461	|AH.ME|	|HI×NUN.ME|	o0001461	gudu4	gudu₄	_
 485	o0002643	GUG	GUG	o0002643	gug	gug	_
 486	o0000443	GUG2	GUG₂	o0000443	gug2	gug₂	kuk₂
-487	o0002665	||ZI&ZI|.LAGAB|	|ZI&ZI.LAGAB|	o0002665	gug4	gug₄	_
+487	o0002665	|.LAGAB|	|ZI&ZI.LAGAB|	o0002665	gug4	gug₄	_
 488	o0001909	|LU.HUL2|	|LU.HUL₂|	o0001909	gukkal	gukkal	_
 489	o0000224	GUL	GUL	o0000224	gul	gul	_
 490	o0000225	KUM	KUM	o0000225	gum	gum	_
@@ -482,11 +496,12 @@
 505	o0000229	GUR7	GUR₇	o0000229	guru7	guru₇	_
 506	o0000196	GAM	GAM	o0000196	gurum	gurum	_
 507	o0001497	|IGI.NIG2|	|IGI.GAR|	o0001492	gurum2	gurum₂	kurum₇
-508	o0001492	|IGI.ERIM|	|IGI.ERIN₂|		gurumₓ(|IGI.ERIM|)~|IGI.ERIN₂|	gurumₓ	_
+508	o0001492	|IGI.ERIM|	|IGI.ERIN₂|		gurumx(|IGI.ERIM|)	gurumₓ(|IGI.ERIM|)	_
 509	o0000227	GURUN	GURUN	o0000227	gurun	gurun	kurun₆ buru₇ gurin guru₂₀
 510	o0000155	DUG	DUG	o0000155	gurun7	gurun₇	_
 511	o0000270	KAL	KAL	o0000228	gurusz	guruš	ŋuruš giriš₂ ŋereš₂
-513	o0002730	|SZE.SZE.KIN|	|ŠE.ŠE.KIN|	o0002730	gurₓ(|ŠE.ŠE.KIN|)~|ŠE.ŠE.KIN|	gurₓ	_
+512	o0002719	|SZE.KIN|	|ŠE.KIN|	o0002719	gurx(|SZE.KIN|)	gurₓ(|ŠE.KIN|)	_
+513	o0002730	|SZE.SZE.KIN|	|ŠE.ŠE.KIN|	o0002730	gurx(|SZE.SZE.KIN|)	gurₓ(|ŠE.ŠE.KIN|)	_
 514	o0000438	LUM	LUM	o0000438	guz	guz	_
 515	o0001750	|KU.NIG2|	|KU.GAR|	o0001750	guzza	guzza	_
 516	o0000232	HA	HA	o0000232	ha	ha	_
@@ -497,8 +512,8 @@
 521	o0000565	UD	UD	o0000565	had2	had₂	hada₂ hud₂ a₁₂
 522	o0000236	HAL	HAL	o0000236	hal	hal	hala
 523	o0001452	HAR	HAR	o0001452	har	har	hara
-524	o0000952	|DAG.|(KISIM₅×BI)||	|DAG.(KISIM₅×BI)|	o0000952	hara4	hara₄	_
-525	o0000958	|DAG.|(KISIM₅×IR)||	|DAG.(KISIM₅×IR)|	o0000958	haraₓ(|DAG.(KISIM₅×IR)|)~|DAG.(KISIM₅×IR)|	haraₓ	_
+524	o0000952	|DAG.|	|DAG.(KISIM₅×BI)|	o0000952	hara4	hara₄	_
+525	o0000958	|DAG.|	|DAG.(KISIM₅×IR)|	o0000958	harax(|DAG.|)	haraₓ(|DAG.|)	_
 526	o0000275	KASKAL	KASKAL		harran	harran	_
 527	o0000548	TAR	TAR	o0000548	hasz	haš	has haz
 528	o0000445	HASZHUR	HAŠHUR	o0000445	haszhur	hašhur	_
@@ -507,11 +522,12 @@
 531	o0000197	GAN	GAN	o0000197	he2	he₂	hi₂
 532	o0000497	PA	PA	o0000497	hendur	hendur	_
 533	o0000237	HI	HI	o0000237	hi	hi	_
-534		EZEN@g@g	EZEN@g	o0000278	hir	hir	her
-536	o0000248	SIG7	SIG₇		hirinₓ(SIG₇)~SIG₇	hirinₓ	_
+534		EZEN@g	EZEN@g	o0000278	hir	hir	her
+535	o0000300		KWU318	o0000300	hirinx()	hirinₓ()	_
+536	o0000248	SIG7	SIG₇		hirinx(SIG7)	hirinₓ(SIG₇)	_
 537	o0000239	HU	HU	o0000239	hu	hu	u₁₁
 538	o0000240	HUB2	HUB₂	o0000240	hub2	hub₂	hup₂
-539	o0000122	BI	BI	o0000122	huburₓ(BI)~BI	huburₓ	_
+539	o0000122	BI	BI	o0000122	huburx(BI)	huburₓ(BI)	_
 540	o0001516	HUL	HUL	o0001516	hul	hul	hulu hula
 541	o0000241	HUL2	HUL₂	o0000241	hul2	hul₂	hula₂
 542	o0001363	KIB	KIB	o0001363	hul3	hul₃	_
@@ -519,7 +535,7 @@
 544	o0000178	SZE3	ŠE₃	o0000178	hun	hun	huŋ hug
 545	o0001452	HAR	HAR	o0001452	hur	hur	huru hir₂
 546	o0001444	HUSZ	HUŠ	o0001444	husz	huš	huša hiš₄
-547	o0000514	RI	RI	o0000514	huₓ(RI)~RI	huₓ	_
+547	o0000514	RI	RI	o0000514	hux(RI)	huₓ(RI)	_
 548	o0000242	I	I	o0000242	i	i	_
 549	o0000052	IA2	IA₂	o0000052	i2	i₂	_
 550	o0000479	NI	NI	o0000479	i3	i₃	_
@@ -550,18 +566,19 @@
 576	o0001493	|IGI.SZE3.DU.ERIM|	|IGI.EŠ₂.DU.ERIN₂|	o0001493	ildu	ildu	ildum
 577	o0001506	|IGI.NAGAR.BU|	|IGI.NAGAR.BU|	o0001506	ildu2	ildu₂	ildum₂ ilduma₂ ildumma₂
 578	o0002053	|NAGAR.BU|	|NAGAR.BU|	o0002053	ildu3	ildu₃	_
-580	o0000473	NAGAR	NAGAR	o0000473	ilduₓ(NAGAR)~NAGAR	ilduₓ	_
+579	o0000124	BU	BU	o0000124	ildux(BU)	ilduₓ(BU)	_
+580	o0000473	NAGAR	NAGAR	o0000473	ildux(NAGAR)	ilduₓ(NAGAR)	_
 581	o0001586	ILLAT	ILLAT	o0001586	illat	illat	_
 582	o0000686	|A.KAL|	|A.KAL|	o0000686	illu	illu	_
-583	o0000201	KAR2	KAR₂	o0000201	ilₓ(KAR₂)~KAR₂	ilₓ	_
+583	o0000201	KAR2	KAR₂	o0000201	ilx(KAR2)	ilₓ(KAR₂)	_
 584	o0000254	IM	IM	o0000254	im	im	_
 585		|ASZ2.A.AN|	|AŠ₂.A.AN|	o0002668	imgaga	imgaga	imŋaŋa
 586	o0002670	|ASZ2.AN|	|AŠ₂.AN|	o0002670	imgaga3	imgaga₃	imŋaŋa₃
 587	o0000068	IMIN	IMIN	o0000068	imin	imin	umun₇ imina
 588	o0001662	|KAxUD|	|KA×UD|	o0001662	imma	imma	immen emmen enmen emmin immin
 589	o0000248	SIG7	SIG₇	o0000248	imma3	imma₃	_
-590	o0002125	TUR3	TUR₃	o0002125	immalₓ(TUR₃)~TUR₃	immalₓ	_
-591	o0001562	|KA.UD|	|KA.UD|		immaₓ(|KA.UD|)~|KA.UD|	immaₓ	_
+590	o0002125	TUR3	TUR₃	o0002125	immalx(TUR3)	immalₓ(TUR₃)	_
+591	o0001562	|KA.UD|	|KA.UD|		immax(|KA.UD|)	immaₓ(|KA.UD|)	_
 592	o0000256	IN	IN	o0000256	in	in	_
 593	o0000466	MUSZ3	MUŠ₃	o0000466	inanna	inanna	_
 594	o0002102	|NINDA2xGU4|	|NINDA₂×GUD|	o0002102	indagra	indagra	indagara
@@ -586,7 +603,9 @@
 613	o0000112	A2	A₂	o0000112	it	it	_
 614	o0000112	A2	A₂	o0000112	it,	iṭ	_
 615	o0002520	ITI	ITI	o0002520	iti	iti	itud itu itid
-618	o0001812	|ENGUR.A|	|LAGAB×HAL.A|	o0001812	iₓ(|ENGUR.A|)~|LAGAB×HAL.A|	iₓ	_
+616	o0000087	A	A	o0000087	ix(A)	iₓ(A)	_
+617	o0000690	|A.SUG|	|A.LAGAB×A|	o0000690	ix(|A.SUG|)	iₓ(|A.SUG|)	_
+618	o0001812	|ENGUR.A|	|LAGAB×HAL.A|	o0001812	ix(|ENGUR.A|)	iₓ(|ENGUR.A|)	_
 619	o0000217	GISZ	GIŠ	o0000217	iz	iz	_
 620	o0000477	NE	NE	o0000477	izi	izi	izu
 621	o0000260	KA	KA	o0000260	ka	ka	kag₂ kak₂ ga₁₄
@@ -610,11 +629,12 @@
 639	o0002412	KAR	KAR	o0002412	kar	kar	kara gar₁₄
 640	o0000201	KAR2	KAR₂	o0000201	kar2	kar₂	kara₂ gar₁₉
 641	o0000267	KAD4	KAD₄	o0000267	kara4	kara₄	_
-642		|(null)@(null)|	|(ŠE.NUN&NUN.GAD.GAR)@(ŠE.NUN&NUN.GAD.GAR)|	o0000635	karadin	karadin	garadin
-643		|(null)@(null)|	|(PA.GAR)@(PA.GAR)|	o0002708	karadin3	karadin₃	_
-644		|(null)@(null)|	|(U.PA.GAR)@(U.PA.GAR)|	o0001772	karadin5	karadin₅	_
+642		|@|	|(ŠE.NUN&NUN.GAD.GAR)@(ŠE.NUN&NUN.GAD.GAR)|	o0000635	karadin	karadin	garadin
+643		|@|	|(PA.GAR)@(PA.GAR)|	o0002708	karadin3	karadin₃	_
+644		|@|	|(U.PA.GAR)@(U.PA.GAR)|	o0001772	karadin5	karadin₅	_
 645	o0000254	IM	IM	o0000254	karkar	karkar	_
-647	o0000550	TE	TE	o0000550	karₓ(TE)~TE	karₓ	_
+646	o0000199	GAN2	GAN₂		karx(GAN2)	karₓ(GAN₂)	_
+647	o0000550	TE	TE	o0000550	karx(TE)	karₓ(TE)	_
 648	o0000275	KASKAL	KASKAL	o0000275	kas	kas	_
 649	o0000122	BI	BI	o0000122	kas2	kas₂	_
 650	o0001424	GAZ	GAZ	o0001424	kas3	kas₃	_
@@ -624,10 +644,11 @@
 654	o0000275	KASKAL	KASKAL	o0000275	kasz2	kaš₂	_
 655	o0000152	KASZ4	KAŠ₄	o0000152	kasz4	kaš₄	_
 656	o0000149	DU	DU	o0000149	kasz5	kaš₅	_
-658	o0001655	|KAxSAR|	|KA×SAR|	o0001655	kaₓ(|KA×SAR|)~|KA×SAR|	kaₓ	_
+657	o0001162	|E2xSZE|	|E₂×ŠE|		kax(|E2xSZE|)	kaₓ(|E₂×ŠE|)	_
+658	o0001655	|KAxSAR|	|KA×SAR|	o0001655	kax(|KAxSAR|)	kaₓ(|KA×SAR|)	_
 659	o0000093	AG	AG	o0000093	ke3	ke₃	_
 660	o0000281	KID	KID	o0000281	ke4	ke₄	_
-661		EZEN@g@g	EZEN@g	o0000278	kesz2	keš₂	keše₂ kešda keši₂ kiši₂
+661		EZEN@g	EZEN@g	o0000278	kesz2	keš₂	keše₂ kešda keši₂ kiši₂
 662	o0002811	KESZ3	KEŠ₃	o0002811	kesz3	keš₃	_
 663	o0000279	KI	KI	o0000279	ki	ki	_
 664	o0000281	KID	KID	o0000281	kid	kid	_
@@ -650,7 +671,7 @@
 681	o0001110	|EZENxSIG7|	|EZEN×IGI@g|	o0001110	kisig2	kisig₂	_
 682	o0001732	|KI.UD|	|KI.UD|	o0001732	kislah	kislah	kizlah
 683	o0000286	KISZ	KIŠ	o0000286	kisz	kiš	kiši kis
-684	o0000214	GIR2@g	GIR₂@g	o0000214	kiszi17	kiši₁₇	_
+684	o0000214	GIR₂@g	GIR₂@g	o0000214	kiszi17	kiši₁₇	_
 685	o0002832	SZEG9	ŠEG₉	o0002832	kiszi6	kiši₆	_
 686	o0000454	MES	MES	o0000454	kiszib	kišib	_
 687	o0000153	DUB	DUB	o0000153	kiszib3	kišib₃	_
@@ -681,11 +702,13 @@
 712	o0000144	DIN	DIN	o0000144	kurun2	kurun₂	gurun₈
 713	o0000155	DUG	DUG	o0000155	kurun3	kurun₃	_
 714	o0000299	KU7	KU₇	o0000299	kuruszda	kurušda	gurušta gurušda
-715	o0000303	KWU822	KWU822	o0000303	kurušdaₓ(KWU822)~KWU822	kurušdaₓ	_
+715	o0000303		KWU822	o0000303	kuruszdax()	kurušdaₓ()	_
 716	o0000531	SU	SU	o0000531	kusz	kuš	kus kuz guš
 717	o0000519	DUL3	DUL₃	o0000519	kusz2	kuš₂	_
 718	o0000599	U2	U₂	o0000599	kusz3	kuš₃	_
-722	o0000426	LIL	LIL	o0000426	kuₓ(KWU147)~LIL	kuₓ	_
+719	o0000149	DU	DU	o0000149	kux(DU)	kuₓ(DU)	_
+721	o0000297		KWU636		kux()	kuₓ()	_
+722	o0000426	LIL	LIL	o0000426	kux(LIL)	kuₓ(LIL)	_
 723	o0000305	LA	LA	o0000305	la	la	_
 724	o0000422	LAL	LAL	o0000422	la2	la₂	_
 725	o0002837	SZID	ŠID	o0002837	lag	lag	_
@@ -699,7 +722,7 @@
 733	o0000149	DU	DU	o0000149	lah6	lah₆	_
 734	o0002152	LAHTAN	LAHTAN	o0002152	lahtan	lahtan	_
 735	o0002154	LAHTAN2	LAHTAN₂	o0002154	lahtan2	lahtan₂	_
-736		|NUNUZ.|(KISIM₅×NE)||	|NUNUZ.(KISIM₅×NE)|	o0002153	lahtan4	lahtan₄	_
+736		|NUNUZ.|	|NUNUZ.(KISIM₅×NE)|	o0002153	lahtan4	lahtan₄	_
 737	o0002837	SZID	ŠID	o0002837	lak	lak	_
 738	o0000423	LAL2	LAL₂	o0000423	lal2	lal₂	_
 739	o0002407	LAL3	LAL₃	o0002407	lal3	lal₃	_
@@ -733,24 +756,24 @@
 767	o0000497	PA	PA	o0000497	lug2	lug₂	luŋ₂ lun lu₉
 768	o0000434	LUGAL	LUGAL	o0000434	lugal	lugal	lugala
 769	o0000306	LAGAB	LAGAB	o0000306	lugud2	lugud₂	_
-770	o0000437	LUL	LUL	o0000437	lugₓ(LUL)~LUL	lugₓ	_
+770	o0000437	LUL	LUL	o0000437	lugx(LUL)	lugₓ(LUL)	_
 771	o0000436	LUH	LUH	o0000436	luh	luh	luhu rih ruh lih₃
 772	o0002313	|MUNUS.ME|	|SAL.ME|	o0002313	lukur	lukur	_
 773	o0000437	LUL	LUL	o0000437	lul	lul	lulu
-774	o0001350	|GIR3x(null)|	|GIR₃×(LU.IGI)|	o0001350	lulim	lulim	lulima
+774	o0001350	|GIR3x|	|GIR₃×(LU.IGI)|	o0001350	lulim	lulim	lulima
 775	o0000438	LUM	LUM	o0000438	lum	lum	luma lumu
-776	o0000461	KWU354	KWU354	o0000461	lumₓ(KWU354)~KWU354	lumₓ	_
+776	o0000461		KWU354	o0000461	lumx()	lumₓ()	_
 777	o0002838	SZIM	ŠIM	o0002838	lunga	lunga	_
 778	o0002748	|SZIMxA|	|ŠIM×A|	o0002748	lunga2	lunga₂	_
 779	o0002752	|SZIMxNIG2|	|ŠIM×GAR|	o0002752	lunga3	lunga₃	_
-780	o0000913	|BI.DAR|	|BI.DAR|	o0000913	lungaₓ(|BI.DAR|)~|BI.DAR|	lungaₓ	_
+780	o0000913	|BI.DAR|	|BI.DAR|	o0000913	lungax(|BI.DAR|)	lungaₓ(|BI.DAR|)	_
 781	o0000444	MA	MA	o0000444	ma	ma	_
 782	o0000452	MA2	MA₂	o0000452	ma2	ma₂	_
-783	o0000124	BU	BU	o0000124	madraₓ(BU)~BU	madraₓ	_
+783	o0000124	BU	BU	o0000124	madrax(BU)	madraₓ(BU)	_
 784	o0000446	MAH	MAH	o0000446	mah	mah	maha
 785	o0000094	AL	AL	o0000094	mah2	mah₂	maha₂
 786	o0000206	GA2	GA₂	o0000206	mal	mal	_
-787	o0002125	TUR3	TUR₃	o0002125	malₓ(TUR₃)~TUR₃	malₓ	_
+787	o0002125	TUR3	TUR₃	o0002125	malx(TUR3)	malₓ(TUR₃)	_
 788	o0002475	MAN	MAN	o0002475	man	man	_
 789	o0001656	SU6	SU₆	o0001656	mangaga	mangaga	_
 790	o0000448	MAR	MAR	o0000448	mar	mar	mara
@@ -803,16 +826,16 @@
 837	o0000528	SIG4	SIG₄	o0000461	mur7	mur₇	_
 838	o0000528	SIG4	SIG₄	o0000528	murgu	murgu	_
 839	o0000438	LUM	LUM	o0000461	murgu2	murgu₂	_
-840	o0038409	UD@g@g	UD@g		muru13	muru₁₃	_
+840	o0038409	UD@g	UD@g		muru13	muru₁₃	_
 841	o0000462	MURU2	MURU₂	o0000462	muru2	muru₂	murub₄ mur₂ muri
 842	o0002311	|MUNUS.LA|	|SAL.LA|	o0000522	murub	murub	_
 843	o0002310	|MUNUS.LAGAR|	|SAL.LAGAR|	o0002310	murub2	murub₂	_
-844	o0001737	|KID.SZU2.MA2|	|KID.ŠU₂.MA₂|	o0001737	muruₓ(|KID.ŠU₂.MA₂|)~|KID.ŠU₂.MA₂|	muruₓ	_
+844	o0001737	|KID.SZU2.MA2|	|KID.ŠU₂.MA₂|	o0001737	murux(|KID.SZU2.MA2|)	muruₓ(|KID.ŠU₂.MA₂|)	_
 845	o0000463	MUSZ	MUŠ	o0000463	musz	muš	_
 846	o0000467	MUSZ2	MUŠ₂	o0000467	musz2	muš₂	_
 847	o0000466	MUSZ3	MUŠ₃	o0000466	musz3	muš₃	_
 848	o0000239	HU	HU	o0000239	muszen	mušen	mušena
-849	o0000514	RI	RI	o0000514	mušenₓ(RI)~RI	mušenₓ	_
+849	o0000514	RI	RI	o0000514	muszenx(RI)	mušenₓ(RI)	_
 862	o0000469	NA	NA	o0000469	na	na	_
 863	o0000476	NA2	NA₂	o0000476	na2	na₂	_
 864	o0002079	NA4	NA₄	o0002079	na4	na₄	_
@@ -840,7 +863,7 @@
 886	o0000479	NI	NI	o0000479	ne2	ne₂	_
 887	o0000215	GIR3	GIR₃	o0000503	ne3	ne₃	_
 888	o0000502	PI	PI	o0000502	neda	neda	_
-889	o0002241	|PIRIG.TUR|	|PIRIG.TUR|		nemurₓ(|PIRIG.TUR|)~|PIRIG.TUR|	nemurₓ	_
+889	o0002241	|PIRIG.TUR|	|PIRIG.TUR|		nemurx(|PIRIG.TUR|)	nemurₓ(|PIRIG.TUR|)	_
 890	o0002123	NIR	NIR	o0002123	ner	ner	_
 891	o0002655	|ZA.NIM|	|ZA.NIM|		ner3	ner₃	_
 892	o0000463	MUSZ	MUŠ	o0000463	nerah	nerah	_
@@ -879,7 +902,8 @@
 925	o0002642	|ZA.GIN2|	|ZA.DUN₃@g|	o0002642	nir2	nir₂	_
 926		|ZA.NIM|	|ZA.NIM|	o0002655	nir3	nir₃	nira₃
 927	o0002641	|ZA.MIR|	|ZA.DUN₃@g@g|	o0002641	nir7	nir₇	_
-929	o0001038	|MIR.ZA|	|DUN₃@g@g.ZA|	o0001038	nirₓ(|MIR.ZA|)~|DUN₃@g@g.ZA|	nirₓ	_
+928	o0000161	GIN2	GIN₂		nirx(GIN2)	nirₓ(GIN₂)	_
+929	o0001038	|MIR.ZA|	|DUN₃@g@g.ZA|	o0001038	nirx(|MIR.ZA|)	nirₓ(|MIR.ZA|)	_
 930	o0002722	|SZE.NAGA|	|ŠE.NAGA|	o0002722	nisaba	nisaba	_
 931	o0000470	NAGA	NAGA	o0000470	nisaba2	nisaba₂	_
 932	o0000524	SAR	SAR	o0000524	nisi	nisi	_
@@ -916,7 +940,8 @@
 963	o0000444	MA	MA	o0000444	pesz3	peš₃	_
 964	o0000267	KAD4	KAD₄	o0000267	pesz5	peš₅	piš₅
 965	o0000268	KAD5	KAD₅	o0000268	pesz6	peš₆	piš₆
-967	o0002786	|SZU.KAD4|	|ŠU.KAD₄|		pešₓ(|ŠU.KAD₄|)~|ŠU.KAD₄|	pešₓ	_
+966	o0001169	|GA.KAD3|	|GA.KAD₃|	o0001169	peszx(|GA.KAD3|)	pešₓ(|GA.KAD₃|)	_
+967	o0002786	|SZU.KAD4|	|ŠU.KAD₄|		peszx(|SZU.KAD4|)	pešₓ(|ŠU.KAD₄|)	_
 968	o0000502	PI	PI	o0000502	pi	pi	_
 969	o0000122	BI	BI	o0000122	pi2	pi₂	_
 970	o0000260	KA	KA	o0000260	pi4	pi₄	_
@@ -954,7 +979,7 @@
 1002	o0000149	DU	DU	o0000149	re6	re₆	er₁₀ ar₆ ir₁₀ ur₈ ara₆
 1003	o0000989	LAH4	LAH₄	o0000989	re7	re₇	_
 1004	o0000270	KAL	KAL	o0000270	reb	reb	_
-1005	o0000239	HU	HU	o0000239	reₓ(HU)~HU	reₓ	_
+1005	o0000239	HU	HU	o0000239	rex(HU)	reₓ(HU)	_
 1006	o0000514	RI	RI	o0000514	ri	ri	_
 1007	o0000582	URU	URU	o0000582	ri2	ri₂	_
 1008	o0002024	|MUSZ&MUSZ|	|MUŠ&MUŠ|	o0002021	ri8	ri₈	_
@@ -964,13 +989,14 @@
 1012	o0002191	|PA.HUB2.DU|	|PA.HUB₂.DU|	o0002191	rig7	rig₇	_
 1013	o0002192	|PA.HUB2|	|PA.HUB₂|	o0002192	rig8	rig₈	_
 1014	o0001472	|HUB2.DU|	|HUB₂.DU|	o0001472	rig9	rig₉	_
-1016	o0050036	|PA.MUNUS.HUB2.DU|	|PA.SAL.HUB₂.DU|	o0050036	rigₓ(|PA.MUNUS.HUB₂.DU|)~|PA.SAL.HUB₂.DU|	rigₓ	_
+1015	o0221872	|MUNUS.HUB2.DU|	|SAL.HUB₂.DU|	o0221872	rigx(|MUNUS.HUB2.DU|)	rigₓ(|MUNUS.HUB₂.DU|)	_
+1016	o0050036	|PA.MUNUS.HUB2.DU|	|PA.SAL.HUB₂.DU|	o0050036	rigx(|PA.MUNUS.HUB2.DU|)	rigₓ(|PA.MUNUS.HUB₂.DU|)	_
 1017		|NE.RU|	|NE.RU|	o0002066	rim3	rim₃	_
-1018	o0000152	KASZ4	KAŠ₄	o0000152	rim4	rim���	_
+1018	o0000152	KASZ4	KAŠ₄	o0000152	rim4	rim₄	_
 1019	o0000306	LAGAB	LAGAB	o0000306	rin	rin	_
 1020	o0000175	ERIM	ERIM	o0000175	rin2	rin₂	_
-1021	o0002790	|SZU+LAGAB|	|ŠU+LAGAB|		rinₓ(|ŠU+LAGAB|)~|ŠU+LAGAB|	rinₓ	_
-1022	o0000239	HU	HU		riₓ(HU)~HU	riₓ	_
+1021	o0002790	|SZU+LAGAB|	|ŠU+LAGAB|		rinx(|SZU+LAGAB|)	rinₓ(|ŠU+LAGAB|)	_
+1022	o0000239	HU	HU		rix(HU)	riₓ(HU)	_
 1023	o0000516	RU	RU	o0000516	ru	ru	_
 1024	o0000173	EN	EN	o0000173	ru12	ru₁₂	_
 1025	o0002553	|URUxA|	|URU×A|	o0002553	ru14	ru₁₄	_
@@ -1013,7 +1039,8 @@
 1062		|SAG+IG|	|SAG+IG|		saggal	saggal	_
 1063	o0002364	|SILA3.SZU.GAB|	|SILA₃.ŠU.GABA|	o0002364	sagi	sagi	_
 1064	o0002466	SAGSZU	SAGŠU	o0002466	sagszu	sagšu	_
-1066		|SZE.KIN|	|ŠE.KIN|		sagₓ(|ŠE.KIN|)~|ŠE.KIN|	sagₓ	_
+1065	o0002477		KWU509	o0002477	sagx()	sagₓ()	_
+1066		|SZE.KIN|	|ŠE.KIN|		sagx(|SZE.KIN|)	sagₓ(|ŠE.KIN|)	_
 1067	o0000232	HA	HA	o0000848	sah7	sah₇	_
 1068	o0000259	ISZ	IŠ	o0000259	sahar	sahar	_
 1069	o0000524	SAR	SAR	o0000524	sakar	sakar	_
@@ -1022,12 +1049,16 @@
 1072	o0001126	|SZE3.BU.NUN.SZE3.TU|	|EŠ₂.BU.NUN.EŠ₂.TU|	o0001126	saman2	saman₂	_
 1073	o0002712	|SZE.SZE3.NUN.BU|	|ŠE.EŠ₂.NUN.BU|		saman3	saman₃	_
 1074	o0002456	SZAGAN	ŠAGAN	o0002456	saman4	saman₄	_
-1076	o0002377	|SUD.NUN.SZE.SZE3|	|SUD.NUN.ŠE.EŠ₂|	o0002377	samanₓ(|SUD.NUN.ŠE.ŠE₃|)~|SUD.NUN.ŠE.EŠ₂|	samanₓ	_
+1075	o0000934	|BU.NUN.SZE.SZE3|	|BU.NUN.ŠE.EŠ₂|	o0000934	samanx(|BU.NUN.SZE.SZE3|)	samanₓ(|BU.NUN.ŠE.ŠE₃|)	_
+1076	o0002377	|SUD.NUN.SZE.SZE3|	|SUD.NUN.ŠE.EŠ₂|	o0002377	samanx(|SUD.NUN.SZE.SZE3|)	samanₓ(|SUD.NUN.ŠE.ŠE₃|)	_
 1077	o0002837	SZID	ŠID	o0002837	sanga	sanga	saŋŋa saŋa₈ sangu
 1078	o0001527	|IL2.MA2.DUB2|	|IL₂.MA₂.DUB₂|	o0000523	sanga2	sanga₂	saŋa₂
 1079	o0001525	|IL2.DUB2|	|IL₂.DUB₂|	o0001525	sanga4	sanga₄	saŋa₄
 1080	o0000524	SAR	SAR	o0000524	sar	sar	_
-1084	o0002095	|NINDA2xAN|	|NINDA₂×AN|	o0002095	saₓ(|NINDA₂×AN|)~|NINDA₂×AN|	saₓ	_
+1081	o0000483	NINDA2	NINDA₂		sax(NINDA2)	saₓ(NINDA₂)	_
+1082	o0002094	|NINDA2x|	|NINDA₂×(ŠE.2(AŠ))|	o0002094	sax(|NINDA2x|)	saₓ(|NINDA₂×|)	_
+1083		|NINDA2x2(ASZ)|	|NINDA₂×2(AŠ)|		sax(|NINDA2x2(ASZ)|)	saₓ(|NINDA₂×2(AŠ)|)	_
+1084	o0002095	|NINDA2xAN|	|NINDA₂×AN|	o0002095	sax(|NINDA2xAN|)	saₓ(|NINDA₂×AN|)	_
 1085	o0000525	SI	SI	o0000525	se	se	_
 1086	o0000527	SIG	SIG	o0000527	se11	se₁₁	si₁₁ ši₃
 1087	o0000248	SIG7	SIG₇	o0000248	se12	se₁₂	_
@@ -1074,7 +1105,8 @@
 1128	o0000532	SUD	SUD	o0000532	sud	sud	šud šut
 1129	o0000534	SZITA3	ŠITA₃	o0000534	sud2	sud₂	_
 1130	o0002371	|SU.KUR.RU|	|SU.KUR.RU|	o0002371	sud3	sud₃	_
-1132	o0038207	||(SU×KUR)|.RU|	|(SU×KUR).RU|	o0038207	sudₓ(|(SU×KUR).RU|)~|(SU×KUR).RU|	sudₓ	_
+1131	o0002372	|SU.KUR|	|SU.KUR|	o0002372	sudx(|SU.KUR|)	sudₓ(|SU.KUR|)	_
+1132	o0038207	|.RU|	|(SU×KUR).RU|	o0038207	sudx(|.RU|)	sudₓ(|.RU|)	_
 1133	o0001075	ZUEN	ZUEN	o0001075	suen	suen	_
 1134	o0001800	SUG	SUG	o0001800	sug	sug	suk šuk₃ zug zuk
 1135	o0000467	MUSZ2	MUŠ₂	o0000467	suh	suh	sih₄ šuh
@@ -1083,7 +1115,7 @@
 1138	o0000289	KU	KU	o0000289	suh5	suh₅	_
 1139	o0000150	SUHUSZ	SUHUŠ	o0000150	suh6	suh₆	_
 1140	o0000642	MUL	MUL	o0000642	suhub2	suhub₂	šuhub₂
-1141	o0000797	|AN.MUL|	|AN.3×AN|		suhubₓ(|AN.MUL|)~|AN.3×AN|	suhubₓ	_
+1141	o0000797	|AN.MUL|	|AN.3×AN|		suhubx(|AN.MUL|)	suhubₓ(|AN.MUL|)	_
 1142	o0000535	SUHUR	SUHUR	o0000535	suhur	suhur	_
 1143	o0000150	SUHUSZ	SUHUŠ	o0000150	suhusz	suhuš	šuhuš
 1144	o0000436	LUH	LUH	o0000436	sukkal	sukkal	šukal sugal₇ šukkal sukal
@@ -1096,7 +1128,7 @@
 1151	o0000519	DUL3	DUL₃	o0000519	sur2	sur₂	_
 1152	o0001447	SUR3	SUR₃	o0001447	sur3	sur₃	_
 1153	o0000422	LAL	LAL	o0000422	suru5	suru₅	sur₅ zuru₅ zur₅
-1154	o0000175	ERIM	ERIM	o0000175	surₓ(ERIM)~ERIM	surₓ	_
+1154	o0000175	ERIM	ERIM	o0000175	surx(ERIM)	surₓ(ERIM)	_
 1155	o0002824	SZA	ŠA	o0002824	sza	ša	sa₁₉
 1156	o0000206	GA2	GA₂	o0000206	sza13	ša₁₃	_
 1157	o0002828	SZA3	ŠA₃	o0002828	sza3	ša₃	šag₄
@@ -1107,7 +1139,7 @@
 1162	o0002170	SZABRA	ŠABRA	o0002170	szabra	šabra	šapra
 1163	o0001973	|LU2xKAR2|	|LU₂×GAN₂@t|	o0001973	szaga	šaga	šaŋa
 1164	o0002456	SZAGAN	ŠAGAN	o0002456	szagan	šagan	_
-1165	o0001286	AMA	AMA	o0001286	šaganₓ(AMA)~AMA	šaganₓ	_
+1165	o0001286	AMA	AMA	o0001286	szaganx(AMA)	šaganₓ(AMA)	_
 1166	o0001344	|GIR3.ARAD|	|GIR₃.ARAD|	o0001344	szagina	šagina	_
 1167	o0000158	SZUL	ŠUL	o0000158	szah2	šah₂	_
 1168		|URUxGU|	|URU×GU|	o0002564	szakir	šakir	šakira
@@ -1120,8 +1152,8 @@
 1175	o0000524	SAR	SAR	o0000524	szar	šar	_
 1177	o0000434	LUGAL	LUGAL	o0000434	szar3	šar₃	_
 1178	o0001817	SZARA2	ŠARA₂	o0001817	szara2	šara₂	_
-1179	o0000477	NE	NE		šarₓ(NE)~NE	šarₓ	_
-1180	o0000426	LIL	LIL	o0000426	šaₓ(LIL)~LIL	šaₓ	_
+1179	o0000477	NE	NE		szarx(NE)	šarₓ(NE)	_
+1180	o0000426	LIL	LIL	o0000426	szax(LIL)	šaₓ(LIL)	_
 1181	o0002831	SZE	ŠE	o0002831	sze	še	_
 1182	o0002049	|MUSZ3xA|	|MUŠ₃×A|	o0000711	sze12	še₁₂	_
 1183	o0002837	SZID	ŠID	o0002837	sze14	še₁₄	_
@@ -1137,7 +1169,8 @@
 1193	o0002576	|URUxTU|	|URU×TU|	o0002576	szeg5	šeg₅	_
 1194	o0000254	IM	IM	o0000254	szeg7	šeg₇	šeŋ₇
 1195	o0002832	SZEG9	ŠEG₉	o0002832	szeg9	šeg₉	seg₁₄ sig₁₄
-1197	o0001533	|IM.A|	|IM.A|	o0001533	šegₓ(|IM.A|)~|IM.A|	šegₓ	_
+1196	o0000087	A	A	o0000087	szegx(A)	šegₓ(A)	_
+1197	o0001533	|IM.A|	|IM.A|	o0001533	szegx(|IM.A|)	šegₓ(|IM.A|)	_
 1198	o0000771	KIR2	KIR₂	o0000771	szem3	šem₃	_
 1199	o0000767	KIR6	KIR₆	o0000767	szem5	šem₅	_
 1200	o0002753	|SZIMxSIG7|	|ŠIM×IGI@g|	o0002753	szembi	šembi	šimbi
@@ -1145,23 +1178,24 @@
 1202		|BULUG@BULUG|	|BULUG@BULUG|	o0000937	szembulug	šembulug	_
 1203	o0002833	SZEN	ŠEN	o0002833	szen	šen	san₂ šin šun sun₆ zin
 1204	o0001363	KIB	KIB	o0001363	szennur	šennur	_
-1205	o0002008	|ME.AD.KU3|	|ME.AD.KU₃|	o0002008	šennuₓ(|ME.AD.KU₃|)~|ME.AD.KU₃|	šennuₓ	_
+1205	o0002008	|ME.AD.KU3|	|ME.AD.KU₃|	o0002008	szennux(|ME.AD.KU3|)	šennuₓ(|ME.AD.KU₃|)	_
 1206	o0000177	EZEN	EZEN	o0000177	szer3	šer₃	_
 1207	o0002123	NIR	NIR	o0002123	szer7	šer₇	_
 1208	o0002834	SZESZ	ŠEŠ	o0002834	szesz	šeš	_
 1209	o0002836	SZESZ2	ŠEŠ₂	o0002836	szesz2	šeš₂	še₈
 1210	o0000174	EREN	EREN	o0000174	szesz4	šeš₄	še₂₂
-1212	o0000248	SIG7	SIG₇	o0000248	šeₓ(SIG₇)~SIG₇	šeₓ	_
+1211		|A.MUSZ3|	|A.MUŠ₃|		szex(|A.MUSZ3|)	šeₓ(|A.MUŠ₃|)	_
+1212	o0000248	SIG7	SIG₇	o0000248	szex(SIG7)	šeₓ(SIG₇)	_
 1213	o0000247	IGI	IGI	o0000247	szi	ši	_
 1214	o0002837	SZID	ŠID	o0002837	szid	šid	_
 1215	o0000305	LA	LA	o0000305	szika	šika	_
 1216	o0002129	SZILAM	ŠILAM	o0002129	szilam	šilam	_
-1217	o0002125	TUR3	TUR₃	o0002125	šilamₓ(TUR₃)~TUR₃	šilamₓ	_
+1217	o0002125	TUR3	TUR₃	o0002125	szilamx(TUR3)	šilamₓ(TUR₃)	_
 1218	o0002838	SZIM	ŠIM	o0002838	szim	šim	šem
 1219	o0001949	|LU2.SU|	|LU₂.SU|	o0001949	szimaszgi	šimašgi	_
 1220	o0001948	|LU2.SU.A|	|LU₂.SU.A|	o0001948	szimaszgi2	šimašgi₂	_
-1221		|SU.A|	|SU.A|	o0002368	šimašgiₓ(|SU.A|)~|SU.A|	šimašgiₓ	_
-1223	o0002838	KWU752	KWU752		šimₓ(KWU752)~KWU752	šimₓ	_
+1221		|SU.A|	|SU.A|	o0002368	szimaszgix(|SU.A|)	šimašgiₓ(|SU.A|)	_
+1223	o0002838		KWU752		szimx()	šimₓ()	_
 1224	o0002839	SZINIG	ŠINIG	o0002839	szinig	šinig	_
 1225	o0002840	SZIR	ŠIR	o0002840	szir	šir	_
 1226	o0002837	SZID	ŠID	o0002837	szit	šit	_
@@ -1171,7 +1205,7 @@
 1230	o0002462	SZITA4	ŠITA₄	o0002462	szita4	šita₄	_
 1231	o0002837	SZID	ŠID	o0002837	sziti	šiti	_
 1232	o0000143	GIM	GIM	o0000143	szitim	šitim	šidim
-1233	o0000528	SIG4	SIG₄		šiₓ(SIG₄)~SIG₄	šiₓ	_
+1233	o0000528	SIG4	SIG₄		szix(SIG4)	šiₓ(SIG₄)	_
 1234	o0002845	SZU	ŠU	o0002845	szu	šu	_
 1235	o0001676	|KAxSZU|	|KA×ŠU|	o0001676	szu12	šu₁₂	_
 1236	o0002850	SZU2	ŠU₂	o0002850	szu2	šu₂	šuš₂
@@ -1184,8 +1218,8 @@
 1243	o0002848	SZUBUR	ŠUBUR	o0002848	szubur	šubur	_
 1244	o0001626	PU3	PU₃	o0001676	szud3	šud₃	šude₃ šudu₃
 1245	o0000164	DUN4	DUN₄	o0000164	szudul4	šudul₄	_
-1246	o0000578	UR@s@s	UR@s	o0000578	szudul5	šudul₅	_
-1247	o0002581	|URxA|	|UR×A|		šudulₓ(|UR×A|)~|UR×A|	šudulₓ	_
+1246	o0000578	UR@s	UR@s	o0000578	szudul5	šudul₅	_
+1247	o0002581	|URxA|	|UR×A|		szudulx(|URxA|)	šudulₓ(|UR×A|)	_
 1248	o0000498	PAD	PAD	o0000498	szuku	šuku	šukur₂ šukun₃ šuk šug
 1249	o0001500	|IGI.GAG|	|IGI.KAK|	o0001500	szukur	šukur	_
 1250	o0000158	SZUL	ŠUL	o0000158	szul	šul	sul
@@ -1202,7 +1236,10 @@
 1261	o0000259	SAHAR	SAHAR	o0000259	szusz3	šuš₃	_
 1262	o0002041	|MUSZ3.EREN|	|MUŠ₃.EREN|	o0002041	szuszin	šušin	šušina
 1263	o0001340	|GI.NA.AB.TUM|	|GI.NA.AB.TUM|	o0001340	szutum2	šutum₂	_
-1267		|KI.NA.AB.TUM|	|KI.NA.AB.TUM|		šutumₓ(|KI.NA.AB.TUM|)~|KI.NA.AB.TUM|	šutumₓ	_
+1264		|GI.NA.AB.DU|	|GI.NA.AB.DU|		szutumx(|GI.NA.AB.DU|)	šutumₓ(|GI.NA.AB.DU|)	_
+1265		|GI.NA.TUM|	|GI.NA.TUM|		szutumx(|GI.NA.TUM|)	šutumₓ(|GI.NA.TUM|)	_
+1266		|KI.NA.AB.DAM|	|KI.NA.AB.DAM|		szutumx(|KI.NA.AB.DAM|)	šutumₓ(|KI.NA.AB.DAM|)	_
+1267		|KI.NA.AB.TUM|	|KI.NA.AB.TUM|		szutumx(|KI.NA.AB.TUM|)	šutumₓ(|KI.NA.AB.TUM|)	_
 1268	o0000446	MAH	MAH	o0000446	szutur	šutur	_
 1269	o0000132	DA	DA	o0000132	t,a	ṭa	_
 1270	o0000237	HI	HI	o0000237	t,a3	ṭa₃	_
@@ -1220,13 +1257,13 @@
 1282	o0000541	TA	TA	o0000541	ta	ta	_
 1283	o0000132	DA	DA	o0000132	ta2	ta₂	_
 1284	o0000544	TAB	TAB	o0000544	tab	tab	dapa₂ taba dab₂ tap tapa dap₂
-1285	o0002475	MAN	MAN		tabₓ(MAN)~MAN	tabₓ	_
+1285	o0002475	MAN	MAN		tabx(MAN)	tabₓ(MAN)	_
 1286	o0000546	TAG	TAG	o0000546	tag	tag	_
 1287	o0002016	DAH	DAH	o0002016	tah	tah	_
 1288	o0000133	DAG	DAG	o0000133	tak2	tak₂	_
 1289	o0000547	KID2	KID₂	o0000547	tak4	tak₄	da₁₃ tag₄ taka₄ ta₆ tad
 1290	o0000514	RI	RI	o0000514	tal	tal	_
-1291	o0000239	HU	HU	o0000239	talₓ(HU)~HU	talₓ	_
+1291	o0000239	HU	HU	o0000239	talx(HU)	talₓ(HU)	_
 1292	o0000565	UD	UD	o0000565	tam	tam	dam₂
 1293	o0000134	DAM	DAM	o0000134	tam2	tam₂	_
 1294	o0000548	TAR	TAR	o0000548	tar	tar	tara dar₆
@@ -1242,8 +1279,8 @@
 1304	o0000546	TAG	TAG	o0000546	tibir	tibir	_
 1305	o0023076	|TAG.SZU|	|TAG.ŠU|	o0002401	tibir2	tibir₂	_
 1306	o0000997	|DUB.NAGAR|	|DUB.NAGAR|	o0000997	tibira	tibira	_
-1307	o0000289	KU	KU	o0000289	tibirₓ(KU)~KU	tibirₓ	_
-1308	o0000437	LUL-DUB2	LUL	o0000154	LUL-DUB2	DUB₂	o0001919	tigi2	tigi₂
+1307	o0000289	KU	KU	o0000289	tibirx(KU)	tibirₓ(KU)	_
+1308	o0000437	LULDUB2	LUL	o0000154	LULDUB2	DUB₂	o0001919	tigi2	tigi₂
 1309	o0000114	BAD	BAD	o0000555	til	til	_
 1310	o0000579	URI	URI	o0000579	tilla	tilla	tila
 1311	o0000801	|AN.ASZ.AN|	|AN.AŠ.AN|	o0000801	tilla2	tilla₂	_
@@ -1253,7 +1290,7 @@
 1315	o0000144	DIN	DIN	o0000144	tin	tin	_
 1316	o0002726	TIR	TIR	o0002726	tir	tir	_
 1317	o0000467	MUSZ2	MUŠ₂	o0000467	tiszpak	tišpak	_
-1318	o0000121	BARA2-MUNU5	BARA₂	o0002234	BARA2-MUNU5	MUNU₅	o0000909	titab	titab
+1318	o0000121	BARA2MUNU5	BARA₂	o0002234	BARA2MUNU5	MUNU₅	o0000909	titab	titab
 1319	o0000556	TU	TU	o0000556	tu	tu	_
 1320	o0001477	HUB	HUB	o0001477	tu10	tu₁₀	_
 1321	o0000240	HUB2	HUB₂	o0000240	tu11	tu₁₁	tum₊(HUB₂) tun₂
@@ -1270,7 +1307,10 @@
 1332	o0000546	TAG	TAG	o0000546	tuku5	tuku₅	_
 1333	o0000289	KU	KU	o0000289	tukul	tukul	tukula
 1334	o0002777	|SZU.NIG2.TUR.LAL|	|ŠU.GAR.TUR.LAL|	o0002777	tukum	tukum	tukun
-1338	o0002803	|SZU.TUR|	|ŠU.TUR|	o0002803	tukumₓ(|ŠU.TUR|)~|ŠU.TUR|	tukumₓ	_
+1335	o0002791	|SZU.LAL.TUR|	|ŠU.LAL.TUR|	o0002791	tukumx(|SZU.LAL.TUR|)	tukumₓ(|ŠU.LAL.TUR|)	_
+1336	o0152709	|SZU.NIG2.TUR|	|ŠU.GAR.TUR|	o0152709	tukumx(|SZU.NIG2.TUR|)	tukumₓ(|ŠU.NIG₂.TUR|)	_
+1337	o0002779	|SZU.NIG2|	|ŠU.GAR|	o0002779	tukumx(|SZU.NIG2|)	tukumₓ(|ŠU.NIG₂|)	_
+1338	o0002803	|SZU.TUR|	|ŠU.TUR|	o0002803	tukumx(|SZU.TUR|)	tukumₓ(|ŠU.TUR|)	_
 1339	o0001674	|KAxSZE|	|KA×ŠE|	o0001674	tukur2	tukur₂	_
 1340	o0001838	TUL2	TUL₂	o0001838	tul2	tul₂	dul₂
 1341	o0000559	TUM	TUM	o0000559	tum	tum	_
@@ -1295,9 +1335,9 @@
 1361	o0000770	UB5	UB₅	o0000770	ub5	ub₅	_
 1362	o0001111	UBARA	UBARA	o0001111	ubara	ubara	_
 1363	o0000195	GALAM	GALAM	o0029926	ubi	ubi	_
-1364	o0000953	|DAG.|(KISIM₅×GA)||	|DAG.(KISIM₅×GA)|	o0000953	ubur	ubur	_
-1365	o0000958	|DAG.|(KISIM₅×IR)||	|DAG.(KISIM₅×IR)|	o0000958	ubur3	ubur₃	_
-1366		|DAG.|KISIM₅×(LU.MAŠ₂)||	|DAG.KISIM₅×(LU.MAŠ₂)|	o0000946	uburₓ(|DAG.KISIM₅×(LU.MAŠ₂)|)~|DAG.KISIM₅×(LU.MAŠ₂)|	uburₓ	_
+1364	o0000953	|DAG.|	|DAG.(KISIM₅×GA)|	o0000953	ubur	ubur	_
+1365	o0000958	|DAG.|	|DAG.(KISIM₅×IR)|	o0000958	ubur3	ubur₃	_
+1366		|DAG.|	|DAG.KISIM₅×(LU.MAŠ₂)|	o0000946	uburx(|DAG.|)	uburₓ(|DAG.|)	_
 1367	o0000565	UD	UD	o0000565	ud	ud	_
 1368	o0000594	UZ3	UZ₃	o0000594	ud5	ud₅	_
 1370	o0000110	ASZ2	AŠ₂	o0002668	udru	udru	_
@@ -1314,7 +1354,19 @@
 1381	o0001104	BAD3	BAD₃	o0001104	ug5	ug₅	uŋ₅ uga₅ uk₅
 1382	o0000114	BAD	BAD	o0000555	ug7	ug₇	_
 1383	o0001724	|KI.SU.LU.SZE3.NIG2|	|KI.SU.LU.EŠ₂.GAR|	o0001724	ugnim	ugnim	_
-1396		|SU.LU.SU.KI.NIG2|	|SU.LU.SU.KI.GAR|		ugnimₓ(|SU.LU.SU.KI.NIG₂|)~|SU.LU.SU.KI.GAR|	ugnimₓ	_
+1384	o0001710	|KI.LU.SZE3|	|KI.LU.EŠ₂|	o0001710	ugnimx(|KI.LU.SZE3|)	ugnimₓ(|KI.LU.ŠE₃|)	_
+1385	o0001727	|KI.SU.LU.KI.NIG2|	|KI.SU.LU.KI.GAR|	o0001727	ugnimx(|KI.SU.LU.KI.NIG2|)	ugnimₓ(|KI.SU.LU.KI.NIG₂|)	_
+1386	o0001726	|KI.SU.LU.NIG2|	|KI.SU.LU.GAR|	o0001726	ugnimx(|KI.SU.LU.NIG2|)	ugnimₓ(|KI.SU.LU.NIG₂|)	_
+1387	o0001723	|KI.SU.LU.SZE3.NIG2.RA|	|KI.SU.LU.EŠ₂.GAR.RA|	o0001723	ugnimx(|KI.SU.LU.SZE3.NIG2.RA|)	ugnimₓ(|KI.SU.LU.ŠE₃.NIG₂.RA|)	_
+1388	o0001724	|KI.SU.LU.SZE3.NIG2|	|KI.SU.LU.EŠ₂.GAR|	o0001724	ugnimx(|KI.SU.LU.SZE3.NIG2|)	ugnimₓ(|KI.SU.LU.ŠE₃.NIG₂|)	_
+1389	o0152711	|KI.SU.LU.SZE3|	|KI.SU.LU.EŠ₂|	o0152711	ugnimx(|KI.SU.LU.SZE3|)	ugnimₓ(|KI.SU.LU.ŠE₃|)	_
+1390	o0001729	|KI.SU.LU.SZU.NIG2|	|KI.SU.LU.ŠU.GAR|	o0001729	ugnimx(|KI.SU.LU.SZU.NIG2|)	ugnimₓ(|KI.SU.LU.ŠU.NIG₂|)	_
+1391	o0031629	|KI.SU.NIG2.RA|	|KI.SU.GAR.RA|	o0031629	ugnimx(|KI.SU.NIG2.RA|)	ugnimₓ(|KI.SU.NIG₂.RA|)	_
+1392	o0001730	|KI.SU.ZA.LU.SZE3|	|KI.SU.ZA.LU.EŠ₂|	o0001730	ugnimx(|KI.SU.ZA.LU.SZE3|)	ugnimₓ(|KI.SU.ZA.LU.ŠE₃|)	_
+1393	o0001907	|LU.SZE3.NIG2.KI|	|LU.EŠ₂.GAR.KI|	o0001907	ugnimx(|LU.SZE3.NIG2.KI|)	ugnimₓ(|LU.ŠE₃.NIG₂.KI|)	_
+1394	o0002370	|SU.KI.LU.SZE3.KI|	|SU.KI.LU.EŠ₂.KI|	o0002370	ugnimx(|SU.KI.LU.SZE3.KI|)	ugnimₓ(|SU.KI.LU.ŠE₃.KI|)	_
+1395		|SU.KU.SZE3.KI.NIG2.RA|	|SU.KU.EŠ₂.KI.GAR.RA|		ugnimx(|SU.KU.SZE3.KI.NIG2.RA|)	ugnimₓ(|SU.KU.ŠE₃.KI.NIG₂.RA|)	_
+1396		|SU.LU.SU.KI.NIG2|	|SU.LU.SU.KI.GAR|		ugnimx(|SU.LU.SU.KI.NIG2|)	ugnimₓ(|SU.LU.SU.KI.NIG₂|)	_
 1397	o0002461	UGU	UGU	o0002461	ugu	ugu	ugun₃
 1398	o0000687	|A.KA|	|A.KA|	o0000687	ugu2	ugu₂	_
 1399	o0000717	|A.SAG|	|A.SAG|	o0000717	ugu3	ugu₃	_
@@ -1331,9 +1383,9 @@
 1410	o0002459	UL	UL	o0002459	ul	ul	mul₄
 1411	o0000487	NU	NU	o0000487	ul2	ul₂	_
 1412	o0001363	KIB	KIB	o0001363	ul3	ul₃	_
-1413	o0000214	GIR2@g	GIR₂@g	o0000214	ul4	ul₄	_
+1413	o0000214	GIR₂@g	GIR₂@g	o0000214	ul4	ul₄	_
 1414	o0002572	GISZGAL	GIŠGAL	o0002572	ulu3	ulu₃	_
-1415		|BI.ASZ2|	|BI.AŠ₂|		ulušinₓ(|BI.AŠ₂|)~|BI.AŠ₂|	ulušinₓ	_
+1415		|BI.ASZ2|	|BI.AŠ₂|		uluszinx(|BI.ASZ2|)	ulušinₓ(|BI.AŠ₂|)	_
 1416	o0000571	UM	UM	o0000571	um	um	umu
 1417	o0000572	UMBIN	UMBIN	o0000572	umbin	umbin	_
 1418	o0001375	|GISZ.KUSZU2|	|GIŠ.KUŠU₂|	o0001375	umma	umma	_
@@ -1341,14 +1393,22 @@
 1420	o0002524	|UM.ME|	|UM.ME|	o0002524	ummeda	ummeda	_
 1421	o0000663	|A.EDIN.A.LAL|	|A.EDIN.A.LAL|	o0000663	ummu	ummu	_
 1422	o0000664	|A.EDIN.LAL|	|A.EDIN.LAL|	o0000664	ummu3	ummu₃	_
-1429	o0031627	|EDIN.NA.A.LAL|	|EDIN.NA.A.LAL|	o0031627	ummuₓ(|EDIN.NA.A.LAL|)~|EDIN.NA.A.LAL|	ummuₓ	_
+1423	o0000666	|A.EDIN|	|A.EDIN|	o0000666	ummux(|A.EDIN|)	ummuₓ(|A.EDIN|)	_
+1424	o0000729	|A.U.EDIN.LAL|	|A.U.EDIN.LAL|	o0000729	ummux(|A.U.EDIN.LAL|)	ummuₓ(|A.U.EDIN.LAL|)	_
+1425	o0001044	|EDIN.A.LAL|	|EDIN.A.LAL|	o0001044	ummux(|EDIN.A.LAL|)	ummuₓ(|EDIN.A.LAL|)	_
+1426	o0001045	|EDIN.A|	|EDIN.A|	o0001045	ummux(|EDIN.A|)	ummuₓ(|EDIN.A|)	_
+1427	o0001046	|EDIN.LAL.A|	|EDIN.LAL.A|	o0001046	ummux(|EDIN.LAL.A|)	ummuₓ(|EDIN.LAL.A|)	_
+1428	o0152715	|EDIN.LAL|	|EDIN.LAL|	o0152715	ummux(|EDIN.LAL|)	ummuₓ(|EDIN.LAL|)	_
+1429	o0031627	|EDIN.NA.A.LAL|	|EDIN.NA.A.LAL|	o0031627	ummux(|EDIN.NA.A.LAL|)	ummuₓ(|EDIN.NA.A.LAL|)	_
 1430	o0000557	TUG2	TUG₂	o0000557	umusz	umuš	uš₄
 1431	o0000575	UN	UN	o0000575	un	un	_
 1432	o0000089	UNUG	UNUG	o0000089	unu	unu	unug
 1433	o0002410	|TE.UNUG|	|TE.AB@g|	o0002410	unu2	unu₂	_
 1434	o0000758	|AB2.KU|	|AB₂.KU|	o0000758	unu3	unu₃	unud utul udul
 1435	o0002411	|TE.AB|	|TE.AB|	o0002411	unu6	unu₆	_
-1438	o0002415	|TE.MUSZ3|	|TE.MUŠ₃|	o0002415	unuₓ(|TE.MUŠ₃|)~|TE.MUŠ₃|	unuₓ	_
+1436	o0001452	HAR	HAR	o0001452	unux(HAR)	unuₓ(HAR)	_
+1437	o0000550	TE	TE	o0000550	unux(TE)	unuₓ(TE)	_
+1438	o0002415	|TE.MUSZ3|	|TE.MUŠ₃|	o0002415	unux(|TE.MUSZ3|)	unuₓ(|TE.MUŠ₃|)	_
 1439	o0000564	UB	UB	o0000564	up	up	_
 1440	o0002244	UG	UG	o0002244	uq	uq	_
 1441	o0000576	UR	UR	o0000576	ur	ur	ura uru₁₃
@@ -1369,9 +1429,11 @@
 1456	o0000551	GUR8	GUR₈	o0000551	uru5	uru₅	ur₁₂ ru₁₀
 1457		|URUxA|	|URU×A|	o0002553	urua	urua	_
 1458	o0000584	URUDU	URUDU	o0000584	uruda	uruda	urud urudu
-1459		||UR₂×U₂|.ASZ|	|UR₂×U₂.AŠ|	o0002586	urum2	urum₂	murum₄ muru₄ uru₇ ur₉
-1462	o0002597	|UR2xU2|	|UR₂×U₂|		urumₓ(|UR₂×U₂|)~|UR₂×U₂|	urumₓ	_
-1463		|DUG.SILA3.BUR|	|DUG.SILA₃.BUR|	o0001005	urₓ(|DUG.SILA₃.BUR|)~|DUG.SILA₃.BUR|	urₓ	_
+1459		|.ASZ|	|UR₂×U₂.AŠ|	o0002586	urum2	urum₂	murum₄ muru₄ uru₇ ur₉
+1460	o0002583	|UR2x|	|UR₂×(A.HA)|		urumx(|UR2x|)	urumₓ(|UR₂×|)	_
+1461	o0002591	|UR2xHA|	|UR₂×HA|		urumx(|UR2xHA|)	urumₓ(|UR₂×HA|)	_
+1462	o0002597	|UR2xU2|	|UR₂×U₂|		urumx(|UR2xU2|)	urumₓ(|UR₂×U₂|)	_
+1463		|DUG.SILA3.BUR|	|DUG.SILA₃.BUR|	o0001005	urx(|DUG.SILA3.BUR|)	urₓ(|DUG.SILA₃.BUR|)	_
 1464	o0002714	UZ	UZ	o0002714	us	us	_
 1465	o0000595	USZ	UŠ	o0000595	us2	us₂	_
 1466	o0001433	USAN	USAN	o0001433	usan	usan	_
@@ -1382,12 +1444,13 @@
 1471	o0000114	BAD	BAD	o0000555	usz2	uš₂	_
 1472	o0000131	BUR2	BUR₂	o0000131	uszum	ušum	_
 1473	o0001195	|GAL.BUR2|	|GAL.BUR₂|	o0001195	uszumgal	ušumgal	_
-1474		BUR2@g	BUR₂@g		ušumₓ(BUR₂@g)~BUR₂@g	ušumₓ	_
+1474		BUR₂@g	BUR₂@g		uszumx(BUR₂@g)	ušumₓ(BUR₂@g)	_
 1475		|LAL2.SAR|	|LAL₂.SAR|	o0001898	uszur	ušur	_
 1476		|LAL.SAR|	|LAL.SAR|	o0001890	uszur2	ušur₂	_
 1477		|LAL2.LAGAB|	|LAL₂.LAGAB|	o0001896	uszur3	ušur₃	_
 1478		|LAL.LAGAB|	|LAL.LAGAB|	o0001888	uszur4	ušur₄	usur₄
-1480	o0001899	|LAL2.TUG2|	|LAL₂.TUG₂|	o0001899	ušurₓ(|LAL₂.TUG₂|)~|LAL₂.TUG₂|	ušurₓ	_
+1479	o0221870	|LAL.TUG2|	|LAL.TUG₂|	o0221870	uszurx(|LAL.TUG2|)	ušurₓ(|LAL.TUG₂|)	_
+1480	o0001899	|LAL2.TUG2|	|LAL₂.TUG₂|	o0001899	uszurx(|LAL2.TUG2|)	ušurₓ(|LAL₂.TUG₂|)	_
 1481	o0000565	UD	UD	o0000565	ut	ut	_
 1482	o0000565	UD	UD	o0000565	utu	utu	_
 1483	o0002457	UTU2	UTU₂	o0002457	utu2	utu₂	_
@@ -1400,7 +1463,7 @@
 1490	o0000502	PI	PI	o0000502	we	we	_
 1491	o0000502	PI	PI	o0000502	wi	wi	_
 1492	o0000502	PI	PI	o0000502	wu	wu	_
-1493	o0000601	X	X	o0000601	x(X)~X	x	_
+1493	o0000601	X	X	o0000601	x(X)	x(X)	_
 1494	o0000603	ZA	ZA	o0000603	za	za	_
 1495	o0000605	ZAG	ZAG	o0000605	za3	za₃	zag sak₆ zak
 1496	o0002649	|ZA.MUSZ2.UNUG|	|ZA.MUŠ₃@g.AB@g|	o0002649	zabala	zabala	_
@@ -1409,9 +1472,13 @@
 1499	o0002042	|MUSZ3.ZA.UNUG|	|MUŠ₃.ZA.AB@g|	o0002042	zabala4	zabala₄	_
 1500	o0002038	|MUSZ3.AB|	|MUŠ₃.AB|	o0002038	zabala5	zabala₅	_
 1501	o0000740	|AB.MUSZ3|	|AB.MUŠ₃|	o0000740	zabala6	zabala₆	_
-1506	o0000742	|UNUG.MUSZ3.ZA|	|AB@g.MUŠ₃.ZA|	o0000742	zabalaₓ(|UNUG.MUŠ₃.ZA|)~|AB@g.MUŠ₃.ZA|	zabalaₓ	_
+1502	o0000818	|AN.MUSZ3.AB|	|AN.MUŠ₃.AB|	o0000818	zabalax(|AN.MUSZ3.AB|)	zabalaₓ(|AN.MUŠ₃.AB|)	_
+1503	o0000817	|AN.MUSZ3.UNUG|	|AN.MUŠ₃.AB@g|	o0000817	zabalax(|AN.MUSZ3.UNUG|)	zabalaₓ(|AN.MUŠ₃.UNUG|)	_
+1504	o0221901	|MUSZ3.TE.UNUG|	|MUŠ₃.TE.AB@g|	o0221901	zabalax(|MUSZ3.TE.UNUG|)	zabalaₓ(|MUŠ₃.TE.UNUG|)	_
+1505	o0002036	|MUSZ3.UNUG.ZA|	|MUŠ₃.AB@g.ZA|	o0002036	zabalax(|MUSZ3.UNUG.ZA|)	zabalaₓ(|MUŠ₃.UNUG.ZA|)	_
+1506	o0000742	|UNUG.MUSZ3.ZA|	|AB@g.MUŠ₃.ZA|	o0000742	zabalax(|UNUG.MUSZ3.ZA|)	zabalaₓ(|UNUG.MUŠ₃.ZA|)	_
 1507	o0002497	|UD.KA.BAR|	|UD.KA.BAR|	o0002497	zabar	zabar	_
-1508	o0001661	||(KA×UD)|.BAR|	|(KA×UD).BAR|	o0001661	zabar3	zabar₃	_
+1508	o0001661	|.BAR|	|(KA×UD).BAR|	o0001661	zabar3	zabar₃	_
 1509	o0000459	ZADIM	ZADIM	o0000459	zadim	zadim	_
 1510	o0002837	SZID	ŠID	o0000485	zag3	zag₃	_
 1511	o0000477	NE	NE	o0000477	zah	zah	_
@@ -1425,7 +1492,7 @@
 1520	o0000536	SUM	SUM	o0000536	zar3	zar₃	_
 1521	o0000609	ZI	ZI	o0000609	ze	ze	_
 1522	o0000608	ZI2	ZI₂	o0000608	ze2	ze₂	_
-1523	o0000248	SIG7	SIG₇	o0000248	zeₓ(SIG₇)~SIG₇	zeₓ	_
+1523	o0000248	SIG7	SIG₇	o0000248	zex(SIG7)	zeₓ(SIG₇)	_
 1524	o0000609	ZI	ZI	o0000609	zi	zi	zig₃ zid
 1525	o0000608	ZI2	ZI₂	o0000608	zi2	zi₂	_
 1526	o0000178	SZE3	ŠE₃	o0000613	zi3	zi₃	zid₂
@@ -1434,7 +1501,7 @@
 1529	o0001814	ENGUR	ENGUR	o0001814	zigum	zigum	_
 1530	o0001814	ENGUR	ENGUR	o0001814	zikum	zikum	_
 1531	o0002490	|UD.KIB.NUN|	|UD.GIŠ%GIŠ.NUN|	o0002490	zimbir	zimbir	_
-1532	o0221913	|UD.NUN.KIB|	|UD.NUN.GIŠ%GIŠ|	o0221913	zimbirₓ(|UD.NUN.KIB|)~|UD.NUN.GIŠ%GIŠ|	zimbirₓ	_
+1532	o0221913	|UD.NUN.KIB|	|UD.NUN.GIŠ%GIŠ|	o0221913	zimbirx(|UD.NUN.KIB|)	zimbirₓ(|UD.NUN.KIB|)	_
 1533	o0001069	|EN.NUNUZ.ZI.AN.SZESZ.KI|	|EN.NUNUZ.ZI.AN.ŠEŠ.KI|	o0001069	zirru	zirru	_
 1534	o0000110	ASZ2	AŠ₂	o0000612	ziz2	ziz₂	_
 1535	o0002393	|TAG.TAG|	|TAG.TAG|	o0002393	ziz5	ziz₅	_
@@ -1444,28 +1511,28 @@
 1539	o0000260	KA	KA	o0000260	zuh	zuh	_
 1540	o0000617	ZUM	ZUM	o0000617	zum	zum	sum₂ sim₅
 1541	o0000097	AMAR	AMAR	o0000097	zur	zur	_
-1722	o0223485	SZAR2@c	ŠAR₂@c	o0223485		šar₂@c	_
-1744	o0223336	DIŠ@c@c	BARIG@c	o0223336		barig@c	_
+1722	o0223485	ŠAR₂@c	ŠAR₂@c	o0223485		šar₂@c	_
+1744	o0223336	BARIG@c	BARIG@c	o0223336		barig@c	_
 1749	o0000245	ESZE3	EŠE₃	o0000245		eše₃	_
-1751	o0223467	GESZ'U@c	GEŠʾU@c	o0223467		gešʾu@c	_
-1789	o0223385	BAN2@c	BAN₂@c	o0223385		ban₂@c	_
+1751	o0223467	GEŠʾU@c	GEŠʾU@c	o0223467		gešʾu@c	_
+1769		BAN₂AŠ@45	BAN₂AŠ@45	o0000024	3(ban2)(3(aš@45))	3(ban₂)(3(aš@45))	_
+1789	o0223385	BAN₂@c	BAN₂@c	o0223385		ban₂@c	_
 1790	o0000145	BARIG	BARIG	o0000145		barig	_
 1807	o0000003	BAN2	BAN₂	o0000003		ban₂	_
 1808	o0000562	BUR'U	BURʾU	o0000562		burʾu	_
 1811	o0000006	GESZ'U	GEŠʾU	o0000006		gešʾu	_
 1814	o0000199	IKU	IKU	o0000199		iku	_
-1815	o0028134	GAN₂@c@c	IKU@c			iku@c	_
+1815	o0028134	IKU@c	IKU@c			iku@c	_
 1816	o0000008	SZAR'U	ŠARʾU	o0000008		šarʾu	_
 1819	o0000561	U	U	o0000561		u	un₂
-1820	o0223334	U@c@c	U@c	o0223334		u@c	_
-1828	o0000217	GESZ	GEŠ	o0000217		geš	ŋeš ŋiš giš giša kis₂ gez giz
+1820	o0223334	U@c	U@c	o0223334		u@c	_
 1850	o0000106	ASZ	AŠ	o0000106		aš	aša az₃ as₃
-1851		ASZ@45	AŠ@45			aš@45	_
-1852	o0221914	ASZ@c	AŠ@c	o0221914		aš@c	_
+1851		AŠ@45	AŠ@45			aš@45	_
+1852	o0221914	AŠ@c	AŠ@c	o0221914		aš@c	_
 1853	o0000561	BUR3	BUR₃	o0000561		bur₃	puzur buzur buru₃
 1854	o0000145	DISZ	DIŠ	o0000145		diš	deš duš₂ tiz tiš diša
-1855		DISZ@v	DIŠ@v			diš@v	_
+1855		DIŠ@v	DIŠ@v			diš@v	_
 1856	o0000007	GESZ2	GEŠ₂	o0000007		geš₂	ŋeš₂ gešu ŋiš₂ giš₂ ge₃ gi₃
-1857	o0223469	GESZ2@c	GEŠ₂@c	o0223469		geš₂@c	_
+1857	o0223469	GEŠ₂@c	GEŠ₂@c	o0223469		geš₂@c	_
 1858	o0002827	SZAR2	ŠAR₂	o0002827		šar₂	šara₆ sar₂ sara₂ sare₂
 1859	o0002827	SZARGAL	ŠARGAL	o0002827		šargal	o0000194		gal

@@ -64,7 +64,8 @@
   <xsl:template match="g:q">
     <xsl:call-template name="oid-atf"/>
     <xsl:text>&#x9;</xsl:text>
-    <xsl:value-of select="*[1]/text()"/>
+    <xsl:value-of select="../@form"/>
+    <!--<xsl:value-of select="*[1]/text()"/>-->
   </xsl:template>
 
   <xsl:template match="x:l">
