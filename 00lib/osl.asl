@@ -48,7 +48,7 @@
 @listdef LAK 001-870 009^a 024^a 036^a 046a 063^a 072^a 072^b 073^a
 	073^b 073^c 079^a 081^a 141^a 156^a 162^a 162^b 171^a 177a
 	207a 221a 221b 233^a 235^a 248^a 262^a 278^a 283^a 350^a 368^a 380^a
-	380^b 380^c 407^a 449^a 455a 490^a 497^a 497^b 503^a 503^b 654^a 672^a
+	380^b 380^c 407^a 407^b 449^a 455a 490^a 497^a 497^b 503^a 503^b 654^a 672^a
 	672^b 709^a 709^b 712^a 712^b 772^a 784^a 791^a 792^a 807^a
 	816^a 816^b 820^a 820^b 820^c 820^d 821^a 821^b 822^a 822^b
 	822^c 823^a 823^b 823^c 825^a 825^b 826^a 826^b 827^a 827^b
@@ -15116,6 +15116,7 @@
 @aka	|IGI.LU.LAK248|
 @useq	x12146.x121FB.x1210A
 @ucun	𒅆𒇻𒄊
+@v	lulimₓ
 @inote	From http://oracc.org/dcclt/P241517.61.1; no copy of this sign under either ELLes 137 (GIR₃) or ELLes 139 (KIŠ).
 @@
 @form |LU.GIR₃×IGI|
@@ -34210,6 +34211,7 @@
 @useq	x12079.x12263.x121EC
 @ucun	𒁹𒉣𒇬
 @v	immal
+@v	tur₃
 @inote	SF 081 r i 11–12; contrasts with šilamₓ(NUN.LAGAR=LAK077) r i 9–10 as noted by Deimel in LAK077; see http://oracc.org/dcclt/P010677.115.
 @@
 @form |NUN.LAGAR|
@@ -36167,6 +36169,7 @@
 @ucun	󰂀
 @uage	9.2
 @v	kilim
+@v	peš₂
 @link	eBL LAK247 https://www.ebl.lmu.de/signs/LAK247
 @@
 @end sign
@@ -44828,7 +44831,8 @@
 @end sign
 
 @sign |U.GAN|
-@list	LAK407^a
+@list	LAK407
+@list	LAK407^b
 @oid	o0002456
 @list	ABZL345
 @list	BAU279
@@ -44867,6 +44871,13 @@
 @ucun	𒌋X
 @v	šaman₂
 @@
+@form |ŠU₂.GAN|
+@oid	o0038430
+@list	LAK407^a
+@v	šagan
+@inote 20261008 |U.GAN| formerly LAK407^a but main sign in LAK407 is
+       ŠU₂+GAN; |U.GAN| is really wrongly described because U<ŠU₂ should be
+       ŠU₄ (cover)
 @end sign
 
 @sign |U.GIŠ%GIŠ|
@@ -47497,6 +47508,7 @@
 @list	LAK647
 @oid	o0025783
 @v	sigₓ
+@v	uri
 @inote is this really a form of URI? Check lit cited in KOBO 275 n.459
 @@
 @form URI@n
