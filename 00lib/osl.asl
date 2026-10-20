@@ -39119,20 +39119,22 @@
 @oid	o0002801
 @useq	x122D7.x122E1.x120EE
 @ucun	𒋗𒋡𒃮
-@v	sagi
 @ref	CUSAS 12, 2.1.3 = dcclt:P252036 o ii 19
+@v	sagi
 @v	šagia
 @@
 @form |ŠU.SILA₃.GABA.A|
 @oid	o0027900
 @useq	x122D7.x122E1.x120EE.x12000
 @ucun	𒋗𒋡𒃮𒀀
+@v	sagi
 @v	šagia
 @@
 @form |TAK₄.SILA₃.GABA|
 @oid	o0021442
 @useq	x122FA.x122E1.x120EE
 @ucun	𒋺𒋡𒃮
+@v	sagi
 @v	šagia
 @@
 @end sign
@@ -49656,6 +49658,7 @@
 @aka	|TUM×EŠ|
 @v	haš₂
 @v	zig
+@v	zib₂
 @inote	dcclt Q000041
 @@
 @end sign
