@@ -2593,6 +2593,7 @@
 @v	ap₃
 @v	at
 @v	aṭ
+@v	iriₓ
 @link	eBL AD https://www.ebl.lmu.de/signs/AD
 @link	Wikidata Q87555052 http://www.wikidata.org/entity/Q87555052
 @end sign
@@ -3421,6 +3422,10 @@
 @oid	o0027764
 @useq	x1202D.x1222A.x12137
 @ucun	𒀭𒈪𒄷
+@@
+@form |MI.IM|
+@oid	o0040004
+@ucun	𒈪𒅎
 @@
 @end sign
 
@@ -10031,6 +10036,10 @@
 @ucun	𒂞𒋗𒈨
 @v	šurmenₓ
 @link	eBL |EREN.ŠU.ME| https://www.ebl.lmu.de/signs/|EREN.ŠU.ME|
+@form |ŠU.ME|
+@oid  o0040005
+@v	šurmenₓ
+@@
 @end sign
 
 @sign |EREN×KASKAL|
@@ -15503,6 +15512,11 @@
 @@
 @end sign
 
+@sign |GIŠ.NE@s.GA@g|
+@oid  o0040009
+@v pabilgaₓ
+@end sign
+
 @sign |GIŠ.NE.MES.GA|
 @oid	o0001381
 @inote	epsd2
@@ -17228,6 +17242,7 @@
 @v	mul₃
 @v	muš₄
 @v	sur₃
+@v	šagbalbalₓ
 @v	udulₓ
 @v	uš₁₇
 @v	ušša
@@ -17473,6 +17488,11 @@
 @upua	U+F0066
 @ucun	󰁦
 @uage	9.2
+@end sign
+
+@sign |HI×ME|
+@oid  o0040008
+@inote For Oracc's cipo 00atf/AO20011.atf:8:P513649; reading uncertain
 @end sign
 
 @sign |HI×BAD×U|
@@ -32617,7 +32637,13 @@
 @v	bilₓ
 @inote	ed3a
 @@
+@form |GIŠ×PAP.NE|
+@oid	o0040006
+@v	bilₓ
+@@
 @end sign
+
+@compoundonly |GIŠ×PAP|
 
 @sign |NE@s.GI|
 @oid	o0002069
@@ -38608,6 +38634,11 @@
 @useq	x122DB.x12000.x120FB.O
 @ucun	𒋛𒀀𒃻X
 @v	addirₓ
+@end sign
+
+@sign |SI.E₂|
+@oid  o0040002
+@v	nigarₓ
 @end sign
 
 @sign |SI.GUD|
