@@ -17220,6 +17220,8 @@
 @sign |HI.SUHUR|
 @list	LAK223
 @oid	o0027607
+@v	kudaₓ
+@inote	phonetic writings ku-da in VS 2 1 (obel/P342809) o ii 1 and VS 2 3 (obel/P342811) o i 5' and ku₆-da in BM 23658 (obel/P345459) o 15. Also Ebla ED Fish 3 (syllabic) gu₂-da.
 @inote	missing compounds for lak.atf
 @useq	x1212D.x122E6
 @ucun	𒄭𒋦
