@@ -32376,6 +32376,7 @@
 @v	bel
 @v	bi₂
 @v	bil
+@inote See George, CUSAS 32 text 1 and p.99 where the form of BIL is distinct form NE.
 @v	bila
 @v	bili
 @v	bir₉
