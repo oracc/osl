@@ -10038,6 +10038,8 @@
 @link	eBL |EREN.ŠU.ME| https://www.ebl.lmu.de/signs/|EREN.ŠU.ME|
 @form |ŠU.ME|
 @oid  o0040005
+@useq	x122D7.x12228
+@ucun	𒋗𒈨
 @v	šurmenₓ
 @@
 @end sign
@@ -15514,6 +15516,8 @@
 
 @sign |GIŠ.NE@s.GA@g|
 @oid  o0040009
+@useq	x12111.x1224B.x120B6
+@ucun	𒄑𒉋𒂶
 @v pabilgaₓ
 @end sign
 
@@ -33900,6 +33904,7 @@
 @form |NU×U|
 @oid o0048857
 @inote added so admin/names validates; needs collation to see if anything except NU×U@c exists
+@@
 @end sign
 
 @compoundonly	|NU&NU|
@@ -38641,6 +38646,8 @@
 
 @sign |SI.E₂|
 @oid  o0040002
+@useq	x122DB.x1208D
+@ucun	𒋛𒂍
 @v	nigarₓ
 @end sign
 
@@ -40969,8 +40976,8 @@
 @inote duplicate of |ŠE&ŠE.KIN|
 @oid	o0221924
 @inote	admin/ed3b
-@useq	X.x121A5
-@ucun	X𒆥
+@useq	x12532.x121A5
+@ucun	𒔲𒆥
 @v	gurₓ
 @end sign
 
@@ -44129,8 +44136,9 @@
 @link	eBL KU₄ https://www.ebl.lmu.de/signs/KU₄
 @@
 @form |ŠE.ŠU|
-@useq x122BA.x122D7
 @list	LAK141^a
+@list	U+121AD
+@ucun	𒆭
 @oid	o0223490
 @@
 @form |ŠU×ŠE|
@@ -44909,11 +44917,14 @@
 @@
 @form |ŠU₂.GAN|
 @oid	o0038430
+@useq	x122D9.x120F6
+@ucun	𒋙𒃶
 @list	LAK407^a
 @v	šagan
 @inote 20261008 |U.GAN| formerly LAK407^a but main sign in LAK407 is
        ŠU₂+GAN; |U.GAN| is really wrongly described because U<ŠU₂ should be
        ŠU₄ (cover)
+@@
 @end sign
 
 @sign |U.GIŠ%GIŠ|
