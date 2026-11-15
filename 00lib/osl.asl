@@ -33900,6 +33900,7 @@
 @form |NU×U|
 @oid o0048857
 @inote added so admin/names validates; needs collation to see if anything except NU×U@c exists
+@@
 @end sign
 
 @compoundonly	|NU&NU|
@@ -44914,6 +44915,7 @@
 @inote 20261008 |U.GAN| formerly LAK407^a but main sign in LAK407 is
        ŠU₂+GAN; |U.GAN| is really wrongly described because U<ŠU₂ should be
        ŠU₄ (cover)
+@@
 @end sign
 
 @sign |U.GIŠ%GIŠ|
