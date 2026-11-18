@@ -2744,7 +2744,7 @@
 @list	ELLES255
 @list	PTACE144
 @lit	Ebla 1975-1985, 196-197
-@uname	CUNEIFORM SIGN LAK493
+@uname	CUNEIFORM SIGN LAK-493
 @list	U+124FD
 @ucun	𒓽
 @uage	8.0
@@ -4075,7 +4075,7 @@
 @list	RSP001
 @list	SLLHA001
 @list	SYA001
-@uname	CUNEIFORM NUMERIC SIGN ASH
+@uname	CUNEIFORM SIGN ASH
 @list	U+12038
 @ucun	𒀸
 @uage	5.0
@@ -4256,7 +4256,7 @@
 @list	BAU084
 @list	MZL505
 @list	SLLHA325a
-@uname	CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH16
+@uname	CUNEIFORM SIGN ASH OVER ASH OVER ASH
 @list	U+1203C
 @ucun	𒀼
 @unote	double-encoded as x1243A
@@ -7007,7 +7007,7 @@
 @oid	o0000975
 @aka	|DIM×EŠ|
 @ref	CUSAS 12, 6.1.3 = cdli:P252194 r iv 22-27
-@uname	CUNEIFORM SIGN DIM TIMES ESH
+@uname	CUNEIFORM SIGN DIM TIMES U U U
 @list	U+1248B
 @ucun	𒒋
 @uage	8.0
@@ -7182,7 +7182,7 @@
 @list	RSP005
 @list	SLLHA480
 @list	SYA242
-@uname	CUNEIFORM NUMERIC SIGN DISH
+@uname	CUNEIFORM SIGN DISH
 @list	U+12079
 @ucun	𒁹
 @uage	5.0
@@ -7348,7 +7348,7 @@
 @form USSU
 @oid	o0000589
 @inote	dcclt *() punctuation qualifier
-@uname	CUNEIFORM NUMERIC SIGN VARIANT FORM USSU
+@uname	CUNEIFORM NUMERIC SIGN EIGHT VARIANT FORM USSU
 @list	U+12444
 @ucun	𒑄
 @uage	5.0
@@ -8124,7 +8124,7 @@
 @sign |DUG×AŠ@f|
 @list	LAK561
 @oid	o0001010
-@uname	CUNEIFORM SIGN DUG TIMES ASH FRONT
+@uname	CUNEIFORM SIGN DUG TIMES ASH AT LEFT
 @list	U+1248F
 @ucun	𒒏
 @uage	8.0
@@ -8285,7 +8285,7 @@
 @sign |DUG×LAK20|
 @list	LAK564
 @oid	o0001025
-@uname	CUNEIFORM SIGN DUG TIMES LAK20
+@uname	CUNEIFORM SIGN DUG TIMES LAK-020
 @list	U+1249E
 @ucun	𒒞
 @uage	8.0
@@ -10143,7 +10143,7 @@
 @oid	o0001086
 @list	ELLES160
 @list	PTACE143
-@uname	CUNEIFORM SIGN ERIN₂ JOINING X
+@uname	CUNEIFORM SIGN ERIN2 X
 @list	U+124AB
 @ucun	𒒫
 @uage	8.0
@@ -10825,7 +10825,7 @@
 @aka	|LAK617×MIR|
 @list	BAU303
 @inote	analogue to EZEN×DUN₃@g@g
-@uname	CUNEIFORM SIGN LAK617 TIMES MIR
+@uname	CUNEIFORM SIGN LAK-617 TIMES DUN3 GUNU GUNU
 @list	U+12504
 @ucun	𒔄
 @uage	8.0
@@ -10981,7 +10981,7 @@
 @oid	o0001868
 @list	BAU305
 @list	RSP288^a
-@uname	CUNEIFORM SIGN LAK617 TIMES LA
+@uname	CUNEIFORM SIGN LAK-617 TIMES LA
 @list	U+12506
 @ucun	𒔆
 @uage	8.0
@@ -11335,7 +11335,7 @@
 @v	1/4(iku@c)
 @sys acn 1/4(IKU@c)
 @list U+12589
-@uname CUNEIFORM NUMERIC SIGN ONE QUARTER IKU CURVED
+@uname CUNEIFORM NUMERIC SIGN ONE N01 REVERSED
 @uage ACN
 @ucun 𒖉
 @@
@@ -14269,7 +14269,7 @@
 @oid	o0000209
 @list	MZL647
 @note	This sign is sometimes (incorrectly) described as AŠ@k
-@uname	CUNEIFORM SIGN GE₂₂
+@uname	CUNEIFORM SIGN GE22
 @list	U+1237B
 @ucun	𒍻
 @uage	7.0
@@ -19611,7 +19611,7 @@
 @list	HZL373
 @list	MZL863
 @list	SLLHA598n1
-@uname	VARIANT B CUNEIFORM NUMERIC SIGN IMIN VARIANT B
+@uname	CUNEIFORM SIGN IMIN
 @list	U+12153
 @ucun	𒅓
 @uage	5.0
@@ -19877,6 +19877,7 @@
 @list	HZL141
 @list	MZL056
 @list	SLLHA031n1
+@uname	CUNEIFORM SIGN KA TIMES U
 @list	U+12187
 @ucun	𒆇
 @uage	5.0
@@ -21121,6 +21122,7 @@
 @list	KWU428
 @list	MZL033
 @list	SLLHA019
+@uname	CUNEIFORM SIGN KA TIMES GAN2 TENU
 @list	U+12164
 @ucun	𒅤
 @uage	5.0
@@ -21238,7 +21240,7 @@
 @sign |KA×ŠE@f|
 @oid	o0001673
 @ref	CUSAS 12, 6.1.2 = cdli:P252191 r ii':18
-@uname	CUNEIFORM SIGN KA TIMES SHE FRONT
+@uname	CUNEIFORM SIGN SAG TIMES SHE AT LEFT
 @list	U+1252F
 @ucun	𒔯
 @uage	8.0
@@ -21309,6 +21311,7 @@
 @list	ELLES186
 @list	GCSL144
 @list	GCSL145
+@uname	CUNEIFORM SIGN KA TIMES GAN2 TENU
 @list	U+12164
 @ucun	𒅤
 @uage	5.0
@@ -21393,7 +21396,7 @@
 @oid	o0001605
 @aka	|KA×EŠ|
 @list	KWU422
-@uname	CUNEIFORM SIGN KA TIMES ESH
+@uname	CUNEIFORM SIGN KA TIMES U U U
 @list	U+124D2
 @ucun	𒓒
 @uage	8.0
@@ -22127,7 +22130,7 @@
 @note	OSL uses a webfont which is a version of NotoSansCuneiform with
 	the KALAM/KALAM@g glyphs swapped by Robin Leroy to conform to
 	the new definition.
-@uname	CUNEIFORM SIGN UN GUNU
+@uname	CUNEIFORM SIGN KALAM
 @list	U+12327
 @ucun	𒌧
 @unote	This glyph may appear incorrect in the OSL source but should be correct in the web display which uses the swapped font.
@@ -22214,7 +22217,7 @@
 
 @sign KAP₀
 @oid	o0000274
-@uname	CUNEIFORM SIGN ELAMITE KAP
+@uname	CUNEIFORM SIGN KAP ELAMITE
 @list	U+1236F
 @ucun	𒍯
 @uage	7.0
@@ -23941,6 +23944,7 @@
 @list	GCSL054
 @list	KWU147
 @list	REC056
+@uname	CUNEIFORM SIGN LIL
 @ucun	𒇸
 @v	kuₓ
 @v	kurₓ
@@ -23952,6 +23956,7 @@
 @list	KWU634
 @list	REC145
 @list	RSP444
+@uname	CUNEIFORM SIGN KU4 VARIANT FORM
 @ucun	𒆮
 @v	ku₄
 @v	kur₉
@@ -24966,7 +24971,7 @@
 @oid	o0001801
 @list	MZL782
 @list	SLLHA503
-@uname	CUNEIFORM SIGN LAGAB TIMES ASH TENU
+@uname	CUNEIFORM SIGN LAGAB TIMES LISH
 @list	U+121D5
 @ucun	𒇕
 @uage	5.0
@@ -26848,7 +26853,7 @@
 @sign LAK3
 @list	LAK003
 @oid	o0000349
-@uname	CUNEIFORM SIGN LAK3
+@uname	CUNEIFORM SIGN LAK-003
 @list	U+124D5
 @ucun	𒓕
 @uage	8.0
@@ -26888,7 +26893,7 @@
 @sign LAK21
 @list	LAK021
 @oid	o0000322
-@uname	CUNEIFORM SIGN LAK21
+@uname	CUNEIFORM SIGN LAK-021
 @list	U+124D6
 @ucun	𒓖
 @uage	8.0
@@ -26900,7 +26905,7 @@
 @list	LAK025
 @oid	o0000338
 @list	BAU076
-@uname	CUNEIFORM SIGN LAK25
+@uname	CUNEIFORM SIGN LAK-025
 @list	U+124D7
 @ucun	𒓗
 @uage	8.0
@@ -26923,7 +26928,7 @@
 @sign LAK30
 @list	LAK030
 @oid	o0000350
-@uname	CUNEIFORM SIGN LAK30
+@uname	CUNEIFORM SIGN LAK-030
 @list	U+124D8
 @ucun	𒓘
 @uage	8.0
@@ -26952,7 +26957,7 @@
 @sign LAK50
 @list	LAK050
 @oid	o0000390
-@uname	CUNEIFORM SIGN LAK50
+@uname	CUNEIFORM SIGN LAK-050
 @list	U+124D9
 @ucun	𒓙
 @uage	8.0
@@ -26971,7 +26976,7 @@
 @sign |(LAK079&LAK079)@g|
 @list	LAK079^a
 @oid	o0025789
-@uname	CUNEIFORM SIGN LAK79 OVER LAK79 GUNU
+@uname	CUNEIFORM SIGN LAK-079 OVER LAK-079 GUNU
 @list	U+124DC
 @ucun	𒓜
 @uage	8.0
@@ -26981,7 +26986,7 @@
 @sign LAK80
 @list	LAK080
 @oid	o0000418
-@uname	CUNEIFORM SIGN LAK80
+@uname	CUNEIFORM SIGN LAK-080
 @list	U+124DD
 @ucun	𒓝
 @uage	8.0
@@ -26998,7 +27003,7 @@
 @sign |LAK81&LAK81|
 @list	LAK081^a
 @oid	o0001886
-@uname	CUNEIFORM SIGN LAK81 OVER LAK81
+@uname	CUNEIFORM SIGN LAK-081 OVER LAK-081
 @list	U+124DE
 @ucun	𒓞
 @uage	8.0
@@ -27009,7 +27014,7 @@
 @sign LAK92
 @list	LAK092
 @oid	o0000421
-@uname	CUNEIFORM SIGN LAK92
+@uname	CUNEIFORM SIGN LAK-092
 @list	U+124DF
 @ucun	𒓟
 @uage	8.0
@@ -27031,7 +27036,7 @@
 @sign LAK130
 @list	LAK130
 @oid	o0000314
-@uname	CUNEIFORM SIGN LAK130
+@uname	CUNEIFORM SIGN LAK-130
 @list	U+124E0
 @ucun	𒓠
 @uage	8.0
@@ -27053,7 +27058,7 @@
 @sign LAK142
 @list	LAK142
 @oid	o0000316
-@uname	CUNEIFORM SIGN LAK142
+@uname	CUNEIFORM SIGN LAK-142
 @list	U+124E1
 @ucun	𒓡
 @uage	8.0
@@ -27119,7 +27124,7 @@
 @sign LAK210
 @list	LAK210
 @oid	o0000323
-@uname	CUNEIFORM SIGN LAK210
+@uname	CUNEIFORM SIGN LAK-210
 @list	U+124E2
 @ucun	𒓢
 @uage	8.0
@@ -27136,7 +27141,7 @@
 @sign LAK220
 @list	LAK220
 @oid	o0000327
-@uname	CUNEIFORM SIGN LAK220
+@uname	CUNEIFORM SIGN LAK-220
 @list	U+124E4
 @ucun	𒓤
 @uage	8.0
@@ -27147,7 +27152,7 @@
 @sign LAK225
 @list	LAK225
 @oid	o0000329
-@uname	CUNEIFORM SIGN LAK225
+@uname	CUNEIFORM SIGN LAK-225
 @list	U+124E5
 @ucun	𒓥
 @uage	8.0
@@ -27158,7 +27163,7 @@
 @sign LAK228
 @list	LAK228
 @oid	o0000330
-@uname	CUNEIFORM SIGN LAK228
+@uname	CUNEIFORM SIGN LAK-228
 @list	U+124E6
 @ucun	𒓦
 @uage	8.0
@@ -27186,7 +27191,7 @@
 @sign LAK238
 @list	LAK238
 @oid	o0000332
-@uname	CUNEIFORM SIGN LAK238
+@uname	CUNEIFORM SIGN LAK-238
 @list	U+124E7
 @ucun	𒓧
 @uage	8.0
@@ -27245,7 +27250,7 @@
 @sign LAK265
 @list	LAK265
 @oid	o0000342
-@uname	CUNEIFORM SIGN LAK265
+@uname	CUNEIFORM SIGN LAK-265
 @list	U+124E8
 @ucun	𒓨
 @uage	8.0
@@ -27256,7 +27261,7 @@
 @sign LAK266
 @list	LAK266
 @oid	o0000343
-@uname	CUNEIFORM SIGN LAK266
+@uname	CUNEIFORM SIGN LAK-266
 @list	U+124E9
 @ucun	𒓩
 @uage	8.0
@@ -27311,7 +27316,7 @@
 @oid	o0000355
 @list	BAU238
 @note	CHECK Alster AfO ED Proverbs
-@uname	CUNEIFORM SIGN LAK343
+@uname	CUNEIFORM SIGN LAK-343
 @list	U+124EA
 @ucun	𒓪
 @uage	8.0
@@ -27323,7 +27328,7 @@
 @sign LAK347
 @list	LAK347
 @oid	o0000356
-@uname	CUNEIFORM SIGN LAK347
+@uname	CUNEIFORM SIGN LAK-347
 @list	U+124EB
 @ucun	𒓫
 @uage	8.0
@@ -27334,7 +27339,7 @@
 @sign LAK348
 @list	LAK348
 @oid	o0000357
-@uname	CUNEIFORM SIGN LAK348
+@uname	CUNEIFORM SIGN LAK-348
 @list	U+124EC
 @ucun	𒓬
 @uage	8.0
@@ -27375,7 +27380,7 @@
 @sign LAK383
 @list	LAK383
 @oid	o0000363
-@uname	CUNEIFORM SIGN LAK383
+@uname	CUNEIFORM SIGN LAK-383
 @list	U+124ED
 @ucun	𒓭
 @uage	8.0
@@ -27394,7 +27399,7 @@
 @oid	o0000368
 @list	ELLES212
 @list	PTACE151
-@uname	CUNEIFORM SIGN LAK390
+@uname	CUNEIFORM SIGN LAK-390
 @list	U+124EF
 @ucun	𒓯
 @uage	8.0
@@ -27441,7 +27446,7 @@
 @sign LAK441
 @list	LAK441
 @oid	o0000373
-@uname	CUNEIFORM SIGN LAK341
+@uname	CUNEIFORM SIGN LAK-441
 @list	U+124F0
 @ucun	𒓰
 @uage	8.0
@@ -27471,7 +27476,7 @@
 @oid	o0001857
 @list	BAU129
 @note	Civil ARES 4, 96.
-@uname	CUNEIFORM SIGN LAK449 TIMES GU
+@uname	CUNEIFORM SIGN LAK-449 TIMES GU
 @list	U+124F2
 @ucun	𒓲
 @uage	8.0
@@ -27481,7 +27486,7 @@
 
 @sign |LAK449×IGI|
 @oid	o0001858
-@uname	CUNEIFORM SIGN LAK449 TIMES IGI
+@uname	CUNEIFORM SIGN LAK-449 TIMES IGI
 @list	U+124F3
 @ucun	𒓳
 @uage	8.0
@@ -27492,7 +27497,7 @@
 @sign |LAK449×(PAP.LU₃)|
 @list	LAK454
 @oid	o0001854
-@uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS LU3
+@uname	CUNEIFORM SIGN LAK-449 TIMES PAP PLUS LU3
 @list	U+124F4
 @ucun	𒓴
 @uage	8.0
@@ -27505,7 +27510,7 @@
 @oid	o0001855
 @list	ELLES237
 @list	RSP353
-@uname	CUNEIFORM SIGN LAK449 TIMES PAP PLUS PAP PLUS LU3
+@uname	CUNEIFORM SIGN LAK-449 TIMES PAP PLUS PAP PLUS LU3
 @list	U+124F5
 @ucun	𒓵
 @uage	8.0
@@ -27543,7 +27548,7 @@
 @oid	o0001856
 @list	RSP354
 @inote	NUNUZ.KISIM₅x(U₂.BA)
-@uname	CUNEIFORM SIGN LAK449 TIMES U2 PLUS BA
+@uname	CUNEIFORM SIGN LAK-449 TIMES U2 PLUS BA
 @list	U+124F6
 @ucun	𒓶
 @uage	8.0
@@ -27585,7 +27590,7 @@
 @oid	o0000377
 @list	ELLES239
 @list	PTACE197
-@uname	CUNEIFORM SIGN LAK457
+@uname	CUNEIFORM SIGN LAK-457
 @list	U+124F8
 @ucun	𒓸
 @uage	8.0
@@ -27603,7 +27608,7 @@
 @list	LAK470
 @oid	o0000380
 @list	RSP101
-@uname	CUNEIFORM SIGN LAK470
+@uname	CUNEIFORM SIGN LAK-470
 @list	U+124F9
 @ucun	𒓹
 @uage	8.0
@@ -27621,7 +27626,7 @@
 @list	LAK483
 @oid	o0000382
 @list	RSP367
-@uname	CUNEIFORM SIGN LAK483
+@uname	CUNEIFORM SIGN LAK-483
 @list	U+124FA
 @ucun	𒓺
 @uage	8.0
@@ -27640,7 +27645,7 @@
 @list	LAK490
 @oid	o0000384
 @list	RSP429
-@uname	CUNEIFORM SIGN LAK490
+@uname	CUNEIFORM SIGN LAK-490
 @list	U+124FB
 @ucun	𒓻
 @uage	8.0
@@ -27670,7 +27675,7 @@
 @list	PTACE276
 @lit	Krecher, Bilinguismo a Ebla (1984), 142; Pomponio, UF 17, 237
 @note	After the ED period the sign disappears and its values are absorbed by TAK₄(LAK292) = ŠU@90. That LAK292 already had a tak₄ value is supported by variants in EDPV-A 210 (tag vs. LAK292). In earlier literature LAK492 is described as DUB₂.
-@uname	CUNEIFORM SIGN LAK492
+@uname	CUNEIFORM SIGN LAK-492
 @list	U+124FC
 @ucun	𒓼
 @uage	8.0
@@ -27685,7 +27690,7 @@
 @sign LAK495
 @list	LAK495
 @oid	o0000387
-@uname	CUNEIFORM SIGN LAK495
+@uname	CUNEIFORM SIGN LAK-495
 @list	U+124FE
 @ucun	𒓾
 @uage	8.0
@@ -27734,7 +27739,7 @@
 @sign LAK550
 @list	LAK550
 @oid	o0000397
-@uname	CUNEIFORM SIGN LAK550
+@uname	CUNEIFORM SIGN LAK-550
 @list	U+124FF
 @ucun	𒓿
 @uage	8.0
@@ -27766,7 +27771,7 @@
 @sign LAK608
 @list	LAK608
 @oid	o0000402
-@uname	CUNEIFORM SIGN LAK608
+@uname	CUNEIFORM SIGN LAK-608
 @list	U+12500
 @ucun	𒔀
 @uage	8.0
@@ -27791,7 +27796,7 @@
 @list	LAK618
 @oid	o0001865
 @list	BAU301
-@uname	CUNEIFORM SIGN LAK617 TIMES ASH
+@uname	CUNEIFORM SIGN LAK-617 TIMES ASH
 @list	U+12502
 @ucun	𒔂
 @uage	8.0
@@ -27810,7 +27815,7 @@
 @list	BAU302
 @list	ELLES305
 @list	PTACE263
-@uname	CUNEIFORM SIGN LAK617 TIMES BAD
+@uname	CUNEIFORM SIGN LAK-617 TIMES BAD
 @list	U+12503
 @ucun	𒔃
 @uage	8.0
@@ -27831,7 +27836,7 @@
 @sign |LAK617×KU₃|
 @list	LAK620
 @oid	o0001867
-@uname	CUNEIFORM SIGN LAK617 TIMES KU3
+@uname	CUNEIFORM SIGN LAK-617 TIMES KU3
 @list	U+12505
 @ucun	𒔅
 @uage	8.0
@@ -27847,7 +27852,7 @@
 @sign |LAK617×TAR|
 @list	LAK626
 @oid	o0001870
-@uname	CUNEIFORM SIGN LAK617 TIMES TAR
+@uname	CUNEIFORM SIGN LAK-617 TIMES TAR
 @list	U+12507
 @ucun	𒔇
 @uage	8.0
@@ -27858,7 +27863,7 @@
 @sign |LAK617×TE|
 @list	LAK624
 @oid	o0001871
-@uname	CUNEIFORM SIGN LAK617 TIMES TE
+@uname	CUNEIFORM SIGN LAK-617 TIMES TE
 @list	U+12508
 @ucun	𒔈
 @uage	8.0
@@ -27869,7 +27874,7 @@
 @sign |LAK617×U₂|
 @list	LAK625
 @oid	o0001874
-@uname	CUNEIFORM SIGN LAK617 TIMES U2
+@uname	CUNEIFORM SIGN LAK-617 TIMES U2
 @list	U+12509
 @ucun	𒔉
 @uage	8.0
@@ -27880,7 +27885,7 @@
 @sign |LAK617×UD|
 @list	LAK623
 @oid	o0001872
-@uname	CUNEIFORM SIGN LAK617 TIMES UD
+@uname	CUNEIFORM SIGN LAK-617 TIMES UD
 @list	U+1250A
 @ucun	𒔊
 @uage	8.0
@@ -27891,7 +27896,7 @@
 @sign |LAK617×URUDA|
 @list	LAK627
 @oid	o0001873
-@uname	CUNEIFORM SIGN LAK617 TIMES URUDA
+@uname	CUNEIFORM SIGN LAK-617 TIMES URUDA
 @list	U+1250B
 @ucun	𒔋
 @uage	8.0
@@ -27902,7 +27907,7 @@
 @sign LAK636
 @list	LAK636
 @oid	o0000405
-@uname	CUNEIFORM SIGN LAK636
+@uname	CUNEIFORM SIGN LAK-636
 @list	U+1250C
 @ucun	𒔌
 @uage	8.0
@@ -27953,7 +27958,7 @@
 @sign |LAK648×DUB|
 @list	LAK717
 @oid	o0001877
-@uname	CUNEIFORM SIGN LAK648 TIMES DUB
+@uname	CUNEIFORM SIGN LAK-648 TIMES DUB
 @list	U+1250E
 @ucun	𒔎
 @uage	8.0
@@ -27966,7 +27971,7 @@
 @sign |LAK648×GA|
 @list	LAK714
 @oid	o0001878
-@uname	CUNEIFORM SIGN LAK648 TIMES GA
+@uname	CUNEIFORM SIGN LAK-648 TIMES GA
 @list	U+1250F
 @ucun	𒔏
 @uage	8.0
@@ -27977,7 +27982,7 @@
 @sign |LAK648×IGI@g|
 @list	LAK651
 @oid	o0001879
-@uname	CUNEIFORM SIGN LAK648 TIMES IGI GUNU
+@uname	CUNEIFORM SIGN LAK-648 TIMES IGI GUNU
 @list	U+12511
 @ucun	𒔑
 @uage	8.0
@@ -28005,7 +28010,7 @@
 @sign |LAK648×(PAP.PAP.LU₃)|
 @list	LAK720
 @oid	o0001875
-@uname	CUNEIFORM SIGN LAK648 TIMES PAP PLUS PAP PLUS LU3
+@uname	CUNEIFORM SIGN LAK-648 TIMES PAP PLUS PAP PLUS LU3
 @list	U+12513
 @ucun	𒔓
 @uage	8.0
@@ -28016,7 +28021,7 @@
 @sign |LAK648×(ŠEŠ.KI)|
 @list	LAK719
 @oid	o0001876
-@uname	CUNEIFORM SIGN LAK648 TIMES SHESH PLUS KI
+@uname	CUNEIFORM SIGN LAK-648 TIMES SHESH PLUS KI
 @list	U+12514
 @ucun	𒔔
 @uage	8.0
@@ -28027,7 +28032,7 @@
 @sign |LAK648×UD|
 @list	LAK718
 @oid	o0001883
-@uname	CUNEIFORM SIGN LAK648 TIMES UD
+@uname	CUNEIFORM SIGN LAK-648 TIMES UD
 @list	U+12515
 @ucun	𒔕
 @uage	8.0
@@ -28066,7 +28071,7 @@
 @sign LAK724
 @list	LAK724
 @oid	o0000411
-@uname	CUNEIFORM SIGN LAK724
+@uname	CUNEIFORM SIGN LAK-724
 @list	U+12517
 @ucun	𒔗
 @uage	8.0
@@ -28084,7 +28089,7 @@
 @list	LAK749
 @oid	o0000415
 @list	RSP436
-@uname	CUNEIFORM SIGN LAK749
+@uname	CUNEIFORM SIGN LAK-749
 @list	U+12518
 @ucun	𒔘
 @uage	8.0
@@ -28252,6 +28257,7 @@
 @oid	o0000298
 @list	KWU634
 @list	REC145
+@uname	CUNEIFORM SIGN KU4 VARIANT FORM
 @ucun	𒆮
 @inote	@aka KU₄~a (repeated @aka KU₄ is redundant and not allowed)
 @lit	Krecher 1973 https://doi.org/10.1515/zava.1973.63.2.145 p. 232
@@ -28278,7 +28284,7 @@
 @list	HZL370
 @list	MZL860
 @list	SLLHA597
-@uname	VARIANT CUNEIFORM NUMERIC SIGN LIMMU VARIANT B
+@uname	CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU
 @list	U+1243C
 @ucun	𒐼
 @uage	5.0
@@ -28326,7 +28332,7 @@
 @sign- LIMMU₂
 @inote double-encoded in Unicode 5.0 as both LIMMU2 and NUMERIC FOUR ASH
 @oid	o0000430
-@uname	CUNEIFORM NUMERIC SIGN LIMMU2
+@uname	CUNEIFORM SIGN LIMMU2
 @list	U+121F9
 @ucun	𒇹
 @uage	5.0
@@ -29989,7 +29995,7 @@
 @sign |MA@g×TAK₄|
 @oid	o0001989
 @list	ELLES164
-@uname	CUNEIFORM SIGN MA GUNU TIMES TAK4
+@uname	CUNEIFORM SIGN MA TIMES TAK4
 @list	U+12221
 @ucun	𒈡
 @uage	5.0
@@ -30673,7 +30679,7 @@
 @list	MZL825
 @list	RSP039^b
 @list	SLLHA570
-@uname	CUNEIFORM NUMERIC SIGN MIN
+@uname	CUNEIFORM SIGN MIN
 @list	U+1222B
 @ucun	𒈫
 @uage	5.0
@@ -30801,6 +30807,7 @@
 @list	LAK200
 @oid	o0002709
 @inote	Nisaba 25 p.29
+@uname	CUNEIFORM SIGN SHE OVER SHE
 @list	U+12532
 @ucun	𒔲
 @uage	8.0
@@ -33374,7 +33381,7 @@
 @sign |NINDA₂×LAK50|
 @list	LAK098
 @oid	o0002106
-@uname	CUNEIFORM SIGN NINDA2 TIMES LAK50
+@uname	CUNEIFORM SIGN NINDA2 TIMES LAK-050
 @list	U+12527
 @ucun	𒔧
 @uage	8.0
@@ -34059,7 +34066,7 @@
 @sign |NU₁₁&NU₁₁.BUR&BUR|
 @oid	o0002163
 @inote	UNICODE: The compound belongs to the NU₁₁ (not ŠIR) family and the Unicode name and signform should be corrected.
-@uname	CUNEIFORM SIGN SHIR OVER SHIR BUR OVER BUR
+@uname	CUNEIFORM SIGN NU11 OVER NU11 BUR OVER BUR
 @list	U+122D5
 @ucun	𒋕
 @uage	5.0
@@ -34605,7 +34612,7 @@
 @list	ELLES233
 @oid	o0000374
 @list	RSP350
-@uname	CUNEIFORM SIGN LAK449
+@uname	CUNEIFORM SIGN LAK-449
 @list	U+124F1
 @ucun	𒓱
 @uage	8.0
@@ -34672,7 +34679,7 @@
 @form LAK449
 @list	LAK449
 @oid	o0000374
-@uname	CUNEIFORM SIGN LAK449
+@uname	CUNEIFORM SIGN LAK-449
 @list	RSP350
 @list	U+124F1
 @ucun	𒓱
@@ -37450,7 +37457,7 @@
 @sign |SAG×TAK₄@f|
 @list	LAK310
 @oid	o0002285
-@uname	CUNEIFORM SIGN SAG TIMES TAK4 FRONT
+@uname	CUNEIFORM SIGN TAK4 PLUS SAG
 @list	U+12539
 @ucun	𒔹
 @uage	8.0
@@ -38519,7 +38526,7 @@
 @sign |SAR×ŠE|
 @list	LAK216
 @oid	o0002335
-@uname	CUNEIFORM SIGN SAR TIMES SHE
+@uname	CUNEIFORM SIGN SHE PLUS SAR
 @list	U+12535
 @ucun	𒔵
 @uage	8.0
@@ -39889,6 +39896,7 @@
 @form |ŠA₃×(U.A)|
 @oid	o0002694
 @inote	dcclt !sg
+@uname	CUNEIFORM SIGN SHA3 TIMES U PLUS A
 @list	U+122B6
 @ucun	𒊶
 @uage	5.0
@@ -40167,7 +40175,7 @@
 @list	MZL632
 @list	SLLHA396
 @list	SYA202
-@uname	CUNEIFORM NUMERIC SIGN SHAR2
+@uname	CUNEIFORM SIGN SHAR2
 @list	U+122B9
 @ucun	𒊹
 @uage	5.0
@@ -40611,7 +40619,7 @@
 @form |ŠE@v+NAM₂|
 @oid	o0002733
 @lit	MSL 12, 12
-@uname	CUNEIFORM SIGN SHE VARIANT FORM JOINING NAM2
+@uname	CUNEIFORM SIGN SHE PLUS NAM2
 @list	U+12534
 @ucun	𒔴
 @uage	8.0
@@ -40751,7 +40759,6 @@
 @list	RSP380bis
 @inote	missing compounds for lak.atf
 @upua	U+F0074
-@uname U OVER U PLUS BESIDE OVER BUR
 @ucun	󰁴
 @@
 @end sign
@@ -40833,7 +40840,7 @@
 @list	ABZL387
 @list	RSP179
 @list	U+124E3
-@uname	CUNEIFORM SIGN LAK219
+@uname	CUNEIFORM SIGN LAK-219
 @ucun	𒓣
 @uage	8.0
 @link	eBL LAK219 https://www.ebl.lmu.de/signs/LAK219
@@ -40957,7 +40964,7 @@
 @sign |(ŠE&ŠE).HUB₂|
 @list	LAK207
 @oid	o0000634
-@uname	CUNEIFORM SIGN SHE OVER SHE PLUS HUB2
+@uname	CUNEIFORM SIGN SHE PLUS HUB2
 @list	U+12533
 @ucun	𒔳
 @uage	8.0
@@ -41403,6 +41410,7 @@
 @form LAK636
 @list	LAK636
 @oid	o0000405
+@uname	CUNEIFORM SIGN LAK-636
 @list	U+1250C
 @ucun	𒔌
 @uage	8.0
@@ -43923,7 +43931,7 @@
 @list	LAK051
 @oid	o0031506
 @aka	LAK51
-@uname	CUNEIFORM SIGN LAK51
+@uname	CUNEIFORM SIGN LAK-051
 @list	U+124DA
 @ucun	𒓚
 @uage	8.0
@@ -44360,7 +44368,7 @@
 @aka	|TUM×3(DIŠ)|
 @list	PTACE225
 @inote	Do the TUM group need further specification of whether the waist is "gunified" or not?
-@uname	CUNEIFORM SIGN TUM TIMES DISH PLUS DISH PLUS DISH
+@uname	CUNEIFORM SIGN TUM TIMES THREE DISH
 @list	U+1253B
 @ucun	𒔻
 @uage	8.0
@@ -44611,7 +44619,7 @@
 @list	RSP008 ŠUŠ 𒌋 šuš šu₄ .5 .6 .7
 @list	SLLHA411
 @list	SYA213
-@uname	CUNEIFORM NUMERIC SIGN U
+@uname	CUNEIFORM SIGN U
 @list	U+1230B
 @ucun	𒌋
 @uage	5.0
@@ -44892,7 +44900,7 @@
 @oid	o0018530
 @list	ELLES038
 @inote	this is AŠ+GAN taken as allograph of GAN in DCCLT ED Fara pots but perhaps better to take as allograph of U.GAN
-@uname	CUNEIFORM SIGN LAK62
+@uname	CUNEIFORM SIGN LAK-062
 @list	U+124DB
 @ucun	𒓛
 @uage	8.0
@@ -45139,7 +45147,7 @@
 @list	ELLES209
 @list	PTACE302
 @inote	epsd2 e₂-saŋₓ = esaŋ[store]
-@uname	CUNEIFORM SIGN LAK384
+@uname	CUNEIFORM SIGN LAK-384
 @list	U+124EE
 @ucun	𒓮
 @uage	8.0
@@ -47769,6 +47777,7 @@
 @form |LAK648×GA|
 @list	LAK714
 @oid	o0001878
+@uname	CUNEIFORM SIGN LAK-648 TIMES GA
 @list	U+1250F
 @ucun	𒔏
 @uage	8.0
@@ -47970,7 +47979,7 @@
 @list	PTACE082
 @inote	Ebla sign list si-la-ga-um
 @inote	Probably a better description than URU×(MIN.IGI) or URU×IGI
-@uname	CUNEIFORM SIGN LAK648 TIMES IGI
+@uname	CUNEIFORM SIGN LAK-648 TIMES IGI
 @list	U+12510
 @ucun	𒔐
 @uage	8.0
@@ -48025,7 +48034,7 @@
 @sign |URU×LAK668|
 @list	LAK600
 @oid	o0002570
-@uname	CUNEIFORM SIGN URU TIMES LAK668
+@uname	CUNEIFORM SIGN URU TIMES LAK-668
 @list	U+1253F
 @ucun	𒔿
 @uage	8.0
@@ -48090,7 +48099,7 @@
 @list	LAK648
 @list	RSP269
 @oid	o0000408
-@uname	CUNEIFORM SIGN LAK648
+@uname	CUNEIFORM SIGN LAK-648
 @list	U+1250D
 @ucun	𒔍
 @uage	8.0
@@ -48337,7 +48346,7 @@
 @oid	o0001884
 @list	ELLES318
 @list	PTACE083
-@uname	CUNEIFORM SIGN LAK648 TIMES URUDA
+@uname	CUNEIFORM SIGN LAK-648 TIMES URUDA
 @list	U+12516
 @ucun	𒔖
 @uage	8.0
@@ -48369,7 +48378,7 @@
 @ref	OIP 099, 267 = cdli:P226011 o ix 5'
 @note	OIP 099, 268 o vii' 17; OIP 099, 259 o iii' 2
 @lit	OIP 099, p.55
-@uname	CUNEIFORM SIGN URU GUNU
+@uname	CUNEIFORM SIGN URU TIMES LU3
 @list	U+12540
 @ucun	𒕀
 @uage	8.0
@@ -49825,7 +49834,6 @@
 @oid	o0000138
 @list	GCSL071
 @list	RSP361bis
-@uname	CUNEIFORM SIGN UMUM TIMES KASKAL
 @v	abzu₂
 @lit	1987 A. Cavigneaux, ASJ 9 46-47.
 @link	eBL |UMUM×KASKAL| https://www.ebl.lmu.de/signs/|UMUM×KASKAL|
@@ -49922,7 +49930,7 @@
 @sign |ZU₅×(DIŠ@t.DIŠ@t.DIŠ@t)|
 @list	LAK118
 @oid	o0002679
-@uname	CUNEIFORM SIGN ZU5 TIMES DISH TENU PLUS DISH TENU PLUS DISH TENU
+@uname	CUNEIFORM SIGN ZU5 TIMES THREE DISH TENU
 @list	U+12543
 @ucun	𒕃
 @uage	8.0
@@ -51546,7 +51554,7 @@
 @list	HZL374
 @list	MZL867
 @list	SLLHA598d
-@uname	CUNEIFORM NUMERIC SIGN VARIANT FORM USSU
+@uname	CUNEIFORM NUMERIC SIGN EIGHT VARIANT FORM USSU
 @list	U+12444
 @ucun	𒑄
 @uage	5.0
